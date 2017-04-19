@@ -20,6 +20,17 @@ class Main(object):
         return url_dict
 
     @staticmethod
+    def view_downloaded_data():
+        crawl_dict = Main.parse_file("./resource/url_list")
+        total_numbers = 0
+        for location in crawl_dict.keys():
+            file_name = "./data/post/%s.dat" % location
+            positions = StoreHelper.load_data(file_name, [])
+            print ("Find %i record in %s" % (len(positions), file_name))
+            total_numbers += len(positions)
+        print ("In summary, total downloaded %i records!" % total_numbers)
+
+    @staticmethod
     def run_script():
         # Step 1, read url from text file
         crawl_dict = Main.parse_file("./resource/url_list")

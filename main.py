@@ -60,4 +60,4 @@ class Main(object):
 
 
 if __name__ == '__main__':
-    Main.run_script()
+    Main.view_downloaded_data()

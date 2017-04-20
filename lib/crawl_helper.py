@@ -18,7 +18,7 @@ class CrawlHelper(object):
 
     @staticmethod
     def get_total_items(web_source):
-        numbers = re.findall('([0-9]*) Jobs Found', web_source)
+        numbers = re.findall('([0-9]*)[+]? Jobs Found', web_source)
         try:
             return int(numbers[0]) if len(numbers) > 0 else 0  # Default value for total number
         except ValueError:
@@ -41,8 +41,12 @@ class CrawlHelper(object):
         print("Get web source from %s" % web_url)
         if response.url != web_url:
             print ("Directed url: %s" % response.url)
-        soup = BeautifulSoup(response.content.decode('utf-8'), 'lxml')
-        return soup.prettify().encode('utf-8')
+        try:
+            soup = BeautifulSoup(response.content.decode('utf-8',  'ignore'), 'lxml')
+            return soup.prettify().encode('utf-8')
+        except UnicodeDecodeError:
+            print ("Unicode error happended when crawl %s" % web_url)
+            return ""
 
     @staticmethod
     def get_all_job_url(web_url):

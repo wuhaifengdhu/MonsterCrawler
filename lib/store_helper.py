@@ -30,6 +30,33 @@ class StoreHelper(object):
     def is_file_exist(file_path):
         return os.path.exists(file_path)
 
+    @staticmethod
+    def save_file(data, file_name):
+        out = open(file_name, 'wb')
+        out.write(data)
+        out.close()
+
+    @staticmethod
+    def parse_file(file_path):
+        url_dict = {}
+        with open(file_path) as f:
+            content = f.readlines()
+        current_key = None
+        for line in content:
+            if line.startswith("#"):
+                current_key = line[1:].replace(" ", "")[:-1]
+                url_dict[current_key] = []
+            else:
+                url_dict[current_key].append(line[:-1])
+        return url_dict
+
+    @staticmethod
+    def read_file(file_name):
+        file_in = open(file_name, 'rb')
+        data = file_in.read()
+        file_in.close()
+        return data
+
 
 if __name__ == "__main__":
     StoreHelper.store_data({"wu": "haifeng"}, "../data/post/hi.dat")

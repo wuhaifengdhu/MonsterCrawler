@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 from lib.crawl_helper import CrawlHelper
 from lib.store_helper import StoreHelper
+from lib.html_helper import HTMLHelper
 
 
 class Main(object):

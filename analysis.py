@@ -15,12 +15,13 @@ class Main(object):
     def convert_position():
         skills_dict = StoreHelper.load_data("./resource/skills.dat", {})
         discipline_dict = StoreHelper.load_data("./resource/discipline.dat", {})
+        education_dict = StoreHelper.load_data("./resource/education.dat", {})
         for i in range(4980):
             text_file = "./data/datascientist/%04d.txt" % i
             word_file = "./data/words/%04d.txt" % i
             context = StoreHelper.read_file(text_file)
             position_helper = PositionHelper(context)
-            position_dict_list = position_helper.convert(skills_dict, discipline_dict)
+            position_dict_list = position_helper.convert(skills_dict, discipline_dict, education_dict)
             StoreHelper.save_file("\n".join([str(item) for item in position_dict_list]), word_file)
 
     @staticmethod
@@ -28,11 +29,12 @@ class Main(object):
         blob_dict_list = []
         skills_dict = StoreHelper.load_data("./resource/skill.dat", {})
         discipline_dict = StoreHelper.load_data("./resource/discipline.dat", {})
+        education_dict = StoreHelper.load_data("./resource/education.dat", {})
         for i in range(4980):
             text_file = "./data/datascientist/%04d.txt" % i
             context = StoreHelper.read_file(text_file)
             position_helper = PositionHelper(context)
-            blob_dict_list.append(position_helper.convert(skills_dict, discipline_dict)[3])
+            blob_dict_list.append(position_helper.convert(skills_dict, discipline_dict, education_dict)[4])
 
         tfidf = TFIDF(blob_dict_list)
         for i in range(4980):
@@ -88,4 +90,4 @@ class Main(object):
 
 
 if __name__ == "__main__":
-    Main.convert_position()
+    Main.get_tfidf()

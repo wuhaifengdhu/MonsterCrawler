@@ -8,14 +8,14 @@ from store_helper import StoreHelper
 
 class ExcelHelper(object):
     @staticmethod
-    def convert_excel_to_dict(excel_file, dict_file):
+    def convert_excel_to_dict(excel_file, dict_file, threshold=5):
         header, raw_data = ExcelHelper.read_excel(excel_file)
         row_number, column_number = raw_data.shape
         if column_number != 2:
             print("Attention! Excel file more than two column, please have a check! Use the first two column as dict")
         data_dict = {raw_data[i][0]: raw_data[i][1] for i in range(row_number)}
         # remove single words
-        data_dict = {key.lower(): value for key, value in data_dict.items() if value > 5}
+        data_dict = {key.lower(): value for key, value in data_dict.items() if value > threshold}
         StoreHelper.store_data(data_dict, dict_file)
         print ("Generalized successfully and store dict to data file %s!" % dict_file)
 
@@ -62,6 +62,7 @@ class ExcelHelper(object):
 if __name__ == '__main__':
     ExcelHelper.convert_excel_to_dict("../resource/discipline.xlsx", "../resource/discipline.dat")
     ExcelHelper.convert_excel_to_dict("../resource/skills.xlsx", "../resource/skills.dat")
+    ExcelHelper.convert_excel_to_dict("../resource/education.xlsx", "../resource/education.dat", 0)
     # _header, _data = ExcelHelper.read_excel('test.xls')
     # _row, _col = _data.shape
     # _mask = [[] for i in range(_col)]

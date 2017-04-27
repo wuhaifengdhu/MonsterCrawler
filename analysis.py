@@ -13,7 +13,7 @@ import os
 class Main(object):
     @staticmethod
     def convert_position():
-        skills_dict = StoreHelper.load_data("./resource/skill.dat", {})
+        skills_dict = StoreHelper.load_data("./resource/skills.dat", {})
         discipline_dict = StoreHelper.load_data("./resource/discipline.dat", {})
         for i in range(4980):
             text_file = "./data/datascientist/%04d.txt" % i
@@ -88,4 +88,4 @@ class Main(object):
 
 
 if __name__ == "__main__":
-    Main.get_tfidf()
+    Main.convert_position()

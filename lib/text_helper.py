@@ -15,9 +15,9 @@ class TextHelper(object):
         pattern_string = 'one[+ -]+year[s]?|two[+ -]+year[s]?|three[+ -]+year[s]?|four[+ -]+year[s]?|' \
                          'five[+ -]+year[s]?|six[+ -]+year[s]?|seven[+ -]+year[s]?|eight[+ -]+year[s]?|' \
                          'night[+ -]+year[s]?|ten[+ -]+year[s]?'
-        match_result = TextHelper.get_pattern_in_context(context, '\d+[+]? years')
-        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*-\s*\d+ years'))
-        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*to\s*\d+ years'))
+        match_result = TextHelper.get_pattern_in_context(context, '\d+\s*[+]?\s*years')
+        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*-\s*\d+\s*years'))
+        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*to\s*\d+\s*years'))
         match_result.extend(TextHelper.get_pattern_in_context(context, pattern_string))
         return match_result
 

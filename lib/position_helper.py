@@ -17,7 +17,7 @@ class PositionHelper(object):
         return TextHelper.get_years_pattern(self.raw_position)
 
     def _get_skill_words(self, skill_dict):
-        return TextHelper.get_dict_pattern(self.raw_position, skill_dict)
+        return TextHelper.get_dict_pattern(self.raw_position, skill_dict, 5)
 
     def _get_discipline_words(self, discipline_dict):
         return TextHelper.get_dict_pattern(self.raw_position, discipline_dict, 5)

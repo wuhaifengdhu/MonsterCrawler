@@ -25,14 +25,12 @@ class DictHelper(object):
             _dict[key] = [value]
 
     @staticmethod
-    def merge_dict(_dict1, _dict2):
-        total_dict = copy.deepcopy(_dict1)
-        for key, value in _dict2.items():
+    def merge_dict(total_dict, dict_to_add):
+        for key, value in dict_to_add.items():
             if key in total_dict.keys():
                 total_dict[key] += value
             else:
                 total_dict[key] = value
-        return total_dict
 
     @staticmethod
     def get_sorted_list(_dict, sorted_by_key=False):

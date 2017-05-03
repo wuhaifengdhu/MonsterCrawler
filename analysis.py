@@ -27,6 +27,7 @@ class Main(object):
     @staticmethod
     def get_tfidf():
         blob_dict_list = []
+        total_dict = {}
         skills_dict = StoreHelper.load_data("./resource/skill.dat", {})
         discipline_dict = StoreHelper.load_data("./resource/discipline.dat", {})
         education_dict = StoreHelper.load_data("./resource/education.dat", {})
@@ -38,11 +39,11 @@ class Main(object):
 
         tfidf = TFIDF(blob_dict_list)
         for i in range(4980):
-            tfidf_file = "./data/tfidf/%04d.txt" % i
+            print ("Working on %i article!" % i)
             tf_idf_dict = tfidf.get_tf_idf(blob_dict_list[i])
-            tf_idf_dict = {key: "%.6f" % value for key, value in tf_idf_dict.items()}
-            StoreHelper.save_file(str(DictHelper.get_sorted_list(tf_idf_dict)), tfidf_file)
-
+            # tf_idf_dict = {key: "%.6f" % value for key, value in tf_idf_dict.items()}
+            DictHelper.merge_dict(total_dict, tf_idf_dict)
+        StoreHelper.store_data(total_dict, "./data/tfidf.dat")
 
     @staticmethod
     def get_frequency_from_file(file_name):
@@ -90,4 +91,8 @@ class Main(object):
 
 
 if __name__ == "__main__":
-    Main.get_tfidf()
+    # Main.get_tfidf()
+    data_dict = StoreHelper.load_data('./data/tfidf.dat', {})
+    data_list = DictHelper.get_sorted_list(data_dict)
+    store_str = '\n'.join(["%s:%.6f" % (key, value) for key, value in data_list])
+    StoreHelper.save_file(store_str, './data/tfidf.txt')

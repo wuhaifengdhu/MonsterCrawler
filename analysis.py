@@ -94,5 +94,5 @@ if __name__ == "__main__":
     # Main.get_tfidf()
     data_dict = StoreHelper.load_data('./data/tfidf.dat', {})
     data_list = DictHelper.get_sorted_list(data_dict)
-    store_str = '\n'.join(["%s:%.6f" % (key, value) for key, value in data_list])
-    StoreHelper.save_file(store_str, './data/tfidf.txt')
+    store_str = '\n'.join(["%s:%.6f" % (key, value / 4980) for key, value in data_list])
+    StoreHelper.save_file(store_str, './data/tfidf_average.txt')

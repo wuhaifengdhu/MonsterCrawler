@@ -58,11 +58,11 @@ class ExcelHelper(object):
         style = 'pattern: pattern solid, fore_colour %s' % color_dic[mask_value]
         return excel.easyxf(style)
 
-
 if __name__ == '__main__':
-    ExcelHelper.convert_excel_to_dict("../resource/discipline.xlsx", "../resource/discipline.dat")
-    ExcelHelper.convert_excel_to_dict("../resource/skills.xlsx", "../resource/skills.dat")
-    ExcelHelper.convert_excel_to_dict("../resource/education.xlsx", "../resource/education.dat", 0)
+    # ExcelHelper.convert_excel_to_dict("../resource/discipline.xlsx", "../resource/discipline.dat")
+    # ExcelHelper.convert_excel_to_dict("../resource/skills.xlsx", "../resource/skills.dat")
+    # ExcelHelper.convert_excel_to_dict("../resource/education.xlsx", "../resource/education.dat", 0)
+    ExcelHelper.convert_excel_to_dict("../resource/features.xlsx", "../resource/feature.dat", 0)
     # _header, _data = ExcelHelper.read_excel('test.xls')
     # _row, _col = _data.shape
     # _mask = [[] for i in range(_col)]

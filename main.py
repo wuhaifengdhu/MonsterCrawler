@@ -32,6 +32,29 @@ class Main(object):
         print ("In summary, total downloaded %i records!" % total_numbers)
 
     @staticmethod
+    def extract_download_data():
+        crawl_dict = Main.parse_file("./resource/url_list")
+        total_numbers = 0
+        for location in crawl_dict.keys():
+            file_name = "./data/post/%s.dat" % location
+            positions = StoreHelper.load_data(file_name, [])
+            print ("Find %i record in %s" % (len(positions), file_name))
+            for url, position in positions:
+                # step 1, store origin file
+                # output1 = "./data/text/%04d.html" % total_numbers
+                # StoreHelper.save_file(position, output1)
+                output2 = "./data/clean_post_without_header/%04d.dat" % total_numbers
+                print ("work on position: %4d" % total_numbers)
+                status, content = HTMLHelper.get_post(position)
+                if status is False:
+                    print ("Error happen on extract %s" % url)
+                    # StoreHelper.save_file(position, output2)
+                else:
+                    StoreHelper.save_file(HTMLHelper.post_clean(content), output2)
+                total_numbers += 1
+        print ("In summary, total downloaded %i records!" % total_numbers)
+
+    @staticmethod
     def run_script():
         # Step 1, read url from text file
         crawl_dict = Main.parse_file("./resource/url_list")
@@ -61,4 +84,4 @@ class Main(object):
 
 
 if __name__ == '__main__':
-    Main.view_downloaded_data()
+    Main.extract_download_data()

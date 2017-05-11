@@ -1,0 +1,35 @@
+                About Us:
+               At MiSource Inc., we connect individuals from a variety of industries with respected companies, both nationally and internationally. Each day, our Recruiters are presenting our clients with talented industry professionals for their most in-demand positions. To accomplish this, the MiSource staffing team will invest the time to understand your goals, work experiences, and career objectives. To search for other exciting opportunities in your area, visit our website at
+                Data Scientist
+               Our client is a leader in the trucking and transportation industry. They have set the industry standard in technology and operations. This is an exciting and growing company!
+               ESSENTIAL DUTIES and RESPONSIBILITIES
+                Develop relationships with business partners to enhance understanding of business issues and create value for the organization.
+                Identify and prioritize enterprise data analytics opportunities.
+                Lead data mining and analytics projects with high potential return.
+                Invent and quickly iterate novel solutions to challenging data-related problems.
+                Interpret the results of analyses to drive insight.
+                Develop scalable and efficient methods for large scale data analyses and model development and deployment.
+                Collaborate with developers, program managers, and product managers in an open, creative environment.
+                Incorporate a continuous improvement model enhancement practice in all analytics applications.
+                Lead the development of innovative and next generation supply chain insight analytics services.
+               KEY REQUIREMENTS
+                Advanced Degree (Ph.D. preferred) with a focus on Analytics, Statistical Sciences, Operations Research, Economics, Finance or a related Business quantitative discipline
+                5+ years of real world analytical solution building experience
+                Data mining technical knowledge and skills including: decision trees, multivariate analysis, segmentation modeling, factor analysis, regression analysis, forecasting, and machine learning
+                Expertise in R, SAS Enterprise Miner, or IBM SPSS Modeler or other analytical software
+                Intellectual curiosity and commitment to teaching data analytics concepts to others
+                Experience in leading and developing data science teams a plus
+                Contact
+               MiSource, Inc. PH: 877-543-9540
+                midatlanticrecruiters@misource.com
+              $(".CJT_jobBodyContent ul > br").remove();
+									$(".CJT_jobBodyContent li > br").remove();
+									$(".CJT_jobBodyContent p ~ br").remove();
+									$('img').error(function() {
+									  $(this).remove();
+									});
+									$('p').each(function(index, item) {
+										if($.trim($(item).text()) === "") {
+											$(item).slideUp(); // $(item).remove();
+										}
+									});

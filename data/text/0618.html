@@ -1,0 +1,920 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head id="Head1">
+  <title>
+   Sr Data Scientist - NLP and CODING REQ - NY, NY
+  </title>
+  <link href="/HHStyles.css" rel="Stylesheet" type="text/css"/>
+  <link href="http://www.cameroncraig.com/wp-content/themes/canvas5/css/layout.css" rel="Stylesheet" type="text/css"/>
+  <link href="http://www.cameroncraig.com/wp-content/themes/42205-Cameroncraig.com/style.css" rel="Stylesheet" type="text/css"/>
+  <link href="/HHStylesCustom.css" rel="Stylesheet" type="text/css"/>
+  <link href="http://fonts.googleapis.com/css?family=Lato:400,900italic" rel="stylesheet" type="text/css"/>
+  <script src="/js/jquery.min.js" type="text/javascript">
+  </script>
+  <meta content="initial-scale=1.0; maximum-scale=1.0; user-scalable=yes" name="viewport"/>
+  <link href="http://www.cameroncraig.com/files/2013/10/cameron-craig-group-favicon.png" rel="shortcut icon"/>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <meta content="summary" name="twitter:card"/>
+  <link href="Sr_Data_Scientist__NLP_and_CODING_REQ_J2470618.aspx" rel="canonical"/>
+  <script type="text/javascript">
+   if (typeof jQuery == 'undefined') {
+            document.write('<script type="text/javascript" src="/js/jquery.min.js"></' + 'script>');
+        }
+  </script>
+  <script src="../js/Highlight.js" type="text/javascript">
+  </script>
+  <script language="javascript" type="text/javascript">
+   jQuery(document).ready(function () {
+            if (document.getElementById("uxKeywords") != null)
+                var keywords = document.getElementById("uxKeywords").value.split(",");
+            jQuery.each(keywords, function (i) {
+                var keyword = keywords[i];
+                var wordsOnly = (keyword.indexOf(".") == -1 && keyword.indexOf("#") == -1 && keyword.indexOf("+") == -1 && keyword.indexOf("*") == -1);
+                jQuery("#dvSearchDetailContainer").highlight(jQuery.trim(keyword.replace("\*", "")), { wordsOnly: wordsOnly });
+            });
+        });
+
+        function ShowSendForm() {
+            if (document.getElementById('dvSendToFriend').style.display == 'none')
+                document.getElementById('dvSendToFriend').style.display = '';
+            else
+                document.getElementById('dvSendToFriend').style.display = 'none';
+        }
+
+        function RefreshImage(valImageId) {
+            var objImage = document.images[valImageId];
+            if (objImage == undefined) {
+                return;
+            }
+            var now = new Date();
+            objImage.src = objImage.src.split('?')[0] + '?x=' + now.toUTCString();
+        }
+
+        function SendEmail() {
+            var frm = document.getElementById("form1");
+            if (CheckForm()) {
+                jQuery.post("/JobSeeker/Handlers/SendToFriend.ashx", { FromEmail: frm.ctl00$ContentPlaceHolder1$txtFromEmail.value, ToEmail: frm.ctl00$ContentPlaceHolder1$txtToEmail.value, Subject: frm.ctl00$ContentPlaceHolder1$txtSubject.value, Message: frm.ctl00$ContentPlaceHolder1$txtBody.value, Captcha: frm.ctl00$ContentPlaceHolder1$txtTuring.value },
+				    function (data) {
+				        if (data.toLowerCase() == "sent") {
+				            alert("Your email has been sent.");
+				            ShowSendForm();
+				        }
+				        else
+				            alert("The following error occurred trying to send your email.\n" + data);
+				    });
+            }
+        }
+
+
+        function stringIsEmail(elementValue) {
+            var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+            return emailPattern.test(elementValue);
+        }
+
+
+        function CheckForm() {
+            var frmSendToFriend = document.getElementById("form1");
+            var prefix = "ctl00$ContentPlaceHolder1$";
+
+            if (!stringIsEmail(frmSendToFriend.elements[prefix + "txtFromEmail"].value)) {
+                alert("Please provide a valid to address.");
+                frmSendToFriend.elements[prefix + "txtFromEmail"].focus();
+                return false;
+            }
+
+            if (!stringIsEmail(frmSendToFriend.elements[prefix + "txtToEmail"].value)) {
+                alert("Please provide a valid to address.");
+                frmSendToFriend.elements[prefix + "txtToEmail"].focus();
+                return false;
+            }
+
+            if (frmSendToFriend.elements[prefix + "txtSubject"].value == "") {
+                alert("Please provide a subject.");
+                frmSendToFriend.elements[prefix + "txtSubject"].focus();
+                return false;
+            }
+
+            if (frmSendToFriend.elements[prefix + "txtBody"].value == "") {
+                alert("Please provide a message.");
+                frmSendToFriend.elements[prefix + "txtBody"].focus();
+                return false;
+            }
+
+            if (frmSendToFriend.elements[prefix + "txtTuring"].value == "") {
+                alert("Invalid verification code.");
+                frmSendToFriend.elements[prefix + "txtTuring"].focus();
+                return false;
+            }
+            return true;
+        }
+  </script>
+  <meta content="NEW job board for FREE access to over 5000 JOBS!  SEEKERS: SEARCH jobs, POST your resume, CREATE alerts. EMPLOYERS: SEARCH candidates, POST jobs, CREATE alerts. Make your next career move now!" name="description"/>
+  <meta content="Cameron,Craig,Group,Trey,Recruit,Search,Placement,Employ,Apply,Post,Job,Board,Career,Staff,Consult,Position,Opening,Hire,Human,Resource,Salary,Design,Draft,Build,Draw,Plan,CAD,PE,Professional,License,EIT,Training,FE,Project,Contract,Administration,Principal,Manage,Executive,IDP,Intern,Program,Director,AIA,NCARB,NSPE,ASCE,Architect,Interior,Landscape,Urban,Healthcare,Hospital,Medical,Criminal,Jail,Prison,Retail,Store,Residential,Single,Multi,Family,Commercial,Office,Industrial,Warehouse,Restaurant,Hospitality,Resort,Hotel,Education,School,K-12,Higher,Government,Municipal,Engineer,Civil,Transport,Road,Highway,DOT,Department,Track,Rail,Utility,Grading,Drainage,Water,Waste,Treatment,Remediation,Land,Development,Site,Mechanical,HVAC,Process,Electrical,NEC,Code,Structural,Structure,Bridge,Environment,Chemical,Manufacture,Manufacturing,Construction,Survey,CA,GIS,STADD,RA,permit" name="keywords"/>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6286056-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+  <meta content="Sr Data Scientist - NLP and CODING REQ - NY, NY" name="title"/>
+  <meta content=" Why is This a Great Opportunity? Our client is looking for a senior data scientist for our first-of-its-kind&amp;nbsp;sales analytics platform, which combines a proprietary, active-learning network with applications that are ready to use, data backed, and built on predictive analyses. Job Description Our client is looking for a senior data scientist for our first-of-its-kind&amp;nbsp;sales analytics platform, which combines a proprietary, active-learning network with applications that are ready to use, data backed, and built on predictive analyses. Our ideal candidate will have a strong computational background (complimented by Statistics/Math/Algorithmic expertise), a healthy portfolio of dealing with Big Data, a passion for empirical research, a solid understanding of&amp;nbsp;machine learning algorithms,  and will absolutely love finding meaning in&amp;nbsp;multiple imperfect, mixed, varied, and inconsistent data sets.&amp;nbsp; Qualifications You must be a team player who will thrive in a collaborative environment, and you must be driven to create&amp;nbsp;innovative, world-class products and get them to market.  Advanced degree in Applied Statistics, Economics, Computer Science, or Operations Research (Master’s degree required). 1&amp;#43; years experience in advanced analytics, model building, statistical modeling, optimization, and machine learning algorithms including supervised and unsupervised learning, boosting and ensemble methods. Ability to aggregate, normalize and process data by authoring predictive algorithms to synthesize and present actionable data insights. Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), R, Matlab, Spotfire, Tableau. Experience with data manipulation and analysis using SQL, noSQL, Java, C, SAS, and machine learning suites such as Mahout, Weka, and RapidMiner. Experience with cloud computing and Hadoop (MapReduce, PIG, HIVE) Experience with third-party API integration. NO CONTRACT or C2C / C2H, H1B WELCOME" name="og:description" property="og:description"/>
+  <meta content="https://secure.topechelon.com/agency_logos/BM18.gif" name="og:image" property="og:image"/>
+  <meta content="Sr Data Scientist - NLP and CODING REQ - NY, NY" name="og:title" property="og:title"/>
+  <meta content="Sr_Data_Scientist__NLP_and_CODING_REQ_J2470618.aspx" name="og:url" property="og:url"/>
+ </head>
+ <body class="page page-id-13 page-template-default chrome alt-style-default two-col-left width-980 two-col-left-980" style="">
+  <!-- BEGIN NEUVOO TRACKING CODE -->
+  <script src="http://neuvoo.ca/neuvoo_t.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   neuvoo_t('the-cameron-craig-group', document.referrer, document.URL);
+  </script>
+  <!-- END NEUVOO TRACKING CODE -->
+  <div class=" fb_reset" id="fb-root">
+   <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
+    <div>
+     <iframe allowtransparency="true" frameborder="0" name="f69f759a4" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=492521310762663&amp;domain=cameroncraig.com&amp;origin=1&amp;redirect_uri=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D28%23cb%3Df3aef2370c%26domain%3Dcameroncraig.com%26origin%3Dhttp%253A%252F%252Fcameroncraig.com%252Ff101076af8%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;">
+     </iframe>
+    </div>
+   </div>
+   <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
+    <div>
+     <iframe allowtransparency="true" aria-hidden="true" frameborder="0" id="fb_xdm_frame_http" name="fb_xdm_frame_http" scrolling="no" src="http://static.ak.facebook.com/connect/xd_arbiter.php?version=28#channel=f101076af8&amp;channel_path=%2Fhelp%2F%3Ffb_xd_fragment%23xd_sig%3Df214790328%26&amp;origin=http%3A%2F%2Fcameroncraig.com" style="border: none;" tab-index="-1" title="Facebook Cross Domain Communication Frame">
+     </iframe>
+     <iframe allowtransparency="true" aria-hidden="true" frameborder="0" id="fb_xdm_frame_https" name="fb_xdm_frame_https" scrolling="no" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=28#channel=f101076af8&amp;channel_path=%2Fhelp%2F%3Ffb_xd_fragment%23xd_sig%3Df214790328%26&amp;origin=http%3A%2F%2Fcameroncraig.com" style="border: none;" tab-index="-1" title="Facebook Cross Domain Communication Frame">
+     </iframe>
+    </div>
+   </div>
+  </div>
+  <script>
+   (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=492521310762663";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <div class="gradient" id="topNav">
+   <div class="col-full">
+    <ul class="combineNav">
+     <li>
+      <div class="menu-container">
+       <ul class="topNav-menu" id="menu-top-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-84" id="menu-item-84">
+         <a href="http://www.cameroncraig.com/">
+          Home
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17" id="menu-item-17">
+         <a href="http://www.cameroncraig.com/faq/">
+          FAQ
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19" id="menu-item-19">
+         <a href="http://jobs.cameroncraig.com/jobseeker/Profile_Quick.aspx?">
+          Create A Profile/Sign In
+         </a>
+        </li>
+       </ul>
+      </div>
+     </li>
+     <li>
+      <div class="fb-like fb_edge_widget_with_comment fb_iframe_widget" data-action="like" data-colorscheme="light" data-height="30px" data-href="http://www.cameroncraig.com" data-layout="button_count" data-send="false" data-show-faces="false" data-width="88px" fb-xfbml-state="rendered" id="fbLike">
+       <span style="height: 20px; width: 76px;">
+        <iframe class="fb_ltr" id="f1d75cc224" name="f155fdd48c" scrolling="no" src="http://www.facebook.com/plugins/like.php?action=like&amp;api_key=492521310762663&amp;channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D28%23cb%3Df2cc3cb064%26domain%3Dcameroncraig.com%26origin%3Dhttp%253A%252F%252Fcameroncraig.com%252Ff101076af8%26relation%3Dparent.parent&amp;colorscheme=light&amp;extended_social_context=false&amp;href=http%3A%2F%2Fwww.cameroncraig.com&amp;layout=button_count&amp;locale=en_US&amp;node_type=link&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=90" style="border: none; overflow: hidden; height: 20px; width: 76px;" title="Like this content on Facebook.">
+        </iframe>
+       </span>
+      </div>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div id="wrapper">
+   <div class="col-full" id="topHeader">
+    <div id="pageHeaderWrapper">
+     <div id="logo">
+      <a href="http://www.cameroncraig.com/" title="CameronCraigGroup">
+       <img alt="Cameron Craig Group" src="http://www.cameroncraig.com/files/2016/07/cameron-craig-logo-new.png"/>
+      </a>
+     </div>
+     <!-- /#logo -->
+     <div id="findJobBtn">
+      <a class="orange" href="http://jobs.cameroncraig.com/jobseeker/SearchResults.aspx?defaultSearch=1&amp;runsearch=1">
+       Find a Job
+      </a>
+     </div>
+    </div>
+   </div>
+   <!-- /#header -->
+   <!-- #content Starts -->
+   <div class="col-full" id="content">
+    <div id="main-sidebar-container">
+     <!-- #main Starts -->
+     <div id="main">
+      <div class="post-13 page type-page status-publish hentry">
+       <h1 class="title">
+        Job Seekers
+       </h1>
+       <div class="entry">
+        <form action="./Detail.aspx?jid=02470618&amp;utm_source=Monster" id="form1" method="post">
+         <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="/wEPDwUKLTM5Mjg0NzMwNA9kFgJmD2QWBGYPZBYCAgoPZBYCAgEPFgIeBFRleHQFUzxsaW5rIHJlbD0iY2Fub25pY2FsIiBocmVmPSJTcl9EYXRhX1NjaWVudGlzdF9fTkxQX2FuZF9DT0RJTkdfUkVRX0oyNDcwNjE4LmFzcHgiIC8+ZAIBD2QWAgIBD2QWHAIBDw8WBB8ABQlWaWV3IEpvYnMeB1Zpc2libGVoZGQCCQ8PFgIfAAUmU3IgRGF0YSBTY2llbnRpc3QgLSBOTFAgYW5kIENPRElORyBSRVFkZAIKDxYCHwFoZAILDw8WAh4LTmF2aWdhdGVVcmwFJ34vSm9iU2Vla2VyL1Byb2ZpbGUuYXNweD9qb2JpZD0wMjQ3MDYxOGRkAgwPZBYCAgEPDxYCHwAFBk5ZLCBOWWRkAg0PZBYCAgEPDxYCHwAFEyQxNDUsMDAwIC0gJDE2MCwwMDBkZAIODxYCHwFoFgICAQ8PFgIfAGVkZAIPD2QWAgIBDw8WAh8ABQtEaXJlY3QgSGlyZWRkAhAPZBYCAgEPDxYCHwAFE0JhY2hlbG9yIG9mIFNjaWVuY2VkZAIRD2QWAgIBDw8WAh8ABQxBcHIgMTIsIDIwMTdkZAISD2QWAgIBDw8WAh8ABQcyNDcwNjE4ZGQCEw8PFgIfAAX0ECA8aDM+V2h5IGlzIFRoaXMgYSBHcmVhdCBPcHBvcnR1bml0eT88L2gzPiA8cD5PdXIgY2xpZW50IGlzIGxvb2tpbmcgZm9yIGEgc2VuaW9yIGRhdGEgc2NpZW50aXN0IGZvciBvdXIgZmlyc3Qtb2YtaXRzLWtpbmQmbmJzcDtzYWxlcyBhbmFseXRpY3MgcGxhdGZvcm0sIHdoaWNoIGNvbWJpbmVzIGEgcHJvcHJpZXRhcnksIGFjdGl2ZS1sZWFybmluZyBuZXR3b3JrIHdpdGggYXBwbGljYXRpb25zIHRoYXQgYXJlIHJlYWR5IHRvIHVzZSwgZGF0YSBiYWNrZWQsIGFuZCBidWlsdCBvbiBwcmVkaWN0aXZlIGFuYWx5c2VzLjwvcD4gPGgzPkpvYiBEZXNjcmlwdGlvbjwvaDM+IDxwPk91ciBjbGllbnQgaXMgbG9va2luZyBmb3IgYSBzZW5pb3IgZGF0YSBzY2llbnRpc3QgZm9yIG91ciBmaXJzdC1vZi1pdHMta2luZCZuYnNwO3NhbGVzIGFuYWx5dGljcyBwbGF0Zm9ybSwgd2hpY2ggY29tYmluZXMgYSBwcm9wcmlldGFyeSwgYWN0aXZlLWxlYXJuaW5nIG5ldHdvcmsgd2l0aCBhcHBsaWNhdGlvbnMgdGhhdCBhcmUgcmVhZHkgdG8gdXNlLCBkYXRhIGJhY2tlZCwgYW5kIGJ1aWx0IG9uIHByZWRpY3RpdmUgYW5hbHlzZXMuPC9wPiA8cD5PdXIgaWRlYWwgY2FuZGlkYXRlIHdpbGwgaGF2ZSBhIHN0cm9uZyBjb21wdXRhdGlvbmFsIGJhY2tncm91bmQgKGNvbXBsaW1lbnRlZCBieSBTdGF0aXN0aWNzL01hdGgvQWxnb3JpdGhtaWMgZXhwZXJ0aXNlKSwgYSBoZWFsdGh5IHBvcnRmb2xpbyBvZiBkZWFsaW5nIHdpdGggQmlnIERhdGEsIGEgcGFzc2lvbiBmb3IgZW1waXJpY2FsIHJlc2VhcmNoLCBhIHNvbGlkIHVuZGVyc3RhbmRpbmcgb2YmbmJzcDttYWNoaW5lIGxlYXJuaW5nIGFsZ29yaXRobXMsICBhbmQgd2lsbCBhYnNvbHV0ZWx5IGxvdmUgZmluZGluZyBtZWFuaW5nIGluJm5ic3A7bXVsdGlwbGUgaW1wZXJmZWN0LCBtaXhlZCwgdmFyaWVkLCBhbmQgaW5jb25zaXN0ZW50IGRhdGEgc2V0cy4mbmJzcDs8L3A+IDxoMz5RdWFsaWZpY2F0aW9uczwvaDM+IDxwPllvdSBtdXN0IGJlIGEgdGVhbSBwbGF5ZXIgd2hvIHdpbGwgdGhyaXZlIGluIGEgY29sbGFib3JhdGl2ZSBlbnZpcm9ubWVudCwgYW5kIHlvdSBtdXN0IGJlIGRyaXZlbiB0byBjcmVhdGUmbmJzcDtpbm5vdmF0aXZlLCB3b3JsZC1jbGFzcyBwcm9kdWN0cyBhbmQgZ2V0IHRoZW0gdG8gbWFya2V0LjwvcD4gPHVsPiA8bGk+QWR2YW5jZWQgZGVncmVlIGluIEFwcGxpZWQgU3RhdGlzdGljcywgRWNvbm9taWNzLCBDb21wdXRlciBTY2llbmNlLCBvciBPcGVyYXRpb25zIFJlc2VhcmNoIChNYXN0ZXLigJlzIGRlZ3JlZSByZXF1aXJlZCkuIDwvbGk+PGxpPjEmIzQzOyB5ZWFycyBleHBlcmllbmNlIGluIGFkdmFuY2VkIGFuYWx5dGljcywgbW9kZWwgYnVpbGRpbmcsIHN0YXRpc3RpY2FsIG1vZGVsaW5nLCBvcHRpbWl6YXRpb24sIGFuZCBtYWNoaW5lIGxlYXJuaW5nIGFsZ29yaXRobXMgaW5jbHVkaW5nIHN1cGVydmlzZWQgYW5kIHVuc3VwZXJ2aXNlZCBsZWFybmluZywgYm9vc3RpbmcgYW5kIGVuc2VtYmxlIG1ldGhvZHMuIDwvbGk+PGxpPkFiaWxpdHkgdG8gYWdncmVnYXRlLCBub3JtYWxpemUgYW5kIHByb2Nlc3MgZGF0YSBieSBhdXRob3JpbmcgcHJlZGljdGl2ZSBhbGdvcml0aG1zIHRvIHN5bnRoZXNpemUgYW5kIHByZXNlbnQgYWN0aW9uYWJsZSBkYXRhIGluc2lnaHRzLiA8L2xpPjxsaT5UZWNobmljYWwgbWFzdGVyeSBpbiBvbmUgb3IgbW9yZSBvZiB0aGUgZm9sbG93aW5nIGxhbmd1YWdlcy90b29scyB0byB3cmFuZ2xlIGFuZCB1bmRlcnN0YW5kIGRhdGE6IFB5dGhvbiAoTnVtUHksIFNjaVB5LCBzY2lraXQtbGVhcm4pLCBSLCBNYXRsYWIsIFNwb3RmaXJlLCBUYWJsZWF1LiA8L2xpPjxsaT5FeHBlcmllbmNlIHdpdGggZGF0YSBtYW5pcHVsYXRpb24gYW5kIGFuYWx5c2lzIHVzaW5nIFNRTCwgbm9TUUwsIEphdmEsIEMsIFNBUywgYW5kIG1hY2hpbmUgbGVhcm5pbmcgc3VpdGVzIHN1Y2ggYXMgTWFob3V0LCBXZWthLCBhbmQgUmFwaWRNaW5lci4gPC9saT48bGk+RXhwZXJpZW5jZSB3aXRoIGNsb3VkIGNvbXB1dGluZyBhbmQgSGFkb29wIChNYXBSZWR1Y2UsIFBJRywgSElWRSkgPC9saT48bGk+RXhwZXJpZW5jZSB3aXRoIHRoaXJkLXBhcnR5IEFQSSBpbnRlZ3JhdGlvbi48L2xpPjwvdWw+IE5PIENPTlRSQUNUIG9yIEMyQyAvIEMySCwgSDFCIFdFTENPTUVkZAIUDw8WAh8CBSd+L0pvYlNlZWtlci9Qcm9maWxlLmFzcHg/am9iaWQ9MDI0NzA2MThkZAIVDw8WBB8ABQlWaWV3IEpvYnMfAWhkZGT4r1bXRs0xntpjUAaHuOVAIArmqA=="/>
+         <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="9B6A77FB"/>
+         <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="/wEdAAb5EtQsT6Gy4YI2D63LoiJl9pH/WZ1fMvI0zZGU+evpQyw4mJ8AAatAOtgA1NU/hET7fRSwQZVllwMkwuSY74tRPKrXiAc1hQexUJe7W+CAQAUe5iLna/rcj0Qcwk1eFJh4qJ+Fq4+8I8nlaiQ4YZJ/DAYfsg=="/>
+         <div id="dvHookCntr">
+          <input id="uxKeywords" type="hidden" value=""/>
+          <div id="dvSearchDetailContainer">
+           <span id="ContentPlaceHolder1_lblError">
+            <b>
+             <font color="Red">
+             </font>
+            </b>
+           </span>
+           <div id="dvBackToJobsTop">
+           </div>
+           <div id="dvSendToFriend" style="display:none;">
+            <table class="tbSendToAFriend">
+             <tr>
+              <td>
+               Your Email
+               <br/>
+               <input id="ContentPlaceHolder1_txtFromEmail" maxlength="100" name="ctl00$ContentPlaceHolder1$txtFromEmail" type="text"/>
+              </td>
+              <td>
+               Friend's Email
+               <br/>
+               <input id="ContentPlaceHolder1_txtToEmail" maxlength="100" name="ctl00$ContentPlaceHolder1$txtToEmail" type="text"/>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2">
+               Subject
+               <br/>
+               <input id="ContentPlaceHolder1_txtSubject" maxlength="100" name="ctl00$ContentPlaceHolder1$txtSubject" type="text" value="Job Listing on Cameron Craig Group ... Find A Job Here Today!"/>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2">
+               Your Email
+               <br/>
+               <textarea cols="20" id="ContentPlaceHolder1_txtBody" name="ctl00$ContentPlaceHolder1$txtBody" rows="4" style="width:95%;height:100px;">
+I thought you might be interested in the Sr Data Scientist - NLP and CODING REQ job listed at Cameron Craig Group ... Find A Job Here Today!.  Just copy and paste the following link into your browser: http://jobs.cameroncraig.com/JobSeeker/Detail.aspx?jid=02470618&amp;utm_source=Monster</textarea>
+              </td>
+             </tr>
+             <tr>
+              <td>
+               Enter the number in the image to the right
+               <input id="ContentPlaceHolder1_txtTuring" maxlength="5" name="ctl00$ContentPlaceHolder1$txtTuring" type="text"/>
+               <span id="ContentPlaceHolder1_lblTuring">
+                <font color="Red">
+                </font>
+               </span>
+              </td>
+              <td>
+               <img alt="" height="30" src="../Turing.aspx" width="80"/>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2" style="text-align:right">
+               <a href="javascript:SendEmail();">
+                Send Email
+               </a>
+              </td>
+             </tr>
+            </table>
+           </div>
+           <div id="dvPositionTitle">
+            <h1 class="textColorTwo">
+             <span id="ContentPlaceHolder1_lblPositionTitle">
+              Sr Data Scientist - NLP and CODING REQ
+             </span>
+            </h1>
+            <div id="dvApplySocial">
+             <div id="dvSocialButtons">
+              <table cellpadding="0" cellspacing="0" id="tblSocialButtons" style="display:inline;">
+               <tr>
+                <td style="vertical-align:top;padding-top:0px">
+                 <a href="javascript:void(0);" id="lnkSocialEmail" onclick="javascript:ShowSendForm();">
+                  <img src="../images/email-wo-seams_thumb.png" style="padding-top:0px"/>
+                 </a>
+                </td>
+                <td style="vertical-align: top;padding-top:0px">
+                 <a href="http://twitter.com/home?status=http%3a%2f%2fjobs.cameroncraig.com%2fJobSeeker%2fDetail.aspx%3fjid%3d02470618%26utm_source%3dMonster" id="lnkSocialTwitter" rel="nofollow" target="_blank" title="Share on Twitter">
+                  <img alt="Twitter" src="../images/twitter.png" style="padding-top:0px"/>
+                 </a>
+                </td>
+                <td style="vertical-align: top;padding-top:0px">
+                 <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+                 </script>
+                 <script type="IN/Share">
+                 </script>
+                </td>
+                <td style="vertical-align: top;padding-top:0px">
+                 <a href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fjobs.cameroncraig.com%2fJobSeeker%2fDetail.aspx%3fjid%3d02470618%26utm_source%3dMonster" id="lnkSocialFacebook" rel="nofollow" target="_blank" title="Share on Facebook">
+                  <img alt="Facebook" src="../images/fb.png" style="padding-top:0px"/>
+                 </a>
+                </td>
+                <td style="vertical-align:top;padding-right:45px;padding-top:0px">
+                 <g:plusone annotation="none" href="http%3a%2f%2fjobs.cameroncraig.com%2fJobSeeker%2fDetail.aspx%3fjid%3d02470618%26utm_source%3dMonster" size="medium">
+                 </g:plusone>
+                 <script type="text/javascript">
+                  (function () { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();
+                 </script>
+                </td>
+               </tr>
+              </table>
+             </div>
+            </div>
+           </div>
+           <div id="dvJobDetails">
+            <div class="textColorTwo" id="dvXtras">
+             <div id="upperApply">
+              <div class="indeedApply">
+               <span class="indeed-apply-widget" data-indeed-apply-apitoken="4fed5b1c7122aad37f6ce6530296425ca72f65dc5954e1907b10d936ebb321cd" data-indeed-apply-continueurl="http://jobs.cameroncraig.com/JobSeeker/Thank_You.aspx?jobid=02470618" data-indeed-apply-jobid="02470618" data-indeed-apply-joblocation="NY, NY" data-indeed-apply-jobmeta="?jid=02470618&amp;siteid=318&amp;mobile=0&amp;utm_source=Monster" data-indeed-apply-jobtitle="Sr Data Scientist - NLP and CODING REQ" data-indeed-apply-joburl="http://jobs.cameroncraig.com/JobSeeker/Detail.aspx?jid=02470618&amp;siteid=318&amp;mobile=0&amp;utm_source=Monster" data-indeed-apply-name="firstlastname" data-indeed-apply-posturl="http://applications.HiringHook.com/api/Indeed?jobid=02470618&amp;siteid=318&amp;mobile=0&amp;utm_source=Monster">
+               </span>
+               <script>
+                (function (d, s, id) {
+                                var js, iajs = d.getElementsByTagName(s)[0];
+                                if (d.getElementById(id)) { return; }
+                                js = d.createElement(s); js.id = id; js.async = true;
+                                js.src = "https://apply.indeed.com/indeedapply/static/scripts/app/bootstrap.js";
+                                iajs.parentNode.insertBefore(js, iajs);
+                            } (document, 'script', 'indeed-apply-js'));
+               </script>
+              </div>
+              <a href="Profile.aspx?jobid=02470618" id="ContentPlaceHolder1_lnkApply2">
+               Apply
+              </a>
+             </div>
+             <div id="ContentPlaceHolder1_dvLocation">
+              <span class="hdr">
+               Location
+              </span>
+              <br/>
+              <span id="ContentPlaceHolder1_lblLocation">
+               NY, NY
+              </span>
+             </div>
+             <div id="ContentPlaceHolder1_dvSalary">
+              <span class="hdr">
+               Salary
+              </span>
+              <br/>
+              <span id="ContentPlaceHolder1_lblSalary">
+               $145,000 - $160,000
+              </span>
+             </div>
+             <div id="ContentPlaceHolder1_dvJobType">
+              <span class="hdr">
+               Job Type
+              </span>
+              <br/>
+              <span id="ContentPlaceHolder1_lblJobType">
+               Direct Hire
+              </span>
+             </div>
+             <div id="ContentPlaceHolder1_dvDegree">
+              <span class="hdr">
+               Degree
+              </span>
+              <br/>
+              <span id="ContentPlaceHolder1_lblDegree">
+               Bachelor of Science
+              </span>
+             </div>
+             <div id="ContentPlaceHolder1_dvPosted">
+              <span class="hdr">
+               Date
+              </span>
+              <br/>
+              <span id="ContentPlaceHolder1_lblDatePosted">
+               Apr 12, 2017
+              </span>
+             </div>
+             <div id="ContentPlaceHolder1_dvJobID">
+              <span class="hdr">
+               Job ID
+              </span>
+              <br/>
+              <span id="ContentPlaceHolder1_lblJobId">
+               2470618
+              </span>
+             </div>
+            </div>
+            <div id="dvDescription">
+             <div class="desc">
+              <span id="ContentPlaceHolder1_lblDescription">
+               <h3>
+                Why is This a Great Opportunity?
+               </h3>
+               <p>
+                Our client is looking for a senior data scientist for our first-of-its-kind sales analytics platform, which combines a proprietary, active-learning network with applications that are ready to use, data backed, and built on predictive analyses.
+               </p>
+               <h3>
+                Job Description
+               </h3>
+               <p>
+                Our client is looking for a senior data scientist for our first-of-its-kind sales analytics platform, which combines a proprietary, active-learning network with applications that are ready to use, data backed, and built on predictive analyses.
+               </p>
+               <p>
+                Our ideal candidate will have a strong computational background (complimented by Statistics/Math/Algorithmic expertise), a healthy portfolio of dealing with Big Data, a passion for empirical research, a solid understanding of machine learning algorithms,  and will absolutely love finding meaning in multiple imperfect, mixed, varied, and inconsistent data sets.
+               </p>
+               <h3>
+                Qualifications
+               </h3>
+               <p>
+                You must be a team player who will thrive in a collaborative environment, and you must be driven to create innovative, world-class products and get them to market.
+               </p>
+               <ul>
+                <li>
+                 Advanced degree in Applied Statistics, Economics, Computer Science, or Operations Research (Master’s degree required).
+                </li>
+                <li>
+                 1+ years experience in advanced analytics, model building, statistical modeling, optimization, and machine learning algorithms including supervised and unsupervised learning, boosting and ensemble methods.
+                </li>
+                <li>
+                 Ability to aggregate, normalize and process data by authoring predictive algorithms to synthesize and present actionable data insights.
+                </li>
+                <li>
+                 Technical mastery in one or more of the following languages/tools to wrangle and understand data: Python (NumPy, SciPy, scikit-learn), R, Matlab, Spotfire, Tableau.
+                </li>
+                <li>
+                 Experience with data manipulation and analysis using SQL, noSQL, Java, C, SAS, and machine learning suites such as Mahout, Weka, and RapidMiner.
+                </li>
+                <li>
+                 Experience with cloud computing and Hadoop (MapReduce, PIG, HIVE)
+                </li>
+                <li>
+                 Experience with third-party API integration.
+                </li>
+               </ul>
+               NO CONTRACT or C2C / C2H, H1B WELCOME
+              </span>
+             </div>
+            </div>
+            <div id="dvDetailBtmLinks">
+             <div id="dvDetailApplyLink">
+              <div class="indeedApply">
+               <span class="indeed-apply-widget" data-indeed-apply-apitoken="4fed5b1c7122aad37f6ce6530296425ca72f65dc5954e1907b10d936ebb321cd" data-indeed-apply-continueurl="http://jobs.cameroncraig.com/JobSeeker/Thank_You.aspx?jobid=02470618" data-indeed-apply-jobid="02470618" data-indeed-apply-joblocation="NY, NY" data-indeed-apply-jobmeta="?jid=02470618&amp;siteid=318&amp;mobile=0&amp;utm_source=Monster" data-indeed-apply-jobtitle="Sr Data Scientist - NLP and CODING REQ" data-indeed-apply-joburl="http://jobs.cameroncraig.com/JobSeeker/Detail.aspx?jid=02470618&amp;siteid=318&amp;mobile=0&amp;utm_source=Monster" data-indeed-apply-name="firstlastname" data-indeed-apply-posturl="http://applications.HiringHook.com/api/Indeed?jobid=02470618&amp;siteid=318&amp;mobile=0&amp;utm_source=Monster">
+               </span>
+               <script>
+                (function (d, s, id) {
+                                var js, iajs = d.getElementsByTagName(s)[0];
+                                if (d.getElementById(id)) { return; }
+                                js = d.createElement(s); js.id = id; js.async = true;
+                                js.src = "https://apply.indeed.com/indeedapply/static/scripts/app/bootstrap.js";
+                                iajs.parentNode.insertBefore(js, iajs);
+                            } (document, 'script', 'indeed-apply-js'));
+               </script>
+              </div>
+              <a href="Profile.aspx?jobid=02470618" id="ContentPlaceHolder1_lnkApply">
+               Apply
+              </a>
+             </div>
+             <div id="dvBackToJobsBtm">
+             </div>
+            </div>
+           </div>
+           <br class="clear"/>
+          </div>
+         </div>
+        </form>
+       </div>
+       <!-- /.entry -->
+       <div class="fix">
+       </div>
+      </div>
+      <!-- /.post -->
+     </div>
+     <!-- /#main -->
+     <div id="sidebar">
+      <div class="widget widget_text" id="text-2">
+       <div class="textwidget">
+        <h6>
+         Thousands of jobs, refreshed hourly.
+        </h6>
+        <!--<a href="http://jobs.cameroncraig.com/jobseeker/Profile_Quick.aspx?" class="orange" id="submitresume">Submit Resume</a>-->
+       </div>
+      </div>
+      <div class="widget widget_text" id="text-3">
+       <h3>
+        Find Jobs by Industry
+       </h3>
+       <div class="textwidget">
+        <select class="searchform industrySearch" id="industryDropdownBtn" name="jobsIndustry" onchange="if (this.value) window.location.href=this.value" value="select">
+         <option value="">
+          -- Find Jobs by Industry --
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=00&amp;spSortOrder=1&amp;runsearch=1">
+          Accounting
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spkeyword=automotive&amp;spSortOrder=1&amp;runsearch=1">
+          Automotive
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=05&amp;spSortOrder=1&amp;runsearch=1">
+          Banking
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spkeyword=biotech&amp;spSortOrder=1&amp;runsearch=1">
+          Biotech
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spkeyword=business%20development&amp;spSortOrder=1&amp;runsearch=1">
+          Business Development
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=50&amp;spSortOrder=1&amp;runsearch=1">
+          Construction
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spkeyword=consultant&amp;spSortOrder=1&amp;runsearch=1">
+          Consultant
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spkeyword=design&amp;spSortOrder=1&amp;runsearch=1">
+          Design
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spkeyword=distribution%20or%20shipping&amp;spSortOrder=1&amp;runsearch=1">
+          Distribution / Shipping
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=10&amp;spSortOrder=1&amp;runsearch=1">
+          Engineering
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=CEO%20or%20CFO%20or%20VP%20or%20President%20or%20cio%20or%20cto%20or%20vice%20president%20or%20director&amp;spSortOrder=1&amp;runsearch=1">
+          Executive
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=facilities&amp;spdisciplineidlist=25&amp;spSortOrder=1&amp;runsearch=1">
+          Facilities
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=05&amp;spSortOrder=1&amp;runsearch=1">
+          Finance
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=60&amp;spSortOrder=1&amp;runsearch=1">
+          Health Care
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=45&amp;spSortOrder=1&amp;runsearch=1">
+          Human Resources
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=20&amp;spSortOrder=1&amp;runsearch=1">
+          Information Technology
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=35&amp;spSortOrder=1&amp;runsearch=1">
+          Insurance
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=inventory&amp;spSortOrder=1&amp;runsearch=1">
+          Inventory
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=lawyer%20or%20attorney&amp;spSortOrder=1&amp;runsearch=1">
+          Legal
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=manager%20or%20management&amp;spSortOrder=1&amp;runsearch=1">
+          Management
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spspecial=PHpEQz4yNSo=&amp;spSortOrder=1&amp;runsearch=1">
+          Manufacturing
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spspecial=PHpEQz4zMCo=&amp;spkeyword=marketing&amp;spSortOrder=1&amp;runsearch=1">
+          Marketing
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=nurse%20or%20rn%20or%20lpn&amp;spSortOrder=1&amp;runsearch=1">
+          Nursing
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=pharmaceutical%20or%20pharmacy&amp;spSortOrder=1&amp;runsearch=1">
+          Pharmaceutical
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=professional%20AND%20services&amp;spSortOrder=1&amp;runsearch=1">
+          Professional Services
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=purchasing%20OR%20procurement&amp;spSortOrder=1&amp;runsearch=1">
+          Purchasing / Procurement
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=((quality%20AND%20(assurance%20or%20control))%20OR%20qc%20OR%20qa&amp;spSortOrder=1&amp;runsearch=1">
+          QA/Quality Control
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=research&amp;spSortOrder=1&amp;runsearch=1">
+          Research
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=70&amp;spSortOrder=1&amp;runsearch=1">
+          Retail
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=30&amp;spSortOrder=1&amp;runsearch=1">
+          Sales
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spDisciplineIDList=15&amp;spSortOrder=1&amp;runsearch=1">
+          Science
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=strategy%20or%20planning&amp;spSortOrder=1&amp;runsearch=1">
+          Strategy / Planning
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=supply%20chain&amp;spSortOrder=1&amp;runsearch=1">
+          Supply Chain
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=telecommunications&amp;spSortOrder=1&amp;runsearch=1">
+          Telecommunications
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=training&amp;spSortOrder=1&amp;runsearch=1">
+          Training
+         </option>
+         <option value="http://jobs.cameroncraig.com/JobSeeker/SearchResults.aspx?spKeyword=Transportation&amp;spSortOrder=1&amp;runsearch=1">
+          Transportation
+         </option>
+        </select>
+       </div>
+      </div>
+      <div class="widget widget_text" id="text-4">
+       <h3>
+        Search by State
+       </h3>
+       <div class="textwidget">
+        <div id="stateSearch">
+         <form action="http://jobs.cameroncraig.com/jobseeker/SearchResults.aspx" method="post" name="stateSearch">
+          <input name="runsearch" type="hidden" value="1"/>
+          <div id="stateDropdown">
+           <select class="searchform searchDropdown statesearch" id="stateDropdownBtn" name="citystate" onchange="document.forms['stateSearch'].submit()" value="select state">
+            <option value="">
+             -- Find Jobs by State --
+            </option>
+            <option value="AL">
+             Alabama
+            </option>
+            <option value="AK">
+             Alaska
+            </option>
+            <option value="AZ">
+             Arizona
+            </option>
+            <option value="AR">
+             Arkansas
+            </option>
+            <option value="CA">
+             California
+            </option>
+            <option value="CO">
+             Colorado
+            </option>
+            <option value="CT">
+             Connecticut
+            </option>
+            <option value="DE">
+             Delaware
+            </option>
+            <option value="DC">
+             Dist. Columbia
+            </option>
+            <option value="FL">
+             Florida
+            </option>
+            <option value="GA">
+             Georgia
+            </option>
+            <option value="HI">
+             Hawaii
+            </option>
+            <option value="ID">
+             Idaho
+            </option>
+            <option value="IL">
+             Illinois
+            </option>
+            <option value="IN">
+             Indiana
+            </option>
+            <option value="IA">
+             Iowa
+            </option>
+            <option value="KS">
+             Kansas
+            </option>
+            <option value="KY">
+             Kentucky
+            </option>
+            <option value="LA">
+             Louisiana
+            </option>
+            <option value="ME">
+             Maine
+            </option>
+            <option value="MD">
+             Maryland
+            </option>
+            <option value="MA">
+             Massachusetts
+            </option>
+            <option value="MI">
+             Michigan
+            </option>
+            <option value="MN">
+             Minnesota
+            </option>
+            <option value="MS">
+             Mississippi
+            </option>
+            <option value="MO">
+             Missouri
+            </option>
+            <option value="MT">
+             Montana
+            </option>
+            <option value="NE">
+             Nebraska
+            </option>
+            <option value="NV">
+             Nevada
+            </option>
+            <option value="NH">
+             New Hampshire
+            </option>
+            <option value="NJ">
+             New Jersey
+            </option>
+            <option value="NM">
+             New Mexico
+            </option>
+            <option value="NY">
+             New York
+            </option>
+            <option value="NC">
+             North Carolina
+            </option>
+            <option value="ND">
+             North Dakota
+            </option>
+            <option value="OH">
+             Ohio
+            </option>
+            <option value="OK">
+             Oklahoma
+            </option>
+            <option value="OR">
+             Oregon
+            </option>
+            <option value="PA">
+             Pennsylvania
+            </option>
+            <option value="RI">
+             Rhode Island
+            </option>
+            <option value="SC">
+             South Carolina
+            </option>
+            <option value="SD">
+             South Dakota
+            </option>
+            <option value="TN">
+             Tennessee
+            </option>
+            <option value="TX">
+             Texas
+            </option>
+            <option value="UT">
+             Utah
+            </option>
+            <option value="VT">
+             Vermont
+            </option>
+            <option value="VA">
+             Virginia
+            </option>
+            <option value="WA">
+             Washington
+            </option>
+            <option value="WV">
+             West Virginia
+            </option>
+            <option value="WI">
+             Wisconsin
+            </option>
+            <option value="WY">
+             Wyoming
+            </option>
+           </select>
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+     <!-- /#sidebar -->
+    </div>
+    <!-- /#main-sidebar-container -->
+   </div>
+   <!-- /#content -->
+   Unless noted above, applicants MUST be authorized to work in the US without Visa Sponsorship. US citizens and Green Card holders ONLY. We do not provide relocation assistance for those living outside the continental US. Please only click apply if you meet the specific requirements of the job listing, you are able to work in the location listed, and are comfortable with the salary range indicated above. Thanks for your interest. We look forward to working with you.
+  </div>
+  <!-- /#wrapper -->
+  <div id="footerWrapper">
+   <div class="col-full" id="footer">
+    <div class="col-left" id="copyright">
+     <div id="header">
+      <h3 class="nav-toggle icon">
+       <a href="#navigation">
+        Navigation
+       </a>
+      </h3>
+      <div class="col-full" id="navigation">
+       <ul class="nav fl" id="main-nav">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24" id="menu-item-24">
+         <a href="http://www.cameroncraig.com/">
+          Home
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21" id="menu-item-21">
+         <a href="http://www.cameroncraig.com/about-us/">
+          About Us
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22" id="menu-item-22">
+         <a href="http://www.cameroncraig.com/contact-us/">
+          Contact Us
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95" id="menu-item-95">
+         <a href="http://www.cameroncraig.com/terms-of-usage/">
+          Terms of Usage
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98" id="menu-item-98">
+         <a href="http://www.cameroncraig.com/privacy-policy/">
+          Privacy Policy
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /#navigation -->
+     </div>
+    </div>
+    <div class="col-right" id="credit">
+     <p>
+     </p>
+     <ul class="socialMedia">
+      <li>
+       Connect with us
+      </li>
+      <li>
+       <a href="http://www.facebook.com/cameroncraiggroup" target="_blank">
+        <img alt="Facebook" height="32px" src="http://cameroncraig.com/files/2013/10/facebook.png" width="32px/"/>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.linkedin.com/company/cameron-craig-group/careers?trk=top_nav_careers" target="_blank">
+        <img alt="LinkedIn" height="32px" src="http://cameroncraig.com/files/2013/10/linkedin.png" width="32px/"/>
+       </a>
+      </li>
+      <li>
+       <a href="http://www.twitter.com/cameroncraig" target="_blank">
+        <img alt="Twitter" height="32px" src="http://cameroncraig.com/files/2013/12/twitter.png" width="32px/"/>
+       </a>
+      </li>
+      <li>
+       <a href="https://plus.google.com/118310690875459994498/posts" target="_blank">
+        <img alt="GooglePlus" height="32px" src="http://cameroncraig.com/files/2014/09/google.png" width="32px/"/>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.glassdoor.com/Overview/Working-at-Cameron-Craig-Group-EI_IE420622.11,30.htm" target="_blank">
+        <img src="https://www.glassdoor.com/static/img/partnerCenter/badges/eng_CIRCLE_32x32.png"/>
+       </a>
+      </li>
+     </ul>
+     <p class="hiringHook">
+      ©2017 CameronCraigGroup.  |
+      <script src="https://secure.topechelon.com/public/js/branding.js">
+      </script>
+     </p>
+    </div>
+   </div>
+   <!-- /#footer  -->
+  </div>
+  <!-- /#footerWrapper -->
+  <div class="fix">
+  </div>
+  <!--/.fix-->
+  <a class="fa fa-chevron-circle-up" href="BackToTop" id="lnkBackToTop">
+  </a>
+  <script type="text/javascript">
+   function setBackToTop(){
+      $("#lnkBackToTop").toggleClass("visible", ($(window).height() < $(document).height() && $(window).scrollTop() > 0));
+    }
+  $(document).ready(function(){
+    var url = location.href;
+    var reg = /J(\d*)\.aspx|jid=(\d*)|jobid=(\d*)/gi;
+    var matches = reg.exec(url);
+    var qry = "";
+    if (matches != null){
+      if (matches[0].indexOf("=") > -1)
+        qry = matches[0].substring(matches[0].indexOf("=")+1);
+      else
+        qry = matches[0].toLowerCase().replace(".aspx", "").replace("j", "");
+    }
+    if (qry.length > 0) $("#submitresume").attr("href","/JobSeeker/Profile.aspx?jobid=" + qry)
+      $(window).on("resize, scroll", setBackToTop);
+      $("#lnkBackToTop").on("click", function(e){
+        $("html, body").animate({ scrollTop: 0 }, 500);
+        e.preventDefault();
+        return false;
+      })
+      setBackToTop();
+  })
+  </script>
+ </body>
+</html>

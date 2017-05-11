@@ -115,9 +115,6 @@ class Main(object):
                     count_numbers += 1
                 else:
                     print ("Data Scientist not found in %s!" % url)
-    @staticmethod
-    def filter_by_first_line():
-        pass
 
 
 if __name__ == "__main__":

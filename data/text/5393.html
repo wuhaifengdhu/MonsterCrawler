@@ -1,0 +1,1270 @@
+<!DOCTYPE html>
+<html class=" html_stretched responsive av-default-lightbox html_header_top html_logo_center html_bottom_nav_header html_menu_right html_custom html_header_sticky_disabled html_header_shrinking_disabled html_header_topbar_active html_mobile_menu_tablet html_disabled html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_entry_id_78 " lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <script type="text/javascript">
+   (window.NREUM||(NREUM={})).loader_config={xpid:"UgMHVF9WGwsHVVlTDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+  </script>
+  <!-- page title, displayed in your browser bar -->
+  <title>
+   Advanced Analytics Specialist – Vanguard – 107357
+  </title>
+  <link href="http://cdn-static.findly.com/wp-content/uploads/sites/11/2015/05/v_favicon.jpg" rel="icon" type="image/x-icon"/>
+  <!-- mobile setting -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+  <!-- Scripts/CSS and wp_head hook -->
+  <!-- This site is optimized with the Yoast SEO Premium plugin v3.7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+  <link href="http://www.vanguardjobs.com/job/6963973/advanced-analytics-specialist-quebec-ca/" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Advanced Analytics Specialist – Vanguard – 107357" property="og:title"/>
+  <meta content="http://www.vanguardjobs.com/job/6963973/advanced-analytics-specialist-quebec-ca/" property="og:url"/>
+  <meta content="Vanguard Career Website" property="og:site_name"/>
+  <meta content="https://www.facebook.com/Vanguard" property="article:publisher"/>
+  <meta content="https://cdn-static.findly.com/wp-content/uploads/sites/11/2016/02/Vanguard-Social.jpg" property="og:image"/>
+  <meta content="2015-02-18T23:17:44+00:00" property="DC.date.issued"/>
+  <!-- / Yoast SEO Premium plugin. -->
+  <link href="//www.vanguardjobs.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://www.vanguardjobs.com/feed/" rel="alternate" title="Vanguard Career Website » Feed" type="application/rss+xml"/>
+  <link href="http://www.vanguardjobs.com/comments/feed/" rel="alternate" title="Vanguard Career Website » Comments Feed" type="application/rss+xml"/>
+  <link href="http://www.vanguardjobs.com/upcoming-events/?ical=1" rel="alternate" title="Vanguard Career Website » iCal Feed" type="text/calendar"/>
+  <link href="http://www.vanguardjobs.com/job/6963973/advanced-analytics-specialist-quebec-ca/feed/" rel="alternate" title="Vanguard Career Website »   Advanced Analytics Specialist – Vanguard – 107357 Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.vanguardjobs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/events-calendar-pro/src/resources/css/widget-calendar-full.css?ver=4.4.2" id="tribe_events-widget-calendar-pro-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/events-calendar-pro/src/resources/css/widget-calendar-full.css?ver=4.4.2" id="tribe_events--widget-calendar-pro-override-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/cws/css/cws.css?ver=3.9.18" id="cws-styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/cws/css/select2.min.css?ver=3.9.18" id="select2-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/uploads/sites/11/useanyfont/uaf.css?ver=1490172781" id="uaf_client_css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-full.min.css?ver=4.4.2" id="tribe-events-calendar-pro-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-full-mobile.min.css?ver=4.4.2" id="tribe-events-calendar-pro-mobile-style-css" media="only screen and (max-width: 768px)" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/ultimate-branding/ultimate-branding-files/modules/custom-admin-bar-files/css/general.css?ver=1.0" id="ub_adminbar_general_styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/css/grid.css?ver=2" id="avia-grid-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/css/base.css?ver=2" id="avia-base-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/css/layout.css?ver=2" id="avia-layout-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/css/shortcodes.css?ver=2" id="avia-scs-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1" id="avia-popup-css-css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1" id="avia-media-css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/css/print.css?ver=1" id="avia-print-css" media="print" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/uploads/sites/11/dynamic_avia/enfold-hodes-v1.css?ver=58ba105cca0ca" id="avia-dynamic-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/css/custom.css?ver=2" id="avia-custom-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/findlycws/style.css?ver=2.1" id="avia-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com/wp-content/themes/enfold/config-events-calendar/event-mod.css?ver=4.7.3" id="avia-events-cal-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com?sccss=1&amp;ver=4.7.3" id="sccss_style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://www.vanguardjobs.com?amd_asset_type=style&amp;amd_is_asset=1&amp;ver=4215" id="wp-amd-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/wp-a11y.min.js?ver=4.7.3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/cws/js/select2.min.js?ver=4.7.3" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/underscore.min.js?ver=1.8.3" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var cws_opts = {"poll_script":"https:\/\/connect.thehive.com\/static\/js\/lightbox.js","poll_nolightbox":"","job_detail_path":"\/job","title_autocomplete":["Client Relationship Specialist","Financial Advisor Associate","Personal Investor Associate","Project Manager","Senior Wealth Financial Advisor","Data Analyst","Financial Advisor","Inbound Sales Associate","Investment Sales Consultant","Senior Auditor","Senior Data Analyst","Technical Expert Lead","Technical Lead","Wealth Management Consultant","Acceleration into Financial Professional Program","Advanced Analytics Manager","Advanced Analytics Specialist","Analytics Lead","Analytics Specialist, Retail Marketing Strategy & Operations","Archer Developer","Associate Counsel - Privacy & Data Protection","Associate Counsel, Corporate & Commercial Transactions","Audit Manager","Audit Manager, Investments","B2B Marketing Writer, Financial Advisory Services","Big Data Client Experience Manager","Build Team Engineer","Category Specialist","Category Strategist, Human Resources","Change Management Program Lead","Channel Manager - Registered Investment Advisors (RIA)","Compensation Consultant","Compliance Administrator","Compliance Consultant","Compliance Manager","Contact Center Service Manager","Contract Manager","Contracting Advisor","Control and Governance Manager","Corporate Tax Accountant","Cyber Vulnerability Analyst","Data Analytics Analyst","Database Administrator","Design Manager","Design Manager, Financial Advisory Services","Developer (Intermediate Level)","Developer\/Automation Engineer","Development Designer","Digital Compliance Advisor","Digital Marketing Specialist","Digital Media Designer\/Video Editor","Director Level Organizational Consulting Services Engagement Lead","Director Level Red Teaming Security Intelligence Manager","Divisional Communications Manager","Emerging Market Debt Portfolio Manager","Employee Relations Manager","Endpoint Engineer\/Developer","Enterprise Architect","Environments Support Analyst","European Rates Portfolio Manager","Executive Administrative Assistant","FAS Business Contingency Manager","FAS Data Specialist","FAS Project Lead","Finance Director","Financial Administrator","Financial Advisor Development Program (FADP)","Fund Financial Analyst","Global Mobility Manager","Global Privacy Project Manager","HR Technology Specialist","Hadoop Developer","Head of Finance Organization Readiness","Head of Human Resources, Americas","Head of Marketing - Institutional Asset Management","Head of Retail Operations Excellence, Analysis, and PMO","Head of Risk - Vanguard Investments Canada","Head of Strategic Sourcing","High Yield Senior Municipal Credit Research Analyst","IAM Developer","IAM Project Manager, IT Security","IBM Infosphere Systems Specialist","IT Audit Manager, Infrastructure and Operations","IT Change Management Project Manager","IT Communications Manager","IT Project Manager - Security Application","IT Project Manager III","IT Project Manager, Security Authentication & Authorization","IT Solutions Consultant","Identity Access Management Advisor","Implementation Services Project Manager","Infrastructure Engineer - Tech Lead Netcentric","Infrastructure Engineer: Technical Lead Infrastructure Automation Linux","Infrastructure Engineer: Technical Lead Infrastructure Automation Windows","Infrastructure Engineer: Technical Lead Oracle","Innovation Developer","Innovation Developer I, Center City Philadelphia","Innovation Developer II","Innovation Developer III","Innovation Developer IV","Innovation Lead (located in the new Innovation Center in Philadelphia, PA)","Innovation Specialist (to be located in the new Innovation Center in Center City, Philadelphia)","Institutional Marketing PMO Project Manager","Institutional Sales Executive (Group Retirement Solutions)","Intermediary Client Support Manager","Intermediary Operations Manager","Intermediary Oversight Specialist","Internal Sales Consultant","Internal Sales Consultant \/ Wholesaler","Investment Data Scientist","Investment Grade Senior Municipal Credit Research Analyst","Investment Management Development Program","Investment Product Manager","Investment Risk Analyst (Equities)","Investment Risk Analyst (Fixed Income)","Investments Senior Auditor","Java Developer (Intermediate Level)","Java Developer - PA","Java Midtier Developer","Junior Linux System Administrator","Junior Windows Systems Administrator","Lead Infrastructure Engineer, Windows","Lead Project Administrator, Legal and Compliance","Linux System Administrator","Manager - Fund Reporting, Expenses and Distributions","Manager of Capacity and Infrastructure Asset Management","Manager, Talent Management Shared Services","Master Black Belt","Mission Critical Facilities Manager","Multimedia and Web Designer","Network Support Engineer - Tier 2","Next Gen Content Management Developer","Next Generation Trading Analyst","Organizational Design Consultant","Participant Services Team Leader","Payroll Specialist","People Analytics Analyst","Portfolio Investment Analyst Equity Investment Book of Record","Processing Associate","Project Manager - Institutional Investor Services PMO","Project Manager- Corporate Finance","Public Relations Representative","Public Relations Specialist","Quantitative Research Analyst","Relationship Manager","Reporting Technical Expert","Retail Client Account Service Processing Associate","Retail Marketing PMO Data Analyst","Retirement Plan Services Representative (Licensed)","Retirement Plan Services Representative (unlicensed)","Security Infrastructure & Platform Technology Specialist-2","Senior Accountant","Senior Analyst, Investment Risk Management, Quantitative Equity Group","Senior Audit Manager","Senior Brokerage Regulatory Accountant","Senior Developer","Senior Digital Analyst","Senior Enterprise Architect","Senior Enterprise Architect, Innovation Center, Philadelphia","Senior Estate and Trust Attorney","Senior Executive Recruiter","Senior Financial Advisor","Senior Financial Analyst","Senior Financial Reporting Analyst","Senior Front-End Developer","Senior Human Capital Strategist; Business Partner","Senior IT Audit Manager, Project Management and System Development","Senior IT Auditor \/ Infrastructure and Operations","Senior IT Auditor, Project Management and Systems Development","Senior IT Auditor\/ System and Business Process Integration","Senior Infrastructure Services Manager","Senior Innovation Specialist (to be located in new Innovation Center in  Center City, Phila)","Senior Investment Consultant - Institutional, Defined Benefits, E&F","Senior Manager - Strategy","Senior Manager of Client Loyalty Program for Advisor Services Business","Senior Market Researcher","Senior Marketing Technology Architect","Senior Network Architect, Technical Advisor - Global Technology Operations","Senior Product Manager, Americas","Senior Quantitative Strategists - Liquid Alternatives, Portfolio Construction and Non-U.S. Equity, Quantitative Equity Group","Senior Security Developer","Senior Technical Lead","Senior Trust Advisor","Senior Workstream Lead","Sr. Specialist Total Rewards","Strategic Compliance Leader","Strategic Workforce Planning Manager","Supervisor - Investor Operations","Supervisor, Contact Center","Supervisor, Investor Operations","TS02 - IT analyst - Systems & Event Management","TS02 - Solutions Developer","TS03 - Lead Telecom Engineer","Tax Compliance Director","Tax and Wealth Planning Specialist","Technical Lead II","Technology Leadership Program - Application Development","Technology Leadership Program - Information Security","Technology Leadership Program - Technology Operations","Technology Security Specialist","Technology Specialist II","Telecom Line Manager","Total Rewards Specialist","Transformation Office Technical Coach","Travel and Expense Relationship Administrator","UI Developer","UX Manager, Financial Advisors Services (FAS)","UX Strategist","User Experience Researcher","Voice Network Engineer","Windows Systems Administrator","Writer"],"accessible":"","personalization":"","mc_apply":"","ip_detect":"","google_type":"key","google_key":"AIzaSyDvqJNz40M3-YRP_xeSfoR1FmcEhH3o4Vs","google_place_search_type":"geocode","localization":{"applybtn":"Apply","add_to_cart":"Add to Cart","remove_from_cart":"Remove from Cart","Expanding":"Expanding","Collapsing":"Collapsing","Added":"Expanding","Removed":"Expanding","selected":"Expanding","Type a location, and use the down arrow to select a suggestion.":"Type a location, and use the down arrow to select a suggestion.","No locations match your input.":"No locations match your input.","within the last twenty four hours, use right arrow to increase":"within the last twenty four hours, use right arrow to increase","within the last seven days, use left and right arrow keys to change":"within the last seven days, use left and right arrow keys to change","within the last thirty days, use left and right arrow keys to change":"within the last thirty days, use left and right arrow keys to change","any time, use left arrow to reduce":"any time, use left arrow to reduce","Displaying page":"Displaying page","jobs":"jobs","of":"of","Clear the":"Clear the","location":"location","Clear":"Clear","Go to the first page of results.":"Go to the first page of results.","Go to the previous page of results.":"Go to the previous page of results.","Go to page":"Go to page","Go to the next page of results.":"Go to the next page of results.","Go to the last page of results.":"Go to the last page of results.","Collapse the search form":"Collapse the search form","Expand the search form":"Expand the search form","of results":"of results","Skip to main content":"Skip to main content","Show Map":"Show Map","Hide Map":"Hide Map","Invalid location selected":"Invalid location selected","Error please enter and select a valid location":"Error please enter and select a valid location","Error: Please enter and select a valid location":"Error: Please enter and select a valid location","Video Transcript":"Video Transcript","Hide Video Transcript":"Hide Video Transcript","Show Video Transcript":"Show Video Transcript","Enter a starting location and hit return\/enter on your keyboard to get directions":"Enter a starting location and hit return\/enter on your keyboard to get directions","opening":"opening","openings":"openings","switch to":"switch to","miles":"miles","kilometers":"kilometers"}};
+/* ]]> */
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/cws/js/cws.js?ver=3.9.18" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/cws/js/jquery.history.js?ver=4.7.3" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/cws/js/cws.jobs.js?ver=3.9.18" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/cws/js/jquery-ui.min.js?ver=3.9.18" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/cws/js/jquery.ui.touch-punch.min.js?ver=3.9.18" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.5.1" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.5.1" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/themes/enfold/js/avia-compat.js?ver=2" type="text/javascript">
+  </script>
+  <link href="http://www.vanguardjobs.com/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://www.vanguardjobs.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://www.vanguardjobs.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="http://www.vanguardjobs.com/?p=78&amp;job_id=6963973" rel="shortlink"/>
+  <link href="http://www.vanguardjobs.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.vanguardjobs.com%2Fjob%2F6963973%2Fadvanced-analytics-specialist-quebec-ca%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://www.vanguardjobs.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.vanguardjobs.com%2Fjob%2F6963973%2Fadvanced-analytics-specialist-quebec-ca%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <link href="http://www.vanguardjobs.com/wp-content/plugins/leaflet-maps-marker-pro/leaflet-georss.php?layer=all" rel="alternate" title="Vanguard Career Website GeoRSS-Feed" type="application/rss+xml"/>
+  <!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+  <script data-cfasync="false" type="text/javascript">
+   var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
+
+	var gtm4wp_scrollerscript_debugmode         = false;
+	var gtm4wp_scrollerscript_callbacktime      = 100;
+	var gtm4wp_scrollerscript_readerlocation    = 150;
+	var gtm4wp_scrollerscript_contentelementid  = "content";
+	var gtm4wp_scrollerscript_scannertime       = 60;
+	dataLayer.push({"pageTitle":"  Advanced Analytics Specialist &#8211; Vanguard &#8211; 107357","pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"ebirnbaum","pagePostDate":"February 18, 2015","pagePostDateYear":"2015","pagePostDateMonth":"02","pagePostDateDay":"18","browserName":"Amazon CloudFront","browserVersion":"","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"bot","deviceManufacturer":"","deviceModel":"","postCountOnPage":1,"postCountTotal":1});
+  </script>
+  <script data-cfasync="false">
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5ZZRJM');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- End Google Tag Manager for WordPress by DuracellTomi -->
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <link href="http://www.vanguardjobs.com/feed/" rel="alternate" title="Vanguard Career Website RSS2 Feed" type="application/rss+xml"/>
+  <link href="http://www.vanguardjobs.com/xmlrpc.php" rel="pingback"/>
+  <style media="screen" type="text/css">
+   #top #header_main > .container, #top #header_main > .container .main_menu ul:first-child > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:50px; line-height: 50px; }
+ .html_top_nav_header .av-logo-container{ height:50px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:130px; }
+  </style>
+  <!--[if lt IE 9]><script src="http://www.vanguardjobs.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+  <link href="http://cdn-static.findly.com/wp-content/uploads/sites/11/2015/05/v_favicon.jpg" rel="icon" type="image/x-icon"/>
+  <style type="text/css">
+   @font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('http://www.vanguardjobs.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('http://www.vanguardjobs.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('http://www.vanguardjobs.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('http://www.vanguardjobs.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('http://www.vanguardjobs.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+
+@font-face {font-family: 'arrows'; font-weight: normal; font-style: normal;
+src: url('http://www.vanguardjobs.com/wp-content/uploads/sites/11/avia_fonts/arrows/arrows.eot');
+src: url('http://www.vanguardjobs.com/wp-content/uploads/sites/11/avia_fonts/arrows/arrows.eot?#iefix') format('embedded-opentype'), 
+url('http://www.vanguardjobs.com/wp-content/uploads/sites/11/avia_fonts/arrows/arrows.woff') format('woff'), 
+url('http://www.vanguardjobs.com/wp-content/uploads/sites/11/avia_fonts/arrows/arrows.ttf') format('truetype'), 
+url('http://www.vanguardjobs.com/wp-content/uploads/sites/11/avia_fonts/arrows/arrows.svg#arrows') format('svg');
+} #top .avia-font-arrows, body .avia-font-arrows, html body [data-av_iconfont='arrows']:before{ font-family: 'arrows'; }
+  </style>
+ </head>
+ <body class="page-template-default page page-id-78 stretched arial-websave _arial tribe-no-js" id="top" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-5ZZRJM" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="wrap_all">
+   <header class=" header_color light_bg_color av_header_top av_logo_center av_bottom_nav_header av_menu_right av_custom av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch av_mobile_menu_tablet av_header_searchicon_disabled av_header_unstick_top_disabled av_seperator_big_border av_minimal_header" id="header" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+    <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="#" id="advanced_menu_toggle">
+     <span class="WCAG-2-A">
+      Menu Toggle
+     </span>
+    </a>
+    <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="#" id="advanced_menu_hide">
+     <span class="WCAG-2-A">
+      Menu Hide
+     </span>
+    </a>
+    <div class="container_wrap container_wrap_meta av_secondary_left av_extra_header_active av_entry_id_78" id="header_meta">
+     <div class="container">
+      <nav class="sub_menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+       <ul class="menu" id="avia2-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-451" id="menu-item-451">
+         <a href="http://vanguard.com">
+          CAREERS
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-884" id="menu-item-884">
+           <a href="https://about.vanguard.com/" target="_blank">
+            About Vanguard
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-885" id="menu-item-885">
+           <a href="https://pressroom.vanguard.com/#/" target="_blank">
+            Pressroom
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-886" id="menu-item-886">
+           <a href="https://personal.vanguard.com/us/content/SiteWide/OtherSitesContent.jsp" target="_blank">
+            Other Vanguard Sites
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-887" id="menu-item-887">
+           <a href="https://investor.vanguard.com/home/" target="_blank">
+            Personal Investors
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-888" id="menu-item-888">
+           <a href="https://retirementplans.vanguard.com/VGApp/pe/PublicHome" target="_blank">
+            Retirement Plan Participants
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-889" id="menu-item-889">
+           <a href="https://institutional.vanguard.com/VGApp/iip/site/institutional/home" target="_blank">
+            Institutional Investors
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-890" id="menu-item-890">
+           <a href="https://advisors.vanguard.com/VGApp/iip/site/advisor/home" target="_blank">
+            Financial Advisors
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-891" id="menu-item-891">
+           <a href="https://global.vanguard.com/portal/site/home" target="_blank">
+            Non-U.S. Investors
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-892" id="menu-item-892">
+           <a href="https://smallbiz.vanguard.com/VGApp/sbs/nesc/LoginPage" target="_blank">
+            Small Business Online
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-893" id="menu-item-893">
+           <a href="https://myplanmanager.vanguard.com" target="_blank">
+            Plan Sponsor Bridge
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-894" id="menu-item-894">
+           <a href="https://investmentonly.vanguard.com/VGApp/iio/nesc/LoginPage?TYPE=33554433&amp;REALMOID=06-b48d5a46-4975-4127-908a-5ec2d1364b61&amp;GUID=&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=investmentonlyprd01&amp;TARGET=$SM$%2fVGApp%2fiio%2fPortfolios" target="_blank">
+            Instiutional Trading
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </nav>
+     </div>
+    </div>
+    <div class="container_wrap container_wrap_logo" id="header_main">
+     <div class="container">
+      <div class="inner-container">
+       <strong class="logo">
+        <a href="http://www.vanguardjobs.com/">
+         <img alt="Vanguard Career Website" height="100" src="http://cdn-static.findly.com/wp-content/uploads/sites/11/2015/05/Vanguard_Logo.png" width="300"/>
+        </a>
+       </strong>
+      </div>
+     </div>
+     <div class="container_wrap" id="header_main_alternate">
+      <div class="container">
+       <nav class="main_menu" data-selectname="Select a page" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+        <div class="avia-menu av-main-nav-wrap">
+         <ul class="menu av-main-nav" id="avia-menu">
+          <li class="menu-img menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1" id="menu-item-995">
+           <a href="http://www.vanguardjobs.com/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             <img src="http://cdn-static.findly.com/wp-content/uploads/sites/11/2015/05/Vanguard_Logo.png"/>
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2" id="menu-item-362">
+           <a href="http://www.vanguardjobs.com/working-at-vanguard/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             Working at Vanguard
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1285">
+             <a href="http://www.vanguardjobs.com/working-at-vanguard/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Overview
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-661">
+             <a href="http://www.vanguardjobs.com/working-at-vanguard/culture/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Culture
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-663">
+             <a href="http://www.vanguardjobs.com/working-at-vanguard/people/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               People
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-3118">
+             <a href="https://crewconnect.vanguard.com/CrewNetPortal/mvc/DurableIndex?category=totalrewards.benefits" itemprop="url" target="_blank">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Benefits
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-662">
+             <a href="http://www.vanguardjobs.com/working-at-vanguard/faq/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               FAQ
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3" id="menu-item-602">
+           <a href="http://www.vanguardjobs.com/job-areas/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             Job areas
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1286">
+             <a href="http://www.vanguardjobs.com/job-areas/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Overview
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-701">
+             <a href="http://www.vanguardjobs.com/job-areas/client-services/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Client Services
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-711">
+             <a href="http://www.vanguardjobs.com/job-areas/advice/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Advice
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-717">
+             <a href="http://www.vanguardjobs.com/job-areas/finance-accounting/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Finance/Accounting
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-720">
+             <a href="http://www.vanguardjobs.com/job-areas/human-resources/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Human Resources
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-725">
+             <a href="http://www.vanguardjobs.com/job-areas/information-technology/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Information Technology
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-733">
+             <a href="http://www.vanguardjobs.com/job-areas/investment-management/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Investment Management
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-736">
+             <a href="http://www.vanguardjobs.com/job-areas/legal-regulatory/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Legal/Regulatory
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-739">
+             <a href="http://www.vanguardjobs.com/job-areas/sales-marketing/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Sales &amp; Marketing
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-745">
+             <a href="http://www.vanguardjobs.com/job-areas/strategy-consulting/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Strategy/Consulting
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-749">
+             <a href="http://www.vanguardjobs.com/job-areas/executive/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Executive
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-4" id="menu-item-625">
+           <a href="http://www.vanguardjobs.com/students-recent-graduates/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             Students/Recent graduates
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1287">
+             <a href="http://www.vanguardjobs.com/students-recent-graduates/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Overview
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-753">
+             <a href="http://www.vanguardjobs.com/students-recent-graduates/internships/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Internships
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2483">
+             <a href="http://www.vanguardjobs.com/job-areas/client-services/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Client-facing Roles
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-760">
+             <a href="http://www.vanguardjobs.com/students-recent-graduates/leadership-development-programs-2/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Leadership development programs
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-768">
+             <a href="http://www.vanguardjobs.com/students-recent-graduates/mba/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               MBA
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-935">
+             <a href="http://www.vanguardjobs.com/students-recent-graduates/explore/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               EXPLORE
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5" id="menu-item-365">
+           <a href="http://www.vanguardjobs.com/events/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             Events
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-6" id="menu-item-1245">
+           <a href="http://www.vanguardjobs.com/locations/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             Locations
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1288">
+             <a href="http://www.vanguardjobs.com/locations/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               United States
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-2855">
+             <a href="http://www.vanguardjobs.com/locations/canada/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Canada
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1247">
+             <a href="http://www.vanguardjobs.com/locations/hk/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Hong Kong
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1246">
+             <a href="http://www.vanguardjobs.com/locations/au/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               Australia
+              </span>
+             </a>
+            </li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-1248">
+             <a href="http://www.vanguardjobs.com/locations/uk/" itemprop="url">
+              <span class="avia-bullet">
+              </span>
+              <span class="avia-menu-text">
+               United Kingdom
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7" id="menu-item-367">
+           <a href="http://www.vanguardjobs.com/job-search-results/" itemprop="url">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             Job search
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-8" id="menu-item-473">
+           <a href="https://about.vanguard.com/" itemprop="url" target="_blank">
+            <span class="avia-bullet">
+            </span>
+            <span class="avia-menu-text">
+             About Vanguard
+            </span>
+            <span class="avia-menu-fx">
+             <span class="avia-arrow-wrap">
+              <span class="avia-arrow">
+              </span>
+             </span>
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </nav>
+       <!-- end inner-container-->
+      </div>
+      <!-- end container-->
+     </div>
+     <!-- end container_wrap-->
+    </div>
+    <div class="header_bg">
+    </div>
+    <!-- end header -->
+   </header>
+   <div data-scroll-offset="0" id="main">
+    <div class="stretch_full container_wrap alternate_color light_bg_color title_container">
+     <div class="container">
+      <div class="main-title entry-title" id="gtm-pagetitle">
+       <a aria-hidden="true" href="http://www.vanguardjobs.com/job/6963973/advanced-analytics-specialist-quebec-ca/" itemprop="headline" rel="bookmark" title="Permanent Link:   Advanced Analytics Specialist – Vanguard – 107357">
+        Advanced Analytics Specialist – Vanguard – 107357
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="main_color container_wrap_first container_wrap fullsize">
+     <div class="container">
+      <main class="template-page content av-content-full alpha units" itemprop="mainContentOfPage" role="main">
+       <div class="post-entry post-entry-type-page post-entry-78">
+        <div class="entry-content-wrapper clearfix">
+         <section class="avia_codeblock_section avia_code_block_0" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+          <div class="avia_codeblock " itemprop="text">
+           <h3 class="jobdetail-title" id="gtm-jobdetail-title">
+            Advanced Analytics Specialist
+           </h3>
+           <div class="jobdetail-info">
+            <span id="gtm-jobdetail-req" style="display: block;">
+             107357
+            </span>
+            <span id="gtm-jobdetail-city" style="display: block;">
+             Malvern, PA, US
+             <br/>
+            </span>
+            <br/>
+            <span class="format-date" id="gtm-jobdetail-date" style="display: block;">
+             November 10, 2016
+            </span>
+           </div>
+           <div class="jobdetail-buttons">
+            <span id="gtm-jobdetail-apply">
+             <a class="findly-connect-lightbox button apply-btn" href="https://connect.thehive.com/vanguard-apply?a=Advanced+Analytics+Specialist&amp;al=Malvern%2C+PA&amp;ar=107357&amp;cp=107357-Advanced+Analytics+Specialist-%2CVanguard%2C+Career+Site%2C+Vanguard-Apply-Start&amp;gj=Data+Reporting+and+Analysis+Group&amp;gl=PA&amp;jt=Advanced+Analytics+Specialist&amp;d=https%3A%2F%2Fvanguard.wd5.myworkdayjobs.com%2Fvanguard_external%2Fjob%2FMalvern-PA%2FAdvanced-Analytics-Specialist_107357%2Fapply" role="button" tabindex="0">
+              Apply
+             </a>
+            </span>
+            <br/>
+            <span id="gtm-jobdetail-mind" style="display: block;">
+             <a class="findly-connect-lightbox button" href="https://connect.thehive.com/vanguard-alert?a=Advanced+Analytics+Specialist&amp;al=Malvern%2C+PA&amp;ar=107357&amp;cp=Vanguard+Career+Site&amp;gj=Data+Reporting+and+Analysis+Group&amp;gl=PA&amp;jt=Advanced+Analytics+Specialist&amp;d=fnCLOSE" role="button" tabindex="0">
+              Keep Me In Mind
+             </a>
+            </span>
+            <span id="gtm-jobdetail-chat" style="display: block;">
+             <p>
+             </p>
+            </span>
+            <span id="gtm-jobdetail-cart" style="display: block;">
+             <a aria-pressed="false" class="button avia-color-theme-color jobcart-btn" data-add="1" data-addtext="Add to Cart" data-job="%7B%22id%22%3A6963973%2C%22title%22%3A%22Advanced+Analytics+Specialist%22%2C%22ref%22%3A%22107357%22%2C%22primary_city%22%3A%22Malvern%22%2C%22primary_state%22%3A%22PA%22%2C%22primary_country%22%3A%22US%22%2C%22open_date%22%3A%22November+10%2C+2016%22%2C%22url%22%3A%22http%3A%5C%2F%5C%2Fwww.vanguardjobs.com%5C%2Fjob%5C%2F6963973%5C%2Fadvanced-analytics-specialist-quebec-ca%22%7D" data-removetext="Remove from Cart" href="#" role="button" tabindex="0">
+              <span class="av_font_icon avia_animate_when_visible av-icon-style- avia-icon-pos-left " style="color:#fff; border-color:#fff;">
+               <span aria-hidden="true" class="av-icon-char" data-av_icon="" data-av_iconfont="entypo-fontello" style="font-size:20px;line-height:20px;">
+               </span>
+              </span>
+              <span class="cartbtn-text">
+               Add to Cart
+              </span>
+             </a>
+            </span>
+           </div>
+           <div style="clear: both;">
+           </div>
+           <div class="video-container">
+           </div>
+           <div class="jobdetail-desc" id="gtm-jobdetail-desc">
+            As a client-focused company, we take pride in having helped millions of clients accomplish their financial goals. Vanguard crew are driven to inspire, inform, and educate clients so they can cut through market noise and make the best choice for investment success. We are currently seeking an Advanced Analytics Specialist with advanced analytics skills to help Vanguard by building models using advanced analytic techniques, driving targeting, treatment and segmentation insights.
+            <p>
+             The ideal candidate is a resourceful, bright professional with a fresh perspective who also shares Vanguard’s view on our products, the markets, and the economy.  You should be comfortable collaborating with leaders and peers across the company about business needs and questions.
+             <br/>
+             As an Advanced Analytics Specialist, you’ll benefit from career development opportunities, a policy of promoting from within, and workplace flexibility. In addition to gaining a stimulating and prominent role, you’ll be part of a company where doing the right thing isn’t just a tagline, it’s our passion.
+            </p>
+            <ul>
+             <li>
+              Develops queries and performs extensive programming to access, transform and prepare data for statistical modeling. Identifies and diagnoses data inconsistencies and errors, forages to fill data gaps and blazes new data trails. Creates derived characteristics.
+             </li>
+             <li>
+              Designs and develops models to target marketing and service offers. Supports production implementation of models, and validates models.  Creates model documentation.
+             </li>
+             <li>
+              Performs deep dive diagnostic, predictive and prescriptive analytics for customer behavioral segmentation, look-alike targeting, growth opportunity estimation and next best action identification.
+             </li>
+             <li>
+              Prepares and delivers insight presentations and action recommendations. Communicates complex material in layman’s terms. Educates leaders and crew on analytical findings and implications using storytelling, data visualization and graphical artisanship.
+             </li>
+             <li>
+              Designs analytic plans, translating business problems/opportunities into analytic approaches. Engages with project sponsors and stakeholders to understand each business question. Probes for hidden questions and goals. Brings structure to each request and translates requirements into an analytic approach.
+             </li>
+             <li>
+              Analyzes data to describe client behavior and preferences, understand channel usage, diagnose client experience problems, size marketing opportunity, target clients for treatment and measure the impact of marketing and servicing initiatives. Identifies and utilizes appropriate analytic methods and specialized tools to generate insights, answer the business questions and fulfill project objectives. Seeks out innovative approaches and techniques.
+             </li>
+             <li>
+              Guides test design, research design and model validation.  Provides statistical consultation services. Serves as the analytics expert on cross functional teams for large strategic initiatives.
+             </li>
+             <li>
+              Develops and applies domain knowledge of Vanguard’s businesses and data to shape the analytic road map.
+             </li>
+             <li>
+              Contributes to the growth of the analytic community.
+             </li>
+             <li>
+              Participates in special projects and performs other duties as required.
+             </li>
+            </ul>
+            <h2>
+             <b>
+              Qualifications:
+             </b>
+            </h2>
+            <ul>
+             <li>
+              Undergraduate degree in Analytics, Applied Mathematics, Economics, Statistics or related analytical field of study or equivalent combination of training and experience.  Graduate degree preferred.
+             </li>
+             <li>
+              A minimum of five years general experience and five years relevant professional experience in analytical roles.
+             </li>
+             <li>
+              Experience developing creative analytical solutions to marketing and client service problems and opportunities.
+             </li>
+             <li>
+              Able to take disparate data and understand it, process it, extract value from it, visualize it and communicate it.
+             </li>
+             <li>
+              Experience consulting to understand business problems/opportunities, translating needs into analytic projects and applying results.
+             </li>
+             <li>
+              Data wrangling – Programming skills to access, transform and prepare large scale data for statistical modeling.
+             </li>
+             <li>
+              Experience utilizing statistical and machine learning methods:  data imputation, propensity models, regression (logistic, linear), clustering (k-nearest neighbors, hierarchical), decision trees (CHAID,  CART), random forest, uplift modeling, optimization, simulation, time series, hazard function and survival analysis, Bayesian methods, principal component analysis, support vector machines, association rules, ensemble methods, forecasting, model validation, design of experiments, text mining.
+             </li>
+             <li>
+              Skills in the data science tool stack:  SAS (Base, Macro, Stat), SQL, KnowledgeSTUDIO, Python, R.
+             </li>
+             <li>
+              Domain experience in marketing analytics:  customer acquisition, digital marketing, response modeling, identifying customer needs, predicting customer behavior, next best action, diagnosing customer struggle, attrition/churn, customer lifetime value, sales territory analytics.
+             </li>
+             <li>
+              Strong communicator of complex concepts and analysis, able to handle a variety of audience knowledge levels. Data visualization and storytelling skills.
+             </li>
+            </ul>
+            <h2>
+             <b>
+              Special Factors
+             </b>
+            </h2>
+            <p>
+             Vanguard is not offering visa sponsorship for this position.
+            </p>
+           </div>
+          </div>
+         </section>
+         <div class="hr hr-invisible avia-builder-el-1 el_after_av_codeblock el_before_av_social_share " style="height:30px">
+          <span class="hr-inner ">
+           <span class="hr-inner-style">
+           </span>
+          </span>
+         </div>
+         <div class="av-social-sharing-box avia-builder-el-2 el_after_av_hr avia-builder-el-last ">
+          <div class="av-share-box">
+           <h5 class="av-share-link-description">
+            Share this job
+           </h5>
+           <ul class="av-share-box-list noLightbox">
+            <li class="av-share-link av-social-link-facebook">
+             <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.vanguardjobs.com%2Fjob%2F6963973%2Fadvanced-analytics-specialist-quebec-ca%2F&amp;t=%20%20Advanced%20Analytics%20Specialist%20%E2%80%93%20Vanguard%20%E2%80%93%20107357" target="_blank">
+              <span class="avia_hidden_link_text">
+               Share on Facebook
+              </span>
+             </a>
+            </li>
+            <li class="av-share-link av-social-link-twitter">
+             <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://twitter.com/share?text=%20%20Advanced%20Analytics%20Specialist%20%E2%80%93%20Vanguard%20%E2%80%93%20107357&amp;url=http%3A%2F%2Fwww.vanguardjobs.com%2F%3Fp%3D78%26job_id%3D6963973" target="_blank">
+              <span class="avia_hidden_link_text">
+               Share on Twitter
+              </span>
+             </a>
+            </li>
+            <li class="av-share-link av-social-link-linkedin">
+             <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="http://linkedin.com/shareArticle?mini=true&amp;title=%20%20Advanced%20Analytics%20Specialist%20%E2%80%93%20Vanguard%20%E2%80%93%20107357&amp;url=http%3A%2F%2Fwww.vanguardjobs.com%2Fjob%2F6963973%2Fadvanced-analytics-specialist-quebec-ca%2F" target="_blank">
+              <span class="avia_hidden_link_text">
+               Share on Linkedin
+              </span>
+             </a>
+            </li>
+            <li class="av-share-link av-social-link-mail">
+             <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="mailto:?subject=%20%20Advanced%20Analytics%20Specialist%20%E2%80%93%20Vanguard%20%E2%80%93%20107357&amp;body=http%3A%2F%2Fwww.vanguardjobs.com%2Fjob%2F6963973%2Fadvanced-analytics-specialist-quebec-ca%2F">
+              <span class="avia_hidden_link_text">
+               Share by Mail
+              </span>
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </main>
+      <!-- close content main element -->
+      <!-- section close by builder template -->
+     </div>
+     <!--end builder template-->
+    </div>
+    <!-- close default .container_wrap element -->
+    <div class="container_wrap footer_color" id="footer">
+     <div class="container">
+      <div class="flex_column av_one_fourth first el_before_av_one_fourth">
+       <section class="widget clearfix widget_nav_menu" id="nav_menu-3">
+        <h3 class="widgettitle">
+         HOME
+        </h3>
+        <div class="menu-footer1-container">
+         <ul class="menu" id="menu-footer1">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-865" id="menu-item-865">
+           <a href="https://about.vanguard.com/" target="_blank">
+            Overview
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-866" id="menu-item-866">
+           <a href="https://about.vanguard.com/who-we-are/" target="_blank">
+            Who we are
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-867" id="menu-item-867">
+           <a href="https://about.vanguard.com/what-sets-vanguard-apart/" target="_blank">
+            What sets Vanguard apart
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-868" id="menu-item-868">
+           <a href="https://about.vanguard.com/our-clients/" target="_blank">
+            Our clients
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-869" id="menu-item-869">
+           <a href="https://about.vanguard.com/community-involvement/" target="_blank">
+            Community involvement
+           </a>
+          </li>
+         </ul>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth ">
+       <section class="widget clearfix widget_nav_menu" id="nav_menu-4">
+        <h3 class="widgettitle">
+         PRESSROOM
+        </h3>
+        <div class="menu-footer2-container">
+         <ul class="menu" id="menu-footer2">
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-871" id="menu-item-871">
+           <a href="https://pressroom.vanguard.com/#!/" target="_blank">
+            Overview
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-872" id="menu-item-872">
+           <a href="https://personal.vanguard.com/us/insights/marketsandeconomy" target="_blank">
+            News &amp; Views
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-873" id="menu-item-873">
+           <a href="https://pressroom.vanguard.com/#!/research-commentary" target="_blank">
+            Commentaries
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-874" id="menu-item-874">
+           <a href="https://pressroom.vanguard.com/#!/contact-us" target="_blank">
+            PR contacts
+           </a>
+          </li>
+         </ul>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth ">
+       <section class="widget clearfix widget_nav_menu" id="nav_menu-5">
+        <h3 class="widgettitle">
+         CAREERS
+        </h3>
+        <div class="menu-footer3-container">
+         <ul class="menu" id="menu-footer3">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-875" id="menu-item-875">
+           <a href="http://www.vanguardjobs.com/">
+            Home
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2652" id="menu-item-2652">
+           <a href="http://www.vanguardjobs.com/">
+            Overview
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-877" id="menu-item-877">
+           <a href="http://www.vanguardjobs.com/working-at-vanguard/">
+            Working at Vanguard
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-878" id="menu-item-878">
+           <a href="/job-search-results/">
+            Find a job
+           </a>
+          </li>
+         </ul>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+      <div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth ">
+       <section class="widget clearfix widget_nav_menu" id="nav_menu-6">
+        <h3 class="widgettitle">
+         CONNECT WITH US
+        </h3>
+        <div class="menu-footer4-container">
+         <ul class="menu" id="menu-footer4">
+          <li class="icon-ln menu-item menu-item-type-custom menu-item-object-custom menu-item-879" id="menu-item-879">
+           <a href="https://www.linkedin.com/company/vanguard" target="_blank" title="NOTE:  When you use this feature, you’ll leave vanguardjobs.com and go to a third-party website.  Vanguard accepts no responsibility for content on third-party sites, or for the services provided.  Also, please be aware that when you use services provided by a third-party site, you’re subject to that site’s terms of service and privacy rules, which you should review carefully.">
+            LinkedIn
+           </a>
+          </li>
+          <li class="icon-fb menu-item menu-item-type-custom menu-item-object-custom menu-item-880" id="menu-item-880">
+           <a href="https://www.facebook.com/Vanguard" target="_blank" title="NOTE:  When you use this feature, you’ll leave vanguardjobs.com and go to a third-party website.  Vanguard accepts no responsibility for content on third-party sites, or for the services provided.  Also, please be aware that when you use services provided by a third-party site, you’re subject to that site’s terms of service and privacy rules, which you should review carefully.">
+            Facebook
+           </a>
+          </li>
+          <li class="icon-tw menu-item menu-item-type-custom menu-item-object-custom menu-item-881" id="menu-item-881">
+           <a href="https://twitter.com/Vanguard_Group" target="_blank" title="NOTE:  When you use this feature, you’ll leave vanguardjobs.com and go to a third-party website.  Vanguard accepts no responsibility for content on third-party sites, or for the services provided.  Also, please be aware that when you use services provided by a third-party site, you’re subject to that site’s terms of service and privacy rules, which you should review carefully.">
+            Twitter
+           </a>
+          </li>
+          <li class="icon-yt menu-item menu-item-type-custom menu-item-object-custom menu-item-882" id="menu-item-882">
+           <a href="https://www.youtube.com/user/Vanguard" target="_blank" title="NOTE:  When you use this feature, you’ll leave vanguardjobs.com and go to a third-party website.  Vanguard accepts no responsibility for content on third-party sites, or for the services provided.  Also, please be aware that when you use services provided by a third-party site, you’re subject to that site’s terms of service and privacy rules, which you should review carefully.">
+            YouTube
+           </a>
+          </li>
+         </ul>
+        </div>
+        <span class="seperator extralight-border">
+        </span>
+       </section>
+      </div>
+     </div>
+     <!-- ####### END FOOTER CONTAINER ####### -->
+    </div>
+    <footer class="container_wrap socket_color" id="socket" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+     <div class="container">
+      <span class="copyright">
+       Our commitment to equal employment opportunity
+       <br/>
+       It is an important objective of Vanguard to provide for all crew members a working environment that is free from discrimination, prejudice, and bias.
+       <br/>
+       Through this Equal Employment Opportunity (EEO) Policy, Vanguard reaffirms its commitment to equal employment opportunity for all qualified
+       <br/>
+       persons without regard to race, color, national origin, religion, gender, sexual orientation, gender identity or expression, age, or disability.
+       <br/>
+       In addition, Vanguard prohibits discrimination based on genetic information.
+       <br/>
+       <br/>
+       <img align="right" class="logo-ship-footer" src="http://cdn-static.findly.com/wp-content/uploads/sites/11/2015/05/logo_vanguard_ship.png"/>
+       © 1995–2015 The Vanguard Group, Inc. All rights reserved. Your use of this site signifies that you accept our
+       <a href="http://vanguard.site.findly.com/terms-conditions/">
+        terms and conditions of use
+       </a>
+       .
+      </span>
+      <nav class="sub_menu_socket" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+       <div class="avia3-menu">
+        <ul class="menu" id="avia3-menu">
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-1" id="menu-item-979">
+          <a href="http://www.vanguardjobs.com/site-privacy-policy/" itemprop="url">
+           <span class="avia-bullet">
+           </span>
+           <span class="avia-menu-text">
+            Site Privacy Policy
+           </span>
+           <span class="avia-menu-fx">
+            <span class="avia-arrow-wrap">
+             <span class="avia-arrow">
+             </span>
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2" id="menu-item-980">
+          <a href="http://www.vanguardjobs.com/terms-conditions/" itemprop="url">
+           <span class="avia-bullet">
+           </span>
+           <span class="avia-menu-text">
+            Terms &amp; Conditions
+           </span>
+           <span class="avia-menu-fx">
+            <span class="avia-arrow-wrap">
+             <span class="avia-arrow">
+             </span>
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-3" id="menu-item-2653">
+          <a href="http://www.vanguardjobs.com/" itemprop="url">
+           <span class="avia-bullet">
+           </span>
+           <span class="avia-menu-text">
+            Careers
+           </span>
+           <span class="avia-menu-fx">
+            <span class="avia-arrow-wrap">
+             <span class="avia-arrow">
+             </span>
+            </span>
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-4" id="menu-item-1300">
+          <a href="mailto:careers@vanguard.com" itemprop="url">
+           <span class="avia-bullet">
+           </span>
+           <span class="avia-menu-text">
+            Contact Us
+           </span>
+           <span class="avia-menu-fx">
+            <span class="avia-arrow-wrap">
+             <span class="avia-arrow">
+             </span>
+            </span>
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </nav>
+     </div>
+     <!-- ####### END SOCKET CONTAINER ####### -->
+    </footer>
+    <!-- end main -->
+   </div>
+   <!-- end wrap_all -->
+  </div>
+  <script>
+   ( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://www.vanguardjobs.com/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://www.vanguardjobs.com/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.vanguardjobs.com/wp-admin/admin-ajax.php';
+/* ]]> */
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/themes/enfold/js/avia.js?ver=3" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/themes/findlycws/js/shortcodes.js?ver=3" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.7.3" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-content/themes/findlycws/custom.js?ver=1" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/comment-reply.min.js?ver=4.7.3" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com?amd_asset_type=script&amp;amd_is_asset=1&amp;ver=3532" type="text/javascript">
+  </script>
+  <script src="http://www.vanguardjobs.com/wp-includes/js/wp-embed.min.js?ver=4.7.3" type="text/javascript">
+  </script>
+  <script id="tmpl-tribe_customizer_css" type="text/css">
+   .tribe-events-list .tribe-events-loop .tribe-event-featured,
+				.tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
+					background-color: #0ea0d7;
+				}
+
+				#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-events-list-widget .tribe-event-featured,
+				.tribe-events-venue-widget .tribe-event-featured,
+				.tribe-mini-calendar-list-wrapper .tribe-event-featured,
+				.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single {
+					background-color: rgba(14,160,215, .7 );
+					border-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single:hover {
+					background-color: #0ea0d7;
+				}
+  </script>
+  <style id="tribe_customizer_css" type="text/css">
+   .tribe-events-list .tribe-events-loop .tribe-event-featured,
+				.tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
+					background-color: #0ea0d7;
+				}
+
+				#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-events-list-widget .tribe-event-featured,
+				.tribe-events-venue-widget .tribe-event-featured,
+				.tribe-mini-calendar-list-wrapper .tribe-event-featured,
+				.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single {
+					background-color: rgba(14,160,215, .7 );
+					border-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single:hover {
+					background-color: #0ea0d7;
+				}
+  </style>
+  <script>
+   jQuery( document ).ready(function() {
+setTimeout(function() { 
+ jQuery(".open-popup-link").trigger('click');
+})
+},10);
+jQuery('.open-popup-link').magnificPopup({
+ type:'inline',
+ midClick: true 
+ });
+
+jQuery(function() {
+
+jQuery('.js_active .it-tabs .tab').css('color','#fff ');
+
+	jQuery('.js_active .tab-col-1 .tab_content').append('<div id="dhide"><img src="https://cdn-static.findly.com/wp-content/uploads/sites/11/2016/05/accordion-minus.jpg"></div>');
+	jQuery('.js_active .tab-col-2 .tab_content').append('<div id="dhide"><img src="https://cdn-static.findly.com/wp-content/uploads/sites/11/2016/05/accordion-minus.jpg"></div>');
+
+jQuery('.js_active .tab-col-1 #dhide img').click(function() {
+    jQuery('.js_active .tab-col-1 .tab_content').slideUp();
+jQuery('.js_active .tab-col-1 .tab_titles .tab').removeClass('active_tab');
+jQuery('.js_active .it-tabs .tab-col-1 .tab').css('color','#fff ');
+    });
+jQuery('.js_active .tab-col-2 #dhide img').click(function() {
+    jQuery('.js_active .tab-col-2 .tab_content').slideUp();
+jQuery('.js_active .tab-col-2 .tab_titles .tab').removeClass('active_tab');
+jQuery('.js_active .it-tabs .tab-col-2  .tab').css('color','#fff ');
+    });
+
+jQuery('.js_active .tab-col-1 .tab_titles .tab').click(function(){   jQuery('.js_active .tab-col-1 .tab_content').removeAttr('style');
+jQuery('.js_active .tab-col-1 .tab_content').scrollTop(0);
+jQuery('.js_active .tab-col-1 .tab_titles .tab').removeAttr('style');
+});
+jQuery('.js_active .tab-col-1 .tab').click(function(){
+jQuery('.js_active .tab-col-1 .tab').removeAttr('style');
+});
+
+jQuery('.js_active .tab-col-2 .tab_titles .tab').click(function(){   jQuery('.js_active .tab-col-2 .tab_content').removeAttr('style');
+jQuery('.js_active .tab-col-2 .tab_content').scrollTop(0);
+jQuery('.js_active .tab-col-2 .tab_titles .tab').removeAttr('style');
+});
+jQuery('.js_active .tab-col-2 .tab').click(function(){
+jQuery('.js_active .tab-col-2 .tab').removeAttr('style');
+});
+
+jQuery('.js_active .tab-col-1 .tab').click(function(){   
+jQuery('.js_active .tab-col-1 .tab_content.active_tab_content').removeAttr('style');
+jQuery('.js_active .tab-col-1 .tab_content.active_tab_content').scrollTop(0);
+});
+jQuery('.js_active .tab-col-2 .tab').click(function(){   
+jQuery('.js_active .tab-col-2 .tab_content.active_tab_content').removeAttr('style');
+jQuery('.js_active .tab-col-2 .tab_content.active_tab_content').scrollTop(0);
+});
+});
+  </script>
+  <a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="#top" id="scroll-top-link" title="Scroll to top">
+   <span class="avia_hidden_link_text">
+    Scroll to top
+   </span>
+  </a>
+  <div id="fb-root">
+  </div>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"49021e70cb","applicationID":"8718185","transactionName":"Z1NWNkIED0cDABAIWF4ZdQFEDA5aTRcBDEdcV0AHHQcUXQ4HARM=","queueTime":0,"applicationTime":678,"atts":"SxRVQAoeHEk=","errorBeacon":"bam.nr-data.net","agent":""}
+  </script>
+ </body>
+</html>

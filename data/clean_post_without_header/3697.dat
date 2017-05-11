@@ -1,0 +1,21 @@
+        We're looking for a brilliant individual with deep expertise in statistics to form the cornerstone of our data science team.  Our process gives you full ownership over the projects you tackle: so dream big, then execute well.
+        Data science at our Startup is primarily concerned with understanding the dynamics of our large (about 15 million matches per month) and complex (about 140,000 active markets across 700 service categories and 10,000 US cities) product ecosystem. What trends are occurring in the market? What drives user behavior? How can we intervene with product changes to guide user activity?
+        This generally involves careful inferential modeling over various observational datasets and challenging experimental design and analysis. It usually requires much deeper statistical understanding than just applying a machine learning algorithm at a problem and hoping for results. (Naturally, in the course of things, some more ML-style prediction problems do come up.)
+        You'll work closely with engineers to get the data you need out of our various storage layers and to implement experiments in our production systems. You'll be given the latitude to survey our company as a business, identify key opportunities, and use any and all available data to draw actionable conclusions that will guide the direction of the company.
+         Requirements
+          You have a deep understanding of probability and statistics, including (but not limited to) experimental design, randomization and blocking, error types and loss, frequentist vs. Bayesian approaches, bootstrapping and simulation, modeling (including techniques for nonlinear responses, generalized linear models, and model selection and evaluation), confounding and effect modification, propensity scores and other techniques for causal inference.
+          You're proficient with statistical analysis in an environment/tool/language of your choice (we use both R and Python/Pandas currently) and are comfortable creating repeatable, comprehensible analyses.
+          You're comfortable using SQL and writing efficient code to handle large data sets on a single machine. You don't need to be comfortable writing MapReduces. (If you have those skills, of course, you're welcome to apply them here.)
+          You express yourself clearly and concisely in written and verbal discussion of complex problems.
+         Responsibilities
+          You'll conceive of and answer questions about our product ecosystem using observational data
+          You'll design, implement and launch experiments to test your hypotheses
+          You'll identify and implement metrics that align with company goals
+          You'll contribute to our Python codebase and perform analyses in R or another statistics tool of your choice
+          You'll advise coworkers on the (mis)use of statistics to understand data
+         Example projects
+          Which markets in our ecosystem are most healthy?  Which are least healthy and how can we improve them?
+          Are service providers becoming more or less engaged with our company over time?  What's driving these changes?
+          Which consumers are most delighted by their experience?  What drives the differences and how can we best improve the experience for our users?
+          Are some service providers consistently under- or over-charging for their services?  How does that affect consumer behavior?  Could we offer advice to help them improve their businesses?
+          What drives differences in quote prices across consumer requests in different markets? How well can we predict the prices a consumer will get?

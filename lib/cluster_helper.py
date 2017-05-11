@@ -3,10 +3,11 @@
 from __future__ import print_function
 from sklearn.cluster import KMeans
 from store_helper import StoreHelper
+from dict_helper import DictHelper
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import sklearn.cluster as cluster
+from sklearn.cluster import MeanShift, estimate_bandwidth, Birch
 import hdbscan
 import time
 sns.set_context('poster')
@@ -20,10 +21,26 @@ class ClusterHelper(object):
         cluster_number = 3
         np_array = np.array(vector_list)
         k_means = KMeans(n_clusters=cluster_number, random_state=0).fit(np_array)
-        length = len(k_means.labels_)
-        clusters = [[str(j) for j in range(length) if k_means.labels_[j] == i] for i in range(cluster_number)]
-        for i in range(len(clusters)):
-            print ("Cluster %i has %i position, position: %s" % (i, len(clusters[i]), str(clusters[i])))
+        ClusterHelper.print_label(k_means.labels_, cluster_number)
+
+    @staticmethod
+    def print_label(label, cluster_number=None):
+        if cluster_number is None:
+            label_dict = DictHelper.dict_from_count_list(label)
+            print("\t".join([str(i) for i in label]))
+            print(label_dict)
+            print("max cluster number: %i" % max(label_dict))
+            print("min cluster number: %i" % min(label_dict))
+            position_tag = {}
+            for i in range(len(label)):
+                DictHelper.append_dic_key(position_tag, label[i], str(i))
+            for key, value in position_tag.items():
+                print ("%s: %s" % (key, value))
+        else:
+            length = len(label)
+            clusters = [[str(j) for j in range(length) if label[j] == i] for i in range(cluster_number)]
+            for i in range(len(clusters)):
+                print("Cluster %i has %i position, position: %s" % (i, len(clusters[i]), str(clusters[i])))
 
     @staticmethod
     def plot_clusters(data, algorithm, args, kwds):
@@ -44,8 +61,25 @@ class ClusterHelper(object):
     def run_script(vector_list):
         ClusterHelper.plot_clusters(np.array(vector_list), hdbscan.HDBSCAN, (), {'min_cluster_size': 15})
 
+    @staticmethod
+    def mean_shift_cluster(vector_list):
+        np_array = np.array(vector_list)
+        bandwidth = estimate_bandwidth(np_array, quantile=0.2, n_samples=500)
+        ms = MeanShift(bandwidth=bandwidth, bin_seeding=True)
+        ms.fit(np_array)
+        ClusterHelper.print_label(ms.labels_)
+
+    @staticmethod
+    def birch_cluster(vector_list):
+        np_array = np.array(vector_list)
+        brc = Birch(branching_factor=100, n_clusters=2, threshold=0.05, compute_labels=True)
+        brc.fit(np_array)
+        label = brc.predict(np_array)
+        ClusterHelper.print_label(label)
+
 
 if __name__ == '__main__':
     _vector_list = StoreHelper.load_data("../data/vectors.dat")
-    ClusterHelper.cluster_vector(_vector_list)
+    # ClusterHelper.mean_shift_cluster(_vector_list)
+    ClusterHelper.birch_cluster(_vector_list)
     # ClusterHelper.run_script(_vector_list)

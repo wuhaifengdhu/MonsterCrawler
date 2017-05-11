@@ -1,0 +1,242 @@
+at netflix
+we don't
+just
+deal with huge
+scale
+we
+deal with a huge
+diversity of
+scale
+we
+run
+thousand of
+application
+on
+our
+back-end
+cloud
+system
+we serve
+hundred of thousand of tv
+show and movie to
+million of customer
+across
+million of
+device
+distributed
+across
+thousand of
+device
+family
+all
+of
+which
+are constantly evolving
+and changing
+the
+real-time
+analytics
+group
+at netflix
+build
+system
+which
+continuously
+use
+diverse
+telemetry
+source
+within
+our
+environment
+to sift through
+million of signal and
+arrive at
+actionable high-confidence decision
+about
+what's
+going on
+in our
+environment and
+what we
+should
+do
+about
+it
+some
+work
+we've
+already talked about
+publicly
+and
+would like to open-source
+includes
+1 noticing when
+one
+out of thousand of
+server
+is misbehaving based on outlier detection and automatically replacing it
+with a new
+server
+2
+automatically detecting
+whether
+new
+code
+deployed
+to production
+is
+at least
+a performant and correct
+a baseline
+code and
+either accelerating deployment
+globally
+or
+rolling it
+back
+3
+automatically
+monitoring
+for
+health
+of
+application and alerting user
+when
+the application skews from
+normal
+behavior
+for more
+detail
+take a
+look at
+our
+talk
+at
+aws
+re
+invent
+we
+see
+huge
+opportunity for
+using rta decision
+to drive
+automated
+system
+both
+to improve our ecosystem's self-healing capability
+but also
+to make
+it easier for
+engineer to understand
+what's
+most important
+for them to look at
+automatically deduce correlation and causation and
+notice
+the most
+minute imperceptible change in our
+streaming
+environment
+before
+our customer
+do
+our
+analytics
+engineer
+build
+model
+that
+take
+advanced statistical analysis
+approach and machine learning technique to provide
+recommendation
+or
+in many
+case
+make decisive automated
+action
+in managing the production environment
+if
+extracting
+meaning
+out of
+a whole
+lot of data aka noise is fascinating
+to
+you
+we
+should
+talk
+if you
+like deducing and understanding
+control system
+pattern
+we
+should definitely talk
+what you'll be doingyou'll work closely with
+operation
+engineer and application developer to translate
+infrastructure
+monitoring
+problem
+into
+intelligent algorithmsyou'll learn
+develop and apply
+new
+technique
+in the intersection of
+computer science
+statistic and mathyou'll create
+anomaly detection
+model
+on top of
+large scale multidimensional real-time streaming and batch
+infrastructure datayou'll bring
+scientific rigor and
+a bias to
+action
+in solving problemsyou'll be
+automating
+your
+work
+by partnering with
+platform
+engineer to design
+a
+machine learning
+platform to accelerate
+model
+development and productizationwhat you'll bringyou're a great
+communicator and
+can
+explain
+complicated
+mathematical
+concept to
+software engineersyou've got
+prior
+academic and industry experience with
+statistical modeling and machine learning techniquesyou've worked with
+statistical analysis
+tool like
+r and pythonyou've got
+experience with
+time-series analysis
+technique
+including
+forecasting methodologiesyou've worked with machine generated
+telemetry
+system and application
+metric
+you've
+deployed
+maintained and performance tuned machine learning
+model
+in a
+production environmentadded bonusexperience writing
+enterprise grade
+java scala or python codeexperience with
+data stream
+mining techniquesdigital signal processing dsp knowledge

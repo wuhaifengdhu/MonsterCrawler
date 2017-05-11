@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 import cPickle as pickle
 import os.path
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 
 class StoreHelper(object):

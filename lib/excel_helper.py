@@ -4,6 +4,7 @@ from __future__ import print_function
 import pandas as pd
 import xlwt as excel
 from store_helper import StoreHelper
+from segment_helper import SegmentHelper
 
 
 class ExcelHelper(object):
@@ -18,6 +19,23 @@ class ExcelHelper(object):
         data_dict = {key.lower(): value for key, value in data_dict.items() if value > threshold}
         StoreHelper.store_data(data_dict, dict_file)
         print ("Generalized successfully and store dict to data file %s!" % dict_file)
+
+    @staticmethod
+    def get_probability_dict(excel_file, dict_file):
+        probability_dict = {}
+        header, raw_data = ExcelHelper.read_excel(excel_file)
+        row_number, column_number = raw_data.shape
+        if column_number != 2:
+            print("Attention! Excel file more than two column, please have a check! Use the first two column as dict")
+        for i in range(row_number):
+            word_list = SegmentHelper.segment_text(raw_data[i][0])
+            word_list = SegmentHelper.lemmatization(word_list)
+            if len(word_list) <= 1:  # ignore single word
+                continue
+            for j in range(len(word_list) - 1):
+                probability_dict["%s %s" % (word_list[j], word_list[j + 1])] = raw_data[i][1]
+        StoreHelper.store_data(probability_dict, dict_file)
+        print("Generalized successfully and store dict to data file %s!" % dict_file)
 
     @staticmethod
     def read_excel(excel_file):
@@ -58,11 +76,12 @@ class ExcelHelper(object):
         style = 'pattern: pattern solid, fore_colour %s' % color_dic[mask_value]
         return excel.easyxf(style)
 
+
 if __name__ == '__main__':
-    # ExcelHelper.convert_excel_to_dict("../resource/discipline.xlsx", "../resource/discipline.dat")
-    # ExcelHelper.convert_excel_to_dict("../resource/skills.xlsx", "../resource/skills.dat")
-    # ExcelHelper.convert_excel_to_dict("../resource/education.xlsx", "../resource/education.dat", 0)
-    ExcelHelper.convert_excel_to_dict("../resource/features.xlsx", "../resource/feature.dat", 0)
+    # ExcelHelper.get_probability_dict("../resource/discipline.xlsx", "../resource/discipline_2.dat")
+    ExcelHelper.get_probability_dict("../resource/skills.xlsx", "../resource/skills_2.dat")
+    # ExcelHelper.get_probability_dict("../resource/education.xlsx", "../resource/education_2.dat")
+    # ExcelHelper.convert_excel_to_dict("../resource/features.xlsx", "../resource/feature.dat", 0)
     # _header, _data = ExcelHelper.read_excel('test.xls')
     # _row, _col = _data.shape
     # _mask = [[] for i in range(_col)]

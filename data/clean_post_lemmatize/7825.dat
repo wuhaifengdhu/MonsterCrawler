@@ -1,0 +1,19 @@
+octo consulting group is seeking a big data architect the big data architect will help identify design develop and configure to establish a distributed and scalable architecture that support both public and private data exploration discovery dissemination in support of data-driven decision making improvement across governments function and business unit in addition candidate will perform the following
+work with the project team eg business analyst user interface ui designer product owner technical lead to refine the business requirement and complete the implementation and production deployment of these requirement these requirement are agile in nature and may evolve through collaboration between cross functional team and the product owner
+create and document the big data architecture design and all pertinent configuration execution instruction and artifact to establish and update the big data reservoir to provide data-driven organizational capability big data architecture will
+leverage open source technology consistent with the agency and federal source code policies
+have an ingestion tier that consumes raw data ie real-time and batch from source to store them with purpose-driven ingestion paradigm including ingestion of flat file data stream data and or via api and or open database connectivity odbc
+have a compute tier to support data processing ie map reduce data transformation process data loading to structured source etc and staging and preparing of the data for the analytics tier
+have a storage tier ie hadoop distributed file system hdfs to support accept and store both raw data and derived data aggregated from the compute tier
+have an analysis tier that allows developer and data scientist to create manage model derived data and prototype
+provide a data management governance tier for access control and allow for database view and rule to be set up to manage data access
+provide a bdr api to serve a an application endpoint supporting a restful get operation on various resource
+provide business end user with an interface to run visualization report dashboard develop custom query and export download output
+follow governments process procedure policy and standard including the system development life cycle sdlc and section 508 compliance
+provide data science expertise to develop analytical model prototype using the big data architecture to support data-driven decision making improvement
+provide data visualization service that view multiple disparate source of data and illuminate government data and analytics through visualization tool and analysis thus making the data easier to understand
+develop story that allow the public to tell share story about government data analytics through interactive visualization and foster discussion
+through visualization and understanding of the data articulate the implication of the data including trend correlation and identify actionable intelligence and how it relates to other data point
+support executive briefings when requested this will include recommendation and justification of architecture and strategy solution to current issue and any recommended alternative approach and justification
+version control and code check-in using the governments configuration management repository work collaboratively with government content management personnel to comply with their need build management and version control will be integrated with the government enterprise cm tool to ensure compliance
+create all necessary sdlc documentation or update including solution system design document sdd for the big data reservoir cm plan dynamic operation support plan dosp create and document the approved technology technical stack integration with core business system and service and other supporting system enterprise initiative and infrastructure

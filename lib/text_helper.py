@@ -29,6 +29,10 @@ class TextHelper(object):
                 match_result.append(key)
         return match_result
 
+    @staticmethod
+    def contain(context, word):
+        return word.lower() in context.lower()
+
 
 if __name__ == '__main__':
     print (TextHelper.get_years_pattern("one+ years one "))

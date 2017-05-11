@@ -33,6 +33,11 @@ class DictHelper(object):
                 total_dict[key] = value
 
     @staticmethod
+    def update_dict(total_dict, dict_to_update):
+        for key, value in dict_to_update.items():
+            total_dict[key] = value
+
+    @staticmethod
     def get_sorted_list(_dict, sorted_by_key=False):
         """
         Default sorted by value. 

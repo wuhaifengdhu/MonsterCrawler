@@ -1,11 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from gensim.models.phrases import Phraser, Phrases
-from gensim.models import word2vec
 from store_helper import StoreHelper
 from dict_helper import DictHelper
 from segment_helper import SegmentHelper
-from nltk.corpus import stopwords
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
@@ -13,16 +11,10 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 class GensimHelper(object):
     @staticmethod
     def phrase_detection(bi_gram, file_name):
-        # sentence_stream = GensimHelper.generate_sentence_stream()
-        # StoreHelper.store_data(sentence_stream, 'sentence_stream.dat')
-        # sentence_stream = StoreHelper.load_data('sentence_stream.dat', [])
-        # phrases = Phrases(sentence_stream, min_count=2, threshold=4)
-        # bi_gram = Phraser(phrases)
-        # sent = 'Working knowledge of Python, R, SQL, bash scripting, and the Linux operating system.'.split(' ')
-        lines = [x for x in StoreHelper.read_file(file_name).splitlines()]
+        lines = [line for line in StoreHelper.read_file(file_name).splitlines()]
         result = []
-        for x in lines:
-            for y in SegmentHelper.segment_text(x):
+        for line in lines:
+            for y in SegmentHelper.lemmatization(SegmentHelper.segment_text(line)):
                 if len(y) > 0:
                     result.append(y)
         return bi_gram[result]
@@ -36,7 +28,8 @@ class GensimHelper(object):
                 print ("Working on %s" % text_file)
                 file_content = StoreHelper.read_file(text_file)
                 for line in file_content.splitlines():
-                    sentence_stream.append([word for word in unicode(line, 'utf-8').lower().split() if word not in stopwords.words('english')])
+                    sentence_stream.append(SegmentHelper.lemmatization(SegmentHelper.segment_text(line)))
+        StoreHelper.store_data(sentence_stream, 'sentence_stream.dat')
         return sentence_stream
 
     @staticmethod
@@ -71,4 +64,11 @@ class GensimHelper(object):
 
 
 if __name__ == '__main__':
+    # Step 1, generate sentence stream
+    # GensimHelper.generate_sentence_stream()
+
+    # Step 2, generate phrase dict
+    # GensimHelper.generate_phrase_dict()
+
+    # Step 3, split dict
     GensimHelper.split_dict()

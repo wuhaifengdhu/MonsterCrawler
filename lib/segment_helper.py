@@ -4,6 +4,7 @@ import re
 from nltk.stem.wordnet import WordNetLemmatizer
 from dict_helper import DictHelper
 from store_helper import StoreHelper
+from nltk.corpus import stopwords
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -35,10 +36,10 @@ class SegmentHelper(object):
     def lemmatization(word_list):
         print "Before lemmatization", word_list
         new_list = []
+        word_list = [word.strip().lower() for word in word_list]
+        word_list = [word for word in word_list if len(word) > 0 and word not in stopwords.words('english')]
         for word in word_list:
-            word = word.strip()
-            if len(word) > 0 and word != '*':
-                new_list.append(lmtzr.lemmatize(word).lower())
+            new_list.append(lmtzr.lemmatize(word))
         print "After lemmatization", new_list
         return new_list
 
@@ -61,8 +62,8 @@ class SegmentHelper(object):
         prob_a_b_dict = {}
         for words, count in two_word_dict.items():
             word_a, word_b = words.split(' ')
-            pro_a_b = two_word_dict[words] * 1.0 / single_word_dict[word_b];
-            pro_b_a = two_word_dict[words] * 1.0 / single_word_dict[word_a];
+            pro_a_b = two_word_dict[words] * 1.0 / single_word_dict[word_b]
+            pro_b_a = two_word_dict[words] * 1.0 / single_word_dict[word_a]
             prob_a_b_dict[words] = max(pro_a_b, pro_b_a)
         return prob_a_b_dict
 

@@ -15,9 +15,9 @@ class TextHelper(object):
         pattern_string = 'one[+ -]+year[s]?|two[+ -]+year[s]?|three[+ -]+year[s]?|four[+ -]+year[s]?|' \
                          'five[+ -]+year[s]?|six[+ -]+year[s]?|seven[+ -]+year[s]?|eight[+ -]+year[s]?|' \
                          'night[+ -]+year[s]?|ten[+ -]+year[s]?'
-        match_result = TextHelper.get_pattern_in_context(context, '\d+\s*[+]?\s*years')
-        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*-\s*\d+\s*years'))
-        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*to\s*\d+\s*years'))
+        match_result = TextHelper.get_pattern_in_context(context, '\d+\s*[+]?\s*year[s]?')
+        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*-\s*\d+\s*year[s]?'))
+        match_result.extend(TextHelper.get_pattern_in_context(context, '\d+\s*to\s*\d+\s*year[s]?'))
         match_result.extend(TextHelper.get_pattern_in_context(context, pattern_string))
         return match_result
 
@@ -35,7 +35,7 @@ class TextHelper(object):
 
 
 if __name__ == '__main__':
-    print (TextHelper.get_years_pattern("one+ years one "))
+    print (TextHelper.get_years_pattern("and 2 - 3 years of work experience "))
     # print(TextHelper.get_pattern_in_context("23 years experience 23+ years", '\d+[+]? years'))
     # print(TextHelper.get_pattern_in_context("2 - 3 years experience 2   to 3 years", '\d+\s*-\s*\d+ years'))
     # print(TextHelper.get_pattern_in_context("2 - 3 years experience 2 to 3 years", '\d+\s*to\s*\d+ years'))

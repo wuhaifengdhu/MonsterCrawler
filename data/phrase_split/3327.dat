@@ -1,13 +1,12 @@
 function
-d
-s
 id
 var
-j fjs dgetelementsbytagname s
+j fjs dgetelementsbytagname
 0
-if dgetelementbyid id
+dgetelementbyid id
 return
-j dcreateelement s jsid id jssrc connectfacebooknet en us sdkjs xfbml 1
+j dcreateelement
+jsid id jssrc connectfacebooknet en us sdkjs xfbml 1
 version v23 fjsparentnodeinsertbefore j fjs document 'script' 'facebook-jssdk'
 facebook
 2016

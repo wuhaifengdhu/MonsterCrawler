@@ -1,82 +1,72 @@
-at netflix
-we don't
-just
-deal with huge
+netflix
+don't
+deal
+huge
 scale
-we
-deal with a huge
-diversity of
+deal
+huge
+diversity
 scale
-we
 run
-thousand of
+thousand
 application
-on
-our
 back-end
 cloud
 system
-we serve
-hundred of thousand of tv
-show and movie to
-million of customer
+serve
+hundred
+thousand
+tv
+show
+movie
+million
+customer
 across
-million of
+million
 device
 distributed
 across
-thousand of
+thousand
 device
 family
-all
-of
-which
-are constantly evolving
-and changing
-the
+constantly evolving
+changing
 real-time
 analytics
 group
-at netflix
+netflix
 build
 system
-which
 continuously
 use
 diverse
 telemetry
 source
 within
-our
 environment
-to sift through
-million of signal and
-arrive at
+sift
+million
+signal
+arrive
 actionable high-confidence decision
-about
 what's
-going on
-in our
-environment and
-what we
-should
-do
-about
-it
-some
+going
+environment
 work
 we've
-already talked about
+already talked
 publicly
-and
-would like to open-source
+would like
+open-source
 includes
-1 noticing when
+1 noticing
 one
-out of thousand of
+thousand
 server
-is misbehaving based on outlier detection and automatically replacing it
-with a new
+misbehaving based
+outlier detection
+automatically replacing
+new
 server
 2
 automatically detecting
@@ -84,159 +74,157 @@ whether
 new
 code
 deployed
-to production
-is
-at least
-a performant and correct
-a baseline
-code and
+production
+least
+performant
+correct
+baseline
+code
 either accelerating deployment
 globally
-or
-rolling it
+rolling
 back
 3
 automatically
 monitoring
-for
 health
-of
-application and alerting user
-when
-the application skews from
+application
+alerting user
+application skews
 normal
 behavior
-for more
 detail
-take a
-look at
-our
+take
+look
 talk
-at
 aws
-re
 invent
-we
 see
 huge
-opportunity for
+opportunity
 using rta decision
-to drive
+drive
 automated
 system
-both
-to improve our ecosystem's self-healing capability
-but also
-to make
-it easier for
-engineer to understand
+improve
+ecosystem's self-healing capability
+also
+make
+easier
+engineer
+understand
 what's
-most important
-for them to look at
-automatically deduce correlation and causation and
+important
+look
+automatically deduce correlation
+causation
 notice
-the most
-minute imperceptible change in our
+minute imperceptible change
 streaming
 environment
-before
-our customer
-do
-our
+customer
 analytics
 engineer
 build
 model
-that
 take
 advanced statistical analysis
-approach and machine learning technique to provide
+approach
+machine learning technique
+provide
 recommendation
-or
-in many
+many
 case
 make decisive automated
 action
-in managing the production environment
-if
+managing
+production environment
 extracting
 meaning
-out of
-a whole
-lot of data aka noise is fascinating
-to
-you
-we
-should
+whole
+lot
+data aka noise
+fascinating
 talk
-if you
-like deducing and understanding
+like deducing
+understanding
 control system
 pattern
-we
-should definitely talk
-what you'll be doingyou'll work closely with
+definitely talk
+you'll
+doingyou'll work closely
 operation
-engineer and application developer to translate
+engineer
+application developer
+translate
 infrastructure
 monitoring
 problem
-into
 intelligent algorithmsyou'll learn
-develop and apply
+develop
+apply
 new
 technique
-in the intersection of
+intersection
 computer science
-statistic and mathyou'll create
+statistic
+mathyou'll create
 anomaly detection
 model
-on top of
-large scale multidimensional real-time streaming and batch
+top
+large scale multidimensional real-time streaming
+batch
 infrastructure datayou'll bring
-scientific rigor and
-a bias to
+scientific rigor
+bias
 action
-in solving problemsyou'll be
+solving problemsyou'll
 automating
-your
 work
-by partnering with
+partnering
 platform
-engineer to design
-a
+engineer
+design
 machine learning
-platform to accelerate
+platform
+accelerate
 model
-development and productizationwhat you'll bringyou're a great
-communicator and
-can
+development
+productizationwhat you'll bringyou're
+great
+communicator
 explain
 complicated
 mathematical
-concept to
+concept
 software engineersyou've got
 prior
-academic and industry experience with
-statistical modeling and machine learning techniquesyou've worked with
+academic
+industry experience
+statistical modeling
+machine learning techniquesyou've worked
 statistical analysis
 tool like
-r and pythonyou've got
-experience with
+r
+pythonyou've got
+experience
 time-series analysis
 technique
 including
-forecasting methodologiesyou've worked with machine generated
+forecasting methodologiesyou've worked
+machine generated
 telemetry
-system and application
+system
+application
 metric
 you've
 deployed
-maintained and performance tuned machine learning
+maintained
+performance tuned machine learning
 model
-in a
 production environmentadded bonusexperience writing
 enterprise grade
-java scala or python codeexperience with
+java scala
+python codeexperience
 data stream
 mining techniquesdigital signal processing dsp knowledge

@@ -36,7 +36,14 @@ class StoreHelper(object):
     @staticmethod
     def save_file(data, file_name):
         out = open(file_name, 'wb')
-        out.write(data)
+        if type(data) == list:
+            out.write('\n'.join([str(x) for x in data]))
+        elif type(data) == dict:
+            out.write('\n'.join(["%s: %s" % (k, v) for k, v in data.items()]))
+        elif type(data) != str:
+            out.write(str(data))
+        else:
+            out.write(data)
         out.close()
 
     @staticmethod

@@ -14,9 +14,9 @@ import os
 class Main(object):
     @staticmethod
     def convert_position():
-        skills_dict = StoreHelper.load_data("./resource/skills.dat", {})
-        discipline_dict = StoreHelper.load_data("./resource/discipline.dat", {})
-        education_dict = StoreHelper.load_data("./resource/education.dat", {})
+        skills_dict = StoreHelper.load_data("./resource/skills_2.dat", {})
+        discipline_dict = StoreHelper.load_data("./resource/discipline_2.dat", {})
+        education_dict = StoreHelper.load_data("./resource/education_2.dat", {})
         for i in range(4980):
             text_file = "./data/datascientist/%04d.txt" % i
             word_file = "./data/words/%04d.txt" % i
@@ -24,6 +24,45 @@ class Main(object):
             position_helper = PositionHelper(context)
             position_dict_list = position_helper.convert(skills_dict, discipline_dict, education_dict)
             StoreHelper.save_file("\n".join([str(item) for item in position_dict_list]), word_file)
+
+    @staticmethod
+    def generate_phase_list():
+        probability_dict = StoreHelper.load_data('./data/probability.dic', {})
+        print ("Get %i dict from file" % len(probability_dict))
+        for i in range(8535):
+            text_file = "./data/clean_post_lemmatize/%04d.dat" % i
+            if StoreHelper.is_file_exist(text_file):
+                word_file = "./data/phrase_split/%04d.dat" % i
+                context = StoreHelper.read_file(text_file)
+                position_helper = PositionHelper(context)
+                position_dict_list = position_helper.convert_2(probability_dict)
+                StoreHelper.save_file("\n".join([str(item) for item in position_dict_list]), word_file)
+            else:
+                print ("%s not exist!" % text_file)
+
+    @staticmethod
+    def compute_tfidf():
+        blob_dict = {}
+        total_dict = {}
+        probability_dict = StoreHelper.load_data('./data/probability.dic', {})
+        print("Get %i dict from file" % len(probability_dict))
+        for i in range(8535):
+            text_file = "./data/clean_post_lemmatize/%04d.dat" % i
+            if StoreHelper.is_file_exist(text_file):
+                context = StoreHelper.read_file(text_file)
+                position_helper = PositionHelper(context)
+                blob_dict[i] = position_helper.convert_2(probability_dict)
+
+        tfidf = TFIDF(blob_dict.values())
+        for i in range(8535):
+            if i in blob_dict:
+                output_file = "./data/tfidf-dat/%04d.dat" % i
+                print ("Working on %i article!" % i)
+                tf_idf_dict = tfidf.get_tf_idf(blob_dict[i])
+                DictHelper.merge_dict(total_dict, tf_idf_dict)
+                tf_idf_dict = {key: float("%.6f" % value) for key, value in tf_idf_dict.items()}
+                StoreHelper.store_data(tf_idf_dict, output_file)
+        StoreHelper.store_data(total_dict, "./data/tfidf.dat")
 
     @staticmethod
     def get_tfidf():
@@ -40,7 +79,7 @@ class Main(object):
 
         tfidf = TFIDF(blob_dict_list)
         for i in range(4980):
-            print ("Working on %i article!" % i)
+            print("Working on %i article!" % i)
             tf_idf_dict = tfidf.get_tf_idf(blob_dict_list[i])
             # tf_idf_dict = {key: "%.6f" % value for key, value in tf_idf_dict.items()}
             DictHelper.merge_dict(total_dict, tf_idf_dict)
@@ -118,7 +157,7 @@ class Main(object):
 
 
 if __name__ == "__main__":
-    Main.run_cluster()
+    Main.compute_tfidf()
     # Main.get_tfidf()
     # data_dict = StoreHelper.load_data('./data/tfidf.dat', {})
     # data_list = DictHelper.get_sorted_list(data_dict)

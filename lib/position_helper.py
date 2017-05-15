@@ -3,6 +3,8 @@
 from word_frequency import WordFrequency
 from dict_helper import DictHelper
 from text_helper import TextHelper
+from segment_helper import SegmentHelper
+from nltk.corpus import stopwords
 
 
 class PositionHelper(object):
@@ -49,6 +51,34 @@ class PositionHelper(object):
         self._add_and_remove(discipline_phase_list)
         self._add_and_remove(education_phase_list)
         return year_phase_list, skill_phase_list, discipline_phase_list, education_phase_list, self.phrase_dict
+
+    def convert_2(self, probability_dict):
+        year_phase_list = self._get_working_year_words()
+        phrase_list = self._remove_conjunction_segment(probability_dict)
+        phrase_list.extend(year_phase_list)
+        return DictHelper.dict_from_count_list(phrase_list)
+
+    def _remove_conjunction_segment(self, probability_dict):
+        phase_list = []
+        sentence_list = []
+        word_list = SegmentHelper.segment_text(self.raw_position)
+        word_group = []
+        for word in word_list:
+            if word in stopwords.words('english'):
+                if len(word_group) > 0:
+                    sentence_list.append(' '.join(word_group))
+                    word_group = []
+            else:
+                word_group.append(word)
+        if len(word_group) > 0:
+            sentence_list.append(' '.join(word_group))
+        for sentence in sentence_list:
+            phase_list.extend(SegmentHelper.phase_segment(probability_dict, sentence, 0.05))
+        return phase_list
+
+
+
+
 
 
 

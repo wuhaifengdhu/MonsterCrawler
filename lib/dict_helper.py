@@ -7,8 +7,12 @@ import operator
 
 class DictHelper(object):
     @staticmethod
-    def increase_dic_key(_dict, key):
-        _dict[key] = 1 if key not in _dict else _dict[key] + 1
+    def increase_dic_key(_dict, key_or_list):
+        if type(key_or_list) == list:
+            for k in key_or_list:
+                _dict[k] = 1 if k not in _dict else _dict[k] + 1
+        else:
+            _dict[key_or_list] = 1 if key_or_list not in _dict else _dict[key_or_list] + 1
 
     @staticmethod
     def decrease_dic_key(_dict, key):

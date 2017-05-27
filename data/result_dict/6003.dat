@@ -1,0 +1,55 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'database design'
+p4
+aS'science'
+p5
+aS'testing'
+p6
+aS'data scientist'
+p7
+aS'analytics'
+p8
+aS'computer science'
+p9
+aS'data'
+p10
+asS'working-year'
+p11
+(lp12
+V(2, 5]
+p13
+asS'major'
+p14
+(lp15
+S'science'
+p16
+aS'data analyst'
+p17
+aS'analytics'
+p18
+aS'design'
+p19
+aS'computer science'
+p20
+aS'ee computer science'
+p21
+asS'education'
+p22
+(lp23
+VBachelor
+p24
+asS'responsibility'
+p25
+(lp26
+S'report'
+p27
+aS'design'
+p28
+aS'development'
+p29
+aS'presentation'
+p30
+as.

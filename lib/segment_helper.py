@@ -25,23 +25,32 @@ class SegmentHelper(object):
     def segment_text(text):
         """Return a list of words that is the best segmentation of `text`."""
         # remove characters \ and .
-        text = re.sub(r'\\|\.', '', text)
+        text = re.sub(r'\\', '', text)
+        text = re.sub(r'(?<=[a-z])\.]', '', text)
         # remove unicode characters
         text = text.decode('unicode_escape').encode('ascii', 'ignore')
 
         # split words
-        return re.split(r'[^a-zA-Z0-9-+\']', text)
+        return re.split(r'[^a-zA-Z0-9-+/\'.]', text)
 
     @staticmethod
     def lemmatization(word_list):
-        print "Before lemmatization", word_list
+        print "Before lemmatization:", word_list
         new_list = []
-        word_list = [word.strip().lower() for word in word_list]
+        word_list = [word.strip() for word in word_list]
+        word_list = [word[1:] if len(word) > 1 and word.startswith('-') else word for word in word_list]
         word_list = [word for word in word_list if len(word) > 0 and word not in stopwords.words('english')]
         for word in word_list:
-            new_list.append(lmtzr.lemmatize(word))
-        print "After lemmatization", new_list
+            new_list.append(lmtzr.lemmatize(word).lower())
+        print "After lemmatization:", new_list
         return new_list
+
+    @staticmethod
+    def normalize(text):
+        print "Before normalize:", text
+        result = ' '.join(SegmentHelper.lemmatization(SegmentHelper.segment_text(text)))
+        print "After normalize:", result
+        return result
 
     @staticmethod
     def generate_probability_dict(file_content_list):

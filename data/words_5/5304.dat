@@ -1,0 +1,370 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'survival analysis'
+p4
+aS'oncology'
+p5
+aS'r d'
+p6
+aS'biostatistics'
+p7
+aS'clinical development'
+p8
+aS'soc'
+p9
+aS'rest'
+p10
+aS'quality control'
+p11
+aS'go'
+p12
+aS'time management'
+p13
+aS'xml'
+p14
+aS'cell'
+p15
+aS'r programming'
+p16
+aS'rf'
+p17
+aS'writing'
+p18
+aS'coaching'
+p19
+aS'networking'
+p20
+aS'policy'
+p21
+aS'pharmacology'
+p22
+aS'erp'
+p23
+aS'pharmacovigilance'
+p24
+aS'database management'
+p25
+aS'drug development'
+p26
+aS'communication skills'
+p27
+aS'pharmaceutical industry'
+p28
+aS'logistic regression'
+p29
+aS'cro'
+p30
+aS'sas base'
+p31
+aS'intelligence'
+p32
+aS'testing'
+p33
+aS'process improvement'
+p34
+aS'sem'
+p35
+aS'arm'
+p36
+aS'scala'
+p37
+aS'asic'
+p38
+aS'research'
+p39
+aS'access'
+p40
+aS'lua'
+p41
+aS'ssis'
+p42
+aS'biology'
+p43
+aS'data analysis'
+p44
+aS'marketing'
+p45
+aS'processing'
+p46
+aS'data scientist'
+p47
+aS'data quality'
+p48
+aS'epidemiology'
+p49
+aS'leadership'
+p50
+aS'mentoring'
+p51
+aS'modeling'
+p52
+aS'software development'
+p53
+aS'c'
+aS'programming'
+p54
+aS'clinical data management'
+p55
+aS'sas programming'
+p56
+aS'pl'
+p57
+aS'powerpoint'
+p58
+aS'owl'
+p59
+aS'consulting'
+p60
+aS'communication'
+p61
+aS'vis'
+p62
+aS'unix'
+p63
+aS'problem solving'
+p64
+aS'training'
+p65
+aS'statistics'
+p66
+aS'gis'
+p67
+aS'rdbms'
+p68
+aS'statistica'
+p69
+aS'recruiting'
+p70
+aS'envi'
+p71
+aS'strategy'
+p72
+aS'risk management'
+p73
+aS'visio'
+p74
+aS'operating systems'
+p75
+aS'search'
+p76
+aS'data processing'
+p77
+aS'valuation'
+p78
+aS'project management'
+p79
+aS'fda'
+p80
+aS'life sciences'
+p81
+aS'data collection'
+p82
+aS'word'
+p83
+aS'science'
+p84
+aS'r'
+aS'data management'
+p85
+aS'cad'
+p86
+aS'ip'
+p87
+aS'ant'
+p88
+aS'statistical analysis'
+p89
+aS'sas'
+p90
+aS'ic'
+p91
+aS'sap'
+p92
+aS'regression'
+p93
+aS'education'
+p94
+aS'excel'
+p95
+aS'gcp'
+p96
+aS'computer science'
+p97
+aS'mathematics'
+p98
+aS'collaboration'
+p99
+aS'english'
+p100
+aS'ios'
+p101
+aS'sql'
+p102
+aS'data'
+p103
+aS'statistical programming'
+p104
+aS'a'
+aS'ampl'
+p105
+aS'management'
+p106
+aS'windows'
+p107
+aS'microsoft word'
+p108
+aS'documentation'
+p109
+aS'analysis'
+p110
+aS'databases'
+p111
+aS'oracle'
+p112
+aS'organization'
+p113
+aS'validation'
+p114
+aS'people skills'
+p115
+aS'sd'
+p116
+asS'working-year'
+p117
+(lp118
+S'2+ year'
+p119
+aS'0-2 year'
+p120
+aS'7+ year'
+p121
+aS'8 year'
+p122
+aS'7 year'
+p123
+aS'10 year'
+p124
+aS'12 year'
+p125
+aS'2 year'
+p126
+aS'5 year'
+p127
+aS'6 year'
+p128
+aS'10+ year'
+p129
+aS'1 year'
+p130
+asS'major'
+p131
+(lp132
+S'biostatistics'
+p133
+aS'ee'
+p134
+aS'communication'
+p135
+aS'biology'
+p136
+aS'general'
+p137
+aS'design'
+p138
+aS'statistic'
+p139
+aS'computer science mathematics'
+p140
+aS'management'
+p141
+aS'computer science statistics'
+p142
+aVphysic
+p143
+aS'mathematics'
+p144
+aS'mis'
+p145
+aS'computer science'
+p146
+aS'ece'
+p147
+aS'mathematics biology'
+p148
+aS'business'
+p149
+aS'marketing'
+p150
+aS'phd'
+p151
+aS'epidemiology'
+p152
+aS'statistics'
+p153
+aS'law'
+p154
+aS'ee computer science'
+p155
+aS'project management'
+p156
+aS'life sciences'
+p157
+aS'science'
+p158
+aS'statistics computer science'
+p159
+aS'english'
+p160
+asS'education'
+p161
+(lp162
+VBachelor
+p163
+aVMaster
+p164
+aVDoctor
+p165
+asS'responsibility'
+p166
+(lp167
+S'development'
+p168
+aS'product'
+p169
+aS'data analysis'
+p170
+aS'exploratory analysis'
+p171
+aS'presentation'
+p172
+aS'processing'
+p173
+aS'communicate'
+p174
+aS'mapping'
+p175
+aS'analysis'
+p176
+aS'improvement'
+p177
+aS'data collection'
+p178
+aS'design'
+p179
+aS'modeling'
+p180
+aS'report'
+p181
+aS'understand'
+p182
+aS'implement'
+p183
+aS'evaluation'
+p184
+aS'model'
+p185
+aS'documentation'
+p186
+as.

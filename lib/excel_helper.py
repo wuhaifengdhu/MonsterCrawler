@@ -9,7 +9,7 @@ from segment_helper import SegmentHelper
 
 class ExcelHelper(object):
     @staticmethod
-    def convert_excel_to_dict(excel_file, dict_file, threshold=5):
+    def convert_excel_to_dict(excel_file, dict_file, threshold=1):
         header, raw_data = ExcelHelper.read_excel(excel_file)
         row_number, column_number = raw_data.shape
         if column_number != 2:
@@ -21,21 +21,21 @@ class ExcelHelper(object):
         print ("Generalized successfully and store dict to data file %s!" % dict_file)
 
     @staticmethod
-    def get_probability_dict(excel_file, dict_file):
+    def get_normalize_dict(excel_file, dict_file):
         probability_dict = {}
         header, raw_data = ExcelHelper.read_excel(excel_file)
         row_number, column_number = raw_data.shape
+        print (raw_data.shape)
         if column_number != 2:
             print("Attention! Excel file more than two column, please have a check! Use the first two column as dict")
         for i in range(row_number):
-            word_list = SegmentHelper.segment_text(raw_data[i][0])
-            word_list = SegmentHelper.lemmatization(word_list)
-            if len(word_list) <= 1:  # ignore single word
+            # key = SegmentHelper.normalize(raw_data[i][0])
+            key = raw_data[i][0]
+            if len(key.strip()) == 0:  # ignore single word
                 continue
-            for j in range(len(word_list) - 1):
-                probability_dict["%s %s" % (word_list[j], word_list[j + 1])] = raw_data[i][1]
+            probability_dict[key] = raw_data[i][1]
         StoreHelper.store_data(probability_dict, dict_file)
-        print("Generalized successfully and store dict to data file %s!" % dict_file)
+        print("Generalized successfully and store dict(%i) to data file %s!" % (len(probability_dict), dict_file))
 
     @staticmethod
     def read_excel(excel_file):
@@ -78,10 +78,11 @@ class ExcelHelper(object):
 
 
 if __name__ == '__main__':
-    # ExcelHelper.get_probability_dict("../resource/discipline.xlsx", "../resource/discipline_2.dat")
-    ExcelHelper.get_probability_dict("../resource/skills.xlsx", "../resource/skills_2.dat")
-    # ExcelHelper.get_probability_dict("../resource/education.xlsx", "../resource/education_2.dat")
-    # ExcelHelper.convert_excel_to_dict("../resource/features.xlsx", "../resource/feature.dat", 0)
+    # ExcelHelper.get_normalize_dict("../resource/discipline.xlsx", "../resource/discipline.dat")
+    # ExcelHelper.get_normalize_dict("../resource/skills.xlsx", "../resource/skills.dat")
+    # ExcelHelper.get_normalize_dict("../resource/education.xlsx", "../resource/education.dat")
+    # ExcelHelper.get_normalize_dict("../resource/responsibility.xlsx", "../resource/responsibility.dat")
+    ExcelHelper.get_normalize_dict("../resource/year_convert.xlsx", "../resource/year_convert.dat")
     # _header, _data = ExcelHelper.read_excel('test.xls')
     # _row, _col = _data.shape
     # _mask = [[] for i in range(_col)]

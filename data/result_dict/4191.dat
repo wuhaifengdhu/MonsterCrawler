@@ -1,0 +1,57 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'programming'
+p4
+aS'training'
+p5
+aS'theory'
+p6
+aS'data scientist'
+p7
+aS'recruiting'
+p8
+aS'analysis'
+p9
+aS'strategy'
+p10
+aS'policy'
+p11
+aS'education'
+p12
+aS'data'
+p13
+asS'working-year'
+p14
+(lp15
+V(5, 10]
+p16
+aV(2, 5]
+p17
+asS'major'
+p18
+(lp19
+S'information'
+p20
+aS'data analyst'
+p21
+aS'general'
+p22
+asS'education'
+p23
+(lp24
+VBachelor
+p25
+aVMaster
+p26
+asS'responsibility'
+p27
+(lp28
+S'development'
+p29
+aS'information'
+p30
+aS'analysis'
+p31
+as.

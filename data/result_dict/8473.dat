@@ -1,0 +1,105 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'education'
+p4
+aS'organization'
+p5
+aS'statistical analysis'
+p6
+aS'marketing'
+p7
+aS'data scientist'
+p8
+aS'scientific computing'
+p9
+aS'analysis'
+p10
+aS'machine learning'
+p11
+aS'hardware'
+p12
+aS'analytics'
+p13
+aS'computer science'
+p14
+aS'data mining'
+p15
+aS'modeling'
+p16
+aS'research'
+p17
+aS'data'
+p18
+aS'data analytics'
+p19
+aS'data quality'
+p20
+aS'science'
+p21
+asS'working-year'
+p22
+(lp23
+V(5, 10]
+p24
+aV(0, 2]
+p25
+asS'major'
+p26
+(lp27
+S'business'
+p28
+aS'computing'
+p29
+aS'marketing'
+p30
+aS'scientific computing'
+p31
+aS'machine learning'
+p32
+aS'analytics'
+p33
+aS'design'
+p34
+aS'computer science'
+p35
+aS'data mining'
+p36
+aS'phd'
+p37
+aS'data analytics'
+p38
+aS'science'
+p39
+asS'education'
+p40
+(lp41
+VBachelor
+p42
+aVMaster
+p43
+aVDoctor
+p44
+asS'responsibility'
+p45
+(lp46
+S'modeling'
+p47
+aS'formulate'
+p48
+aVinsight
+p49
+aS'analysis'
+p50
+aS'design'
+p51
+aS'data mining'
+p52
+aS'report'
+p53
+aS'complex data set'
+p54
+aS'implement'
+p55
+as.

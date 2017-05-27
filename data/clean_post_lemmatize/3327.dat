@@ -1,2 +1,2 @@
-function d s id var j fjs dgetelementsbytagname s 0 if dgetelementbyid id return j dcreateelement s jsid id jssrc connectfacebooknet en us sdkjs xfbml 1 version v23 fjsparentnodeinsertbefore j fjs document 'script' 'facebook-jssdk'
+function id var j fjs d.getelementsbytagname 0 d.getelementbyid id return j d.createelement js.id id js.src //connect.facebook.net/en us/sdk.js xfbml 1 version v2.3 fjs.parentnode.insertbefore j fjs document 'script' 'facebook-jssdk'
 facebook 2016

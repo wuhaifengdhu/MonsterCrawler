@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from __future__ import print_function
-import copy
 import operator
 
 
@@ -61,8 +60,19 @@ class DictHelper(object):
             DictHelper.increase_dic_key(result_dict, item)
         return result_dict
 
+    @staticmethod
+    def get_key(_dict, search_key):
+        if search_key in _dict:
+            return _dict[search_key]
+        else:
+            return search_key
+
 if __name__ == '__main__':
     # print (DictHelper.merge_dict({"wu": 1, "hai": 2}, {"wu": 3, "hai": 4}))
-    some_dict = {"wu": 1, "hai": 2}
-    DictHelper.decrease_dic_key(some_dict, 'haif')
-    print (some_dict)
+
+    # some_dict = {"wu": 1, "hai": 2}
+    # DictHelper.decrease_dic_key(some_dict, 'haif')
+    # print (some_dict)
+
+    some_dict = {1.4: '1.4', 12: '12', 6: '6'}
+    print (DictHelper.get_sorted_list(some_dict, True))

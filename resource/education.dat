@@ -1,176 +1,392 @@
 (dp1
-Vspecialized certification
+S'b.a.'
 p2
-I1
-sVphd/ma
+VBachelor
 p3
-I1
-sVpost graduate studies
+sS'mphil'
 p4
-I1
-sVphd candidate (all but dissertation)
+VMaster
 p5
-I1
-sVstanford lead
+sS'graduate certificate'
 p6
-I1
-sVmaster's degree
+g5
+sS'phd/ms'
 p7
-I1
-sVphd/ms
+g5
+sS'postdoctoral'
 p8
-I1
-sVphd coursework
+VDoctor
 p9
-I1
-sVpostdoctoral
+sS'm.eng.'
 p10
-I1
-sVpost graduate diploma
+g5
+sS'bachelor engineering be'
 p11
-I1
-sVphd/mphil
+g3
+sS'm.a.'
 p12
-I1
-sVpostgraduate masters
+g5
+sS'ms/ph.d'
 p13
-I1
-sVphd (pattern recognition using data mining and statistical techniques)
+g5
+sS'b.eng'
 p14
-I1
-sVphilosophy
+g3
+sS'ph.d. candidate'
 p15
-I1
-sVstatistics
+g9
+sS'post graduate diploma'
 p16
-I1
-sVpsychology
+g5
+sS'm.s.ece'
 p17
-I1
-sVresearch fellow
+g5
+sS'master engineering'
 p18
-I1
-sVundergraduate
+g5
+sS'postgraduate diploma'
 p19
-I1
-sVpost graduate work in statistics
+g5
+sS'mpa'
 p20
-I1
-sVphd candidate
+g5
+sS'msfe'
 p21
-I1
-sVstrategy
+g5
+sS'm.s.e.e'
 p22
-I1
-sVsocial network analysis
+g5
+sS'ph.d./m.a.'
 p23
-I1
-sVmaster
+g5
+sS'm.sc.'
 p24
-I1
-sVbachelor's degree
+g5
+sS'b.a. hons / m. math.'
 p25
-I1
-sVphd (stanford graduate fellow)
+g3
+sS'd.sc.'
 p26
-I1
-sVweb development
+g9
+sS'm.sci.'
 p27
-I1
-sVpost baccalaureate studies in urban planning and design
+g5
+sS'masters'
 p28
-I1
-sVspecialist
+g5
+sS'bas'
 p29
-I1
-sVsurvey courses
+g3
+sS'ed.m.'
 p30
-I1
-sVpostgraduate diploma
+g5
+sS'ph.d'
 p31
-I1
-sVself-determined major: epistemology of the social sciences
+g9
+sS'ms analytics'
 p32
-I1
-sVtrade school
+g5
+sS'diplom'
 p33
-I1
-sVphd (all but dissertation)
+g5
+sS'master science msan'
 p34
-I1
-sVpostgraduate
+g5
+sS'master science candidate'
 p35
-I1
-sVprofessional education & certification series
+g5
+sS'bs/ba'
 p36
-I1
-sVspecialization certificate
+g3
+sS'phd/mphil'
 p37
-I1
-sVphd.
+g5
+sS'ms/phd'
 p38
-I1
-sVphd
+g5
+sS'b tech'
 p39
-I1
-sVpost-graduate education
+g3
+sS'honours bachelor'
 p40
-I1
-sVbachelor
+g3
+sS"master's courses"
 p41
-I1
-sVschool; b.s
+g5
+sS"master's"
 p42
-I1
-sVphd candidate (abd)
+g5
+sS'b.s.'
 p43
-I1
-sVphd student
+g3
+sS'bsba'
 p44
-I1
-sVprogress toward ph.d.
+g3
+sS'double b.s.'
 p45
-I1
-sVphd;
+g3
+sS'be'
 p46
-I1
-sVphd leave out
+g3
+sS'ph.d./ m.a.'
 p47
-I1
-sVproject management
+g5
+sS'm.s'
 p48
-I1
-sVmasters
+g5
+sS'ba'
 p49
-I1
-sVphd candidate (abd - research on hold)
+g3
+sS'ph. d. / m.a.'
 p50
-I1
-sVweb development immersive
+g5
+sS'ph.d.'
 p51
-I1
-sVstateexamination in the subjects mathematics and biology
+g9
+sS'dr. sc.'
 p52
-I1
-sVtriple bachelor's degrees
+g9
+sS'b.s.e.'
 p53
-I1
-sVsm
+g3
+sS'post-graduate education'
 p54
-I1
-sVproduct management
+g9
+sS'bachelor'
 p55
-I1
-sVphd program sans thesis
+g3
+sS'bachelors degree'
 p56
-I1
-sVpost-doctoral research
+g3
+sS'basc'
 p57
-I1
-sVvisiting scholar
+g3
+sS'bs'
 p58
-I1
-sVsystems architecting and engineering
+g3
+sS'llb hons'
 p59
-I1
+g3
+sS'phd'
+p60
+g9
+sS'm.sc. int.'
+p61
+g5
+sS'ms ph.d'
+p62
+g5
+sS'msph'
+p63
+g5
+sS'doctor philosophy ph.d. abd'
+p64
+g9
+sS'ba/ma'
+p65
+g3
+sS'master engneering meng'
+p66
+g5
+sS'b-tech'
+p67
+g3
+sS'ma/ba'
+p68
+g3
+sS'ph. d.'
+p69
+g9
+sS'b.a'
+p70
+g3
+sS'doctor philosophy phd.'
+p71
+g9
+sS'graduate research'
+p72
+g5
+sS'mba candidate'
+p73
+g3
+sS'ma/mpp'
+p74
+g5
+sS'b.sc.'
+p75
+g3
+sS'bachelor arts history'
+p76
+g5
+sS'b.e.'
+p77
+g3
+sS'b.a. applied mathematics'
+p78
+g3
+sS'ph.d. / m.s.'
+p79
+g5
+sS'masters science m.s.'
+p80
+g5
+sS'master'
+p81
+g5
+sS'mse'
+p82
+g5
+sS'msc'
+p83
+g5
+sS'associates degree'
+p84
+g3
+sS'm.sc'
+p85
+g5
+sS'postgraduate'
+p86
+g5
+sS'post baccalaureate'
+p87
+g3
+sS'm.s. highest honor'
+p88
+g5
+sS'msc.'
+p89
+g5
+sS'me'
+p90
+g5
+sS'ma'
+p91
+g5
+sS'doctor philosophy ph.d.'
+p92
+g9
+sS'mtech'
+p93
+g5
+sS'ms.'
+p94
+g5
+sS'm.s.'
+p95
+g5
+sS'bachelors'
+p96
+g3
+sS'ms'
+p97
+g5
+sS'ph. d'
+p98
+g9
+sS'doctorate'
+p99
+g9
+sS'continuing educuation'
+p100
+g3
+sS'masters science'
+p101
+g5
+sS'msee'
+p102
+g5
+sS'advanced graduate certificate'
+p103
+g5
+sS'mater'
+p104
+g5
+sS'ee/cse bs ms'
+p105
+g3
+sS'm.stat'
+p106
+g5
+sS'm.tech'
+p107
+g5
+sS'doctor philosophy'
+p108
+g9
+sS'ms data science'
+p109
+g5
+sS'doctor'
+p110
+g9
+sS'ms / phd'
+p111
+g5
+sS'post graduate'
+p112
+g5
+sS'ph.d./ m.s.'
+p113
+g5
+sS'doctoral degree'
+p114
+g9
+sS"master's m.s."
+p115
+g5
+sS'bsfs'
+p116
+g3
+sS'post graduate work statistics'
+p117
+g5
+sS"bachelor's"
+p118
+g3
+sS'b.tech/m.tech'
+p119
+g3
+sS'mes program'
+p120
+g5
+sS'philosophy'
+p121
+g9
+sS'master science m.s.'
+p122
+g5
+sS'master professional studies'
+p123
+g5
+sS'b.tech.'
+p124
+g3
+sS'phd program'
+p125
+g9
+sS'm.a'
+p126
+g5
+sS'post-doctoral research'
+p127
+g9
+sS'bsc'
+p128
+g3
+sS'graduate student'
+p129
+g5
+sS'm. s'
+p130
+g5
+sS'b.s'
+p131
+g3
+sS"engineer's degree"
+p132
+g5
+sS'b.e'
+p133
+g3
 s.

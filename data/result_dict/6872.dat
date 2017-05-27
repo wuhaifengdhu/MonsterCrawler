@@ -1,0 +1,77 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'management'
+p4
+aS'analysis'
+p5
+aS'research'
+p6
+aS'analytics'
+p7
+aS'engineering'
+p8
+aS'modeling'
+p9
+aS'product management'
+p10
+aS'mathematics'
+p11
+aS'advanced analytics'
+p12
+aS'education'
+p13
+aVbayesian statistic
+p14
+aS'insurance'
+p15
+aS'validation'
+p16
+asS'working-year'
+p17
+(lp18
+V(5, 10]
+p19
+aV(2, 5]
+p20
+asS'major'
+p21
+(lp22
+S'management'
+p23
+aS'general'
+p24
+aS'analytics'
+p25
+aS'engineering'
+p26
+aS'statistic'
+p27
+aS'advanced analytics'
+p28
+aS'mathematics'
+p29
+asS'education'
+p30
+(lp31
+VMaster
+p32
+aVDoctor
+p33
+asS'responsibility'
+p34
+(lp35
+S'development'
+p36
+aS'product'
+p37
+aS'analysis'
+p38
+aS'modeling'
+p39
+aS'implement'
+p40
+aS'model'
+p41
+as.

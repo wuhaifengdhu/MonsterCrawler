@@ -1,31 +1,53 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-from word_frequency import WordFrequency
 from dict_helper import DictHelper
 from text_helper import TextHelper
+from store_helper import StoreHelper
 from segment_helper import SegmentHelper
 from nltk.corpus import stopwords
 
 
 class PositionHelper(object):
-    def __init__(self, raw_position):
+    def __init__(self, raw_position, is_generate_word_dict=False):
         self.raw_position = raw_position.lower()
-        self.phrase_dict = self._generate_single_word_dict()
+        self.word_list = self.generate_word_list()
+        self.is_generate_word_dict = is_generate_word_dict
+        if is_generate_word_dict:
+            self.phrase_dict = DictHelper.dict_from_count_list(self.word_list)
+        self.new_words_list = []
 
-    def _generate_single_word_dict(self):
-        return WordFrequency.get_frequency_dict(self.raw_position)
+    def generate_word_list(self):
+        words_list = []
+        for line in self.raw_position.splitlines():
+            words_list.extend(SegmentHelper.lemmatization(SegmentHelper.segment_text(line)))
+        return words_list
 
-    def _get_working_year_words(self):
-        return TextHelper.get_years_pattern(self.raw_position)
+    def _get_working_year_words(self, year_convert_file):
+        year_list = TextHelper.get_years_pattern(self.raw_position)
+        if len(year_list) == 0:
+            default_year_requirement = "0 year"
+            self.new_words_list.append(default_year_requirement)
+            year_list = [default_year_requirement]
+        year_convert = StoreHelper.load_data(year_convert_file, {})
+        return [year_convert[item] for item in year_list if item in year_convert]
 
     def _get_skill_words(self, skill_dict):
-        return TextHelper.get_dict_pattern(self.raw_position, skill_dict, 5)
+        return TextHelper.get_dict_pattern(self.word_list, self.raw_position, skill_dict, 0)
 
     def _get_discipline_words(self, discipline_dict):
-        return TextHelper.get_dict_pattern(self.raw_position, discipline_dict, 5)
+        return TextHelper.get_dict_pattern(self.word_list, self.raw_position, discipline_dict, 0)
 
     def _get_education_words(self, education_dict):
-        return TextHelper.get_dict_pattern(self.raw_position, education_dict, 0)
+        education_list = TextHelper.get_dict_pattern(self.word_list, self.raw_position, education_dict, 0)
+        if len(education_list) == 0:
+            default_education_requirement = "Bachelor"
+            self.new_words_list.append(default_education_requirement)
+            return [default_education_requirement]
+        else:
+            return [DictHelper.get_key(education_dict, word) for word in education_list]
+
+    def _get_responsibility_words(self, education_dict):
+        return TextHelper.get_dict_pattern(self.word_list, self.raw_position, education_dict, 0)
 
     def _add_and_remove(self, words_list):
         for words in words_list:
@@ -37,20 +59,29 @@ class PositionHelper(object):
         for word in word_list:
             DictHelper.decrease_dic_key(self.phrase_dict, word)
 
-    def convert(self, skill_dict, discipline_dict, education_dict):
-        year_phase_list = self._get_working_year_words()
+    def convert(self, skill_dict, discipline_dict, education_dict, responsibility_dict, year_convert_file):
+        year_phase_list = self._get_working_year_words(year_convert_file)
         skill_phase_list = self._get_skill_words(skill_dict)
         discipline_phase_list = self._get_discipline_words(discipline_dict)
         education_phase_list = self._get_education_words(education_dict)
-        # print (year_phase_list)
-        # print (skill_phase_list)
-        # print (discipline_phase_list)
-        # print (education_phase_list)
-        self._add_and_remove(year_phase_list)
-        self._add_and_remove(skill_phase_list)
-        self._add_and_remove(discipline_phase_list)
-        self._add_and_remove(education_phase_list)
-        return year_phase_list, skill_phase_list, discipline_phase_list, education_phase_list, self.phrase_dict
+        responsibility_phase_list = self._get_responsibility_words(responsibility_dict)
+        if self.is_generate_word_dict:
+            self._add_and_remove(year_phase_list)
+            self._add_and_remove(skill_phase_list)
+            self._add_and_remove(discipline_phase_list)
+            self._add_and_remove(education_phase_list)
+            self._add_and_remove(responsibility_phase_list)
+            for word in self.new_words_list:
+                DictHelper.increase_dic_key(self.phrase_dict, word)
+        result_dict = {"education": list(set(education_phase_list)), "major": list(set(discipline_phase_list)),
+                       "skills": list(set(skill_phase_list)),
+                       "working-year": list(set(year_phase_list)),
+                       "responsibility": list(set(responsibility_phase_list))}
+        return result_dict
+
+    def generate_phrase_dict(self, skill_dict, discipline_dict, education_dict, responsibility_dict):
+        self.convert(skill_dict, discipline_dict, education_dict, responsibility_dict)
+        return self.phrase_dict
 
     def convert_2(self, probability_dict):
         year_phase_list = self._get_working_year_words()
@@ -76,6 +107,10 @@ class PositionHelper(object):
             phase_list.extend(SegmentHelper.phase_segment(probability_dict, sentence, 0.05))
         return phase_list
 
+
+if __name__ == '__main__':
+    year_convert = StoreHelper.load_data('../resource/year_convert.dat', {})
+    print year_convert['four year']
 
 
 

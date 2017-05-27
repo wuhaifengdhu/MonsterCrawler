@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function
 import re
-from dict_helper import DictHelper
 
 
 class TextHelper(object):
@@ -22,10 +21,13 @@ class TextHelper(object):
         return match_result
 
     @staticmethod
-    def get_dict_pattern(context, _dict, threshold=100):
+    def get_dict_pattern(word_list, context, _dict, threshold=100):
         match_result = []
         for key, value in _dict.items():
-            if value > threshold and key in context:
+            key_split = key.strip().split(' ')
+            if len(key_split) > 1 and key in context and value > threshold:
+                match_result.append(key)
+            elif len(key_split) == 1 and key in word_list and value > threshold:
                 match_result.append(key)
         return match_result
 

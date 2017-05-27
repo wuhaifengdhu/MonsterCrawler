@@ -24,7 +24,7 @@ class ClusterHelper(object):
         ClusterHelper.print_label(k_means.labels_, cluster_number)
 
     @staticmethod
-    def print_label(label, cluster_number=None):
+    def print_label(label, index_list, cluster_number=None):
         if cluster_number is None:
             label_dict = DictHelper.dict_from_count_list(label)
             print("\t".join([str(i) for i in label]))
@@ -33,9 +33,10 @@ class ClusterHelper(object):
             print("min cluster number: %i" % min(label_dict))
             position_tag = {}
             for i in range(len(label)):
-                DictHelper.append_dic_key(position_tag, label[i], str(i))
+                DictHelper.append_dic_key(position_tag, label[i], int(index_list[i]))
             for key, value in position_tag.items():
                 print ("%s: %s" % (key, value))
+            StoreHelper.store_data(position_tag, 'position_tag.dat')
         else:
             length = len(label)
             clusters = [[str(j) for j in range(length) if label[j] == i] for i in range(cluster_number)]
@@ -70,16 +71,20 @@ class ClusterHelper(object):
         ClusterHelper.print_label(ms.labels_)
 
     @staticmethod
-    def birch_cluster(vector_list):
-        np_array = np.array(vector_list)
-        brc = Birch(branching_factor=100, n_clusters=2, threshold=0.05, compute_labels=True)
+    def birch_cluster(vector_list, index_list):
+        np_array = np.array(vector_list, dtype=float)
+        brc = Birch(branching_factor=50, n_clusters=15, threshold=0.05, compute_labels=True)
         brc.fit(np_array)
         label = brc.predict(np_array)
-        ClusterHelper.print_label(label)
+        ClusterHelper.print_label(label, index_list)
 
 
 if __name__ == '__main__':
-    _vector_list = StoreHelper.load_data("../data/vectors.dat")
+    # _vector_list = StoreHelper.load_data("../data/vectors.dat")
     # ClusterHelper.mean_shift_cluster(_vector_list)
-    ClusterHelper.birch_cluster(_vector_list)
+    # ClusterHelper.birch_cluster(_vector_list)
     # ClusterHelper.run_script(_vector_list)
+    position_dict = StoreHelper.load_data("../data/position_vector.dat", {})
+    _vector_list = position_dict.values()
+    _index_list = position_dict.keys()
+    ClusterHelper.birch_cluster(_vector_list, _index_list)

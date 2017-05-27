@@ -1,0 +1,75 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'solution selling'
+p4
+aS'forecasting'
+p5
+aS'saas'
+p6
+aS'r d'
+p7
+aS'government'
+p8
+aS'marketing'
+p9
+aS'healthcare'
+p10
+aS'data scientist'
+p11
+aS'analysis'
+p12
+aS'strategy'
+p13
+aS'access'
+p14
+aS'procurement'
+p15
+aS'management'
+p16
+aS'organization'
+p17
+aS'account management'
+p18
+aS'accounting'
+p19
+aS'data'
+p20
+asS'working-year'
+p21
+(lp22
+V(5, 10]
+p23
+aV(2, 5]
+p24
+asS'major'
+p25
+(lp26
+S'marketing'
+p27
+aS'management'
+p28
+aS'business'
+p29
+aS'accounting'
+p30
+asS'education'
+p31
+(lp32
+VMaster
+p33
+asS'responsibility'
+p34
+(lp35
+S'product'
+p36
+aS'forecasting'
+p37
+aS'communicate'
+p38
+aS'implement'
+p39
+aS'analysis'
+p40
+as.

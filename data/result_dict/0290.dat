@@ -1,0 +1,83 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'research design'
+p4
+aS'hbase'
+p5
+aS'search'
+p6
+aS'impala'
+p7
+aS'finance'
+p8
+aS'nosql'
+p9
+aS'government'
+p10
+aS'mongodb'
+p11
+aS'pig'
+p12
+aS'integration'
+p13
+aS'hive'
+p14
+aS'machine learning'
+p15
+aS'mahout'
+p16
+aS'h2o'
+p17
+aS'accounting'
+p18
+aS'spark'
+p19
+aS'research'
+p20
+aS'data'
+p21
+aS'big data'
+p22
+aS'cassandra'
+p23
+asS'working-year'
+p24
+(lp25
+V(20, 30)
+p26
+aV(2, 5]
+p27
+asS'major'
+p28
+(lp29
+S'information'
+p30
+aS'finance'
+p31
+aS'big data'
+p32
+aS'machine learning'
+p33
+aS'finance accounting'
+p34
+aS'design'
+p35
+aS'accounting'
+p36
+asS'education'
+p37
+(lp38
+VMaster
+p39
+asS'responsibility'
+p40
+(lp41
+S'information'
+p42
+aS'implement'
+p43
+aS'design'
+p44
+as.

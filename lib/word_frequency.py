@@ -16,12 +16,10 @@ please (e.g. not have"
 class WordFrequency(object):
     @staticmethod
     def get_frequency_dict(content):
-        words_dict = {}
-        words_list = SegmentHelper.segment_text(content)
-        for word in words_list:
-            if word.lower() not in conjunctions:
-                DictHelper.increase_dic_key(words_dict, word.lower())
-        return words_dict
+        words_list = []
+        for line in content.splitlines():
+            words_list.extend(SegmentHelper.lemmatization(SegmentHelper.segment_text(line)))
+        return DictHelper.dict_from_count_list(words_list)
 
     @staticmethod
     def calculate_full_frequency():

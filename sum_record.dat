@@ -1,0 +1,6540 @@
+(lp1
+(V[0]
+p2
+F13.170403478205293
+tp3
+a(V(2, 5]
+p4
+F5.4391371670302329
+tp5
+a(V(5, 10]
+p6
+F5.3969663316506002
+tp7
+a(V(0, 2]
+p8
+F4.255854620127927
+tp9
+a(V(10, 15]
+p10
+F2.1725688682137454
+tp11
+a(V(15, 20]
+p12
+F0.72182971660581929
+tp13
+a(V(20, 30)
+p14
+F0.71613495152343876
+tp15
+a(VMaster
+p16
+F5.6732621377151622
+tp17
+a(VDoctor
+p18
+F5.5133044795987232
+tp19
+a(VBachelor
+p20
+F5.5001998478381653
+tp21
+a(S'data mining'
+p22
+F16.349483116682684
+tp23
+a(S'data science'
+p24
+F12.343802244725715
+tp25
+a(S'machine learning'
+p26
+F12.315246989510324
+tp27
+a(S'analytics'
+p28
+F11.871366429366034
+tp29
+a(S'big data'
+p30
+F11.502393154370298
+tp31
+a(S'computer science'
+p32
+F11.434176251741425
+tp33
+a(S'business'
+p34
+F11.309932770722355
+tp35
+a(S'data analytics'
+p36
+F10.067765534049839
+tp37
+a(S'marketing'
+p38
+F9.9189887222599129
+tp39
+a(S'design'
+p40
+F9.3901523515615501
+tp41
+a(S'engineering'
+p42
+F8.7280550630618698
+tp43
+a(S'science'
+p44
+F8.1891581384172945
+tp45
+a(S'information'
+p46
+F7.4697782407153381
+tp47
+a(S'advanced analytics'
+p48
+F7.3683891458402977
+tp49
+a(S'management'
+p50
+F7.2050868867384112
+tp51
+a(S'statistic'
+p52
+F6.9785171934132757
+tp53
+a(S'natural language processing'
+p54
+F6.5400912460017144
+tp55
+a(S'communication'
+p56
+F6.4617870713819716
+tp57
+a(S'project management'
+p58
+F6.3760414528004592
+tp59
+a(S'predictive analytics'
+p60
+F6.109063568628998
+tp61
+a(S'information technology'
+p62
+F5.7002271305797194
+tp63
+a(S'operations research'
+p64
+F5.683402101866573
+tp65
+a(S'applied mathematics'
+p66
+F5.419264896587447
+tp67
+a(S'mathematics'
+p68
+F5.3696926488113093
+tp69
+a(S'phd'
+p70
+F5.2701595953467768
+tp71
+a(S'software engineering'
+p72
+F5.1401046518153546
+tp73
+a(S'business analytics'
+p74
+F4.2013090828446762
+tp75
+a(S'artificial intelligence'
+p76
+F4.0946066528648535
+tp77
+a(S'general'
+p78
+F4.0761786179970114
+tp79
+a(S'computing'
+p80
+F4.0704074503455754
+tp81
+a(S'big data analytics'
+p82
+F3.9248207464079417
+tp83
+a(S'automation'
+p84
+F3.8595669560549761
+tp85
+a(Vphysic
+p86
+F3.8271608171015616
+tp87
+a(S'electrical engineering'
+p88
+F3.6224804623438609
+tp89
+a(S'law'
+p90
+F3.5730286769893529
+tp91
+a(S'ee computer science'
+p92
+F3.5523721451463941
+tp93
+a(S'economics'
+p94
+F3.360297665412872
+tp95
+a(S'finance'
+p96
+F3.3602419837606368
+tp97
+a(S'applied math'
+p98
+F3.2565777115659729
+tp99
+a(S'data analyst'
+p100
+F3.1130290654521975
+tp101
+a(S'marketing analytics'
+p102
+F2.9364320071434244
+tp103
+a(S'information retrieval'
+p104
+F2.9160547132308925
+tp105
+a(S'history'
+p106
+F2.8662330289629612
+tp107
+a(S'information system'
+p108
+F2.5742604626492889
+tp109
+a(S'computer science engineering'
+p110
+F2.3539187104729264
+tp111
+a(S'scientific computing'
+p112
+F2.1388548237152172
+tp113
+a(S'machine learning data mining'
+p114
+F2.1096860949936671
+tp115
+a(S'data mining machine learning'
+p116
+F2.0811316273715907
+tp117
+a(S'information systems'
+p118
+F2.0216847468858918
+tp119
+a(S'computer science mathematics'
+p120
+F2.0131512853963658
+tp121
+a(S'business analysis'
+p122
+F2.0103552647975054
+tp123
+a(S'marketing research'
+p124
+F1.9938217318404101
+tp125
+a(S'bioinformatics'
+p126
+F1.9475440582142001
+tp127
+a(S'public policy'
+p128
+F1.921853902168801
+tp129
+a(S'web development'
+p130
+F1.889432837680328
+tp131
+a(S'computer science statistics'
+p132
+F1.877644664023379
+tp133
+a(S'econometrics'
+p134
+F1.7937230236754149
+tp135
+a(S'mathematics statistics'
+p136
+F1.792718848648031
+tp137
+a(S'english'
+p138
+F1.6313446892495758
+tp139
+a(S'informatics'
+p140
+F1.6009265103353265
+tp141
+a(S'data science analytics'
+p142
+F1.5974101547515811
+tp143
+a(S'statistics computer science'
+p144
+F1.5907429187679067
+tp145
+a(S'high performance computing'
+p146
+F1.5896031119707905
+tp147
+a(S'marketing strategy'
+p148
+F1.5343513278156098
+tp149
+a(S'industrial engineering'
+p150
+F1.5017778120278984
+tp151
+a(S'mathematics computer science'
+p152
+F1.4583236832023319
+tp153
+a(S'management technology'
+p154
+F1.4384080074533476
+tp155
+a(Vapplied statistic
+p156
+F1.4159286616960833
+tp157
+a(S'information management'
+p158
+F1.3653044798062537
+tp159
+a(S'life sciences'
+p160
+F1.3535007212338592
+tp161
+a(S'genetics'
+p162
+F1.2898749872212616
+tp163
+a(S'biostatistics'
+p164
+F1.2680438017947759
+tp165
+a(S'analytics data science'
+p166
+F1.250503657646431
+tp167
+a(S'statistical computing'
+p168
+F1.2270103642334762
+tp169
+a(S'systems engineering'
+p170
+F1.2152875399410084
+tp171
+a(S'transportation'
+p172
+F1.209196572015208
+tp173
+a(S'accounting'
+p174
+F1.2025471004846806
+tp175
+a(S'mba'
+p176
+F1.1812456429798885
+tp177
+a(S'pharmacy'
+p178
+F1.1790340052906383
+tp179
+a(S'reinforcement learning'
+p180
+F1.1451381954068367
+tp181
+a(S'actuarial science'
+p182
+F1.0817615366300368
+tp183
+a(S'biomedical informatics'
+p184
+F1.0766676684790795
+tp185
+a(S'biology'
+p186
+F1.0716075435169781
+tp187
+a(S'quantitative finance'
+p188
+F1.0633833987819825
+tp189
+a(S'mathematics physics'
+p190
+F1.0540713183793902
+tp191
+a(S'computer engineering'
+p192
+F1.0446584595252033
+tp193
+a(S'telecommunication'
+p194
+F1.0059137533011873
+tp195
+a(S'chemistry'
+p196
+F0.99059956536755411
+tp197
+a(S'knowledge management'
+p198
+F0.98439602033451956
+tp199
+a(S'computational linguistics'
+p200
+F0.97452817047794271
+tp201
+a(S'statistics applied mathematics'
+p202
+F0.97331396950684435
+tp203
+a(S'computational biology'
+p204
+F0.97110214194766564
+tp205
+a(S'data science engineering'
+p206
+F0.94312655828301484
+tp207
+a(S'public health'
+p208
+F0.93595732793136932
+tp209
+a(S'electronics'
+p210
+F0.93224843953736636
+tp211
+a(S'machine learning engineer'
+p212
+F0.90843019286194548
+tp213
+a(S'engineering management'
+p214
+F0.90157229731582833
+tp215
+a(S'music'
+p216
+F0.8720709416549477
+tp217
+a(S'engineering science'
+p218
+F0.85446487574492525
+tp219
+a(S'electrical'
+p220
+F0.85252174613898812
+tp221
+a(S'mathematics economics'
+p222
+F0.83085726464548537
+tp223
+a(S'health services'
+p224
+F0.82884471491652079
+tp225
+a(S'machine learning statistics'
+p226
+F0.78445901042370247
+tp227
+a(S'corporate finance'
+p228
+F0.77567668728376904
+tp229
+a(S'statistics operations research'
+p230
+F0.75726599609646028
+tp231
+a(S'mechanical'
+p232
+F0.74514209629662387
+tp233
+a(S'medicine'
+p234
+F0.72929650400408874
+tp235
+a(S'geography'
+p236
+F0.72437015094603385
+tp237
+a(S'neuroscience'
+p238
+F0.71156554696530439
+tp239
+a(S'business intelligence analytics'
+p240
+F0.68368588845899125
+tp241
+a(S'economics math'
+p242
+F0.66916103669404603
+tp243
+a(S'chemical engineering'
+p244
+F0.66153604159179136
+tp245
+a(S'statistics economics'
+p246
+F0.65840523773367343
+tp247
+a(S'machine learning data science'
+p248
+F0.65093454430070352
+tp249
+a(S'business management'
+p250
+F0.64862942163953674
+tp251
+a(S'computer science machine learning'
+p252
+F0.64144769610225105
+tp253
+a(S'epidemiology'
+p254
+F0.63817603563306269
+tp255
+a(S'network security'
+p256
+F0.63476217061096729
+tp257
+a(S'economics mathematics'
+p258
+F0.6330221039927233
+tp259
+a(S'machine learning artificial intelligence'
+p260
+F0.62650844793076332
+tp261
+a(S'applied statistics'
+p262
+F0.62399201693270823
+tp263
+a(S'computer science economics'
+p264
+F0.61880318741763418
+tp265
+a(S'computer science computer engineering'
+p266
+F0.60165719012555918
+tp267
+a(S'physics computer science'
+p268
+F0.60005010620008703
+tp269
+a(S'political science'
+p270
+F0.59438287230249898
+tp271
+a(S'distributed systems'
+p272
+F0.59434353811499807
+tp273
+a(S'development practice'
+p274
+F0.59222136553572291
+tp275
+a(S'philosophy'
+p276
+F0.59201605732857587
+tp277
+a(S'business administration'
+p278
+F0.5822191396665668
+tp279
+a(S'computer science applied math'
+p280
+F0.58065748560666686
+tp281
+a(S'financial engineering'
+p282
+F0.57648469284034598
+tp283
+a(S'probability statistics'
+p284
+F0.57096578471136006
+tp285
+a(S'economics statistics'
+p286
+F0.56300098403137633
+tp287
+a(S'medical informatics'
+p288
+F0.56287309138362085
+tp289
+a(S'machine learning big data'
+p290
+F0.54882234323008028
+tp291
+a(S'economics computer science'
+p292
+F0.53687378545821784
+tp293
+a(S'computational biolog'
+p294
+F0.53423263734624371
+tp295
+a(S'computer science data science'
+p296
+F0.52957739650269453
+tp297
+a(S'psychology'
+p298
+F0.52385769420074679
+tp299
+a(S'graph theory'
+p300
+F0.51009874803042976
+tp301
+a(S'ee cs'
+p302
+F0.49955519966679451
+tp303
+a(S'management information systems'
+p304
+F0.48979846508026303
+tp305
+a(S'supply chain management'
+p306
+F0.48166601736248088
+tp307
+a(S'engineering physics'
+p308
+F0.45942942487039318
+tp309
+a(S'economics finance'
+p310
+F0.45212255725587819
+tp311
+a(S'finance economics'
+p312
+F0.45089890337239563
+tp313
+a(S'sustainability'
+p314
+F0.44062025225534318
+tp315
+a(S'mechanical engineering'
+p316
+F0.43336538296148752
+tp317
+a(S'entrepreneurship'
+p318
+F0.42839882403492163
+tp319
+a(S'ee'
+p320
+F0.42424816175335783
+tp321
+a(S'data mining predictive analytics'
+p322
+F0.41154220119002394
+tp323
+a(S'management marketing'
+p324
+F0.40262071041715319
+tp325
+a(S'cognitive science'
+p326
+F0.40171535294222244
+tp327
+a(S'it strategy'
+p328
+F0.3928295484965198
+tp329
+a(S'applied mathematics computer science'
+p330
+F0.39156306943393066
+tp331
+a(S'microbiology'
+p332
+F0.39147358994177439
+tp333
+a(S'business leadership'
+p334
+F0.38726672540425061
+tp335
+a(S'biotechnology'
+p336
+F0.38631826513617018
+tp337
+a(S'management science'
+p338
+F0.38380240258537163
+tp339
+a(S'computer security'
+p340
+F0.38015367340445044
+tp341
+a(S'computer science operations research'
+p342
+F0.37592297631149457
+tp343
+a(S'marketing finance'
+p344
+F0.37430262576235446
+tp345
+a(S'data analytics business'
+p346
+F0.37155375713158223
+tp347
+a(S'artificial intelligence machine learning'
+p348
+F0.3657185458486345
+tp349
+a(S'computer science software engineering'
+p350
+F0.3657140456517658
+tp351
+a(S'information system management'
+p352
+F0.35725744316660718
+tp353
+a(S'physics mathematics'
+p354
+F0.35278371154534932
+tp355
+a(S'information science'
+p356
+F0.34562659590381278
+tp357
+a(S'biomedical engineering'
+p358
+F0.3442718280046404
+tp359
+a(S'survey methodology'
+p360
+F0.34201218760755375
+tp361
+a(S'computational neuroscience'
+p362
+F0.33932326121715789
+tp363
+a(S'cognitive neuroscience'
+p364
+F0.33920404839395196
+tp365
+a(S'computational mathematics'
+p366
+F0.3378703747950369
+tp367
+a(S'finance accounting'
+p368
+F0.32302482017180334
+tp369
+a(S'robotics'
+p370
+F0.32199171973630608
+tp371
+a(S'computer science operation research'
+p372
+F0.31908723081778201
+tp373
+a(S'applied physics'
+p374
+F0.31901710008210771
+tp375
+a(S'sociology'
+p376
+F0.3168804908534934
+tp377
+a(S'computational social science'
+p378
+F0.31068886907857035
+tp379
+a(S'statistics actuarial science'
+p380
+F0.30579235420065654
+tp381
+a(S'coursera'
+p382
+F0.29678655658369013
+tp383
+a(S'quantitative marketing'
+p384
+F0.29249751450070083
+tp385
+a(S'digital media'
+p386
+F0.28696868346433402
+tp387
+a(S'health informatics'
+p388
+F0.28281514405251701
+tp389
+a(S'molecular biology'
+p390
+F0.27209020689380825
+tp391
+a(S'analytics predictive modeling'
+p392
+F0.2685706239795122
+tp393
+a(S'applied mathematics statistics'
+p394
+F0.25921774855748175
+tp395
+a(S'journalism'
+p396
+F0.25157361463749989
+tp397
+a(S'transportation engineering'
+p398
+F0.24928345993094816
+tp399
+a(S'behavioral economics'
+p400
+F0.24453122486274703
+tp401
+a(S'accounting finance'
+p402
+F0.23679817747397966
+tp403
+a(S'marketing management'
+p404
+F0.23392531896887842
+tp405
+a(S'applied math computer science'
+p406
+F0.2333777129156285
+tp407
+a(S'environmental science'
+p408
+F0.23303343591843484
+tp409
+a(S'software systems'
+p410
+F0.22146951993671807
+tp411
+a(S'quantitative economics'
+p412
+F0.21806805888985348
+tp413
+a(S'electrical engineering computer science'
+p414
+F0.20910751256047333
+tp415
+a(S'linguistics'
+p416
+F0.20582974943668397
+tp417
+a(S'business economics'
+p418
+F0.19825266953827131
+tp419
+a(S'master science'
+p420
+F0.19618843660005608
+tp421
+a(S'computational science'
+p422
+F0.1947477115480315
+tp423
+a(S'decision sciences'
+p424
+F0.19429018785788249
+tp425
+a(S'computer sciences'
+p426
+F0.19144106195417332
+tp427
+a(S'statistics analytics'
+p428
+F0.18914984698227968
+tp429
+a(S'biochemistry'
+p430
+F0.18594318245331051
+tp431
+a(S'statistical genetics'
+p432
+F0.18230820366655798
+tp433
+a(S'computer information systems'
+p434
+F0.18183798813630828
+tp435
+a(S'industrial engineering operations research'
+p436
+F0.17822263140147102
+tp437
+a(S'computer science data mining'
+p438
+F0.17709593193229353
+tp439
+a(S'statistics probability'
+p440
+F0.17659123548154826
+tp441
+a(S'astrophysics'
+p442
+F0.17331209062507844
+tp443
+a(S'analytics analytics'
+p444
+F0.16890854011359249
+tp445
+a(S'imaging science'
+p446
+F0.16736524246031734
+tp447
+a(S'biophysics'
+p448
+F0.16521851918876568
+tp449
+a(S'data management analysis'
+p450
+F0.16469996952922009
+tp451
+a(S'data science operations research'
+p452
+F0.16443679794320337
+tp453
+a(S'finance statistics'
+p454
+F0.1643341031183565
+tp455
+a(S'technology management'
+p456
+F0.16102910935731693
+tp457
+a(S'operations research industrial engineering'
+p458
+F0.1609195165690786
+tp459
+a(S'health sciences'
+p460
+F0.15323765725460634
+tp461
+a(S'neuroscience computer science'
+p462
+F0.15202265602837253
+tp463
+a(S'data mining predictive analysis'
+p464
+F0.14821595585368599
+tp465
+a(S'operations management'
+p466
+F0.14807699969011051
+tp467
+a(S'mathematics economics statistics'
+p468
+F0.14734816716293772
+tp469
+a(S'spatial analytics'
+p470
+F0.14261760133432089
+tp471
+a(S'mathematics finance'
+p472
+F0.14144321205996868
+tp473
+a(S'computational finance'
+p474
+F0.139830901761857
+tp475
+a(S'medical imaging'
+p476
+F0.13869403270553052
+tp477
+a(S'applied mathematics economics'
+p478
+F0.13831633940753352
+tp479
+a(S'computational chemistry'
+p480
+F0.13729363883062679
+tp481
+a(S'management science engineering'
+p482
+F0.13665998913387334
+tp483
+a(S'environmental engineering'
+p484
+F0.13580615328971321
+tp485
+a(S'economic development'
+p486
+F0.13516680946074719
+tp487
+a(S'berkeley'
+p488
+F0.13372819318560178
+tp489
+a(S'data mining / machine learning'
+p490
+F0.13296126130499314
+tp491
+a(S'computational physics'
+p492
+F0.13211019957059231
+tp493
+a(S'business communications'
+p494
+F0.1279071680392001
+tp495
+a(S'informatics data science computer science'
+p496
+F0.123339581028933
+tp497
+a(S'urban planning'
+p498
+F0.12127232686635003
+tp499
+a(S'industrial engineering statistics'
+p500
+F0.1197802444180991
+tp501
+a(S'operations research financial engineering'
+p502
+F0.1186680969922774
+tp503
+a(S'computer engineering computer science'
+p504
+F0.11845005916247967
+tp505
+a(S'physics economics'
+p506
+F0.11840512022906637
+tp507
+a(S'statistical science'
+p508
+F0.1180962512524629
+tp509
+a(S'health services research'
+p510
+F0.11686193453294674
+tp511
+a(S'anthropology'
+p512
+F0.11561883295965827
+tp513
+a(S'strategy marketing'
+p514
+F0.11423322893120944
+tp515
+a(S'banking finance'
+p516
+F0.11364105834503412
+tp517
+a(S'information systems technology'
+p518
+F0.10920009061322268
+tp519
+a(S'bio-statistics'
+p520
+F0.10773609088439776
+tp521
+a(S'economics computation'
+p522
+F0.10712794536666506
+tp523
+a(S'astronomy'
+p524
+F0.10596400542116972
+tp525
+a(S'survey sampling'
+p526
+F0.10480403269925623
+tp527
+a(S'biostatistics epidemiology'
+p528
+F0.10094436864999914
+tp529
+a(S'computer science/artificial intelligence'
+p530
+F0.097857145264011597
+tp531
+a(S'mathematical engineering'
+p532
+F0.097812083388078508
+tp533
+a(S'applied economics'
+p534
+F0.095830396259012199
+tp535
+a(S'electrical computer engineering'
+p536
+F0.095482833941417281
+tp537
+a(S'computer science machine learning artificial intelligence'
+p538
+F0.094444969289333852
+tp539
+a(S'operations strategy'
+p540
+F0.094136810408530114
+tp541
+a(S'hydrology'
+p542
+F0.09360544079486266
+tp543
+a(S'health economics outcomes research'
+p544
+F0.091792639216937699
+tp545
+a(S'space physics'
+p546
+F0.091721820024601053
+tp547
+a(S'statistics communications'
+p548
+F0.091402384073627385
+tp549
+a(S'school computer science'
+p550
+F0.089987069117643426
+tp551
+a(S'statistical practice'
+p552
+F0.086735175877959647
+tp553
+a(S'finance marketing'
+p554
+F0.082933824734688147
+tp555
+a(S'economics management'
+p556
+F0.080550465290913864
+tp557
+a(S'finance mathematics'
+p558
+F0.077360895555625711
+tp559
+a(S'analytics data sciences'
+p560
+F0.076022209663446444
+tp561
+a(S'mathematical statistics'
+p562
+F0.074293905752377334
+tp563
+a(S'strategic intelligence'
+p564
+F0.074222480371949548
+tp565
+a(S'computer science computational biology'
+p566
+F0.074138546264476302
+tp567
+a(S'materials science'
+p568
+F0.073771709389832463
+tp569
+a(S'statistics biology'
+p570
+F0.073650002442819218
+tp571
+a(S'statistics data mining'
+p572
+F0.072064683092599724
+tp573
+a(S'business intelligence data analytics'
+p574
+F0.071253061051416253
+tp575
+a(S'experimental psychology'
+p576
+F0.069575670824905594
+tp577
+a(S'agricultural engineering'
+p578
+F0.067903076644856605
+tp579
+a(S'economic research'
+p580
+F0.067293995273061291
+tp581
+a(S'mathematics statistics economics'
+p582
+F0.067228887778627344
+tp583
+a(Vmath course
+p584
+F0.066784168630110996
+tp585
+a(S'telecommunication networking'
+p586
+F0.063959677960092692
+tp587
+a(S'high technology'
+p588
+F0.063928033643636611
+tp589
+a(S'intelligent systems'
+p590
+F0.06237253667360397
+tp591
+a(S'computer science systems'
+p592
+F0.061971841081112325
+tp593
+a(S'physical chemistry'
+p594
+F0.061719919402494793
+tp595
+a(S'international business'
+p596
+F0.061506080011124814
+tp597
+a(S'organizational psychology'
+p598
+F0.061396535761076731
+tp599
+a(S'mathematical finance'
+p600
+F0.060860574813730958
+tp601
+a(S'applied science technology'
+p602
+F0.057976891365716474
+tp603
+a(S'geosciences'
+p604
+F0.057605019617020636
+tp605
+a(S'financial mathematics'
+p606
+F0.057280378816108438
+tp607
+a(S'environmental health sciences'
+p608
+F0.057193408490394421
+tp609
+a(S'aerospace engineering'
+p610
+F0.056291703549934083
+tp611
+a(S'machine learning applied statistics'
+p612
+F0.05616475006430819
+tp613
+a(S'operations supply chain'
+p614
+F0.053433817028815556
+tp615
+a(S'computer science artificial intelligence'
+p616
+F0.053085853622346413
+tp617
+a(S'bioinformatics computational biology'
+p618
+F0.052688793176117951
+tp619
+a(S'chemistry biochemistry'
+p620
+F0.052346786042733531
+tp621
+a(S'electrical engineering physics'
+p622
+F0.05221033319930049
+tp623
+a(S'public policy analysis'
+p624
+F0.051701326218138
+tp625
+a(S'computational biology bioinformatics'
+p626
+F0.049475056101097342
+tp627
+a(S'economics public policy'
+p628
+F0.048229251434195507
+tp629
+a(S'bioengineering'
+p630
+F0.048022865740339246
+tp631
+a(S'marketing intelligence'
+p632
+F0.046269479112726233
+tp633
+a(S'analytics / data science'
+p634
+F0.044214213959023002
+tp635
+a(S'industrial/organizational psychology'
+p636
+F0.044106781123948238
+tp637
+a(S'library science'
+p638
+F0.040865611711730997
+tp639
+a(S'epidemiology biostatistics'
+p640
+F0.039847187136036563
+tp641
+a(S'industrial engineering management science'
+p642
+F0.038636578345636573
+tp643
+a(S'applied econometrics'
+p644
+F0.038600307477579268
+tp645
+a(S'data science business analytics'
+p646
+F0.038269118916366855
+tp647
+a(S'information technology management'
+p648
+F0.035808125496581383
+tp649
+a(S'quantitative methods'
+p650
+F0.034519609760652423
+tp651
+a(S'food science'
+p652
+F0.033730346174762088
+tp653
+a(S'communications business'
+p654
+F0.033464752897795456
+tp655
+a(S'criminology'
+p656
+F0.032127161559419089
+tp657
+a(S'mathematical sciences'
+p658
+F0.03195506479714303
+tp659
+a(S'human resource management'
+p660
+F0.031800001054740679
+tp661
+a(S'machine learning business analytics'
+p662
+F0.031502643344959419
+tp663
+a(S'behavioral psychology'
+p664
+F0.031353895405235498
+tp665
+a(S'integrated marketing communication'
+p666
+F0.030909262676509262
+tp667
+a(S'pharmaceutical science'
+p668
+F0.030035502600848221
+tp669
+a(S'information data science'
+p670
+F0.029929743788873402
+tp671
+a(S'earth sciences'
+p672
+F0.029724639977065738
+tp673
+a(S'computational genetics'
+p674
+F0.028813719444203547
+tp675
+a(S'general management'
+p676
+F0.02861482891690191
+tp677
+a(S'data informatics'
+p678
+F0.02777793214392172
+tp679
+a(S'finance/economics'
+p680
+F0.027698759438748548
+tp681
+a(S'genetics genomics'
+p682
+F0.026958351397816119
+tp683
+a(S'civil engineering'
+p684
+F0.026234713691481625
+tp685
+a(S'material science engineering'
+p686
+F0.025449243221676788
+tp687
+a(S'business analytics predictive analytics'
+p688
+F0.025000138929529549
+tp689
+a(S'ece'
+p690
+F0.02435543620641847
+tp691
+a(S'statistics information tech'
+p692
+F0.023809656123361476
+tp693
+a(S'energy economics'
+p694
+F0.023801525179691582
+tp695
+a(S'human resources management'
+p696
+F0.022894135656712136
+tp697
+a(S'operation research industrial engineering'
+p698
+F0.021502456841579285
+tp699
+a(S'computational engineering'
+p700
+F0.021197125276907845
+tp701
+a(S'informatics data mining'
+p702
+F0.020142292028530916
+tp703
+a(S'digital communication'
+p704
+F0.019767551711721038
+tp705
+a(S'computational science engineering'
+p706
+F0.018123768093902017
+tp707
+a(S'economics political science'
+p708
+F0.017970501556110036
+tp709
+a(S'biological sciences'
+p710
+F0.017634952771867315
+tp711
+a(S'marketing analysis'
+p712
+F0.015315400425297382
+tp713
+a(S'information engineering'
+p714
+F0.014764852891213518
+tp715
+a(S'finance data analytics'
+p716
+F0.014505200061501786
+tp717
+a(S'computer application'
+p718
+F0.014406859722101773
+tp719
+a(S'systems/industrial engineering'
+p720
+F0.013665670797492036
+tp721
+a(S"brigham women's hospital"
+p722
+F0.013621870570576997
+tp723
+a(S'agronomy crop science'
+p724
+F0.011871574352011239
+tp725
+a(S'corporate innovation'
+p726
+F0.010365911263463472
+tp727
+a(S'mathematics biology'
+p728
+F0.00419755419063706
+tp729
+a(S'data mining'
+p730
+F16.349483116682684
+tp731
+a(S'data'
+p732
+F14.032267035471014
+tp733
+a(S'data science'
+p734
+F12.343802244725715
+tp735
+a(S'machine learning'
+p736
+F12.315246989510324
+tp737
+a(S'analytics'
+p738
+F11.871366429366034
+tp739
+a(S'big data'
+p740
+F11.502393154370298
+tp741
+a(S'computer science'
+p742
+F11.434176251741425
+tp743
+a(S'data analysis'
+p744
+F10.628914318885867
+tp745
+a(S'research'
+p746
+F10.570819564899766
+tp747
+a(S'data analytics'
+p748
+F10.067765534049839
+tp749
+a(S'marketing'
+p750
+F9.9189887222599129
+tp751
+a(S'engineering'
+p752
+F8.7280550630618698
+tp753
+a(S'science'
+p754
+F8.1891581384172945
+tp755
+a(S'modeling'
+p756
+F7.7529402128403007
+tp757
+a(S'strategy'
+p758
+F7.6263967737280591
+tp759
+a(S'hadoop'
+p760
+F7.4642559935164456
+tp761
+a(S'security'
+p762
+F7.4447557624566008
+tp763
+a(S'advanced analytics'
+p764
+F7.3683891458402977
+tp765
+a(S'healthcare'
+p766
+F7.3241872273998965
+tp767
+a(S'analysis'
+p768
+F7.2469018232046913
+tp769
+a(S'management'
+p770
+F7.2050868867384112
+tp771
+a(S'access'
+p772
+F7.2018496625098152
+tp773
+a(S'python'
+p774
+F7.1458832322572166
+tp775
+a(S'programming'
+p776
+F7.1123235400302205
+tp777
+a(S'government'
+p778
+F7.0708984987914159
+tp779
+a(S'intelligence'
+p780
+F6.7986434744044857
+tp781
+a(S'organization'
+p782
+F6.5698790834119603
+tp783
+a(S'visualization'
+p784
+F6.5677130147710923
+tp785
+a(S'natural language processing'
+p786
+F6.5400912460017144
+tp787
+a(S'innovation'
+p788
+F6.5191272203650383
+tp789
+a(S'r'
+F6.5114024137617772
+tp790
+a(S'communication'
+p791
+F6.4617870713819716
+tp792
+a(S'sql'
+p793
+F6.4360611750158059
+tp794
+a(S'java'
+p795
+F6.4073452191009723
+tp796
+a(S'consulting'
+p797
+F6.3777303806879528
+tp798
+a(S'project management'
+p799
+F6.3760414528004592
+tp800
+a(S'education'
+p801
+F6.3347808437601225
+tp802
+a(S'spark'
+p803
+F6.1220707059049779
+tp804
+a(S'predictive analytics'
+p805
+F6.109063568628998
+tp806
+a(S'processing'
+p807
+F6.0682451545090155
+tp808
+a(S'training'
+p809
+F6.0097437654277499
+tp810
+a(S'architecture'
+p811
+F5.715202130860165
+tp812
+a(S'information technology'
+p813
+F5.7002271305797194
+tp814
+a(S'operations research'
+p815
+F5.683402101866573
+tp816
+a(S'testing'
+p817
+F5.5196461635716645
+tp818
+a(S'optimization'
+p819
+F5.4764954348049111
+tp820
+a(S'applied mathematics'
+p821
+F5.419264896587447
+tp822
+a(S'mathematics'
+p823
+F5.3696926488113093
+tp824
+a(S'leadership'
+p825
+F5.3583979618683708
+tp826
+a(S'integration'
+p827
+F5.2147851969493333
+tp828
+a(S'software engineering'
+p829
+F5.1401046518153546
+tp830
+a(S'agile'
+p831
+F4.9811301682799476
+tp832
+a(S'search'
+p833
+F4.9687767141249068
+tp834
+a(S'insurance'
+p835
+F4.7614875328389683
+tp836
+a(S'data visualization'
+p837
+F4.6254560657229744
+tp838
+a(S'hive'
+p839
+F4.6254429186101929
+tp840
+a(S'r d'
+p841
+F4.5987898798726166
+tp842
+a(S'statistical analysis'
+p843
+F4.5178695375650015
+tp844
+a(S'data collection'
+p845
+F4.4451317025750612
+tp846
+a(S'quantitative analysis'
+p847
+F4.4320985474183168
+tp848
+a(S'scripting'
+p849
+F4.2993372817788131
+tp850
+a(S'scala'
+p851
+F4.2882408394416593
+tp852
+a(S'business analytics'
+p853
+F4.2013090828446762
+tp854
+a(S'collaboration'
+p855
+F4.1702643941078206
+tp856
+a(S'tableau'
+p857
+F4.1399259695150583
+tp858
+a(S'artificial intelligence'
+p859
+F4.0946066528648535
+tp860
+a(S'writing'
+p861
+F4.0191103368027479
+tp862
+a(S'etl'
+p863
+F4.0136078624510771
+tp864
+a(S'oracle'
+p865
+F4.0106556246408678
+tp866
+a(S'problem solving'
+p867
+F3.9803375655363102
+tp868
+a(S'c'
+F3.9312589767476425
+tp869
+a(S'big data analytics'
+p870
+F3.9248207464079417
+tp871
+a(S'policy'
+p872
+F3.8941896123972892
+tp873
+a(S'advertising'
+p874
+F3.8833595448657947
+tp875
+a(S'nosql'
+p876
+F3.8829544638761857
+tp877
+a(S'documentation'
+p878
+F3.872120474926068
+tp879
+a(S'automation'
+p880
+F3.8595669560549761
+tp881
+a(S'linux'
+p882
+F3.8456028871582641
+tp883
+a(S'predictive modeling'
+p884
+F3.7904936314385491
+tp885
+a(S'excel'
+p886
+F3.7899833544909254
+tp887
+a(S'credit'
+p888
+F3.7555446539652095
+tp889
+a(S'matlab'
+p890
+F3.7513687391031967
+tp891
+a(S'defense'
+p892
+F3.7123542072464972
+tp893
+a(S'aws'
+p894
+F3.711545998689997
+tp895
+a(S'nlp'
+p896
+F3.6720024683035084
+tp897
+a(S'regression'
+p898
+F3.6325542780406632
+tp899
+a(S'electrical engineering'
+p900
+F3.6224804623438609
+tp901
+a(S'statistical modeling'
+p902
+F3.5244808657827003
+tp903
+a(S'software development'
+p904
+F3.4900144832194635
+tp905
+a(S'classification'
+p906
+F3.4738726160566116
+tp907
+a(S'product development'
+p908
+F3.4322708379672604
+tp909
+a(S'retail'
+p910
+F3.4224111913967508
+tp911
+a(S'forecasting'
+p912
+F3.3820558818637996
+tp913
+a(S'economics'
+p914
+F3.360297665412872
+tp915
+a(S'finance'
+p916
+F3.3602419837606368
+tp917
+a(S'fraud'
+p918
+F3.3481718383335801
+tp919
+a(S'clustering'
+p920
+F3.3457171328740269
+tp921
+a(S'spss'
+p922
+F3.3367677123791304
+tp923
+a(S'javascript'
+p924
+F3.3050533337486518
+tp925
+a(S'energy'
+p926
+F3.2946096506104463
+tp927
+a(S'banking'
+p928
+F3.2553529129383536
+tp929
+a(S'recruiting'
+p930
+F3.2248997572138878
+tp931
+a(S'pig'
+p932
+F3.2176069619721348
+tp933
+a(S'validation'
+p934
+F3.2071799578227878
+tp935
+a(S'automotive'
+p936
+F3.1963573554449241
+tp937
+a(S'data management'
+p938
+F3.17399018023603
+tp939
+a(S'unstructured data'
+p940
+F3.1550296507640039
+tp941
+a(S'c++'
+p942
+F3.0930500111640882
+tp943
+a(S'business intelligence'
+p944
+F3.0636456647491324
+tp945
+a(S'storage'
+p946
+F3.0197388448821902
+tp947
+a(S'teradata'
+p948
+F2.9868680886750791
+tp949
+a(S'ic'
+p950
+F2.9564362679707417
+tp951
+a(S'marketing analytics'
+p952
+F2.9364320071434244
+tp953
+a(S'manufacturing'
+p954
+F2.924764000712238
+tp955
+a(S'hbase'
+p956
+F2.9206630930660387
+tp957
+a(S'information retrieval'
+p958
+F2.9160547132308925
+tp959
+a(S'dashboard'
+p960
+F2.9019685796069945
+tp961
+a(S'segmentation'
+p962
+F2.8936511590938143
+tp963
+a(S'mapreduce'
+p964
+F2.8290032075731579
+tp965
+a(S'deep learning'
+p966
+F2.7479349615452753
+tp967
+a(S'open source'
+p968
+F2.7456608780636151
+tp969
+a(S'data modeling'
+p970
+F2.7323518382247993
+tp971
+a(S'business process'
+p972
+F2.6985647697951496
+tp973
+a(S'data scientist'
+p974
+F2.6489548619163084
+tp975
+a(S'go'
+p976
+F2.5941721064112677
+tp977
+a(S'saas'
+p978
+F2.5323195124463935
+tp979
+a(S'simulation'
+p980
+F2.5306539017402216
+tp981
+a(S'theory'
+p982
+F2.5268780654905632
+tp983
+a(S'cancer'
+p984
+F2.5245510467433467
+tp985
+a(S'pricing'
+p986
+F2.520185409349303
+tp987
+a(S'perl'
+p988
+F2.4453936750020833
+tp989
+a(S'security clearance'
+p990
+F2.4378008358934036
+tp991
+a(S'distributed computing'
+p992
+F2.421628986590683
+tp993
+a(S'apis'
+p994
+F2.4119546221452732
+tp995
+a(S'communication skills'
+p996
+F2.3970342471897021
+tp997
+a(S'laboratory'
+p998
+F2.353825949938551
+tp999
+a(S'hardware'
+p1000
+F2.3482095141883219
+tp1001
+a(S'data processing'
+p1002
+F2.2887290381244338
+tp1003
+a(S'governance'
+p1004
+F2.2834494164806207
+tp1005
+a(S'apache'
+p1006
+F2.263731411278108
+tp1007
+a(S'mentoring'
+p1008
+F2.2385063826921798
+tp1009
+a(S'teamwork'
+p1010
+F2.2334102026491891
+tp1011
+a(S'user experience'
+p1012
+F2.2293147970319898
+tp1013
+a(S'data quality'
+p1014
+F2.2157814823047977
+tp1015
+a(S'splunk'
+p1016
+F2.1683210123481755
+tp1017
+a(S'scientific computing'
+p1018
+F2.1388548237152172
+tp1019
+a(S'powerpoint'
+p1020
+F2.138568656268852
+tp1021
+a(S'b2b'
+p1022
+F2.1332041499315566
+tp1023
+a(S'word'
+p1024
+F2.130371489038962
+tp1025
+a(S'sap'
+p1026
+F2.1059270072349818
+tp1027
+a(S'ruby'
+p1028
+F2.1005366572324382
+tp1029
+a(S'data wrangling'
+p1030
+F2.0767232667218267
+tp1031
+a(S'product management'
+p1032
+F2.0746274703157472
+tp1033
+a(S'customer experience'
+p1034
+F2.0731882969126612
+tp1035
+a(S'teaching'
+p1036
+F2.0583620283434758
+tp1037
+a(S'personalization'
+p1038
+F2.036473357410824
+tp1039
+a(S'mysql'
+p1040
+F2.0313691545878401
+tp1041
+a(S'business analysis'
+p1042
+F2.0103552647975054
+tp1043
+a(S'scrum'
+p1044
+F2.0056472064730388
+tp1045
+a(S'marketing research'
+p1046
+F1.9938217318404101
+tp1047
+a(S'risk management'
+p1048
+F1.9782284400383789
+tp1049
+a(S'cluster'
+p1050
+F1.9545346204950369
+tp1051
+a(S'bioinformatics'
+p1052
+F1.9475440582142001
+tp1053
+a(S'experimentation'
+p1054
+F1.9320027070612986
+tp1055
+a(S'spotfire'
+p1056
+F1.9253015831194411
+tp1057
+a(S'public policy'
+p1058
+F1.921853902168801
+tp1059
+a(S'troubleshooting'
+p1060
+F1.9194667740674911
+tp1061
+a(S'cassandra'
+p1062
+F1.9183764711286144
+tp1063
+a(S'web development'
+p1064
+F1.889432837680328
+tp1065
+a(S'mongodb'
+p1066
+F1.8810628391196644
+tp1067
+a(S'hdfs'
+p1068
+F1.8809117046654829
+tp1069
+a(Vpanda
+p1070
+F1.8429859816020353
+tp1071
+a(S'git'
+p1072
+F1.8393998324249843
+tp1073
+a(S'sql server'
+p1074
+F1.8147883707037564
+tp1075
+a(S'r programming'
+p1076
+F1.8135633369663755
+tp1077
+a(S'devops'
+p1078
+F1.8037187414589759
+tp1079
+a(S'unix'
+p1080
+F1.8034150708152061
+tp1081
+a(S'econometrics'
+p1082
+F1.7937230236754149
+tp1083
+a(S'dod'
+p1084
+F1.7869940460240681
+tp1085
+a(S'data warehousing'
+p1086
+F1.754527772996229
+tp1087
+a(S'rest'
+p1088
+F1.7505292748319792
+tp1089
+a(S'data architecture'
+p1090
+F1.7382937286554208
+tp1091
+a(S'wireless'
+p1092
+F1.7246084669633293
+tp1093
+a(S'scikit-learn'
+p1094
+F1.7109104560504595
+tp1095
+a(S'facebook'
+p1096
+F1.7029300248711805
+tp1097
+a(S'continuous improvement'
+p1098
+F1.6959753362989958
+tp1099
+a(S'tensorflow'
+p1100
+F1.6928000112072528
+tp1101
+a(S'application development'
+p1102
+F1.6857021336178379
+tp1103
+a(S'crm'
+p1104
+F1.6772288146695107
+tp1105
+a(S'statistical software'
+p1106
+F1.6495007345413997
+tp1107
+a(S'experimental design'
+p1108
+F1.636797028320353
+tp1109
+a(S'networking'
+p1110
+F1.6336725033573329
+tp1111
+a(S'english'
+p1112
+F1.6313446892495758
+tp1113
+a(S'probability'
+p1114
+F1.6302659803350006
+tp1115
+a(S'data engineering'
+p1116
+F1.6265047896056251
+tp1117
+a(S'military'
+p1118
+F1.6157235865735013
+tp1119
+a(S'html'
+p1120
+F1.6154045202261313
+tp1121
+a(S'informatics'
+p1122
+F1.6009265103353265
+tp1123
+a(S'command'
+p1124
+F1.5996029940158711
+tp1125
+a(S'high performance computing'
+p1126
+F1.5896031119707905
+tp1127
+a(S'coaching'
+p1128
+F1.5739699590927383
+tp1129
+a(S'spring'
+p1130
+F1.5738571660138425
+tp1131
+a(S'cloud computing'
+p1132
+F1.5723006832400559
+tp1133
+a(S'national security'
+p1134
+F1.5656363438322416
+tp1135
+a(S'd3.js'
+p1136
+F1.5399481655300438
+tp1137
+a(S'marketing strategy'
+p1138
+F1.5343513278156098
+tp1139
+a(S'e-commerce'
+p1140
+F1.5343119465113
+tp1141
+a(S'gas'
+p1142
+F1.5233063319458262
+tp1143
+a(S'industrial engineering'
+p1144
+F1.5017778120278984
+tp1145
+a(S'business strategy'
+p1146
+F1.4797229919631207
+tp1147
+a(S'logistic regression'
+p1148
+F1.4739030259463812
+tp1149
+a(S'thought leadership'
+p1150
+F1.4689408119642464
+tp1151
+a(S'cloudera'
+p1152
+F1.4665771313203497
+tp1153
+a(S'root'
+p1154
+F1.4644643663072001
+tp1155
+a(S'microsoft office'
+p1156
+F1.4475890128417344
+tp1157
+a(S'apache spark'
+p1158
+F1.4359325073846179
+tp1159
+a(S'algorithm development'
+p1160
+F1.4297105043687908
+tp1161
+a(S'numpy'
+p1162
+F1.4277092806826821
+tp1163
+a(S'd3'
+p1164
+F1.4236498326045324
+tp1165
+a(S'process improvement'
+p1166
+F1.4204861178666457
+tp1167
+a(S'critical thinking'
+p1168
+F1.4019612024197843
+tp1169
+a(S'text mining'
+p1170
+F1.3978675018690128
+tp1171
+a(S'data integration'
+p1172
+F1.3931027954468365
+tp1173
+a(S'customer service'
+p1174
+F1.3924156963608079
+tp1175
+a(S'team building'
+p1176
+F1.3840593744183278
+tp1177
+a(S'information management'
+p1178
+F1.3653044798062537
+tp1179
+a(S'life sciences'
+p1180
+F1.3535007212338592
+tp1181
+a(S'genomics'
+p1182
+F1.3459208347172491
+tp1183
+a(S'pattern recognition'
+p1184
+F1.3384334832274054
+tp1185
+a(S'research design'
+p1186
+F1.333388155471066
+tp1187
+a(S'supply chain'
+p1188
+F1.3318990426816499
+tp1189
+a(S'exploratory data analysis'
+p1190
+F1.330926482279259
+tp1191
+a(S'financial services'
+p1192
+F1.3281628927102418
+tp1193
+a(S'random forest'
+p1194
+F1.3134823965359332
+tp1195
+a(S'json'
+p1196
+F1.3129299149457963
+tp1197
+a(S'digital marketing'
+p1198
+F1.3112843743718627
+tp1199
+a(S'genetics'
+p1200
+F1.2898749872212616
+tp1201
+a(S'debugging'
+p1202
+F1.2748456696147061
+tp1203
+a(S'biostatistics'
+p1204
+F1.2680438017947759
+tp1205
+a(S'anomaly detection'
+p1206
+F1.2669285916404607
+tp1207
+a(S'web services'
+p1208
+F1.2637279324441819
+tp1209
+a(S'computer vision'
+p1210
+F1.2563401740986866
+tp1211
+a(S'stata'
+p1212
+F1.2520880197323525
+tp1213
+a(S'docker'
+p1214
+F1.2443081765237329
+tp1215
+a(S'business development'
+p1216
+F1.2379414189339903
+tp1217
+a(S'solver'
+p1218
+F1.2304386041912978
+tp1219
+a(S'statistical computing'
+p1220
+F1.2270103642334762
+tp1221
+a(S'rdbms'
+p1222
+F1.2262243745889441
+tp1223
+a(S'github'
+p1224
+F1.2162360086465354
+tp1225
+a(S'systems engineering'
+p1226
+F1.2152875399410084
+tp1227
+a(S'xml'
+p1228
+F1.2132355286193157
+tp1229
+a(S'transportation'
+p1230
+F1.209196572015208
+tp1231
+a(S'solr'
+p1232
+F1.2052618650094227
+tp1233
+a(S'accounting'
+p1234
+F1.2025471004846806
+tp1235
+a(S'neural networks'
+p1236
+F1.1983063867744093
+tp1237
+a(S'sentiment analysis'
+p1238
+F1.1975966332867587
+tp1239
+a(S'qlikview'
+p1240
+F1.1885353151736444
+tp1241
+a(S'quality assurance'
+p1242
+F1.1767259108591825
+tp1243
+a(S'php'
+p1244
+F1.1582474620173173
+tp1245
+a(S'theano'
+p1246
+F1.1512211840891204
+tp1247
+a(S'reinforcement learning'
+p1248
+F1.1451381954068367
+tp1249
+a(S'decision support'
+p1250
+F1.1407637258901959
+tp1251
+a(S'elasticsearch'
+p1252
+F1.1368842140557902
+tp1253
+a(S'ec2'
+p1254
+F1.1354145152938269
+tp1255
+a(S'b testing'
+p1256
+F1.1267157544405455
+tp1257
+a(S'data governance'
+p1258
+F1.1195687992420564
+tp1259
+a(S'credit risk'
+p1260
+F1.1136737913545427
+tp1261
+a(S'sequencing'
+p1262
+F1.1090637813382245
+tp1263
+a(S'trading'
+p1264
+F1.1031793592428376
+tp1265
+a(S'weka'
+p1266
+F1.1031034631736782
+tp1267
+a(S'statistical programming'
+p1268
+F1.1020302661891064
+tp1269
+a(S'h2o'
+p1270
+F1.1004390338152858
+tp1271
+a(S'actuarial science'
+p1272
+F1.0817615366300368
+tp1273
+a(S'biomedical informatics'
+p1274
+F1.0766676684790795
+tp1275
+a(S'biology'
+p1276
+F1.0716075435169781
+tp1277
+a(S'jenkins'
+p1278
+F1.0694392874614593
+tp1279
+a(S'scalability'
+p1280
+F1.0642727735795121
+tp1281
+a(S'quantitative finance'
+p1282
+F1.0633833987819825
+tp1283
+a(S'product design'
+p1284
+F1.0621577109204869
+tp1285
+a(S'data acquisition'
+p1286
+F1.0545527906678387
+tp1287
+a(S'design thinking'
+p1288
+F1.0496977118717923
+tp1289
+a(S'google analytics'
+p1290
+F1.03875588645298
+tp1291
+a(S'market research'
+p1292
+F1.0318189911338762
+tp1293
+a(S'postgresql'
+p1294
+F1.0283155685769483
+tp1295
+a(S'mahout'
+p1296
+F1.0191124230787982
+tp1297
+a(S'collaborative filtering'
+p1298
+F1.0179034638989461
+tp1299
+a(S'amazon web services'
+p1300
+F1.0169904007794164
+tp1301
+a(S'user interface'
+p1302
+F1.0121128985644827
+tp1303
+a(S'statistical inference'
+p1304
+F1.0108828888235339
+tp1305
+a(S'logistics'
+p1306
+F1.0021512705339257
+tp1307
+a(S'fraud detection'
+p1308
+F0.99750643706843511
+tp1309
+a(S'linear algebra'
+p1310
+F0.99471028611554779
+tp1311
+a(S'chemistry'
+p1312
+F0.99059956536755411
+tp1313
+a(S'django'
+p1314
+F0.98711682867608885
+tp1315
+a(S'knowledge management'
+p1316
+F0.98439602033451956
+tp1317
+a(S'negotiation'
+p1318
+F0.98332925713249764
+tp1319
+a(S'svm'
+p1320
+F0.98163904985702388
+tp1321
+a(S'cluster analysis'
+p1322
+F0.97893719146329705
+tp1323
+a(S'scipy'
+p1324
+F0.97865516757668691
+tp1325
+a(S'computational linguistics'
+p1326
+F0.97452817047794271
+tp1327
+a(S'time management'
+p1328
+F0.97420572780565118
+tp1329
+a(S'data center'
+p1330
+F0.97184951616370752
+tp1331
+a(S'computational biology'
+p1332
+F0.97110214194766564
+tp1333
+a(S'signal processing'
+p1334
+F0.97043417028471213
+tp1335
+a(S'shell scripting'
+p1336
+F0.96840898649390794
+tp1337
+a(S'system design'
+p1338
+F0.95793667217487655
+tp1339
+a(S'algorithm design'
+p1340
+F0.95623589217766602
+tp1341
+a(S'extract transform load etl'
+p1342
+F0.95287820407402768
+tp1343
+a(S'sqoop'
+p1344
+F0.94524092624211331
+tp1345
+a(S'regression analysis'
+p1346
+F0.94014207477897316
+tp1347
+a(S'public health'
+p1348
+F0.93595732793136932
+tp1349
+a(S'aerospace'
+p1350
+F0.93416197993268424
+tp1351
+a(S'electronics'
+p1352
+F0.93224843953736636
+tp1353
+a(S'product launch'
+p1354
+F0.9315688530969306
+tp1355
+a(S'database design'
+p1356
+F0.91716214688428732
+tp1357
+a(S'customer satisfaction'
+p1358
+F0.90975117918880388
+tp1359
+a(S'text analytics'
+p1360
+F0.90910748655901952
+tp1361
+a(S'hypothesis testing'
+p1362
+F0.9064367180102878
+tp1363
+a(S'publishing'
+p1364
+F0.90438928583769984
+tp1365
+a(S'engineering management'
+p1366
+F0.90157229731582833
+tp1367
+a(S'technical leadership'
+p1368
+F0.89378761548826513
+tp1369
+a(S'mvc'
+p1370
+F0.88386771784265117
+tp1371
+a(S'asset management'
+p1372
+F0.87926228973517984
+tp1373
+a(S'editorial'
+p1374
+F0.8751936835530808
+tp1375
+a(S'programming languages'
+p1376
+F0.87481561099578975
+tp1377
+a(S'music'
+p1378
+F0.8720709416549477
+tp1379
+a(S'oozie'
+p1380
+F0.86951609747638359
+tp1381
+a(S'sdlc'
+p1382
+F0.86820862333142235
+tp1383
+a(S'emr'
+p1384
+F0.86207279329950082
+tp1385
+a(S'software design'
+p1386
+F0.85751838428522653
+tp1387
+a(S'mllib'
+p1388
+F0.85454639747618644
+tp1389
+a(S'bash'
+p1390
+F0.85352985830081451
+tp1391
+a(S'seo'
+p1392
+F0.85208122692573363
+tp1393
+a(S'ansible'
+p1394
+F0.85096634467648635
+tp1395
+a(S'procurement'
+p1396
+F0.84303489185329039
+tp1397
+a(S'product strategy'
+p1398
+F0.84115415326164378
+tp1399
+a(S'presentation skills'
+p1400
+F0.8396458341806321
+tp1401
+a(S'military experience'
+p1402
+F0.83539215819128931
+tp1403
+a(S'angularjs'
+p1404
+F0.83443620963750698
+tp1405
+a(S'impala'
+p1406
+F0.83312839590408583
+tp1407
+a(S'database management'
+p1408
+F0.83184036162479946
+tp1409
+a(S'monetization'
+p1410
+F0.82817682946990445
+tp1411
+a(S'linear regression'
+p1412
+F0.8255757883786653
+tp1413
+a(S'mathematical modeling'
+p1414
+F0.82179741504169879
+tp1415
+a(S'healthcare industry'
+p1416
+F0.81759368846456959
+tp1417
+a(S'sharepoint'
+p1418
+F0.80329222452612126
+tp1419
+a(S'quality control'
+p1420
+F0.8000666693834656
+tp1421
+a(S'intelligence analysis'
+p1422
+F0.79907933630868999
+tp1423
+a(S'customer support'
+p1424
+F0.79245442781134057
+tp1425
+a(S'program management'
+p1426
+F0.78811969857838959
+tp1427
+a(S'.net'
+p1428
+F0.78509273049239703
+tp1429
+a(S'jira'
+p1430
+F0.78239729035674832
+tp1431
+a(S'business objects'
+p1432
+F0.77820738713365467
+tp1433
+a(S'corporate finance'
+p1434
+F0.77567668728376904
+tp1435
+a(S'multivariate analysis'
+p1436
+F0.76777221115036609
+tp1437
+a(S'system administration'
+p1438
+F0.76583838234680324
+tp1439
+a(S'microsoft excel'
+p1440
+F0.76469955400800427
+tp1441
+a(S'valuation'
+p1442
+F0.75441974864150718
+tp1443
+a(S'vba'
+p1444
+F0.75039570292714186
+tp1445
+a(S'html5'
+p1446
+F0.75021572645841639
+tp1447
+a(S'matplotlib'
+p1448
+F0.74823553035099843
+tp1449
+a(S'microstrategy'
+p1450
+F0.74650761305470947
+tp1451
+a(S'amazon ec2'
+p1452
+F0.74526484243261393
+tp1453
+a(S'calculus'
+p1454
+F0.74106874835669601
+tp1455
+a(S'quantitative research'
+p1456
+F0.74030367430641464
+tp1457
+a(S'medicine'
+p1458
+F0.72929650400408874
+tp1459
+a(S'julia'
+p1460
+F0.72693714287019262
+tp1461
+a(S'alteryx'
+p1462
+F0.72664764378258873
+tp1463
+a(S'geography'
+p1464
+F0.72437015094603385
+tp1465
+a(S'jquery'
+p1466
+F0.72299139439230875
+tp1467
+a(S'product marketing'
+p1468
+F0.7147937314890076
+tp1469
+a(S'maven'
+p1470
+F0.71183511293418811
+tp1471
+a(S'neuroscience'
+p1472
+F0.71156554696530439
+tp1473
+a(S'factor analysis'
+p1474
+F0.70890168453548508
+tp1475
+a(S'mathematical analysis'
+p1476
+F0.7077839605522368
+tp1477
+a(S'unit testing'
+p1478
+F0.70765507217003654
+tp1479
+a(S'arcgis'
+p1480
+F0.70183937414114961
+tp1481
+a(S'system architecture'
+p1482
+F0.69346590772146588
+tp1483
+a(S'gpu'
+p1484
+F0.69042494478958527
+tp1485
+a(S'time series analysis'
+p1486
+F0.68994397987926448
+tp1487
+a(S'digital analytics'
+p1488
+F0.68980949237064937
+tp1489
+a(S'human resources'
+p1490
+F0.68707949785893729
+tp1491
+a(S'dna'
+p1492
+F0.68653654458995772
+tp1493
+a(S'model validation'
+p1494
+F0.68315071993404364
+tp1495
+a(S'customer insight'
+p1496
+F0.68057289273844246
+tp1497
+a(S'android'
+p1498
+F0.67915556623461615
+tp1499
+a(S'strategic thinking'
+p1500
+F0.67839793531523895
+tp1501
+a(S'customer relations'
+p1502
+F0.67715852524177855
+tp1503
+a(S'microsoft azure'
+p1504
+F0.67510600180001545
+tp1505
+a(S'informatica'
+p1506
+F0.67465259293792657
+tp1507
+a(S'rapid prototyping'
+p1508
+F0.67432159124533164
+tp1509
+a(S'direct marketing'
+p1510
+F0.67383971735264137
+tp1511
+a(S'flume'
+p1512
+F0.67356848539776759
+tp1513
+a(S'jmp'
+p1514
+F0.67347998977425738
+tp1515
+a(S'information security'
+p1516
+F0.67306344891381564
+tp1517
+a(S'image processing'
+p1518
+F0.67178170426894668
+tp1519
+a(S'change management'
+p1520
+F0.66460414828281211
+tp1521
+a(S'web analytics'
+p1522
+F0.66449138575657007
+tp1523
+a(S'chemical engineering'
+p1524
+F0.66153604159179136
+tp1525
+a(S'performance tuning'
+p1526
+F0.65638734139955146
+tp1527
+a(S'statistical data analysis'
+p1528
+F0.65510968942672054
+tp1529
+a(S'medicare'
+p1530
+F0.65404520731681037
+tp1531
+a(S'ssrs'
+p1532
+F0.65193379188820555
+tp1533
+a(S'oracle sql'
+p1534
+F0.64611141695484897
+tp1535
+a(S'minitab'
+p1536
+F0.64496335024415086
+tp1537
+a(S'internet things'
+p1538
+F0.64486812969231577
+tp1539
+a(S'leadership development'
+p1540
+F0.64440317420719972
+tp1541
+a(S'business requirements'
+p1542
+F0.64107052733176073
+tp1543
+a(S'disaster recovery'
+p1544
+F0.6401409484481152
+tp1545
+a(S'epidemiology'
+p1546
+F0.63817603563306269
+tp1547
+a(S'cognos'
+p1548
+F0.63685552593927985
+tp1549
+a(S'power bi'
+p1550
+F0.63498713647482874
+tp1551
+a(S'network security'
+p1552
+F0.63476217061096729
+tp1553
+a(S'construction'
+p1554
+F0.62900122091643529
+tp1555
+a(S'performance management'
+p1556
+F0.62789232152422159
+tp1557
+a(S'interaction design'
+p1558
+F0.62766773192643244
+tp1559
+a(S'instrumentation'
+p1560
+F0.62582218274987533
+tp1561
+a(S'online advertising'
+p1562
+F0.62478423619383416
+tp1563
+a(S'soa'
+p1564
+F0.62469944921891651
+tp1565
+a(S'data cleaning'
+p1566
+F0.62382924989552269
+tp1567
+a(S'unsupervised learning'
+p1568
+F0.62368264047936772
+tp1569
+a(S'translation'
+p1570
+F0.62345585879135923
+tp1571
+a(S'six sigma'
+p1572
+F0.6216217768488651
+tp1573
+a(S'ggplot'
+p1574
+F0.61658337413669473
+tp1575
+a(S'technical documentation'
+p1576
+F0.6164715579744765
+tp1577
+a(Vbayesian method
+p1578
+F0.60712258420139598
+tp1579
+a(S'greenplum'
+p1580
+F0.60106454025598777
+tp1581
+a(S'ssis'
+p1582
+F0.60027744463639032
+tp1583
+a(S'redis'
+p1584
+F0.59973698877670945
+tp1585
+a(S'node.js'
+p1586
+F0.59801606254937578
+tp1587
+a(S'creative problem solving'
+p1588
+F0.59769619536463214
+tp1589
+a(S'sem'
+p1590
+F0.59571423807658863
+tp1591
+a(S'political science'
+p1592
+F0.59438287230249898
+tp1593
+a(S'distributed systems'
+p1594
+F0.59434353811499807
+tp1595
+a(S'data security'
+p1596
+F0.59416668317494303
+tp1597
+a(S'philosophy'
+p1598
+F0.59201605732857587
+tp1599
+a(S't-sql'
+p1600
+F0.5860164541560704
+tp1601
+a(S'outlook'
+p1602
+F0.58058206710932936
+tp1603
+a(S'neo4j'
+p1604
+F0.58029175473047512
+tp1605
+a(S'management consulting'
+p1606
+F0.57963342190401113
+tp1607
+a(S'financial engineering'
+p1608
+F0.57648469284034598
+tp1609
+a(S'risk analytics'
+p1610
+F0.57411392194218469
+tp1611
+a(S'investment banking'
+p1612
+F0.57208144306514708
+tp1613
+a(S'itil'
+p1614
+F0.5710024990226602
+tp1615
+a(S'octave'
+p1616
+F0.56872700330121218
+tp1617
+a(S'microsoft word'
+p1618
+F0.56215119716435213
+tp1619
+a(S'decision trees'
+p1620
+F0.55970411517979557
+tp1621
+a(S'clojure'
+p1622
+F0.55896798226548206
+tp1623
+a(S'shiny'
+p1624
+F0.55891371970484371
+tp1625
+a(S'account management'
+p1626
+F0.55524438032554901
+tp1627
+a(S'ip'
+p1628
+F0.5534401921420451
+tp1629
+a(S'user experience design'
+p1630
+F0.55329588426711307
+tp1631
+a(S'aviation'
+p1632
+F0.55284852762310865
+tp1633
+a(S'budgeting'
+p1634
+F0.55271981195752873
+tp1635
+a(S'multivariate testing'
+p1636
+F0.54996141457272685
+tp1637
+a(S'health insurance'
+p1638
+F0.54390602218128137
+tp1639
+a(S'operating systems'
+p1640
+F0.54280658112700442
+tp1641
+a(S'data-driven decision making'
+p1642
+F0.53948278255414828
+tp1643
+a(S'financial risk'
+p1644
+F0.53784309885132642
+tp1645
+a(S'lte'
+p1646
+F0.53721177558913757
+tp1647
+a(S'visual analytics'
+p1648
+F0.53666462945482052
+tp1649
+a(Vbayesian statistic
+p1650
+F0.53339156832324353
+tp1651
+a(S'enterprise software'
+p1652
+F0.53141072482886398
+tp1653
+a(S'arm'
+p1654
+F0.53071236088886875
+tp1655
+a(S'social media'
+p1656
+F0.52887307527035976
+tp1657
+a(S'photoshop'
+p1658
+F0.52751475474794873
+tp1659
+a(S'psychology'
+p1660
+F0.52385769420074679
+tp1661
+a(S'relational databases'
+p1662
+F0.52334885615634852
+tp1663
+a(S'research development r d'
+p1664
+F0.5182213530315225
+tp1665
+a(S'healthcare analytics'
+p1666
+F0.51728007515831509
+tp1667
+a(S'intellectual property'
+p1668
+F0.51661905673398056
+tp1669
+a(S'soap'
+p1670
+F0.51620609787741079
+tp1671
+a(S'real estate'
+p1672
+F0.51157333852691789
+tp1673
+a(S'graph theory'
+p1674
+F0.51009874803042976
+tp1675
+a(S'customer analytics'
+p1676
+F0.50998864863249493
+tp1677
+a(S'portfolio management'
+p1678
+F0.50783017131658859
+tp1679
+a(S'reporting analysis'
+p1680
+F0.50718793817639607
+tp1681
+a(S'project planning'
+p1682
+F0.50434323321040397
+tp1683
+a(S'investment management'
+p1684
+F0.50235070320462394
+tp1685
+a(S'spatial analysis'
+p1686
+F0.50146732078303946
+tp1687
+a(S'analytical skills'
+p1688
+F0.50083414126469528
+tp1689
+a(S'user research'
+p1690
+F0.49849365663897066
+tp1691
+a(S'pentaho'
+p1692
+F0.49776744280556934
+tp1693
+a(S'online marketing'
+p1694
+F0.496040323213226
+tp1695
+a(S'tomcat'
+p1696
+F0.49540664827054776
+tp1697
+a(S'characterization'
+p1698
+F0.49302551781930093
+tp1699
+a(S'sas enterprise miner'
+p1700
+F0.49236336808884151
+tp1701
+a(S'virtualization'
+p1702
+F0.49212911460435366
+tp1703
+a(S'random forests'
+p1704
+F0.48847087488276192
+tp1705
+a(S'oncology'
+p1706
+F0.48801043394431376
+tp1707
+a(S'performance improvement'
+p1708
+F0.48669596520396619
+tp1709
+a(S'survival analysis'
+p1710
+F0.48578536127031213
+tp1711
+a(S'illustrator'
+p1712
+F0.4854641623829698
+tp1713
+a(S'vmware'
+p1714
+F0.48473447491179733
+tp1715
+a(S'army'
+p1716
+F0.48315596164208641
+tp1717
+a(S'supply chain management'
+p1718
+F0.48166601736248088
+tp1719
+a(S'linear programming'
+p1720
+F0.47978902237624593
+tp1721
+a(S'qualitative research'
+p1722
+F0.4795410420016179
+tp1723
+a(S'process automation'
+p1724
+F0.47763512393893692
+tp1725
+a(S'visio'
+p1726
+F0.47748760556561548
+tp1727
+a(S'nltk'
+p1728
+F0.47445397023926306
+tp1729
+a(S'master data management'
+p1730
+F0.47182386811116545
+tp1731
+a(S'team leadership'
+p1732
+F0.47016934515005715
+tp1733
+a(S'high availability'
+p1734
+F0.46984861217683299
+tp1735
+a(S'customer retention'
+p1736
+F0.46679839992320699
+tp1737
+a(S'product innovation'
+p1738
+F0.46466192841452114
+tp1739
+a(S'performance measurement'
+p1740
+F0.46459245815949313
+tp1741
+a(S'performance metrics'
+p1742
+F0.46422676931621459
+tp1743
+a(S'strategic planning'
+p1744
+F0.4630244794907783
+tp1745
+a(S'politics'
+p1746
+F0.46044102786829322
+tp1747
+a(S'risk assessment'
+p1748
+F0.45963474224678191
+tp1749
+a(S'it management'
+p1750
+F0.45839610030207412
+tp1751
+a(S'survey research'
+p1752
+F0.45703691531251683
+tp1753
+a(S'sql development'
+p1754
+F0.45595080062734494
+tp1755
+a(S'netezza'
+p1756
+F0.45435865952784166
+tp1757
+a(S'vertica'
+p1758
+F0.44703567416928086
+tp1759
+a(S'technical analysis'
+p1760
+F0.44667858738214405
+tp1761
+a(S'dimensionality reduction'
+p1762
+F0.44402975003115552
+tp1763
+a(S'erp'
+p1764
+F0.44401087789109234
+tp1765
+a(S'demand forecasting'
+p1766
+F0.44191824095732368
+tp1767
+a(S'sustainability'
+p1768
+F0.44062025225534318
+tp1769
+a(S'scheme'
+p1770
+F0.43775218562489548
+tp1771
+a(S'mechanical engineering'
+p1772
+F0.43336538296148752
+tp1773
+a(S'open source software'
+p1774
+F0.43309429970088947
+tp1775
+a(S'application architecture'
+p1776
+F0.43245021354166846
+tp1777
+a(S'pmp'
+p1778
+F0.43080471757331656
+tp1779
+a(S'scalding'
+p1780
+F0.43059644027757049
+tp1781
+a(S'asp.net'
+p1782
+F0.43034289742300774
+tp1783
+a(S'entrepreneurship'
+p1784
+F0.42839882403492163
+tp1785
+a(S'water'
+p1786
+F0.42788294471090349
+tp1787
+a(S'visual basic'
+p1788
+F0.42537515387412383
+tp1789
+a(S'editing'
+p1790
+F0.42143555325972498
+tp1791
+a(S'database administration'
+p1792
+F0.42126247179680504
+tp1793
+a(S'social networking'
+p1794
+F0.42023855231181889
+tp1795
+a(S'solution architecture'
+p1796
+F0.4195278194507594
+tp1797
+a(S'opencv'
+p1798
+F0.41914917526741435
+tp1799
+a(S'statistical learning'
+p1800
+F0.41763280513261919
+tp1801
+a(S'ubuntu'
+p1802
+F0.41539057667645768
+tp1803
+a(S'visual c'
+p1804
+F0.41465436075053053
+tp1805
+a(S'due diligence'
+p1806
+F0.41455718304566641
+tp1807
+a(S'pca'
+p1808
+F0.41445540786996249
+tp1809
+a(S'feature extraction'
+p1810
+F0.41333554079175949
+tp1811
+a(S'cell'
+p1812
+F0.41299528056832036
+tp1813
+a(S'organizational leadership'
+p1814
+F0.4110778108939423
+tp1815
+a(S'executive management'
+p1816
+F0.41052680391023488
+tp1817
+a(S'information visualization'
+p1818
+F0.4104397824136663
+tp1819
+a(S'causal inference'
+p1820
+F0.40982739488806336
+tp1821
+a(S'bloomberg'
+p1822
+F0.40981937315885764
+tp1823
+a(S'db2'
+p1824
+F0.40592657936090765
+tp1825
+a(S'scientific programming'
+p1826
+F0.40440030347886091
+tp1827
+a(S'amazon web services aws'
+p1828
+F0.40439678011359104
+tp1829
+a(S'medicaid'
+p1830
+F0.40275114168947124
+tp1831
+a(S'geospatial data'
+p1832
+F0.40270115341294693
+tp1833
+a(S'ruby rails'
+p1834
+F0.40182094389237688
+tp1835
+a(S'cognitive science'
+p1836
+F0.40171535294222244
+tp1837
+a(S'social network analysis'
+p1838
+F0.40016058850444236
+tp1839
+a(S'optimization algorithms'
+p1840
+F0.39993451765942012
+tp1841
+a(S'algebra'
+p1842
+F0.39598064684962025
+tp1843
+a(S'quantitative analytics'
+p1844
+F0.39290308667597973
+tp1845
+a(S'it strategy'
+p1846
+F0.3928295484965198
+tp1847
+a(S'microbiology'
+p1848
+F0.39147358994177439
+tp1849
+a(S'trend analysis'
+p1850
+F0.39020639227545079
+tp1851
+a(S'teradata sql'
+p1852
+F0.38976316071223671
+tp1853
+a(S'recommender systems'
+p1854
+F0.38875446950244863
+tp1855
+a(S'information architecture'
+p1856
+F0.38814020887283557
+tp1857
+a(S'hedis'
+p1858
+F0.38712476494602666
+tp1859
+a(S'r studio'
+p1860
+F0.38704370941079896
+tp1861
+a(S'graphic design'
+p1862
+F0.38653098002152497
+tp1863
+a(S'biotechnology'
+p1864
+F0.38631826513617018
+tp1865
+a(S'design patterns'
+p1866
+F0.38530952584969097
+tp1867
+a(S'remote sensing'
+p1868
+F0.38349188097393916
+tp1869
+a(S'esri'
+p1870
+F0.38184162447622794
+tp1871
+a(S'parallel programming'
+p1872
+F0.3818259144006062
+tp1873
+a(S'customer acquisition'
+p1874
+F0.38177171390547177
+tp1875
+a(S'soc'
+p1876
+F0.3802075503884218
+tp1877
+a(S'computer security'
+p1878
+F0.38015367340445044
+tp1879
+a(S'mac os'
+p1880
+F0.37960451029168074
+tp1881
+a(S'clinical research'
+p1882
+F0.37842722352327907
+tp1883
+a(S'capital markets'
+p1884
+F0.37739281330751911
+tp1885
+a(S'knime'
+p1886
+F0.37708949986134094
+tp1887
+a(S'bayesian inference'
+p1888
+F0.37586535474009075
+tp1889
+a(S'root cause analysis'
+p1890
+F0.37108193854375549
+tp1891
+a(S'content management'
+p1892
+F0.37086612711304418
+tp1893
+a(S'junit'
+p1894
+F0.36915010757927758
+tp1895
+a(S'talent management'
+p1896
+F0.36671455941437248
+tp1897
+a(S'mixed model'
+p1898
+F0.36649489605221663
+tp1899
+a(S'web applications'
+p1900
+F0.36649122727826594
+tp1901
+a(S'linux system administration'
+p1902
+F0.36606050907526622
+tp1903
+a(S'test automation'
+p1904
+F0.36474723336985887
+tp1905
+a(S'glm'
+p1906
+F0.36427216526999395
+tp1907
+a(S'data munging'
+p1908
+F0.36317788482972274
+tp1909
+a(S'network science'
+p1910
+F0.36191222766966502
+tp1911
+a(S'os x'
+p1912
+F0.35711780867434284
+tp1913
+a(S'inventory management'
+p1914
+F0.35685639399665459
+tp1915
+a(S'anova'
+p1916
+F0.35214941060087396
+tp1917
+a(S'technical writing'
+p1918
+F0.35136451088349618
+tp1919
+a(S'cart'
+p1920
+F0.34954129468486295
+tp1921
+a(S'lucene'
+p1922
+F0.34865146933213925
+tp1923
+a(S'survey design'
+p1924
+F0.34737533509384555
+tp1925
+a(S'pyspark'
+p1926
+F0.34611884519640446
+tp1927
+a(S'attribution modeling'
+p1928
+F0.34585169758469947
+tp1929
+a(S'marketing automation'
+p1930
+F0.34544066751588215
+tp1931
+a(S'bootstrapping'
+p1932
+F0.34541692251772116
+tp1933
+a(S'higher education'
+p1934
+F0.34500907706154271
+tp1935
+a(S'j2ee'
+p1936
+F0.34458721501529349
+tp1937
+a(S'biomedical engineering'
+p1938
+F0.3442718280046404
+tp1939
+a(S'market risk'
+p1940
+F0.34361414059430911
+tp1941
+a(S'survey methodology'
+p1942
+F0.34201218760755375
+tp1943
+a(S'game theory'
+p1944
+F0.34044864776523898
+tp1945
+a(S'ms project'
+p1946
+F0.33997312302604665
+tp1947
+a(S'computational neuroscience'
+p1948
+F0.33932326121715789
+tp1949
+a(S'cognitive neuroscience'
+p1950
+F0.33920404839395196
+tp1951
+a(S'computational mathematics'
+p1952
+F0.3378703747950369
+tp1953
+a(S'active directory'
+p1954
+F0.33589750859893958
+tp1955
+a(S'database development'
+p1956
+F0.33559836089446565
+tp1957
+a(S'object oriented design'
+p1958
+F0.33507766558868296
+tp1959
+a(S'quality improvement'
+p1960
+F0.3350769042827757
+tp1961
+a(S'hibernate'
+p1962
+F0.33307222439208478
+tp1963
+a(S'flask'
+p1964
+F0.33296847906734822
+tp1965
+a(S'direct mail'
+p1966
+F0.33294212206456159
+tp1967
+a(S'hipaa'
+p1968
+F0.33286281700515707
+tp1969
+a(S'lead generation'
+p1970
+F0.33273938561588473
+tp1971
+a(S'functional programming'
+p1972
+F0.33257402382231893
+tp1973
+a(S'microsoft sql server'
+p1974
+F0.32998766488225734
+tp1975
+a(S'geospatial intelligence'
+p1976
+F0.32864515417446105
+tp1977
+a(S'speech recognition'
+p1978
+F0.32737341798234304
+tp1979
+a(S'omniture'
+p1980
+F0.32708078766204368
+tp1981
+a(S'cancer research'
+p1982
+F0.32345831886801435
+tp1983
+a(S'robotics'
+p1984
+F0.32199171973630608
+tp1985
+a(S'clinical development'
+p1986
+F0.32118125968072081
+tp1987
+a(S'probability theory'
+p1988
+F0.32023656400743655
+tp1989
+a(S'api development'
+p1990
+F0.31915949875649796
+tp1991
+a(S'sociology'
+p1992
+F0.3168804908534934
+tp1993
+a(S'microscopy'
+p1994
+F0.31588349945400462
+tp1995
+a(S'email marketing'
+p1996
+F0.31520134242178854
+tp1997
+a(S'operational planning'
+p1998
+F0.31429629414037952
+tp1999
+a(S'powershell'
+p2000
+F0.31361177036939325
+tp2001
+a(S'large-scale data analysis'
+p2002
+F0.31096807706723673
+tp2003
+a(S'quality management'
+p2004
+F0.31089355953007036
+tp2005
+a(S'test driven development'
+p2006
+F0.31075668720890298
+tp2007
+a(S'operational excellence'
+p2008
+F0.30712712765538497
+tp2009
+a(S'outsourcing'
+p2010
+F0.3050142051269753
+tp2011
+a(S'process engineering'
+p2012
+F0.30449609789050391
+tp2013
+a(S'information extraction'
+p2014
+F0.3044222994512264
+tp2015
+a(S'risk analysis'
+p2016
+F0.30435685459933726
+tp2017
+a(S'data structures'
+p2018
+F0.3040225653257711
+tp2019
+a(S'google adwords'
+p2020
+F0.30325889909541792
+tp2021
+a(S'salesforce.com'
+p2022
+F0.30141437009432798
+tp2023
+a(S'rdf'
+p2024
+F0.30081098710032289
+tp2025
+a(S'business insights'
+p2026
+F0.30062828660508123
+tp2027
+a(S'arena'
+p2028
+F0.29996086743681222
+tp2029
+a(S'counterterrorism'
+p2030
+F0.29990011404684791
+tp2031
+a(S'centos'
+p2032
+F0.29854703259306248
+tp2033
+a(S'adobe creative suite'
+p2034
+F0.29807025621054306
+tp2035
+a(S'database marketing'
+p2036
+F0.29639941677282877
+tp2037
+a(S'market data'
+p2038
+F0.29504597433988339
+tp2039
+a(S'olap'
+p2040
+F0.29175002166671771
+tp2041
+a(S'information design'
+p2042
+F0.29155830408037531
+tp2043
+a(S'business planning'
+p2044
+F0.29133822375811291
+tp2045
+a(S'financial modeling'
+p2046
+F0.2907985284948244
+tp2047
+a(S'ant'
+p2048
+F0.28982222051325363
+tp2049
+a(S'mobile marketing'
+p2050
+F0.28943875081544995
+tp2051
+a(S'risk modeling'
+p2052
+F0.28853082677821179
+tp2053
+a(S'excel vba'
+p2054
+F0.28729595060372093
+tp2055
+a(S'digital media'
+p2056
+F0.28696868346433402
+tp2057
+a(S'structural equation modeling'
+p2058
+F0.28547556540837965
+tp2059
+a(S'commodity'
+p2060
+F0.28453618196019437
+tp2061
+a(S'sas programming'
+p2062
+F0.28415696168748011
+tp2063
+a(S'questionnaire design'
+p2064
+F0.2832025968654851
+tp2065
+a(S'business intelligence tools'
+p2066
+F0.28295249485763624
+tp2067
+a(S'decision analysis'
+p2068
+F0.28286422275543166
+tp2069
+a(S'health informatics'
+p2070
+F0.28281514405251701
+tp2071
+a(S'servlets'
+p2072
+F0.28191481013683173
+tp2073
+a(S'credit analysis'
+p2074
+F0.27879773267365132
+tp2075
+a(S'process development'
+p2076
+F0.27805608388890274
+tp2077
+a(S'integrated marketing'
+p2078
+F0.27519472152313551
+tp2079
+a(S'ajax'
+p2080
+F0.27466081706104922
+tp2081
+a(S'avro'
+p2082
+F0.27439342533025796
+tp2083
+a(S'team management'
+p2084
+F0.27311998951523336
+tp2085
+a(S'econometric modeling'
+p2086
+F0.27289929338340124
+tp2087
+a(Vbayesian network
+p2088
+F0.27237618188205559
+tp2089
+a(S'semantic analysis'
+p2090
+F0.27218042928144176
+tp2091
+a(S'molecular biology'
+p2092
+F0.27209020689380825
+tp2093
+a(S'rapidminer'
+p2094
+F0.27201027148314455
+tp2095
+a(S'subversion'
+p2096
+F0.2712685185522335
+tp2097
+a(S'pre-sales'
+p2098
+F0.27079991573038137
+tp2099
+a(S'presto'
+p2100
+F0.26837736645379218
+tp2101
+a(S'enterprise architecture'
+p2102
+F0.26607510191201073
+tp2103
+a(S'parallel computing'
+p2104
+F0.26578992750973385
+tp2105
+a(S'health economics'
+p2106
+F0.26326152929023366
+tp2107
+a(S'start-ups'
+p2108
+F0.26301770756569398
+tp2109
+a(S'renewable energy'
+p2110
+F0.26243893241237687
+tp2111
+a(S'apache hive'
+p2112
+F0.2578859464281425
+tp2113
+a(S'financial analysis'
+p2114
+F0.25750170686456031
+tp2115
+a(S'groovy'
+p2116
+F0.25598404946179598
+tp2117
+a(S'dashboarding'
+p2118
+F0.25583870116937801
+tp2119
+a(S'business transformation'
+p2120
+F0.25392989537471045
+tp2121
+a(S'monte carlo simulation'
+p2122
+F0.25016237128542884
+tp2123
+a(S'transportation engineering'
+p2124
+F0.24928345993094816
+tp2125
+a(S'go-to-market strategy'
+p2126
+F0.24749124210871717
+tp2127
+a(S'test planning'
+p2128
+F0.24596799928053534
+tp2129
+a(S'mac os x'
+p2130
+F0.24450990980790091
+tp2131
+a(S'knowledge representation'
+p2132
+F0.24346170060324371
+tp2133
+a(S'core java'
+p2134
+F0.24323412847111492
+tp2135
+a(S'unix shell scripting'
+p2136
+F0.24302146106079867
+tp2137
+a(S'css3'
+p2138
+F0.24268187868743663
+tp2139
+a(S'jsp'
+p2140
+F0.24162758516558913
+tp2141
+a(S'campaign management'
+p2142
+F0.2411654201609916
+tp2143
+a(S'social sciences'
+p2144
+F0.23857174829700903
+tp2145
+a(S'report writing'
+p2146
+F0.23810677330389562
+tp2147
+a(S'mpi'
+p2148
+F0.23690220485055768
+tp2149
+a(S'new business development'
+p2150
+F0.23612169011304626
+tp2151
+a(S'numerical analysis'
+p2152
+F0.23553871899451462
+tp2153
+a(S'fixed income'
+p2154
+F0.23530476567939285
+tp2155
+a(S'dna sequencing'
+p2156
+F0.23399521099990267
+tp2157
+a(S'marketing management'
+p2158
+F0.23392531896887842
+tp2159
+a(S'statistical tools'
+p2160
+F0.23340242694653676
+tp2161
+a(S'environmental science'
+p2162
+F0.23303343591843484
+tp2163
+a(S'venture capital'
+p2164
+F0.23143470673099859
+tp2165
+a(S'apache storm'
+p2166
+F0.22790540656758124
+tp2167
+a(S'gurobi'
+p2168
+F0.22756424034473216
+tp2169
+a(S'business process improvement'
+p2170
+F0.22668701477291719
+tp2171
+a(S'semantics'
+p2172
+F0.22460420147518853
+tp2173
+a(S'dynamic programming'
+p2174
+F0.22414082965132043
+tp2175
+a(S'strategic leadership'
+p2176
+F0.22410533344099309
+tp2177
+a(S'scientific analysis'
+p2178
+F0.22389175218926252
+tp2179
+a(S'health policy'
+p2180
+F0.22247882251808138
+tp2181
+a(S'portfolio optimization'
+p2182
+F0.22211970173486328
+tp2183
+a(S'technical training'
+p2184
+F0.22028216511854812
+tp2185
+a(S'lean startup'
+p2186
+F0.22019610803386416
+tp2187
+a(S'text classification'
+p2188
+F0.2195291906029638
+tp2189
+a(S'pl'
+p2190
+F0.2180202507937144
+tp2191
+a(S'mathematica'
+p2192
+F0.21743419378392889
+tp2193
+a(S'apache kafka'
+p2194
+F0.21667636555534647
+tp2195
+a(S'employee engagement'
+p2196
+F0.21605450887676303
+tp2197
+a(S'public relations'
+p2198
+F0.21417332967760716
+tp2199
+a(S'owl'
+p2200
+F0.21350567721105837
+tp2201
+a(S'agile methodologies'
+p2202
+F0.21250134732476675
+tp2203
+a(S'dimensional modeling'
+p2204
+F0.21023221449365698
+tp2205
+a(S'managed care'
+p2206
+F0.21021983834720351
+tp2207
+a(S'software development life cycle sdlc'
+p2208
+F0.21016543025048695
+tp2209
+a(S'indesign'
+p2210
+F0.20975412343554778
+tp2211
+a(S'bigquery'
+p2212
+F0.209393453103006
+tp2213
+a(S'web scraping'
+p2214
+F0.20901751206823213
+tp2215
+a(S'content strategy'
+p2216
+F0.20857753813070493
+tp2217
+a(S'metabolomics'
+p2218
+F0.20821379458733036
+tp2219
+a(S'human computer interaction'
+p2220
+F0.20814383163895672
+tp2221
+a(S'digital signal processing'
+p2222
+F0.20653106705714908
+tp2223
+a(S'spss modeler'
+p2224
+F0.20584877387709866
+tp2225
+a(S'linguistics'
+p2226
+F0.20582974943668397
+tp2227
+a(S'grid computing'
+p2228
+F0.20569223324567262
+tp2229
+a(S'cuda'
+p2230
+F0.20483606500592072
+tp2231
+a(S'toad'
+p2232
+F0.20476015396367581
+tp2233
+a(S'bootstrap'
+p2234
+F0.20449214018746942
+tp2235
+a(S'data migration'
+p2236
+F0.20403260053021161
+tp2237
+a(S'community outreach'
+p2238
+F0.20312542615841755
+tp2239
+a(S'oop'
+p2240
+F0.20304453098102471
+tp2241
+a(S'web design'
+p2242
+F0.20140632752906132
+tp2243
+a(S'foreign policy'
+p2244
+F0.20052654113960597
+tp2245
+a(S'customer analysis'
+p2246
+F0.1993683392117607
+tp2247
+a(S'cro'
+p2248
+F0.19884475131809459
+tp2249
+a(S'consumer insights'
+p2250
+F0.19874966402411101
+tp2251
+a(S'visual studio'
+p2252
+F0.19819104922045869
+tp2253
+a(S'information theory'
+p2254
+F0.1981127165100256
+tp2255
+a(S'crystal reports'
+p2256
+F0.19790609464771189
+tp2257
+a(S'fda'
+p2258
+F0.19760453996458233
+tp2259
+a(S'analysis services'
+p2260
+F0.19722224056414395
+tp2261
+a(S'vendor management'
+p2262
+F0.19681513605209744
+tp2263
+a(S'property casualty insurance'
+p2264
+F0.19607244243507232
+tp2265
+a(S'demand generation'
+p2266
+F0.19572714459244508
+tp2267
+a(S'cissp'
+p2268
+F0.19446746604943668
+tp2269
+a(S'program evaluation'
+p2270
+F0.1944228277130598
+tp2271
+a(S'weblogic'
+p2272
+F0.19403526679614586
+tp2273
+a(S'eclipse'
+p2274
+F0.19352949830679039
+tp2275
+a(S'datastage'
+p2276
+F0.19318096289977391
+tp2277
+a(S'software quality assurance'
+p2278
+F0.19244240023407705
+tp2279
+a(S'hidden markov models'
+p2280
+F0.19133574941817402
+tp2281
+a(S'mathematical programming'
+p2282
+F0.18864048745568032
+tp2283
+a(S'oracle pl'
+p2284
+F0.18728273362967932
+tp2285
+a(S'spring mvc'
+p2286
+F0.18607384793126716
+tp2287
+a(S'biochemistry'
+p2288
+F0.18594318245331051
+tp2289
+a(S'digital imaging'
+p2290
+F0.18465631222234818
+tp2291
+a(S'cplex'
+p2292
+F0.18434346715951552
+tp2293
+a(S'display advertising'
+p2294
+F0.18368831984364137
+tp2295
+a(S'information assurance'
+p2296
+F0.18342188129363615
+tp2297
+a(S'financial risk management'
+p2298
+F0.18167075780728975
+tp2299
+a(S'semantic web'
+p2300
+F0.18128590768358493
+tp2301
+a(S'technical communication'
+p2302
+F0.18091360816138652
+tp2303
+a(S'mercurial'
+p2304
+F0.18043002563182903
+tp2305
+a(S'business modeling'
+p2306
+F0.17891640087213445
+tp2307
+a(S'pricing optimization'
+p2308
+F0.17755384113578648
+tp2309
+a(S'design experiments'
+p2310
+F0.17709661253366502
+tp2311
+a(S'data warehouse architecture'
+p2312
+F0.17685628086712948
+tp2313
+a(S'ggplot2'
+p2314
+F0.17634626696131464
+tp2315
+a(S'astrophysics'
+p2316
+F0.17331209062507844
+tp2317
+a(S'financial markets'
+p2318
+F0.1709658974509462
+tp2319
+a(S'ppc'
+p2320
+F0.17083258862679718
+tp2321
+a(S'ms office suite'
+p2322
+F0.17077164593459393
+tp2323
+a(S'sas enterprise guide'
+p2324
+F0.17069579525259271
+tp2325
+a(S'agent-based modeling'
+p2326
+F0.16846602263933946
+tp2327
+a(S'mobile devices'
+p2328
+F0.16717732234542032
+tp2329
+a(S'autocad'
+p2330
+F0.16686411320364578
+tp2331
+a(S'ehr'
+p2332
+F0.1664632279002268
+tp2333
+a(S'supply chain optimization'
+p2334
+F0.16581790892230738
+tp2335
+a(S'biophysics'
+p2336
+F0.16521851918876568
+tp2337
+a(S'press releases'
+p2338
+F0.16499369894419469
+tp2339
+a(S'oracle database'
+p2340
+F0.1647915036115927
+tp2341
+a(S'google cloud platform'
+p2342
+F0.16449431634224623
+tp2343
+a(S'private equity'
+p2344
+F0.16407191134449134
+tp2345
+a(S'competitive intelligence'
+p2346
+F0.163142441126607
+tp2347
+a(S'spring framework'
+p2348
+F0.16310349687515002
+tp2349
+a(S'competitive analysis'
+p2350
+F0.16258493187216172
+tp2351
+a(S'simulation modeling'
+p2352
+F0.16207090128071178
+tp2353
+a(S'sybase'
+p2354
+F0.16206870642870311
+tp2355
+a(S'radar'
+p2356
+F0.1599397648446424
+tp2357
+a(S'public speaking'
+p2358
+F0.1589688532477454
+tp2359
+a(S'etl tools'
+p2360
+F0.15819957621380507
+tp2361
+a(S'usability testing'
+p2362
+F0.1581354268180922
+tp2363
+a(S'lisp'
+p2364
+F0.15812089489818518
+tp2365
+a(S'batch processing'
+p2366
+F0.15715495359615508
+tp2367
+a(S'performance testing'
+p2368
+F0.15684766332962866
+tp2369
+a(S'blogging'
+p2370
+F0.15645750197175828
+tp2371
+a(S'objective-c'
+p2372
+F0.15635593267670447
+tp2373
+a(S'marketing mix modeling'
+p2374
+F0.15347031590936552
+tp2375
+a(S'crowdsourcing'
+p2376
+F0.15323614640221297
+tp2377
+a(S'user interface design'
+p2378
+F0.15274740149368296
+tp2379
+a(S'firmware'
+p2380
+F0.15256387728448634
+tp2381
+a(S'jdbc'
+p2382
+F0.1516181606998471
+tp2383
+a(S'rf'
+p2384
+F0.15094579060138727
+tp2385
+a(S'global health'
+p2386
+F0.14904121584170926
+tp2387
+a(S'user acceptance testing'
+p2388
+F0.14869048406173963
+tp2389
+a(S'operations management'
+p2390
+F0.14807699969011051
+tp2391
+a(S'gephi'
+p2392
+F0.14763890389485931
+tp2393
+a(S'spanish'
+p2394
+F0.14710469921750904
+tp2395
+a(S'quickbooks'
+p2396
+F0.1461131591727928
+tp2397
+a(S'restful webservices'
+p2398
+F0.14393943744279383
+tp2399
+a(S'vb.net'
+p2400
+F0.14325875876598496
+tp2401
+a(S'principal component analysis'
+p2402
+F0.14310802616336299
+tp2403
+a(S'drug development'
+p2404
+F0.1429525824675959
+tp2405
+a(S'dsp'
+p2406
+F0.14271858159292367
+tp2407
+a(S'process optimization'
+p2408
+F0.14236630395762934
+tp2409
+a(S'fortran'
+p2410
+F0.1417793653107973
+tp2411
+a(S'strategic consulting'
+p2412
+F0.14165847908302814
+tp2413
+a(S'market analysis'
+p2414
+F0.14162121310021247
+tp2415
+a(S'drug discovery'
+p2416
+F0.14041634145744847
+tp2417
+a(S'swift'
+p2418
+F0.14012015422687321
+tp2419
+a(S'amazon s3'
+p2420
+F0.13999774077967636
+tp2421
+a(S'medical imaging'
+p2422
+F0.13869403270553052
+tp2423
+a(S'postgis'
+p2424
+F0.13786670553715089
+tp2425
+a(S'computational chemistry'
+p2426
+F0.13729363883062679
+tp2427
+a(S'windows server'
+p2428
+F0.13702816244882765
+tp2429
+a(S'biometrics'
+p2430
+F0.13669115272227947
+tp2431
+a(S'wordpress'
+p2432
+F0.13629185475124694
+tp2433
+a(S'traffic engineering'
+p2434
+F0.13616725629681037
+tp2435
+a(S'environmental engineering'
+p2436
+F0.13580615328971321
+tp2437
+a(S'economic development'
+p2438
+F0.13516680946074719
+tp2439
+a(S'ecology'
+p2440
+F0.13450584071890084
+tp2441
+a(S'bayesian statistics'
+p2442
+F0.1344871421401512
+tp2443
+a(S'community development'
+p2444
+F0.13409275326876685
+tp2445
+a(S'machine vision'
+p2446
+F0.1329518751918122
+tp2447
+a(S'proteomics'
+p2448
+F0.13263162890326252
+tp2449
+a(S'semiconductor industry'
+p2450
+F0.13238190323611101
+tp2451
+a(S'photography'
+p2452
+F0.13214918640433415
+tp2453
+a(S'instructional design'
+p2454
+F0.13213834750193676
+tp2455
+a(S'computational physics'
+p2456
+F0.13211019957059231
+tp2457
+a(S'mobile applications'
+p2458
+F0.13200091059498317
+tp2459
+a(S'discrete event simulation'
+p2460
+F0.12969582147217398
+tp2461
+a(S'game design'
+p2462
+F0.1295634298000663
+tp2463
+a(S'fuzzy logic'
+p2464
+F0.12838621687373727
+tp2465
+a(S'qualtrics'
+p2466
+F0.12825385136602821
+tp2467
+a(S'control theory'
+p2468
+F0.12792257737902146
+tp2469
+a(S'german'
+p2470
+F0.12729390911173416
+tp2471
+a(S'pharmaceutical industry'
+p2472
+F0.12722789794501754
+tp2473
+a(S'genetic algorithms'
+p2474
+F0.12719294457141339
+tp2475
+a(S'outcomes research'
+p2476
+F0.12642479737734311
+tp2477
+a(S'amazon redshift'
+p2478
+F0.12602023249196512
+tp2479
+a(S'eye tracking'
+p2480
+F0.12569157204703904
+tp2481
+a(S'chaid'
+p2482
+F0.12534703687968901
+tp2483
+a(S'web crawling'
+p2484
+F0.1252163347775366
+tp2485
+a(S'network optimization'
+p2486
+F0.12501377497640723
+tp2487
+a(S'rstudio'
+p2488
+F0.12442517582526988
+tp2489
+a(S'biomarkers'
+p2490
+F0.12388736390110125
+tp2491
+a(S'ampl'
+p2492
+F0.12361864782254608
+tp2493
+a(S'grant writing'
+p2494
+F0.12334077897666494
+tp2495
+a(S'conjoint analysis'
+p2496
+F0.12275747647442553
+tp2497
+a(S'decision modeling'
+p2498
+F0.12267671531893733
+tp2499
+a(S'staff development'
+p2500
+F0.12264082868163467
+tp2501
+a(S'image analysis'
+p2502
+F0.12257852141056087
+tp2503
+a(S'asic'
+p2504
+F0.12158726755684443
+tp2505
+a(S'regression testing'
+p2506
+F0.12134447633932036
+tp2507
+a(S'urban planning'
+p2508
+F0.12127232686635003
+tp2509
+a(S'computer hardware'
+p2510
+F0.12117626093681648
+tp2511
+a(S'gps'
+p2512
+F0.12111364301730672
+tp2513
+a(S'nonlinear optimization'
+p2514
+F0.120970919437797
+tp2515
+a(S'opengl'
+p2516
+F0.12086469631819734
+tp2517
+a(S'sql server reporting services ssrs'
+p2518
+F0.1186699662131718
+tp2519
+a(S'tcl'
+p2520
+F0.11862529767566957
+tp2521
+a(S'failure analysis'
+p2522
+F0.11838011115905703
+tp2523
+a(S'air force'
+p2524
+F0.1182545296734801
+tp2525
+a(S'asp'
+p2526
+F0.11749617992735406
+tp2527
+a(S'cryptography'
+p2528
+F0.11689452957609937
+tp2529
+a(S'health services research'
+p2530
+F0.11686193453294674
+tp2531
+a(S'model selection'
+p2532
+F0.11655182665888893
+tp2533
+a(S'pivot tables'
+p2534
+F0.11565579401792718
+tp2535
+a(S'awk'
+p2536
+F0.11562324193953499
+tp2537
+a(S'policy analysis'
+p2538
+F0.1155167158500111
+tp2539
+a(S'sap hana'
+p2540
+F0.11526128346233953
+tp2541
+a(S'adobe photoshop'
+p2542
+F0.11461218660457236
+tp2543
+a(S'keynote'
+p2544
+F0.11433905899126411
+tp2545
+a(S'apache pig'
+p2546
+F0.11398600636555711
+tp2547
+a(S'windows 7'
+p2548
+F0.11303999772981772
+tp2549
+a(S'business process management'
+p2550
+F0.11203137977827482
+tp2551
+a(S'energy efficiency'
+p2552
+F0.11140369844119999
+tp2553
+a(S'project coordination'
+p2554
+F0.11095757003488883
+tp2555
+a(S'statistical sampling'
+p2556
+F0.11095345348668773
+tp2557
+a(S'proposal writing'
+p2558
+F0.10968621684102051
+tp2559
+a(S'idl'
+p2560
+F0.10965603473980946
+tp2561
+a(S'microsoft access'
+p2562
+F0.10960016752314192
+tp2563
+a(S'customer relationship management crm'
+p2564
+F0.10949610811991328
+tp2565
+a(S'web mining'
+p2566
+F0.10898390082620547
+tp2567
+a(S'microeconomics'
+p2568
+F0.10833848060085252
+tp2569
+a(S'metrology'
+p2570
+F0.1078686197467011
+tp2571
+a(S'market basket analysis'
+p2572
+F0.10758632911568142
+tp2573
+a(S'graph databases'
+p2574
+F0.10752904090373339
+tp2575
+a(S'program development'
+p2576
+F0.10685847263881594
+tp2577
+a(S'solution selling'
+p2578
+F0.10671833740035125
+tp2579
+a(S'astronomy'
+p2580
+F0.10596400542116972
+tp2581
+a(S'infectious diseases'
+p2582
+F0.10506482641530915
+tp2583
+a(S'arduino'
+p2584
+F0.10425171887992003
+tp2585
+a(S'integer programming'
+p2586
+F0.10423998602622472
+tp2587
+a(S'immunology'
+p2588
+F0.10381272092445389
+tp2589
+a(S'pricing strategy'
+p2590
+F0.10365994288990364
+tp2591
+a(S'regular expressions'
+p2592
+F0.10289186057157798
+tp2593
+a(S'psychometrics'
+p2594
+F0.10281295470919986
+tp2595
+a(S'lean six sigma'
+p2596
+F0.10183317487026319
+tp2597
+a(S'solaris'
+p2598
+F0.10163376412879525
+tp2599
+a(S'eeg'
+p2600
+F0.10138938383787829
+tp2601
+a(S'uml'
+p2602
+F0.10094699291227162
+tp2603
+a(S'vbscript'
+p2604
+F0.10079278351063505
+tp2605
+a(S'asp.net mvc'
+p2606
+F0.10023926480643583
+tp2607
+a(S'lean manufacturing'
+p2608
+F0.10003890942878091
+tp2609
+a(S'digital strategy'
+p2610
+F0.099121479455381759
+tp2611
+a(S'statistica'
+p2612
+F0.09763487330864265
+tp2613
+a(S'sales operations'
+p2614
+F0.097407119630323585
+tp2615
+a(S'cognition'
+p2616
+F0.097335086358639855
+tp2617
+a(S'web content'
+p2618
+F0.09695021212201127
+tp2619
+a(S'mobile advertising'
+p2620
+F0.095472180397552495
+tp2621
+a(S'primary research'
+p2622
+F0.095470191484673145
+tp2623
+a(S'wifi'
+p2624
+F0.094485140827129124
+tp2625
+a(S'e-learning'
+p2626
+F0.093894732479861978
+tp2627
+a(S'hydrology'
+p2628
+F0.09360544079486266
+tp2629
+a(S'embedded software'
+p2630
+F0.093467231666507333
+tp2631
+a(S'simulink'
+p2632
+F0.092801600961636282
+tp2633
+a(S'professional services'
+p2634
+F0.091611943660641598
+tp2635
+a(S'sparql'
+p2636
+F0.091353967443295048
+tp2637
+a(S'agile project management'
+p2638
+F0.090879711317434261
+tp2639
+a(S'reliability engineering'
+p2640
+F0.090155655476286581
+tp2641
+a(S'multivariate statistics'
+p2642
+F0.089035959428726219
+tp2643
+a(S'gis analysis'
+p2644
+F0.088427177289264774
+tp2645
+a(S'heroku'
+p2646
+F0.087236390812785114
+tp2647
+a(S'gmp'
+p2648
+F0.086128833017096645
+tp2649
+a(S'video editing'
+p2650
+F0.085482339085305448
+tp2651
+a(S'data entry'
+p2652
+F0.084993194067067929
+tp2653
+a(S'organizational development'
+p2654
+F0.084661926859712272
+tp2655
+a(S'web 2.0'
+p2656
+F0.084034457127124096
+tp2657
+a(S'systems analysis'
+p2658
+F0.083737470254618876
+tp2659
+a(S'nanotechnology'
+p2660
+F0.083593891809585694
+tp2661
+a(S'probabilistic models'
+p2662
+F0.081394856313067504
+tp2663
+a(S'process modeling'
+p2664
+F0.080873596707754264
+tp2665
+a(S'graphical models'
+p2666
+F0.079368954247062709
+tp2667
+a(S'xslt'
+p2668
+F0.078139176105464031
+tp2669
+a(S'secondary research'
+p2670
+F0.078022875677049783
+tp2671
+a(S'computer graphics'
+p2672
+F0.078009282564458646
+tp2673
+a(S'cartography'
+p2674
+F0.077565302019002552
+tp2675
+a(S'android development'
+p2676
+F0.077555179454287512
+tp2677
+a(S'system testing'
+p2678
+F0.076350233751918919
+tp2679
+a(S'product lifecycle management'
+p2680
+F0.075643654622525078
+tp2681
+a(S'sap bi'
+p2682
+F0.07539940222277311
+tp2683
+a(S'advertising research'
+p2684
+F0.075272934563832494
+tp2685
+a(S'scientific visualization'
+p2686
+F0.074461393369133849
+tp2687
+a(S'mathematical statistics'
+p2688
+F0.074293905752377334
+tp2689
+a(S'client presentation'
+p2690
+F0.073893245080605963
+tp2691
+a(S'sas base'
+p2692
+F0.073827722203055376
+tp2693
+a(S'materials science'
+p2694
+F0.073771709389832463
+tp2695
+a(S'penetration testing'
+p2696
+F0.07346652149805255
+tp2697
+a(S'tcp'
+p2698
+F0.071706019524994752
+tp2699
+a(S'non-profits'
+p2700
+F0.070893972738034217
+tp2701
+a(S'clinical trials'
+p2702
+F0.070735712166421424
+tp2703
+a(S'industrial organization'
+p2704
+F0.070024613540386804
+tp2705
+a(S'chinese'
+p2706
+F0.069805155521359227
+tp2707
+a(S'strategic communications'
+p2708
+F0.069586996623625955
+tp2709
+a(S'sql database design'
+p2710
+F0.068618605537063004
+tp2711
+a(S'field work'
+p2712
+F0.068331699643375418
+tp2713
+a(S'partial differential equations'
+p2714
+F0.067903076644856605
+tp2715
+a(S'copywriting'
+p2716
+F0.067729460048127854
+tp2717
+a(S'lua'
+p2718
+F0.067678265000144122
+tp2719
+a(S'petroleum'
+p2720
+F0.067464675453295847
+tp2721
+a(S'economic research'
+p2722
+F0.067293995273061291
+tp2723
+a(S'discrete mathematics'
+p2724
+F0.066784168630110996
+tp2725
+a(S'tutoring'
+p2726
+F0.066748564164068519
+tp2727
+a(S'lamp'
+p2728
+F0.066341840769018126
+tp2729
+a(S'event management'
+p2730
+F0.06571826310431951
+tp2731
+a(S'electronic trading'
+p2732
+F0.065424379258200327
+tp2733
+a(S'clinical data management'
+p2734
+F0.065189556048455791
+tp2735
+a(S'microsoft powerpoint'
+p2736
+F0.064869948293146407
+tp2737
+a(S'corporate development'
+p2738
+F0.064838509013518536
+tp2739
+a(S'geospatial modeling'
+p2740
+F0.064787554016089946
+tp2741
+a(S'b2b marketing'
+p2742
+F0.064378443834582966
+tp2743
+a(S'html 5'
+p2744
+F0.06411430399942486
+tp2745
+a(S'emacs'
+p2746
+F0.063899053989853433
+tp2747
+a(S'obiee'
+p2748
+F0.063843260336790011
+tp2749
+a(S'stochastic modeling'
+p2750
+F0.063660431076602589
+tp2751
+a(S'business process re-engineering'
+p2752
+F0.063086320167407672
+tp2753
+a(S'french'
+p2754
+F0.062926768378267786
+tp2755
+a(S'spectroscopy'
+p2756
+F0.061997334689112976
+tp2757
+a(S'physical chemistry'
+p2758
+F0.061719919402494793
+tp2759
+a(S'cheminformatics'
+p2760
+F0.06159454518869599
+tp2761
+a(S'international business'
+p2762
+F0.061506080011124814
+tp2763
+a(S'fundraising'
+p2764
+F0.060518606658440603
+tp2765
+a(S'healthcare consulting'
+p2766
+F0.060284022950638623
+tp2767
+a(S'rnaseq'
+p2768
+F0.060071005201696441
+tp2769
+a(S'earth science'
+p2770
+F0.059544759124452062
+tp2771
+a(S'sip'
+p2772
+F0.059127999393760136
+tp2773
+a(S'government contracting'
+p2774
+F0.058369551659291724
+tp2775
+a(S'requirements management'
+p2776
+F0.058331211122595969
+tp2777
+a(S'multi-channel marketing'
+p2778
+F0.057801175585289313
+tp2779
+a(S'computer architecture'
+p2780
+F0.057518349184020254
+tp2781
+a(S'envi'
+p2782
+F0.057193408490394421
+tp2783
+a(S'personalized medicine'
+p2784
+F0.057025593175823057
+tp2785
+a(S'combinatorial optimization'
+p2786
+F0.056881048113095189
+tp2787
+a(S'erdas imagine'
+p2788
+F0.056588933372782806
+tp2789
+a(S'aerospace engineering'
+p2790
+F0.056291703549934083
+tp2791
+a(S'pharmacovigilance'
+p2792
+F0.05567255928533911
+tp2793
+a(S'regression models'
+p2794
+F0.05497817083759745
+tp2795
+a(S'hedge funds'
+p2796
+F0.054619705108326672
+tp2797
+a(S'cad'
+p2798
+F0.054593708104467398
+tp2799
+a(S'enterprise risk management'
+p2800
+F0.05440251607879875
+tp2801
+a(S'marketing communications'
+p2802
+F0.054373876280572157
+tp2803
+a(S'haskell'
+p2804
+F0.054279491365148952
+tp2805
+a(S'event planning'
+p2806
+F0.053390901521800475
+tp2807
+a(S'innovation management'
+p2808
+F0.053110080865239467
+tp2809
+a(S'stochastic processes'
+p2810
+F0.053027232132819208
+tp2811
+a(S'trading systems'
+p2812
+F0.052557929612090978
+tp2813
+a(S'pharmacology'
+p2814
+F0.05254618690976972
+tp2815
+a(S'xquery'
+p2816
+F0.052484099383887359
+tp2817
+a(S'software service saas'
+p2818
+F0.051307210648906809
+tp2819
+a(S'scientific writing'
+p2820
+F0.051247879020206527
+tp2821
+a(S'assay development'
+p2822
+F0.050460543896426749
+tp2823
+a(S'hl7'
+p2824
+F0.050413463100545369
+tp2825
+a(S'web marketing'
+p2826
+F0.050259187164160474
+tp2827
+a(S'.net framework'
+p2828
+F0.050121965005095567
+tp2829
+a(S'sd'
+p2830
+F0.049684757097967082
+tp2831
+a(S'google docs'
+p2832
+F0.049635968907700022
+tp2833
+a(S'pricing analysis'
+p2834
+F0.049438334174601382
+tp2835
+a(S'proofreading'
+p2836
+F0.048566533151099781
+tp2837
+a(S'assembly language'
+p2838
+F0.048490063720117001
+tp2839
+a(S'literature reviews'
+p2840
+F0.048229251434195507
+tp2841
+a(S'edc'
+p2842
+F0.047914470652337837
+tp2843
+a(S'bioconductor'
+p2844
+F0.047850373224336232
+tp2845
+a(S'human factors'
+p2846
+F0.047771766566584266
+tp2847
+a(S'market making'
+p2848
+F0.047678124368639982
+tp2849
+a(S'microcontrollers'
+p2850
+F0.047636650848157519
+tp2851
+a(S'science communication'
+p2852
+F0.04714311750566931
+tp2853
+a(S'kalman filtering'
+p2854
+F0.046747905742148731
+tp2855
+a(S'systems biology'
+p2856
+F0.046585081889090434
+tp2857
+a(S'visual basic applications vba'
+p2858
+F0.046331752278568776
+tp2859
+a(S'pmo'
+p2860
+F0.046095049169705714
+tp2861
+a(S'sharepoint designer'
+p2862
+F0.045587835893927883
+tp2863
+a(S'bloomberg terminal'
+p2864
+F0.045463635242313317
+tp2865
+a(S'in vitro'
+p2866
+F0.04519274913650842
+tp2867
+a(S'quantitative models'
+p2868
+F0.045126591092132011
+tp2869
+a(S'sql db2'
+p2870
+F0.044986350166942884
+tp2871
+a(S'website development'
+p2872
+F0.044499300487580565
+tp2873
+a(S'software documentation'
+p2874
+F0.044357387834879761
+tp2875
+a(S'nanomaterials'
+p2876
+F0.044073360052852888
+tp2877
+a(S'reverse engineering'
+p2878
+F0.043982104923864687
+tp2879
+a(S'cell biology'
+p2880
+F0.04385899021875752
+tp2881
+a(S'linq'
+p2882
+F0.043562627568529869
+tp2883
+a(S'openmp'
+p2884
+F0.043140275742233711
+tp2885
+a(S'organizational effectiveness'
+p2886
+F0.042973581412894597
+tp2887
+a(S'gcp'
+p2888
+F0.042704414583243595
+tp2889
+a(S'molecular genetics'
+p2890
+F0.042500236180200233
+tp2891
+a(S'smart grid'
+p2892
+F0.042411068034417916
+tp2893
+a(S'nmr'
+p2894
+F0.042313822541673922
+tp2895
+a(S'requirements analysis'
+p2896
+F0.042297014757995882
+tp2897
+a(S'oracle sql developer'
+p2898
+F0.042209877245514255
+tp2899
+a(S'healthcare information technology'
+p2900
+F0.04204363647618084
+tp2901
+a(S'financial reporting'
+p2902
+F0.041733264448714787
+tp2903
+a(S'credit scoring'
+p2904
+F0.040597720427815037
+tp2905
+a(S'embedded c'
+p2906
+F0.040151221826909285
+tp2907
+a(S'trading strategies'
+p2908
+F0.039535103423442075
+tp2909
+a(S'mri'
+p2910
+F0.039209152307198417
+tp2911
+a(S'eviews'
+p2912
+F0.038600307477579268
+tp2913
+a(S'complex systems'
+p2914
+F0.038288501063243455
+tp2915
+a(S'collaborative problem solving'
+p2916
+F0.038269118916366855
+tp2917
+a(S'optimal control'
+p2918
+F0.038247333463379218
+tp2919
+a(S'population genetics'
+p2920
+F0.037990793114477499
+tp2921
+a(S'economic modeling'
+p2922
+F0.037777987715733541
+tp2923
+a(S'biomarker discovery'
+p2924
+F0.03735358975568822
+tp2925
+a(S'windows azure'
+p2926
+F0.036625860087866821
+tp2927
+a(S'quantitative investing'
+p2928
+F0.036017149305254431
+tp2929
+a(S'credit cards'
+p2930
+F0.035405793993880851
+tp2931
+a(S'21 cfr part 11'
+p2932
+F0.035365754815529414
+tp2933
+a(S'consumer behaviour'
+p2934
+F0.035269905543734631
+tp2935
+a(S'proprietary trading'
+p2936
+F0.033784843102366069
+tp2937
+a(S'object recognition'
+p2938
+F0.033730346174762088
+tp2939
+a(S'convex optimization'
+p2940
+F0.033550708296352642
+tp2941
+a(S'it service management'
+p2942
+F0.033124782160614902
+tp2943
+a(S'evolutionary computation'
+p2944
+F0.032442928381832235
+tp2945
+a(S'statistical consulting'
+p2946
+F0.03234627637167109
+tp2947
+a(S'energy policy'
+p2948
+F0.031997470866765222
+tp2949
+a(S'online research'
+p2950
+F0.031716594164328531
+tp2951
+a(S'contract negotiation'
+p2952
+F0.031250173661911934
+tp2953
+a(S'microsoft crm'
+p2954
+F0.031103188282624851
+tp2955
+a(S'oracle e-business suite'
+p2956
+F0.030217979857845863
+tp2957
+a(S'computational genomics'
+p2958
+F0.030035502600848221
+tp2959
+a(S'hardware diagnostics'
+p2960
+F0.028911725292653217
+tp2961
+a(S'nanofabrication'
+p2962
+F0.028884838148302616
+tp2963
+a(S'technical recruiting'
+p2964
+F0.0286196876634345
+tp2965
+a(S'sas'
+p2966
+F0.028197280440253145
+tp2967
+a(S'final cut pro'
+p2968
+F0.027243741141153993
+tp2969
+a(S'3d visualization'
+p2970
+F0.026984276939809673
+tp2971
+a(S'basel ii'
+p2972
+F0.026920345720478751
+tp2973
+a(S'distributed algorithms'
+p2974
+F0.026562647612625147
+tp2975
+a(S'microsoft project'
+p2976
+F0.026315935715294263
+tp2977
+a(S'prezi'
+p2978
+F0.026263770500179043
+tp2979
+a(S'civil engineering'
+p2980
+F0.026234713691481625
+tp2981
+a(S'erwin'
+p2982
+F0.025762510688837052
+tp2983
+a(S'lingo'
+p2984
+F0.02559809737983592
+tp2985
+a(S'cyber-security'
+p2986
+F0.025373275331462827
+tp2987
+a(S'investment strategies'
+p2988
+F0.025297759631071566
+tp2989
+a(S'meta-analysis'
+p2990
+F0.024709439639651297
+tp2991
+a(S'cobol'
+p2992
+F0.024079453926459056
+tp2993
+a(S'vulnerability assessment'
+p2994
+F0.023743148704022478
+tp2995
+a(S'structured finance'
+p2996
+F0.023545837218947499
+tp2997
+a(S'disease management'
+p2998
+F0.023287800646685061
+tp2999
+a(S'voip'
+p3000
+F0.023160891651335277
+tp3001
+a(S'sap bw'
+p3002
+F0.023097954445760994
+tp3003
+a(S'drupal'
+p3004
+F0.022892392483191519
+tp3005
+a(S'sequence analysis'
+p3006
+F0.022788330391528274
+tp3007
+a(S'revenue analysis'
+p3008
+F0.021739251243069174
+tp3009
+a(S'semiconductor device'
+p3010
+F0.021573723949340217
+tp3011
+a(S'job analysis'
+p3012
+F0.020936076936059228
+tp3013
+a(S'educational technology'
+p3014
+F0.020782511579560015
+tp3015
+a(S'dreamweaver'
+p3016
+F0.020238207704857257
+tp3017
+a(S'latex'
+p3018
+F0.01958536229502315
+tp3019
+a(S'systems design'
+p3020
+F0.019318289172818286
+tp3021
+a(S'statistical arbitrage'
+p3022
+F0.019230876099638115
+tp3023
+a(S'commodity markets'
+p3024
+F0.019144250531621727
+tp3025
+a(S'emerging markets'
+p3026
+F0.018240444712532288
+tp3027
+a(S'customer segmentation strategy'
+p3028
+F0.01808520688519159
+tp3029
+a(S'crystal ball'
+p3030
+F0.017562081066198443
+tp3031
+a(S'powerpivot'
+p3032
+F0.017311705165051011
+tp3033
+a(S'association rules'
+p3034
+F0.017206573352307786
+tp3035
+a(S'hedging'
+p3036
+F0.016346244684692399
+tp3037
+a(S'strategic partnerships'
+p3038
+F0.016332427319955725
+tp3039
+a(S'netbeans'
+p3040
+F0.014991264966560927
+tp3041
+a(S'fourier analysis'
+p3042
+F0.014912363572000082
+tp3043
+a(S'business process design'
+p3044
+F0.014731451015667325
+tp3045
+a(S'wcf'
+p3046
+F0.014333975102934311
+tp3047
+a(S'gsm'
+p3048
+F0.014166745393400078
+tp3049
+a(S'mandarin'
+p3050
+F0.013036882263865103
+tp3051
+a(S'computer forensics'
+p3052
+F0.01301691766621753
+tp3053
+a(S'sap erp'
+p3054
+F0.012318909037739198
+tp3055
+a(S'sustainable development'
+p3056
+F0.012142924622914351
+tp3057
+a(S'sap netweaver'
+p3058
+F0.010773190413231997
+tp3059
+a(S'project portfolio management'
+p3060
+F0.010378568053772951
+tp3061
+a(S'people skills'
+p3062
+F0.00419755419063706
+tp3063
+a(S'data mining'
+p3064
+F16.349483116682684
+tp3065
+a(S'product'
+p3066
+F10.79679153920234
+tp3067
+a(S'data analysis'
+p3068
+F10.628914318885867
+tp3069
+a(S'model'
+p3070
+F10.190977169793712
+tp3071
+a(Vinsight
+p3072
+F9.7152163407299614
+tp3073
+a(S'report'
+p3074
+F9.4185143883696352
+tp3075
+a(S'design'
+p3076
+F9.3901523515615501
+tp3077
+a(S'analytic'
+p3078
+F8.9569626796968329
+tp3079
+a(S'modeling'
+p3080
+F7.7529402128403007
+tp3081
+a(S'information'
+p3082
+F7.4697782407153381
+tp3083
+a(S'development'
+p3084
+F7.416428835982221
+tp3085
+a(S'analysis'
+p3086
+F7.2469018232046913
+tp3087
+a(S'implement'
+p3088
+F6.9314067075802681
+tp3089
+a(S'understand'
+p3090
+F6.1913981091523382
+tp3091
+a(S'communicate'
+p3092
+F6.1467647753419747
+tp3093
+a(S'processing'
+p3094
+F6.0682451545090155
+tp3095
+a(S'recommendation'
+p3096
+F5.7053837118274178
+tp3097
+a(S'optimization'
+p3098
+F5.4764954348049111
+tp3099
+a(S'presentation'
+p3100
+F5.4017310779835652
+tp3101
+a(S'pattern'
+p3102
+F4.8676827364681197
+tp3103
+a(S'business problem'
+p3104
+F4.5465247867176881
+tp3105
+a(S'statistical model'
+p3106
+F4.5234371878869286
+tp3107
+a(S'data collection'
+p3108
+F4.4451317025750612
+tp3109
+a(S'quantitative analysis'
+p3110
+F4.4320985474183168
+tp3111
+a(S'improvement'
+p3112
+F4.1454697699609051
+tp3113
+a(S'prototype'
+p3114
+F4.1132888036711792
+tp3115
+a(S'documentation'
+p3116
+F3.872120474926068
+tp3117
+a(S'extract'
+p3118
+F3.7445957484185484
+tp3119
+a(S'large data set'
+p3120
+F3.6399175416553131
+tp3121
+a(S'interface'
+p3122
+F3.5049844581467107
+tp3123
+a(S'forecasting'
+p3124
+F3.3820558818637996
+tp3125
+a(S'transformation'
+p3126
+F3.2477601559207265
+tp3127
+a(S'statistical method'
+p3128
+F2.9534373605485307
+tp3129
+a(S'evaluation'
+p3130
+F2.8956592732612223
+tp3131
+a(S'simulation'
+p3132
+F2.5306539017402216
+tp3133
+a(S'solve problem'
+p3134
+F2.4044750234555865
+tp3135
+a(S'ownership'
+p3136
+F2.2191705427492163
+tp3137
+a(S'mapping'
+p3138
+F2.1045869134653441
+tp3139
+a(S'data wrangling'
+p3140
+F2.0767232667218267
+tp3141
+a(S'predict'
+p3142
+F1.9543440490179602
+tp3143
+a(S'identify opportunity'
+p3144
+F1.6336813019340126
+tp3145
+a(S'data infrastructure'
+p3146
+F1.4975705907495711
+tp3147
+a(S'decision-making'
+p3148
+F1.4244031793684635
+tp3149
+a(S'formulate'
+p3150
+F1.358545842532966
+tp3151
+a(S'complex data set'
+p3152
+F1.2488926960474116
+tp3153
+a(Vtest hypothesis
+p3154
+F1.2228904972028487
+tp3155
+a(S'mine data'
+p3156
+F1.0732102582471785
+tp3157
+a(S'data gathering'
+p3158
+F1.069591200737174
+tp3159
+a(S'analytical method'
+p3160
+F1.0602802014321289
+tp3161
+a(S'design experiment'
+p3162
+F1.0004866879832914
+tp3163
+a(S'cross-functionally'
+p3164
+F0.97263155174816918
+tp3165
+a(S'product launch'
+p3166
+F0.9315688530969306
+tp3167
+a(S'build model'
+p3168
+F0.78860388531756054
+tp3169
+a(S'identify trend'
+p3170
+F0.78135962622669064
+tp3171
+a(S'financial model'
+p3172
+F0.77949461524394403
+tp3173
+a(S'construct'
+p3174
+F0.77677077113811077
+tp3175
+a(S'develop model'
+p3176
+F0.74309467268749729
+tp3177
+a(S'manage data'
+p3178
+F0.70270908760390527
+tp3179
+a(S'exploratory analysis'
+p3180
+F0.68841448034116282
+tp3181
+a(S'collect data'
+p3182
+F0.66285130648171608
+tp3183
+a(S'provide leadership'
+p3184
+F0.65626437835436835
+tp3185
+a(S'build solution'
+p3186
+F0.64668337602338699
+tp3187
+a(S'key decision'
+p3188
+F0.58648926016298186
+tp3189
+a(S'product decision'
+p3190
+F0.57800981384198491
+tp3191
+a(S'data aggregation'
+p3192
+F0.53755961292439136
+tp3193
+a(S'engineering design'
+p3194
+F0.46517571952512204
+tp3195
+a(Vproduct operation
+p3196
+F0.42530070312895529
+tp3197
+a(S'due diligence'
+p3198
+F0.41455718304566641
+tp3199
+a(S'business recommendation'
+p3200
+F0.3888640121123686
+tp3201
+a(S'develop system'
+p3202
+F0.3813403618345359
+tp3203
+a(S'problem statement'
+p3204
+F0.37311344906924715
+tp3205
+a(S'ensure accuracy'
+p3206
+F0.35785548083804974
+tp3207
+a(S'product leadership'
+p3208
+F0.31439534145181597
+tp3209
+a(S'test model'
+p3210
+F0.30781378415074556
+tp3211
+a(S'normalization'
+p3212
+F0.29880186675915027
+tp3213
+a(S'discover pattern'
+p3214
+F0.2609446449886626
+tp3215
+a(S'go-to-market strategy'
+p3216
+F0.24749124210871717
+tp3217
+a(S'data sourcing'
+p3218
+F0.23567345657624184
+tp3219
+a(S'build dashboard'
+p3220
+F0.23362861699658147
+tp3221
+a(S'explore opportunity'
+p3222
+F0.22016364784366155
+tp3223
+a(S'validate model'
+p3224
+F0.21847611505455536
+tp3225
+a(S'evaluate experiment'
+p3226
+F0.21267803067273
+tp3227
+a(S'quantitative information'
+p3228
+F0.19568544951237249
+tp3229
+a(S'experiment analysis'
+p3230
+F0.18625399933183667
+tp3231
+a(S'support platform'
+p3232
+F0.17300451462551344
+tp3233
+a(Vrequirement specification
+p3234
+F0.16783218120911023
+tp3235
+a(S'cost-benefit'
+p3236
+F0.15921566327808814
+tp3237
+a(S'ongoing deliverable'
+p3238
+F0.14304240814214653
+tp3239
+a(S'prioritize lead'
+p3240
+F0.13755919774004313
+tp3241
+a(S'provide mentorship'
+p3242
+F0.13318862779572849
+tp3243
+a(S'define metric'
+p3244
+F0.11832339269721187
+tp3245
+a(S'ensure data integrity'
+p3246
+F0.10934276405736984
+tp3247
+a(S'drive key decision'
+p3248
+F0.10534006887645524
+tp3249
+a(S'manage decision'
+p3250
+F0.095309598926032163
+tp3251
+a(S'create rule'
+p3252
+F0.083485208835895358
+tp3253
+a(S'visual display'
+p3254
+F0.081038330758083019
+tp3255
+a(S'automate report'
+p3256
+F0.065498667459787108
+tp3257
+a(Vass improvement
+p3258
+F0.057524108971160906
+tp3259
+a(S'ad-hoc exploratory'
+p3260
+F0.047751654962579965
+tp3261
+a(S'automate analyse'
+p3262
+F0.042374581647857519
+tp3263
+a(S'architect system'
+p3264
+F0.040767103179837276
+tp3265
+a(S'tactical initiative'
+p3266
+F0.023876537179887771
+tp3267
+a(S'drive model'
+p3268
+F0.018123768093902017
+tp3269
+a.

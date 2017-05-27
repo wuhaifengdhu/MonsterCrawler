@@ -1,0 +1,67 @@
+(dp1
+S'skills'
+p2
+(lp3
+S'education'
+p4
+aS'open source'
+p5
+aS'r d'
+p6
+aS'communication'
+p7
+aS'data scientist'
+p8
+aS'tcl'
+p9
+aS'communication skills'
+p10
+aS'machine learning'
+p11
+aS'hardware'
+p12
+aS'unix'
+p13
+aS'teamwork'
+p14
+aS'analysis'
+p15
+aS'perl'
+p16
+aS'data'
+p17
+aS'scripting'
+p18
+asS'working-year'
+p19
+(lp20
+V(5, 10]
+p21
+aV(0, 2]
+p22
+aV(2, 5]
+p23
+asS'major'
+p24
+(lp25
+S'communication'
+p26
+aS'phd'
+p27
+aS'machine learning'
+p28
+asS'education'
+p29
+(lp30
+VDoctor
+p31
+asS'responsibility'
+p32
+(lp33
+S'product'
+p34
+aVinsight
+p35
+aS'analysis'
+p36
+as.

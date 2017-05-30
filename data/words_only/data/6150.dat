@@ -4,211 +4,208 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0038900701706087479
-sS'r d'
+I1
+sS'communication'
 p5
-F0.00077328570972632271
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0029530805767405597
-sS'data science'
-p7
-F0.0035047600985075433
+I1
 sS'hadoop'
+p7
+I1
+sS'analytics'
 p8
-F0.002240680229940784
-sS'analytics'
+I1
+sS'data mining'
 p9
-F0.0038247798259024748
-sS'data mining'
-p10
-F0.0083570108259229791
+I1
 sS'mathematical modeling'
-p11
-F0.0085665045081006631
+p10
+I1
 sS'writing'
-p12
-F0.0039515113257720651
+p11
+I1
 sS'management'
-p13
-F0.0032080376990931284
+p12
+I1
 sS'java'
+p13
+I1
+sS'big data'
 p14
-F0.0026542025135028514
-sS'big data'
-p15
-F0.0041491267555180391
+I1
 sS'critical thinking'
-p16
-F0.0063692790907849675
+p15
+I1
 sS'education'
-p17
-F0.002800861130177358
+p16
+I1
 sS'tableau'
-p18
-F0.0074894110031446838
+p17
+I1
 sS'research'
+p18
+I1
+sS'advanced analytics'
 p19
-F0.0017955901980846714
-sS'advanced analytics'
+I1
+sS'data analysis'
 p20
-F0.0082154117969629546
-sS'data analysis'
-p21
-F0.0052523875277805917
+I1
 sS'python'
-p22
-F0.0027364055116775258
+p21
+I1
 sS'data scientist'
+p22
+I1
+sS'business analytics'
 p23
-F0.00034852597846851522
-sS'business analytics'
-p24
-F0.011549422297577241
+I1
 sS'sql'
+p24
+I1
+sS'modeling'
 p25
-F0.0017787775452894827
-sS'modeling'
-p26
-F0.0018185784894579012
+I1
 sS'data'
-p27
-F0.0043650467941198558
+p26
+I1
 sS'bash'
-p28
-F0.0078272265102305762
+p27
+I1
 sS'training'
+p28
+I1
+sS'data collection'
 p29
-F0.0067546181221422516
-sS'data collection'
+I1
+sS'science'
 p30
-F0.011436019746439232
-sS'science'
-p31
-F0.0027639421163989054
+I1
 sS'programming'
+p31
+I1
+sS'analysis'
 p32
-F0.007829267574401215
-sS'analysis'
+I1
+sS'machine learning'
 p33
-F0.00094408662904947669
-sS'machine learning'
-p34
-F0.0029850783333549668
+I1
 sS'data architecture'
-p35
-F0.0062919531724505403
+p34
+I1
 sS'exploratory data analysis'
-p36
-F0.0076190531706806881
+p35
+I1
 sS'r'
-F0.0015010145909699472
+I1
 sS'architecture'
-p37
-F0.0033796123347392612
+p36
+I1
 sS'military'
-p38
-F0.0059022873009316043
+p37
+I1
 sS'etl'
+p38
+I1
+sS'predictive analytics'
 p39
-F0.0049758664522454085
-sS'predictive analytics'
-p40
-F0.0096025710174039037
+I1
 ssS'working-year'
-p41
-(dp42
+p40
+(dp41
 V(5, 10]
-p43
-F0.0022762513301871155
+p42
+I1
 sV(2, 5]
-p44
-F0.0014782179887925871
+p43
+I1
 ssS'major'
-p45
-(dp46
+p44
+(dp45
 S'management'
-p47
-F0.0032080376990931284
+p46
+I1
 sS'business'
-p48
-F0.010385459404660551
+p47
+I1
 sS'big data'
-p49
-F0.0041491267555180391
+p48
+I1
 sS'science'
-p50
-F0.0027639421163989054
+p49
+I1
 sS'data science'
+p50
+I1
+sS'data mining'
 p51
-F0.0035047600985075433
-sS'data mining'
-p52
-F0.0083570108259229791
+I1
 sS'machine learning'
-p53
-F0.0029850783333549668
+p52
+I1
 sS'business analytics'
-p54
-F0.011549422297577241
+p53
+I1
 sS'analytics'
-p55
-F0.0038247798259024748
+p54
+I1
 sS'communication'
-p56
-F0.0029530805767405597
+p55
+I1
 sS'advanced analytics'
-p57
-F0.0082154117969629546
+p56
+I1
 sS'data mining predictive analytics'
-p58
-F0.0098718564679370676
+p57
+I1
 sS'machine learning data mining'
-p59
-F0.0060203070035870481
+p58
+I1
 sS'predictive analytics'
-p60
-F0.0096025710174039037
+p59
+I1
 ssS'education'
-p61
-(dp62
+p60
+(dp61
 S'Bachelor'
-p63
-F0.00064021688759349283
+p62
+I1
 ssS'responsibility'
-p64
-(dp65
+p63
+(dp64
 S'development'
-p66
-F0.0017419501547015187
+p65
+I1
 sS'data analysis'
-p67
-F0.0052523875277805917
+p66
+I1
 sVinsight
-p68
-F0.0058817021439268253
+p67
+I1
 sS'communicate'
-p69
-F0.0069768825598538302
+p68
+I1
 sS'analysis'
-p70
-F0.00094408662904947669
+p69
+I1
 sS'analytic'
-p71
-F0.0028144678026486322
+p70
+I1
 sS'data collection'
-p72
-F0.011436019746439232
+p71
+I1
 sS'data mining'
-p73
-F0.0083570108259229791
+p72
+I1
 sS'modeling'
-p74
-F0.0018185784894579012
+p73
+I1
 sS'model'
-p75
-F0.0027745934919742679
+p74
+I1
 sS'presentation'
-p76
-F0.0063739969948967429
+p75
+I1
 ss.

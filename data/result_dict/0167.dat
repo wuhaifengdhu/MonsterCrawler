@@ -2,114 +2,112 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'software development'
 p4
-aS'analytics'
-p5
-aS'engineering'
-p6
 aS'visualization'
+p5
+aS'consulting'
+p6
+aS'data collection'
 p7
-aS'management'
-p8
-aS'excel'
-p9
-aS'strategy'
-p10
-aS'access'
-p11
-aS'computer science'
-p12
-aS'innovation'
-p13
-aS'data analysis'
-p14
-aS'government'
-p15
-aS'data scientist'
-p16
-aS'leadership'
-p17
-aS'modeling'
-p18
-aS'data'
-p19
-aS'software development'
-p20
-aS'data collection'
-p21
 aS'data visualization'
-p22
-aS'science'
-p23
-aS'analysis'
-p24
-aS'security'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-aV(2, 5]
-p29
-asS'major'
-p30
-(lp31
-S'information'
-p32
+p8
 aS'management'
-p33
-aS'business'
-p34
+p9
 aS'science'
-p35
-aS'analytics'
-p36
-aS'engineering'
-p37
-aS'design'
-p38
-aS'computer science'
-p39
-aS'statistic'
-p40
-aS'management technology'
-p41
-asS'education'
-p42
-(lp43
-VBachelor
-p44
-asS'responsibility'
-p45
-(lp46
-S'development'
-p47
-aS'information'
-p48
-aS'mine data'
-p49
-aS'data analysis'
-p50
-aS'business problem'
-p51
-aS'pattern'
-p52
-aVinsight
-p53
-aS'product'
-p54
+p10
+aS'government'
+p11
+aS'excel'
+p12
 aS'analysis'
-p55
-aS'analytic'
-p56
-aS'data collection'
-p57
-aS'design'
-p58
+p13
+aS'strategy'
+p14
+aS'access'
+p15
+aS'analytics'
+p16
+aS'engineering'
+p17
+aS'leadership'
+p18
+aS'computer science'
+p19
+aS'data analysis'
+p20
+aS'innovation'
+p21
 aS'modeling'
-p59
+p22
+aS'security'
+p23
+aS'data'
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+aV(2, 5]
+p28
+asS'major'
+p29
+(lp30
+S'information'
+p31
+aS'management'
+p32
+aS'business'
+p33
+aS'science'
+p34
+aS'analytics'
+p35
+aS'engineering'
+p36
+aS'design'
+p37
+aS'computer science'
+p38
+aS'statistic'
+p39
+aS'management technology'
+p40
+asS'education'
+p41
+(lp42
+VBachelor
+p43
+asS'responsibility'
+p44
+(lp45
+S'development'
+p46
+aS'information'
+p47
+aS'mine data'
+p48
+aS'data analysis'
+p49
+aS'business problem'
+p50
+aS'pattern'
+p51
+aVinsight
+p52
+aS'product'
+p53
+aS'analysis'
+p54
+aS'analytic'
+p55
+aS'data collection'
+p56
+aS'design'
+p57
+aS'modeling'
+p58
 aS'implement'
-p60
+p59
 as.

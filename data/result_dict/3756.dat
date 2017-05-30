@@ -4,129 +4,127 @@ p2
 (lp3
 S'consulting'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'analytics'
-p7
+p6
 aS'engineering'
-p8
+p7
 aS'problem solving'
-p9
+p8
 aS'direct marketing'
-p10
+p9
 aS'web analytics'
-p11
+p10
 aS'java'
-p12
+p11
 aS'big data'
-p13
+p12
 aS'marketing automation'
-p14
+p13
 aS'matlab'
-p15
+p14
 aS'computer science'
-p16
+p15
 aS'algebra'
-p17
+p16
 aS'marketing'
-p18
+p17
 aS'data scientist'
-p19
+p18
 aS'automation'
-p20
+p19
 aS'leadership'
-p21
+p20
 aS'project management'
-p22
+p21
 aS'sql'
-p23
+p22
 aS'data'
-p24
+p23
 aS'information technology'
-p25
+p24
 aS'science'
-p26
+p25
 aS'programming'
-p27
+p26
 aS'r'
 aS'management'
-p28
+p27
 aS'retail'
+p28
+aS'data analytics'
 p29
-aS'data analytics'
+aS'predictive analytics'
 p30
-aS'predictive analytics'
-p31
 asS'working-year'
-p32
-(lp33
+p31
+(lp32
 V(5, 10]
-p34
+p33
 aV(2, 5]
-p35
+p34
 asS'major'
-p36
-(lp37
+p35
+(lp36
 S'science'
-p38
+p37
 aS'information'
-p39
+p38
 aS'management'
-p40
+p39
 aS'business'
-p41
+p40
 aS'big data'
-p42
+p41
 aS'marketing'
-p43
+p42
 aS'communication'
-p44
+p43
 aS'mba'
-p45
+p44
 aS'automation'
-p46
+p45
 aS'analytics'
-p47
+p46
 aS'engineering'
+p47
+aS'design'
 p48
-aS'design'
-p49
 aS'project management'
-p50
+p49
 aS'statistic'
-p51
+p50
 aS'computer science'
-p52
+p51
 aS'data analytics'
-p53
+p52
 aS'information technology'
-p54
+p53
 aS'predictive analytics'
-p55
+p54
 asS'education'
-p56
-(lp57
+p55
+(lp56
 VBachelor
-p58
+p57
 aVMaster
-p59
+p58
 asS'responsibility'
-p60
-(lp61
+p59
+(lp60
 S'information'
-p62
+p61
 aS'product'
-p63
+p62
 aS'formulate'
-p64
+p63
 aS'understand'
-p65
+p64
 aS'ownership'
-p66
+p65
 aS'design'
-p67
+p66
 aS'prototype'
-p68
+p67
 as.

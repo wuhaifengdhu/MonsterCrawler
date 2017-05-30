@@ -4,86 +4,83 @@ p2
 (dp3
 S'change management'
 p4
-F0.0079079944925414189
+I1
 sS'training'
 p5
-F0.0032785212274748956
+I1
 sS'management'
 p6
-F0.0015571005650991327
-sS'r d'
-p7
-F0.000750666749295571
-sS'innovation management'
-p8
-F0.013005033793960225
-sS'data science'
-p9
-F0.0034022442638162809
+I1
 sS'government'
-p10
-F0.0035763740052753342
-sS'data scientist'
-p11
-F0.00033833143430855866
-sS'problem solving'
-p12
-F0.0034493864342244993
-sS'innovation'
-p13
-F0.0022820477511791503
-sS'policy'
-p14
-F0.021515656176033966
-sS'organization'
-p15
-F0.0039175956260149858
-sS'public policy'
-p16
-F0.014792384766476948
-ssS'working-year'
-p17
-(dp18
-V[0]
-p19
-F0.0026072586332037389
-ssS'major'
-p20
-(dp21
-S'information'
-p22
-F0.0011490065498962303
-sS'management'
-p23
-F0.0015571005650991327
+p7
+I1
 sS'data science'
-p24
-F0.0034022442638162809
-sS'design'
-p25
-F0.001245555130049003
+p8
+I1
+sS'innovation management'
+p9
+I1
+sS'data scientist'
+p10
+I1
+sS'problem solving'
+p11
+I1
+sS'innovation'
+p12
+I1
+sS'policy'
+p13
+I1
+sS'organization'
+p14
+I1
 sS'public policy'
-p26
-F0.014792384766476948
-sS'law'
-p27
-F0.0032673825676026447
-ssS'education'
-p28
-(dp29
-S'Bachelor'
-p30
-F0.00062149025102768685
-ssS'responsibility'
-p31
-(dp32
+p15
+I1
+ssS'working-year'
+p16
+(dp17
+V[0]
+p18
+I1
+ssS'major'
+p19
+(dp20
 S'information'
-p33
-F0.0011490065498962303
-sS'implement'
-p34
-F0.0024332015977552128
+p21
+I1
+sS'management'
+p22
+I1
+sS'data science'
+p23
+I1
 sS'design'
-p35
-F0.001245555130049003
+p24
+I1
+sS'public policy'
+p25
+I1
+sS'law'
+p26
+I1
+ssS'education'
+p27
+(dp28
+S'Bachelor'
+p29
+I1
+ssS'responsibility'
+p30
+(dp31
+S'information'
+p32
+I1
+sS'implement'
+p33
+I1
+sS'design'
+p34
+I1
 ss.

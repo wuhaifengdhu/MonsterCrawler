@@ -1,5 +1,5 @@
-skills: {'consulting': 0.005523067541693169, 'nosql': 0.006287898264301646, 'analytics': 0.002715184609029698, 'cancer': 0.0834199238845383, 'publishing': 0.01216260399412153, 'deep learning': 0.00757668219875211, 'recruiting': 0.007415138355333916, 'innovation': 0.006675294758796766, 'research': 0.01019741599126161, 'computer science': 0.004421371376765033, 'natural language processing': 0.013633596818827467, 'tensorflow': 0.010111152268481544, 'python': 0.0019425552495999547, 'collaboration': 0.004844533910978454, 'processing': 0.004260683124652243, 'data scientist': 0.0004948323384138545, 'sql': 0.0025254836271356024, 'data': 0.0034430181932228812, 'programming': 0.0027789713115020354, 'c++': 0.007197786877235398, 'machine learning': 0.0042381727139344585, 'healthcare': 0.022838657521986303}
-working-year: {u'(20, 30)': 0.011964456511962531, u'(2, 5]': 0.0020987533477242345}
-major: {'law': 0.004778765413044509, 'machine learning': 0.0042381727139344585, 'analytics': 0.002715184609029698, 'design': 0.001821707636729424, 'computer science': 0.004421371376765033, 'natural language processing': 0.013633596818827467, 'phd': 0.0045042582345429715}
-education: {u'Master': 0.002579138446267128, u'Doctor': 0.0034028466774903535}
-responsibility: {'implement': 0.0035587199838826244, 'processing': 0.004260683124652243, 'design': 0.001821707636729424, 'model': 0.001969664631334674}
+skills: {'consulting': 1, 'nosql': 1, 'analytics': 1, 'cancer': 1, 'publishing': 1, 'deep learning': 1, 'recruiting': 1, 'innovation': 1, 'research': 1, 'computer science': 1, 'natural language processing': 1, 'tensorflow': 1, 'python': 1, 'collaboration': 1, 'processing': 1, 'data scientist': 1, 'sql': 1, 'data': 1, 'programming': 1, 'c++': 1, 'machine learning': 1, 'healthcare': 1}
+working-year: {u'(20, 30)': 1, u'(2, 5]': 1}
+major: {'law': 1, 'machine learning': 1, 'analytics': 1, 'design': 1, 'computer science': 1, 'natural language processing': 1, 'phd': 1}
+education: {u'Master': 1, u'Doctor': 1}
+responsibility: {'implement': 1, 'processing': 1, 'design': 1, 'model': 1}

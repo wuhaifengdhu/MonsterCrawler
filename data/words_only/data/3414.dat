@@ -2,214 +2,211 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'classification'
 p4
-F0.0012148364256351402
-sS'classification'
+I1
+sS'data science'
 p5
-F0.0078596828590897436
-sS'data science'
-p6
-F0.0055059988529807856
+I1
 sS'testing'
-p7
-F0.0049389384113548013
+p6
+I1
 sS'data warehousing'
+p7
+I1
+sS'data mining'
 p8
-F0.0097354973728018997
-sS'data mining'
+I1
+sS'accounting'
 p9
-F0.013128913457293202
-sS'accounting'
-p10
-F0.01313495805495739
+I1
 sS'research'
-p11
-F0.0028208828259850905
+p10
+I1
 sS'regression'
-p12
-F0.0070868193655462489
+p11
+I1
 sS'clustering'
-p13
-F0.0075816211106834175
+p12
+I1
 sS'technical leadership'
+p13
+I1
+sS'big data'
 p14
-F0.011868132457154871
-sS'big data'
-p15
-F0.0065183026839647296
+I1
 sS'anomaly detection'
-p16
-F0.011350974866477515
+p15
+I1
 sS'strategy'
+p16
+I1
+sS'computer science'
 p17
-F0.0041550276807878579
-sS'computer science'
-p18
-F0.004892286671331722
+I1
 sS'innovation'
+p18
+I1
+sS'operations research'
 p19
-F0.014772545797573909
-sS'operations research'
+I1
+sS'finance'
 p20
-F0.015668138189127753
-sS'finance'
-p21
-F0.0083028855598118127
+I1
 sS'collaboration'
+p21
+I1
+sS'natural language processing'
 p22
-F0.005360519771319355
-sS'natural language processing'
-p23
-F0.015085695888288382
+I1
 sS'data scientist'
-p24
-F0.00054753637445793368
+p23
+I1
 sS'leadership'
-p25
-F0.0090172594246755756
+p24
+I1
 sS'statistical modeling'
+p25
+I1
+sS'modeling'
 p26
-F0.0069199294251692618
-sS'modeling'
-p27
-F0.0057139951355156537
+I1
 sS'data'
+p27
+I1
+sS'econometrics'
 p28
-F0.0038097301901341939
-sS'econometrics'
+I1
+sS'software engineering'
 p29
-F0.0099885125256573368
-sS'software engineering'
-p30
-F0.016238870472830302
+I1
 sS'solver'
+p30
+I1
+sS'science'
 p31
-F0.011350974866477515
-sS'science'
+I1
+sS'machine learning'
 p32
-F0.0043421694195497594
-sS'machine learning'
+I1
+sS'engineering management'
 p33
-F0.0046895757248860579
-sS'engineering management'
-p34
-F0.0307941755026594
+I1
 sS'command'
+p34
+I1
+sS'artificial intelligence'
 p35
-F0.010245934208082596
-sS'artificial intelligence'
-p36
-F0.019769391328823889
+I1
 ssS'working-year'
-p37
-(dp38
+p36
+(dp37
 V(5, 10]
-p39
-F0.0035760043086667409
+p38
+I1
 ssS'major'
-p40
-(dp41
+p39
+(dp40
 S'artificial intelligence machine learning'
-p42
-F0.016002985370729365
+p41
+I1
 sS'natural language processing'
-p43
-F0.015085695888288382
+p42
+I1
 sS'artificial intelligence'
-p44
-F0.019769391328823889
+p43
+I1
 sS'finance'
-p45
-F0.0083028855598118127
+p44
+I1
 sS'big data'
-p46
-F0.0065183026839647296
+p45
+I1
 sS'engineering management'
-p47
-F0.0307941755026594
+p46
+I1
 sS'science'
-p48
-F0.0043421694195497594
+p47
+I1
 sS'data science'
-p49
-F0.0055059988529807856
+p48
+I1
 sS'statistic'
-p50
-F0.0026290412488001297
+p49
+I1
 sS'software engineering'
-p51
-F0.016238870472830302
+p50
+I1
 sS'computer science statistics'
-p52
-F0.0098008806071079261
+p51
+I1
 sS'phd'
-p53
-F0.0049840017151451818
+p52
+I1
 sS'business'
-p54
-F0.0081578090885721204
+p53
+I1
 sS'data science analytics'
-p55
-F0.010886954720559576
+p54
+I1
 sS'applied math'
-p56
-F0.0073634996033198246
+p55
+I1
 sS'computer science'
+p56
+I1
+sS'data mining'
 p57
-F0.004892286671331722
-sS'data mining'
-p58
-F0.013128913457293202
+I1
 sS'accounting'
-p59
-F0.01313495805495739
+p58
+I1
 sS'machine learning'
-p60
-F0.0046895757248860579
+p59
+I1
 sS'econometrics'
-p61
-F0.0099885125256573368
+p60
+I1
 sS'operations research'
-p62
-F0.015668138189127753
+p61
+I1
 ssS'education'
-p63
-(dp64
+p62
+(dp63
 VDoctor
-p65
-F0.0037652800514242375
+p64
+I1
 ssS'responsibility'
-p66
-(dp67
+p65
+(dp66
 S'development'
-p68
-F0.0013683070002167253
+p67
+I1
 sS'product'
-p69
-F0.0084699063196119681
+p68
+I1
 sS'data infrastructure'
-p70
-F0.010485943389681087
+p69
+I1
 sVinsight
-p71
-F0.0092401888710803085
+p70
+I1
 sS'communicate'
-p72
-F0.0036535745949530414
+p71
+I1
 sS'statistical model'
-p73
-F0.0055039255403101801
+p72
+I1
 sS'key decision'
-p74
-F0.014988361347038513
+p73
+I1
 sS'data mining'
-p75
-F0.013128913457293202
+p74
+I1
 sS'modeling'
-p76
-F0.0057139951355156537
+p75
+I1
 sS'engineering design'
-p77
-F0.014988361347038513
+p76
+I1
 ss.

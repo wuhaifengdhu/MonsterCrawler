@@ -2,44 +2,42 @@
 S'skills'
 p2
 (lp3
-S'r d'
-p4
-aS'science'
-p5
-aS'data science'
-p6
-aS'data scientist'
-p7
-aS'engineering'
-p8
-aS'mathematics'
-p9
-aS'data'
-p10
-asS'working-year'
-p11
-(lp12
-V[0]
-p13
-asS'major'
-p14
-(lp15
 S'science'
-p16
+p4
 aS'data science'
-p17
+p5
+aS'data scientist'
+p6
 aS'engineering'
-p18
+p7
 aS'mathematics'
-p19
+p8
+aS'data'
+p9
+asS'working-year'
+p10
+(lp11
+V[0]
+p12
+asS'major'
+p13
+(lp14
+S'science'
+p15
+aS'data science'
+p16
+aS'engineering'
+p17
+aS'mathematics'
+p18
 asS'education'
-p20
-(lp21
+p19
+(lp20
 S'Bachelor'
-p22
+p21
 asS'responsibility'
-p23
-(lp24
+p22
+(lp23
 S'recommendation'
-p25
+p24
 as.

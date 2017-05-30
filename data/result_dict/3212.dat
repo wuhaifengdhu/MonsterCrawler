@@ -2,118 +2,112 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'pig'
 p4
-aS'pig'
+aS'engineering'
 p5
-aS'engineering'
-p6
 aS'hive'
-p7
+p6
 aS'relational databases'
-p8
+p7
 aS'batch processing'
-p9
+p8
 aS'education'
+p9
+aS'management'
 p10
-aS'management'
-p11
 aS'open source'
+p11
+aS'big data'
 p12
-aS'big data'
-p13
 aS'scala'
-p14
+p13
 aS'hadoop'
-p15
+p14
 aS'research'
+p15
+aS'computer science'
 p16
-aS'computer science'
-p17
 aS'python'
-p18
+p17
 aS'processing'
-p19
+p18
 aS'data scientist'
-p20
+p19
 aS'java'
-p21
+p20
 aS'data'
-p22
-aS'information technology'
-p23
+p21
 aS'software development'
-p24
+p22
 aS'science'
-p25
+p23
 aS'programming'
-p26
+p24
 aS'analysis'
-p27
+p25
 aS'engineering management'
-p28
+p26
 aS'healthcare'
-p29
+p27
 aS'security'
-p30
+p28
 asS'working-year'
-p31
-(lp32
+p29
+(lp30
 V(5, 10]
-p33
+p31
 asS'major'
-p34
-(lp35
+p32
+(lp33
 S'information'
-p36
+p34
 aS'management'
-p37
+p35
 aS'business'
-p38
+p36
 aS'big data'
-p39
+p37
 aS'science'
-p40
+p38
 aS'information systems'
-p41
+p39
 aS'engineering management'
-p42
+p40
 aS'engineering'
-p43
+p41
 aS'information system'
-p44
+p42
 aS'design'
-p45
+p43
 aS'computer science'
-p46
+p44
 aS'management information systems'
-p47
+p45
 aS'ee computer science'
-p48
-aS'information technology'
-p49
+p46
 asS'education'
+p47
+(lp48
+VBachelor
+p49
+asS'responsibility'
 p50
 (lp51
-VBachelor
-p52
-asS'responsibility'
-p53
-(lp54
 S'development'
-p55
+p52
 aS'information'
-p56
+p53
 aS'product'
-p57
+p54
 aS'support platform'
-p58
+p55
 aS'data infrastructure'
-p59
+p56
 aS'processing'
-p60
+p57
 aS'analysis'
-p61
+p58
 aS'design'
-p62
+p59
 as.

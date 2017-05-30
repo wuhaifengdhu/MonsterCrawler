@@ -4,120 +4,114 @@ p2
 (lp3
 S'consulting'
 p4
-aS'r d'
+aS'communication'
 p5
-aS'communication'
+aS'data science'
 p6
-aS'data science'
+aS'analytics'
 p7
-aS'analytics'
+aS'public policy'
 p8
-aS'public policy'
-p9
 aS'strategy'
-p10
+p9
 aS'qlikview'
-p11
+p10
 aS'visualization'
-p12
+p11
 aS'excel'
-p13
+p12
 aS'tableau'
-p14
+p13
 aS'research'
+p14
+aS'natural language processing'
 p15
-aS'natural language processing'
-p16
 aS'policy'
-p17
+p16
 aS'energy'
-p18
-aS'product development'
-p19
+p17
 aS'processing'
-p20
+p18
 aS'data scientist'
-p21
+p19
 aS'leadership'
-p22
+p20
 aS'data'
-p23
+p21
 aS'data collection'
-p24
+p22
 aS'data visualization'
-p25
+p23
 aS'science'
-p26
+p24
 aS'business strategy'
-p27
+p25
 aS'analysis'
-p28
-aS'team management'
-p29
+p26
 aS'data analytics'
-p30
+p27
 asS'working-year'
-p31
-(lp32
+p28
+(lp29
 V(5, 10]
-p33
+p30
 aV(10, 15]
-p34
+p31
 asS'major'
-p35
-(lp36
+p32
+(lp33
 S'information'
-p37
+p34
 aS'business'
-p38
+p35
 aS'science'
-p39
+p36
 aS'data science'
-p40
+p37
 aS'statistic'
-p41
+p38
 aS'communication'
-p42
+p39
 aS'analytics'
-p43
+p40
 aS'design'
-p44
+p41
 aS'natural language processing'
-p45
+p42
 aS'public policy'
-p46
+p43
 aS'data analytics'
-p47
+p44
 asS'education'
+p45
+(lp46
+S'Bachelor'
+p47
+asS'responsibility'
 p48
 (lp49
-S'Bachelor'
-p50
-asS'responsibility'
-p51
-(lp52
 S'development'
-p53
+p50
 aS'information'
-p54
+p51
 aS'product'
-p55
+p52
 aS'processing'
-p56
+p53
 aVinsight
-p57
+p54
 aS'analysis'
-p58
+p55
 aS'data collection'
-p59
+p56
 aS'understand'
-p60
+p57
 aS'report'
-p61
+p58
 aS'design'
-p62
+p59
 aS'implement'
-p63
+p60
 aS'model'
-p64
+p61
 as.

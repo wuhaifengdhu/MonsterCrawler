@@ -2,160 +2,154 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'intelligence'
 p4
-F0.0010421693194534957
-sS'intelligence'
+I1
+sS'data science'
 p5
-F0.0048474469325438981
-sS'data science'
-p6
-F0.0047234203358058518
+I1
 sS'hardware'
+p6
+I1
+sS'engineering'
 p7
-F0.0081646786406689362
-sS'engineering'
-p8
-F0.0026452122095960628
+I1
 sS'writing'
-p9
-F0.0053255139948857012
+p8
+I1
 sS'quantitative finance'
+p9
+I1
+sS'big data'
 p10
-F0.025100030924489765
-sS'big data'
-p11
-F0.0055918434192387782
-sS'r programming'
-p12
-F0.0082036252379342634
-sS'integration'
-p13
-F0.0048896257144957836
-sS'research'
-p14
-F0.007259835496316959
-sS'access'
-p15
-F0.0046272210775985074
-sS'computer science'
-p16
-F0.0041969362814977713
-sS'innovation'
-p17
-F0.0095046709636674772
-sS'data analysis'
-p18
-F0.0070787253229733348
-sS'finance'
-p19
-F0.0071227799980111486
-sS'collaboration'
-p20
-F0.0045986184840252327
-sS'data scientist'
-p21
-F0.00046971394560096848
-sS'leadership'
-p22
-F0.0038678092456095742
-sS'data'
-p23
-F0.00065364913922099364
-sS'economics'
-p24
-F0.0062373092674752155
+I1
 sS'education'
-p25
-F0.0037747646196045104
-sS'analysis'
-p26
-F0.001272360406155513
-sS'organization'
-p27
-F0.0027194477251652246
-sS'security'
-p28
-F0.0040494900773392463
-sS'programming'
-p29
-F0.002637906777923252
-sS'data analytics'
-p30
-F0.0077641300232832635
-ssS'working-year'
-p31
-(dp32
-V[0]
-p33
-F0.0036197220110721954
-ssS'major'
-p34
-(dp35
-S'quantitative finance'
-p36
-F0.025100030924489765
-sS'finance'
-p37
-F0.0071227799980111486
-sS'big data'
-p38
-F0.0055918434192387782
-sS'data science'
-p39
-F0.0047234203358058518
-sS'economics'
-p40
-F0.0062373092674752155
-sS'engineering'
-p41
-F0.0026452122095960628
-sS'computational social science'
-p42
-F0.013615628162927813
-sS'statistic'
-p43
-F0.0022553704114072178
-sS'computer science mathematics'
-p44
-F0.0083379408900778711
-sS'data analytics'
-p45
-F0.0077641300232832635
+p11
+I1
+sS'integration'
+p12
+I1
+sS'research'
+p13
+I1
+sS'access'
+p14
+I1
 sS'computer science'
-p46
-F0.0041969362814977713
-ssS'education'
-p47
-(dp48
-VBachelor
-p49
-F0.00086283037388869212
-sVMaster
-p50
-F0.0024482177129540763
-ssS'responsibility'
-p51
-(dp52
-S'data analysis'
-p53
-F0.0070787253229733348
-sS'pattern'
-p54
-F0.0046081169002738492
-sVinsight
-p55
-F0.0026422875113579895
-sS'communicate'
-p56
-F0.0031342848048074314
+p15
+I1
+sS'innovation'
+p16
+I1
+sS'data analysis'
+p17
+I1
+sS'finance'
+p18
+I1
+sS'collaboration'
+p19
+I1
+sS'data scientist'
+p20
+I1
+sS'leadership'
+p21
+I1
+sS'data'
+p22
+I1
+sS'economics'
+p23
+I1
+sS'programming'
+p24
+I1
 sS'analysis'
-p57
-F0.001272360406155513
+p25
+I1
+sS'organization'
+p26
+I1
+sS'security'
+p27
+I1
+sS'data analytics'
+p28
+I1
+ssS'working-year'
+p29
+(dp30
+V[0]
+p31
+I1
+ssS'major'
+p32
+(dp33
+S'quantitative finance'
+p34
+I1
+sS'finance'
+p35
+I1
+sS'big data'
+p36
+I1
+sS'data science'
+p37
+I1
+sS'economics'
+p38
+I1
+sS'engineering'
+p39
+I1
+sS'computational social science'
+p40
+I1
+sS'statistic'
+p41
+I1
+sS'computer science mathematics'
+p42
+I1
+sS'data analytics'
+p43
+I1
+sS'computer science'
+p44
+I1
+ssS'education'
+p45
+(dp46
+VBachelor
+p47
+I1
+sVMaster
+p48
+I1
+ssS'responsibility'
+p49
+(dp50
+S'data analysis'
+p51
+I1
+sS'pattern'
+p52
+I1
+sVinsight
+p53
+I1
+sS'communicate'
+p54
+I1
+sS'analysis'
+p55
+I1
 sS'analytic'
-p58
-F0.0037931025462091968
+p56
+I1
 sS'statistical method'
-p59
-F0.0063545094696828086
+p57
+I1
 ss.

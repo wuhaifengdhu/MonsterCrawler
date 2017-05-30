@@ -2,81 +2,69 @@
 S'skills'
 p2
 (dp3
-S'microsoft azure'
+S'fraud'
 p4
-F0.049165354186151186
+I1
 sS'python'
 p5
-F0.007265156633503831
-sS'data'
+I1
+sS'intelligence'
 p6
-F0.0025753776085307152
+I1
 sS'data scientist'
 p7
-F0.001850672945667816
+I1
 sS'business intelligence'
 p8
-F0.023284438871867548
-sS'machine learning'
+I1
+sS'data'
 p9
-F0.015850765950114875
-sS'etl'
+I1
+sS'analytics'
 p10
-F0.026421850861423121
+I1
 sS'ssis'
 p11
-F0.050035461852326338
+I1
 sS'ssrs'
 p12
-F0.051678482192362249
-sS'fraud detection'
-p13
-F0.043411769704999922
+I1
 sS'dashboard'
-p14
-F0.028267829701678199
+p13
+I1
 sS'sql'
-p15
-F0.009445308765487154
+p14
+I1
 sS'r'
-F0.015940774956100842
+I1
 sS'shiny'
+p15
+I1
+sS'etl'
 p16
-F0.048111757167861979
-sS'artificial intelligence'
-p17
-F0.066820542691424747
-sS'predictive analytics'
-p18
-F0.050989652102414733
+I1
 ssS'working-year'
-p19
-(dp20
+p17
+(dp18
 V(2, 5]
-p21
-F0.0078493375204886379
+p19
+I1
 ssS'major'
+p20
+(dp21
+S'analytics'
 p22
-(dp23
-S'predictive analytics'
-p24
-F0.050989652102414733
+I1
 sS'business'
-p25
-F0.003939056388481966
-sS'artificial intelligence'
-p26
-F0.066820542691424747
-sS'machine learning'
-p27
-F0.015850765950114875
+p23
+I1
 ssS'education'
-p28
-(dp29
+p24
+(dp25
 S'Bachelor'
-p30
-F0.0033995516731214473
+p26
+I1
 ssS'responsibility'
-p31
-(dp32
+p27
+(dp28
 s.

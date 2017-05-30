@@ -2,112 +2,109 @@
 S'skills'
 p2
 (dp3
-S'social media'
+S'nlp'
 p4
-F0.036402470725517937
+I1
 sS'retail'
 p5
-F0.019799517882290365
+I1
 sS'java'
 p6
-F0.0097873717685417645
-sS'r d'
+I1
+sS'big data'
 p7
-F0.0028514910546158147
-sS'big data'
+I1
+sS'social media'
 p8
-F0.015299904910972769
-sS'nlp'
-p9
-F0.021447545517075259
+I1
 sS'python'
-p10
-F0.0050452476621554382
+p9
+I1
 sS'mongodb'
+p10
+I1
+sS'data science'
 p11
-F0.022775894768559058
-sS'data science'
+I1
+sS'processing'
 p12
-F0.012923802863246566
-sS'processing'
-p13
-F0.011065940893194019
+I1
 sS'data scientist'
-p14
-F0.0012851895456026498
+p13
+I1
 sS'integration'
-p15
-F0.01337855924660652
+p14
+I1
 sS'hive'
-p16
-F0.01371636197231251
+p15
+I1
 sS'hadoop'
-p17
-F0.0082625083479066393
+p16
+I1
 sS'banking'
-p18
-F0.020629647328979143
+p17
+I1
 sS'healthcare'
-p19
-F0.014829267210456383
+p18
+I1
 sS'c++'
+p19
+I1
+sS'natural language processing'
 p20
-F0.018694252028375272
-sS'natural language processing'
-p21
-F0.035409480626676891
+I1
 sS'oracle'
+p21
+I1
+sS'machine learning'
 p22
-F0.018269598203256351
-sS'machine learning'
-p23
-F0.011007476354246442
+I1
 sS'financial services'
-p24
-F0.02555410205242456
+p23
+I1
 ssS'working-year'
-p25
-(dp26
+p24
+(dp25
 V[0]
-p27
-F0.0099039616136280904
+p26
+I1
 ssS'major'
-p28
-(dp29
+p27
+(dp28
 S'telecommunication'
-p30
-F0.031723831779179763
+p29
+I1
 sS'big data'
-p31
-F0.015299904910972769
+p30
+I1
 sS'data science'
-p32
-F0.012923802863246566
+p31
+I1
 sS'machine learning engineer'
-p33
-F0.031588985373621196
+p32
+I1
 sS'natural language processing'
-p34
-F0.035409480626676891
+p33
+I1
 sS'machine learning'
-p35
-F0.011007476354246442
+p34
+I1
 ssS'education'
-p36
-(dp37
+p35
+(dp36
 S'Bachelor'
-p38
-F0.0023607997730010046
+p37
+I1
 ssS'responsibility'
-p39
-(dp40
+p38
+(dp39
 S'development'
-p41
-F0.003211720597730925
+p40
+I1
 sS'implement'
-p42
-F0.0092427866248062599
+p41
+I1
 sS'processing'
-p43
-F0.011065940893194019
+p42
+I1
 ss.

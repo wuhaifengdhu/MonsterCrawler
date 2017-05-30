@@ -4,226 +4,223 @@ p2
 (dp3
 S'reporting analysis'
 p4
-F0.010783504709553089
-sS'r d'
-p5
-F0.00088494549970835634
+I1
 sS'regression analysis'
-p6
-F0.0093559848502154999
+p5
+I1
 sS'programming'
+p6
+I1
+sS'data science'
 p7
-F0.0044798934073351782
-sS'data science'
-p8
-F0.0040108353713523828
+I1
 sS'tableau'
+p8
+I1
+sS'analytics'
 p9
-F0.0042854280632217967
-sS'analytics'
-p10
-F0.0087541296877336819
+I1
 sS'data governance'
+p10
+I1
+sS'data mining'
 p11
-F0.0080929704778151864
-sS'data mining'
-p12
-F0.0095637343719075472
+I1
 sS'sap'
-p13
-F0.017971246357948951
+p12
+I1
 sS'regression'
-p14
-F0.0051623813481780859
+p13
+I1
 sS'visualization'
+p14
+I1
+sS'big data'
 p15
-F0.010716946377597396
-sS'big data'
-p16
-F0.0047482463516812044
+I1
 sS'predictive modeling'
-p17
-F0.0046623626057109178
+p16
+I1
 sS'excel'
-p18
-F0.0084013323644683054
+p17
+I1
 sS'integration'
-p19
-F0.0041519666627399549
+p18
+I1
 sS'governance'
-p20
-F0.0065620119082960794
+p19
+I1
 sS'strategy'
-p21
-F0.0030267227502290862
+p20
+I1
 sS'access'
-p22
-F0.015716595729084584
+p21
+I1
 sS'stata'
+p22
+I1
+sS'advanced analytics'
 p23
-F0.016299874777638352
-sS'advanced analytics'
-p24
-F0.0094016889314382096
+I1
 sS'unstructured data'
-p25
-F0.0051768605290569451
+p24
+I1
 sS'data analysis'
-p26
-F0.0060108141751109784
+p25
+I1
 sS'web services'
-p27
-F0.0078961007782541934
+p26
+I1
 sS'python'
-p28
-F0.0031315330316826857
+p27
+I1
 sS'data scientist'
-p29
-F0.00039885192794564999
+p28
+I1
 sS'data quality'
-p30
-F0.0063599638690313041
+p29
+I1
 sS'sql'
+p30
+I1
+sS'modeling'
 p31
-F0.0061068806673408322
-sS'modeling'
-p32
-F0.0083246998095012556
+I1
 sS'spark'
-p33
-F0.003414932434035749
+p32
+I1
 sS'data'
-p34
-F0.0016651148331017554
+p33
+I1
 sS'statistical programming'
-p35
-F0.0086453206261171266
+p34
+I1
 sS'organization'
-p36
-F0.0046183724298064594
+p35
+I1
 sS'word'
-p37
-F0.012926028742241809
+p36
+I1
 sS'data visualization'
-p38
-F0.0036880516049224593
+p37
+I1
 sS'sql server'
-p39
-F0.0070452078918069897
+p38
+I1
 sS'business strategy'
+p39
+I1
+sS'analysis'
 p40
-F0.00734122843751925
-sS'analysis'
-p41
-F0.0010804094828130864
+I1
 sS'spss'
-p42
-F0.010481505752914275
+p41
+I1
 sS'r'
-F0.001717755921993625
+I1
 sS'dashboard'
-p43
-F0.0060922046770858192
+p42
+I1
 sS'oracle'
-p44
-F0.0056698753044588674
+p43
+I1
 sS'hadoop'
-p45
-F0.0025642267286606815
+p44
+I1
 sS'microsoft office'
-p46
-F0.0073947740943683671
+p45
+I1
 sS'powerpoint'
+p46
+I1
+sS'data analytics'
 p47
-F0.012229073908891885
-sS'data analytics'
-p48
-F0.0065928173042534609
+I1
 ssS'working-year'
-p49
-(dp50
+p48
+(dp49
 V(5, 10]
-p51
-F0.0026049341731236172
+p50
+I1
 sV(2, 5]
-p52
-F0.0016916675690708269
+p51
+I1
 ssS'major'
-p53
-(dp54
+p52
+(dp53
 S'business'
-p55
-F0.00084893456648318238
+p54
+I1
 sS'big data'
-p56
-F0.0047482463516812044
+p55
+I1
 sS'data science'
-p57
-F0.0040108353713523828
+p56
+I1
 sS'data science analytics'
-p58
-F0.0079305833955800355
+p57
+I1
 sS'analytics'
+p58
+I1
+sS'design'
 p59
-F0.0087541296877336819
-sS'design'
+I1
+sS'data mining'
 p60
-F0.0014683591727086306
-sS'data mining'
-p61
-F0.0095637343719075472
+I1
 sS'advanced analytics'
-p62
-F0.0094016889314382096
+p61
+I1
 sS'data analytics'
-p63
-F0.0065928173042534609
+p62
+I1
 ssS'education'
-p64
-(dp65
+p63
+(dp64
 VBachelor
-p66
-F0.00073266199851755327
+p65
+I1
 sVMaster
-p67
-F0.0020788745234997974
+p66
+I1
 ssS'responsibility'
-p68
-(dp69
+p67
+(dp68
 S'data analysis'
-p70
-F0.0060108141751109784
+p69
+I1
 sVinsight
-p71
-F0.0044873331011855517
+p70
+I1
 sS'communicate'
-p72
-F0.0026614401144270002
+p71
+I1
 sS'analysis'
-p73
-F0.0010804094828130864
+p72
+I1
 sS'design'
-p74
-F0.0014683591727086306
+p73
+I1
 sS'data mining'
-p75
-F0.0095637343719075472
+p74
+I1
 sS'report'
-p76
-F0.0027490796050312267
+p75
+I1
 sS'understand'
-p77
-F0.0057802445757590788
+p76
+I1
 sS'modeling'
-p78
-F0.0083246998095012556
+p77
+I1
 sS'presentation'
-p79
-F0.0036471900908299254
+p78
+I1
 sS'data gathering'
-p80
-F0.0085738732188935466
+p79
+I1
 sS'decision-making'
-p81
-F0.0064023043434762858
+p80
+I1
 ss.

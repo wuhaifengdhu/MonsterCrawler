@@ -2,142 +2,139 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'knowledge management'
 p4
-F0.00068664667535899221
-sS'knowledge management'
+I1
+sS'analytics'
 p5
-F0.01694336500100006
-sS'analytics'
-p6
-F0.0016981254912660654
+I1
 sS'agile'
-p7
-F0.0031915077107675105
+p6
+I1
 sS'recruiting'
-p8
-F0.0092751228926250314
+p7
+I1
 sS'teamwork'
+p8
+I1
+sS'computer science'
 p9
-F0.0045116989963199091
-sS'computer science'
-p10
-F0.0027652055098831476
+I1
 sS'innovation'
-p11
-F0.0020874249496571828
+p10
+I1
 sS'intelligence'
-p12
-F0.0031938028284653778
+p11
+I1
 sS'product development'
-p13
-F0.0034596024926105517
+p12
+I1
 sS'apis'
-p14
-F0.0051497625651179997
+p13
+I1
 sS'collaboration'
-p15
-F0.0030298590011805051
+p14
+I1
 sS'data scientist'
-p16
-F0.00030947708121535384
+p15
+I1
 sS'military experience'
-p17
-F0.0062364321337220127
-sS'organization'
-p18
-F0.0017917431500252485
-sS'data'
-p19
-F0.0030146560634974925
-sS'customer experience'
-p20
-F0.0051796234407064552
-sS'search'
-p21
-F0.004216123128222061
-sS'machine learning'
-p22
-F0.0026506297575442936
-sS'banking'
-p23
-F0.0049676742731989913
-sS'architecture'
-p24
-F0.0030009601166330227
-sS'product management'
-p25
-F0.0049544555899039087
+p16
+I1
 sS'military'
-p26
-F0.0052409942421315758
-ssS'working-year'
-p27
-(dp28
-V(5, 10]
-p29
-F0.002021219826637723
-sV(2, 5]
-p30
-F0.0013125982475733506
-ssS'major'
-p31
-(dp32
-S'information'
-p33
-F0.0052550717624852677
-sS'business'
-p34
-F0.0032935254084297374
-sS'knowledge management'
-p35
-F0.01694336500100006
-sS'mba'
-p36
-F0.0062223206534678813
+p17
+I1
+sS'data'
+p18
+I1
+sS'customer experience'
+p19
+I1
+sS'search'
+p20
+I1
 sS'machine learning'
-p37
-F0.0026506297575442936
+p21
+I1
+sS'banking'
+p22
+I1
+sS'architecture'
+p23
+I1
+sS'product management'
+p24
+I1
+sS'organization'
+p25
+I1
+ssS'working-year'
+p26
+(dp27
+V(5, 10]
+p28
+I1
+sV(2, 5]
+p29
+I1
+ssS'major'
+p30
+(dp31
+S'information'
+p32
+I1
+sS'business'
+p33
+I1
+sS'knowledge management'
+p34
+I1
+sS'mba'
+p35
+I1
+sS'machine learning'
+p36
+I1
 sS'analytics'
-p38
-F0.0016981254912660654
+p37
+I1
 sS'computer science engineering'
-p39
-F0.0050632521420263046
+p38
+I1
 sS'computer science'
-p40
-F0.0027652055098831476
+p39
+I1
 sS'law'
-p41
-F0.0089661785843410356
+p40
+I1
 sS'ee computer science'
-p42
-F0.0037790561142609759
+p41
+I1
 sS'history'
-p43
-F0.0041660813569259787
+p42
+I1
 ssS'education'
-p44
-(dp45
+p43
+(dp44
 VBachelor
-p46
-F0.0005684869018597737
+p45
+I1
 sVMaster
-p47
-F0.0016130397640533546
+p46
+I1
 ssS'responsibility'
-p48
-(dp49
+p47
+(dp48
 S'development'
-p50
-F0.00077339091316597523
+p49
+I1
 sS'information'
-p51
-F0.0052550717624852677
+p50
+I1
 sS'product'
-p52
-F0.011489612050951888
+p51
+I1
 sS'business problem'
-p53
-F0.0030913589025153951
+p52
+I1
 ss.

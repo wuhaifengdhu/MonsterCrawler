@@ -2,181 +2,178 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-F0.0011097694915261551
-sS'nosql'
-p5
-F0.006355875542834637
+I1
 sS'intelligence'
-p6
-F0.0051618759227629622
+p5
+I1
 sS'data acquisition'
+p6
+I1
+sS'analytics'
 p7
-F0.010665376944269981
-sS'analytics'
+I1
+sS'engineering'
 p8
-F0.0027445379561543437
-sS'engineering'
-p9
-F0.0084503806263312078
+I1
 sS'defense'
-p10
-F0.0077344581987458241
+p9
+I1
 sS'ic'
-p11
-F0.0096759296762708585
+p10
+I1
 sS'education'
+p11
+I1
+sS'management'
 p12
-F0.0040196142165518306
-sS'management'
-p13
-F0.0023019838084033127
+I1
 sS'java'
-p14
-F0.0038091392828919308
+p13
+I1
 sS'program management'
-p15
-F0.011569062601372505
+p14
+I1
 sS'integration'
+p15
+I1
+sS'computer science'
 p16
-F0.010413581251412644
-sS'computer science'
-p17
-F0.0044691699862435741
+I1
 sS'agile methodologies'
+p17
+I1
+sS'natural language processing'
 p18
-F0.015840520409149045
-sS'natural language processing'
-p19
-F0.013780987054706683
+I1
 sS'flume'
+p19
+I1
+sS'data analysis'
 p20
-F0.01300317761293567
-sS'data analysis'
-p21
-F0.0075378858844634983
+I1
 sS'government'
+p21
+I1
+sS'processing'
 p22
-F0.01057446800478707
-sS'processing'
-p23
-F0.0086134891276753462
+I1
 sS'data scientist'
-p24
-F0.00050018187720751782
+p23
+I1
 sS'data quality'
-p25
-F0.0079757384735960144
+p24
+I1
 sS'pentaho'
-p26
-F0.027744632988554455
+p25
+I1
 sS'data processing'
+p26
+I1
+sS'modeling'
 p27
-F0.0080181324800141819
-sS'modeling'
-p28
-F0.0026099058862220151
+I1
 sS'data'
+p28
+I1
+sS'data collection'
 p29
-F0.0062644320207503887
-sS'data collection'
-p30
-F0.016412233744214143
+I1
 sS'data engineering'
-p31
-F0.0090768061268327819
+p30
+I1
 sS'oracle'
-p32
-F0.0071103301115376071
+p31
+I1
 sS'organization'
-p33
-F0.0028958443343651314
+p32
+I1
 sS'security'
+p33
+I1
+sS'data analytics'
 p34
-F0.012936479111932405
-sS'data analytics'
-p35
-F0.0082677492680367729
+I1
 ssS'working-year'
-p36
-(dp37
+p35
+(dp36
 V(10, 15]
-p38
-F0.007649257056518967
+p37
+I1
 sV(2, 5]
-p39
-F0.0021214425731050372
+p38
+I1
 ssS'major'
-p40
-(dp41
+p39
+(dp40
 S'information'
-p42
-F0.0050959993199451731
+p41
+I1
 sS'management'
-p43
-F0.0023019838084033127
+p42
+I1
 sS'business'
-p44
-F0.0010646098347248559
+p43
+I1
 sS'analytics'
-p45
-F0.0027445379561543437
+p44
+I1
 sS'engineering'
-p46
-F0.0084503806263312078
+p45
+I1
 sS'information systems'
-p47
-F0.0085087346702444784
+p46
+I1
 sS'computer science'
-p48
-F0.0044691699862435741
+p47
+I1
 sS'natural language processing'
-p49
-F0.013780987054706683
+p48
+I1
 sS'ee computer science'
-p50
-F0.0061077717738596323
+p49
+I1
 sS'data analytics'
-p51
-F0.0082677492680367729
+p50
+I1
 sS'information system'
-p52
-F0.0074777530337201015
+p51
+I1
 ssS'education'
-p53
-(dp54
+p52
+(dp53
 VBachelor
-p55
-F0.00091879774949228307
+p54
+I1
 ssS'responsibility'
-p56
-(dp57
+p55
+(dp56
 S'development'
-p58
-F0.0037499008059993506
+p57
+I1
 sS'information'
-p59
-F0.0050959993199451731
+p58
+I1
 sS'data collection'
-p60
-F0.016412233744214143
+p59
+I1
 sS'processing'
-p61
-F0.0086134891276753462
+p60
+I1
 sS'analytic'
-p62
-F0.0040391416302876315
+p61
+I1
 sS'data analysis'
-p63
-F0.0075378858844634983
+p62
+I1
 sS'modeling'
-p64
-F0.0026099058862220151
+p63
+I1
 sS'model'
-p65
-F0.001990958303024779
+p64
+I1
 sS'data aggregation'
-p66
-F0.01300317761293567
+p65
+I1
 ss.

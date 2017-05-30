@@ -6,7 +6,7 @@ S'cognos'
 p4
 aS'system administration'
 p5
-aS'intelligence'
+aS'communication'
 p6
 aS'tableau'
 p7
@@ -38,128 +38,122 @@ aS'teamwork'
 p20
 aS'computer science'
 p21
-aS'communication'
-p22
-aS'finance'
-p23
-aS'process modeling'
-p24
 aS'innovation'
-p25
-aS'data scientist'
-p26
-aS'business analytics'
-p27
-aS'leadership'
-p28
-aS'project management'
-p29
-aS'business development'
-p30
-aS'data'
-p31
-aS'information technology'
-p32
-aS'software development'
-p33
-aS'science'
-p34
-aS'economics'
-p35
-aS'engineering'
-p36
-aS'analysis'
-p37
-aS'machine learning'
-p38
-aS'data engineering'
-p39
-aS'construction'
-p40
-aS'dashboard'
-p41
-asS'working-year'
-p42
-(lp43
-V(5, 10]
-p44
-aV(0, 2]
-p45
-aV(2, 5]
-p46
-asS'major'
-p47
-(lp48
-S'information'
-p49
-aS'management'
-p50
-aS'general'
-p51
+p22
+aS'intelligence'
+p23
 aS'finance'
-p52
-aS'business'
-p53
-aS'science'
-p54
-aS'economics'
-p55
-aS'statistic'
-p56
-aS'mba'
-p57
-aS'machine learning'
-p58
+p24
+aS'process modeling'
+p25
 aS'business analytics'
-p59
-aS'analytics'
-p60
-aS'engineering'
-p61
-aS'design'
-p62
+p26
+aS'leadership'
+p27
+aS'business development'
+p28
+aS'data'
+p29
 aS'project management'
-p63
-aS'data mining'
-p64
-aS'communication'
-p65
-aS'phd'
-p66
-aS'econometrics'
-p67
-aS'information technology'
-p68
-aS'computer science'
-p69
-asS'education'
-p70
-(lp71
-VBachelor
-p72
-aVDoctor
-p73
-asS'responsibility'
-p74
-(lp75
-S'development'
-p76
-aS'information'
-p77
-aS'communicate'
-p78
+p30
+aS'software development'
+p31
+aS'science'
+p32
+aS'economics'
+p33
+aS'engineering'
+p34
 aS'analysis'
-p79
+p35
+aS'machine learning'
+p36
+aS'data engineering'
+p37
+aS'construction'
+p38
+aS'dashboard'
+p39
+asS'working-year'
+p40
+(lp41
+V(5, 10]
+p42
+aV(0, 2]
+p43
+aV(2, 5]
+p44
+asS'major'
+p45
+(lp46
+S'information'
+p47
+aS'management'
+p48
+aS'general'
+p49
+aS'finance'
+p50
+aS'business'
+p51
+aS'science'
+p52
+aS'economics'
+p53
+aS'statistic'
+p54
+aS'mba'
+p55
+aS'machine learning'
+p56
+aS'business analytics'
+p57
+aS'analytics'
+p58
+aS'engineering'
+p59
 aS'design'
-p80
+p60
+aS'computer science'
+p61
 aS'data mining'
-p81
+p62
+aS'communication'
+p63
+aS'phd'
+p64
+aS'econometrics'
+p65
+aS'project management'
+p66
+asS'education'
+p67
+(lp68
+VBachelor
+p69
+aVDoctor
+p70
+asS'responsibility'
+p71
+(lp72
+S'development'
+p73
+aS'information'
+p74
+aS'communicate'
+p75
+aS'analysis'
+p76
+aS'design'
+p77
+aS'data mining'
+p78
 aS'report'
-p82
+p79
 aS'modeling'
-p83
+p80
 aS'model'
-p84
+p81
 aS'presentation'
-p85
+p82
 as.

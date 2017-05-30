@@ -2,288 +2,273 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'renewable energy'
 p4
-F0.00049771480226021498
-sS'renewable energy'
-p5
-F0.006401425811115297
+I1
 sS'data science'
-p6
-F0.0022557910452212187
+p5
+I1
 sS'communication'
-p7
-F0.0038014200878769386
+p6
+I1
 sS'presentation skills'
-p8
-F0.0052065067210145003
+p7
+I1
 sS'analytics'
-p9
-F0.020925022720255541
+p8
+I1
 sS'product strategy'
-p10
-F0.004946937347542364
+p9
+I1
 sS'communication skills'
-p11
-F0.0035722908347300222
+p10
+I1
 sS'problem solving'
-p12
-F0.0022870477327524862
+p11
+I1
 sS'principal component analysis'
-p13
-F0.0076397870137849301
+p12
+I1
 sS'education'
-p14
-F0.0018027360728777905
+p13
+I1
 sS'regression'
-p15
-F0.0058068968377081986
+p14
+I1
 sS'instrumentation'
-p16
-F0.0061022032005356762
+p15
+I1
 sS'open source'
-p17
-F0.0030591227670757693
+p16
+I1
 sS'big data'
-p18
-F0.0026705288571879744
+p17
+I1
 sS'critical thinking'
-p19
-F0.0040994996329779612
+p18
+I1
 sS'industrial engineering'
-p20
-F0.010562242724877479
+p19
+I1
 sS'continuous improvement'
-p21
-F0.0040779190096106484
+p20
+I1
 sS'mathematical statistics'
-p22
-F0.018925818809548699
+p21
+I1
 sS'matlab'
-p23
-F0.005363146490335184
+p22
+I1
 sS'sdlc'
-p24
-F0.0051362201224368319
+p23
+I1
 sS'innovation'
-p25
-F0.0015130668119939337
+p24
+I1
 sS'intelligence'
-p26
-F0.0023150231411179344
+p25
+I1
 sS'failure analysis'
-p27
-F0.0083522547120492684
+p26
+I1
 sS'energy'
-p28
-F0.0033037103013629052
+p27
+I1
 sS'data analysis'
-p29
-F0.0033806276087896899
+p28
+I1
 sS'performance management'
-p30
-F0.0052620326915151418
+p29
+I1
 sS'python'
-p31
-F0.0026418751394559387
+p30
+I1
 sS'data scientist'
-p32
-F0.0002243239934142807
+p31
+I1
 sS'greenplum'
-p33
-F0.0063081401938781074
+p32
+I1
 sS'javascript'
-p34
-F0.0033037103013629052
+p33
+I1
 sS'leadership development'
-p35
-F0.0049038996771290245
+p34
+I1
 sS'leadership'
-p36
-F0.0055415157918915362
+p35
+I1
 sS'aerospace'
-p37
-F0.0055137138106684273
+p36
+I1
 sS'sql'
-p38
-F0.0022897718219362798
+p37
+I1
 sS'modeling'
-p39
-F0.0011705032459419947
+p38
+I1
 sS'data'
-p40
-F0.00062433396570441577
+p39
+I1
 sS'project management'
-p41
-F0.005624554290183415
+p40
+I1
 sS'software development'
-p42
-F0.0026703614359675771
+p41
+I1
 sS'process improvement'
-p43
-F0.0039952453022065728
+p42
+I1
 sS'software engineering'
-p44
-F0.0066530160240201716
+p43
+I1
 sS'java'
-p45
-F0.0017083412541454718
-sS'science'
-p46
-F0.0017789736531003864
+p44
+I1
 sS'documentation'
-p47
-F0.0027228169866488575
+p45
+I1
 sS'programming'
-p48
-F0.0025196006557618457
+p46
+I1
 sS'analysis'
-p49
-F0.00060764848487911778
+p47
+I1
 sS'machine learning'
-p50
-F0.001921304963650288
+p48
+I1
 sS'r'
-F0.00096610757309702059
-sS'scripting'
-p51
-F0.0025718068836154337
+I1
 sS'product management'
-p52
-F0.0035912296275909549
+p49
+I1
 sS'electrical engineering'
-p53
-F0.0083797659424938286
+p50
+I1
 sS'technical analysis'
-p54
-F0.0065563746124927573
-sS'data analytics'
-p55
-F0.0037079602777861892
+p51
+I1
+sS'scripting'
+p52
+I1
 sS'research'
-p56
-F0.0011557071456763158
+p53
+I1
 ssS'working-year'
+p54
+(dp55
+V(2, 5]
+p56
+I1
+ssS'major'
 p57
 (dp58
-V(2, 5]
+S'information'
 p59
-F0.00095143485096831971
-ssS'major'
-p60
-(dp61
-S'electrical engineering'
-p62
-F0.0083797659424938286
-sS'information'
-p63
-F0.00076182616096150059
+I1
 sS'business'
-p64
-F0.0014323841412661696
+p60
+I1
 sS'big data'
-p65
-F0.0026705288571879744
+p61
+I1
 sS'communication'
-p66
-F0.0038014200878769386
+p62
+I1
 sS'data science'
-p67
-F0.0022557910452212187
+p63
+I1
 sS'mechanical'
-p68
-F0.011074501275640936
+p64
+I1
 sS'machine learning'
-p69
-F0.001921304963650288
+p65
+I1
 sS'analytics'
-p70
-F0.020925022720255541
+p66
+I1
 sS'mathematical statistics'
-p71
-F0.018925818809548699
-sS'design'
-p72
-F0.0041292039765866949
-sVphysic
-p73
-F0.0027631020569955944
-sS'statistic'
-p74
-F0.0010771102328417501
-sS'data analytics'
-p75
-F0.0037079602777861892
-sS'software engineering'
-p76
-F0.0066530160240201716
-sS'applied physics'
-p77
-F0.0064509067699788968
-sS'industrial engineering'
-p78
-F0.010562242724877479
+p67
+I1
 sS'project management'
-p79
-F0.005624554290183415
-sS'science'
-p80
-F0.0017789736531003864
-ssS'education'
-p81
-(dp82
-VBachelor
-p83
-F0.00041206686946926633
-sVMaster
-p84
-F0.0011692094289744315
-ssS'responsibility'
-p85
-(dp86
-S'development'
-p87
-F0.0028029561580197163
-sS'large data set'
-p88
-F0.0026883504608718324
-sS'product'
-p89
-F0.0027760759622097895
-sS'data analysis'
-p90
-F0.0033806276087896899
-sS'information'
-p91
-F0.00076182616096150059
-sS'understand'
-p92
-F0.0048764245148222047
-sS'documentation'
-p93
-F0.0027228169866488575
-sS'communicate'
-p94
-F0.0014968584401140945
-sS'analysis'
-p95
-F0.00060764848487911778
-sS'improvement'
-p96
-F0.0023573735297923409
-sS'analytic'
-p97
-F0.0090574691103419615
+p68
+I1
 sS'design'
-p98
-F0.0041292039765866949
+p69
+I1
+sS'electrical engineering'
+p70
+I1
+sS'statistic'
+p71
+I1
+sS'software engineering'
+p72
+I1
+sS'applied physics'
+p73
+I1
+sS'industrial engineering'
+p74
+I1
+sVphysic
+p75
+I1
+ssS'education'
+p76
+(dp77
+VBachelor
+p78
+I1
+sVMaster
+p79
+I1
+ssS'responsibility'
+p80
+(dp81
+S'development'
+p82
+I1
+sS'large data set'
+p83
+I1
+sS'product'
+p84
+I1
+sS'data analysis'
+p85
+I1
+sS'information'
+p86
+I1
+sS'understand'
+p87
+I1
+sS'documentation'
+p88
+I1
+sS'communicate'
+p89
+I1
+sS'analysis'
+p90
+I1
+sS'improvement'
+p91
+I1
+sS'analytic'
+p92
+I1
+sS'design'
+p93
+I1
 sS'modeling'
-p99
-F0.0011705032459419947
+p94
+I1
 sS'model'
-p100
-F0.0044645731643585948
+p95
+I1
 sS'presentation'
-p101
-F0.0020512681238122246
+p96
+I1
 ss.

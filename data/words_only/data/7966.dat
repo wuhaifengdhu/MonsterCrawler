@@ -4,229 +4,220 @@ p2
 (dp3
 S'negotiation'
 p4
-F0.0095579000274530444
-sS'r d'
-p5
-F0.00096162695987043881
+I1
 sS'classification'
+p5
+I1
+sS'communication'
 p6
-F0.0062214819821366125
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0036723320521059419
-sS'data science'
-p8
-F0.0043583784831557511
+I1
 sS'decision support'
+p8
+I1
+sS'analytics'
 p9
-F0.0090982366858726738
-sS'analytics'
-p10
-F0.0023781710627098526
-sS'business intelligence'
-p11
-F0.0054530301807652337
-sS'data warehousing'
-p12
-F0.0077063187634825343
-sS'statistical analysis'
-p13
-F0.0042903486965362343
-sS'problem solving'
-p14
-F0.0044187690386904002
-sS'regression'
-p15
-F0.0056097071324464455
-sS'clustering'
-p16
-F0.0060013768979180213
-sS'visualization'
-p17
-F0.0077637207169479966
-sS'management'
-p18
-F0.0079787729190559775
-sS'predictive modeling'
-p19
-F0.00506636123899266
-sS'tableau'
-p20
-F0.0046567649211590482
-sS'strategy'
-p21
-F0.003288991466291091
-sS'computer science'
-p22
-F0.0038725828920611761
-sS'intelligence'
-p23
-F0.0044728198862348852
-sS'collaboration'
-p24
-F0.0042432217393581781
-sS'innovation'
-p25
-F0.0029233726461241108
-sS'leadership'
-p26
-F0.0071377838068860536
-sS'sql'
-p27
-F0.0022120161043295444
-sS'staff development'
-p28
-F0.015349270041537556
-sS'data'
-p29
-F0.0018093987881948818
-sS'engineering'
-p30
-F0.0024407812894165076
-sS'software engineering'
-p31
-F0.012854187868423048
-sS'science'
-p32
-F0.0068742541630342803
-sS'business strategy'
-p33
-F0.0079773536182878978
+I1
 sS'thought leadership'
-p34
-F0.0079487942126911845
-sS'analysis'
-p35
-F0.0011740281031036818
-sS'machine learning'
-p36
-F0.0037121231733290108
-sS'olap'
-p37
-F0.013271281375453541
-sS'r'
-F0.0018666012829157894
-sS'healthcare'
-p38
-F0.015002912025567115
-sS'product management'
-p39
-F0.0069385584139637886
-sS'organization'
-p40
-F0.0025092796339932053
-sS'etl'
-p41
-F0.0061877870869843374
-sS'visual c'
-p42
-F0.011789971054899141
-ssS'working-year'
-p43
-(dp44
-V(5, 10]
-p45
-F0.0028306544644715655
-ssS'major'
-p46
-(dp47
-S'management'
-p48
-F0.0079787729190559775
-sS'software engineering'
-p49
-F0.012854187868423048
-sS'business'
-p50
-F0.0046124782066533565
-sS'science'
-p51
-F0.0068742541630342803
-sS'data science'
-p52
-F0.0043583784831557511
-sVapplied statistic
-p53
-F0.0085989665744859913
-sS'machine learning'
-p54
-F0.0037121231733290108
-sS'analytics'
-p55
-F0.0023781710627098526
+p10
+I1
+sS'data warehousing'
+p11
+I1
+sS'statistical analysis'
+p12
+I1
+sS'problem solving'
+p13
+I1
+sS'regression'
+p14
+I1
+sS'clustering'
+p15
+I1
+sS'visualization'
+p16
+I1
+sS'management'
+p17
+I1
+sS'predictive modeling'
+p18
+I1
+sS'tableau'
+p19
+I1
+sS'strategy'
+p20
+I1
+sS'intelligence'
+p21
+I1
+sS'collaboration'
+p22
+I1
+sS'innovation'
+p23
+I1
+sS'leadership'
+p24
+I1
+sS'sql'
+p25
+I1
+sS'staff development'
+p26
+I1
+sS'data'
+p27
+I1
 sS'engineering'
-p56
-F0.0024407812894165076
-sS'design'
-p57
-F0.0015955940424749523
-sS'computer science'
-p58
-F0.0038725828920611761
-sS'statistic'
-p59
-F0.0020810677800806648
-sS'communication'
-p60
-F0.0036723320521059419
-sS'phd'
-p61
-F0.0039451816855247575
-sS'analytics predictive modeling'
-p62
-F0.012776414209563249
-ssS'education'
-p63
-(dp64
-VMaster
-p65
-F0.0022590111918124266
-sVDoctor
-p66
-F0.0029804792912913169
-ssS'responsibility'
-p67
-(dp68
-S'development'
-p69
-F0.0010831095224197967
-sS'large data set'
-p70
-F0.0051941197429022524
-sS'product'
-p71
-F0.0080454192113222824
-sVinsight
-p72
-F0.0024380826217214237
-sS'manage data'
-p73
-F0.010279123136575445
-sS'recommendation'
-p74
-F0.0042903486965362343
+p28
+I1
+sS'software engineering'
+p29
+I1
+sS'science'
+p30
+I1
+sS'business strategy'
+p31
+I1
+sS'business intelligence'
+p32
+I1
 sS'analysis'
-p75
-F0.0011740281031036818
-sS'improvement'
-p76
-F0.0045546444076784102
+p33
+I1
+sS'machine learning'
+p34
+I1
+sS'olap'
+p35
+I1
+sS'r'
+I1
+sS'healthcare'
+p36
+I1
+sS'product management'
+p37
+I1
+sS'organization'
+p38
+I1
+sS'etl'
+p39
+I1
+sS'visual c'
+p40
+I1
+ssS'working-year'
+p41
+(dp42
+V(5, 10]
+p43
+I1
+ssS'major'
+p44
+(dp45
+S'management'
+p46
+I1
+sS'software engineering'
+p47
+I1
+sS'business'
+p48
+I1
+sS'science'
+p49
+I1
+sS'data science'
+p50
+I1
+sVapplied statistic
+p51
+I1
+sS'machine learning'
+p52
+I1
+sS'analytics'
+p53
+I1
+sS'engineering'
+p54
+I1
 sS'design'
-p77
-F0.0015955940424749523
+p55
+I1
+sS'statistic'
+p56
+I1
+sS'communication'
+p57
+I1
+sS'phd'
+p58
+I1
+sS'analytics predictive modeling'
+p59
+I1
+ssS'education'
+p60
+(dp61
+VMaster
+p62
+I1
+sVDoctor
+p63
+I1
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+I1
+sS'large data set'
+p67
+I1
+sS'product'
+p68
+I1
+sVinsight
+p69
+I1
+sS'manage data'
+p70
+I1
+sS'recommendation'
+p71
+I1
+sS'analysis'
+p72
+I1
+sS'improvement'
+p73
+I1
+sS'design'
+p74
+I1
 sS'identify opportunity'
-p78
-F0.0078788833323859137
+p75
+I1
 sS'report'
-p79
-F0.0059745804999273497
+p76
+I1
 sS'understand'
-p80
-F0.0031405544299206237
+p77
+I1
 sS'implement'
-p81
-F0.003117005325461596
+p78
+I1
 sS'prototype'
-p82
-F0.0055837167908368776
+p79
+I1
 ss.

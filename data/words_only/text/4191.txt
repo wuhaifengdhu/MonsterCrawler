@@ -1,5 +1,5 @@
-skills: {'training': 0.006978019888827891, 'theory': 0.011437425289706286, 'recruiting': 0.0107909017311085, 'programming': 0.004044106110901795, 'data scientist': 0.0007201062045400062, 'analysis': 0.0019506225681917204, 'strategy': 0.005464588934265743, 'policy': 0.009158804613455704, 'education': 0.011573986460110328}
-working-year: {u'(5, 10]': 0.004703071814511122, u'(2, 5]': 0.0030542169340422713}
-major: {'information': 0.00489110181162053, 'data analyst': 0.010728044054095495, 'general': 0.009019691031421737}
-education: {u'Bachelor': 0.0013227827521873335, u'Master': 0.0037532987505988565}
-responsibility: {'development': 0.005398689876341477, 'information': 0.00489110181162053, 'analysis': 0.0019506225681917204}
+skills: {'training': 1, 'theory': 1, 'recruiting': 1, 'programming': 1, 'data scientist': 1, 'analysis': 1, 'strategy': 1, 'policy': 1, 'education': 1}
+working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
+major: {'information': 1, 'data analyst': 1, 'general': 1}
+education: {u'Bachelor': 1, u'Master': 1}
+responsibility: {'development': 1, 'information': 1, 'analysis': 1}

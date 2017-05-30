@@ -2,242 +2,239 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.00066015226987890243
-sS'communication'
+I1
+sS'data science'
 p5
-F0.0012605191207791296
-sS'data science'
-p6
-F0.0029920058075683367
+I1
 sS'integration'
+p6
+I1
+sS'analytics'
 p7
-F0.0030972870281532781
-sS'analytics'
-p8
-F0.0032652059285437525
+I1
 sS'business intelligence'
-p9
-F0.0037434789183066796
+p8
+I1
 sS'research'
-p10
-F0.001532891310583538
+p9
+I1
 sS'visualization'
-p11
-F0.0026648784132932432
+p10
+I1
 sS'java'
+p11
+I1
+sS'big data'
 p12
-F0.0022658867116881259
-sS'big data'
-p13
-F0.0035421001723152392
+I1
 sS'scala'
+p13
+I1
+sS'industrial engineering'
 p14
-F0.0035899577187770704
-sS'industrial engineering'
-p15
-F0.014009405543446818
+I1
 sS'tableau'
-p16
-F0.0031968466580947165
+p15
+I1
 sS'strategy'
-p17
-F0.0022578767783059421
+p16
+I1
 sS'access'
-p18
-F0.0029310692999578972
+p17
+I1
 sS'r'
-F0.0012814127778216109
+I1
 sS'computer science'
-p19
-F0.0026585094773474631
+p18
+I1
 sS'intelligence'
+p19
+I1
+sS'advanced analytics'
 p20
-F0.0030705692788139806
-sS'advanced analytics'
-p21
-F0.0070134785597867032
+I1
 sS'data management'
-p22
-F0.0037569595929369862
+p21
+I1
 sS'python'
-p23
-F0.0023360632262070195
+p22
+I1
 sS'spotfire'
-p24
-F0.012588744349434973
+p23
+I1
 sS'jmp'
-p25
-F0.0076953107840079579
+p24
+I1
 sS'innovation'
-p26
-F0.0060206436650884028
+p25
+I1
 sS'data scientist'
+p26
+I1
+sS'business analytics'
 p27
-F0.00029753584335495432
-sS'business analytics'
-p28
-F0.0098597158199574195
+I1
 sS'leadership'
+p28
+I1
+sS'modeling'
 p29
-F0.0073500812352259122
-sS'modeling'
-p30
-F0.0015525163631867293
+I1
 sS'data'
-p31
-F0.0053826220113986
+p30
+I1
 sS'software development'
-p32
-F0.0035418781104071561
+p31
+I1
 sS'rapidminer'
-p33
-F0.0093118969185794105
+p32
+I1
 sS'c'
-F0.0037502051235229895
+I1
 sS'knime'
-p34
-F0.0085562670180588263
+p33
+I1
 sS'data visualization'
+p34
+I1
+sS'analysis'
 p35
-F0.0027512153451511594
-sS'analysis'
+I1
+sS'machine learning'
 p36
-F0.00080596463026571087
-sS'machine learning'
+I1
+sS'optimization'
 p37
-F0.0025483546543593047
-sS'optimization'
+I1
+sS'operations research'
 p38
-F0.003095043506915608
-sS'operations research'
-p39
-F0.0085141972796224756
+I1
 sS'organization'
-p40
-F0.0017226083661014448
+p39
+I1
 sS'security'
-p41
-F0.0025651110779287192
+p40
+I1
 sS'retail'
+p41
+I1
+sS'data analytics'
 p42
-F0.0045838112139064508
-sS'data analytics'
-p43
-F0.0049181145163562801
+I1
 ssS'working-year'
-p44
-(dp45
+p43
+(dp44
 V(2, 5]
-p46
-F0.0012619513698534787
+p45
+I1
 ssS'major'
-p47
-(dp48
+p46
+(dp47
 S'information'
-p49
-F0.0010104607440405756
+p48
+I1
 sS'data analytics'
-p50
-F0.0049181145163562801
+p49
+I1
 sS'information systems'
-p51
-F0.0050614659613994481
+p50
+I1
 sS'business'
-p52
-F0.013932353785627533
+p51
+I1
 sS'big data'
-p53
-F0.0035421001723152392
+p52
+I1
 sS'communication'
-p54
-F0.0012605191207791296
+p53
+I1
 sS'data science'
-p55
-F0.0029920058075683367
+p54
+I1
 sS'management information systems'
-p56
-F0.0079043977791239846
+p55
+I1
 sS'information system'
-p57
-F0.0044481810650746582
+p56
+I1
 sS'data analyst'
-p58
-F0.0044326484274960481
+p57
+I1
 sS'phd'
-p59
-F0.0027083481989052596
+p58
+I1
 sS'business analytics'
-p60
-F0.0098597158199574195
+p59
+I1
 sS'analytics'
-p61
-F0.0032652059285437525
+p60
+I1
 sS'systems/industrial engineering'
-p62
-F0.013665670797492036
+p61
+I1
 sS'analytics data science'
-p63
-F0.0064674085567799728
+p62
+I1
 sS'computer science'
-p64
-F0.0026585094773474631
+p63
+I1
 sS'statistic'
-p65
-F0.0014286429937209707
+p64
+I1
 sS'advanced analytics'
-p66
-F0.0070134785597867032
+p65
+I1
 sS'machine learning'
-p67
-F0.0025483546543593047
+p66
+I1
 sS'industrial engineering'
-p68
-F0.014009405543446818
+p67
+I1
 sS'operations research'
-p69
-F0.0085141972796224756
+p68
+I1
 ssS'education'
-p70
-(dp71
+p69
+(dp70
 VDoctor
-p72
-F0.0020460846581694409
+p71
+I1
 ssS'responsibility'
-p73
-(dp74
+p72
+(dp73
 S'development'
-p75
-F0.00074354946314027844
+p74
+I1
 sS'information'
-p76
-F0.0010104607440405756
+p75
+I1
 sVinsight
-p77
-F0.01506358764513735
+p76
+I1
 sS'business problem'
-p78
-F0.0029720781731578882
+p77
+I1
 sS'decision-making'
-p79
-F0.0095519910462154231
+p78
+I1
 sS'communicate'
-p80
-F0.0019853829792510097
+p79
+I1
 sS'analysis'
-p81
-F0.00080596463026571087
+p80
+I1
 sS'analytic'
-p82
-F0.016818933798143032
+p81
+I1
 sS'optimization'
-p83
-F0.003095043506915608
+p82
+I1
 sS'modeling'
-p84
-F0.0015525163631867293
+p83
+I1
 sS'model'
-p85
-F0.0011843321095163476
+p84
+I1
 ss.

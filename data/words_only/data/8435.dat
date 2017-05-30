@@ -2,172 +2,169 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'classification'
 p4
-F0.0017252718985910813
-sS'classification'
+I1
+sS'communication'
 p5
-F0.011162070615009805
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0032942978702715066
-sS'data science'
-p7
-F0.0078194437491911992
+I1
 sS'data warehousing'
-p8
-F0.013826042487424545
+p7
+I1
 sS'communication skills'
+p8
+I1
+sS'data mining'
 p9
-F0.012382940918707008
-sS'data mining'
-p10
-F0.018645263649433204
+I1
 sS'clustering'
-p11
-F0.010767176199205862
+p10
+I1
 sS'java'
+p11
+I1
+sS'big data'
 p12
-F0.0059217711540756899
-sS'big data'
-p13
-F0.0092570853242860442
+I1
 sS'anomaly detection'
-p14
-F0.016120292037266386
+p13
+I1
 sS'predictive modeling'
-p15
-F0.0090896481052515372
+p14
+I1
 sS'research'
+p15
+I1
+sS'music'
 p16
-F0.0080122554217055518
-sS'music'
+I1
+sS'computer science'
 p17
-F0.019277454622022506
-sS'computer science'
-p18
-F0.0069478693063450506
+I1
 sS'python'
-p19
-F0.0030525868207999288
+p18
+I1
 sS'data scientist'
+p19
+I1
+sS'modeling'
 p20
-F0.00077759367465034279
-sS'modeling'
-p21
-F0.0040574167138745613
+I1
 sS'spark'
-p22
-F0.0066576834008091916
+p21
+I1
 sS'data'
-p23
-F0.0021641828643115253
+p22
+I1
 sS'customer experience'
-p24
-F0.01301434797286748
+p23
+I1
 sS'fraud'
+p24
+I1
+sS'applied mathematics'
 p25
-F0.029267209391371105
-sS'applied mathematics'
-p26
-F0.023812429767506631
+I1
 sS'programming'
-p27
-F0.0043669549180746269
+p26
+I1
 sS'hive'
+p27
+I1
+sS'machine learning'
 p28
-F0.0082989753109789979
-sS'machine learning'
-p29
-F0.0066599856933255777
+I1
 sS'security'
-p30
-F0.013407555382114817
+p29
+I1
 ssS'working-year'
-p31
-(dp32
+p30
+(dp31
 V[0]
-p33
-F0.0059923129090859034
+p32
+I1
 ssS'major'
-p34
-(dp35
+p33
+(dp34
 S'business'
-p36
-F0.0049651971283386134
+p35
+I1
 sS'big data'
-p37
-F0.0092570853242860442
+p36
+I1
 sS'communication'
-p38
-F0.0032942978702715066
+p37
+I1
 sS'applied mathematics'
+p38
+I1
+sS'data mining'
 p39
-F0.023812429767506631
-sS'data mining'
-p40
-F0.018645263649433204
+I1
 sS'machine learning'
-p41
-F0.0066599856933255777
+p40
+I1
 sS'mathematics statistics'
-p42
-F0.01398991111617952
+p41
+I1
 sS'music'
-p43
-F0.019277454622022506
+p42
+I1
 sS'computer science'
-p44
-F0.0069478693063450506
+p43
+I1
 sS'statistic'
-p45
-F0.0037336804289682512
+p44
+I1
 sS'computer science applied math'
-p46
-F0.020776076017329764
+p45
+I1
 sS'applied mathematics statistics'
-p47
-F0.024336133963682328
+p46
+I1
 sS'applied math'
-p48
-F0.010457406999672693
+p47
+I1
 sS'data science'
-p49
-F0.0078194437491911992
+p48
+I1
 sS'data mining machine learning'
-p50
-F0.01398991111617952
+p49
+I1
 ssS'education'
-p51
-(dp52
+p50
+(dp51
 VMaster
-p53
-F0.0040529318441340587
+p52
+I1
 sVDoctor
-p54
-F0.0053473304931991265
+p53
+I1
 ssS'responsibility'
-p55
-(dp56
+p54
+(dp55
 S'pattern'
-p57
-F0.0076285632718819194
+p56
+I1
 sVinsight
-p58
-F0.0043742070566178482
+p57
+I1
 sS'communicate'
-p59
-F0.010377379941967461
+p58
+I1
 sS'understand'
-p60
-F0.011269048248538707
+p59
+I1
 sS'key decision'
-p61
-F0.02128599216512192
+p60
+I1
 sS'data mining'
-p62
-F0.018645263649433204
+p61
+I1
 sS'modeling'
-p63
-F0.0040574167138745613
+p62
+I1
 ss.

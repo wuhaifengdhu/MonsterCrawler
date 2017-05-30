@@ -2,185 +2,182 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-F0.0010239768375677738
-sS'nosql'
+I1
+sS'communication'
 p5
-F0.0058645235682015353
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0019552191848494229
-sS'data science'
+I1
+sS'engineering'
 p7
-F0.0046409666142331807
-sS'engineering'
+I1
+sS'data mining'
 p8
-F0.0051980728707274257
-sS'data mining'
-p9
-F0.01106626620589801
+I1
 sS'quickbooks'
-p10
-F0.034367132855065569
+p9
+I1
 sS'lean startup'
-p11
-F0.014443889983432403
+p10
+I1
 sS'visualization'
-p12
-F0.004133552052539644
+p11
+I1
 sS'java'
+p12
+I1
+sS'big data'
 p13
-F0.010544001506259459
-sS'big data'
-p14
-F0.0054942301924690243
+I1
 sS'saas'
-p15
-F0.01302365346722105
+p14
+I1
 sS'hadoop'
-p16
-F0.0029670852920163494
+p15
+I1
 sS'large-scale data analysis'
-p17
-F0.014615941524651236
+p16
+I1
 sS'innovation'
+p17
+I1
+sS'computational physics'
 p18
-F0.0093387540141770219
-sS'computational physics'
+I1
+sS'mathematics'
 p19
-F0.036914889547577899
-sS'mathematics'
+I1
+sS'data analysis'
 p20
-F0.0040421171334706109
-sS'data analysis'
-p21
-F0.006955156551749362
+I1
 sS'distributed computing'
-p22
-F0.0070493340901940649
+p21
+I1
 sS'python'
-p23
-F0.0054352792769355339
+p22
+I1
 sS'data scientist'
-p24
-F0.00046151445029122591
+p23
+I1
 sS'sql'
-p25
-F0.002355438594884577
+p24
+I1
 sS'customer experience'
-p26
-F0.0077242264776619957
+p25
+I1
 sS'c'
-F0.0058170264010755602
+I1
 sS'programming'
+p26
+I1
+sS'analysis'
 p27
-F0.0077755755897887377
-sS'analysis'
+I1
+sS'machine learning'
 p28
-F0.0012501496259981848
-sS'machine learning'
-p29
-F0.0039528094638690463
+I1
 sS'r'
-F0.0039752556000251472
+I1
 sS'healthcare'
-p30
-F0.0053252231379194992
+p29
+I1
 ssS'working-year'
-p31
-(dp32
+p30
+(dp31
 V(0, 2]
-p33
-F0.0046036219051475338
+p32
+I1
 sV(2, 5]
-p34
-F0.0019574407781767175
+p33
+I1
 ssS'major'
-p35
-(dp36
+p34
+(dp35
 S'business'
-p37
-F0.0029469249789141894
+p36
+I1
 sS'big data'
-p38
-F0.0054942301924690243
+p37
+I1
 sS'computing'
-p39
-F0.0053123812035747444
+p38
+I1
 sS'communication'
-p40
-F0.0019552191848494229
+p39
+I1
 sS'data science'
+p40
+I1
+sS'data mining'
 p41
-F0.0046409666142331807
-sS'data mining'
-p42
-F0.01106626620589801
+I1
 sS'machine learning'
-p43
-F0.0039528094638690463
+p42
+I1
 sS'mathematics statistics'
-p44
-F0.0083032390165853499
+p43
+I1
 sS'engineering'
+p44
+I1
+sS'design'
 p45
-F0.0051980728707274257
-sS'design'
-p46
-F0.0016990490177975178
+I1
 sS'statistic'
-p47
-F0.0022159998555971168
+p46
+I1
 sS'computational physics'
-p48
-F0.036914889547577899
+p47
+I1
 sS'mathematics'
-p49
-F0.0040421171334706109
+p48
+I1
 sS'phd'
-p50
-F0.0042009790017931955
+p49
+I1
 sVphysic
-p51
-F0.00568468627686126
+p50
+I1
 ssS'education'
-p52
-(dp53
+p51
+(dp52
 VDoctor
-p54
-F0.0031737273251406287
+p53
+I1
 ssS'responsibility'
-p55
-(dp56
+p54
+(dp55
 S'development'
-p57
-F0.0023066721499912877
+p56
+I1
 sS'product'
-p58
-F0.0042835336698685963
+p57
+I1
 sS'data analysis'
-p59
-F0.006955156551749362
+p58
+I1
 sS'pattern'
-p60
-F0.0045276759568775478
+p59
+I1
 sVinsight
-p61
-F0.002596162791708349
+p60
+I1
 sS'analysis'
-p62
-F0.0012501496259981848
+p61
+I1
 sS'understand'
-p63
-F0.0066883628008783357
+p62
+I1
 sS'data mining'
-p64
-F0.01106626620589801
+p63
+I1
 sS'design'
-p65
-F0.0016990490177975178
+p64
+I1
 sS'presentation'
-p66
-F0.0042201900302869955
+p65
+I1
 ss.

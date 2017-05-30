@@ -2,188 +2,186 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'decision support'
+p5
+aS'analytics'
 p6
-aS'analytics'
-p7
 aS'unix'
-p8
+p7
 aS'defense'
-p9
+p8
 aS'dod'
+p9
+aS'analysis'
 p10
-aS'analysis'
+aS'simulation'
 p11
-aS'simulation'
+aS'data analytics'
 p12
-aS'data analytics'
-p13
 aS'oracle pl'
-p14
+p13
 aS'xml'
+p14
+aS'quantitative finance'
 p15
-aS'quantitative finance'
-p16
 aS'critical thinking'
-p17
+p16
 aS'agile'
-p18
+p17
 aS'predictive modeling'
-p19
+p18
 aS'integration'
-p20
+p19
 aS'research'
-p21
+p20
 aS'etl'
-p22
+p21
 aS'oracle sql'
+p22
+aS'computer science'
 p23
-aS'computer science'
+aS'natural language processing'
 p24
-aS'natural language processing'
-p25
 aS'intelligence'
+p25
+aS'mathematics'
 p26
-aS'mathematics'
-p27
 aS'unstructured data'
-p28
+p27
 aS'data management'
-p29
+p28
 aS'architecture'
-p30
+p29
 aS'text mining'
+p30
+aS'data analysis'
 p31
-aS'data analysis'
+aS'finance'
 p32
-aS'finance'
-p33
 aS'government'
+p33
+aS'processing'
 p34
-aS'processing'
-p35
 aS'data scientist'
+p35
+aS'management'
 p36
-aS'management'
-p37
 aS'data processing'
-p38
+p37
 aS'sql'
+p38
+aS'modeling'
 p39
-aS'modeling'
-p40
 aS'data'
+p40
+aS'information technology'
 p41
-aS'information technology'
-p42
 aS'software development'
-p43
+p42
 aS'fraud'
-p44
+p43
 aS'sql server'
+p44
+aS'science'
 p45
-aS'science'
-p46
 aS'programming'
+p46
+aS'engineering'
 p47
-aS'engineering'
-p48
 aS'security clearance'
+p48
+aS'machine learning'
 p49
-aS'machine learning'
-p50
 aS'command'
-p51
+p50
 aS'scripting'
-p52
+p51
 aS'oracle'
-p53
+p52
 aS'security'
-p54
+p53
 aS'data integration'
-p55
+p54
 asS'working-year'
-p56
-(lp57
+p55
+(lp56
 V(5, 10]
-p58
+p57
 aV(2, 5]
-p59
+p58
 asS'major'
-p60
-(lp61
+p59
+(lp60
 S'information'
-p62
+p61
 aS'management'
-p63
+p62
 aS'finance'
-p64
+p63
 aS'business'
-p65
+p64
 aS'science'
-p66
+p65
 aS'statistic'
-p67
+p66
 aS'communication'
-p68
+p67
 aS'machine learning'
-p69
+p68
 aS'analytics'
-p70
+p69
 aS'engineering'
-p71
+p70
 aS'quantitative finance'
+p71
+aS'design'
 p72
-aS'design'
-p73
 aS'information technology'
-p74
+p73
 aS'natural language processing'
-p75
+p74
 aS'mathematics'
-p76
+p75
 aS'law'
-p77
+p76
 aS'data analytics'
-p78
+p77
 aVphysic
-p79
+p78
 aS'computer science'
-p80
+p79
 asS'education'
-p81
-(lp82
+p80
+(lp81
 S'Bachelor'
-p83
+p82
 asS'responsibility'
-p84
-(lp85
+p83
+(lp84
 S'development'
-p86
+p85
 aS'information'
-p87
+p86
 aS'product'
-p88
+p87
 aS'data analysis'
-p89
+p88
 aS'processing'
-p90
+p89
 aS'analysis'
-p91
+p90
 aS'simulation'
-p92
+p91
 aS'model'
-p93
+p92
 aS'design'
-p94
+p93
 aS'modeling'
-p95
+p94
 aS'implement'
-p96
+p95
 aS'transformation'
-p97
+p96
 as.

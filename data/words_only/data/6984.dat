@@ -4,229 +4,226 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0036886201082022237
-sS'r d'
+I1
+sS'communication'
 p5
-F0.00073324055690120952
-sS'communication'
-p6
-F0.0014000765948653903
+I1
 sS'hadoop'
+p6
+I1
+sS'analytics'
 p7
-F0.0021246450037474217
-sS'analytics'
-p8
-F0.01269348804721384
+I1
 sS'business intelligence'
+p8
+I1
+sS'data mining'
 p9
-F0.0041579355128334907
-sS'data mining'
-p10
-F0.0079242370510091108
+I1
 sS'perl'
-p11
-F0.010553291686421428
+p10
+I1
 sS'visualization'
-p12
-F0.0029599185233364234
+p11
+I1
 sS'management'
+p12
+I1
+sS'big data'
 p13
-F0.0030419071753900913
-sS'big data'
-p14
-F0.0039342612628215689
+I1
 sS'agile'
-p15
-F0.0034080743054267343
+p14
+I1
 sS'tableau'
-p16
-F0.0035507832523837741
+p15
+I1
 sS'strategy'
-p17
-F0.002507855993046957
+p16
+I1
 sS'access'
+p17
+I1
+sS'computer science'
 p18
-F0.0032555805438818069
-sS'computer science'
-p19
-F0.0029528444551966465
+I1
 sS'intelligence'
+p19
+I1
+sS'advanced analytics'
 p20
-F0.0068210503265081993
-sS'advanced analytics'
-p21
-F0.007789970828905945
+I1
 sS'application development'
-p22
-F0.0057174470660093955
+p21
+I1
 sS'dashboard'
+p22
+I1
+sS'data analysis'
 p23
-F0.0050478267324425355
-sS'data analysis'
-p24
-F0.0049803888879490967
+I1
 sS'product development'
-p25
-F0.0036943612331805532
+p24
+I1
 sS'python'
-p26
-F0.0025946987976799393
+p25
+I1
 sS'data scientist'
-p27
-F0.0003304773117263957
+p26
+I1
 sS'data quality'
+p27
+I1
+sS'business analytics'
 p28
-F0.0052696843486259373
-sS'business analytics'
-p29
-F0.010951327214309848
+I1
 sS'sql'
-p30
-F0.0016866622795512773
+p29
+I1
 sS'internet things'
-p31
-F0.0085913852085467823
+p30
+I1
 sS'data'
+p31
+I1
+sS'project management'
 p32
-F0.0041389997279957921
-sS'project management'
-p33
-F0.0082861737310737805
+I1
 sS'customer experience'
-p34
-F0.0055310978884686793
+p33
+I1
 sS'word'
+p34
+I1
+sS'analysis'
 p35
-F0.0053550690503573212
-sS'analysis'
-p36
-F0.0044759821430827868
+I1
 sS'r'
-F0.0014232834782232893
+I1
 sS'scripting'
-p37
-F0.0075776452820811874
+p36
+I1
 sS'product management'
-p38
-F0.0052906507906473887
+p37
+I1
 sS'organization'
-p39
-F0.0019133257209198189
+p38
+I1
 sS'security'
+p39
+I1
+sS'data analytics'
 p40
-F0.0028491055186993988
-sS'data analytics'
-p41
-F0.0054626200520957249
+I1
 ssS'working-year'
-p42
-(dp43
+p41
+(dp42
 V(5, 10]
-p44
-F0.0021583740291595687
+p43
+I1
 ssS'major'
-p45
-(dp46
+p44
+(dp45
 S'management'
-p47
-F0.0030419071753900913
+p46
+I1
 sS'business'
-p48
-F0.0084408351181756418
+p47
+I1
 sS'big data'
-p49
-F0.0039342612628215689
+p48
+I1
 sS'communication'
-p50
-F0.0014000765948653903
+p49
+I1
 sS'mba'
-p51
-F0.0066445495549532019
+p50
+I1
 sS'phd'
-p52
-F0.0030082010352126278
+p51
+I1
 sS'business analytics'
-p53
-F0.010951327214309848
+p52
+I1
 sS'analytics'
-p54
-F0.01269348804721384
+p53
+I1
 sS'physics computer science'
-p55
-F0.0087306011569362359
+p54
+I1
 sS'data analytics'
+p55
+I1
+sS'data mining'
 p56
-F0.0054626200520957249
-sS'data mining'
-p57
-F0.0079242370510091108
+I1
 sS'advanced analytics'
-p58
-F0.007789970828905945
+p57
+I1
 sS'computer science engineering'
-p59
-F0.0054068299659495184
+p58
+I1
 sVphysic
-p60
-F0.0040706414232524381
+p59
+I1
 sS'project management'
-p61
-F0.0082861737310737805
+p60
+I1
 sS'computer science'
-p62
-F0.0029528444551966465
+p61
+I1
 ssS'education'
-p63
-(dp64
+p62
+(dp63
 VBachelor
-p65
-F0.00060706279877168693
+p64
+I1
 sVMaster
-p66
-F0.0017224960337569751
+p65
+I1
 sVDoctor
-p67
-F0.002272615459609629
+p66
+I1
 ssS'responsibility'
-p68
-(dp69
+p67
+(dp68
 S'development'
-p70
-F0.0041293550542254752
+p69
+I1
 sS'product'
-p71
-F0.026583405977410709
+p70
+I1
 sS'data analysis'
-p72
-F0.0049803888879490967
+p71
+I1
 sS'data mining'
-p73
-F0.0079242370510091108
+p72
+I1
 sS'business problem'
-p74
-F0.0033011296851860827
+p73
+I1
 sS'pattern'
-p75
-F0.0032421393905498158
+p74
+I1
 sVinsight
-p76
-F0.0037180759981251714
+p75
+I1
 sS'construct'
-p77
-F0.0080888676826560424
+p76
+I1
 sS'analysis'
-p78
-F0.0044759821430827868
+p77
+I1
 sS'recommendation'
-p79
-F0.0032713908811088789
+p78
+I1
 sS'report'
-p80
-F0.004555617631194604
+p79
+I1
 sS'implement'
-p81
-F0.0047534331213289335
+p80
+I1
 sS'model'
-p82
-F0.0013154545930699432
+p81
+I1
 ss.

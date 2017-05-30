@@ -2,229 +2,226 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'model validation'
 p4
-F0.00085902659385915753
-sS'model validation'
-p5
-F0.010065221164824681
+I1
 sS'c++'
-p6
-F0.0056317411968327177
+p5
+I1
 sS'problem solving'
+p6
+I1
+sS'data mining'
 p7
-F0.0039473104174075329
-sS'data mining'
-p8
-F0.009283624996998122
+I1
 sS'perl'
+p8
+I1
+sS'management'
 p9
-F0.0061818445025062759
-sS'management'
-p10
-F0.0017818703119439863
+I1
 sS'java'
-p11
-F0.0029484969344560964
-sS'ruby'
-p12
-F0.0067192893010829258
-sS'predictive modeling'
-p13
-F0.0045258080524055765
-sS'education'
-p14
-F0.0031114168621844706
-sS'research'
-p15
-F0.0039893656702215926
-sS'optimization'
-p16
-F0.012082324652519925
-sS'computer science'
-p17
-F0.0034593993617366568
-sS'advanced analytics'
-p18
-F0.0091263256572956669
-sS'unstructured data'
-p19
-F0.0050252369989172022
-sS'operations research'
-p20
-F0.011079143740429247
-sS'data analysis'
-p21
-F0.0058347652243755099
-sS'python'
-p22
-F0.0015199072455028934
-sS'data scientist'
-p23
-F0.00038717007231544264
-sS'machine learning'
-p24
-F0.0033160598221997645
-sS'modeling'
-p25
-F0.0020202200374521873
+p10
+I1
 sS'data'
-p26
-F0.0010775638529417217
-sS'science'
-p27
-F0.0030704043175895789
-sS'applied mathematics'
-p28
-F0.011856398085076523
-sS'economics'
-p29
-F0.0051412130782117881
-sS'analysis'
-p30
-F0.0010487656904294396
-sS'simulation'
-p31
-F0.025372678744929749
-sS'stochastic modeling'
-p32
-F0.014882329467146951
-sS'english'
-p33
-F0.0072314925758968701
-sS'organization'
-p34
-F0.0044831062916949726
-sS'validation'
-p35
-F0.005301212634396351
-sS'scripting'
-p36
-F0.0044387880313446282
-sS'predictive analytics'
-p37
-F0.010667291234814797
-ssS'working-year'
-p38
-(dp39
-V(5, 10]
-p40
-F0.0025286390299777369
-ssS'major'
-p41
-(dp42
-S'science'
-p43
-F0.0030704043175895789
-sS'information'
-p44
-F0.003944601984057979
-sS'economics statistics'
-p45
-F0.0099631505429518211
-sS'economics'
-p46
-F0.0051412130782117881
-sS'business'
-p47
-F0.0074166333674346649
-sS'quantitative economics'
-p48
-F0.012583980803966277
-sS'predictive analytics'
-p49
-F0.010667291234814797
-sS'machine learning statistics'
-p50
-F0.0097728347178936328
-sS'applied mathematics'
-p51
-F0.011856398085076523
-sS'statistic'
-p52
-F0.0018590291675615977
-sS'machine learning'
-p53
-F0.0033160598221997645
-sS'management'
-p54
-F0.0017818703119439863
-sS'computer science'
-p55
-F0.0034593993617366568
-sS'data mining'
-p56
-F0.009283624996998122
-sS'advanced analytics'
-p57
-F0.0091263256572956669
-sS'computer science applied math'
-p58
-F0.010344573414486368
-sS'applied math'
-p59
-F0.0052068260793349383
-sS'ee computer science'
-p60
-F0.0047277731303934385
-sS'operations research'
-p61
-F0.011079143740429247
-sS'english'
-p62
-F0.0072314925758968701
-ssS'education'
-p63
-(dp64
-VMaster
-p65
-F0.0020179869851546153
-ssS'responsibility'
-p66
-(dp67
-S'development'
-p68
-F0.00096754762776831208
-sS'information'
-p69
-F0.003944601984057979
-sS'product'
-p70
-F0.0011978361238614414
-sS'data analysis'
-p71
-F0.0058347652243755099
-sS'business problem'
-p72
-F0.0038674322671636112
-sVinsight
-p73
-F0.0043559049350420419
-sS'communicate'
-p74
-F0.0025834899855525688
-sS'analysis'
-p75
-F0.0010487656904294396
-sS'simulation'
-p76
-F0.025372678744929749
+p11
+I1
+sS'predictive modeling'
+p12
+I1
+sS'education'
+p13
+I1
+sS'research'
+p14
+I1
 sS'optimization'
-p77
-F0.012082324652519925
-sS'data mining'
-p78
-F0.009283624996998122
+p15
+I1
+sS'computer science'
+p16
+I1
+sS'advanced analytics'
+p17
+I1
+sS'unstructured data'
+p18
+I1
+sS'operations research'
+p19
+I1
+sS'data analysis'
+p20
+I1
+sS'python'
+p21
+I1
+sS'data scientist'
+p22
+I1
+sS'machine learning'
+p23
+I1
 sS'modeling'
-p79
-F0.0020202200374521873
+p24
+I1
+sS'ruby'
+p25
+I1
+sS'science'
+p26
+I1
+sS'applied mathematics'
+p27
+I1
+sS'economics'
+p28
+I1
+sS'analysis'
+p29
+I1
+sS'simulation'
+p30
+I1
+sS'stochastic modeling'
+p31
+I1
+sS'english'
+p32
+I1
+sS'organization'
+p33
+I1
+sS'validation'
+p34
+I1
+sS'scripting'
+p35
+I1
+sS'predictive analytics'
+p36
+I1
+ssS'working-year'
+p37
+(dp38
+V(5, 10]
+p39
+I1
+ssS'major'
+p40
+(dp41
+S'science'
+p42
+I1
+sS'information'
+p43
+I1
+sS'economics statistics'
+p44
+I1
+sS'economics'
+p45
+I1
+sS'business'
+p46
+I1
+sS'quantitative economics'
+p47
+I1
+sS'predictive analytics'
+p48
+I1
+sS'machine learning statistics'
+p49
+I1
+sS'applied mathematics'
+p50
+I1
+sS'statistic'
+p51
+I1
+sS'machine learning'
+p52
+I1
+sS'management'
+p53
+I1
+sS'computer science'
+p54
+I1
+sS'data mining'
+p55
+I1
+sS'advanced analytics'
+p56
+I1
+sS'computer science applied math'
+p57
+I1
+sS'applied math'
+p58
+I1
+sS'ee computer science'
+p59
+I1
+sS'operations research'
+p60
+I1
+sS'english'
+p61
+I1
+ssS'education'
+p62
+(dp63
+VMaster
+p64
+I1
+ssS'responsibility'
+p65
+(dp66
+S'development'
+p67
+I1
+sS'information'
+p68
+I1
+sS'product'
+p69
+I1
+sS'data analysis'
+p70
+I1
+sS'business problem'
+p71
+I1
+sVinsight
+p72
+I1
+sS'communicate'
+p73
+I1
+sS'analysis'
+p74
+I1
+sS'simulation'
+p75
+I1
+sS'optimization'
+p76
+I1
+sS'data mining'
+p77
+I1
+sS'modeling'
+p78
+I1
 sS'model'
-p80
-F0.0030822367034274815
+p79
+I1
 sS'prototype'
-p81
-F0.0049879645809358716
+p80
+I1
 sS'extract'
-p82
-F0.0049422890700472144
+p81
+I1
 ss.

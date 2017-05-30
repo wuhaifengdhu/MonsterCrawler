@@ -2,127 +2,124 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'access'
 p4
-F0.0020633905118828009
-sS'communication'
+I1
+sS'training'
 p5
-F0.0039399140358021036
-sS'engineering'
+I1
+sS'management'
 p6
-F0.0052372543245268787
-sS'defense'
+I1
+sS'risk management'
 p7
-F0.01438065092229123
-sS'process improvement'
+I1
+sS'communication'
 p8
-F0.016563202886032274
+I1
 sS'troubleshooting'
 p9
-F0.015989791675732834
-sS'management'
-p10
-F0.0085601407950675942
-sS'asset management'
-p11
-F0.021436957620817279
+I1
 sS'integration'
-p12
-F0.0096809674950318544
+p10
+I1
 sS'governance'
-p13
-F0.015300369474620006
+p11
+I1
 sS'application architecture'
-p14
-F0.025622390726957146
-sS'access'
-p15
-F0.0091614326863005621
-sS'risk management'
-p16
-F0.015772855289734405
-sS'policy'
-p17
-F0.011828204953055858
-sS'information security'
-p18
-F0.022668713430813149
-sS'technical writing'
-p19
-F0.027659893609020044
-sS'project management'
-p20
-F0.023317875826137271
-sS'training'
-p21
-F0.0090118146302953159
-sS'science'
-p22
-F0.0073751420291850193
+p12
+I1
 sS'information assurance'
-p23
-F0.031672483851118434
-sS'architecture'
-p24
-F0.018035921102980381
-sS'security'
-p25
-F0.064140666953634712
-ssS'working-year'
-p26
-(dp27
-V(0, 2]
-p28
-F0.0092766451455485472
-sV(2, 5]
-p29
-F0.0039443907138133859
-ssS'major'
-p30
-(dp31
-S'engineering science'
-p32
-F0.022955938573878825
-sS'information'
-p33
-F0.0063166490732988745
-sS'management'
-p34
-F0.0085601407950675942
-sS'communication'
-p35
-F0.0039399140358021036
+p13
+I1
+sS'information security'
+p14
+I1
 sS'engineering'
-p36
-F0.0052372543245268787
-sS'science'
-p37
-F0.0073751420291850193
+p15
+I1
+sS'defense'
+p16
+I1
+sS'process improvement'
+p17
+I1
+sS'architecture'
+p18
+I1
+sS'policy'
+p19
+I1
+sS'asset management'
+p20
+I1
+sS'technical writing'
+p21
+I1
+sS'security'
+p22
+I1
 sS'project management'
-p38
-F0.023317875826137271
+p23
+I1
+sS'science'
+p24
+I1
+ssS'working-year'
+p25
+(dp26
+V(0, 2]
+p27
+I1
+sV(2, 5]
+p28
+I1
+ssS'major'
+p29
+(dp30
+S'engineering science'
+p31
+I1
+sS'information'
+p32
+I1
+sS'management'
+p33
+I1
+sS'communication'
+p34
+I1
+sS'engineering'
+p35
+I1
+sS'science'
+p36
+I1
+sS'project management'
+p37
+I1
 ssS'education'
-p39
-(dp40
+p38
+(dp39
 VBachelor
-p41
-F0.0017083174236791191
+p40
+I1
 ssS'responsibility'
-p42
-(dp43
+p41
+(dp42
 S'information'
-p44
-F0.0063166490732988745
+p43
+I1
 sS'implement'
-p45
-F0.0066882476079000077
+p44
+I1
 sS'evaluation'
-p46
-F0.013234426100629271
+p45
+I1
 sS'product'
-p47
-F0.0028772144080691912
+p46
+I1
 sS'improvement'
-p48
-F0.0097730309652195035
+p47
+I1
 ss.

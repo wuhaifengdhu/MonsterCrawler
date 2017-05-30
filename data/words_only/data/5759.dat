@@ -4,241 +4,238 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0042944433692167269
-sS'r d'
+I1
+sS'communication'
 p5
-F0.00085366883963550395
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0016300268048328871
-sS'data science'
-p7
-F0.0038690802750675794
+I1
 sS'portfolio management'
-p8
-F0.011064445083643638
+p7
+I1
 sS'tableau'
+p8
+I1
+sS'analytics'
 p9
-F0.0082679360554466265
-sS'analytics'
-p10
-F0.0021111830431956489
+I1
 sS'business intelligence'
-p11
-F0.0048408396823009453
+p10
+I1
 sS'statistical analysis'
-p12
-F0.0038086879281101294
+p11
+I1
 sS'research'
-p13
-F0.0039644839716547224
+p12
+I1
 sS'visualization'
-p14
-F0.0034460589876681856
+p13
+I1
 sS'java'
-p15
-F0.0029301071406861003
+p14
+I1
 sS'rdbms'
+p15
+I1
+sS'big data'
 p16
-F0.0081823666797659952
-sS'big data'
-p17
-F0.0045804289130562973
+I1
 sS'credit'
-p18
-F0.0056091392927220497
+p17
+I1
 sS'integration'
-p19
-F0.0080104471164712636
+p18
+I1
 sS'continuous improvement'
-p20
-F0.0069943517316606758
+p19
+I1
 sS'risk management'
-p21
-F0.0065255679888921968
+p20
+I1
 sS'html'
-p22
-F0.0073979897999963363
+p21
+I1
 sS'intelligence'
+p22
+I1
+sS'advanced analytics'
 p23
-F0.0039706737867407403
-sS'advanced analytics'
+I1
+sS'mathematics'
 p24
-F0.0090694047072501661
-sS'mathematics'
-p25
-F0.0033698315395461853
+I1
 sS'data management'
-p26
-F0.0048582720723634211
+p25
+I1
 sS'text mining'
+p26
+I1
+sS'data analysis'
 p27
-F0.0075361254929889286
-sS'data analysis'
+I1
+sS'business analysis'
 p28
-F0.0057983737572796139
-sS'business analysis'
-p29
-F0.015992133244779674
+I1
 sS'python'
-p30
-F0.0015104275745330212
+p29
+I1
 sS'design thinking'
-p31
-F0.0081394999847698071
+p30
+I1
 sS'data scientist'
-p32
-F0.0003847552901596291
+p31
+I1
 sS'data quality'
-p33
-F0.0061351834412277035
+p32
+I1
 sS'leadership'
-p34
-F0.0031682262843454731
+p33
+I1
 sS'sql'
-p35
-F0.0039273633120528711
+p34
+I1
 sS'spotfire'
-p36
-F0.016278999969539614
+p35
+I1
 sS'data'
+p36
+I1
+sS'project management'
 p37
-F0.0048187938621156836
-sS'project management'
-p38
-F0.0096471045517698903
+I1
 sS'business intelligence tools'
-p39
-F0.010671012687905561
+p38
+I1
 sS'training'
-p40
-F0.0037283806890410979
+p39
+I1
 sS'performance metrics'
-p41
-F0.01005507967009007
+p40
+I1
 sS'data integration'
+p41
+I1
+sS'machine learning'
 p42
-F0.0072684637038200545
-sS'machine learning'
-p43
-F0.0032953775364064192
+I1
 sS'programming'
+p43
+I1
+sS'analysis'
 p44
-F0.0043215603763067005
-sS'analysis'
-p45
-F0.0010422245322770731
+I1
 sS'sas programming'
-p46
-F0.011152926187512596
+p45
+I1
 sS'banking'
-p47
-F0.012352054949575871
+p46
+I1
 sS'r'
-F0.0016570452137318961
+I1
 sS'architecture'
+p47
+I1
+sS'data analytics'
 p48
-F0.0037309233882464612
-sS'data analytics'
-p49
-F0.0063598071292590569
+I1
 ssS'working-year'
-p50
-(dp51
+p49
+(dp50
 V(2, 5]
-p52
-F0.0016318789023884901
+p51
+I1
 ssS'major'
-p53
-(dp54
+p52
+(dp53
 S'information'
-p55
-F0.0026133329845872684
+p54
+I1
 sS'business analysis'
-p56
-F0.015992133244779674
+p55
+I1
 sS'big data'
-p57
-F0.0045804289130562973
+p56
+I1
 sS'communication'
-p58
-F0.0016300268048328871
+p57
+I1
 sS'data science'
-p59
-F0.0038690802750675794
+p58
+I1
 sS'mba'
-p60
-F0.0077358581097168259
+p59
+I1
 sS'machine learning'
-p61
-F0.0032953775364064192
+p60
+I1
 sS'business'
-p62
-F0.0065514451367683435
+p61
+I1
 sS'analytics'
+p62
+I1
+sS'design'
 p63
-F0.0021111830431956489
-sS'design'
-p64
-F0.0014164629025713196
+I1
 sS'data analytics'
-p65
-F0.0063598071292590569
+p64
+I1
 sS'statistic'
-p66
-F0.0018474343910487398
+p65
+I1
 sS'advanced analytics'
-p67
-F0.0090694047072501661
+p66
+I1
 sS'mathematics'
-p68
-F0.0033698315395461853
+p67
+I1
 sS'project management'
-p69
-F0.0096471045517698903
+p68
+I1
 ssS'education'
-p70
-(dp71
+p69
+(dp70
 S'Bachelor'
-p72
-F0.0007067674996094485
+p71
+I1
 ssS'responsibility'
-p73
-(dp74
+p72
+(dp73
 S'development'
-p75
-F0.0019230260543586413
+p74
+I1
 sS'information'
-p76
-F0.0026133329845872684
+p75
+I1
 sS'product'
-p77
-F0.002380730424972013
+p76
+I1
 sS'data analysis'
-p78
-F0.0057983737572796139
+p77
+I1
 sS'business problem'
-p79
-F0.0038433110679921131
+p78
+I1
 sS'communicate'
-p80
-F0.0025673767423994346
+p79
+I1
 sS'analysis'
-p81
-F0.0010422245322770731
+p80
+I1
 sS'improvement'
-p82
-F0.0040433121872737654
+p81
+I1
 sS'analytic'
-p83
-F0.0093210960698945355
+p82
+I1
 sS'design'
-p84
-F0.0014164629025713196
+p83
+I1
 sS'understand'
-p85
-F0.0027879765937133187
+p84
+I1
 sS'data sourcing'
-p86
-F0.011550128729988663
+p85
+I1
 ss.

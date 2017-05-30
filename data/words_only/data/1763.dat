@@ -4,208 +4,205 @@ p2
 (dp3
 S'supply chain'
 p4
-F0.0074734603723559242
-sS'r d'
-p5
-F0.00081149152542426346
+I1
 sS'probability'
+p5
+I1
+sS'data science'
 p6
-F0.006780978616179688
-sS'data science'
-p7
-F0.0036779201824259002
+I1
 sS'feature extraction'
+p7
+I1
+sS'analytics'
 p8
-F0.010781677603722346
-sS'analytics'
+I1
+sS'engineering'
 p9
-F0.016055004644697345
-sS'engineering'
-p10
-F0.0061791320785425817
+I1
 sS'problem solving'
-p11
-F0.0037288821729660098
+p10
+I1
 sS'd3'
-p12
-F0.0067562755413577945
+p11
+I1
 sS'visualization'
-p13
-F0.0032757991562616545
+p12
+I1
 sS'management'
-p14
-F0.0016832687927059793
+p13
+I1
 sS'java'
-p15
-F0.0027853390013241387
+p14
+I1
 sS'critical thinking'
-p16
-F0.0066839667928988494
+p15
+I1
 sS'tableau'
-p17
-F0.0039297205955235448
+p16
+I1
 sS'research'
+p17
+I1
+sS'mathematics'
 p18
-F0.0018843051288200802
-sS'mathematics'
-p19
-F0.0064066757728131031
+I1
 sS'data management'
+p19
+I1
+sS'data analysis'
 p20
-F0.0046182388672071249
-sS'data analysis'
+I1
+sS'transportation'
 p21
-F0.0055118928404179722
-sS'transportation'
-p22
-F0.048393952312914428
+I1
 sS'python'
-p23
-F0.0014358017062260533
-sS'data scientist'
-p24
-F0.00036574564143632723
-sS'semantic analysis'
-p25
-F0.010781677603722346
+p22
+I1
 sS'leadership development'
-p26
-F0.0079954886040147135
+p23
+I1
+sS'semantic analysis'
+p24
+I1
+sS'data scientist'
+p25
+I1
 sS'data quality'
-p27
-F0.0058320617297045949
+p26
+I1
 sS'leadership'
-p28
-F0.0030116933651584432
+p27
+I1
 sS'sql'
-p29
-F0.0018666618113610974
+p28
+I1
 sS'manufacturing'
-p30
-F0.0067934469279208459
+p29
+I1
 sS'data'
-p31
-F0.004580711161418268
+p30
+I1
 sS'software development'
-p32
-F0.0043538501673384411
+p31
+I1
 sS'data visualization'
+p32
+I1
+sS'science'
 p33
-F0.0033819287444348243
-sS'science'
+I1
+sS'analysis'
 p34
-F0.0029005005213593254
-sS'analysis'
+I1
+sS'machine learning'
 p35
-F0.0009907312253463875
-sS'machine learning'
-p36
-F0.0031325624407341651
+I1
 sS'r'
-F0.0015751753909190552
+I1
 sS'data analytics'
+p36
+I1
+sS'predictive analytics'
 p37
-F0.0060455874094340039
-sS'predictive analytics'
-p38
-F0.010077006344350737
+I1
 ssS'working-year'
-p39
-(dp40
+p38
+(dp39
 V(0, 2]
-p41
-F0.0036483248694943889
+p40
+I1
 sV(2, 5]
-p42
-F0.0015512524744048688
+p41
+I1
 ssS'major'
-p43
-(dp44
+p42
+(dp43
 S'management'
-p45
-F0.0016832687927059793
+p44
+I1
 sS'transportation'
-p46
-F0.048393952312914428
+p45
+I1
 sS'business'
-p47
-F0.00077846964199248343
+p46
+I1
 sS'science'
-p48
-F0.0029005005213593254
+p47
+I1
 sS'data science'
-p49
-F0.0036779201824259002
+p48
+I1
 sS'machine learning'
-p50
-F0.0031325624407341651
+p49
+I1
 sS'analytics'
-p51
-F0.016055004644697345
+p50
+I1
 sS'engineering'
-p52
-F0.0061791320785425817
+p51
+I1
 sS'statistic'
-p53
-F0.0052684739649868206
+p52
+I1
 sS'mathematics'
-p54
-F0.0064066757728131031
+p53
+I1
 sS'data analytics'
-p55
-F0.0060455874094340039
+p54
+I1
 sS'predictive analytics'
-p56
-F0.010077006344350737
+p55
+I1
 ssS'education'
-p57
-(dp58
+p56
+(dp57
 VMaster
-p59
-F0.0019063197211539645
+p58
+I1
 sVDoctor
-p60
-F0.0025151475442320003
+p59
+I1
 ssS'responsibility'
-p61
-(dp62
+p60
+(dp61
 S'development'
-p63
-F0.0063980520998276136
+p62
+I1
 sS'large data set'
-p64
-F0.0043831800992475524
+p63
+I1
 sS'product'
-p65
-F0.0011315527019876857
+p64
+I1
 sS'data analysis'
-p66
-F0.0055118928404179722
+p65
+I1
 sS'formulate'
-p67
-F0.0073703288853078329
+p66
+I1
 sS'communicate'
-p68
-F0.0024405300654034147
+p67
+I1
 sS'analysis'
-p69
-F0.0009907312253463875
+p68
+I1
 sS'analytic'
-p70
-F0.0029535225359810743
+p69
+I1
 sS'statistical method'
-p71
-F0.0049479777293577601
+p70
+I1
 sS'problem statement'
-p72
-F0.010979470195898313
+p71
+I1
 sS'complex data set'
-p73
-F0.0077172872028952177
+p72
+I1
 sS'report'
-p74
-F0.0025208951318863421
+p73
+I1
 sS'presentation'
-p75
-F0.0033444588975199314
+p74
+I1
 ss.

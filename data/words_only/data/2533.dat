@@ -4,268 +4,265 @@ p2
 (dp3
 S'nlp'
 p4
-F0.0074600158320261775
-sS'r d'
+I1
+sS'statistical modeling'
 p5
-F0.00099182297551854426
+I1
 sS'nosql'
 p6
-F0.0056803718619536604
+I1
 sS'intelligence'
 p7
-F0.004613270752227768
+I1
 sS'data science'
 p8
-F0.0044952357785205442
+I1
 sS'linux'
 p9
-F0.0060716811609194173
+I1
 sS'intelligence analysis'
 p10
-F0.010562621405560843
+I1
 sS'hadoop'
 p11
-F0.0028739159470979616
+I1
 sS'business intelligence'
 p12
-F0.0056242605970694554
+I1
 sS'defense'
 p13
-F0.0069124384868018227
+I1
 sS'dod'
 p14
-F0.01773796486621023
+I1
 sS'data mining'
 p15
-F0.01071877475498817
+I1
 sS'neo4j'
 p16
-F0.011503347728335679
+I1
 sS'education'
 p17
-F0.0035924088408796546
+I1
 sS'xml'
 p18
-F0.0091342293439905745
+I1
 sS'visualization'
 p19
-F0.0080075090486396005
+I1
 sS'management'
 p20
-F0.002057328524418419
+I1
 sS'anomaly detection'
 p21
-F0.0092672210262545879
+I1
 sS'integration'
 p22
-F0.0046534119118631376
+I1
 sS'writing'
 p23
-F0.0050682427874033011
+I1
 sS'json'
 p24
-F0.0087373718990236982
+I1
 sS'computer science'
 p25
-F0.0039941857364978791
+I1
 sS'natural language processing'
 p26
-F0.012316341087539789
+I1
 sS'information security'
 p27
-F0.010896313943796658
+I1
 sS'algorithm development'
 p28
-F0.0088883833225824552
+I1
 sS'data management'
 p29
-F0.0056445141710309314
+I1
 sS'clustering'
 p30
-F0.0061898259309444321
+I1
 sS'data analysis'
 p31
-F0.0067367579160664106
+I1
 sS'government'
 p32
-F0.0047253057509314194
+I1
 sS'python'
 p33
-F0.0017548687520540654
+I1
 sS'processing'
 p34
-F0.0038490229193718327
+I1
 sS'data scientist'
 p35
-F0.00044702245064439993
-sS'statistical modeling'
+I1
+sS'aerospace'
 p36
-F0.0056496042166840838
+I1
 sS'sql'
 p37
-F0.0022814755472191192
+I1
 sS'modeling'
 p38
-F0.0023325245843046991
+I1
 sS'data'
 p39
-F0.0043545032028297114
+I1
 sS'information technology'
 p40
-F0.01225384942658949
-sS'aerospace'
-p41
-F0.01098747317343346
+I1
 sS'pattern recognition'
-p42
-F0.0092672210262545879
+p41
+I1
 sS'risk assessment'
-p43
-F0.01128361109940376
+p42
+I1
 sS'data visualization'
-p44
-F0.0041334684654203407
+p43
+I1
 sS'security clearance'
+p44
+I1
+sS'machine learning'
 p45
-F0.0071755295057318756
-sS'machine learning'
-p46
-F0.0038286874275639793
+I1
 sS'r'
-F0.0019252143666788455
+I1
 sS'elasticsearch'
-p47
-F0.0098580273230010861
+p46
+I1
 sS'security'
+p47
+I1
+sS'analysis'
 p48
-F0.015415450149484668
-sS'analysis'
+I1
+sS'data analytics'
 p49
-F0.0036326811596034216
-sS'data analytics'
+I1
+sS'predictive analytics'
 p50
-F0.0073890512781971162
-sS'predictive analytics'
-p51
-F0.012316341087539789
+I1
 ssS'working-year'
-p52
-(dp53
+p51
+(dp52
 V(0, 2]
-p54
-F0.0044590637293820314
+p53
+I1
 sV(2, 5]
-p55
-F0.0018959752464948398
+p54
+I1
 ssS'major'
-p56
-(dp57
+p55
+(dp56
 S'information'
-p58
-F0.003036263684991488
+p57
+I1
 sS'management'
-p59
-F0.002057328524418419
+p58
+I1
 sS'business'
-p60
-F0.0019029257915371817
+p59
+I1
 sS'predictive analytics'
-p61
-F0.012316341087539789
+p60
+I1
 sS'data science'
+p61
+I1
+sS'data mining'
 p62
-F0.0044952357785205442
-sS'data mining'
-p63
-F0.01071877475498817
+I1
 sS'machine learning'
+p63
+I1
+sS'design'
 p64
-F0.0038286874275639793
-sS'design'
-p65
-F0.0016456972370454217
+I1
 sS'natural language processing'
-p66
-F0.012316341087539789
+p65
+I1
 sS'statistic'
-p67
-F0.0021464153190687047
+p66
+I1
 sS'machine learning data mining'
-p68
-F0.0077216981132964312
+p67
+I1
 sS'data analytics'
-p69
-F0.0073890512781971162
+p68
+I1
 sS'information technology'
-p70
-F0.01225384942658949
+p69
+I1
 sS'computer science'
-p71
-F0.0039941857364978791
+p70
+I1
 ssS'education'
-p72
-(dp73
+p71
+(dp72
 VBachelor
-p74
-F0.00082114774713078426
+p73
+I1
 sVMaster
-p75
-F0.0023299463258548456
+p74
+I1
 ssS'responsibility'
-p76
-(dp77
+p75
+(dp76
 S'development'
-p78
-F0.0011171202079064085
+p77
+I1
 sS'large data set'
-p79
-F0.0053572201213025637
+p78
+I1
 sS'processing'
-p80
-F0.0038490229193718327
+p79
+I1
 sS'information'
-p81
-F0.003036263684991488
+p80
+I1
 sS'pattern'
-p82
-F0.0043855025572654511
+p81
+I1
 sVinsight
-p83
-F0.00251464077167886
+p82
+I1
 sS'analysis'
-p84
-F0.0036326811596034216
+p83
+I1
 sS'statistical model'
-p85
-F0.0044935430739730447
+p84
+I1
 sS'decision-making'
-p86
-F0.0071755295057318756
+p85
+I1
 sS'analytic'
-p87
-F0.0072197217546204036
+p86
+I1
 sS'data analysis'
-p88
-F0.0067367579160664106
+p87
+I1
 sS'design'
-p89
-F0.0016456972370454217
+p88
+I1
 sS'data mining'
-p90
-F0.01071877475498817
+p89
+I1
 sS'understand'
-p91
-F0.0032391708733722374
+p90
+I1
 sS'modeling'
-p92
-F0.0023325245843046991
+p91
+I1
 sS'extract'
-p93
-F0.0057063144335327744
+p92
+I1
 sS'model'
-p94
-F0.0017793588698530633
+p93
+I1
 sS'data aggregation'
-p95
-F0.01162119738354154
+p94
+I1
 ss.

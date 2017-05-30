@@ -4,99 +4,95 @@ p2
 (lp3
 S'nlp'
 p4
-aS'r d'
-p5
-aS'communication'
-p6
-aS'data science'
-p7
-aS'pig'
-p8
-aS'engineering'
-p9
-aS'hbase'
-p10
 aS'java'
-p11
+p5
 aS'team building'
-p12
-aS'hadoop'
-p13
-aS'computer science'
-p14
-aS'algorithm development'
-p15
-aS'graph databases'
-p16
-aS'python'
-p17
+p6
 aS'marketing'
-p18
-aS'data scientist'
-p19
-aS'sql'
-p20
-aS'data'
-p21
-aS'science'
-p22
-aS'economics'
-p23
-aS'hive'
-p24
-aS'r'
-aS'real estate'
-p25
-asS'working-year'
-p26
-(lp27
-V[0]
-p28
-asS'major'
-p29
-(lp30
-S'business'
-p31
-aS'marketing'
-p32
+p7
 aS'data science'
-p33
+p8
 aS'economics'
-p34
-aS'communication'
-p35
-aS'general'
-p36
-aS'statistics computer science'
-p37
+p9
+aS'data scientist'
+p10
+aS'hadoop'
+p11
+aS'hive'
+p12
+aS'pig'
+p13
+aS'python'
+p14
 aS'engineering'
-p38
-aS'computer science engineering'
-p39
+p15
+aS'r'
 aS'computer science'
-p40
-aS'statistic'
-p41
+p16
+aS'sql'
+p17
+aS'communication'
+p18
+aS'algorithm development'
+p19
+aS'hbase'
+p20
+aS'real estate'
+p21
+aS'data'
+p22
 aS'science'
-p42
+p23
+asS'working-year'
+p24
+(lp25
+V[0]
+p26
+asS'major'
+p27
+(lp28
+S'business'
+p29
+aS'marketing'
+p30
+aS'data science'
+p31
+aS'economics'
+p32
+aS'communication'
+p33
+aS'general'
+p34
+aS'statistics computer science'
+p35
+aS'engineering'
+p36
+aS'computer science engineering'
+p37
+aS'computer science'
+p38
+aS'statistic'
+p39
+aS'science'
+p40
 asS'education'
-p43
-(lp44
+p41
+(lp42
 VMaster
-p45
+p43
 asS'responsibility'
-p46
-(lp47
+p44
+(lp45
 S'development'
-p48
+p46
 aS'business problem'
-p49
+p47
 aS'communicate'
-p50
+p48
 aS'understand'
-p51
+p49
 aS'recommendation'
-p52
+p50
 aS'model'
-p53
+p51
 as.

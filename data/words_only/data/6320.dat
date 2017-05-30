@@ -4,229 +4,226 @@ p2
 (dp3
 S'consulting'
 p4
-F0.011443918341236816
+I1
 sS'customer insight'
 p5
-F0.01215840880697428
-sS'r d'
-p6
-F0.0011374368749714054
+I1
 sS'communication'
+p6
+I1
+sS'data science'
 p7
-F0.0021718639698742898
-sS'data science'
+I1
+sS'analytics'
 p8
-F0.0051552011421260539
-sS'analytics'
-p9
-F0.0028129613401027898
+I1
 sS'statistical analysis'
+p9
+I1
+sS'data mining'
 p10
-F0.0050747337767893964
-sS'data mining'
+I1
+sS'quantitative analysis'
 p11
-F0.012292445286883941
-sS'quantitative analysis'
-p12
-F0.017964491545041691
+I1
 sS'regression'
-p13
-F0.0066353045583230803
+p12
+I1
 sS'multivariate analysis'
-p14
-F0.013697246792588599
+p13
+I1
 sS'research'
+p14
+I1
+sS'computer science'
 p15
-F0.0026411589894264837
-sS'computer science'
-p16
-F0.0045805897365931367
+I1
 sS'innovation'
+p16
+I1
+sS'advanced analytics'
 p17
-F0.0034578396672991559
-sS'advanced analytics'
-p18
-F0.012084165274757145
+I1
 sS'matlab'
-p19
-F0.0061282491059924194
+p18
+I1
 sS'segmentation'
+p19
+I1
+sS'finance'
 p20
-F0.0078020140729659479
-sS'finance'
-p21
-F0.0077738928510149392
+I1
 sS'python'
+p21
+I1
+sS'marketing'
 p22
-F0.0020125087627434436
-sS'marketing'
-p23
-F0.023623852131709283
+I1
 sS'data scientist'
+p23
+I1
+sS'modeling'
 p24
-F0.00051265178550355015
-sS'modeling'
-p25
-F0.0026749727919727025
+I1
 sS'data'
-p26
-F0.0035670049979649792
+p25
+I1
 sS'customer relations'
-p27
-F0.012025420970914106
+p26
+I1
 sS'svm'
+p27
+I1
+sS'economics'
 p28
-F0.011817048660782932
-sS'economics'
+I1
+sS'analysis'
 p29
-F0.0068074788127014821
-sS'analysis'
+I1
+sS'machine learning'
 p30
-F0.0013886703601808093
-sS'machine learning'
-p31
-F0.0043907938919985805
+I1
 sS'credit'
-p32
-F0.029894692518551865
+p31
+I1
 sS'r'
-F0.0022078635673269862
+I1
 sS'retail'
+p32
+I1
+sS'data analytics'
 p33
-F0.0157957372578937
-sS'data analytics'
+I1
+sS'predictive analytics'
 p34
-F0.0084738704409241163
-sS'predictive analytics'
-p35
-F0.014124557369089952
+I1
 ssS'working-year'
-p36
-(dp37
+p35
+(dp36
 V(2, 5]
-p38
-F0.0021743317231270464
+p37
+I1
 ssS'major'
-p39
-(dp40
+p38
+(dp39
 S'communication'
-p41
-F0.0021718639698742898
+p40
+I1
 sS'data science'
+p41
+I1
+sS'data mining'
 p42
-F0.0051552011421260539
-sS'data mining'
-p43
-F0.012292445286883941
+I1
 sS'analytics'
+p43
+I1
+sS'design'
 p44
-F0.0028129613401027898
-sS'design'
-p45
-F0.0037746185935557046
+I1
 sS'economics finance'
-p46
-F0.014124254168045629
+p45
+I1
 sS'statistic'
-p47
-F0.0024615400058017834
+p46
+I1
 sS'information'
-p48
-F0.0017410154648012134
+p47
+I1
 sS'predictive analytics'
-p49
-F0.014124557369089952
+p48
+I1
 sS'computer science'
-p50
-F0.0045805897365931367
+p49
+I1
 sS'advanced analytics'
-p51
-F0.012084165274757145
+p50
+I1
 sS'finance'
-p52
-F0.0077738928510149392
+p51
+I1
 sS'business'
-p53
-F0.0065469081249007752
+p52
+I1
 sS'marketing'
-p54
-F0.023623852131709283
+p53
+I1
 sS'phd'
-p55
-F0.0046664614396650182
+p54
+I1
 sS'information system'
-p56
-F0.0076641790096300209
+p55
+I1
 sS'information systems'
-p57
-F0.0087208637894472477
+p56
+I1
 sS'economics'
-p58
-F0.0068074788127014821
+p57
+I1
 sS'machine learning'
-p59
-F0.0043907938919985805
+p58
+I1
 sS'computer science engineering'
-p60
-F0.0083873262629687827
+p59
+I1
 sS'mathematics computer science'
-p61
-F0.009817863893939632
+p60
+I1
 sS'data analytics'
-p62
-F0.0084738704409241163
+p61
+I1
 sS'history'
-p63
-F0.0069011541591183813
+p62
+I1
 ssS'education'
-p64
-(dp65
+p63
+(dp64
 VMaster
-p66
-F0.0026720160080440612
+p65
+I1
 sVDoctor
-p67
-F0.0035253868625523331
+p66
+I1
 ssS'responsibility'
-p68
-(dp69
+p67
+(dp68
 S'information'
-p70
-F0.0017410154648012134
+p69
+I1
 sS'product'
-p71
-F0.0031721089595887482
+p70
+I1
 sS'business problem'
-p72
-F0.0051208659936404612
+p71
+I1
 sS'extract'
-p73
-F0.0065440835885943729
+p72
+I1
 sVinsight
-p74
-F0.0057676525178673018
+p73
+I1
 sS'analysis'
-p75
-F0.0013886703601808093
+p74
+I1
 sS'statistical model'
-p76
-F0.0051532599241685337
+p75
+I1
 sS'design'
-p77
-F0.0037746185935557046
+p76
+I1
 sS'design experiment'
-p78
-F0.011549388241119547
+p77
+I1
 sS'data mining'
-p79
-F0.012292445286883941
+p78
+I1
 sS'modeling'
-p80
-F0.0026749727919727025
+p79
+I1
 sS'model'
-p81
-F0.0020405943826015739
+p80
+I1
 sS'quantitative analysis'
-p82
-F0.017964491545041691
+p81
+I1
 ss.

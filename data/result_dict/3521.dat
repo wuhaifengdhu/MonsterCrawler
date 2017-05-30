@@ -4,122 +4,120 @@ p2
 (lp3
 S'nlp'
 p4
-aS'r d'
+aS'data science'
 p5
-aS'data science'
+aS'information retrieval'
 p6
-aS'information retrieval'
+aS'analytics'
 p7
-aS'analytics'
+aS'engineering'
 p8
-aS'engineering'
+aS'data mining'
 p9
-aS'data mining'
+aS'quantitative analysis'
 p10
-aS'quantitative analysis'
+aS'big data'
 p11
-aS'big data'
-p12
 aS'recruiting'
+p12
+aS'computer science'
 p13
-aS'computer science'
-p14
 aS'python'
-p15
+p14
 aS'statistical modeling'
-p16
+p15
 aS'sql'
+p16
+aS'modeling'
 p17
-aS'modeling'
-p18
 aS'data'
-p19
+p18
 aS'search'
-p20
+p19
 aS'non-profits'
+p20
+aS'science'
 p21
-aS'science'
-p22
 aS'programming'
+p22
+aS'analysis'
 p23
-aS'analysis'
+aS'machine learning'
 p24
-aS'machine learning'
+aS'predictive analytics'
 p25
-aS'predictive analytics'
-p26
 asS'working-year'
-p27
-(lp28
+p26
+(lp27
 V(5, 10]
-p29
+p28
 aV(2, 5]
-p30
+p29
 asS'major'
-p31
-(lp32
+p30
+(lp31
 S'information'
-p33
+p32
 aS'business'
-p34
+p33
 aS'big data'
-p35
+p34
 aS'statistics computer science'
-p36
+p35
 aS'science'
-p37
+p36
 aS'data science'
-p38
+p37
 aS'statistic'
-p39
+p38
 aS'machine learning'
-p40
+p39
 aS'analytics'
-p41
+p40
 aS'engineering'
-p42
+p41
 aS'computer science'
+p42
+aS'data mining'
 p43
-aS'data mining'
-p44
 aS'machine learning data mining'
-p45
+p44
 aS'information retrieval'
-p46
+p45
 aS'predictive analytics'
-p47
+p46
 asS'education'
-p48
-(lp49
+p47
+(lp48
 S'Bachelor'
-p50
+p49
 asS'responsibility'
-p51
-(lp52
+p50
+(lp51
 S'development'
-p53
+p52
 aS'information'
-p54
+p53
 aS'product'
-p55
+p54
 aVinsight
-p56
+p55
 aS'analysis'
-p57
+p56
 aS'statistical model'
-p58
+p57
 aS'modeling'
-p59
+p58
 aS'data mining'
-p60
+p59
 aS'product decision'
-p61
+p60
 aS'implement'
-p62
+p61
 aS'prototype'
-p63
+p62
 aS'quantitative analysis'
-p64
+p63
 aS'model'
-p65
+p64
 as.

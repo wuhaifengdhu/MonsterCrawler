@@ -2,143 +2,131 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
-p5
 aS'intelligence'
-p6
+p5
 aS'data science'
+p6
+aS'pig'
 p7
-aS'information retrieval'
-p8
 aS'engineering'
-p9
+p8
 aS'enterprise software'
-p10
+p9
 aS'analysis'
-p11
+p10
 aS'visualization'
-p12
+p11
 aS'java'
-p13
+p12
 aS'scala'
-p14
+p13
 aS'agile'
-p15
+p14
 aS'hadoop'
-p16
+p15
 aS'writing'
+p16
+aS'computer science'
 p17
 aS'matlab'
 p18
-aS'natural language processing'
-p19
-aS'computer science'
-p20
 aS'data analysis'
-p21
+p19
 aS'theory'
-p22
+p20
 aS'apis'
-p23
+p21
 aS'python'
-p24
+p22
 aS'processing'
-p25
+p23
 aS'data scientist'
-p26
+p24
 aS'scipy'
-p27
+p25
 aS'embedded c'
-p28
+p26
 aS'spark'
-p29
-aS'pig'
-p30
+p27
 aS'data'
-p31
+p28
 aS'software engineering'
-p32
-aS'object oriented design'
-p33
+p29
+aS'science'
+p30
 aS'cloud computing'
-p34
+p31
 aS'programming'
-p35
+p32
 aS'c++'
-p36
+p33
 aS'machine learning'
-p37
+p34
 aS'r'
 aS'architecture'
-p38
-aS'science'
-p39
+p35
+aS'object oriented design'
+p36
 aS'crm'
-p40
+p37
 asS'working-year'
-p41
-(lp42
+p38
+(lp39
 V(5, 10]
-p43
+p40
 aV(2, 5]
-p44
+p41
 asS'major'
-p45
-(lp46
+p42
+(lp43
 S'information'
-p47
+p44
 aS'software engineering'
-p48
+p45
 aS'business'
-p49
+p46
 aS'computing'
-p50
+p47
 aS'science'
-p51
+p48
 aS'data science'
-p52
-aS'statistic'
-p53
+p49
 aS'computer science statistics'
-p54
+p50
 aS'machine learning'
-p55
+p51
 aS'engineering'
-p56
+p52
 aS'design'
-p57
+p53
 aS'computer science'
-p58
-aS'natural language processing'
-p59
-aS'information retrieval'
-p60
-aS'machine learning engineer'
-p61
+p54
+aS'statistic'
+p55
 asS'education'
-p62
-(lp63
+p56
+(lp57
 S'Bachelor'
-p64
+p58
 asS'responsibility'
-p65
-(lp66
+p59
+(lp60
 S'information'
-p67
+p61
 aS'product'
-p68
+p62
 aS'data analysis'
-p69
+p63
 aS'processing'
-p70
+p64
 aS'analysis'
-p71
+p65
 aS'design'
-p72
+p66
 aS'recommendation'
-p73
+p67
 aS'model'
-p74
+p68
 as.

@@ -4,131 +4,128 @@ p2
 (dp3
 S'neural networks'
 p4
-F0.013030148773209498
+I1
 sS'intelligence'
 p5
-F0.012442306784510072
+I1
 sS'social media'
 p6
-F0.017074774542262486
+I1
 sS'defense'
 p7
-F0.027964979155074472
-sS'r d'
-p8
-F0.001337507204770936
+I1
 sS'hdfs'
-p9
-F0.011135750566537603
+p8
+I1
 sS'java'
+p9
+I1
+sS'big data'
 p10
-F0.0045908193311726851
-sS'big data'
-p11
-F0.0071765026292510709
+I1
 sS'counterterrorism'
-p12
-F0.018458752922862094
-sS'agile'
-p13
-F0.006216682772113913
-sS'recruiting'
-p14
-F0.018066851758272866
-sS'hadoop'
-p15
-F0.0038755739482037662
-sS'unstructured data'
-p16
-F0.0078243103761642431
-sS'government'
-p17
-F0.012744472839645653
-sS'python'
-p18
-F0.0023665005320859384
-sS'data scientist'
-p19
-F0.00060282506373544496
-sS'aws'
-p20
-F0.0077734749573227357
-sS'spark'
-p21
-F0.005161331105513315
-sS'data'
-p22
-F0.0025166556435153565
-sS'national security'
-p23
-F0.011409983290769176
-sS'security clearance'
-p24
-F0.009676446955612367
-sS'machine learning'
-p25
-F0.0051631159446628265
+p11
+I1
 sS'deep learning'
-p26
-F0.0092302252193266748
-sS'organization'
-p27
-F0.0034901055495605818
-sS'security'
-p28
-F0.020788261765103105
-sS'impala'
-p29
-F0.013895617480594914
-sS'data analytics'
-p30
-F0.0099643883686436688
-ssS'working-year'
-p31
-(dp32
-V(2, 5]
-p33
-F0.0025567874659572108
-ssS'major'
-p34
-(dp35
-S'information'
-p36
-F0.0020472527126815573
-sS'big data'
-p37
-F0.0071765026292510709
+p12
+I1
+sS'recruiting'
+p13
+I1
+sS'hadoop'
+p14
+I1
+sS'unstructured data'
+p15
+I1
+sS'government'
+p16
+I1
+sS'python'
+p17
+I1
+sS'data scientist'
+p18
+I1
+sS'aws'
+p19
+I1
+sS'spark'
+p20
+I1
+sS'data'
+p21
+I1
+sS'national security'
+p22
+I1
+sS'security clearance'
+p23
+I1
 sS'machine learning'
-p38
-F0.0051631159446628265
-sS'phd'
-p39
-F0.005487272246641927
-sS'law'
-p40
-F0.011643376315821801
+p24
+I1
+sS'agile'
+p25
+I1
+sS'organization'
+p26
+I1
+sS'security'
+p27
+I1
+sS'impala'
+p28
+I1
 sS'data analytics'
-p41
-F0.0099643883686436688
+p29
+I1
+ssS'working-year'
+p30
+(dp31
+V(2, 5]
+p32
+I1
+ssS'major'
+p33
+(dp34
+S'information'
+p35
+I1
+sS'big data'
+p36
+I1
+sS'machine learning'
+p37
+I1
+sS'phd'
+p38
+I1
+sS'law'
+p39
+I1
+sS'data analytics'
+p40
+I1
 ssS'education'
-p42
-(dp43
+p41
+(dp42
 VBachelor
-p44
-F0.0011073458218636635
+p43
+I1
 sVMaster
-p45
-F0.0031420123091332446
+p44
+I1
 sVDoctor
-p46
-F0.004145487483327011
+p45
+I1
 ssS'responsibility'
-p47
-(dp48
+p46
+(dp47
 S'analytic'
-p49
-F0.0048680208573499148
+p48
+I1
 sS'information'
-p50
-F0.0020472527126815573
+p49
+I1
 ss.

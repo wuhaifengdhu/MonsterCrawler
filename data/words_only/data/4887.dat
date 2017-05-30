@@ -4,164 +4,161 @@ p2
 (dp3
 S'soa'
 p4
-F0.016201773496129158
-sS'r d'
-p5
-F0.0014307132817584576
-sS'cancer'
-p6
-F0.046588927127153804
-sS'data science'
-p7
-F0.006484416767621971
-sS'testing'
-p8
-F0.0058165894879370133
-sS'git'
-p9
-F0.011890186958645426
-sS'open source'
-p10
-F0.0087936455847996853
+I1
 sS'nosql'
-p11
-F0.0081939858914592874
-sS'big data'
-p12
-F0.0076766073420908671
-sS'storage'
-p13
-F0.031871665335807466
-sS'integration'
-p14
-F0.0067125872178095437
-sS'research'
-p15
-F0.023255082809340504
-sS'computer science'
-p16
-F0.0057616477174568716
-sS'data management'
-p17
-F0.0081422608599540265
-sS'distributed computing'
-p18
-F0.0098494180145220211
-sS'apis'
-p19
-F0.010730167295960153
-sS'cancer research'
-p20
-F0.018401311129512612
-sS'processing'
-p21
-F0.0055522490892680795
-sS'aws'
-p22
-F0.0083151805292616017
-sS'maven'
-p23
-F0.015180923777045158
-sS'biomedical informatics'
-p24
-F0.040362368525131663
-sS'sql'
-p25
-F0.0032910483503439561
-sS'apache'
-p26
-F0.022005263432763055
-sS'java'
-p27
-F0.0098214741091987058
-sS'data'
-p28
-F0.00089734411447063241
-sS'project management'
-p29
-F0.016168143865509816
-sS'publishing'
-p30
-F0.015849525762374399
-sS'open source software'
-p31
-F0.019008811384959957
-sS'cloud computing'
-p32
-F0.012324848419883142
-sS'data engineering'
-p33
-F0.011701805808111946
-sS'architecture'
-p34
-F0.0062528716019043477
-ssS'working-year'
-p35
-(dp36
-V[0]
-p37
-F0.0049692350953395303
-ssS'major'
-p38
-(dp39
-S'big data'
-p40
-F0.0076766073420908671
-sS'computing'
-p41
-F0.014845051307550332
+p5
+I1
 sS'data science'
-p42
-F0.006484416767621971
-sS'computer science computer engineering'
-p43
-F0.016593679301501643
-sS'phd'
-p44
-F0.0058696605565124443
-sS'computer engineering'
-p45
-F0.01405629482468846
-sS'design'
-p46
-F0.002373932599779807
+p6
+I1
+sS'testing'
+p7
+I1
+sS'git'
+p8
+I1
+sS'open source'
+p9
+I1
+sS'cancer'
+p10
+I1
+sS'big data'
+p11
+I1
+sS'storage'
+p12
+I1
+sS'integration'
+p13
+I1
+sS'research'
+p14
+I1
 sS'computer science'
-p47
-F0.0057616477174568716
-sS'biomedical informatics'
-p48
-F0.040362368525131663
-sS'medical informatics'
-p49
-F0.019545919640894732
-sS'project management'
-p50
-F0.016168143865509816
-ssS'education'
-p51
-(dp52
-VDoctor
-p53
-F0.0044343716285065934
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-F0.0016114556309172585
-sS'mine data'
-p57
-F0.014667604333849995
+p15
+I1
+sS'data management'
+p16
+I1
+sS'distributed computing'
+p17
+I1
+sS'apis'
+p18
+I1
+sS'cancer research'
+p19
+I1
 sS'processing'
-p58
-F0.0055522490892680795
-sS'manage data'
-p59
-F0.015293329544661028
+p20
+I1
+sS'aws'
+p21
+I1
+sS'maven'
+p22
+I1
+sS'biomedical informatics'
+p23
+I1
+sS'sql'
+p24
+I1
+sS'apache'
+p25
+I1
+sS'java'
+p26
+I1
+sS'data'
+p27
+I1
+sS'project management'
+p28
+I1
+sS'publishing'
+p29
+I1
+sS'open source software'
+p30
+I1
+sS'cloud computing'
+p31
+I1
+sS'data engineering'
+p32
+I1
+sS'architecture'
+p33
+I1
+ssS'working-year'
+p34
+(dp35
+V[0]
+p36
+I1
+ssS'major'
+p37
+(dp38
+S'big data'
+p39
+I1
+sS'computing'
+p40
+I1
+sS'data science'
+p41
+I1
+sS'computer science computer engineering'
+p42
+I1
+sS'phd'
+p43
+I1
+sS'computer engineering'
+p44
+I1
 sS'design'
-p60
-F0.002373932599779807
+p45
+I1
+sS'computer science'
+p46
+I1
+sS'biomedical informatics'
+p47
+I1
+sS'medical informatics'
+p48
+I1
+sS'project management'
+p49
+I1
+ssS'education'
+p50
+(dp51
+VDoctor
+p52
+I1
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+I1
+sS'mine data'
+p56
+I1
+sS'processing'
+p57
+I1
+sS'manage data'
+p58
+I1
+sS'design'
+p59
+I1
 sS'implement'
-p61
-F0.004637495728125789
+p60
+I1
 ss.

@@ -4,166 +4,163 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0077364316876151508
-sS'r d'
+I1
+sS'analytics'
 p5
-F0.0015378828159725744
-sS'analytics'
+I1
+sS'engineering'
 p6
-F0.0076065845975813269
-sS'engineering'
-p7
-F0.0078068435249501788
+I1
 sS'statistical analysis'
+p7
+I1
+sS'data mining'
 p8
-F0.0068613441701160004
-sS'data mining'
+I1
+sS'quantitative analysis'
 p9
-F0.016620122653801882
-sS'quantitative analysis'
-p10
-F0.024289069092734275
-sS'investment banking'
-p11
-F0.017662420789550999
-sS'computer science'
-p12
-F0.0061932318161427797
-sS'stata'
-p13
-F0.014163187072704487
-sS'matlab'
-p14
-F0.0082857600272032341
-sS'distributed computing'
-p15
-F0.01058720213546
+I1
 sS'management'
-p16
-F0.0031900150153903579
-sS'facebook'
-p17
-F0.014625270878895058
-sS'sql'
-p18
-F0.0035375688260251511
-sS'data'
-p19
-F0.0028936827062142866
-sS'programming'
-p20
-F0.0038926414625534132
-sS'analysis'
-p21
-F0.0018775655431658134
-sS'spss'
-p22
-F0.0091075255980378727
-sS'banking'
-p23
-F0.011126101930235943
-sS'r'
-F0.0029851638494570861
-sS'product launch'
-p24
-F0.037256130528392252
-sS'dashboard'
-p25
-F0.01058720213546
-sS'product management'
-p26
-F0.01109649604030913
-ssS'working-year'
-p27
-(dp28
-V(2, 5]
-p29
-F0.0029398267866998641
-ssS'major'
-p30
-(dp31
-S'management'
-p32
-F0.0031900150153903579
-sS'business'
-p33
-F0.0029506040363160798
-sS'computing'
-p34
-F0.0079785200847695605
-sS'analytics'
-p35
-F0.0076065845975813269
-sS'engineering'
-p36
-F0.0078068435249501788
+p10
+I1
 sS'computer science'
-p37
-F0.0061932318161427797
-sS'data mining'
-p38
-F0.016620122653801882
-sS'ee computer science'
-p39
-F0.0084639533944871302
-sVphysic
-p40
-F0.0085376748952111069
-ssS'education'
-p41
-(dp42
-VBachelor
-p43
-F0.0012732403270117778
-ssS'responsibility'
-p44
-(dp45
-S'development'
-p46
-F0.0017321639178773528
-sS'large data set'
-p47
-F0.0083067008622444254
-sS'product'
-p48
-F0.012866644206871215
-sS'identify trend'
-p49
-F0.016143841643241411
-sS'quantitative analysis'
-p50
-F0.024289069092734275
-sVinsight
-p51
-F0.0077982118312737679
-sS'communicate'
-p52
-F0.0046251243936109663
+p11
+I1
+sS'stata'
+p12
+I1
+sS'matlab'
+p13
+I1
+sS'distributed computing'
+p14
+I1
+sS'investment banking'
+p15
+I1
+sS'facebook'
+p16
+I1
+sS'sql'
+p17
+I1
+sS'data'
+p18
+I1
+sS'programming'
+p19
+I1
 sS'analysis'
-p53
-F0.0018775655431658134
-sS'understand'
-p54
-F0.0050225346126445925
-sS'solve problem'
-p55
-F0.011340167718845431
-sS'data mining'
-p56
-F0.016620122653801882
-sS'report'
-p57
-F0.0047774267293426561
+p20
+I1
+sS'spss'
+p21
+I1
+sS'banking'
+p22
+I1
+sS'r'
+I1
 sS'product launch'
-p58
-F0.037256130528392252
+p23
+I1
+sS'dashboard'
+p24
+I1
+sS'product management'
+p25
+I1
+ssS'working-year'
+p26
+(dp27
+V(2, 5]
+p28
+I1
+ssS'major'
+p29
+(dp30
+S'management'
+p31
+I1
+sS'business'
+p32
+I1
+sS'computing'
+p33
+I1
+sS'analytics'
+p34
+I1
+sS'engineering'
+p35
+I1
+sS'computer science'
+p36
+I1
+sS'data mining'
+p37
+I1
+sS'ee computer science'
+p38
+I1
+sVphysic
+p39
+I1
+ssS'education'
+p40
+(dp41
+VBachelor
+p42
+I1
+ssS'responsibility'
+p43
+(dp44
+S'development'
+p45
+I1
+sS'large data set'
+p46
+I1
+sS'product'
+p47
+I1
+sS'identify trend'
+p48
+I1
+sS'quantitative analysis'
+p49
+I1
+sVinsight
+p50
+I1
+sS'communicate'
+p51
+I1
+sS'analysis'
+p52
+I1
+sS'understand'
+p53
+I1
+sS'solve problem'
+p54
+I1
+sS'data mining'
+p55
+I1
+sS'report'
+p56
+I1
+sS'product launch'
+p57
+I1
 sS'product decision'
-p59
-F0.018519498472376345
+p58
+I1
 sS'extract'
-p60
-F0.0088479931666013804
+p59
+I1
 sS'presentation'
-p61
-F0.0063381880230153013
+p60
+I1
 ss.

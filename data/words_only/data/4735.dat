@@ -2,156 +2,153 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.0013507062890285438
-sS'communication'
+I1
+sS'data science'
 p5
-F0.0025790884642257188
-sS'data science'
-p6
-F0.0061218013562746891
-sS'hive'
-p7
-F0.0064972240921480308
-sS'data mining'
-p8
-F0.014597278778174677
-sS'hbase'
-p9
-F0.009606483953037797
-sS'hdfs'
-p10
-F0.011245642841865276
-sS'git'
-p11
-F0.011225275187931701
-sS'java'
-p12
-F0.0046361234693092571
-sS'big data'
-p13
-F0.0072473233788818373
-sS'recruiting'
-p14
-F0.0091225715292594881
-sS'integration'
-p15
-F0.0063372122747083516
+I1
 sS'test automation'
-p16
-F0.01666469123453624
-sS'computer science'
-p17
-F0.0054394503122043494
-sS'advanced analytics'
-p18
-F0.014349946263774109
-sS'python'
-p19
-F0.0023898541557578388
-sS'data scientist'
-p20
-F0.00060877399528546576
-sS'c++'
-p21
-F0.0088551720134409182
-sS'automation'
-p22
-F0.0091765837430139302
-sS'software development'
-p23
-F0.007246869028530431
-sS'c'
-F0.0076731170619450638
-sS'analysis'
-p24
-F0.001649046052714711
-sS'machine learning'
-p25
-F0.0052140677467483144
-sS'organization'
-p26
-F0.0035245473806417714
-sS'validation'
-p27
-F0.016670918679220107
-sS'predictive analytics'
-p28
-F0.016772911875794317
-ssS'working-year'
-p29
-(dp30
-V(5, 10]
-p31
-F0.0039759521589781523
-ssS'major'
-p32
-(dp33
-S'information'
-p34
-F0.0020674558644514407
-sS'law'
-p35
-F0.0058791390278902841
+p6
+I1
+sS'data mining'
+p7
+I1
+sS'hbase'
+p8
+I1
+sS'hdfs'
+p9
+I1
+sS'git'
+p10
+I1
+sS'java'
+p11
+I1
 sS'big data'
-p36
-F0.0072473233788818373
-sS'communication'
-p37
-F0.0025790884642257188
-sS'data science'
-p38
-F0.0061218013562746891
-sS'machine learning'
-p39
-F0.0052140677467483144
+p12
+I1
+sS'recruiting'
+p13
+I1
+sS'integration'
+p14
+I1
 sS'computer science'
-p40
-F0.0054394503122043494
-sS'data mining'
-p41
-F0.014597278778174677
+p15
+I1
 sS'advanced analytics'
-p42
-F0.014349946263774109
-sS'machine learning data mining'
-p43
-F0.010515733614818166
+p16
+I1
+sS'python'
+p17
+I1
+sS'data scientist'
+p18
+I1
+sS'c++'
+p19
+I1
 sS'automation'
-p44
-F0.0091765837430139302
-sS'ee computer science'
-p45
-F0.0074338011721317883
-sS'predictive analytics'
-p46
-F0.016772911875794317
-ssS'education'
-p47
-(dp48
-S'Bachelor'
-p49
-F0.0011182735766846865
-ssS'responsibility'
-p50
-(dp51
-S'development'
-p52
-F0.0030426826715345603
-sS'information'
-p53
-F0.0020674558644514407
-sS'product'
-p54
-F0.0018834396947558193
-sS'pattern'
-p55
-F0.0059723620352233444
+p20
+I1
+sS'hive'
+p21
+I1
+sS'software development'
+p22
+I1
+sS'c'
+I1
 sS'analysis'
-p56
-F0.001649046052714711
+p23
+I1
+sS'machine learning'
+p24
+I1
+sS'organization'
+p25
+I1
+sS'validation'
+p26
+I1
+sS'predictive analytics'
+p27
+I1
+ssS'working-year'
+p28
+(dp29
+V(5, 10]
+p30
+I1
+ssS'major'
+p31
+(dp32
+S'information'
+p33
+I1
+sS'law'
+p34
+I1
+sS'big data'
+p35
+I1
+sS'communication'
+p36
+I1
+sS'data science'
+p37
+I1
+sS'machine learning'
+p38
+I1
+sS'computer science'
+p39
+I1
 sS'data mining'
-p57
-F0.014597278778174677
+p40
+I1
+sS'advanced analytics'
+p41
+I1
+sS'machine learning data mining'
+p42
+I1
+sS'automation'
+p43
+I1
+sS'ee computer science'
+p44
+I1
+sS'predictive analytics'
+p45
+I1
+ssS'education'
+p46
+(dp47
+S'Bachelor'
+p48
+I1
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+I1
+sS'information'
+p52
+I1
+sS'product'
+p53
+I1
+sS'pattern'
+p54
+I1
+sS'analysis'
+p55
+I1
+sS'data mining'
+p56
+I1
 ss.

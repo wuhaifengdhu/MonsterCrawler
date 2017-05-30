@@ -2,219 +2,216 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.0009004708593523626
-sS'communication'
-p5
-F0.0051581769284514377
+I1
 sS'bioinformatics'
+p5
+I1
+sS'actuarial science'
 p6
-F0.015575946620536654
-sS'actuarial science'
-p7
-F0.021443581788966194
+I1
 sS'health insurance'
-p8
-F0.010061478508862623
+p7
+I1
 sS'statistical analysis'
-p9
-F0.0040174975732916052
+p8
+I1
 sS'problem solving'
-p10
-F0.0041377508322824582
+p9
+I1
 sS'education'
-p11
-F0.0032615290792196864
-sS'insurance'
-p12
-F0.038781187802117749
-sS'product development'
-p13
-F0.0045369348477655915
-sS'management'
-p14
-F0.0018678377392746174
-sS'predictive modeling'
-p15
-F0.0047441584408988279
+p10
+I1
 sS'random forest'
-p16
-F0.008087473031421202
-sS'access'
-p17
-F0.0039980813696794118
-sS'risk management'
-p18
-F0.0068833293917919874
-sS'oracle sql'
-p19
-F0.0099754690653540614
-sS'matlab'
-p20
-F0.0097030610844879971
-sS'teamwork'
-p21
-F0.0059166578942967231
-sS'data analysis'
-p22
-F0.0061162670553760829
+p11
+I1
 sS'finance'
-p23
-F0.006154331840386826
-sS'python'
-p24
-F0.0031864722076771186
-sS'collaboration'
-p25
-F0.0079467354504646568
-sS'data scientist'
-p26
-F0.00040584933019031049
-sS'data quality'
-p27
-F0.0064715421825230811
-sS'risk analysis'
-p28
-F0.012070874623234624
-sS'fraud'
-p29
-F0.0076377147315200905
-sS'statistical modeling'
-p30
-F0.0051292459335684441
-sS'sql'
-p31
-F0.0020713396415542001
-sS'regression'
-p32
-F0.0052529494420057721
-sS'modeling'
-p33
-F0.0063530603809351677
-sS'data'
-p34
-F0.00112955158268891
-sS'decision trees'
-p35
-F0.010721790894483097
-sS'glm'
-p36
-F0.011671048432527609
-sS'economics'
-p37
-F0.0053892540600553396
-sS'analysis'
-p38
-F0.0010993640351431406
-sS'r'
-F0.0017478919908005307
-sS'oracle'
-p39
-F0.0057693468010283208
-sS'data analytics'
-p40
-F0.006708480765731592
-ssS'working-year'
-p41
-(dp42
-V(2, 5]
-p43
-F0.0017213459474755782
-ssS'major'
-p44
-(dp45
-S'bioinformatics'
-p46
-F0.015575946620536654
+p12
+I1
 sS'management'
-p47
-F0.0018678377392746174
-sS'finance'
-p48
-F0.006154331840386826
-sS'business'
-p49
-F0.0034553126214754088
-sS'communication'
-p50
-F0.0051581769284514377
-sS'economics'
-p51
-F0.0053892540600553396
-sS'actuarial science'
-p52
-F0.021443581788966194
-sS'phd'
-p53
-F0.0036942819730681389
-sS'statistics actuarial science'
-p54
-F0.012427274445874258
-sS'design'
-p55
-F0.0014941198599491329
-sS'computational finance'
-p56
-F0.013381916661901727
-sS'statistic'
-p57
-F0.0019487191712597451
-sS'data analytics'
-p58
-F0.006708480765731592
-sS'finance economics'
-p59
-F0.010843653710799307
-ssS'education'
-p60
-(dp61
-VBachelor
-p62
-F0.00074551571778979102
-sVMaster
-p63
-F0.0021153460063682151
-sVDoctor
-p64
-F0.0027909312661872636
-ssS'responsibility'
-p65
-(dp66
-S'development'
-p67
-F0.0020284551143563735
-sS'product'
-p68
-F0.0025112529263410922
+p13
+I1
+sS'predictive modeling'
+p14
+I1
+sS'insurance'
+p15
+I1
+sS'access'
+p16
+I1
+sS'risk management'
+p17
+I1
+sS'oracle sql'
+p18
+I1
+sS'matlab'
+p19
+I1
+sS'teamwork'
+p20
+I1
 sS'data analysis'
-p69
-F0.0061162670553760829
-sS'understand'
-p70
-F0.0029408261876668995
-sVinsight
-p71
-F0.0022830291216558067
-sS'communicate'
-p72
-F0.0027081320462590524
-sS'analysis'
-p73
-F0.0010993640351431406
-sS'statistical model'
-p74
-F0.0040796641066334228
-sS'design'
-p75
-F0.0014941198599491329
+p21
+I1
+sS'product development'
+p22
+I1
+sS'python'
+p23
+I1
+sS'collaboration'
+p24
+I1
+sS'data scientist'
+p25
+I1
+sS'data quality'
+p26
+I1
+sS'risk analysis'
+p27
+I1
+sS'fraud'
+p28
+I1
+sS'statistical modeling'
+p29
+I1
+sS'sql'
+p30
+I1
+sS'regression'
+p31
+I1
 sS'modeling'
-p76
-F0.0063530603809351677
+p32
+I1
+sS'data'
+p33
+I1
+sS'decision trees'
+p34
+I1
+sS'glm'
+p35
+I1
+sS'economics'
+p36
+I1
+sS'analysis'
+p37
+I1
+sS'r'
+I1
+sS'oracle'
+p38
+I1
+sS'data analytics'
+p39
+I1
+ssS'working-year'
+p40
+(dp41
+V(2, 5]
+p42
+I1
+ssS'major'
+p43
+(dp44
+S'bioinformatics'
+p45
+I1
+sS'management'
+p46
+I1
+sS'finance'
+p47
+I1
+sS'business'
+p48
+I1
+sS'communication'
+p49
+I1
+sS'economics'
+p50
+I1
+sS'actuarial science'
+p51
+I1
+sS'phd'
+p52
+I1
+sS'statistics actuarial science'
+p53
+I1
+sS'design'
+p54
+I1
+sS'computational finance'
+p55
+I1
+sS'statistic'
+p56
+I1
+sS'data analytics'
+p57
+I1
+sS'finance economics'
+p58
+I1
+ssS'education'
+p59
+(dp60
+VBachelor
+p61
+I1
+sVMaster
+p62
+I1
+sVDoctor
+p63
+I1
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+I1
+sS'product'
+p67
+I1
+sS'data analysis'
+p68
+I1
+sS'understand'
+p69
+I1
+sVinsight
+p70
+I1
+sS'communicate'
+p71
+I1
+sS'analysis'
+p72
+I1
+sS'statistical model'
+p73
+I1
+sS'design'
+p74
+I1
+sS'modeling'
+p75
+I1
 sS'implement'
-p77
-F0.0029187747236230294
+p76
+I1
 sS'model'
-p78
-F0.0032309411057858252
+p77
+I1
 ss.

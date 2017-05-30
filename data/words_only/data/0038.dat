@@ -4,152 +4,149 @@ p2
 (dp3
 S'supply chain optimization'
 p4
-F0.025702503167594263
+I1
 sS'supply chain'
 p5
-F0.014829689993772934
-sS'r d'
+I1
+sS'communication'
 p6
-F0.0016102537720183426
-sS'communication'
-p7
-F0.0030746780122534061
+I1
 sS'energy'
-p8
-F0.0106884745044094
+p7
+I1
 sS'consulting'
-p9
-F0.0081004990611499815
+p8
+I1
 sS'management consulting'
+p9
+I1
+sS'management'
 p10
-F0.018319274490796691
-sS'management'
+I1
+sS'big data'
 p11
-F0.0033401333690557867
-sS'big data'
-p12
-F0.0086399463026669756
+I1
 sS'strategy'
-p13
-F0.011014896910637615
+p12
+I1
 sS'risk management'
+p13
+I1
+sS'computer science'
 p14
-F0.012309012559439791
-sS'computer science'
+I1
+sS'data science'
 p15
-F0.0064846780192553809
-sS'data science'
-p16
-F0.0072981474992451197
+I1
 sS'gas'
-p17
-F0.017024223413725458
+p16
+I1
 sS'data scientist'
-p18
-F0.00072575409634031995
+p17
+I1
 sS'internet things'
-p19
-F0.018867355752102737
+p18
+I1
 sS'manufacturing'
-p20
-F0.026960659964925086
+p19
+I1
 sS'life sciences'
+p20
+I1
+sS'science'
 p21
-F0.03948484423876026
-sS'science'
-p22
-F0.0057555029953247792
+I1
 sS'cloud computing'
+p22
+I1
+sS'optimization'
 p23
-F0.013871496064731221
-sS'optimization'
+I1
+sS'electrical engineering'
 p24
-F0.007549478671770621
-sS'electrical engineering'
+I1
+sS'predictive analytics'
 p25
-F0.027111007461009445
-sS'predictive analytics'
-p26
-F0.019995942000946954
+I1
 ssS'working-year'
-p27
-(dp28
+p26
+(dp27
 V(5, 10]
-p29
-F0.0047399586522719941
+p28
+I1
 sV(0, 2]
-p30
-F0.0072394211135849446
+p29
+I1
 ssS'major'
-p31
-(dp32
+p30
+(dp31
 S'life sciences'
-p33
-F0.03948484423876026
+p32
+I1
 sS'management'
-p34
-F0.0033401333690557867
+p33
+I1
 sS'master science'
-p35
-F0.023588795389395612
+p34
+I1
 sS'big data'
-p36
-F0.0086399463026669756
+p35
+I1
 sS'business administration'
-p37
-F0.018867355752102737
+p36
+I1
 sS'science'
-p38
-F0.0057555029953247792
+p37
+I1
 sS'data science'
-p39
-F0.0072981474992451197
+p38
+I1
 sS'computing'
-p40
-F0.0083539798534645986
+p39
+I1
 sS'statistic'
-p41
-F0.003484768400370368
+p40
+I1
 sS'business'
-p42
-F0.0061789119819324959
+p41
+I1
 sS'computer science'
-p43
-F0.0064846780192553809
+p42
+I1
 sS'communication'
-p44
-F0.0030746780122534061
+p43
+I1
 sS'electrical engineering'
-p45
-F0.027111007461009445
+p44
+I1
 sS'predictive analytics'
-p46
-F0.019995942000946954
+p45
+I1
 ssS'education'
-p47
-(dp48
+p46
+(dp47
 VBachelor
-p49
-F0.0013331575188711556
+p48
+I1
 sVMaster
-p50
-F0.0037827363878584551
+p49
+I1
 ssS'responsibility'
-p51
-(dp52
+p50
+(dp51
 Vinsight
-p53
-F0.0040825932528433251
+p52
+I1
 sS'product'
-p54
-F0.0044907111153393653
+p53
+I1
 sS'optimization'
-p55
-F0.007549478671770621
+p54
+I1
 sS'presentation'
-p56
-F0.0066364556946866089
+p55
+I1
 sS'transformation'
-p57
-F0.0095089784398200271
+p56
+I1
 ss.

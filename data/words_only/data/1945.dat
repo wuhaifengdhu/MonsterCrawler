@@ -4,245 +4,236 @@ p2
 (dp3
 S'calculus'
 p4
-F0.017985703614154011
-sS'r d'
+I1
+sS'communication'
 p5
-F0.0007675041343264997
-sS'intelligence'
+I1
+sS'data science'
 p6
-F0.010709686493956799
-sS'data science'
-p7
-F0.0034785562846869266
+I1
 sS'statistical analysis'
+p7
+I1
+sS'data mining'
 p8
-F0.0034242596138709764
-sS'data mining'
+I1
+sS'big data'
 p9
-F0.0082945285019908454
-sS'big data'
-p10
-F0.004118105247065568
+I1
 sS'storage'
+p10
+I1
+sS'computer science'
 p11
-F0.0056991700631630789
-sS'computer science'
+I1
+sS'intelligence'
 p12
-F0.0030908278409534995
-sS'communication'
+I1
+sS'mathematics'
 p13
-F0.0014655007348123713
-sS'mathematics'
+I1
+sS'artificial intelligence'
 p14
-F0.015148495051604812
-sS'artificial intelligence'
-p15
-F0.01248982106381771
+I1
 sS'architecture'
+p15
+I1
+sS'systems engineering'
 p16
-F0.0033543442051337342
-sS'systems engineering'
+I1
+sS'biology'
 p17
-F0.016933704307616388
-sS'biology'
-p18
-F0.016469961412383667
+I1
 sS'algebra'
-p19
-F0.022187290916189262
-sS'data scientist'
-p20
-F0.00034592017676033943
+p18
+I1
 sS'leadership'
-p21
-F0.0028484426967666774
+p19
+I1
 sS'astronomy'
-p22
-F0.02659347097307007
+p20
+I1
 sS'data'
-p23
-F0.0072206848837309771
+p21
+I1
 sS'software engineering'
-p24
-F0.010259323775358209
+p22
+I1
 sS'solver'
+p23
+I1
+sS'science'
+p24
+I1
+sS'applied mathematics'
 p25
-F0.0071712701025596261
-sS'science'
-p26
-F0.032919325543352945
-sS'applied mathematics'
-p27
-F0.010593193055451549
+I1
 sS'programming'
+p26
+I1
+sS'analysis'
+p27
+I1
+sS'machine learning'
 p28
-F0.0097134137430071148
-sS'analysis'
+I1
+sS'operations research'
 p29
-F0.0028110841122912455
-sS'machine learning'
-p30
-F0.0029627599906756779
-sS'operations research'
-p31
-F0.0098987489867760382
+I1
 sS'discrete mathematics'
-p32
-F0.013296735486535035
+p30
+I1
 sS'organization'
-p33
-F0.0020027334648880348
+p31
+I1
 sS'chemistry'
-p34
-F0.016347384156643698
+p32
+I1
 ssS'working-year'
-p35
-(dp36
+p33
+(dp34
 V(0, 2]
-p37
-F0.003450565203671329
+p35
+I1
 sV(2, 5]
-p38
-F0.0014671658916801192
+p36
+I1
 ssS'major'
-p39
-(dp40
+p37
+(dp38
 S'computational science'
-p41
-F0.010826168006273633
+p39
+I1
 sS'data science'
-p42
-F0.0034785562846869266
+p40
+I1
 sS'statistic'
-p43
-F0.0016609643777466241
+p41
+I1
 sS'machine learning data mining'
-p44
-F0.0059752953624387338
+p42
+I1
 sS'design'
-p45
-F0.0012734928152089806
+p43
+I1
 sS'applied statistics'
-p46
-F0.0089466977713139259
+p44
+I1
 sS'data mining'
-p47
-F0.0082945285019908454
+p45
+I1
 sS'data science operations research'
-p48
-F0.011584044811538593
+p46
+I1
 sS'information'
-p49
-F0.0011747786594266132
+p47
+I1
 sS'big data'
-p50
-F0.004118105247065568
+p48
+I1
 sS'machine learning data science'
-p51
-F0.0086520668928001289
+p49
+I1
 sVapplied statistic
-p52
-F0.0068631004248701274
+p50
+I1
 sS'computer science'
-p53
-F0.0030908278409534995
+p51
+I1
 sS'communication'
-p54
-F0.0014655007348123713
+p52
+I1
 sS'mathematics'
-p55
-F0.015148495051604812
+p53
+I1
 sS'operations research'
-p56
-F0.0098987489867760382
+p54
+I1
 sS'systems engineering'
-p57
-F0.016933704307616388
+p55
+I1
 sS'biology'
-p58
-F0.016469961412383667
+p56
+I1
 sS'mathematics statistics'
-p59
-F0.0062235492442069646
+p57
+I1
 sS'information system'
-p60
-F0.005171530135469977
+p58
+I1
 sVmath course
-p61
-F0.013296735486535035
+p59
+I1
 sS'astronomy'
-p62
-F0.02659347097307007
+p60
+I1
 sVphysic
-p63
-F0.0085217166243789361
+p61
+I1
 sS'information systems'
-p64
-F0.0058845454728793586
+p62
+I1
 sS'software engineering'
-p65
-F0.010259323775358209
+p63
+I1
 sS'science'
-p66
-F0.032919325543352945
+p64
+I1
 sS'applied mathematics'
-p67
-F0.010593193055451549
+p65
+I1
 sS'machine learning'
-p68
-F0.0029627599906756779
+p66
+I1
 sS'computer information systems'
-p69
-F0.011405895323041473
+p67
+I1
 sS'artificial intelligence'
-p70
-F0.01248982106381771
+p68
+I1
 sS'applied math'
-p71
-F0.0046520801232188798
+p69
+I1
 sS'applied mathematics statistics'
-p72
-F0.010826168006273633
+p70
+I1
 sS'chemistry'
-p73
-F0.016347384156643698
+p71
+I1
 ssS'education'
-p74
-(dp75
+p72
+(dp73
 VBachelor
-p76
-F0.0006354302192750368
+p74
+I1
 sVMaster
-p77
-F0.0018029865026241237
+p75
+I1
 sVDoctor
-p78
-F0.0023788124437035371
+p76
+I1
 ssS'responsibility'
-p79
-(dp80
+p77
+(dp78
 S'development'
-p81
-F0.0017289262283112269
+p79
+I1
 sS'information'
-p82
-F0.0011747786594266132
+p80
+I1
 sS'product'
-p83
-F0.0010702162003846151
+p81
+I1
 sS'analysis'
-p84
-F0.0028110841122912455
+p82
+I1
 sS'analytic'
-p85
-F0.0027934250527222875
-sS'statistical method'
-p86
-F0.0046797695907570599
+p83
+I1
 sS'design'
-p87
-F0.0012734928152089806
+p84
+I1
 sS'data mining'
-p88
-F0.0082945285019908454
+p85
+I1
 ss.

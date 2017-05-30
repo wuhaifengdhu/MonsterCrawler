@@ -2,119 +2,107 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'training'
 p4
-aS'classification'
-p5
 aS'human resources'
-p6
-aS'analytics'
-p7
-aS'engineering'
-p8
-aS'management'
-p9
+p5
 aS'networking'
-p10
+p6
 aS'big data'
-p11
-aS'recruiting'
-p12
-aS'integration'
-p13
-aS'computer science'
-p14
-aS'innovation'
-p15
-aS'mathematics'
-p16
-aS'systems engineering'
-p17
-aS'data scientist'
-p18
-aS'c'
-aS'business analytics'
-p19
-aS'modeling'
-p20
-aS'data'
-p21
-aS'training'
-p22
-aS'software engineering'
-p23
+p7
+aS'classification'
+p8
 aS'science'
-p24
-aS'data analytics'
-p25
-asS'working-year'
-p26
-(lp27
-V[0]
-p28
-asS'major'
-p29
-(lp30
-S'general'
-p31
-aS'analytics'
-p32
-aS'engineering'
-p33
-aS'statistic'
-p34
-aS'information'
-p35
-aS'management'
-p36
-aS'big data'
-p37
-aS'electrical'
-p38
-aS'computer science'
-p39
-aS'mathematics'
-p40
-aS'systems engineering'
-p41
-aS'ece'
-p42
-aS'business'
-p43
+p9
+aS'innovation'
+p10
+aS'recruiting'
+p11
+aS'c'
+aS'integration'
+p12
 aS'business analytics'
-p44
+p13
+aS'analytics'
+p14
+aS'engineering'
+p15
+aS'management'
+p16
+aS'computer science'
+p17
+aS'mathematics'
+p18
+aS'modeling'
+p19
+aS'data'
+p20
+aS'data analytics'
+p21
+asS'working-year'
+p22
+(lp23
+V[0]
+p24
+asS'major'
+p25
+(lp26
+S'information'
+p27
+aS'ece'
+p28
+aS'management'
+p29
+aS'general'
+p30
+aS'business'
+p31
+aS'big data'
+p32
+aS'mathematics'
+p33
+aS'science'
+p34
+aS'statistic'
+p35
+aS'engineering'
+p36
+aS'information systems'
+p37
+aS'business analytics'
+p38
+aS'analytics'
+p39
+aS'computer engineering'
+p40
 aS'information system'
+p41
+aS'electrical'
+p42
+aS'computer science'
+p43
+aS'management information systems'
+p44
+aS'computer information systems'
 p45
 aS'electrical computer engineering'
 p46
-aS'information systems'
-p47
-aS'software engineering'
-p48
-aS'science'
-p49
-aS'computer engineering'
-p50
-aS'computer information systems'
-p51
-aS'management information systems'
-p52
 aS'data analytics'
-p53
+p47
 asS'education'
-p54
-(lp55
+p48
+(lp49
 VMaster
-p56
+p50
 aVDoctor
-p57
+p51
 asS'responsibility'
-p58
-(lp59
+p52
+(lp53
 S'development'
-p60
+p54
 aS'modeling'
-p61
+p55
 aS'information'
-p62
+p56
 as.

@@ -2,216 +2,213 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.00068779683729426697
-sS'communication'
+I1
+sS'data science'
 p5
-F0.0026266093572014024
-sS'data science'
-p6
-F0.0031172991830946493
+I1
 sS'testing'
-p7
-F0.0027962498878357166
+p6
+I1
 sS'trading'
-p8
-F0.023260581847477736
+p7
+I1
 sS'communication skills'
-p9
-F0.0049365828118128445
+p8
+I1
 sS'problem solving'
-p10
-F0.0031604930980247922
+p9
+I1
 sS'go'
-p11
-F0.0047007961795919482
+p10
+I1
 sS'visualization'
-p12
-F0.0055529459734284664
+p11
+I1
 sS'agile'
-p13
-F0.003196853619830773
+p12
+I1
 sS'excel'
-p14
-F0.0032648393778168293
+p13
+I1
 sS'tableau'
-p15
-F0.0066614359173698947
+p14
+I1
 sS'perl'
-p16
-F0.0049496175413701847
+p15
+I1
 sS'risk management'
+p16
+I1
+sS'computer science'
 p17
-F0.0052576184299114688
-sS'computer science'
-p18
-F0.0027698373449080772
+I1
 sS'microsoft excel'
+p18
+I1
+sS'data analysis'
 p19
-F0.0075562378102710494
-sS'data analysis'
-p20
-F0.0046717215699355009
+I1
 sS'business analysis'
-p21
-F0.012884784071589652
+p20
+I1
 sS'python'
-p22
-F0.0024338883194317692
+p21
+I1
 sS'customer service'
-p23
-F0.005878801262644593
+p22
+I1
 sS'data scientist'
-p24
-F0.00030999546828606631
+p23
+I1
 sS'training'
-p25
-F0.0030039382100984389
+p24
+I1
 sS'business process'
-p26
-F0.0044305630066650108
+p25
+I1
 sS'sql'
+p26
+I1
+sS'informatics'
 p27
-F0.0031642575428767685
-sS'informatics'
-p28
-F0.0072980320335208713
+I1
 sS'data'
+p28
+I1
+sS'project management'
 p29
-F0.0051766384091069652
-sS'project management'
-p30
-F0.0077726252753790911
+I1
 sS'software development'
-p31
-F0.003690197964276803
+p30
+I1
 sS'vba'
-p32
-F0.0080175599793181739
+p31
+I1
 sS'data visualization'
-p33
-F0.0028664253679799349
+p32
+I1
 sS'solver'
-p34
-F0.0064265150835333329
+p33
+I1
 sS'proprietary trading'
+p34
+I1
+sS'economics'
 p35
-F0.01307688485584395
-sS'economics'
-p36
-F0.0041164151614493053
+I1
 sS'programming'
+p36
+I1
+sS'analysis'
 p37
-F0.0034818602026859677
-sS'analysis'
+I1
+sS'machine learning'
 p38
-F0.0033588609716936157
-sS'machine learning'
-p39
-F0.0026550696733860764
+I1
 sS'r'
-F0.0013350732794054306
+I1
 sS'organization'
-p40
-F0.0035894887896653219
+p39
+I1
 sS'microsoft office'
+p40
+I1
+sS'data analytics'
 p41
-F0.0057473621101958496
-sS'data analytics'
-p42
-F0.0051240657105085527
+I1
 sS'statistical analysis'
-p43
-F0.0030686413625141914
+p42
+I1
 ssS'working-year'
-p44
-(dp45
+p43
+(dp44
 V[0]
-p46
-F0.0023888952635886854
+p45
+I1
 ssS'major'
-p47
-(dp48
+p46
+(dp47
 S'business analysis'
-p49
-F0.012884784071589652
+p48
+I1
 sS'business'
-p50
-F0.0046186590819721545
+p49
+I1
 sS'communication'
-p51
-F0.0026266093572014024
+p50
+I1
 sS'data science'
-p52
-F0.0031172991830946493
+p51
+I1
 sS'economics'
-p53
-F0.0041164151614493053
+p52
+I1
 sS'data analyst'
-p54
-F0.0046182702209422817
+p53
+I1
 sS'machine learning'
+p54
+I1
+sS'design'
 p55
-F0.0026550696733860764
-sS'design'
-p56
-F0.0011412372799611467
+I1
 sS'data analytics'
-p57
-F0.0051240657105085527
+p56
+I1
 sS'statistic'
-p58
-F0.0014884689147310617
+p57
+I1
 sS'informatics'
-p59
-F0.0072980320335208713
+p58
+I1
 sS'computer science mathematics'
-p60
-F0.005502761659448378
+p59
+I1
 sS'ee computer science'
-p61
-F0.0037853861915042942
+p60
+I1
 sS'project management'
-p62
-F0.0077726252753790911
+p61
+I1
 sS'computer science'
-p63
-F0.0027698373449080772
+p62
+I1
 ssS'education'
-p64
-(dp65
+p63
+(dp64
 VBachelor
-p66
-F0.00056943914122637308
+p65
+I1
 sVMaster
-p67
-F0.001615741673205873
+p66
+I1
 ssS'responsibility'
-p68
-(dp69
+p67
+(dp68
 S'development'
-p70
-F0.0023240591259962471
+p69
+I1
 sS'design'
-p71
-F0.0011412372799611467
+p70
+I1
 sS'data analysis'
-p72
-F0.0046717215699355009
+p71
+I1
 sS'pattern'
-p73
-F0.0030412027784051873
+p72
+I1
 sS'analysis'
-p74
-F0.0033588609716936157
+p73
+I1
 sS'understand'
-p75
-F0.0022462591986199434
+p74
+I1
 sS'report'
-p76
-F0.0021366380849823941
+p75
+I1
 sS'analytical method'
-p77
-F0.0066820871702575951
+p76
+I1
 ss.

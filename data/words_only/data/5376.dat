@@ -2,67 +2,64 @@
 S'skills'
 p2
 (dp3
-S'training'
+S'search'
 p4
-F0.030655574554337917
+I1
 sS'credit risk'
 p5
-F0.037945434380988019
-sS'r d'
-p6
-F0.0035095274518348496
+I1
 sS'science'
+p6
+I1
+sS'data science'
 p7
-F0.012544044989810418
-sS'data science'
+I1
+sS'marketing analytics'
 p8
-F0.015906218908611162
-sS'marketing analytics'
-p9
-F0.062359706171775935
+I1
 sS'data scientist'
+p9
+I1
+sS'training'
 p10
-F0.0015817717484340307
-sS'search'
-p11
-F0.021549073766468314
+I1
 sS'direct marketing'
-p12
-F0.039386638494889964
+p11
+I1
 sS'insurance'
-p13
-F0.021592456212168126
+p12
+I1
 ssS'working-year'
-p14
-(dp15
+p13
+(dp14
 V[0]
-p16
-F0.012189491216773036
+p15
+I1
 ssS'major'
-p17
-(dp18
+p16
+(dp17
 S'science'
-p19
-F0.012544044989810418
+p18
+I1
 sS'data science'
-p20
-F0.015906218908611162
+p19
+I1
 sS'marketing analytics'
-p21
-F0.062359706171775935
+p20
+I1
 sS'data analyst'
-p22
-F0.023565019845320872
+p21
+I1
 sS'business'
-p23
-F0.0067334297239007978
+p22
+I1
 ssS'education'
-p24
-(dp25
+p23
+(dp24
 S'Bachelor'
-p26
-F0.0029055997206166215
+p25
+I1
 ssS'responsibility'
-p27
-(dp28
+p26
+(dp27
 s.

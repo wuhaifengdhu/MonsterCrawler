@@ -4,140 +4,131 @@ p2
 (dp3
 S'teradata'
 p4
-F0.0112129212581432
+I1
 sS'data analysis'
 p5
-F0.0089105999273210671
+I1
 sS'theory'
 p6
-F0.0093911127778099519
+I1
 sS'probability'
 p7
-F0.010962221021683458
+I1
 sS'communication'
 p8
-F0.0025049293710051714
+I1
 sS'sql'
 p9
-F0.003017670532104522
-sS'r d'
-p10
-F0.0013118680890245283
+I1
 sS'communication skills'
+p10
+I1
+sS'analytics'
 p11
-F0.00941578255160469
-sS'analytics'
+I1
+sS'engineering'
 p12
-F0.0032443419928981057
-sS'engineering'
-p13
-F0.0099892678330432798
-sS'statistical analysis'
-p14
-F0.0058529677106101347
-sS'statistical modeling'
-p15
-F0.007472639443154027
-sS'healthcare'
-p16
-F0.0068224104738201898
-sS'modeling'
-p17
-F0.0030851922616681967
-sS'analysis'
-p18
-F0.0016016293930519877
-sS'data'
-p19
-F0.0016456086955467827
-sS'project management'
-p20
-F0.014825103161026571
+I1
 sS'statistical tools'
-p21
-F0.01792229692312073
-ssS'working-year'
-p22
-(dp23
-V(5, 10]
-p24
-F0.0038616276560043397
-sV(0, 2]
-p25
-F0.0058979309391826223
-sV(2, 5]
-p26
-F0.0025077755656513216
-ssS'major'
-p27
-(dp28
-S'business'
-p29
-F0.0050339378766542696
-sS'communication'
-p30
-F0.0025049293710051714
-sS'general'
-p31
-F0.0074059443932120968
-sS'analytics'
-p32
-F0.0032443419928981057
-sS'engineering'
-p33
-F0.0099892678330432798
-sS'design'
-p34
-F0.0021767369205648712
-sVphysic
-p35
-F0.021848810195092959
-sS'project management'
-p36
-F0.014825103161026571
-ssS'education'
-p37
-(dp38
-VBachelor
-p39
-F0.0010861187454062132
-sVMaster
-p40
-F0.0030817820412265369
-ssS'responsibility'
-p41
-(dp42
-S'product'
-p43
-F0.0018292832818075689
-sS'data analysis'
-p44
-F0.0089105999273210671
-sS'business problem'
-p45
-F0.0059061745166268569
-sS'pattern'
-p46
-F0.00580063277542459
-sS'collect data'
-p47
-F0.014472095534464484
-sS'statistical model'
-p48
-F0.0059435362064691397
-sS'design'
-p49
-F0.0021767369205648712
-sS'construct'
-p50
-F0.014472095534464484
+p13
+I1
+sS'statistical modeling'
+p14
+I1
+sS'healthcare'
+p15
+I1
 sS'modeling'
-p51
-F0.0030851922616681967
-sS'model'
-p52
-F0.002353528984406288
+p16
+I1
 sS'analysis'
-p53
-F0.0016016293930519877
+p17
+I1
+sS'data'
+p18
+I1
+sS'statistical analysis'
+p19
+I1
+ssS'working-year'
+p20
+(dp21
+V(5, 10]
+p22
+I1
+sV(0, 2]
+p23
+I1
+sV(2, 5]
+p24
+I1
+ssS'major'
+p25
+(dp26
+S'business'
+p27
+I1
+sS'communication'
+p28
+I1
+sS'general'
+p29
+I1
+sS'analytics'
+p30
+I1
+sS'engineering'
+p31
+I1
+sS'design'
+p32
+I1
+sVphysic
+p33
+I1
+ssS'education'
+p34
+(dp35
+VBachelor
+p36
+I1
+sVMaster
+p37
+I1
+ssS'responsibility'
+p38
+(dp39
+S'product'
+p40
+I1
+sS'data analysis'
+p41
+I1
+sS'business problem'
+p42
+I1
+sS'pattern'
+p43
+I1
+sS'collect data'
+p44
+I1
+sS'statistical model'
+p45
+I1
+sS'design'
+p46
+I1
+sS'construct'
+p47
+I1
+sS'modeling'
+p48
+I1
+sS'model'
+p49
+I1
+sS'analysis'
+p50
+I1
 ss.

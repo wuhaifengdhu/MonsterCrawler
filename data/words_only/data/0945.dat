@@ -4,140 +4,137 @@ p2
 (dp3
 S'consulting'
 p4
-F0.064820939139955389
-sS'communication'
-p5
-F0.001640257098587068
-sS'data science'
-p6
-F0.0038933632056642373
-sS'presentation skills'
-p7
-F0.0089861256168137279
-sS'business intelligence'
-p8
-F0.0048712215213112019
-sS'pricing'
-p9
-F0.014226836700600534
-sS'education'
-p10
-F0.0031114168621844706
+I1
 sS'management'
+p5
+I1
+sS'new business development'
+p6
+I1
+sS'organization'
+p7
+I1
+sS'communication'
+p8
+I1
+sS'data science'
+p9
+I1
+sS'business strategy'
+p10
+I1
+sS'presentation skills'
 p11
-F0.0035637406238879727
+I1
 sS'hadoop'
 p12
-F0.0024891238537626697
-sS'intelligence'
-p13
-F0.0039955943335194472
-sS'advanced analytics'
-p14
-F0.0091263256572956669
-sS'go-to-market strategy'
-p15
-F0.026371649733776432
-sS'teradata'
-p16
-F0.029369408818400181
-sS'leadership'
-p17
-F0.003188110549728394
-sS'business development'
-p18
-F0.0079299987760265145
-sS'data'
-p19
-F0.00053878192647086086
-sS'customer relations'
-p20
-F0.009081960189330527
-sS'business strategy'
-p21
-F0.0071262133786797735
+I1
 sS'data architecture'
-p22
-F0.0069895965158394075
-sS'new business development'
-p23
-F0.012261490693274363
-sS'architecture'
-p24
-F0.0037543392254111873
-sS'organization'
-p25
-F0.0067246594375424597
-ssS'working-year'
-p26
-(dp27
-V(5, 10]
-p28
-F0.0025286390299777369
-sV(2, 5]
-p29
-F0.0016421208201859072
-ssS'major'
-p30
-(dp31
-S'management'
-p32
-F0.0035637406238879727
-sS'business'
-p33
-F0.014009196360709924
-sS'analytics / data science'
-p34
-F0.016332427319955725
-sS'communication'
-p35
-F0.001640257098587068
-sS'data science'
-p36
-F0.0038933632056642373
-sS'mba'
-p37
-F0.0077844095204472651
-sS'design'
-p38
-F0.0014253528371062857
+p13
+I1
+sS'business intelligence'
+p14
+I1
+sS'leadership'
+p15
+I1
+sS'pricing'
+p16
+I1
+sS'intelligence'
+p17
+I1
 sS'advanced analytics'
-p39
-F0.0091263256572956669
-sS'history'
-p40
-F0.0052119595218446347
-ssS'education'
-p41
-(dp42
-S'Bachelor'
-p43
-F0.00071120327889570014
-ssS'responsibility'
-p44
-(dp45
-S'development'
-p46
-F0.00096754762776831208
-sS'business problem'
-p47
-F0.0038674322671636112
-sS'analytic'
-p48
-F0.0093795966728436632
-sS'design'
-p49
-F0.0014253528371062857
+p18
+I1
+sS'business development'
+p19
+I1
+sS'architecture'
+p20
+I1
+sS'education'
+p21
+I1
+sS'data'
+p22
+I1
+sS'teradata'
+p23
+I1
 sS'go-to-market strategy'
-p50
-F0.026371649733776432
+p24
+I1
+ssS'working-year'
+p25
+(dp26
+V(5, 10]
+p27
+I1
+sV(2, 5]
+p28
+I1
+ssS'major'
+p29
+(dp30
+S'management'
+p31
+I1
+sS'business'
+p32
+I1
+sS'analytics / data science'
+p33
+I1
+sS'communication'
+p34
+I1
+sS'data science'
+p35
+I1
+sS'mba'
+p36
+I1
+sS'design'
+p37
+I1
+sS'advanced analytics'
+p38
+I1
+sS'history'
+p39
+I1
+ssS'education'
+p40
+(dp41
+S'Bachelor'
+p42
+I1
+ssS'responsibility'
+p43
+(dp44
+S'development'
+p45
+I1
+sS'business problem'
+p46
+I1
+sS'analytic'
+p47
+I1
+sS'design'
+p48
+I1
+sS'go-to-market strategy'
+p49
+I1
 sS'report'
-p51
-F0.0026685626291516511
+p50
+I1
 sS'presentation'
-p52
-F0.003540368623734488
+p51
+I1
 sS'transformation'
-p53
-F0.0050727813852596369
+p52
+I1
 ss.

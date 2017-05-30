@@ -4,152 +4,149 @@ p2
 (dp3
 S'qualitative research'
 p4
-F0.03856520351617819
-sS'r d'
+I1
+sS'communication'
 p5
-F0.0029754689265556332
-sS'communication'
+I1
+sS'analysis'
 p6
-F0.005681470240033468
-sS'analysis'
+I1
+sS'data mining'
 p7
-F0.0036326811596034216
-sS'data mining'
+I1
+sS'big data'
 p8
-F0.032156324264964509
-sS'big data'
-p9
-F0.015965118167971585
-sS'predictive analytics'
-p10
-F0.036949023262619368
+I1
 sS'research'
+p9
+I1
+sS'computer science'
+p10
+I1
+sS'mathematics'
 p11
-F0.0069091188056736273
-sS'computer science'
-p12
-F0.011982557209493639
-sS'mathematics'
-p13
-F0.011745572250157356
+I1
 sS'data scientist'
-p14
-F0.0013410673519331999
+p12
+I1
 sS'multivariate testing'
-p15
-F0.036041256706814247
+p13
+I1
 sS'statistical modeling'
-p16
-F0.016948812650052252
+p14
+I1
 sS'data'
-p17
-F0.0037324313167111812
+p15
+I1
 sS'quantitative analytics'
-p18
-F0.03856520351617819
-sS'programming'
-p19
-F0.0075314150036359514
-sS'security clearance'
-p20
-F0.021526588517195629
-sS'machine learning'
-p21
-F0.011486062282691939
-sS'optimization algorithms'
-p22
-F0.040258057384960487
-sS'optimization'
-p23
-F0.013950123632619625
-sS'security'
-p24
-F0.011561587612113502
-sS'validation'
-p25
-F0.018362171298851131
+p16
+I1
 sS'statistical analysis'
-p26
-F0.01327520937261574
-ssS'working-year'
-p27
-(dp28
-V(2, 5]
-p29
-F0.0056879257394845196
-ssS'major'
-p30
-(dp31
-S'information'
-p32
-F0.009108791054974464
-sS'business'
-p33
-F0.0028543886873057729
-sS'big data'
-p34
-F0.015965118167971585
-sS'communication'
-p35
-F0.005681470240033468
-sS'data mining'
-p36
-F0.032156324264964509
+p17
+I1
+sS'programming'
+p18
+I1
+sS'security clearance'
+p19
+I1
 sS'machine learning'
-p37
-F0.011486062282691939
-sS'design'
-p38
-F0.0049370917111362655
-sS'computer science'
-p39
-F0.011982557209493639
-sS'statistic'
-p40
-F0.0064392459572061144
-sS'mathematics'
-p41
-F0.011745572250157356
-sS'predictive analytics'
-p42
-F0.036949023262619368
-ssS'education'
-p43
-(dp44
-VBachelor
-p45
-F0.0024634432413923528
-ssS'responsibility'
-p46
-(dp47
-S'information'
-p48
-F0.009108791054974464
-sS'product'
-p49
-F0.0041490265739548482
-sS'business problem'
-p50
-F0.013395888577566713
-sS'pattern'
-p51
-F0.013156507671796354
-sS'analysis'
-p52
-F0.0036326811596034216
-sS'statistical model'
-p53
-F0.013480629221919137
+p20
+I1
+sS'optimization algorithms'
+p21
+I1
 sS'optimization'
-p54
-F0.013950123632619625
-sS'design'
-p55
-F0.0049370917111362655
+p22
+I1
+sS'security'
+p23
+I1
+sS'validation'
+p24
+I1
+sS'predictive analytics'
+p25
+I1
+ssS'working-year'
+p26
+(dp27
+V(2, 5]
+p28
+I1
+ssS'major'
+p29
+(dp30
+S'information'
+p31
+I1
+sS'business'
+p32
+I1
+sS'big data'
+p33
+I1
+sS'communication'
+p34
+I1
 sS'data mining'
-p56
-F0.032156324264964509
+p35
+I1
+sS'machine learning'
+p36
+I1
+sS'design'
+p37
+I1
+sS'computer science'
+p38
+I1
+sS'statistic'
+p39
+I1
+sS'mathematics'
+p40
+I1
+sS'predictive analytics'
+p41
+I1
+ssS'education'
+p42
+(dp43
+VBachelor
+p44
+I1
+ssS'responsibility'
+p45
+(dp46
+S'information'
+p47
+I1
+sS'product'
+p48
+I1
+sS'business problem'
+p49
+I1
+sS'pattern'
+p50
+I1
+sS'analysis'
+p51
+I1
+sS'statistical model'
+p52
+I1
+sS'optimization'
+p53
+I1
+sS'design'
+p54
+I1
+sS'data mining'
+p55
+I1
 sS'implement'
-p57
-F0.0096446469128413162
+p56
+I1
 ss.

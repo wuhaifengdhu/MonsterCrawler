@@ -4,176 +4,173 @@ p2
 (dp3
 S'cognos'
 p4
-F0.027634959926257131
-sS'r d'
-p5
-F0.0012257155578050071
+I1
 sS'nosql'
-p6
-F0.0070199222413397482
+p5
+I1
 sS'hadoop'
+p6
+I1
+sS'analytics'
 p7
-F0.0035516453793986752
-sS'analytics'
-p8
-F0.0060625614553857137
+I1
 sS'problem solving'
-p9
-F0.0056322817299128388
+p8
+I1
 sS'visualization'
+p9
+I1
+sS'management'
 p10
-F0.014843770505090125
-sS'management'
+I1
+sS'big data'
 p11
-F0.0025424895794305242
-sS'big data'
-p12
-F0.0065766755438211311
-sS'credit'
-p13
-F0.0080537194023859865
-sS'agile'
-p14
-F0.005697079435937228
-sS'tableau'
-p15
-F0.011871275351253216
-sS'quality assurance'
-p16
-F0.010396411694248243
-sS'risk analytics'
-p17
-F0.0167453102595128
-sS'unstructured data'
-p18
-F0.0071703381656191721
-sS'data management'
-p19
-F0.0069756085576322558
-sS'architecture'
-p20
-F0.005356937760437456
-sS'data analysis'
-p21
-F0.0083254262007507289
-sS'hdfs'
-p22
-F0.010205001265453864
-sS'customer service'
-p23
-F0.010476550309847231
-sS'scrum'
-p24
-F0.010416245542803763
-sS'data scientist'
-p25
-F0.00055243968527397488
-sS'business analytics'
-p26
-F0.018306696238846315
-sS'data wrangling'
-p27
-F0.028154425974985773
-sS'modeling'
-p28
-F0.0057651652412068393
-sS'cloudera'
-p29
-F0.012525364164820679
-sS'data visualization'
-p30
-F0.0051082267005493169
-sS'analysis'
-p31
-F0.0059857910450778762
-sS'data architecture'
-p32
-F0.0099732153270783198
+I1
 sS'banking'
-p33
-F0.017735338599241771
-sS'dashboard'
-p34
-F0.016876316239807881
-ssS'working-year'
-p35
-(dp36
-V[0]
-p37
-F0.0042572252906341642
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-F0.0018761390531141433
-sS'management'
-p41
-F0.0025424895794305242
-sS'business'
-p42
-F0.0094067018232405174
-sS'big data'
-p43
-F0.0065766755438211311
-sS'business analytics'
-p44
-F0.018306696238846315
-sS'analytics'
-p45
-F0.0060625614553857137
-sS'design'
-p46
-F0.004067574066488386
-sS'data management analysis'
-p47
-F0.018814400854843486
-ssS'education'
-p48
-(dp49
-S'Bachelor'
-p50
-F0.0010147915442153574
-ssS'responsibility'
-p51
-(dp52
-S'development'
-p53
-F0.0027611209914821088
-sS'information'
-p54
-F0.0018761390531141433
+p12
+I1
+sS'agile'
+p13
+I1
+sS'tableau'
+p14
+I1
+sS'quality assurance'
+p15
+I1
+sS'risk analytics'
+p16
+I1
+sS'unstructured data'
+p17
+I1
+sS'data management'
+p18
+I1
+sS'architecture'
+p19
+I1
 sS'data analysis'
-p55
-F0.0083254262007507289
-sVinsight
-p56
-F0.0093229368311198331
-sS'analysis'
-p57
-F0.0059857910450778762
-sS'data gathering'
-p58
-F0.011875454249452553
-sS'design'
-p59
-F0.004067574066488386
+p20
+I1
+sS'hdfs'
+p21
+I1
+sS'customer service'
+p22
+I1
+sS'scrum'
+p23
+I1
+sS'data scientist'
+p24
+I1
+sS'business analytics'
+p25
+I1
 sS'data wrangling'
-p60
-F0.028154425974985773
-sS'report'
-p61
-F0.011423041224487965
+p26
+I1
 sS'modeling'
-p62
-F0.0057651652412068393
+p27
+I1
+sS'cloudera'
+p28
+I1
+sS'data visualization'
+p29
+I1
+sS'analysis'
+p30
+I1
+sS'data architecture'
+p31
+I1
+sS'credit'
+p32
+I1
+sS'dashboard'
+p33
+I1
+ssS'working-year'
+p34
+(dp35
+V[0]
+p36
+I1
+ssS'major'
+p37
+(dp38
+S'information'
+p39
+I1
+sS'management'
+p40
+I1
+sS'business'
+p41
+I1
+sS'big data'
+p42
+I1
+sS'business analytics'
+p43
+I1
+sS'analytics'
+p44
+I1
+sS'design'
+p45
+I1
+sS'data management analysis'
+p46
+I1
+ssS'education'
+p47
+(dp48
+S'Bachelor'
+p49
+I1
+ssS'responsibility'
+p50
+(dp51
+S'development'
+p52
+I1
+sS'information'
+p53
+I1
+sS'data analysis'
+p54
+I1
+sVinsight
+p55
+I1
+sS'analysis'
+p56
+I1
+sS'data gathering'
+p57
+I1
+sS'design'
+p58
+I1
+sS'data wrangling'
+p59
+I1
+sS'report'
+p60
+I1
+sS'modeling'
+p61
+I1
 sS'model'
-p63
-F0.0021989688719975171
+p62
+I1
 sS'presentation'
-p64
-F0.005051630454164434
+p63
+I1
 sS'implement'
-p65
-F0.00397301872827493
+p64
+I1
 ss.

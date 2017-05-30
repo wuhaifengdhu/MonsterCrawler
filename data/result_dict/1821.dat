@@ -2,91 +2,89 @@
 S'skills'
 p2
 (lp3
-S'logistics'
+S'programming'
 p4
-aS'r d'
+aS'logistics'
 p5
-aS'r programming'
-p6
-aS'analytics'
-p7
 aS'education'
-p8
-aS'regression'
-p9
-aS'linear regression'
-p10
+p6
 aS'agile'
-p11
+p7
 aS'recruiting'
-p12
-aS'insurance'
-p13
-aS'computer science'
-p14
-aS'policy'
-p15
+p8
+aS'r programming'
+p9
+aS'etl'
+p10
 aS'data scientist'
-p16
-aS'performance tuning'
-p17
-aS'data'
-p18
-aS'science'
-p19
-aS'programming'
-p20
+p11
 aS'machine learning'
-p21
+p12
+aS'regression'
+p13
+aS'analytics'
+p14
 aS'r'
+aS'computer science'
+p15
+aS'performance tuning'
+p16
+aS'policy'
+p17
+aS'security'
+p18
+aS'linear regression'
+p19
+aS'data'
+p20
+aS'insurance'
+p21
 aS'microsoft azure'
 p22
-aS'security'
-p23
-aS'etl'
-p24
-asS'working-year'
-p25
-(lp26
-V(2, 5]
-p27
-asS'major'
-p28
-(lp29
-S'information'
-p30
-aS'business'
-p31
 aS'science'
-p32
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+S'information'
+p29
+aS'business'
+p30
+aS'science'
+p31
 aS'machine learning'
-p33
+p32
 aS'analytics'
-p34
+p33
 aS'computer science'
-p35
+p34
 aS'ee computer science'
-p36
+p35
 asS'education'
-p37
-(lp38
+p36
+(lp37
 VBachelor
-p39
+p38
 aVMaster
-p40
+p39
 asS'responsibility'
-p41
-(lp42
+p40
+(lp41
 S'development'
-p43
+p42
 aS'information'
-p44
+p43
 aS'mine data'
-p45
+p44
 aS'product'
-p46
+p45
 aS'model'
-p47
+p46
 aS'implement'
-p48
+p47
 as.

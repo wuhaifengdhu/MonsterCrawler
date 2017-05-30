@@ -2,133 +2,127 @@
 S'skills'
 p2
 (dp3
-S'nlp'
+S'debugging'
 p4
-F0.026778438333458127
-sS'r d'
+I1
+sS'nlp'
 p5
-F0.0011867477221522466
-sS'debugging'
+I1
+sS'life sciences'
 p6
-F0.011435755419813705
-sS'proteomics'
+I1
+sS'software engineering'
 p7
-F0.017911745590095802
-sS'data science'
-p8
-F0.005378692521119958
-sS'data acquisition'
-p9
-F0.011405171876820499
-sS'genomics'
-p10
-F0.013833766785124131
+I1
 sS'big data'
+p8
+I1
+sS'genomics'
+p9
+I1
+sS'cancer research'
+p10
+I1
+sS'proteomics'
 p11
-F0.0063675904831794186
-sS'agile'
+I1
+sS'data science'
 p12
-F0.011031916826814862
-sS'integration'
+I1
+sS'data acquisition'
 p13
-F0.0055679552933853727
-sS'research'
+I1
+sS'integration'
 p14
-F0.0082669803050545703
+I1
 sS'big data analytics'
 p15
-F0.019052470371794351
-sS'operating systems'
-p16
-F0.013318603190468572
-sS'product development'
-p17
-F0.0059793129785581205
-sS'cancer research'
-p18
-F0.015263515301069709
-sS'collaboration'
-p19
-F0.0052365771176472306
+I1
 sS'mentoring'
-p20
-F0.0080915152934142621
-sS'software development'
-p21
-F0.0063671912851828065
-sS'life sciences'
-p22
-F0.029100101967872445
-sS'software engineering'
-p23
-F0.015863405259585669
+p16
+I1
+sS'data analytics'
+p17
+I1
+sS'agile'
+p18
+I1
 sS'oracle'
-p24
-F0.015207064400398349
+p19
+I1
 sS'organization'
-p25
-F0.0030967121494656028
-sS'data analytics'
-p26
-F0.0088412347663977056
+p20
+I1
+sS'research'
+p21
+I1
+sS'collaboration'
+p22
+I1
+sS'operating systems'
+p23
+I1
+sS'software development'
+p24
+I1
 ssS'working-year'
-p27
-(dp28
+p25
+(dp26
 V(5, 10]
-p29
-F0.0034933221281195329
+p27
+I1
 ssS'major'
-p30
-(dp31
+p28
+(dp29
 S'life sciences'
-p32
-F0.029100101967872445
+p30
+I1
 sS'business'
-p33
-F0.0011384556036075047
+p31
+I1
 sS'big data'
-p34
-F0.0063675904831794186
+p32
+I1
 sS'data science'
-p35
-F0.005378692521119958
+p33
+I1
 sS'big data analytics'
-p36
-F0.019052470371794351
+p34
+I1
 sS'design'
-p37
-F0.0039382581279584078
+p35
+I1
 sS'software engineering'
-p38
-F0.015863405259585669
+p36
+I1
 sS'data analytics'
-p39
-F0.0088412347663977056
+p37
+I1
 ssS'education'
-p40
-(dp41
+p38
+(dp39
 S'Bachelor'
-p42
-F0.00098252938529521587
+p40
+I1
 ssS'responsibility'
-p43
-(dp44
+p41
+(dp42
 S'development'
-p45
-F0.0013366698441423502
+p43
+I1
 sS'product'
-p46
-F0.0016548140670686966
+p44
+I1
 sS'communicate'
-p47
-F0.0035690988817749362
+p45
+I1
 sS'design'
-p48
-F0.0039382581279584078
+p46
+I1
 sS'model'
-p49
-F0.0021290594569918155
+p47
+I1
 sS'extract'
-p50
-F0.006827786634342684
+p48
+I1
 ss.

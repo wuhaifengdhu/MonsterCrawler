@@ -4,217 +4,214 @@ p2
 (dp3
 S'reporting analysis'
 p4
-F0.015301364480833742
-sS'r d'
-p5
-F0.0012557024827665973
+I1
 sS'regression analysis'
+p5
+I1
+sS'communication'
 p6
-F0.013275770551987745
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0023976846884544911
-sS'data science'
-p8
-F0.0056912159397783041
+I1
 sS'integration'
+p8
+I1
+sS'analytics'
 p9
-F0.0058914756315331463
-sS'analytics'
-p10
-F0.0062108810016948445
+I1
 sS'data governance'
-p11
-F0.011483603369132253
+p10
+I1
 sS'problem solving'
+p11
+I1
+sS'data mining'
 p12
-F0.0057700745551094836
-sS'data mining'
-p13
-F0.013570558864113463
+I1
 sS'regression'
-p14
-F0.0073252139007786918
+p13
+I1
 sS'visualization'
+p14
+I1
+sS'management'
 p15
-F0.015206920853838507
-sS'management'
-p16
-F0.00260469115935543
+I1
 sS'predictive modeling'
-p17
-F0.0066157071836387329
+p16
+I1
 sS'excel'
-p18
-F0.0059605783136288896
+p17
+I1
 sS'tableau'
-p19
-F0.0060808520530119684
+p18
+I1
 sS'governance'
-p20
-F0.0093112340227809818
+p19
+I1
 sS'access'
+p20
+I1
+sS'computer science'
 p21
-F0.0055753061301951432
-sS'computer science'
+I1
+sS'advanced analytics'
 p22
-F0.0050568590058413521
-sS'advanced analytics'
-p23
-F0.013340622826260947
+I1
 sS'unstructured data'
+p23
+I1
+sS'data analysis'
 p24
-F0.0073457592828208643
-sS'data analysis'
-p25
-F0.0085291063524510526
+I1
 sS'python'
-p26
-F0.0022217604383803764
+p25
+I1
 sS'data scientist'
-p27
-F0.00056595502925621283
+p26
+I1
 sS'data quality'
+p27
+I1
+sS'modeling'
 p28
-F0.0090245358875551216
-sS'modeling'
-p29
-F0.0088593135587352809
+I1
 sS'statistical programming'
-p30
-F0.012267366270698308
+p29
+I1
 sS'word'
-p31
-F0.009170760453211314
+p30
+I1
 sS'data visualization'
-p32
-F0.0052331986075963947
+p31
+I1
 sS'sql server'
-p33
-F0.0099968699137567077
+p32
+I1
 sS'programming'
+p33
+I1
+sS'analysis'
 p34
-F0.0031783953226353556
-sS'analysis'
-p35
-F0.0015330581040528201
+I1
 sS'spss'
-p36
-F0.0074364199837189966
+p35
+I1
 sS'r'
-F0.0024374273633181714
+I1
 sS'dashboard'
-p37
-F0.0086445962390453209
+p36
+I1
 sS'organization'
-p38
-F0.0032766434364376105
+p37
+I1
 sS'microsoft office'
-p39
-F0.010492890458063982
+p38
+I1
 sS'powerpoint'
+p39
+I1
+sS'data analytics'
 p40
-F0.0086762848527917966
-sS'data analytics'
-p41
-F0.0093549456549651567
+I1
 ssS'working-year'
-p42
-(dp43
+p41
+(dp42
 V(0, 2]
-p44
-F0.0056454201344469752
+p43
+I1
 ssS'major'
-p45
-(dp46
+p44
+(dp45
 S'information'
-p47
-F0.0019220384794900246
+p46
+I1
 sS'management'
-p48
-F0.00260469115935543
+p47
+I1
 sS'communication'
-p49
-F0.0023976846884544911
+p48
+I1
 sS'data science'
-p50
-F0.0056912159397783041
+p49
+I1
 sS'data science analytics'
-p51
-F0.011253182555196136
+p50
+I1
 sS'analytics'
-p52
-F0.0062108810016948445
+p51
+I1
 sS'computer science data science'
-p53
-F0.014637563631966208
+p52
+I1
 sS'information system'
+p53
+I1
+sS'design'
 p54
-F0.0084610661237811535
-sS'design'
-p55
-F0.0020835432909382407
+I1
 sS'computer science'
+p55
+I1
+sS'data mining'
 p56
-F0.0050568590058413521
-sS'data mining'
-p57
-F0.013570558864113463
+I1
 sS'advanced analytics'
-p58
-F0.013340622826260947
+p57
+I1
 sS'ee computer science'
-p59
-F0.0069109344230216018
+p58
+I1
 sS'data analytics'
-p60
-F0.0093549456549651567
+p59
+I1
 ssS'education'
-p61
-(dp62
+p60
+(dp61
 VBachelor
-p63
-F0.001039618248660993
+p62
+I1
 ssS'responsibility'
-p64
-(dp65
+p63
+(dp64
 S'information'
-p66
-F0.0019220384794900246
+p65
+I1
 sS'product'
-p67
-F0.0017509653431369086
+p66
+I1
 sS'data analysis'
-p68
-F0.0085291063524510526
+p67
+I1
 sVinsight
-p69
-F0.0063673472750767459
+p68
+I1
 sS'communicate'
-p70
-F0.0037764777158841834
+p69
+I1
 sS'analysis'
-p71
-F0.0015330581040528201
+p70
+I1
 sS'design'
-p72
-F0.0020835432909382407
+p71
+I1
 sS'data mining'
-p73
-F0.013570558864113463
+p72
+I1
 sS'report'
-p74
-F0.0039008346689128112
+p73
+I1
 sS'understand'
-p75
-F0.0041009686286731083
+p74
+I1
 sS'modeling'
-p76
-F0.0088593135587352809
+p75
+I1
 sS'presentation'
-p77
-F0.010350435487125904
+p76
+I1
 sS'data gathering'
-p78
-F0.012165985240264849
+p77
+I1
 ss.

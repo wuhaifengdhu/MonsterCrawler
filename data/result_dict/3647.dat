@@ -2,17 +2,17 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'training'
 p4
-aS'communication'
+aS'project management'
 p5
-aS'account management'
+aS'finance'
 p6
-aS'insurance'
+aS'data scientist'
 p7
-aS'management'
-p8
 aS'recruiting'
+p8
+aS'analysis'
 p9
 aS'strategy'
 p10
@@ -20,68 +20,64 @@ aS'access'
 p11
 aS'policy'
 p12
-aS'finance'
-p13
-aS'marketing'
-p14
-aS'data scientist'
-p15
-aS'leadership'
-p16
-aS'mentoring'
-p17
-aS'business development'
-p18
-aS'data'
-p19
-aS'project management'
-p20
-aS'training'
-p21
-aS'science'
-p22
-aS'analysis'
-p23
 aS'managed care'
-p24
+p13
+aS'leadership'
+p14
+aS'mentoring'
+p15
 aS'advertising'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-asS'major'
-p29
-(lp30
-S'management'
-p31
-aS'finance'
-p32
-aS'business'
-p33
+p16
 aS'marketing'
-p34
+p17
+aS'account management'
+p18
+aS'management'
+p19
+aS'data'
+p20
+aS'insurance'
+p21
 aS'communication'
-p35
+p22
 aS'science'
-p36
+p23
+asS'working-year'
+p24
+(lp25
+V(5, 10]
+p26
+asS'major'
+p27
+(lp28
+S'management'
+p29
+aS'finance'
+p30
+aS'business'
+p31
+aS'marketing'
+p32
+aS'communication'
+p33
+aS'science'
+p34
 aS'project management'
-p37
+p35
 asS'education'
-p38
-(lp39
+p36
+(lp37
 VBachelor
-p40
+p38
 asS'responsibility'
-p41
-(lp42
+p39
+(lp40
 S'report'
-p43
+p41
 aS'development'
-p44
+p42
 aS'presentation'
-p45
+p43
 aS'analysis'
-p46
+p44
 as.

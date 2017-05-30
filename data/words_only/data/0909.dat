@@ -2,234 +2,231 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.00078964367666284113
-sS'communication'
+I1
+sS'data science'
 p5
-F0.0015077747944704206
-sS'data science'
-p6
-F0.003578899254437511
+I1
 sS'trading'
-p7
-F0.017803291490954113
+p6
+I1
 sS'pricing'
+p7
+I1
+sS'data mining'
 p8
-F0.0065388730220067841
-sS'data mining'
-p9
-F0.0085337937472405815
+I1
 sS'visualization'
-p10
-F0.0095628136907792149
+p9
+I1
 sS'investment banking'
-p11
-F0.0090689737515579176
+p10
+I1
 sS'java'
-p12
-F0.0027103491051346431
+p11
+I1
 sS'hedging'
+p12
+I1
+sS'big data'
 p13
-F0.016346244684692399
-sS'big data'
-p14
-F0.0042368967445770749
+I1
 sS'credit'
-p15
-F0.0051884538457678958
+p14
+I1
 sS'storage'
-p16
-F0.011727138399200952
+p15
+I1
 sS'hadoop'
-p17
-F0.0022880792348049161
+p16
+I1
 sS'research'
+p17
+I1
+sS'big data analytics'
 p18
-F0.001833573836890309
-sS'big data analytics'
-p19
-F0.012677220670463164
+I1
 sS'risk management'
-p20
-F0.0060361503897252821
+p19
+I1
 sS'statistical software'
-p21
-F0.0064472837501327622
+p20
+I1
 sS'matlab'
-p22
-F0.0042544190908908918
+p21
+I1
 sS'policy'
-p23
-F0.0090531260986850617
+p22
+I1
 sS'electronic trading'
-p24
-F0.014233529527479558
+p23
+I1
 sS'government'
-p25
-F0.0037620703478569383
+p24
+I1
 sS'python'
-p26
-F0.0013971455064430444
+p25
+I1
 sS'data scientist'
-p27
-F0.00035589864339765693
+p26
+I1
 sS'apache spark'
+p27
+I1
+sS'management'
 p28
-F0.0070920917352462857
-sS'management'
-p29
-F0.0016379500175177416
+I1
 sS'sql'
-p30
-F0.0018164055318244526
+p29
+I1
 sS'apache'
-p31
-F0.0060726063511567282
+p30
+I1
 sS'spark'
-p32
-F0.0030471704796011302
+p31
+I1
 sS'data'
-p33
-F0.0014857947741523357
+p32
+I1
 sS'training'
+p33
+I1
+sS'software engineering'
 p34
-F0.0068975042747260306
-sS'software engineering'
-p35
-F0.010555265807339696
+I1
 sS'market making'
-p36
-F0.015013269728728535
+p35
+I1
 sS'access'
-p37
-F0.0035060098164881003
+p36
+I1
 sS'mapreduce'
+p37
+I1
+sS'analysis'
 p38
-F0.0053394695905453629
-sS'analysis'
+I1
+sS'machine learning'
 p39
-F0.0028921730770688778
-sS'machine learning'
-p40
-F0.0030482242211759378
+I1
 sS'banking'
-p41
-F0.017138476242536522
+p40
+I1
 sS'r'
-F0.001532766822702004
+I1
 sS'scala'
+p41
+I1
+sS'computer science'
 p42
-F0.0042941417328448807
-sS'computer science'
+I1
+sS'data analytics'
 p43
-F0.0031799863363656199
-sS'data analytics'
-p44
-F0.0058828215945646275
+I1
 ssS'working-year'
-p45
-(dp46
+p44
+(dp45
 V(0, 2]
-p47
-F0.0035501007383926175
+p46
+I1
 sV(2, 5]
-p48
-F0.0015094879847093534
+p47
+I1
 ssS'major'
-p49
-(dp50
+p48
+(dp49
 S'information'
-p51
-F0.0024173330107432234
+p50
+I1
 sS'management'
-p52
-F0.0016379500175177416
+p51
+I1
 sS'business'
-p53
-F0.0037875542196941984
+p52
+I1
 sS'big data'
-p54
-F0.0042368967445770749
+p53
+I1
 sS'ee computer science'
-p55
-F0.0043459145314001229
+p54
+I1
 sS'communication'
-p56
-F0.0015077747944704206
+p55
+I1
 sS'data science'
+p56
+I1
+sS'data mining'
 p57
-F0.003578899254437511
-sS'data mining'
-p58
-F0.0085337937472405815
+I1
 sS'machine learning'
-p59
-F0.0030482242211759378
+p58
+I1
 sS'big data analytics'
-p60
-F0.012677220670463164
+p59
+I1
 sS'computer science software engineering'
-p61
-F0.010491401668237515
+p60
+I1
 sS'computer science'
-p62
-F0.0031799863363656199
+p61
+I1
 sS'statistic'
-p63
-F0.0017088768117200844
+p62
+I1
 sS'software engineering'
-p64
-F0.010555265807339696
+p63
+I1
 sS'phd'
-p65
-F0.0032396011148443683
+p64
+I1
 sS'machine learning data mining'
-p66
-F0.0061476596517398511
+p65
+I1
 sS'data analytics'
-p67
-F0.0058828215945646275
+p66
+I1
 sS'history'
-p68
-F0.0047909935604648762
+p67
+I1
 ssS'education'
-p69
-(dp70
+p68
+(dp69
 VBachelor
-p71
-F0.00065375993713873983
+p70
+I1
 sVMaster
-p72
-F0.0018549957286613579
+p71
+I1
 sVDoctor
-p73
-F0.0024474320334257546
+p72
+I1
 ssS'responsibility'
-p74
-(dp75
+p73
+(dp74
 S'development'
-p76
-F0.0026681986504226147
+p75
+I1
 sS'information'
-p77
-F0.0024173330107432234
+p76
+I1
 sS'product'
-p78
-F0.001101087821549556
+p77
+I1
 sS'analysis'
-p79
-F0.0028921730770688778
+p78
+I1
 sS'statistical model'
-p80
-F0.0035775516012016171
+p79
+I1
 sS'data mining'
-p81
-F0.0085337937472405815
+p80
+I1
 sS'interface'
-p82
-F0.0044777767061283747
+p81
+I1
 sS'model'
-p83
-F0.0056665736316859096
+p82
+I1
 ss.

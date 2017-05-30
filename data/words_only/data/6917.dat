@@ -2,118 +2,115 @@
 S'skills'
 p2
 (dp3
-S'r d'
-p4
-F0.0011534121119794306
-sS'communication'
-p5
-F0.0022023676773163443
-sS'problem solving'
-p6
-F0.0053000403919123626
-sS'continuous improvement'
-p7
-F0.0094502336599123164
-sS'research'
-p8
-F0.0026782539190532599
-sS'change management'
-p9
-F0.012150766818595945
-sS'management'
-p10
-F0.0095700450461710732
-sS'agile'
-p11
-F0.010722031522690851
-sS'saas'
-p12
-F0.0073349508993759008
-sS'strategy'
-p13
-F0.0039449420115345388
-sS'risk management'
-p14
-F0.0088168488838683886
-sS'coaching'
-p15
-F0.0093688108520051348
-sS'sdlc'
-p16
-F0.01190275730620895
-sS'innovation'
-p17
-F0.0035064048311657173
-sS'product development'
-p18
-F0.0058113547488233422
-sS'scrum'
-p19
-F0.088216236830206018
-sS'data scientist'
-p20
-F0.00051985195103028533
-sS'leadership'
-p21
-F0.0042806652886802597
-sS'data'
-p22
-F0.00072342067655357164
-sS'b2b'
-p23
-F0.0078455000198199686
-sS'project management'
-p24
-F0.013034430588205947
-sS'software development'
-p25
-F0.006188337597396773
-sS'organization'
-p26
-F0.0030097258531322992
-ssS'working-year'
-p27
-(dp28
-V(5, 10]
-p29
-F0.0033951951020487594
-sV(2, 5]
-p30
-F0.002204870090024898
-ssS'major'
-p31
-(dp32
 S'communication'
-p33
-F0.0022023676773163443
+p4
+I1
+sS'problem solving'
+p5
+I1
+sS'strategy'
+p6
+I1
+sS'research'
+p7
+I1
+sS'change management'
+p8
+I1
 sS'management'
-p34
-F0.0095700450461710732
+p9
+I1
+sS'agile'
+p10
+I1
+sS'saas'
+p11
+I1
+sS'continuous improvement'
+p12
+I1
+sS'risk management'
+p13
+I1
+sS'coaching'
+p14
+I1
+sS'sdlc'
+p15
+I1
+sS'innovation'
+p16
+I1
+sS'product development'
+p17
+I1
+sS'scrum'
+p18
+I1
+sS'data scientist'
+p19
+I1
+sS'leadership'
+p20
+I1
+sS'data'
+p21
+I1
+sS'b2b'
+p22
+I1
 sS'project management'
-p35
-F0.013034430588205947
+p23
+I1
+sS'software development'
+p24
+I1
+sS'organization'
+p25
+I1
+ssS'working-year'
+p26
+(dp27
+V(5, 10]
+p28
+I1
+sV(2, 5]
+p29
+I1
+ssS'major'
+p30
+(dp31
+S'communication'
+p32
+I1
+sS'management'
+p33
+I1
+sS'project management'
+p34
+I1
 sS'business'
-p36
-F0.0033194295408555895
+p35
+I1
 ssS'education'
-p37
-(dp38
+p36
+(dp37
 VMaster
-p39
-F0.0027095443227637809
+p38
+I1
 ssS'responsibility'
-p40
-(dp41
+p39
+(dp40
 S'report'
-p42
-F0.0035830700470069923
+p41
+I1
 sS'development'
-p43
-F0.0012991229384080145
+p42
+I1
 sS'product'
-p44
-F0.0032166610517178037
+p43
+I1
 sS'improvement'
-p45
-F0.0054630145002210143
+p44
+I1
 ss.

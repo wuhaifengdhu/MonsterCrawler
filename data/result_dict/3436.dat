@@ -2,106 +2,104 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'science'
 p4
-aS'communication'
+aS'search'
 p5
-aS'pig'
+aS'retail'
 p6
-aS'analytics'
+aS'pig'
 p7
-aS'business intelligence'
-p8
-aS'analysis'
-p9
-aS'data mining'
-p10
 aS'big data'
+p8
+aS'communication'
+p9
+aS'predictive analytics'
+p10
+aS'data scientist'
 p11
 aS'hadoop'
 p12
-aS'research'
-p13
-aS'computer science'
-p14
-aS'intelligence'
-p15
-aS'data scientist'
-p16
-aS'spark'
-p17
-aS'data'
-p18
-aS'search'
-p19
-aS'science'
-p20
 aS'communication skills'
-p21
+p13
 aS'machine learning'
-p22
-aS'advertising'
-p23
-aS'retail'
-p24
-aS'predictive analytics'
-p25
-asS'working-year'
-p26
-(lp27
-V(0, 2]
-p28
-asS'major'
-p29
-(lp30
-S'business intelligence analytics'
-p31
-aS'business'
-p32
-aS'big data'
-p33
-aS'science'
-p34
-aS'statistic'
-p35
-aS'communication'
-p36
-aS'computer science statistics'
-p37
-aS'machine learning'
-p38
+p14
 aS'analytics'
-p39
+p15
+aS'business intelligence'
+p16
 aS'computer science'
-p40
+p17
 aS'data mining'
-p41
-aS'machine learning data mining'
-p42
-aS'ee computer science'
-p43
-aS'predictive analytics'
-p44
-asS'education'
-p45
-(lp46
-VMaster
-p47
-aVDoctor
-p48
-asS'responsibility'
-p49
-(lp50
-S'business problem'
-p51
-aVinsight
-p52
-aS'communicate'
-p53
+p18
+aS'intelligence'
+p19
 aS'analysis'
-p54
-aS'improvement'
-p55
+p20
+aS'spark'
+p21
+aS'research'
+p22
+aS'data'
+p23
+aS'advertising'
+p24
+asS'working-year'
+p25
+(lp26
+V(0, 2]
+p27
+asS'major'
+p28
+(lp29
+S'business intelligence analytics'
+p30
+aS'business'
+p31
+aS'big data'
+p32
+aS'science'
+p33
+aS'statistic'
+p34
+aS'communication'
+p35
+aS'computer science statistics'
+p36
+aS'machine learning'
+p37
+aS'analytics'
+p38
+aS'computer science'
+p39
 aS'data mining'
-p56
+p40
+aS'machine learning data mining'
+p41
+aS'ee computer science'
+p42
+aS'predictive analytics'
+p43
+asS'education'
+p44
+(lp45
+VMaster
+p46
+aVDoctor
+p47
+asS'responsibility'
+p48
+(lp49
+S'business problem'
+p50
+aVinsight
+p51
+aS'communicate'
+p52
+aS'analysis'
+p53
+aS'improvement'
+p54
+aS'data mining'
+p55
 as.

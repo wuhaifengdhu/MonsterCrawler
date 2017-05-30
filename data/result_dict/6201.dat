@@ -2,112 +2,102 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'continuous improvement'
 p4
-aS'intelligence'
-p5
-aS'defense'
-p6
-aS'analysis'
-p7
-aS'simulation'
-p8
-aS'education'
-p9
-aS'continuous improvement'
-p10
-aS'innovation'
-p11
-aS'mathematics'
-p12
 aS'data analysis'
-p13
+p5
 aS'data modeling'
-p14
+p6
 aS'theory'
-p15
+p7
 aS'government'
+p8
+aS'intelligence'
+p9
+aS'innovation'
+p10
+aS'programming'
+p11
+aS'analysis'
+p12
+aS'machine learning'
+p13
+aS'exploratory data analysis'
+p14
+aS'defense'
+p15
+aS'education'
 p16
-aS'data scientist'
+aS'mathematics'
 p17
 aS'modeling'
 p18
-aS'data'
-p19
-aS'national security'
-p20
-aS'programming'
-p21
-aS'security clearance'
-p22
-aS'machine learning'
-p23
-aS'exploratory data analysis'
-p24
 aS'security'
-p25
+p19
+aS'simulation'
+p20
+aS'data'
+p21
+aS'national security'
+p22
 asS'working-year'
+p23
+(lp24
+V(5, 10]
+p25
+asS'major'
 p26
 (lp27
-V(5, 10]
-p28
-asS'major'
-p29
-(lp30
 S'information'
-p31
-aS'information systems'
-p32
+p28
 aS'business'
-p33
+p29
 aS'machine learning'
-p34
-aS'information system'
-p35
+p30
 aS'design'
-p36
+p31
 aS'statistic'
-p37
+p32
 aS'mathematics'
-p38
+p33
 asS'education'
-p39
-(lp40
+p34
+(lp35
 VBachelor
-p41
+p36
 asS'responsibility'
-p42
-(lp43
+p37
+(lp38
 S'development'
-p44
+p39
 aS'information'
-p45
+p40
 aS'product'
-p46
+p41
 aS'data analysis'
-p47
+p42
 aVtest hypothesis
-p48
+p43
 aS'pattern'
-p49
+p44
 aS'communicate'
-p50
+p45
 aS'analysis'
-p51
+p46
 aS'simulation'
-p52
+p47
 aS'model'
-p53
+p48
 aS'design'
-p54
+p49
 aS'identify opportunity'
-p55
+p50
 aS'prototype'
-p56
+p51
 aS'modeling'
-p57
+p52
 aS'improvement'
-p58
+p53
 aS'transformation'
-p59
+p54
 as.

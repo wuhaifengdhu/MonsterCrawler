@@ -2,140 +2,134 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
+aS'data science'
 p5
-aS'data science'
-p6
 aS'presentation skills'
+p6
+aS'analytics'
 p7
-aS'analytics'
+aS'engineering'
 p8
-aS'engineering'
-p9
 aS'statistical analysis'
-p10
+p9
 aS'user experience design'
+p10
+aS'management'
 p11
-aS'management'
-p12
 aS'java'
-p13
-aS'big data'
-p14
+p12
 aS'user experience'
-p15
+p13
 aS'predictive modeling'
-p16
+p14
 aS'storage'
-p17
+p15
 aS'strategy'
-p18
+p16
 aS'advanced analytics'
-p19
+p17
 aS'systems engineering'
-p20
+p18
 aS'graph theory'
-p21
+p19
 aS'theory'
-p22
+p20
 aS'javascript'
-p23
+p21
 aS'data scientist'
-p24
+p22
 aS'sql'
-p25
+p23
 aS'data'
-p26
+p24
 aS'genetic algorithms'
+p25
+aS'software engineering'
+p26
+aS'science'
 p27
-aS'software engineering'
-p28
-aS'science'
-p29
 aS'programming'
+p28
+aS'analysis'
+p29
+aS'machine learning'
 p30
-aS'analysis'
+aS'data analytics'
 p31
-aS'machine learning'
-p32
-aS'data analytics'
-p33
 aS'etl'
-p34
+p32
 aS'predictive analytics'
-p35
+p33
 asS'working-year'
-p36
-(lp37
+p34
+(lp35
 V(2, 5]
-p38
+p36
 asS'major'
-p39
-(lp40
+p37
+(lp38
 S'systems engineering'
-p41
+p39
 aS'information'
-p42
+p40
 aS'management'
-p43
-aS'business'
-p44
-aS'big data'
-p45
-aS'science'
-p46
-aS'data science'
-p47
-aS'machine learning'
-p48
-aS'analytics'
-p49
-aS'engineering'
-p50
-aS'graph theory'
-p51
-aS'design'
-p52
-aS'communication'
-p53
-aS'advanced analytics'
-p54
+p41
 aS'software engineering'
-p55
-aS'data analytics'
-p56
-aS'predictive analytics'
-p57
-asS'education'
-p58
-(lp59
-VBachelor
-p60
-aVMaster
-p61
-aVDoctor
-p62
-asS'responsibility'
-p63
-(lp64
-S'development'
-p65
-aS'information'
-p66
-aS'analysis'
-p67
-aS'develop system'
-p68
+p42
+aS'business'
+p43
+aS'science'
+p44
+aS'data science'
+p45
+aS'machine learning'
+p46
+aS'analytics'
+p47
+aS'engineering'
+p48
+aS'graph theory'
+p49
 aS'design'
-p69
+p50
+aS'communication'
+p51
+aS'advanced analytics'
+p52
+aS'data analytics'
+p53
+aS'predictive analytics'
+p54
+asS'education'
+p55
+(lp56
+VBachelor
+p57
+aVMaster
+p58
+aVDoctor
+p59
+asS'responsibility'
+p60
+(lp61
+S'development'
+p62
+aS'information'
+p63
+aS'analysis'
+p64
+aS'develop system'
+p65
+aS'design'
+p66
 aS'interface'
-p70
+p67
 aS'model'
-p71
+p68
 aS'presentation'
-p72
+p69
 aS'transformation'
-p73
+p70
 as.

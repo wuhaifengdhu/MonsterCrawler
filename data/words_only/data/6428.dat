@@ -2,222 +2,219 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.00081149152542426346
-sS'communication'
-p5
-F0.0015494918836454913
+I1
 sS'hive'
+p5
+I1
+sS'data mining'
 p6
-F0.0039034706008162084
-sS'data mining'
-p7
-F0.0087699066177175933
+I1
 sS'hbase'
+p7
+I1
+sS'simulation'
 p8
-F0.0057714844302835773
-sS'simulation'
+I1
+sS'big data'
 p9
-F0.0059921642490496155
-sS'big data'
-p10
-F0.0043541231367195234
+I1
 sS'hadoop'
-p11
-F0.0023513857748983322
+p10
+I1
 sS'mahout'
+p11
+I1
+sS'computer science'
 p12
-F0.0083466315464258613
-sS'computer science'
+I1
+sS'mathematics'
 p13
-F0.0032679701480437195
-sS'mathematics'
-p14
-F0.0032033378864065516
+I1
 sS'unstructured data'
+p14
+I1
+sS'operations research'
 p15
-F0.0047471606432458943
-sS'operations research'
-p16
-F0.01046606859273751
+I1
 sS'matlab'
-p17
-F0.0043721302910341171
+p16
+I1
 sS'segmentation'
-p18
-F0.0055662590520567335
+p17
+I1
 sS'data modeling'
-p19
-F0.0053023799060042294
+p18
+I1
 sS'python'
+p19
+I1
+sS'marketing'
 p20
-F0.0014358017062260533
-sS'marketing'
-p21
-F0.0033708342369751189
+I1
 sS'data scientist'
-p22
-F0.00036574564143632723
+p21
+I1
 sS'data quality'
-p23
-F0.0058320617297045949
+p22
+I1
 sS'survey design'
+p23
+I1
+sS'machine learning'
 p24
-F0.010076790028981169
-sS'machine learning'
-p25
-F0.0031325624407341651
+I1
 sS'sql'
+p25
+I1
+sS'modeling'
 p26
-F0.0018666618113610974
-sS'modeling'
-p27
-F0.003816858410680417
+I1
 sS'data'
-p28
-F0.002035871627297008
+p27
+I1
 sS'customer experience'
-p29
-F0.0061213731571985383
+p28
+I1
 sS'programming'
+p29
+I1
+sS'analysis'
 p30
-F0.0041080445474377912
-sS'analysis'
-p31
-F0.00396292490138555
+I1
 sS'spss'
-p32
-F0.0048057496732729476
+p31
+I1
 sS'online marketing'
-p33
-F0.0097164731593184141
+p32
+I1
 sS'r'
-F0.0015751753909190552
+I1
 sS'architecture'
-p34
-F0.0035465892287481178
+p33
+I1
 sS'communication skills'
+p34
+I1
+sS'predictive analytics'
 p35
-F0.0058243872305380794
-sS'predictive analytics'
-p36
-F0.010077006344350737
+I1
 ssS'working-year'
-p37
-(dp38
+p36
+(dp37
 V(5, 10]
-p39
-F0.0023887143405718543
+p38
+I1
 sV(2, 5]
-p40
-F0.0015512524744048688
+p39
+I1
 ssS'major'
-p41
-(dp42
+p40
+(dp41
 S'information'
-p43
-F0.0012421078711328814
+p42
+I1
 sS'business'
-p44
-F0.0062277571359398674
+p43
+I1
 sS'big data'
-p45
-F0.0043541231367195234
+p44
+I1
 sS'marketing'
-p46
-F0.0033708342369751189
+p45
+I1
 sVapplied statistic
-p47
-F0.007256440172540549
+p46
+I1
 sS'machine learning'
+p47
+I1
+sS'design'
 p48
-F0.0031325624407341651
-sS'design'
-p49
-F0.0013464795575826177
+I1
 sS'computer science'
-p50
-F0.0032679701480437195
+p49
+I1
 sS'applied statistics'
+p50
+I1
+sS'data mining'
 p51
-F0.0094594531771797427
-sS'data mining'
-p52
-F0.0087699066177175933
+I1
 sS'communication'
-p53
-F0.0015494918836454913
+p52
+I1
 sS'mathematics'
-p54
-F0.0032033378864065516
+p53
+I1
 sS'operations research'
-p55
-F0.01046606859273751
+p54
+I1
 sS'predictive analytics'
-p56
-F0.010077006344350737
+p55
+I1
 ssS'education'
-p57
-(dp58
+p56
+(dp57
 VBachelor
-p59
-F0.00067184815674336889
+p58
+I1
 sVMaster
-p60
-F0.0019063197211539645
+p59
+I1
 ssS'responsibility'
-p61
-(dp62
+p60
+(dp61
 S'development'
-p63
-F0.0009140074428325162
+p62
+I1
 sS'information'
-p64
-F0.0012421078711328814
+p63
+I1
 sVtest hypothesis
-p65
-F0.0079954886040147135
+p64
+I1
 sS'business problem'
-p66
-F0.003653424157518194
+p65
+I1
 sS'pattern'
-p67
-F0.00358813845594446
+p66
+I1
 sVinsight
-p68
-F0.0041148667172926793
+p67
+I1
 sS'communicate'
-p69
-F0.0024405300654034147
+p68
+I1
 sS'analysis'
-p70
-F0.00396292490138555
+p69
+I1
 sS'simulation'
-p71
-F0.0059921642490496155
+p70
+I1
 sS'statistical method'
-p72
-F0.0049479777293577601
+p71
+I1
 sS'design'
-p73
-F0.0013464795575826177
+p72
+I1
 sS'data mining'
-p74
-F0.0087699066177175933
+p73
+I1
 sS'interface'
-p75
-F0.0046016677612386453
+p74
+I1
 sS'modeling'
-p76
-F0.003816858410680417
+p75
+I1
 sS'statistical model'
-p77
-F0.0036765352423415824
+p76
+I1
 sS'evaluation'
-p78
-F0.010409686932906026
+p77
+I1
 sS'data gathering'
-p79
-F0.0078622078528984285
+p78
+I1
 ss.

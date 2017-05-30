@@ -2,177 +2,174 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'classification'
 p4
-F0.00092066078893425409
-sS'classification'
-p5
-F0.0059564412698931242
+I1
 sS'intelligence'
-p6
-F0.0042822737475836231
-sS'tableau'
-p7
-F0.0044583825590468916
-sS'analytics'
-p8
-F0.0022768588425495675
-sS'engineering'
-p9
-F0.0023368018174458492
-sS'digital analytics'
-p10
-F0.010332369291260371
-sS'machine learning'
-p11
-F0.0035539833968867432
-sS'regression'
-p12
-F0.005370728577476753
-sS'clustering'
-p13
-F0.0057457128596659079
-sS'visualization'
-p14
-F0.0037164896257138951
-sS'big data'
-p15
-F0.0049398796125113874
+p5
+I1
 sS'hadoop'
-p16
-F0.0053354313995450948
-sS'oracle sql'
-p17
-F0.010199134291034646
-sS'data analysis'
-p18
-F0.0062534030880078339
-sS'python'
-p19
-F0.0016289588864358364
-sS'marketing'
-p20
-F0.022945858169184891
-sS'data scientist'
-p21
-F0.00041494909095690939
-sS'business analytics'
-p22
-F0.013750545381196223
-sS'sql'
-p23
-F0.0021177822344141599
-sS'spotfire'
-p24
-F0.0087782499835746108
-sS'data'
-p25
-F0.0080841449595134562
-sS'statistical programming'
-p26
-F0.0089942349114761136
-sS'pattern recognition'
-p27
-F0.0086023083068820626
-sS'data visualization'
-p28
-F0.0038368967369596888
-sS'consumer insights'
-p29
-F0.01330739982080858
-sS'programming'
-p30
-F0.0023303481401384784
-sS'analysis'
-p31
-F0.0022480269059429246
-sS'spss'
-p32
-F0.0054522630822334342
-sS'r'
-F0.0017870823941817085
-sS'oracle'
-p33
-F0.0058987043526208842
-sS'scripting'
-p34
-F0.0047572660963738399
-ssS'working-year'
-p35
-(dp36
-V(2, 5]
-p37
-F0.0017599411480916226
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-F0.0014092075847382019
-sS'business'
-p41
-F0.0026495894989789011
-sS'big data'
-p42
-F0.0049398796125113874
-sS'marketing'
-p43
-F0.022945858169184891
-sS'machine learning'
-p44
-F0.0035539833968867432
-sS'business analytics'
-p45
-F0.013750545381196223
+p6
+I1
 sS'analytics'
-p46
-F0.0022768588425495675
+p7
+I1
 sS'engineering'
-p47
-F0.0023368018174458492
-sS'general'
-p48
-F0.031184671682628517
-ssS'education'
-p49
-(dp50
-VBachelor
-p51
-F0.00076223131684337374
-ssS'responsibility'
-p52
-(dp53
-S'development'
-p54
-F0.0010369680853660385
-sS'large data set'
-p55
-F0.0049728455834512587
-sS'product'
-p56
-F0.0025675590457657806
+p8
+I1
+sS'digital analytics'
+p9
+I1
+sS'machine learning'
+p10
+I1
+sS'regression'
+p11
+I1
+sS'clustering'
+p12
+I1
+sS'visualization'
+p13
+I1
+sS'big data'
+p14
+I1
+sS'tableau'
+p15
+I1
+sS'oracle sql'
+p16
+I1
 sS'data analysis'
-p57
-F0.0062534030880078339
-sS'identify opportunity'
-p58
-F0.0075432358361631948
-sS'information'
-p59
-F0.0014092075847382019
-sS'pattern'
-p60
-F0.0040708476652643426
-sVinsight
-p61
-F0.014005308692489437
+p17
+I1
+sS'python'
+p18
+I1
+sS'marketing'
+p19
+I1
+sS'data scientist'
+p20
+I1
+sS'business analytics'
+p21
+I1
+sS'sql'
+p22
+I1
+sS'spotfire'
+p23
+I1
+sS'data'
+p24
+I1
+sS'statistical programming'
+p25
+I1
+sS'pattern recognition'
+p26
+I1
+sS'data visualization'
+p27
+I1
+sS'consumer insights'
+p28
+I1
+sS'programming'
+p29
+I1
 sS'analysis'
-p62
-F0.0022480269059429246
+p30
+I1
+sS'spss'
+p31
+I1
+sS'r'
+I1
+sS'oracle'
+p32
+I1
+sS'scripting'
+p33
+I1
+ssS'working-year'
+p34
+(dp35
+V(2, 5]
+p36
+I1
+ssS'major'
+p37
+(dp38
+S'information'
+p39
+I1
+sS'business'
+p40
+I1
+sS'big data'
+p41
+I1
+sS'marketing'
+p42
+I1
+sS'machine learning'
+p43
+I1
+sS'business analytics'
+p44
+I1
+sS'analytics'
+p45
+I1
+sS'engineering'
+p46
+I1
+sS'general'
+p47
+I1
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+I1
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+I1
+sS'large data set'
+p54
+I1
+sS'product'
+p55
+I1
+sS'data analysis'
+p56
+I1
+sS'identify opportunity'
+p57
+I1
+sS'information'
+p58
+I1
+sS'pattern'
+p59
+I1
+sVinsight
+p60
+I1
+sS'analysis'
+p61
+I1
 sS'recommendation'
-p63
-F0.0041075759942174267
+p62
+I1
 sS'model'
-p64
-F0.0016516918657380453
+p63
+I1
 ss.

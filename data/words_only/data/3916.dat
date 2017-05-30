@@ -2,117 +2,114 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'cloudera'
 p4
-F0.0023734954443044931
-sS'communication'
-p5
-F0.004532039844650974
-sS'data science'
-p6
-F0.010757385042239916
-sS'engineering'
-p7
-F0.0060243561305251374
-sS'angularjs'
-p8
-F0.02586535685245079
-sS'go'
-p9
-F0.016221822654430017
+I1
 sS'open source'
-p10
-F0.014588302212933581
+p5
+I1
+sS'software engineering'
+p6
+I1
 sS'scala'
+p7
+I1
+sS'python'
+p8
+I1
+sS'communication'
+p9
+I1
+sS'data science'
+p10
+I1
+sS'data scientist'
 p11
-F0.012907246827048195
+I1
 sS'hadoop'
 p12
-F0.013754927191890823
+I1
 sS'writing'
 p13
-F0.012128627248468015
+I1
 sS'advanced analytics'
 p14
-F0.025216090544435431
-sS'python'
-p15
-F0.0041995125049155086
-sS'data scientist'
-p16
-F0.0010697531477848645
-sS'java'
-p17
-F0.0081467140732370755
-sS'spark'
-p18
-F0.0091591251409976152
-sS'data'
-p19
-F0.01339791819466846
-sS'cloudera'
-p20
-F0.04850863578283153
-sS'software engineering'
-p21
-F0.031726810519171339
-sS'science'
-p22
-F0.042417724387509216
-sS'machine learning'
-p23
-F0.0091622924567138012
-sS'r'
-F0.0046071603919366592
-sS'docker'
-p24
-F0.02274981718478291
-ssS'working-year'
-p25
-(dp26
-V(2, 5]
-p27
-F0.0045371893182015247
-ssS'major'
-p28
-(dp29
-S'software engineering'
-p30
-F0.031726810519171339
-sS'science'
-p31
-F0.042417724387509216
-sS'data science'
-p32
-F0.010757385042239916
-sS'machine learning'
-p33
-F0.0091622924567138012
+I1
 sS'engineering'
-p34
-F0.0060243561305251374
+p15
+I1
+sS'r'
+I1
+sS'angularjs'
+p16
+I1
+sS'science'
+p17
+I1
+sS'go'
+p18
+I1
+sS'java'
+p19
+I1
+sS'spark'
+p20
+I1
+sS'machine learning'
+p21
+I1
+sS'data'
+p22
+I1
+sS'docker'
+p23
+I1
+ssS'working-year'
+p24
+(dp25
+V(2, 5]
+p26
+I1
+ssS'major'
+p27
+(dp28
+S'software engineering'
+p29
+I1
+sS'science'
+p30
+I1
+sS'data science'
+p31
+I1
+sS'machine learning'
+p32
+I1
+sS'engineering'
+p33
+I1
 sS'design'
-p35
-F0.0039382581279584078
+p34
+I1
 sS'communication'
-p36
-F0.004532039844650974
+p35
+I1
 sS'advanced analytics'
-p37
-F0.025216090544435431
+p36
+I1
 ssS'education'
-p38
-(dp39
+p37
+(dp38
 S'Bachelor'
-p40
-F0.0019650587705904317
+p39
+I1
 ssS'responsibility'
-p41
-(dp42
+p40
+(dp41
 S'design'
-p43
-F0.0039382581279584078
+p42
+I1
 sS'ownership'
-p44
-F0.01836461711923108
+p43
+I1
 ss.

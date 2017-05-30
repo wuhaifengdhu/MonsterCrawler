@@ -2,11 +2,11 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'excel'
 p4
-aS'storage'
+aS'communication'
 p5
-aS'database administration'
+aS'hardware'
 p6
 aS'engineering'
 p7
@@ -20,106 +20,92 @@ aS'management'
 p11
 aS'networking'
 p12
-aS'excel'
+aS'storage'
 p13
-aS'writing'
+aS'saas'
 p14
-aS'user interface'
+aS'writing'
 p15
 aS'computer science'
 p16
-aS'communication'
-p17
-aS'information security'
-p18
-aS'web development'
-p19
-aS'data analysis'
-p20
 aS'innovation'
-p21
-aS'data scientist'
-p22
-aS'project management'
-p23
-aS'scripting'
-p24
-aS'data'
-p25
-aS'b2b'
-p26
-aS'information technology'
-p27
-aS'hardware'
-p28
-aS'saas'
-p29
-aS'science'
-p30
-aS'programming'
-p31
-aS'analysis'
-p32
-aS'architecture'
-p33
-aS'windows 7'
-p34
-aS'security'
-p35
-aS'application development'
-p36
-asS'working-year'
-p37
-(lp38
-V[0]
-p39
-asS'major'
-p40
-(lp41
-S'information'
-p42
-aS'management'
-p43
-aS'business'
-p44
-aS'science'
-p45
-aS'computer science computer engineering'
-p46
-aS'engineering'
-p47
-aS'information systems'
-p48
-aS'computer engineering'
-p49
-aS'information system'
-p50
-aS'project management'
-p51
+p17
 aS'web development'
-p52
-aS'communication'
-p53
+p18
+aS'data scientist'
+p19
+aS'project management'
+p20
+aS'data'
+p21
+aS'b2b'
+p22
 aS'information technology'
-p54
-aS'computer science'
-p55
-asS'education'
-p56
-(lp57
-VBachelor
-p58
-aVMaster
-p59
-asS'responsibility'
-p60
-(lp61
-S'development'
-p62
-aS'information'
-p63
-aS'data analysis'
-p64
+p23
+aS'science'
+p24
+aS'programming'
+p25
 aS'analysis'
-p65
+p26
+aS'architecture'
+p27
+aS'windows 7'
+p28
+aS'security'
+p29
+aS'scripting'
+p30
+asS'working-year'
+p31
+(lp32
+V[0]
+p33
+asS'major'
+p34
+(lp35
+S'information'
+p36
+aS'management'
+p37
+aS'business'
+p38
+aS'science'
+p39
+aS'computer science computer engineering'
+p40
+aS'engineering'
+p41
+aS'information systems'
+p42
+aS'computer engineering'
+p43
+aS'information system'
+p44
+aS'project management'
+p45
+aS'web development'
+p46
+aS'communication'
+p47
+aS'information technology'
+p48
+aS'computer science'
+p49
+asS'education'
+p50
+(lp51
+VBachelor
+p52
+aVMaster
+p53
+asS'responsibility'
+p54
+(lp55
+S'development'
+p56
+aS'information'
+p57
+aS'analysis'
+p58
 as.

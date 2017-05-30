@@ -2,198 +2,195 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'data science'
 p4
-F0.0011971274398387094
-sS'data science'
+I1
+sS'analysis'
 p5
-F0.0054257364790306281
-sS'analysis'
-p6
-F0.002923090379156106
+I1
 sS'seo'
-p7
-F0.01425404270520202
+p6
+I1
 sS'writing'
-p8
-F0.006117354268177745
+p7
+I1
 sS'amazon web services'
-p9
-F0.011969721160162677
+p8
+I1
 sS'hdfs'
+p9
+I1
+sS'management'
 p10
-F0.0099669837432275338
-sS'management'
+I1
+sS'big data'
 p11
-F0.0024831895309306868
-sS'big data'
-p12
-F0.0064232836944025616
+I1
 sS'user experience'
-p13
-F0.0082015501305719475
+p12
+I1
 sS'ruby'
-p14
-F0.0093639075391184802
+p13
+I1
 sS'hadoop'
-p15
-F0.0034688081693835457
+p14
+I1
 sS'research'
+p15
+I1
+sS'computer science'
 p16
-F0.0027797620850815176
-sS'computer science'
-p17
-F0.0048209705390965659
+I1
 sS'web services'
+p17
+I1
+sS'natural language processing'
 p18
-F0.010681605717521707
-sS'natural language processing'
+I1
+sS'data analysis'
 p19
-F0.014865787784960562
-sS'data analysis'
-p20
-F0.0081312471639985243
+I1
 sS'product development'
-p21
-F0.0060316101766213119
+p20
+I1
 sS'python'
+p21
+I1
+sS'processing'
 p22
-F0.0042362429349876562
-sS'processing'
-p23
-F0.0046457594420406378
+I1
 sS'scripting'
-p24
-F0.006185832883331582
+p23
+I1
 sS'sql'
-p25
-F0.0027537343339612691
+p24
+I1
 sS'spark'
-p26
-F0.0046196170536227047
+p25
+I1
 sS'php'
-p27
-F0.011898610238257872
+p26
+I1
 sS'data'
-p28
-F0.0052558726704708464
+p27
+I1
 sS'b2b'
-p29
-F0.0081428513325245162
+p28
+I1
 sS'search'
-p30
-F0.0073505586900198027
+p29
+I1
 sS'cloud computing'
-p31
-F0.010312628269698138
+p30
+I1
 sS'mapreduce'
-p32
-F0.0080948227028676042
+p31
+I1
 sS'hive'
+p32
+I1
+sS'machine learning'
 p33
-F0.005758472664760937
-sS'machine learning'
-p34
-F0.0046212145627157067
+I1
 sS'r'
-F0.0023237281277114926
+I1
 sS'go-to-market strategy'
-p35
-F0.036751162019665114
+p34
+I1
 sS'product management'
-p36
-F0.0086377972092202271
+p35
+I1
 sS'microsoft azure'
-p37
-F0.014333922503251073
+p36
+I1
 ssS'working-year'
-p38
-(dp39
+p37
+(dp38
 V(0, 2]
-p40
-F0.005382076921178312
+p39
+I1
 ssS'major'
-p41
-(dp42
+p40
+(dp41
 S'information'
-p43
-F0.0018323807078520057
+p42
+I1
 sS'management'
-p44
-F0.0024831895309306868
+p43
+I1
 sS'business'
-p45
-F0.0011484129412483867
+p44
+I1
 sS'big data'
-p46
-F0.0064232836944025616
+p45
+I1
 sS'computing'
-p47
-F0.0062106847307098322
+p46
+I1
 sS'data science'
-p48
-F0.0054257364790306281
+p47
+I1
 sS'natural language processing'
-p49
-F0.014865787784960562
+p48
+I1
 sS'computer science statistics'
-p50
-F0.0096580106274124743
+p49
+I1
 sS'machine learning'
-p51
-F0.0046212145627157067
+p50
+I1
 sS'computer science'
-p52
-F0.0048209705390965659
+p51
+I1
 sS'statistic'
-p53
-F0.0025907170323453172
+p52
+I1
 ssS'education'
-p54
-(dp55
+p53
+(dp54
 VBachelor
-p56
-F0.00099112293677010126
+p55
+I1
 sVMaster
-p57
-F0.0028122384224603674
+p56
+I1
 ssS'responsibility'
-p58
-(dp59
+p57
+(dp58
 S'development'
-p60
-F0.0013483608340328081
+p59
+I1
 sS'information'
-p61
-F0.0018323807078520057
+p60
+I1
 sS'product'
-p62
-F0.013354301275936304
+p61
+I1
 sVinsight
-p63
-F0.0060703281602043618
+p62
+I1
 sS'develop model'
-p64
-F0.013045792231702585
+p63
+I1
 sS'processing'
-p65
-F0.0046457594420406378
+p64
+I1
 sS'communicate'
-p66
-F0.0072006309801406878
+p65
+I1
 sS'analysis'
-p67
-F0.002923090379156106
+p66
+I1
 sS'data analysis'
-p68
-F0.0081312471639985243
+p67
+I1
 sS'analytical method'
-p69
-F0.011630338310914822
+p68
+I1
 sS'go-to-market strategy'
-p70
-F0.036751162019665114
+p69
+I1
 sS'model'
-p71
-F0.0021476809682774581
+p70
+I1
 ss.

@@ -4,265 +4,262 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0042328427471173061
-sS'r d'
-p5
-F0.000841423589886634
+I1
 sS'classification'
+p5
+I1
+sS'communication'
 p6
-F0.0054437967343695364
-sS'communication'
-p7
-F0.0016066452727963496
+I1
 sS'outsourcing'
+p7
+I1
+sS'analytics'
 p8
-F0.011084034949398617
-sS'analytics'
-p9
-F0.002080899679871121
+I1
 sS'statistical analysis'
-p10
-F0.0037540551094692055
+p9
+I1
 sS'problem solving'
+p10
+I1
+sS'data mining'
 p11
-F0.0038664229088541005
-sS'data mining'
+I1
+sS'analysis'
 p12
-F0.0090933867798465209
-sS'analysis'
+I1
+sS'public policy'
 p13
-F0.0020545491804314434
-sS'public policy'
-p14
-F0.016580808334555105
+I1
 sS'amazon web services'
-p15
-F0.0084131441760979479
+p14
+I1
 sS'visualization'
-p16
-F0.0033966278136647486
+p15
+I1
 sS'java'
+p16
+I1
+sS'big data'
 p17
-F0.0028880769153074065
-sS'big data'
-p18
-F0.00451472603930344
+I1
 sS'hadoop'
-p19
-F0.0073143516522452224
+p18
+I1
 sS'regression'
-p20
-F0.0049084937408906395
+p19
+I1
 sS'risk management'
-p21
-F0.0064319635300351371
+p20
+I1
 sS'r'
-F0.0016332761225513158
+I1
 sS'web services'
-p22
-F0.0075077679530941516
+p21
+I1
 sS'visio'
-p23
-F0.0096176100377356882
+p22
+I1
 sS'unstructured data'
+p23
+I1
+sS'data analysis'
 p24
-F0.0049222608309066043
-sS'data analysis'
-p25
-F0.0057152003632202752
+I1
 sS'product development'
-p26
-F0.0042394309233219464
+p25
+I1
 sS'python'
-p27
-F0.00297752321045239
+p26
+I1
 sS'innovation'
-p28
-F0.0025579510653585972
+p27
+I1
 sS'data scientist'
+p28
+I1
+sS'business analytics'
 p29
-F0.000379236259358159
-sS'business analytics'
-p30
-F0.012567096803306385
+I1
 sS'statistical modeling'
+p30
+I1
+sS'modeling'
 p31
-F0.0047929019379246126
-sS'modeling'
-p32
-F0.0059364662575951566
+I1
 sS'spark'
-p33
-F0.0032469849372798931
+p32
+I1
 sS'data'
+p33
+I1
+sS'information technology'
 p34
-F0.0058051544454585796
-sS'information technology'
-p35
-F0.01039568373485256
+I1
 sS'collaborative filtering'
-p36
-F0.0082904041672775524
+p35
+I1
 sS'sentiment analysis'
-p37
-F0.0080649966659168924
+p36
+I1
 sS'amazon ec2'
-p38
-F0.0090625442472800719
+p37
+I1
 sS'programming'
-p39
-F0.0042595707807449234
+p38
+I1
 sS'mapreduce'
-p40
-F0.0056895987440237468
+p39
+I1
 sS'hive'
+p40
+I1
+sS'machine learning'
 p41
-F0.0080949021475942694
-sS'machine learning'
-p42
-F0.0032481077766628847
+I1
 sS'cluster'
-p43
-F0.0067997944616797912
+p42
+I1
 sS'erwin'
+p43
+I1
+sS'optimization'
 p44
-F0.014577363699377548
-sS'optimization'
-p45
-F0.0039449120108637466
+I1
 sS'statistical inference'
-p46
-F0.0084904796630166385
+p45
+I1
 sS'validation'
+p46
+I1
+sS'marketing research'
 p47
-F0.010385162455907608
-sS'marketing research'
-p48
-F0.017483420354682946
+I1
 ssS'working-year'
-p49
-(dp50
+p48
+(dp49
 V(5, 10]
-p51
-F0.0024768226564126201
+p50
+I1
 sV(2, 5]
-p52
-F0.0016084708033788193
+p51
+I1
 ssS'major'
-p53
-(dp54
+p52
+(dp53
 S'information'
-p55
-F0.0025758466507919591
+p54
+I1
 sS'business'
-p56
-F0.0032287347446573497
+p55
+I1
 sS'big data'
-p57
-F0.00451472603930344
+p56
+I1
 sS'computing'
-p58
-F0.004365296849658756
+p57
+I1
 sS'communication'
+p58
+I1
+sS'data mining'
 p59
-F0.0016066452727963496
-sS'data mining'
-p60
-F0.0090933867798465209
+I1
 sS'machine learning'
-p61
-F0.0032481077766628847
+p60
+I1
 sS'business analytics'
-p62
-F0.012567096803306385
+p61
+I1
 sS'analytics'
+p62
+I1
+sS'design'
 p63
-F0.002080899679871121
-sS'design'
-p64
-F0.0013961447871655834
+I1
 sS'marketing research'
-p65
-F0.017483420354682946
+p64
+I1
 sS'statistic'
-p66
-F0.0018209343075705818
+p65
+I1
 sS'public policy'
-p67
-F0.016580808334555105
+p66
+I1
 sS'information technology'
-p68
-F0.01039568373485256
+p67
+I1
 sS'history'
-p69
-F0.0051051570726265072
+p68
+I1
 ssS'education'
-p70
-(dp71
+p69
+(dp70
 VBachelor
-p72
-F0.00069662944121341133
+p71
+I1
 sVMaster
-p73
-F0.001976634792835873
+p72
+I1
 ssS'responsibility'
-p74
-(dp75
+p73
+(dp74
 S'development'
-p76
-F0.00094772083211732219
+p75
+I1
 sS'information'
-p77
-F0.0025758466507919591
+p76
+I1
 sS'product'
-p78
-F0.0011732903016511661
+p77
+I1
 sS'data analysis'
-p79
-F0.0057152003632202752
+p78
+I1
 sVinsight
-p80
-F0.004266644588012492
+p79
+I1
 sS'communicate'
-p81
-F0.0025305496169961642
+p80
+I1
 sS'recommendation'
-p82
-F0.0037540551094692055
+p81
+I1
 sS'analysis'
-p83
-F0.0020545491804314434
+p82
+I1
 sS'statistical model'
-p84
-F0.0038121451488213952
+p83
+I1
 sS'analytic'
-p85
-F0.0030624639409967702
+p84
+I1
 sS'statistical method'
-p86
-F0.0051304851046209566
+p85
+I1
 sS'optimization'
-p87
-F0.0039449120108637466
+p86
+I1
 sS'design'
-p88
-F0.0013961447871655834
+p87
+I1
 sS'data mining'
-p89
-F0.0090933867798465209
+p88
+I1
 sS'report'
-p90
-F0.0026138789687182159
+p89
+I1
 sS'modeling'
-p91
-F0.0059364662575951566
+p90
+I1
 sS'implement'
-p92
-F0.0027273796597788967
+p91
+I1
 sS'extract'
-p93
-F0.0048410126546773952
+p92
+I1
 sS'model'
-p94
-F0.0015095380576212463
+p93
+I1
 ss.

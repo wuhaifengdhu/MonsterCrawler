@@ -2,126 +2,124 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'intelligence'
 p4
-aS'intelligence'
+aS'data science'
 p5
-aS'data science'
-p6
 aS'hardware'
+p6
+aS'engineering'
 p7
-aS'business intelligence'
-p8
 aS'product strategy'
-p9
+p8
 aS'problem solving'
-p10
+p9
 aS'java'
-p11
+p10
 aS'product marketing'
-p12
+p11
 aS'strategy'
+p12
+aS'computer science'
 p13
-aS'computer science'
+aS'mathematics'
 p14
-aS'mathematics'
+aS'finance'
 p15
-aS'finance'
+aS'marketing'
 p16
-aS'marketing'
-p17
 aS'data scientist'
-p18
+p17
 aS'sql'
-p19
+p18
 aS'spark'
-p20
+p19
 aS'data'
+p20
+aS'science'
 p21
-aS'science'
-p22
 aS'aws'
-p23
+p22
 aS'programming'
+p23
+aS'business intelligence'
 p24
-aS'engineering'
+aS'analysis'
 p25
-aS'analysis'
-p26
 aS'e-commerce'
-p27
+p26
 aS'dashboard'
-p28
+p27
 aS'security'
-p29
+p28
 aS'retail'
-p30
+p29
 aS'etl'
-p31
+p30
 asS'working-year'
-p32
-(lp33
+p31
+(lp32
 V(2, 5]
-p34
+p33
 asS'major'
-p35
-(lp36
+p34
+(lp35
 S'information'
-p37
+p36
 aS'finance'
-p38
+p37
 aS'business'
-p39
+p38
 aS'marketing'
-p40
+p39
 aS'data science'
-p41
+p40
 aS'phd'
-p42
+p41
 aS'engineering'
-p43
+p42
 aS'marketing finance'
+p43
+aS'design'
 p44
-aS'design'
-p45
 aS'computer science'
-p46
+p45
 aS'statistic'
-p47
+p46
 aS'mathematics'
-p48
+p47
 aS'science'
-p49
+p48
 asS'education'
-p50
-(lp51
+p49
+(lp50
 VBachelor
-p52
+p51
 aVDoctor
-p53
+p52
 asS'responsibility'
-p54
-(lp55
+p53
+(lp54
 S'information'
-p56
+p55
 aS'product'
-p57
+p56
 aS'build dashboard'
-p58
+p57
 aVtest hypothesis
-p59
+p58
 aS'data infrastructure'
-p60
+p59
 aVinsight
-p61
+p60
 aS'analysis'
-p62
+p61
 aS'design'
-p63
+p62
 aS'recommendation'
-p64
+p63
 aS'report'
-p65
+p64
 aS'model'
-p66
+p65
 as.

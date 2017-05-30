@@ -2,230 +2,227 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'shell scripting'
 p4
-F0.0012330772128068389
-sS'shell scripting'
-p5
-F0.012641448780225072
+I1
 sS'intelligence'
-p6
-F0.011470835383917693
+p5
+I1
 sS'statistical analysis'
+p6
+I1
+sS'data mining'
 p7
-F0.0055014381183812978
-sS'data mining'
+I1
+sS'accounting'
 p8
-F0.013326044289985291
-sS'accounting'
-p9
-F0.013332179647374168
+I1
 sS'perl'
-p10
-F0.017747277310498497
+p9
+I1
 sS'amazon web services'
-p11
-F0.012329172246053448
+p10
+I1
 sS'dimensionality reduction'
+p11
+I1
+sS'finance'
 p12
-F0.015519063721430104
-sS'finance'
+I1
+sS'management'
 p13
-F0.0084275535111603388
-sS'management'
-p14
-F0.0051155195742295829
+I1
 sS'java'
-p15
-F0.0084647539619820671
+p14
+I1
 sS'anomaly detection'
-p16
-F0.011521409924532733
+p15
+I1
 sS'ruby'
-p17
-F0.019290211927433267
+p16
+I1
 sS'research'
-p18
-F0.0028632384239728548
+p17
+I1
 sS'r'
-F0.0023935097531682945
+I1
 sS'computer science'
-p19
-F0.0049657444291595259
+p18
+I1
 sS'web services'
+p19
+I1
+sS'natural language processing'
 p20
-F0.011002374657987824
-sS'natural language processing'
-p21
-F0.015312207838562981
+I1
 sS'operating systems'
+p21
+I1
+sS'processing'
 p22
-F0.013838548660366743
-sS'processing'
-p23
-F0.0047852717375974135
+I1
 sS'distributed computing'
+p23
+I1
+sS'business analysis'
 p24
-F0.0084888377482517114
-sS'business analysis'
-p25
-F0.023099748020237305
+I1
 sS'python'
+p25
+I1
+sS'marketing'
 p26
-F0.004363457437539838
-sS'marketing'
-p27
-F0.010244096840296757
+I1
 sS'scrum'
-p28
-F0.010478805576093875
+p27
+I1
 sS'data scientist'
+p28
+I1
+sS'business analytics'
 p29
-F0.00055575764134168639
-sS'business analytics'
-p30
-F0.018416646366406952
+I1
 sS'sql'
-p31
-F0.005672858117409702
+p30
+I1
 sS'data'
-p32
-F0.003093546676913772
+p31
+I1
 sS'software development'
-p33
-F0.0066157603143340874
+p32
+I1
 sS'c'
-F0.014009775296284081
+I1
 sVbayesian method
+p33
+I1
+sS'applied mathematics'
 p34
-F0.014447975125484078
-sS'applied mathematics'
-p35
-F0.017019093947947681
+I1
 sS'scala'
-p36
-F0.013411133339815843
+p35
+I1
 sS'programming'
+p36
+I1
+sS'analysis'
 p37
-F0.0062422538768874556
-sS'analysis'
+I1
+sS'machine learning'
 p38
-F0.0015054354355113278
-sS'machine learning'
+I1
+sS'optimization'
 p39
-F0.0047599897748092724
-sS'optimization'
-p40
-F0.011562264632441491
+I1
 sS'microsoft azure'
-p41
-F0.014764370626471826
+p40
+I1
 sS'statistical inference'
-p42
-F0.012442504731387747
+p41
+I1
 sS'scripting'
-p43
-F0.019114780891736328
+p42
+I1
 ssS'working-year'
-p44
-(dp45
+p43
+(dp44
 V[0]
-p46
-F0.0042827942112986335
+p45
+I1
 ssS'major'
-p47
-(dp48
+p46
+(dp47
 S'information'
-p49
-F0.0037748143110704984
+p48
+I1
 sS'management'
-p50
-F0.0051155195742295829
+p49
+I1
 sS'business analysis'
-p51
-F0.023099748020237305
+p50
+I1
 sS'business'
-p52
-F0.0011828998163609509
+p51
+I1
 sS'computing'
-p53
-F0.0063971917796800974
+p52
+I1
 sS'marketing'
-p54
-F0.010244096840296757
+p53
+I1
 sS'applied mathematics'
-p55
-F0.017019093947947681
+p54
+I1
 sS'natural language processing'
-p56
-F0.015312207838562981
+p55
+I1
 sS'finance'
-p57
-F0.0084275535111603388
+p56
+I1
 sS'general'
-p58
-F0.013922285856308626
+p57
+I1
 sS'business analytics'
-p59
-F0.018416646366406952
+p58
+I1
 sS'applied math'
-p60
-F0.007474062660426729
+p59
+I1
 sS'mathematics computer science'
-p61
-F0.010643389987123745
+p60
+I1
 sS'computer science'
+p61
+I1
+sS'data mining'
 p62
-F0.0049657444291595259
-sS'data mining'
-p63
-F0.013326044289985291
+I1
 sS'accounting'
-p64
-F0.013332179647374168
+p63
+I1
 sS'machine learning'
-p65
-F0.0047599897748092724
+p64
+I1
 sS'applied mathematics computer science'
-p66
-F0.015741608962386133
+p65
+I1
 sS'accounting finance'
-p67
-F0.017393393043112295
+p66
+I1
 ssS'education'
-p68
-(dp69
+p67
+(dp68
 S'Bachelor'
-p70
-F0.0010208863883247588
+p69
+I1
 ssS'responsibility'
-p71
-(dp72
+p70
+(dp71
 S'development'
-p73
-F0.0013888521503701296
+p72
+I1
 sS'information'
-p74
-F0.0037748143110704984
+p73
+I1
 sS'data mining'
-p75
-F0.013326044289985291
+p74
+I1
 sS'processing'
-p76
-F0.0047852717375974135
+p75
+I1
 sS'analysis'
-p77
-F0.0015054354355113278
+p76
+I1
 sS'analytic'
-p78
-F0.0089758702895280703
+p77
+I1
 sS'statistical method'
-p79
-F0.0075185487419069871
+p78
+I1
 sS'optimization'
-p80
-F0.011562264632441491
+p79
+I1
 sS'recommendation'
-p81
-F0.011002876236762596
+p80
+I1
 ss.

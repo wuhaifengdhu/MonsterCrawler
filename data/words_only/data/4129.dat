@@ -4,235 +4,223 @@ p2
 (dp3
 S'probability'
 p4
-F0.0096381325274913551
+I1
 sS'text analytics'
 p5
-F0.012724061523279168
+I1
 sS'communication'
 p6
-F0.0022023676773163443
+I1
 sS'hadoop'
 p7
-F0.0066842764162840232
+I1
 sS'analytics'
 p8
-F0.0028524692240929975
+I1
 sS'business intelligence'
 p9
-F0.0065405727168167263
+I1
 sS'data warehousing'
 p10
-F0.0092432531236152863
+I1
 sS'analysis'
 p11
-F0.0028163483147487199
+I1
 sS'data mining'
 p12
-F0.01246509199035141
+I1
 sS'go'
 p13
-F0.0078830767393718894
+I1
 sS'modeling'
 p14
-F0.0027125426345565888
+I1
 sS'education'
 p15
-F0.0041776889329330821
+I1
 sS'quantitative analysis'
 p16
-F0.018216801819550706
+I1
 sS'research'
 p17
-F0.0026782539190532599
+I1
 sS'clustering'
 p18
-F0.0071982807174466147
+I1
 sS'manufacturing'
 p19
-F0.019311708682741284
+I1
 sS'java'
 p20
-F0.0039589368951404892
+I1
 sS'shell scripting'
 p21
-F0.011824725965772328
-sS'big data'
-p22
-F0.0061887255819665131
+I1
 sS'time series analysis'
-p23
-F0.012671556103179259
+p22
+I1
 sS'tableau'
-p24
-F0.005585501745322791
+p23
+I1
 sS'perl'
+p24
+I1
+sS'computer science'
 p25
-F0.0083003417758370779
-sS'computer science'
-p26
-F0.004644923862107085
+I1
 sS'intelligence'
-p27
-F0.0053648710433210562
+p26
+I1
 sS'algorithm development'
-p28
-F0.010336490717834653
+p27
+I1
 sS'unstructured data'
+p28
+I1
+sS'operations research'
 p29
-F0.0067473687794450069
-sS'operations research'
-p30
-F0.014875928954846011
+I1
 sS'structural equation modeling'
-p31
-F0.018035413254411527
+p30
+I1
 sS'distributed computing'
-p32
-F0.0079404016015949992
+p31
+I1
 sS'python'
-p33
-F0.002040774335253885
+p32
+I1
 sS'data scientist'
-p34
-F0.00051985195103028533
-sS'machine learning'
-p35
-F0.0044524623455378864
+p33
+I1
 sS'scripting'
-p36
-F0.0059599457274795856
+p34
+I1
 sS'sql'
-p37
-F0.0026531766195188634
+p35
+I1
 sS'multivariate analysis'
-p38
-F0.013889623854282258
+p36
+I1
 sS'php'
-p39
-F0.011464110426186657
+p37
+I1
 sS'data'
-p40
-F0.0094044687951964304
+p38
+I1
 sS'data visualization'
-p41
-F0.0048068987210225312
+p39
+I1
 sS'programming'
-p42
-F0.00583896219383012
+p40
+I1
 sS'unix'
-p43
-F0.009483475375483651
+p41
+I1
 sS'hive'
-p44
-F0.0055481913595870833
+p42
+I1
 sS'simulation'
-p45
-F0.0085169525562334425
+p43
+I1
 sS'r'
-F0.0022388728870928148
+I1
 sS'microsoft azure'
-p46
-F0.01381049274891887
+p44
+I1
 sS'logistic regression'
-p47
-F0.010336490717834653
+p45
+I1
 sS'etl'
-p48
-F0.0074218682195008757
+p46
+I1
 sS'predictive analytics'
-p49
-F0.014322935983824362
+p47
+I1
 ssS'working-year'
-p50
-(dp51
+p48
+(dp49
 V(5, 10]
-p52
-F0.0033951951020487594
+p50
+I1
 ssS'major'
-p53
-(dp54
+p51
+(dp52
 S'business'
-p55
-F0.0044259060544741191
-sS'big data'
-p56
-F0.0061887255819665131
+p53
+I1
 sS'computing'
-p57
-F0.00598389006357717
+p54
+I1
 sS'communication'
-p58
-F0.0022023676773163443
+p55
+I1
 sS'data mining'
-p59
-F0.01246509199035141
-sS'machine learning'
-p60
-F0.0044524623455378864
+p56
+I1
 sS'analytics'
-p61
-F0.0028524692240929975
+p57
+I1
 sS'operations research'
-p62
-F0.014875928954846011
+p58
+I1
 sS'computer science'
-p63
-F0.004644923862107085
+p59
+I1
 sS'statistic'
-p64
-F0.002496112196894505
+p60
+I1
 sVphysic
-p65
-F0.0064032561714083298
+p61
+I1
 sS'predictive analytics'
-p66
-F0.014322935983824362
+p62
+I1
 ssS'education'
+p63
+(dp64
+VMaster
+p65
+I1
+sVDoctor
+p66
+I1
+ssS'responsibility'
 p67
 (dp68
-VMaster
-p69
-F0.0027095443227637809
-sVDoctor
-p70
-F0.0035749007229814388
-ssS'responsibility'
-p71
-(dp72
 S'large data set'
-p73
-F0.006230025646683319
+p69
+I1
 sS'business problem'
-p74
-F0.0051927882688320402
+p70
+I1
 sS'tactical initiative'
-p75
-F0.023876537179887771
+p71
+I1
 sVinsight
-p76
-F0.002924329436727663
+p72
+I1
 sS'communicate'
-p77
-F0.0034688432952082247
+p73
+I1
 sS'analysis'
-p78
-F0.0028163483147487199
+p74
+I1
 sS'simulation'
-p79
-F0.0085169525562334425
+p75
+I1
 sS'key decision'
-p80
-F0.014230522851963532
+p76
+I1
 sS'data mining'
-p81
-F0.01246509199035141
+p77
+I1
 sS'modeling'
-p82
-F0.0027125426345565888
+p78
+I1
 sS'implement'
-p83
-F0.0074773105279331547
+p79
+I1
 sS'quantitative analysis'
-p84
-F0.018216801819550706
+p80
+I1
 ss.

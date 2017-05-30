@@ -2,145 +2,142 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'saas'
 p4
-F0.0010862823065203105
-sS'saas'
-p5
-F0.0069080489951794197
-sS'research'
-p6
-F0.0025223767068332289
-sS'technical leadership'
-p7
-F0.010612245424651709
-sS'management'
-p8
-F0.0067597937230890913
-sS'business process management'
-p9
-F0.017338990232107238
-sS'user experience'
-p10
-F0.0074421473407041746
-sS'agile'
-p11
-F0.005048998971002569
-sS'excel'
-p12
-F0.0051563733030599128
-sS'integration'
-p13
-F0.0050965939987072453
+I1
 sS'strategy'
-p14
-F0.0037153422119214179
-sS'computer science'
-p15
-F0.0043745843780691063
-sS'innovation'
-p16
-F0.009906985078531709
-sS'artificial intelligence'
-p17
-F0.017677392246408661
-sS'product development'
-p18
-F0.0054731277528600785
-sS'scrum'
-p19
-F0.018462657443593971
-sS'data scientist'
-p20
-F0.00048959601737243803
-sS'automation'
-p21
-F0.051660767738448791
-sS'business process'
-p22
-F0.0069974764946534691
-sS'process automation'
-p23
-F0.013489036388001247
-sS'leadership'
-p24
-F0.0040315260390745298
-sS'data'
-p25
-F0.00068131682765362831
-sS'b2b'
-p26
-F0.0073888836165500234
-sS'software development'
-p27
-F0.0058281698007228867
-sS'architecture'
-p28
-F0.0047475506607051526
-sS'product management'
-p29
-F0.0078380011713294652
-sS'application development'
-p30
-F0.0084702919496435491
-ssS'working-year'
-p31
-(dp32
-V(5, 10]
-p33
-F0.003197591154310472
-sV(10, 15]
-p34
-F0.0074873680182857612
-ssS'major'
-p35
-(dp36
-S'information'
-p37
-F0.0016627158274953385
+p5
+I1
+sS'technical leadership'
+p6
+I1
 sS'management'
-p38
-F0.0067597937230890913
-sS'business'
-p39
-F0.0010420784096513138
-sS'computer science computer engineering'
-p40
-F0.012598904654843838
-sS'automation'
-p41
-F0.051660767738448791
-sS'computer engineering'
-p42
-F0.010672371996522718
+p7
+I1
+sS'business process management'
+p8
+I1
+sS'user experience'
+p9
+I1
+sS'agile'
+p10
+I1
+sS'excel'
+p11
+I1
+sS'integration'
+p12
+I1
+sS'research'
+p13
+I1
 sS'computer science'
-p43
-F0.0043745843780691063
-sS'ee computer science'
-p44
-F0.0059785067627726547
+p14
+I1
+sS'innovation'
+p15
+I1
 sS'artificial intelligence'
-p45
-F0.017677392246408661
+p16
+I1
+sS'product development'
+p17
+I1
+sS'scrum'
+p18
+I1
+sS'data scientist'
+p19
+I1
+sS'automation'
+p20
+I1
+sS'business process'
+p21
+I1
+sS'process automation'
+p22
+I1
+sS'leadership'
+p23
+I1
+sS'data'
+p24
+I1
+sS'b2b'
+p25
+I1
+sS'software development'
+p26
+I1
+sS'architecture'
+p27
+I1
+sS'product management'
+p28
+I1
+sS'application development'
+p29
+I1
+ssS'working-year'
+p30
+(dp31
+V(5, 10]
+p32
+I1
+sV(10, 15]
+p33
+I1
+ssS'major'
+p34
+(dp35
+S'information'
+p36
+I1
+sS'management'
+p37
+I1
+sS'business'
+p38
+I1
+sS'computer science computer engineering'
+p39
+I1
+sS'automation'
+p40
+I1
+sS'computer engineering'
+p41
+I1
+sS'computer science'
+p42
+I1
+sS'ee computer science'
+p43
+I1
+sS'artificial intelligence'
+p44
+I1
 ssS'education'
-p46
-(dp47
+p45
+(dp46
 VBachelor
-p48
-F0.00089935229447657319
+p47
+I1
 sVMaster
-p49
-F0.0025518459759362594
+p48
+I1
 ssS'responsibility'
-p50
-(dp51
+p49
+(dp50
 S'development'
-p52
-F0.0012235126086594
+p51
+I1
 sS'information'
-p53
-F0.0016627158274953385
+p52
+I1
 sS'product'
-p54
-F0.010603067911217946
+p53
+I1
 ss.

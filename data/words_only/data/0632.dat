@@ -2,154 +2,145 @@
 S'skills'
 p2
 (dp3
-S'consulting'
+S'qlikview'
 p4
-F0.010538914594863495
-sS'r d'
+I1
+sS'consulting'
 p5
-F0.0010474865098588707
-sS'communication'
+I1
+sS'data collection'
 p6
-F0.0040002188424725438
-sS'data science'
+I1
+sS'data scientist'
 p7
-F0.0047475194191517996
-sS'public policy'
+I1
+sS'data visualization'
 p8
-F0.020641414457303293
-sS'team management'
+I1
+sS'communication'
 p9
-F0.014172479385521802
-sS'research'
+I1
+sS'data science'
 p10
-F0.0024322918244463277
-sS'qlikview'
+I1
+sS'processing'
 p11
-F0.010204733860651315
+I1
 sS'excel'
 p12
-F0.0049722171136649153
+I1
 sS'tableau'
 p13
-F0.0050725475034053913
-sS'strategy'
-p14
-F0.010747954255915531
-sS'natural language processing'
-p15
-F0.01300756431184049
-sS'energy'
-p16
-F0.0069529617311846845
-sS'product development'
-p17
-F0.0052776589045436476
-sS'processing'
-p18
-F0.0040650395117855578
-sS'data scientist'
-p19
-F0.00047211044532342238
-sS'leadership'
-p20
-F0.0038875429662504394
-sS'data collection'
-p21
-F0.015491138993263348
-sS'data visualization'
-p22
-F0.0043654488384796452
-sS'business strategy'
-p23
-F0.0086896173342064578
+I1
 sS'analysis'
-p24
-F0.0038365561226423889
-sS'data analytics'
-p25
-F0.0078037429315653212
-ssS'working-year'
-p26
-(dp27
-V(5, 10]
-p28
-F0.0030833914702279551
-sV(10, 15]
-p29
-F0.0072199620176326982
-ssS'major'
-p30
-(dp31
-S'information'
-p32
-F0.001603333119370505
-sS'business'
-p33
-F0.0030145839707770151
-sS'communication'
-p34
-F0.0040002188424725438
-sS'data science'
-p35
-F0.0047475194191517996
+p14
+I1
+sS'strategy'
+p15
+I1
+sS'business strategy'
+p16
+I1
+sS'leadership'
+p17
+I1
 sS'natural language processing'
-p36
-F0.01300756431184049
-sS'design'
-p37
-F0.0017380577962673586
-sS'statistic'
-p38
-F0.0022668774033021526
+p18
+I1
 sS'public policy'
-p39
-F0.020641414457303293
+p19
+I1
+sS'research'
+p20
+I1
+sS'energy'
+p21
+I1
 sS'data analytics'
-p40
-F0.0078037429315653212
+p22
+I1
+ssS'working-year'
+p23
+(dp24
+V(5, 10]
+p25
+I1
+sV(10, 15]
+p26
+I1
+ssS'major'
+p27
+(dp28
+S'information'
+p29
+I1
+sS'business'
+p30
+I1
+sS'communication'
+p31
+I1
+sS'data science'
+p32
+I1
+sS'natural language processing'
+p33
+I1
+sS'design'
+p34
+I1
+sS'statistic'
+p35
+I1
+sS'public policy'
+p36
+I1
+sS'data analytics'
+p37
+I1
 ssS'education'
+p38
+(dp39
+S'Bachelor'
+p40
+I1
+ssS'responsibility'
 p41
 (dp42
-S'Bachelor'
-p43
-F0.00086723256967383849
-ssS'responsibility'
-p44
-(dp45
 S'development'
-p46
-F0.0011798157297787072
+p43
+I1
 sS'information'
-p47
-F0.001603333119370505
+p44
+I1
 sS'product'
-p48
-F0.0014606267020555333
+p45
+I1
 sVinsight
-p49
-F0.013278842850447042
+p46
+I1
 sS'processing'
-p50
-F0.0040650395117855578
+p47
+I1
 sS'analysis'
-p51
-F0.0038365561226423889
+p48
+I1
 sS'data collection'
-p52
-F0.015491138993263348
+p49
+I1
 sS'understand'
-p53
-F0.0034209610754492503
+p50
+I1
 sS'report'
-p54
-F0.0032540125937104316
+p51
+I1
 sS'design'
-p55
-F0.0017380577962673586
+p52
+I1
 sS'implement'
-p56
-F0.0033953093723778096
+p53
+I1
 sS'model'
-p57
-F0.0018792208472427757
+p54
+I1
 ss.

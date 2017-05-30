@@ -4,135 +4,129 @@ p2
 (lp3
 S'consulting'
 p4
-aS'r d'
-p5
 aS'biostatistics'
-p6
+p5
 aS'testing'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'engineering'
-p9
+p8
 aS'geospatial data'
-p10
+p9
 aS'problem solving'
-p11
+p10
 aS'computational mathematics'
-p12
-aS'research'
-p13
-aS'education'
-p14
-aS'critical thinking'
-p15
+p11
 aS'strategy'
-p16
+p12
+aS'education'
+p13
+aS'critical thinking'
+p14
+aS'research'
+p15
 aS'biotechnology'
-p17
-aS'matlab'
-p18
-aS'mathematics'
-p19
+p16
 aS'mixed model'
-p20
+p17
+aS'mathematics'
+p18
+aS'matlab'
+p19
 aS'biology'
-p21
+p20
 aS'environmental science'
-p22
+p21
 aS'python'
-p23
+p22
 aS'marketing'
-p24
+p23
 aS'experimental design'
-p25
+p24
 aS'bioinformatics'
-p26
+p25
 aS'modeling'
-p27
+p26
 aS'data'
-p28
+p27
 aS'science'
-p29
+p28
 aS'programming'
-p30
-aS'machine learning'
-p31
+p29
 aS'r'
 aS'organization'
-p32
+p30
 aS'teaching'
-p33
+p31
 aVbayesian statistic
+p32
+aS'data analytics'
+p33
+aS'predictive analytics'
 p34
-aS'data analytics'
-p35
-aS'predictive analytics'
-p36
 asS'working-year'
-p37
-(lp38
+p35
+(lp36
 V(0, 2]
-p39
+p37
 asS'major'
-p40
-(lp41
+p38
+(lp39
 S'science'
-p42
+p40
 aS'mathematics'
-p43
+p41
 aS'biology'
-p44
-aS'general'
-p45
+p42
 aS'biostatistics'
-p46
+p43
 aS'environmental science'
-p47
+p44
 aS'marketing'
-p48
+p45
 aS'statistic'
-p49
-aS'machine learning'
-p50
-aS'analytics'
-p51
-aS'engineering'
-p52
-aS'biotechnology'
-p53
-aS'design'
-p54
-aS'bioinformatics'
-p55
-aS'computational mathematics'
-p56
+p46
 aS'phd'
-p57
-aS'data analytics'
-p58
-aS'predictive analytics'
-p59
-asS'education'
-p60
-(lp61
-VMaster
-p62
-aVDoctor
-p63
-asS'responsibility'
-p64
-(lp65
-S'development'
-p66
-aS'product'
-p67
+p47
+aS'analytics'
+p48
+aS'engineering'
+p49
+aS'biotechnology'
+p50
 aS'design'
-p68
+p51
+aS'bioinformatics'
+p52
+aS'computational mathematics'
+p53
+aS'general'
+p54
+aS'data analytics'
+p55
+aS'predictive analytics'
+p56
+asS'education'
+p57
+(lp58
+VMaster
+p59
+aVDoctor
+p60
+asS'responsibility'
+p61
+(lp62
+S'development'
+p63
+aS'product'
+p64
+aS'design'
+p65
 aS'modeling'
-p69
+p66
 aS'implement'
-p70
+p67
 aS'model'
-p71
+p68
 as.

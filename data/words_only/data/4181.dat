@@ -2,239 +2,236 @@
 S'skills'
 p2
 (dp3
-S'computer architecture'
+S'parallel computing'
 p4
-F0.011546701020732247
+I1
 sS'communication'
 p5
-F0.0024463116790159707
+I1
 sS'energy'
 p6
-F0.0042520452396636451
+I1
 sS'linux'
 p7
-F0.0039214914206250218
+I1
 sS'unix'
 p8
-F0.0052669535626711081
+I1
 sS'c++'
 p9
-F0.0041996447614446788
+I1
 sS'data mining'
 p10
-F0.0069228904033776951
+I1
 sS'laboratory'
 p11
-F0.023941525771415912
+I1
 sS'education'
 p12
-F0.0023202141343590908
-sS'parallel computing'
+I1
+sS'management'
 p13
-F0.0085870808552183913
-sS'management'
-p14
-F0.0039862746136157205
+I1
 sS'java'
+p14
+I1
+sS'big data'
 p15
-F0.0021987231430109426
-sS'big data'
-p16
-F0.0034371081235258639
+I1
 sS'integration'
-p17
-F0.0060109595366968456
+p16
+I1
 sS'research'
-p18
-F0.0029749091893384108
+p17
+I1
 sS'access'
+p18
+I1
+sS'computer science'
 p19
-F0.0028441889306923744
-sS'computer science'
-p20
-F0.0025797081043839659
+I1
 sS'statistical learning'
-p21
-F0.0080074213773519108
+p20
+I1
 sS'data management'
-p22
-F0.0036455988561728638
+p21
+I1
 sS'matlab'
+p22
+I1
+sS'data analysis'
 p23
-F0.003451322819443469
-sS'data analysis'
-p24
-F0.0043510417741832981
+I1
 sS'python'
+p24
+I1
+sS'processing'
 p25
-F0.0011334097712174464
-sS'processing'
-p26
-F0.0024859524003431185
+I1
 sS'data scientist'
-p27
-F0.00028871652818530669
+p26
+I1
 sS'information visualization'
+p27
+I1
+sS'computer security'
 p28
-F0.0086671012778854091
-sS'computer security'
+I1
+sS'modeling'
 p29
-F0.019039482052502926
-sS'modeling'
-p30
-F0.0015064979374448449
+I1
 sS'data'
-p31
-F0.0024106498675794527
+p30
+I1
 sS'c'
-F0.0036390445972407171
+I1
 sS'national security'
+p31
+I1
+sS'science'
 p32
-F0.0054646877851265794
-sS'science'
+I1
+sS'machine learning'
 p33
-F0.0068688920303018042
-sS'machine learning'
-p34
-F0.0024728184009539587
+I1
 sS'programming'
+p34
+I1
+sS'engineering'
 p35
-F0.0048642836372937348
-sS'engineering'
+I1
+sS'high performance computing'
 p36
-F0.0048777548077106811
-sS'high performance computing'
+I1
+sS'simulation'
 p37
-F0.013496639586334342
-sS'simulation'
-p38
-F0.01892065591275573
+I1
 sS'data integration'
-p39
-F0.0054541825921021001
+p38
+I1
 sS'r'
-F0.001243430183783217
+I1
 sS'architecture'
-p40
-F0.002799647659510995
+p39
+I1
 sS'organization'
-p41
-F0.0016715482117240228
+p40
+I1
 sS'security'
+p41
+I1
+sS'analysis'
 p42
-F0.0024890781442615654
-sS'analysis'
+I1
+sS'data analytics'
 p43
-F0.0046924492982084757
-sS'data analytics'
-p44
-F0.0047723357709416629
+I1
 sS'statistical analysis'
-p45
-F0.0028580013937924685
+p44
+I1
 ssS'working-year'
-p46
-(dp47
+p45
+(dp46
 sS'major'
-p48
-(dp49
+p47
+(dp48
 S'information'
-p50
-F0.0029415284686110984
+p49
+I1
 sS'management'
-p51
-F0.0039862746136157205
+p50
+I1
 sS'big data'
-p52
-F0.0034371081235258639
+p51
+I1
 sS'science'
-p53
-F0.0068688920303018042
+p52
+I1
 sS'applied science technology'
-p54
-F0.010749781805679638
+p53
+I1
 sS'computer science computer engineering'
-p55
-F0.0074296192816395807
+p54
+I1
 sS'computer engineering'
-p56
-F0.0062935360603519315
+p55
+I1
 sS'high performance computing'
-p57
-F0.013496639586334342
+p56
+I1
 sS'machine learning'
-p58
-F0.0024728184009539587
+p57
+I1
 sS'engineering'
+p58
+I1
+sS'design'
 p59
-F0.0048777548077106811
-sS'design'
-p60
-F0.003188698858674593
+I1
 sS'computer science'
-p61
-F0.0025797081043839659
+p60
+I1
 sS'computer security'
+p61
+I1
+sS'data mining'
 p62
-F0.019039482052502926
-sS'data mining'
-p63
-F0.0069228904033776951
+I1
 sS'communication'
-p64
-F0.0024463116790159707
+p63
+I1
 sS'ee computer science'
-p65
-F0.0035255468897473696
+p64
+I1
 sS'data analytics'
-p66
-F0.0047723357709416629
+p65
+I1
 ssS'education'
-p67
-(dp68
+p66
+(dp67
 VBachelor
-p69
-F0.00053035127505794808
+p68
+I1
 ssS'responsibility'
-p70
-(dp71
+p69
+(dp70
 S'development'
-p72
-F0.0007215097754652936
+p71
+I1
 sS'information'
-p73
-F0.0029415284686110984
+p72
+I1
 sS'data analysis'
-p74
-F0.0043510417741832981
+p73
+I1
 sS'processing'
-p75
-F0.0024859524003431185
+p74
+I1
 sS'decision-making'
-p76
-F0.0046344293531560016
+p75
+I1
 sS'construct'
-p77
-F0.0070667174762673694
+p76
+I1
 sS'simulation'
-p78
-F0.01892065591275573
+p77
+I1
 sS'design'
-p79
-F0.003188698858674593
+p78
+I1
 sS'analysis'
-p80
-F0.0046924492982084757
+p79
+I1
 sS'data mining'
-p81
-F0.0069228904033776951
+p80
+I1
 sS'modeling'
-p82
-F0.0015064979374448449
+p81
+I1
 sS'implement'
-p83
-F0.0020763826427021865
+p82
+I1
 sS'model'
-p84
-F0.0011492271015899661
+p83
+I1
 ss.

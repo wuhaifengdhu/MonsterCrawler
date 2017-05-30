@@ -2,28 +2,28 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'web analytics'
 p4
-aS'strategic planning'
+aS'pattern recognition'
 p5
-aS'statistical analysis'
-p6
-aS'data mining'
-p7
-aS'simulation'
-p8
-aS'web analytics'
-p9
 aS'big data'
-p10
-aS'predictive modeling'
-p11
-aS'research'
-p12
-aS'r'
+p6
 aS'python'
-p13
+p7
+aS'optimization'
+p8
+aS'data mining'
+p9
 aS'data scientist'
+p10
+aS'mapreduce'
+p11
+aS'predictive modeling'
+p12
+aS'machine learning'
+p13
+aS'r'
+aS'statistical analysis'
 p14
 aS'statistical modeling'
 p15
@@ -33,72 +33,70 @@ aS'modeling'
 p17
 aS'spark'
 p18
-aS'data'
+aS'strategic planning'
 p19
-aS'project management'
+aS'data'
 p20
-aS'pattern recognition'
+aS'research'
 p21
-aS'mapreduce'
-p22
-aS'machine learning'
-p23
-aS'optimization'
-p24
-asS'working-year'
-p25
-(lp26
-V[0]
-p27
-asS'major'
-p28
-(lp29
-S'big data'
-p30
-aS'machine learning data mining'
-p31
-aS'machine learning'
-p32
-aS'data mining'
-p33
-aS'phd'
-p34
 aS'project management'
-p35
-asS'education'
-p36
-(lp37
-VMaster
-p38
-aVDoctor
-p39
-asS'responsibility'
-p40
-(lp41
-S'development'
-p42
-aS'large data set'
-p43
-aS'product'
-p44
-aS'build model'
-p45
-aS'pattern'
-p46
-aS'statistical model'
-p47
-aS'optimization'
-p48
-aS'data mining'
-p49
-aS'report'
-p50
-aS'modeling'
-p51
-aS'model'
-p52
+p22
 aS'simulation'
-p53
+p23
+asS'working-year'
+p24
+(lp25
+V[0]
+p26
+asS'major'
+p27
+(lp28
+S'big data'
+p29
+aS'machine learning data mining'
+p30
+aS'machine learning'
+p31
+aS'data mining'
+p32
+aS'phd'
+p33
+aS'project management'
+p34
+asS'education'
+p35
+(lp36
+VMaster
+p37
+aVDoctor
+p38
+asS'responsibility'
+p39
+(lp40
+S'development'
+p41
+aS'large data set'
+p42
+aS'product'
+p43
+aS'build model'
+p44
+aS'pattern'
+p45
+aS'statistical model'
+p46
+aS'optimization'
+p47
+aS'data mining'
+p48
+aS'report'
+p49
+aS'modeling'
+p50
+aS'model'
+p51
+aS'simulation'
+p52
 aS'data gathering'
-p54
+p53
 as.

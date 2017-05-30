@@ -2,169 +2,166 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'hardware'
 p4
-F0.00074252208293793366
-sS'hardware'
+I1
+sS'analytics'
 p5
-F0.011634297954515592
-sS'analytics'
+I1
+sS'engineering'
 p6
-F0.0018363093015860887
-sS'engineering'
-p7
-F0.0018846539070178098
+I1
 sS'go'
+p7
+I1
+sS'management'
 p8
-F0.0050748197454184322
-sS'management'
+I1
+sS'big data'
 p9
-F0.0046206184942634296
-sS'big data'
-p10
-F0.003984062038300323
+I1
 sS'integration'
-p11
-F0.0069674955931693988
+p10
+I1
 sS'governance'
-p12
-F0.027529597879289162
+p11
+I1
 sS'strategy'
-p13
-F0.012698005028085858
+p12
+I1
 sS'risk management'
+p13
+I1
+sS'computer science'
 p14
-F0.0056759461169206991
-sS'computer science'
-p15
-F0.0029902222331105281
+I1
 sS'innovation'
-p16
-F0.0045145754788245762
+p15
+I1
 sS'policy'
+p16
+I1
+sS'operations research'
 p17
-F0.0042564426503763396
-sS'operations research'
-p18
-F0.0095765473922697648
+I1
 sS'systems engineering'
-p19
-F0.016382516825632489
+p18
+I1
 sS'collaboration'
-p20
-F0.0032764117227955551
+p19
+I1
 sS'data scientist'
-p21
-F0.00033466056883685639
+p20
+I1
 sS'information security'
-p22
-F0.0081574574552112419
+p21
+I1
 sS'leadership'
+p22
+I1
+sS'information technology'
 p23
-F0.0055114533192411296
-sS'information technology'
-p24
-F0.0091737679251501798
+I1
 sS'risk assessment'
+p24
+I1
+sS'advanced analytics'
 p25
-F0.0084474050545265029
-sS'advanced analytics'
-p26
-F0.0078885780545882994
+I1
 sS'data center'
-p27
-F0.006639708367641081
+p26
+I1
 sS'architecture'
-p28
-F0.006490322422229829
+p27
+I1
 sS'organization'
-p29
-F0.0019375450338428545
+p28
+I1
 sS'security'
+p29
+I1
+sS'data analytics'
 p30
-F0.0086555104365551357
-sS'data analytics'
-p31
-F0.0055317671413627591
+I1
 ssS'working-year'
-p32
-(dp33
+p31
+(dp32
 V[0]
-p34
-F0.0025789701127711482
+p33
+I1
 ssS'major'
-p35
-(dp36
+p34
+(dp35
 S'systems engineering'
+p36
+I1
+sS'information'
 p37
-F0.016382516825632489
-sS'information'
-p38
-F0.0056826996635916636
+I1
 sS'management'
-p39
-F0.0046206184942634296
+p38
+I1
 sS'business'
-p40
-F0.0078353743713022832
+p39
+I1
 sS'big data'
-p41
-F0.003984062038300323
+p40
+I1
 sS'applied math'
-p42
-F0.0045006561770743235
+p41
+I1
 sS'mba'
-p43
-F0.0067286577771677996
+p42
+I1
 sS'data analyst'
-p44
-F0.0049857275260443796
+p43
+I1
 sS'data analytics'
-p45
-F0.0055317671413627591
+p44
+I1
 sS'analytics'
-p46
-F0.0018363093015860887
+p45
+I1
 sS'engineering'
-p47
-F0.0018846539070178098
+p46
+I1
 sS'information system'
-p48
-F0.0050031982323262879
+p47
+I1
 sS'statistics operations research'
-p49
-F0.0080282383771710618
+p48
+I1
 sS'statistic'
-p50
-F0.0016069004377838043
+p49
+I1
 sS'advanced analytics'
-p51
-F0.0078885780545882994
+p50
+I1
 sS'operations research'
-p52
-F0.0095765473922697648
+p51
+I1
 sS'information technology'
-p53
-F0.0091737679251501798
+p52
+I1
 sS'computer science'
-p54
-F0.0029902222331105281
+p53
+I1
 ssS'education'
-p55
-(dp56
+p54
+(dp55
 S'Bachelor'
-p57
-F0.00061474713799664505
+p56
+I1
 ssS'responsibility'
-p58
-(dp59
+p57
+(dp58
 S'development'
-p60
-F0.0025089752228205416
+p59
+I1
 sS'information'
-p61
-F0.0056826996635916636
+p60
+I1
 sS'model'
-p62
-F0.0013321059170328538
+p61
+I1
 ss.

@@ -4,110 +4,108 @@ p2
 (lp3
 S'nlp'
 p4
-aS'r d'
-p5
 aS'nosql'
-p6
+p5
 aS'programming'
-p7
+p6
 aS'testing'
-p8
+p7
 aS'cluster'
-p9
+p8
 aS'linux'
+p9
+aS'accounting'
 p10
-aS'accounting'
-p11
 aVpanda
-p12
+p11
 aS'hadoop'
+p12
+aS'computer science'
 p13
-aS'computer science'
-p14
 aS'mac os'
+p14
+aS'mathematics'
 p15
-aS'mathematics'
-p16
 aS'text mining'
+p16
+aS'finance'
 p17
-aS'finance'
-p18
 aS'government'
-p19
+p18
 aS'python'
+p19
+aS'processing'
 p20
-aS'processing'
-p21
 aS'data scientist'
-p22
+p21
 aS'scipy'
-p23
+p22
 aS'data processing'
-p24
+p23
 aS'sql'
-p25
+p24
 aS'spark'
-p26
+p25
 aS'data'
-p27
+p26
 aS'software development'
-p28
+p27
 aS'search'
-p29
+p28
 aS'parallel programming'
+p29
+aS'science'
 p30
-aS'science'
-p31
 aS'scikit-learn'
+p31
+aS'analysis'
 p32
-aS'analysis'
+aS'machine learning'
 p33
-aS'machine learning'
-p34
 asS'working-year'
-p35
-(lp36
+p34
+(lp35
 V(20, 30)
-p37
+p36
 asS'major'
-p38
-(lp39
+p37
+(lp38
 S'information'
-p40
+p39
 aS'finance'
-p41
+p40
 aS'computing'
-p42
+p41
 aS'science'
-p43
+p42
 aS'machine learning'
-p44
+p43
 aS'finance accounting'
-p45
+p44
 aS'computer science'
-p46
+p45
 aS'mathematics'
-p47
+p46
 aS'accounting'
-p48
+p47
 aS'computer science mathematics'
-p49
+p48
 asS'education'
-p50
-(lp51
+p49
+(lp50
 VMaster
-p52
+p51
 asS'responsibility'
-p53
-(lp54
+p52
+(lp53
 S'development'
-p55
+p54
 aS'information'
-p56
+p55
 aS'model'
-p57
+p56
 aS'processing'
-p58
+p57
 aS'analysis'
-p59
+p58
 as.

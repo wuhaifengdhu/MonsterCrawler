@@ -2,138 +2,136 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'testing'
+p5
+aS'analytics'
 p6
-aS'analytics'
+aS'engineering'
 p7
-aS'engineering'
-p8
 aS'data governance'
-p9
+p8
 aS'problem solving'
-p10
+p9
 aS'education'
-p11
+p10
 aS'management'
-p12
+p11
 aS'governance'
-p13
+p12
 aS'strategy'
-p14
+p13
 aS'risk management'
-p15
+p14
 aS'innovation'
+p15
+aS'mathematics'
 p16
-aS'mathematics'
-p17
 aS'risk analytics'
-p18
+p17
 aS'data management'
+p18
+aS'data analysis'
 p19
-aS'data analysis'
-p20
 aS'data scientist'
-p21
+p20
 aS'business process'
-p22
+p21
 aS'leadership'
-p23
+p22
 aS'statistical modeling'
+p23
+aS'modeling'
 p24
-aS'modeling'
-p25
 aS'data'
-p26
+p25
 aS'training'
+p26
+aS'science'
 p27
-aS'science'
-p28
 aS'business strategy'
+p28
+aS'analysis'
 p29
-aS'analysis'
-p30
 aS'data center'
-p31
+p30
 aS'credit'
-p32
+p31
 aS'organization'
-p33
+p32
 aS'validation'
+p33
+aS'data analytics'
 p34
-aS'data analytics'
+aS'predictive analytics'
 p35
-aS'predictive analytics'
-p36
 asS'working-year'
-p37
-(lp38
+p36
+(lp37
 V(5, 10]
-p39
+p38
 aV(10, 15]
-p40
+p39
 aV(2, 5]
-p41
+p40
 asS'major'
-p42
-(lp43
+p41
+(lp42
 S'management'
-p44
+p43
 aS'business'
-p45
+p44
 aS'science'
-p46
+p45
 aS'data analyst'
-p47
+p46
 aS'analytics'
-p48
+p47
 aS'engineering'
+p48
+aS'design'
 p49
-aS'design'
-p50
 aS'communication'
-p51
+p50
 aS'mathematics'
-p52
+p51
 aS'data analytics'
-p53
+p52
 aS'predictive analytics'
-p54
+p53
 asS'education'
-p55
-(lp56
+p54
+(lp55
 VBachelor
-p57
+p56
 aVMaster
-p58
+p57
 aVDoctor
-p59
+p58
 asS'responsibility'
-p60
-(lp61
+p59
+(lp60
 S'development'
-p62
+p61
 aS'data analysis'
-p63
+p62
 aS'business problem'
-p64
+p63
 aS'communicate'
-p65
+p64
 aS'analysis'
-p66
+p65
 aS'statistical model'
-p67
+p66
 aS'analytic'
-p68
+p67
 aS'design'
-p69
+p68
 aS'modeling'
-p70
+p69
 aS'understand'
-p71
+p70
 aS'model'
-p72
+p71
 as.

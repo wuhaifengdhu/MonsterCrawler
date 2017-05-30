@@ -4,221 +4,218 @@ p2
 (dp3
 S'negotiation'
 p4
-F0.010152296795329478
-sS'r d'
-p5
-F0.0010214296315041724
+I1
 sS'nosql'
+p5
+I1
+sS'data science'
 p6
-F0.0058499352011164565
-sS'data science'
+I1
+sS'analytics'
 p7
-F0.0046294219211629488
-sS'analytics'
-p8
-F0.012630336365386904
+I1
 sS'unix'
-p9
-F0.01679660315259791
+p8
+I1
 sS'system administration'
-p10
-F0.010798947687810926
+p9
+I1
 sS'visualization'
-p11
-F0.0041232695847472564
+p10
+I1
 sS'technical leadership'
+p11
+I1
+sS'management'
 p12
-F0.0099786785336277266
-sS'management'
-p13
-F0.0063562239485763106
+I1
 sS'open source'
-p14
-F0.0062780504548196753
+p13
+I1
 sS'rdbms'
+p14
+I1
+sS'big data'
 p15
-F0.0097903442113618008
-sS'big data'
-p16
-F0.0054805629531842759
+I1
 sS'predictive modeling'
-p17
-F0.0053814334553479249
+p16
+I1
 sS'storage'
-p18
-F0.0075847163775926551
+p17
+I1
 sS'hadoop'
-p19
-F0.0088791134484966887
+p18
+I1
 sS'strategy'
+p19
+I1
+sS'computer science'
 p20
-F0.0069870614731656518
-sS'computer science'
+I1
+sS'advanced analytics'
 p21
-F0.0041134151614679653
-sS'advanced analytics'
+I1
+sS'mathematics'
 p22
-F0.010851700657182412
-sS'mathematics'
-p23
-F0.0040320621157256594
+I1
 sS'energy'
-p24
-F0.013560004968280581
+p23
+I1
 sS'data management'
-p25
-F0.0058130071313602129
+p24
+I1
 sS'collaboration'
-p26
-F0.0045071036883232388
+p25
+I1
 sS'data scientist'
-p27
-F0.00046036640439497907
+p26
+I1
 sS'business process'
-p28
-F0.0065797167039278893
+p27
+I1
 sS'leadership'
-p29
-F0.0037908379173387371
+p28
+I1
 sS'energy efficiency'
-p30
-F0.015678667379036237
+p29
+I1
 sS'sql'
+p30
+I1
+sS'modeling'
 p31
-F0.002349579294897302
-sS'modeling'
-p32
-F0.0096086087353447324
+I1
 sS'manufacturing'
-p33
-F0.0085509555858904185
+p32
+I1
 sS'data'
+p33
+I1
+sS'software engineering'
 p34
-F0.003843847176911515
-sS'software engineering'
+I1
+sS'applied mathematics'
 p35
-F0.013653577661235428
-sS'applied mathematics'
+I1
+sS'engineering'
 p36
-F0.014097906180762633
-sS'engineering'
-p37
-F0.0025925711705991265
+I1
 sS'hive'
-p38
-F0.0049133236915746307
+p37
+I1
 sS'architecture'
-p39
-F0.0089282296007290925
+p38
+I1
 sS'oracle'
-p40
-F0.0065443336847485437
+p39
+I1
 sS'organization'
-p41
-F0.0053306587249507395
+p40
+I1
 sS'security'
+p41
+I1
+sS'data analytics'
 p42
-F0.0039689032101285155
-sS'data analytics'
-p43
-F0.0076096199730686714
+I1
 ssS'working-year'
-p44
-(dp45
+p43
+(dp44
 V(0, 2]
-p46
-F0.0045921701093635846
+p45
+I1
 sV(2, 5]
-p47
-F0.0019525715225096113
+p46
+I1
 ssS'major'
-p48
-(dp49
+p47
+(dp48
 S'information'
-p50
-F0.0015634492109284528
+p49
+I1
 sS'management'
-p51
-F0.0063562239485763106
+p50
+I1
 sS'business'
-p52
-F0.00097986477325422042
+p51
+I1
 sS'big data'
-p53
-F0.0054805629531842759
+p52
+I1
 sS'computing'
-p54
-F0.0052991663249588872
+p53
+I1
 sS'applied mathematics'
-p55
-F0.014097906180762633
+p54
+I1
 sS'applied math'
-p56
-F0.0061912011590102012
+p55
+I1
 sS'data science analytics'
-p57
-F0.0091537081978834249
+p56
+I1
 sS'analytics'
-p58
-F0.012630336365386904
+p57
+I1
 sS'engineering'
+p58
+I1
+sS'design'
 p59
-F0.0025925711705991265
-sS'design'
-p60
-F0.0067792901108139764
+I1
 sS'computer science'
-p61
-F0.0041134151614679653
+p60
+I1
 sS'mathematics'
-p62
-F0.0040320621157256594
+p61
+I1
 sS'advanced analytics'
-p63
-F0.010851700657182412
+p62
+I1
 sS'software engineering'
-p64
-F0.013653577661235428
+p63
+I1
 sS'data science'
-p65
-F0.0046294219211629488
+p64
+I1
 sS'ee computer science'
-p66
-F0.005621580985890706
+p65
+I1
 sS'computer science applied math'
-p67
-F0.012300263910757423
+p66
+I1
 sS'data analytics'
-p68
-F0.0076096199730686714
+p67
+I1
 ssS'education'
-p69
-(dp70
+p68
+(dp69
 VBachelor
-p71
-F0.00084565962017946444
+p70
+I1
 ssS'responsibility'
-p72
-(dp73
+p71
+(dp72
 S'development'
-p74
-F0.0046018683191368474
+p73
+I1
 sS'information'
-p75
-F0.0015634492109284528
+p74
+I1
 sS'design'
-p76
-F0.0067792901108139764
+p75
+I1
 sS'analytic'
-p77
-F0.018588089592119699
+p76
+I1
 sS'understand'
-p78
-F0.0033358625412340951
+p77
+I1
 sS'modeling'
-p79
-F0.0096086087353447324
+p78
+I1
 sS'model'
-p80
-F0.0018324740599979308
+p79
+I1
 ss.

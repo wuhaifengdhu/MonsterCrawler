@@ -4,107 +4,104 @@ p2
 (dp3
 S'customer satisfaction'
 p4
-F0.010879601095715532
+I1
 sS'management'
 p5
-F0.0023791452768414123
-sS'r d'
-p6
-F0.0011469684688957468
+I1
 sS'program management'
-p7
-F0.011956852409239742
+p6
+I1
 sS'data scientist'
-p8
-F0.00051694775018654073
-sS'education'
-p9
-F0.00830869977723004
+p7
+I1
 sS'customer retention'
-p10
-F0.01475188908986067
+p8
+I1
+sS'analysis'
+p9
+I1
 sS'research'
-p11
-F0.0026632916066563145
+p10
+I1
 sS'hardware'
-p12
-F0.0089857077777194452
-sS'analysis'
-p13
-F0.001400307262640425
+p11
+I1
 sS'data analysis'
-p14
-F0.0077905524504231684
+p12
+I1
 sS'process improvement'
+p13
+I1
+sS'computer science'
+p14
+I1
+sS'electrical engineering'
 p15
-F0.0092069200400011798
-sS'computer science'
-p16
-F0.004618974566788051
+I1
 sS'organization'
-p17
-F0.0059858234844418915
-sS'electrical engineering'
-p18
-F0.019310913135635221
-sS'sap'
-p19
-F0.011646170824145688
-sS'data analytics'
-p20
-F0.008544880528417894
+p16
+I1
 sS'customer experience'
-p21
-F0.0086519966970459786
-ssS'working-year'
-p22
-(dp23
-V(5, 10]
-p24
-F0.0033762275316462525
-sV(10, 15]
-p25
-F0.0079056567343911109
-ssS'major'
-p26
-(dp27
-S'management'
-p28
-F0.0023791452768414123
-sS'business'
-p29
-F0.0044011803223262197
-sS'electrical engineering computer science'
-p30
-F0.016802074928200787
-sS'computer science'
-p31
-F0.004618974566788051
-sS'electrical engineering'
-p32
-F0.019310913135635221
+p17
+I1
+sS'education'
+p18
+I1
 sS'data analytics'
-p33
-F0.008544880528417894
+p19
+I1
+sS'sap'
+p20
+I1
+ssS'working-year'
+p21
+(dp22
+V(5, 10]
+p23
+I1
+sV(10, 15]
+p24
+I1
+ssS'major'
+p25
+(dp26
+S'management'
+p27
+I1
+sS'business'
+p28
+I1
+sS'electrical engineering computer science'
+p29
+I1
+sS'computer science'
+p30
+I1
+sS'electrical engineering'
+p31
+I1
+sS'data analytics'
+p32
+I1
 ssS'education'
-p34
-(dp35
+p33
+(dp34
 VBachelor
-p36
-F0.00094959543941939867
+p35
+I1
 ssS'responsibility'
-p37
-(dp38
+p36
+(dp37
 S'data analysis'
-p39
-F0.0077905524504231684
+p38
+I1
 sS'build model'
-p40
-F0.012499180825346333
+p39
+I1
 sS'analysis'
-p41
-F0.001400307262640425
+p40
+I1
 sS'improvement'
-p42
-F0.0054324948661415677
+p41
+I1
 ss.

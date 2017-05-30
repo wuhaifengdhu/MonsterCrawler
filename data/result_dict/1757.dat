@@ -4,74 +4,64 @@ p2
 (lp3
 S'consulting'
 p4
-aS'education'
-p5
 aS'open source'
-p6
-aS'r d'
-p7
+p5
 aS'marketing'
-p8
+p6
 aS'data science'
-p9
+p7
 aS'excel'
-p10
+p8
 aS'data scientist'
-p11
+p9
 aS'training'
-p12
+p10
 aS'writing'
-p13
+p11
 aS'coaching'
-p14
-aS'computer science'
-p15
+p12
 aS'communication'
-p16
+p13
 aS'teaching'
-p17
-aS'machine learning'
-p18
+p14
+aS'education'
+p15
 aS'data'
-p19
+p16
 aS'science'
-p20
+p17
 asS'working-year'
+p18
+(lp19
+V[0]
+p20
+asS'major'
 p21
 (lp22
-V[0]
-p23
-asS'major'
-p24
-(lp25
 S'business'
-p26
-aS'science'
-p27
-aS'data science'
-p28
+p23
 aS'communication'
-p29
-aS'machine learning'
-p30
+p24
+aS'data science'
+p25
 aS'design'
-p31
-aS'computer science'
-p32
+p26
 aS'marketing'
-p33
+p27
+aS'science'
+p28
 asS'education'
-p34
-(lp35
+p29
+(lp30
 S'Bachelor'
-p36
+p31
 asS'responsibility'
-p37
-(lp38
+p32
+(lp33
 S'interface'
-p39
+p34
 aS'product'
-p40
+p35
 aS'design'
-p41
+p36
 as.

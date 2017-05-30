@@ -2,225 +2,222 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.0011127769969232449
-sS'communication'
-p5
-F0.002124777488142598
+I1
 sS'trading'
-p6
-F0.012544324627772545
+p5
+I1
 sS'hive'
+p6
+I1
+sS'data mining'
 p7
-F0.0053527266233414673
-sS'data mining'
-p8
-F0.012025942408035509
+I1
 sS'hbase'
+p8
+I1
+sS'simulation'
 p9
-F0.0079142848827194849
-sS'simulation'
+I1
+sS'big data'
 p10
-F0.0082168973171249469
-sS'big data'
-p11
-F0.0059706945994040077
+I1
 sS'hadoop'
-p12
-F0.0032243935016221035
+p11
+I1
 sS'perl'
-p13
-F0.0080079178108346891
+p12
+I1
 sS'mahout'
+p13
+I1
+sS'computer science'
 p14
-F0.011445516429516222
-sS'computer science'
+I1
+sS'mathematics'
 p15
-F0.0044812815580220116
-sS'mathematics'
-p16
-F0.0043926530366442144
+I1
 sS'unstructured data'
+p16
+I1
+sS'operations research'
 p17
-F0.0065096566002233675
-sS'operations research'
-p18
-F0.014351844736924607
+I1
 sS'matlab'
-p19
-F0.0059953873367568113
+p18
+I1
 sS'segmentation'
-p20
-F0.0076328647163704799
+p19
+I1
 sS'data modeling'
-p21
-F0.0072710141800491606
+p20
+I1
 sS'python'
+p21
+I1
+sS'marketing'
 p22
-F0.0019688771364509026
-sS'marketing'
-p23
-F0.0046223363791582928
+I1
 sS'data scientist'
-p24
-F0.00050153738364981464
+p23
+I1
 sS'data quality'
-p25
-F0.0079973529410041332
+p24
+I1
 sS'survey design'
+p25
+I1
+sS'machine learning'
 p26
-F0.013818037275513473
-sS'machine learning'
-p27
-F0.0042956005284864162
+I1
 sS'sql'
+p27
+I1
+sS'modeling'
 p28
-F0.0025597042724897438
-sS'modeling'
-p29
-F0.0052339576038056669
+I1
 sS'spark'
-p30
-F0.0042941155810097224
+p29
+I1
 sS'data'
-p31
-F0.002093802933764809
+p30
+I1
 sS'customer experience'
-p32
-F0.008394078096321032
+p31
+I1
 sS'programming'
+p32
+I1
+sS'analysis'
 p33
-F0.005633253498654533
-sS'analysis'
-p34
-F0.0040756910571160343
+I1
 sS'spss'
-p35
-F0.006589998196954233
+p34
+I1
 sS'online marketing'
-p36
-F0.01332394422388921
+p35
+I1
 sS'r'
-F0.0021599966065177292
+I1
 sS'architecture'
-p37
-F0.0048633445792589372
+p36
+I1
 sS'communication skills'
+p37
+I1
+sS'predictive analytics'
 p38
-F0.0079868291020386683
-sS'predictive analytics'
-p39
-F0.013818333903093422
+I1
 ssS'working-year'
-p40
-(dp41
+p39
+(dp40
 V(5, 10]
-p42
-F0.0032755811824643861
+p41
+I1
 sV(2, 5]
-p43
-F0.0021271917399698203
+p42
+I1
 ssS'major'
-p44
-(dp45
+p43
+(dp44
 S'information'
-p46
-F0.0017032698720683957
+p45
+I1
 sS'business'
-p47
-F0.0064049697373690512
+p46
+I1
 sS'big data'
-p48
-F0.0059706945994040077
+p47
+I1
 sS'marketing'
-p49
-F0.0046223363791582928
+p48
+I1
 sVapplied statistic
-p50
-F0.0099505656566545204
+p49
+I1
 sS'machine learning'
+p50
+I1
+sS'design'
 p51
-F0.0042956005284864162
-sS'design'
-p52
-F0.0018463920220509612
+I1
 sS'computer science'
-p53
-F0.0044812815580220116
+p52
+I1
 sS'applied statistics'
+p53
+I1
+sS'data mining'
 p54
-F0.012971499478734281
-sS'data mining'
-p55
-F0.012025942408035509
+I1
 sS'communication'
-p56
-F0.002124777488142598
+p55
+I1
 sS'mathematics'
-p57
-F0.0043926530366442144
+p56
+I1
 sS'operations research'
-p58
-F0.014351844736924607
+p57
+I1
 sS'predictive analytics'
-p59
-F0.013818333903093422
+p58
+I1
 ssS'education'
-p60
-(dp61
+p59
+(dp60
 VBachelor
-p62
-F0.00092128771629307511
+p61
+I1
 sVMaster
-p63
-F0.0026140861216908022
+p62
+I1
 ssS'responsibility'
-p64
-(dp65
+p63
+(dp64
 S'information'
-p66
-F0.0017032698720683957
+p65
+I1
 sVtest hypothesis
-p67
-F0.010964003343174648
+p66
+I1
 sS'business problem'
-p68
-F0.0050098445086834862
+p67
+I1
 sS'pattern'
-p69
-F0.0049203199422978234
+p68
+I1
 sVinsight
-p70
-F0.0056426085608403684
+p69
+I1
 sS'communicate'
-p71
-F0.003346634723832325
+p70
+I1
 sS'analysis'
-p72
-F0.0040756910571160343
+p71
+I1
 sS'simulation'
-p73
-F0.0082168973171249469
+p72
+I1
 sS'statistical method'
-p74
-F0.0067850317914770371
+p73
+I1
 sS'design'
-p75
-F0.0018463920220509612
+p74
+I1
 sS'data mining'
-p76
-F0.012025942408035509
+p75
+I1
 sS'interface'
-p77
-F0.0063101460357364624
+p76
+I1
 sS'modeling'
-p78
-F0.0052339576038056669
+p77
+I1
 sS'statistical model'
-p79
-F0.0050415361317746364
+p78
+I1
 sS'data gathering'
-p80
-F0.010781238952755028
+p79
+I1
 ss.

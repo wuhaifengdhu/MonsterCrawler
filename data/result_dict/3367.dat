@@ -2,89 +2,87 @@
 S'skills'
 p2
 (lp3
-S'forecasting'
+S'visualization'
 p4
-aS'r d'
+aS'forecasting'
 p5
-aS'intelligence'
-p6
-aS'analytics'
-p7
-aS'business intelligence'
-p8
-aS'business development'
-p9
-aS'visualization'
-p10
 aS'management'
-p11
+p6
+aS'data visualization'
+p7
+aS'programming'
+p8
+aS'intelligence'
+p9
 aS'predictive modeling'
-p12
-aS'tableau'
-p13
-aS'microstrategy'
-p14
-aS'communication'
-p15
+p10
 aS'data scientist'
-p16
+p11
+aS'tableau'
+p12
+aS'machine learning'
+p13
 aS'business analytics'
-p17
+p14
+aS'analytics'
+p15
+aS'business intelligence'
+p16
+aS'r'
 aS'mentoring'
+p17
+aS'microstrategy'
 p18
 aS'sql'
 p19
-aS'modeling'
-p20
-aS'data'
-p21
-aS'data visualization'
-p22
-aS'programming'
-p23
-aS'machine learning'
-p24
-aS'r'
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-asS'major'
-p28
-(lp29
-S'management'
-p30
-aS'business'
-p31
 aS'communication'
-p32
-aS'phd'
-p33
-aS'business analytics'
-p34
-aS'analytics'
-p35
-aS'machine learning'
-p36
-asS'education'
-p37
-(lp38
-VMaster
-p39
-aVDoctor
-p40
-asS'responsibility'
-p41
-(lp42
-S'development'
-p43
+p20
 aS'modeling'
-p44
+p21
+aS'data'
+p22
+aS'business development'
+p23
+asS'working-year'
+p24
+(lp25
+V(5, 10]
+p26
+asS'major'
+p27
+(lp28
+S'management'
+p29
+aS'business'
+p30
+aS'communication'
+p31
+aS'phd'
+p32
+aS'business analytics'
+p33
+aS'analytics'
+p34
+aS'machine learning'
+p35
+asS'education'
+p36
+(lp37
+VMaster
+p38
+aVDoctor
+p39
+asS'responsibility'
+p40
+(lp41
+S'development'
+p42
+aS'modeling'
+p43
 aS'forecasting'
-p45
+p44
 aS'model'
-p46
+p45
 aS'product'
-p47
+p46
 as.

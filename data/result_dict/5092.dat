@@ -2,122 +2,118 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'scikit-learn'
 p4
-aS'scikit-learn'
+aS'analytics'
 p5
-aS'analytics'
+aS'engineering'
 p6
-aS'engineering'
-p7
 aS'go'
-p8
+p7
 aS'education'
+p8
+aS'management'
 p9
-aS'management'
-p10
 aS'arduino'
-p11
-aS'asset management'
-p12
-aS'mllib'
-p13
-aS'microcontrollers'
-p14
-aS'computer science'
-p15
-aS'tensorflow'
-p16
-aS'transportation'
-p17
-aS'python'
-p18
-aS'customer service'
-p19
-aS'data scientist'
-p20
-aS'apache spark'
-p21
-aS'automation'
-p22
-aS'sql'
-p23
-aS'apache'
-p24
-aS'spark'
-p25
-aS'data'
-p26
-aS'science'
-p27
-aS'aws'
-p28
-aS'programming'
-p29
-aS'machine learning'
-p30
+p10
 aS'process engineering'
-p31
-aS'electrical engineering'
-p32
-aS'docker'
-p33
-aS'data analytics'
-p34
-asS'working-year'
-p35
-(lp36
-V[0]
-p37
-asS'major'
-p38
-(lp39
-S'information'
-p40
-aS'management'
-p41
-aS'transportation'
-p42
-aS'business'
-p43
-aS'science'
-p44
-aS'statistic'
-p45
-aS'electrical'
-p46
-aS'machine learning'
-p47
-aS'analytics'
-p48
-aS'engineering'
-p49
-aS'design'
-p50
-aS'data analytics'
-p51
-aS'mechanical'
-p52
-aS'electrical engineering'
-p53
-aS'automation'
-p54
-aVphysic
-p55
+p11
+aS'mllib'
+p12
+aS'microcontrollers'
+p13
 aS'computer science'
-p56
-asS'education'
-p57
-(lp58
-VBachelor
-p59
-asS'responsibility'
-p60
-(lp61
+p14
+aS'tensorflow'
+p15
+aS'transportation'
+p16
+aS'python'
+p17
+aS'aws'
+p18
+aS'data scientist'
+p19
+aS'apache spark'
+p20
+aS'automation'
+p21
+aS'sql'
+p22
+aS'apache'
+p23
+aS'spark'
+p24
+aS'data'
+p25
+aS'science'
+p26
+aS'programming'
+p27
+aS'machine learning'
+p28
+aS'asset management'
+p29
+aS'electrical engineering'
+p30
+aS'docker'
+p31
+aS'data analytics'
+p32
+asS'working-year'
+p33
+(lp34
+V[0]
+p35
+asS'major'
+p36
+(lp37
 S'information'
-p62
-aS'prototype'
-p63
+p38
+aS'management'
+p39
+aS'transportation'
+p40
+aS'business'
+p41
+aS'science'
+p42
+aS'statistic'
+p43
+aS'electrical'
+p44
+aS'machine learning'
+p45
+aS'analytics'
+p46
+aS'engineering'
+p47
 aS'design'
-p64
+p48
+aS'data analytics'
+p49
+aS'mechanical'
+p50
+aS'electrical engineering'
+p51
+aS'automation'
+p52
+aVphysic
+p53
+aS'computer science'
+p54
+asS'education'
+p55
+(lp56
+VBachelor
+p57
+asS'responsibility'
+p58
+(lp59
+S'information'
+p60
+aS'prototype'
+p61
+aS'design'
+p62
 as.

@@ -1,5 +1,5 @@
-skills: {'science': 0.016677877997816122, 'consulting': 0.004694607410439194, 'management': 0.0019357591116118762, 'r d': 0.000933215254237903, 'python': 0.0016511719621599614, 'marketing': 0.0038764593725213866, 'data science': 0.0042296082097897855, 'data scientist': 0.0004206074876517763, 'training': 0.0040757979805199265, 'research': 0.004333901796286184, 'statistical analysis': 0.004163588394138573, 'sql': 0.002146661083065262, 'product management': 0.00673355555173304, 'public policy': 0.018389623789233842, 'education': 0.003380130136645857, 'data': 0.004682504742783118, 'finance': 0.006378125725491802}
-working-year: {u'(2, 5]': 0.0017839403455655993}
-major: {'management': 0.0019357591116118762, 'finance': 0.006378125725491802, 'business': 0.0017904801765827119, 'marketing': 0.0038764593725213866, 'data science': 0.0042296082097897855, 'design': 0.0015484514912200106, 'science': 0.016677877997816122, 'public policy': 0.018389623789233842}
-education: {'Bachelor': 0.0007726253802548743}
-responsibility: {'design': 0.0015484514912200106, 'implement': 0.0030249119863002306, 'engineering design': 0.01151378667113413, 'understand': 0.0030477653217638777, 'product': 0.0013012856072858387}
+skills: {'consulting': 1, 'management': 1, 'finance': 1, 'python': 1, 'marketing': 1, 'data science': 1, 'data scientist': 1, 'training': 1, 'research': 1, 'statistical analysis': 1, 'sql': 1, 'product management': 1, 'public policy': 1, 'education': 1, 'data': 1, 'science': 1}
+working-year: {u'(2, 5]': 1}
+major: {'management': 1, 'finance': 1, 'business': 1, 'marketing': 1, 'data science': 1, 'design': 1, 'science': 1, 'public policy': 1}
+education: {'Bachelor': 1}
+responsibility: {'design': 1, 'implement': 1, 'engineering design': 1, 'understand': 1, 'product': 1}

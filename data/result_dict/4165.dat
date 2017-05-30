@@ -2,127 +2,125 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
+aS'communication'
 p5
-aS'communication'
+aS'data science'
 p6
-aS'data science'
-p7
 aS'mllib'
+p7
+aS'analytics'
 p8
-aS'analytics'
-p9
 aS'problem solving'
-p10
+p9
 aS'java'
+p10
+aS'big data'
 p11
-aS'big data'
-p12
 aS'scala'
-p13
+p12
 aS'saas'
-p14
+p13
 aS'hadoop'
-p15
-aS'optimization'
-p16
-aS'computer science'
-p17
-aS'tensorflow'
-p18
-aS'segmentation'
-p19
-aS'python'
-p20
-aS'marketing'
-p21
-aS'data scientist'
-p22
-aS'statistical modeling'
-p23
-aS'sql'
-p24
-aS'modeling'
-p25
-aS'spark'
-p26
-aS'pig'
-p27
-aS'data'
-p28
-aS'software development'
-p29
-aS'science'
-p30
-aS'aws'
-p31
-aS'programming'
-p32
-aS'mapreduce'
-p33
-aS'hive'
-p34
-aS'machine learning'
-p35
+p14
 aS'r'
-aS'impala'
-p36
-asS'working-year'
-p37
-(lp38
-V(2, 5]
-p39
-asS'major'
-p40
-(lp41
-S'business'
-p42
-aS'big data'
-p43
-aS'marketing'
-p44
-aS'machine learning data science'
-p45
-aS'communication'
-p46
-aS'machine learning'
-p47
-aS'analytics'
-p48
-aS'design'
-p49
 aS'computer science'
-p50
-aS'science'
-p51
-aS'data science'
-p52
-asS'education'
-p53
-(lp54
-S'Bachelor'
-p55
-asS'responsibility'
-p56
-(lp57
-S'development'
-p58
-aS'product'
-p59
+p15
+aS'tensorflow'
+p16
+aS'segmentation'
+p17
+aS'python'
+p18
+aS'marketing'
+p19
+aS'data scientist'
+p20
+aS'statistical modeling'
+p21
+aS'sql'
+p22
 aS'modeling'
-p60
-aS'statistical model'
-p61
+p23
+aS'spark'
+p24
+aS'pig'
+p25
+aS'data'
+p26
+aS'software development'
+p27
+aS'science'
+p28
+aS'aws'
+p29
+aS'programming'
+p30
+aS'mapreduce'
+p31
+aS'hive'
+p32
+aS'machine learning'
+p33
 aS'optimization'
-p62
-aS'understand'
-p63
-aS'recommendation'
-p64
+p34
+aS'impala'
+p35
+asS'working-year'
+p36
+(lp37
+V(2, 5]
+p38
+asS'major'
+p39
+(lp40
+S'business'
+p41
+aS'big data'
+p42
+aS'marketing'
+p43
+aS'machine learning data science'
+p44
+aS'communication'
+p45
+aS'machine learning'
+p46
+aS'analytics'
+p47
 aS'design'
-p65
+p48
+aS'computer science'
+p49
+aS'science'
+p50
+aS'data science'
+p51
+asS'education'
+p52
+(lp53
+S'Bachelor'
+p54
+asS'responsibility'
+p55
+(lp56
+S'development'
+p57
+aS'product'
+p58
+aS'modeling'
+p59
+aS'statistical model'
+p60
+aS'optimization'
+p61
+aS'understand'
+p62
+aS'recommendation'
+p63
+aS'design'
+p64
 aS'implement'
-p66
+p65
 as.

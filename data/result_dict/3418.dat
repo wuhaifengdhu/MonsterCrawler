@@ -2,108 +2,106 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'classification'
 p4
-aS'classification'
-p5
 aS'regression analysis'
+p5
+aS'communication'
 p6
-aS'communication'
-p7
 aS'decision support'
+p7
+aS'analytics'
 p8
-aS'analytics'
+aS'engineering'
 p9
-aS'engineering'
+aS'data mining'
 p10
-aS'data mining'
-p11
 aS'regression'
-p12
+p11
 aS'java'
-p13
+p12
 aS'unsupervised learning'
-p14
+p13
 aS'scala'
+p14
+aS'computer science'
 p15
-aS'computer science'
-p16
 aS'calculus'
-p17
+p16
 aS'algebra'
-p18
+p17
 aS'python'
-p19
+p18
 aS'javascript'
-p20
+p19
 aS'probability'
-p21
+p20
 aS'data'
-p22
+p21
 aS'github'
-p23
-aS'science'
-p24
-aS'mapreduce'
-p25
-aS'analysis'
-p26
-aS'machine learning'
-p27
+p22
 aS'linear algebra'
-p28
-aS'electrical engineering'
-p29
-asS'working-year'
-p30
-(lp31
-V[0]
-p32
-asS'major'
-p33
-(lp34
-S'information'
-p35
-aS'science'
-p36
-aS'statistic'
-p37
-aS'communication'
-p38
-aS'machine learning'
-p39
-aS'analytics'
-p40
-aS'engineering'
-p41
-aS'electrical'
-p42
-aS'computer science'
-p43
-aS'data mining'
-p44
-aS'electrical engineering'
-p45
-aS'phd'
-p46
-asS'education'
-p47
-(lp48
-VDoctor
-p49
-asS'responsibility'
-p50
-(lp51
-S'information'
-p52
-aS'product'
-p53
+p23
+aS'mapreduce'
+p24
 aS'analysis'
-p54
-aS'understand'
-p55
+p25
+aS'machine learning'
+p26
+aS'science'
+p27
+aS'electrical engineering'
+p28
+asS'working-year'
+p29
+(lp30
+V[0]
+p31
+asS'major'
+p32
+(lp33
+S'information'
+p34
+aS'science'
+p35
+aS'statistic'
+p36
+aS'communication'
+p37
+aS'machine learning'
+p38
+aS'analytics'
+p39
+aS'engineering'
+p40
+aS'electrical'
+p41
+aS'computer science'
+p42
 aS'data mining'
-p56
+p43
+aS'electrical engineering'
+p44
+aS'phd'
+p45
+asS'education'
+p46
+(lp47
+VDoctor
+p48
+asS'responsibility'
+p49
+(lp50
+S'information'
+p51
+aS'product'
+p52
+aS'analysis'
+p53
+aS'understand'
+p54
+aS'data mining'
+p55
 aS'model'
-p57
+p56
 as.

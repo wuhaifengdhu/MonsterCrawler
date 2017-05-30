@@ -4,79 +4,76 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0058849779504081068
+I1
 sS'customer insight'
 p5
-F0.012504802220278392
-sS'r d'
+I1
+sS'big data'
 p6
-F0.0011698424839449498
-sS'big data'
-p7
-F0.0062768840660401108
+I1
 sS'python'
-p8
-F0.002069845194730436
+p7
+I1
 sS'data scientist'
-p9
-F0.00052725724947801024
+p8
+I1
 sS'apache spark'
-p10
-F0.010506802570735238
+p9
+I1
 sS'julia'
-p11
-F0.013014905345304518
+p10
+I1
 sS'machine learning'
-p12
-F0.0045158877350754637
+p11
+I1
 sS'r'
-F0.0022707656632622282
+I1
 sS'matlab'
+p12
+I1
+sS'data mining'
 p13
-F0.0063028430976161355
-sS'data mining'
-p14
-F0.012642657403319381
+I1
 sS'apache'
-p15
-F0.0089964538535655236
+p14
+I1
 sS'hadoop'
-p16
-F0.0033897470145258014
+p15
+I1
 sS'spark'
-p17
-F0.0045143266364461188
+p16
+I1
 ssS'working-year'
-p18
-(dp19
+p17
+(dp18
 V[0]
-p20
-F0.0040631637389243452
+p19
+I1
 ssS'major'
-p21
-(dp22
+p20
+(dp21
 S'machine learning'
-p23
-F0.0045158877350754637
+p22
+I1
 sS'big data'
+p23
+I1
+sS'data mining'
 p24
-F0.0062768840660401108
-sS'data mining'
-p25
-F0.012642657403319381
+I1
 ssS'education'
-p26
-(dp27
+p25
+(dp26
 S'Bachelor'
-p28
-F0.00096853324020554051
+p27
+I1
 ssS'responsibility'
-p29
-(dp30
+p28
+(dp29
 Vinsight
-p31
-F0.002965986551210963
+p30
+I1
 sS'data mining'
-p32
-F0.012642657403319381
+p31
+I1
 ss.

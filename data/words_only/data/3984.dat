@@ -4,142 +4,139 @@ p2
 (dp3
 S'web analytics'
 p4
-F0.029217091776263627
+I1
 sS'pattern recognition'
 p5
-F0.023537604324352146
-sS'r d'
-p6
-F0.002519108661746487
+I1
 sS'big data'
-p7
-F0.013516480412147723
+p6
+I1
 sS'sql'
-p8
-F0.0057946679542865975
+p7
+I1
 sS'python'
-p9
-F0.0044571513088980559
-sS'optimization'
-p10
-F0.011810534118414161
-sS'machine learning'
-p11
-F0.0097243962884140337
+p8
+I1
 sS'predictive modeling'
-p12
-F0.013272001527913288
+p9
+I1
 sS'data scientist'
-p13
-F0.0011353821752563289
+p10
+I1
 sS'mapreduce'
-p14
-F0.017033890718304225
-sS'simulation'
-p15
-F0.018601442392755248
-sS'r'
-F0.0048898082687425896
-sS'statistical analysis'
-p16
-F0.011239134315466087
-sS'statistical modeling'
-p17
-F0.0143493015074062
-sS'data mining'
-p18
-F0.027224372690583452
-sS'modeling'
-p19
-F0.011848652489596878
-sS'spark'
-p20
-F0.0097210346588502312
-sS'strategic planning'
-p21
-F0.029364928267809509
-sS'research'
-p22
-F0.0058494380072574275
-sS'project management'
-p23
-F0.028467836131296425
-ssS'working-year'
-p24
-(dp25
-V[0]
-p26
-F0.0087495121003830986
-ssS'major'
-p27
-(dp28
-S'big data'
-p29
-F0.013516480412147723
+p11
+I1
 sS'machine learning'
-p30
-F0.0097243962884140337
-sS'data mining'
-p31
-F0.027224372690583452
-sS'phd'
-p32
-F0.020669847603914989
-sS'machine learning data mining'
-p33
-F0.019612165760151672
-sS'project management'
-p34
-F0.028467836131296425
-ssS'education'
-p35
-(dp36
-VMaster
-p37
-F0.0059177777846865405
-sVDoctor
-p38
-F0.0078077586342416702
-ssS'responsibility'
-p39
-(dp40
-S'development'
-p41
-F0.002837348258118118
-sS'large data set'
-p42
-F0.013606681780486268
-sS'product'
-p43
-F0.0035126728049433686
-sS'build model'
-p44
-F0.027452188561190104
-sS'pattern'
-p45
-F0.011138638396980963
-sS'statistical model'
-p46
-F0.011413048052913134
+p12
+I1
+sS'strategic planning'
+p13
+I1
 sS'optimization'
-p47
-F0.011810534118414161
+p14
+I1
+sS'statistical analysis'
+p15
+I1
+sS'statistical modeling'
+p16
+I1
 sS'data mining'
-p48
-F0.027224372690583452
-sS'report'
-p49
-F0.0078256008388618969
+p17
+I1
 sS'modeling'
-p50
-F0.011848652489596878
-sS'model'
-p51
-F0.004519353203185081
+p18
+I1
+sS'spark'
+p19
+I1
+sS'r'
+I1
+sS'research'
+p20
+I1
+sS'project management'
+p21
+I1
 sS'simulation'
-p52
-F0.018601442392755248
+p22
+I1
+ssS'working-year'
+p23
+(dp24
+V[0]
+p25
+I1
+ssS'major'
+p26
+(dp27
+S'big data'
+p28
+I1
+sS'machine learning'
+p29
+I1
+sS'data mining'
+p30
+I1
+sS'phd'
+p31
+I1
+sS'machine learning data mining'
+p32
+I1
+sS'project management'
+p33
+I1
+ssS'education'
+p34
+(dp35
+VMaster
+p36
+I1
+sVDoctor
+p37
+I1
+ssS'responsibility'
+p38
+(dp39
+S'development'
+p40
+I1
+sS'large data set'
+p41
+I1
+sS'product'
+p42
+I1
+sS'build model'
+p43
+I1
+sS'pattern'
+p44
+I1
+sS'statistical model'
+p45
+I1
+sS'optimization'
+p46
+I1
+sS'data mining'
+p47
+I1
+sS'report'
+p48
+I1
+sS'modeling'
+p49
+I1
+sS'model'
+p50
+I1
+sS'simulation'
+p51
+I1
 sS'data gathering'
-p53
-F0.024406608426788989
+p52
+I1
 ss.

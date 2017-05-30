@@ -2,100 +2,98 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'visualization'
 p4
-aS'communication'
+aS'training'
 p5
-aS'data science'
+aS'data collection'
 p6
-aS'engineering'
-p7
 aS'defense'
-p8
-aS'analysis'
-p9
-aS'education'
-p10
-aS'visualization'
-p11
-aS'research'
-p12
-aS'intelligence'
-p13
+p7
 aS'government'
-p14
+p8
+aS'communication'
+p9
+aS'data science'
+p10
+aS'education'
+p11
+aS'communication skills'
+p12
+aS'research'
+p13
 aS'survey design'
+p14
+aS'engineering'
 p15
 aS'leadership'
 p16
-aS'data'
-p17
-aS'information technology'
-p18
-aS'training'
-p19
-aS'data collection'
-p20
-aS'science'
-p21
-aS'communication skills'
-p22
-aS'simulation'
-p23
-aS'security'
-p24
-aS'statistical analysis'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-asS'major'
-p29
-(lp30
-S'information'
-p31
-aS'science'
-p32
-aS'data science'
-p33
-aS'communication'
-p34
-aS'general'
-p35
-aS'engineering'
-p36
-aS'design'
-p37
-aS'statistic'
-p38
-aS'information technology'
-p39
-asS'education'
-p40
-(lp41
-VBachelor
-p42
-aVMaster
-p43
-asS'responsibility'
-p44
-(lp45
-S'information'
-p46
-aS'product'
-p47
-aS'data collection'
-p48
 aS'analysis'
-p49
+p17
+aS'science'
+p18
+aS'intelligence'
+p19
+aS'security'
+p20
 aS'simulation'
-p50
+p21
+aS'data'
+p22
+aS'information technology'
+p23
+aS'statistical analysis'
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+asS'major'
+p28
+(lp29
+S'information'
+p30
+aS'science'
+p31
+aS'data science'
+p32
+aS'communication'
+p33
+aS'general'
+p34
+aS'engineering'
+p35
 aS'design'
-p51
+p36
+aS'statistic'
+p37
+aS'information technology'
+p38
+asS'education'
+p39
+(lp40
+VBachelor
+p41
+aVMaster
+p42
+asS'responsibility'
+p43
+(lp44
+S'information'
+p45
+aS'product'
+p46
+aS'data collection'
+p47
+aS'analysis'
+p48
+aS'simulation'
+p49
+aS'design'
+p50
 aS'report'
-p52
+p51
 aS'model'
-p53
+p52
 as.

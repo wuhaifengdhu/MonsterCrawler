@@ -2,118 +2,116 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'ip'
 p4
-aS'ip'
-p5
-aS'database administration'
-p6
-aS'engineering'
-p7
-aS'strategy'
-p8
-aS'research'
-p9
-aS'education'
-p10
-aS'writing'
-p11
-aS'computer science'
-p12
-aS'communication'
-p13
-aS'gps'
-p14
-aS'collaboration'
-p15
-aS'javascript'
-p16
-aS'automation'
-p17
-aS'process automation'
-p18
-aS'construction'
-p19
-aS'sql'
-p20
-aS'data'
-p21
 aS'hardware'
-p22
-aS'postgresql'
-p23
-aS'sql server'
-p24
-aS'science'
-p25
-aS'microsoft sql server'
-p26
-aS'arcgis'
-p27
-aS'security'
-p28
-aS'scripting'
-p29
-asS'working-year'
-p30
-(lp31
-V(5, 10]
-p32
-aV(0, 2]
-p33
-aV(2, 5]
-p34
-asS'major'
-p35
-(lp36
-S'information'
-p37
-aS'computational science engineering'
-p38
-aS'computing'
-p39
-aS'general'
-p40
-aS'computational science'
-p41
-aS'communication'
-p42
-aS'automation'
-p43
+p5
 aS'engineering'
-p44
-aS'information science'
-p45
-aS'design'
-p46
+p6
+aS'strategy'
+p7
+aS'research'
+p8
+aS'education'
+p9
+aS'writing'
+p10
 aS'computer science'
-p47
+p11
+aS'communication'
+p12
+aS'gps'
+p13
+aS'collaboration'
+p14
+aS'javascript'
+p15
+aS'automation'
+p16
+aS'process automation'
+p17
+aS'construction'
+p18
+aS'sql'
+p19
+aS'data'
+p20
+aS'database administration'
+p21
+aS'postgresql'
+p22
+aS'sql server'
+p23
 aS'science'
-p48
-aS'phd'
-p49
-asS'education'
-p50
-(lp51
-VBachelor
-p52
-aVMaster
-p53
-aVDoctor
-p54
-asS'responsibility'
-p55
-(lp56
-S'development'
-p57
-aS'information'
-p58
-aS'interface'
-p59
+p24
+aS'microsoft sql server'
+p25
+aS'arcgis'
+p26
+aS'security'
+p27
+aS'scripting'
+p28
+asS'working-year'
+p29
+(lp30
+V(5, 10]
+p31
+aV(0, 2]
+p32
+aV(2, 5]
+p33
+asS'major'
+p34
+(lp35
+S'information'
+p36
+aS'computational science engineering'
+p37
+aS'computing'
+p38
+aS'general'
+p39
+aS'computational science'
+p40
+aS'communication'
+p41
+aS'automation'
+p42
+aS'engineering'
+p43
+aS'information science'
+p44
 aS'design'
-p60
+p45
+aS'computer science'
+p46
+aS'science'
+p47
+aS'phd'
+p48
+asS'education'
+p49
+(lp50
+VBachelor
+p51
+aVMaster
+p52
+aVDoctor
+p53
+asS'responsibility'
+p54
+(lp55
+S'development'
+p56
+aS'information'
+p57
+aS'interface'
+p58
+aS'design'
+p59
 aS'report'
-p61
+p60
 aS'implement'
-p62
+p61
 as.

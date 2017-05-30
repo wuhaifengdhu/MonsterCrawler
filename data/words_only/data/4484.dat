@@ -2,237 +2,234 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.00086263594929554066
-sS'communication'
+I1
+sS'data science'
 p5
-F0.0032942978702715066
-sS'data science'
-p6
-F0.0039097218745955996
+I1
 sS'human resources'
-p7
-F0.0092557031046483825
+p6
+I1
 sS'tableau'
-p8
-F0.0041773920616279695
+p7
+I1
 sS'business intelligence'
-p9
-F0.004891688838627636
+p8
+I1
 sS'problem solving'
-p10
-F0.0039638957552958001
+p9
+I1
 sS'visual analytics'
-p11
-F0.011563695017216363
+p10
+I1
 sS'perl'
-p12
-F0.0062078186390714281
+p11
+I1
 sS'visualization'
-p13
-F0.0034822570862781455
+p12
+I1
 sS'education'
-p14
-F0.0062489800845553656
+p13
+I1
 sS'java'
+p14
+I1
+sS'big data'
 p15
-F0.0029608855770378449
-sS'big data'
-p16
-F0.0046285426621430221
+I1
 sS'critical thinking'
-p17
-F0.0071052252042160032
+p16
+I1
 sS'hadoop'
-p18
-F0.0024995823573499081
+p17
+I1
 sS'continuous improvement'
-p19
-F0.0070678218128755986
+p18
+I1
 sS'teamwork'
+p19
+I1
+sS'computer science'
 p20
-F0.0056680588231077852
-sS'computer science'
+I1
+sS'artificial intelligence'
 p21
-F0.0034739346531725253
-sS'artificial intelligence'
+I1
+sS'data analysis'
 p22
-F0.014037929136853937
-sS'data analysis'
-p23
-F0.0058592810446459961
+I1
 sS'data modeling'
-p24
-F0.0056365635135255041
+p23
+I1
 sS'python'
-p25
-F0.0015262934103999644
+p24
+I1
 sS'data scientist'
+p25
+I1
+sS'epidemiology'
 p26
-F0.00038879683732517139
-sS'epidemiology'
+I1
+sS'health services research'
 p27
-F0.010005012520023048
-sS'health services research'
-p28
-F0.031098467875165417
+I1
 sS'sql'
+p28
+I1
+sS'modeling'
 p29
-F0.0019843085641779732
-sS'modeling'
-p30
-F0.0020287083569372807
+I1
 sS'data'
+p30
+I1
+sS'applied mathematics'
 p31
-F0.0037873200125451692
-sS'applied mathematics'
-p32
-F0.011906214883753315
+I1
 sS'programming'
+p32
+I1
+sS'analysis'
 p33
-F0.0021834774590373134
-sS'analysis'
+I1
+sS'machine learning'
 p34
-F0.0010531722689606558
-sS'machine learning'
-p35
-F0.0033299928466627889
+I1
 sS'exploratory data analysis'
-p36
-F0.0084994059530072389
+p35
+I1
 sS'r'
-F0.0016744511508509285
+I1
 sS'healthcare'
-p37
-F0.008972329740780334
+p36
+I1
 sS'netezza'
-p38
-F0.01064299608256096
+p37
+I1
 sS'validation'
-p39
-F0.005323486637061883
+p38
+I1
 sS'scripting'
+p39
+I1
+sS'predictive analytics'
 p40
-F0.0044574384012242285
-sS'predictive analytics'
-p41
-F0.010712111786221581
+I1
 ssS'working-year'
-p42
-(dp43
+p41
+(dp42
 V(0, 2]
-p44
-F0.0038782613108490774
+p43
+I1
 ssS'major'
-p45
-(dp46
+p44
+(dp45
 S'applied mathematics computer science'
-p47
-F0.011012512152257526
+p46
+I1
 sS'law'
-p48
-F0.0037547442531064
+p47
+I1
 sS'health services'
-p49
-F0.0085239770376877647
+p48
+I1
 sS'big data'
-p50
-F0.0046285426621430221
+p49
+I1
 sS'predictive analytics'
-p51
-F0.010712111786221581
+p50
+I1
 sS'communication'
-p52
-F0.0032942978702715066
+p51
+I1
 sS'applied mathematics'
-p53
-F0.011906214883753315
+p52
+I1
 sS'applied math'
-p54
-F0.0052287034998363463
+p53
+I1
 sS'machine learning'
-p55
-F0.0033299928466627889
+p54
+I1
 sS'business'
-p56
-F0.0041376642736155114
+p55
+I1
 sS'epidemiology'
+p56
+I1
+sS'design'
 p57
-F0.010005012520023048
-sS'design'
-p58
-F0.0028626834291462381
+I1
 sS'health services research'
-p59
-F0.031098467875165417
+p58
+I1
 sS'statistic'
-p60
-F0.0037336804289682512
+p59
+I1
 sS'mathematics computer science'
-p61
-F0.0074459009783869896
+p60
+I1
 sS'data science'
-p62
-F0.0039097218745955996
+p61
+I1
 sS'artificial intelligence'
-p63
-F0.014037929136853937
+p62
+I1
 sS'computer science'
-p64
-F0.0034739346531725253
+p63
+I1
 ssS'education'
-p65
-(dp66
+p64
+(dp65
 VBachelor
-p67
-F0.00071419152796669053
+p66
+I1
 sVMaster
-p68
-F0.0020264659220670294
+p67
+I1
 ssS'responsibility'
-p69
-(dp70
+p68
+(dp69
 S'development'
-p71
-F0.0029148388618062179
+p70
+I1
 sS'data analysis'
-p72
-F0.0058592810446459961
+p71
+I1
 sS'pattern'
-p73
-F0.0038142816359409597
+p72
+I1
 sVinsight
-p74
-F0.0065613105849267736
+p73
+I1
 sS'communicate'
-p75
-F0.010377379941967461
+p74
+I1
 sS'analysis'
-p76
-F0.0010531722689606558
+p75
+I1
 sS'improvement'
-p77
-F0.0040857839539468086
+p76
+I1
 sS'design'
-p78
-F0.0028626834291462381
+p77
+I1
 sS'ownership'
-p79
-F0.0066745352135020516
+p78
+I1
 sS'identify opportunity'
-p80
-F0.0070678218128755986
+p79
+I1
 sS'report'
-p81
-F0.0026797750771732965
+p80
+I1
 sS'understand'
-p82
-F0.0028172620621346768
+p81
+I1
 sS'modeling'
-p83
-F0.0020287083569372807
+p82
+I1
 sS'model'
-p84
-F0.0046427809167174467
+p83
+I1
 ss.

@@ -2,29 +2,29 @@
 S'skills'
 p2
 (lp3
-S'problem solving'
+S'data science'
 p4
-aS'data science'
-p5
 aS'sqoop'
-p6
+p5
 aS'avro'
-p7
+p6
 aS'devops'
-p8
+p7
 aS'ant'
-p9
+p8
 aS'cluster'
-p10
+p9
 aS'unix'
-p11
+p10
 aS'troubleshooting'
+p11
+aS'problem solving'
 p12
-aS'system design'
-p13
 aS'linux'
-p14
+p13
 aS'hbase'
+p14
+aS'data'
 p15
 aS'xml'
 p16
@@ -54,94 +54,90 @@ aS'innovation'
 p28
 aS'unstructured data'
 p29
-aS'operating systems'
-p30
 aS'flume'
-p31
+p30
 aS'teradata'
-p32
+p31
 aS'python'
+p32
+aS'processing'
 p33
-aS'processing'
-p34
 aS'data scientist'
-p35
+p34
 aS'hive'
-p36
+p35
 aS'sql'
-p37
+p36
 aS'apache'
-p38
+p37
 aS'networking'
-p39
+p38
 aS'spark'
-p40
-aS'data'
-p41
-aS'maven'
-p42
-aS'cloudera'
-p43
-aS'science'
-p44
-aS'mapreduce'
-p45
-aS'analysis'
-p46
+p39
 aS'solr'
-p47
-aS'architecture'
-p48
-aS'healthcare'
-p49
-aS'organization'
-p50
-aS'impala'
-p51
-aS'application development'
-p52
-asS'working-year'
-p53
-(lp54
-V(2, 5]
-p55
-asS'major'
-p56
-(lp57
-S'management'
-p58
-aS'big data'
-p59
-aS'business'
-p60
+p40
+aS'maven'
+p41
+aS'cloudera'
+p42
 aS'science'
-p61
-aS'data science'
-p62
-aS'design'
-p63
-aS'computer science'
-p64
-aS'ee computer science'
-p65
-asS'education'
-p66
-(lp67
-VBachelor
-p68
-asS'responsibility'
-p69
-(lp70
-S'development'
-p71
-aS'processing'
-p72
+p43
+aS'mapreduce'
+p44
 aS'analysis'
-p73
-aS'improvement'
-p74
-aS'understand'
-p75
+p45
+aS'architecture'
+p46
+aS'healthcare'
+p47
+aS'organization'
+p48
+aS'impala'
+p49
+aS'application development'
+p50
+asS'working-year'
+p51
+(lp52
+V(2, 5]
+p53
+asS'major'
+p54
+(lp55
+S'management'
+p56
+aS'big data'
+p57
+aS'business'
+p58
+aS'science'
+p59
+aS'data science'
+p60
 aS'design'
-p76
+p61
+aS'computer science'
+p62
+aS'ee computer science'
+p63
+asS'education'
+p64
+(lp65
+VBachelor
+p66
+asS'responsibility'
+p67
+(lp68
+S'development'
+p69
+aS'processing'
+p70
+aS'analysis'
+p71
+aS'improvement'
+p72
+aS'understand'
+p73
+aS'design'
+p74
 as.

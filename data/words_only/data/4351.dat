@@ -4,226 +4,217 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0038609855338191503
-sS'r d'
+I1
+sS'communication'
 p5
-F0.0007675041343264997
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0014655007348123713
-sS'data science'
-p7
-F0.0034785562846869266
+I1
 sS'testing'
+p7
+I1
+sS'analytics'
 p8
-F0.003120301276706398
-sS'analytics'
+I1
+sS'engineering'
 p9
-F0.0075923666824456604
-sS'engineering'
-p10
-F0.0019480628235156053
+I1
 sS'enterprise software'
-p11
-F0.0086914186792319045
+p10
+I1
 sS'pricing'
-p12
-F0.0063555401335393044
+p11
+I1
 sS'user experience design'
-p13
-F0.0088147034594581626
+p12
+I1
 sS'education'
-p14
-F0.0027799201123816395
-sS'finance'
-p15
-F0.0052455613443297064
-sS'management'
-p16
-F0.0015920261852508889
-sS'genetics'
-p17
-F0.0070683569129198097
-sS'big data'
-p18
-F0.004118105247065568
-sS'user experience'
-p19
-F0.0052581900837124825
-sS'excel'
-p20
-F0.0036431945954329852
-sS'scientific visualization'
-p21
-F0.013296735486535035
-sS'computer science'
-p22
-F0.0030908278409534995
+p13
+I1
 sS'product development'
-p23
-F0.003866994935665626
-sS'marketing'
-p24
-F0.0031881161194568415
-sS'data scientist'
-p25
-F0.00034592017676033943
-sS'manufacturing'
-p26
-F0.0064252040103326136
-sS'project management'
-p27
-F0.0086733781110304997
-sS'software development'
-p28
-F0.0041178470741556096
-sS'word'
-p29
-F0.0056053059218693453
-sS'science'
-p30
-F0.013716385643063727
-sS'cloud computing'
-p31
-F0.0066116476570214234
-sS'machine learning'
-p32
-F0.0029627599906756779
-sS'customer analytics'
-p33
-F0.0097275059064475498
-sS'r'
-F0.0014897920519720412
-sS'product launch'
-p34
-F0.018593246450618189
-sS'healthcare'
-p35
-F0.0039914289314125599
-sS'product management'
-p36
-F0.0055378774631075472
-sS'organization'
-p37
-F0.0040054669297760696
-sS'retail'
-p38
-F0.0053292160281304913
-sS'microsoft office'
-p39
-F0.0064134115510035934
-sS'powerpoint'
-p40
-F0.005303075040865266
-sS'predictive analytics'
-p41
-F0.0095307760939092948
-ssS'working-year'
-p42
-(dp43
-V(5, 10]
-p44
-F0.0022592326286530063
-ssS'major'
-p45
-(dp46
-S'engineering science'
-p47
-F0.0085387509835549279
-sS'information'
-p48
-F0.0023495573188532263
+p14
+I1
 sS'management'
-p49
-F0.0015920261852508889
+p15
+I1
 sS'genetics'
-p50
-F0.0070683569129198097
-sS'finance'
-p51
-F0.0052455613443297064
-sS'big data'
-p52
-F0.004118105247065568
-sS'business administration'
-p53
-F0.0089928518070770055
-sS'marketing'
-p54
-F0.0031881161194568415
-sS'data science'
-p55
-F0.0034785562846869266
-sS'computing'
-p56
-F0.0039818034815578924
-sS'machine learning'
-p57
-F0.0029627599906756779
-sS'business'
-p58
-F0.0044176333328769714
-sS'analytics'
-p59
-F0.0075923666824456604
-sS'engineering'
-p60
-F0.0019480628235156053
-sS'design'
-p61
-F0.0012734928152089806
+p16
+I1
+sS'user experience'
+p17
+I1
+sS'excel'
+p18
+I1
+sS'scientific visualization'
+p19
+I1
 sS'computer science'
-p62
-F0.0030908278409534995
-sS'communication'
-p63
-F0.0014655007348123713
-sS'predictive analytics'
-p64
-F0.0095307760939092948
+p20
+I1
+sS'finance'
+p21
+I1
+sS'marketing'
+p22
+I1
+sS'data scientist'
+p23
+I1
+sS'manufacturing'
+p24
+I1
 sS'project management'
-p65
-F0.0086733781110304997
+p25
+I1
+sS'software development'
+p26
+I1
+sS'word'
+p27
+I1
 sS'science'
-p66
-F0.013716385643063727
+p28
+I1
+sS'cloud computing'
+p29
+I1
+sS'machine learning'
+p30
+I1
+sS'customer analytics'
+p31
+I1
+sS'r'
+I1
+sS'product launch'
+p32
+I1
+sS'healthcare'
+p33
+I1
+sS'product management'
+p34
+I1
+sS'organization'
+p35
+I1
+sS'retail'
+p36
+I1
+sS'microsoft office'
+p37
+I1
+sS'powerpoint'
+p38
+I1
+sS'predictive analytics'
+p39
+I1
+ssS'working-year'
+p40
+(dp41
+V(5, 10]
+p42
+I1
+ssS'major'
+p43
+(dp44
+S'engineering science'
+p45
+I1
+sS'information'
+p46
+I1
+sS'management'
+p47
+I1
+sS'genetics'
+p48
+I1
+sS'finance'
+p49
+I1
+sS'business'
+p50
+I1
+sS'business administration'
+p51
+I1
+sS'marketing'
+p52
+I1
+sS'data science'
+p53
+I1
+sS'computing'
+p54
+I1
+sS'machine learning'
+p55
+I1
+sS'analytics'
+p56
+I1
+sS'engineering'
+p57
+I1
+sS'design'
+p58
+I1
+sS'computer science'
+p59
+I1
+sS'communication'
+p60
+I1
+sS'predictive analytics'
+p61
+I1
+sS'project management'
+p62
+I1
+sS'science'
+p63
+I1
 ssS'education'
+p64
+(dp65
+S'Bachelor'
+p66
+I1
+ssS'responsibility'
 p67
 (dp68
-S'Bachelor'
-p69
-F0.0006354302192750368
-ssS'responsibility'
-p70
-(dp71
 S'development'
-p72
-F0.0034578524566224538
+p69
+I1
 sS'information'
-p73
-F0.0023495573188532263
+p70
+I1
 sS'product'
-p74
-F0.00642129720230769
+p71
+I1
 sS'product launch'
-p75
-F0.018593246450618189
+p72
+I1
 sS'business problem'
-p76
-F0.0034553880816901054
+p73
+I1
 sS'communicate'
-p77
-F0.00230823965064323
+p74
+I1
 sS'analytical method'
-p78
-F0.0074564598890538023
+p75
+I1
 sS'design'
-p79
-F0.0012734928152089806
+p76
+I1
 sS'prototype'
-p80
-F0.0044565365788548543
+p77
+I1
 sS'presentation'
-p81
-F0.0031631704712992252
+p78
+I1
 ss.

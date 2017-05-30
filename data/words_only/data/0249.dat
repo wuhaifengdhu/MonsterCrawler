@@ -4,215 +4,212 @@ p2
 (dp3
 S'insurance'
 p4
-F0.005875156690287606
+I1
 sS'consulting'
 p5
-F0.0096075686539220714
-sS'r d'
+I1
+sS'knowledge management'
 p6
-F0.00095491793456901712
-sS'knowledge management'
-p7
-F0.023563098303716359
+I1
 sS'management consulting'
-p8
-F0.010863755802681759
+p7
+I1
 sS'strategic planning'
-p9
-F0.011131356529425464
+p8
+I1
 sS'business intelligence'
-p10
-F0.005414985784155244
+p9
+I1
 sS'statistical analysis'
-p11
-F0.0042604160312115632
+p10
+I1
 sS'regression'
-p12
-F0.0055705696408247258
+p11
+I1
 sS'visualization'
-p13
-F0.0077095552235739405
+p12
+I1
 sS'governance'
-p14
-F0.0070808686638357699
+p13
+I1
 sS'strategy'
-p15
-F0.0032660450142006883
+p14
+I1
 sS'access'
-p16
-F0.0042398258245902607
+p15
+I1
 sS'coaching'
+p16
+I1
+sS'computer science'
 p17
-F0.015513007736343388
-sS'computer science'
+I1
+sS'advanced analytics'
 p18
-F0.0038455648718840052
-sS'advanced analytics'
-p19
-F0.010145078288807743
+I1
 sS'data management'
-p20
-F0.0054344857367600126
+p19
+I1
 sS'architecture'
+p20
+I1
+sS'systems engineering'
 p21
-F0.0041734282552245297
-sS'systems engineering'
-p22
-F0.021068678615290156
+I1
 sS'government'
+p22
+I1
+sS'marketing'
 p23
-F0.0090989608413284077
-sS'marketing'
-p24
-F0.0039666095904870007
+I1
 sS'risk analysis'
-p25
-F0.012800741460918579
+p24
+I1
 sS'leadership'
-p26
-F0.0035439926576050522
+p25
+I1
 sS'manufacturing'
+p26
+I1
+sS'information technology'
 p27
-F0.0079941491756463905
-sS'information technology'
+I1
+sS'science'
 p28
-F0.01179789223862337
-sS'science'
+I1
+sS'economics'
 p29
-F0.0034131471251344623
-sS'economics'
+I1
+sS'engineering'
 p30
-F0.0057151159334540352
-sS'engineering'
+I1
+sS'analysis'
 p31
-F0.0024237525827461599
-sS'analysis'
+I1
+sS'simulation'
 p32
-F0.0034975116280832942
-sS'simulation'
-p33
-F0.0070512444419048963
+I1
 sS'pricing analysis'
+p33
+I1
+sS'operations research'
 p34
-F0.017212640358812488
-sS'operations research'
-p35
-F0.012315885367267861
+I1
 sS'financial services'
-p36
-F0.0085576527803468295
+p35
+I1
 sS'healthcare'
-p37
-F0.0049660801821063243
+p36
+I1
 sS'organization'
-p38
-F0.0049835460637911565
+p37
+I1
 sS'security'
+p38
+I1
+sS'data analytics'
 p39
-F0.0037104630010968915
-sS'data analytics'
-p40
-F0.0071141098352874559
+I1
 ssS'working-year'
-p41
-(dp42
+p40
+(dp41
 V[0]
-p43
-F0.0033166755171219653
+p42
+I1
 ssS'major'
-p44
-(dp45
+p43
+(dp44
 S'business intelligence analytics'
-p46
-F0.010578636962328958
+p45
+I1
 sS'information'
-p47
-F0.0029232864315964558
+p46
+I1
 sS'economics statistics'
-p48
-F0.011075316184955747
+p47
+I1
 sS'business'
-p49
-F0.0036642385009134568
+p48
+I1
 sS'systems engineering'
-p50
-F0.021068678615290156
+p49
+I1
 sS'marketing'
-p51
-F0.0039666095904870007
+p50
+I1
 sS'economics'
-p52
-F0.0057151159334540352
+p51
+I1
 sS'knowledge management'
-p53
-F0.023563098303716359
+p52
+I1
 sS'science'
-p54
-F0.0034131471251344623
+p53
+I1
 sS'data analytics'
-p55
-F0.0071141098352874559
+p54
+I1
 sS'engineering'
-p56
-F0.0024237525827461599
+p55
+I1
 sS'information systems'
-p57
-F0.0073214693674196665
+p56
+I1
 sS'statistics operations research'
-p58
-F0.010324687959478135
+p57
+I1
 sS'statistic'
-p59
-F0.0020665487025452183
+p58
+I1
 sS'advanced analytics'
-p60
-F0.010145078288807743
+p59
+I1
 sS'information system'
-p61
-F0.0064343456336661336
+p60
+I1
 sS'operations research'
-p62
-F0.012315885367267861
+p61
+I1
 sS'information technology'
-p63
-F0.01179789223862337
+p62
+I1
 sS'computer science'
-p64
-F0.0038455648718840052
+p63
+I1
 ssS'education'
-p65
-(dp66
+p64
+(dp65
 VBachelor
-p67
-F0.00079059341235382483
+p66
+I1
 ssS'responsibility'
-p68
-(dp69
+p67
+(dp68
 S'information'
-p70
-F0.0029232864315964558
+p69
+I1
 sS'product'
-p71
-F0.0013315480632692305
+p70
+I1
 sVinsight
-p72
-F0.0024210727429652278
+p71
+I1
 sS'analysis'
-p73
-F0.0034975116280832942
+p72
+I1
 sS'simulation'
-p74
-F0.0070512444419048963
+p73
+I1
 sS'analytic'
-p75
-F0.0034755404725730784
+p74
+I1
 sS'complex data set'
-p76
-F0.0090812728480580938
+p75
+I1
 sS'implement'
-p77
-F0.003095258776679306
+p76
+I1
 sS'model'
-p78
-F0.0017131501677189957
+p77
+I1
 ss.

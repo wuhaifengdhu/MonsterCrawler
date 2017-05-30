@@ -2,208 +2,205 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.0009004708593523626
-sS'communication'
+I1
+sS'engineering'
 p5
-F0.0034387846189676253
-sS'engineering'
-p6
-F0.0022855561635544931
+I1
 sS'data governance'
-p7
-F0.0082349524160224702
+p6
+I1
 sS'problem solving'
-p8
-F0.0041377508322824582
+p7
+I1
 sS'education'
+p8
+I1
+sS'econometrics'
 p9
-F0.0032615290792196864
-sS'econometrics'
-p10
-F0.0074037658633161838
+I1
 sS'open source'
-p11
-F0.0055345971114857664
+p10
+I1
 sS'banking'
+p11
+I1
+sS'industrial engineering'
 p12
-F0.0065146254723092035
-sS'industrial engineering'
-p13
-F0.019109320719350703
+I1
 sS'governance'
-p14
-F0.0066771349242310983
+p13
+I1
 sS'coaching'
-p15
-F0.0073142470686706762
+p14
+I1
 sS'teamwork'
-p16
-F0.0059166578942967231
+p15
+I1
 sS'innovation'
+p16
+I1
+sS'mathematics'
 p17
-F0.0054749128065569967
-sS'mathematics'
-p18
-F0.0035545810757055154
+I1
 sS'risk analytics'
+p18
+I1
+sS'operations research'
 p19
-F0.012301927493282429
-sS'operations research'
+I1
+sS'data analysis'
 p20
-F0.011613663833169254
-sS'data analysis'
-p21
-F0.0061162670553760829
+I1
 sS'collaboration'
-p22
-F0.0039733677252323284
+p21
+I1
 sS'data scientist'
-p23
-F0.00040584933019031049
+p22
+I1
 sS'leadership'
-p24
-F0.0033419229008117813
+p23
+I1
 sS'mentoring'
-p25
-F0.0061396146743888918
+p24
+I1
 sS'statistical modeling'
+p25
+I1
+sS'modeling'
 p26
-F0.0051292459335684441
-sS'modeling'
-p27
-F0.0021176867936450561
+I1
 sS'data'
-p28
-F0.0016943273740333651
+p27
+I1
 sS'training'
+p28
+I1
+sS'economics'
 p29
-F0.0039327875250630877
-sS'economics'
+I1
+sS'analysis'
 p30
-F0.0053892540600553396
-sS'analysis'
-p31
-F0.0010993640351431406
+I1
 sS'data center'
-p32
-F0.0080521024721612235
+p31
+I1
 sS'credit'
-p33
-F0.011833315788593446
+p32
+I1
 sS'validation'
+p33
+I1
+sS'data analytics'
 p34
-F0.016670918679220107
-sS'data analytics'
+I1
+sS'predictive analytics'
 p35
-F0.006708480765731592
-sS'predictive analytics'
-p36
-F0.011181941250529546
+I1
 ssS'working-year'
-p37
-(dp38
+p36
+(dp37
 V(5, 10]
-p39
-F0.0026506347726521018
+p38
+I1
 sV(0, 2]
-p40
-F0.0040483604911494752
+p39
+I1
 sV(2, 5]
-p41
-F0.0017213459474755782
+p40
+I1
 ssS'major'
-p42
-(dp43
+p41
+(dp42
 S'economics statistics'
-p44
-F0.01044382885862055
+p43
+I1
 sS'economics'
-p45
-F0.0053892540600553396
+p44
+I1
 sS'business'
-p46
-F0.0017276563107377044
+p45
+I1
 sS'communication'
-p47
-F0.0034387846189676253
+p46
+I1
 sS'industrial engineering'
-p48
-F0.019109320719350703
+p47
+I1
 sS'industrial engineering operations research'
-p49
-F0.013191102684859388
+p48
+I1
 sS'data analyst'
-p50
-F0.0060462879866283814
+p49
+I1
 sS'engineering'
-p51
-F0.0022855561635544931
+p50
+I1
 sS'finance economics'
-p52
-F0.010843653710799307
+p51
+I1
 sS'statistic'
-p53
-F0.0019487191712597451
+p52
+I1
 sS'data analytics'
-p54
-F0.006708480765731592
+p53
+I1
 sS'mathematics'
-p55
-F0.0035545810757055154
+p54
+I1
 sS'econometrics'
-p56
-F0.0074037658633161838
+p55
+I1
 sS'operations research'
-p57
-F0.011613663833169254
+p56
+I1
 sS'predictive analytics'
-p58
-F0.011181941250529546
+p57
+I1
 ssS'education'
-p59
-(dp60
+p58
+(dp59
 VBachelor
-p61
-F0.00074551571778979102
+p60
+I1
 sVMaster
-p62
-F0.0021153460063682151
+p61
+I1
 sVDoctor
-p63
-F0.0027909312661872636
+p62
+I1
 ssS'responsibility'
-p64
-(dp65
+p63
+(dp64
 S'large data set'
-p66
-F0.0048637919522352222
+p65
+I1
 sS'data analysis'
-p67
-F0.0061162670553760829
+p66
+I1
 sS'business problem'
-p68
-F0.0040540189116320315
+p67
+I1
 sS'analysis'
-p69
-F0.0010993640351431406
+p68
+I1
 sS'statistical model'
-p70
-F0.0040796641066334228
+p69
+I1
 sS'cross-functionally'
-p71
-F0.0094526441200558243
+p70
+I1
 sS'report'
-p72
-F0.0027973090717861603
+p71
+I1
 sS'modeling'
-p73
-F0.0021176867936450561
+p72
+I1
 sS'model'
-p74
-F0.0064618822115716503
+p73
+I1
 sS'presentation'
-p75
-F0.0037111758818971167
+p74
+I1
 ss.

@@ -2,139 +2,136 @@
 S'skills'
 p2
 (dp3
-S'life sciences'
+S'consulting'
 p4
-F0.050596157190371187
-sS'r d'
-p5
-F0.0020633905118828009
+I1
 sS'data scientist'
-p6
-F0.00092998640485819899
-sS'consulting'
-p7
-F0.010380036485393193
-sS'analysis'
-p8
-F0.0025191457287702117
-sS'information retrieval'
-p9
-F0.035980844022313746
-sS'business analytics'
-p10
-F0.03081780522619857
-sS'analytics'
-p11
-F0.005102909767724156
-sS'application development'
-p12
-F0.016089298276207344
-sS'computer science'
-p13
-F0.008309512034724232
-sS'problem solving'
-p14
-F0.009481479294074377
-sS'data mining'
-p15
-F0.022299360545553277
-sS'information security'
-p16
-F0.022668713430813149
-sS'mathematics'
-p17
-F0.0081451707061392722
-sS'security'
-p18
-F0.008017583369204339
-sS'data'
-p19
-F0.0077649576136604474
-sS'insurance'
-p20
-F0.012695062195093823
-sS'statistical learning'
-p21
-F0.025792749260716456
-ssS'working-year'
-p22
-(dp23
-V(2, 5]
-p24
-F0.0039443907138133859
-ssS'major'
-p25
-(dp26
-S'information'
-p27
-F0.0031583245366494372
-sS'mathematics physics'
-p28
-F0.020448479015734058
-sS'data mining'
-p29
-F0.022299360545553277
+p5
+I1
 sS'life sciences'
-p30
-F0.050596157190371187
-sS'phd'
-p31
-F0.008465289345321968
-sS'business analytics'
-p32
-F0.03081780522619857
-sS'analytics'
-p33
-F0.005102909767724156
-sS'physics computer science'
-p34
-F0.02456852586876529
-sS'computer science'
-p35
-F0.008309512034724232
-sS'statistic'
-p36
-F0.0044654067441931853
-sS'mathematics'
-p37
-F0.0081451707061392722
-sS'information retrieval'
-p38
-F0.035980844022313746
-sVphysic
-p39
-F0.011455071341815906
-ssS'education'
-p40
-(dp41
-VMaster
-p42
-F0.0048472250196176184
-sVDoctor
-p43
-F0.0063952997858361419
-ssS'responsibility'
-p44
-(dp45
-S'development'
-p46
-F0.0023240591259962471
-sS'information'
-p47
-F0.0031583245366494372
-sS'business problem'
-p48
-F0.0092896111743929963
-sS'communicate'
-p49
-F0.012411137820041487
+p6
+I1
 sS'analysis'
-p50
-F0.0025191457287702117
-sS'statistical method'
-p51
-F0.012581290105804156
+p7
+I1
+sS'information retrieval'
+p8
+I1
+sS'business analytics'
+p9
+I1
+sS'analytics'
+p10
+I1
+sS'application development'
+p11
+I1
+sS'computer science'
+p12
+I1
+sS'problem solving'
+p13
+I1
 sS'data mining'
-p52
-F0.022299360545553277
+p14
+I1
+sS'information security'
+p15
+I1
+sS'mathematics'
+p16
+I1
+sS'security'
+p17
+I1
+sS'data'
+p18
+I1
+sS'insurance'
+p19
+I1
+sS'statistical learning'
+p20
+I1
+ssS'working-year'
+p21
+(dp22
+V(2, 5]
+p23
+I1
+ssS'major'
+p24
+(dp25
+S'information'
+p26
+I1
+sS'mathematics physics'
+p27
+I1
+sS'data mining'
+p28
+I1
+sS'life sciences'
+p29
+I1
+sS'phd'
+p30
+I1
+sS'business analytics'
+p31
+I1
+sS'analytics'
+p32
+I1
+sS'physics computer science'
+p33
+I1
+sS'computer science'
+p34
+I1
+sS'statistic'
+p35
+I1
+sS'mathematics'
+p36
+I1
+sS'information retrieval'
+p37
+I1
+sVphysic
+p38
+I1
+ssS'education'
+p39
+(dp40
+VMaster
+p41
+I1
+sVDoctor
+p42
+I1
+ssS'responsibility'
+p43
+(dp44
+S'development'
+p45
+I1
+sS'information'
+p46
+I1
+sS'business problem'
+p47
+I1
+sS'communicate'
+p48
+I1
+sS'analysis'
+p49
+I1
+sS'statistical method'
+p50
+I1
+sS'data mining'
+p51
+I1
 ss.

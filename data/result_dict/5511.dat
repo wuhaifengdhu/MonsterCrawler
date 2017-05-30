@@ -2,126 +2,124 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'text analytics'
 p4
-aS'text analytics'
+aS'communication'
 p5
-aS'communication'
-p6
 aS'strategic planning'
+p6
+aS'analytics'
 p7
-aS'analytics'
-p8
 aS'data warehousing'
-p9
+p8
 aS'education'
-p10
+p9
 aS'visualization'
+p10
+aS'management'
 p11
-aS'management'
+aS'big data'
 p12
-aS'big data'
-p13
 aS'agile'
-p14
+p13
 aS'hadoop'
+p14
+aS'information management'
 p15
-aS'information management'
+aS'computer science'
 p16
-aS'computer science'
+aS'advanced analytics'
 p17
-aS'advanced analytics'
-p18
 aS'master data management'
-p19
+p18
 aS'data management'
-p20
+p19
 aS'data modeling'
-p21
+p20
 aS'six sigma'
-p22
+p21
 aS'data scientist'
+p22
+aS'modeling'
 p23
-aS'modeling'
-p24
 aS'data'
-p25
+p24
 aS'training'
-p26
+p25
 aS'data visualization'
+p26
+aS'science'
 p27
-aS'science'
-p28
 aS'cloud computing'
-p29
+p28
 aS'budgeting'
-p30
+p29
 aS'data architecture'
-p31
+p30
 aS'architecture'
-p32
+p31
 aS'healthcare'
-p33
+p32
 aS'etl'
-p34
+p33
 asS'working-year'
-p35
-(lp36
+p34
+(lp35
 V(5, 10]
-p37
+p36
 asS'major'
-p38
-(lp39
+p37
+(lp38
 S'information'
-p40
+p39
 aS'management'
-p41
+p40
 aS'business'
-p42
+p41
 aS'big data'
-p43
+p42
 aS'business administration'
-p44
+p43
 aS'science'
-p45
+p44
 aS'computing'
-p46
+p45
 aS'information management'
-p47
+p46
 aS'analytics'
+p47
+aS'design'
 p48
-aS'design'
-p49
 aS'computer science'
-p50
+p49
 aS'communication'
-p51
+p50
 aS'advanced analytics'
-p52
+p51
 asS'education'
-p53
-(lp54
+p52
+(lp53
 VBachelor
-p55
+p54
 aVMaster
-p56
+p55
 asS'responsibility'
-p57
-(lp58
+p56
+(lp57
 S'development'
-p59
+p58
 aS'information'
-p60
+p59
 aS'communicate'
-p61
+p60
 aS'mapping'
-p62
+p61
 aS'design'
-p63
+p62
 aS'modeling'
-p64
+p63
 aS'implement'
-p65
+p64
 aS'evaluation'
-p66
+p65
 as.

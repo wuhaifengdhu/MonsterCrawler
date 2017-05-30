@@ -4,229 +4,223 @@ p2
 (dp3
 S'digital marketing'
 p4
-F0.011782891039067012
+I1
 sS'data scientist'
 p5
-F0.00061280561114828336
+I1
 sS'biostatistics'
 p6
-F0.014174017094396777
+I1
 sS'data science'
 p7
-F0.0061623430871109459
+I1
 sS'policy analysis'
 p8
-F0.02281658985907499
+I1
 sS'segmentation'
 p9
-F0.0093262486103996931
+I1
 sS'analytics'
 p10
-F0.0033625133899904207
+I1
 sS'statistical analysis'
 p11
-F0.0060661552762283849
+I1
 sS'go'
 p12
-F0.009292633507339049
+I1
 sS'market basket analysis'
 p13
-F0.023555475116874978
+I1
 sS'public policy'
 p14
-F0.026792829361797652
+I1
 sS'qlikview'
 p15
-F0.013245879713163296
+I1
 sS'big data'
 p16
-F0.0072953188979472811
+I1
 sS'econometrics'
 p17
-F0.011179196137987351
+I1
 sS'computer science'
 p18
-F0.0054754731619540472
+I1
 sS'innovation'
 p19
-F0.0041333778804470041
+I1
 sS'customer service'
 p20
-F0.011621338919863649
+I1
 sS'operations research'
 p21
-F0.017535863271275431
+I1
 sS'matlab'
 p22
-F0.0073254898253750445
+I1
 sS'teradata'
 p23
-F0.011621338919863649
+I1
 sS'python'
 p24
-F0.0024056810044714673
+I1
 sS'marketing'
 p25
-F0.0056478216023490404
+I1
 sS'alteryx'
 p26
-F0.015192166225302504
-sS'financial analysis'
-p27
-F0.018764361414962457
+I1
 sS'sql'
+p27
+I1
+sS'modeling'
 p28
-F0.0031275856839361434
-sS'modeling'
-p29
-F0.003197566814245515
+I1
 sS'b testing'
+p29
+I1
+sS'science'
 p30
-F0.013209291525310543
-sS'data cleaning'
+I1
+sS'marketing analytics'
 p31
-F0.015615451492748731
-sS'quantitative research'
+I1
+sS'analysis'
 p32
-F0.01464411123401548
-sS'marketing analytics'
-p33
-F0.024159223914231073
-sS'analysis'
-p34
-F0.0016599668875009012
+I1
 sS'r'
-F0.0026392011516723247
+I1
 sS'etl'
-p35
-F0.0087489572388818274
-sS'science'
-p36
-F0.0048597790192311877
+p33
+I1
+sS'quantitative research'
+p34
+I1
 sS'organization'
-p37
-F0.0035478887540235054
+p35
+I1
 sS'data analytics'
-p38
-F0.010129361686005318
+p36
+I1
 sS'crm'
-p39
-F0.012551455016359849
+p37
+I1
 ssS'working-year'
-p40
-(dp41
+p38
+(dp39
 V(2, 5]
-p42
-F0.0025991183842677605
+p40
+I1
 ssS'major'
-p43
-(dp44
+p41
+(dp42
 S'operations research'
-p45
-F0.017535863271275431
+p43
+I1
 sS'big data'
-p46
-F0.0072953188979472811
+p44
+I1
 sS'biostatistics'
-p47
-F0.014174017094396777
+p45
+I1
 sS'marketing'
-p48
-F0.0056478216023490404
+p46
+I1
 sS'data science'
-p49
-F0.0061623430871109459
+p47
+I1
 sS'marketing analytics'
-p50
-F0.024159223914231073
+p48
+I1
 sS'public policy analysis'
-p51
-F0.025850663109069
+p49
+I1
 sS'phd'
-p52
-F0.0055781211248975881
+p50
+I1
 sS'business'
-p53
-F0.0013043233074443597
+p51
+I1
 sS'analytics'
-p54
-F0.0033625133899904207
+p52
+I1
 sS'psychology computer science'
-p55
-F0.025850663109069
+p53
+I1
 sS'business management'
-p56
-F0.014999224842011204
+p54
+I1
 sS'computer science'
-p57
-F0.0054754731619540472
+p55
+I1
 sS'statistic'
-p58
-F0.0029424368943524628
+p56
+I1
 sS'data analytics'
-p59
-F0.010129361686005318
+p57
+I1
 sS'experimental psychology'
-p60
-F0.024508064087050894
+p58
+I1
 sS'public policy'
-p61
-F0.026792829361797652
+p59
+I1
 sS'behavioral economics'
-p62
-F0.018575095817671486
+p60
+I1
 sS'econometrics'
-p63
-F0.011179196137987351
+p61
+I1
 sS'statistics operations research'
-p64
-F0.014700714644290059
+p62
+I1
 sS'science'
-p65
-F0.0048597790192311877
+p63
+I1
 ssS'education'
-p66
-(dp67
+p64
+(dp65
 VBachelor
-p68
-F0.001125679361960744
+p66
+I1
 sVMaster
-p69
-F0.0031940323804765104
+p67
+I1
 sVDoctor
-p70
-F0.0042141213820575899
+p68
+I1
 ssS'responsibility'
-p71
-(dp72
+p69
+(dp70
 S'development'
-p73
-F0.003062832887902339
+p71
+I1
 sS'product'
-p74
-F0.0018959128053171162
+p72
+I1
 sS'formulate'
-p75
-F0.01234896164227074
+p73
+I1
 sS'business problem'
-p76
-F0.0061213000784907491
+p74
+I1
 sVinsight
-p77
-F0.0034472227797187022
+p75
+I1
 sS'analysis'
-p78
-F0.0016599668875009012
+p76
+I1
 sS'analytic'
-p79
-F0.0049486172291603433
+p77
+I1
 sS'modeling'
-p80
-F0.003197566814245515
+p78
+I1
 sS'model'
-p81
-F0.0024392535500634706
+p79
+I1
 sS'data gathering'
-p82
-F0.013173103223730481
+p80
+I1
 ss.

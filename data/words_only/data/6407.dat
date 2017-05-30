@@ -4,101 +4,98 @@ p2
 (dp3
 S'search'
 p4
-F0.0053416136243152378
-sS'r d'
-p5
-F0.00086994642344211299
-sS'product marketing'
-p6
-F0.0093697491370183794
-sS'agile'
-p7
-F0.0040434779894893457
-sS'healthcare'
-p8
-F0.013572549650248218
-sS'data scientist'
-p9
-F0.00039209172577707961
-sS'writing'
-p10
-F0.0044454502414935735
-sS'access'
-p11
-F0.0038625531876563812
-sS'marketing strategy'
-p12
-F0.018885624414538334
-sS'innovation'
-p13
-F0.002644661270963973
-sS'go'
-p14
-F0.0059457104220686291
-sS'business development'
-p15
-F0.008030803845213293
-sS'customer service'
-p16
-F0.0074356871902517413
-sS'data'
-p17
-F0.00054563084926498198
+I1
 sS'psychology'
-p18
-F0.010416388598760843
-ssS'working-year'
-p19
-(dp20
-V(5, 10]
-p21
-F0.0025607827464605051
-sV(2, 5]
-p22
-F0.0016629952373916604
-ssS'major'
-p23
-(dp24
-S'psychology'
-p25
-F0.010416388598760843
-sS'business'
-p26
-F0.00083454584501736577
-sS'behavioral psychology'
-p27
-F0.016540042921480588
-sS'mba'
-p28
-F0.007883363878758036
-sS'finance marketing'
-p29
-F0.014212476237511153
+p5
+I1
+sS'agile'
+p6
+I1
+sS'healthcare'
+p7
+I1
+sS'data scientist'
+p8
+I1
+sS'writing'
+p9
+I1
+sS'access'
+p10
+I1
 sS'marketing strategy'
-p30
-F0.018885624414538334
+p11
+I1
+sS'innovation'
+p12
+I1
+sS'go'
+p13
+I1
+sS'business development'
+p14
+I1
+sS'customer service'
+p15
+I1
+sS'data'
+p16
+I1
+sS'product marketing'
+p17
+I1
+ssS'working-year'
+p18
+(dp19
+V(5, 10]
+p20
+I1
+sV(2, 5]
+p21
+I1
+ssS'major'
+p22
+(dp23
+S'psychology'
+p24
+I1
+sS'business'
+p25
+I1
+sS'behavioral psychology'
+p26
+I1
+sS'mba'
+p27
+I1
+sS'finance marketing'
+p28
+I1
+sS'marketing strategy'
+p29
+I1
 ssS'education'
-p31
-(dp32
+p30
+(dp31
 VBachelor
-p33
-F0.0007202439985426795
+p32
+I1
 sVDoctor
-p34
-F0.0026963234266554918
+p33
+I1
 ssS'responsibility'
-p35
-(dp36
+p34
+(dp35
 S'report'
-p37
-F0.0027024850354544264
+p36
+I1
 sS'development'
-p38
-F0.00097984696201960431
+p37
+I1
 sS'product'
-p39
-F0.0012130628542495108
+p38
+I1
 sS'understand'
-p40
-F0.0056822743287123145
+p39
+I1
 ss.

@@ -4,166 +4,163 @@ p2
 (dp3
 S'customer insight'
 p4
-F0.011196901988055395
-sS'r d'
-p5
-F0.0010474865098588707
-sS'programming'
-p6
-F0.0026513654859738806
-sS'data science'
-p7
-F0.0047475194191517996
-sS'testing'
-p8
-F0.0042585744465253135
-sS'analytics'
-p9
-F0.0025905077647375178
-sS'analysis'
-p10
-F0.0012788520408807962
-sS'education'
-p11
-F0.0037940236227657579
-sS'insurance'
-p12
-F0.0064446871857746692
-sS'visualization'
-p13
-F0.0042284550333377474
-sS'big data'
-p14
-F0.005620373232602241
-sS'programming languages'
-p15
-F0.010537283809260816
-sS'predictive modeling'
-p16
-F0.0055187149210455758
-sS'hadoop'
-p17
-F0.0030352071482106025
-sS'strategy'
-p18
-F0.0035826514186385098
-sS'innovation'
-p19
-F0.0031843880609566206
-sS'python'
-p20
-F0.0018533562840570995
-sS'data scientist'
-p21
-F0.00047211044532342238
-sS'sql'
-p22
-F0.0024095175422161105
-sS'modeling'
-p23
-F0.0024634315762809833
-sS'data'
-p24
-F0.0013139681676177116
+I1
 sS'business strategy'
-p25
-F0.0086896173342064578
-sS'hive'
-p26
-F0.0050386635816658202
-sS'machine learning'
-p27
-F0.0040435627423762435
-sS'r'
-F0.0020332621117475562
-sS'healthcare'
-p28
-F0.027237429570226013
-sS'organization'
-p29
-F0.0027333224584568838
-sS'data analytics'
-p30
-F0.0078037429315653212
-sS'statistical analysis'
-p31
-F0.0046734155444412553
-ssS'working-year'
-p32
-(dp33
-V(0, 2]
-p34
-F0.0047093173060310228
-sV[0]
-p35
-F0.0036381899805164415
-ssS'major'
-p36
-(dp37
-S'information'
-p38
-F0.004809999358111515
-sS'health services'
-p39
-F0.010350543545763714
-sS'business'
-p40
-F0.0030145839707770151
+p5
+I1
 sS'data science'
-p41
-F0.0047475194191517996
-sS'machine learning'
-p42
-F0.0040435627423762435
+p6
+I1
+sS'testing'
+p7
+I1
 sS'analytics'
-p43
-F0.0025905077647375178
-sS'big data'
-p44
-F0.005620373232602241
-sS'data analytics'
-p45
-F0.0078037429315653212
-ssS'education'
-p46
-(dp47
-VBachelor
-p48
-F0.00086723256967383849
-sVMaster
-p49
-F0.0024607086196528215
-sVDoctor
-p50
-F0.0032465935137280413
-ssS'responsibility'
-p51
-(dp52
-S'information'
-p53
-F0.004809999358111515
-sS'product'
-p54
-F0.0014606267020555333
-sS'business problem'
-p55
-F0.004715899550265832
-sVinsight
-p56
-F0.0026557685700894082
-sS'communicate'
-p57
-F0.0063005521076231015
+p8
+I1
 sS'analysis'
-p58
-F0.0012788520408807962
-sS'analytic'
-p59
-F0.0076249102204409367
-sS'understand'
-p60
-F0.0034209610754492503
+p9
+I1
+sS'education'
+p10
+I1
+sS'insurance'
+p11
+I1
+sS'visualization'
+p12
+I1
+sS'big data'
+p13
+I1
+sS'programming languages'
+p14
+I1
+sS'predictive modeling'
+p15
+I1
+sS'hadoop'
+p16
+I1
+sS'strategy'
+p17
+I1
+sS'innovation'
+p18
+I1
+sS'python'
+p19
+I1
+sS'data scientist'
+p20
+I1
+sS'sql'
+p21
+I1
 sS'modeling'
-p61
-F0.0024634315762809833
+p22
+I1
+sS'data'
+p23
+I1
+sS'programming'
+p24
+I1
+sS'hive'
+p25
+I1
+sS'machine learning'
+p26
+I1
+sS'r'
+I1
+sS'healthcare'
+p27
+I1
+sS'organization'
+p28
+I1
+sS'data analytics'
+p29
+I1
+sS'statistical analysis'
+p30
+I1
+ssS'working-year'
+p31
+(dp32
+V(0, 2]
+p33
+I1
+sV[0]
+p34
+I1
+ssS'major'
+p35
+(dp36
+S'information'
+p37
+I1
+sS'health services'
+p38
+I1
+sS'business'
+p39
+I1
+sS'data science'
+p40
+I1
+sS'machine learning'
+p41
+I1
+sS'analytics'
+p42
+I1
+sS'big data'
+p43
+I1
+sS'data analytics'
+p44
+I1
+ssS'education'
+p45
+(dp46
+VBachelor
+p47
+I1
+sVMaster
+p48
+I1
+sVDoctor
+p49
+I1
+ssS'responsibility'
+p50
+(dp51
+S'information'
+p52
+I1
+sS'product'
+p53
+I1
+sS'business problem'
+p54
+I1
+sVinsight
+p55
+I1
+sS'communicate'
+p56
+I1
+sS'analysis'
+p57
+I1
+sS'analytic'
+p58
+I1
+sS'understand'
+p59
+I1
+sS'modeling'
+p60
+I1
 ss.

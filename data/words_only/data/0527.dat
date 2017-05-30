@@ -2,124 +2,121 @@
 S'skills'
 p2
 (dp3
-S'software engineering'
+S'open source'
 p4
-F0.025768724036697849
-sS'open source'
+I1
+sS'software engineering'
 p5
-F0.011848714942899106
-sS'r d'
+I1
+sS'big data'
 p6
-F0.0019277686003036495
-sS'big data'
-p7
-F0.01034359768629145
+I1
 sS'scala'
-p8
-F0.010483350709292667
+p7
+I1
 sS'deep learning'
+p8
+I1
+sS'data science'
 p9
-F0.013303657945226709
-sS'data science'
+I1
+sS'documentation'
 p10
-F0.0087372188371244389
-sS'documentation'
-p11
-F0.010546122131386421
+I1
 sS'data scientist'
-p12
-F0.00086886053787221405
+p11
+I1
 sS'mapreduce'
-p13
-F0.013035324821988678
+p12
+I1
 sS'unit testing'
+p13
+I1
+sS'machine learning'
 p14
-F0.020455047530572583
-sS'machine learning'
+I1
+sS'engineering'
 p15
-F0.0074416741549835101
-sS'engineering'
+I1
+sS'computer science'
 p16
-F0.0048930216459194785
-sS'computer science'
-p17
-F0.0077633469244606677
+I1
 sS'hadoop'
-p18
-F0.0055859211366129403
+p17
+I1
 sS'spark'
-p19
-F0.0074391016403407874
+p18
+I1
 sS'research'
+p19
+I1
+sS'data analytics'
 p20
-F0.0044763304938167164
-sS'data analytics'
-p21
-F0.014361817977340874
+I1
 ssS'working-year'
-p22
-(dp23
+p21
+(dp22
 V[0]
-p24
-F0.0066956360204809629
+p23
+I1
 ssS'major'
-p25
-(dp26
+p24
+(dp25
 S'software engineering'
-p27
-F0.025768724036697849
+p26
+I1
 sS'big data'
-p28
-F0.01034359768629145
+p27
+I1
 sS'machine learning data science'
-p29
-F0.021731717312901733
+p28
+I1
 sS'machine learning'
-p30
-F0.0074416741549835101
+p29
+I1
 sS'engineering'
+p30
+I1
+sS'design'
 p31
-F0.0048930216459194785
-sS'design'
-p32
-F0.0063973582735850206
+I1
 sS'computer science'
-p33
-F0.0077633469244606677
+p32
+I1
 sS'phd'
-p34
-F0.007908885350793763
+p33
+I1
 sS'computer science data science'
-p35
-F0.022471752618088967
+p34
+I1
 sS'data science'
-p36
-F0.0087372188371244389
+p35
+I1
 sS'data analytics'
-p37
-F0.014361817977340874
+p36
+I1
 ssS'education'
-p38
-(dp39
+p37
+(dp38
 VDoctor
-p40
-F0.0059749514431051282
+p39
+I1
 ssS'responsibility'
-p41
-(dp42
+p40
+(dp41
 S'product'
-p43
-F0.0026881017239707467
+p42
+I1
 sVinsight
-p44
-F0.0048876116407279247
+p43
+I1
 sS'design'
-p45
-F0.0063973582735850206
+p44
+I1
 sS'model'
-p46
-F0.0034584721695735598
+p45
+I1
 sS'documentation'
-p47
-F0.010546122131386421
+p46
+I1
 ss.

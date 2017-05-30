@@ -1,5 +1,5 @@
-skills: {'r d': 0.0011971274398387094, 'communication': 0.004571678677111479, 'data scientist': 0.0005395547946553399, 'outsourcing': 0.015769705700602113, 'advertising': 0.008614931988915452, 'marketing': 0.014918152687254316, 'organization': 0.0031237970953792962, 'data': 0.0015016779058488134, 'psychology': 0.014333922503251073}
-working-year: {u'(5, 10]': 0.003523875965974806, u'(0, 2]': 0.005382076921178312, u'(2, 5]': 0.0022884365948946466}
-major: {'marketing': 0.014918152687254316, 'information': 0.0018323807078520057, 'psychology': 0.014333922503251073, 'business': 0.0022968258824967733, 'communication': 0.004571678677111479}
-education: {u'Bachelor': 0.0009911229367701013}
-responsibility: {'report': 0.003718871535669065, 'information': 0.0018323807078520057, 'mapping': 0.010192801870371563}
+skills: {'psychology': 1, 'communication': 1, 'data scientist': 1, 'outsourcing': 1, 'advertising': 1, 'marketing': 1, 'organization': 1, 'data': 1}
+working-year: {u'(5, 10]': 1, u'(0, 2]': 1, u'(2, 5]': 1}
+major: {'marketing': 1, 'information': 1, 'psychology': 1, 'business': 1, 'communication': 1}
+education: {u'Bachelor': 1}
+responsibility: {'report': 1, 'information': 1, 'mapping': 1}

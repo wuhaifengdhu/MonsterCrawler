@@ -4,241 +4,238 @@ p2
 (dp3
 S'economics'
 p4
-F0.0050462009268690657
-sS'r d'
-p5
-F0.00084315135906504592
+I1
 sS'credit'
+p5
+I1
+sS'data science'
 p6
-F0.011080065707594684
-sS'data science'
-p7
-F0.0038214119349230095
+I1
 sS'statistical analysis'
-p8
-F0.0037617636415215035
+p7
+I1
 sS'problem solving'
-p9
-F0.0038743621756073942
+p8
+I1
 sS'random forest'
-p10
-F0.0075726646865052743
+p9
+I1
 sS'clustering'
-p11
-F0.0052619875470451645
+p10
+I1
 sS'investment banking'
-p12
-F0.0096835038004314516
+p11
+I1
 sS'scala'
-p13
-F0.0045851205360972029
+p12
+I1
 sS'asset management'
-p14
-F0.0087596603009089079
+p13
+I1
 sS'r programming'
-p15
-F0.0066370191863369616
+p14
+I1
 sS'hadoop'
-p16
-F0.0024431236182721893
+p15
+I1
 sS'governance'
-p17
-F0.0062521016949679282
+p16
+I1
 sS'strategy'
-p18
-F0.0028837769119225789
+p17
+I1
 sS'risk management'
+p18
+I1
+sS'computer science'
 p19
-F0.0064451708473452704
-sS'computer science'
+I1
+sS'advanced analytics'
 p20
-F0.0033954679566942964
-sS'advanced analytics'
-p21
-F0.0089576666615756254
+I1
 sS'hypothesis testing'
+p21
+I1
+sS'operations research'
 p22
-F0.0086160102571148402
-sS'operations research'
+I1
+sS'data analysis'
 p23
-F0.010874395704158482
-sS'data analysis'
+I1
+sS'finance'
 p24
-F0.00572693588758007
-sS'finance'
-p25
-F0.0057625776575285278
+I1
 sS'government'
-p26
-F0.0040169950326193176
+p25
+I1
 sS'python'
+p26
+I1
+sS'processing'
 p27
-F0.0014918186105757354
-sS'processing'
-p28
-F0.0032720646583571642
+I1
 sS'data scientist'
+p28
+I1
+sS'management'
 p29
-F0.00038001497857655358
-sS'management'
-p30
-F0.0017489404704501552
+I1
 sS'sql'
-p31
-F0.0019394884528721055
+p30
+I1
 sS'spark'
-p32
-F0.0065073045149592924
+p31
+I1
 sS'data'
-p33
-F0.0015864749128525965
+p32
+I1
 sS'fraud'
+p33
+I1
+sS'documentation'
 p34
-F0.0071515357650372927
-sS'documentation'
-p35
-F0.0046125749773825615
+I1
 sS'programming'
+p35
+I1
+sS'analysis'
 p36
-F0.0021341586663280519
-sS'analysis'
+I1
+sS'machine learning'
 p37
-F0.0051469199181239439
-sS'machine learning'
-p38
-F0.0032547774024876542
+I1
 sS'banking'
-p39
-F0.036599620723281275
+p38
+I1
 sS'r'
-F0.0016366298722896141
+I1
 sS'logistic regression'
-p40
-F0.0075560383892179402
+p39
+I1
 sS'organization'
-p41
-F0.0022001281390453772
+p40
+I1
 ssS'working-year'
-p42
-(dp43
+p41
+(dp42
 V(5, 10]
-p44
-F0.0024819085345572042
+p43
+I1
 sV(2, 5]
-p45
-F0.0016117736181701515
+p44
+I1
 ssS'major'
-p46
-(dp47
+p45
+(dp46
 S'information'
-p48
-F0.0012905679318136304
+p47
+I1
 sS'management'
-p49
-F0.0017489404704501552
+p48
+I1
 sS'finance'
-p50
-F0.0057625776575285278
+p49
+I1
 sS'business'
-p51
-F0.0056618880327256186
+p50
+I1
 sS'economics mathematics'
-p52
-F0.009504837346299937
+p51
+I1
 sS'data science'
-p53
-F0.0038214119349230095
+p52
+I1
 sS'economics'
-p54
-F0.0050462009268690657
+p53
+I1
 sS'economics math'
-p55
-F0.009421014784479171
+p54
+I1
 sS'phd'
-p56
-F0.0034591223402855678
+p55
+I1
 sS'analytics data science'
-p57
-F0.0082602220170783225
+p56
+I1
 sS'information science'
+p57
+I1
+sS'design'
 p58
-F0.010844304505482792
-sS'design'
-p59
-F0.0041970348427318562
+I1
 sS'computer science'
-p60
-F0.0033954679566942964
+p59
+I1
 sS'statistic'
-p61
-F0.0018246733923910552
+p60
+I1
 sS'advanced analytics'
-p62
-F0.0089576666615756254
+p61
+I1
 sS'mathematics computer science'
-p63
-F0.0072777184100866685
+p62
+I1
 sS'machine learning'
-p64
-F0.0032547774024876542
+p63
+I1
 sS'statistics analytics'
-p65
-F0.01218706431228055
+p64
+I1
 sS'operations research'
-p66
-F0.010874395704158482
+p65
+I1
 sS'data science engineering'
-p67
-F0.0085612508317128473
+p66
+I1
 ssS'education'
-p68
-(dp69
+p67
+(dp68
 VBachelor
-p70
-F0.00069805989181138549
+p69
+I1
 sVMaster
-p71
-F0.0019806935911784521
+p70
+I1
 sVDoctor
-p72
-F0.0026132744504751382
+p71
+I1
 ssS'responsibility'
-p73
-(dp74
+p72
+(dp73
 S'development'
-p75
-F0.00094966687078696765
+p74
+I1
 sS'large data set'
-p76
-F0.0045541871257069027
+p75
+I1
 sS'processing'
-p77
-F0.0032720646583571642
+p76
+I1
 sS'business problem'
-p78
-F0.0037959602129449825
+p77
+I1
 sVinsight
-p79
-F0.0064131084977929039
+p78
+I1
 sS'analysis'
-p80
-F0.0051469199181239439
+p79
+I1
 sS'information'
-p81
-F0.0012905679318136304
+p80
+I1
 sS'statistical method'
-p82
-F0.0051410199816324985
+p81
+I1
 sS'data analysis'
-p83
-F0.00572693588758007
+p82
+I1
 sS'design'
-p84
-F0.0041970348427318562
+p83
+I1
 sS'model'
-p85
-F0.0015126377250906946
+p84
+I1
 sS'documentation'
-p86
-F0.0046125749773825615
+p85
+I1
 ss.

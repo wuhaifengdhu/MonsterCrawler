@@ -2,195 +2,192 @@
 S'skills'
 p2
 (dp3
-S'r d'
-p4
-F0.00083798920788709667
-sS'communication'
-p5
-F0.0016000875369890177
-sS'data science'
-p6
-F0.0037980155353214405
-sS'analytics'
-p7
-F0.008289624847160058
-sS'unix'
-p8
-F0.0068900351707595515
-sS'problem solving'
-p9
-F0.0038506415908587778
-sS'linux'
-p10
-F0.0051299510216747737
-sS'gas'
-p11
-F0.079735903539795788
-sS'machine learning'
-p12
-F0.0032348501939009951
-sS'go'
-p13
-F0.01718188970948812
-sS'scala'
-p14
-F0.0045570483695496697
-sS'ruby'
-p15
-F0.0065547352773829368
-sS'optimization'
-p16
-F0.0039288103291867521
-sS'innovation'
-p17
-F0.0025475104487652969
-sS'energy'
-p18
-F0.0055623693849477492
-sS'customer satisfaction'
-p19
-F0.0079487697801350222
-sS'data analysis'
-p20
-F0.0056918730147989685
-sS'python'
-p21
-F0.00148268502724568
-sS'leadership development'
-p22
-F0.0082565657829213185
-sS'data scientist'
-p23
-F0.00037768835625873794
-sS'data quality'
-p24
-F0.006022496398429643
-sS'leadership'
-p25
-F0.0031100343730003522
-sS'modeling'
-p26
-F0.0019707452610247872
-sS'data'
-p27
-F0.0015767618011412541
-sS'project management'
-p28
-F0.0094699128355128937
-sS'engineering'
-p29
-F0.0021269665522058142
-sS'analysis'
-p30
-F0.0010230816327046371
-sS'simulation'
-p31
-F0.0061878267551410317
-sS'r'
-F0.0016266096893980452
-sS'scripting'
-p32
-F0.0043300830183321077
-sS'organization'
-p33
-F0.0021866579667655073
-sS'data analytics'
-p34
-F0.0062429943452522582
-sS'predictive analytics'
-p35
-F0.010406051449472395
-ssS'working-year'
-p36
-(dp37
-V(0, 2]
-p38
-F0.0037674538448248186
-sV(2, 5]
-p39
-F0.0016019056164262527
-ssS'major'
-p40
-(dp41
 S'communication'
-p42
-F0.0016000875369890177
+p4
+I1
 sS'data science'
-p43
-F0.0037980155353214405
-sS'machine learning'
-p44
-F0.0032348501939009951
+p5
+I1
 sS'analytics'
-p45
-F0.008289624847160058
-sS'engineering'
-p46
-F0.0021269665522058142
-sS'design'
-p47
-F0.0013904462370138871
-sS'data analytics'
-p48
-F0.0062429943452522582
-sS'statistic'
-p49
-F0.0018135019226417223
-sS'phd'
-p50
-F0.0034379440402430034
-sS'geosciences'
-p51
-F0.029035728511413238
-sS'project management'
-p52
-F0.0094699128355128937
-sS'predictive analytics'
-p53
-F0.010406051449472395
-ssS'education'
-p54
-(dp55
-VBachelor
-p56
-F0.00069378605573907086
-sVDoctor
-p57
-F0.0025972748109824332
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-F0.0037754103352918632
-sS'product'
-p61
-F0.0011685013616444268
-sS'data analysis'
-p62
-F0.0056918730147989685
-sS'communicate'
-p63
-F0.0050404416860984824
-sS'analysis'
-p64
-F0.0010230816327046371
-sS'simulation'
-p65
-F0.0061878267551410317
+p6
+I1
+sS'unix'
+p7
+I1
+sS'problem solving'
+p8
+I1
+sS'linux'
+p9
+I1
+sS'gas'
+p10
+I1
+sS'machine learning'
+p11
+I1
+sS'go'
+p12
+I1
+sS'scala'
+p13
+I1
+sS'ruby'
+p14
+I1
 sS'optimization'
-p66
-F0.0039288103291867521
-sS'design'
-p67
-F0.0013904462370138871
-sS'report'
-p68
-F0.0026032100749683457
+p15
+I1
+sS'innovation'
+p16
+I1
+sS'energy'
+p17
+I1
+sS'customer satisfaction'
+p18
+I1
+sS'data analysis'
+p19
+I1
+sS'python'
+p20
+I1
+sS'leadership development'
+p21
+I1
+sS'data scientist'
+p22
+I1
+sS'data quality'
+p23
+I1
+sS'leadership'
+p24
+I1
 sS'modeling'
-p69
-F0.0019707452610247872
+p25
+I1
+sS'data'
+p26
+I1
+sS'project management'
+p27
+I1
+sS'engineering'
+p28
+I1
+sS'analysis'
+p29
+I1
+sS'simulation'
+p30
+I1
+sS'r'
+I1
+sS'scripting'
+p31
+I1
+sS'organization'
+p32
+I1
+sS'data analytics'
+p33
+I1
+sS'predictive analytics'
+p34
+I1
+ssS'working-year'
+p35
+(dp36
+V(0, 2]
+p37
+I1
+sV(2, 5]
+p38
+I1
+ssS'major'
+p39
+(dp40
+S'communication'
+p41
+I1
+sS'data science'
+p42
+I1
+sS'machine learning'
+p43
+I1
+sS'analytics'
+p44
+I1
+sS'engineering'
+p45
+I1
+sS'design'
+p46
+I1
+sS'data analytics'
+p47
+I1
+sS'statistic'
+p48
+I1
+sS'phd'
+p49
+I1
+sS'geosciences'
+p50
+I1
+sS'project management'
+p51
+I1
+sS'predictive analytics'
+p52
+I1
+ssS'education'
+p53
+(dp54
+VBachelor
+p55
+I1
+sVDoctor
+p56
+I1
+ssS'responsibility'
+p57
+(dp58
+S'development'
+p59
+I1
+sS'product'
+p60
+I1
+sS'data analysis'
+p61
+I1
+sS'communicate'
+p62
+I1
+sS'analysis'
+p63
+I1
+sS'simulation'
+p64
+I1
+sS'optimization'
+p65
+I1
+sS'design'
+p66
+I1
+sS'report'
+p67
+I1
+sS'modeling'
+p68
+I1
 sS'evaluation'
-p70
-F0.0053747975388269906
+p69
+I1
 ss.

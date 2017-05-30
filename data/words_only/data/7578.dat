@@ -2,147 +2,144 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'search'
 p4
-F0.0014458264502277371
-sS'intelligence'
+I1
+sS'security'
 p5
-F0.0067249791951489299
-sS'data science'
+I1
+sS'data visualization'
 p6
-F0.0065529141278433296
-sS'defense'
-p7
-F0.01007658286456322
-sS'ic'
-p8
-F0.012605964719085273
-sS'machine learning'
-p9
-F0.0055812556162376323
-sS'education'
-p10
-F0.0052368213384654128
-sS'research'
-p11
-F0.0033572478703625375
-sS'computer science'
-p12
-F0.0058225101933455006
+I1
 sS'government'
-p13
-F0.013776595640039491
+p7
+I1
+sS'intelligence'
+p8
+I1
+sS'data science'
+p9
+I1
 sS'data scientist'
-p14
-F0.00065164540340416051
+p10
+I1
 sS'training'
+p11
+I1
+sS'analysis'
+p12
+I1
+sS'spss'
+p13
+I1
+sS'machine learning'
+p14
+I1
+sS'defense'
 p15
-F0.0063146165895379153
+I1
 sS'facebook'
 p16
-F0.013749814523468242
-sS'data'
-p17
-F0.0054409386095719331
-sS'information technology'
-p18
-F0.017863005854253697
-sS'search'
-p19
-F0.0088776113756225093
-sS'data visualization'
-p20
-F0.0060255491010000745
-sS'analysis'
-p21
-F0.0017651760564270146
-sS'spss'
-p22
-F0.0085623568122398311
-sS'r'
-F0.0028064744641022607
-sS'organization'
-p23
-F0.0037727549426587979
-sS'security'
-p24
-F0.0056179545439143073
-ssS'working-year'
-p25
-(dp26
-V(5, 10]
-p27
-F0.0042559487898921073
-sV(10, 15]
-p28
-F0.0099655813764507675
-ssS'major'
-p29
-(dp30
-S'information'
-p31
-F0.0022130513478635142
-sS'information systems'
-p32
-F0.011085323337994566
-sS'business'
-p33
-F0.0027739833721703989
-sS'data science'
-p34
-F0.0065529141278433296
-sS'machine learning'
-p35
-F0.0055812556162376323
-sS'information system'
-p36
-F0.0097421430368888635
+I1
 sS'computer science'
-p37
-F0.0058225101933455006
-sS'statistic'
-p38
-F0.0031289293735719853
+p17
+I1
+sS'organization'
+p18
+I1
+sS'r'
+I1
+sS'ic'
+p19
+I1
+sS'education'
+p20
+I1
+sS'data'
+p21
+I1
+sS'research'
+p22
+I1
 sS'information technology'
-p39
-F0.017863005854253697
-ssS'education'
-p40
-(dp41
-VBachelor
-p42
-F0.0011970252370145941
-sVMaster
-p43
-F0.0033964710524785426
-ssS'responsibility'
-p44
-(dp45
+p23
+I1
+ssS'working-year'
+p24
+(dp25
+V(5, 10]
+p26
+I1
+sV(10, 15]
+p27
+I1
+ssS'major'
+p28
+(dp29
 S'information'
-p46
-F0.0022130513478635142
+p30
+I1
+sS'information systems'
+p31
+I1
+sS'business'
+p32
+I1
+sS'data science'
+p33
+I1
+sS'machine learning'
+p34
+I1
+sS'information system'
+p35
+I1
+sS'computer science'
+p36
+I1
+sS'statistic'
+p37
+I1
+sS'information technology'
+p38
+I1
+ssS'education'
+p39
+(dp40
+VBachelor
+p41
+I1
+sVMaster
+p42
+I1
+ssS'responsibility'
+p43
+(dp44
+S'information'
+p45
+I1
 sVtest hypothesis
-p47
-F0.014245483217012132
+p46
+I1
 sS'pattern'
-p48
-F0.0063929509109432988
+p47
+I1
 sS'analysis'
-p49
-F0.0017651760564270146
+p48
+I1
 sS'statistical model'
-p50
-F0.0065504465937494391
+p49
+I1
 sS'analytic'
-p51
-F0.0052622619831212102
+p50
+I1
 sS'report'
-p52
-F0.0044914540025862296
+p51
+I1
 sS'implement'
-p53
-F0.0046864833590566958
+p52
+I1
 sS'model'
-p54
-F0.0025938541271801696
+p53
+I1
 ss.

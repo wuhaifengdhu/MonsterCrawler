@@ -2,96 +2,94 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'customer satisfaction'
 p4
-aS'sap'
-p5
-aS'hardware'
-p6
-aS'analytics'
-p7
-aS'engineering'
-p8
-aS'process improvement'
-p9
 aS'education'
-p10
-aS'management'
-p11
-aS'program management'
-p12
-aS'research'
-p13
-aS'computer science'
-p14
-aS'customer satisfaction'
-p15
-aS'data analysis'
-p16
-aS'data scientist'
-p17
-aS'customer retention'
-p18
-aS'electrical engineering'
-p19
-aS'data'
-p20
-aS'customer experience'
-p21
-aS'science'
-p22
-aS'analysis'
-p23
+p5
 aS'organization'
-p24
-aS'data analytics'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-aV(10, 15]
-p29
-asS'major'
-p30
-(lp31
-S'management'
-p32
-aS'business'
-p33
-aS'science'
-p34
-aS'electrical engineering computer science'
-p35
-aS'analytics'
-p36
-aS'engineering'
-p37
-aS'electrical'
-p38
-aS'computer science'
-p39
-aS'electrical engineering'
-p40
-aS'data analytics'
-p41
-asS'education'
-p42
-(lp43
-VBachelor
-p44
-asS'responsibility'
-p45
-(lp46
-S'model'
-p47
-aS'data analysis'
-p48
-aS'build model'
-p49
+p6
+aS'program management'
+p7
+aS'customer retention'
+p8
+aS'data scientist'
+p9
 aS'analysis'
-p50
+p10
+aS'research'
+p11
+aS'hardware'
+p12
+aS'analytics'
+p13
+aS'engineering'
+p14
+aS'management'
+p15
+aS'process improvement'
+p16
+aS'computer science'
+p17
+aS'data analysis'
+p18
+aS'science'
+p19
+aS'electrical engineering'
+p20
+aS'sap'
+p21
+aS'data'
+p22
+aS'data analytics'
+p23
+aS'customer experience'
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+aV(10, 15]
+p28
+asS'major'
+p29
+(lp30
+S'management'
+p31
+aS'business'
+p32
+aS'science'
+p33
+aS'electrical engineering computer science'
+p34
+aS'analytics'
+p35
+aS'engineering'
+p36
+aS'electrical'
+p37
+aS'computer science'
+p38
+aS'electrical engineering'
+p39
+aS'data analytics'
+p40
+asS'education'
+p41
+(lp42
+VBachelor
+p43
+asS'responsibility'
+p44
+(lp45
+S'model'
+p46
+aS'data analysis'
+p47
+aS'build model'
+p48
+aS'analysis'
+p49
 aS'improvement'
-p51
+p50
 as.

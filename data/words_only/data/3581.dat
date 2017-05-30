@@ -4,223 +4,217 @@ p2
 (dp3
 S'quality improvement'
 p4
-F0.0087850706400700602
-sS'r d'
+I1
+sS'biostatistics'
 p5
-F0.00066121531701236291
-sS'biostatistics'
+I1
+sS'engineering'
 p6
-F0.013786000523374644
-sS'engineering'
-p7
-F0.0033565655735293036
-sS'problem solving'
-p8
-F0.0030383484372315636
+I1
 sS'education'
-p9
-F0.0047898784545062061
+p7
+I1
 sS'research'
-p10
-F0.0061414389383765578
-sS'probability'
-p11
-F0.0055252418354056719
-sS'strategy'
-p12
-F0.0045230253014695524
-sS'computer science'
-p13
-F0.0026627904909985864
-sS'mathematics'
-p14
-F0.0026101271667016345
-sS'factor analysis'
-p15
-F0.0073249821156223067
-sS'data analysis'
-p16
-F0.0044911719440442737
-sS'theory'
-p17
-F0.0047333628010539702
-sS'public health'
-p18
-F0.016315832963925983
-sS'team leadership'
-p19
-F0.0079171262779631525
-sS'data scientist'
-p20
-F0.00029801496709626666
-sS'automation'
-p21
-F0.0044922406729085906
-sS'epidemiology'
-p22
-F0.015337796971114238
-sS'leadership'
-p23
-F0.0024539723716105835
-sS'medicaid'
-p24
-F0.027980675765006732
-sS'data'
-p25
-F0.006220718861185302
-sS'statistical programming'
-p26
-F0.0064596276497879976
+p8
+I1
 sS'publishing'
-p27
-F0.0073249821156223067
-sS'fraud'
-p28
-F0.011216740475275882
-sS'science'
-p29
-F0.0023633707951816727
-sS'economics'
-p30
-F0.0039573266527942593
-sS'programming'
-p31
-F0.0033472955571715339
-sS'analysis'
-p32
-F0.0024217874397356141
-sS'r'
-F0.0012834762444525636
-sS'medicare'
-p33
-F0.024795928033249148
-sS'healthcare'
-p34
-F0.027509365259977062
-sS'statistical inference'
-p35
-F0.0066720677545122698
-ssS'working-year'
-p36
-(dp37
-V(0, 2]
-p38
-F0.002972709152921354
-sV(2, 5]
-p39
-F0.0012639834976632266
-ssS'major'
-p40
-(dp41
-S'information'
-p42
-F0.0050604394749858127
-sS'law'
-p43
-F0.0028780326320107029
-sS'biostatistics'
-p44
-F0.013786000523374644
-sS'economics math'
-p45
-F0.007388138808440187
-sS'economics mathematics'
-p46
-F0.0074538740541836863
-sS'public health'
-p47
-F0.016315832963925983
-sS'economics'
-p48
-F0.0039573266527942593
-sS'data analyst'
-p49
-F0.0044397863476691498
-sS'general'
-p50
-F0.0037327867875610087
-sS'business'
-p51
-F0.00063430859717906064
-sS'epidemiology'
-p52
-F0.015337796971114238
-sS'engineering'
-p53
-F0.0033565655735293036
-sS'design'
-p54
-F0.0032913944740908434
+p9
+I1
+sS'strategy'
+p10
+I1
 sS'computer science'
-p55
-F0.0026627904909985864
-sS'automation'
-p56
-F0.0044922406729085906
-sS'statistic'
-p57
-F0.0014309435460458033
+p11
+I1
 sS'mathematics'
-p58
-F0.0026101271667016345
-sS'mathematics computer science'
-p59
-F0.0057073250655591103
-sS'biostatistics epidemiology'
-p60
-F0.010554167967369625
-sS'science'
-p61
-F0.0023633707951816727
-ssS'education'
-p62
-(dp63
-VBachelor
-p64
-F0.00054743183142052284
-sVMaster
-p65
-F0.0015532975505698971
-sVDoctor
-p66
-F0.0020493794804853339
-ssS'responsibility'
-p67
-(dp68
-S'development'
-p69
-F0.0014894936105418783
-sS'large data set'
-p70
-F0.0035714800808683759
+p12
+I1
+sS'factor analysis'
+p13
+I1
 sS'data analysis'
-p71
-F0.0044911719440442737
-sS'information'
-p72
-F0.0050604394749858127
-sS'collect data'
-p73
-F0.007294309021396753
-sS'improvement'
-p74
-F0.0062635528569361708
-sS'analytic'
-p75
-F0.0096262956728272054
-sS'design'
-p76
-F0.0032913944740908434
-sS'solve problem'
-p77
-F0.0048757242849142195
-sS'report'
-p78
-F0.0061621881001666145
+p14
+I1
+sS'theory'
+p15
+I1
+sS'public health'
+p16
+I1
+sS'team leadership'
+p17
+I1
+sS'data scientist'
+p18
+I1
+sS'automation'
+p19
+I1
+sS'epidemiology'
+p20
+I1
+sS'probability'
+p21
+I1
+sS'leadership'
+p22
+I1
+sS'medicaid'
+p23
+I1
+sS'data'
+p24
+I1
+sS'statistical programming'
+p25
+I1
+sS'fraud'
+p26
+I1
+sS'science'
+p27
+I1
+sS'economics'
+p28
+I1
+sS'programming'
+p29
+I1
 sS'analysis'
-p79
-F0.0024217874397356141
+p30
+I1
+sS'r'
+I1
+sS'medicare'
+p31
+I1
+sS'healthcare'
+p32
+I1
+sS'statistical inference'
+p33
+I1
+ssS'working-year'
+p34
+(dp35
+V(0, 2]
+p36
+I1
+sV(2, 5]
+p37
+I1
+ssS'major'
+p38
+(dp39
+S'information'
+p40
+I1
+sS'law'
+p41
+I1
+sS'biostatistics'
+p42
+I1
+sS'economics math'
+p43
+I1
+sS'economics mathematics'
+p44
+I1
+sS'public health'
+p45
+I1
+sS'economics'
+p46
+I1
+sS'data analyst'
+p47
+I1
+sS'general'
+p48
+I1
+sS'business'
+p49
+I1
+sS'epidemiology'
+p50
+I1
+sS'engineering'
+p51
+I1
+sS'design'
+p52
+I1
+sS'computer science'
+p53
+I1
+sS'automation'
+p54
+I1
+sS'statistic'
+p55
+I1
+sS'mathematics'
+p56
+I1
+sS'mathematics computer science'
+p57
+I1
+sS'biostatistics epidemiology'
+p58
+I1
+sS'science'
+p59
+I1
+ssS'education'
+p60
+(dp61
+VBachelor
+p62
+I1
+sVMaster
+p63
+I1
+sVDoctor
+p64
+I1
+ssS'responsibility'
+p65
+(dp66
+S'development'
+p67
+I1
+sS'large data set'
+p68
+I1
+sS'data analysis'
+p69
+I1
+sS'information'
+p70
+I1
+sS'collect data'
+p71
+I1
+sS'improvement'
+p72
+I1
+sS'analytic'
+p73
+I1
+sS'design'
+p74
+I1
+sS'solve problem'
+p75
+I1
+sS'report'
+p76
+I1
+sS'analysis'
+p77
+I1
 sS'presentation'
-p80
-F0.0081753439717153886
+p78
+I1
 ss.

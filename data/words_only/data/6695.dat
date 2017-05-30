@@ -2,136 +2,133 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'strategy'
 p4
-F0.0014560805385272246
-sS'strategy'
-p5
-F0.0049801395606606236
+I1
 sS'technical leadership'
-p6
-F0.014224924718150164
+p5
+I1
 sS'management'
-p7
-F0.0060406667312711037
+p6
+I1
 sS'business process management'
-p8
-F0.023241625204739491
+p7
+I1
 sS'user experience'
-p9
-F0.0099756443077524039
+p8
+I1
 sS'agile'
-p10
-F0.0067678071313438696
+p9
+I1
 sS'saas'
-p11
-F0.0092597252488575196
+p10
+I1
 sS'integration'
-p12
-F0.0068316047216714143
+p11
+I1
 sS'research'
+p12
+I1
+sS'computer science'
 p13
-F0.0033810581389466686
-sS'computer science'
-p14
-F0.0058638045918798657
+I1
 sS'innovation'
+p14
+I1
+sS'artificial intelligence'
 p15
-F0.01327957574356378
-sS'artificial intelligence'
-p16
-F0.023695227904760547
+I1
 sS'product development'
-p17
-F0.0073363201793656381
+p16
+I1
 sS'scrum'
-p18
-F0.024747817424391919
+p17
+I1
 sS'data scientist'
+p18
+I1
+sS'automation'
 p19
-F0.00065626700200986372
-sS'automation'
-p20
-F0.069247412074942005
+I1
 sS'business process'
-p21
-F0.009379596152407842
+p20
+I1
 sS'process automation'
-p22
-F0.018081048775405929
+p21
+I1
 sS'leadership'
-p23
-F0.0054039604353552208
+p22
+I1
 sS'data'
-p24
-F0.00091325447111018261
+p23
+I1
 sS'b2b'
-p25
-F0.0099042482519713093
+p24
+I1
 sS'software development'
-p26
-F0.0078122276052242949
+p25
+I1
 sS'architecture'
-p27
-F0.0063637381196686091
+p26
+I1
 sS'product management'
-p28
-F0.010506256889228857
+p27
+I1
 sS'application development'
-p29
-F0.011353795592075396
+p28
+I1
 ssS'working-year'
-p30
-(dp31
+p29
+(dp30
 V(5, 10]
-p32
-F0.0042861328238629733
+p31
+I1
 sV(10, 15]
-p33
-F0.010036259258553254
+p32
+I1
 ssS'major'
-p34
-(dp35
+p33
+(dp34
 S'management'
-p36
-F0.0060406667312711037
+p35
+I1
 sS'business'
-p37
-F0.0013968285065538888
+p36
+I1
 sS'computer science computer engineering'
-p38
-F0.016887893473514083
+p37
+I1
 sS'automation'
-p39
-F0.069247412074942005
+p38
+I1
 sS'computer engineering'
-p40
-F0.014305519910232581
+p39
+I1
 sS'computer science'
-p41
-F0.0058638045918798657
+p40
+I1
 sS'ee computer science'
-p42
-F0.0080137431075463245
+p41
+I1
 sS'artificial intelligence'
-p43
-F0.023695227904760547
+p42
+I1
 ssS'education'
-p44
-(dp45
+p43
+(dp44
 VBachelor
-p46
-F0.0012055147777026408
+p45
+I1
 sVMaster
-p47
-F0.0034205594996592412
+p46
+I1
 ssS'responsibility'
-p48
-(dp49
+p47
+(dp48
 S'development'
-p50
-F0.0016400275392668552
+p49
+I1
 sS'product'
-p51
-F0.014212622944824055
+p50
+I1
 ss.

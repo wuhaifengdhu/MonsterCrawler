@@ -4,268 +4,265 @@ p2
 (dp3
 S'customer insight'
 p4
-F0.0084407414986879137
-sS'r d'
-p5
-F0.00078964367666284113
+I1
 sS'classification'
-p6
-F0.0051087938584083344
+p5
+I1
 sS'communication'
+p6
+I1
+sS'data science'
 p7
-F0.0015077747944704206
-sS'data science'
-p8
-F0.003578899254437511
+I1
 sS'competitive analysis'
+p8
+I1
+sS'information retrieval'
 p9
-F0.011734911534283054
-sS'information retrieval'
-p10
-F0.013769592231616222
-sS'information technology'
-p11
-F0.0097559493511693261
+I1
 sS'business intelligence'
-p12
-F0.0044777767061283747
+p10
+I1
 sS'operational excellence'
-p13
-F0.010316456723449151
+p11
+I1
 sS'statistical analysis'
-p14
-F0.00352303633350187
+p12
+I1
 sS'data mining'
-p15
-F0.0085337937472405815
+p13
+I1
 sS'laboratory'
-p16
-F0.0073781336632103844
+p14
+I1
 sS'education'
+p15
+I1
+sS'quantitative analysis'
+p16
+I1
+sS'econometrics'
 p17
-F0.0028601101156234179
-sS'quantitative analysis'
-p18
-F0.012471502784153946
-sS'econometrics'
-p19
-F0.01947759942503181
+I1
 sS'clustering'
-p20
-F0.0049280537219442214
+p18
+I1
+sS'management'
+p19
+I1
 sS'agile'
-p21
-F0.0036702338673826372
+p20
+I1
 sS'power bi'
-p22
-F0.00878506110808055
+p21
+I1
 sS'excel'
-p23
-F0.0037482867472243215
+p22
+I1
 sS'tableau'
-p24
-F0.0038239204256440649
+p23
+I1
 sS'research'
+p24
+I1
+sS'computer science'
 p25
-F0.003667147673780618
-sS'computer science'
+I1
+sS'natural language processing'
 p26
-F0.0031799863363656199
-sS'natural language processing'
-p27
-F0.0098057023273874482
+I1
 sS'intelligence'
+p27
+I1
+sS'mathematics'
 p28
-F0.0036728732527351849
-sS'mathematics'
-p29
-F0.0031170941740802215
+I1
 sS'unstructured data'
-p30
-F0.0046193524720815823
+p29
+I1
 sS'healthcare information technology'
-p31
-F0.014233529527479558
+p30
+I1
 sS'innovation'
+p31
+I1
+sS'data analysis'
 p32
-F0.0024005386921057605
-sS'data analysis'
+I1
+sS'business analysis'
 p33
-F0.005363495725483643
-sS'business analysis'
-p34
-F0.014792723251421199
+I1
 sS'python'
+p34
+I1
+sS'processing'
 p35
-F0.0013971455064430444
-sS'processing'
-p36
-F0.0030644144011921903
+I1
 sS'data scientist'
+p36
+I1
+sS'advanced analytics'
 p37
-F0.00035589864339765693
-sS'advanced analytics'
-p38
-F0.0083891993542064038
+I1
 sS'sql'
+p38
+I1
+sS'modeling'
 p39
-F0.0018164055318244526
-sS'modeling'
-p40
-F0.0018570484190425878
+I1
 sS'data'
-p41
-F0.0024763246235872264
-sS'project management'
-p42
-F0.0089235717103871483
-sS'software engineering'
-p43
-F0.010555265807339696
-sS'sql server'
-p44
-F0.0062864931957662372
-sS'science'
-p45
-F0.0028224101227073439
-sS'machine learning'
-p46
-F0.0030482242211759378
-sS'exploratory data analysis'
-p47
-F0.0077802254492912422
-sS'r'
-F0.001532766822702004
-sS'healthcare'
-p48
-F0.041065663044340762
-sS'oracle'
-p49
-F0.0050592733485940664
-sS'organization'
-p50
-F0.0041210092450580721
-sS'predictive analytics'
-p51
-F0.0098057023273874482
-ssS'working-year'
-p52
-(dp53
-V(5, 10]
-p54
-F0.0023244028006333818
-ssS'major'
-p55
-(dp56
-S'communication'
-p57
-F0.0015077747944704206
-sS'data science'
-p58
-F0.003578899254437511
-sS'data mining'
-p59
-F0.0085337937472405815
-sS'information retrieval'
-p60
-F0.013769592231616222
+p40
+I1
 sS'information technology'
-p61
-F0.0097559493511693261
-sS'statistic'
-p62
-F0.0034177536234401688
-sS'econometrics'
-p63
-F0.01947759942503181
-sS'information'
-p64
-F0.0012086665053716117
-sVphysic
-p65
-F0.0043837676865795486
-sS'natural language processing'
-p66
-F0.0098057023273874482
-sS'advanced analytics'
-p67
-F0.0083891993542064038
-sS'mathematics'
-p68
-F0.0031170941740802215
-sS'computer science'
-p69
-F0.0031799863363656199
-sS'business analysis'
-p70
-F0.014792723251421199
-sS'business'
-p71
-F0.0053025759075718782
-sS'phd'
-p72
-F0.0032396011148443683
-sS'project management'
-p73
-F0.0089235717103871483
+p41
+I1
 sS'software engineering'
-p74
-F0.010555265807339696
+p42
+I1
+sS'sql server'
+p43
+I1
 sS'science'
-p75
-F0.0028224101227073439
-sS'data analyst'
-p76
-F0.0053021294651971959
+p44
+I1
 sS'machine learning'
-p77
-F0.0030482242211759378
+p45
+I1
+sS'exploratory data analysis'
+p46
+I1
+sS'r'
+I1
+sS'healthcare'
+p47
+I1
+sS'oracle'
+p48
+I1
+sS'organization'
+p49
+I1
 sS'predictive analytics'
-p78
-F0.0098057023273874482
-ssS'education'
-p79
-(dp80
-VBachelor
-p81
-F0.00065375993713873983
-sVDoctor
-p82
-F0.0024474320334257546
-ssS'responsibility'
-p83
-(dp84
-S'information'
-p85
-F0.0012086665053716117
-sS'data analysis'
-p86
-F0.005363495725483643
-sS'processing'
-p87
-F0.0030644144011921903
-sS'business problem'
-p88
-F0.0035550627378927047
-sVinsight
-p89
-F0.0060061227662022007
-sS'understand'
-p90
-F0.0025788783491848201
+p50
+I1
+ssS'working-year'
+p51
+(dp52
+V(5, 10]
+p53
+I1
+ssS'major'
+p54
+(dp55
+S'communication'
+p56
+I1
+sS'data science'
+p57
+I1
 sS'data mining'
-p91
-F0.0085337937472405815
+p58
+I1
+sS'information retrieval'
+p59
+I1
+sS'statistic'
+p60
+I1
+sS'econometrics'
+p61
+I1
+sS'information'
+p62
+I1
+sS'management'
+p63
+I1
+sVphysic
+p64
+I1
+sS'natural language processing'
+p65
+I1
+sS'advanced analytics'
+p66
+I1
+sS'mathematics'
+p67
+I1
+sS'computer science'
+p68
+I1
+sS'business analysis'
+p69
+I1
+sS'business'
+p70
+I1
+sS'phd'
+p71
+I1
+sS'information technology'
+p72
+I1
+sS'software engineering'
+p73
+I1
+sS'science'
+p74
+I1
+sS'data analyst'
+p75
+I1
+sS'machine learning'
+p76
+I1
+sS'predictive analytics'
+p77
+I1
+ssS'education'
+p78
+(dp79
+VBachelor
+p80
+I1
+sVDoctor
+p81
+I1
+ssS'responsibility'
+p82
+(dp83
+S'information'
+p84
+I1
+sS'data analysis'
+p85
+I1
+sS'processing'
+p86
+I1
+sS'business problem'
+p87
+I1
+sVinsight
+p88
+I1
+sS'understand'
+p89
+I1
+sS'data mining'
+p90
+I1
 sS'modeling'
-p92
-F0.0018570484190425878
+p91
+I1
 sS'implement'
-p93
-F0.0025595409114848107
+p92
+I1
 sS'quantitative analysis'
-p94
-F0.012471502784153946
+p93
+I1
 sS'model'
-p95
-F0.0028332868158429548
+p94
+I1
 ss.

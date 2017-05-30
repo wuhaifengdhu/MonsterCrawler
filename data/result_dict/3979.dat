@@ -2,110 +2,106 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'engineering'
 p4
-aS'engineering'
-p5
 aS'education'
-p6
+p5
 aS'management'
-p7
+p6
 aS'java'
+p7
+aS'big data'
 p8
-aS'big data'
-p9
 aS'anomaly detection'
-p10
+p9
 aS'hadoop'
-p11
+p10
 aS'research'
-p12
+p11
 aS'html'
-p13
+p12
 aS'fraud detection'
+p13
+aS'computer science'
 p14
-aS'computer science'
-p15
 aS'python'
-p16
+p15
 aS'javascript'
-p17
+p16
 aS'data scientist'
-p18
+p17
 aS'data structures'
-p19
+p18
 aS'sql'
-p20
+p19
 aS'spark'
-p21
+p20
 aS'data'
-p22
+p21
 aS'fraud'
-p23
+p22
 aS'design patterns'
+p23
+aS'science'
 p24
-aS'science'
-p25
 aS'programming'
+p25
+aS'machine learning'
 p26
-aS'machine learning'
-p27
 aS'data security'
-p28
+p27
 aS'security'
-p29
+p28
 aS'high availability'
-p30
+p29
 aS'scripting'
-p31
+p30
 asS'working-year'
-p32
-(lp33
+p31
+(lp32
 V(0, 2]
-p34
+p33
 asS'major'
-p35
-(lp36
+p34
+(lp35
 S'management'
-p37
+p36
 aS'big data'
-p38
+p37
 aS'science'
-p39
+p38
 aS'statistic'
-p40
+p39
 aS'machine learning'
-p41
+p40
 aS'engineering'
-p42
+p41
 aS'design'
-p43
+p42
 aS'computer science'
-p44
+p43
 aS'applied math'
-p45
+p44
 aS'computer science applied math'
-p46
+p45
 aS'phd'
-p47
+p46
 asS'education'
-p48
-(lp49
-VBachelor
-p50
-aVMaster
-p51
+p47
+(lp48
+VMaster
+p49
 aVDoctor
-p52
+p50
 asS'responsibility'
-p53
-(lp54
+p51
+(lp52
 S'design'
-p55
+p53
 aS'prototype'
-p56
+p54
 aS'presentation'
-p57
+p55
 aS'pattern'
-p58
+p56
 as.

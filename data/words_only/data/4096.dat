@@ -4,199 +4,196 @@ p2
 (dp3
 S'neural networks'
 p4
-F0.010959604584589906
+I1
 sS'communication'
 p5
-F0.0021480627208893661
+I1
 sS'engineering'
 p6
-F0.002855379755016024
+I1
 sS'virtualization'
 p7
-F0.013547139978423245
+I1
 sS'research'
 p8
-F0.0026122147813231796
-sS'r d'
-p9
-F0.0011249718133278831
+I1
 sS'management'
-p10
-F0.0023335178331759607
+p9
+I1
 sS'open source'
+p10
+I1
+sS'big data'
 p11
-F0.0069144555694178348
-sS'big data'
-p12
-F0.0060361268689865175
+I1
 sS'scala'
-p13
-F0.0061176813728201036
+p12
+I1
 sS'agile'
-p14
-F0.00522882633161362
+p13
+I1
 sS'hadoop'
-p15
-F0.0065194586416359246
+p14
+I1
 sS'strategy'
+p15
+I1
+sS'big data analytics'
 p16
-F0.0038476694687843726
-sS'big data analytics'
-p17
-F0.018060697941481768
+I1
 sS'system architecture'
-p18
-F0.012070451172089399
-sS'computer science'
-p19
-F0.0045303914929044446
-sS'natural language processing'
-p20
-F0.013969767699291707
+p17
+I1
 sS'matlab'
-p21
-F0.0060610902116801741
-sS'python'
-p22
-F0.0019904538721928302
-sS'processing'
-p23
-F0.0043657410647121612
-sS'data scientist'
-p24
-F0.0005070336837446071
-sS'java'
-p25
-F0.0038613192730685324
-sS'r'
-F0.0021836678022055947
-sS'data'
-p26
-F0.0021167487193403133
-sS'software development'
-p27
-F0.0060357484511595928
-sS'high availability'
-p28
-F0.013547139978423245
-sS'documentation'
-p29
-F0.0061543123670830344
-sS'business strategy'
-p30
-F0.0093324109452299509
-sS'machine learning'
-p31
-F0.0043426756027711991
-sS'data center'
-p32
-F0.010059612951521968
-sS'optimization'
-p33
-F0.0052742933186342694
-sS'elasticsearch'
-p34
-F0.011181433730746438
-sS'architecture'
-p35
-F0.0049166415061549255
-sS'deep learning'
-p36
-F0.0077635044995432584
-sS'product management'
-p37
-F0.0081171628568836654
-sS'organization'
-p38
-F0.0029355134348358868
-sS'programming'
-p39
-F0.0028474938917856475
-sS'data analytics'
-p40
-F0.0083810061073249474
-ssS'working-year'
-p41
-(dp42
-V(2, 5]
-p43
-F0.0021505034302708595
-ssS'major'
-p44
-(dp45
-S'management'
-p46
-F0.0023335178331759607
-sS'business'
-p47
-F0.0021583870621818993
-sS'big data'
-p48
-F0.0060361268689865175
-sS'communication'
-p49
-F0.0021480627208893661
-sS'software systems'
-p50
-F0.01671823013103339
-sS'machine learning'
-p51
-F0.0043426756027711991
-sS'big data analytics'
-p52
-F0.018060697941481768
-sS'engineering'
-p53
-F0.002855379755016024
-sS'design'
-p54
-F0.0037332529103386554
-sS'computer science'
-p55
-F0.0045303914929044446
+p18
+I1
 sS'natural language processing'
-p56
-F0.013969767699291707
-sS'ee computer science'
-p57
-F0.0061914398803508599
-sS'data analytics'
-p58
-F0.0083810061073249474
-ssS'education'
-p59
-(dp60
-VMaster
-p61
-F0.0026427336408326196
-ssS'responsibility'
-p62
-(dp63
-S'development'
-p64
-F0.0012670897700637074
-sS'product'
-p65
-F0.00470601918251317
-sVinsight
-p66
-F0.0028522226834932821
+p19
+I1
+sS'computer science'
+p20
+I1
+sS'python'
+p21
+I1
 sS'processing'
-p67
-F0.0043657410647121612
-sS'communicate'
-p68
-F0.0033833101728606247
-sS'analytic'
-p69
-F0.0040944723375518459
-sS'optimization'
-p70
-F0.0052742933186342694
-sS'design'
-p71
-F0.0037332529103386554
+p22
+I1
+sS'data scientist'
+p23
+I1
+sS'java'
+p24
+I1
+sS'r'
+I1
+sS'data'
+p25
+I1
+sS'software development'
+p26
+I1
+sS'high availability'
+p27
+I1
 sS'documentation'
-p72
-F0.0061543123670830344
+p28
+I1
+sS'business strategy'
+p29
+I1
+sS'machine learning'
+p30
+I1
+sS'data center'
+p31
+I1
+sS'optimization'
+p32
+I1
+sS'elasticsearch'
+p33
+I1
+sS'architecture'
+p34
+I1
+sS'deep learning'
+p35
+I1
+sS'product management'
+p36
+I1
+sS'organization'
+p37
+I1
+sS'programming'
+p38
+I1
+sS'data analytics'
+p39
+I1
+ssS'working-year'
+p40
+(dp41
+V(2, 5]
+p42
+I1
+ssS'major'
+p43
+(dp44
+S'management'
+p45
+I1
+sS'business'
+p46
+I1
+sS'big data'
+p47
+I1
+sS'communication'
+p48
+I1
+sS'software systems'
+p49
+I1
+sS'machine learning'
+p50
+I1
+sS'big data analytics'
+p51
+I1
+sS'engineering'
+p52
+I1
+sS'design'
+p53
+I1
+sS'computer science'
+p54
+I1
+sS'natural language processing'
+p55
+I1
+sS'ee computer science'
+p56
+I1
+sS'data analytics'
+p57
+I1
+ssS'education'
+p58
+(dp59
+VMaster
+p60
+I1
+ssS'responsibility'
+p61
+(dp62
+S'development'
+p63
+I1
+sS'product'
+p64
+I1
+sVinsight
+p65
+I1
+sS'processing'
+p66
+I1
+sS'communicate'
+p67
+I1
+sS'analytic'
+p68
+I1
+sS'optimization'
+p69
+I1
+sS'design'
+p70
+I1
+sS'documentation'
+p71
+I1
 ss.

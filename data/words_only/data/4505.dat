@@ -2,250 +2,244 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-F0.0006456206161394298
-sS'nosql'
-p5
-F0.0073952011032981622
+I1
 sS'saas'
-p6
-F0.0041057272329839949
+p5
+I1
 sS'data warehousing'
-p7
-F0.0051738964025267956
+p6
+I1
 sS'problem solving'
+p7
+I1
+sS'neuroscience'
 p8
-F0.0029666892759761024
-sS'neuroscience'
-p9
-F0.0077304016015960981
+I1
 sS'research'
-p10
-F0.0014991484200989947
+p9
+I1
 sS'data architecture'
+p10
+I1
+sS'management'
 p11
-F0.0052531873185082349
-sS'management'
+I1
+sS'big data'
 p12
-F0.0040176132505152151
-sS'big data'
-p13
-F0.0034641294138051553
+I1
 sS'team building'
-p14
-F0.0061084073346975342
+p13
+I1
 sS'deep learning'
-p15
-F0.0044554703495806435
+p14
+I1
 sS'storage'
-p16
-F0.019176452728253128
+p15
+I1
 sS'integration'
-p17
-F0.0030291077539486462
+p16
+I1
 sS'governance'
-p18
-F0.0047873797569958822
+p17
+I1
 sS'strategy'
-p19
-F0.0022081750882174465
+p18
+I1
 sS'access'
+p19
+I1
+sS'computer science'
 p20
-F0.0057330978131251951
-sS'computer science'
-p21
-F0.0025999888284750352
+I1
 sS'tensorflow'
-p22
-F0.005945866271088205
+p21
+I1
 sS'dimensional modeling'
-p23
-F0.0092153970933728721
+p22
+I1
 sS'unstructured data'
-p24
-F0.003776829065223935
+p23
+I1
 sS'data management'
-p25
-F0.0036742592245390029
+p24
+I1
 sS'architecture'
-p26
-F0.0084649724044648482
+p25
+I1
 sS'data modeling'
-p27
-F0.0042185601138964475
+p26
+I1
 sS'product development'
-p28
-F0.0032528966833036319
+p27
+I1
 sS'database design'
-p29
-F0.0062551527886267385
+p28
+I1
 sS'data scientist'
-p30
-F0.00029098631221192073
+p29
+I1
 sS'aws'
-p31
-F0.0037522905847454085
+p30
+I1
 sS'scalability'
-p32
-F0.006092916622451601
+p31
+I1
 sS'amazon s3'
-p33
-F0.010547623874379346
+p32
+I1
 sS'leadership'
+p33
+I1
+sS'modeling'
 p34
-F0.0023960956647329757
-sS'application architecture'
-p35
-F0.0080170687966422509
-sS'modeling'
-p36
-F0.0030366829493778166
+I1
 sS'data quality'
-p37
-F0.0046399736402995681
+p35
+I1
 sS'data'
+p36
+I1
+sS'computational neuroscience'
+p37
+I1
+sS'analysis'
 p38
-F0.014577609104890841
-sS'computational neuroscience'
+I1
+sS'machine learning'
 p39
-F0.02061049782307087
-sS'analysis'
-p40
-F0.0015764465409599754
-sS'machine learning'
-p41
-F0.0024922587971878737
+I1
 sS'erwin'
-p42
-F0.011185146989459502
+p40
+I1
 sS'data integration'
+p41
+I1
+sS'artificial intelligence'
+p42
+I1
+sS'science'
 p43
-F0.0054970613860651669
-sS'artificial intelligence'
+I1
+sS'electrical engineering'
 p44
-F0.01050637463701647
-sS'science'
-p45
-F0.0023076309179368222
-sS'electrical engineering'
-p46
-F0.010869979406536806
+I1
 sS'security'
-p47
-F0.0025086463686661373
+p45
+I1
 sS'high availability'
-p48
-F0.0077746951134032771
+p46
+I1
 sS'etl'
-p49
-F0.01246313719878449
+p47
+I1
 ssS'working-year'
-p50
-(dp51
+p48
+(dp49
 V(5, 10]
-p52
-F0.0019004551200147146
+p50
+I1
 sV(2, 5]
-p53
-F0.0012341725661145658
+p51
+I1
 ssS'major'
-p54
-(dp55
+p52
+(dp53
 S'information'
-p56
-F0.0029646536924209338
+p54
+I1
 sS'management'
-p57
-F0.0040176132505152151
+p55
+I1
 sS'business'
-p58
-F0.0012386969775100524
+p56
+I1
 sS'big data'
-p59
-F0.0034641294138051553
+p57
+I1
 sS'computing'
-p60
-F0.0033494730544551456
+p58
+I1
 sS'computational neuroscience'
-p61
-F0.02061049782307087
+p59
+I1
 sS'applied math'
-p62
-F0.003913306392959278
+p60
+I1
 sS'electrical'
-p63
-F0.0069805280229176068
+p61
+I1
 sS'general'
-p64
-F0.0072894987266521587
+p62
+I1
 sS'neuroscience'
-p65
-F0.0077304016015960981
+p63
+I1
 sS'design'
-p66
-F0.0064275344918566469
+p64
+I1
 sS'computer science'
-p67
-F0.0025999888284750352
+p65
+I1
 sS'phd'
-p68
-F0.0026487304712564017
+p66
+I1
 sS'statistic'
-p69
-F0.0013971948775069873
+p67
+I1
 sS'electrical engineering'
-p70
-F0.010869979406536806
+p68
+I1
 sS'machine learning'
-p71
-F0.0024922587971878737
+p69
+I1
 sS'artificial intelligence'
-p72
-F0.01050637463701647
+p70
+I1
 sS'science'
-p73
-F0.0023076309179368222
+p71
+I1
 ssS'education'
-p74
-(dp75
+p72
+(dp73
 VMaster
-p76
-F0.0015166631743772109
+p74
+I1
 sVDoctor
-p77
-F0.0020010450587757741
+p75
+I1
 ssS'responsibility'
-p78
-(dp79
+p76
+(dp77
 S'development'
-p80
-F0.0029087280885110264
+p78
+I1
 sS'information'
-p81
-F0.0029646536924209338
+p79
+I1
 sS'ensure data integrity'
-p82
-F0.010305248911535435
+p80
+I1
 sVinsight
-p83
-F0.0016368888042060505
+p81
+I1
 sS'product'
-p84
-F0.0027007814490838163
+p82
+I1
 sS'analysis'
-p85
-F0.0015764465409599754
+p83
+I1
 sS'design'
-p86
-F0.0064275344918566469
+p84
+I1
 sS'modeling'
-p87
-F0.0030366829493778166
+p85
+I1
 sS'model'
-p88
-F0.0046330476233909955
+p86
+I1
 sS'transformation'
-p89
-F0.0038125621103051997
+p87
+I1
 ss.

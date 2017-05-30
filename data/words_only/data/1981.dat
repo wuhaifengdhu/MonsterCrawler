@@ -4,197 +4,194 @@ p2
 (dp3
 S'forecasting'
 p4
-F0.016005719238142743
-sS'r d'
-p5
-F0.001176546452334319
-sS'segmentation'
-p6
-F0.016140556334330699
-sS'analytics'
-p7
-F0.0029096820738599054
-sS'process improvement'
-p8
-F0.0094443477774224134
-sS'data mining'
-p9
-F0.012715108162077656
-sS'strategy'
-p10
-F0.0040240669229406759
-sS'regression'
-p11
-F0.006863452566059117
-sS'direct marketing'
-p12
-F0.01320411663009205
-sS'excel'
-p13
-F0.0055848398525978424
-sS'anova'
-p14
-F0.014911792721918163
-sS'research'
-p15
-F0.0027319724790342711
-sS'access'
-p16
-F0.0052238541678332716
-sS'database marketing'
-p17
-F0.015498593281680587
-sS'innovation'
-p18
-F0.0071534677357879385
-sS'advanced analytics'
-p19
-F0.012499666659562548
-sS'outlook'
-p20
-F0.013033850698571497
+I1
 sS'factor analysis'
-p21
-F0.013033850698571497
-sS'data analysis'
-p22
-F0.0079914549491446815
-sS'marketing'
-p23
-F0.0097744534321456168
-sS'data scientist'
-p24
-F0.00053027878099364348
-sS'experimental design'
-p25
-F0.0096566839587512599
-sS'survey design'
-p26
-F0.014609901875829431
-sS'sql'
-p27
-F0.0027063921964146573
-sS'modeling'
-p28
-F0.0055338978676340717
-sS'data'
-p29
-F0.00073793054685693834
-sS'word'
-p30
-F0.0085926609404014323
-sS'business process'
-p31
-F0.0075789286962149325
-sS'economics'
-p32
-F0.0070415468521066909
-sS'analysis'
-p33
-F0.0028728366763625911
-sS'cluster analysis'
-p34
-F0.011946501876917353
-sS'powerpoint'
-p35
-F0.0081293557216702509
-ssS'working-year'
-p36
-(dp37
-V(2, 5]
-p38
-F0.002249093845412217
-ssS'major'
-p39
-(dp40
-S'data mining'
-p41
-F0.012715108162077656
-sS'business'
-p42
-F0.0045146778091483854
-sS'marketing'
-p43
-F0.0097744534321456168
-sS'economics'
-p44
-F0.0070415468521066909
+p5
+I1
 sS'analytics'
-p45
-F0.0029096820738599054
-sS'design'
-p46
-F0.0019522024531140533
-sS'statistic'
-p47
-F0.0025461774845113002
-sS'advanced analytics'
-p48
-F0.012499666659562548
-ssS'education'
-p49
-(dp50
-VMaster
-p51
-F0.0027638904839653467
-ssS'responsibility'
-p52
-(dp53
-S'development'
-p54
-F0.0013251798454821009
-sS'forecasting'
-p55
-F0.016005719238142743
-sS'data analysis'
-p56
-F0.0079914549491446815
-sS'formulate'
-p57
-F0.010685920962652617
-sS'business problem'
-p58
-F0.0052969416151982989
-sS'presentation'
-p59
-F0.0096979725051294288
-sS'pattern'
-p60
-F0.0052022867011687589
-sVinsight
-p61
-F0.0059659672176220514
-sS'recommendation'
-p62
-F0.010498446380635943
-sS'analysis'
-p63
-F0.0028728366763625911
-sS'improvement'
-p64
-F0.011145175713917944
-sS'analytic'
-p65
-F0.0042821845364080903
-sS'design'
-p66
-F0.0019522024531140533
+p6
+I1
+sS'process improvement'
+p7
+I1
 sS'data mining'
-p67
-F0.012715108162077656
-sS'analytical method'
-p68
-F0.011430389801271588
+p8
+I1
+sS'strategy'
+p9
+I1
+sS'regression'
+p10
+I1
+sS'direct marketing'
+p11
+I1
+sS'excel'
+p12
+I1
+sS'anova'
+p13
+I1
+sS'research'
+p14
+I1
+sS'access'
+p15
+I1
+sS'database marketing'
+p16
+I1
+sS'innovation'
+p17
+I1
+sS'advanced analytics'
+p18
+I1
+sS'outlook'
+p19
+I1
+sS'segmentation'
+p20
+I1
+sS'data analysis'
+p21
+I1
+sS'marketing'
+p22
+I1
+sS'data scientist'
+p23
+I1
+sS'experimental design'
+p24
+I1
+sS'survey design'
+p25
+I1
+sS'sql'
+p26
+I1
 sS'modeling'
-p69
-F0.0055338978676340717
+p27
+I1
+sS'data'
+p28
+I1
+sS'word'
+p29
+I1
+sS'business process'
+p30
+I1
+sS'economics'
+p31
+I1
+sS'analysis'
+p32
+I1
+sS'cluster analysis'
+p33
+I1
+sS'powerpoint'
+p34
+I1
+ssS'working-year'
+p35
+(dp36
+V(2, 5]
+p37
+I1
+ssS'major'
+p38
+(dp39
+S'data mining'
+p40
+I1
+sS'business'
+p41
+I1
+sS'marketing'
+p42
+I1
+sS'economics'
+p43
+I1
+sS'analytics'
+p44
+I1
+sS'design'
+p45
+I1
+sS'statistic'
+p46
+I1
+sS'advanced analytics'
+p47
+I1
+ssS'education'
+p48
+(dp49
+VMaster
+p50
+I1
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+I1
+sS'forecasting'
+p54
+I1
+sS'data analysis'
+p55
+I1
+sS'formulate'
+p56
+I1
+sS'business problem'
+p57
+I1
+sS'presentation'
+p58
+I1
+sS'pattern'
+p59
+I1
+sVinsight
+p60
+I1
+sS'recommendation'
+p61
+I1
+sS'analysis'
+p62
+I1
+sS'improvement'
+p63
+I1
+sS'analytic'
+p64
+I1
+sS'design'
+p65
+I1
+sS'data mining'
+p66
+I1
+sS'analytical method'
+p67
+I1
+sS'modeling'
+p68
+I1
 sS'statistical model'
-p70
-F0.0053304493771485408
+p69
+I1
 sS'evaluation'
-p71
-F0.0075462773467771483
+p70
+I1
 sS'model'
-p72
-F0.0021107580863013414
+p71
+I1
 ss.

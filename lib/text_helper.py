@@ -25,7 +25,7 @@ class TextHelper(object):
         match_result = []
         for key, value in _dict.items():
             key_split = key.strip().split(' ')
-            if len(key_split) > 1 and key in context and value > threshold:
+            if len(key_split) > 1 and ("%s " % key in context or (" %s" % key in context)) and value > threshold:
                 match_result.append(key)
             elif len(key_split) == 1 and key in word_list and value > threshold:
                 match_result.append(key)

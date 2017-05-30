@@ -4,130 +4,127 @@ p2
 (dp3
 S'logistics'
 p4
-F0.0090118187237919929
+I1
 sS'supply chain'
 p5
-F0.0078782728091918702
-sS'r d'
+I1
+sS'software engineering'
 p6
-F0.00085544731638474442
-sS'data science'
+I1
+sS'r d'
 p7
-F0.0038771408589739699
-sS'go'
+I1
+sS'big data'
 p8
-F0.0058466152483674849
-sS'it management'
-p9
-F0.010242782122114829
-sS'insurance'
-p10
-F0.015789483605147942
-sS'big data'
-p11
-F0.0045899714732918311
+I1
 sS'agile'
-p12
-F0.0079521733793290472
-sS'continuous improvement'
-p13
-F0.0070089232977683016
-sS'teamwork'
-p14
-F0.0056208249995818868
-sS'scrum'
-p15
-F0.014539342736830252
-sS'data scientist'
-p16
-F0.00038555686368079497
-sS'sustainability'
-p17
-F0.010554304448539619
-sS'data'
-p18
-F0.0032192220106633941
-sS'project management'
-p19
-F0.0096672026862527436
-sS'training'
-p20
-F0.003736148148809933
-sS'software engineering'
-p21
-F0.011434871291284671
-sS'science'
-p22
-F0.0061152219325325786
-sS'machine learning'
-p23
-F0.0033022429062739326
-sS'r'
-F0.0016604973912605042
-sS'predictive analytics'
-p24
-F0.010622844188003069
-ssS'working-year'
-p25
-(dp26
-V(5, 10]
-p27
-F0.0025181030340194967
-ssS'major'
-p28
-(dp29
-S'business'
-p30
-F0.0024619102428012291
-sS'big data'
-p31
-F0.0045899714732918311
-sS'computing'
-p32
-F0.0044380517971530677
-sS'science'
-p33
-F0.0061152219325325786
+p9
+I1
 sS'data science'
-p34
-F0.0038771408589739699
+p10
+I1
+sS'scrum'
+p11
+I1
+sS'data scientist'
+p12
+I1
+sS'training'
+p13
+I1
 sS'machine learning'
-p35
-F0.0033022429062739326
+p14
+I1
 sS'sustainability'
-p36
-F0.010554304448539619
-sS'software engineering'
-p37
-F0.011434871291284671
+p15
+I1
+sS'r'
+I1
+sS'teamwork'
+p16
+I1
+sS'science'
+p17
+I1
+sS'go'
+p18
+I1
+sS'it management'
+p19
+I1
+sS'data'
+p20
+I1
+sS'insurance'
+p21
+I1
 sS'project management'
-p38
-F0.0096672026862527436
+p22
+I1
 sS'predictive analytics'
-p39
-F0.010622844188003069
+p23
+I1
+ssS'working-year'
+p24
+(dp25
+V(5, 10]
+p26
+I1
+ssS'major'
+p27
+(dp28
+S'business'
+p29
+I1
+sS'big data'
+p30
+I1
+sS'computing'
+p31
+I1
+sS'science'
+p32
+I1
+sS'data science'
+p33
+I1
+sS'machine learning'
+p34
+I1
+sS'sustainability'
+p35
+I1
+sS'software engineering'
+p36
+I1
+sS'project management'
+p37
+I1
+sS'predictive analytics'
+p38
+I1
 ssS'education'
-p40
-(dp41
+p39
+(dp40
 VBachelor
-p42
-F0.00070823993190030144
+p41
+I1
 ssS'responsibility'
-p43
-(dp44
+p42
+(dp43
 S'development'
-p45
-F0.00096351617931927751
+p44
+I1
 sS'ensure accuracy'
-p46
-F0.011268768865221927
+p45
+I1
 sS'communicate'
-p47
-F0.0025727254439461
+p46
+I1
 sS'product'
-p48
-F0.0071570708400721141
+p47
+I1
 sS'improvement'
-p49
-F0.0040517357543305857
+p48
+I1
 ss.

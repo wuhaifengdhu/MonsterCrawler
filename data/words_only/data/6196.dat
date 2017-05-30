@@ -4,209 +4,206 @@ p2
 (dp3
 S'nlp'
 p4
-F0.014265342052927657
-sS'r d'
+I1
+sS'information retrieval'
 p5
-F0.00094830187497616013
-sS'information retrieval'
+I1
+sS'analytics'
 p6
-F0.016536230855520636
-sS'analytics'
+I1
+sS'engineering'
 p7
-F0.0046904343823422961
-sS'engineering'
-p8
-F0.007220879519035904
+I1
 sS'data governance'
+p8
+I1
+sS'data mining'
 p9
-F0.0086723748307303613
-sS'data mining'
-p10
-F0.010248435908926334
+I1
 sS'education'
-p11
-F0.0034347742728041042
+p10
+I1
 sS'collaborative filtering'
+p11
+I1
+sS'management'
 p12
-F0.0093434578143913299
-sS'management'
+I1
+sS'big data'
 p13
-F0.0019670531388203826
-sS'big data'
-p14
-F0.0050881900858662328
+I1
 sS'product marketing'
-p15
-F0.010213675733655139
+p14
+I1
 sS'hadoop'
-p16
-F0.0054956175616561491
+p15
+I1
 sS'governance'
-p17
-F0.0070318095275967232
+p16
+I1
 sS'research'
+p17
+I1
+sS'computer science'
 p18
-F0.0044039648738242983
-sS'computer science'
-p19
-F0.0038189212353582497
+I1
 sS'algorithm development'
-p20
-F0.0084983618834853034
+p19
+I1
 sS'data management'
-p21
-F0.0053968334106392736
+p20
+I1
 sS'segmentation'
-p22
-F0.0065046814788468988
+p21
+I1
 sS'distributed computing'
-p23
-F0.0065283671366462353
+p22
+I1
 sS'product development'
-p24
-F0.0047779267680857045
+p23
+I1
 sS'recommender systems'
+p24
+I1
+sS'marketing'
 p25
-F0.012389278282202213
-sS'marketing'
-p26
-F0.0039391273069501387
+I1
 sS'semantic analysis'
-p27
-F0.012599373827906483
+p26
+I1
 sS'data scientist'
+p27
+I1
+sS'mathematics'
 p28
-F0.00042740714680550019
-sS'mathematics'
-p29
-F0.007486785083241178
+I1
 sS'data'
-p30
-F0.00059477542922187416
+p29
+I1
 sS'parallel programming'
+p30
+I1
+sS'software engineering'
 p31
-F0.012491937772070496
-sS'software engineering'
+I1
+sS'science'
 p32
-F0.012676069791724346
-sS'science'
-p33
-F0.0033894994545215214
+I1
 sS'aws'
-p34
-F0.011022895205071962
+p33
+I1
 sS'programming'
-p35
-F0.0024003124030063773
+p34
+I1
 sS'mapreduce'
+p35
+I1
+sS'analysis'
 p36
-F0.012824592088145905
-sS'analysis'
+I1
+sS'machine learning'
 p37
-F0.0023155196306017191
-sS'machine learning'
-p38
-F0.0036606849769318418
+I1
 sS'financial services'
-p39
-F0.0084983618834853034
+p38
+I1
 ssS'working-year'
-p40
-(dp41
+p39
+(dp40
 V(2, 5]
-p42
-F0.001812780027826475
+p41
+I1
 ssS'major'
-p43
-(dp44
+p42
+(dp43
 S'information'
-p45
-F0.0029030327149803139
+p44
+I1
 sS'management'
-p46
-F0.0019670531388203826
+p45
+I1
 sS'business'
-p47
-F0.0018194255835944416
+p46
+I1
 sS'big data'
-p48
-F0.0050881900858662328
+p47
+I1
 sS'computing'
-p49
-F0.004919780283218181
+p48
+I1
 sS'marketing'
+p49
+I1
+sS'data mining'
 p50
-F0.0039391273069501387
-sS'data mining'
-p51
-F0.010248435908926334
+I1
 sS'software engineering'
-p52
-F0.012676069791724346
+p51
+I1
 sS'machine learning'
-p53
-F0.0036606849769318418
+p52
+I1
 sS'analytics'
-p54
-F0.0046904343823422961
+p53
+I1
 sS'engineering'
-p55
-F0.007220879519035904
+p54
+I1
 sS'computer science'
-p56
-F0.0038189212353582497
+p55
+I1
 sS'statistic'
-p57
-F0.0020522308131511405
+p56
+I1
 sS'information retrieval'
-p58
-F0.016536230855520636
+p57
+I1
 sS'mathematics'
-p59
-F0.007486785083241178
+p58
+I1
 sS'phd'
-p60
-F0.0038905140409216431
+p59
+I1
 sS'ee computer science'
-p61
-F0.0052191121393257824
+p60
+I1
 sS'science'
-p62
-F0.0033894994545215214
+p61
+I1
 ssS'education'
-p63
-(dp64
+p62
+(dp63
 VMaster
-p65
-F0.0022277084963138708
+p64
+I1
 sVDoctor
-p66
-F0.0029391793473011367
+p65
+I1
 ssS'responsibility'
-p67
-(dp68
+p66
+(dp67
 S'development'
-p69
-F0.0032043032291449417
+p68
+I1
 sS'information'
-p70
-F0.0029030327149803139
+p69
+I1
 sS'product'
-p71
-F0.0039669676711716105
+p70
+I1
 sS'analysis'
-p72
-F0.0023155196306017191
+p71
+I1
 sS'analytic'
-p73
-F0.0034514605154882761
+p72
+I1
 sS'understand'
-p74
-F0.0030970363546792292
+p73
+I1
 sS'data mining'
-p75
-F0.010248435908926334
+p74
+I1
 sS'model'
-p76
-F0.0017012807670188641
+p75
+I1
 ss.

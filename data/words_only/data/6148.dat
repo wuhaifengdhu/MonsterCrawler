@@ -2,192 +2,189 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'classification'
 p4
-F0.0011833276998982054
-sS'classification'
+I1
+sS'communication'
 p5
-F0.0076558294131767535
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0045189792110929021
-sS'data science'
-p7
-F0.0053631919663040505
+I1
 sS'decision support'
-p8
-F0.011195812867053692
+p7
+I1
 sS'data acquisition'
+p8
+I1
+sS'analytics'
 p9
-F0.011372303946339748
-sS'analytics'
+I1
+sS'engineering'
 p10
-F0.0029264525757265332
-sS'engineering'
-p11
-F0.012013989747329668
+I1
 sS'statistical analysis'
+p11
+I1
+sS'data mining'
 p12
-F0.0052794780790229746
-sS'data mining'
-p13
-F0.01278839408808387
+I1
 sS'time management'
-p14
-F0.01197768667703872
+p13
+I1
 sS'insurance'
-p15
-F0.0072804535355149008
+p14
+I1
 sS'clustering'
-p16
-F0.0073849796409538758
+p15
+I1
 sS'management'
-p17
-F0.0024545648677499294
+p16
+I1
 sS'data engineering'
-p18
-F0.0096784388095911486
-sS'time series analysis'
-p19
-F0.013000213177901487
-sS'strategy'
-p20
-F0.0040472603922371642
-sS'computer science'
-p21
-F0.0047653973916718219
-sS'data analysis'
-p22
-F0.0080375152082175615
-sS'transportation'
-p23
-F0.011761450466058932
-sS'python'
-p24
-F0.0020937050817013921
-sS'gas'
-p25
-F0.012510596456772312
-sS'construction'
-p26
-F0.039494799217883743
-sS'sql'
-p27
-F0.0027219909986994678
-sS'regression'
-p28
-F0.0069030113704744434
-sS'data'
-p29
-F0.0014843674977122277
-sS'training'
-p30
-F0.0051681588225612907
-sS'machine learning'
-p31
-F0.0045679440778429031
-sS'analysis'
-p32
-F0.0043340922192386649
-sS'spss'
-p33
-F0.0070078078809109844
+p17
+I1
 sS'critical thinking'
-p34
-F0.0097466489833049497
-sS'r'
-F0.0022969416363257692
-sS'root'
-p35
-F0.0099615373235697521
-sS'predictive analytics'
-p36
-F0.014694424237007125
-ssS'working-year'
-p37
-(dp38
-V(2, 5]
-p39
-F0.0022620569223310194
-ssS'major'
-p40
-(dp41
-S'management'
-p42
-F0.0024545648677499294
-sS'transportation'
-p43
-F0.011761450466058932
-sS'business'
-p44
-F0.0022703495034478191
-sS'communication'
-p45
-F0.0045189792110929021
-sS'data science'
-p46
-F0.0053631919663040505
-sS'data mining'
-p47
-F0.01278839408808387
-sS'computer science statistics'
-p48
-F0.0095466790928025319
-sS'data analyst'
-p49
-F0.0079455542417940679
-sS'machine learning'
-p50
-F0.0045679440778429031
-sS'analytics'
-p51
-F0.0029264525757265332
-sS'engineering'
-p52
-F0.012013989747329668
+p18
+I1
+sS'strategy'
+p19
+I1
 sS'computer science'
-p53
-F0.0047653973916718219
-sS'statistic'
-p54
-F0.0025608528590617976
-sS'mathematics computer science'
-p55
-F0.010213973676404055
-sS'computer science economics'
-p56
-F0.013793900022054609
-sS'predictive analytics'
-p57
-F0.014694424237007125
-ssS'education'
-p58
-(dp59
-VBachelor
-p60
-F0.0009796978885076215
-ssS'responsibility'
-p61
-(dp62
-S'development'
-p63
-F0.0026656355393271077
+p20
+I1
 sS'data analysis'
-p64
-F0.0080375152082175615
-sS'extract'
-p65
-F0.0068081100157999092
+p21
+I1
+sS'transportation'
+p22
+I1
+sS'python'
+p23
+I1
+sS'gas'
+p24
+I1
+sS'construction'
+p25
+I1
+sS'sql'
+p26
+I1
+sS'regression'
+p27
+I1
+sS'data'
+p28
+I1
+sS'training'
+p29
+I1
+sS'machine learning'
+p30
+I1
 sS'analysis'
-p66
-F0.0043340922192386649
-sS'solve problem'
-p67
-F0.0087257198297744382
+p31
+I1
+sS'spss'
+p32
+I1
+sS'time series analysis'
+p33
+I1
+sS'r'
+I1
+sS'root'
+p34
+I1
+sS'predictive analytics'
+p35
+I1
+ssS'working-year'
+p36
+(dp37
+V(2, 5]
+p38
+I1
+ssS'major'
+p39
+(dp40
+S'management'
+p41
+I1
+sS'transportation'
+p42
+I1
+sS'business'
+p43
+I1
+sS'communication'
+p44
+I1
+sS'data science'
+p45
+I1
 sS'data mining'
-p68
-F0.01278839408808387
+p46
+I1
+sS'computer science statistics'
+p47
+I1
+sS'data analyst'
+p48
+I1
+sS'machine learning'
+p49
+I1
+sS'analytics'
+p50
+I1
+sS'engineering'
+p51
+I1
+sS'computer science'
+p52
+I1
+sS'statistic'
+p53
+I1
+sS'mathematics computer science'
+p54
+I1
+sS'computer science economics'
+p55
+I1
+sS'predictive analytics'
+p56
+I1
+ssS'education'
+p57
+(dp58
+VBachelor
+p59
+I1
+ssS'responsibility'
+p60
+(dp61
+S'development'
+p62
+I1
+sS'data analysis'
+p63
+I1
+sS'extract'
+p64
+I1
+sS'analysis'
+p65
+I1
+sS'solve problem'
+p66
+I1
+sS'data mining'
+p67
+I1
 sS'presentation'
-p69
-F0.004876934300129929
+p68
+I1
 ss.

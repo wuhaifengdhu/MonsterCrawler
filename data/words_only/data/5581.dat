@@ -2,145 +2,142 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'change management'
 p4
-F0.0011971274398387094
-sS'communication'
+I1
+sS'training'
 p5
-F0.0091433573542229578
-sS'data governance'
+I1
+sS'management'
 p6
-F0.010947925077860778
+I1
 sS'problem solving'
 p7
-F0.0055009165583696819
-sS'creative problem solving'
-p8
-F0.015066612884070626
-sS'change management'
-p9
-F0.012611291508513575
-sS'management'
-p10
-F0.0099327581237227472
+I1
 sS'big data'
+p8
+I1
+sS'communication'
+p9
+I1
+sS'data management'
+p10
+I1
+sS'data scientist'
 p11
-F0.0064232836944025616
+I1
 sS'information management'
 p12
-F0.02630363832496686
+I1
 sS'governance'
 p13
-F0.07101512595800305
+I1
 sS'research'
 p14
-F0.0027797620850815176
-sS'policy'
+I1
+sS'data governance'
 p15
-F0.027449711786100478
-sS'master data management'
+I1
+sS'analysis'
 p16
-F0.013495206377982709
-sS'data management'
-p17
-F0.0068129121481247971
-sS'data scientist'
-p18
-F0.00053955479465533993
-sS'data quality'
-p19
-F0.0086035662834709186
+I1
 sS'leadership'
-p20
-F0.0088858124942867191
-sS'data'
-p21
-F0.015767618011412542
-sS'project management'
-p22
-F0.013528446907875561
-sS'training'
-p23
-F0.0052284288962937842
-sS'analysis'
-p24
-F0.001461545189578053
+p17
+I1
 sS'military'
-p25
-F0.0091373602238912013
-ssS'working-year'
-p26
-(dp27
-V(10, 15]
-p28
-F0.0082513851630087974
-ssS'major'
-p29
-(dp30
-S'information'
-p31
-F0.0018323807078520057
-sS'management'
-p32
-F0.0099327581237227472
-sS'business'
-p33
-F0.0022968258824967733
-sS'big data'
-p34
-F0.0064232836944025616
-sS'communication'
-p35
-F0.0091433573542229578
-sS'information management'
-p36
-F0.02630363832496686
-sS'data analyst'
-p37
-F0.0080382137664797137
-sS'design'
-p38
-F0.0019863517671626957
+p18
+I1
+sS'policy'
+p19
+I1
+sS'master data management'
+p20
+I1
+sS'creative problem solving'
+p21
+I1
+sS'data quality'
+p22
+I1
+sS'data'
+p23
+I1
 sS'project management'
-p39
-F0.013528446907875561
-ssS'education'
-p40
-(dp41
-VMaster
-p42
-F0.0028122384224603674
-ssS'responsibility'
-p43
-(dp44
-S'development'
-p45
-F0.0013483608340328081
-sS'information'
-p46
-F0.0018323807078520057
-sS'formulate'
-p47
-F0.010872846693777735
-sS'analysis'
-p48
-F0.001461545189578053
-sS'cross-functionally'
-p49
-F0.012566780521123779
+p24
+I1
+ssS'working-year'
+p25
+(dp26
+V(10, 15]
+p27
+I1
+ssS'major'
+p28
+(dp29
+S'information'
+p30
+I1
+sS'management'
+p31
+I1
+sS'business'
+p32
+I1
+sS'big data'
+p33
+I1
+sS'communication'
+p34
+I1
+sS'information management'
+p35
+I1
+sS'data analyst'
+p36
+I1
 sS'design'
-p50
-F0.0019863517671626957
+p37
+I1
+sS'project management'
+p38
+I1
+ssS'education'
+p39
+(dp40
+VMaster
+p41
+I1
+ssS'responsibility'
+p42
+(dp43
+S'development'
+p44
+I1
+sS'information'
+p45
+I1
+sS'formulate'
+p46
+I1
+sS'analysis'
+p47
+I1
+sS'cross-functionally'
+p48
+I1
+sS'design'
+p49
+I1
 sS'recommendation'
-p51
-F0.010682092673008584
+p50
+I1
 sS'interface'
-p52
-F0.0067884661434016169
+p51
+I1
 sS'understand'
-p53
-F0.0039096698005134291
+p52
+I1
 sS'presentation'
-p54
-F0.0049338081695191995
+p53
+I1
 ss.

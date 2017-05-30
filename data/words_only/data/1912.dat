@@ -4,226 +4,223 @@ p2
 (dp3
 S'debugging'
 p4
-F0.0090543967397151998
+I1
 sS'r d'
 p5
-F0.00093962176628072623
-sS'data science'
-p6
-F0.0042586444217563059
+I1
 sS'linux'
-p7
-F0.0057521189945552382
+p6
+I1
 sS'intelligence analysis'
-p8
-F0.010006693963162904
+p7
+I1
 sS'tcp'
-p9
-F0.035729520635875686
+p8
+I1
 sS'business intelligence'
-p10
-F0.0053282468814342216
+p9
+I1
 sS'defense'
-p11
-F0.0065486259348648849
+p10
+I1
 sS'c++'
-p12
-F0.0061601196615241171
+p11
+I1
 sS'data mining'
-p13
-F0.01015462871525195
+p12
+I1
 sS'writing'
-p14
-F0.0096029863340273067
+p13
+I1
 sS'web 2.0'
-p15
-F0.016278612094499413
+p14
+I1
 sS'xml'
-p16
-F0.0086534804311489653
+p15
+I1
 sS'networking'
-p17
-F0.016915564345599546
+p16
+I1
 sS'agile'
-p18
-F0.0043673263410502778
+p17
+I1
 sS'integration'
-p19
-F0.0044084954954492885
+p18
+I1
 sS'research'
-p20
-F0.0021818269912653562
+p19
+I1
 sS'json'
-p21
-F0.0082775102201277147
+p20
+I1
 sS'computer science'
-p22
-F0.0037839654345769385
+p21
+I1
 sS'web services'
-p23
-F0.0083839605517390062
+p22
+I1
 sS'natural language processing'
-p24
-F0.011668112609248221
+p23
+I1
 sS'advanced analytics'
-p25
-F0.0099825713139298153
+p24
+I1
 sS'unstructured data'
-p26
-F0.0054967123237584046
+p25
+I1
 sS'graph theory'
-p27
-F0.025935181452259325
+p26
+I1
 sS'product development'
-p28
-F0.0047341928846249652
+p27
+I1
 sS'social network analysis'
-p29
-F0.012836793906033841
+p28
+I1
 sS'processing'
-p30
-F0.0036464427657206836
+p29
+I1
 sS'jsp'
-p31
-F0.012967590726129663
+p30
+I1
 sS'ubuntu'
-p32
-F0.012178485320898375
+p31
+I1
 sS'apache'
-p33
-F0.01445196934829061
+p32
+I1
 sS'open source'
+p33
+I1
+sS'data'
 p34
-F0.0057752317685068871
+I1
 sS'financial analysis'
 p35
-F0.012967590726129663
+I1
 sS'risk assessment'
 p36
-F0.010689736831014089
+I1
 sS'data visualization'
 p37
-F0.0039159174935561123
+I1
 sS'java'
 p38
-F0.0032251293699542662
+I1
 sS'amazon ec2'
 p39
-F0.010120186710921453
+I1
 sS'object oriented design'
 p40
-F0.012178485320898375
+I1
 sS'analysis'
 p41
-F0.001147162471453712
+I1
 sS'machine learning'
 p42
-F0.0036271775629553491
+I1
 sS'r'
-F0.0018238872947483799
+I1
 sS'architecture'
 p43
-F0.0082131540034166943
+I1
 sS'javascript'
 p44
-F0.006236981690216011
+I1
 sS'tomcat'
 p45
-F0.011067490437787925
+I1
 sS'security'
 p46
-F0.0036510276669832111
+I1
 sS'ec2'
 p47
-F0.0090788706199481945
+I1
 ssS'working-year'
 p48
 (dp49
 V(5, 10]
 p50
-F0.0027658797627674106
+I1
 sV(2, 5]
 p51
-F0.0017961870756266905
+I1
 ssS'major'
 p52
 (dp53
 S'natural language processing'
 p54
-F0.011668112609248221
+I1
 sS'graph theory'
 p55
-F0.025935181452259325
+I1
 sS'business'
 p56
-F0.00090138590125445452
-sS'data science'
+I1
+sS'data mining'
 p57
-F0.0042586444217563059
-sS'data mining'
-p58
-F0.01015462871525195
+I1
 sS'machine learning'
+p58
+I1
+sS'design'
 p59
-F0.0036271775629553491
-sS'design'
-p60
-F0.0015590815929903995
+I1
 sS'computer science'
-p61
-F0.0037839654345769385
+p60
+I1
 sS'statistic'
-p62
-F0.0020334460917492995
+p61
+I1
 sS'advanced analytics'
-p63
-F0.0099825713139298153
+p62
+I1
 sS'general'
-p64
-F0.0053044864875866965
+p63
+I1
 sVphysic
-p65
-F0.0052163826018795543
+p64
+I1
 sS'data mining machine learning'
-p66
-F0.0076192193264318668
+p65
+I1
 ssS'education'
-p67
-(dp68
+p66
+(dp67
 VMaster
-p69
-F0.0022073175718624852
+p68
+I1
 ssS'responsibility'
-p70
-(dp71
+p69
+(dp70
 S'development'
-p72
-F0.002116648814980564
+p71
+I1
 sS'product'
-p73
-F0.0078613135085460282
+p72
+I1
 sVinsight
-p74
-F0.0023822912573799727
+p73
+I1
 sS'data mining'
-p75
-F0.01015462871525195
+p74
+I1
 sS'processing'
-p76
-F0.0036464427657206836
+p75
+I1
 sS'construct'
-p77
-F0.010365597030405913
+p76
+I1
 sS'design'
-p78
-F0.0015590815929903995
+p77
+I1
 sS'solve problem'
-p79
-F0.0069286608259307332
+p78
+I1
 sS'recommendation'
-p80
-F0.0041921713808260232
+p79
+I1
 sS'analysis'
-p81
-F0.001147162471453712
+p80
+I1
 ss.

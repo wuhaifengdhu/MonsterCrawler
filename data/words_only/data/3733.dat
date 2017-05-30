@@ -2,102 +2,99 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'python'
 p4
-F0.0020029985944618406
-sS'python'
+I1
+sS'science'
 p5
-F0.0035439788456116247
-sS'science'
+I1
+sS'data science'
 p6
-F0.0071592842136966768
-sS'data science'
-p7
-F0.0090781834746707594
+I1
 sS'strategy'
+p7
+I1
+sS'analytics'
 p8
-F0.01370145713274435
-sS'analytics'
-p9
-F0.029721337866647039
+I1
 sS'customer analytics'
-p10
-F0.025386417853411895
+p9
+I1
 sS'r'
-F0.0038879938917319124
+I1
 sS'marketing'
+p10
+I1
+sS'advanced analytics'
 p11
-F0.024960616447454783
-sS'advanced analytics'
-p12
-F0.021279920313108925
+I1
 sS'organization'
-p13
-F0.015679937615342907
+p12
+I1
 sS'retail'
+p13
+I1
+sS'data analytics'
 p14
-F0.013907954024633231
-sS'data analytics'
-p15
-F0.014922279166700518
+I1
 ssS'working-year'
-p16
-(dp17
+p15
+(dp16
 V(5, 10]
-p18
-F0.005896046128435895
+p17
+I1
 sV(2, 5]
-p19
-F0.0038289451319456769
+p18
+I1
 ssS'major'
-p20
-(dp21
+p19
+(dp20
 S'business'
-p22
-F0.0076859636848428609
+p21
+I1
 sS'marketing'
-p23
-F0.024960616447454783
+p22
+I1
 sS'data science'
-p24
-F0.0090781834746707594
+p23
+I1
 sS'data analyst'
-p25
-F0.013449304009280693
+p24
+I1
 sS'advanced analytics'
-p26
-F0.021279920313108925
+p25
+I1
 sS'analytics'
-p27
-F0.029721337866647039
+p26
+I1
 sS'science'
-p28
-F0.0071592842136966768
+p27
+I1
 sS'analytics data science'
-p29
-F0.019623064011303135
+p28
+I1
 sS'data analytics'
-p30
-F0.014922279166700518
+p29
+I1
 ssS'education'
-p31
-(dp32
+p30
+(dp31
 S'Bachelor'
-p33
-F0.0016583178893275351
+p32
+I1
 ssS'responsibility'
-p34
-(dp35
+p33
+(dp34
 S'development'
-p36
-F0.0045120757665683235
+p35
+I1
 sS'analytic'
-p37
-F0.0072901580644215789
+p36
+I1
 sS'product'
-p38
-F0.0027930032546622883
+p37
+I1
 sS'analytical method'
-p39
-F0.019459541661676995
+p38
+I1
 ss.

@@ -4,218 +4,215 @@ p2
 (dp3
 S'cognos'
 p4
-F0.010106672025432466
+I1
 sS'supply chain'
 p5
-F0.008256705127537331
-sS'r d'
+I1
+sS'communication'
 p6
-F0.00089653867219361858
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0017118840461236213
-sS'data science'
+I1
+sS'information technology'
 p8
-F0.0040633790661735924
-sS'information technology'
+I1
+sS'analytics'
 p9
-F0.011076623717484824
-sS'analytics'
-p10
-F0.01108601576175881
+I1
 sS'business intelligence'
-p11
-F0.0050839386183116914
+p10
+I1
 sS'ssrs'
-p12
-F0.02256702279142456
+p11
+I1
 sS'sap'
-p13
-F0.018206677532943912
+p12
+I1
 sS'rdbms'
+p13
+I1
+sS'big data'
 p14
-F0.0085932715566974741
-sS'big data'
-p15
-F0.0048104504523582507
+I1
 sS'sharepoint'
-p16
-F0.011132872826778321
+p15
+I1
 sS'hadoop'
-p17
-F0.0025978192185557997
+p16
+I1
 sS'strategy'
-p18
-F0.0091991224199102356
+p17
+I1
 sS'ssis'
+p18
+I1
+sS'computer science'
 p19
-F0.010924773330202257
-sS'computer science'
-p20
-F0.0036104648360483016
+I1
 sS'intelligence'
+p20
+I1
+sS'advanced analytics'
 p21
-F0.012510223306259579
-sS'advanced analytics'
-p22
-F0.0095248551619810679
+I1
 sS'data management'
-p23
-F0.0051022464340759943
+p22
+I1
 sS'dashboarding'
-p24
-F0.013761625079416086
+p23
+I1
 sS'database design'
+p24
+I1
+sS'marketing'
 p25
-F0.0086861947021104908
-sS'marketing'
-p26
-F0.0037241094408502402
+I1
 sS'leadership'
-p27
-F0.0066546587020531543
+p26
+I1
 sS'sql'
-p28
-F0.0020622944902810377
+p27
+I1
 sS'data'
+p28
+I1
+sS'project management'
 p29
-F0.002249238086053026
-sS'project management'
-p30
-F0.010131566134064011
+I1
 sS'sap bi'
-p31
-F0.015045000300088748
+p30
+I1
 sS'data visualization'
-p32
-F0.0037363666914498276
+p31
+I1
 sS'sql server'
-p33
-F0.0071375031916996578
+p32
+I1
 sS'business objects'
-p34
-F0.0092828952675686922
+p33
+I1
 sS'data integration'
-p35
-F0.0076334738898197509
+p34
+I1
 sS'olap'
-p36
-F0.012373006871874807
+p35
+I1
 sS'data governance'
-p37
-F0.0081989919251228092
+p36
+I1
 sS'architecture'
-p38
-F0.0039182841697522871
+p37
+I1
 sS'organization'
-p39
-F0.0046788751253934438
+p38
+I1
 sS'etl'
+p39
+I1
+sS'predictive analytics'
 p40
-F0.01153792614035944
-sS'predictive analytics'
-p41
-F0.011133111812754308
+I1
 ssS'working-year'
-p42
-(dp43
+p41
+(dp42
 V(10, 15]
-p44
-F0.0061795308098515668
+p43
+I1
 sV(2, 5]
-p45
-F0.0017138291529451171
+p44
+I1
 ssS'major'
-p46
-(dp47
+p45
+(dp46
 S'information'
-p48
-F0.0013722851152690786
+p47
+I1
 sS'analytics analytics'
-p49
-F0.013761625079416086
+p48
+I1
 sS'business'
-p50
-F0.0060203918601252756
+p49
+I1
 sS'big data'
-p51
-F0.0048104504523582507
+p50
+I1
 sS'marketing'
-p52
-F0.0037241094408502402
+p51
+I1
 sS'data science'
-p53
-F0.0040633790661735924
+p52
+I1
 sS'data science analytics'
-p54
-F0.0080344775011989885
+p53
+I1
 sS'mba'
-p55
-F0.008124340067191687
+p54
+I1
 sS'information technology'
-p56
-F0.011076623717484824
+p55
+I1
 sS'analytics'
+p56
+I1
+sS'design'
 p57
-F0.01108601576175881
-sS'design'
-p58
-F0.0014875953190759926
+I1
 sS'computer science'
-p59
-F0.0036104648360483016
+p58
+I1
 sS'communication'
-p60
-F0.0017118840461236213
+p59
+I1
 sS'advanced analytics'
-p61
-F0.0095248551619810679
+p60
+I1
 sS'project management'
-p62
-F0.010131566134064011
+p61
+I1
 sS'predictive analytics'
-p63
-F0.011133111812754308
+p62
+I1
 ssS'education'
-p64
-(dp65
+p63
+(dp64
 VBachelor
-p66
-F0.00074226019063787052
+p65
+I1
 sVMaster
-p67
-F0.0021061086875631134
+p66
+I1
 ssS'responsibility'
-p68
-(dp69
+p67
+(dp68
 S'development'
-p70
-F0.0030293958476413966
+p69
+I1
 sS'information'
-p71
-F0.0013722851152690786
+p70
+I1
 sS'product'
-p72
-F0.0012501433781785349
+p71
+I1
 sS'manage decision'
-p73
-F0.016160339201505173
+p72
+I1
 sS'understand'
-p74
-F0.0029279841519128957
+p73
+I1
 sS'ownership'
-p75
-F0.0069368531913252766
+p74
+I1
 sS'design'
-p76
-F0.0014875953190759926
+p75
+I1
 sS'model'
-p77
-F0.0032168321926601229
+p76
+I1
 sS'presentation'
-p78
-F0.0036949698736792255
+p77
+I1
 sS'transformation'
-p79
-F0.010588600446087802
+p78
+I1
 ss.

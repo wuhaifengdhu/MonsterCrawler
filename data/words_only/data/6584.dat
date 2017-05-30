@@ -2,165 +2,156 @@
 S'skills'
 p2
 (dp3
-S'r d'
-p4
-F0.0019277686003036495
-sS'communication'
-p5
-F0.0036809525498808387
-sS'energy'
-p6
-F0.012796061026405618
-sS'analytics'
-p7
-F0.0047675072477798459
-sS'communication skills'
-p8
-F0.013836337740151495
-sS'quantitative analysis'
-p9
-F0.030446861257089442
-sS'java'
-p10
-F0.0066168147167606304
-sS'hadoop'
-p11
-F0.0055859211366129403
-sS'statistical software'
-p12
-F0.015739847652906275
-sS'matlab'
-p13
-F0.020772750490734869
-sS'failure analysis'
-p14
-F0.032350282335402096
-sS'data science'
-p15
-F0.0087372188371244389
-sS'computer science'
-p16
-F0.0077633469244606677
-sS'data analysis'
-p17
-F0.013093980174889644
-sS'python'
-p18
-F0.0034108716589219862
-sS'data scientist'
-p19
-F0.00086886053787221405
-sS'aerospace'
-p20
-F0.021355933773715738
-sS'sql'
-p21
-F0.0044344172607920914
-sS'manufacturing'
-p22
-F0.016138423218441073
-sS'data'
-p23
-F0.001209097468793763
-sS'analytical skills'
-p24
-F0.022953693182555364
-sS'applied mathematics'
-p25
-F0.026607315890453419
-sS'programming'
-p26
-F0.0048795083122148419
-sS'c++'
-p27
-F0.012638367568479057
-sS'simulation'
-p28
-F0.014234906619808007
-sS'r'
-F0.0037419659521363475
-sS'electrical engineering'
-p29
-F0.032456839918109902
-sS'organization'
-p30
-F0.0050303399235450642
-ssS'working-year'
-p31
-(dp32
-V(2, 5]
-p33
-F0.0036851349861449002
-ssS'major'
-p34
-(dp35
 S'communication'
-p36
-F0.0036809525498808387
-sS'applied mathematics'
-p37
-F0.026607315890453419
+p4
+I1
+sS'energy'
+p5
+I1
 sS'analytics'
-p38
-F0.0047675072477798459
-sS'design'
-p39
-F0.012794716547170041
+p6
+I1
+sS'communication skills'
+p7
+I1
+sS'quantitative analysis'
+p8
+I1
+sS'java'
+p9
+I1
+sS'hadoop'
+p10
+I1
+sS'statistical software'
+p11
+I1
+sS'matlab'
+p12
+I1
+sS'failure analysis'
+p13
+I1
 sS'computer science'
-p40
-F0.0077633469244606677
-sS'applied math'
-p41
-F0.011684802187427703
+p14
+I1
+sS'data analysis'
+p15
+I1
+sS'python'
+p16
+I1
+sS'data scientist'
+p17
+I1
+sS'aerospace'
+p18
+I1
+sS'sql'
+p19
+I1
+sS'manufacturing'
+p20
+I1
+sS'data'
+p21
+I1
+sS'analytical skills'
+p22
+I1
+sS'organization'
+p23
+I1
+sS'applied mathematics'
+p24
+I1
+sS'programming'
+p25
+I1
+sS'c++'
+p26
+I1
+sS'simulation'
+p27
+I1
+sS'r'
+I1
 sS'electrical engineering'
-p42
-F0.032456839918109902
+p28
+I1
+ssS'working-year'
+p29
+(dp30
+V(2, 5]
+p31
+I1
+ssS'major'
+p32
+(dp33
+S'communication'
+p34
+I1
+sS'applied mathematics'
+p35
+I1
+sS'analytics'
+p36
+I1
+sS'design'
+p37
+I1
+sS'computer science'
+p38
+I1
+sS'applied math'
+p39
+I1
+sS'electrical engineering'
+p40
+I1
 sS'ee computer science'
-p43
-F0.010609744395906402
-sS'data science'
-p44
-F0.0087372188371244389
+p41
+I1
 ssS'education'
+p42
+(dp43
+VMaster
+p44
+I1
+ssS'responsibility'
 p45
 (dp46
-VMaster
-p47
-F0.0045286280699713905
-ssS'responsibility'
-p48
-(dp49
 S'development'
-p50
-F0.008685216264286446
+p47
+I1
 sS'large data set'
-p51
-F0.010412625024503576
+p48
+I1
 sS'product'
-p52
-F0.0026881017239707467
+p49
+I1
 sS'data analysis'
-p53
-F0.013093980174889644
+p50
+I1
 sS'communicate'
-p54
-F0.0057976911412869862
+p51
+I1
 sS'simulation'
-p55
-F0.014234906619808007
+p52
+I1
 sS'statistical method'
-p56
-F0.0117543508500236
+p53
+I1
 sS'design'
-p57
-F0.012794716547170041
+p54
+I1
 sS'report'
-p58
-F0.00598860533678164
+p55
+I1
 sS'model'
-p59
-F0.010375416508720679
+p56
+I1
 sS'quantitative analysis'
-p60
-F0.030446861257089442
+p57
+I1
 ss.

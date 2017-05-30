@@ -2,144 +2,141 @@
 S'skills'
 p2
 (dp3
-S'data science'
+S'visualization'
 p4
-F0.012163579165408533
-sS'analytics'
+I1
+sS'life sciences'
 p5
-F0.0066371179331837062
-sS'engineering'
+I1
+sS'organization'
 p6
-F0.013623707327854234
-sS'visualization'
-p7
-F0.010833688712865342
+I1
 sS'big data'
+p7
+I1
+sS'informatica'
 p8
-F0.01439991050444496
-sS'predictive modeling'
+I1
+sS'data science'
 p9
-F0.014139452608169057
+I1
+sS'r'
+I1
 sS'information management'
 p10
-F0.058968287225252505
+I1
 sS'governance'
 p11
-F0.019900480558492688
+I1
 sS'strategy'
 p12
-F0.0091790807588646803
-sS'computer science'
-p13
-F0.010807796698758969
-sS'management consulting'
-p14
-F0.030532124151327823
-sS'informatica'
-p15
-F0.031445592920171232
-sS'modeling'
-p16
-F0.0063115371104715398
-sS'life sciences'
-p17
-F0.065808073731267097
-sS'analysis'
-p18
-F0.003276535947877596
-sS'machine learning'
-p19
-F0.010359977745173122
+I1
 sS'data architecture'
-p20
-F0.021836778657328349
-sS'r'
-F0.0052094035804251112
-sS'financial services'
-p21
-F0.024050919578752529
-sS'healthcare'
-p22
-F0.013956957374547186
-sS'organization'
-p23
-F0.014006044493007826
-sS'data analytics'
-p24
-F0.01999390345865102
-ssS'working-year'
-p25
-(dp26
-V[0]
-p27
-F0.0093213756363558498
-ssS'major'
-p28
-(dp29
-S'information'
-p30
-F0.0082157723240946154
-sS'life sciences'
-p31
-F0.065808073731267097
-sS'business'
-p32
-F0.010298186636554161
-sS'big data'
-p33
-F0.01439991050444496
-sS'data science'
-p34
-F0.012163579165408533
-sS'information management'
-p35
-F0.058968287225252505
-sS'machine learning'
-p36
-F0.010359977745173122
+p13
+I1
 sS'analytics'
-p37
-F0.0066371179331837062
+p14
+I1
 sS'engineering'
-p38
-F0.013623707327854234
+p15
+I1
+sS'machine learning'
+p16
+I1
 sS'computer science'
-p39
-F0.010807796698758969
-sS'data analytics'
-p40
-F0.01999390345865102
-ssS'education'
-p41
-(dp42
-S'Bachelor'
-p43
-F0.0022219291981185928
-ssS'responsibility'
-p44
-(dp45
-S'development'
-p46
-F0.0060455917133758587
-sS'information'
-p47
-F0.0082157723240946154
-sS'analysis'
-p48
-F0.003276535947877596
-sS'report'
-p49
-F0.008337078017872479
+p17
+I1
+sS'healthcare'
+p18
+I1
 sS'modeling'
-p50
-F0.0063115371104715398
+p19
+I1
+sS'analysis'
+p20
+I1
+sS'management consulting'
+p21
+I1
+sS'data analytics'
+p22
+I1
+sS'financial services'
+p23
+I1
+ssS'working-year'
+p24
+(dp25
+V[0]
+p26
+I1
+ssS'major'
+p27
+(dp28
+S'information'
+p29
+I1
+sS'life sciences'
+p30
+I1
+sS'business'
+p31
+I1
+sS'big data'
+p32
+I1
+sS'data science'
+p33
+I1
+sS'information management'
+p34
+I1
+sS'machine learning'
+p35
+I1
+sS'analytics'
+p36
+I1
+sS'engineering'
+p37
+I1
+sS'computer science'
+p38
+I1
+sS'data analytics'
+p39
+I1
+ssS'education'
+p40
+(dp41
+S'Bachelor'
+p42
+I1
+ssS'responsibility'
+p43
+(dp44
+S'development'
+p45
+I1
+sS'information'
+p46
+I1
+sS'analysis'
+p47
+I1
+sS'report'
+p48
+I1
+sS'modeling'
+p49
+I1
 sS'implement'
-p51
-F0.0086990932939353047
+p50
+I1
 sS'evaluation'
-p52
-F0.034426807765035622
+p51
+I1
 sS'model'
-p53
-F0.0048147357654847595
+p52
+I1
 ss.

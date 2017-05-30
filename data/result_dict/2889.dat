@@ -2,120 +2,112 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'intelligence'
 p4
-aS'intelligence'
+aS'data science'
 p5
-aS'data science'
-p6
 aS'defense'
-p7
+p6
 aS'analysis'
-p8
+p7
 aS'ic'
-p9
+p8
 aS'education'
-p10
+p9
 aS'visualization'
-p11
+p10
 aS'open source'
-p12
+p11
 aS'big data'
-p13
+p12
 aS'research'
-p14
+p13
 aS'scientific analysis'
+p14
+aS'communication'
 p15
-aS'communication'
+aS'mathematics'
 p16
-aS'mathematics'
-p17
 aS'unstructured data'
-p18
+p17
 aS'government'
-p19
+p18
 aS'python'
-p20
+p19
 aS'data scientist'
-p21
+p20
 aS'data'
-p22
+p21
 aS'security'
-p23
+p22
 aS'data collection'
-p24
+p23
 aS'national security'
-p25
+p24
 aS'data visualization'
+p25
+aS'science'
 p26
-aS'science'
-p27
-aS'applied mathematics'
-p28
 aS'documentation'
-p29
+p27
 aS'programming'
-p30
+p28
 aS'security clearance'
-p31
+p29
 aS'architecture'
-p32
+p30
 aS'data security'
-p33
+p31
 aS'visual basic'
-p34
+p32
 aS'validation'
-p35
+p33
 asS'working-year'
-p36
-(lp37
+p34
+(lp35
 V(15, 20]
-p38
+p36
 aV(2, 5]
-p39
+p37
 asS'major'
-p40
-(lp41
+p38
+(lp39
 S'big data'
-p42
+p40
 aS'science'
-p43
-aS'applied mathematics'
-p44
-aS'applied math'
-p45
-aS'general'
-p46
-aS'communication'
-p47
-aS'mathematics'
-p48
+p41
 aS'data science'
-p49
+p42
+aS'general'
+p43
+aS'communication'
+p44
+aS'mathematics'
+p45
 asS'education'
+p46
+(lp47
+VBachelor
+p48
+aVMaster
+p49
+asS'responsibility'
 p50
 (lp51
-VBachelor
-p52
-aVMaster
-p53
-asS'responsibility'
-p54
-(lp55
 S'product'
-p56
+p52
 aS'data collection'
-p57
+p53
 aS'documentation'
-p58
+p54
 aS'analysis'
-p59
+p55
 aS'report'
-p60
+p56
 aS'model'
-p61
+p57
 aS'presentation'
-p62
+p58
 aS'normalization'
-p63
+p59
 as.

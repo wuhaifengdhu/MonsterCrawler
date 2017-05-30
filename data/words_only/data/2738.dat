@@ -4,289 +4,283 @@ p2
 (dp3
 S'research design'
 p4
-F0.0047452643080147369
+I1
 sS'consulting'
 p5
-F0.0027323111912609063
-sS'r d'
-p6
-F0.00054314115326015524
-sS'nosql'
-p7
-F0.0031106798291650997
-sS'recruiting'
-p8
-F0.00366833564139535
-sS'hadoop'
-p9
-F0.0015738111138869791
-sS'health insurance'
-p10
-F0.0060688283069330103
-sS'analysis'
-p11
-F0.0013262169312837887
-sS'problem solving'
-p12
-F0.0024957862162973557
-sS'go'
-p13
-F0.0037121366656301491
-sS'ic'
-p14
-F0.0094711480958206817
-sS'perl'
-p15
-F0.0039086265505264553
-sS'insurance'
-p16
-F0.0033416896518831622
-sS'visualization'
-p17
-F0.0021925322395084617
-sS'management'
-p18
-F0.0011266322871815154
-sS'genetics'
-p19
-F0.0050020779740900766
+I1
 sS'probability'
-p20
-F0.0045385915076546586
-sS'critical thinking'
-p21
-F0.0044736603137656315
-sS'agile'
-p22
-F0.0025244994855012845
+p6
+I1
 sS'r programming'
-p23
-F0.0042754343171244706
-sS'tableau'
-p24
-F0.0026302098165805737
-sS'research'
-p25
-F0.0012611883534166144
-sS'teamwork'
-p26
-F0.0035687777775123088
-sS'matlab'
-p27
-F0.0029263200096074911
-sS'stata'
-p28
-F0.0050020779740900766
-sS'intelligence'
-p29
-F0.0075789448072313328
-sS'policy'
-p30
-F0.006227017951476497
-sS'data management'
-p31
-F0.0030910434746121763
-sS'computer science'
-p32
-F0.0021872921890345532
-sS'data analysis'
-p33
-F0.0036891769540363679
-sS'product development'
-p34
-F0.0027365638764300392
-sS'government'
-p35
-F0.0025876674350338727
-sS'python'
-p36
-F0.00096099955469627386
-sS'innovation'
-p37
-F0.0016511641797552848
-sS'data scientist'
-p38
-F0.00024479800868621902
-sS'training'
-p39
-F0.011860787773999787
-sS'mapreduce'
-p40
-F0.0036726510411158575
-sS'machine learning'
-p41
-F0.0020966621627136078
-sS'sql'
-p42
-F0.0012493794663342795
-sS'foreign policy'
-p43
-F0.007576007362006588
-sS'modeling'
-p44
-F0.0012773348914049544
-sS'pig'
-p45
-F0.0033757803770964171
-sS'data'
-p46
-F0.00068131682765362831
-sS'project management'
-p47
-F0.0061379064674620598
-sS'hbase'
-p48
-F0.0038629247641845106
-sS'national security'
-p49
-F0.0046334191405636733
-sS'spatial analysis'
-p50
-F0.0063974779382451365
-sS'java'
-p51
-F0.0018642612892460506
-sS'applied mathematics'
-p52
-F0.0074965056675483834
-sS'programming'
-p53
-F0.0027495642076766171
-sS'engineering'
-p54
-F0.0055143577279409984
-sS'hive'
-p55
-F0.0026126403756785732
-sS'spss'
-p56
-F0.0032165467389895655
-sS'r'
-F0.0010542840579431771
-sS'scientific computing'
-p57
-F0.0108614136453328
-sS'statistical tools'
-p58
-F0.0074202102340433706
-sS'healthcare'
-p59
-F0.002824622325801216
-sS'security'
-p60
-F0.0021104485323699246
-ssS'working-year'
-p61
-(dp62
-V(5, 10]
-p63
-F0.001598795577155236
-sV(10, 15]
-p64
-F0.0037436840091428806
-ssS'major'
-p65
-(dp66
-S'information'
-p67
-F0.00083135791374766923
+p7
+I1
+sS'hadoop'
+p8
+I1
+sS'health insurance'
+p9
+I1
+sS'analysis'
+p10
+I1
+sS'problem solving'
+p11
+I1
+sS'go'
+p12
+I1
+sS'ic'
+p13
+I1
+sS'perl'
+p14
+I1
+sS'insurance'
+p15
+I1
+sS'visualization'
+p16
+I1
 sS'management'
-p68
-F0.0011266322871815154
+p17
+I1
 sS'genetics'
-p69
-F0.0050020779740900766
-sS'business'
-p70
-F0.0015631176144769708
-sS'applied mathematics'
-p71
-F0.0074965056675483834
-sS'applied math'
-p72
-F0.0032921466480451069
-sS'history'
-p73
-F0.0032953923960869517
-sS'scientific computing'
-p74
-F0.0108614136453328
-sS'phd'
-p75
-F0.0022282970631204648
-sS'engineering'
-p76
-F0.0055143577279409984
-sS'machine learning'
-p77
-F0.0020966621627136078
-sS'design'
-p78
-F0.00090121515362011188
+p18
+I1
+sS'nosql'
+p19
+I1
+sS'critical thinking'
+p20
+I1
+sS'agile'
+p21
+I1
+sS'recruiting'
+p22
+I1
+sS'tableau'
+p23
+I1
+sS'research'
+p24
+I1
+sS'teamwork'
+p25
+I1
+sS'matlab'
+p26
+I1
+sS'stata'
+p27
+I1
+sS'intelligence'
+p28
+I1
+sS'policy'
+p29
+I1
+sS'data management'
+p30
+I1
 sS'computer science'
-p79
-F0.0021872921890345532
+p31
+I1
+sS'data analysis'
+p32
+I1
+sS'product development'
+p33
+I1
+sS'government'
+p34
+I1
+sS'python'
+p35
+I1
+sS'innovation'
+p36
+I1
+sS'data scientist'
+p37
+I1
+sS'training'
+p38
+I1
+sS'mapreduce'
+p39
+I1
+sS'machine learning'
+p40
+I1
+sS'sql'
+p41
+I1
+sS'foreign policy'
+p42
+I1
+sS'modeling'
+p43
+I1
+sS'pig'
+p44
+I1
+sS'data'
+p45
+I1
+sS'project management'
+p46
+I1
+sS'hbase'
+p47
+I1
+sS'national security'
+p48
+I1
+sS'spatial analysis'
+p49
+I1
+sS'java'
+p50
+I1
+sS'applied mathematics'
+p51
+I1
+sS'programming'
+p52
+I1
+sS'engineering'
+p53
+I1
+sS'hive'
+p54
+I1
+sS'spss'
+p55
+I1
+sS'r'
+I1
+sS'scientific computing'
+p56
+I1
+sS'statistical tools'
+p57
+I1
+sS'healthcare'
+p58
+I1
+sS'security'
+p59
+I1
+ssS'working-year'
+p60
+(dp61
+V(5, 10]
+p62
+I1
+sV(10, 15]
+p63
+I1
+ssS'major'
+p64
+(dp65
+S'information'
+p66
+I1
+sS'management'
+p67
+I1
+sS'genetics'
+p68
+I1
+sS'business'
+p69
+I1
+sS'applied mathematics'
+p70
+I1
+sS'history'
+p71
+I1
+sS'scientific computing'
+p72
+I1
+sS'machine learning'
+p73
+I1
+sS'engineering'
+p74
+I1
+sS'project management'
+p75
+I1
+sS'design'
+p76
+I1
+sS'computer science'
+p77
+I1
 sS'statistic'
-p80
-F0.0023508358256466768
+p78
+I1
 sS'mathematics computer science'
+p79
+I1
+sS'phd'
+p80
+I1
+sS'computer science machine learning'
 p81
-F0.0046881598752806976
+I1
 sS'law'
 p82
-F0.002364098233437363
-sS'computer science machine learning'
-p83
-F0.0064318367781208705
-sS'project management'
-p84
-F0.0061379064674620598
+I1
 sS'computational social science'
-p85
-F0.0070959755240655531
+p83
+I1
 ssS'education'
-p86
-(dp87
+p84
+(dp85
 VBachelor
-p88
-F0.00044967614723828659
+p86
+I1
 sVDoctor
-p89
-F0.0016834188589700955
+p87
+I1
 ssS'responsibility'
-p90
-(dp91
+p88
+(dp89
 S'development'
-p92
-F0.00061175630432969998
+p90
+I1
 sS'large data set'
-p93
-F0.002933715780713309
+p91
+I1
 sS'product'
-p94
-F0.00075736199365842465
+p92
+I1
 sS'data analysis'
-p95
-F0.0036891769540363679
+p93
+I1
 sS'information'
-p96
-F0.00083135791374766923
+p94
+I1
 sS'pattern'
-p97
-F0.0024015847337406043
+p95
+I1
 sS'communicate'
-p98
-F0.0016334764723467301
+p96
+I1
 sS'analysis'
-p99
-F0.0013262169312837887
+p97
+I1
 sS'analytic'
-p100
-F0.0019768285756698724
+p98
+I1
 sS'design'
-p101
-F0.00090121515362011188
+p99
+I1
 sS'modeling'
-p102
-F0.0012773348914049544
+p100
+I1
 ss.

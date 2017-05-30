@@ -4,205 +4,202 @@ p2
 (dp3
 S'nlp'
 p4
-F0.012159238403381251
+I1
 sS'forecasting'
 p5
-F0.010996055145889406
-sS'r d'
+I1
+sS'communication'
 p6
-F0.0016165933537979423
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0030867830437977112
-sS'data science'
-p8
-F0.0073268803634153759
+I1
 sS'linux'
+p8
+I1
+sS'reinforcement learning'
 p9
-F0.0098963622071678702
-sS'reinforcement learning'
+I1
+sS'data mining'
 p10
-F0.038934693638775462
-sS'data mining'
-p11
-F0.017470758852618513
+I1
 sS'mathematical modeling'
-p12
-F0.017908716117328551
+p11
+I1
 sS'education'
+p12
+I1
+sS'quantitative analysis'
 p13
-F0.0058553435437959725
-sS'quantitative analysis'
-p14
-F0.025532210424252168
+I1
 sS'visualization'
-p15
-F0.0065258046183795165
+p14
+I1
 sS'git'
-p16
-F0.013434975028075738
+p15
+I1
 sS'java'
+p16
+I1
+sS'big data'
 p17
-F0.0055487461994882447
-sS'big data'
-p18
-F0.0086739618392916492
+I1
 sS'deep learning'
-p19
-F0.011156217095800352
+p18
+I1
 sS'hadoop'
-p20
-F0.0046842567011754184
+p19
+I1
 sS'teamwork'
+p20
+I1
+sS'mathematics'
 p21
-F0.010622031495272856
-sS'mathematics'
-p22
-F0.0063814526398492718
+I1
 sS'python'
+p22
+I1
+sS'processing'
 p23
-F0.0057205957744124649
-sS'processing'
-p24
-F0.0062736042859052711
+I1
 sS'data scientist'
-p25
-F0.00072861139593221095
+p24
+I1
 sS'bayesian inference'
-p26
-F0.021872487870569082
+p25
+I1
 sS'data processing'
-p27
-F0.011679956762225384
+p26
+I1
 sS'sql'
+p27
+I1
+sS'modeling'
 p28
-F0.0074372509964465774
-sS'modeling'
-p29
-F0.003801831409063565
+I1
 sS'spark'
+p29
+I1
+sS'applied mathematics'
 p30
-F0.0062383017692621556
-sS'applied mathematics'
-p31
-F0.022312434191600703
+I1
 sS'programming'
+p31
+I1
+sS'machine learning'
 p32
-F0.0081837422874154429
-sS'machine learning'
-p33
-F0.0062404590354782977
+I1
 sS'h2o'
-p34
-F0.015334240914433701
+p33
+I1
 sS'r'
-F0.0031379478260041022
+I1
 sS'command'
+p34
+I1
+sS'data analytics'
 p35
-F0.013634353395007551
-sS'data analytics'
+I1
+sS'predictive analytics'
 p36
-F0.012043571768400024
-sS'predictive analytics'
-p37
-F0.020074666182053044
+I1
 ssS'working-year'
-p38
-(dp39
+p37
+(dp38
 V(0, 2]
-p40
-F0.0072679227715124447
+p39
+I1
 sV(2, 5]
-p41
-F0.0030902903623971014
+p40
+I1
 ssS'major'
-p42
-(dp43
+p41
+(dp42
 S'business'
-p44
-F0.0031016192035291071
+p43
+I1
 sS'big data'
-p45
-F0.0086739618392916492
+p44
+I1
 sS'communication'
-p46
-F0.0030867830437977112
+p45
+I1
 sS'applied mathematics'
+p46
+I1
+sS'data mining'
 p47
-F0.022312434191600703
-sS'data mining'
-p48
-F0.017470758852618513
+I1
 sS'history'
-p49
-F0.0098083332733926599
+p48
+I1
 sS'reinforcement learning'
-p50
-F0.038934693638775462
+p49
+I1
 sS'machine learning'
-p51
-F0.0062404590354782977
+p50
+I1
 sS'statistics applied mathematics'
-p52
-F0.017280258186290216
+p51
+I1
 sS'applied math'
-p53
-F0.0097986727004807112
+p52
+I1
 sS'statistic'
-p54
-F0.0034984879610017471
+p53
+I1
 sS'mathematics'
-p55
-F0.0063814526398492718
+p54
+I1
 sS'phd'
-p56
-F0.0066322542508624859
+p55
+I1
 sS'machine learning data mining'
-p57
-F0.012585759916947726
+p56
+I1
 sS'data science'
-p58
-F0.0073268803634153759
+p57
+I1
 sS'data analytics'
-p59
-F0.012043571768400024
+p58
+I1
 sS'predictive analytics'
-p60
-F0.020074666182053044
+p59
+I1
 ssS'education'
-p61
-(dp62
+p60
+(dp61
 VBachelor
-p63
-F0.0013384061705202547
+p62
+I1
 sVMaster
-p64
-F0.0037976290508027798
+p63
+I1
 sVDoctor
-p65
-F0.0050104907770920949
+p64
+I1
 ssS'responsibility'
-p66
-(dp67
+p65
+(dp66
 S'forecasting'
-p68
-F0.010996055145889406
+p67
+I1
 sS'business problem'
-p69
-F0.0072780811956858517
+p68
+I1
 sS'processing'
-p70
-F0.0062736042859052711
+p69
+I1
 sS'data mining'
-p71
-F0.017470758852618513
+p70
+I1
 sS'modeling'
-p72
-F0.003801831409063565
+p71
+I1
 sS'model'
-p73
-F0.0029002148508628666
+p72
+I1
 sS'quantitative analysis'
-p74
-F0.025532210424252168
+p73
+I1
 ss.

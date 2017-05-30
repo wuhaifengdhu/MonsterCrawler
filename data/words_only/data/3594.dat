@@ -4,223 +4,220 @@ p2
 (dp3
 S'research design'
 p4
-F0.010105407934814483
+I1
 sS'consulting'
 p5
-F0.0058186683396992825
-sS'r d'
+I1
+sS'communication'
 p6
-F0.0011566611601821898
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0022085715299285033
-sS'data science'
+I1
+sS'analytics'
 p8
-F0.0052423313022746639
-sS'analytics'
-p9
-F0.0057210086973358146
+I1
 sS'business intelligence'
-p10
-F0.0065589968653148025
+p9
+I1
 sS'data warehousing'
+p10
+I1
+sS'data mining'
 p11
-F0.0092692904563578659
-sS'data mining'
-p12
-F0.012500204925535498
+I1
 sVpanda
-p13
-F0.0099444029032203594
+p12
+I1
 sS'clustering'
-p14
-F0.01443711512907603
+p13
+I1
 sS'open source'
+p14
+I1
+sS'big data'
 p15
-F0.0071092289657394645
-sS'big data'
-p16
-F0.0062061586117748702
+I1
 sS'predictive modeling'
+p16
+I1
+sS'computer science'
 p17
-F0.0060939049269010306
-sS'computer science'
-p18
-F0.004658008154676401
+I1
 sS'innovation'
-p19
-F0.0035162820278732266
+p18
+I1
 sS'numpy'
+p19
+I1
+sS'operations research'
 p20
-F0.01072879247074753
-sS'operations research'
-p21
-F0.014917832980070931
+I1
 sS'matlab'
-p22
-F0.0062318251472204605
+p21
+I1
 sS'teradata'
-p23
-F0.079090576987015715
+p22
+I1
 sS'theory'
-p24
-F0.0082800515477591992
+p23
+I1
 sS'python'
-p25
-F0.0020465229953531921
+p24
+I1
 sS'collaboration'
-p26
-F0.0051038188245237804
+p25
+I1
 sS'data scientist'
-p27
-F0.0005213163227233285
+p26
+I1
 sS'scipy'
-p28
-F0.012363903040331593
+p27
+I1
 sS'octave'
-p29
-F0.014094496296429955
+p28
+I1
 sS'sql'
+p29
+I1
+sS'modeling'
 p30
-F0.0026606503564752548
-sS'modeling'
-p31
-F0.0027201835997243537
+I1
 sS'data'
-p32
-F0.0014509169625525156
+p31
+I1
 sS'statistical programming'
-p33
-F0.011299799353572807
+p32
+I1
 sS'scikit-learn'
+p33
+I1
+sS'engineering'
 p34
-F0.010276176932532089
-sS'engineering'
+I1
+sS'analysis'
 p35
-F0.005871625975103374
-sS'analysis'
+I1
+sS'machine learning'
 p36
-F0.0014121408451416117
-sS'machine learning'
-p37
-F0.0044650044929901061
+I1
 sS'data architecture'
-p38
-F0.00941134404104574
+p37
+I1
 sS'r'
-F0.0022451795712818087
+I1
 sS'architecture'
-p39
-F0.0050551384499902758
+p38
+I1
 sS'organization'
-p40
-F0.0030182039541270383
+p39
+I1
 sS'rapid prototyping'
-p41
-F0.013098335192645265
+p40
+I1
 sS'data integration'
+p41
+I1
+sS'predictive analytics'
 p42
-F0.0098482564550350597
-sS'predictive analytics'
-p43
-F0.014363282282370347
+I1
 ssS'working-year'
-p44
-(dp45
+p43
+(dp44
 V[0]
-p46
-F0.0040173816122885779
+p45
+I1
 ssS'major'
-p47
-(dp48
+p46
+(dp47
 S'statistics operations research'
-p49
-F0.012505960063593233
+p48
+I1
 sS'business'
-p50
-F0.0011095933488681595
+p49
+I1
 sS'big data'
-p51
-F0.0062061586117748702
+p50
+I1
 sS'mathematics statistics'
-p52
-F0.0093791516778893684
+p51
+I1
 sS'communication'
-p53
-F0.0022085715299285033
+p52
+I1
 sS'data science'
+p53
+I1
+sS'data mining'
 p54
-F0.0052423313022746639
-sS'data mining'
-p55
-F0.012500204925535498
+I1
 sS'machine learning'
-p56
-F0.0044650044929901061
+p55
+I1
 sS'analytics'
-p57
-F0.0057210086973358146
+p56
+I1
 sS'engineering'
+p57
+I1
+sS'design'
 p58
-F0.005871625975103374
-sS'design'
-p59
-F0.0019192074820755061
+I1
 sS'computer science'
-p60
-F0.004658008154676401
+p59
+I1
 sS'statistic'
-p61
-F0.0025031434988575883
+p60
+I1
 sS'computer science engineering'
-p62
-F0.0085290838899485365
+p61
+I1
 sS'phd'
-p63
-F0.0047453312104762582
+p62
+I1
 sS'operations research'
-p64
-F0.014917832980070931
+p63
+I1
 sS'predictive analytics'
-p65
-F0.014363282282370347
+p64
+I1
 ssS'education'
-p66
-(dp67
+p65
+(dp66
 VBachelor
-p68
-F0.00095762018961167527
+p67
+I1
 sVMaster
-p69
-F0.0027171768419828341
+p68
+I1
 sVDoctor
-p70
-F0.0035849708658630768
+p69
+I1
 ssS'responsibility'
-p71
-(dp72
+p70
+(dp71
 S'exploratory analysis'
-p73
-F0.012924040000116497
+p72
+I1
 sS'pattern'
-p74
-F0.0051143607287546392
+p73
+I1
 sS'analysis'
-p75
-F0.0014121408451416117
+p74
+I1
 sS'analytic'
-p76
-F0.0042098095864969683
+p75
+I1
 sS'design'
-p77
-F0.0019192074820755061
+p76
+I1
 sS'data mining'
-p78
-F0.012500204925535498
+p77
+I1
 sS'modeling'
-p79
-F0.0027201835997243537
+p78
+I1
 sS'prototype'
-p80
-F0.006716188928696752
+p79
+I1
 ss.

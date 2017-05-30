@@ -4,146 +4,143 @@ p2
 (dp3
 S'speech recognition'
 p4
-F0.020676756554790544
-sS'r d'
+I1
+sS'data science'
 p5
-F0.0014823635807389075
-sS'data science'
-p6
-F0.0067185112357671687
+I1
 sS'hardware'
+p6
+I1
+sS'analytics'
 p7
-F0.011613297416691556
-sS'analytics'
-p8
-F0.003665989327715188
+I1
 sS'business intelligence'
-p9
-F0.0084059346107825082
+p8
+I1
 sS'linux'
-p10
-F0.018149285203037106
+p9
+I1
 sS'java'
+p10
+I1
+sS'big data'
 p11
-F0.0050880199807581744
-sS'big data'
-p12
-F0.0079537411811555197
+I1
 sS'tableau'
-p13
-F0.0071784787773823602
+p12
+I1
 sS'research'
+p13
+I1
+sS'computer science'
 p14
-F0.0034420880692525653
-sS'computer science'
+I1
+sS'electronics'
 p15
-F0.0059696494401087442
-sS'electronics'
-p16
-F0.016090279284588619
+I1
 sS'dashboard'
-p17
-F0.010204992672085992
+p16
+I1
 sS'product development'
-p18
-F0.0074687447313397468
+p17
+I1
 sS'python'
-p19
-F0.002622800228701744
+p18
+I1
 sS'data scientist'
-p20
-F0.00066811297677538486
-sS'electrical engineering'
-p21
-F0.024957786651831803
-sS'spark'
-p22
-F0.0057203200339082591
-sS'performance metrics'
-p23
-F0.017460264697882033
-sS'data visualization'
-p24
-F0.0061778192948881636
-sS'programming'
-p25
-F0.0037521128898980556
-sS'google analytics'
-p26
-F0.015004538905893271
-sS'architecture'
-p27
-F0.0064786070387962014
+p19
+I1
 sS'organization'
-p28
-F0.0077361906405422282
-sS'data analytics'
-p29
-F0.011043564004236846
-ssS'working-year'
-p30
-(dp31
-V[0]
-p32
-F0.0051486298641243511
-ssS'major'
-p33
-(dp34
-S'information'
-p35
-F0.0022689768331885848
-sS'business'
-p36
-F0.0014220420175025149
-sS'big data'
-p37
-F0.0079537411811555197
-sS'computing'
-p38
-F0.0076904868687128975
-sS'data science'
-p39
-F0.0067185112357671687
-sS'analytics'
-p40
-F0.003665989327715188
-sS'computer engineering'
-p41
-F0.014563742291283712
-sS'computer science'
-p42
-F0.0059696494401087442
-sS'computer engineering computer science'
-p43
-F0.024217649040091205
+p20
+I1
+sS'spark'
+p21
+I1
+sS'performance metrics'
+p22
+I1
+sS'data visualization'
+p23
+I1
+sS'programming'
+p24
+I1
+sS'google analytics'
+p25
+I1
+sS'architecture'
+p26
+I1
 sS'electrical engineering'
-p44
-F0.024957786651831803
-sS'electronics'
-p45
-F0.016090279284588619
+p27
+I1
 sS'data analytics'
-p46
-F0.011043564004236846
+p28
+I1
+ssS'working-year'
+p29
+(dp30
+V[0]
+p31
+I1
+ssS'major'
+p32
+(dp33
+S'information'
+p34
+I1
+sS'business'
+p35
+I1
+sS'big data'
+p36
+I1
+sS'computing'
+p37
+I1
+sS'data science'
+p38
+I1
+sS'analytics'
+p39
+I1
+sS'computer engineering'
+p40
+I1
+sS'computer science'
+p41
+I1
+sS'computer engineering computer science'
+p42
+I1
+sS'electrical engineering'
+p43
+I1
+sS'electronics'
+p44
+I1
+sS'data analytics'
+p45
+I1
 ssS'education'
-p47
-(dp48
+p46
+(dp47
 VBachelor
-p49
-F0.0012272749722460098
+p48
+I1
 ssS'responsibility'
-p50
-(dp51
+p49
+(dp50
 S'interface'
-p52
-F0.0084059346107825082
+p51
+I1
 sS'development'
-p53
-F0.0016696309244521776
+p52
+I1
 sS'product'
-p54
-F0.010335120346674533
+p53
+I1
 sS'information'
-p55
-F0.0022689768331885848
+p54
+I1
 ss.

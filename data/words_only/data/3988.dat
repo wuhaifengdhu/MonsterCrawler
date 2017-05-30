@@ -2,197 +2,194 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.0010421693194534957
-sS'communication'
-p5
-F0.0019899565815345651
+I1
 sS'hardware'
+p5
+I1
+sS'engineering'
 p6
-F0.0081646786406689362
-sS'engineering'
+I1
+sS'data analysis'
 p7
-F0.0026452122095960628
-sS'data analysis'
-p8
-F0.0070787253229733348
-sS'analysis'
-p9
-F0.0025447208123110261
-sS'ic'
-p10
-F0.027259598834164095
-sS'education'
-p11
-F0.0037747646196045104
-sS'image processing'
-p12
-F0.011644756852896843
-sS'metrology'
-p13
-F0.1078686197467011
-sS'research'
-p14
-F0.007259835496316959
-sS'computer vision'
-p15
-F0.01045186973217992
-sS'r'
-F0.0020229409842767564
-sS'computer science'
-p16
-F0.0041969362814977713
-sS'algorithm development'
-p17
-F0.0093395702932719191
-sS'matlab'
-p18
-F0.011229938717072403
-sS'statistical data analysis'
-p19
-F0.012341290873754766
-sS'semiconductor industry'
-p20
-F0.017026113665241784
-sS'signal processing'
-p21
-F0.010790776732351423
-sS'jmp'
-p22
-F0.012148434790997333
-sS'processing'
-p23
-F0.004044404793451621
-sS'data scientist'
-p24
-F0.00046971394560096848
-sS'c++'
-p25
-F0.0068324169849899464
-sS'modeling'
-p26
-F0.0049018536949347489
-sS'nanotechnology'
-p27
-F0.017488858216854433
-sS'manufacturing'
-p28
-F0.0087245790495633201
-sS'data'
-p29
-F0.0019609474176629812
-sS'c'
-F0.0059203745858662418
-sS'functional programming'
-p30
-F0.013970352355824844
-sS'programming'
-p31
-F0.002637906777923252
-sS'image analysis'
-p32
-F0.016634868801361766
+I1
 sS'communication skills'
-p33
-F0.0074800506057164165
-sS'machine learning'
-p34
-F0.0040230370431763637
-sS'optimization'
-p35
-F0.0097721678238655227
-sS'semiconductor device'
-p36
-F0.021573723949340217
-sS'statistical analysis'
-p37
-F0.0046496926228958681
-ssS'working-year'
-p38
-(dp39
-V(0, 2]
-p40
-F0.0046854121420410169
-sV(2, 5]
-p41
-F0.0019922176447940703
-ssS'major'
-p42
-(dp43
-S'information'
-p44
-F0.00159519437257167
-sS'business'
-p45
-F0.00099976050469085436
-sS'communication'
-p46
-F0.0019899565815345651
-sS'machine learning'
-p47
-F0.0040230370431763637
-sS'engineering'
-p48
-F0.0026452122095960628
-sS'computer science engineering'
-p49
-F0.0076848344693698735
+p8
+I1
+sS'ic'
+p9
+I1
+sS'education'
+p10
+I1
+sS'image processing'
+p11
+I1
+sS'metrology'
+p12
+I1
+sS'research'
+p13
+I1
+sS'computer vision'
+p14
+I1
+sS'r'
+I1
 sS'computer science'
-p50
-F0.0041969362814977713
-sS'ee computer science'
-p51
-F0.0057357247622539685
-sVphysic
-p52
-F0.005785683241170978
-ssS'education'
-p53
-(dp54
-VBachelor
-p55
-F0.00086283037388869212
-sVMaster
-p56
-F0.0024482177129540763
-sVDoctor
-p57
-F0.0032301133436075944
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-F0.0035214804523344156
-sS'information'
-p61
-F0.00159519437257167
-sS'product'
-p62
-F0.0043596370599424039
-sS'data analysis'
-p63
-F0.0070787253229733348
-sS'develop model'
-p64
-F0.011357123694096413
+p15
+I1
+sS'algorithm development'
+p16
+I1
+sS'matlab'
+p17
+I1
+sS'statistical data analysis'
+p18
+I1
+sS'semiconductor industry'
+p19
+I1
+sS'signal processing'
+p20
+I1
+sS'jmp'
+p21
+I1
 sS'processing'
-p65
-F0.004044404793451621
-sS'analysis'
-p66
-F0.0025447208123110261
-sS'optimization'
-p67
-F0.0097721678238655227
-sS'interface'
-p68
-F0.0059097560588496313
+p22
+I1
+sS'data scientist'
+p23
+I1
+sS'c++'
+p24
+I1
 sS'modeling'
-p69
-F0.0049018536949347489
+p25
+I1
+sS'nanotechnology'
+p26
+I1
+sS'manufacturing'
+p27
+I1
+sS'data'
+p28
+I1
+sS'c'
+I1
+sS'functional programming'
+p29
+I1
+sS'programming'
+p30
+I1
+sS'image analysis'
+p31
+I1
+sS'analysis'
+p32
+I1
+sS'machine learning'
+p33
+I1
+sS'optimization'
+p34
+I1
+sS'semiconductor device'
+p35
+I1
+sS'statistical analysis'
+p36
+I1
+ssS'working-year'
+p37
+(dp38
+V(0, 2]
+p39
+I1
+sV(2, 5]
+p40
+I1
+ssS'major'
+p41
+(dp42
+S'information'
+p43
+I1
+sS'business'
+p44
+I1
+sS'communication'
+p45
+I1
+sS'machine learning'
+p46
+I1
+sS'engineering'
+p47
+I1
+sS'computer science engineering'
+p48
+I1
+sS'computer science'
+p49
+I1
+sS'ee computer science'
+p50
+I1
+sVphysic
+p51
+I1
+ssS'education'
+p52
+(dp53
+VBachelor
+p54
+I1
+sVMaster
+p55
+I1
+sVDoctor
+p56
+I1
+ssS'responsibility'
+p57
+(dp58
+S'development'
+p59
+I1
+sS'information'
+p60
+I1
+sS'product'
+p61
+I1
+sS'data analysis'
+p62
+I1
+sS'develop model'
+p63
+I1
+sS'processing'
+p64
+I1
+sS'analysis'
+p65
+I1
+sS'optimization'
+p66
+I1
+sS'interface'
+p67
+I1
+sS'modeling'
+p68
+I1
 sS'implement'
-p70
-F0.0033780742994215774
+p69
+I1
 ss.

@@ -4,95 +4,86 @@ p2
 (dp3
 S'software development'
 p4
-F0.0082203290472882516
+I1
 sS'finance'
 p5
-F0.01047154969856863
+I1
 sS'data scientist'
 p6
-F0.00069054960659246857
+I1
 sS'analysis'
 p7
-F0.0018705597015868363
+I1
 sS'computer science'
 p8
-F0.0061701227422019484
+I1
 sS'system design'
 p9
-F0.015319456559461934
+I1
 sS'organization'
 p10
-F0.0039979940437130544
+I1
 sS'security'
 p11
-F0.0059533548151927736
+I1
 sS'data'
 p12
-F0.00096096179422787875
-sS'information technology'
-p13
-F0.018929453964955406
-sS'r d'
-p14
-F0.0015321444472562588
+I1
 ssS'working-year'
-p15
-(dp16
+p13
+(dp14
 V(2, 5]
-p17
-F0.0029288572837644169
+p15
+I1
 ssS'major'
-p18
-(dp19
+p16
+(dp17
 S'information'
-p20
-F0.002345173816392679
+p18
+I1
 sS'finance'
-p21
-F0.01047154969856863
+p19
+I1
 sS'business'
+p20
+I1
+sS'computer science engineering'
+p21
+I1
+sS'computer science'
 p22
-F0.0014697971598813307
+I1
 sS'design'
 p23
-F0.0025422337915552411
-sS'computer science'
-p24
-F0.0061701227422019484
-sS'computer science engineering'
-p25
-F0.011297853660193024
+I1
 sS'ee computer science'
-p26
-F0.0084323714788360586
-sS'information technology'
-p27
-F0.018929453964955406
+p24
+I1
 ssS'education'
+p25
+(dp26
+VBachelor
+p27
+I1
+ssS'responsibility'
 p28
 (dp29
-VBachelor
-p30
-F0.0012684894302691966
-ssS'responsibility'
-p31
-(dp32
 S'development'
-p33
-F0.0051771018590289538
+p30
+I1
 sS'information'
-p34
-F0.002345173816392679
+p31
+I1
 sS'analysis'
-p35
-F0.0018705597015868363
+p32
+I1
 sS'design'
-p36
-F0.0025422337915552411
+p33
+I1
 sS'interface'
-p37
-F0.00868822345965207
+p34
+I1
 sS'implement'
-p38
-F0.004966273410343662
+p35
+I1
 ss.

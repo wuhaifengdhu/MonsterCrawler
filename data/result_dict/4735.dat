@@ -2,17 +2,17 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'data science'
-p6
+p5
 aS'analytics'
+p6
+aS'hive'
 p7
-aS'analysis'
-p8
 aS'data mining'
+p8
+aS'analysis'
 p9
 aS'hbase'
 p10
@@ -40,81 +40,79 @@ aS'data scientist'
 p21
 aS'automation'
 p22
-aS'hive'
-p23
 aS'data'
-p24
+p23
 aS'software development'
-p25
+p24
 aS'c'
 aS'science'
-p26
+p25
 aS'c++'
+p26
+aS'machine learning'
 p27
-aS'machine learning'
-p28
 aS'organization'
-p29
+p28
 aS'validation'
+p29
+aS'predictive analytics'
 p30
-aS'predictive analytics'
-p31
 asS'working-year'
-p32
-(lp33
+p31
+(lp32
 V(5, 10]
-p34
+p33
 asS'major'
-p35
-(lp36
+p34
+(lp35
 S'information'
-p37
+p36
 aS'big data'
-p38
+p37
 aS'ee computer science'
-p39
+p38
 aS'science'
-p40
+p39
 aS'data science'
-p41
+p40
 aS'communication'
-p42
+p41
 aS'machine learning'
-p43
+p42
 aS'analytics'
-p44
+p43
 aS'computer science'
-p45
+p44
 aS'automation'
+p45
+aS'data mining'
 p46
-aS'data mining'
-p47
 aS'advanced analytics'
-p48
+p47
 aS'law'
-p49
+p48
 aS'machine learning data mining'
-p50
+p49
 aS'predictive analytics'
-p51
+p50
 asS'education'
-p52
-(lp53
+p51
+(lp52
 S'Bachelor'
-p54
+p53
 asS'responsibility'
-p55
-(lp56
+p54
+(lp55
 S'development'
-p57
+p56
 aS'information'
-p58
+p57
 aS'product'
-p59
+p58
 aS'pattern'
-p60
+p59
 aS'analysis'
-p61
+p60
 aS'data mining'
-p62
+p61
 as.

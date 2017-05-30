@@ -2,198 +2,195 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'healthcare industry'
 p4
-F0.00096388430015182476
-sS'healthcare industry'
+I1
+sS'data science'
 p5
-F0.0098182492449260615
-sS'data science'
-p6
-F0.0043686094185622195
+I1
 sS'hadoop'
-p7
-F0.0027929605683064702
+p6
+I1
 sS'statistical analysis'
-p8
-F0.0043004199376079164
+p7
+I1
 sS'problem solving'
+p8
+I1
+sS'analysis'
 p9
-F0.0044291417359643218
-sS'analysis'
-p10
-F0.0011767840376180098
+I1
 sS'education'
-p11
-F0.0034912142256436083
+p10
+I1
 sS'visualization'
+p11
+I1
+sS'management'
 p12
-F0.0038909727067333272
-sS'management'
+I1
+sS'big data'
 p13
-F0.001999375608237619
-sS'big data'
-p14
-F0.0051717988431457251
+I1
 sS'programming languages'
-p15
-F0.0096962799371601884
+p14
+I1
 sS'predictive modeling'
-p16
-F0.0050782541057508585
+p15
+I1
 sS'tableau'
+p16
+I1
+sS'advanced analytics'
 p17
-F0.0046676962942134121
-sS'advanced analytics'
-p18
-F0.01024033723987636
+I1
 sS'python'
-p19
-F0.0017054358294609931
+p18
+I1
 sS'data scientist'
-p20
-F0.00043443026893610703
+p19
+I1
 sS'leadership'
-p21
-F0.0035772695839675407
+p20
+I1
 sS'sql'
+p21
+I1
+sS'modeling'
 p22
-F0.0022172086303960457
-sS'modeling'
-p23
-F0.0022668196664369614
+I1
 sS'data'
-p24
-F0.0030227436719844074
+p23
+I1
 sS'performance metrics'
-p25
-F0.011353270707308271
+p24
+I1
 sS'programming'
-p26
-F0.002439754156107421
+p25
+I1
 sS'hive'
+p26
+I1
+sS'machine learning'
 p27
-F0.0046365167230352153
-sS'machine learning'
-p28
-F0.003720837077491755
+I1
 sS'credit'
-p29
-F0.0063333239431908588
+p28
+I1
 sS'r'
-F0.0018709829760681738
+I1
 sS'healthcare'
-p30
-F0.020050840171884691
+p29
+I1
 sS'organization'
-p31
-F0.0050303399235450642
+p30
+I1
 sS'security'
+p31
+I1
+sS'data analytics'
 p32
-F0.0037453030292762049
-sS'data analytics'
+I1
+sS'predictive analytics'
 p33
-F0.0071809089886704369
-sS'predictive analytics'
-p34
-F0.011969401901975289
+I1
 ssS'working-year'
-p35
-(dp36
+p34
+(dp35
 V(5, 10]
-p37
-F0.0028372991932614049
+p36
+I1
 ssS'major'
-p38
-(dp39
+p37
+(dp38
 S'information'
-p40
-F0.0073768378262117134
+p39
+I1
 sS'management'
-p41
-F0.001999375608237619
+p40
+I1
 sS'health services'
-p42
-F0.0095244438261487714
+p41
+I1
 sS'big data'
-p43
-F0.0051717988431457251
+p42
+I1
 sS'data science'
-p44
-F0.0043686094185622195
+p43
+I1
 sS'machine learning'
-p45
-F0.003720837077491755
+p44
+I1
 sS'business'
-p46
-F0.0036986444962271983
+p45
+I1
 sS'advanced analytics'
-p47
-F0.01024033723987636
+p46
+I1
 sS'data analytics'
-p48
-F0.0071809089886704369
+p47
+I1
 sS'predictive analytics'
-p49
-F0.011969401901975289
+p48
+I1
 ssS'education'
-p50
-(dp51
+p49
+(dp50
 VMaster
-p52
-F0.0022643140349856952
+p51
+I1
 sVDoctor
-p53
-F0.0029874757215525641
+p52
+I1
 ssS'responsibility'
-p54
-(dp55
+p53
+(dp54
 S'large data set'
-p56
-F0.0052063125122517881
+p55
+I1
 sS'product'
-p57
-F0.0026881017239707467
+p56
+I1
 sS'develop model'
-p58
-F0.010504006421300439
+p57
+I1
 sS'information'
-p59
-F0.0073768378262117134
+p58
+I1
 sS'pattern'
-p60
-F0.0042619672739621995
+p59
+I1
 sVinsight
-p61
-F0.0048876116407279247
+p60
+I1
 sS'communicate'
-p62
-F0.0057976911412869862
+p61
+I1
 sS'analysis'
-p63
-F0.0011767840376180098
+p62
+I1
 sS'analytic'
-p64
-F0.0070163493108282805
+p63
+I1
 sS'statistical method'
-p65
-F0.0058771754250118002
+p64
+I1
 sS'understand'
-p66
-F0.0062958532468361797
+p65
+I1
 sS'report'
-p67
-F0.00299430266839082
+p66
+I1
 sS'modeling'
-p68
-F0.0022668196664369614
+p67
+I1
 sS'model'
-p69
-F0.0034584721695735598
+p68
+I1
 sS'extract'
-p70
-F0.0055455731818839643
+p69
+I1
 sS'evaluation'
-p71
-F0.0061822788592141428
+p70
+I1
 ss.

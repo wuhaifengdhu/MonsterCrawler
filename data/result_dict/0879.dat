@@ -4,108 +4,106 @@ p2
 (lp3
 S'negotiation'
 p4
-aS'r d'
+aS'communication'
 p5
-aS'communication'
+aS'engineering'
 p6
-aS'engineering'
-p7
 aS'problem solving'
-p8
+p7
 aS'go'
-p9
+p8
 aS'investment banking'
+p9
+aS'big data'
 p10
-aS'big data'
-p11
 aS'credit'
-p12
-aS'management'
-p13
+p11
 aS'strategy'
-p14
+p12
 aS'risk management'
-p15
+p13
 aS'innovation'
-p16
+p14
 aS'intelligence'
-p17
+p15
 aS'data scientist'
-p18
+p16
 aS'policy'
-p19
-aS'leadership'
-p20
-aS'data'
-p21
-aS'project management'
-p22
-aS'thought leadership'
-p23
-aS'machine learning'
-p24
-aS'banking'
-p25
-aS'architecture'
-p26
-aS'organization'
-p27
-aS'security'
-p28
-asS'working-year'
-p29
-(lp30
-V(0, 2]
-p31
-aV(2, 5]
-p32
-asS'major'
-p33
-(lp34
-S'information'
-p35
+p17
 aS'management'
-p36
-aS'business'
-p37
-aS'big data'
-p38
-aS'communication'
-p39
-aS'data analyst'
-p40
-aS'machine learning'
-p41
-aS'engineering'
-p42
-aS'design'
-p43
-aS'machine learning engineer'
-p44
+p18
+aS'data'
+p19
 aS'project management'
-p45
-aS'history'
-p46
-asS'education'
-p47
-(lp48
-S'Bachelor'
-p49
-asS'responsibility'
-p50
-(lp51
+p20
+aS'thought leadership'
+p21
+aS'machine learning'
+p22
+aS'banking'
+p23
+aS'leadership'
+p24
+aS'architecture'
+p25
+aS'organization'
+p26
+aS'security'
+p27
+asS'working-year'
+p28
+(lp29
+V(0, 2]
+p30
+aV(2, 5]
+p31
+asS'major'
+p32
+(lp33
 S'information'
-p52
-aS'product'
-p53
-aVinsight
-p54
+p34
+aS'management'
+p35
+aS'business'
+p36
+aS'big data'
+p37
+aS'communication'
+p38
+aS'data analyst'
+p39
+aS'machine learning'
+p40
+aS'engineering'
+p41
 aS'design'
-p55
+p42
+aS'machine learning engineer'
+p43
+aS'project management'
+p44
+aS'history'
+p45
+asS'education'
+p46
+(lp47
+S'Bachelor'
+p48
+asS'responsibility'
+p49
+(lp50
+S'information'
+p51
+aS'product'
+p52
+aVinsight
+p53
+aS'design'
+p54
 aS'recommendation'
-p56
+p55
 aS'model'
-p57
+p56
 aS'evaluation'
-p58
+p57
 as.

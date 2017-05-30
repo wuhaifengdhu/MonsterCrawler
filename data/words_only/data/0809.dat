@@ -4,137 +4,134 @@ p2
 (dp3
 S'consulting'
 p4
-F0.022371414374656087
-sS'r d'
-p5
-F0.0014823635807389075
+I1
 sS'nosql'
+p5
+I1
+sS'communication'
 p6
-F0.016979595312987837
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0028304797585726304
-sS'data science'
-p8
-F0.0067185112357671687
+I1
 sS'testing'
+p8
+I1
+sS'analytics'
 p9
-F0.0060265746680069421
-sS'analytics'
-p10
-F0.003665989327715188
+I1
 sS'business intelligence'
-p11
-F0.0084059346107825082
+p10
+I1
 sS'data warehousing'
-p12
-F0.011879415566812426
+p11
+I1
 sS'problem solving'
-p13
-F0.0068116042581978379
+p12
+I1
 sS'education'
+p13
+I1
+sS'management'
 p14
-F0.0053691597838417945
-sS'management'
+I1
+sS'big data'
 p15
-F0.012299408073779432
-sS'big data'
-p16
-F0.0079537411811555197
+I1
 sS'hadoop'
-p17
-F0.0085906223978235111
+p16
+I1
 sS'data management'
-p18
-F0.0084362052953314282
+p17
+I1
 sS'collaboration'
-p19
-F0.0065409952444257834
+p18
+I1
 sS'data scientist'
+p19
+I1
+sS'business analytics'
 p20
-F0.00066811297677538486
-sS'business analytics'
-p21
-F0.022139867292467565
+I1
 sS'mentoring'
-p22
-F0.010107091305131174
+p21
+I1
 sS'data'
-p23
-F0.011156870506270245
+p22
+I1
 sS'customer experience'
-p24
-F0.011182002951416825
+p23
+I1
 sS'training'
-p25
-F0.0064741917380099923
+p24
+I1
 sS'application development'
-p26
-F0.011558737750777119
+p25
+I1
 sS'organization'
-p27
-F0.0077361906405422282
+p26
+I1
 sS'data integration'
-p28
-F0.012621411702301249
+p27
+I1
 ssS'working-year'
-p29
-(dp30
+p28
+(dp29
 V(5, 10]
-p31
-F0.0043634998423442541
+p30
+I1
 ssS'major'
-p32
-(dp33
+p31
+(dp32
 S'business intelligence analytics'
-p34
-F0.016421710807947482
+p33
+I1
 sS'management'
-p35
-F0.012299408073779432
+p34
+I1
 sS'business'
-p36
-F0.0014220420175025149
+p35
+I1
 sS'big data'
-p37
-F0.0079537411811555197
+p36
+I1
 sS'communication'
-p38
-F0.0028304797585726304
+p37
+I1
 sS'data science'
-p39
-F0.0067185112357671687
+p38
+I1
 sS'business analytics'
-p40
-F0.022139867292467565
+p39
+I1
 sS'analytics'
-p41
-F0.003665989327715188
+p40
+I1
 ssS'education'
-p42
-(dp43
+p41
+(dp42
 S'Bachelor'
-p44
-F0.0012272749722460098
+p43
+I1
 ssS'responsibility'
-p45
-(dp46
+p44
+(dp45
 S'development'
-p47
-F0.0016696309244521776
+p46
+I1
 sS'product'
-p48
-F0.004134048138669813
+p47
+I1
 sS'business problem'
-p49
-F0.00667376398449172
+p48
+I1
 sVinsight
-p50
-F0.003758343969224
+p49
+I1
 sS'build solution'
-p51
-F0.018407421496983652
+p50
+I1
 sS'presentation'
-p52
-F0.0061093725709208862
+p51
+I1
 ss.

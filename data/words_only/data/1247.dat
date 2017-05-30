@@ -4,167 +4,164 @@ p2
 (dp3
 S'negotiation'
 p4
-F0.0086101757631275311
-sS'r d'
+I1
+sS'management'
 p5
-F0.00086627576342758928
-sS'analytics'
-p6
-F0.0064270825555513104
-sS'problem solving'
-p7
-F0.0039806210538413517
-sS'management'
-p8
-F0.003593814384427112
-sS'predictive modeling'
-p9
-F0.0045640005254216571
-sS'research'
-p10
-F0.0020115156016518154
-sS'computer science'
-p11
-F0.0034885926052956161
-sS'innovation'
-p12
-F0.0026335023626476691
-sS'data management'
-p13
-F0.0049300187063434711
-sS'data analysis'
-p14
-F0.0058840037494757259
-sS'collaboration'
-p15
-F0.0038224803432614805
-sS'team leadership'
-p16
-F0.010372437592015017
-sS'data scientist'
-p17
-F0.00039043733030966578
-sS'leadership'
-p18
-F0.0032150144362239922
-sS'modeling'
-p19
-F0.0020372683078104335
-sS'data'
-p20
-F0.0076066005315253184
-sS'analysis'
-p21
-F0.0021152320676171817
-sS'healthcare'
-p22
-F0.013515281508264046
+I1
 sS'organization'
-p23
-F0.002260469206149997
-sS'validation'
-p24
-F0.016037845817983901
-sS'etl'
-p25
-F0.0055742301395407421
-ssS'working-year'
-p26
-(dp27
-V(5, 10]
-p28
-F0.0025499777559691104
-ssS'major'
-p29
-(dp30
-S'information'
-p31
-F0.006629816274190274
-sS'management'
-p32
-F0.003593814384427112
-sS'health services'
-p33
-F0.0085599431855261105
-sS'business'
-p34
-F0.0016620491090641207
-sS'mathematics statistics'
-p35
-F0.0070244701385036405
-sS'data analyst'
-p36
-F0.0058166821137184428
-sS'analytics'
-p37
-F0.0064270825555513104
-sS'information systems'
-p38
-F0.0066418392995579245
-sS'design'
-p39
-F0.00287476226218061
-sS'computer science'
-p40
-F0.0034885926052956161
-sS'statistic'
-p41
-F0.0018747171774144383
-sS'computer science mathematics'
-p42
-F0.0069306934824697915
-sS'information system'
-p43
-F0.0058370646043806691
-ssS'education'
-p44
-(dp45
-VBachelor
-p46
-F0.00071720499432941919
-sVMaster
-p47
-F0.0020350164111896749
-ssS'responsibility'
-p48
-(dp49
-S'development'
-p50
-F0.0039028503466097312
-sS'information'
-p51
-F0.006629816274190274
-sS'data analysis'
-p52
-F0.0058840037494757259
-sS'understand'
-p53
-F0.0028291492438314476
-sVinsight
-p54
-F0.0021963318132384975
+p6
+I1
+sS'team leadership'
+p7
+I1
+sS'healthcare'
+p8
+I1
+sS'collaboration'
+p9
+I1
+sS'predictive modeling'
+p10
+I1
+sS'data scientist'
+p11
+I1
 sS'analysis'
-p55
-F0.0021152320676171817
-sS'transformation'
-p56
-F0.0051155896669917858
-sS'analytic'
-p57
-F0.0063058329249216184
-sS'design'
-p58
-F0.00287476226218061
-sS'report'
-p59
-F0.010764328580037882
+p12
+I1
+sS'research'
+p13
+I1
+sS'analytics'
+p14
+I1
+sS'leadership'
+p15
+I1
+sS'data analysis'
+p16
+I1
+sS'computer science'
+p17
+I1
+sS'problem solving'
+p18
+I1
+sS'innovation'
+p19
+I1
 sS'modeling'
-p60
-F0.0020372683078104335
+p20
+I1
+sS'validation'
+p21
+I1
+sS'data'
+p22
+I1
+sS'etl'
+p23
+I1
+sS'data management'
+p24
+I1
+ssS'working-year'
+p25
+(dp26
+V(5, 10]
+p27
+I1
+ssS'major'
+p28
+(dp29
+S'information'
+p30
+I1
+sS'management'
+p31
+I1
+sS'health services'
+p32
+I1
+sS'business'
+p33
+I1
+sS'mathematics statistics'
+p34
+I1
+sS'data analyst'
+p35
+I1
+sS'analytics'
+p36
+I1
+sS'information systems'
+p37
+I1
+sS'design'
+p38
+I1
+sS'computer science'
+p39
+I1
+sS'statistic'
+p40
+I1
+sS'computer science mathematics'
+p41
+I1
+sS'information system'
+p42
+I1
+ssS'education'
+p43
+(dp44
+VBachelor
+p45
+I1
+sVMaster
+p46
+I1
+ssS'responsibility'
+p47
+(dp48
+S'development'
+p49
+I1
+sS'information'
+p50
+I1
+sS'data analysis'
+p51
+I1
+sS'understand'
+p52
+I1
+sVinsight
+p53
+I1
+sS'analysis'
+p54
+I1
+sS'transformation'
+p55
+I1
+sS'analytic'
+p56
+I1
+sS'design'
+p57
+I1
+sS'report'
+p58
+I1
+sS'modeling'
+p59
+I1
 sS'model'
-p61
-F0.0015541235698716628
+p60
+I1
 sS'implement'
-p62
-F0.0028079351771563323
+p61
+I1
 ss.

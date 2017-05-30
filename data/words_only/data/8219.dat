@@ -4,176 +4,173 @@ p2
 (dp3
 S'debugging'
 p4
-F0.014987770360816447
-sS'r d'
-p5
-F0.0015553587570631719
-sS'classification'
-p6
-F0.010062775781713384
-sS'scalding'
-p7
-F0.020488670664039869
-sS'communication'
-p8
-F0.0029698594436538585
-sS'testing'
-p9
-F0.0063233378145375867
-sS'hadoop'
-p10
-F0.0090136454704436084
-sS'analytics'
-p11
-F0.0038465115294587389
-sS'analysis'
-p12
-F0.001898901515247243
-sS'visualization'
-p13
-F0.01255723009900301
-sS'java'
-p14
-F0.0053385664192045993
+I1
 sS'nosql'
-p15
-F0.0089078558744273319
-sS'big data'
-p16
-F0.0083454026787124196
-sS'scala'
-p17
-F0.016916315917267711
-sS'deep learning'
-p18
-F0.010733633114898822
-sS'scientific computing'
-p19
-F0.031103139075271201
-sS'computer science'
-p20
-F0.0062636094504171297
-sS'text mining'
-p21
-F0.013730592280786645
-sS'distributed computing'
-p22
-F0.010707511250635682
-sS'data scientist'
-p23
-F0.00070101247941962725
-sS'performance tuning'
-p24
-F0.016443852160984821
-sS'spark'
-p25
-F0.012004004919640815
-sS'pig'
-p26
-F0.0096670074435033782
-sS'data'
-p27
-F0.0078041745713051973
-sS'pattern recognition'
-p28
-F0.014532687518444698
-sS'documentation'
-p29
-F0.0085088030832776804
-sS'programming'
-p30
-F0.0078737520492557674
-sS'hive'
-p31
-F0.0074816519848977334
-sS'machine learning'
-p32
-F0.0060040780114071499
-sS'data architecture'
-p33
-F0.012655405812769839
-sS'architecture'
-p34
-F0.0067976293551005595
-sS'clojure'
-p35
-F0.019069385001673989
-ssS'working-year'
-p36
-(dp37
-V(5, 10]
-p38
-F0.0045783691527627214
-ssS'major'
-p39
-(dp40
-S'business'
-p41
-F0.0044762004414567796
-sS'big data'
-p42
-F0.0083454026787124196
+p5
+I1
+sS'scalding'
+p6
+I1
 sS'communication'
-p43
-F0.0029698594436538585
-sS'scientific computing'
-p44
-F0.031103139075271201
-sS'machine learning'
-p45
-F0.0060040780114071499
+p7
+I1
+sS'testing'
+p8
+I1
+sS'pig'
+p9
+I1
 sS'analytics'
-p46
-F0.0038465115294587389
-sS'design'
-p47
-F0.0051615049707333686
-sS'computer science'
-p48
-F0.0062636094504171297
-sS'statistic'
-p49
-F0.0033659694776304694
-ssS'education'
-p50
-(dp51
-VMaster
-p52
-F0.0036537794655450988
-ssS'responsibility'
-p53
-(dp54
-S'development'
-p55
-F0.0017518475987623229
-sS'product'
-p56
-F0.0021688093454763982
-sVinsight
-p57
-F0.0078868278748109692
-sS'pattern'
-p58
-F0.0068772653738935485
-sS'documentation'
-p59
-F0.0085088030832776804
-sS'communicate'
-p60
-F0.0046776826253565459
+p10
+I1
 sS'analysis'
-p61
-F0.001898901515247243
+p11
+I1
+sS'visualization'
+p12
+I1
+sS'java'
+p13
+I1
+sS'classification'
+p14
+I1
+sS'big data'
+p15
+I1
+sS'scala'
+p16
+I1
+sS'deep learning'
+p17
+I1
+sS'scientific computing'
+p18
+I1
+sS'computer science'
+p19
+I1
+sS'text mining'
+p20
+I1
+sS'distributed computing'
+p21
+I1
+sS'data scientist'
+p22
+I1
+sS'performance tuning'
+p23
+I1
+sS'spark'
+p24
+I1
+sS'data'
+p25
+I1
+sS'pattern recognition'
+p26
+I1
+sS'documentation'
+p27
+I1
+sS'programming'
+p28
+I1
+sS'hive'
+p29
+I1
+sS'machine learning'
+p30
+I1
+sS'data architecture'
+p31
+I1
+sS'architecture'
+p32
+I1
+sS'hadoop'
+p33
+I1
+sS'clojure'
+p34
+I1
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+I1
+ssS'major'
+p38
+(dp39
+S'business'
+p40
+I1
+sS'big data'
+p41
+I1
+sS'communication'
+p42
+I1
+sS'scientific computing'
+p43
+I1
+sS'machine learning'
+p44
+I1
+sS'analytics'
+p45
+I1
 sS'design'
-p62
-F0.0051615049707333686
+p46
+I1
+sS'computer science'
+p47
+I1
+sS'statistic'
+p48
+I1
+ssS'education'
+p49
+(dp50
+VMaster
+p51
+I1
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+I1
+sS'product'
+p55
+I1
+sVinsight
+p56
+I1
+sS'pattern'
+p57
+I1
+sS'documentation'
+p58
+I1
+sS'communicate'
+p59
+I1
+sS'analysis'
+p60
+I1
+sS'design'
+p61
+I1
 sS'report'
-p63
-F0.0048317156694488231
+p62
+I1
 sS'understand'
-p64
-F0.0050796088696064634
+p63
+I1
 sS'presentation'
-p65
-F0.0064102128869132019
+p64
+I1
 ss.

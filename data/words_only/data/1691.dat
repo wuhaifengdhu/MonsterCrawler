@@ -2,210 +2,207 @@
 S'skills'
 p2
 (dp3
-S'r'
-F0.0026304909168483235
-sS'r d'
+S'data science'
 p4
-F0.0013551640655599913
-sS'data science'
-p5
-F0.0061420053211468833
+I1
 sS'hadoop'
+p5
+I1
+sS'engineering'
 p6
-F0.0039267366405892944
-sS'engineering'
+I1
+sS'data mining'
 p7
-F0.0034396488798047816
-sS'data mining'
-p8
-F0.01464545461572641
+I1
 sS'management'
+p8
+I1
+sS'big data'
 p9
-F0.0028110033303934837
-sS'big data'
-p10
-F0.0072712419378880488
+I1
 sS'tableau'
+p10
+I1
+sS'r'
+I1
+sS'computer science'
 p11
-F0.0065625037007752927
-sS'cloudera'
-p12
-F0.01384817490169943
-sS'computer science'
-p13
-F0.0054574022934327469
+I1
 sS'innovation'
+p12
+I1
+sS'mathematics'
+p13
+I1
+sS'data collection'
 p14
-F0.0041197363692904139
-sS'mathematics'
+I1
+sS'data analysis'
 p15
-F0.0053494685495766173
-sS'data analysis'
-p16
-F0.0092046791328432159
+I1
 sS'product development'
-p17
-F0.0068278623451521782
+p16
+I1
 sS'government'
-p18
-F0.006456358352757781
+p17
+I1
 sS'python'
-p19
-F0.0023977414632025845
+p18
+I1
 sS'business process'
-p20
-F0.0087295251319439316
-sS'leadership'
-p21
-F0.0050294285239939679
-sS'manufacturing'
-p22
-F0.011344832163458576
-sS'data'
-p23
-F0.0016999192135516272
-sS'statistical programming'
-p24
-F0.013239038846595204
-sS'data collection'
-p25
-F0.020041341535839051
-sS'database management'
-p26
-F0.013803875176034661
-sS'quantitative analytics'
-p27
-F0.017564350116279173
-sS'programming'
-p28
-F0.0034301494075965719
-sS'analysis'
-p29
-F0.001654488448928291
-sS'machine learning'
-p30
-F0.0052312758911270216
+p19
+I1
 sS'construction'
-p31
-F0.015076672528719096
-sS'organization'
-p32
-F0.0035361795502148467
-sS'data analytics'
-p33
-F0.010095931449417842
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-F0.0039890741132982124
-sV(2, 5]
-p37
-F0.0025905404358048307
-ssS'major'
-p38
-(dp39
-S'management'
-p40
-F0.0028110033303934837
-sS'business'
-p41
-F0.0065000930503002737
-sS'big data'
-p42
-F0.0072712419378880488
-sS'business administration'
-p43
-F0.01587846771216567
-sS'data science'
-p44
-F0.0061420053211468833
-sS'data mining'
-p45
-F0.01464545461572641
-sS'machine learning'
-p46
-F0.0052312758911270216
-sS'mathematics statistics'
-p47
-F0.010988775068154211
-sS'engineering'
-p48
-F0.0034396488798047816
-sS'computer science engineering'
-p49
-F0.0099928210591806281
-sS'computer science'
-p50
-F0.0054574022934327469
-sS'statistic'
-p51
-F0.0029327258814998147
-sS'mathematics'
-p52
-F0.0053494685495766173
-sS'data analytics'
-p53
-F0.010095931449417842
-sS'statistics computer science'
-p54
-F0.011767661319550577
-ssS'education'
-p55
-(dp56
-VBachelor
-p57
-F0.001121964248554933
-sVMaster
-p58
-F0.0031834910194848388
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-F0.0015263622642681623
-sS'product'
-p62
-F0.0056689670020373178
-sS'data analysis'
-p63
-F0.0092046791328432159
-sVinsight
-p64
-F0.01030753742054503
-sS'communicate'
-p65
-F0.0040756046636769901
+p20
+I1
+sS'manufacturing'
+p21
+I1
+sS'data'
+p22
+I1
+sS'statistical programming'
+p23
+I1
+sS'cloudera'
+p24
+I1
+sS'database management'
+p25
+I1
+sS'quantitative analytics'
+p26
+I1
+sS'programming'
+p27
+I1
 sS'analysis'
-p66
-F0.001654488448928291
-sS'statistical method'
-p67
-F0.0082629595084324318
-sS'data collection'
-p68
-F0.020041341535839051
-sS'understand'
-p69
-F0.004425797826983849
-sS'key decision'
-p70
-F0.016719690215508308
+p28
+I1
+sS'machine learning'
+p29
+I1
+sS'leadership'
+p30
+I1
+sS'organization'
+p31
+I1
+sS'data analytics'
+p32
+I1
+ssS'working-year'
+p33
+(dp34
+V(5, 10]
+p35
+I1
+sV(2, 5]
+p36
+I1
+ssS'major'
+p37
+(dp38
+S'management'
+p39
+I1
+sS'business'
+p40
+I1
+sS'big data'
+p41
+I1
+sS'business administration'
+p42
+I1
+sS'data science'
+p43
+I1
 sS'data mining'
-p71
-F0.01464545461572641
+p44
+I1
+sS'machine learning'
+p45
+I1
+sS'mathematics statistics'
+p46
+I1
+sS'engineering'
+p47
+I1
+sS'computer science engineering'
+p48
+I1
+sS'computer science'
+p49
+I1
+sS'statistic'
+p50
+I1
+sS'mathematics'
+p51
+I1
+sS'data analytics'
+p52
+I1
+sS'statistics computer science'
+p53
+I1
+ssS'education'
+p54
+(dp55
+VBachelor
+p56
+I1
+sVMaster
+p57
+I1
+ssS'responsibility'
+p58
+(dp59
+S'development'
+p60
+I1
+sS'product'
+p61
+I1
+sS'data analysis'
+p62
+I1
+sVinsight
+p63
+I1
+sS'communicate'
+p64
+I1
+sS'analysis'
+p65
+I1
+sS'statistical method'
+p66
+I1
+sS'data collection'
+p67
+I1
+sS'understand'
+p68
+I1
+sS'key decision'
+p69
+I1
+sS'data mining'
+p70
+I1
 sS'report'
-p72
-F0.0042098116723910534
+p71
+I1
 sS'implement'
-p73
-F0.0087852229305089204
+p72
+I1
 sS'presentation'
-p74
-F0.0055851359806768494
+p73
+I1
 sS'model'
-p75
-F0.0072936096249422589
+p74
+I1
 ss.

@@ -2,228 +2,225 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.0014931444067806448
-sS'communication'
+I1
+sS'data science'
 p5
-F0.0028510650659077041
-sS'data science'
-p6
-F0.0067673731356636567
+I1
 sS'sql'
-p7
-F0.0034346577329044197
+p6
+I1
 sS'hadoop'
-p8
-F0.0043265498258129318
+p7
+I1
 sS'statistical analysis'
+p8
+I1
+sS'data mining'
 p9
-F0.0066617414306217168
-sS'data mining'
-p10
-F0.016136628176600373
+I1
 sS'regression'
-p11
-F0.0087103452565622987
+p10
+I1
 sS'clustering'
-p12
-F0.0093185015833127088
+p11
+I1
 sS'management'
-p13
-F0.003097214578579002
+p12
+I1
 sS'java'
+p13
+I1
+sS'big data'
 p14
-F0.0051250237624364155
-sS'big data'
-p15
-F0.0080115865715639223
+I1
 sS'predictive modeling'
-p16
-F0.0078666772692722389
+p15
+I1
 sS'saas'
-p17
-F0.018990854692202332
+p16
+I1
 sS'mllib'
-p18
-F0.01647187600831776
+p17
+I1
 sS'random forest'
-p19
-F0.013410500735738431
+p18
+I1
 sS'mahout'
+p19
+I1
+sS'computer science'
 p20
-F0.015357802045423587
-sS'computer science'
+I1
+sS'mathematics'
 p21
-F0.0060130650724004439
-sS'mathematics'
-p22
-F0.0058941417109880552
+I1
 sS'data modeling'
-p23
-F0.0097563790270477832
+p22
+I1
 sS'python'
+p23
+I1
+sS'marketing'
 p24
-F0.0026418751394559387
-sS'marketing'
-p25
-F0.006202334996034219
+I1
 sS'data scientist'
-p26
-F0.00067297198024284216
+p25
+I1
 sS'oozie'
+p26
+I1
+sS'modeling'
 p27
-F0.017148604912036788
-sS'modeling'
-p28
-F0.0035115097378259838
+I1
 sS'spark'
-p29
-F0.005761922361427591
+p28
+I1
 sS'pig'
-p30
-F0.0092803271457632414
+p29
+I1
 sS'data'
-p31
-F0.0065555066398963659
+p30
+I1
 sS'search'
+p31
+I1
+sS'science'
 p32
-F0.009168151384279245
-sS'science'
+I1
+sS'applied mathematics'
 p33
-F0.0053369209593011595
-sS'applied mathematics'
-p34
-F0.020608575580605741
+I1
 sS'aws'
-p35
-F0.0086780247705384728
+p34
+I1
 sS'programming'
+p35
+I1
+sS'analysis'
 p36
-F0.0037794009836427684
-sS'analysis'
+I1
+sS'machine learning'
 p37
-F0.0018229454546373532
-sS'machine learning'
-p38
-F0.0057639148909508636
+I1
 sS'r'
-F0.0028983227192910621
+I1
 sS'scripting'
-p39
-F0.0077154206508463002
+p38
+I1
 sS'product management'
+p39
+I1
+sS'data analytics'
 p40
-F0.010773688882772864
-sS'data analytics'
-p41
-F0.011123880833358567
+I1
 ssS'working-year'
-p42
-(dp43
+p41
+(dp42
 V(5, 10]
-p44
-F0.0043952343866522125
+p43
+I1
 ssS'major'
-p45
-(dp46
+p44
+(dp45
 S'management'
-p47
-F0.003097214578579002
+p46
+I1
 sS'business'
-p48
-F0.0014323841412661696
+p47
+I1
 sS'big data'
-p49
-F0.0080115865715639223
+p48
+I1
 sS'marketing'
-p50
-F0.006202334996034219
+p49
+I1
 sS'applied mathematics'
-p51
-F0.020608575580605741
+p50
+I1
 sS'statistic'
-p52
-F0.0032313306985252504
+p51
+I1
 sS'communication'
-p53
-F0.0028510650659077041
+p52
+I1
 sS'computer science statistics'
-p54
-F0.012046173255281742
+p53
+I1
 sS'machine learning data mining'
-p55
-F0.0116246655232899
+p54
+I1
 sS'statistics applied mathematics'
-p56
-F0.015960674833882599
+p55
+I1
 sS'machine learning'
-p57
-F0.0057639148909508636
+p56
+I1
 sS'computer science'
+p57
+I1
+sS'data mining'
 p58
-F0.0060130650724004439
-sS'data mining'
-p59
-F0.016136628176600373
+I1
 sS'mathematics'
-p60
-F0.0058941417109880552
+p59
+I1
 sS'applied math'
-p61
-F0.0090504104215349129
+p60
+I1
 sS'ee computer science'
-p62
-F0.0082177292957384129
+p61
+I1
 sS'data science'
-p63
-F0.0067673731356636567
+p62
+I1
 sS'data analytics'
-p64
-F0.011123880833358567
+p63
+I1
 sS'science'
-p65
-F0.0053369209593011595
+p64
+I1
 ssS'education'
-p66
-(dp67
+p65
+(dp66
 VMaster
-p68
-F0.0035076282869232946
+p67
+I1
 sVDoctor
-p69
-F0.0046278714813868804
+p68
+I1
 ssS'responsibility'
-p70
-(dp71
+p69
+(dp70
 S'development'
-p72
-F0.0016817736948118299
+p71
+I1
 sS'product'
-p73
-F0.0041641139433146838
+p72
+I1
 sS'build model'
-p74
-F0.016271660856269042
+p73
+I1
 sS'data mining'
-p75
-F0.016136628176600373
+p74
+I1
 sVinsight
-p76
-F0.0075713547598185308
+p75
+I1
 sS'analysis'
-p77
-F0.0018229454546373532
+p76
+I1
 sS'understand'
-p78
-F0.0048764245148222047
+p77
+I1
 sS'recommendation'
-p79
-F0.0066617414306217168
+p78
+I1
 sS'modeling'
-p80
-F0.0035115097378259838
+p79
+I1
 sS'model'
-p81
-F0.002678743898615157
+p80
+I1
 ss.

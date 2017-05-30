@@ -2,90 +2,88 @@
 S'skills'
 p2
 (lp3
-S'nlp'
+S'clustering'
 p4
-aS'r d'
+aS'nlp'
 p5
-aS'classification'
-p6
-aS'data science'
-p7
-aS'engineering'
-p8
-aS'personalization'
-p9
-aS'regression'
-p10
-aS'clustering'
-p11
-aS'linguistics'
-p12
-aS'java'
-p13
-aS'scala'
-p14
-aS'deep learning'
-p15
 aS'recommender systems'
+p6
+aS'java'
+p7
+aS'programming'
+p8
+aS'classification'
+p9
+aS'scala'
+p10
+aS'linguistics'
+p11
+aS'deep learning'
+p12
+aS'data science'
+p13
+aS'personalization'
+p14
+aS'data scientist'
+p15
+aS'machine learning'
 p16
 aS'python'
 p17
-aS'data scientist'
-p18
-aS'computational linguistics'
-p19
-aS'modeling'
-p20
-aS'data'
-p21
-aS'science'
-p22
-aS'programming'
-p23
-aS'machine learning'
-p24
-aS'optimization'
-p25
-asS'working-year'
-p26
-(lp27
-V(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'linguistics'
-p31
-aS'business'
-p32
-aS'science'
-p33
-aS'data science'
-p34
-aS'phd'
-p35
 aS'engineering'
-p36
-aS'computational linguistics'
-p37
-aS'machine learning'
-p38
-aS'data science engineering'
-p39
-asS'education'
-p40
-(lp41
-VDoctor
-p42
-asS'responsibility'
-p43
-(lp44
-S'modeling'
-p45
-aS'model'
-p46
+p18
 aS'optimization'
-p47
+p19
+aS'computational linguistics'
+p20
+aS'science'
+p21
+aS'modeling'
+p22
+aS'data'
+p23
+aS'regression'
+p24
+asS'working-year'
+p25
+(lp26
+V(2, 5]
+p27
+asS'major'
+p28
+(lp29
+S'linguistics'
+p30
+aS'business'
+p31
+aS'science'
+p32
+aS'data science'
+p33
+aS'phd'
+p34
+aS'engineering'
+p35
+aS'computational linguistics'
+p36
+aS'machine learning'
+p37
+aS'data science engineering'
+p38
+asS'education'
+p39
+(lp40
+VDoctor
+p41
+asS'responsibility'
+p42
+(lp43
+S'modeling'
+p44
+aS'model'
+p45
+aS'optimization'
+p46
 aS'business problem'
-p48
+p47
 as.

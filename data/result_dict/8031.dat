@@ -2,132 +2,130 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'testing'
+p5
+aS'engineering'
 p6
-aS'engineering'
-p7
 aS'product strategy'
-p8
-aS'strategy'
-p9
-aS'management'
-p10
-aS'dna'
-p11
-aS'agile'
-p12
-aS'recruiting'
-p13
+p7
 aS'writing'
-p14
-aS'teamwork'
-p15
-aS'computer science'
-p16
-aS'innovation'
-p17
-aS'finance'
-p18
-aS'design thinking'
-p19
-aS'collaboration'
-p20
-aS'data scientist'
-p21
-aS'entrepreneurship'
-p22
-aS'military experience'
-p23
-aS'data'
-p24
-aS'b testing'
-p25
-aS'science'
-p26
-aS'economics'
-p27
-aS'business strategy'
-p28
-aS'analysis'
-p29
-aS'banking'
-p30
-aS'optimization'
-p31
-aS'product management'
-p32
-aS'military'
-p33
-asS'working-year'
-p34
-(lp35
-V(2, 5]
-p36
-asS'major'
-p37
-(lp38
-S'information'
-p39
+p8
 aS'management'
-p40
-aS'finance'
-p41
-aS'business'
-p42
-aS'science'
-p43
-aS'economics'
-p44
-aS'mba'
-p45
-aS'entrepreneurship'
-p46
-aS'engineering'
-p47
-aS'design'
-p48
+p9
+aS'dna'
+p10
+aS'agile'
+p11
+aS'recruiting'
+p12
+aS'strategy'
+p13
+aS'teamwork'
+p14
 aS'computer science'
-p49
-aS'communication'
-p50
-aS'computer science engineering'
-p51
-aS'law'
-p52
-aS'ee computer science'
-p53
-aS'history'
-p54
-asS'education'
-p55
-(lp56
-VBachelor
-p57
-aVMaster
-p58
-asS'responsibility'
-p59
-(lp60
-S'information'
-p61
-aS'product'
-p62
-aS'mapping'
-p63
+p15
+aS'innovation'
+p16
+aS'finance'
+p17
+aS'design thinking'
+p18
+aS'collaboration'
+p19
+aS'data scientist'
+p20
+aS'entrepreneurship'
+p21
+aS'military experience'
+p22
+aS'data'
+p23
+aS'b testing'
+p24
+aS'science'
+p25
+aS'economics'
+p26
+aS'business strategy'
+p27
 aS'analysis'
-p64
-aS'improvement'
-p65
+p28
+aS'banking'
+p29
 aS'optimization'
-p66
-aS'understand'
-p67
+p30
+aS'product management'
+p31
+aS'military'
+p32
+asS'working-year'
+p33
+(lp34
+V(2, 5]
+p35
+asS'major'
+p36
+(lp37
+S'information'
+p38
+aS'management'
+p39
+aS'finance'
+p40
+aS'business'
+p41
+aS'science'
+p42
+aS'economics'
+p43
+aS'mba'
+p44
+aS'entrepreneurship'
+p45
+aS'engineering'
+p46
 aS'design'
-p68
+p47
+aS'computer science'
+p48
+aS'communication'
+p49
+aS'computer science engineering'
+p50
+aS'law'
+p51
+aS'ee computer science'
+p52
+aS'history'
+p53
+asS'education'
+p54
+(lp55
+VBachelor
+p56
+aVMaster
+p57
+asS'responsibility'
+p58
+(lp59
+S'information'
+p60
+aS'product'
+p61
+aS'mapping'
+p62
+aS'analysis'
+p63
+aS'improvement'
+p64
+aS'optimization'
+p65
+aS'understand'
+p66
+aS'design'
+p67
 aS'transformation'
-p69
+p68
 as.

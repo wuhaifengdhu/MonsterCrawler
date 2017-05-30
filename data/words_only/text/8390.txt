@@ -1,5 +1,5 @@
-skills: {'r d': 0.0007398463276841033, 'analytics': 0.0018296919707695622, 'marketing': 0.009219687156267083, 'collaboration': 0.0032646048337044, 'personalization': 0.006846106391002463, 'data scientist': 0.0003334545848050119, 'finance': 0.06573491738705065, 'analysis': 0.0009032612613067967, 'strategy': 0.0025304492902816144, 'credit': 0.004861254053692443, 'leadership': 0.0027457961130994096, 'financial services': 0.00663025350549394, 'innovation': 0.002249153369180172, 'policy': 0.008482208236605823, 'laboratory': 0.006912845954719639, 'government': 0.007049645336524713, 'data': 0.0004640320015370658, 'product development': 0.003727643766812811}
-working-year: {u'(5, 10]': 0.002177818840233078, u'(0, 2]': 0.003326220511647137, u'(2, 5]': 0.0014142950487366914}
-major: {'finance': 0.06573491738705065, 'business': 0.0070973988981657046, 'marketing': 0.009219687156267083, 'general': 0.008353371513785176, 'analytics': 0.0018296919707695622, 'marketing analysis': 0.015315400425297382, 'law': 0.01610142580611393}
-education: {u'Doctor': 0.0022930894727592652}
-responsibility: {'development': 0.0008333112902220778, 'product': 0.002063299701642411, 'analysis': 0.0009032612613067967}
+skills: {'product development': 1, 'analytics': 1, 'marketing': 1, 'collaboration': 1, 'personalization': 1, 'data scientist': 1, 'analysis': 1, 'strategy': 1, 'credit': 1, 'leadership': 1, 'financial services': 1, 'innovation': 1, 'policy': 1, 'laboratory': 1, 'government': 1, 'data': 1, 'finance': 1}
+working-year: {u'(5, 10]': 1, u'(0, 2]': 1, u'(2, 5]': 1}
+major: {'finance': 1, 'business': 1, 'marketing': 1, 'general': 1, 'analytics': 1, 'marketing analysis': 1, 'law': 1}
+education: {u'Doctor': 1}
+responsibility: {'development': 1, 'product': 1, 'analysis': 1}

@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'parallel computing'
 p4
 aS'communication'
 p5
@@ -12,7 +12,7 @@ aS'analytics'
 p7
 aS'engineering'
 p8
-aS'analysis'
+aS'c++'
 p9
 aS'linux'
 p10
@@ -20,113 +20,107 @@ aS'research'
 p11
 aS'image processing'
 p12
-aS'parallel computing'
-p13
 aS'writing'
-p14
+p13
 aS'computer vision'
-p15
+p14
 aS'computer science'
-p16
+p15
 aS'intelligence'
-p17
+p16
 aS'algorithm development'
-p18
+p17
 aS'artificial intelligence'
-p19
+p18
 aS'matlab'
-p20
+p19
 aS'data analysis'
-p21
+p20
 aS'signal processing'
-p22
+p21
 aS'government'
-p23
+p22
 aS'python'
-p24
+p23
 aS'processing'
-p25
+p24
 aS'c'
 aS'technical writing'
-p26
+p25
 aS'data'
-p27
+p26
 aS'search'
-p28
+p27
 aS'pattern recognition'
-p29
+p28
 aS'parallel programming'
+p29
+aS'science'
 p30
-aS'science'
-p31
 aS'programming'
+p31
+aS'analysis'
 p32
-aS'c++'
+aS'electrical engineering'
 p33
-aS'machine learning'
+aS'data analytics'
 p34
-aS'electrical engineering'
-p35
-aS'data analytics'
-p36
 asS'working-year'
-p37
-(lp38
+p35
+(lp36
 V(2, 5]
-p39
+p37
 asS'major'
-p40
-(lp41
+p38
+(lp39
 S'information'
-p42
+p40
 aS'computing'
-p43
+p41
 aS'science'
-p44
+p42
 aS'intelligent systems'
-p45
-aS'machine learning'
-p46
+p43
 aS'analytics'
-p47
+p44
 aS'engineering'
-p48
+p45
 aS'electrical'
-p49
+p46
 aS'artificial intelligence'
-p50
+p47
 aS'communication'
-p51
+p48
 aS'electrical engineering'
-p52
+p49
 aS'data analytics'
-p53
+p50
 aS'computer science'
-p54
+p51
 asS'education'
+p52
+(lp53
+VDoctor
+p54
+asS'responsibility'
 p55
 (lp56
-VDoctor
-p57
-asS'responsibility'
-p58
-(lp59
 S'development'
-p60
+p57
 aS'information'
-p61
+p58
 aS'data analysis'
-p62
+p59
 aS'pattern'
-p63
+p60
 aS'processing'
-p64
+p61
 aS'analysis'
-p65
+p62
 aS'interface'
-p66
+p63
 aS'report'
-p67
+p64
 aS'extract'
-p68
+p65
 as.

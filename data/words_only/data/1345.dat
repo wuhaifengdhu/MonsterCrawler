@@ -4,241 +4,238 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0037353115019769351
-sS'r d'
+I1
+sS'communication'
 p5
-F0.00074252208293793366
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0070889954170399519
-sS'data science'
-p7
-F0.003365330221170896
+I1
 sS'sql'
+p7
+I1
+sS'forecasting'
 p8
-F0.0034160248699772705
-sS'forecasting'
-p9
-F0.0050506293075152061
+I1
 sS'hadoop'
-p10
-F0.0043030784886023731
+p9
+I1
 sS'process improvement'
+p10
+I1
+sS'analysis'
 p11
-F0.005960356915588467
-sS'analysis'
+I1
+sS'data mining'
 p12
-F0.00090652802897879233
-sS'data mining'
-p13
-F0.0080245438491231506
+I1
 sS'research'
-p14
-F0.0017241562299872705
+p13
+I1
 sS'business process improvement'
+p14
+I1
+sS'big data'
 p15
-F0.010247445112691975
-sS'big data'
-p16
-F0.003984062038300323
+I1
 sS'agile'
-p17
-F0.0034512144865080853
+p16
+I1
 sS'excel'
-p18
-F0.0035246095995599401
+p17
+I1
 sS'tableau'
-p19
-F0.00359572987583167
+p18
+I1
 sS'strategy'
+p19
+I1
+sS'big data analytics'
 p20
-F0.0025396010056171715
-sS'big data analytics'
-p21
-F0.011920713831176934
+I1
 sS'statistical software'
+p21
+I1
+sS'computer science'
 p22
-F0.0060625452984973526
-sS'computer science'
-p23
-F0.0029902222331105281
+I1
 sS'visio'
+p23
+I1
+sS'mathematics'
 p24
-F0.0084871495450542789
-sS'mathematics'
-p25
-F0.0029310831293340237
+I1
 sS'military'
-p26
-F0.0056674765945654284
+p25
+I1
 sS'energy'
-p27
-F0.0049286817334980044
+p26
+I1
 sS'r programming'
+p27
+I1
+sS'business analysis'
 p28
-F0.0058448975474613019
-sS'business analysis'
-p29
-F0.013909974847629335
+I1
 sS'python'
-p30
-F0.0013137715431290832
+p29
+I1
 sS'data scientist'
-p31
-F0.00033466056883685639
+p30
+I1
 sS'business process'
+p31
+I1
+sS'bioinformatics'
 p32
-F0.0047830851988770549
-sS'bioinformatics'
-p33
-F0.0064219092757366314
+I1
 sS'spark'
-p34
-F0.0057306641931015824
+p33
+I1
 sS'pig'
-p35
-F0.004614990895271052
+p34
+I1
 sS'software development'
-p36
-F0.0039838122688485552
+p35
+I1
 sS'analytical skills'
-p37
-F0.0088411150956316312
+p36
+I1
 sS'word'
-p38
-F0.0054228547345390593
+p37
+I1
 sS'quantitative analytics'
-p39
-F0.0096238663385761116
+p38
+I1
 sS'root'
-p40
-F0.0062507295683159212
+p39
+I1
 sS'programming'
-p41
-F0.0018794489520827509
+p40
+I1
 sS'hive'
+p41
+I1
+sS'machine learning'
 p42
-F0.0071434217866654668
-sS'machine learning'
-p43
-F0.0028663229566211349
+I1
 sS'r'
-F0.0014412997247830778
+I1
 sS'organization'
+p43
+I1
+sS'epidemiology'
 p44
-F0.0019375450338428545
-sS'epidemiology'
-p45
-F0.0086119095109059157
+I1
 sS'microsoft office'
-p46
-F0.006204656744641812
+p45
+I1
 sS'powerpoint'
+p46
+I1
+sS'data analytics'
 p47
-F0.0051304613867322194
-sS'data analytics'
-p48
-F0.0055317671413627591
+I1
 sS'statistical analysis'
-p49
-F0.0033128008922621559
+p48
+I1
 ssS'working-year'
-p50
-(dp51
+p49
+(dp50
 V(2, 5]
-p52
-F0.001419410039871363
+p51
+I1
 ssS'major'
-p53
-(dp54
+p52
+(dp53
 S'information'
-p55
-F0.0022730798654366654
+p54
+I1
 sS'bioinformatics'
-p56
-F0.0064219092757366314
+p55
+I1
 sS'business analysis'
-p57
-F0.013909974847629335
+p56
+I1
 sS'big data'
-p58
-F0.003984062038300323
+p57
+I1
 sS'communication'
-p59
-F0.0070889954170399519
+p58
+I1
 sS'data science'
-p60
-F0.003365330221170896
+p59
+I1
 sS'statistic'
-p61
-F0.0016069004377838043
+p60
+I1
 sS'data analyst'
-p62
-F0.0049857275260443796
+p61
+I1
 sS'machine learning'
-p63
-F0.0028663229566211349
+p62
+I1
 sS'big data analytics'
-p64
-F0.011920713831176934
+p63
+I1
 sS'epidemiology'
-p65
-F0.0086119095109059157
+p64
+I1
 sS'computer science'
+p65
+I1
+sS'data mining'
 p66
-F0.0029902222331105281
-sS'data mining'
-p67
-F0.0080245438491231506
+I1
 sS'mathematics'
-p68
-F0.0029310831293340237
+p67
+I1
 sS'business'
-p69
-F0.0028492270441099212
+p68
+I1
 sS'data analytics'
-p70
-F0.0055317671413627591
+p69
+I1
 ssS'education'
-p71
-(dp72
+p70
+(dp71
 S'Bachelor'
-p73
-F0.00061474713799664505
+p72
+I1
 ssS'responsibility'
-p74
-(dp75
+p73
+(dp74
 S'development'
-p76
-F0.00083632507427351395
+p75
+I1
 sS'information'
-p77
-F0.0022730798654366654
+p76
+I1
 sS'forecasting'
-p78
-F0.0050506293075152061
+p77
+I1
 sS'business problem'
-p79
-F0.0033429161368972991
+p78
+I1
 sS'analysis'
-p80
-F0.00090652802897879233
+p79
+I1
 sS'improvement'
-p81
-F0.0035168773274478864
+p80
+I1
 sS'analytic'
-p82
-F0.010809999299865631
+p81
+I1
 sS'understand'
-p83
-F0.0024249850661412411
+p82
+I1
 sS'data mining'
-p84
-F0.0080245438491231506
+p83
+I1
 sS'implement'
-p85
-F0.0024068015804197132
+p84
+I1
 sS'model'
-p86
-F0.0013321059170328538
+p85
+I1
 ss.

@@ -2,123 +2,120 @@
 S'skills'
 p2
 (dp3
-S'economics'
+S'econometric modeling'
 p4
-F0.0098694773148001406
-sS'r d'
+I1
+sS'data scientist'
 p5
-F0.0016490550677296279
-sS'communication'
+I1
+sS'data visualization'
 p6
-F0.0062975332781093855
-sS'data science'
+I1
+sS'communication'
 p7
-F0.0074740064751305435
-sS'public policy'
+I1
+sS'data science'
 p8
-F0.032495720752059802
-sS'quantitative analysis'
+I1
+sS'market data'
 p9
-F0.026044905412690965
-sS'insurance'
-p10
-F0.010145852918970563
+I1
 sS'excel'
+p10
+I1
+sS'economics'
 p11
-F0.007827747423922277
+I1
 sS'research'
 p12
-F0.01531660072583069
+I1
+sS'r'
+I1
 sS'statistical software'
 p13
-F0.013464207028389703
-sS'stata'
+I1
+sS'analysis'
 p14
-F0.015187031921333726
-sS'policy'
+I1
+sS'stata'
 p15
-F0.018906126792434665
-sS'data scientist'
-p16
-F0.00074324214685454444
+I1
 sS'sql'
+p16
+I1
+sS'policy'
 p17
-F0.0037932966929667281
-sS'project management'
-p18
-F0.018635571443378782
-sS'econometric modeling'
-p19
-F0.022311694454315446
-sS'data visualization'
-p20
-F0.0068725138340723739
-sS'market data'
-p21
-F0.023261043708258607
-sS'analysis'
-p22
-F0.0020132931727922573
-sS'r'
-F0.003200958826526273
-sS'real estate'
-p23
-F0.02021814313430495
+I1
 sS'organization'
-p24
-F0.0086061237246192659
-ssS'working-year'
-p25
-(dp26
-V[0]
-p27
-F0.0057275922584837146
-sV(2, 5]
-p28
-F0.0031523443857384083
-ssS'major'
-p29
-(dp30
-S'communication'
-p31
-F0.0062975332781093855
-sS'data science'
-p32
-F0.0074740064751305435
-sS'economics'
-p33
-F0.0098694773148001406
-sS'design'
-p34
-F0.0027362195025574482
+p18
+I1
 sS'public policy'
-p35
-F0.032495720752059802
-sS'project management'
-p36
-F0.018635571443378782
-ssS'education'
-p37
-(dp38
-VMaster
-p39
-F0.0038738866622646828
-ssS'responsibility'
-p40
-(dp41
-S'report'
-p42
-F0.0051227828784517638
-sS'design'
-p43
-F0.0027362195025574482
-sS'model'
-p44
-F0.002958452096864129
+p19
+I1
+sS'real estate'
+p20
+I1
 sS'quantitative analysis'
-p45
-F0.026044905412690965
+p21
+I1
+sS'insurance'
+p22
+I1
+sS'project management'
+p23
+I1
+ssS'working-year'
+p24
+(dp25
+V[0]
+p26
+I1
+sV(2, 5]
+p27
+I1
+ssS'major'
+p28
+(dp29
+S'communication'
+p30
+I1
+sS'data science'
+p31
+I1
+sS'economics'
+p32
+I1
+sS'design'
+p33
+I1
+sS'public policy'
+p34
+I1
+sS'project management'
+p35
+I1
+ssS'education'
+p36
+(dp37
+VMaster
+p38
+I1
+ssS'responsibility'
+p39
+(dp40
+S'report'
+p41
+I1
+sS'design'
+p42
+I1
+sS'model'
+p43
+I1
+sS'quantitative analysis'
+p44
+I1
 sS'analysis'
-p46
-F0.0020132931727922573
+p45
+I1
 ss.

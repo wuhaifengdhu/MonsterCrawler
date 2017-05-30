@@ -4,240 +4,237 @@ p2
 (dp3
 S'logistics'
 p4
-F0.015729719954255112
-sS'r d'
+I1
+sS'communication'
 p5
-F0.0014931444067806448
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0028510650659077041
-sS'data science'
+I1
+sS'analytics'
 p7
-F0.0067673731356636567
-sS'analytics'
+I1
+sS'engineering'
 p8
-F0.0036926510682803895
-sS'engineering'
-p9
-F0.0037898676748394501
+I1
 sS'problem solving'
-p10
-F0.0068611431982574583
+p9
+I1
 sS'relational databases'
+p10
+I1
+sS'machine learning'
 p11
-F0.018792175342677183
-sS'machine learning'
+I1
+sS'quantitative analysis'
 p12
-F0.0057639148909508636
-sS'quantitative analysis'
-p13
-F0.023582477991854731
+I1
 sS'random forest'
-p14
-F0.013410500735738431
+p13
+I1
 sS'xml'
-p15
-F0.013751167085134903
+p14
+I1
 sS'java'
+p15
+I1
+sS'big data'
 p16
-F0.0051250237624364155
-sS'big data'
-p17
-F0.0080115865715639223
+I1
 sS'programming languages'
-p18
-F0.015020419102655419
+p17
+I1
 sS'critical thinking'
-p19
-F0.012298498898933884
+p18
+I1
 sS'vbscript'
-p20
-F0.025056764136147807
+p19
+I1
 sS'servlets'
-p21
-F0.020606680535704226
+p20
+I1
 sS'strategy'
-p22
-F0.0051069067494774398
+p21
+I1
 sS'html'
-p23
-F0.012939756704720863
+p22
+I1
 sS'oracle sql'
-p24
-F0.016541141432005281
+p23
+I1
 sS'matlab'
-p25
-F0.0080447197355027755
+p24
+I1
 sS'innovation'
+p25
+I1
+sS'mathematics'
 p26
-F0.0045392004359818012
-sS'mathematics'
+I1
+sS'operations research'
 p27
-F0.0058941417109880552
-sS'operations research'
+I1
+sS'computer science'
 p28
-F0.019257566210637019
-sS'computer science'
+I1
+sS'processing'
 p29
-F0.0060130650724004439
-sS'processing'
-p30
-F0.0057945290495270505
+I1
 sS'government'
-p31
-F0.0071137330214022096
+p30
+I1
 sS'python'
-p32
-F0.0079256254183678165
+p31
+I1
 sS'collaboration'
+p32
+I1
+sS'natural language processing'
 p33
-F0.0065885661189306983
-sS'natural language processing'
-p34
-F0.018541691673605355
+I1
 sS'data scientist'
-p35
-F0.00067297198024284216
+p34
+I1
 sS'random forests'
-p36
-F0.01866457128320936
+p35
+I1
 sS'jsp'
-p37
-F0.020606680535704226
+p36
+I1
 sS'sql'
-p38
-F0.0034346577329044197
+p37
+I1
 sS'jquery'
-p39
-F0.016144057536638536
+p38
+I1
 sS'c'
-F0.025446846401795998
+I1
 sS'decision trees'
-p40
-F0.017778678719579246
+p39
+I1
 sS'data visualization'
-p41
-F0.0062227488897600774
+p40
+I1
 sS'sql server'
-p42
-F0.011887187133812521
+p41
+I1
 sS'vb.net'
+p42
+I1
+sS'economics'
 p43
-F0.022536232633356901
-sS'economics'
-p44
-F0.0089363630959463092
+I1
 sS'programming'
+p44
+I1
+sS'analysis'
 p45
-F0.0037794009836427684
-sS'analysis'
-p46
-F0.0018229454546373532
+I1
 sS'spss'
+p46
+I1
+sS'engineering management'
 p47
-F0.008842579398822225
-sS'engineering management'
-p48
-F0.037848841163268643
+I1
 sS'asp.net'
-p49
-F0.019838286790849119
+p48
+I1
 sS'xquery'
-p50
-F0.028388728214323047
+p49
+I1
 sS'r'
-F0.0028983227192910621
+I1
 sS'javascript'
-p51
-F0.009911130904088716
+p50
+I1
 sS'oracle'
-p52
-F0.0095666259682505982
+p51
+I1
 sS'security'
-p53
-F0.011603629748884823
+p52
+I1
 sS'powershell'
-p54
-F0.019507481804340213
+p53
+I1
 ssS'working-year'
-p55
-(dp56
+p54
+(dp55
 V[0]
-p57
-F0.0051860744449543457
+p56
+I1
 ssS'major'
-p58
-(dp59
+p57
+(dp58
 S'mathematics physics'
-p60
-F0.014797262996840281
+p59
+I1
 sS'big data'
-p61
-F0.0080115865715639223
+p60
+I1
 sS'management science'
-p62
-F0.019204277433345889
+p61
+I1
 sS'communication'
-p63
-F0.0028510650659077041
+p62
+I1
 sS'data science'
-p64
-F0.0067673731356636567
+p63
+I1
 sS'economics'
-p65
-F0.0089363630959463092
+p64
+I1
 sS'machine learning'
-p66
-F0.0057639148909508636
+p65
+I1
 sS'engineering management'
-p67
-F0.037848841163268643
+p66
+I1
 sS'analytics'
-p68
-F0.0036926510682803895
+p67
+I1
 sS'engineering'
-p69
-F0.0037898676748394501
+p68
+I1
 sS'natural language processing'
-p70
-F0.018541691673605355
+p69
+I1
 sS'statistic'
-p71
-F0.0032313306985252504
+p70
+I1
 sVphysic
-p72
-F0.0082893061709867835
+p71
+I1
 sS'mathematics'
-p73
-F0.0058941417109880552
+p72
+I1
 sS'operations research'
-p74
-F0.019257566210637019
+p73
+I1
 sS'computer science'
-p75
-F0.0060130650724004439
+p74
+I1
 ssS'education'
-p76
-(dp77
+p75
+(dp76
 VBachelor
-p78
-F0.001236200608407799
+p77
+I1
 sVMaster
-p79
-F0.0035076282869232946
+p78
+I1
 ssS'responsibility'
-p80
-(dp81
+p79
+(dp80
 S'product'
-p82
-F0.0020820569716573419
+p81
+I1
 sS'processing'
-p83
-F0.0057945290495270505
+p82
+I1
 sS'quantitative analysis'
-p84
-F0.023582477991854731
+p83
+I1
 sS'analysis'
-p85
-F0.0018229454546373532
+p84
+I1
 ss.

@@ -2,138 +2,135 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-F0.0016897724768093719
-sS'nosql'
-p5
-F0.019355341159249511
+I1
 sS'storage'
+p5
+I1
+sS'data science'
 p6
-F0.012547555488856986
-sS'data science'
-p7
-F0.0076585498448868547
+I1
 sS'hdfs'
-p8
-F0.014068623143732693
+p7
+I1
 sS'management'
-p9
-F0.0035050782267869369
+p8
+I1
 sS'java'
+p9
+I1
+sS'big data'
 p10
-F0.0057999240109877139
-sS'big data'
-p11
-F0.0090666103176134938
+I1
 sS'r programming'
-p12
-F0.013301351208831689
+p11
+I1
 sS'access'
+p12
+I1
+sS'computer science'
 p13
-F0.007502572446805811
-sS'computer science'
-p14
-F0.0068049090325519434
+I1
 sS'data management'
-p15
-F0.0096165796987934399
+p14
+I1
 sS'python'
+p15
+I1
+sS'processing'
 p16
-F0.0029897763923884082
-sS'processing'
-p17
-F0.0065575946033742342
+I1
 sS'data scientist'
-p18
-F0.00076159380480157041
+p17
+I1
 sS'apache spark'
-p19
-F0.015176492602173122
+p18
+I1
 sS'apache'
-p20
-F0.012994877788483534
+p19
+I1
 sS'data'
+p20
+I1
+sS'data collection'
 p21
-F0.0095384355871507964
-sS'data collection'
-p22
-F0.024989820927404253
+I1
 sS'programming'
-p23
-F0.0042770998786080721
+p22
+I1
 sS'mapreduce'
+p23
+I1
+sS'machine learning'
 p24
-F0.011426025461249337
-sS'machine learning'
-p25
-F0.0065229489506645581
+I1
 sS'r'
-F0.0032799948469343296
+I1
 ssS'working-year'
-p26
-(dp27
+p25
+(dp26
 V(0, 2]
-p28
-F0.0075969233907990166
+p27
+I1
 sV(2, 5]
-p29
-F0.0032301800495838015
+p28
+I1
 ssS'major'
-p30
-(dp31
+p29
+(dp30
 S'management'
-p32
-F0.0035050782267869369
+p31
+I1
 sS'big data'
-p33
-F0.0090666103176134938
+p32
+I1
 sS'data science'
-p34
-F0.0076585498448868547
+p33
+I1
 sS'machine learning'
+p34
+I1
+sS'design'
 p35
-F0.0065229489506645581
-sS'design'
-p36
-F0.0028037804779292375
+I1
 sS'computer science'
-p37
-F0.0068049090325519434
+p36
+I1
 sS'statistic'
-p38
-F0.0036568557287837197
+p37
+I1
 sS'computer science mathematics'
-p39
-F0.013519130496669472
+p38
+I1
 sS'ee computer science'
-p40
-F0.009299899408757464
+p39
+I1
 sS'data science engineering'
-p41
-F0.017157733148329864
+p40
+I1
 ssS'education'
-p42
-(dp43
+p41
+(dp42
 VBachelor
-p44
-F0.0013989924580746697
+p43
+I1
 ssS'responsibility'
-p45
-(dp46
+p44
+(dp45
 Vinsight
-p47
-F0.012852608388580839
+p46
+I1
 sS'processing'
-p48
-F0.0065575946033742342
+p47
+I1
 sS'data collection'
-p49
-F0.024989820927404253
+p48
+I1
 sS'design'
-p50
-F0.0028037804779292375
+p49
+I1
 sS'data infrastructure'
-p51
-F0.014585386278651059
+p50
+I1
 ss.

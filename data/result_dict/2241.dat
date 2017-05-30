@@ -2,122 +2,120 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'energy'
 p4
-aS'energy'
-p5
 aS'tableau'
+p5
+aS'analytics'
 p6
-aS'analytics'
-p7
 aS'education'
-p8
+p7
 aS'change management'
-p9
+p8
 aS'visualization'
+p9
+aS'management'
 p10
-aS'management'
+aS'big data'
 p11
-aS'big data'
-p12
 aS'power bi'
-p13
+p12
 aS'predictive modeling'
-p14
+p13
 aS'integration'
-p15
+p14
 aS'research'
+p15
+aS'computer science'
 p16
-aS'computer science'
-p17
 aS'innovation'
-p18
+p17
 aS'data modeling'
-p19
+p18
 aS'performance management'
-p20
+p19
 aS'python'
-p21
+p20
 aS'data scientist'
-p22
+p21
 aS'leadership'
+p22
+aS'modeling'
 p23
-aS'modeling'
-p24
 aS'data'
-p25
+p24
 aS'pattern recognition'
+p25
+aS'science'
 p26
-aS'science'
-p27
 aS'programming'
+p27
+aS'machine learning'
 p28
-aS'machine learning'
-p29
 aS'data integration'
-p30
+p29
 asS'working-year'
-p31
-(lp32
+p30
+(lp31
 V(5, 10]
-p33
+p32
 aV(2, 5]
-p34
+p33
 asS'major'
-p35
-(lp36
+p34
+(lp35
 S'information'
-p37
+p36
 aS'management'
-p38
+p37
 aS'business'
-p39
+p38
 aS'big data'
-p40
+p39
 aS'science'
-p41
+p40
 aS'machine learning'
-p42
+p41
 aS'analytics'
+p42
+aS'design'
 p43
-aS'design'
-p44
 aS'computer science'
-p45
+p44
 aS'statistic'
-p46
+p45
 aS'general'
-p47
+p46
 asS'education'
-p48
-(lp49
+p47
+(lp48
 VBachelor
-p50
+p49
 aVMaster
-p51
+p50
 asS'responsibility'
-p52
-(lp53
+p51
+(lp52
 S'information'
-p54
+p53
 aS'build model'
-p55
+p54
 aVtest hypothesis
-p56
+p55
 aS'pattern'
-p57
+p56
 aVinsight
-p58
+p57
 aS'analytic'
-p59
+p58
 aS'model'
-p60
+p59
 aS'design'
-p61
+p60
 aS'modeling'
-p62
+p61
 aS'implement'
-p63
+p62
 aS'transformation'
-p64
+p63
 as.

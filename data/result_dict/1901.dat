@@ -2,174 +2,172 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'data science'
 p4
-aS'data science'
-p5
 aS'integration'
+p5
+aS'analytics'
 p6
-aS'analytics'
+aS'engineering'
 p7
-aS'engineering'
-p8
 aS'defense'
+p8
+aS'analysis'
 p9
-aS'analysis'
+aS'data mining'
 p10
-aS'data mining'
-p11
 aS'tableau'
+p11
+aS'simulation'
 p12
-aS'simulation'
-p13
 aVpanda
-p14
+p13
 aS'clustering'
-p15
+p14
 aS'visualization'
-p16
+p15
 aS'technical leadership'
-p17
+p16
 aS'open source'
+p17
+aS'big data'
 p18
-aS'big data'
-p19
 aS'storage'
-p20
+p19
 aS'hadoop'
-p21
+p20
 aS'access'
-p22
+p21
 aS'rdf'
+p22
+aS'computer science'
 p23
-aS'computer science'
-p24
 aS'semantic web'
+p24
+aS'mathematics'
 p25
-aS'mathematics'
-p26
 aS'scheme'
-p27
+p26
 aS'numpy'
+p27
+aS'data analysis'
 p28
-aS'data analysis'
-p29
 aS'visual analytics'
-p30
+p29
 aS'government'
-p31
+p30
 aS'python'
-p32
+p31
 aS'javascript'
-p33
+p32
 aS'data scientist'
-p34
+p33
 aS'matplotlib'
-p35
+p34
 aS'scipy'
-p36
+p35
 aS'information visualization'
-p37
+p36
 aS'aviation'
-p38
+p37
 aS'spark'
-p39
+p38
 aS'data'
-p40
+p39
 aS'software development'
-p41
+p40
 aS'training'
+p41
+aS'science'
 p42
-aS'science'
-p43
 aS'scikit-learn'
-p44
+p43
 aS'mapreduce'
-p45
+p44
 aS'security clearance'
+p45
+aS'machine learning'
 p46
-aS'machine learning'
-p47
 aS'data engineering'
-p48
+p47
 aS'leadership'
-p49
+p48
 aS'military'
-p50
+p49
 aS'security'
-p51
+p50
 aS'statistical analysis'
-p52
+p51
 asS'working-year'
-p53
-(lp54
+p52
+(lp53
 V(5, 10]
-p55
+p54
 aV(2, 5]
-p56
+p55
 asS'major'
-p57
-(lp58
+p56
+(lp57
 S'information'
-p59
+p58
 aS'computer science mathematics'
-p60
+p59
 aS'big data'
-p61
+p60
 aS'science'
-p62
+p61
 aS'data science'
-p63
+p62
 aS'data science analytics'
-p64
+p63
 aS'machine learning'
-p65
+p64
 aS'analytics'
-p66
+p65
 aS'engineering'
+p66
+aS'design'
 p67
-aS'design'
-p68
 aS'computer science'
+p68
+aS'data mining'
 p69
-aS'data mining'
-p70
 aS'mathematics'
-p71
+p70
 aS'phd'
-p72
+p71
 aS'data mining machine learning'
-p73
+p72
 asS'education'
-p74
-(lp75
+p73
+(lp74
 VMaster
-p76
+p75
 aVDoctor
-p77
+p76
 asS'responsibility'
-p78
-(lp79
+p77
+(lp78
 S'development'
-p80
+p79
 aS'information'
-p81
+p80
 aS'product'
-p82
+p81
 aS'data analysis'
-p83
+p82
 aS'identify trend'
-p84
+p83
 aS'analysis'
-p85
+p84
 aS'simulation'
-p86
+p85
 aS'design'
-p87
+p86
 aS'data mining'
-p88
+p87
 aS'report'
-p89
+p88
 aS'data aggregation'
-p90
+p89
 as.

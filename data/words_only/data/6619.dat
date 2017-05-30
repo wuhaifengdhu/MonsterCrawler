@@ -4,184 +4,181 @@ p2
 (dp3
 S'r d'
 p4
-F0.0011405964218463261
+I1
 sS'biostatistics'
 p5
-F0.011890425451410631
+I1
 sS'testing'
 p6
-F0.0046371143973275636
+I1
 sS'causal inference'
 p7
-F0.014355133942322847
+I1
 sS'analytics'
 p8
-F0.0028207751216030755
+I1
 sS'thought leadership'
 p9
-F0.0094281531356087099
+I1
 sS'high performance computing'
 p10
-F0.024031516596778647
+I1
 sS'problem solving'
 p11
-F0.0052411510542244473
+I1
 sS'analysis'
 p12
-F0.0013925277778479783
+I1
 sS'management'
 p13
-F0.0023659278030811822
+I1
 sS'big data'
 p14
-F0.0061199619643891078
+I1
 sS'hadoop'
 p15
-F0.0033050033391626562
+I1
 sS'data analysis'
 p16
-F0.0077472716034763731
-sS'product development'
-p17
-F0.0057467841405030836
+I1
 sS'python'
-p18
-F0.0020180990648621753
+p17
+I1
 sS'data scientist'
-p19
-F0.00051407581824105999
-sS'product management'
-p20
-F0.0082299012298959386
-sS'sql'
-p21
-F0.0026236968793019871
-sS'modeling'
-p22
-F0.0026824032719504043
-sS'data'
-p23
-F0.0028615306761452389
-sS'organization'
-p24
-F0.005952568909528326
-sS'marketing analytics'
-p25
-F0.020266904505827178
-sS'engineering'
-p26
-F0.0028950378071690248
-sS'hive'
-p27
-F0.0054865447889250046
-sS'r'
-F0.0022139965216806724
-sS'advertising'
-p28
-F0.0082081157561055568
+p18
+I1
 sS'oracle'
-p29
-F0.0073078392813025403
-sS'statistical inference'
-p30
-F0.011509316876533665
-sS'statistical analysis'
-p31
-F0.0050888302595027005
-ssS'working-year'
-p32
-(dp33
-V(5, 10]
-p34
-F0.0033574707120259959
-sV(0, 2]
-p35
-F0.0051279232887893357
-sV(2, 5]
-p36
-F0.0021803715334690662
-ssS'major'
-p37
-(dp38
-S'management'
-p39
-F0.0023659278030811822
-sS'big data'
-p40
-F0.0061199619643891078
-sS'biostatistics'
-p41
-F0.011890425451410631
-sS'marketing analytics'
-p42
-F0.020266904505827178
-sS'high performance computing'
-p43
-F0.024031516596778647
-sS'phd'
-p44
-F0.0046794238325529765
-sS'business'
-p45
-F0.0043767293205355185
-sS'analytics'
-p46
-F0.0028207751216030755
-sS'engineering'
-p47
-F0.0028950378071690248
-sS'design'
-p48
-F0.0018925518226022352
-sS'statistic'
-p49
-F0.0024683776169290108
-ssS'education'
-p50
-(dp51
-VBachelor
-p52
-F0.00094431990920040203
-sVDoctor
-p53
-F0.0035351796038372006
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-F0.00128468823909237
-sS'product'
-p57
-F0.0047713805600480752
-sS'data analysis'
-p58
-F0.0077472716034763731
-sS'predict'
-p59
-F0.0094791212698089929
-sVinsight
-p60
-F0.0086755106622920658
-sS'analysis'
-p61
-F0.0013925277778479783
-sS'improvement'
-p62
-F0.0054023143391074479
-sS'cross-functionally'
-p63
-F0.011973349218737378
-sS'statistical method'
-p64
-F0.0069546575862639631
-sS'design'
-p65
-F0.0018925518226022352
+p19
+I1
+sS'sql'
+p20
+I1
 sS'modeling'
-p66
-F0.0026824032719504043
+p21
+I1
+sS'data'
+p22
+I1
+sS'organization'
+p23
+I1
+sS'marketing analytics'
+p24
+I1
+sS'engineering'
+p25
+I1
+sS'hive'
+p26
+I1
+sS'r'
+I1
+sS'advertising'
+p27
+I1
+sS'product management'
+p28
+I1
+sS'statistical inference'
+p29
+I1
+sS'statistical analysis'
+p30
+I1
+ssS'working-year'
+p31
+(dp32
+V(5, 10]
+p33
+I1
+sV(0, 2]
+p34
+I1
+sV(2, 5]
+p35
+I1
+ssS'major'
+p36
+(dp37
+S'management'
+p38
+I1
+sS'big data'
+p39
+I1
+sS'biostatistics'
+p40
+I1
+sS'marketing analytics'
+p41
+I1
+sS'high performance computing'
+p42
+I1
+sS'phd'
+p43
+I1
+sS'business'
+p44
+I1
+sS'analytics'
+p45
+I1
+sS'engineering'
+p46
+I1
+sS'design'
+p47
+I1
+sS'statistic'
+p48
+I1
+ssS'education'
+p49
+(dp50
+VBachelor
+p51
+I1
+sVDoctor
+p52
+I1
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+I1
+sS'product'
+p56
+I1
+sS'data analysis'
+p57
+I1
+sS'predict'
+p58
+I1
+sVinsight
+p59
+I1
+sS'analysis'
+p60
+I1
+sS'improvement'
+p61
+I1
+sS'cross-functionally'
+p62
+I1
+sS'statistical method'
+p63
+I1
+sS'design'
+p64
+I1
+sS'modeling'
+p65
+I1
 sS'understand'
-p67
-F0.0037250465043780732
+p66
+I1
 ss.

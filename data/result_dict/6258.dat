@@ -4,19 +4,19 @@ p2
 (lp3
 S'supply chain'
 p4
-aS'r d'
-p5
 aS'nosql'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'grid computing'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'data mining'
+p10
+aS'modeling'
 p11
 aS'open source'
 p12
@@ -42,7 +42,7 @@ aS'bioinformatics'
 p22
 aS'sequencing'
 p23
-aS'modeling'
+aS'java'
 p24
 aS'spark'
 p25
@@ -52,66 +52,64 @@ aS'data'
 p27
 aS'github'
 p28
-aS'java'
+aS'science'
 p29
-aS'science'
-p30
 aS'eclipse'
+p30
+aS'analysis'
 p31
-aS'analysis'
-p32
 aS'data engineering'
-p33
+p32
 aS'architecture'
-p34
+p33
 asS'working-year'
-p35
-(lp36
+p34
+(lp35
 V(0, 2]
-p37
+p36
 aV(2, 5]
-p38
+p37
 asS'major'
-p39
-(lp40
+p38
+(lp39
 S'business'
-p41
+p40
 aS'big data'
-p42
+p41
 aS'computing'
-p43
+p42
 aS'science'
-p44
+p43
 aS'data science'
-p45
+p44
 aS'bioinformatics'
-p46
+p45
 aS'analytics'
-p47
+p46
 aS'engineering'
+p47
+aS'data mining'
 p48
-aS'data mining'
-p49
 asS'education'
-p50
-(lp51
+p49
+(lp50
 S'Bachelor'
-p52
+p51
 asS'responsibility'
-p53
-(lp54
+p52
+(lp53
 S'development'
-p55
+p54
 aS'business problem'
-p56
+p55
 aS'processing'
-p57
+p56
 aS'analysis'
-p58
+p57
 aS'data mining'
-p59
+p58
 aS'modeling'
-p60
+p59
 aS'presentation'
-p61
+p60
 as.

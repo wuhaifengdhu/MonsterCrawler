@@ -2,96 +2,94 @@
 S'skills'
 p2
 (lp3
-S'r d'
-p4
-aS'communication'
-p5
-aS'data warehousing'
-p6
-aS'experimentation'
-p7
-aS'management'
-p8
-aS'clinical trials'
-p9
-aS'clinical development'
-p10
-aS'governance'
-p11
-aS'research'
-p12
-aS'innovation'
-p13
-aS'policy'
-p14
-aS'data management'
-p15
-aS'clinical research'
-p16
-aS'data scientist'
-p17
-aS'leadership'
-p18
-aS'mentoring'
-p19
-aS'data'
-p20
-aS'statistical programming'
-p21
-aS'fda'
-p22
-aS'training'
-p23
-aS'data collection'
-p24
-aS'science'
-p25
-aS'programming'
-p26
-aS'validation'
-p27
-asS'working-year'
-p28
-(lp29
-V(5, 10]
-p30
-asS'major'
-p31
-(lp32
 S'communication'
-p33
-aS'statistical science'
-p34
+p4
+aS'data warehousing'
+p5
+aS'experimentation'
+p6
 aS'management'
-p35
-aS'design'
-p36
-aS'science'
-p37
-asS'education'
-p38
-(lp39
-VBachelor
-p40
-aVMaster
-p41
-asS'responsibility'
-p42
-(lp43
-S'development'
-p44
-aS'product'
-p45
+p7
+aS'clinical trials'
+p8
+aS'clinical development'
+p9
+aS'governance'
+p10
+aS'research'
+p11
+aS'innovation'
+p12
+aS'policy'
+p13
+aS'data management'
+p14
+aS'clinical research'
+p15
+aS'data scientist'
+p16
+aS'leadership'
+p17
+aS'mentoring'
+p18
+aS'data'
+p19
+aS'statistical programming'
+p20
+aS'fda'
+p21
+aS'training'
+p22
 aS'data collection'
-p46
-aS'mapping'
-p47
-aS'improvement'
-p48
+p23
+aS'science'
+p24
+aS'programming'
+p25
+aS'validation'
+p26
+asS'working-year'
+p27
+(lp28
+V(5, 10]
+p29
+asS'major'
+p30
+(lp31
+S'communication'
+p32
+aS'statistical science'
+p33
+aS'management'
+p34
 aS'design'
-p49
+p35
+aS'science'
+p36
+asS'education'
+p37
+(lp38
+VBachelor
+p39
+aVMaster
+p40
+asS'responsibility'
+p41
+(lp42
+S'development'
+p43
+aS'product'
+p44
+aS'data collection'
+p45
+aS'mapping'
+p46
+aS'improvement'
+p47
+aS'design'
+p48
 aS'implement'
-p50
+p49
 aS'presentation'
-p51
+p50
 as.

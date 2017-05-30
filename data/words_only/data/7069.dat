@@ -4,262 +4,259 @@ p2
 (dp3
 S'logistics'
 p4
-F0.013602745243459611
+I1
 sS'supply chain'
 p5
-F0.01189173254217641
-sS'r d'
-p6
-F0.0012912412322788596
+I1
 sS'model validation'
-p7
-F0.015129483386120119
+p6
+I1
 sS'excel'
+p7
+I1
+sS'data science'
 p8
-F0.0061292739262787648
-sS'data science'
-p9
-F0.0058522880890173132
+I1
 sS'testing'
+p9
+I1
+sS'engineering'
 p10
-F0.005249563468672714
-sS'engineering'
-p11
-F0.0032774012911347449
+I1
 sS'statistical analysis'
+p11
+I1
+sS'data mining'
 p12
-F0.0057609399164181519
-sS'data mining'
-p13
-F0.013954631284795918
+I1
 sS'perl'
-p14
-F0.009292206516345913
+p13
+I1
 sS'research'
-p15
-F0.0029982968401979894
+p14
+I1
 sS'java'
+p15
+I1
+sS'big data'
 p16
-F0.0044320174046226868
-sS'big data'
-p17
-F0.0069282588276103107
+I1
 sS'predictive modeling'
-p18
-F0.0068029441794020939
+p17
+I1
 sS'recruiting'
-p19
-F0.0087209488833172484
+p18
+I1
 sS'continuous improvement'
+p19
+I1
+sS'supply chain management'
 p20
-F0.010579506864555928
-sS'supply chain management'
-p21
-F0.035640485203262032
+I1
 sS'matlab'
+p21
+I1
+sS'communication'
 p22
-F0.0069569117209536593
-sS'communication'
+I1
+sS'advanced analytics'
 p23
-F0.004931087378142256
-sS'advanced analytics'
+I1
+sS'computer science'
 p24
-F0.013718187623230597
-sS'computer science'
+I1
+sS'data analysis'
 p25
-F0.0051999776569500705
-sS'data analysis'
-p26
-F0.0087704961548789127
+I1
 sS'python'
-p27
-F0.0022846404507873685
+p26
+I1
 sS'data scientist'
-p28
-F0.00058197262442384145
+p27
+I1
 sS'collaboration'
-p29
-F0.0056976593795784345
+p28
+I1
 sS'aws'
+p29
+I1
+sS'machine learning'
 p30
-F0.007504581169490817
-sS'machine learning'
-p31
-F0.0049845175943757473
+I1
 sS'leadership'
-p32
-F0.0047921913294659514
+p31
+I1
 sS'minitab'
-p33
-F0.016034137593284502
+p32
+I1
 sS'sql'
-p34
-F0.0029702228822286649
+p33
+I1
 sS'weka'
-p35
-F0.013111097971836971
+p34
+I1
 sS'manufacturing'
+p35
+I1
+sS'project management'
 p36
-F0.054048492854213023
-sS'project management'
+I1
+sS'data collection'
 p37
-F0.014592004054721124
-sS'data collection'
-p38
-F0.019095995236978719
+I1
 sS'decision support'
-p39
-F0.012216814669395068
+p38
+I1
 sS'data visualization'
-p40
-F0.0053813080021510107
+p39
+I1
 sS'cloud computing'
+p40
+I1
+sS'documentation'
 p41
-F0.011123369485869377
-sS'documentation'
-p42
-F0.0070639119936644892
+I1
 sS'programming'
+p42
+I1
+sS'analysis'
 p43
-F0.0032683499072382436
-sS'analysis'
-p44
-F0.0015764465409599754
+I1
 sS'spss'
-p45
-F0.0076468847002393462
+p44
+I1
 sS'procurement'
-p46
-F0.029244710650245715
+p45
+I1
 sS'r'
-F0.0025064111566196292
+I1
 sS'organization'
-p47
-F0.0033693786280349016
+p46
+I1
 sS'validation'
-p48
-F0.0079684894315769066
+p47
+I1
 sS'quality assurance'
-p49
-F0.010952194709349565
+p48
+I1
 ssS'working-year'
-p50
-(dp51
+p49
+(dp50
 V(5, 10]
-p52
-F0.0038009102400294293
+p51
+I1
 sV(2, 5]
-p53
-F0.0024683451322291316
+p52
+I1
 ssS'major'
-p54
-(dp55
+p53
+(dp54
 S'mathematics computer science'
-p56
-F0.011145436684629584
+p55
+I1
 sS'business'
-p57
-F0.0074321818650603137
+p56
+I1
 sS'big data'
-p58
-F0.0069282588276103107
+p57
+I1
 sS'computing'
-p59
-F0.0066989461089102913
+p58
+I1
 sS'communication'
-p60
-F0.004931087378142256
+p59
+I1
 sS'data science'
-p61
-F0.0058522880890173132
+p60
+I1
 sS'statistic'
-p62
-F0.0027943897550139745
+p61
+I1
 sS'machine learning statistics'
-p63
-F0.014689984261487914
+p62
+I1
 sS'machine learning data mining'
-p64
-F0.010052776789008563
+p63
+I1
 sS'supply chain management'
-p65
-F0.035640485203262032
+p64
+I1
 sS'engineering'
-p66
-F0.0032774012911347449
+p65
+I1
 sS'computer science engineering'
-p67
-F0.0095214615752570141
+p66
+I1
 sS'computer science'
+p67
+I1
+sS'data mining'
 p68
-F0.0051999776569500705
-sS'data mining'
-p69
-F0.013954631284795918
+I1
 sS'advanced analytics'
-p70
-F0.013718187623230597
+p69
+I1
 sS'machine learning'
-p71
-F0.0049845175943757473
+p70
+I1
 sS'project management'
-p72
-F0.014592004054721124
+p71
+I1
 sS'data mining machine learning'
-p73
-F0.010470436621543164
+p72
+I1
 ssS'education'
-p74
-(dp75
+p73
+(dp74
 VBachelor
-p76
-F0.0010690414066419646
+p75
+I1
 sVMaster
-p77
-F0.0030333263487544219
+p76
+I1
 sVDoctor
-p78
-F0.0040020901175515482
+p77
+I1
 ssS'responsibility'
-p79
-(dp80
+p78
+(dp79
 S'development'
-p81
-F0.0029087280885110264
+p80
+I1
 sS'data analysis'
-p82
-F0.0087704961548789127
+p81
+I1
 sS'extract'
-p83
-F0.0074289753945992734
+p82
+I1
 sVinsight
-p84
-F0.0098213328252363015
+p83
+I1
 sS'analysis'
-p85
-F0.0015764465409599754
+p84
+I1
 sS'improvement'
-p86
-F0.0061158275537065449
+p85
+I1
 sS'data collection'
-p87
-F0.019095995236978719
+p86
+I1
 sS'data mining'
-p88
-F0.013954631284795918
+p87
+I1
 sS'report'
-p89
-F0.0080224713002169136
+p88
+I1
 sS'implement'
-p90
-F0.0041854128112330238
+p89
+I1
 sS'presentation'
-p91
-F0.010643372340535128
+p90
+I1
 sS'model'
-p92
-F0.0069495714350864919
+p91
+I1
 sS'documentation'
-p93
-F0.0070639119936644892
+p92
+I1
 ss.

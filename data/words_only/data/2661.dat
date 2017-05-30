@@ -2,91 +2,82 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'software engineering'
 p4
-F0.0014985938389221801
-sS'software engineering'
-p5
-F0.020031891313199421
+I1
 sS'government'
+p5
+I1
+sS'communication'
 p6
-F0.0142793911013548
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0028614704128635715
-sS'data science'
-p8
-F0.0067920715777646185
+I1
 sS'data scientist'
-p9
-F0.00067542808236051668
+p8
+I1
 sS'communication skills'
-p10
-F0.010755985177563022
+p9
+I1
 sS'writing'
+p10
+I1
+sS'computer science'
 p11
-F0.015315711780912164
-sS'computer science'
-p12
-F0.0060350105653654094
+I1
 sS'organization'
-p13
-F0.0078208934577744423
+p12
+I1
 sS'data'
-p14
-F0.0018798376704603759
-sS'information technology'
-p15
-F0.018514940374481932
+p13
+I1
 ssS'working-year'
-p16
-(dp17
+p14
+(dp15
 V(2, 5]
-p18
-F0.0028647217228060717
+p16
+I1
 ssS'major'
-p19
-(dp20
+p17
+(dp18
 S'information'
-p21
-F0.0022938196452307958
+p19
+I1
 sS'software engineering'
-p22
-F0.020031891313199421
+p20
+I1
 sS'communication'
-p23
-F0.0028614704128635715
+p21
+I1
 sS'data science'
-p24
-F0.0067920715777646185
+p22
+I1
 sS'computer science software engineering'
-p25
-F0.019910689297385063
+p23
+I1
 sS'computer science'
-p26
-F0.0060350105653654094
+p24
+I1
 sS'mathematics computer science'
-p27
-F0.012935214838365719
-sS'information technology'
-p28
-F0.018514940374481932
+p25
+I1
 ssS'education'
+p26
+(dp27
+VBachelor
+p28
+I1
+ssS'responsibility'
 p29
 (dp30
-VBachelor
-p31
-F0.001240712289460382
-ssS'responsibility'
-p32
-(dp33
 S'information'
-p34
-F0.0022938196452307958
+p31
+I1
 sS'product'
-p35
-F0.0020896557197290842
+p32
+I1
 sS'model'
-p36
-F0.0026885203362013435
+p33
+I1
 ss.

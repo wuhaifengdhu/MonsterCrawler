@@ -4,196 +4,193 @@ p2
 (dp3
 S'digital marketing'
 p4
-F0.0096173867399952373
+I1
 sS'customer insight'
 p5
-F0.011862663727885718
-sS'r d'
-p6
-F0.0011097694915261551
+I1
 sS'nosql'
-p7
-F0.006355875542834637
+p6
+I1
 sS'intelligence'
+p7
+I1
+sS'analytics'
 p8
-F0.0051618759227629622
-sS'analytics'
-p9
-F0.0027445379561543437
+I1
 sS'business intelligence'
+p9
+I1
+sS'data mining'
 p10
-F0.0062930915869912297
-sS'data mining'
+I1
+sS'accounting'
 p11
-F0.011993439860986763
-sS'accounting'
+I1
+sS'machine learning'
 p12
-F0.011998961682636752
-sS'machine learning'
+I1
+sS'big data'
 p13
-F0.0042839907973283454
-sS'big data'
-p14
-F0.0059545575869731863
+I1
 sS'product marketing'
-p15
-F0.011952761061277501
+p14
+I1
 sS'hadoop'
-p16
-F0.0032156789245906927
+p15
+I1
 sS'strategy'
+p16
+I1
+sS'big data analytics'
 p17
-F0.0037956739354224217
-sS'big data analytics'
-p18
-F0.01781663445578607
+I1
 sS'innovation'
-p19
-F0.0033737300537702579
+p18
+I1
 sS'segmentation'
-p20
-F0.0076122353522721821
+p19
+I1
 sS'data modeling'
-p21
-F0.0072513627903733526
+p20
+I1
 sS'product development'
+p21
+I1
+sS'marketing'
 p22
-F0.0055914656502192165
-sS'marketing'
-p23
-F0.0046098435781335417
+I1
 sS'data scientist'
-p24
-F0.00050018187720751782
+p23
+I1
 sS'leadership'
-p25
-F0.0041186941696491151
+p24
+I1
 sS'statistical modeling'
-p26
-F0.0063214490424519211
+p25
+I1
 sS'sql'
+p26
+I1
+sS'modeling'
 p27
-F0.0025527861528343659
-sS'modeling'
-p28
-F0.0026099058862220151
+I1
 sS'data'
-p29
-F0.0069604800230559875
+p28
+I1
 sS'customer experience'
+p29
+I1
+sS'economics'
 p30
-F0.0083713913987634066
-sS'economics'
-p31
-F0.0066418914902303654
+I1
 sS'spss'
-p32
-F0.0065721873910165188
+p31
+I1
 sS'r'
-F0.0021541587778514649
+I1
 sS'executive management'
+p32
+I1
+sS'data analytics'
 p33
-F0.013523097797926037
-sS'data analytics'
+I1
+sS'predictive analytics'
 p34
-F0.0082677492680367729
-sS'predictive analytics'
-p35
-F0.013780987054706683
+I1
 ssS'working-year'
-p36
-(dp37
+p35
+(dp36
 V(5, 10]
-p38
-F0.0032667282603496177
+p37
+I1
 sV(15, 20]
-p39
-F0.011862663727885718
+p38
+I1
 ssS'major'
-p40
-(dp41
+p39
+(dp40
 S'business intelligence analytics'
+p41
+I1
+sS'information'
 p42
-F0.012294091604868791
-sS'information'
+I1
+sS'data mining'
 p43
-F0.0016986664399817244
-sS'data mining'
-p44
-F0.011993439860986763
+I1
 sS'business'
-p45
-F0.0053230491736242789
+p44
+I1
 sS'big data'
-p46
-F0.0059545575869731863
+p45
+I1
 sS'marketing'
-p47
-F0.0046098435781335417
+p46
+I1
 sS'economics'
-p48
-F0.0066418914902303654
+p47
+I1
 sS'machine learning'
-p49
-F0.0042839907973283454
+p48
+I1
 sS'big data analytics'
-p50
-F0.01781663445578607
+p49
+I1
 sS'analytics'
-p51
-F0.0027445379561543437
+p50
+I1
 sS'information science'
-p52
-F0.014273449443703026
+p51
+I1
 sS'business management'
-p53
-F0.012242610546722659
+p52
+I1
 sS'statistic'
-p54
-F0.0024016647083633619
+p53
+I1
 sS'accounting'
-p55
-F0.011998961682636752
+p54
+I1
 sS'data analytics'
-p56
-F0.0082677492680367729
+p55
+I1
 sS'predictive analytics'
-p57
-F0.013780987054706683
+p56
+I1
 ssS'education'
-p58
-(dp59
+p57
+(dp58
 VBachelor
-p60
-F0.00091879774949228307
+p59
+I1
 sVMaster
-p61
-F0.0026070210240646111
+p60
+I1
 ssS'responsibility'
-p62
-(dp63
+p61
+(dp62
 S'development'
-p64
-F0.0012499669353331169
+p63
+I1
 sS'information'
-p65
-F0.0016986664399817244
+p64
+I1
 sS'product'
-p66
-F0.0046424243286954251
+p65
+I1
 sS'data infrastructure'
-p67
-F0.0095790509884113723
+p66
+I1
 sVinsight
-p68
-F0.0028136791337163461
+p67
+I1
 sS'statistical model'
-p69
-F0.0050279103584455155
+p68
+I1
 sS'data mining'
-p70
-F0.011993439860986763
+p69
+I1
 sS'modeling'
-p71
-F0.0026099058862220151
+p70
+I1
 ss.

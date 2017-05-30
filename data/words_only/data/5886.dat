@@ -4,226 +4,223 @@ p2
 (dp3
 S'reporting analysis'
 p4
-F0.012293725270841851
-sS'r d'
-p5
-F0.0010088813559328681
+I1
 sS'regression analysis'
-p6
-F0.010666282482800963
+p5
+I1
 sS'programming'
+p6
+I1
+sS'data science'
 p7
-F0.0051072986265442814
-sS'data science'
-p8
-F0.0045725494159889572
+I1
 sS'tableau'
+p8
+I1
+sS'analytics'
 p9
-F0.0048855985782184606
-sS'analytics'
-p10
-F0.0099801380223794312
+I1
 sS'data governance'
+p10
+I1
+sS'data mining'
 p11
-F0.0092263840336762812
-sS'data mining'
-p12
-F0.010903127146351603
+I1
 sS'sap'
-p13
-F0.02048810395599094
+p12
+I1
 sS'regression'
-p14
-F0.0058853684165961475
+p13
+I1
 sS'visualization'
+p14
+I1
+sS'big data'
 p15
-F0.012217845501732659
-sS'big data'
-p16
-F0.0054132341699756233
+I1
 sS'predictive modeling'
-p17
-F0.005315322479237999
+p16
+I1
 sS'excel'
-p18
-F0.0095779317373791001
+p17
+I1
 sS'integration'
-p19
-F0.0047334460233693833
+p18
+I1
 sS'governance'
-p20
-F0.0074810160330451621
+p19
+I1
 sS'strategy'
-p21
-F0.0034506126685658377
+p20
+I1
 sS'access'
-p22
-F0.01791769144544287
+p21
+I1
 sS'stata'
+p22
+I1
+sS'advanced analytics'
 p23
-F0.018582658223155274
-sS'advanced analytics'
-p24
-F0.010718387381295649
+I1
 sS'unstructured data'
-p25
-F0.005901875394305707
+p24
+I1
 sS'data analysis'
-p26
-F0.0068526235313304523
+p25
+I1
 sS'web services'
-p27
-F0.0090019429019900388
+p26
+I1
 sS'python'
-p28
-F0.0035701015398053224
+p27
+I1
 sS'data scientist'
-p29
-F0.0004547107974613798
+p28
+I1
 sS'data quality'
-p30
-F0.0072506713396327397
+p29
+I1
 sS'sql'
+p30
+I1
+sS'modeling'
 p31
-F0.0069621440531846346
-sS'modeling'
-p32
-F0.0094905668589891461
+I1
 sS'spark'
-p33
-F0.0038931907847483726
+p32
+I1
 sS'data'
-p34
-F0.00063277091118690788
+p33
+I1
 sS'statistical programming'
-p35
-F0.0098560903452539223
+p34
+I1
 sS'organization'
-p36
-F0.0026325857585137555
+p35
+I1
 sS'word'
-p37
-F0.014736307951843242
+p36
+I1
 sS'data visualization'
-p38
-F0.0042045600606487009
+p37
+I1
 sS'sql server'
-p39
-F0.0080318831985219732
+p38
+I1
 sS'business strategy'
+p39
+I1
+sS'analysis'
 p40
-F0.0083693611670981136
-sS'analysis'
-p41
-F0.0012317199017819955
+I1
 sS'spss'
-p42
-F0.011949431620030032
+p41
+I1
 sS'r'
-F0.0019583261616831498
+I1
 sS'dashboard'
-p43
-F0.0069454127031150364
+p42
+I1
 sS'oracle'
-p44
-F0.0064639364650341882
+p43
+I1
 sS'hadoop'
-p45
-F0.0029233444769006293
+p44
+I1
 sS'microsoft office'
-p46
-F0.0084304058471423148
+p45
+I1
 sS'powerpoint'
+p46
+I1
+sS'data analytics'
 p47
-F0.013941745193429569
-sS'data analytics'
-p48
-F0.0075161356982152479
+I1
 ssS'working-year'
-p49
-(dp50
+p48
+(dp49
 V(5, 10]
-p51
-F0.0029697529639541977
+p50
+I1
 sV(2, 5]
-p52
-F0.0019285841573682156
+p51
+I1
 ssS'major'
-p53
-(dp54
+p52
+(dp53
 S'business'
-p55
-F0.00096782712247714159
+p54
+I1
 sS'big data'
-p56
-F0.0054132341699756233
+p55
+I1
 sS'data science'
-p57
-F0.0045725494159889572
+p56
+I1
 sS'data science analytics'
-p58
-F0.0090412547802190095
+p57
+I1
 sS'analytics'
+p58
+I1
+sS'design'
 p59
-F0.0099801380223794312
-sS'design'
+I1
+sS'data mining'
 p60
-F0.001674001612129741
-sS'data mining'
-p61
-F0.010903127146351603
+I1
 sS'advanced analytics'
-p62
-F0.010718387381295649
+p61
+I1
 sS'data analytics'
-p63
-F0.0075161356982152479
+p62
+I1
 ssS'education'
-p64
-(dp65
+p63
+(dp64
 VBachelor
-p66
-F0.00083527068135662091
+p65
+I1
 sVMaster
-p67
-F0.0023700191127860098
+p66
+I1
 ssS'responsibility'
-p68
-(dp69
+p67
+(dp68
 S'data analysis'
-p70
-F0.0068526235313304523
+p69
+I1
 sVinsight
-p71
-F0.005115780243120629
+p70
+I1
 sS'communicate'
-p72
-F0.0030341725137447862
+p71
+I1
 sS'analysis'
-p73
-F0.0012317199017819955
+p72
+I1
 sS'design'
-p74
-F0.001674001612129741
+p73
+I1
 sS'data mining'
-p75
-F0.010903127146351603
+p74
+I1
 sS'report'
-p76
-F0.0031340858396424797
+p75
+I1
 sS'understand'
-p77
-F0.0065897628578678443
+p76
+I1
 sS'modeling'
-p78
-F0.0094905668589891461
+p77
+I1
 sS'presentation'
-p79
-F0.0041579759266464015
+p78
+I1
 sS'data gathering'
-p80
-F0.0097746367900899394
+p79
+I1
 sS'decision-making'
-p81
-F0.0072989415611130143
+p80
+I1
 ss.

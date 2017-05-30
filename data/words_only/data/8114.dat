@@ -2,216 +2,213 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'classification'
 p4
-F0.0013160727944380684
-sS'classification'
+I1
+sS'communication'
 p5
-F0.0085146564306805561
-sS'intelligence'
-p6
-F0.0061214554212253068
+I1
 sS'integration'
+p6
+I1
+sS'analytics'
 p7
-F0.0061747196522799327
-sS'analytics'
-p8
-F0.0032547405249266251
+I1
 sS'business intelligence'
-p9
-F0.0074629611768806236
+p8
+I1
 sS'sap'
-p10
-F0.013363234471295372
+p9
+I1
 sS'regression'
-p11
-F0.0076773876460084359
+p10
+I1
 sS'clustering'
-p12
-F0.008213422869907035
+p11
+I1
 sS'open source'
+p12
+I1
+sS'big data'
 p13
-F0.0080890265475561211
-sS'big data'
-p14
-F0.0070614945742951242
+I1
 sS'agile'
+p14
+I1
+sS'information management'
 p15
-F0.0061170564456377282
-sS'information management'
-p16
-F0.028917140850844975
+I1
 sS'research'
+p16
+I1
+sS'big data analytics'
 p17
-F0.0030559563948171814
-sS'big data analytics'
-p18
-F0.021128701117438607
+I1
 sS'teamwork'
+p18
+I1
+sS'intelligence'
 p19
-F0.0086474230762798258
-sS'communication'
+I1
+sS'advanced analytics'
 p20
-F0.0025129579907840339
-sS'advanced analytics'
-p21
-F0.013981998923677338
+I1
 sS'statistical learning'
+p21
+I1
+sS'data analysis'
 p22
-F0.016451144560521071
-sS'data analysis'
-p23
-F0.0089391595424727372
+I1
 sS'python'
-p24
-F0.0023285758440717407
+p23
+I1
 sS'data scientist'
-p25
-F0.00059316440566276149
+p24
+I1
 sS'gas'
-p26
-F0.027828057503205078
+p25
+I1
 sS'data quality'
-p27
-F0.0094584078052260406
+p26
+I1
 sS'organization'
-p28
-F0.0034341743708817263
+p27
+I1
 sS'spark'
-p29
-F0.0050786174660018835
+p28
+I1
 sS'data'
+p29
+I1
+sS'project management'
 p30
-F0.001650883082391484
-sS'project management'
-p31
-F0.014872619517311914
+I1
 sS'software development'
+p31
+I1
+sS'engineering'
 p32
-F0.0070610518739527284
-sS'engineering'
+I1
+sS'analysis'
 p33
-F0.0033404282390411821
-sS'analysis'
+I1
+sS'machine learning'
 p34
-F0.0016067628205938208
-sS'machine learning'
-p35
-F0.0050803737019598956
+I1
 sS'r'
-F0.0025546113711700062
+I1
 sS'hadoop'
+p35
+I1
+sS'data analytics'
 p36
-F0.0038134653913415263
-sS'data analytics'
-p37
-F0.0098047026576077115
+I1
 ssS'working-year'
-p38
-(dp39
+p37
+(dp38
 V(5, 10]
-p40
-F0.0038740046677223027
+p39
+I1
 sV(2, 5]
-p41
-F0.0025158133078489221
+p40
+I1
 ssS'major'
-p42
-(dp43
+p41
+(dp42
 S'information'
-p44
-F0.0020144441756193526
+p43
+I1
 sS'business'
-p45
-F0.011362662659082595
+p44
+I1
 sS'big data'
-p46
-F0.0070614945742951242
+p45
+I1
 sS'communication'
-p47
-F0.0025129579907840339
+p46
+I1
 sS'information management'
-p48
-F0.028917140850844975
+p47
+I1
 sS'machine learning'
-p49
-F0.0050803737019598956
+p48
+I1
 sS'big data analytics'
-p50
-F0.021128701117438607
+p49
+I1
 sS'analytics'
-p51
-F0.0032547405249266251
+p50
+I1
 sS'engineering'
-p52
-F0.0033404282390411821
+p51
+I1
 sS'information science'
-p53
-F0.016926847096699102
+p52
+I1
 sS'data analytics'
-p54
-F0.0098047026576077115
+p53
+I1
 sS'statistic'
-p55
-F0.0028481280195334739
+p54
+I1
 sS'advanced analytics'
-p56
-F0.013981998923677338
+p55
+I1
 sS'phd'
-p57
-F0.0053993351914072805
+p56
+I1
 sS'project management'
-p58
-F0.014872619517311914
+p57
+I1
 ssS'education'
-p59
-(dp60
+p58
+(dp59
 VMaster
-p61
-F0.0030916595477689297
+p60
+I1
 sVDoctor
-p62
-F0.0040790533890429238
+p61
+I1
 ssS'responsibility'
-p63
-(dp64
+p62
+(dp63
 S'development'
-p65
-F0.0014823325835681192
+p64
+I1
 sS'information'
-p66
-F0.0020144441756193526
+p65
+I1
 sS'data analysis'
-p67
-F0.0089391595424727372
+p66
+I1
 sS'business problem'
-p68
-F0.005925104563154507
+p67
+I1
 sS'pattern'
-p69
-F0.0058192245471406943
+p68
+I1
 sS'communicate'
-p70
-F0.0039580391445324615
+p69
+I1
 sS'analysis'
-p71
-F0.0016067628205938208
+p70
+I1
 sS'analytic'
-p72
-F0.0047900077025846907
+p71
+I1
 sS'problem statement'
-p73
-F0.017806448458732523
+p72
+I1
 sS'understand'
-p74
-F0.0042981305819746992
+p73
+I1
 sS'report'
-p75
-F0.0040883747972259273
+p74
+I1
 sS'model'
-p76
-F0.0023610723465357954
+p75
+I1
 sS'transformation'
-p77
-F0.015543522449705813
+p76
+I1
 ss.

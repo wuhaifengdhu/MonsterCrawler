@@ -2,183 +2,177 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'intelligence'
 p4
-F0.0008362825088893632
-sS'intelligence'
+I1
+sS'data science'
 p5
-F0.0038898046668478527
-sS'data science'
-p6
-F0.003790280269465388
+I1
 sS'health insurance'
-p7
-F0.0093442651732003178
-sS'security clearance'
-p8
-F0.006050242801166999
-sS'data mining'
-p9
-F0.0090378263718230191
-sS'insurance'
-p10
-F0.005145249239966742
-sS'big data'
-p11
-F0.0044871411551529097
-sS'scala'
-p12
-F0.0045477672119742111
-sS'agile'
-p13
-F0.007774018782236135
-sS'recruiting'
-p14
-F0.0056481909264661598
-sS'hadoop'
-p15
-F0.0048464407417456463
-sS'access'
-p16
-F0.0037130857526961542
-sS'computer science'
-p17
-F0.0033678063032792707
-sS'innovation'
-p18
-F0.0050846440728920372
-sS'mathematics'
-p19
-F0.003301199532630784
-sS'geospatial intelligence'
-p20
-F0.011314891892310686
-sS'python'
-p21
-F0.001479665302139273
-sS'data scientist'
-p22
-F0.00037691913353723333
-sS'apache spark'
-p23
-F0.0075109729171651081
-sS'automation'
-p24
-F0.0056816322971002748
-sS'apache'
-p25
-F0.0064312735287199553
-sS'spark'
-p26
-F0.0032271459254431516
-sS'statistical programming'
-p27
-F0.0081699160295689334
-sS'information technology'
-p28
-F0.01033216631895733
-sS'training'
-p29
-F0.0036524462554557388
-sS'programming'
-p30
-F0.0021167724450137705
+p6
+I1
 sS'dod'
-p31
-F0.014956247361733271
-sS'machine learning'
-p32
-F0.0032282619043003816
-sS'r'
-F0.0016232968387068065
-sS'application development'
-p33
-F0.0065209172239618354
-sS'security'
-p34
-F0.0032494889826306782
-sS'data analytics'
-p35
-F0.0062302794891519464
-ssS'working-year'
-p36
-(dp37
-V[0]
-p38
-F0.0029046241799642464
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-F0.0012800541401084276
-sS'business'
-p42
-F0.0016045036205629189
+p7
+I1
+sS'data mining'
+p8
+I1
+sS'insurance'
+p9
+I1
 sS'big data'
-p43
-F0.0044871411551529097
-sS'data science'
-p44
-F0.003790280269465388
-sS'automation'
-p45
-F0.0056816322971002748
-sS'machine learning'
-p46
-F0.0032282619043003816
-sS'information science'
-p47
-F0.010755959865926923
-sS'design'
-p48
-F0.0013876143709507221
-sS'information technology'
-p49
-F0.01033216631895733
-sS'data mining'
-p50
-F0.0090378263718230191
-sS'mathematics'
-p51
-F0.003301199532630784
-sS'mathematics computer science'
-p52
-F0.007218429461735656
-sS'data analytics'
-p53
-F0.0062302794891519464
+p10
+I1
+sS'scala'
+p11
+I1
+sS'agile'
+p12
+I1
+sS'recruiting'
+p13
+I1
+sS'hadoop'
+p14
+I1
+sS'access'
+p15
+I1
 sS'computer science'
-p54
-F0.0033678063032792707
-ssS'education'
-p55
-(dp56
-VBachelor
-p57
-F0.00069237304951556963
-sVMaster
-p58
-F0.0019645575945089733
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-F0.0047096513856746767
-sS'information'
-p62
-F0.0012800541401084276
-sS'pattern'
-p63
-F0.0036977557203826815
+p16
+I1
+sS'innovation'
+p17
+I1
+sS'mathematics'
+p18
+I1
+sS'geospatial intelligence'
+p19
+I1
+sS'python'
+p20
+I1
+sS'apache spark'
+p21
+I1
+sS'automation'
+p22
+I1
+sS'apache'
+p23
+I1
+sS'spark'
+p24
+I1
+sS'statistical programming'
+p25
+I1
+sS'information technology'
+p26
+I1
+sS'training'
+p27
+I1
+sS'programming'
+p28
+I1
+sS'security clearance'
+p29
+I1
+sS'machine learning'
+p30
+I1
+sS'r'
+I1
+sS'application development'
+p31
+I1
+sS'security'
+p32
+I1
+sS'data analytics'
+p33
+I1
+ssS'working-year'
+p34
+(dp35
+V[0]
+p36
+I1
+ssS'major'
+p37
+(dp38
+S'information'
+p39
+I1
+sS'business'
+p40
+I1
+sS'big data'
+p41
+I1
+sS'data science'
+p42
+I1
+sS'automation'
+p43
+I1
+sS'machine learning'
+p44
+I1
+sS'information science'
+p45
+I1
 sS'design'
-p64
-F0.0013876143709507221
-sS'solve problem'
-p65
-F0.006166649248333462
+p46
+I1
+sS'information technology'
+p47
+I1
 sS'data mining'
-p66
-F0.0090378263718230191
+p48
+I1
+sS'mathematics'
+p49
+I1
+sS'mathematics computer science'
+p50
+I1
+sS'data analytics'
+p51
+I1
+sS'computer science'
+p52
+I1
+ssS'education'
+p53
+(dp54
+VBachelor
+p55
+I1
+sVMaster
+p56
+I1
+ssS'responsibility'
+p57
+(dp58
+S'development'
+p59
+I1
+sS'information'
+p60
+I1
+sS'pattern'
+p61
+I1
+sS'design'
+p62
+I1
+sS'solve problem'
+p63
+I1
+sS'data mining'
+p64
+I1
 ss.

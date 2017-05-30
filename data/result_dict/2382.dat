@@ -2,188 +2,186 @@
 S'skills'
 p2
 (lp3
-S'r d'
-p4
-aS'communication'
-p5
-aS'data science'
-p6
-aS'sql'
-p7
-aS'advanced analytics'
-p8
-aS'analytics'
-p9
-aS'engineering'
-p10
-aS'trading'
-p11
-aS'problem solving'
-p12
-aS'econometrics'
-p13
-aS'quantitative finance'
-p14
-aS'big data'
-p15
-aS'cognitive neuroscience'
-p16
-aS'computational chemistry'
-p17
-aS'hadoop'
-p18
-aS'strategy'
-p19
-aS'computer science'
-p20
-aS'intelligence'
-p21
-aS'policy'
-p22
-aS'mathematics'
-p23
-aS'unstructured data'
-p24
-aS'customer satisfaction'
-p25
-aS'data analysis'
-p26
-aS'finance'
-p27
-aS'python'
-p28
-aS'alteryx'
-p29
-aS'data quality'
-p30
-aS'maven'
-p31
-aS'astrophysics'
-p32
-aS'data wrangling'
-p33
-aS'neuroscience'
-p34
-aS'data'
-p35
-aS'customer experience'
-p36
-aS'search'
-p37
-aS'science'
-p38
-aS'economics'
-p39
-aS'analysis'
-p40
-aS'machine learning'
-p41
-aS'optimization'
-p42
-aS'architecture'
-p43
-aS'biotechnology'
-p44
-aS'security'
-p45
-aS'chemistry'
-p46
-aS'data analytics'
-p47
-asS'working-year'
-p48
-(lp49
-V[0]
-p50
-asS'major'
-p51
-(lp52
 S'communication'
-p53
+p4
 aS'data science'
-p54
-aS'general'
-p55
-aS'analytics'
-p56
-aS'engineering'
-p57
-aS'behavioral economics'
-p58
-aS'econometrics'
-p59
-aS'quantitative finance'
-p60
-aS'big data'
-p61
-aS'cognitive neuroscience'
-p62
-aS'computational chemistry'
-p63
-aS'computer science'
-p64
+p5
+aS'sql'
+p6
 aS'advanced analytics'
-p65
+p7
+aS'analytics'
+p8
+aS'engineering'
+p9
+aS'trading'
+p10
+aS'problem solving'
+p11
+aS'econometrics'
+p12
+aS'quantitative finance'
+p13
+aS'big data'
+p14
+aS'cognitive neuroscience'
+p15
+aS'computational chemistry'
+p16
+aS'hadoop'
+p17
+aS'strategy'
+p18
+aS'computer science'
+p19
+aS'intelligence'
+p20
+aS'policy'
+p21
 aS'mathematics'
-p66
-aS'finance'
-p67
-aS'business'
-p68
-aS'finance mathematics'
-p69
-aS'astrophysics'
-p70
-aS'neuroscience'
-p71
-aVphysic
-p72
-aS'chemistry'
-p73
-aS'bio-statistics'
-p74
-aS'science'
-p75
-aS'economics'
-p76
-aS'data science analytics'
-p77
-aS'machine learning'
-p78
-aS'analytics data science'
-p79
-aS'biotechnology'
-p80
-aS'mathematics computer science'
-p81
-aS'data analytics'
-p82
-asS'education'
-p83
-(lp84
-VBachelor
-p85
-aVMaster
-p86
-asS'responsibility'
-p87
-(lp88
-S'development'
-p89
-aS'product'
-p90
+p22
+aS'unstructured data'
+p23
+aS'customer satisfaction'
+p24
 aS'data analysis'
-p91
-aS'business problem'
-p92
-aS'analysis'
-p93
-aS'analytic'
-p94
-aS'optimization'
-p95
+p25
+aS'finance'
+p26
+aS'python'
+p27
+aS'alteryx'
+p28
+aS'data quality'
+p29
+aS'maven'
+p30
+aS'astrophysics'
+p31
 aS'data wrangling'
-p96
+p32
+aS'neuroscience'
+p33
+aS'data'
+p34
+aS'customer experience'
+p35
+aS'search'
+p36
+aS'science'
+p37
+aS'economics'
+p38
+aS'analysis'
+p39
+aS'machine learning'
+p40
+aS'optimization'
+p41
+aS'architecture'
+p42
+aS'biotechnology'
+p43
+aS'security'
+p44
+aS'chemistry'
+p45
+aS'data analytics'
+p46
+asS'working-year'
+p47
+(lp48
+V[0]
+p49
+asS'major'
+p50
+(lp51
+S'communication'
+p52
+aS'data science'
+p53
+aS'general'
+p54
+aS'analytics'
+p55
+aS'engineering'
+p56
+aS'behavioral economics'
+p57
+aS'econometrics'
+p58
+aS'quantitative finance'
+p59
+aS'big data'
+p60
+aS'cognitive neuroscience'
+p61
+aS'computational chemistry'
+p62
+aS'computer science'
+p63
+aS'advanced analytics'
+p64
+aS'mathematics'
+p65
+aS'finance'
+p66
+aS'business'
+p67
+aS'finance mathematics'
+p68
+aS'astrophysics'
+p69
+aS'neuroscience'
+p70
+aVphysic
+p71
+aS'chemistry'
+p72
+aS'bio-statistics'
+p73
+aS'science'
+p74
+aS'economics'
+p75
+aS'data science analytics'
+p76
+aS'machine learning'
+p77
+aS'analytics data science'
+p78
+aS'biotechnology'
+p79
+aS'mathematics computer science'
+p80
+aS'data analytics'
+p81
+asS'education'
+p82
+(lp83
+VBachelor
+p84
+aVMaster
+p85
+asS'responsibility'
+p86
+(lp87
+S'development'
+p88
+aS'product'
+p89
+aS'data analysis'
+p90
+aS'business problem'
+p91
+aS'analysis'
+p92
+aS'analytic'
+p93
+aS'optimization'
+p94
+aS'data wrangling'
+p95
 aS'data aggregation'
-p97
+p96
 as.

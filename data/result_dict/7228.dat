@@ -2,132 +2,130 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'intelligence'
 p4
-aS'intelligence'
-p5
 aS'testing'
-p6
+p5
 aS'devops'
+p6
+aS'analytics'
 p7
-aS'analytics'
+aS'engineering'
 p8
-aS'engineering'
-p9
 aS'ansible'
-p10
+p9
 aS'hbase'
+p10
+aS'management'
 p11
-aS'management'
-p12
 aS'open source'
+p12
+aS'big data'
 p13
-aS'big data'
-p14
 aS'scala'
-p15
+p14
 aS'agile'
-p16
+p15
 aS'integration'
+p16
+aS'computer science'
 p17
-aS'computer science'
+aS'mathematics'
 p18
-aS'mathematics'
-p19
 aS'dashboard'
-p20
+p19
 aS'python'
-p21
+p20
 aS'data scientist'
+p21
+aS'automation'
 p22
-aS'automation'
-p23
 aS'military experience'
-p24
+p23
 aS'jenkins'
-p25
+p24
 aS'java'
-p26
+p25
 aS'spark'
-p27
+p26
 aS'data'
-p28
+p27
 aS'software development'
-p29
+p28
 aS'github'
+p29
+aS'software engineering'
 p30
-aS'software engineering'
+aS'science'
 p31
-aS'science'
+aS'machine learning'
 p32
-aS'machine learning'
+aS'optimization'
 p33
-aS'optimization'
-p34
 aS'elasticsearch'
-p35
+p34
 aS'architecture'
-p36
+p35
 aS'military'
-p37
+p36
 asS'working-year'
-p38
-(lp39
+p37
+(lp38
 V(5, 10]
-p40
+p39
 aV(0, 2]
-p41
+p40
 aV(2, 5]
-p42
+p41
 asS'major'
-p43
-(lp44
+p42
+(lp43
 S'information'
-p45
+p44
 aS'management'
-p46
+p45
 aS'software engineering'
-p47
+p46
 aS'big data'
-p48
+p47
 aS'science'
-p49
+p48
 aS'computer science computer engineering'
-p50
+p49
 aS'engineering'
-p51
+p50
 aS'automation'
-p52
+p51
 aS'analytics'
-p53
+p52
 aS'computer engineering'
+p53
+aS'design'
 p54
-aS'design'
-p55
 aS'computer science'
-p56
+p55
 aS'mathematics'
-p57
+p56
 aS'development practice'
-p58
+p57
 aS'machine learning'
-p59
+p58
 asS'education'
-p60
-(lp61
+p59
+(lp60
 VBachelor
-p62
+p61
 aVMaster
-p63
+p62
 asS'responsibility'
-p64
-(lp65
+p63
+(lp64
 S'development'
-p66
+p65
 aS'information'
-p67
+p66
 aS'optimization'
-p68
+p67
 aS'design'
-p69
+p68
 as.

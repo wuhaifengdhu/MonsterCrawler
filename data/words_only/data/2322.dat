@@ -2,226 +2,223 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-F0.00074793207989923012
-sS'nosql'
+I1
+sS'communication'
 p5
-F0.0042835591090142362
-sS'communication'
+I1
+sS'data science'
 p6
-F0.002856258262749066
-sS'data science'
-p7
-F0.0033898499313433617
+I1
 sS'hadoop'
+p7
+I1
+sS'analytics'
 p8
-F0.0043344306087379101
-sS'analytics'
-p9
-F0.0018496886043298853
+I1
 sS'data governance'
-p10
-F0.0068399604766962597
+p9
+I1
 sS'process improvement'
-p11
-F0.0060037839240809155
+p10
+I1
 sS'problem solving'
-p12
-F0.0034368203634258668
+p11
+I1
 sS'education'
-p13
-F0.005418059235425053
-sS'finance'
-p14
-F0.010223589505342051
-sS'management'
-p15
-F0.0015514280675942179
-sS'rdbms'
-p16
-F0.00716888592525946
-sS'big data'
-p17
-F0.0040130898127141686
-sS'integration'
-p18
-F0.003509130294191874
-sS'governance'
-p19
-F0.0055460355654815682
-sS'strategy'
-p20
-F0.0051162089475639194
-sS'coaching'
-p21
-F0.0060752216089505068
-sS'computer science'
-p22
-F0.0030120089160475816
-sS'master data management'
-p23
-F0.0084314313071913831
-sS'data management'
-p24
-F0.0042565188830725057
+p12
+I1
 sS'product development'
-p25
-F0.0037683830429528415
-sS'marketing'
-p26
-F0.0031068162548440986
-sS'data scientist'
-p27
-F0.00033709889720725243
-sS'data quality'
-p28
-F0.0053752700095273682
-sS'talent management'
-p29
-F0.0099372110518825274
-sS'leadership'
-p30
-F0.0083274144413670627
-sS'manufacturing'
-p31
-F0.0062613554563350606
-sS'data'
-p32
-F0.015011308465024204
-sS'customer relations'
-p33
-F0.0079074261757741213
-sS'database management'
-p34
-F0.0076185322009808777
-sS'science'
-p35
-F0.0026733210634022199
-sS'data integration'
-p36
-F0.0063681804035290454
-sS'english'
-p37
-F0.0062962722245513743
-sS'organization'
-p38
-F0.0039033238751005413
-sS'data analytics'
-p39
-F0.0055720714556896289
-ssS'working-year'
-p40
-(dp41
-V[0]
-p42
-F0.0025977604232467126
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-F0.0057241036684265766
+p13
+I1
 sS'management'
-p46
-F0.0015514280675942179
-sS'finance'
-p47
-F0.010223589505342051
+p14
+I1
+sS'rdbms'
+p15
+I1
 sS'big data'
-p48
-F0.0040130898127141686
-sS'analytics'
-p49
-F0.0018496886043298853
-sS'marketing'
-p50
-F0.0031068162548440986
-sS'data science'
-p51
-F0.0033898499313433617
-sS'english'
-p52
-F0.0062962722245513743
-sS'communication'
-p53
-F0.002856258262749066
-sS'data analyst'
-p54
-F0.0050220534096585461
-sS'general'
-p55
-F0.0042223325957657307
-sS'business'
-p56
-F0.0035874830496192773
-sS'statistics computer science'
-p57
-F0.006494720181828461
+p16
+I1
+sS'integration'
+p17
+I1
+sS'governance'
+p18
+I1
+sS'strategy'
+p19
+I1
+sS'coaching'
+p20
+I1
 sS'computer science'
-p58
-F0.0030120089160475816
-sS'statistic'
-p59
-F0.0016186082733960726
-sS'data analytics'
-p60
-F0.0055720714556896289
+p21
+I1
+sS'master data management'
+p22
+I1
+sS'data management'
+p23
+I1
+sS'finance'
+p24
+I1
+sS'marketing'
+p25
+I1
+sS'data scientist'
+p26
+I1
+sS'data quality'
+p27
+I1
+sS'talent management'
+p28
+I1
+sS'leadership'
+p29
+I1
+sS'manufacturing'
+p30
+I1
+sS'data'
+p31
+I1
+sS'customer relations'
+p32
+I1
+sS'database management'
+p33
+I1
 sS'science'
-p61
-F0.0026733210634022199
+p34
+I1
+sS'data integration'
+p35
+I1
+sS'english'
+p36
+I1
+sS'organization'
+p37
+I1
+sS'data analytics'
+p38
+I1
+ssS'working-year'
+p39
+(dp40
+V[0]
+p41
+I1
+ssS'major'
+p42
+(dp43
+S'information'
+p44
+I1
+sS'management'
+p45
+I1
+sS'finance'
+p46
+I1
+sS'big data'
+p47
+I1
+sS'analytics'
+p48
+I1
+sS'marketing'
+p49
+I1
+sS'data science'
+p50
+I1
+sS'english'
+p51
+I1
+sS'communication'
+p52
+I1
+sS'data analyst'
+p53
+I1
+sS'general'
+p54
+I1
+sS'business'
+p55
+I1
+sS'statistics computer science'
+p56
+I1
+sS'computer science'
+p57
+I1
+sS'statistic'
+p58
+I1
+sS'data analytics'
+p59
+I1
+sS'science'
+p60
+I1
 ssS'education'
-p62
-(dp63
+p61
+(dp62
 VBachelor
-p64
-F0.00061922616996747668
+p63
+I1
 sVMaster
-p65
-F0.0017570087047429983
+p64
+I1
 ssS'responsibility'
-p66
-(dp67
+p65
+(dp66
 S'development'
-p68
-F0.00084241851743761971
+p67
+I1
 sS'information'
-p69
-F0.0057241036684265766
+p68
+I1
 sS'product'
-p70
-F0.0031287741377364429
+p69
+I1
 sVinsight
-p71
-F0.0018962864835611075
+p70
+I1
 sS'business problem'
-p72
-F0.0033672725386233266
+p71
+I1
 sS'decision-making'
-p73
-F0.0054110550371092841
+p72
+I1
 sS'communicate'
-p74
-F0.0044987548746598469
+p73
+I1
 sS'mapping'
-p75
-F0.0063681804035290454
+p74
+I1
 sS'improvement'
-p76
-F0.003542501205972097
+p75
+I1
 sS'analytic'
-p77
-F0.0027221901697749066
+p76
+I1
 sS'understand'
-p78
-F0.0048853068909876368
+p77
+I1
 sS'solve problem'
-p79
-F0.0055151635353947728
+p78
+I1
 sS'implement'
-p80
-F0.002424337475359019
+p79
+I1
 sS'model'
-p81
-F0.0040254348203233236
+p80
+I1
 ss.

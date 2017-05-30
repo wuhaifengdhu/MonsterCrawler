@@ -4,167 +4,164 @@ p2
 (dp3
 S'nlp'
 p4
-F0.06618099759554652
-sS'r d'
-p5
-F0.001466481113802419
+I1
 sS'classification'
+p5
+I1
+sS'communication'
 p6
-F0.018975520045516666
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0028001531897307807
-sS'data science'
+I1
+sS'information retrieval'
 p8
-F0.0066465271868125196
-sS'information retrieval'
+I1
+sS'analytics'
 p9
-F0.025572099858715839
-sS'analytics'
-p10
-F0.0036267108706325253
+I1
 sS'education'
-p11
-F0.0053116330718720609
+p10
+I1
 sS'clustering'
+p11
+I1
+sS'big data'
 p12
-F0.0091520997693249825
-sS'big data'
-p13
-F0.0078685225256431377
+I1
 sS'data'
-p14
-F0.0045988885866619913
+p13
+I1
 sS'crowdsourcing'
+p14
+I1
+sS'computer science'
 p15
-F0.024609321919430882
-sS'computer science'
+I1
+sS'natural language processing'
 p16
-F0.005905688910393293
-sS'natural language processing'
-p17
-F0.018210590036576688
+I1
 sS'text mining'
-p18
-F0.012945987007598837
+p17
+I1
 sS'signal processing'
+p18
+I1
+sS'processing'
 p19
-F0.015184164401951646
-sS'processing'
-p20
-F0.017073165949499345
+I1
 sS'data scientist'
+p20
+I1
+sS'computational linguistics'
 p21
-F0.0006609546234527914
-sS'computational linguistics'
+I1
+sS'modeling'
 p22
-F0.036420398247603368
-sS'modeling'
-p23
-F0.010346412620380132
+I1
 sS'solr'
-p24
-F0.013804782144244321
+p23
+I1
 sS'programming'
+p24
+I1
+sS'machine learning'
 p25
-F0.0037119116803634332
-sS'machine learning'
-p26
-F0.0056609878393267411
+I1
 sS'data engineering'
-p27
-F0.011994350953314746
+p26
+I1
 sS'organization'
-p28
-F0.0038266514418396377
+p27
+I1
 sS'nltk'
-p29
-F0.018210199123801684
+p28
+I1
 ssS'working-year'
-p30
-(dp31
+p29
+(dp30
 V(5, 10]
-p32
-F0.0043167480583191373
+p31
+I1
 ssS'major'
-p33
-(dp34
+p32
+(dp33
 S'information'
-p35
-F0.0022446663671187072
+p34
+I1
 sS'big data'
-p36
-F0.0078685225256431377
+p35
+I1
 sS'communication'
-p37
-F0.0028001531897307807
+p36
+I1
 sS'data science'
-p38
-F0.0066465271868125196
+p37
+I1
 sS'natural language processing'
-p39
-F0.018210590036576688
+p38
+I1
 sS'machine learning'
-p40
-F0.0056609878393267411
+p39
+I1
 sS'analytics'
+p40
+I1
+sS'design'
 p41
-F0.0036267108706325253
-sS'design'
-p42
-F0.0048665618295486044
+I1
 sS'computer science'
-p43
-F0.005905688910393293
+p42
+I1
 sS'statistic'
-p44
-F0.0031736283646230136
+p43
+I1
 sS'computer science engineering'
-p45
-F0.010813659931899037
+p44
+I1
 sS'information retrieval'
-p46
-F0.025572099858715839
+p45
+I1
 sS'computational linguistics'
-p47
-F0.036420398247603368
+p46
+I1
 ssS'education'
-p48
-(dp49
+p47
+(dp48
 VMaster
-p50
-F0.0034449920675139502
+p49
+I1
 ssS'responsibility'
-p51
-(dp52
+p50
+(dp51
 S'information'
-p53
-F0.0022446663671187072
+p52
+I1
 sS'product'
-p54
-F0.0061346321486332404
+p53
+I1
 sS'pattern'
-p55
-F0.0064842787810996316
+p54
+I1
 sS'processing'
-p56
-F0.017073165949499345
+p55
+I1
 sS'understand'
-p57
-F0.0047893455056289506
+p56
+I1
 sS'recommendation'
-p58
-F0.0065427817622177578
+p57
+I1
 sS'design'
-p59
-F0.0048665618295486044
+p58
+I1
 sS'modeling'
-p60
-F0.010346412620380132
+p59
+I1
 sS'evaluation'
-p61
-F0.018811791385894464
+p60
+I1
 sS'model'
-p62
-F0.0026309091861398863
+p61
+I1
 ss.

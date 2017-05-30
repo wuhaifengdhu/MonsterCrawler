@@ -1,5 +1,5 @@
-skills: {'customer satisfaction': 0.010879601095715532, 'management': 0.0023791452768414123, 'r d': 0.0011469684688957468, 'program management': 0.011956852409239742, 'data scientist': 0.0005169477501865407, 'education': 0.00830869977723004, 'customer retention': 0.01475188908986067, 'research': 0.0026632916066563145, 'hardware': 0.008985707777719445, 'analysis': 0.001400307262640425, 'data analysis': 0.0077905524504231684, 'process improvement': 0.00920692004000118, 'computer science': 0.004618974566788051, 'organization': 0.0059858234844418915, 'electrical engineering': 0.01931091313563522, 'sap': 0.011646170824145688, 'data analytics': 0.008544880528417894, 'customer experience': 0.008651996697045979}
-working-year: {u'(5, 10]': 0.0033762275316462525, u'(10, 15]': 0.007905656734391111}
-major: {'management': 0.0023791452768414123, 'business': 0.00440118032232622, 'electrical engineering computer science': 0.016802074928200787, 'computer science': 0.004618974566788051, 'electrical engineering': 0.01931091313563522, 'data analytics': 0.008544880528417894}
-education: {u'Bachelor': 0.0009495954394193987}
-responsibility: {'data analysis': 0.0077905524504231684, 'build model': 0.012499180825346333, 'analysis': 0.001400307262640425, 'improvement': 0.005432494866141568}
+skills: {'customer satisfaction': 1, 'management': 1, 'program management': 1, 'data scientist': 1, 'customer retention': 1, 'analysis': 1, 'research': 1, 'hardware': 1, 'data analysis': 1, 'process improvement': 1, 'computer science': 1, 'electrical engineering': 1, 'organization': 1, 'customer experience': 1, 'education': 1, 'data analytics': 1, 'sap': 1}
+working-year: {u'(5, 10]': 1, u'(10, 15]': 1}
+major: {'management': 1, 'business': 1, 'electrical engineering computer science': 1, 'computer science': 1, 'electrical engineering': 1, 'data analytics': 1}
+education: {u'Bachelor': 1}
+responsibility: {'data analysis': 1, 'build model': 1, 'analysis': 1, 'improvement': 1}

@@ -1,5 +1,5 @@
-skills: {'management': 0.002129335022773064, 'pig': 0.006380224912712229, 'r d': 0.0010265367796616935, 'big data': 0.0055079657679501974, 'data scientist': 0.000462668236416954, 'testing': 0.004173402957594808, 'programming': 0.0025983381762544034, 'hadoop': 0.0029745030052463904, 'security clearance': 0.007426673038432492, 'integration': 0.004816281328778348, 'analytics': 0.007616092828328303, 'engineering': 0.0052110680529042445, 'pl': 0.015037857060739703, 'hive': 0.004937890310032504, 'analysis': 0.0012532750000631805, 'security': 0.003988747726179158, 'education': 0.007436286300620886, 'hbase': 0.007300927804308726, 'dod': 0.027538190454791386}
-working-year: {u'(2, 5]': 0.0019623343801221595}
-major: {'analytics': 0.007616092828328303, 'engineering': 0.0052110680529042445, 'management': 0.002129335022773064, 'design': 0.0017032966403420116, 'big data': 0.0055079657679501974}
-education: {u'Bachelor': 0.0008498879182803618}
-responsibility: {'development': 0.001156219415183133, 'analysis': 0.0012532750000631805, 'design': 0.0017032966403420116, 'report': 0.003188932341836223, 'model': 0.0018416364302979206, 'evaluation': 0.006584126985063062}
+skills: {'management': 1, 'pig': 1, 'big data': 1, 'data scientist': 1, 'testing': 1, 'programming': 1, 'hadoop': 1, 'security clearance': 1, 'integration': 1, 'analytics': 1, 'engineering': 1, 'pl': 1, 'hive': 1, 'analysis': 1, 'security': 1, 'education': 1, 'hbase': 1, 'dod': 1}
+working-year: {u'(2, 5]': 1}
+major: {'analytics': 1, 'engineering': 1, 'management': 1, 'design': 1, 'big data': 1}
+education: {u'Bachelor': 1}
+responsibility: {'development': 1, 'analysis': 1, 'design': 1, 'report': 1, 'model': 1, 'evaluation': 1}

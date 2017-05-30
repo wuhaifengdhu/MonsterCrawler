@@ -2,142 +2,140 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
+aS'communication'
 p5
-aS'communication'
+aS'data science'
 p6
-aS'data science'
-p7
 aS'sql'
+p7
+aS'information management'
 p8
-aS'information management'
+aS'engineering'
 p9
-aS'engineering'
-p10
 aS'troubleshooting'
-p11
+p10
 aS'problem solving'
-p12
+p11
 aS'personalization'
-p13
+p12
 aS'education'
-p14
+p13
 aS'java'
+p14
+aS'big data'
 p15
-aS'big data'
-p16
 aS'scala'
-p17
+p16
 aS'agile'
-p18
+p17
 aS'hadoop'
-p19
+p18
 aS'research'
+p19
+aS'computer science'
 p20
-aS'computer science'
-p21
 aS'innovation'
-p22
+p21
 aS'teaching'
-p23
+p22
 aS'python'
-p24
+p23
 aS'aws'
-p25
+p24
 aS'data scientist'
-p26
+p25
 aS'linux'
+p26
+aS'automation'
 p27
-aS'automation'
-p28
 aS'hive'
+p28
+aS'data wrangling'
 p29
-aS'data wrangling'
-p30
 aS'spark'
-p31
+p30
 aS'data'
-p32
+p31
 aS'docker'
-p33
+p32
 aS'bash'
-p34
+p33
 aS'software development'
+p34
+aS'software engineering'
 p35
-aS'software engineering'
+aS'science'
 p36
-aS'science'
-p37
 aS'programming'
-p38
+p37
 aS'c++'
+p38
+aS'machine learning'
 p39
-aS'machine learning'
-p40
 aS'data center'
-p41
+p40
 aS'security'
-p42
+p41
 aS'scripting'
-p43
+p42
 asS'working-year'
-p44
-(lp45
+p43
+(lp44
 V(5, 10]
-p46
+p45
 asS'major'
-p47
-(lp48
+p46
+(lp47
 S'information'
-p49
+p48
 aS'software engineering'
-p50
+p49
 aS'big data'
-p51
+p50
 aS'science'
-p52
+p51
 aS'machine learning data science'
-p53
+p52
 aS'communication'
-p54
+p53
 aS'information management'
-p55
+p54
 aS'automation'
-p56
+p55
 aS'engineering'
-p57
+p56
 aS'computer science engineering'
-p58
+p57
 aS'computer science'
-p59
+p58
 aS'phd'
-p60
+p59
 aS'statistic'
-p61
+p60
 aS'machine learning'
-p62
+p61
 aS'data science'
-p63
+p62
 asS'education'
-p64
-(lp65
+p63
+(lp64
 VBachelor
-p66
+p65
 aVMaster
-p67
+p66
 aVDoctor
-p68
+p67
 asS'responsibility'
-p69
-(lp70
+p68
+(lp69
 S'development'
-p71
+p70
 aS'information'
-p72
+p71
 aS'product'
-p73
+p72
 aS'data wrangling'
-p74
+p73
 as.

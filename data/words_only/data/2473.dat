@@ -4,179 +4,176 @@ p2
 (dp3
 S'outlook'
 p4
-F0.010385419848861762
-sS'r d'
+I1
+sS'communication'
 p5
-F0.0009374765111065692
-sS'communication'
-p6
-F0.00358010453481561
+I1
 sS'testing'
-p7
-F0.0038113269019130658
+p6
+I1
 sS'test automation'
+p7
+I1
+sS'analysis'
 p8
-F0.011566361039495474
-sS'analysis'
-p9
-F0.0011445433790531327
-sS'business analysis'
-p10
-F0.017562137193468087
-sS'agile'
-p11
-F0.008714710552689367
-sS'predictive modeling'
-p12
-F0.0049391238562782325
-sS'integration'
-p13
-F0.0043984304372404999
-sS'quality assurance'
-p14
-F0.0079515934191168071
-sS'innovation'
-p15
-F0.0028499546116324092
-sS'database development'
-p16
-F0.011967935580992198
+I1
 sS'product development'
-p17
-F0.0047233842250710267
-sS'collaboration'
-p18
-F0.0082733136196618349
-sS'scrum'
-p19
-F0.007966763143468631
-sS'data scientist'
-p20
-F0.00042252806978717255
-sS'automation'
-p21
-F0.006369135748575879
-sS'business process'
-p22
-F0.0060389180707283363
-sS'modeling'
-p23
-F0.002204715018041428
-sS't-sql'
-p24
-F0.01234933574270896
-sS'data quality'
-p25
-F0.0067374959708459475
-sS'data'
-p26
-F0.0011759715107446187
-sS'process development'
-p27
-F0.012684045477453302
-sS'software quality assurance'
-p28
-F0.013550457351782253
-sS'software engineering'
-p29
-F0.012531365798668131
-sS'sql server'
-p30
-F0.0074634165794485001
-sS'unit testing'
-p31
-F0.0099473176347305015
-sS'machine learning'
-p32
-F0.0036188963356426655
-sS'english'
-p33
-F0.0078919028568006939
-sS'organization'
-p34
-F0.0024462611956965722
-sS'advanced analytics'
-p35
-F0.0099597800552222136
-sS'retail'
-p36
-F0.0065094305366434077
-ssS'working-year'
-p37
-(dp38
-V(0, 2]
-p39
-F0.0042147314702378098
-sV(2, 5]
-p40
-F0.0017920861918923829
-ssS'major'
-p41
-(dp42
-S'law'
-p43
-F0.0040804983207275037
+p9
+I1
+sS'agile'
+p10
+I1
+sS'predictive modeling'
+p11
+I1
+sS'integration'
+p12
+I1
+sS'quality assurance'
+p13
+I1
+sS'innovation'
+p14
+I1
+sS'database development'
+p15
+I1
 sS'business analysis'
-p44
-F0.017562137193468087
-sS'business'
-p45
-F0.00089932794257579129
-sS'communication'
-p46
-F0.00358010453481561
-sS'machine learning'
-p47
-F0.0036188963356426655
-sS'design'
-p48
-F0.0015555220459744397
-sS'english'
-p49
-F0.0078919028568006939
-sS'advanced analytics'
-p50
-F0.0099597800552222136
-sS'software engineering'
-p51
-F0.012531365798668131
+p16
+I1
+sS'collaboration'
+p17
+I1
+sS'scrum'
+p18
+I1
+sS'data scientist'
+p19
+I1
 sS'automation'
-p52
-F0.006369135748575879
-ssS'education'
-p53
-(dp54
-VBachelor
-p55
-F0.00077615335002772763
-ssS'responsibility'
-p56
-(dp57
-S'development'
-p58
-F0.0042236325668790244
-sS'product'
-p59
-F0.0026144551013962056
-sS'pattern'
-p60
-F0.0041452010472783031
-sS'communicate'
-p61
-F0.0028194251440505206
-sS'mapping'
-p62
-F0.0079820343414096929
-sS'analysis'
-p63
-F0.0011445433790531327
-sS'design'
-p64
-F0.0015555220459744397
+p20
+I1
+sS'business process'
+p21
+I1
 sS'modeling'
-p65
-F0.002204715018041428
+p22
+I1
+sS't-sql'
+p23
+I1
+sS'data quality'
+p24
+I1
+sS'data'
+p25
+I1
+sS'process development'
+p26
+I1
+sS'software quality assurance'
+p27
+I1
+sS'software engineering'
+p28
+I1
+sS'sql server'
+p29
+I1
+sS'unit testing'
+p30
+I1
+sS'machine learning'
+p31
+I1
+sS'english'
+p32
+I1
+sS'organization'
+p33
+I1
+sS'advanced analytics'
+p34
+I1
+sS'retail'
+p35
+I1
+ssS'working-year'
+p36
+(dp37
+V(0, 2]
+p38
+I1
+sV(2, 5]
+p39
+I1
+ssS'major'
+p40
+(dp41
+S'law'
+p42
+I1
+sS'business analysis'
+p43
+I1
+sS'business'
+p44
+I1
+sS'communication'
+p45
+I1
+sS'machine learning'
+p46
+I1
+sS'design'
+p47
+I1
+sS'english'
+p48
+I1
+sS'advanced analytics'
+p49
+I1
+sS'software engineering'
+p50
+I1
+sS'automation'
+p51
+I1
+ssS'education'
+p52
+(dp53
+VBachelor
+p54
+I1
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+I1
+sS'product'
+p58
+I1
+sS'pattern'
+p59
+I1
+sS'communicate'
+p60
+I1
+sS'mapping'
+p61
+I1
+sS'analysis'
+p62
+I1
+sS'design'
+p63
+I1
+sS'modeling'
+p64
+I1
 sS'model'
-p66
-F0.0016818597536967309
+p65
+I1
 ss.

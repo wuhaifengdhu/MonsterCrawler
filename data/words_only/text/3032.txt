@@ -1,5 +1,5 @@
-skills: {'r d': 0.0012293853648643034, 'intelligence': 0.017154737348104455, 'hadoop': 0.0035622790481992703, 'cluster': 0.009935029033831552, 'defense': 0.03427244950342461, 'linux': 0.015051952099524785, 'ic': 0.010718844252156341, 'visualization': 0.004962737643917357, 'networking': 0.011066020387764972, 'counterterrorism': 0.01696657828538522, 'agile': 0.00571413655999692, 'recruiting': 0.016606357753861586, 'devops': 0.02058373739837095, 'research': 0.0057093317076823994, 'ruby': 0.009616228400951015, 'hdfs': 0.010235555161458217, 'python': 0.0021751965968574345, 'data scientist': 0.0005540936963077293, 'aws': 0.007145080275143952, 'data': 0.0023132134208359717, 'bash': 0.012443884062671965, 'cloudera': 0.012562865255134514, 'national security': 0.010487619372054304, 'cloud computing': 0.010590513462594197, 'dod': 0.010993289602711133, 'command': 0.02073728001396358, 'scripting': 0.006352517002942314, 'organization': 0.00320797126860808, 'security': 0.014330830153937095, 'data analytics': 0.009158883919681456}
-working-year: {u'(5, 10]': 0.0036188307075729295, u'(2, 5]': 0.0023501010540385144}
-major: {'general': 0.006940301182860439, 'design': 0.0020398762159784573, 'data analytics': 0.009158883919681456, 'law': 0.010702145296279322, 'computing': 0.0063780385108786605}
-education: {u'Bachelor': 0.0010178298422519304}
-responsibility: {'design': 0.0020398762159784573}
+skills: {'intelligence': 1, 'hadoop': 1, 'cluster': 1, 'defense': 1, 'linux': 1, 'ic': 1, 'visualization': 1, 'networking': 1, 'counterterrorism': 1, 'agile': 1, 'recruiting': 1, 'devops': 1, 'research': 1, 'ruby': 1, 'hdfs': 1, 'python': 1, 'data scientist': 1, 'aws': 1, 'data': 1, 'bash': 1, 'cloudera': 1, 'national security': 1, 'cloud computing': 1, 'dod': 1, 'command': 1, 'scripting': 1, 'organization': 1, 'security': 1, 'data analytics': 1}
+working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
+major: {'general': 1, 'design': 1, 'data analytics': 1, 'law': 1, 'computing': 1}
+education: {u'Bachelor': 1}
+responsibility: {'design': 1}

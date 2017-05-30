@@ -2,168 +2,165 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'personalization'
 p4
-F0.0010721010753646928
-sS'personalization'
-p5
-F0.0099205980339591819
+I1
 sS'statistical analysis'
+p5
+I1
+sS'mysql'
 p6
-F0.0047832347086709456
-sS'data mining'
+I1
+sS'modeling'
 p7
-F0.01158635182392977
+I1
 sS'hbase'
 p8
-F0.0076249898739516719
-sS'open source'
+I1
+sS'data mining'
 p9
-F0.006589494211063994
-sS'big data'
+I1
+sS'open source'
 p10
-F0.0057524446662665244
-sS'hadoop'
+I1
+sS'big data'
 p11
-F0.003106530553782131
-sS'r'
-F0.0020810411169844439
-sS'gurobi'
+I1
+sS'hadoop'
 p12
-F0.014795919444696246
-sS'matlab'
+I1
+sS'r'
+I1
+sS'gurobi'
 p13
-F0.0057762347970320193
-sS'policy'
+I1
+sS'matlab'
 p14
-F0.0061457252889245851
-sS'data analysis'
+I1
+sS'policy'
 p15
-F0.0072820307500039011
-sS'data scientist'
+I1
+sS'data analysis'
 p16
-F0.0004832044244563488
-sS'search'
+I1
+sS'data scientist'
 p17
-F0.013165752640609882
-sS'modeling'
+I1
+sS'search'
 p18
-F0.0025213190023554715
-sS'data'
+I1
+sS'weka'
 p19
-F0.008741490577258303
-sS'customer experience'
+I1
+sS'data'
 p20
-F0.0080872449544189574
-sS'training'
+I1
+sS'customer experience'
 p21
-F0.0046823788810150596
-sS'mysql'
+I1
+sS'training'
 p22
-F0.0086786770536985431
+I1
 sS'mapreduce'
 p23
-F0.0072494104101399172
+I1
 sS'analysis'
 p24
-F0.0013089033943218594
+I1
 sS'machine learning'
 p25
-F0.0041385811880195501
+I1
 sS'e-commerce'
 p26
-F0.021439239467027669
-sS'weka'
+I1
+sS'optimization'
 p27
-F0.010885976906120512
-sS'optimization'
-p28
-F0.010052830607318581
+I1
 ssS'working-year'
-p29
-(dp30
+p28
+(dp29
 V[0]
-p31
-F0.0037236826954633031
+p30
+I1
 ssS'major'
-p32
-(dp33
+p31
+(dp32
 S'business'
-p34
-F0.0051423712643367701
+p33
+I1
 sS'big data'
-p35
-F0.0057524446662665244
+p34
+I1
 sS'machine learning'
+p35
+I1
+sS'design'
 p36
-F0.0041385811880195501
-sS'design'
-p37
-F0.0017788998854746858
+I1
 sS'phd'
+p37
+I1
+sS'data mining'
 p38
-F0.0043984140462638944
-sS'data mining'
-p39
-F0.01158635182392977
+I1
 sS'machine learning data mining'
-p40
-F0.0083466919553648114
+p39
+I1
 ssS'education'
-p41
-(dp42
+p40
+(dp41
 VDoctor
-p43
-F0.0033228842229279169
+p42
+I1
 ssS'responsibility'
-p44
-(dp45
+p43
+(dp44
 S'development'
-p46
-F0.0012075398591990946
+p45
+I1
 sS'large data set'
-p47
-F0.0057908332381703962
+p46
+I1
 sS'product'
-p48
-F0.0059797980909218704
+p47
+I1
 sS'data analysis'
-p49
-F0.0072820307500039011
+p48
+I1
 sS'develop model'
-p50
-F0.011683307403326336
+p49
+I1
 sS'data mining'
-p51
-F0.01158635182392977
+p50
+I1
 sS'analysis'
-p52
-F0.0013089033943218594
+p51
+I1
 sS'improvement'
-p53
-F0.00507789337357358
+p52
+I1
 sS'optimization'
-p54
-F0.010052830607318581
+p53
+I1
 sS'design'
-p55
-F0.0017788998854746858
+p54
+I1
 sS'recommendation'
-p56
-F0.0047832347086709456
+p55
+I1
 sS'validate model'
-p57
-F0.014954207743281935
+p56
+I1
 sS'complex data set'
-p58
-F0.010195684920796293
+p57
+I1
 sS'modeling'
-p59
-F0.0025213190023554715
+p58
+I1
 sS'prototype'
-p60
-F0.012450376343014866
+p59
+I1
 sS'model'
-p61
-F0.0076935203354482314
+p60
+I1
 ss.

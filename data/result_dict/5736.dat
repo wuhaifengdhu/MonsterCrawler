@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'biostatistics'
+S'probability'
 p4
 aS'spring'
 p5
@@ -24,7 +24,7 @@ aS'clustering'
 p13
 aS'education'
 p14
-aS'probability'
+aS'biostatistics'
 p15
 aS'predictive modeling'
 p16
@@ -34,89 +34,83 @@ aS'research'
 p18
 aS'unstructured data'
 p19
-aS'data scientist'
-p20
 aS'sql'
-p21
+p20
 aS'modeling'
-p22
+p21
 aS'data'
-p23
-aS'information technology'
-p24
+p22
 aS'analytical skills'
-p25
+p23
 aS'life sciences'
-p26
+p24
 aS'econometric modeling'
-p27
+p25
 aS'science'
-p28
+p26
 aS'programming'
-p29
+p27
 aS'analysis'
-p30
+p28
 aS'machine learning'
-p31
+p29
 aS'r'
 aS'healthcare'
-p32
+p30
 aS'organization'
-p33
+p31
 asS'working-year'
-p34
-(lp35
+p32
+(lp33
 V(5, 10]
-p36
+p34
 asS'major'
+p35
+(lp36
+S'information'
 p37
-(lp38
-S'information'
-p39
 aS'life sciences'
-p40
+p38
 aS'business'
-p41
+p39
 aS'biostatistics'
-p42
+p40
 aS'science'
-p43
+p41
 aS'statistic'
-p44
+p42
 aS'phd'
-p45
+p43
 aS'analytics'
-p46
+p44
 aS'data mining'
-p47
+p45
 aS'machine learning'
-p48
-aS'information technology'
-p49
+p46
 asS'education'
-p50
-(lp51
+p47
+(lp48
 VBachelor
-p52
+p49
 aVDoctor
-p53
+p50
 asS'responsibility'
-p54
-(lp55
+p51
+(lp52
 S'information'
-p56
+p53
 aS'business problem'
-p57
+p54
 aVinsight
-p58
+p55
 aS'analysis'
-p59
+p56
 aS'improvement'
-p60
+p57
 aS'analytic'
-p61
+p58
 aS'data mining'
-p62
+p59
 aS'modeling'
-p63
+p60
 as.

@@ -4,200 +4,197 @@ p2
 (dp3
 S'logistics'
 p4
-F0.015448832097929129
+I1
 sS'customer insight'
 p5
-F0.015675662783277554
-sS'r d'
+I1
+sS'communication'
 p6
-F0.001466481113802419
-sS'communication'
+I1
+sS'data science'
 p7
-F0.0028001531897307807
-sS'data science'
-p8
-F0.0066465271868125196
+I1
 sS'feature extraction'
-p9
-F0.019484031669583953
+p8
+I1
 sS'thought leadership'
-p10
-F0.012121911174354056
+p9
+I1
 sS'problem solving'
+p10
+I1
+sS'data mining'
 p11
-F0.0067386227840028606
-sS'data mining'
-p12
-F0.015848474102018222
+I1
 sS'mathematical modeling'
+p12
+I1
+sS'modeling'
 p13
-F0.016245763906433758
-sS'modeling'
-p14
-F0.0034488042067933769
+I1
 sS'management'
-p15
-F0.0030419071753900913
+p14
+I1
 sS'program management'
-p16
-F0.015287689866099382
+p15
+I1
 sS'deep learning'
-p17
-F0.010120282651190318
+p16
+I1
 sS'strategy'
-p18
-F0.015047135958281742
+p17
+I1
 sS'computer vision'
+p18
+I1
+sS'computer science'
 p19
-F0.014707273837424602
-sS'computer science'
-p20
-F0.005905688910393293
+I1
 sS'intelligence'
+p20
+I1
+sS'transportation'
 p21
-F0.0204631509795246
-sS'transportation'
-p22
-F0.014575797541865892
+I1
 sS'product development'
-p23
-F0.0073887224663611063
+p22
+I1
 sS'data scientist'
-p24
-F0.0006609546234527914
+p23
+I1
 sS'business development'
+p24
+I1
+sS'data collection'
 p25
-F0.013537640767645265
-sS'data collection'
-p26
-F0.021687594590568689
+I1
 sS'pattern recognition'
-p27
-F0.013702248231676428
+p26
+I1
 sS'data visualization'
-p28
-F0.0061116283738715041
+p27
+I1
 sS'programming'
+p28
+I1
+sS'machine learning'
 p29
-F0.0037119116803634332
-sS'machine learning'
-p30
-F0.0056609878393267411
+I1
 sS'data engineering'
-p31
-F0.011994350953314746
+p30
+I1
 sS'healthcare'
-p32
-F0.0076264802796632836
+p31
+I1
 sS'retail'
+p32
+I1
+sS'data analytics'
 p33
-F0.010182609196606473
-sS'data analytics'
+I1
+sS'predictive analytics'
 p34
-F0.01092524010419145
-sS'predictive analytics'
-p35
-F0.018210590036576688
+I1
 ssS'working-year'
-p36
-(dp37
+p35
+(dp36
 V(5, 10]
-p38
-F0.0043167480583191373
+p37
+I1
 ssS'major'
-p39
-(dp40
+p38
+(dp39
 S'management'
-p41
-F0.0030419071753900913
+p40
+I1
 sS'transportation'
-p42
-F0.014575797541865892
+p41
+I1
 sS'business'
-p43
-F0.0056272234121170946
+p42
+I1
 sS'analytics / data science'
-p44
-F0.027881786639067277
+p43
+I1
 sS'communication'
-p45
-F0.0028001531897307807
+p44
+I1
 sS'data science'
+p45
+I1
+sS'data mining'
 p46
-F0.0066465271868125196
-sS'data mining'
-p47
-F0.015848474102018222
+I1
 sS'machine learning'
+p47
+I1
+sS'design'
 p48
-F0.0056609878393267411
-sS'design'
-p49
-F0.0024332809147743022
+I1
 sS'computer science'
-p50
-F0.005905688910393293
+p49
+I1
 sS'statistic'
-p51
-F0.0031736283646230136
+p50
+I1
 sS'computer science engineering'
-p52
-F0.010813659931899037
+p51
+I1
 sS'mathematics computer science'
-p53
-F0.012658031663257883
+p52
+I1
 sS'data analytics'
-p54
-F0.01092524010419145
+p53
+I1
 sS'predictive analytics'
-p55
-F0.018210590036576688
+p54
+I1
 ssS'education'
-p56
-(dp57
+p55
+(dp56
 VMaster
-p58
-F0.0034449920675139502
+p57
+I1
 sVDoctor
-p59
-F0.0045452309192192579
+p58
+I1
 ssS'responsibility'
-p60
-(dp61
+p59
+(dp60
 S'development'
-p62
-F0.0033034840433803798
+p61
+I1
 sS'large data set'
-p63
-F0.0079210326079259333
+p62
+I1
 sS'product'
-p64
-F0.0020448773828777465
+p63
+I1
 sS'data collection'
-p65
-F0.021687594590568689
+p64
+I1
 sS'pattern'
-p66
-F0.0064842787810996316
+p65
+I1
 sVinsight
-p67
-F0.0037180759981251714
+p66
+I1
 sS'analytic'
-p68
-F0.010674874308617311
+p67
+I1
 sS'design'
-p69
-F0.0024332809147743022
+p68
+I1
 sS'data mining'
-p70
-F0.015848474102018222
+p69
+I1
 sS'report'
-p71
-F0.004555617631194604
+p70
+I1
 sS'modeling'
-p72
-F0.0034488042067933769
+p71
+I1
 sS'model'
-p73
-F0.0026309091861398863
+p72
+I1
 ss.

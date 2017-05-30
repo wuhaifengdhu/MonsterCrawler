@@ -4,193 +4,190 @@ p2
 (dp3
 S'consulting'
 p4
-F0.0055527614532076492
-sS'r d'
-p5
-F0.0011038029888835413
+I1
 sS'biostatistics'
+p5
+I1
+sS'communication'
 p6
-F0.011506863340074804
-sS'communication'
+I1
+sS'data science'
 p7
-F0.004215284371637735
-sS'data science'
+I1
+sS'analytics'
 p8
-F0.0050027623986760904
-sS'analytics'
-p9
-F0.0027297823757449118
+I1
 sS'unix'
-p10
-F0.018151167922968711
+p9
+I1
 sS'data warehousing'
+p10
+I1
+sS'high performance computing'
 p11
-F0.008845693849481296
-sS'high performance computing'
-p12
-F0.023256306383979335
+I1
 sS'visualization'
+p12
+I1
+sS'big data'
 p13
-F0.0089115826509053621
-sS'big data'
-p14
-F0.0059225438365055885
+I1
 sS'integration'
+p14
+I1
+sS'computer science'
 p15
-F0.010357594255437306
-sS'computer science'
+I1
+sS'medicine'
 p16
-F0.0044451421906186086
-sS'medicine'
-p17
-F0.012499755358572767
+I1
 sS'data management'
+p17
+I1
+sS'data analysis'
 p18
-F0.0062817980290505535
-sS'data analysis'
-p19
-F0.0074973596162674575
+I1
 sS'python'
-p20
-F0.0039059981900558234
+p19
+I1
 sS'collaboration'
+p20
+I1
+sS'bioinformatics'
 p21
-F0.014611739376660823
-sS'bioinformatics'
+I1
+sS'informatics'
 p22
-F0.0095465479287160145
-sS'informatics'
-p23
-F0.023424328623720219
+I1
 sS'data'
+p23
+I1
+sS'project management'
 p24
-F0.0041538348524688953
-sS'project management'
-p25
-F0.012473809917745477
+I1
 sS'training'
-p26
-F0.0048208363210450753
+p25
+I1
 sS'data visualization'
+p26
+I1
+sS'engineering'
 p27
-F0.0046001503889355417
-sS'engineering'
+I1
+sS'analysis'
 p28
-F0.0028016494908087337
-sS'analysis'
+I1
+sS'machine learning'
 p29
-F0.0053904301077986258
-sS'machine learning'
-p30
-F0.0042609585887405585
+I1
 sS'data engineering'
-p31
-F0.0090280060938928205
+p30
+I1
 sS'exploratory data analysis'
-p32
-F0.010875583961374854
+p31
+I1
 sS'r'
-F0.0021425772790458122
+I1
 sS'english'
-p33
-F0.0092920791701040454
+p32
+I1
 sS'data integration'
-p34
-F0.0093982017245630278
+p33
+I1
 ssS'working-year'
-p35
-(dp36
+p34
+(dp35
 V(2, 5]
-p37
-F0.0021100369678732898
+p36
+I1
 ssS'major'
-p38
-(dp39
+p37
+(dp38
 S'biostatistics'
-p40
-F0.011506863340074804
+p39
+I1
 sS'big data'
-p41
-F0.0059225438365055885
+p40
+I1
 sS'communication'
-p42
-F0.004215284371637735
+p41
+I1
 sS'data science'
-p43
-F0.0050027623986760904
+p42
+I1
 sS'bioinformatics'
-p44
-F0.0095465479287160145
+p43
+I1
 sS'informatics'
-p45
-F0.023424328623720219
+p44
+I1
 sS'high performance computing'
-p46
-F0.023256306383979335
+p45
+I1
 sS'machine learning'
-p47
-F0.0042609585887405585
+p46
+I1
 sS'analytics'
-p48
-F0.0027297823757449118
+p47
+I1
 sS'engineering'
+p48
+I1
+sS'design'
 p49
-F0.0028016494908087337
-sS'design'
-p50
-F0.0018315017638086148
+I1
 sS'computer science'
-p51
-F0.0044451421906186086
+p50
+I1
 sS'english'
-p52
-F0.0092920791701040454
+p51
+I1
 sS'medicine'
-p53
-F0.012499755358572767
+p52
+I1
 sS'computer science data science'
-p54
-F0.012866890611970296
+p53
+I1
 sS'medical informatics'
-p55
-F0.015079782088539755
+p54
+I1
 sS'project management'
-p56
-F0.012473809917745477
+p55
+I1
 ssS'education'
-p57
-(dp58
+p56
+(dp57
 VDoctor
-p59
-F0.0034211415521005172
+p58
+I1
 ssS'responsibility'
-p60
-(dp61
+p59
+(dp60
 S'development'
-p62
-F0.0012432466829926162
+p61
+I1
 sS'data analysis'
-p63
-F0.0074973596162674575
+p62
+I1
 sS'exploratory analysis'
-p64
-F0.012333425268928378
+p63
+I1
 sS'analysis'
-p65
-F0.0053904301077986258
+p64
+I1
 sS'analytic'
-p66
-F0.0040174258150710313
+p65
+I1
 sS'design'
-p67
-F0.0018315017638086148
+p66
+I1
 sS'interface'
-p68
-F0.006259257761254718
+p67
+I1
 sS'implement'
-p69
-F0.0035778528870217784
+p68
+I1
 sS'presentation'
-p70
-F0.0045491833390996919
+p69
+I1
 ss.

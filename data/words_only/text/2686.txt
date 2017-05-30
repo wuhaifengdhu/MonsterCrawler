@@ -1,5 +1,5 @@
-skills: {'word': 0.004744997892721677, 'r d': 0.000649706822570692, 'teamwork': 0.008537962024681347, 'recruiting': 0.008776144762325584, 'energy': 0.004312596516810754, 'excel': 0.003084033399614948, 'data scientist': 0.00029282799773224937, 'collaboration': 0.005733720514892221, 'banking': 0.009400851947382901, 'military experience': 0.00590092787336355, 'innovation': 0.003950253543971504, 'communication': 0.0012405741979819914, 'organization': 0.0016953519046124979, 'military': 0.004959042020244751, 'data': 0.0004074964570459992, 'powerpoint': 0.004489153713390692, 'microsoft office': 0.005429074651561586}
-working-year: {u'(0, 2]': 0.002920968961968609, u'(2, 5]': 0.0012419837848874427}
-major: {'information': 0.003977889764514165, 'law': 0.01131176116758637, 'history': 0.003941956726964771, 'communication': 0.0012405741979819914}
-education: {u'Bachelor': 0.0005379037457470644}
-responsibility: {'report': 0.004036623217514207, 'information': 0.003977889764514165, 'product': 0.0027178750025590305}
+skills: {'word': 1, 'teamwork': 1, 'recruiting': 1, 'energy': 1, 'excel': 1, 'data scientist': 1, 'data': 1, 'collaboration': 1, 'banking': 1, 'military experience': 1, 'innovation': 1, 'communication': 1, 'organization': 1, 'military': 1, 'microsoft office': 1, 'powerpoint': 1}
+working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
+major: {'information': 1, 'law': 1, 'history': 1, 'communication': 1}
+education: {u'Bachelor': 1}
+responsibility: {'report': 1, 'information': 1, 'product': 1}

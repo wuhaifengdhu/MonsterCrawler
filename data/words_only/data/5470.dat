@@ -2,124 +2,121 @@
 S'skills'
 p2
 (dp3
-S'software development'
+S'debugging'
 p4
-F0.0067786097989946193
+I1
 sS'nlp'
 p5
-F0.019005824950515924
+I1
 sS'life sciences'
 p6
-F0.030980416248873432
-sS'r d'
+I1
+sS'software engineering'
 p7
-F0.0012634298826605457
+I1
 sS'big data'
 p8
-F0.0067790347913233191
-sS'debugging'
+I1
+sS'genomics'
 p9
-F0.012174681154632437
+I1
 sS'cancer research'
 p10
-F0.016249773212831137
+I1
 sS'proteomics'
 p11
-F0.01906911992053276
+I1
 sS'data science'
 p12
-F0.0057262388071000168
+I1
 sS'data acquisition'
 p13
-F0.012142121444245823
+I1
 sS'integration'
 p14
-F0.0059277308661887353
+I1
 sS'big data analytics'
 p15
-F0.020283553072741062
+I1
 sS'mentoring'
 p16
-F0.008614351666219492
+I1
 sS'data analytics'
 p17
-F0.0094125145513034025
+I1
 sS'agile'
 p18
-F0.011744748375624439
+I1
 sS'oracle'
 p19
-F0.016189674715501014
-sS'software engineering'
-p20
-F0.016888425291743513
-sS'genomics'
-p21
-F0.014727640946624461
+I1
 sS'research'
-p22
-F0.0088011544170734837
+p20
+I1
 sS'collaboration'
-p23
-F0.0055749405621721296
+p21
+I1
 sS'operating systems'
-p24
-F0.014179189858160387
+p22
+I1
+sS'software development'
+p23
+I1
 ssS'working-year'
-p25
-(dp26
+p24
+(dp25
 V(5, 10]
-p27
-F0.0037190444810134104
+p26
+I1
 ssS'major'
-p28
-(dp29
+p27
+(dp28
 S'life sciences'
-p30
-F0.030980416248873432
+p29
+I1
 sS'business'
-p31
-F0.0012120173503021435
+p30
+I1
 sS'big data'
-p32
-F0.0067790347913233191
+p31
+I1
 sS'data science'
-p33
-F0.0057262388071000168
+p32
+I1
 sS'big data analytics'
+p33
+I1
+sS'design'
 p34
-F0.020283553072741062
-sS'design'
-p35
-F0.0041927301916111059
+I1
 sS'software engineering'
-p36
-F0.016888425291743513
+p35
+I1
 sS'data analytics'
-p37
-F0.0094125145513034025
+p36
+I1
 ssS'education'
-p38
-(dp39
+p37
+(dp38
 S'Bachelor'
-p40
-F0.0010460158994219837
+p39
+I1
 ssS'responsibility'
-p41
-(dp42
+p40
+(dp41
 S'development'
-p43
-F0.0014230392802253944
+p42
+I1
 sS'extract'
-p44
-F0.0072689666937925191
+p43
+I1
 sS'design'
-p45
-F0.0041927301916111059
+p44
+I1
 sS'communicate'
-p46
-F0.0037997175787511631
+p45
+I1
 sS'model'
-p47
-F0.0022666294526743637
+p46
+I1
 ss.

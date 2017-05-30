@@ -2,100 +2,98 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'intelligence'
 p4
-aS'intelligence'
-p5
 aS'decision support'
-p6
+p5
 aS'business intelligence'
-p7
+p6
 aS'data warehousing'
-p8
+p7
 aS'education'
-p9
+p8
 aS'rdbms'
-p10
+p9
 aS'integration'
-p11
+p10
 aS'research'
+p11
+aS'computer science'
 p12
-aS'computer science'
+aS'mathematics'
 p13
-aS'mathematics'
+aS'operations research'
 p14
-aS'operations research'
-p15
 aS'government'
-p16
+p15
 aS'data scientist'
-p17
+p16
 aS'modeling'
-p18
+p17
 aS'data'
+p18
+aS'information technology'
 p19
-aS'information technology'
+aS'science'
 p20
-aS'science'
+aS'economics'
 p21
-aS'economics'
+aS'engineering'
 p22
-aS'engineering'
+aS'analysis'
 p23
-aS'analysis'
-p24
 aS'olap'
-p25
+p24
 aS'data integration'
-p26
+p25
 asS'working-year'
-p27
-(lp28
+p26
+(lp27
 V(0, 2]
-p29
+p28
 aV(2, 5]
-p30
+p29
 asS'major'
-p31
-(lp32
+p30
+(lp31
 S'computer science operations research'
+p32
+aS'information'
 p33
-aS'information'
-p34
 aS'business'
-p35
+p34
 aS'science'
-p36
+p35
 aS'economics'
-p37
+p36
 aS'engineering'
+p37
+aS'design'
 p38
-aS'design'
-p39
 aS'information technology'
-p40
+p39
 aS'mathematics'
-p41
+p40
 aS'mathematics computer science'
-p42
+p41
 aS'operations research'
-p43
+p42
 aS'computer science'
-p44
+p43
 asS'education'
-p45
-(lp46
+p44
+(lp45
 VBachelor
-p47
+p46
 asS'responsibility'
-p48
-(lp49
+p47
+(lp48
 S'modeling'
-p50
+p49
 aS'design'
-p51
+p50
 aS'analysis'
-p52
+p51
 aS'information'
-p53
+p52
 as.

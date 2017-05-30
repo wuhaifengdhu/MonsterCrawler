@@ -2,199 +2,196 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'knowledge management'
 p4
-F0.0015553587570631719
-sS'knowledge management'
+I1
+sS'analytics'
 p5
-F0.038379288903780437
-sS'analytics'
-p6
-F0.011539534588376216
+I1
 sS'system design'
+p6
+I1
+sS'data mining'
 p7
-F0.0155515695376356
-sS'data mining'
-p8
-F0.01680898768395872
+I1
 sS'laboratory'
+p8
+I1
+sS'machine learning'
 p9
-F0.014532687518444698
-sS'machine learning'
-p10
-F0.0060040780114071499
+I1
 sS'experimentation'
-p11
-F0.026691990842814182
+p10
+I1
 sS'open source'
+p11
+I1
+sS'big data'
 p12
-F0.0095597586471117789
-sS'big data'
-p13
-F0.0083454026787124196
+I1
 sS'agile'
-p14
-F0.0072292485266627704
+p13
+I1
 sS'storage'
-p15
-F0.011549454484061543
+p14
+I1
 sS'research'
-p16
-F0.003611584830238487
+p15
+I1
 sS'computer vision'
+p16
+I1
+sS'computer science'
 p17
-F0.015598623766965488
-sS'computer science'
+I1
+sS'natural language processing'
 p18
-F0.0062636094504171297
-sS'natural language processing'
-p19
-F0.01931426216000558
+I1
 sS'intelligence'
-p20
-F0.014468894631987091
+p19
+I1
 sS'algorithm development'
+p20
+I1
+sS'artificial intelligence'
 p21
-F0.013938601119504306
-sS'artificial intelligence'
-p22
-F0.025310811625539678
+I1
 sS'matlab'
+p22
+I1
+sS'processing'
 p23
-F0.0083799163911487257
-sS'processing'
-p24
-F0.012071935519848021
+I1
 sS'data scientist'
+p24
+I1
+sS'modeling'
 p25
-F0.00070101247941962725
-sS'modeling'
-p26
-F0.0036578226435687333
+I1
 sS'data'
-p27
-F0.00097552182141314966
+p26
+I1
 sS'software development'
-p28
-F0.0083448794873986799
+p27
+I1
 sS'radar'
+p28
+I1
+sS'science'
 p29
-F0.024320481509736754
-sS'science'
-p30
-F0.0055592926659387074
+I1
 sS'remote sensing'
-p31
-F0.020004455659735302
+p30
+I1
 sS'programming'
+p31
+I1
+sS'analysis'
 p32
-F0.0039368760246278837
-sS'analysis'
+I1
+sS'simulation'
 p33
-F0.001898901515247243
-sS'simulation'
-p34
-F0.011484981477345096
+I1
 sS'data architecture'
-p35
-F0.012655405812769839
+p34
+I1
 sS'architecture'
-p36
-F0.013595258710201119
+p35
+I1
 sS'military'
-p37
-F0.023743292096929412
+p36
+I1
 ssS'working-year'
-p38
-(dp39
+p37
+(dp38
 V(5, 10]
-p40
-F0.0045783691527627214
+p39
+I1
 ssS'major'
-p41
-(dp42
+p40
+(dp41
 S'information'
-p43
-F0.0023807067530046896
+p42
+I1
 sS'natural language processing'
-p44
-F0.01931426216000558
+p43
+I1
 sS'big data'
-p45
-F0.0083454026787124196
+p44
+I1
 sS'mathematics statistics'
-p46
-F0.012612116839586083
+p45
+I1
 sS'knowledge management'
-p47
-F0.038379288903780437
+p46
+I1
 sS'statistic'
-p48
-F0.0033659694776304694
+p47
+I1
 sS'machine learning'
-p49
-F0.0060040780114071499
+p48
+I1
 sS'analytics'
+p49
+I1
+sS'design'
 p50
-F0.011539534588376216
-sS'design'
-p51
-F0.0025807524853666843
+I1
 sS'computer science'
+p51
+I1
+sS'data mining'
 p52
-F0.0062636094504171297
-sS'data mining'
-p53
-F0.01680898768395872
+I1
 sVphysic
-p54
-F0.0086346939281112325
+p53
+I1
 sS'computer science engineering'
-p55
-F0.011469033261105039
+p54
+I1
 sS'phd'
-p56
-F0.006381032498935877
+p55
+I1
 sS'artificial intelligence'
-p57
-F0.025310811625539678
+p56
+I1
 sS'science'
-p58
-F0.0055592926659387074
+p57
+I1
 ssS'education'
-p59
-(dp60
+p58
+(dp59
 VDoctor
-p61
-F0.0048206994597780007
+p60
+I1
 ssS'responsibility'
-p62
-(dp63
+p61
+(dp62
 S'development'
-p64
-F0.005255542796286968
+p63
+I1
 sS'information'
-p65
-F0.0023807067530046896
+p64
+I1
 sS'processing'
-p66
-F0.012071935519848021
+p65
+I1
 sS'analysis'
-p67
-F0.001898901515247243
+p66
+I1
 sS'simulation'
-p68
-F0.011484981477345096
+p67
+I1
 sS'design'
-p69
-F0.0025807524853666843
+p68
+I1
 sS'data mining'
-p70
-F0.01680898768395872
+p69
+I1
 sS'modeling'
-p71
-F0.0036578226435687333
+p70
+I1
 sS'prototype'
-p72
-F0.018062477800661718
+p71
+I1
 ss.

@@ -2,122 +2,112 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'fraud detection'
-p6
+p5
 aS'pricing'
-p7
+p6
 aS'research'
-p8
+p7
 aS'insurance'
-p9
+p8
 aS'management'
-p10
+p9
 aS'predictive modeling'
-p11
+p10
 aS'strategy'
-p12
+p11
 aS'teamwork'
-p13
-aS'innovation'
-p14
-aS'policy'
-p15
-aS'mathematics'
-p16
-aS'customer satisfaction'
-p17
-aS'data analysis'
-p18
-aS'customer service'
-p19
+p12
 aS'marketing'
-p20
+p13
+aS'policy'
+p14
+aS'mathematics'
+p15
+aS'customer service'
+p16
+aS'innovation'
+p17
 aS'data structures'
-p21
+p18
 aS'product design'
-p22
+p19
 aS'modeling'
-p23
+p20
 aS'data'
-p24
+p21
 aS'fraud'
-p25
+p22
 aS'economics'
-p26
+p23
 aS'analysis'
-p27
+p24
 aS'machine learning'
-p28
+p25
 aS'product management'
-p29
+p26
 aS'validation'
-p30
+p27
 aVbayesian statistic
-p31
+p28
 asS'working-year'
+p29
+(lp30
+V[0]
+p31
+asS'major'
 p32
 (lp33
-V[0]
-p34
-asS'major'
-p35
-(lp36
 S'information'
-p37
+p34
 aS'management'
-p38
+p35
 aS'business'
-p39
+p36
 aS'marketing'
-p40
+p37
 aS'economics'
-p41
+p38
 aS'communication'
-p42
+p39
 aS'machine learning'
-p43
+p40
 aS'design'
-p44
+p41
 aS'statistic'
-p45
+p42
 aS'mathematics'
-p46
+p43
 asS'education'
+p44
+(lp45
+VDoctor
+p46
+asS'responsibility'
 p47
 (lp48
-VDoctor
-p49
-asS'responsibility'
-p50
-(lp51
 S'information'
-p52
+p49
 aS'product'
-p53
-aS'data analysis'
-p54
+p50
 aVtest hypothesis
-p55
+p51
 aS'business problem'
-p56
-aS'understand'
-p57
-aS'communicate'
-p58
-aS'analysis'
-p59
+p52
 aS'predict'
-p60
-aS'design'
-p61
+p53
+aS'communicate'
+p54
+aS'analysis'
+p55
+aS'understand'
+p56
 aS'modeling'
-p62
-aS'test model'
-p63
+p57
+aS'design'
+p58
 aS'model'
-p64
+p59
 as.

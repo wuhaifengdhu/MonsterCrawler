@@ -4,104 +4,101 @@ p2
 (dp3
 S'training'
 p4
-F0.0082642908360772722
+I1
 sS'data analysis'
 p5
-F0.012852616485029927
-sS'r d'
-p6
-F0.0018922336952289279
+I1
 sS'computational biology'
+p6
+I1
+sS'communication'
 p7
-F0.046399240925732103
-sS'communication'
+I1
+sS'data science'
 p8
-F0.0036131008899752009
-sS'data science'
+I1
+sS'analysis'
 p9
-F0.008576164112016154
-sS'analysis'
+I1
+sS'machine learning'
 p10
-F0.0092407373276547859
-sS'machine learning'
-p11
-F0.0073045004378409564
+I1
 sS'assay development'
+p11
+I1
+sS'computer science'
 p12
-F0.035976498889119073
-sS'computer science'
-p13
-F0.0076202437553461854
+I1
 sS'drug discovery'
-p14
-F0.02958805123765209
+p13
+I1
 sS'data'
-p15
-F0.0023736199156965117
+p14
+I1
 ssS'working-year'
-p16
-(dp17
+p15
+(dp16
 V(2, 5]
-p18
-F0.0036172062306399251
+p17
+I1
 ssS'major'
-p19
-(dp20
+p18
+(dp19
 S'computational biology'
-p21
-F0.046399240925732103
+p20
+I1
 sS'communication'
-p22
-F0.0036131008899752009
+p21
+I1
 sS'data science'
-p23
-F0.008576164112016154
+p22
+I1
 sS'machine learning'
-p24
-F0.0073045004378409564
+p23
+I1
 sS'computer science computational biology'
+p24
+I1
+sS'design'
 p25
-F0.032782274125789136
-sS'design'
-p26
-F0.0031397173093861966
+I1
 sS'computer science'
-p27
-F0.0076202437553461854
+p26
+I1
 sS'statistic'
-p28
-F0.0081900086828980995
+p27
+I1
 sS'computational biolog'
-p29
-F0.022656845247074276
+p28
+I1
 ssS'education'
-p30
-(dp31
+p29
+(dp30
 VDoctor
-p32
-F0.0058648140893151719
+p31
+I1
 ssS'responsibility'
-p33
-(dp34
+p32
+(dp33
 S'development'
-p35
-F0.0021312800279873418
+p34
+I1
 sS'data analysis'
-p36
-F0.012852616485029927
+p35
+I1
 sS'communicate'
-p37
-F0.0056908212584982857
+p36
+I1
 sS'analysis'
-p38
-F0.0092407373276547859
+p37
+I1
 sS'analytic'
-p39
-F0.0068870156829789111
+p38
+I1
 sS'statistical method'
-p40
-F0.011537680788272013
+p39
+I1
 sS'design'
-p41
-F0.0031397173093861966
+p40
+I1
 ss.

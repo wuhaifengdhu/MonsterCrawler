@@ -2,213 +2,210 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'cancer'
 p4
-F0.0011599285645894841
-sS'cancer'
+I1
+sS'communication'
 p5
-F0.012590416276358889
-sS'communication'
+I1
+sS'data science'
 p6
-F0.0022148104325554197
-sS'data science'
-p7
-F0.0052571401477613149
+I1
 sS'hadoop'
+p7
+I1
+sS'analytics'
 p8
-F0.0033610203449111757
-sS'analytics'
+I1
+sS'data mining'
 p9
-F0.002868584869426856
-sS'data mining'
+I1
+sS'quantitative analysis'
 p10
-F0.01253551623888447
-sS'quantitative analysis'
-p11
-F0.018319721603841953
+I1
 sS'visualization'
-p12
-F0.0046823569860689187
+p11
+I1
 sS'java'
+p12
+I1
+sS'big data'
 p13
-F0.0039813037702542773
-sS'big data'
-p14
-F0.0062236901332770591
+I1
 sS'predictive modeling'
-p15
-F0.0061111193475984907
+p14
+I1
 sS'excel'
-p16
-F0.0055059579337758393
+p15
+I1
 sS'tableau'
-p17
-F0.0056170582523585129
+p16
+I1
 sS'perl'
-p18
-F0.0083472363621412433
+p17
+I1
 sS'segmentation'
-p19
-F0.0079562911874031285
+p18
+I1
 sS'data analysis'
-p20
-F0.0078785812916708879
+p19
+I1
 sS'python'
+p20
+I1
+sS'marketing'
 p21
-F0.0041046082675162887
-sS'marketing'
-p22
-F0.053000178991535349
+I1
 sS'data scientist'
-p23
-F0.00052278896770277289
+p22
+I1
 sS'statistical modeling'
-p24
-F0.0066071642534101995
+p23
+I1
 sS'sql'
+p24
+I1
+sS'modeling'
 p25
-F0.0026681663179342241
-sS'modeling'
-p26
-F0.0027278677341868521
+I1
 sS'spark'
-p27
-F0.0044760696310525072
+p26
+I1
 sS'data'
+p27
+I1
+sS'project management'
 p28
-F0.001455015598039952
-sS'project management'
-p29
-F0.013108071438986771
+I1
 sS'customer experience'
-p30
-F0.0087497593715888718
+p29
+I1
 sS'collaborative filtering'
+p30
+I1
+sS'science'
 p31
-F0.011428579756021032
-sS'science'
+I1
+sS'machine learning'
 p32
-F0.0041459131745983585
-sS'machine learning'
-p33
-F0.0044776175000324509
+I1
 sS'demand generation'
-p34
-F0.016556476133856343
+p33
+I1
 sS'r'
-F0.002251521886454921
+I1
 sS'customer acquisition'
+p34
+I1
+sS'data analytics'
 p35
-F0.014807784701905602
-sS'data analytics'
-p36
-F0.0086414328507728993
+I1
 ssS'working-year'
-p37
-(dp38
+p36
+(dp37
 V(5, 10]
-p39
-F0.0034143769952806736
+p38
+I1
 sV(0, 2]
-p40
-F0.0052148372428366127
+p39
+I1
 sV(2, 5]
-p41
-F0.0022173269831888805
+p40
+I1
 ssS'major'
-p42
-(dp43
+p41
+(dp42
 S'business'
-p44
-F0.0033381833800694631
+p43
+I1
 sS'big data'
-p45
-F0.0062236901332770591
+p44
+I1
 sS'computing'
-p46
-F0.0060176973520719565
+p45
+I1
 sS'marketing'
-p47
-F0.053000178991535349
+p46
+I1
 sS'data science'
-p48
-F0.0052571401477613149
+p47
+I1
 sVapplied statistic
-p49
-F0.010372199794648356
+p48
+I1
 sS'machine learning'
-p50
-F0.0044776175000324509
+p49
+I1
 sS'analytics'
+p50
+I1
+sS'design'
 p51
-F0.002868584869426856
-sS'design'
-p52
-F0.0019246289721378661
+I1
 sS'project management'
-p53
-F0.013108071438986771
+p52
+I1
 sS'applied statistics'
+p53
+I1
+sS'data mining'
 p54
-F0.013521139287155225
-sS'data mining'
-p55
-F0.01253551623888447
+I1
 sS'communication'
-p56
-F0.0022148104325554197
+p55
+I1
 sS'machine learning data mining'
-p57
-F0.009030460505380573
+p56
+I1
 sS'data analytics'
-p58
-F0.0086414328507728993
+p57
+I1
 sS'science'
-p59
-F0.0041459131745983585
+p58
+I1
 ssS'education'
-p60
-(dp61
+p59
+(dp60
 VBachelor
-p62
-F0.0009603253313902393
+p61
+I1
 sVMaster
-p63
-F0.0027248524827793957
+p62
+I1
 ssS'responsibility'
-p64
-(dp65
+p63
+(dp64
 S'data analysis'
-p66
-F0.0078785812916708879
+p65
+I1
 sS'build model'
-p67
-F0.012640414506988664
+p66
+I1
 sS'business problem'
-p68
-F0.0052221260556616
+p67
+I1
 sS'communicate'
-p69
-F0.0069768825598538302
+p68
+I1
 sS'statistical model'
-p70
-F0.0052551605441379682
+p69
+I1
 sS'design'
-p71
-F0.0019246289721378661
+p70
+I1
 sS'data mining'
-p72
-F0.01253551623888447
+p71
+I1
 sS'report'
-p73
-F0.0036033133806059017
+p72
+I1
 sS'modeling'
-p74
-F0.0027278677341868521
+p73
+I1
 sS'model'
-p75
-F0.002080945118980701
+p74
+I1
 sS'quantitative analysis'
-p76
-F0.018319721603841953
+p75
+I1
 ss.

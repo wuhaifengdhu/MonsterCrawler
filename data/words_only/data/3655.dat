@@ -2,206 +2,203 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.001236791300797221
-sS'communication'
-p5
-F0.0023615749792910202
+I1
 sS'sql'
-p6
-F0.0028449725197250463
+p5
+I1
 sS'c++'
+p6
+I1
+sS'data mining'
 p7
-F0.0081083502773675875
-sS'data mining'
-p8
-F0.01336618297760573
+I1
 sS'go'
-p9
-F0.0084529377084831114
+p8
+I1
 sS'strategy'
-p10
-F0.0042301185424888435
+p9
+I1
 sS'insurance'
-p11
-F0.0076093896892279241
+p10
+I1
 sS'experimentation'
-p12
-F0.010612478286902025
+p11
+I1
 sS'java'
+p12
+I1
+sS'big data'
 p13
-F0.0042451251044277544
-sS'big data'
-p14
-F0.0066361033348797558
+I1
 sS'research'
+p14
+I1
+sS'big data analytics'
 p15
-F0.0086155879082797648
-sS'big data analytics'
+I1
+sS'computer science'
 p16
-F0.019855887797110981
-sS'computer science'
-p17
-F0.0049807014906931395
+I1
 sS'innovation'
+p17
+I1
+sS'data analysis'
 p18
-F0.0037598798792017932
-sS'data analysis'
-p19
-F0.0084006559555767895
+I1
 sS'python'
-p20
-F0.002188300190814407
-sS'data scientist'
-p21
-F0.00055743161014090844
-sS'javascript'
-p22
-F0.0082095210801939669
+p19
+I1
 sS'aws'
-p23
-F0.007188122927403855
+p20
+I1
+sS'javascript'
+p21
+I1
+sS'data scientist'
+p22
+I1
 sS'perl'
+p23
+I1
+sS'data wrangling'
 p24
-F0.0089003664825240969
-sS'data wrangling'
-p25
-F0.028408833438615163
+I1
 sS'c'
-F0.0070259867073231919
+I1
 sS'data visualization'
-p26
-F0.0051543853755542813
+p25
+I1
 sS'programming'
+p26
+I1
+sS'analysis'
 p27
-F0.0031305279231980763
-sS'analysis'
+I1
+sS'machine learning'
 p28
-F0.0015099698795941934
-sS'machine learning'
-p29
-F0.0047743270934080956
+I1
 sS'r'
-F0.0024007191198947052
+I1
 sS'scripting'
+p29
+I1
+sS'electrical engineering'
 p30
-F0.0063907851776588333
-sS'electrical engineering'
+I1
+sS'data analytics'
 p31
-F0.020823213561919907
-sS'data analytics'
-p32
-F0.0092140579191976098
+I1
 sS'statistical analysis'
-p33
-F0.0055180087151234106
+p32
+I1
 ssS'working-year'
-p34
-(dp35
+p33
+(dp34
 V(5, 10]
-p36
-F0.0036406308925583087
+p35
+I1
 ssS'major'
-p37
-(dp38
+p36
+(dp37
 S'mathematics physics'
-p39
-F0.012256769048587583
+p38
+I1
 sS'business'
-p40
-F0.0011864627676150502
+p39
+I1
 sS'big data'
-p41
-F0.0066361033348797558
+p40
+I1
 sS'communication'
+p41
+I1
+sS'data mining'
 p42
-F0.0023615749792910202
-sS'data mining'
-p43
-F0.01336618297760573
+I1
 sS'machine learning'
-p44
-F0.0047743270934080956
+p43
+I1
 sS'big data analytics'
+p44
+I1
+sS'design'
 p45
-F0.019855887797110981
-sS'design'
-p46
-F0.0041043292538361729
+I1
 sS'computer science'
-p47
-F0.0049807014906931395
+p46
+I1
 sS'statistic'
-p48
-F0.0026765540424531441
+p47
+I1
 sS'electrical engineering'
-p49
-F0.020823213561919907
+p48
+I1
 sS'phd'
-p50
-F0.0050740740352984088
+p49
+I1
 sS'ee computer science'
-p51
-F0.0068068540853254934
+p50
+I1
 sS'data analytics'
-p52
-F0.0092140579191976098
+p51
+I1
 sVphysic
-p53
-F0.0068661421597029076
+p52
+I1
 sS'data mining machine learning'
-p54
-F0.010028912185694957
+p53
+I1
 ssS'education'
-p55
-(dp56
+p54
+(dp55
 VBachelor
-p57
-F0.0010239613473257371
+p56
+I1
 sVDoctor
-p58
-F0.0038333272812692541
+p57
+I1
 ssS'responsibility'
-p59
-(dp60
+p58
+(dp59
 S'development'
-p61
-F0.002786070879959357
+p60
+I1
 sS'large data set'
-p62
-F0.0066803889464435596
+p61
+I1
 sS'product'
-p63
-F0.0051737861494497205
+p62
+I1
 sS'data analysis'
-p64
-F0.0084006559555767895
+p63
+I1
 sS'build model'
-p65
-F0.013478032335765021
+p64
+I1
 sS'business problem'
-p66
-F0.0055681705533259232
+p65
+I1
 sS'data mining'
-p67
-F0.01336618297760573
+p66
+I1
 sVinsight
-p68
-F0.0031357267454067712
+p67
+I1
 sS'analysis'
-p69
-F0.0015099698795941934
+p68
+I1
 sS'analytic'
-p70
-F0.004501453021706096
+p69
+I1
 sS'design'
-p71
-F0.0041043292538361729
+p70
+I1
 sS'data wrangling'
-p72
-F0.028408833438615163
+p71
+I1
 sS'model'
-p73
-F0.013313034435888582
+p72
+I1
 ss.

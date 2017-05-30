@@ -2,17 +2,17 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'mysql'
 p4
-aS'mysql'
-p5
 aS'analytics'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'data-driven decision making'
-p8
+p7
 aS'data mining'
+p8
+aS'analysis'
 p9
 aS'quantitative analysis'
 p10
@@ -30,106 +30,98 @@ aS'python'
 p16
 aS'data scientist'
 p17
-aS'hive'
-p18
 aS'leadership'
-p19
+p18
 aS'sql'
-p20
+p19
 aS'php'
-p21
+p20
 aS'data'
-p22
+p21
 aS'etl'
-p23
+p22
 aS'software engineering'
+p23
+aS'science'
 p24
-aS'science'
-p25
 aS'programming'
+p25
+aS'hive'
 p26
-aS'analysis'
+aS'product launch'
 p27
-aS'product launch'
-p28
 aS'dashboard'
-p29
+p28
 aS'oracle'
-p30
+p29
 aS'root'
-p31
+p30
 aS'scripting'
-p32
+p31
 asS'working-year'
-p33
-(lp34
+p32
+(lp33
 V(2, 5]
-p35
+p34
 asS'major'
-p36
-(lp37
+p35
+(lp36
 S'software engineering'
-p38
+p37
 aS'business'
-p39
+p38
 aS'science'
+p39
+aS'data mining'
 p40
-aS'data mining'
-p41
 aS'analytics'
-p42
+p41
 aS'engineering'
-p43
+p42
 aS'computer science'
-p44
+p43
 aS'statistic'
-p45
+p44
 aVphysic
-p46
+p45
 asS'education'
-p47
-(lp48
+p46
+(lp47
 S'Bachelor'
-p49
+p48
 asS'responsibility'
-p50
-(lp51
-S'product leadership'
-p52
+p49
+(lp50
+S'data mining'
+p51
 aS'large data set'
-p53
+p52
 aS'product'
-p54
-aVinsight
-p55
-aS'data mining'
-p56
+p53
 aS'exploratory analysis'
-p57
-aS'data infrastructure'
-p58
+p54
 aS'understand'
-p59
-aS'quantitative analysis'
-p60
-aVproduct operation
-p61
-aS'analysis'
-p62
-aS'product launch'
-p63
-aS'solve problem'
-p64
-aS'identify trend'
-p65
-aS'report'
-p66
-aS'product decision'
-p67
-aS'development'
-p68
+p55
 aS'presentation'
-p69
+p56
+aVinsight
+p57
+aS'analysis'
+p58
+aS'product launch'
+p59
+aS'solve problem'
+p60
+aS'identify trend'
+p61
+aS'report'
+p62
+aS'product decision'
+p63
+aS'development'
+p64
+aS'quantitative analysis'
+p65
 aS'model'
-p70
+p66
 as.

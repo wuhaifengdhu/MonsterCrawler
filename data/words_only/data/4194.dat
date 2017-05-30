@@ -4,146 +4,143 @@ p2
 (dp3
 S'nlp'
 p4
-F0.066561348156440478
-sS'r d'
+I1
+sS'search'
 p5
-F0.0017698909994167127
-sS'classification'
+I1
+sS'processing'
 p6
-F0.011450744855053161
-sS'intellectual property'
+I1
+sS'machine learning'
 p7
-F0.020737826365457748
-sS'ip'
+I1
+sS'programming'
 p8
-F0.039726178481914877
-sS'data science'
+I1
+sS'classification'
 p9
-F0.0080216707427047656
-sS'analytics'
+I1
+sS'intellectual property'
 p10
-F0.017508259375467364
-sS'engineering'
+I1
+sS'ip'
 p11
-F0.0044923000456071069
-sS'natural language processing'
+I1
+sS'data science'
 p12
-F0.021978298320006348
-sS'education'
+I1
+sS'innovation'
 p13
-F0.0064105916384662809
-sS'user experience'
+I1
+sS'data scientist'
 p14
-F0.012125567649940423
+I1
 sS'research'
 p15
-F0.0041097344619955194
-sS'computer science'
-p16
-F0.0071275555815091471
-sS'innovation'
-p17
-F0.010761035516336167
-sS'intelligence'
-p18
-F0.0082323021181995512
-sS'processing'
-p19
-F0.0068685150371549089
-sS'data scientist'
-p20
-F0.00079770385589129997
-sS'data'
-p21
-F0.0044403062216046814
-sS'search'
-p22
-F0.010867420821882726
-sS'programming'
-p23
-F0.0044798934073351782
-sS'machine learning'
-p24
-F0.0068322267026357224
-sS'validation'
-p25
-F0.010922326031213172
-ssS'working-year'
-p26
-(dp27
-V(5, 10]
-p28
-F0.0052098683462472343
-ssS'major'
-p29
-(dp30
-S'information'
-p31
-F0.0027090800982467154
-sS'business'
-p32
-F0.0016978691329663648
-sS'data science'
-p33
-F0.0080216707427047656
-sS'natural language processing'
-p34
-F0.021978298320006348
-sS'computer science statistics'
-p35
-F0.014278869160355513
-sS'machine learning'
-p36
-F0.0068322267026357224
+I1
 sS'analytics'
-p37
-F0.017508259375467364
+p16
+I1
 sS'engineering'
-p38
-F0.0044923000456071069
+p17
+I1
+sS'user experience'
+p18
+I1
 sS'computer science'
-p39
-F0.0071275555815091471
-sS'statistic'
-p40
-F0.0038302411297174302
-sS'ee computer science'
-p41
-F0.0097408429152071718
-ssS'education'
-p42
-(dp43
-VBachelor
-p44
-F0.0014653239970351065
-ssS'responsibility'
-p45
-(dp46
+p19
+I1
+sS'natural language processing'
+p20
+I1
+sS'intelligence'
+p21
+I1
+sS'education'
+p22
+I1
+sS'data'
+p23
+I1
+sS'validation'
+p24
+I1
+ssS'working-year'
+p25
+(dp26
+V(5, 10]
+p27
+I1
+ssS'major'
+p28
+(dp29
 S'information'
-p47
-F0.0027090800982467154
+p30
+I1
+sS'business'
+p31
+I1
+sS'data science'
+p32
+I1
+sS'natural language processing'
+p33
+I1
+sS'computer science statistics'
+p34
+I1
+sS'machine learning'
+p35
+I1
+sS'analytics'
+p36
+I1
+sS'engineering'
+p37
+I1
+sS'computer science'
+p38
+I1
+sS'statistic'
+p39
+I1
+sS'ee computer science'
+p40
+I1
+ssS'education'
+p41
+(dp42
+VBachelor
+p43
+I1
+ssS'responsibility'
+p44
+(dp45
+S'information'
+p46
+I1
 sS'processing'
-p48
-F0.0068685150371549089
+p47
+I1
 sVinsight
-p49
-F0.0089746662023711034
+p48
+I1
 sS'improvement'
-p50
-F0.0083829015606839696
+p49
+I1
 sS'statistical method'
-p51
-F0.010791710047650976
+p50
+I1
 sS'recommendation'
-p52
-F0.0078964607475041897
+p51
+I1
 sS'report'
-p53
-F0.0054981592100624534
+p52
+I1
 sS'implement'
-p54
-F0.0057369020429831963
+p53
+I1
 sS'evaluation'
-p55
-F0.011351943077694935
+p54
+I1
 ss.

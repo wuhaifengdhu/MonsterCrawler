@@ -4,173 +4,170 @@ p2
 (dp3
 S'speech recognition'
 p4
-F0.022285842668003816
+I1
 sS'forecasting'
 p5
-F0.010867696525509373
-sS'r d'
+I1
+sS'communication'
 p6
-F0.0015977226142594449
-sS'communication'
-p7
-F0.003050750556905131
+I1
 sS'cluster'
-p8
-F0.025823343947857885
+p7
+I1
 sS'education'
-p9
-F0.005786993230055164
+p8
+I1
 sS'networking'
+p9
+I1
+sS'big data'
 p10
-F0.014381520659585607
-sS'big data'
-p11
-F0.0085727093664594509
+I1
 sS'deep learning'
-p12
-F0.011025988880674277
+p11
+I1
 sS'storage'
-p13
-F0.011864031065339484
+p12
+I1
 sS'hadoop'
-p14
-F0.0046295766618620867
+p13
+I1
 sS'computer vision'
+p14
+I1
+sS'computer science'
 p15
-F0.01602348900575443
-sS'computer science'
-p16
-F0.0064342135988720711
+I1
 sS'natural language processing'
+p16
+I1
+sS'artificial intelligence'
 p17
-F0.019840331557359817
-sS'artificial intelligence'
-p18
-F0.0260002111639785
+I1
 sS'government'
-p19
-F0.0076119711318506141
+p18
+I1
 sS'python'
+p19
+I1
+sS'processing'
 p20
-F0.0028269091959158875
-sS'processing'
-p21
-F0.0062003715510503456
+I1
 sS'mpi'
+p21
+I1
+sS'neuroscience'
 p22
-F0.023743789874813959
-sS'neuroscience'
-p23
-F0.019130488010175556
+I1
 sS'spark'
+p23
+I1
+sS'science'
 p24
-F0.006165481126041197
-sS'science'
-p25
-F0.0057107130887463766
+I1
 sS'c++'
+p25
+I1
+sS'machine learning'
 p26
-F0.010474600358311437
-sS'machine learning'
-p27
-F0.0061676132101614305
+I1
 sS'data center'
-p28
-F0.014286998938931978
+p27
+I1
 sS'architecture'
+p28
+I1
+sS'computational neuroscience'
 p29
-F0.0069827787927881236
-sS'computational neuroscience'
+I1
+sS'electrical engineering'
 p30
-F0.051004967375381606
-sS'electrical engineering'
-p31
-F0.026900026858200036
+I1
 ssS'working-year'
-p32
-(dp33
+p31
+(dp32
 V(0, 2]
-p34
-F0.0071830832060862295
+p33
+I1
 ssS'major'
-p35
-(dp36
+p34
+(dp35
 S'natural language processing'
-p37
-F0.019840331557359817
+p36
+I1
 sS'business'
-p38
-F0.0015327067659462903
+p37
+I1
 sS'big data'
-p39
-F0.0085727093664594509
+p38
+I1
 sS'computing'
-p40
-F0.016577936674190448
+p39
+I1
 sS'computational neuroscience'
-p41
-F0.051004967375381606
+p40
+I1
 sS'statistic'
-p42
-F0.0034576495801340226
+p41
+I1
 sS'communication'
-p43
-F0.003050750556905131
+p42
+I1
 sS'machine learning'
-p44
-F0.0061676132101614305
+p43
+I1
 sS'neuroscience'
-p45
-F0.019130488010175556
+p44
+I1
 sS'computer science'
-p46
-F0.0064342135988720711
+p45
+I1
 sS'machine learning big data'
-p47
-F0.019240101525776203
+p46
+I1
 sS'applied math'
-p48
-F0.0096842913070898859
+p47
+I1
 sS'electrical engineering'
-p49
-F0.026900026858200036
+p48
+I1
 sS'phd'
-p50
-F0.0065548349405411344
+p49
+I1
 sS'artificial intelligence'
-p51
-F0.0260002111639785
+p50
+I1
 sS'science'
-p52
-F0.0057107130887463766
+p51
+I1
 ssS'education'
-p53
-(dp54
+p52
+(dp53
 VMaster
-p55
-F0.0037532987505988565
+p54
+I1
 sVDoctor
-p56
-F0.0049520025579042502
+p55
+I1
 ssS'responsibility'
-p57
-(dp58
+p56
+(dp57
 S'product'
-p59
-F0.0022278819735633039
+p58
+I1
 sS'processing'
-p60
-F0.0062003715510503456
+p59
+I1
 sS'forecasting'
-p61
-F0.010867696525509373
+p60
+I1
 sS'recommendation'
-p62
-F0.0071283225424940552
+p61
+I1
 sS'model'
-p63
-F0.0028663602027983199
+p62
+I1
 sS'transformation'
-p64
-F0.0094349786076035284
+p63
+I1
 ss.

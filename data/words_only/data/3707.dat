@@ -2,282 +2,279 @@
 S'skills'
 p2
 (dp3
-S'supply chain'
+S'forecasting'
 p4
-F0.0081675398453825016
-sS'r d'
-p5
-F0.00088685682908137657
-sS'nosql'
-p6
-F0.0050792093970816752
-sS'communication'
-p7
-F0.0016933971773749864
-sS'data science'
-p8
-F0.0040194980827375935
-sS'decision support'
-p9
-F0.008390814394962488
-sS'forecasting'
-p10
-F0.0060323931037924603
-sS'analytics'
-p11
-F0.0087730370952665837
-sS'analysis'
-p12
-F0.0010827429806161387
-sS'problem solving'
-p13
-F0.0040751930443213846
-sS'linux'
-p14
-F0.0054291058328739504
-sS'laboratory'
-p15
-F0.0082864568139727861
-sS'amazon web services'
-p16
-F0.0088674176197317458
-sS'xml'
-p17
-F0.0081675398453825016
-sS'git'
-p18
-F0.0073703750693979216
-sS'impala'
-p19
-F0.009213724765750839
+I1
 sS'healthcare industry'
-p20
-F0.0090336375342084281
-sS'big data'
-p21
-F0.0047585017433695006
-sS'excel'
-p22
-F0.0042097388953707283
-sS'hadoop'
-p23
-F0.0051395300306633102
-sS'research'
-p24
-F0.0020593053891640621
-sS'access'
-p25
-F0.0039376352150622294
-sS'json'
-p26
-F0.0078126824323883626
-sS'computer science'
-p27
-F0.0035714749350110632
-sS'web services'
-p28
-F0.0079131549915981564
-sS'mathematics'
-p29
-F0.0035008401091181753
-sS'dashboarding'
-p30
-F0.013613011417651335
-sS'statistical data analysis'
-p31
-F0.01050209201783883
-sS'data analysis'
-p32
-F0.0060237964951436159
-sS'finance'
-p33
-F0.0060612857866444774
-sS'python'
-p34
-F0.0031382966019454996
-sS'marketing'
-p35
-F0.0036838922762622251
-sS'data scientist'
-p36
-F0.00039971337919391276
-sS'business analytics'
-p37
-F0.013245665745169581
-sS'leadership'
-p38
-F0.0032913970686180832
-sS'sql'
-p39
-F0.0020400234914659081
-sS'apache'
-p40
-F0.0068202058371522644
-sS'modeling'
-p41
-F0.0020856699306741806
-sS'spark'
-p42
-F0.0068446161960802922
-sS'data'
-p43
-F0.007787318902684668
-sS'bash'
-p44
-F0.0089767975743681137
-sS'rdbms'
-p45
-F0.0085004716478778494
-sS'training'
-p46
-F0.0038733285344033867
-sS'segmentation'
-p47
-F0.006083211836589001
-sS'presto'
-p48
-F0.01250971897053217
-sS'science'
-p49
-F0.0063397549192562375
-sS'aws'
-p50
-F0.0051543343669504969
-sS'programming'
-p51
-F0.0022447846015156833
-sS'hive'
-p52
-F0.0085319918963844572
-sS'machine learning'
-p53
-F0.0034234915658995415
-sS'r'
-F0.0017214659779806523
-sS'customer support'
-p54
-F0.0093097315739642684
-sS'healthcare'
-p55
-F0.0046121263030361112
-sS'organization'
-p56
-F0.0023141736581319627
-sS'github'
-p57
-F0.008390814394962488
-sS'microsoft azure'
-p58
-F0.010618866994849069
-sS'statistical analysis'
-p59
-F0.0039567578691597676
-ssS'working-year'
-p60
-(dp61
-V(0, 2]
-p62
-F0.0039871541770284255
-sV(2, 5]
-p63
-F0.0016953212787232479
-ssS'major'
-p64
-(dp65
-S'information'
-p66
-F0.0013574656215836675
-sS'finance'
-p67
-F0.0060612857866444774
-sS'big data'
-p68
-F0.0047585017433695006
-sS'marketing'
-p69
-F0.0036838922762622251
-sS'data science'
-p70
-F0.0040194980827375935
-sS'statistic'
-p71
-F0.0076770275774897959
-sS'machine learning'
-p72
-F0.0034234915658995415
-sS'business analytics'
-p73
-F0.013245665745169581
-sS'analytics'
-p74
-F0.0087730370952665837
-sS'computer science'
-p75
-F0.0035714749350110632
-sS'phd'
-p76
-F0.0036384288978813643
+p5
+I1
 sS'communication'
-p77
-F0.0016933971773749864
-sS'mathematics'
-p78
-F0.0035008401091181753
-sS'computer science mathematics'
-p79
-F0.007095353586804928
-sS'business'
-p80
-F0.0068061449477010219
-sS'science'
-p81
-F0.0063397549192562375
-ssS'education'
-p82
-(dp83
-VBachelor
-p84
-F0.00073424442184048539
-sVMaster
-p85
-F0.0020833645332697759
-sVDoctor
-p86
-F0.0027487357610829206
-ssS'responsibility'
-p87
-(dp88
-S'development'
-p89
-F0.00099889366322516906
-sS'information'
-p90
-F0.0013574656215836675
-sS'forecasting'
-p91
-F0.0060323931037924603
-sS'data analysis'
-p92
-F0.0060237964951436159
-sVinsight
-p93
-F0.0044970249653349809
-sS'manage data'
-p94
-F0.0094798824607294063
-sS'product'
-p95
-F0.0012366429097316828
+p6
+I1
+sS'data science'
+p7
+I1
+sS'decision support'
+p8
+I1
+sS'supply chain'
+p9
+I1
+sS'analytics'
+p10
+I1
 sS'analysis'
-p96
-F0.0010827429806161387
-sS'design experiment'
-p97
-F0.0090050305724495832
-sS'identify opportunity'
-p98
-F0.0072662703734962964
+p11
+I1
+sS'problem solving'
+p12
+I1
+sS'linux'
+p13
+I1
+sS'laboratory'
+p14
+I1
+sS'amazon web services'
+p15
+I1
+sS'xml'
+p16
+I1
+sS'git'
+p17
+I1
+sS'impala'
+p18
+I1
+sS'nosql'
+p19
+I1
+sS'big data'
+p20
+I1
+sS'excel'
+p21
+I1
+sS'hadoop'
+p22
+I1
+sS'research'
+p23
+I1
+sS'access'
+p24
+I1
+sS'json'
+p25
+I1
+sS'computer science'
+p26
+I1
+sS'web services'
+p27
+I1
+sS'mathematics'
+p28
+I1
+sS'dashboarding'
+p29
+I1
+sS'statistical data analysis'
+p30
+I1
+sS'data analysis'
+p31
+I1
+sS'finance'
+p32
+I1
+sS'python'
+p33
+I1
+sS'marketing'
+p34
+I1
+sS'data scientist'
+p35
+I1
+sS'business analytics'
+p36
+I1
+sS'leadership'
+p37
+I1
+sS'sql'
+p38
+I1
+sS'apache'
+p39
+I1
 sS'modeling'
-p99
-F0.0020856699306741806
+p40
+I1
+sS'spark'
+p41
+I1
+sS'data'
+p42
+I1
+sS'bash'
+p43
+I1
+sS'rdbms'
+p44
+I1
+sS'training'
+p45
+I1
+sS'segmentation'
+p46
+I1
+sS'presto'
+p47
+I1
+sS'science'
+p48
+I1
+sS'aws'
+p49
+I1
+sS'programming'
+p50
+I1
+sS'hive'
+p51
+I1
+sS'machine learning'
+p52
+I1
+sS'r'
+I1
+sS'customer support'
+p53
+I1
+sS'healthcare'
+p54
+I1
+sS'organization'
+p55
+I1
+sS'github'
+p56
+I1
+sS'microsoft azure'
+p57
+I1
+sS'statistical analysis'
+p58
+I1
+ssS'working-year'
+p59
+(dp60
+V(0, 2]
+p61
+I1
+sV(2, 5]
+p62
+I1
+ssS'major'
+p63
+(dp64
+S'information'
+p65
+I1
+sS'finance'
+p66
+I1
+sS'big data'
+p67
+I1
+sS'marketing'
+p68
+I1
+sS'data science'
+p69
+I1
+sS'statistic'
+p70
+I1
+sS'machine learning'
+p71
+I1
+sS'business analytics'
+p72
+I1
+sS'analytics'
+p73
+I1
+sS'computer science'
+p74
+I1
+sS'phd'
+p75
+I1
+sS'communication'
+p76
+I1
+sS'mathematics'
+p77
+I1
+sS'computer science mathematics'
+p78
+I1
+sS'business'
+p79
+I1
+sS'science'
+p80
+I1
+ssS'education'
+p81
+(dp82
+VBachelor
+p83
+I1
+sVMaster
+p84
+I1
+sVDoctor
+p85
+I1
+ssS'responsibility'
+p86
+(dp87
+S'development'
+p88
+I1
+sS'information'
+p89
+I1
+sS'forecasting'
+p90
+I1
+sS'data analysis'
+p91
+I1
+sVinsight
+p92
+I1
+sS'manage data'
+p93
+I1
+sS'product'
+p94
+I1
+sS'analysis'
+p95
+I1
+sS'design experiment'
+p96
+I1
+sS'identify opportunity'
+p97
+I1
+sS'modeling'
+p98
+I1
 ss.

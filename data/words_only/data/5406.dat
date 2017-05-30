@@ -4,68 +4,65 @@ p2
 (dp3
 S'search'
 p4
-F0.012996090879777281
+I1
 sS'data analysis'
 p5
-F0.014376380295110795
-sS'r d'
-p6
-F0.0021165706797148316
+I1
 sS'data science'
-p7
-F0.0095929258366366267
+p6
+I1
 sS'data scientist'
+p7
+I1
+sS'machine learning'
 p8
-F0.00095395512663289475
-sS'machine learning'
-p9
-F0.0081704979124303488
+I1
 sS'leadership'
+p9
+I1
+sS'computer science'
 p10
-F0.0078552414575782086
-sS'computer science'
-p11
-F0.0085236747160315571
+I1
 ssS'working-year'
-p12
-(dp13
+p11
+(dp12
 V(2, 5]
-p14
-F0.0040460502682931115
+p13
+I1
 ssS'major'
-p15
-(dp16
+p14
+(dp15
 S'data science'
-p17
-F0.0095929258366366267
+p16
+I1
 sS'machine learning'
-p18
-F0.0081704979124303488
+p17
+I1
 sS'computer science'
-p19
-F0.0085236747160315571
+p18
+I1
 sS'phd'
-p20
-F0.008683466905768409
+p19
+I1
 ssS'education'
-p21
-(dp22
+p20
+(dp21
 VDoctor
-p23
-F0.0065601270999040839
+p22
+I1
 ssS'responsibility'
-p24
-(dp25
+p23
+(dp24
 Vinsight
-p26
-F0.0053662952550260204
+p25
+I1
 sS'product'
-p27
-F0.0059027388371728773
+p26
+I1
 sS'prototype'
-p28
-F0.01228993334890385
+p27
+I1
 sS'data analysis'
-p29
-F0.014376380295110795
+p28
+I1
 ss.

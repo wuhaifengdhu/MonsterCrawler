@@ -4,95 +4,83 @@ p2
 (dp3
 S'testing'
 p4
-F0.007226671788042956
-sS'r d'
-p5
-F0.0017775528652150534
+I1
 sS'user experience'
-p6
-F0.012178059284788651
+p5
+I1
 sS'decision support'
-p7
-F0.01681795266176464
-sS'data scientist'
-p8
-F0.00080115711933671687
+p6
+I1
 sS'rest'
-p9
-F0.013753587712670896
+p7
+I1
 sS'graphic design'
-p10
-F0.022862235039697486
+p8
+I1
 sS'analytics'
-p11
-F0.0043960131765242733
+p9
+I1
 sS'user interface'
-p12
-F0.017513927418317945
+p10
+I1
 sS'user interface design'
-p13
-F0.02779483601112772
-sS'interaction design'
-p14
-F0.020129476161857441
-sS'user experience design'
-p15
-F0.020415005847662846
+p11
+I1
 sS'editing'
-p16
-F0.022072968634911132
+p12
+I1
 sS'data'
-p17
-F0.0022297641632300562
+p13
+I1
 sS'philosophy'
-p18
-F0.019145115119795129
+p14
+I1
 ssS'working-year'
+p15
+(dp16
+V(5, 10]
+p17
+I1
+sV(2, 5]
+p18
+I1
+ssS'major'
 p19
 (dp20
-V(5, 10]
-p21
-F0.0052324218888716812
-sV(2, 5]
-p22
-F0.0033979816106011417
-ssS'major'
-p23
-(dp24
 S'analytics'
-p25
-F0.0043960131765242733
+p21
+I1
 sS'philosophy'
-p26
-F0.019145115119795129
+p22
+I1
 sS'design'
-p27
-F0.035393176942171672
+p23
+I1
 sS'business'
-p28
-F0.001705219215793059
+p24
+I1
 ssS'education'
-p29
-(dp30
+p25
+(dp26
 VDoctor
-p31
-F0.0055093708111748577
+p27
+I1
 ssS'responsibility'
-p32
-(dp33
+p28
+(dp29
 S'interface'
-p34
-F0.010079843667475129
+p30
+I1
 sS'prototype'
-p35
-F0.02064283177218482
+p31
+I1
 sS'design'
-p36
-F0.035393176942171672
+p32
+I1
 sS'solve problem'
-p37
-F0.013107466584120044
+p33
+I1
 sS'business problem'
-p38
-F0.0080027386307541405
+p34
+I1
 ss.

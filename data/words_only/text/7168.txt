@@ -1,5 +1,5 @@
-skills: {'r d': 0.001159928564589484, 'communication': 0.0022148104325554197, 'testing': 0.009431419113208604, 'analytics': 0.002868584869426856, 'engineering': 0.008832318733736006, 'troubleshooting': 0.00898861170471987, 'insurance': 0.007136489765038618, 'management': 0.002406028274319846, 'saas': 0.014752782599874692, 'quality assurance': 0.009838412196534354, 'mac os': 0.01515411722088576, 'policy': 0.006649188660051175, 'government': 0.022104820123001218, 'aws': 0.006741403423440903, 'data scientist': 0.0005227889677027729, 'automation': 0.00788045609569558, 'sql': 0.005336332635868448, 'data': 0.001455015598039952, 'mac os x': 0.01723772315770392, 'communication skills': 0.008325254063989459, 'os x': 0.015033892896137258, 'r': 0.002251521886454921, 'product launch': 0.028099962856160256, 'organization': 0.0030267299539974537, 'security': 0.004507059577603568}
-working-year: {u'(2, 5]': 0.0022173269831888805}
-major: {'information': 0.0017754423242746836, 'management': 0.002406028274319846, 'communication': 0.0022148104325554197, 'automation': 0.00788045609569558, 'analytics': 0.002868584869426856, 'engineering': 0.008832318733736006}
-education: {'Bachelor': 0.0009603253313902393}
-responsibility: {'product launch': 0.028099962856160256, 'implement': 0.003759777610090682, 'understand': 0.00378818288580821, 'product': 0.0016174171389993477, 'information': 0.0017754423242746836}
+skills: {'communication': 1, 'testing': 1, 'analytics': 1, 'engineering': 1, 'troubleshooting': 1, 'insurance': 1, 'management': 1, 'saas': 1, 'quality assurance': 1, 'mac os': 1, 'policy': 1, 'government': 1, 'aws': 1, 'data scientist': 1, 'automation': 1, 'sql': 1, 'data': 1, 'mac os x': 1, 'communication skills': 1, 'os x': 1, 'r': 1, 'product launch': 1, 'organization': 1, 'security': 1}
+working-year: {u'(2, 5]': 1}
+major: {'information': 1, 'management': 1, 'communication': 1, 'automation': 1, 'analytics': 1, 'engineering': 1}
+education: {'Bachelor': 1}
+responsibility: {'product launch': 1, 'implement': 1, 'understand': 1, 'product': 1, 'information': 1}

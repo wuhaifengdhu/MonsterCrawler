@@ -2,267 +2,264 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'unsupervised learning'
 p4
-F0.0010582853398574158
-sS'classification'
-p5
-F0.0068468371298256014
+I1
 sS'text analytics'
-p6
-F0.011674654387338617
+p5
+I1
 sS'regression analysis'
+p6
+I1
+sS'communication'
 p7
-F0.011188600439432969
-sS'communication'
+I1
+sS'data science'
 p8
-F0.0020207291059912849
-sS'data science'
-p9
-F0.0047964629183183134
+I1
 sS'testing'
+p9
+I1
+sS'information retrieval'
 p10
-F0.0043024772758709353
-sS'information retrieval'
+I1
+sS'engineering'
 p11
-F0.018454092681547515
-sS'engineering'
+I1
+sS'data mining'
 p12
-F0.0053722351060868498
-sS'data mining'
-p13
-F0.011437043166404903
+I1
 sS'regression'
-p14
-F0.0061735694473057526
+p13
+I1
 sS'dimensionality reduction'
-p15
-F0.013319196441330476
+p14
+I1
 sS'clustering'
-p16
-F0.013209216161912346
+p15
+I1
 sS'access'
-p17
-F0.0046987760427160104
+p16
+I1
 sS'manufacturing'
+p17
+I1
+sS'classification'
 p18
-F0.0088594952204328562
-sS'unsupervised learning'
+I1
+sS'big data'
 p19
-F0.013056871482729427
-sS'big data'
-p20
-F0.0056783152246909245
+I1
 sS'predictive modeling'
-p21
-F0.0055756088893037774
+p20
+I1
 sS'storage'
-p22
-F0.015716783421609523
+p21
+I1
 sS'hadoop'
-p23
-F0.0030664979435529797
+p22
+I1
 sS'research'
-p24
-F0.0024573669978942285
+p23
+I1
 sS'mahout'
+p24
+I1
+sS'computer science'
 p25
-F0.010885040109514139
-sS'computer science'
+I1
+sS'natural language processing'
 p26
-F0.0042618373580157786
-sS'natural language processing'
-p27
-F0.013141662912993487
+I1
 sS'algorithm development'
-p28
-F0.0094839966380132392
+p27
+I1
 sS'unstructured data'
+p28
+I1
+sS'data analysis'
 p29
-F0.0061908847563979961
-sS'data analysis'
-p30
-F0.0071881901475553973
+I1
 sS'theory'
-p31
-F0.015151640718837707
+p30
+I1
 sS'python'
-p32
-F0.0018724630498721214
+p31
+I1
 sS'collaboration'
+p32
+I1
+sS'processing'
 p33
-F0.0046697311409946958
-sS'processing'
-p34
-F0.004106947135618399
+I1
 sS'statistical modeling'
-p35
-F0.0060281859425443569
+p34
+I1
 sS'algorithm design'
+p35
+I1
+sS'modeling'
 p36
-F0.010957644413779539
-sS'modeling'
-p37
-F0.0049776555561966262
+I1
 sS'pig'
-p38
-F0.0065775514564043597
+p37
+I1
 sS'data'
-p39
-F0.0039825426936041988
+p38
+I1
 sVbayesian network
-p40
-F0.014761498880610775
+p39
+I1
 sS'data cleaning'
-p41
-F0.012154294718582776
+p40
+I1
 sS'linear algebra'
-p42
-F0.011532749318231925
+p41
+I1
 sS'programming'
-p43
-F0.0026786991507777354
+p42
+I1
 sS'mapreduce'
-p44
-F0.0071559901728958462
+p43
+I1
 sS'hive'
+p44
+I1
+sS'machine learning'
 p45
-F0.0050906085670438181
-sS'machine learning'
-p46
-F0.0040852489562151744
+I1
 sS'data center'
-p47
-F0.0094632956889317468
+p46
+I1
 sS'r'
-F0.0020542235768171188
+I1
 sS'probability theory'
-p48
-F0.013826179113900924
+p47
+I1
 sVbayesian statistic
-p49
-F0.01246518897245702
+p48
+I1
 sS'scripting'
+p49
+I1
+sS'predictive analytics'
 p50
-F0.0054684038118111662
-sS'predictive analytics'
-p51
-F0.013141662912993487
+I1
 ssS'working-year'
-p52
-(dp53
+p51
+(dp52
 V(20, 30)
-p54
-F0.011532749318231925
+p53
+I1
 ssS'major'
-p55
-(dp56
+p54
+(dp55
 S'information'
-p57
-F0.0016198623267866959
+p56
+I1
 sS'natural language processing'
-p58
-F0.013141662912993487
+p57
+I1
 sS'business'
-p59
-F0.0010152207186809191
+p58
+I1
 sS'big data'
-p60
-F0.0056783152246909245
+p59
+I1
 sS'communication'
-p61
-F0.0020207291059912849
+p60
+I1
 sS'data science'
+p61
+I1
+sS'data mining'
 p62
-F0.0047964629183183134
-sS'data mining'
-p63
-F0.011437043166404903
+I1
 sS'statistic'
-p64
-F0.0022902472734392882
+p63
+I1
 sS'computer science statistics'
-p65
-F0.0085378805288723689
+p64
+I1
 sS'machine learning'
-p66
-F0.0040852489562151744
+p65
+I1
 sS'engineering'
+p66
+I1
+sS'design'
 p67
-F0.0053722351060868498
-sS'design'
-p68
-F0.0017559759178783624
+I1
 sS'computer science'
-p69
-F0.0042618373580157786
+p68
+I1
 sS'applied math'
-p70
-F0.0064145950152631461
+p69
+I1
 sS'information retrieval'
-p71
-F0.018454092681547515
+p70
+I1
 sS'predictive analytics'
-p72
-F0.013141662912993487
+p71
+I1
 ssS'education'
-p73
-(dp74
+p72
+(dp73
 VMaster
-p75
-F0.0024860767497523351
+p74
+I1
 sVDoctor
-p76
-F0.003280063549952042
+p75
+I1
 ssS'responsibility'
-p77
-(dp78
+p76
+(dp77
 S'development'
-p79
-F0.0011919787785393124
+p78
+I1
 sS'information'
-p80
-F0.0016198623267866959
+p79
+I1
 sS'product'
-p81
-F0.0029513694185864386
+p80
+I1
 sS'processing'
-p82
-F0.004106947135618399
+p81
+I1
 sS'business problem'
-p83
-F0.0047645170714025933
+p82
+I1
 sS'pattern'
-p84
-F0.014038129319906419
+p83
+I1
 sVinsight
-p85
-F0.0053662952550260204
+p84
+I1
 sS'communicate'
-p86
-F0.0031827531265312577
+p85
+I1
 sS'statistical model'
-p87
-F0.0047946567851155694
+p86
+I1
 sS'data analysis'
-p88
-F0.0071881901475553973
+p87
+I1
 sS'design'
-p89
-F0.0017559759178783624
+p88
+I1
 sS'data mining'
-p90
-F0.011437043166404903
+p89
+I1
 sS'understand'
-p91
-F0.0034562287154023359
+p90
+I1
 sS'modeling'
-p92
-F0.0049776555561966262
+p91
+I1
 sS'prototype'
-p93
-F0.0061449666744519248
+p92
+I1
 sS'model'
-p94
-F0.0075943770321563733
+p93
+I1
 ss.

@@ -4,113 +4,110 @@ p2
 (dp3
 S'clustering'
 p4
-F0.010333015868592721
+I1
 sS'nlp'
 p5
-F0.0249068270520874
-sS'r d'
-p6
-F0.0016557044833253119
+I1
 sS'classification'
-p7
-F0.010711987122469086
+p6
+I1
 sS'visualization'
-p8
-F0.0066836869881790207
+p7
+I1
 sS'intelligence'
+p8
+I1
+sS'data science'
 p9
-F0.015402371705018516
-sS'data science'
-p10
-F0.0075041435980141352
+I1
 sS'predictive modeling'
-p11
-F0.0087231300364913941
+p10
+I1
 sS'data scientist'
-p12
-F0.000746239090995087
+p11
+I1
 sS'causal inference'
-p13
-F0.020838097658210583
+p12
+I1
 sS'computer vision'
+p13
+I1
+sS'optimization'
 p14
-F0.016604986590640681
-sS'optimization'
+I1
+sS'computer science'
 p15
-F0.0077625687955705973
-sS'computer science'
-p16
-F0.006667713285927912
+I1
 sS'personalization'
+p16
+I1
+sS'modeling'
 p17
-F0.015320923576638576
-sS'modeling'
-p18
-F0.003893811201218329
+I1
 sS'data'
-p19
-F0.0010384587131172238
+p18
+I1
 ssS'working-year'
-p20
-(dp21
+p19
+(dp20
 V(5, 10]
-p22
-F0.0048737478077796707
+p21
+I1
 ssS'major'
-p23
-(dp24
+p22
+(dp23
 S'mathematics statistics'
-p25
-F0.013425801796978732
+p24
+I1
 sS'data science'
-p26
-F0.0075041435980141352
+p25
+I1
 sS'statistics computer science'
+p26
+I1
+sS'design'
 p27
-F0.014377424918644455
-sS'design'
-p28
-F0.0054945052914258437
+I1
 sS'computer science'
-p29
-F0.006667713285927912
+p28
+I1
 sS'statistic'
-p30
-F0.0035831287987679187
+p29
+I1
 sS'computer science engineering'
-p31
-F0.012208970890853751
+p30
+I1
 ssS'education'
-p32
-(dp33
+p31
+(dp32
 VMaster
-p34
-F0.0038895071729996211
+p33
+I1
 ssS'responsibility'
-p35
-(dp36
+p34
+(dp35
 S'large data set'
-p37
-F0.0089431013315292799
+p36
+I1
 sVinsight
-p38
-F0.0041978277398187422
+p37
+I1
 sS'optimization'
-p39
-F0.0077625687955705973
+p38
+I1
 sS'design'
-p40
-F0.0054945052914258437
+p39
+I1
 sS'solve problem'
-p41
-F0.012208970890853751
+p40
+I1
 sS'recommendation'
-p42
-F0.0073870116670200492
+p41
+I1
 sS'modeling'
-p43
-F0.003893811201218329
+p42
+I1
 sS'model'
-p44
-F0.0029703813391901944
+p43
+I1
 ss.

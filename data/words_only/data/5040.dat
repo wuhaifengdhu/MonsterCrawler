@@ -2,196 +2,193 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'data science'
 p4
-F0.001176546452334319
-sS'data science'
-p5
-F0.0053324573418553163
+I1
 sS'data warehousing'
+p5
+I1
+sS'data mining'
 p6
-F0.0094286478854069961
-sS'data mining'
-p7
-F0.012715108162077656
+I1
 sS'image processing'
+p7
+I1
+sS'management'
 p8
-F0.013146229799545434
-sS'management'
-p9
-F0.0024404985934361762
+I1
 sS'data'
-p10
-F0.00073793054685693834
+p9
+I1
 sS'recruiting'
-p11
-F0.0079463087246271769
+p10
+I1
 sS'integration'
-p12
-F0.016560279640498617
+p11
+I1
 sS'research'
+p12
+I1
+sS'computer science'
 p13
-F0.024587752311308442
-sS'computer science'
+I1
+sS'natural language processing'
 p14
-F0.0047380885240977709
-sS'natural language processing'
+I1
+sS'medicine'
 p15
-F0.014610215502124563
-sS'medicine'
-p16
-F0.013323521471028849
+I1
 sS'clinical research'
-p17
-F0.014424978912441069
+p16
+I1
 sS'signal processing'
+p17
+I1
+sS'processing'
 p18
-F0.012182137629072954
-sS'processing'
+I1
+sS'health informatics'
 p19
-F0.0045658896522061286
-sS'health informatics'
+I1
+sS'biomedical informatics'
 p20
-F0.037559531849493046
-sS'biomedical informatics'
+I1
+sS'bioinformatics'
 p21
-F0.03319197640891916
-sS'bioinformatics'
+I1
+sS'informatics'
 p22
-F0.020351380111646746
-sS'informatics'
+I1
+sS'biomedical engineering'
 p23
-F0.13732428757630818
-sS'biomedical engineering'
-p24
-F0.035515552860591104
+I1
 sS'software development'
-p25
-F0.00631245898187178
+p24
+I1
 sS'search'
+p25
+I1
+sS'science'
 p26
-F0.007224188053515164
-sS'science'
-p27
-F0.0084106204229674429
+I1
 sS'cloud computing'
+p27
+I1
+sS'analysis'
 p28
-F0.010135333800878114
-sS'analysis'
+I1
+sS'machine learning'
 p29
-F0.0028728366763625911
-sS'machine learning'
-p30
-F0.004541766747883918
+I1
 sS'healthcare'
-p31
-F0.0061186661269504849
+p30
+I1
 sS'statistical inference'
-p32
-F0.011872074715049053
+p31
+I1
 sS'hipaa'
-p33
-F0.016073578615864722
+p32
+I1
 ssS'working-year'
-p34
-(dp35
+p33
+(dp34
 V(2, 5]
-p36
-F0.002249093845412217
+p35
+I1
 ssS'major'
-p37
-(dp38
+p36
+(dp37
 S'information'
-p39
-F0.0036017569214512207
+p38
+I1
 sS'management'
-p40
-F0.0024404985934361762
+p39
+I1
 sS'phd'
-p41
-F0.0048269128358712646
+p40
+I1
 sS'bioinformatics'
-p42
-F0.020351380111646746
+p41
+I1
 sS'imaging science'
-p43
-F0.018779765924746523
+p42
+I1
 sS'science'
-p44
-F0.0084106204229674429
+p43
+I1
 sS'data science'
-p45
-F0.0053324573418553163
+p44
+I1
 sS'natural language processing'
-p46
-F0.014610215502124563
+p45
+I1
 sS'machine learning'
-p47
-F0.004541766747883918
+p46
+I1
 sS'informatics'
-p48
-F0.13732428757630818
+p47
+I1
 sS'information system'
-p49
-F0.0079277037893307652
+p48
+I1
 sS'computing'
-p50
-F0.0061039107811847347
+p49
+I1
 sS'computer science'
-p51
-F0.0047380885240977709
+p50
+I1
 sS'biomedical informatics'
+p51
+I1
+sS'data mining'
 p52
-F0.03319197640891916
-sS'data mining'
-p53
-F0.012715108162077656
+I1
 sS'medicine'
+p53
+I1
+sS'design'
 p54
-F0.013323521471028849
-sS'design'
-p55
-F0.0019522024531140533
+I1
 sS'health informatics'
-p56
-F0.037559531849493046
+p55
+I1
 sS'biomedical engineering'
-p57
-F0.035515552860591104
+p56
+I1
 sS'medical informatics'
-p58
-F0.016073578615864722
+p57
+I1
 ssS'education'
-p59
-(dp60
+p58
+(dp59
 VDoctor
-p61
-F0.0036466036028120121
+p60
+I1
 ssS'responsibility'
-p62
-(dp63
+p61
+(dp62
 S'development'
-p64
-F0.0026503596909642018
+p63
+I1
 sS'information'
-p65
-F0.0036017569214512207
+p64
+I1
 sS'provide leadership'
-p66
-F0.012671981640895917
+p65
+I1
 sS'processing'
-p67
-F0.0045658896522061286
+p66
+I1
 sS'analysis'
-p68
-F0.0028728366763625911
+p67
+I1
 sS'design'
-p69
-F0.0019522024531140533
+p68
+I1
 sS'data mining'
-p70
-F0.012715108162077656
+p69
+I1
 sS'interface'
-p71
-F0.0066717589890737958
+p70
+I1
 ss.

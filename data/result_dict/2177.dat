@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'aerospace'
 p4
 aS'nosql'
 p5
@@ -18,7 +18,7 @@ aS'mysql'
 p10
 aS'hbase'
 p11
-aS'research'
+aS'perl'
 p12
 aS'data analytics'
 p13
@@ -34,7 +34,7 @@ aS'agile'
 p18
 aS'hadoop'
 p19
-aS'perl'
+aS'research'
 p20
 aS'big data analytics'
 p21
@@ -74,82 +74,80 @@ aS'etl'
 p38
 aS'software development'
 p39
-aS'aerospace'
+aS'science'
 p40
-aS'science'
-p41
 aS'hive'
-p42
+p41
 aS'data architecture'
-p43
+p42
 aS'architecture'
-p44
+p43
 aS'oracle'
-p45
+p44
 aS'organization'
-p46
+p45
 aS'scripting'
+p46
+aS'predictive analytics'
 p47
-aS'predictive analytics'
-p48
 asS'working-year'
-p49
-(lp50
+p48
+(lp49
 V(0, 2]
-p51
+p50
 aV(2, 5]
-p52
+p51
 asS'major'
-p53
-(lp54
+p52
+(lp53
 S'management'
-p55
+p54
 aS'business'
-p56
+p55
 aS'big data'
-p57
+p56
 aS'science'
-p58
+p57
 aS'phd'
-p59
+p58
 aS'big data analytics'
-p60
+p59
 aS'analytics'
-p61
+p60
 aS'engineering'
+p61
+aS'design'
 p62
-aS'design'
-p63
 aS'computer science'
-p64
+p63
 aS'law'
-p65
+p64
 aS'ee computer science'
-p66
+p65
 aS'data analytics'
-p67
+p66
 aS'predictive analytics'
-p68
+p67
 asS'education'
-p69
-(lp70
+p68
+(lp69
 VBachelor
-p71
+p70
 aVMaster
-p72
+p71
 aVDoctor
-p73
+p72
 asS'responsibility'
-p74
-(lp75
+p73
+(lp74
 S'development'
-p76
+p75
 aS'understand'
-p77
+p76
 aS'product'
-p78
+p77
 aS'processing'
-p79
+p78
 aS'design'
-p80
+p79
 as.

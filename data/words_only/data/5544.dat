@@ -4,182 +4,179 @@ p2
 (dp3
 S'nlp'
 p4
-F0.018114056037881746
-sS'r d'
-p5
-F0.0012041487151456813
+I1
 sS'text analytics'
+p5
+I1
+sS'communication'
 p6
-F0.013283770974449806
-sS'communication'
+I1
+sS'information retrieval'
 p7
-F0.0045984920417866193
-sS'information retrieval'
+I1
+sS'analytics'
 p8
-F0.02099761865231799
-sS'analytics'
-p9
-F0.0029779444099035397
+I1
 sS'education'
-p10
-F0.004361458240833364
+p9
+I1
 sS'open source'
-p11
-F0.0074011034687317002
+p10
+I1
 sS'team building'
-p12
-F0.011392806641840562
+p11
+I1
 sS'deep learning'
-p13
-F0.0083099095083087656
+p12
+I1
 sS'access'
-p14
-F0.0053464079313015013
+p13
+I1
 sS'teamwork'
+p14
+I1
+sS'computer science'
 p15
-F0.0079120117296167317
-sS'computer science'
+I1
+sS'natural language processing'
 p16
-F0.004849246026129391
-sS'natural language processing'
-p17
-F0.014952977156133352
+I1
 sS'gpu'
+p17
+I1
+sS'artificial intelligence'
 p18
-F0.014952656172036574
-sS'artificial intelligence'
-p19
-F0.019595467064933942
+I1
 sS'segmentation'
-p20
-F0.0082596102062777333
+p19
+I1
 sS'python'
-p21
-F0.002130544467303176
+p20
+I1
 sS'collaboration'
+p21
+I1
+sS'processing'
 p22
-F0.0053133597733312082
-sS'processing'
-p23
-F0.004673007298005686
+I1
 sS'theano'
+p23
+I1
+sS'computational linguistics'
 p24
-F0.012969271532764443
-sS'computational linguistics'
-p25
-F0.029905312344073148
+I1
 sS'tensorflow'
-p26
-F0.011089650875108792
+p25
+I1
 sS'java'
-p27
-F0.0041330836793842061
+p26
+I1
 sS'software development'
-p28
-F0.0064605518612118806
+p27
+I1
 sS'word'
-p29
-F0.0087942482938419345
+p28
+I1
 sS'sentiment analysis'
-p30
-F0.011541696108408925
+p29
+I1
 sS'programming'
+p30
+I1
+sS'analysis'
 p31
-F0.0060958080381334975
-sS'analysis'
+I1
+sS'machine learning'
 p32
-F0.0014701173021268979
-sS'machine learning'
-p33
-F0.0046483184604442455
+I1
 sS'speech recognition'
+p33
+I1
+sS'electrical engineering'
 p34
-F0.016796074972659766
-sS'electrical engineering'
-p35
-F0.020273627280227004
+I1
 ssS'working-year'
-p36
-(dp37
+p35
+(dp36
 V(2, 5]
-p38
-F0.0023018585104072251
+p37
+I1
 ssS'major'
-p39
-(dp40
+p38
+(dp39
 S'information'
-p41
-F0.0036862556175556479
+p40
+I1
 sS'law'
-p42
-F0.005241226582048817
+p41
+I1
 sS'computing'
-p43
-F0.01249422206823151
+p42
+I1
 sS'communication'
-p44
-F0.0045984920417866193
+p43
+I1
 sS'machine learning'
-p45
-F0.0046483184604442455
+p44
+I1
 sS'computer science artificial intelligence'
-p46
-F0.021705089015511349
+p45
+I1
 sS'analytics'
-p47
-F0.0029779444099035397
+p46
+I1
 sS'computer science'
-p48
-F0.004849246026129391
+p47
+I1
 sS'natural language processing'
-p49
-F0.014952977156133352
+p48
+I1
 sS'electrical engineering'
-p50
-F0.020273627280227004
+p49
+I1
 sS'phd'
-p51
-F0.0098803083854491006
+p50
+I1
 sS'information retrieval'
-p52
-F0.02099761865231799
+p51
+I1
 sS'artificial intelligence'
-p53
-F0.019595467064933942
+p52
+I1
 sS'computational linguistics'
-p54
-F0.029905312344073148
+p53
+I1
 ssS'education'
-p55
-(dp56
+p54
+(dp55
 VMaster
-p57
-F0.0028287324894542701
+p56
+I1
 sVDoctor
-p58
-F0.0037321544204732908
+p57
+I1
 ssS'responsibility'
-p59
-(dp60
+p58
+(dp59
 S'development'
-p61
-F0.0013562691087192177
+p60
+I1
 sS'information'
-p62
-F0.0036862556175556479
+p61
+I1
 sS'product'
-p63
-F0.0016790782029494694
+p62
+I1
 sVinsight
-p64
-F0.0030529656289590853
+p63
+I1
 sS'processing'
-p65
-F0.004673007298005686
+p64
+I1
 sS'analysis'
-p66
-F0.0014701173021268979
+p65
+I1
 sS'model'
-p67
-F0.0021602773375928685
+p66
+I1
 ss.

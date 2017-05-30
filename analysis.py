@@ -11,6 +11,7 @@ from lib.cluster_helper import ClusterHelper
 from lib.tfidf import TFIDF
 import operator
 import csv
+import random
 
 
 class Main(object):
@@ -170,10 +171,15 @@ class Main(object):
                 if 'responsibility' in phrase_dict:
                     responsibility_list.extend(phrase_dict['responsibility'].keys())
         year_list = list(set(year_list))
+        print ("year list count: %d" % len(year_list))
         education_list = list(set(education_list))
+        print("education_list list count: %d" % len(education_list))
         major_list = list(set(major_list))
+        print("major_list list count: %d" % len(major_list))
         skill_list = list(set(skill_list))
+        print("skill_list list count: %d" % len(skill_list))
         responsibility_list = list(set(responsibility_list))
+        print("responsibility_list list count: %d" % len(responsibility_list))
         StoreHelper.store_data([year_list, education_list, major_list, skill_list, responsibility_list], 'vector.dat')
 
         position_vectors = {}
@@ -210,41 +216,46 @@ class Main(object):
                 csv_column.append(item)
 
         # Generate data
-        data_column = []
         data_dict = StoreHelper.load_data('./data/position_vector.dat', {})
         print ("data_dict row=%d, column=%d" % (len(data_dict), len(data_dict[1])))
         tag_dict = StoreHelper.load_data('./lib/position_tag.dat', {})
+
+        tag_dict = {key: value for key, value in tag_dict.items() if len(value) > 50}
+        print ("Tag dict keys after filter: %s" % (str(tag_dict.keys())))
         for key in tag_dict:
+            data_column = []
             for number in tag_dict[key]:
                 row_value = [int(key), number]
                 row_value.extend(data_dict[number])
                 data_column.append(row_value)
-        sort_csv_column, sort_data_column = Main.sort_column(csv_column, data_column, vector_list, 2)
-        Main.write_list_to_csv('feature.csv', sort_csv_column, sort_data_column)
+            print("data_column row=%d, column=%d" % (len(data_column), len(data_column[1])))
+            sort_csv_column, sort_data_column = Main.sort_column(csv_column, data_column, vector_list, 2)
+            print("sort_data_column row=%d, column=%d" % (len(sort_data_column), len(sort_data_column[1])))
+            Main.write_list_to_csv('feature_class_%d.csv' % key, sort_csv_column, sort_data_column)
 
     @staticmethod
     def sort_column(csv_column, data_column, vector_list, start):
         new_csv_column = csv_column[: start]
         # convert to column index
         data_column = [[data_column[i][j] for i in range(len(data_column))] for j in range(len(data_column[0]))]
+        for column_list in data_column:
+            column_list.insert(0, sum(column_list))
         new_data_column = data_column[: start]
-        sum_record_list = []
         for item_list in vector_list:
             origin_data_dict = {}
             print ("Working on area: %s" % csv_column[start: start + len(item_list)])
             for i in range(start, start + len(item_list)):
-                origin_data_dict[sum(data_column[i])] = (csv_column[i], data_column[i])
+                tmp_key = data_column[i][0]
+                while tmp_key in origin_data_dict:
+                    tmp_key += random.random()
+                origin_data_dict[tmp_key] = (csv_column[i], data_column[i])
             sorted_list = DictHelper.get_sorted_list(origin_data_dict, sorted_by_key=True)
             print ("after sort:")
             for sum_value, columns in sorted_list:
-                print ("%s: %d" % (columns[0], sum_value))
-                sum_record_list.append((columns[0], sum_value))
                 new_csv_column.append(columns[0])
                 new_data_column.append(columns[1])
             start += len(item_list)
         # convert back to row indexed
-        StoreHelper.store_data(sum_record_list, 'sum_record.dat')
-        StoreHelper.save_file(sum_record_list, 'sum_record.txt')
         new_data_column = [[new_data_column[i][j] for i in range(len(new_data_column))] for j in range(len(new_data_column[0]))]
         return new_csv_column, new_data_column
 
@@ -343,7 +354,7 @@ class Main(object):
         # Main.convert_position()
 
         # step 2, compute tfidf for each position
-        # Main.get_tfidf(value_with_01=False)
+        # Main.get_tfidf(value_with_01=True)
 
         # step 3, filter only contain 5 features words
         # Main.get_only_words_in_5()

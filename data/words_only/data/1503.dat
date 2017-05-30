@@ -2,165 +2,150 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'data scientist'
 p4
-F0.0014014153988555541
+I1
 sS'data science'
 p5
-F0.0063516300761348315
+I1
 sS'analytics'
 p6
-F0.013863195136888834
+I1
 sS'management'
 p7
-F0.0087208260318350737
+I1
 sS'big data'
 p8
-F0.0075194071917408832
-sS'industrial engineering'
-p9
-F0.02974010323557652
+I1
 sS'hadoop'
-p10
-F0.0081215099119355382
-sS'computer science'
-p11
-F0.0056436617573724307
+p9
+I1
 sS'customer service'
-p12
-F0.011978308374740006
+p10
+I1
 sS'advanced analytics'
-p13
-F0.014888681447738326
+p11
+I1
 sS'unstructured data'
-p14
-F0.00819816820983762
+p12
+I1
 sS'pyspark'
-p15
-F0.018460781758725342
+p13
+I1
 sS'python'
-p16
-F0.0024795756428340719
+p14
+I1
 sS'marketing'
-p17
-F0.0058213041771652228
-sS'data scientist'
-p18
-F0.00063162899169550031
-sS'apache spark'
-p19
-F0.012586647448218665
-sS'sql'
-p20
-F0.0032236548687669467
-sS'apache'
-p21
-F0.010777321851882246
-sS'spark'
-p22
-F0.005407947608848422
-sS'credit risk'
-p23
-F0.015152272431998627
-sS'customer experience'
-p24
-F0.010571381629837749
-sS'fraud'
-p25
-F0.023773364625072776
-sS'science'
-p26
-F0.0050090555078765144
+p15
+I1
 sS'aws'
-p27
-F0.0081449037948739932
+p16
+I1
+sS'apache spark'
+p17
+I1
+sS'sql'
+p18
+I1
+sS'apache'
+p19
+I1
+sS'spark'
+p20
+I1
+sS'credit risk'
+p21
+I1
+sS'customer experience'
+p22
+I1
+sS'fraud'
+p23
+I1
+sS'science'
+p24
+I1
 sS'hive'
-p28
-F0.0067411471809317456
+p25
+I1
 sS'machine learning'
-p29
-F0.0054098177304146332
+p26
+I1
 sS'credit'
-p30
-F0.018416354947435536
+p27
+I1
 sS'h2o'
-p31
-F0.013293164478724096
+p28
+I1
 sS'r'
-F0.0027202687638397337
+I1
 sS'financial services'
-p32
-F0.012559012612795689
+p29
+I1
 ssS'working-year'
+p30
+(dp31
+V(5, 10]
+p32
+I1
+ssS'major'
 p33
 (dp34
-V(5, 10]
-p35
-F0.0041252199874722128
-ssS'major'
-p36
-(dp37
 S'management'
-p38
-F0.0087208260318350737
+p35
+I1
 sS'business'
-p39
-F0.0053775513835931281
+p36
+I1
 sS'big data'
-p40
-F0.0075194071917408832
+p37
+I1
 sS'marketing'
-p41
-F0.0058213041771652228
+p38
+I1
 sS'data science'
-p42
-F0.0063516300761348315
+p39
+I1
 sS'machine learning'
-p43
-F0.0054098177304146332
+p40
+I1
 sS'analytics'
-p44
-F0.013863195136888834
+p41
+I1
 sS'design'
-p45
-F0.0023253196455181044
-sS'computer science'
-p46
-F0.0056436617573724307
+p42
+I1
 sS'machine learning big data'
-p47
-F0.0168761300072508
+p43
+I1
 sS'science'
-p48
-F0.0050090555078765144
+p44
+I1
 sS'advanced analytics'
-p49
-F0.014888681447738326
-sS'industrial engineering'
-p50
-F0.02974010323557652
+p45
+I1
 ssS'education'
-p51
-(dp52
+p46
+(dp47
 VDoctor
-p53
-F0.0043435653835542393
+p48
+I1
 ssS'responsibility'
-p54
-(dp55
+p49
+(dp50
 S'development'
-p56
-F0.0015784565394991578
+p51
+I1
 sS'analytic'
-p57
-F0.0051006225365406955
+p52
+I1
 sVinsight
-p58
-F0.0035531101688568191
+p53
+I1
 sS'design'
-p59
-F0.0023253196455181044
+p54
+I1
 sS'business problem'
-p60
-F0.006309326360765209
+p55
+I1
 ss.

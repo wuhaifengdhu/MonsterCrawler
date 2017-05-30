@@ -4,144 +4,136 @@ p2
 (lp3
 S'nlp'
 p4
-aS'r d'
+aS'data science'
 p5
-aS'data science'
+aS'analytics'
 p6
-aS'analytics'
+aS'marketing management'
 p7
-aS'marketing management'
-p8
 aS'clustering'
-p9
+p8
 aS'visualization'
-p10
+p9
 aS'management'
+p10
+aS'big data'
 p11
-aS'big data'
-p12
 aS'scala'
-p13
+p12
 aS'deep learning'
-p14
+p13
 aS'predictive modeling'
-p15
+p14
 aS'hadoop'
-p16
+p15
 aS'research'
-p17
-aS'big data analytics'
-p18
-aS'computer science'
-p19
-aS'elasticsearch'
-p20
-aS'financial services'
-p21
-aS'distributed computing'
-p22
-aS'marketing'
-p23
-aS'data scientist'
-p24
-aS'leadership'
-p25
-aS'modeling'
-p26
-aS'spark'
-p27
-aS'manufacturing'
-p28
-aS'data'
-p29
-aS'fraud'
-p30
-aS'data visualization'
-p31
-aS'science'
-p32
-aS'machine learning'
-p33
-aS'lucene'
-p34
-aS'solr'
-p35
-aS'customer support'
-p36
-aS'product management'
-p37
+p16
 aS'mahout'
-p38
-aS'data analytics'
-p39
-aS'predictive analytics'
-p40
-asS'working-year'
-p41
-(lp42
-V(5, 10]
-p43
-aV(2, 5]
-p44
-asS'major'
-p45
-(lp46
-S'management'
-p47
-aS'business'
-p48
-aS'big data'
-p49
-aS'computing'
-p50
-aS'marketing'
-p51
-aS'data science'
-p52
-aS'machine learning'
-p53
-aS'big data analytics'
-p54
-aS'analytics'
-p55
+p17
 aS'computer science'
-p56
-aS'science'
-p57
-aS'machine learning engineer'
-p58
-aS'phd'
-p59
-aS'marketing management'
-p60
-aS'data analytics'
-p61
-aS'predictive analytics'
-p62
-asS'education'
-p63
-(lp64
-VBachelor
-p65
-aVMaster
-p66
-aVDoctor
-p67
-asS'responsibility'
-p68
-(lp69
-S'product'
-p70
-aVinsight
-p71
-aS'understand'
-p72
-aS'recommendation'
-p73
-aS'report'
-p74
+p18
+aS'elasticsearch'
+p19
+aS'financial services'
+p20
+aS'distributed computing'
+p21
+aS'marketing'
+p22
+aS'data scientist'
+p23
+aS'leadership'
+p24
 aS'modeling'
-p75
+p25
+aS'spark'
+p26
+aS'manufacturing'
+p27
+aS'data'
+p28
+aS'fraud'
+p29
+aS'science'
+p30
+aS'machine learning'
+p31
+aS'lucene'
+p32
+aS'solr'
+p33
+aS'customer support'
+p34
+aS'product management'
+p35
+aS'data analytics'
+p36
+aS'predictive analytics'
+p37
+asS'working-year'
+p38
+(lp39
+V(5, 10]
+p40
+aV(2, 5]
+p41
+asS'major'
+p42
+(lp43
+S'management'
+p44
+aS'business'
+p45
+aS'big data'
+p46
+aS'computing'
+p47
+aS'marketing'
+p48
+aS'data science'
+p49
+aS'machine learning'
+p50
+aS'analytics'
+p51
+aS'computer science'
+p52
+aS'science'
+p53
+aS'machine learning engineer'
+p54
+aS'phd'
+p55
+aS'marketing management'
+p56
+aS'data analytics'
+p57
+aS'predictive analytics'
+p58
+asS'education'
+p59
+(lp60
+VBachelor
+p61
+aVMaster
+p62
+aVDoctor
+p63
+asS'responsibility'
+p64
+(lp65
+S'product'
+p66
+aVinsight
+p67
+aS'understand'
+p68
+aS'recommendation'
+p69
+aS'report'
+p70
+aS'modeling'
+p71
 aS'implement'
-p76
+p72
 as.

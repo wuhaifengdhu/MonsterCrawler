@@ -2,154 +2,152 @@
 S'skills'
 p2
 (lp3
-S'r d'
-p4
-aS'communication'
-p5
-aS'data science'
-p6
-aS'human resources'
-p7
-aS'analytics'
-p8
-aS'data mining'
-p9
-aS'education'
-p10
-aS'insurance'
-p11
-aS'management'
-p12
-aS'programming languages'
-p13
-aS'team building'
-p14
-aS'agile'
-p15
-aS'predictive modeling'
-p16
-aS'computer science'
-p17
-aS'advanced analytics'
-p18
-aS'mathematics'
-p19
-aS'data management'
-p20
-aS'data analysis'
-p21
-aS'data scientist'
-p22
-aS'sql'
-p23
-aS'modeling'
-p24
-aS'data'
-p25
-aS'project management'
-p26
-aS'training'
-p27
-aS'property casualty insurance'
-p28
-aS'solver'
-p29
-aS'science'
-p30
-aS'applied mathematics'
-p31
-aS'programming'
-p32
-aS'analysis'
-p33
-aS'machine learning'
-p34
-asS'working-year'
-p35
-(lp36
-V(0, 2]
-p37
-aV(2, 5]
-p38
-asS'major'
-p39
-(lp40
 S'communication'
-p41
+p4
 aS'data science'
-p42
-aS'statistic'
-p43
-aS'general'
-p44
+p5
+aS'human resources'
+p6
 aS'analytics'
-p45
-aS'applied mathematics statistics'
-p46
+p7
 aS'data mining'
-p47
-aS'information'
-p48
+p8
+aS'education'
+p9
+aS'insurance'
+p10
 aS'management'
-p49
+p11
+aS'programming languages'
+p12
+aS'team building'
+p13
+aS'agile'
+p14
+aS'predictive modeling'
+p15
 aS'computer science'
-p50
+p16
 aS'advanced analytics'
-p51
+p17
 aS'mathematics'
-p52
-aS'business'
-p53
-aS'phd'
-p54
-aS'mathematics statistics'
-p55
-aS'machine learning data mining'
-p56
-aS'project management'
-p57
-aS'science'
-p58
-aS'applied mathematics'
-p59
-aS'machine learning'
-p60
-aS'statistics computer science'
-p61
-aS'applied math'
-p62
-asS'education'
-p63
-(lp64
-VMaster
-p65
-aVDoctor
-p66
-asS'responsibility'
-p67
-(lp68
-S'development'
-p69
-aS'information'
-p70
+p18
+aS'data management'
+p19
 aS'data analysis'
-p71
-aS'business problem'
-p72
-aS'recommendation'
-p73
-aS'communicate'
-p74
-aS'analysis'
-p75
-aS'understand'
-p76
-aS'data mining'
-p77
+p20
+aS'data scientist'
+p21
+aS'sql'
+p22
 aS'modeling'
-p78
+p23
+aS'data'
+p24
+aS'project management'
+p25
+aS'training'
+p26
+aS'property casualty insurance'
+p27
+aS'solver'
+p28
+aS'science'
+p29
+aS'applied mathematics'
+p30
+aS'programming'
+p31
+aS'analysis'
+p32
+aS'machine learning'
+p33
+asS'working-year'
+p34
+(lp35
+V(0, 2]
+p36
+aV(2, 5]
+p37
+asS'major'
+p38
+(lp39
+S'communication'
+p40
+aS'data science'
+p41
+aS'statistic'
+p42
+aS'general'
+p43
+aS'analytics'
+p44
+aS'applied mathematics statistics'
+p45
+aS'data mining'
+p46
+aS'information'
+p47
+aS'management'
+p48
+aS'computer science'
+p49
+aS'advanced analytics'
+p50
+aS'mathematics'
+p51
+aS'business'
+p52
+aS'phd'
+p53
+aS'mathematics statistics'
+p54
+aS'machine learning data mining'
+p55
+aS'project management'
+p56
+aS'science'
+p57
+aS'applied mathematics'
+p58
+aS'machine learning'
+p59
+aS'statistics computer science'
+p60
+aS'applied math'
+p61
+asS'education'
+p62
+(lp63
+VMaster
+p64
+aVDoctor
+p65
+asS'responsibility'
+p66
+(lp67
+S'development'
+p68
+aS'information'
+p69
+aS'data analysis'
+p70
+aS'business problem'
+p71
+aS'recommendation'
+p72
+aS'communicate'
+p73
+aS'analysis'
+p74
+aS'understand'
+p75
+aS'data mining'
+p76
+aS'modeling'
+p77
 aS'implement'
-p79
+p78
 aS'model'
-p80
+p79
 as.

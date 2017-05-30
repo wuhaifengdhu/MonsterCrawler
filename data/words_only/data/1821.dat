@@ -4,121 +4,118 @@ p2
 (dp3
 S'logistics'
 p4
-F0.011691008074108531
-sS'r'
-F0.0021541587778514649
-sS'data scientist'
+I1
+sS'microsoft azure'
 p5
-F0.00050018187720751782
-sS'r d'
+I1
+sS'data scientist'
 p6
-F0.0011097694915261551
-sS'recruiting'
+I1
+sS'linear regression'
 p7
-F0.0074953020132294181
-sS'programming'
+I1
+sS'recruiting'
 p8
-F0.002809014244599355
+I1
 sS'agile'
 p9
-F0.0051581665163215442
-sS'etl'
+I1
+sS'programming'
 p10
-F0.0071410407733576006
-sS'r programming'
+I1
+sS'machine learning'
 p11
-F0.0087357522803948665
-sS'linear regression'
+I1
+sS'insurance'
 p12
-F0.011952761061277501
+I1
 sS'analytics'
 p13
-F0.0027445379561543437
-sS'machine learning'
+I1
+sS'r'
+I1
+sS'computer science'
 p14
-F0.0042839907973283454
-sS'insurance'
-p15
-F0.0068278848022261373
+I1
 sS'performance tuning'
-p16
-F0.011732910731081061
+p15
+I1
 sS'policy'
-p17
-F0.0063616561774543674
+p16
+I1
 sS'security'
-p18
-F0.0086243194079549373
+p17
+I1
 sS'education'
-p19
-F0.0040196142165518306
+p18
+I1
 sS'data'
-p20
-F0.002784192009222395
+p19
+I1
 sS'regression'
+p20
+I1
+sS'etl'
 p21
-F0.0064739052582557625
-sS'microsoft azure'
+I1
+sS'r programming'
 p22
-F0.013287933563824645
-sS'computer science'
-p23
-F0.0044691699862435741
+I1
 ssS'working-year'
-p24
-(dp25
+p23
+(dp24
 V(2, 5]
-p26
-F0.0021214425731050372
+p25
+I1
 ssS'major'
-p27
-(dp28
+p26
+(dp27
 S'information'
-p29
-F0.0016986664399817244
+p28
+I1
 sS'business'
-p30
-F0.0021292196694497117
+p29
+I1
 sS'machine learning'
-p31
-F0.0042839907973283454
+p30
+I1
 sS'analytics'
-p32
-F0.0027445379561543437
+p31
+I1
 sS'computer science'
-p33
-F0.0044691699862435741
+p32
+I1
 sS'ee computer science'
-p34
-F0.0061077717738596323
+p33
+I1
 ssS'education'
-p35
-(dp36
+p34
+(dp35
 VBachelor
-p37
-F0.00091879774949228307
+p36
+I1
 sVMaster
-p38
-F0.0026070210240646111
+p37
+I1
 ssS'responsibility'
-p39
-(dp40
+p38
+(dp39
 S'development'
-p41
-F0.0012499669353331169
+p40
+I1
 sS'information'
-p42
-F0.0016986664399817244
+p41
+I1
 sS'mine data'
-p43
-F0.011377303902202564
+p42
+I1
 sS'product'
-p44
-F0.0015474747762318083
+p43
+I1
 sS'model'
-p45
-F0.011945749818148674
+p44
+I1
 sS'implement'
-p46
-F0.0035971926323570312
+p45
+I1
 ss.

@@ -2,196 +2,193 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-F0.0011469684688957468
-sS'communication'
+I1
+sS'data science'
 p5
-F0.0021900639472754711
-sS'data science'
+I1
+sS'information retrieval'
 p6
-F0.0051984011516969433
-sS'information retrieval'
+I1
+sS'analytics'
 p7
-F0.020000525029163229
-sS'analytics'
+I1
+sS'engineering'
 p8
-F0.0085096009255064831
-sS'engineering'
-p9
-F0.0029112112027398014
+I1
 sS'system design'
-p10
-F0.011468196530546924
+p9
+I1
 sS'go'
+p10
+I1
+sS'distributed systems'
 p11
-F0.0078390372045150647
-sS'distributed systems'
-p12
-F0.031338988474507196
+I1
 sS'networking'
+p12
+I1
+sS'big data'
 p13
-F0.010324164272384081
-sS'big data'
-p14
-F0.0061541516960337403
+I1
 sS'storage'
+p14
+I1
+sS'computer science'
 p15
-F0.0085169161558442657
-sS'computer science'
+I1
+sS'marketing'
 p16
-F0.004618974566788051
-sS'marketing'
-p17
-F0.0047643634746072907
+I1
 sS'data scientist'
-p18
-F0.00051694775018654073
+p17
+I1
 sS'leadership'
-p19
-F0.0042567509574585822
+p18
+I1
 sS'mobile marketing'
-p20
-F0.014984797475401003
+p19
+I1
 sS'data'
-p21
-F0.0064744129823397865
+p20
+I1
 sS'search'
+p21
+I1
+sS'science'
 p22
-F0.098596041423114789
-sS'science'
+I1
+sS'economics'
 p23
-F0.0040995901223682095
-sS'economics'
+I1
+sS'analysis'
 p24
-F0.0068645247245397627
-sS'analysis'
+I1
+sS'machine learning'
 p25
-F0.0070015363132021249
-sS'machine learning'
-p26
-F0.0044275882542220328
+I1
 sS'customer analytics'
-p27
-F0.014536915251255415
+p26
+I1
 sS'advertising'
-p28
-F0.0082539711513910617
+p27
+I1
 sS'retail'
-p29
-F0.007964051885614002
+p28
+I1
 ssS'working-year'
-p30
-(dp31
+p29
+(dp30
 V(5, 10]
-p32
-F0.0033762275316462525
+p31
+I1
 sV(2, 5]
-p33
-F0.002192552380024759
+p32
+I1
 ssS'major'
-p34
-(dp35
+p33
+(dp34
 S'information'
-p36
-F0.0017556049798693799
+p35
+I1
 sS'business'
-p37
-F0.0099026557252339942
+p36
+I1
 sS'big data'
-p38
-F0.0061541516960337403
+p37
+I1
 sS'statistics economics'
-p39
-F0.012706184060897912
+p38
+I1
 sS'marketing'
-p40
-F0.0047643634746072907
+p39
+I1
 sS'data science'
-p41
-F0.0051984011516969433
+p40
+I1
 sS'economics'
-p42
-F0.0068645247245397627
+p41
+I1
 sS'statistic'
-p43
-F0.0024821674360179995
+p42
+I1
 sS'data analyst'
-p44
-F0.0077014171002864305
+p43
+I1
 sS'machine learning'
-p45
-F0.0044275882542220328
+p44
+I1
 sS'analytics'
-p46
-F0.0085096009255064831
+p45
+I1
 sS'engineering'
+p46
+I1
+sS'design'
 p47
-F0.0029112112027398014
-sS'design'
-p48
-F0.0019031247378123036
+I1
 sS'computer science'
-p49
-F0.004618974566788051
+p48
+I1
 sS'communication'
-p50
-F0.0021900639472754711
+p49
+I1
 sS'analytics data science'
-p51
-F0.011236670732729451
+p50
+I1
 sS'computer science engineering'
-p52
-F0.0084576111199210352
+p51
+I1
 sS'information retrieval'
-p53
-F0.020000525029163229
+p52
+I1
 sS'ee computer science'
-p54
-F0.0063125015539890047
+p53
+I1
 sS'distributed systems'
-p55
-F0.031338988474507196
+p54
+I1
 sS'science'
-p56
-F0.0040995901223682095
+p55
+I1
 ssS'education'
-p57
-(dp58
+p56
+(dp57
 VBachelor
-p59
-F0.00094959543941939867
+p58
+I1
 sVDoctor
-p60
-F0.0035549292105625484
+p59
+I1
 ssS'responsibility'
-p61
-(dp62
+p60
+(dp61
 S'development'
-p63
-F0.002583730536722085
+p62
+I1
 sS'information'
-p64
-F0.0017556049798693799
+p63
+I1
 sS'product'
-p65
-F0.0047980363173667799
+p64
+I1
 sVinsight
-p66
-F0.0029079924007682908
+p65
+I1
 sS'communicate'
-p67
-F0.0034494642823858323
+p66
+I1
 sS'analysis'
-p68
-F0.0070015363132021249
+p67
+I1
 sS'understand'
-p69
-F0.0037458568200449899
+p68
+I1
 sS'develop system'
-p70
-F0.014642334593504423
+p69
+I1
 sS'design'
-p71
-F0.0019031247378123036
+p70
+I1
 ss.

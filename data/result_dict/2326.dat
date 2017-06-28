@@ -2,51 +2,52 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
-aS'documentation'
+aS'management'
 p5
-aS'data scientist'
-p6
-aS'analysis'
-p7
-aS'analytics'
-p8
-aS'business requirements'
-p9
-aS'advanced analytics'
-p10
-aS'data'
-p11
-asS'working-year'
-p12
-(lp13
-V[0]
-p14
-asS'major'
-p15
-(lp16
-S'advanced analytics'
-p17
-aS'analytics'
-p18
-aS'business'
-p19
-asS'education'
-p20
-(lp21
-S'Bachelor'
-p22
-asS'responsibility'
-p23
-(lp24
-S'product'
-p25
 aS'documentation'
-p26
+p6
+aS'data scientist'
+p7
 aS'analysis'
+p8
+aS'analytics'
+p9
+aS'business requirements'
+p10
+aS'advanced analytics'
+p11
+aS'data'
+p12
+asS'working-year'
+p13
+(lp14
+S'[0]'
+p15
+asS'major'
+p16
+(lp17
+VData Science
+p18
+aVBusiness
+p19
+aVManagement Science and Engineering
+p20
+asS'education'
+p21
+(lp22
+VMaster
+p23
+asS'responsibility'
+p24
+(lp25
+S'product'
+p26
+aS'documentation'
 p27
-aS'statistical model'
+aS'analysis'
 p28
 aS'understand'
 p29

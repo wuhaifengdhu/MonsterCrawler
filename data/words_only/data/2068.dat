@@ -4,184 +4,189 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.01686204995978411
 sS'communication'
 p5
-I1
+F0.0078764644731883406
 sS'testing'
 p6
-I1
+F0.0050929801365671963
 sS'sentiment analysis'
 p7
-I1
+F0.010454361263214133
 sS'engineering'
 p8
-I1
-sS'research'
+F0.0060938048610629583
+sS'sas'
 p9
-I1
-sS'predictive modeling'
+F0.0034458628275557627
+sS'research'
 p10
-I1
-sS'tableau'
+F0.0021222894071187518
+sS'management'
 p11
-I1
-sS'strategy'
+F0.0022538529034817219
+sS'predictive modeling'
 p12
-I1
-sS'access'
+F0.0051716564892760443
+sS'tableau'
 p13
-I1
-sS'r'
-I1
-sS'innovation'
+F0.0049975773311537108
+sS'strategy'
 p14
-I1
-sS'data management'
+F0.0078358777672976852
+sS'access'
 p15
-I1
-sS'segmentation'
+F0.0057698060325782454
+sS'r'
+F0.0013805778771491073
+sS'innovation'
 p16
-I1
-sS'government'
+F0.0048154842590416008
+sS'data management'
 p17
-I1
-sS'python'
+F0.0068405923000230615
+sS'segmentation'
 p18
-I1
-sS'marketing'
+F0.0072041077416170173
+sS'government'
 p19
-I1
-sS'data scientist'
+F0.0064853719294252869
+sS'python'
 p20
-I1
-sS'multivariate testing'
-p21
-I1
-sS'business analytics'
-p22
-I1
-sS'sql'
-p23
-I1
-sS'modeling'
-p24
-I1
-sS'data'
-p25
-I1
-sS'b2b'
-p26
-I1
-sS'b testing'
-p27
-I1
-sS'data visualization'
-p28
-I1
-sS'analytics'
-p29
-I1
-sS'marketing analytics'
-p30
-I1
-sS'analysis'
-p31
-I1
-sS'machine learning'
-p32
-I1
-sS'google analytics'
-p33
-I1
-sS'optimization'
-p34
-I1
-sS'dashboard'
-p35
-I1
-sS'predictive analytics'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'business'
-p42
-I1
+F0.0012966455541126019
 sS'marketing'
-p43
-I1
-sS'marketing analytics'
-p44
-I1
-sS'machine learning'
-p45
-I1
+p21
+F0.061611414905990376
+sS'data scientist'
+p22
+F0.0026352528984176075
+sS'multivariate testing'
+p23
+F0.013665737726574076
 sS'business analytics'
-p46
-I1
+p24
+F0.0075561795862166999
+sS'sql'
+p25
+F0.0033927555165823237
+sS'modeling'
+p26
+F0.0020202629080138122
+sS'data'
+p27
+F0.0014751428840108572
+sS'b2b'
+p28
+F0.0086460812228810295
+sS'a'
+F0.0046518455065025534
+sS'b testing'
+p29
+F0.0099242874735267356
+sS'data visualization'
+p30
+F0.0048923722029343307
 sS'analytics'
-p47
-I1
-sS'engineering'
-p48
-I1
-sS'management technology'
-p49
-I1
-sS'communication'
-p50
-I1
+p31
+F0.010817630124173217
+sS'marketing analytics'
+p32
+F0.0095952691866661166
+sS'analysis'
+p33
+F0.00085228537749783566
+sS'machine learning'
+p34
+F0.0016306410990896501
+sS'google analytics'
+p35
+F0.0095952691866661166
+sS'optimization'
+p36
+F0.0099502928228285686
+sS'dashboard'
+p37
+F0.0087223904704466296
 sS'predictive analytics'
-p51
-I1
+p38
+F0.0057276073963402748
+ssS'working-year'
+p39
+(dp40
+V(5, 10]
+p41
+F0.0029991150785493997
+ssS'major'
+p42
+(dp43
+VBusiness
+p44
+F0.0026908317093883435
+sVData Science
+p45
+F0.0025554452303608523
+sVEconomics
+p46
+F0.0040815212624986585
+sVEngineering
+p47
+F0.0060938048610629583
+sVComputer Science
+p48
+F0.0022521287222691485
+sVManagement Science and Engineering
+p49
+F0.0032078222349972447
 ssS'education'
-p52
-(dp53
+p50
+(dp51
 VBachelor
-p54
-I1
+p52
+F0.0022671115116166835
+sVMaster
+p53
+F0.0018091559333934747
 ssS'responsibility'
-p55
-(dp56
+p54
+(dp55
 S'development'
+p56
+F0.0030123408020251707
+sS'information'
 p57
-I1
+F0.0034505104465905336
 sS'evaluation'
 p58
-I1
-sVinsight
+F0.0084165253329021826
+sS'insight'
 p59
-I1
+F0.013693234000070784
 sS'analysis'
 p60
-I1
-sS'optimization'
+F0.00085228537749783566
+sS'drive ... decision'
 p61
-I1
-sS'understand'
+F0.010040006812758989
+sS'optimization'
 p62
-I1
-sS'identify trend'
+F0.0099502928228285686
+sS'understand'
 p63
-I1
-sS'report'
+F0.0052280592374235706
+sS'identify ... trend'
 p64
-I1
-sS'modeling'
+F0.010682137096269813
+sS'report'
 p65
-I1
-sS'implement'
+F0.005162379154657783
+sS'modeling'
 p66
-I1
-sS'extract'
+F0.0020202629080138122
+sS'implement'
 p67
-I1
+F0.015804949068056771
+sS'extract'
+p68
+F0.0076957923649324115
 ss.

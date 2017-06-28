@@ -4,7 +4,7 @@ p2
 (lp3
 S'communication'
 p4
-aS'data science'
+aS'energy'
 p5
 aS'analytics'
 p6
@@ -12,143 +12,132 @@ aS'engineering'
 p7
 aS'go'
 p8
-aS'spss'
+aS'sas'
 p9
-aS'management'
+aS'spss'
 p10
-aS'research'
+aS'statistics'
 p11
-aS'computer science'
+aS'management'
 p12
-aS'innovation'
+aS'research'
 p13
-aS'policy'
+aS'optimization'
 p14
-aS'leadership development'
+aS'computer science'
 p15
-aS'energy'
+aS'innovation'
 p16
-aS'root cause analysis'
+aS'policy'
 p17
-aS'data analysis'
+aS'leadership development'
 p18
-aS'python'
+aS'data science'
 p19
-aS'data scientist'
+aS'root cause analysis'
 p20
-aS'gas'
+aS'data analysis'
 p21
-aS'data quality'
+aS'python'
 p22
-aS'leadership'
+aS'gas'
 p23
-aS'modeling'
+aS'data scientist'
 p24
-aS'manufacturing'
+aS'data quality'
 p25
-aS'data'
+aS'leadership'
 p26
-aS'project management'
+aS'modeling'
 p27
-aS'pattern recognition'
+aS'manufacturing'
 p28
-aS'science'
+aS'data'
 p29
-aS'analysis'
+aS'project management'
 p30
-aS'machine learning'
+aS'a'
+aS'pattern recognition'
 p31
-aS'exploratory data analysis'
+aS'science'
 p32
+aS'analysis'
+p33
+aS'machine learning'
+p34
+aS'exploratory data analysis'
+p35
 aS'r'
 aS'electrical engineering'
-p33
-aS'root'
-p34
-aS'predictive analytics'
-p35
-asS'working-year'
 p36
-(lp37
-V(0, 2]
+aS'root'
+p37
+aS'data analytics'
 p38
-aV(2, 5]
+aS'predictive analytics'
 p39
-asS'major'
+asS'working-year'
 p40
 (lp41
-S'management'
+V(0, 2]
 p42
-aS'business'
+aV(2, 5]
 p43
-aS'statistics computer science'
+asS'major'
 p44
-aS'science'
-p45
-aS'data science'
+(lp45
+VStatistics
 p46
-aS'statistic'
+aVBusiness
 p47
-aS'communication'
+aVData Science
 p48
-aS'machine learning'
+aVElectrical and Electronics Engineering
 p49
-aS'analytics'
+aVEngineering
 p50
-aS'engineering'
+aVComputer Science
 p51
-aS'design'
+aVManagement Science and Engineering
 p52
-aS'computer science'
-p53
-aS'mechanical'
-p54
-aS'electrical engineering'
-p55
-aS'electrical'
-p56
-aS'project management'
-p57
-aS'predictive analytics'
-p58
 asS'education'
-p59
-(lp60
+p53
+(lp54
 VMaster
-p61
+p55
 aVDoctor
-p62
+p56
 asS'responsibility'
-p63
-(lp64
+p57
+(lp58
 S'development'
-p65
+p59
 aS'product'
-p66
+p60
 aS'data analysis'
-p67
+p61
 aS'pattern'
-p68
-aVinsight
-p69
+p62
+aS'insight'
+p63
 aS'communicate'
-p70
+p64
 aS'analysis'
-p71
+p65
 aS'analytic'
-p72
+p66
 aS'statistical method'
-p73
+p67
+aS'optimization'
+p68
 aS'design'
-p74
-aS'modeling'
-p75
+p69
 aS'report'
-p76
-aS'complex data set'
-p77
+p70
+aS'modeling'
+p71
 aS'model'
-p78
+p72
 aS'presentation'
-p79
+p73
 as.

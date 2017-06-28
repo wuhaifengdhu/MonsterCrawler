@@ -34,89 +34,81 @@ aS'javascript'
 p18
 aS'data scientist'
 p19
-aS'sql'
+aS'statistics'
 p20
-aS'spark'
+aS'sql'
 p21
-aS'data'
+aS'spark'
 p22
-aS'validation'
+aS'data'
 p23
-aS'science'
+aS'validation'
 p24
-aS'economics'
+aS'science'
 p25
-aS'machine learning'
+aS'economics'
 p26
-aS'e-commerce'
+aS'machine learning'
 p27
+aS'e-commerce'
+p28
 aS'r'
 aS'dashboard'
-p28
-aS'retail'
 p29
-asS'working-year'
+aS'organization'
 p30
-(lp31
-V(2, 5]
+aS'retail'
+p31
+asS'working-year'
 p32
+(lp33
+V(2, 5]
+p34
 asS'major'
-p33
-(lp34
-S'computer science operations research'
 p35
-aS'business'
-p36
-aS'economics math'
+(lp36
+VStatistics
 p37
-aS'statistics economics'
+aVBusiness
 p38
-aS'economics mathematics'
+aVEconomics
 p39
-aS'economics'
+aVEngineering
 p40
-aS'statistic'
+aVComputer Science
 p41
-aS'machine learning'
+aVMathematics
 p42
-aS'engineering'
+aVOperations Research
 p43
-aS'computer science'
-p44
-aS'marketing'
-p45
-aS'mathematics'
-p46
-aS'mathematics computer science'
-p47
-aS'operations research'
-p48
-aS'science'
-p49
 asS'education'
-p50
-(lp51
-VMaster
-p52
+p44
+(lp45
+VBachelor
+p46
+aVMaster
+p47
+aVDoctor
+p48
 asS'responsibility'
-p53
-(lp54
+p49
+(lp50
 S'product'
-p55
+p51
 aS'build dashboard'
-p56
+p52
 aS'business problem'
-p57
+p53
 aS'predict'
-p58
-aVinsight
-p59
-aS'solve problem'
-p60
-aS'model'
-p61
-aS'build solution'
-p62
+p54
 aS'extract'
-p63
+p55
+aS'insight'
+p56
+aS'model'
+p57
+aS'build solution'
+p58
+aS'evaluation'
+p59
 as.

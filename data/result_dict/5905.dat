@@ -12,111 +12,87 @@ aS'data mining'
 p7
 aS'go'
 p8
-aS'scala'
+aS'statistics'
 p9
-aS'hadoop'
+aS'scala'
 p10
-aS'computer science'
+aS'hadoop'
 p11
-aS'mathematics'
+aS'computer science'
 p12
-aS'segmentation'
+aS'mathematics'
 p13
-aS'distributed computing'
+aS'segmentation'
 p14
-aS'python'
+aS'distributed computing'
 p15
-aS'data scientist'
+aS'python'
 p16
-aS'customer retention'
+aS'data scientist'
 p17
-aS'sql'
+aS'customer retention'
 p18
-aS'modeling'
+aS'sql'
 p19
-aS'spark'
+aS'modeling'
 p20
-aS'data'
+aS'spark'
 p21
-aS'customer experience'
+aS'data'
 p22
-aS'science'
+aS'customer experience'
 p23
-aS'applied mathematics'
+aS'science'
 p24
-aS'analysis'
+aS'applied mathematics'
 p25
-aS'machine learning'
+aS'analysis'
 p26
+aS'machine learning'
+p27
 aS'r'
 aS'architecture'
-p27
-asS'working-year'
 p28
-(lp29
-V(2, 5]
+aS'physics'
+p29
+asS'working-year'
 p30
+(lp31
+V(2, 5]
+p32
 asS'major'
-p31
-(lp32
-S'mathematics physics'
 p33
-aS'computing'
-p34
-aS'science'
+(lp34
+VMathematics
 p35
-aS'applied mathematics'
+aVEngineering
 p36
-aS'data mining'
+aVStatistics
 p37
-aS'engineering'
+aVPhysics
 p38
-aS'computer science statistics'
+aVComputer Science
 p39
-aS'statistic'
-p40
-aS'machine learning'
-p41
-aS'mathematics'
-p42
-aS'statistics applied mathematics'
-p43
-aS'design'
-p44
-aS'applied mathematics computer science'
-p45
-aS'phd'
-p46
-aS'applied math'
-p47
-aS'communication'
-p48
-aS'computer science'
-p49
-aS'mathematics computer science'
-p50
-aVphysic
-p51
-aS'data mining machine learning'
-p52
 asS'education'
-p53
-(lp54
-VDoctor
-p55
+p40
+(lp41
+VMaster
+p42
+aVDoctor
+p43
 asS'responsibility'
-p56
-(lp57
+p44
+(lp45
 S'analysis'
-p58
+p46
 aS'design'
-p59
+p47
 aS'data mining'
-p60
+p48
 aS'modeling'
-p61
+p49
 aS'model'
-p62
+p50
 aS'prototype'
-p63
+p51
 as.

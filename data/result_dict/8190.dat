@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'customer insight'
+S'a'
+aS'customer insight'
 p4
 aS'microsoft office'
 p5
@@ -20,58 +21,53 @@ aS'data architecture'
 p11
 aS'leadership'
 p12
+aS'r'
 aS'architecture'
 p13
 aS'statistical modeling'
 p14
-aS'modeling'
+aS'sas'
 p15
-aS'data quality'
+aS'modeling'
 p16
-aS'data'
+aS'data quality'
 p17
-aS'customer experience'
+aS'data'
 p18
-asS'working-year'
+aS'customer experience'
 p19
-(lp20
-V(5, 10]
-p21
-aV(2, 5]
+asS'working-year'
+p20
+(lp21
+sS'major'
 p22
-asS'major'
-p23
-(lp24
-S'marketing'
+(lp23
+VEconomics
+p24
+aVBusiness
 p25
-aS'design'
-p26
-aS'business'
-p27
-aS'big data'
-p28
 asS'education'
+p26
+(lp27
+VBachelor
+p28
+asS'responsibility'
 p29
 (lp30
-VBachelor
+S'development'
 p31
-asS'responsibility'
+aS'product'
 p32
-(lp33
-S'product'
-p34
 aS'predict'
-p35
-aVinsight
-p36
+p33
+aS'insight'
+p34
 aS'analysis'
-p37
-aS'statistical model'
-p38
-aS'design'
-p39
+p35
 aS'modeling'
-p40
+p36
 aS'model'
-p41
+p37
+aS'decision making'
+p38
 as.

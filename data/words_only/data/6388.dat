@@ -4,171 +4,182 @@ p2
 (dp3
 S'nosql'
 p4
-I1
-sS'health insurance'
+F0.0046545014698410239
+sS'testing'
 p5
-I1
-sS'data governance'
+F0.0034819353994898178
+sS'sales'
 p6
-I1
-sS'education'
+F0.0056540896942023876
+sS'health insurance'
 p7
-I1
-sS'insurance'
+F0.0087596658120835027
+sS'data governance'
 p8
-I1
-sS'sql db2'
+F0.0074363094009426874
+sS'linux'
 p9
-I1
-sS'big data'
+F0.0031395884996585533
+sS'education'
 p10
-I1
-sS'agile'
+F0.0035690931119273283
+sS'insurance'
 p11
-I1
-sS'hadoop'
+F0.00536253641760151
+sS'sql db2'
 p12
-I1
-sS'governance'
-p13
-I1
-sS'coaching'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'html 5'
-p16
-I1
-sS'distributed computing'
-p17
-I1
-sS'finance'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'data quality'
-p20
-I1
-sS'mentoring'
-p21
-I1
-sS'sql'
-p22
-I1
-sS'informatics'
-p23
-I1
-sS'spark'
-p24
-I1
-sS'health informatics'
-p25
-I1
-sS'data'
-p26
-I1
-sS'c'
-I1
-sS'software engineering'
-p27
-I1
-sS'programming'
-p28
-I1
-sS'data engineering'
-p29
-I1
-sS'r'
-I1
-sS'dashboard'
-p30
-I1
-sS'healthcare'
-p31
-I1
-sS'organization'
-p32
-I1
-sS'security'
-p33
-I1
-sS'shiny'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'finance'
-p40
-I1
-sS'business'
-p41
-I1
-sS'computing'
-p42
-I1
-sS'health informatics'
-p43
-I1
-sS'design'
-p44
-I1
-sS'computer science'
-p45
-I1
-sS'informatics'
-p46
-I1
-sS'software engineering'
-p47
-I1
+F0.011552562175182921
 sS'big data'
+p13
+F0.0021644985142222238
+sS'agile'
+p14
+F0.0037137582869039274
+sS'hadoop'
+p15
+F0.004370090140814846
+sS'governance'
+p16
+F0.0061301292872377525
+sS'coaching'
+p17
+F0.0065675726473370718
+sS'computer science'
+p18
+F0.0023911279986177222
+sS'html 5'
+p19
+F0.008602569282692471
+sS'a'
+F0.0031803433564864397
+sS'distributed computing'
+p20
+F0.0060840075892165174
+sS'finance'
+p21
+F0.0045155545139178377
+sS'javascript'
+p22
+F0.0037711643095611289
+sS'health informatics'
+p23
+F0.011552562175182921
+sS'mentoring'
+p24
+F0.0058505335059165896
+sS'sql'
+p25
+F0.0011597684674031412
+sS'informatics'
+p26
+F0.0074745280666387928
+sS'spark'
+p27
+F0.0028675775906728887
+sS'data quality'
+p28
+F0.0060116293591602442
+sS'data'
+p29
+F0.0022187353173795952
+sS'jquery'
+p30
+F0.0064936199650144954
+sS'c'
+F0.0021269080338403015
+sS'software engineering'
+p31
+F0.004425277191690496
+sS'science'
+p32
+F0.0011956358642756673
+sS'programming'
+p33
+F0.0018746857735287006
+sS'unix'
+p34
+F0.0043913074639201528
+sS'data engineering'
+p35
+F0.0068109366599786378
+sS'r'
+F0.00094386446703051212
+sS'dashboard'
+p36
+F0.0059632669542849411
+sS'healthcare'
+p37
+F0.013761430323011041
+sS'organization'
+p38
+F0.011994447886269939
+sS'security'
+p39
+F0.0037165830199316187
+sS'shiny'
+p40
+F0.0079637780458842976
+ssS'working-year'
+p41
+(dp42
+V(2, 5]
+p43
+F0.0021070483476719991
+ssS'major'
+p44
+(dp45
+VEngineering
+p46
+F0.0038305764060658633
+sVEconomics
+p47
+F0.0027904278019123484
+sVInformation Science
 p48
-I1
-ssS'education'
+F0.0043072367152280503
+sVBusiness
 p49
-(dp50
-VBachelor
+F0.0018396502502961126
+sVComputer Science
+p50
+F0.0015397206570615606
+ssS'education'
 p51
-I1
-ssS'responsibility'
-p52
-(dp53
-S'development'
+(dp52
+VBachelor
+p53
+F0.0015499639926358957
+sVMaster
 p54
-I1
-sVinsight
+F0.0012368719136465593
+ssS'responsibility'
 p55
-I1
-sS'mapping'
-p56
-I1
-sS'design'
+(dp56
+S'development'
 p57
-I1
-sS'ownership'
+F0.0041189149741976822
+sS'insight'
 p58
-I1
-sS'report'
+F0.0062411338639778401
+sS'mapping'
 p59
-I1
-sS'implement'
+F0.0072685029062682371
+sS'design'
 p60
-I1
-sS'build solution'
+F0.0074511163776452933
+sS'ownership'
 p61
-I1
-sS'model'
+F0.013402358673766625
+sS'report'
 p62
-I1
+F0.0035293816669599129
+sS'implement'
+p63
+F0.0036018081209517132
+sS'build solution'
+p64
+F0.010051903006612432
+sS'model'
+p65
+F0.0026316510916694572
 ss.

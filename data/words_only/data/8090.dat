@@ -2,162 +2,159 @@
 S'skills'
 p2
 (dp3
-S'troubleshooting'
+S'analytics'
 p4
-I1
-sS'linux'
-p5
-I1
-sS'go'
-p6
-I1
-sS'education'
-p7
-I1
-sS'big data'
-p8
-I1
-sS'r programming'
-p9
-I1
-sS'hadoop'
-p10
-I1
-sS'access'
-p11
-I1
-sS'coaching'
-p12
-I1
-sS'computer science'
-p13
-I1
-sS'mathematics'
-p14
-I1
-sS'technical training'
-p15
-I1
-sS'data analysis'
-p16
-I1
-sS'python'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'mentoring'
-p19
-I1
-sS'ubuntu'
-p20
-I1
-sS'training'
-p21
-I1
-sS'sql server'
-p22
-I1
-sS'documentation'
-p23
-I1
-sS'programming'
-p24
-I1
-sS'analysis'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'data center'
-p27
-I1
-sS'r'
-I1
-sS'organization'
-p28
-I1
-sS'predictive analytics'
-p29
-I1
+F0.0021743436549588168
 sS'statistical analysis'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(0, 2]
-p33
-I1
-sV(2, 5]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'business'
-p37
-I1
+p5
+F0.0064367503835315197
+sS'linux'
+p6
+F0.0092303901889961466
+sS'go'
+p7
+F0.0081972829875690684
+sS'education'
+p8
+F0.0052465668745331727
+sS'statistics'
+p9
+F0.0023312821370065117
 sS'big data'
-p38
-I1
-sS'computing'
-p39
-I1
-sS'computer science statistics'
-p40
-I1
-sS'data analyst'
-p41
-I1
-sS'machine learning'
-p42
-I1
+p10
+F0.0031818128159066691
+sS'r programming'
+p11
+F0.0078884047536451982
+sS'hadoop'
+p12
+F0.0032120162534989122
+sS'access'
+p13
+F0.0057986550627411376
+sS'coaching'
+p14
+F0.0096543317915854972
 sS'computer science'
-p43
-I1
-sS'statistic'
-p44
-I1
+p15
+F0.0035149581579680517
 sS'mathematics'
-p45
-I1
-sS'ee computer science'
-p46
-I1
-sS'predictive analytics'
-p47
-I1
-ssS'education'
-p48
-(dp49
-VBachelor
-p50
-I1
-ssS'responsibility'
-p51
-(dp52
-S'development'
-p53
-I1
-sS'product'
-p54
-I1
+p16
+F0.004569733205189515
+sS'technical training'
+p17
+F0.015049294948568938
 sS'data analysis'
-p55
-I1
-sVinsight
-p56
-I1
-sS'communicate'
-p57
-I1
-sS'analysis'
-p58
-I1
+p18
+F0.0037094050374141632
+sS'python'
+p19
+F0.001303128781883165
+sS'data scientist'
+p20
+F0.0026484291629096956
+sS'mentoring'
+p21
+F0.0086002842536973875
+sS'ubuntu'
+p22
+F0.012645776845557932
+sS'data'
+p23
+F0.00059300743937236455
+sS'training'
+p24
+F0.0058832368775558232
+sS'sql server'
+p25
+F0.0069945711731965541
+sS'windows'
+p26
+F0.0084244088682092731
+sS'science'
+p27
+F0.0017575847204852311
 sS'documentation'
-p59
-I1
+p28
+F0.007248602397360077
+sS'programming'
+p29
+F0.011023152348348759
+sS'analysis'
+p30
+F0.00085654680438532486
+sS'machine learning'
+p31
+F0.0016387943045850983
+sS'data center'
+p32
+F0.010787452059316084
+sS'r'
+F0.0097123653657439721
+sS'organization'
+p33
+F0.013223878794612608
+sS'predictive analytics'
+p34
+F0.0057562454333219756
+sS'troubleshooting'
+p35
+F0.0094009561643354899
+ssS'working-year'
+p36
+(dp37
+V(0, 2]
+p38
+F0.0056939504102253838
+sV(2, 5]
+p39
+F0.0030973610710778388
+ssS'major'
+p40
+(dp41
+VMathematics
+p42
+F0.0042856813239561297
+sVData Science
+p43
+F0.0025682224565126564
+sVStatistics
+p44
+F0.0045037619247202008
+sVComputer Science
+p45
+F0.0022633893658804945
+sVBusiness
+p46
+F0.0027042858679352856
+ssS'education'
+p47
+(dp48
+VBachelor
+p49
+F0.0022784470691747669
+ssS'responsibility'
+p50
+(dp51
+S'development'
+p52
+F0.0030274025060352968
+sS'product'
+p53
+F0.013449928907177467
+sS'data analysis'
+p54
+F0.0037094050374141632
+sS'insight'
+p55
+F0.0045872333900237126
+sS'communicate'
+p56
+F0.0050156072057039799
+sS'analysis'
+p57
+F0.00085654680438532486
+sS'documentation'
+p58
+F0.007248602397360077
 ss.

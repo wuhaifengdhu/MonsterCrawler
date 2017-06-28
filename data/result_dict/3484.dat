@@ -2,130 +2,130 @@
 S'skills'
 p2
 (lp3
-S'classification'
+S'forecasting'
 p4
-aS'communication'
+aS'classification'
 p5
-aS'data science'
-p6
-aS'unix'
-p7
-aS'hive'
-p8
-aVpanda
-p9
-aS'dimensionality reduction'
-p10
-aS'clustering'
-p11
-aS'visualization'
-p12
-aS'big data'
-p13
-aS'time series analysis'
-p14
-aS'mllib'
-p15
-aS'strategy'
-p16
-aS'computer science'
-p17
-aS'mathematics'
-p18
-aS'numpy'
-p19
-aS'pyspark'
-p20
-aS'python'
-p21
-aS'marketing'
-p22
-aS'data scientist'
-p23
-aS'scipy'
-p24
-aS'sql'
-p25
-aS'regression'
-p26
-aS'spark'
-p27
-aS'data'
-p28
-aS'tensorflow'
-p29
-aS'science'
-p30
-aS'applied mathematics'
-p31
-aS'analysis'
-p32
-aS'machine learning'
-p33
-aS'h2o'
-p34
-aS'organization'
-p35
-asS'working-year'
-p36
-(lp37
-V(2, 5]
-p38
-asS'major'
-p39
-(lp40
-S'big data'
-p41
-aS'marketing'
-p42
-aS'applied mathematics'
-p43
-aS'statistic'
-p44
 aS'communication'
-p45
-aS'computer science statistics'
-p46
-aS'machine learning'
-p47
-aS'statistics applied mathematics'
-p48
-aS'computer science'
-p49
-aS'applied math'
-p50
-aS'mathematics'
-p51
-aS'phd'
-p52
+p6
 aS'data science'
-p53
+p7
+aS'hadoop'
+p8
+aS'unix'
+p9
+aS'hive'
+p10
+aS'd3'
+p11
+aS'dimensionality reduction'
+p12
+aS'clustering'
+p13
+aS'visualization'
+p14
+aS'statistics'
+p15
+aS'java'
+p16
+aS'big data'
+p17
+aS'scala'
+p18
+aS'time series analysis'
+p19
+aS'mllib'
+p20
+aS'strategy'
+p21
+aS'computer science'
+p22
+aS'mathematics'
+p23
+aS'numpy'
+p24
+aS'pandas'
+p25
+aS'pyspark'
+p26
+aS'python'
+p27
+aS'marketing'
+p28
+aS'data scientist'
+p29
+aS'scipy'
+p30
+aS'sql'
+p31
+aS'regression'
+p32
+aS'spark'
+p33
+aS'data'
+p34
+aS'tensorflow'
+p35
+aS'a'
+aS'organization'
+p36
 aS'science'
-p54
-asS'education'
-p55
-(lp56
-VMaster
-p57
-aVDoctor
-p58
-asS'responsibility'
-p59
-(lp60
-S'large data set'
-p61
-aS'product'
-p62
-aS'analytic'
-p63
-aS'communicate'
-p64
+p37
+aS'applied mathematics'
+p38
 aS'analysis'
-p65
+p39
+aS'machine learning'
+p40
+aS'h2o'
+p41
+aS'r'
+aS'theano'
+p42
+asS'working-year'
+p43
+(lp44
+V(2, 5]
+p45
+asS'major'
+p46
+(lp47
+VMathematics
+p48
+aVData Science
+p49
+aVEconomics
+p50
+aVStatistics
+p51
+aVComputer Science
+p52
+asS'education'
+p53
+(lp54
+VBachelor
+p55
+aVMaster
+p56
+aVDoctor
+p57
+asS'responsibility'
+p58
+(lp59
+S'forecasting'
+p60
+aS'analytic'
+p61
+aS'communicate'
+p62
+aS'product'
+p63
+aS'analysis'
+p64
 aS'cross-functionally'
-p66
+p65
 aS'recommendation'
-p67
+p66
 aS'prototype'
-p68
+p67
 as.

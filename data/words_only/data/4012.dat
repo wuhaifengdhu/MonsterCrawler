@@ -2,139 +2,137 @@
 S'skills'
 p2
 (dp3
-S'electrical engineering'
+S'debugging'
 p4
-I1
-sS'debugging'
-p5
-I1
-sS'management'
-p6
-I1
-sS'java'
-p7
-I1
+F0.036322500026310829
 sS'parallel computing'
-p8
-I1
-sS'team building'
-p9
-I1
-sS'deep learning'
-p10
-I1
+p5
+F0.017773107018653232
 sS'testing'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'architecture'
-p13
-I1
-sS'analysis'
-p14
-I1
-sS'writing'
-p15
-I1
-sS'theano'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'innovation'
-p18
-I1
+p6
+F0.0084602397309917893
+sS'servers'
+p7
+F0.022893166920527237
+sS'engineering'
+p8
+F0.0050613833763374161
 sS'go'
-p19
-I1
+p9
+F0.01354922807862656
+sS'management'
+p10
+F0.0037440035834696373
+sS'java'
+p11
+F0.0051209378829267915
+sS'team building'
+p12
+F0.016548887421766276
+sS'deep learning'
+p13
+F0.012870006954105168
+sS'writing'
+p14
+F0.0092853732482747649
+sS'computer science'
+p15
+F0.0058098481949885152
+sS'innovation'
+p16
+F0.0079992755046889401
 sS'gpu'
+p17
+F0.11128091672036078
+sS'product development'
+p18
+F0.010799489044552522
+sS'python'
+p19
+F0.0021539318708812642
+sS'theano'
 p20
-I1
-sS'machine learning'
+F0.02023054929926707
+sS'tensorflow'
 p21
-I1
+F0.017830499271596835
 sS'data'
 p22
-I1
-sS'tensorflow'
+F0.0029405327572183367
+sS'a'
+F0.0077274458413802757
+sS'c'
+F0.0051678591896615594
+sS'science'
 p23
-I1
-sS'product development'
+F0.0029050987115458366
+sS'analysis'
 p24
-I1
-ssS'working-year'
+F0.0028315596839184293
+sS'machine learning'
 p25
-(dp26
-V(5, 10]
+F0.0027087509166695842
+sS'architecture'
+p26
+F0.0090372500937382569
+sS'electrical engineering'
 p27
-I1
-ssS'major'
+F0.016382748278424862
+ssS'working-year'
 p28
 (dp29
-S'management'
+V(5, 10]
 p30
-I1
-sS'computing'
+F0.0049820010808961108
+ssS'major'
 p31
-I1
-sS'electrical'
-p32
-I1
-sS'machine learning'
+(dp32
+VEngineering
 p33
-I1
-sS'design'
+F0.0050613833763374161
+sVElectrical and Electronics Engineering
 p34
-I1
-sS'computer science'
+F0.013002597501549511
+sVComputer Science
 p35
-I1
-sS'phd'
+F0.0037411394477363542
+sVManagement Science and Engineering
 p36
-I1
-sS'electrical engineering'
-p37
-I1
-sS'electrical engineering computer science'
-p38
-I1
+F0.0053286964399541009
 ssS'education'
-p39
-(dp40
+p37
+(dp38
 VBachelor
-p41
-I1
+p39
+F0.0037660282135120113
 sVMaster
-p42
-I1
+p40
+F0.0030052920877032103
 sVDoctor
-p43
-I1
+p41
+F0.004500751123043256
 ssS'responsibility'
-p44
-(dp45
+p42
+(dp43
 S'development'
-p46
-I1
+p44
+F0.005003971084355862
 sS'product'
-p47
-I1
-sVinsight
-p48
-I1
+p45
+F0.0055578218624700278
+sS'insight'
+p46
+F0.0075822039504524182
 sS'analysis'
-p49
-I1
+p47
+F0.0028315596839184293
 sS'design'
-p50
-I1
+p48
+F0.018104365413452204
 sS'understand'
-p51
-I1
+p49
+F0.0086846273282821292
 sS'implement'
-p52
-I1
+p50
+F0.0087515007236347413
 ss.

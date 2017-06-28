@@ -1,5 +1,5 @@
-skills: {'training': 1, 'management': 1, 'big data': 1, 'deep learning': 1, 'testing': 1, 'data scientist': 1, 'integration': 1, 'data quality': 1, 'medicine': 1, 'user interface': 1, 'user interface design': 1, 'architecture': 1, 'healthcare': 1, 'product management': 1, 'engineering': 1, 'emr': 1, 'education': 1}
-working-year: {u'(5, 10]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'big data': 1, 'general': 1, 'engineering': 1, 'design': 1, 'medicine': 1}
-education: {u'Bachelor': 1, u'Doctor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'improvement': 1, 'report': 1, 'design': 1, 'interface': 1, 'understand': 1}
+skills: {'a': 0.005807583520540455, 'training': 0.007308368791994811, 'management': 0.0028138163577628946, 'big data': 0.003952562504231887, 'deep learning': 0.009672489698426864, 'testing': 0.012716633632919335, 'data scientist': 0.003289974115415771, 'integration': 0.0071622457211012805, 'data quality': 0.010977757960205663, 'medicine': 0.030255282638395498, 'user interface': 0.014077300336468956, 'user interface design': 0.018355648968596615, 'architecture': 0.006791970567343659, 'healthcare': 0.033506091221244275, 'product management': 0.009698751611883667, 'engineering': 0.011411690469630323, 'emr': 0.014804226977642918, 'data': 0.00036832760209463635, 'education': 0.006517474378302078}
+working-year: {u'(5, 10]': 0.0037442368371952135}
+major: {u'Engineering': 0.011411690469630323, u'Business': 0.0033593613266276836, u'Management Science and Engineering': 0.004004796703319541}
+education: {u'Bachelor': 0.002830369030030766, u'Doctor': 0.003382552086262323}
+responsibility: {'development': 0.0037607484547022316, 'information': 0.0043077801227620945, 'product': 0.008353993110048115, 'improvement': 0.008342256199810893, 'report': 0.00644495782662245, 'design': 0.004535462142914526, 'interface': 0.009806078256366703, 'understand': 0.006526955942373526}

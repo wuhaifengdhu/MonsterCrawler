@@ -1,5 +1,5 @@
-skills: {'logistics': 1, 'supply chain': 1, 'software engineering': 1, 'r d': 1, 'big data': 1, 'agile': 1, 'data science': 1, 'scrum': 1, 'data scientist': 1, 'training': 1, 'machine learning': 1, 'sustainability': 1, 'r': 1, 'teamwork': 1, 'science': 1, 'go': 1, 'it management': 1, 'data': 1, 'insurance': 1, 'project management': 1, 'predictive analytics': 1}
-working-year: {u'(5, 10]': 1}
-major: {'business': 1, 'big data': 1, 'computing': 1, 'science': 1, 'data science': 1, 'machine learning': 1, 'sustainability': 1, 'software engineering': 1, 'project management': 1, 'predictive analytics': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'ensure accuracy': 1, 'communicate': 1, 'product': 1, 'improvement': 1}
+skills: {'logistics': 0.009436461586985204, 'supply chain': 0.007940892328987603, 'data science': 0.0024648379624192607, 'go': 0.006719084416040221, 'it management': 0.010248263725988612, 'insurance': 0.019384250493133325, 'management': 0.0018566575147533856, 'big data': 0.0026080432917267777, 'agile': 0.008949548658604548, 'continuous improvement': 0.008217155864947012, 'teamwork': 0.005869692926848359, 'energy': 0.006322736282889517, 'scrum': 0.013923412148891383, 'data scientist': 0.0021708435761554883, 'c': 0.002562749844053478, 'sustainability': 0.010395749447814523, 'leadership': 0.003386083240171767, 'data': 0.0019442866864667692, 'project management': 0.0038964207445175126, 'training': 0.004822325309471986, 'software engineering': 0.005332096288348385, 'science': 0.004321929640537453, 'machine learning': 0.0013432740201517201, 'r': 0.0011372793168318467, 'predictive analytics': 0.004718233961739325}
+working-year: {u'(5, 10]': 0.002470582503231268}
+major: {u'Data Science': 0.0021051003741907022, u'Computer Science': 0.0018552371851479463, u'Business': 0.0022166277606026933, u'Management Science and Engineering': 0.002642509300141173}
+education: {u'Bachelor': 0.0018675795648973499}
+responsibility: {'development': 0.002481477463963358, 'ensure accuracy': 0.012677810840553107, 'communicate': 0.004111153447298344, 'product': 0.016536797836693606, 'improvement': 0.005504521508891615}

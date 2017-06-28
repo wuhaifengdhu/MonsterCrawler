@@ -20,7 +20,7 @@ aS'analysis'
 p11
 aS'visualization'
 p12
-aS'management'
+aS'git'
 p13
 aS'big data'
 p14
@@ -38,107 +38,85 @@ aS'python'
 p20
 aS'collaboration'
 p21
-aS'bioinformatics'
+aS'c'
+aS'management'
 p22
-aS'informatics'
+aS'bioinformatics'
 p23
-aS'data'
+aS'informatics'
 p24
-aS'project management'
+aS'data'
 p25
-aS'training'
+aS'project management'
 p26
-aS'data visualization'
+aS'a'
+aS'training'
 p27
-aS'science'
+aS'data visualization'
 p28
-aS'engineering'
+aS'science'
 p29
-aS'high performance computing'
+aS'engineering'
 p30
-aS'machine learning'
+aS'high performance computing'
 p31
-aS'data engineering'
+aS'machine learning'
 p32
-aS'exploratory data analysis'
+aS'data engineering'
 p33
+aS'exploratory data analysis'
+p34
 aS'r'
 aS'english'
-p34
-aS'data integration'
 p35
-asS'working-year'
+aS'data integration'
 p36
-(lp37
+asS'working-year'
+p37
+(lp38
 V(2, 5]
-p38
-asS'major'
 p39
-(lp40
-S'computing'
-p41
-aS'management'
+asS'major'
+p40
+(lp41
+VData Science
 p42
-aS'biostatistics'
+aVEngineering
 p43
-aS'big data'
+aVInformation Science
 p44
-aS'analytics'
+aVComputer Science
 p45
-aS'science'
+aVBiological Engineering
 p46
-aS'data science'
+aVManagement Science and Engineering
 p47
-aS'english'
-p48
-aS'communication'
-p49
-aS'high performance computing'
-p50
-aS'machine learning'
-p51
-aS'medicine'
-p52
-aS'engineering'
-p53
-aS'design'
-p54
-aS'computer science'
-p55
-aS'bioinformatics'
-p56
-aS'informatics'
-p57
-aS'computer science data science'
-p58
-aS'medical informatics'
-p59
-aS'project management'
-p60
 asS'education'
-p61
-(lp62
-VDoctor
-p63
+p48
+(lp49
+VMaster
+p50
+aVDoctor
+p51
 asS'responsibility'
-p64
-(lp65
+p52
+(lp53
 S'development'
-p66
+p54
 aS'data analysis'
-p67
+p55
 aS'exploratory analysis'
-p68
+p56
 aS'analysis'
-p69
+p57
 aS'analytic'
-p70
+p58
 aS'design'
-p71
+p59
 aS'interface'
-p72
+p60
 aS'implement'
-p73
+p61
 aS'presentation'
-p74
+p62
 as.

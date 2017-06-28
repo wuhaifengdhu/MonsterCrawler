@@ -2,186 +2,204 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'forecasting'
 p4
-I1
-sS'data science'
+F0.010820033231846193
+sS'economics'
 p5
-I1
-sS'analytics'
-p6
-I1
-sS'business intelligence'
-p7
-I1
-sS'statistical analysis'
-p8
-I1
-sS'problem solving'
-p9
-I1
-sS'data mining'
-p10
-I1
-sS'management'
-p11
-I1
-sS'publishing'
-p12
-I1
-sS'critical thinking'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'tableau'
-p15
-I1
-sS'research'
-p16
-I1
-sS'computer science'
-p17
-I1
+F0.0088431432633190449
 sS'intelligence'
-p18
-I1
-sS'unstructured data'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'data modeling'
-p21
-I1
-sS'finance'
-p22
-I1
-sS'marketing'
-p23
-I1
-sS'collaboration'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'statistical modeling'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'thought leadership'
-p28
-I1
-sS'analysis'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'r'
-I1
-ssS'working-year'
-p31
-(dp32
-V(0, 2]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'mathematics economics'
-p36
-I1
-sS'economics statistics'
-p37
-I1
-sS'finance'
-p38
-I1
-sS'business'
-p39
-I1
-sS'ee computer science'
-p40
-I1
-sS'marketing'
-p41
-I1
+p6
+F0.0057935742062242765
 sS'data science'
-p42
-I1
-sS'data mining'
-p43
-I1
-sS'communication'
-p44
-I1
-sS'machine learning'
-p45
-I1
+p7
+F0.0044385274009616201
 sS'analytics'
-p46
-I1
-sS'management'
-p47
-I1
-sS'computer science'
-p48
-I1
-sS'statistic'
-p49
-I1
-sS'computer science mathematics'
-p50
-I1
-sS'machine learning data mining'
-p51
-I1
-sS'mathematics economics statistics'
-p52
-I1
-sS'history'
-p53
-I1
-ssS'education'
-p54
-(dp55
-VBachelor
-p56
-I1
-sVMaster
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'data analysis'
-p61
-I1
-sS'communicate'
-p62
-I1
-sS'analysis'
-p63
-I1
-sS'statistical model'
-p64
-I1
+p8
+F0.0096280899850574898
+sS'business intelligence'
+p9
+F0.0075389051984295977
+sS'statistical analysis'
+p10
+F0.0095007385734782578
+sS'problem solving'
+p11
+F0.0090576083577610742
 sS'data mining'
-p65
-I1
+p12
+F0.0078301820246573332
+sS'sas'
+p13
+F0.0051115751168908366
+sS'monetization'
+p14
+F0.020028298445446627
+sS'statistics'
+p15
+F0.0034410068442900536
+sS'publishing'
+p16
+F0.018665353277576284
+sS'critical thinking'
+p17
+F0.01446954106646132
+sS'predictive modeling'
+p18
+F0.0076716085191474897
+sS'tableau'
+p19
+F0.0074133803952907444
+sS'research'
+p20
+F0.0031481931426632407
+sS'computer science'
+p21
+F0.0051881301224620691
+sS'communication'
+p22
+F0.0058419533546526063
+sS'mathematics'
+p23
+F0.0067449936607963312
+sS'unstructured data'
+p24
+F0.011766820787650036
+sS'data analysis'
+p25
+F0.0054751365865891698
+sS'data modeling'
+p26
+F0.0096391208295877173
+sS'finance'
+p27
+F0.0097975869158069689
+sS'marketing'
+p28
+F0.0070303118910610652
+sS'collaboration'
+p29
+F0.0094378945390164344
+sS'data scientist'
+p30
+F0.003909120535660067
+sS'management'
+p31
+F0.0033433537535042515
+sS'statistical modeling'
+p32
+F0.0066102048715512779
+sS'sql'
+p33
+F0.0025163980030739742
 sS'modeling'
+p34
+F0.002996847560965138
+sS'spark'
+p35
+F0.0062219026690614708
+sS'data'
+p36
+F0.0013129316000864159
+sS'science'
+p37
+F0.0025942209896460972
+sS'.net'
+p38
+F0.013905707891603055
+sS'programming'
+p39
+F0.004067583892379616
+sS'thought leadership'
+p40
+F0.015135346492727391
+sS'analysis'
+p41
+F0.0012642757260299998
+sS'machine learning'
+p42
+F0.0024188845824134292
+sS'r'
+F0.0020479420908263513
+ssS'working-year'
+p43
+(dp44
+V(0, 2]
+p45
+F0.0084043548490411561
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0066476190770777864
+sVBusiness
+p49
+F0.0039915658567310488
+sVData Science
+p50
+F0.0037907342531552125
+sVEconomics
+p51
+F0.0060545075554408146
+sVComputer Science
+p52
+F0.0033407961120007295
+sVMathematics
+p53
+F0.0063257288914481619
+sVManagement Science and Engineering
+p54
+F0.0047584669316195292
+ssS'education'
+p55
+(dp56
+VBachelor
+p57
+F0.0033630215043169991
+sVMaster
+p58
+F0.0026836925654028666
+ssS'responsibility'
+p59
+(dp60
+S'development'
+p61
+F0.0089369815676318722
+sS'forecasting'
+p62
+F0.010820033231846193
+sS'data analysis'
+p63
+F0.0054751365865891698
+sS'manipulate ... dataset'
+p64
+F0.021446786625462382
+sS'predict'
+p65
+F0.015394398658728077
+sS'communicate'
 p66
-I1
-sS'model'
+F0.007403110266721742
+sS'analysis'
 p67
-I1
+F0.0012642757260299998
+sS'develop ... model'
+p68
+F0.01143879345821453
+sS'data mining'
+p69
+F0.0078301820246573332
+sS'modeling'
+p70
+F0.002996847560965138
+sS'model'
+p71
+F0.022840012426592483
+sS'statistical model'
+p72
+F0.013250421791951643
+sS'test ... model'
+p73
+F0.01709753103079642
 ss.

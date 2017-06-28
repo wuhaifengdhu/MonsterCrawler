@@ -18,15 +18,15 @@ aS'management'
 p10
 aS'big data'
 p11
-aS'integration'
+aS'saas'
 p12
-aS'research'
+aS'integration'
 p13
-aS'big data analytics'
+aS'research'
 p14
-aS'metabolomics'
+aS'big data analytics'
 p15
-aS'data management'
+aS'metabolomics'
 p16
 aS'data analysis'
 p17
@@ -42,68 +42,62 @@ aS'mentoring'
 p22
 aS'bioinformatics'
 p23
-aS'data'
+aS'informatics'
 p24
-aS'science'
+aS'data'
 p25
-aS'analysis'
-p26
-aS'oracle'
-p27
-aS'organization'
-p28
-aS'data analytics'
-p29
-asS'working-year'
-p30
-(lp31
-V(5, 10]
-p32
-asS'major'
-p33
-(lp34
-S'management'
-p35
-aS'business'
-p36
-aS'big data'
-p37
 aS'science'
-p38
-aS'data science'
-p39
-aS'big data analytics'
-p40
-aS'analytics'
-p41
-aS'design'
-p42
-aS'bioinformatics'
-p43
+p26
+aS'analysis'
+p27
+aS'oracle'
+p28
+aS'organization'
+p29
 aS'data analytics'
-p44
+p30
+asS'working-year'
+p31
+(lp32
+V(5, 10]
+p33
+asS'major'
+p34
+(lp35
+VBiological Engineering
+p36
+aVData Science
+p37
+aVInformation Science
+p38
+aVBusiness
+p39
+aVManagement Science and Engineering
+p40
 asS'education'
+p41
+(lp42
+VBachelor
+p43
+aVMaster
+p44
+asS'responsibility'
 p45
 (lp46
-VBachelor
-p47
-asS'responsibility'
-p48
-(lp49
 S'development'
-p50
+p47
 aS'product'
-p51
+p48
 aS'data analysis'
-p52
-aVinsight
-p53
+p49
+aS'insight'
+p50
 aS'analysis'
-p54
+p51
 aS'design'
-p55
+p52
 aS'report'
-p56
+p53
 aS'model'
-p57
+p54
 as.

@@ -2,70 +2,79 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'a'
+aS'search'
 p4
 aS'management'
 p5
 aS'java'
 p6
-aS'data scientist'
+aS'marketing'
 p7
 aS'excel'
 p8
-aS'strategy'
+aS'data scientist'
 p9
-aS'analytics'
+aS'strategy'
 p10
-aS'engineering'
+aS'analytics'
 p11
-aS'customer support'
+aS'engineering'
 p12
-aS'sql'
+aS'algorithms'
 p13
-aS'data'
+aS'customer support'
 p14
-asS'working-year'
+aS'sql'
 p15
-(lp16
-V(2, 5]
+aS'db2'
+p16
+aS'data'
 p17
-asS'major'
+asS'working-year'
 p18
 (lp19
-S'management'
+V(2, 5]
 p20
-aS'business'
+asS'major'
 p21
-aS'applied math'
-p22
-aS'analytics'
+(lp22
+VBusiness
 p23
-aS'engineering'
+aVData Science
 p24
-aS'design'
+aVEconomics
 p25
-aS'statistic'
+aVEngineering
 p26
-asS'education'
+aVMathematics
 p27
-(lp28
-VMaster
+aVManagement Science and Engineering
+p28
+asS'education'
 p29
+(lp30
+VMaster
+p31
 asS'responsibility'
-p30
-(lp31
-Vinsight
 p32
-aS'communicate'
-p33
-aS'design'
+(lp33
+S'decision-making'
 p34
-aS'recommendation'
+aS'insight'
 p35
-aS'report'
+aS'communicate'
 p36
-aS'implement'
+aS'design'
 p37
-aS'model'
+aS'recommendation'
 p38
+aS'report'
+p39
+aS'implement'
+p40
+aS'design ... experiment'
+p41
+aS'model'
+p42
 as.

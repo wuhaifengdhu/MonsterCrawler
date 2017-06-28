@@ -4,215 +4,197 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
+F0.0092707068338419851
 sS'communication'
 p5
-I1
+F0.0075749730100997913
 sS'presentation skills'
 p6
-I1
+F0.011084762941018733
 sS'analytics'
 p7
-I1
+F0.022887827946934912
 sS'business intelligence'
 p8
-I1
+F0.0048876634181206245
 sS'data governance'
 p9
-I1
+F0.010460645760177752
 sS'data warehousing'
 p10
-I1
+F0.0072762924920676871
 sS'business objects'
 p11
-I1
+F0.010289693537115029
 sS'modeling'
 p12
-I1
-sS'sap'
+F0.0019429322703864891
+sS'sas'
 p13
-I1
-sS'access'
+F0.0033139637719555421
+sS'sap'
 p14
-I1
-sS'management'
+F0.0096055979396623414
+sS'access'
 p15
-I1
-sS'excel'
+F0.011097904426298827
+sS'management'
 p16
-I1
-sS'information management'
+F0.026010972264104846
+sS'excel'
 p17
-I1
-sS'governance'
+F0.0038683115473829317
+sS'information management'
 p18
-I1
-sS'strategy'
+F0.011539408683471648
+sS'governance'
 p19
-I1
-sS'supply chain management'
+F0.025869732207386115
+sS'strategy'
 p20
-I1
-sS'teamwork'
+F0.0075359398623293531
+sS'supply chain management'
 p21
-I1
-sS'intelligence'
+F0.011326617443712175
+sS'teamwork'
 p22
-I1
-sS'policy'
+F0.006852655857181816
+sS'intelligence'
 p23
-I1
-sS'data management'
+F0.015024484305136641
+sS'policy'
 p24
-I1
-sS'architecture'
+F0.0065302828422027495
+sS'data management'
 p25
-I1
-sS'data analysis'
+F0.0065787514464336616
+sS'architecture'
 p26
-I1
-sS'data modeling'
+F0.0052320921595326751
+sS'data analysis'
 p27
-I1
-sS'data scientist'
+F0.0035496698922623565
+sS'data modeling'
 p28
-I1
-sS'data quality'
+F0.0062492864708571082
+sS'data scientist'
 p29
-I1
-sS'leadership'
+F0.0025343819740762637
+sS'data quality'
 p30
-I1
-sS'sql'
+F0.008456550390397664
+sS'leadership'
 p31
-I1
-sS'performance improvement'
+F0.0039531306727364161
+sS'sql'
 p32
-I1
-sS'db2'
+F0.0016314446383565719
+sS'performance improvement'
 p33
-I1
-sS'data'
+F0.012984853776832624
+sS'db2'
 p34
-I1
-sS'sap bi'
+F0.01186682053633136
+sS'data'
 p35
-I1
-sS'science'
+F0.0051072411046423748
+sS'sap bi'
 p36
-I1
+F0.015028903547951616
 sS'analysis'
 p37
-I1
+F0.0016393240275317221
 sS'data architecture'
 p38
-I1
+F0.0097068745330509635
 sS'procurement'
 p39
-I1
+F0.012565707251113971
 sS'operations research'
 p40
-I1
+F0.0068921974056265775
 sS'organization'
 p41
-I1
+F0.016872572624705082
 sS'data analytics'
 p42
-I1
+F0.0048859394293918586
 ssS'working-year'
 p43
 (dp44
 V(5, 10]
 p45
-I1
+F0.0028843164152556429
 sV(2, 5]
 p46
-I1
+F0.0029639818861988887
 ssS'major'
 p47
 (dp48
-S'information'
+VData Science
 p49
-I1
-sS'management'
+F0.0024576291449881879
+sVInformation Science
 p50
-I1
-sS'business'
+F0.0060589837046748649
+sVBusiness
 p51
-I1
-sS'communication'
+F0.002587833366445249
+sVOperations Research
 p52
-I1
-sS'business intelligence data analytics'
+F0.0077003083688687891
+sVManagement Science and Engineering
 p53
-I1
-sS'information management'
-p54
-I1
-sS'supply chain management'
-p55
-I1
-sS'analytics'
-p56
-I1
-sS'design'
-p57
-I1
-sS'data analytics'
-p58
-I1
-sS'data analytics business'
-p59
-I1
-sS'business management'
-p60
-I1
-sS'operations research'
-p61
-I1
-sS'science'
-p62
-I1
+F0.003085034781026058
 ssS'education'
-p63
-(dp64
+p54
+(dp55
 VBachelor
-p65
-I1
+p56
+F0.0021803321236122169
 ssS'responsibility'
-p66
-(dp67
+p57
+(dp58
 S'development'
-p68
-I1
+p59
+F0.0086911076728286036
 sS'information'
-p69
-I1
+p60
+F0.0033184334916971162
 sS'data analysis'
-p70
-I1
-sVinsight
-p71
-I1
+p61
+F0.0035496698922623565
+sS'cross functionally'
+p62
+F0.014310951542870603
+sS'insight'
+p63
+F0.0043896970239461364
 sS'communicate'
-p72
-I1
+p64
+F0.0047996241202908898
 sS'analysis'
-p73
-I1
+p65
+F0.0016393240275317221
+sS'improvement'
+p66
+F0.006426331330954803
+sS'drive ... decision'
+p67
+F0.0096557003318878312
 sS'design'
-p74
-I1
+p68
+F0.0034938249043504248
 sS'report'
-p75
-I1
+p69
+F0.0099295522496288466
 sS'modeling'
-p76
-I1
+p70
+F0.0019429322703864891
 sS'presentation'
-p77
-I1
+p71
+F0.0058931922064823124
 sS'decision-making'
-p78
-I1
+p72
+F0.0087847737937443125
 ss.

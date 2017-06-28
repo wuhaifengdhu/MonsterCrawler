@@ -8,92 +8,89 @@ aS'intelligence'
 p5
 aS'testing'
 p6
-aS'business intelligence'
+aS'sales'
 p7
-aS'insurance'
+aS'business intelligence'
 p8
-aS'open source'
+aS'ansible'
 p9
-aS'scala'
+aS'go'
 p10
-aS'scientific computing'
+aS'insurance'
 p11
-aS'writing'
+aS'open source'
 p12
-aS'coaching'
+aS'scala'
 p13
-aS'jenkins'
+aS'scientific computing'
 p14
-aS'numpy'
+aS'writing'
 p15
-aS'python'
+aS'coaching'
 p16
-aS'marketing'
+aS'jenkins'
 p17
-aS'collaboration'
+aS'numpy'
 p18
-aS'data scientist'
+aS'pandas'
 p19
-aS'matplotlib'
+aS'python'
 p20
-aS'spark'
+aS'marketing'
 p21
-aS'data'
+aS'collaboration'
 p22
-aS'consumer insights'
+aS'data scientist'
 p23
-aS'engineering'
+aS'matplotlib'
 p24
-aS'machine learning'
+aS'spark'
 p25
-aVpanda
+aS'data'
 p26
-aS'retail'
+aS'a'
+aS'consumer insights'
 p27
-asS'working-year'
+aS'engineering'
 p28
-(lp29
-V(2, 5]
+aS'machine learning'
+p29
+aS'retail'
 p30
-asS'major'
+asS'working-year'
 p31
 (lp32
-S'information'
+V(2, 5]
 p33
-aS'business'
+asS'major'
 p34
-aS'computational engineering'
-p35
-aS'computing'
+(lp35
+VEngineering
 p36
-aS'marketing'
+aVEconomics
 p37
-aS'scientific computing'
+aVComputer Science
 p38
-aS'machine learning'
+aVBusiness
 p39
-aS'engineering'
-p40
-aS'design'
-p41
-aS'phd'
-p42
 asS'education'
+p40
+(lp41
+VBachelor
+p42
+aVDoctor
 p43
-(lp44
-VDoctor
-p45
 asS'responsibility'
-p46
-(lp47
+p44
+(lp45
 S'development'
-p48
+p46
 aS'information'
-p49
+p47
 aS'implement'
-p50
+p48
 aS'design'
-p51
+p49
 aS'model'
-p52
+p50
 as.

@@ -18,15 +18,15 @@ aS'hive'
 p10
 aS'data mining'
 p11
-aVpanda
+aS'sas'
 p12
-aS'visualization'
+aVpanda
 p13
-aS'programming languages'
+aS'visualization'
 p14
-aS'deep learning'
+aS'programming languages'
 p15
-aS'r programming'
+aS'deep learning'
 p16
 aS'hadoop'
 p17
@@ -62,95 +62,81 @@ aS'data'
 p32
 aS'statistical programming'
 p33
-aS'search'
+aS'information technology'
 p34
-aS'data visualization'
+aS'search'
 p35
-aS'science'
+aS'data visualization'
 p36
-aS'economics'
+aS'science'
 p37
-aS'programming'
+aS'economics'
 p38
-aS'analysis'
+aS'programming'
 p39
-aS'machine learning'
+aS'analysis'
 p40
-aS'data architecture'
+aS'machine learning'
 p41
-aS'exploratory data analysis'
+aS'data architecture'
 p42
+aS'exploratory data analysis'
+p43
 aS'r'
 aS'solr'
-p43
-aS'architecture'
 p44
-aS'shiny'
+aS'architecture'
 p45
-aS'nltk'
+aS'shiny'
 p46
-aS'scripting'
+aS'nltk'
 p47
-asS'working-year'
+aS'scripting'
 p48
-(lp49
-V[0]
-p50
-asS'major'
+asS'working-year'
+p49
+(lp50
+S'[0]'
 p51
-(lp52
-S'information'
-p53
-aS'business'
+asS'major'
+p52
+(lp53
+VBusiness
 p54
-aS'science'
+aVData Science
 p55
-aS'data science'
+aVEconomics
 p56
-aS'economics'
+aVInformation Science
 p57
-aS'statistic'
+aVComputer Science
 p58
-aS'machine learning'
+aVMathematics
 p59
-aS'business analytics'
-p60
-aS'analytics'
-p61
-aS'computer science'
-p62
-aS'data mining'
-p63
-aS'advanced analytics'
-p64
-aS'mathematics'
-p65
-aS'computer science economics'
-p66
 asS'education'
-p67
-(lp68
+p60
+(lp61
 VBachelor
-p69
+p62
 asS'responsibility'
-p70
-(lp71
+p63
+(lp64
 S'information'
-p72
+p65
 aS'data analysis'
-p73
+p66
 aS'business problem'
-p74
+p67
 aS'pattern'
-p75
+p68
 aS'analysis'
-p76
+p69
 aS'ownership'
-p77
+p70
 aS'data mining'
-p78
+p71
 aS'model'
-p79
+p72
 aS'transformation'
-p80
+p73
 as.

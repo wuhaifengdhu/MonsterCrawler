@@ -4,134 +4,127 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
-sS'finance'
+F0.011778588013817476
+sS'forecasting'
 p5
-I1
-sS'sql server'
+F0.0089125501696970168
+sS'analytics'
 p6
-I1
-sS'critical thinking'
+F0.0026435789118040322
+sS'engineering'
 p7
-I1
-sS'communication'
-p8
-I1
-sS'data scientist'
-p9
-I1
-sS'teradata'
-p10
-I1
-sS'analysis'
-p11
-I1
-sS'writing'
-p12
-I1
-sS'engineering'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'problem solving'
-p16
-I1
-sS'data mining'
-p17
-I1
-sS'oracle'
-p18
-I1
-sS'statistical analysis'
-p19
-I1
-sS'education'
-p20
-I1
+F0.0037229628482481902
 sS'communication skills'
-p21
-I1
-sS'data analytics'
-p22
-I1
-sS'dashboard'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(0, 2]
-p26
-I1
-sV(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'information'
-p30
-I1
-sS'finance'
-p31
-I1
-sS'communication'
-p32
-I1
+p8
+F0.011194911404438066
+sS'problem solving'
+p9
+F0.007460826337243924
 sS'data mining'
-p33
-I1
-sS'data analyst'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'engineering'
-p36
-I1
+p10
+F0.0064497851935627279
+sS'education'
+p11
+F0.0063788047106786297
+sS'critical thinking'
+p12
+F0.011918679723437743
+sS'writing'
+p13
+F0.0068299705959954191
 sS'computer science'
-p37
-I1
-sS'statistic'
-p38
-I1
+p14
+F0.0042735053592316734
+sS'teradata'
+p15
+F0.011127862294327134
+sS'finance'
+p16
+F0.0080703527482786884
+sS'data'
+p17
+F0.00072098168920652224
+sS'a'
+F0.01136803582744089
+sS'sql server'
+p18
+F0.008504037900542924
+sS'science'
+p19
+F0.00213688111913098
+sS'analysis'
+p20
+F0.0010413942910459876
+sS'machine learning'
+p21
+F0.0019924550815624297
+sS'dashboard'
+p22
+F0.010657753705530532
+sS'oracle'
+p23
+F0.0079787887494265092
 sS'data analytics'
-p39
-I1
+p24
+F0.006207667724880842
+sS'statistical analysis'
+p25
+F0.0078258363325611185
+ssS'working-year'
+p26
+(dp27
+V(0, 2]
+p28
+F0.0069227360610642956
+sV(2, 5]
+p29
+F0.0037657885362648497
+ssS'major'
+p30
+(dp31
+VEngineering
+p32
+F0.0068461365555219679
+sVEconomics
+p33
+F0.0049871475608646229
+sVData Science
+p34
+F0.0031224589136931995
+sVBusiness
+p35
+F0.003287885553720712
+sVComputer Science
+p36
+F0.0027518411743227894
 ssS'education'
+p37
+(dp38
+VBachelor
+p39
+F0.0027701484123705371
+ssS'responsibility'
 p40
 (dp41
-VBachelor
-p42
-I1
-ssS'responsibility'
-p43
-(dp44
 S'information'
-p45
-I1
-sS'business problem'
-p46
-I1
-sVinsight
-p47
-I1
+p42
+F0.0042161252265331146
+sS'forecasting'
+p43
+F0.0089125501696970168
+sS'insight'
+p44
+F0.0055771834529163679
 sS'analysis'
-p48
-I1
+p45
+F0.0010413942910459876
 sS'understand'
-p49
-I1
+p46
+F0.0063880845393443023
 sS'data mining'
-p50
-I1
+p47
+F0.0064497851935627279
 sS'report'
-p51
-I1
+p48
+F0.012615662128707775
 ss.

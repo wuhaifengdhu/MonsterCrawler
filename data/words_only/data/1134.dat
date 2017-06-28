@@ -4,193 +4,178 @@ p2
 (dp3
 S'data science'
 p4
-I1
-sS'analysis'
+F0.0032161522076486608
+sS'analytics'
 p5
-I1
-sS'big data'
-p6
-I1
-sS'predictive modeling'
-p7
-I1
-sS'hadoop'
-p8
-I1
-sS'research'
-p9
-I1
-sS'big data analytics'
-p10
-I1
-sS'computer science'
-p11
-I1
-sS'innovation'
-p12
-I1
-sS'military'
-p13
-I1
-sS'unstructured data'
-p14
-I1
-sS'data analysis'
-p15
-I1
-sS'business analysis'
-p16
-I1
-sS'energy'
-p17
-I1
-sS'python'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'sql'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'spark'
-p22
-I1
-sS'data visualization'
-p23
-I1
-sS'applied mathematics'
-p24
-I1
-sS'hive'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'h2o'
-p27
-I1
-sS'r'
-I1
-sS'healthcare'
-p28
-I1
-sS'organization'
-p29
-I1
-sS'retail'
-p30
-I1
-sS'data analytics'
-p31
-I1
-sS'predictive analytics'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'information'
-p38
-I1
-sS'mathematics physics'
-p39
-I1
-sS'business analysis'
-p40
-I1
-sS'big data'
-p41
-I1
-sS'applied mathematics'
-p42
-I1
-sS'applied math'
-p43
-I1
-sS'computer science statistics'
-p44
-I1
-sS'machine learning'
-p45
-I1
-sS'big data analytics'
-p46
-I1
-sS'physics computer science'
-p47
-I1
-sS'computer science'
-p48
-I1
-sS'statistic'
-p49
-I1
-sVphysic
-p50
-I1
-sS'phd'
-p51
-I1
-sS'business'
-p52
-I1
-sS'data science'
-p53
-I1
-sS'data analytics'
-p54
-I1
-sS'predictive analytics'
-p55
-I1
-ssS'education'
-p56
-(dp57
-VDoctor
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
-sS'information'
-p62
-I1
-sS'product'
-p63
-I1
-sS'data analysis'
-p64
-I1
-sS'communicate'
-p65
-I1
+F0.0023255012352500709
 sS'analysis'
-p66
-I1
-sS'analytic'
-p67
-I1
-sS'statistical method'
-p68
-I1
+p6
+F0.00091609283891478592
+sS'sas'
+p7
+F0.0037038418627738413
+sS'machine learning'
+p8
+F0.0017527211813744366
+sS'statistics'
+p9
+F0.0024933498791513491
+sS'big data'
+p10
+F0.0034030083592584692
+sS'predictive modeling'
+p11
+F0.0055588393280453733
+sS'hadoop'
+p12
+F0.0034353115010683551
+sS'research'
+p13
+F0.0045623547682445897
+sS'big data analytics'
+p14
+F0.0088616820982579687
+sS'computer science'
+p15
+F0.0037593135379337451
+sS'innovation'
+p16
+F0.0051760017971516671
+sS'military'
+p17
+F0.0099803705134540351
+sS'energy'
+p18
+F0.0082499874493317752
+sS'data analysis'
+p19
+F0.0039672781148814571
+sS'business analysis'
+p20
+F0.0071351128349659192
+sS'python'
+p21
+F0.0027874412446698715
+sS'data scientist'
+p22
+F0.0028325445592617066
+sS'sql'
+p23
+F0.0018233793016926392
 sS'modeling'
-p69
-I1
+p24
+F0.0021715125374907819
+sS'spark'
+p25
+F0.0045083840195605839
+sS'data'
+p26
+F0.00095134883321769728
+sS'data visualization'
+p27
+F0.0052586460576994672
+sS'science'
+p28
+F0.0018797697545296587
+sS'applied mathematics'
+p29
+F0.0080805100129510855
+sS'hive'
+p30
+F0.0055768830200267549
+sS'unstructured data'
+p31
+F0.0085262257578961487
+sS'h2o'
+p32
+F0.012028608870300266
+sS'r'
+F0.0014839366487003774
+sS'healthcare'
+p33
+F0.02163561772708688
+sS'organization'
+p34
+F0.0047143952921970085
+sS'retail'
+p35
+F0.0092138007604719834
+sS'physics'
+p36
+F0.0065055732017290455
+sS'data analytics'
+p37
+F0.0054607558328497244
+sS'predictive analytics'
+p38
+F0.0061564122281518455
+ssS'working-year'
+p39
+(dp40
+V(5, 10]
+p41
+F0.003223647758226895
+ssS'major'
+p42
+(dp43
+VStatistics
+p44
+F0.0048168576734975406
+sVBusiness
+p45
+F0.0028922843507329255
+sVData Science
+p46
+F0.0027467619855750338
+sVComputer Science
+p47
+F0.0024207372897117586
+sVMathematics
+p48
+F0.0045836163892578928
+sVPhysics
+p49
+F0.0070153264737970325
+ssS'education'
+p50
+(dp51
+VMaster
+p52
+F0.0019446007626314889
+sVDoctor
+p53
+F0.0029122507266750482
+ssS'responsibility'
+p54
+(dp55
+S'development'
+p56
+F0.0032378636428184986
+sS'information'
+p57
+F0.0037088374318967766
+sS'product'
+p58
+F0.0035962376757158999
+sS'data analysis'
+p59
+F0.0039672781148814571
+sS'communicate'
+p60
+F0.005364285781501583
+sS'analysis'
+p61
+F0.00091609283891478592
+sS'analytic'
+p62
+F0.018110101382082699
+sS'statistical method'
+p63
+F0.009400509168586927
+sS'modeling'
+p64
+F0.0021715125374907819
 sS'model'
-p70
-I1
+p65
+F0.0041374621441220344
 ss.

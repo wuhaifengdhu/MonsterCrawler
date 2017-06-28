@@ -2,50 +2,51 @@
 S'skills'
 p2
 (lp3
-S'pig'
+S'statistics'
 p4
 aS'python'
 p5
-aS'hive'
+aS'hadoop'
 p6
-aS'simulation'
+aS'hive'
 p7
-aS'statistical modeling'
+aS'machine learning'
 p8
 aS'mathematics'
 p9
-aS'modeling'
+aS'r'
+aS'statistical modeling'
 p10
-aS'machine learning'
+aS'simulations'
 p11
-aS'data'
+aS'modeling'
 p12
-asS'working-year'
+aS'pig'
 p13
-(lp14
-V[0]
+aS'data'
+p14
+asS'working-year'
 p15
+(lp16
+S'[0]'
+p17
 asS'major'
-p16
-(lp17
-S'mathematics'
 p18
-aS'statistic'
-p19
-aS'machine learning'
+(lp19
+VMathematics
 p20
-asS'education'
+aVStatistics
 p21
-(lp22
-VMaster
+aVComputer Science
+p22
+asS'education'
 p23
+(lp24
+VMaster
+p25
 asS'responsibility'
-p24
-(lp25
-S'modeling'
 p26
-aS'statistical model'
-p27
-aS'simulation'
+(lp27
+S'modeling'
 p28
 as.

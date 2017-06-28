@@ -46,6 +46,8 @@ aS'spark'
 p24
 aS'data'
 p25
+aS'a'
+aS'c'
 aS'science'
 p26
 aS'programming'
@@ -63,57 +65,35 @@ p32
 asS'working-year'
 p33
 (lp34
-V[0]
+S'[0]'
 p35
 asS'major'
 p36
 (lp37
-S'information'
+VBusiness
 p38
-aS'management'
+aVData Science
 p39
-aS'transportation'
+aVElectrical and Electronics Engineering
 p40
-aS'business'
+aVEngineering
 p41
-aS'science'
+aVComputer Science
 p42
-aS'statistic'
+aVManagement Science and Engineering
 p43
-aS'electrical'
-p44
-aS'machine learning'
-p45
-aS'analytics'
-p46
-aS'engineering'
-p47
-aS'design'
-p48
-aS'data analytics'
-p49
-aS'mechanical'
-p50
-aS'electrical engineering'
-p51
-aS'automation'
-p52
-aVphysic
-p53
-aS'computer science'
-p54
 asS'education'
-p55
-(lp56
+p44
+(lp45
 VBachelor
-p57
+p46
 asS'responsibility'
-p58
-(lp59
+p47
+(lp48
 S'information'
-p60
+p49
 aS'prototype'
-p61
+p50
 aS'design'
-p62
+p51
 as.

@@ -4,173 +4,170 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
-sS'engineering'
+F0.0065147660161277137
+sS'analytics'
 p5
-I1
-sS'data governance'
-p6
-I1
-sS'mysql'
-p7
-I1
-sS'ic'
-p8
-I1
-sS'governance'
-p9
-I1
-sS'access'
-p10
-I1
-sS'oracle sql'
-p11
-I1
-sS'computer science'
-p12
-I1
-sS'communication'
-p13
-I1
-sS'policy'
-p14
-I1
-sS'mathematics'
-p15
-I1
-sS'data management'
-p16
-I1
-sS'architecture'
-p17
-I1
-sS'processing'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'data quality'
-p20
-I1
-sS'data processing'
-p21
-I1
-sS'sql'
-p22
-I1
-sS'modeling'
-p23
-I1
-sS'data'
-p24
-I1
-sS'project management'
-p25
-I1
-sS'dod'
-p26
-I1
-sS'data architecture'
-p27
-I1
-sS'data engineering'
-p28
-I1
-sS'master data management'
-p29
-I1
-sS'data security'
-p30
-I1
-sS'oracle'
-p31
-I1
-sS'security'
-p32
-I1
-sS'data analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'information system management'
-p40
-I1
-sS'communication'
-p41
-I1
+F0.0036088691368611064
 sS'engineering'
-p42
-I1
-sS'information system'
-p43
-I1
-sS'design'
-p44
-I1
-sS'data analytics'
-p45
-I1
-sS'mathematics'
-p46
-I1
-sS'ee computer science'
-p47
-I1
-sS'project management'
-p48
-I1
+p6
+F0.0050823849671106005
+sS'data governance'
+p7
+F0.018143360696075934
+sS'mysql'
+p8
+F0.0098512777040963562
+sS'ic'
+p9
+F0.017624018536660308
+sS'management'
+p10
+F0.0037595388680483491
+sS'governance'
+p11
+F0.014956498012015762
+sS'access'
+p12
+F0.019248647511173899
+sS'oracle sql'
+p13
+F0.014640864946194251
 sS'computer science'
-p49
-I1
-ssS'education'
-p50
-(dp51
-VBachelor
-p52
-I1
-sVMaster
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-I1
-sS'information'
-p57
-I1
-sS'pattern'
-p58
-I1
+p14
+F0.0058339554489096291
+sS'communication'
+p15
+F0.0065691674651902759
+sS'policy'
+p16
+F0.011326382688965766
+sS'mathematics'
+p17
+F0.0075846194277004392
+sS'data management'
+p18
+F0.011410448566843447
+sS'architecture'
+p19
+F0.0090747490567828146
 sS'processing'
-p59
-I1
-sS'analytic'
-p60
-I1
-sS'design'
-p61
-I1
+p20
+F0.0067762991148162654
+sS'data scientist'
+p21
+F0.0043957330504725235
+sS'data quality'
+p22
+F0.014667377855544495
+sS'data processing'
+p23
+F0.015251944388914421
+sS'sql'
+p24
+F0.0028296425677719794
 sS'modeling'
-p62
-I1
+p25
+F0.0033698991245707573
+sS'data'
+p26
+F0.005413345919581751
+sS'project management'
+p27
+F0.0078898478146246717
+sS'science'
+p28
+F0.0029171530630460268
+sS'dod'
+p29
+F0.017516933432678457
+sS'data architecture'
+p30
+F0.016835989854005407
+sS'data engineering'
+p31
+F0.016617555004429206
+sS'master data management'
+p32
+F0.020809704758433155
+sS'data security'
+p33
+F0.021869228394163432
+sS'oracle'
+p34
+F0.010892205388221252
+sS'organization'
+p35
+F0.0073161155156916229
+sS'security'
+p36
+F0.0090678457083808797
+sS'data analytics'
+p37
+F0.0084743679729701125
+ssS'working-year'
+p38
+(dp39
+V(5, 10]
+p40
+F0.005002673284551281
+ssS'major'
+p41
+(dp42
+VMathematics
+p43
+F0.0071131640231637009
+sVData Science
+p44
+F0.004262609886328061
+sVEngineering
+p45
+F0.0093459706504843473
+sVComputer Science
+p46
+F0.0037566628479344306
+sVManagement Science and Engineering
+p47
+F0.0053508072135638688
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0037816548865971236
+sVMaster
+p51
+F0.0030177621793534312
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.01004946889970223
+sS'information'
+p55
+F0.017266869703685409
+sS'pattern'
+p56
+F0.010865523135162432
+sS'processing'
+p57
+F0.0067762991148162654
+sS'analytic'
+p58
+F0.0093681575614093064
+sS'design'
+p59
+F0.0181794872616408
+sS'modeling'
+p60
+F0.0033698991245707573
 sS'implement'
-p63
-I1
+p61
+F0.026363442013937022
 sS'model'
-p64
-I1
+p62
+F0.0064207918751105425
+sS'decision making'
+p63
+F0.013554286514230346
 ss.

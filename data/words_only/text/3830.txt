@@ -1,5 +1,5 @@
-skills: {'management': 1, 'apis': 1, 'user experience': 1, 'programming': 1, 'javascript': 1, 'data scientist': 1, 'talent management': 1, 'engineering': 1, 'html': 1, 'computer science': 1, 'web services': 1, 'leadership': 1, 'teaching': 1, 'amazon web services': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'engineering': 1, 'design': 1, 'computer science': 1, 'ee computer science': 1, 'history': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'collect data': 1, 'understand': 1, 'design': 1, 'implement': 1}
+skills: {'a': 0.011098171475454164, 'apis': 0.01091814648705237, 'data scientist': 0.0031435360984091343, 'javascript': 0.006579954344278766, 'programming': 0.0032709650885307893, 'talent management': 0.01706663127784607, 'options': 0.013476629955006954, 'engineering': 0.007269167816460859, 'html': 0.007596690484417491, 'computer science': 0.00417205716079294, 'web services': 0.008727119193353667, 'leadership': 0.0049032896771626765, 'teaching': 0.008538904784568441, 'amazon web services': 0.009834626423585995, 'css': 0.009119586331700206, 'science': 0.0020861539709023515}
+working-year: {u'(2, 5]': 0.0036763929627036665}
+major: {u'Engineering': 0.007269167816460859, u'Computer Science': 0.0026865155678106756, u'Business': 0.003209834858083425, u'Management Science and Engineering': 0.0038265416571777225}
+education: {'Bachelor': 0.0027043882126703465}
+responsibility: {'development': 0.0035933560902496105, 'information': 0.004116039167743011, 'product': 0.01995538413527814, 'collect data': 0.015749332723216165, 'understand': 0.006236438615561648, 'design': 0.017334347893394393, 'implement': 0.006284460460295571}

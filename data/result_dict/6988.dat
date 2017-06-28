@@ -29,44 +29,40 @@ aS'computer science'
 p15
 aS'mathematics'
 p16
-aS'modeling'
+aS'sas'
 p17
-aS'spss'
+aS'modeling'
 p18
-asS'working-year'
+aS'spss'
 p19
-(lp20
-V(0, 2]
+aS'd3'
+p20
+asS'working-year'
 p21
+(lp22
+V(0, 2]
+p23
 asS'major'
-p22
-(lp23
-S'science'
 p24
-aS'applied mathematics'
-p25
-aS'engineering'
+(lp25
+VMathematics
 p26
-aS'computer science engineering'
+aVEngineering
 p27
-aS'computer science'
+aVComputer Science
 p28
-aS'applied math'
-p29
-aS'mathematics'
-p30
-aS'ee computer science'
-p31
 asS'education'
+p29
+(lp30
+VMaster
+p31
+asS'responsibility'
 p32
 (lp33
-VMaster
+S'development'
 p34
-asS'responsibility'
+aS'modeling'
 p35
-(lp36
-S'modeling'
-p37
 aS'prototype'
-p38
+p36
 as.

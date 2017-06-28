@@ -2,263 +2,233 @@
 S'skills'
 p2
 (dp3
-S'classification'
+S'programming'
 p4
-I1
-sS'communication'
+F0.0023808104424079394
+sS'classification'
 p5
-I1
-sS'data science'
+F0.0068150365042291125
+sS'communication'
 p6
-I1
-sS'reinforcement learning'
+F0.0034193722658981784
+sS'data science'
 p7
-I1
-sS'causal inference'
+F0.0025979285651416832
+sS'reinforcement learning'
 p8
-I1
-sS'c++'
+F0.011195406335590335
+sS'causal inference'
 p9
-I1
+F0.012071136872541917
 sS'problem solving'
 p10
-I1
-sS'education'
+F0.0053015375052985992
+sS'research'
 p11
-I1
-sVpanda
+F0.0036853578473509214
+sS'regression'
 p12
-I1
+F0.0051321118589239753
 sS'dimensionality reduction'
 p13
-I1
+F0.011769276437282919
 sS'economic research'
 p14
-I1
+F0.012239519725769721
 sS'clustering'
 p15
-I1
-sS'time series analysis'
+F0.0069620141696678404
+sS'statistics'
 p16
-I1
-sS'deep learning'
+F0.0020140666410423426
+sS'time series analysis'
 p17
-I1
-sS'predictive modeling'
+F0.0062151423593943085
+sS'deep learning'
 p18
-I1
-sS'recruiting'
+F0.00672687188529903
+sS'predictive modeling'
 p19
-I1
-sS'strategy'
+F0.0044902935392850327
+sS'recruiting'
 p20
-I1
-sS'r'
-I1
-sS'computer science'
+F0.0074490242993896141
+sS'hadoop'
 p21
-I1
-sS'policy'
+F0.0027749600462193629
+sS'strategy'
 p22
-I1
-sS'tensorflow'
-p23
-I1
-sS'operations research'
-p24
-I1
-sS'architecture'
-p25
-I1
-sS'data analysis'
-p26
-I1
-sS'theory'
-p27
-I1
-sS'python'
-p28
-I1
-sS'javascript'
-p29
-I1
-sS'data scientist'
-p30
-I1
-sS'automation'
-p31
-I1
-sS'regression'
-p32
-I1
-sS'modeling'
-p33
-I1
-sS'data'
-p34
-I1
-sS'econometrics'
-p35
-I1
-sS'c'
-I1
-sS'software engineering'
-p36
-I1
-sS'economics'
-p37
-I1
-sS'programming'
-p38
-I1
-sS'analysis'
-p39
-I1
-sS'machine learning'
-p40
-I1
-sS'optimization'
-p41
-I1
-sS'advertising'
-p42
-I1
-sS'healthcare'
-p43
-I1
-sS'application development'
-p44
-I1
-sS'artificial intelligence'
-p45
-I1
-ssS'working-year'
-p46
-(dp47
-V(5, 10]
-p48
-I1
-ssS'major'
-p49
-(dp50
-S'economics statistics'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'data science'
-p53
-I1
-sS'reinforcement learning'
-p54
-I1
-sS'general'
-p55
-I1
-sS'design'
-p56
-I1
-sS'statistic'
-p57
-I1
-sS'development practice'
-p58
-I1
-sS'econometrics'
-p59
-I1
-sS'statistics operations research'
-p60
-I1
-sS'economic research'
-p61
-I1
-sS'information'
-p62
-I1
-sS'computer science economics'
-p63
-I1
+F0.0034017525512458637
+sS'r'
+F0.0011986874872871301
 sS'computer science'
-p64
-I1
-sS'phd'
-p65
-I1
+p23
+F0.0030366809140112759
+sS'policy'
+p24
+F0.0058955901253579905
+sS'tensorflow'
+p25
+F0.0093196130102082813
+sS'pandas'
+p26
+F0.0088834610609755549
 sS'operations research'
-p66
-I1
-sS'business'
-p67
-I1
-sS'economics computer science'
-p68
-I1
-sS'automation'
-p69
-I1
-sS'law'
-p70
-I1
-sS'software engineering'
-p71
-I1
-sS'economics'
-p72
-I1
-sS'machine learning'
-p73
-I1
-sS'artificial intelligence'
-p74
-I1
-sS'computer science machine learning'
-p75
-I1
-ssS'education'
-p76
-(dp77
-VDoctor
-p78
-I1
-ssS'responsibility'
-p79
-(dp80
-S'development'
-p81
-I1
-sS'information'
-p82
-I1
-sS'design'
-p83
-I1
+p27
+F0.0062223294072395463
+sS'architecture'
+p28
+F0.0047235734831202122
 sS'data analysis'
-p84
-I1
-sS'business problem'
-p85
-I1
-sS'analysis'
-p86
-I1
-sS'optimization'
-p87
-I1
-sS'understand'
-p88
-I1
-sS'solve problem'
-p89
-I1
+p29
+F0.0032046695787595362
+sS'theory'
+p30
+F0.0063293223552339864
+sS'python'
+p31
+F0.0011258132024908553
+sS'javascript'
+p32
+F0.0047892972225095981
+sS'data scientist'
+p33
+F0.0022880597519738194
+sS'automation'
+p34
+F0.0072031281327512081
+sS'metrics'
+p35
+F0.0094280127730689191
+sS'sql'
+p36
+F0.0014728809046070132
 sS'modeling'
-p90
-I1
+p37
+F0.0017540943607376944
+sS'spark'
+p38
+F0.0036417616054333882
+sS'data'
+p39
+F0.0005123174422223452
+sS'econometrics'
+p40
+F0.0066247485091581876
+sS'c'
+F0.0054022545308773104
+sS'software engineering'
+p41
+F0.005620006455105857
+sS'science'
+p42
+F0.004555295171883968
+sS'economics'
+p43
+F0.010352016519911281
+sS'education'
+p44
+F0.0045326711659033894
+sS'analysis'
+p45
+F0.00073999723920978398
+sS'machine learning'
+p46
+F0.0014158050147603442
+sS'optimization'
+p47
+F0.0043196735580746052
+sS'advertising'
+p48
+F0.0071088494261993297
+sS'healthcare'
+p49
+F0.0058255730957022991
+sS'application development'
+p50
+F0.0082745062667089527
+sS'artificial intelligence'
+p51
+F0.005977573563876383
+ssS'working-year'
+p52
+(dp53
+V(5, 10]
+p54
+F0.0026039832863431075
+ssS'major'
+p55
+(dp56
+VStatistics
+p57
+F0.0038909390278360264
+sVBusiness
+p58
+F0.002336316084609318
+sVData Science
+p59
+F0.0022187667010908482
+sVEconomics
+p60
+F0.0035437830400096349
+sVEngineering
+p61
+F0.0048647493018719821
+sVComputer Science
+p62
+F0.0019554119791624141
+sVOperations Research
+p63
+F0.0069518982682227953
+ssS'education'
+p64
+(dp65
+VMaster
+p66
+F0.0015708006160349394
+sVDoctor
+p67
+F0.0023524444314826525
+ssS'responsibility'
+p68
+(dp69
+S'development'
+p70
+F0.0052309330557845299
+sS'information'
+p71
+F0.0029959075583788223
+sS'design'
+p72
+F0.0094627568683702656
+sS'data analysis'
+p73
+F0.0032046695787595362
+sS'business problem'
+p74
+F0.0061515130931547408
+sS'analysis'
+p75
+F0.00073999723920978398
+sS'optimization'
+p76
+F0.0043196735580746052
+sS'understand'
+p77
+F0.0045392652558191695
+sS'solve problem'
+p78
+F0.0088834610609755549
+sS'modeling'
+p79
+F0.0017540943607376944
 sS'model'
-p91
-I1
+p80
+F0.010026420141911279
 sS'evaluation'
-p92
-I1
+p81
+F0.0073076526648524348
+sS'decision making'
+p82
+F0.0070552549674503537
 ss.

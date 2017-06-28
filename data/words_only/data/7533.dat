@@ -4,228 +4,192 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.006103214509590095
 sS'communication'
 p5
-I1
+F0.0030622231317424691
 sS'data science'
 p6
-I1
-sS'defense'
+F0.0023265781927671162
+sS'engineering'
 p7
-I1
-sS'c++'
+F0.0023691581761579395
+sS'defense'
 p8
-I1
+F0.0068310215743292808
 sS'data mining'
 p9
-I1
+F0.0041044087595399183
 sS'laboratory'
 p10
-I1
+F0.0081532530426903071
 sS'education'
 p11
-I1
+F0.004059239361340946
 sS'image processing'
 p12
-I1
+F0.006415557089500255
 sS'networking'
 p13
-I1
+F0.0070259025969841137
 sS'deep learning'
 p14
-I1
-sS'research'
+F0.0060242585742619932
+sS'innovation'
 p15
-I1
-sS'access'
+F0.0037443417255990786
+sS'research'
 p16
-I1
-sS'opencv'
+F0.0049506402804356184
+sS'access'
 p17
-I1
-sS'computer vision'
+F0.017945547582951294
+sS'opencv'
 p18
-I1
-sS'matlab'
+F0.0093523574003475263
+sS'computer vision'
 p19
-I1
-sS'natural language processing'
+F0.0068372109539385365
+sS'matlab'
 p20
-I1
-sS'electronics'
+F0.0024688610979459666
+sS'natural language processing'
 p21
-I1
-sS'computer science'
+F0.0048471143751649959
+sS'mathematics'
 p22
-I1
-sS'segmentation'
+F0.0035355769479222549
+sS'electronics'
 p23
-I1
-sS'signal processing'
+F0.01697282549718563
+sS'computer science'
 p24
-I1
-sS'government'
+F0.002719503410420156
+sS'segmentation'
 p25
-I1
-sS'python'
+F0.0056016466385494018
+sS'signal processing'
 p26
-I1
-sS'processing'
+F0.006061257275746035
+sS'government'
 p27
-I1
-sS'data scientist'
+F0.0050427843629186949
+sS'python'
 p28
-I1
-sS'leadership'
+F0.001008223428923145
+sS'processing'
 p29
-I1
-sS'chemical engineering'
+F0.0063175554610085879
+sS'data scientist'
 p30
-I1
-sS'c'
-I1
-sS'science'
+F0.0020490747875510219
+sS'leadership'
 p31
-I1
-sS'applied mathematics'
+F0.0031961482034890175
+sS'chemical engineering'
 p32
-I1
-sS'programming'
+F0.010909534776449339
+sS'data'
 p33
-I1
-sS'analysis'
+F0.00045880652949505964
+sS'c'
+F0.0024189979185649853
+sS'science'
 p34
-I1
-sS'machine learning'
+F0.0027196668788939744
+sS'applied mathematics'
 p35
-I1
-sS'r'
-I1
-sS'electrical engineering'
+F0.0058454753285178069
+sS'programming'
 p36
-I1
-sS'chemistry'
+F0.0021321377849804176
+sS'analysis'
 p37
-I1
-sS'data analytics'
+F0.00066270545793835583
+sS'machine learning'
 p38
-I1
-ssS'working-year'
+F0.0012679259609942733
+sS'r'
+F0.00107348608629389
+sS'electrical engineering'
 p39
-(dp40
-V(0, 2]
+F0.0076685204707520622
+sS'chemistry'
+p40
+F0.0077363940984030502
+sS'data analytics'
 p41
-I1
-ssS'major'
+F0.0039503340067423539
+ssS'working-year'
 p42
 (dp43
-S'communication'
+V(0, 2]
 p44
-I1
-sS'data science'
+F0.0044053774934045518
+ssS'major'
 p45
-I1
-sS'data mining'
-p46
-I1
-sS'machine learning data mining'
+(dp46
+VBusiness
 p47
-I1
-sS'statistic'
+F0.0020922908069131801
+sVData Science
 p48
-I1
-sS'information'
+F0.0019870193087138544
+sVElectrical and Electronics Engineering
 p49
-I1
-sS'computer science'
+F0.0060863222347678561
+sVEngineering
 p50
-I1
-sS'natural language processing'
+F0.0023691581761579395
+sVComputer Science
 p51
-I1
-sS'electronics'
+F0.0017511716563872297
+sVMathematics
 p52
-I1
-sS'business'
+F0.0033158076007397523
+sVChemical Engineering
 p53
-I1
-sS'applied math'
-p54
-I1
-sS'information system'
-p55
-I1
-sS'chemical engineering'
-p56
-I1
-sS'law'
-p57
-I1
-sVphysic
-p58
-I1
-sS'science'
-p59
-I1
-sS'applied mathematics'
-p60
-I1
-sS'machine learning'
-p61
-I1
-sS'mechanical'
-p62
-I1
-sS'electrical engineering'
-p63
-I1
-sS'chemistry'
-p64
-I1
-sS'data analytics'
-p65
-I1
-sS'history'
-p66
-I1
+F0.0072734670517102425
 ssS'education'
-p67
-(dp68
+p54
+(dp55
 VMaster
-p69
-I1
+p56
+F0.0014067324665844815
+sVDoctor
+p57
+F0.0021067345682330135
 ssS'responsibility'
-p70
-(dp71
+p58
+(dp59
 S'development'
-p72
-I1
+p60
+F0.002342284337358063
 sS'information'
-p73
-I1
+p61
+F0.0080489663415632181
 sS'product'
-p74
-I1
-sVinsight
-p75
-I1
+p62
+F0.0026015336377519277
+sS'insight'
+p63
+F0.0035491167427649617
 sS'evaluation'
-p76
-I1
+p64
+F0.0065443775315796463
 sS'processing'
-p77
-I1
+p65
+F0.0063175554610085879
 sS'analysis'
-p78
-I1
+p66
+F0.00066270545793835583
 sS'data mining'
-p79
-I1
+p67
+F0.0041044087595399183
 sS'implement'
-p80
-I1
+p68
+F0.0040964471472332833
 sS'presentation'
-p81
-I1
+p69
+F0.0047647085924750615
 ss.

@@ -2,98 +2,102 @@
 S'skills'
 p2
 (lp3
-S'software development'
+S'nosql'
 p4
-aS'management'
+aS'data science'
 p5
-aS'big data'
+aS'rest'
 p6
-aS'healthcare'
+aS'engineering'
 p7
-aS'python'
+aS'linux'
 p8
-aS'storage'
-p9
-aS'data science'
-p10
-aS'processing'
-p11
-aS'data scientist'
-p12
-aS'hadoop'
-p13
-aS'hive'
-p14
-aS'research'
-p15
-aS'engineering management'
-p16
-aS'credit'
-p17
-aS'engineering'
-p18
-aS'computer science'
-p19
-aS'science'
-p20
 aS'batch processing'
-p21
-aS'security'
-p22
+p9
 aS'education'
-p23
-aS'data'
-p24
-asS'working-year'
-p25
-(lp26
-V(0, 2]
-p27
-aV(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'information'
-p31
+p10
 aS'management'
-p32
-aS'business'
-p33
+p11
+aS'java'
+p12
 aS'big data'
-p34
-aS'science'
-p35
-aS'data science'
-p36
-aS'engineering management'
-p37
-aS'engineering'
-p38
+p13
+aS'storage'
+p14
+aS'hadoop'
+p15
+aS'research'
+p16
+aS'json'
+p17
 aS'computer science'
-p39
-aS'ee computer science'
-p40
-asS'education'
-p41
-(lp42
-VBachelor
-p43
-asS'responsibility'
-p44
-(lp45
-S'development'
-p46
-aS'information'
-p47
-aS'product'
-p48
-aS'support platform'
-p49
-aS'data infrastructure'
-p50
+p18
+aS'python'
+p19
 aS'processing'
+p20
+aS'data scientist'
+p21
+aS'data'
+p22
+aS'information technology'
+p23
+aS'software development'
+p24
+aS'science'
+p25
+aS'hive'
+p26
+aS'engineering management'
+p27
+aS'credit'
+p28
+aS'healthcare'
+p29
+aS'security'
+p30
+asS'working-year'
+p31
+(lp32
+V(0, 2]
+p33
+aV(2, 5]
+p34
+asS'major'
+p35
+(lp36
+VBusiness
+p37
+aVData Science
+p38
+aVEngineering
+p39
+aVInformation Science
+p40
+aVComputer Science
+p41
+aVManagement Science and Engineering
+p42
+asS'education'
+p43
+(lp44
+VBachelor
+p45
+asS'responsibility'
+p46
+(lp47
+S'development'
+p48
+aS'information'
+p49
+aS'product'
+p50
+aS'support platform'
 p51
-aS'presentation'
+aS'data infrastructure'
 p52
+aS'processing'
+p53
+aS'presentation'
+p54
 as.

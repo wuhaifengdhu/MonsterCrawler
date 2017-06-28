@@ -4,15 +4,15 @@ p2
 (lp3
 S'consulting'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'insurance'
+p8
+aS'statistics'
 p9
 aS'big data'
 p10
@@ -65,70 +65,50 @@ p33
 asS'major'
 p34
 (lp35
-S'computer science operations research'
+VStatistics
 p36
-aS'information'
+aVBusiness
 p37
-aS'business'
+aVData Science
 p38
-aS'big data'
+aVComputer Science
 p39
-aS'analytics'
+aVMathematics
 p40
-aS'science'
+aVOperations Research
 p41
-aS'data science'
-p42
-aS'communication'
-p43
-aS'mathematics statistics'
-p44
-aS'mathematics'
-p45
-aS'design'
-p46
-aS'operations research'
-p47
-aS'statistics computer science'
-p48
-aS'statistic'
-p49
-aS'computer science'
-p50
-aS'data analytics'
-p51
-aS'history'
-p52
 asS'education'
-p53
-(lp54
+p42
+(lp43
 VMaster
-p55
+p44
 asS'responsibility'
-p56
-(lp57
+p45
+(lp46
 S'development'
-p58
+p47
 aS'information'
-p59
+p48
 aS'product'
-p60
+p49
 aS'data analysis'
-p61
+p50
 aS'predict'
-p62
-aVinsight
-p63
+p51
+aS'insight'
+p52
 aS'manage data'
-p64
+p53
 aS'analysis'
-p65
+p54
 aS'design'
-p66
+p55
 aS'report'
-p67
+p56
 aS'implement'
-p68
+p57
 aS'model'
-p69
+p58
+aS'decision making'
+p59
 as.

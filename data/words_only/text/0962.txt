@@ -1,5 +1,5 @@
-skills: {'training': 1, 'start-ups': 1, 'english': 1, 'data scientist': 1, 'search': 1, 'time management': 1, 'hardware': 1, 'facebook': 1, 'healthcare': 1, 'organization': 1, 'electronics': 1, 'research': 1, 'data': 1, 'project management': 1, 'innovation': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'business': 1, 'mechanical': 1, 'phd': 1, 'computer engineering': 1, 'design': 1, 'english': 1, 'electronics': 1, 'electrical computer engineering': 1, 'project management': 1}
-education: {u'Doctor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'design': 1, 'recommendation': 1, 'interface': 1}
+skills: {'a': 0.010389121631189038, 'training': 0.006536929863950915, 'management': 0.002516802408887923, 'optics': 0.014050863161731037, 'english': 0.009383191254037521, 'search': 0.008616638271249356, 'research': 0.007109669513847818, 'hardware': 0.010314766879317958, 'engineering': 0.006804748761520304, 'r': 0.0015416452961498365, 'facebook': 0.01187188808023812, 'healthcare': 0.007492334286972679, 'start-ups': 0.010346879495933598, 'organization': 0.009795465773787117, 'electronics': 0.012187431641729127, 'data': 0.0006588971548581829, 'innovation': 0.010754581511859576}
+working-year: {u'(5, 10]': 0.003349011837713497, u'(2, 5]': 0.003441512301197599}
+major: {u'Engineering': 0.006804748761520304, u'Electrical and Electronics Engineering': 0.008740634987152726, u'Computer Science': 0.0025148770732005494, u'Business': 0.003004762075483651, u'Management Science and Engineering': 0.0035820681624135903}
+education: {u'Master': 0.0020202241256227138, u'Doctor': 0.0030255049216013}
+responsibility: {'development': 0.0067275611245228815, 'information': 0.007706139997385526, 'product': 0.0037360913631048517, 'design': 0.004056718916717993, 'recommendation': 0.007256115957828531, 'interface': 0.008770992218194664}

@@ -4,7 +4,7 @@ p2
 (lp3
 S'communication'
 p4
-aS'hadoop'
+aS'integration'
 p5
 aS'engineering'
 p6
@@ -20,7 +20,7 @@ aS'java'
 p11
 aS'saas'
 p12
-aS'integration'
+aS'hadoop'
 p13
 aS'research'
 p14
@@ -46,6 +46,7 @@ aS'data'
 p24
 aS'b2b'
 p25
+aS'c'
 aS'cloudera'
 p26
 aS'sql server'
@@ -68,34 +69,26 @@ p35
 asS'major'
 p36
 (lp37
-S'business'
+VEngineering
 p38
-aS'communication'
+aVComputer Science
 p39
-aS'automation'
+aVBusiness
 p40
-aS'engineering'
-p41
-aS'design'
-p42
-aS'computer science'
-p43
-aS'science'
-p44
 asS'education'
-p45
-(lp46
+p41
+(lp42
 VBachelor
-p47
+p43
 asS'responsibility'
-p48
-(lp49
+p44
+(lp45
 S'development'
-p50
+p46
 aS'product'
-p51
+p47
 aS'design'
-p52
+p48
 aS'improvement'
-p53
+p49
 as.

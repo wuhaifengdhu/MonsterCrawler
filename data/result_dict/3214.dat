@@ -2,81 +2,81 @@
 S'skills'
 p2
 (lp3
-S'data science'
+S'nosql'
 p4
-aS'engineering'
-p5
-aS'batch processing'
-p6
-aS'education'
-p7
-aS'management'
-p8
-aS'big data'
-p9
-aS'storage'
-p10
-aS'hadoop'
-p11
-aS'research'
-p12
-aS'computer science'
-p13
-aS'python'
-p14
-aS'processing'
-p15
-aS'data scientist'
-p16
-aS'data'
-p17
-aS'information technology'
-p18
-aS'software development'
-p19
-aS'science'
-p20
-aS'hive'
-p21
-aS'engineering management'
-p22
-aS'credit'
-p23
-aS'healthcare'
-p24
-aS'security'
-p25
-asS'working-year'
-p26
-(lp27
-V(0, 2]
-p28
-aV(2, 5]
-p29
-asS'major'
-p30
-(lp31
-S'information'
-p32
-aS'management'
-p33
-aS'business'
-p34
-aS'big data'
-p35
-aS'science'
-p36
 aS'data science'
-p37
-aS'engineering management'
-p38
+p5
+aS'rest'
+p6
 aS'engineering'
-p39
+p7
+aS'linux'
+p8
+aS'batch processing'
+p9
+aS'education'
+p10
+aS'management'
+p11
+aS'java'
+p12
+aS'big data'
+p13
+aS'storage'
+p14
+aS'hadoop'
+p15
+aS'research'
+p16
+aS'json'
+p17
 aS'computer science'
-p40
-aS'ee computer science'
-p41
+p18
+aS'python'
+p19
+aS'processing'
+p20
+aS'data scientist'
+p21
+aS'data'
+p22
 aS'information technology'
+p23
+aS'software development'
+p24
+aS'science'
+p25
+aS'hive'
+p26
+aS'engineering management'
+p27
+aS'credit'
+p28
+aS'healthcare'
+p29
+aS'security'
+p30
+asS'working-year'
+p31
+(lp32
+V(0, 2]
+p33
+aV(2, 5]
+p34
+asS'major'
+p35
+(lp36
+VBusiness
+p37
+aVData Science
+p38
+aVEngineering
+p39
+aVInformation Science
+p40
+aVComputer Science
+p41
+aVManagement Science and Engineering
 p42
 asS'education'
 p43

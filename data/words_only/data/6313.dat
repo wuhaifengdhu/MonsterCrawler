@@ -2,114 +2,111 @@
 S'skills'
 p2
 (dp3
-S'java'
+S'statistics'
 p4
-I1
-sS'data wrangling'
+F0.0081088074330661272
+sS'java'
 p5
-I1
+F0.010776234501463335
 sS'python'
 p6
-I1
+F0.0045326218500283998
 sS'data scientist'
 p7
-I1
+F0.0092119275231641595
 sS'data science'
 p8
-I1
-sS'healthcare'
+F0.010459486310092168
+sS'data wrangling'
 p9
-I1
+F0.086976568665781601
 sS'programming'
 p10
-I1
-sS'machine learning'
+F0.0095853498681293565
+sS'unix'
 p11
-I1
-sS'analytics'
-p12
-I1
-sS'r'
-I1
-sS'computer science'
-p13
-I1
-sS'sql'
-p14
-I1
-sS'mathematics'
-p15
-I1
-sS'applied mathematics'
-p16
-I1
-sS'operations research'
-p17
-I1
-ssS'working-year'
-p18
-(dp19
-V[0]
-p20
-I1
-ssS'major'
-p21
-(dp22
-S'engineering science'
-p23
-I1
-sS'applied mathematics'
-p24
-I1
-sS'applied math'
-p25
-I1
-sS'computer science statistics'
-p26
-I1
+F0.022452945989435216
 sS'machine learning'
-p27
-I1
+p12
+F0.0057001541029046898
 sS'analytics'
-p28
-I1
-sS'statistics applied mathematics'
-p29
-I1
-sS'computer science engineering'
-p30
-I1
+p13
+F0.0075629344520306667
+sS'engineering'
+p14
+F0.021301822209976604
+sS'r'
+F0.0048260200575125324
 sS'computer science'
-p31
-I1
-sS'statistic'
-p32
-I1
+p15
+F0.012225941419019311
+sS'sql'
+p16
+F0.0059299465985482355
+sS'healthcare'
+p17
+F0.046908527709741986
 sS'mathematics'
-p33
-I1
-sS'phd'
-p34
-I1
-sS'data science'
-p35
-I1
+p18
+F0.015894724191963527
+sS'data'
+p19
+F0.001031317285864982
+sS'applied mathematics'
+p20
+F0.026279223868206143
 sS'operations research'
-p36
-I1
+p21
+F0.025051639265668779
+sS'science'
+p22
+F0.012226676316418999
+ssS'working-year'
+p23
+(dp24
+S'[0]'
+p25
+F0.019097519396038109
+ssS'major'
+p26
+(dp27
+VStatistics
+p28
+F0.015665258868592002
+sVData Science
+p29
+F0.0089329476748266322
+sVElectrical and Electronics Engineering
+p30
+F0.027361987785869405
+sVEngineering
+p31
+F0.019585903711015023
+sVComputer Science
+p32
+F0.0078726586639321534
+sVMathematics
+p33
+F0.014906717648543059
+sVOperations Research
+p34
+F0.027988946940757861
 ssS'education'
+p35
+(dp36
+VMaster
 p37
-(dp38
-VDoctor
-p39
-I1
+F0.0063241798715145819
+sVDoctor
+p38
+F0.0094711458415345038
 ssS'responsibility'
-p40
-(dp41
+p39
+(dp40
 S'product'
-p42
-I1
+p41
+F0.011695590354067363
 sS'data wrangling'
-p43
-I1
+p42
+F0.086976568665781601
 ss.

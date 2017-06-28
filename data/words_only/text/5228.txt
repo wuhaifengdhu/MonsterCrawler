@@ -1,5 +1,5 @@
-skills: {'software development': 1, 'training': 1, 'software engineering': 1, 'parallel programming': 1, 'data science': 1, 'programming': 1, 'scientific computing': 1, 'high performance computing': 1, 'research': 1, 'hardware': 1, 'engineering': 1, 'optimization': 1, 'analysis': 1, 'automation': 1, 'scripting': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'software engineering': 1, 'data science': 1, 'scientific computing': 1, 'high performance computing': 1, 'automation': 1, 'engineering': 1, 'electrical': 1, 'mechanical': 1, 'design': 1, u'physic': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'optimization': 1, 'design': 1, 'analysis': 1}
+skills: {'software development': 0.009907460832118095, 'debugging': 0.02053748833263369, 'training': 0.010996704444029575, 'management': 0.004233873211213327, 'software engineering': 0.012159172844457998, 'parallel programming': 0.024461524052996078, 'science': 0.003285205085019123, 'data science': 0.00562075198906822, 'programming': 0.005151005770256429, 'scientific computing': 0.015084664788085128, 'high performance computing': 0.018193165428668997, 'research': 0.003986730568512795, 'hardware': 0.017351944282964788, 'engineering': 0.04006534317530645, 'optimization': 0.009345835782189449, 'analysis': 0.001601022064271635, 'automation': 0.015584337969457051, 'data': 0.0005542125601610883, 'scripting': 0.011369553165638613}
+working-year: {u'(0, 2]': 0.010642897963038099, u'(2, 5]': 0.005789459945939885}
+major: {u'Data Science': 0.004800415806565713, u'Management Science and Engineering': 0.006025909058265852, u'Engineering': 0.04006534317530645, u'Computer Science': 0.004230634328748587}
+education: {u'Bachelor': 0.004258779568550966, u'Master': 0.003398507874879331}
+responsibility: {'development': 0.005658696272963171, 'optimization': 0.009345835782189449, 'design': 0.006824386962703166, 'analysis': 0.001601022064271635}

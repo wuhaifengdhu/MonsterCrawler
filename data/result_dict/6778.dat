@@ -2,95 +2,92 @@
 S'skills'
 p2
 (lp3
-S'clustering'
+S'regression analysis'
 p4
-aS'segmentation'
+aS'data science'
 p5
-aS'b testing'
-p6
-aS'documentation'
-p7
-aS'marketing'
-p8
-aS'data science'
-p9
 aS'testing'
-p10
-aS'education'
-p11
-aS'analysis'
-p12
-aS'machine learning'
-p13
-aS'regression analysis'
-p14
+p6
 aS'quality control'
-p15
+p7
 aS'statistical analysis'
-p16
-aS'mathematics'
-p17
-aS'modeling'
-p18
-aS'experimental design'
-p19
-aS'r'
-aS'data'
-p20
+p8
+aS'education'
+p9
 aS'regression'
-p21
-aS'science'
-p22
-asS'working-year'
-p23
-(lp24
-V[0]
-p25
-asS'major'
-p26
-(lp27
-S'business'
-p28
-aS'marketing'
-p29
-aS'data science'
-p30
-aS'machine learning'
-p31
-aS'mathematics statistics'
-p32
-aS'design'
-p33
-aS'statistic'
-p34
+p10
+aS'clustering'
+p11
+aS'statistics'
+p12
 aS'mathematics'
-p35
-aS'science'
-p36
-asS'education'
-p37
-(lp38
-VBachelor
-p39
-aVMaster
-p40
-asS'responsibility'
-p41
-(lp42
-S'documentation'
-p43
-aS'analysis'
-p44
-aS'statistical model'
-p45
-aS'design'
-p46
-aS'report'
-p47
+p13
+aS'segmentation'
+p14
+aS'marketing'
+p15
+aS'experimental design'
+p16
 aS'modeling'
-p48
+p17
+aS'data'
+p18
+aS'a'
+aS'b testing'
+p19
+aS'science'
+p20
+aS'documentation'
+p21
+aS'analysis'
+p22
+aS'machine learning'
+p23
+aS'r'
+asS'working-year'
+p24
+(lp25
+S'[0]'
+p26
+asS'major'
+p27
+(lp28
+VStatistics
+p29
+aVBusiness
+p30
+aVData Science
+p31
+aVEconomics
+p32
+aVComputer Science
+p33
+aVMathematics
+p34
+asS'education'
+p35
+(lp36
+VBachelor
+p37
+aVMaster
+p38
+asS'responsibility'
+p39
+(lp40
+S'documentation'
+p41
+aS'analysis'
+p42
+aS'statistical model'
+p43
+aS'design'
+p44
+aS'report'
+p45
+aS'modeling'
+p46
 aS'implement'
-p49
+p47
 aS'model'
-p50
+p48
 as.

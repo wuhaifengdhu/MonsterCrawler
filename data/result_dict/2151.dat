@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'a'
+aS'data analysis'
 p4
 aS'german'
 p5
@@ -14,21 +15,21 @@ aS'writing'
 p8
 aS'teamwork'
 p9
-aS'data'
+aS'english'
 p10
-aS'experimentation'
+aS'data'
 p11
-asS'working-year'
+aS'experimentation'
 p12
-(lp13
-V[0]
-p14
-asS'major'
+asS'working-year'
+p13
+(lp14
+S'[0]'
 p15
-(lp16
-S'information'
-p17
-asS'education'
+asS'major'
+p16
+(lp17
+sS'education'
 p18
 (lp19
 S'Bachelor'

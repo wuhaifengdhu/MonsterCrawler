@@ -6,88 +6,97 @@ S'forecasting'
 p4
 aS'engineering'
 p5
-aS'data'
+aS'ansible'
 p6
-aS'insurance'
+aS'data'
 p7
-aS'cassandra'
+aS'insurance'
 p8
-aS'git'
+aS'cassandra'
 p9
-aS'big data'
+aS'git'
 p10
-aS'scala'
+aS'java'
 p11
-aS'agile'
+aS'big data'
 p12
-aS'hadoop'
+aS'scala'
 p13
-aS'policy'
+aS'agile'
 p14
-aS'architecture'
+aS'hadoop'
 p15
-aS'processing'
+aS'sports'
 p16
-aS'aws'
+aS'policy'
 p17
-aS'management'
+aS'architecture'
 p18
-aS'data processing'
+aS'processing'
 p19
-aS'spark'
+aS'aws'
 p20
-aS'solr'
+aS'management'
 p21
-aS'software engineering'
+aS'data processing'
 p22
-aS'programming'
+aS'spark'
 p23
-aS'optimization'
+aS'solr'
 p24
-aS'elasticsearch'
+aS'a'
+aS'software engineering'
 p25
-aS'advertising'
+aS'programming'
 p26
-aS'emr'
+aS'optimization'
 p27
-aS'inventory management'
+aS'elasticsearch'
 p28
-asS'working-year'
+aS'advertising'
 p29
-(lp30
-V(2, 5]
+aS'emr'
+p30
+aS'inventory management'
 p31
-asS'major'
+asS'working-year'
 p32
 (lp33
-S'engineering'
+V(2, 5]
 p34
-aS'management'
+asS'major'
 p35
-aS'software engineering'
-p36
-aS'big data'
+(lp36
+VEngineering
 p37
-asS'education'
+aVComputer Science
 p38
-(lp39
-S'Bachelor'
+aVManagement Science and Engineering
+p39
+asS'education'
 p40
-asS'responsibility'
-p41
-(lp42
-S'forecasting'
+(lp41
+VBachelor
+p42
+aVMaster
 p43
-aS'predict'
+asS'responsibility'
 p44
-aS'processing'
-p45
-aS'optimization'
+(lp45
+S'forecasting'
 p46
-aS'ownership'
+aS'predict'
 p47
-aS'implement'
+aS'processing'
 p48
-aS'model'
+aS'optimization'
 p49
+aS'design'
+p50
+aS'ownership'
+p51
+aS'implement'
+p52
+aS'model'
+p53
 as.

@@ -4,31 +4,31 @@ p2
 (lp3
 S'network security'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'engineering'
-p8
+p7
 aS'defense'
-p9
-aS'analysis'
-p10
+p8
 aS'research'
-p11
+p9
 aS'management'
-p12
+p10
 aS'networking'
-p13
+p11
+aS'deep learning'
+p12
 aS'education'
-p14
+p13
 aS'writing'
-p15
+p14
 aS'access'
-p16
+p15
 aS'matlab'
+p16
+aS'natural language processing'
 p17
 aS'intelligence'
 p18
@@ -36,87 +36,83 @@ aS'tensorflow'
 p19
 aS'electronics'
 p20
-aS'processing'
+aS'energy'
 p21
-aS'internet things'
+aS'python'
 p22
-aS'manufacturing'
+aS'processing'
 p23
-aS'data'
+aS'organization'
 p24
-aS'information technology'
+aS'manufacturing'
 p25
-aS'science'
+aS'data'
 p26
-aS'c++'
+aS'information technology'
 p27
-aS'machine learning'
+aS'a'
+aS'c'
+aS'pattern recognition'
 p28
+aS'science'
+p29
+aS'analysis'
+p30
+aS'machine learning'
+p31
 aS'r'
 aS'customer support'
-p29
-aS'organization'
-p30
-aS'security'
-p31
-asS'working-year'
 p32
-(lp33
-V(2, 5]
+aS'internet things'
+p33
+aS'security'
 p34
-asS'major'
+asS'working-year'
 p35
 (lp36
-S'information'
+V(2, 5]
 p37
-aS'management'
+asS'major'
 p38
-aS'network security'
-p39
-aS'science'
+(lp39
+VEngineering
 p40
-aS'machine learning data science'
+aVData Science
 p41
-aS'machine learning'
+aVInformation Science
 p42
-aS'engineering'
+aVComputer Science
 p43
-aS'design'
+aVManagement Science and Engineering
 p44
-aS'communication'
-p45
-aS'electronics'
-p46
-aS'data science'
-p47
-aS'information technology'
-p48
 asS'education'
-p49
-(lp50
+p45
+(lp46
 VBachelor
-p51
+p47
 asS'responsibility'
-p52
-(lp53
+p48
+(lp49
 S'information'
-p54
+p50
 aS'product'
-p55
+p51
 aS'pattern'
-p56
+p52
 aS'processing'
-p57
+p53
 aS'analysis'
-p58
+p54
 aS'design'
-p59
+p55
 aS'recommendation'
-p60
+p56
 aS'implement'
-p61
+p57
 aS'prototype'
-p62
+p58
+aS'design ... experiment'
+p59
 aS'model'
-p63
+p60
 as.

@@ -1,211 +1,404 @@
-job_requisition
-number
-110662
-category_consultant
--
-analyst
-primary_location
-arlington_va
-u
-security_clearance
-t_sci
-clearance
-status
-must
-obtainable
-schedule_full
-time
-type_travel
-local
-percent_travel
-required
-10
-description
-data_scientist
-supporting
-defense
-advanced
-research
-project
-agency_darpa
-work
-part_team
-data_scientist
-software_developer
-cloud
-engineer
-develop_novel
-analytic
-approach_parsing
-large_datasets
-responsible
-data
-analytics
-support
-understanding_evaluating
-customer
-requirement
-development
-advanced
-data
-analytics
-need
-keep_current
-industry
-direction_trend
-future
-capability_respect
-data
-analysis
-responsible
-development
-data_mining
-algorithm
-structured_unstructured
-data
-perform
-prototype_implementation
-algorithm
-work
-software_developer
-scale
-algorithm
-cloud
-scale
-required_qualification
-strong
-data
-analysis
-skill
-strong_foundation
-statistic
-mining_organizing
-datasets_structured
-unstructured_data
-preferably
-large_datasets
-knowledge
-algorithm
-data
-structure
-performance
-optimization
-experience
-developing
-predictive_model
-distributed
-data
-processing
-technology
-programming
-competency_preferably
-python_r
-alternately_statistical
-procedural_language
-considered
-matlab_sa
-excellent_communication
-ability_communicate
-technical
-result_non-technical
-audience
-phd_computer
-science_mathematics
-similar
-technical_discipline
-clearance
-requirement
-position_requires
-ability_obtain
-maintain
-top_secret
-sci
-u_government
-security_clearance
-desired_qualification
-skill
-formulating
-modeling
-solving
-diverse
-mathematical
-problem
-applying
-diverse
-technical
-environment
-knowledge
-experience
-cyber_datasets
-experience
-modeling
-numerical
-analysis
-statistic
-language
-technology
-java_j2ee
-python_shell
-javascript_xml
-soap_jms
-cloudera
-operating_system
-m_window
-unix_linux
-vms
-experience
-cloudbase
-technology_owf
-svn_cv
-git_hibernate
-spring
-understanding
-hadoop_gfs
-dfs
-experience
-published_paper
-active_blogging
-public_speaking
-technical_field
-comparable_field
-listed
-understanding
-government_defense
-analytical
-process
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_client
-member_fortune
-1000_largest
-company_russell
-2000_index
-caci_provides
-dynamic_career
-approximately_15
-000_employee
-working_120
-office_worldwide
-caci_equal
-opportunity_employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV110662
+p4
+aVcategory consultant
+p5
+aV-
+aVanalyst
+p6
+aVprimary location
+p7
+aVarlington va
+p8
+aVu
+aVsecurity clearance
+p9
+aVt sci
+p10
+aVclearance status
+p11
+aVmust
+p12
+aVobtainable
+p13
+aVschedule full
+p14
+aVtime
+p15
+aVtype travel
+p16
+aVlocal
+p17
+aVpercent travel
+p18
+aVrequired
+p19
+aV10
+p20
+aVdescription
+p21
+aVdata scientist
+p22
+aVsupporting defense
+p23
+aVadvanced
+p24
+aVresearch
+p25
+aVproject
+p26
+aVagency darpa
+p27
+aVwork
+p28
+aVpart team
+p29
+aVdata scientist
+p30
+aVsoftware developer
+p31
+aVcloud
+p32
+aVengineer
+p33
+aVdevelop novel
+p34
+aVanalytic approach
+p35
+aVparsing large
+p36
+aVdatasets
+p37
+aVresponsible
+p38
+aVdata
+p39
+aVanalytics
+p40
+aVsupport
+p41
+aVunderstanding evaluating
+p42
+aVcustomer
+p43
+aVrequirement
+p44
+aVdevelopment
+p45
+aVadvanced
+p46
+aVdata
+p47
+aVanalytics
+p48
+aVneed keep
+p49
+aVcurrent industry
+p50
+aVdirection trend
+p51
+aVfuture capability
+p52
+aVrespect
+p53
+aVdata
+p54
+aVanalysis
+p55
+aVresponsible
+p56
+aVdevelopment
+p57
+aVdata mining
+p58
+aValgorithm
+p59
+aVstructured unstructured
+p60
+aVdata
+p61
+aVperform prototype
+p62
+aVimplementation
+p63
+aValgorithm
+p64
+aVwork
+p65
+aVsoftware developer
+p66
+aVscale
+p67
+aValgorithm
+p68
+aVcloud
+p69
+aVscale
+p70
+aVrequired qualification
+p71
+aVstrong
+p72
+aVdata
+p73
+aVanalysis
+p74
+aVskill
+p75
+aVstrong foundation
+p76
+aVstatistic
+p77
+aVmining organizing
+p78
+aVdatasets structured
+p79
+aVunstructured data
+p80
+aVpreferably large
+p81
+aVdatasets
+p82
+aVknowledge
+p83
+aValgorithm
+p84
+aVdata structure
+p85
+aVperformance optimization
+p86
+aVexperience developing
+p87
+aVpredictive model
+p88
+aVdistributed
+p89
+aVdata
+p90
+aVprocessing
+p91
+aVtechnology
+p92
+aVprogramming
+p93
+aVcompetency preferably
+p94
+aVpython r
+p95
+aValternately statistical
+p96
+aVprocedural language
+p97
+aVconsidered matlab
+p98
+aVsa
+p99
+aVexcellent communication
+p100
+aVability communicate
+p101
+aVtechnical
+p102
+aVresult non-technical
+p103
+aVaudience
+p104
+aVphd computer
+p105
+aVscience mathematics
+p106
+aVsimilar technical
+p107
+aVdiscipline
+p108
+aVclearance requirement
+p109
+aVposition requires
+p110
+aVability obtain
+p111
+aVmaintain
+p112
+aVtop secret
+p113
+aVsci u.s.
+p114
+aVgovernment security
+p115
+aVclearance
+p116
+aVdesired qualification
+p117
+aVskill
+p118
+aVformulating
+p119
+aVmodeling
+p120
+aVsolving
+p121
+aVdiverse
+p122
+aVmathematical
+p123
+aVproblem
+p124
+aVapplying
+p125
+aVdiverse
+p126
+aVtechnical
+p127
+aVenvironment
+p128
+aVknowledge
+p129
+aVexperience
+p130
+aVcyber datasets
+p131
+aVexperience
+p132
+aVmodeling
+p133
+aVnumerical analysis
+p134
+aVstatistic
+p135
+aVlanguage
+p136
+aVtechnology
+p137
+aVjava j2ee
+p138
+aVpython shell
+p139
+aVjavascript xml
+p140
+aVsoap jms
+p141
+aVcloudera
+p142
+aVoperating system
+p143
+aVm window
+p144
+aVunix linux
+p145
+aVvms
+p146
+aVexperience
+p147
+aVcloudbase technology
+p148
+aVowf svn
+p149
+aVcv git
+p150
+aVhibernate spring
+p151
+aVunderstanding
+p152
+aVhadoop gfs
+p153
+aVdfs
+p154
+aVexperience
+p155
+aVpublished paper
+p156
+aVactive blogging
+p157
+aVpublic speaking
+p158
+aVtechnical field
+p159
+aVcomparable field
+p160
+aVlisted
+p161
+aVunderstanding
+p162
+aVgovernment defense
+p163
+aVanalytical
+p164
+aVprocess
+p165
+aVcompany description
+p166
+aVcaci employ
+p167
+aVdiverse range
+p168
+aVtalent create
+p169
+aVenvironment fuel
+p170
+aVinnovation foster
+p171
+aVcontinuous improvement
+p172
+aVsuccess join
+p173
+aVcaci opportunity
+p174
+aVmake immediate
+p175
+aVimpact providing
+p176
+aVinformation
+p177
+aVsolution
+p178
+aVservice
+p179
+aVsupport
+p180
+aVnational security
+p181
+aVmission government
+p182
+aVtransformation intelligence
+p183
+aVdefense federal
+p184
+aVcivilian client
+p185
+aVmember fortune
+p186
+aV1000 largest
+p187
+aVcompany russell
+p188
+aV2000 index
+p189
+aVcaci provides
+p190
+aVdynamic career
+p191
+aVapproximately 15
+p192
+aV000 employee
+p193
+aVworking 120
+p194
+aVoffice worldwide
+p195
+aVcaci equal
+p196
+aVopportunity employer
+p197
+aV- female
+p198
+aVminority protected
+p199
+aVveteran individual
+p200
+aVdisability
+p201
+a.

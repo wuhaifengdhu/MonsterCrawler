@@ -2,20 +2,19 @@
 S'skills'
 p2
 (lp3
-S'c'
-aS'management'
+S'teradata'
 p4
-aS'big data'
+aS'management'
 p5
-aS'tensorflow'
+aS'big data'
 p6
-aS'communication'
+aS'tensorflow'
 p7
-aS'data science'
+aS'communication'
 p8
-aS'data scientist'
+aS'data science'
 p9
-aS'teradata'
+aS'data scientist'
 p10
 aS'machine learning'
 p11
@@ -29,70 +28,54 @@ aS'leadership'
 p15
 aS'science'
 p16
-aS'organization'
+aS'product management'
 p17
-aS'strategy'
+aS'organization'
 p18
-aS'data'
+aS'strategy'
 p19
-aS'collaboration'
+aS'data'
 p20
-aS'data analytics'
+aS'collaboration'
 p21
-asS'working-year'
-p22
-(lp23
-V(5, 10]
-p24
-asS'major'
-p25
-(lp26
-S'management'
-p27
-aS'business'
-p28
-aS'big data'
-p29
-aS'ee'
-p30
-aS'science'
-p31
-aS'data science'
-p32
-aS'data science analytics'
-p33
-aS'machine learning'
-p34
-aS'big data analytics'
-p35
-aS'analytics'
-p36
-aS'engineering'
-p37
-aS'design'
-p38
-aS'communication'
-p39
-aS'phd'
-p40
 aS'data analytics'
-p41
+p22
+asS'working-year'
+p23
+(lp24
+V(5, 10]
+p25
+asS'major'
+p26
+(lp27
+VData Science
+p28
+aVEngineering
+p29
+aVComputer Science
+p30
+aVBusiness
+p31
+aVManagement Science and Engineering
+p32
 asS'education'
-p42
-(lp43
-VDoctor
-p44
+p33
+(lp34
+VMaster
+p35
+aVDoctor
+p36
 asS'responsibility'
-p45
-(lp46
+p37
+(lp38
 S'development'
-p47
+p39
 aS'analytic'
-p48
+p40
 aS'product'
-p49
+p41
 aS'design'
-p50
+p42
 aS'model'
-p51
+p43
 as.

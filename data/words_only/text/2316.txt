@@ -1,5 +1,5 @@
-skills: {'nosql': 1, 'communication': 1, 'sqoop': 1, 'pig': 1, 'analytics': 1, 'engineering': 1, 'go': 1, 'hdfs': 1, 'big data': 1, 'computer science': 1, 'flume': 1, 'alteryx': 1, 'data scientist': 1, 'oozie': 1, 'spark': 1, 'data': 1, 'project management': 1, 'mapreduce': 1, 'hive': 1, 'data engineering': 1, 'r': 1, 'organization': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'information systems': 1, 'big data': 1, 'communication': 1, 'analytics': 1, 'engineering': 1, 'information system': 1, 'computer science engineering': 1, 'computer science': 1, 'ee computer science': 1, 'project management': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'report': 1, 'analytic': 1, 'information': 1}
+skills: {'nosql': 0.01609909920156778, 'communication': 0.004656380467973107, 'sqoop': 0.027726310995429583, 'pig': 0.015874283383034656, 'analytics': 0.002558051358775078, 'engineering': 0.007205028100433263, 'go': 0.009643862338316551, 'hdfs': 0.023468020966810284, 'management': 0.0026648496094107414, 'big data': 0.0037433091951843164, 'computer science': 0.00413524489172712, 'flume': 0.030111382271413238, 'collaboration': 0.0075225571178630995, 'alteryx': 0.028872774230322175, 'oozie': 0.029930373614254074, 'spark': 0.009918444843033286, 'data': 0.004883590677184179, 'project management': 0.005592509774483959, 'science': 0.0020677467299826248, 'mapreduce': 0.015510008923270122, 'hive': 0.01840371396608829, 'data engineering': 0.011778913988433644, 'r': 0.0032646606271408305, 'organization': 0.005185834821416709}
+working-year: {u'(0, 2]': 0.006698765188500451, u'(2, 5]': 0.0036439542012680457}
+major: {u'Data Science': 0.003021438184132537, u'Information Science': 0.007448985848688511, u'Engineering': 0.007205028100433263, u'Management Science and Engineering': 0.0037927780543202715, u'Computer Science': 0.0026628110186829343}
+education: {u'Bachelor': 0.0026805259637350197, u'Master': 0.0021390608388946377}
+responsibility: {'report': 0.006103754176977732, 'analytic': 0.03320185253381828, 'information': 0.00815944235017291}

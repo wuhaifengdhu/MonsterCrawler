@@ -2,111 +2,101 @@
 S'skills'
 p2
 (lp3
-S'data science'
+S'intelligence'
 p4
-aS'analytics'
+aS'data science'
 p5
-aS'engineering'
+aS'analytics'
 p6
-aS'defense'
+aS'engineering'
 p7
-aS'image processing'
+aS'defense'
 p8
-aS'research'
+aS'sas'
 p9
-aS'geospatial intelligence'
+aS'image processing'
 p10
-aS'mathematics'
+aS'research'
 p11
-aS'energy'
+aS'geospatial intelligence'
 p12
-aS'javascript'
+aS'mathematics'
 p13
-aS'government'
+aS'energy'
 p14
-aS'python'
+aS'javascript'
 p15
-aS'processing'
+aS'government'
 p16
-aS'data'
+aS'python'
 p17
-aS'remote sensing'
+aS'processing'
 p18
-aS'science'
+aS'data'
 p19
-aS'programming'
+aS'remote sensing'
 p20
-aS'analysis'
+aS'science'
 p21
-aS'spss'
+aS'programming'
 p22
-aS'arcgis'
+aS'analysis'
 p23
+aS'spss'
+p24
+aS'arcgis'
+p25
 aS'r'
 aS'data analytics'
-p24
-aS'organization'
-p25
-aS'scripting'
 p26
-asS'working-year'
+aS'organization'
 p27
-(lp28
-V(5, 10]
+aS'scripting'
+p28
+asS'working-year'
 p29
-aV(0, 2]
-p30
-asS'major'
+(lp30
+V(5, 10]
 p31
-(lp32
-S'engineering science'
+aV(0, 2]
+p32
+asS'major'
 p33
-aS'information'
-p34
-aS'information systems'
+(lp34
+VMathematics
 p35
-aS'science'
+aVData Science
 p36
-aS'data science'
+aVElectrical and Electronics Engineering
 p37
-aS'general'
+aVEngineering
 p38
-aS'analytics'
+aVInformation Science
 p39
-aS'engineering'
-p40
-aS'information system'
-p41
-aVphysic
-p42
-aS'statistic'
-p43
-aS'mathematics'
-p44
-aS'data analytics'
-p45
 asS'education'
-p46
-(lp47
+p40
+(lp41
 VBachelor
-p48
+p42
 asS'responsibility'
-p49
-(lp50
+p43
+(lp44
 S'information'
-p51
+p45
 aS'processing'
-p52
+p46
 aS'analysis'
-p53
-aS'solve problem'
-p54
+p47
+aS'develop ... model'
+p48
 aS'report'
-p55
+p49
 aS'implement'
-p56
+p50
+aS'validate ... model'
+p51
 aS'extract'
-p57
+p52
 aS'model'
-p58
+p53
 as.

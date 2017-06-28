@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'recruiting'
 p4
 aS'data science'
 p5
@@ -18,118 +18,97 @@ aS'go'
 p10
 aS'distributed systems'
 p11
-aS'networking'
+aS'statistics'
 p12
-aS'big data'
+aS'networking'
 p13
-aS'storage'
-p14
-aS'computer science'
-p15
-aS'marketing'
-p16
-aS'data scientist'
-p17
-aS'leadership'
-p18
-aS'mobile marketing'
-p19
-aS'data'
-p20
-aS'search'
-p21
-aS'science'
-p22
-aS'economics'
-p23
-aS'analysis'
-p24
-aS'machine learning'
-p25
-aS'customer analytics'
-p26
-aS'advertising'
-p27
-aS'retail'
-p28
-asS'working-year'
-p29
-(lp30
-V(5, 10]
-p31
-aV(2, 5]
-p32
-asS'major'
-p33
-(lp34
-S'information'
-p35
-aS'business'
-p36
 aS'big data'
-p37
-aS'statistics economics'
-p38
-aS'marketing'
-p39
-aS'data science'
-p40
-aS'economics'
-p41
-aS'communication'
-p42
-aS'data analyst'
-p43
-aS'machine learning'
-p44
-aS'analytics'
-p45
-aS'engineering'
-p46
-aS'design'
-p47
+p14
+aS'storage'
+p15
 aS'computer science'
-p48
-aS'statistic'
-p49
-aS'analytics data science'
-p50
-aS'computer science engineering'
-p51
-aS'information retrieval'
-p52
-aS'ee computer science'
-p53
-aS'distributed systems'
-p54
+p16
+aS'communication'
+p17
+aS'marketing'
+p18
+aS'data scientist'
+p19
+aS'leadership'
+p20
+aS'mobile marketing'
+p21
+aS'data'
+p22
+aS'a'
+aS'search'
+p23
 aS'science'
-p55
-asS'education'
-p56
-(lp57
-VBachelor
-p58
-aVDoctor
-p59
-asS'responsibility'
-p60
-(lp61
-S'development'
-p62
-aS'information'
-p63
-aS'product'
-p64
-aVinsight
-p65
-aS'communicate'
-p66
+p24
+aS'economics'
+p25
 aS'analysis'
-p67
+p26
+aS'machine learning'
+p27
+aS'customer analytics'
+p28
+aS'advertising'
+p29
+aS'organization'
+p30
+aS'retail'
+p31
+asS'working-year'
+p32
+(lp33
+V(5, 10]
+p34
+aV(2, 5]
+p35
+asS'major'
+p36
+(lp37
+VStatistics
+p38
+aVBusiness
+p39
+aVData Science
+p40
+aVEconomics
+p41
+aVEngineering
+p42
+aVComputer Science
+p43
+asS'education'
+p44
+(lp45
+VBachelor
+p46
+aVDoctor
+p47
+asS'responsibility'
+p48
+(lp49
+S'development'
+p50
+aS'information'
+p51
+aS'product'
+p52
+aS'develop ... system'
+p53
+aS'insight'
+p54
+aS'communicate'
+p55
+aS'analysis'
+p56
 aS'understand'
-p68
-aS'develop system'
-p69
+p57
 aS'design'
-p70
+p58
+aS'decision making'
+p59
 as.

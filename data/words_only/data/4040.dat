@@ -2,210 +2,194 @@
 S'skills'
 p2
 (dp3
-S'cancer'
+S'cognos'
 p4
-I1
-sS'communication'
+F0.012836953979673113
+sS'cancer'
 p5
-I1
-sS'data science'
+F0.012651080369364779
+sS'communication'
 p6
-I1
-sS'hadoop'
+F0.0043493663711836718
+sS'data science'
 p7
-I1
-sS'analytics'
+F0.003304508037529119
+sS'hadoop'
 p8
-I1
-sS'data mining'
+F0.0035296881906581455
+sS'analytics'
 p9
-I1
-sS'quantitative analysis'
+F0.0047787772636457507
+sS'data mining'
 p10
-I1
-sS'visualization'
+F0.0058296135403355437
+sS'quantitative analysis'
 p11
-I1
-sS'java'
+F0.020956056824288083
+sS'visualization'
 p12
-I1
-sS'big data'
+F0.0051491628349834328
+sS'statistics'
 p13
-I1
-sS'predictive modeling'
+F0.002561848502204958
+sS'java'
 p14
-I1
-sS'excel'
+F0.0034045795815062737
+sS'big data'
 p15
-I1
-sS'tableau'
+F0.0034964975998974385
+sS'scala'
 p16
-I1
-sS'perl'
+F0.0067048527134577936
+sS'predictive modeling'
 p17
-I1
-sS'segmentation'
+F0.0057115546942004668
+sS'excel'
 p18
-I1
-sS'data analysis'
+F0.0044421819417749054
+sS'tableau'
 p19
-I1
-sS'python'
+F0.0055193024371532748
+sS'perl'
 p20
-I1
-sS'marketing'
+F0.007873765781014749
+sS'segmentation'
 p21
-I1
-sS'data scientist'
+F0.0079561849234341796
+sS'data analysis'
 p22
-I1
-sS'statistical modeling'
+F0.0040762692718836957
+sS'python'
 p23
-I1
-sS'sql'
+F0.0028640193008421209
+sS'marketing'
 p24
-I1
-sS'modeling'
+F0.057575164140805046
+sS'data scientist'
 p25
-I1
-sS'spark'
+F0.0029103617174831824
+sS'statistical modeling'
 p26
-I1
-sS'data'
+F0.0049213338466769134
+sS'sql'
 p27
-I1
-sS'project management'
+F0.0018734721396512285
+sS'modeling'
 p28
-I1
-sS'customer experience'
+F0.0022311694753339357
+sS'spark'
 p29
-I1
-sS'collaborative filtering'
+F0.0046322407233946672
+sS'data'
 p30
-I1
-sS'science'
+F0.0022807978437398638
+sS'project management'
 p31
-I1
-sS'machine learning'
+F0.0052237728662762259
+sS'customer experience'
 p32
-I1
-sS'demand generation'
+F0.010524990113973202
+sS'a'
+F0.005137477729708865
+sS'collaborative filtering'
 p33
-I1
-sS'r'
-I1
-sS'customer acquisition'
+F0.012600204378105733
+sS'science'
 p34
-I1
-sS'data analytics'
+F0.0038628235615060023
+sS'machine learning'
 p35
-I1
-ssS'working-year'
+F0.001800872862181427
+sS'demand generation'
 p36
-(dp37
-V(5, 10]
+F0.01699662552249977
+sS'r'
+F0.001524704139049289
+sS'algorithms'
+p37
+F0.0049290430724320163
+sS'customer acquisition'
 p38
-I1
-sV(0, 2]
+F0.015155538436352863
+sS'powerpoint'
 p39
-I1
-sV(2, 5]
+F0.00672259452454465
+sS'data analytics'
 p40
-I1
-ssS'major'
+F0.0056107765974884542
+ssS'working-year'
 p41
 (dp42
-S'business'
+V(5, 10]
 p43
-I1
-sS'big data'
+F0.0033122095098265356
+sV(0, 2]
 p44
-I1
-sS'computing'
+F0.0062570883628850372
+sV(2, 5]
 p45
-I1
-sS'marketing'
+F0.0034036934847009219
+ssS'major'
 p46
-I1
-sS'data science'
-p47
-I1
-sVapplied statistic
+(dp47
+VStatistics
 p48
-I1
-sS'machine learning'
+F0.0049491889282639572
+sVBusiness
 p49
-I1
-sS'analytics'
+F0.0029717427120167974
+sVData Science
 p50
-I1
-sS'design'
+F0.0028222224796842382
+sVEconomics
 p51
-I1
-sS'project management'
+F0.0045076141415507174
+sVComputer Science
 p52
-I1
-sS'applied statistics'
+F0.002487241061407137
+sVManagement Science and Engineering
 p53
-I1
-sS'data mining'
-p54
-I1
-sS'communication'
-p55
-I1
-sS'machine learning data mining'
-p56
-I1
-sS'data analytics'
-p57
-I1
-sS'science'
-p58
-I1
+F0.0035427047760134408
 ssS'education'
-p59
-(dp60
+p54
+(dp55
 VBachelor
-p61
-I1
+p56
+F0.0025037879881041397
 sVMaster
-p62
-I1
+p57
+F0.0019980238605059805
 ssS'responsibility'
-p63
-(dp64
+p58
+(dp59
 S'data analysis'
-p65
-I1
+p60
+F0.0040762692718836957
 sS'build model'
-p66
-I1
+p61
+F0.01452976123128199
 sS'business problem'
-p67
-I1
+p62
+F0.0078245894564028702
 sS'communicate'
-p68
-I1
-sS'statistical model'
-p69
-I1
+p63
+F0.011023312540008748
 sS'design'
-p70
-I1
+p64
+F0.0040121395879628508
 sS'data mining'
-p71
-I1
+p65
+F0.0058296135403355437
 sS'report'
-p72
-I1
+p66
+F0.0057013088466275523
 sS'modeling'
-p73
-I1
+p67
+F0.0022311694753339357
 sS'model'
-p74
-I1
+p68
+F0.0042511286865429699
 sS'quantitative analysis'
-p75
-I1
+p69
+F0.020956056824288083
 ss.

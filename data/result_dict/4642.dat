@@ -2,52 +2,61 @@
 S'skills'
 p2
 (lp3
-S'logistics'
+S'a'
+aS'logistics'
 p4
 aS'search'
 p5
 aS'networking'
 p6
-aS'data scientist'
-p7
 aS'energy'
+p7
+aS'documentation'
 p8
 aS'recruiting'
 p9
 aS'research'
 p10
-aS'go'
+aS'leadership'
 p11
-aS'strategy'
+aS'go'
 p12
-aS'data'
+aS'organization'
 p13
-asS'working-year'
+aS'strategy'
 p14
-(lp15
-V(5, 10]
+aS'data'
+p15
+asS'working-year'
 p16
-aV(2, 5]
-p17
-asS'major'
+(lp17
+V(5, 10]
 p18
-(lp19
-S'business'
+aV(2, 5]
+p19
+asS'major'
 p20
+(lp21
+VBusiness
+p22
 asS'education'
-p21
-(lp22
-VBachelor
 p23
-asS'responsibility'
-p24
-(lp25
-S'product leadership'
+(lp24
+VBachelor
+p25
+aVMaster
 p26
-aS'report'
+asS'responsibility'
 p27
-aS'product'
-p28
-aS'communicate'
+(lp28
+S'product leadership'
 p29
+aS'report'
+p30
+aS'product'
+p31
+aS'documentation'
+p32
+aS'communicate'
+p33
 as.

@@ -1,5 +1,5 @@
-skills: {'classification': 1, 'data mining': 1, 'analytics': 1, 'analysis': 1, 'mysql': 1, 'hbase': 1, 'open source': 1, 'rdbms': 1, 'scala': 1, 'hadoop': 1, 'writing': 1, 'mahout': 1, 'theory': 1, 'algebra': 1, 'data scientist': 1, 'search': 1, 'algorithm design': 1, 'java': 1, 'solr': 1, 'groovy': 1, 'c': 1, 'data visualization': 1, 'hive': 1, 'machine learning': 1, 'weka': 1, 'elasticsearch': 1}
-working-year: {u'[0]': 1}
-major: {'statistic': 1, 'machine learning': 1, 'analytics': 1, 'design': 1, 'data mining': 1, u'physic': 1}
-education: {'Bachelor': 1}
-responsibility: {'design': 1, 'analysis': 1, 'data mining': 1}
+skills: {'classification': 0.025042554773476815, 'data mining': 0.016841105783191566, 'analytics': 0.006902678269710529, 'analysis': 0.0027191962043978564, 'mysql': 0.018842523227676364, 'hbase': 0.026573476903492627, 'statistics': 0.007400895673036544, 'open source': 0.025380315396175353, 'rdbms': 0.035506368621378265, 'scala': 0.019369574505544735, 'hadoop': 0.010196876995234642, 'writing': 0.017833812111765816, 'mahout': 0.034414148817099185, 'theory': 0.046515496039259294, 'algebra': 0.07448974236459412, 'data scientist': 0.008407711628284747, 'algorithm design': 0.03345422081802293, 'java': 0.009835452124351456, 'solr': 0.03292007277292574, 'groovy': 0.04808681427861637, 'search': 0.02461896648928387, 'data visualization': 0.01560899702840953, 'hive': 0.016553605154682592, 'machine learning': 0.005202521601857454, 'lucene': 0.04197486577925908, 'weka': 0.030863181176041747, 'elasticsearch': 0.03282670249807078, 'physics': 0.019310193471798912}
+working-year: {'[0]': 0.01743027563924113}
+major: {u'Data Science': 0.008153087163532243, u'Statistics': 0.014297656903873652, u'Physics': 0.020823270644445162, u'Computer Science': 0.007185363066287283}
+education: {u'Bachelor': 0.007233165298967514, u'Master': 0.00577206893035061}
+responsibility: {'design': 0.011590625476337123, 'analysis': 0.0027191962043978564, 'data mining': 0.016841105783191566}

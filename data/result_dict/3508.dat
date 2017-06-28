@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'forecasting'
+S'soc'
 p4
 aS'nosql'
 p5
@@ -10,144 +10,150 @@ aS'global health'
 p6
 aS'intelligence'
 p7
-aS'soc'
+aS'forecasting'
 p8
 aS'tableau'
 p9
 aS'cluster'
 p10
-aS'hive'
+aS'ggplot2'
 p11
-aS'factor analysis'
+aS'hive'
 p12
-aS'simulation'
+aS'factor analysis'
 p13
-aS'insurance'
+aS'simulation'
 p14
-aS'experimentation'
+aS'insurance'
 p15
-aS'visualization'
+aS'cassandra'
 p16
-aS'java'
+aS'visualization'
 p17
-aS'big data'
+aS'java'
 p18
-aS'mathematica'
+aS'big data'
 p19
-aS'hadoop'
+aS'hipaa'
 p20
-aS'regression'
+aS'mathematica'
 p21
-aS'matlab'
+aS'hadoop'
 p22
-aS'mathematics'
+aS'regression'
 p23
-aS'artificial intelligence'
+aS'matlab'
 p24
-aS'structural equation modeling'
+aS'mathematics'
 p25
-aS'theory'
+aS'experimentation'
 p26
-aS'government'
+aS'artificial intelligence'
 p27
-aS'python'
+aS'structural equation modeling'
 p28
-aS'aws'
+aS'theory'
 p29
-aS'data scientist'
+aS'government'
 p30
-aS'c'
-aS'sql'
+aS'python'
 p31
-aS'modeling'
+aS'mongodb'
 p32
-aS'spark'
+aS'data scientist'
 p33
-aS'pig'
+aS'matplotlib'
 p34
-aS'data'
+aS'sql'
 p35
-aS'decision analysis'
+aS'modeling'
 p36
-aS'search'
+aS'spark'
 p37
-aS'data visualization'
+aS'pig'
 p38
-aS'presto'
+aS'data'
 p39
-aS'impala'
+aS'a'
+aS'decision analysis'
 p40
-aS'applied mathematics'
+aS'search'
 p41
-aS'programming'
+aS'data visualization'
 p42
-aS'analysis'
+aS'presto'
 p43
-aS'machine learning'
+aS'shiny'
 p44
+aS'applied mathematics'
+p45
+aS'aws'
+p46
+aS'programming'
+p47
+aS'impala'
+p48
+aS'analysis'
+p49
+aS'machine learning'
+p50
 aS'r'
 aS'logistic regression'
-p45
+p51
 aS'healthcare'
-p46
-aS'security'
-p47
-aS'cluster analysis'
-p48
-aS'etl'
-p49
-asS'working-year'
-p50
-(lp51
-V(2, 5]
 p52
-asS'major'
+aS'security'
 p53
-(lp54
-S'big data'
+aS'cluster analysis'
+p54
+aS'etl'
 p55
-aS'applied mathematics'
+asS'working-year'
 p56
-aS'statistic'
-p57
-aS'machine learning'
+(lp57
+V(2, 5]
 p58
-aS'design'
+asS'major'
 p59
-aS'applied math'
-p60
-aS'mathematics'
+(lp60
+VMathematics
 p61
-aS'artificial intelligence'
+aVComputer Science
 p62
 asS'education'
 p63
 (lp64
-VDoctor
+VBachelor
 p65
-asS'responsibility'
+aVMaster
 p66
-(lp67
-S'forecasting'
+aVDoctor
+p67
+asS'responsibility'
 p68
-aVinsight
-p69
-aS'analysis'
+(lp69
+S'forecasting'
 p70
-aS'simulation'
+aS'insight'
 p71
-aS'analytic'
+aS'analysis'
 p72
-aS'design'
+aS'simulation'
 p73
-aS'ownership'
+aS'analytic'
 p74
-aS'report'
+aS'design'
 p75
-aS'modeling'
+aS'ownership'
 p76
-aS'implement'
+aS'report'
 p77
-aS'model'
+aS'modeling'
 p78
+aS'implement'
+p79
+aS'design ... experiment'
+p80
+aS'model'
+p81
 as.

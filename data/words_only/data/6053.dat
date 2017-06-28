@@ -4,239 +4,212 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.010583207000520237
 sS'communication'
 p5
-I1
+F0.0037076565787139493
 sS'data science'
 p6
-I1
-sS'analytics'
+F0.0028169576713362979
+sS'linux'
 p7
-I1
-sS'ssrs'
-p8
-I1
-sS'data mining'
-p9
-I1
-sS'spark'
-p10
-I1
-sS'visualization'
-p11
-I1
-sS'git'
-p12
-I1
-sS'java'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'scala'
-p15
-I1
-sS'power bi'
-p16
-I1
-sS'hadoop'
-p17
-I1
-sS'research'
-p18
-I1
-sS'big data analytics'
-p19
-I1
-sS'ssis'
-p20
-I1
-sS'computer science'
-p21
-I1
-sS'intelligence'
-p22
-I1
-sS'architecture'
-p23
-I1
-sS'python'
-p24
-I1
-sS'processing'
-p25
-I1
-sS'aws'
-p26
-I1
-sS'business analytics'
-p27
-I1
-sS'business process'
-p28
-I1
-sS'data processing'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'translation'
-p31
-I1
-sS'data'
-p32
-I1
-sS'project management'
-p33
-I1
-sS'microsoft azure'
-p34
-I1
-sS'cluster'
-p35
-I1
-sS'.net'
-p36
-I1
-sS'programming'
-p37
-I1
+F0.0043233677700216149
 sS'mapreduce'
+p8
+F0.0061749450045806105
+sS'analytics'
+p9
+F0.0081474235314616082
+sS'unix'
+p10
+F0.0060470463437588993
+sS'ssrs'
+p11
+F0.011138248500570132
+sS'data mining'
+p12
+F0.0049695066245483317
+sS'spark'
+p13
+F0.0078975907415253337
+sS'visualization'
+p14
+F0.0043894502855596476
+sS'git'
+p15
+F0.0067744101111918056
+sS'java'
+p16
+F0.0029022645612840361
+sS'big data'
+p17
+F0.002980620904830603
+sS'scala'
+p18
+F0.0057156121491771352
+sS'power bi'
+p19
+F0.011951828789412502
+sS'hadoop'
+p20
+F0.0060178290463679856
+sS'research'
+p21
+F0.001998033587029832
+sS'big data analytics'
+p22
+F0.0077617543436732566
+sS'ssis'
+p23
+F0.010966514030398051
+sS'computer science'
+p24
+F0.0032927008505555517
+sS'intelligence'
+p25
+F0.0036769522479784054
+sS'architecture'
+p26
+F0.0051218138704558743
+sS'python'
+p27
+F0.0012207295380638548
+sS'processing'
+p28
+F0.003824562263865855
+sS'aws'
+p29
+F0.0061205535100274239
+sS'business analytics'
+p30
+F0.0071137803130190014
+sS'business process'
+p31
+F0.0071552293431376025
+sS'management'
+p32
+F0.0021218943025752978
+sS'data processing'
+p33
+F0.0086082402757104819
+sS'sql'
+p34
+F0.0031941164348152089
+sS'translation'
+p35
+F0.011916073804269772
+sS'data'
+p36
+F0.0036108181320097139
+sS'project management'
+p37
+F0.0044530522794485857
+sS'microsoft azure'
 p38
-I1
-sS'hive'
+F0.012429801235887231
+sS'cluster'
 p39
-I1
-sS'sap hana'
+F0.00822634848365217
+sS'science'
 p40
-I1
+F0.0032928987737428214
 sS'sql server'
 p41
-I1
-sS'netezza'
+F0.006552291497139629
+sS'programming'
 p42
-I1
-sS'organization'
+F0.005163069015620028
+sS'engineering'
 p43
-I1
-sS'impala'
+F0.0057370247169726213
+sS'hive'
 p44
-I1
-sS'data analytics'
+F0.0048846703735128958
+sS'sap hana'
 p45
-I1
-ssS'working-year'
+F0.014189551754345815
+sS'netezza'
 p46
-(dp47
-V(2, 5]
+F0.011988138140843678
+sS'organization'
+p47
+F0.00825847231513668
+sS'impala'
 p48
-I1
-ssS'major'
+F0.010656756044602046
+sS'ssas'
 p49
-(dp50
-S'business analytics'
-p51
-I1
-sS'business'
-p52
-I1
-sS'big data'
-p53
-I1
-sS'communication'
-p54
-I1
-sS'data science'
-p55
-I1
-sS'computer science computer engineering'
-p56
-I1
-sS'phd'
-p57
-I1
-sS'big data analytics'
-p58
-I1
-sS'analytics'
-p59
-I1
-sS'computer engineering'
-p60
-I1
-sS'design'
-p61
-I1
-sS'computer science'
-p62
-I1
-sS'data mining'
-p63
-I1
-sS'law'
-p64
-I1
-sS'ee computer science'
-p65
-I1
+F0.013031016048879622
 sS'data analytics'
-p66
-I1
-sS'project management'
-p67
-I1
-sS'history'
-p68
-I1
+p50
+F0.004782957099498354
+ssS'working-year'
+p51
+(dp52
+V(2, 5]
+p53
+F0.002901509200072917
+ssS'major'
+p54
+(dp55
+VData Science
+p56
+F0.0024058289990750883
+sVManagement Science and Engineering
+p57
+F0.003020010628732769
+sVEngineering
+p58
+F0.0057370247169726213
+sVBusiness
+p59
+F0.0025332888692602205
+sVComputer Science
+p60
+F0.0021202710687405098
 ssS'education'
-p69
-(dp70
+p61
+(dp62
 VBachelor
-p71
-I1
+p63
+F0.0021343766455969712
 sVDoctor
-p72
-I1
+p64
+F0.0025507769830830631
 ssS'responsibility'
-p73
-(dp74
+p65
+(dp66
 S'development'
-p75
-I1
-sS'processing'
-p76
-I1
-sS'communicate'
-p77
-I1
-sS'recommendation'
-p78
-I1
-sS'design'
-p79
-I1
-sS'solve problem'
-p80
-I1
+p67
+F0.0056719484890591036
 sS'data mining'
-p81
-I1
+p68
+F0.0049695066245483317
+sS'processing'
+p69
+F0.003824562263865855
+sS'communicate'
+p70
+F0.0046984610826266791
+sS'design'
+p71
+F0.0068403691335760077
+sS'recommendation'
+p72
+F0.0061175684890357645
 sS'report'
-p82
-I1
+p73
+F0.0048601321315513563
 sS'understand'
-p83
-I1
+p74
+F0.0049219667762161017
 sS'implement'
-p84
-I1
+p75
+F0.0099197338413096366
 sS'prototype'
-p85
-I1
+p76
+F0.0073844763783365054
 sS'presentation'
-p86
-I1
+p77
+F0.00576897972437847
 ss.

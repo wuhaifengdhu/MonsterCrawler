@@ -4,232 +4,214 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0042472080725772
 sS'communication'
 p5
-I1
+F0.014879411269838876
 sS'data science'
 p6
-I1
+F0.0022609791835725549
 sS'sql'
 p7
-I1
+F0.0025636987174174702
 sS'forecasting'
 p8
-I1
-sS'hadoop'
-p9
-I1
-sS'process improvement'
-p10
-I1
-sS'analysis'
-p11
-I1
-sS'data mining'
-p12
-I1
-sS'research'
-p13
-I1
-sS'business process improvement'
-p14
-I1
-sS'big data'
-p15
-I1
-sS'agile'
-p16
-I1
-sS'excel'
-p17
-I1
-sS'tableau'
-p18
-I1
-sS'strategy'
-p19
-I1
-sS'big data analytics'
-p20
-I1
-sS'statistical software'
-p21
-I1
-sS'computer science'
-p22
-I1
-sS'visio'
-p23
-I1
-sS'mathematics'
-p24
-I1
-sS'military'
-p25
-I1
-sS'energy'
-p26
-I1
-sS'r programming'
-p27
-I1
-sS'python'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'business process'
-p30
-I1
-sS'bioinformatics'
-p31
-I1
-sS'spark'
-p32
-I1
-sS'pig'
-p33
-I1
-sS'software development'
-p34
-I1
-sS'analytical skills'
-p35
-I1
-sS'word'
-p36
-I1
-sS'quantitative analytics'
-p37
-I1
+F0.0055117086575757861
 sS'root'
-p38
-I1
-sS'programming'
-p39
-I1
-sS'hive'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'r'
-I1
-sS'organization'
-p42
-I1
-sS'epidemiology'
-p43
-I1
-sS'microsoft office'
-p44
-I1
-sS'powerpoint'
-p45
-I1
-sS'data analytics'
-p46
-I1
-sS'statistical analysis'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(0, 2]
-p50
-I1
-sV(2, 5]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'information'
-p54
-I1
-sS'bioinformatics'
-p55
-I1
-sS'business'
-p56
-I1
-sS'big data'
-p57
-I1
-sS'communication'
-p58
-I1
-sS'data science'
-p59
-I1
-sS'statistic'
-p60
-I1
-sS'data analyst'
-p61
-I1
-sS'machine learning'
-p62
-I1
-sS'big data analytics'
-p63
-I1
-sS'epidemiology'
-p64
-I1
-sS'computer science'
-p65
-I1
+p9
+F0.0073619169764044439
+sS'hadoop'
+p10
+F0.0048300996293216721
+sS'analytics'
+p11
+F0.0032696897067049872
+sS'presentations'
+p12
+F0.0079715674432105539
 sS'data mining'
-p66
-I1
-sS'mathematics'
-p67
-I1
-sS'data analytics'
-p68
-I1
-ssS'education'
-p69
-(dp70
-S'Bachelor'
-p71
-I1
-ssS'responsibility'
-p72
-(dp73
-S'development'
-p74
-I1
-sS'information'
-p75
-I1
-sS'forecasting'
-p76
-I1
-sS'business problem'
-p77
-I1
+p13
+F0.0039886829486506341
+sS'sas'
+p14
+F0.0026038286779650689
 sS'analysis'
-p78
-I1
+p15
+F0.0012880403073463531
+sS'research'
+p16
+F0.0016036848527476281
+sS'big data'
+p17
+F0.0023923404630877207
+sS'agile'
+p18
+F0.0041046802118411829
+sS'excel'
+p19
+F0.0030393876443723035
+sS'tableau'
+p20
+F0.003776364825420661
+sS'strategy'
+p21
+F0.00296054780305796
+sS'big data analytics'
+p22
+F0.0062298291442640609
+sS'statistical software'
+p23
+F0.0073975514498073099
+sS'computer science'
+p24
+F0.0026428256826827455
+sS'visio'
+p25
+F0.0081641938852611163
+sS'mathematics'
+p26
+F0.003435889627962041
+sS'military'
+p27
+F0.0070162755113379873
+sS'energy'
+p28
+F0.0057998032068610605
+sS'python'
+p29
+F0.0009797960766038834
+sS'data scientist'
+p30
+F0.001991300122488493
+sS'business process'
+p31
+F0.0057430130254130752
+sS'bioinformatics'
+p32
+F0.0061264234779190886
+sS'spark'
+p33
+F0.0063388557267505955
+sS'pig'
+p34
+F0.0050726093517216003
+sS'data'
+p35
+F0.0013376107655015742
+sS'software development'
+p36
+F0.003985331988859535
+sS'analytical skills'
+p37
+F0.0078648066215435356
+sS'word'
+p38
+F0.0052418583847708951
+sS'quantitative analytics'
+p39
+F0.0061355924093284215
+sS'science'
+p40
+F0.001321492271041527
+sS'programming'
+p41
+F0.0020720211181106691
+sS'hive'
+p42
+F0.0078411813890601739
+sS'machine learning'
+p43
+F0.0012321761688609762
+sS'r'
+F0.0010432186214547766
+sS'organization'
+p44
+F0.0033142553369956414
+sS'epidemiology'
+p45
+F0.0085870155291282047
+sS'microsoft office'
+p46
+F0.0036097790317534276
+sS'powerpoint'
+p47
+F0.0045996699378463386
+sS'data analytics'
+p48
+F0.0038389524088078891
+sS'statistical analysis'
+p49
+F0.0048396619425049017
+ssS'working-year'
+p50
+(dp51
+V(0, 2]
+p52
+F0.0042811657219739719
+sV(2, 5]
+p53
+F0.0023288429105848408
+ssS'major'
+p54
+(dp55
+VBiological Engineering
+p56
+F0.0049439770309712226
+sVMathematics
+p57
+F0.0032223167849294207
+sVData Science
+p58
+F0.0019309943282050047
+sVComputer Science
+p59
+F0.0017017965156996197
+sVBusiness
+p60
+F0.0020332976450641244
+ssS'education'
+p61
+(dp62
+VBachelor
+p63
+F0.0017131180971238847
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+F0.0022762424857408242
+sS'information'
+p67
+F0.0052146812012383251
+sS'forecasting'
+p68
+F0.0055117086575757861
+sS'business problem'
+p69
+F0.0053536664701703844
+sS'analysis'
+p70
+F0.0012880403073463531
+sS'forecast'
+p71
+F0.0085368877722506453
 sS'analytic'
-p79
-I1
+p72
+F0.016975383250373254
 sS'understand'
-p80
-I1
+p73
+F0.0039505259651208182
 sS'data mining'
-p81
-I1
+p74
+F0.0039886829486506341
 sS'implement'
-p82
-I1
+p75
+F0.0039809458178939987
 sS'model'
-p83
-I1
+p76
+F0.0029086669960557156
+sS'decision making'
+p77
+F0.0061401937028750251
 ss.

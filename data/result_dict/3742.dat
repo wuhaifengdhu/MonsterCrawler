@@ -2,68 +2,72 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'a'
+aS'search'
 p4
-aS'quantitative analysis'
+aS'python'
 p5
-aS'data scientist'
+aS'quantitative analysis'
 p6
-aS'analysis'
-p7
-aS'machine learning'
-p8
-aS'leadership'
-p9
 aS'data mining'
+p7
+aS'data scientist'
+p8
+aS'analysis'
+p9
+aS'machine learning'
 p10
-aS'modeling'
+aS'r'
+aS'hive'
 p11
-aS'data'
+aS'leadership'
 p12
-aS'scripting'
+aS'sql'
 p13
-asS'working-year'
+aS'modeling'
 p14
-(lp15
-V(0, 2]
+aS'data'
+p15
+aS'scripting'
 p16
-asS'major'
+asS'working-year'
 p17
 (lp18
-S'data mining'
+V(0, 2]
 p19
-aS'design'
+asS'major'
 p20
-aS'statistic'
-p21
-aS'machine learning'
+(lp21
+VComputer Science
 p22
-asS'education'
+aVBusiness
 p23
-(lp24
+asS'education'
+p24
+(lp25
 S'Bachelor'
-p25
-asS'responsibility'
 p26
-(lp27
+asS'responsibility'
+p27
+(lp28
 S'product'
-p28
-aS'evaluation'
 p29
-aS'communicate'
-p30
-aS'analysis'
-p31
-aS'design'
-p32
-aS'data mining'
-p33
-aS'understand'
-p34
-aS'modeling'
-p35
 aS'quantitative analysis'
+p30
+aS'communicate'
+p31
+aS'analysis'
+p32
+aS'understand'
+p33
+aS'data mining'
+p34
+aS'design'
+p35
+aS'modeling'
 p36
-aS'model'
+aS'evaluation'
 p37
+aS'model'
+p38
 as.

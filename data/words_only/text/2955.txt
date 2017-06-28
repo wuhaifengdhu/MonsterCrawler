@@ -1,5 +1,5 @@
-skills: {'management': 1, 'autocad': 1, 'government': 1, 'sap': 1, 'data acquisition': 1, 'defense': 1, 'aerospace': 1, 'organization': 1, 'security': 1, 'education': 1, 'data': 1, 'insurance': 1, 'information technology': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'phd': 1, 'design': 1, 'law': 1, 'information technology': 1, 'history': 1}
-education: {u'Bachelor': 1, u'Master': 1, u'Doctor': 1}
-responsibility: {'analytic': 1, 'product': 1, 'design': 1, 'model': 1, 'information': 1}
+skills: {'a': 0.006951828600795637, 'management': 0.00336821140222919, 'autocad': 0.017333461008261643, 'government': 0.009691894110144851, 'data scientist': 0.003938184628862001, 'data acquisition': 0.0171189340314081, 'defense': 0.026257532742960877, 'aerospace': 0.03621636063034703, 'organization': 0.006554586763128926, 'security': 0.008123980727582868, 'education': 0.023404759291597795, 'data': 0.00044089772444041975, 'insurance': 0.011721826816169843, 'information technology': 0.011586056028854071, 'sap': 0.014926170776129585}
+working-year: {u'(2, 5]': 0.004605741369632474}
+major: {u'Information Science': 0.009415075050386966, u'Business': 0.004021242926297822, u'Management Science and Engineering': 0.004793845867914098}
+education: {u'Bachelor': 0.0033880253816725154, u'Master': 0.0027036456699783525, u'Doctor': 0.004049002869057502}
+responsibility: {'analytic': 0.008393033354273764, 'product': 0.004999973571441437, 'design': 0.0054290662082471285, 'model': 0.005752456661344389, 'information': 0.005156524905313735}

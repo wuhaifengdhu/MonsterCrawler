@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'c'
+aS'management'
 p4
 aS'science'
 p5
@@ -24,25 +25,23 @@ p12
 asS'working-year'
 p13
 (lp14
-V[0]
+S'[0]'
 p15
 asS'major'
 p16
 (lp17
-S'science'
+VData Science
 p18
-aS'data science'
+aVManagement Science and Engineering
 p19
-aS'management'
-p20
 asS'education'
-p21
-(lp22
+p20
+(lp21
 S'Bachelor'
-p23
+p22
 asS'responsibility'
-p24
-(lp25
+p23
+(lp24
 S'documentation'
-p26
+p25
 as.

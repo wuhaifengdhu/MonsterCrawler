@@ -4,181 +4,163 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
+F0.011667247334424164
 sS'consulting'
 p5
-I1
-sS'communication'
+F0.0071503629576299705
+sS'economics'
 p6
-I1
-sS'data science'
-p7
-I1
-sS'analytics'
-p8
-I1
-sS'marketing strategy'
-p9
-I1
-sS'digital analytics'
-p10
-I1
-sS'education'
-p11
-I1
-sS'visualization'
-p12
-I1
-sS'web analytics'
-p13
-I1
-sS'tableau'
-p14
-I1
-sS'digital media'
-p15
-I1
-sS'advanced analytics'
-p16
-I1
-sS'segmentation'
-p17
-I1
-sS'finance'
-p18
-I1
-sS'python'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'alteryx'
-p21
-I1
-sS'business analytics'
-p22
-I1
-sS'data structures'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'data'
-p26
-I1
-sS'science'
-p27
-I1
-sS'marketing analytics'
-p28
-I1
-sS'r'
-I1
-sS'website development'
-p29
-I1
-sS'data analytics'
-p30
-I1
-sS'crm'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(5, 10]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'information'
-p37
-I1
-sS'information systems'
-p38
-I1
-sS'finance statistics'
-p39
-I1
-sS'business'
-p40
-I1
-sS'digital media'
-p41
-I1
+F0.0075838348872134852
 sS'communication'
-p42
-I1
+p7
+F0.0050100296174394191
 sS'data science'
-p43
-I1
-sS'marketing analytics'
-p44
-I1
-sS'applied economics'
-p45
-I1
+p8
+F0.0038064586255082251
 sS'analytics'
-p46
-I1
-sS'information system'
-p47
-I1
+p9
+F0.019266336183179387
 sS'marketing strategy'
-p48
-I1
-sS'science'
-p49
-I1
+p10
+F0.011799873497118123
+sS'sas'
+p11
+F0.0043836609388525844
+sS'digital analytics'
+p12
+F0.01667874697149806
+sS'education'
+p13
+F0.0066412238918141424
+sS'visualization'
+p14
+F0.0059313141516897762
+sS'web analytics'
+p15
+F0.012083064998191529
+sS'tableau'
+p16
+F0.0063576774908980747
+sS'strategy'
+p17
+F0.0049842133899583377
+sS'digital media'
+p18
+F0.017313777859828315
+sS'r'
+F0.0017563047677656366
 sS'advanced analytics'
-p50
-I1
-sS'business analytics'
-p51
-I1
-sS'data analytics'
-p52
-I1
+p19
+F0.0093126916276521626
+sS'mathematics'
+p20
+F0.0057844724116322965
 sS'finance'
-p53
-I1
-ssS'education'
-p54
-(dp55
-VBachelor
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
-S'information'
-p59
-I1
-sS'business problem'
-p60
-I1
-sVinsight
-p61
-I1
-sS'analytic'
-p62
-I1
-sS'understand'
-p63
-I1
-sS'recommendation'
-p64
-I1
+p21
+F0.0084023609309610385
+sS'python'
+p22
+F0.0016495301036495759
+sS'marketing'
+p23
+F0.012058319762516131
+sS'alteryx'
+p24
+F0.015532821579603702
+sS'business analytics'
+p25
+F0.0096126082077820051
+sS'data structures'
+p26
+F0.014131769712433058
+sS'statistics'
+p27
+F0.0029509900468436853
 sS'modeling'
-p65
-I1
-sS'model'
-p66
-I1
+p28
+F0.0025700812943720017
+sS'data'
+p29
+F0.0033778904774375198
+sS'science'
+p30
+F0.0066743723562730298
+sS'marketing analytics'
+p31
+F0.012206639914682843
+sS'leadership'
+p32
+F0.010458282412682417
+sS'website development'
+p33
+F0.020042325582139496
+sS'data analytics'
+p34
+F0.0064630464603980921
+sS'crm'
+p35
+F0.04163149324299744
+ssS'working-year'
+p36
+(dp37
+V(5, 10]
+p38
+F0.0038153299416989199
+ssS'major'
+p39
+(dp40
+VStatistics
+p41
+F0.0057009644616711399
+sVBusiness
+p42
+F0.003423146668272513
+sVData Science
+p43
+F0.0032509145019147551
+sVEconomics
+p44
+F0.0051923150238115849
+sVInformation Science
+p45
+F0.008014731609348397
+sVMathematics
+p46
+F0.0054249130682988986
+ssS'education'
+p47
+(dp48
+VBachelor
+p49
+F0.0028841102141452745
+ssS'responsibility'
+p50
+(dp51
+S'development'
+p52
+F0.003832155070930755
+sS'information'
+p53
+F0.0043895734162322612
+sS'business problem'
+p54
+F0.0090131346902868493
+sS'cross functionally'
+p55
+F0.01893030931936681
+sS'insight'
+p56
+F0.017419873633001442
+sS'analytic'
+p57
+F0.021434107331958635
+sS'understand'
+p58
+F0.0066508854855831497
+sS'recommendation'
+p59
+F0.008266461217779339
+sS'modeling'
+p60
+F0.0025700812943720017
 ss.

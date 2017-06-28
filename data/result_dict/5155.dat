@@ -2,17 +2,17 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'databases'
 p4
-aS'tableau'
+aS'communication'
 p5
-aS'analytics'
+aS'tableau'
 p6
-aS'analysis'
+aS'analytics'
 p7
 aS'visualization'
 p8
-aS'management'
+aS'statistics'
 p9
 aS'java'
 p10
@@ -24,91 +24,90 @@ aS'computer science'
 p13
 aS'data analysis'
 p14
-aS'processing'
+aS'python'
 p15
-aS'data structures'
+aS'processing'
 p16
-aS'sql'
+aS'data scientist'
 p17
-aS'data'
+aS'data structures'
 p18
-aS'customer relations'
+aS'management'
 p19
-aS'science'
+aS'sql'
 p20
-aS'programming'
+aS'data'
 p21
-aS'mapreduce'
+aS'c'
+aS'science'
 p22
-aS'c++'
+aS'programming'
 p23
+aS'mapreduce'
+p24
+aS'analysis'
+p25
 aS'r'
 aS'dashboard'
-p24
-aS'healthcare'
-p25
-aS'organization'
 p26
-aS'retail'
+aS'healthcare'
 p27
-asS'working-year'
+aS'organization'
 p28
-(lp29
-V(0, 2]
+aS'retail'
+p29
+aS'physics'
 p30
-aV(2, 5]
+asS'working-year'
 p31
-asS'major'
-p32
-(lp33
-S'information'
+(lp32
+V(0, 2]
+p33
+aV(2, 5]
 p34
-aS'management'
+asS'major'
 p35
-aS'business'
-p36
-aS'science'
+(lp36
+VStatistics
 p37
-aS'communication'
+aVBusiness
 p38
-aS'analytics'
+aVData Science
 p39
-aS'computer science'
+aVComputer Science
 p40
-aS'statistic'
+aVPhysics
 p41
-aS'ee computer science'
+aVManagement Science and Engineering
 p42
-aVphysic
-p43
 asS'education'
-p44
-(lp45
+p43
+(lp44
 VBachelor
-p46
+p45
 asS'responsibility'
-p47
-(lp48
-S'large data set'
-p49
+p46
+(lp47
+S'information'
+p48
 aS'data analysis'
+p49
+aS'large data set'
 p50
 aS'business problem'
 p51
-aS'information'
-p52
 aS'processing'
-p53
+p52
 aS'communicate'
-p54
+p53
 aS'analysis'
-p55
+p54
 aS'analytic'
-p56
+p55
 aS'understand'
-p57
+p56
 aS'implement'
-p58
+p57
 aS'model'
-p59
+p58
 as.

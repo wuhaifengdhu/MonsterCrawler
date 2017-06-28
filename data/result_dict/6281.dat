@@ -4,86 +4,84 @@ p2
 (lp3
 S'organization'
 p4
-aS'management'
+aS'project management'
 p5
 aS'programming'
 p6
-aS'data scientist'
+aS'management'
 p7
-aS'coaching'
+aS'marketing'
 p8
-aS'cart'
+aS'data scientist'
 p9
-aS'access'
+aS'coaching'
 p10
-aS'banking'
+aS'cart'
 p11
-aS'unix'
+aS'access'
 p12
-aS'project management'
+aS'banking'
 p13
-aS'mentoring'
+aS'unix'
 p14
-aS'computer science'
+aS'statistics'
 p15
-aS'communication'
+aS'mentoring'
 p16
-aS'analysis'
+aS'computer science'
 p17
-aS'data'
+aS'communication'
 p18
-aS'engineering'
+aS'sas'
 p19
-aS'science'
+aS'analysis'
 p20
-asS'working-year'
+aS'data'
 p21
-(lp22
-V(5, 10]
+aS'engineering'
+p22
+aS'science'
 p23
-asS'major'
+asS'working-year'
 p24
 (lp25
-S'engineering science'
+V(5, 10]
 p26
-aS'information'
+asS'major'
 p27
-aS'management'
-p28
-aS'business'
+(lp28
+VStatistics
 p29
-aS'science'
+aVBusiness
 p30
-aS'engineering'
+aVEconomics
 p31
-aS'computer science engineering'
+aVEngineering
 p32
-aS'computer science'
+aVComputer Science
 p33
-aS'communication'
+aVManagement Science and Engineering
 p34
-aS'project management'
-p35
 asS'education'
-p36
-(lp37
+p35
+(lp36
 VMaster
-p38
+p37
 asS'responsibility'
-p39
-(lp40
+p38
+(lp39
 S'information'
-p41
+p40
 aS'product'
-p42
+p41
 aS'communicate'
-p43
+p42
 aS'analysis'
-p44
+p43
 aS'analytic'
-p45
+p44
 aS'ownership'
-p46
+p45
 aS'presentation'
-p47
+p46
 as.

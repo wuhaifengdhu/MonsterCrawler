@@ -2,118 +2,127 @@
 S'skills'
 p2
 (dp3
-S'data analysis'
+S'data science'
 p4
-I1
-sS'data modeling'
-p5
-I1
-sS'organization'
-p6
-I1
-sS'big data'
-p7
-I1
-sS'scala'
-p8
-I1
-sS'team building'
-p9
-I1
-sS'programming'
-p10
-I1
-sS'data science'
-p11
-I1
-sS'processing'
-p12
-I1
-sS'data scientist'
-p13
-I1
+F0.0040912956655122417
 sS'rest'
+p5
+F0.012168015178433035
+sS'engineering'
+p6
+F0.0041661727111348794
+sS'cassandra'
+p7
+F0.012804103818233594
+sS'java'
+p8
+F0.0042151937675791954
+sS'big data'
+p9
+F0.0043289970284444475
+sS'scala'
+p10
+F0.0083012462166620303
+sS'team building'
+p11
+F0.013621873319957276
+sS'hadoop'
+p12
+F0.004370090140814846
+sS'natural language processing'
+p13
+F0.0085236671155112329
+sS'data analysis'
 p14
-I1
-sS'data quality'
+F0.0050468095747131471
+sS'data modeling'
 p15
-I1
+F0.0088850399483614666
 sS'python'
 p16
-I1
-sS'engineering'
+F0.0017729643290927413
+sS'processing'
 p17
-I1
-sS'natural language processing'
+F0.0055547213832337411
+sS'data scientist'
 p18
-I1
-sS'healthcare'
+F0.0036033049835506063
+sS'data quality'
 p19
-I1
+F0.012023258718320488
 sS'modeling'
 p20
-I1
+F0.0027624003027943963
 sS'spark'
 p21
-I1
-sS'machine learning'
-p22
-I1
+F0.0057351551813457774
 sS'data'
+p22
+F0.004840877056100935
+sS'science'
 p23
-I1
-sS'cassandra'
+F0.0023912717285513346
+sS'programming'
 p24
-I1
-ssS'working-year'
-p25
-(dp26
-V[0]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'data science'
-p30
-I1
-sS'natural language processing'
-p31
-I1
-sS'engineering'
-p32
-I1
-sS'big data'
-p33
-I1
+F0.0037493715470574012
 sS'machine learning'
+p25
+F0.0022296521150817665
+sS'algorithms'
+p26
+F0.0061026247563444012
+sS'healthcare'
+p27
+F0.0091742868820073615
+sS'organization'
+p28
+F0.0059972239431349697
+ssS'working-year'
+p29
+(dp30
+S'[0]'
+p31
+F0.0074701181311033421
+ssS'major'
+p32
+(dp33
+VData Science
 p34
-I1
-ssS'education'
+F0.0034941802129423898
+sVEngineering
 p35
-(dp36
-S'Bachelor'
+F0.0076611528121317265
+sVBusiness
+p36
+F0.0036793005005922252
+sVComputer Science
 p37
-I1
-ssS'responsibility'
+F0.0030794413141231212
+ssS'education'
 p38
 (dp39
-S'processing'
+VBachelor
 p40
-I1
-sS'develop model'
+F0.0030999279852717914
+ssS'responsibility'
 p41
-I1
-sVinsight
-p42
-I1
-sS'data analysis'
+(dp42
+S'processing'
 p43
-I1
-sS'modeling'
+F0.0055547213832337411
+sS'insight'
 p44
-I1
-sS'model'
+F0.01248226772795568
+sS'develop ... model'
 p45
-I1
+F0.010543921861143325
+sS'data analysis'
+p46
+F0.0050468095747131471
+sS'modeling'
+p47
+F0.0027624003027943963
+sS'model'
+p48
+F0.010526604366677829
 ss.

@@ -2,135 +2,133 @@
 S'skills'
 p2
 (dp3
-S'data analysis'
+S'neural networks'
 p4
-I1
-sS'java'
-p5
-I1
-sS'neural networks'
-p6
-I1
-sS'linear regression'
-p7
-I1
-sS'perl'
-p8
-I1
+F0.010994605063283073
 sS'intelligence'
-p9
-I1
+p5
+F0.0053042520604283079
 sS'data science'
-p10
-I1
-sS'data scientist'
-p11
-I1
-sS'hidden markov models'
-p12
-I1
-sS'analysis'
-p13
-I1
-sS'machine learning'
-p14
-I1
+p6
+F0.004063651775880403
 sS'analytics'
-p15
-I1
+p7
+F0.017629813418585001
 sS'engineering'
-p16
-I1
-sS'r'
-I1
+p8
+F0.0041380228955191041
 sS'security clearance'
-p17
-I1
-sS'logistic regression'
-p18
-I1
+p9
+F0.01234398808533402
 sS'data mining'
-p19
-I1
-sS'python'
-p20
-I1
-sS'security'
-p21
-I1
-sS'research'
-p22
-I1
-sS'programming'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(5, 10]
-p26
-I1
-sV(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'data science'
-p30
-I1
-sS'data science analytics'
-p31
-I1
-sS'phd'
-p32
-I1
-sS'analytics'
-p33
-I1
-sS'engineering'
-p34
-I1
+p10
+F0.0071688490833856002
 sS'machine learning'
-p35
-I1
-sS'data mining'
-p36
-I1
-sS'machine learning data mining'
-p37
-I1
-ssS'education'
-p38
-(dp39
-VBachelor
-p40
-I1
-sVMaster
-p41
-I1
-sVDoctor
-p42
-I1
-ssS'responsibility'
-p43
-(dp44
-S'development'
-p45
-I1
+p11
+F0.0022145868980879709
+sS'research'
+p12
+F0.0028822984515599268
+sS'java'
+p13
+F0.0041867127286090659
+sS'perl'
+p14
+F0.0096826038658424617
 sS'data analysis'
-p46
-I1
-sS'mapping'
-p47
-I1
+p15
+F0.0050127095100191395
+sS'python'
+p16
+F0.0017609848403826553
+sS'data scientist'
+p17
+F0.0035789583282563459
+sS'data'
+p18
+F0.0012020421068358743
+sS'a'
+F0.0063177091000473874
+sS'c'
+F0.0042250740672233021
+sS'science'
+p19
+F0.0047502289742844088
+sS'programming'
+p20
+F0.0037240379555232295
 sS'analysis'
-p48
-I1
+p21
+F0.0011574956816017903
+sS'linear regression'
+p22
+F0.012828363505396605
+sS'hidden markov models'
+p23
+F0.019967969486108482
+sS'r'
+F0.0018749740088308824
+sS'logistic regression'
+p24
+F0.011060685394633596
+sS'security'
+p25
+F0.0073829419449992972
+ssS'working-year'
+p26
+(dp27
+V(5, 10]
+p28
+F0.0040731225053272256
+sV(2, 5]
+p29
+F0.004185623069024107
+ssS'major'
+p30
+(dp31
+VData Science
+p32
+F0.0034705708871792659
+sVEngineering
+p33
+F0.0076093882661038099
+sVComputer Science
+p34
+F0.0030586342782168846
+ssS'education'
+p35
+(dp36
+VBachelor
+p37
+F0.0030789825259118471
+sVMaster
+p38
+F0.0024570293419735709
+sVDoctor
+p39
+F0.0036796681478934732
+ssS'responsibility'
+p40
+(dp41
+S'development'
+p42
+F0.008182168935230532
+sS'data analysis'
+p43
+F0.0050127095100191395
+sS'mapping'
+p44
+F0.014438782800289608
+sS'analysis'
+p45
+F0.0011574956816017903
 sS'data mining'
-p49
-I1
+p46
+F0.0071688490833856002
 sS'model'
-p50
-I1
+p47
+F0.010455478661497573
+sS'decision making'
+p48
+F0.011035753547059168
 ss.

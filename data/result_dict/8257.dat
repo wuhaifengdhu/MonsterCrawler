@@ -4,65 +4,66 @@ p2
 (lp3
 S'nlp'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'healthcare analytics'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'problem solving'
-p11
+p10
 aS'research'
-p12
+p11
 aS'regression'
+p12
+aS'statistics'
 p13
-aS'management'
-p14
 aS'java'
+p14
+aS'management'
 p15
-aS'education'
-p16
 aS'hadoop'
-p17
+p16
 aS'time management'
-p18
+p17
 aS'access'
-p19
+p18
 aS'computer science'
-p20
+p19
 aS'spring'
-p21
+p20
 aS'algorithm development'
-p22
+p21
 aS'energy'
-p23
+p22
 aS'python'
+p23
+aS'innovation'
 p24
 aS'leadership'
 p25
-aS'organization'
+aS'electrical engineering'
 p26
 aS'data'
 p27
+aS'a'
 aS'c'
 aS'software engineering'
 p28
 aS'science'
 p29
-aS'c++'
+aS'education'
 p30
 aS'machine learning'
 p31
 aS'r'
 aS'healthcare'
 p32
-aS'electrical engineering'
+aS'organization'
 p33
 aS'data analytics'
 p34
@@ -76,68 +77,50 @@ p38
 asS'major'
 p39
 (lp40
-S'information'
+VStatistics
 p41
-aS'management'
+aVBusiness
 p42
-aS'information systems'
+aVData Science
 p43
-aS'business'
+aVElectrical and Electronics Engineering
 p44
-aS'science'
+aVEngineering
 p45
-aS'data science'
+aVInformation Science
 p46
-aS'machine learning statistics'
+aVComputer Science
 p47
-aS'statistic'
+aVMathematics
 p48
-aS'machine learning'
+aVManagement Science and Engineering
 p49
-aS'analytics'
-p50
-aS'engineering'
-p51
-aS'information system'
-p52
-aS'electrical'
-p53
-aS'computer science'
-p54
-aS'applied math'
-p55
-aS'communication'
-p56
-aS'electrical engineering'
-p57
-aS'software engineering'
-p58
-aS'data analytics'
-p59
-aS'history'
-p60
 asS'education'
-p61
-(lp62
+p50
+(lp51
 VBachelor
-p63
+p52
 aVMaster
-p64
+p53
 aVDoctor
-p65
+p54
 asS'responsibility'
-p66
-(lp67
+p55
+(lp56
 S'development'
-p68
+p57
 aS'information'
-p69
+p58
 aS'product'
-p70
-aVinsight
-p71
+p59
+aS'insight'
+p60
+aS'develop ... model'
+p61
 aS'understand'
-p72
+p62
 aS'model'
-p73
+p63
+aS'test ... model'
+p64
 as.

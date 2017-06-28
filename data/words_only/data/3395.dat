@@ -4,256 +4,243 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
-sS'communication'
-p5
-I1
-sS'hadoop'
-p6
-I1
-sS'engineering'
-p7
-I1
-sS'hive'
-p8
-I1
-sS'problem solving'
-p9
-I1
-sS'data mining'
-p10
-I1
-sS'hbase'
-p11
-I1
-sS'perl'
-p12
-I1
-sS'quantitative analysis'
-p13
-I1
-sS'experimentation'
-p14
-I1
-sS'education'
-p15
-I1
-sS'java'
-p16
-I1
-sS'big data'
-p17
-I1
-sS'user experience'
-p18
-I1
-sS'predictive modeling'
-p19
-I1
-sS'scientific computing'
-p20
-I1
-sS'research'
-p21
-I1
-sS'mahout'
-p22
-I1
-sS'r'
-I1
-sS'computer science'
-p23
-I1
+F0.0089125501696970168
 sS'intelligence'
-p24
-I1
-sS'mathematics'
-p25
-I1
-sS'unstructured data'
-p26
-I1
-sS'matlab'
-p27
-I1
-sS'segmentation'
-p28
-I1
-sS'data analysis'
-p29
-I1
-sS'python'
-p30
-I1
-sS'marketing'
-p31
-I1
-sS'data scientist'
-p32
-I1
-sS'experimental design'
-p33
-I1
-sS'octave'
-p34
-I1
-sS'modeling'
-p35
-I1
-sS'data'
-p36
-I1
-sS'science'
-p37
-I1
-sS'programming'
-p38
-I1
-sS'business strategy'
-p39
-I1
-sS'analysis'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'weka'
-p42
-I1
-sS'optimization'
-p43
-I1
-sS'scripting'
-p44
-I1
-sS'communication skills'
-p45
-I1
-sS'data analytics'
-p46
-I1
-sS'statistical analysis'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(2, 5]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'data mining'
-p53
-I1
-sS'business'
-p54
-I1
-sS'big data'
-p55
-I1
-sS'marketing'
-p56
-I1
-sS'statistic'
-p57
-I1
-sS'scientific computing'
-p58
-I1
-sS'machine learning data mining'
-p59
-I1
+p5
+F0.0047722146197166533
+sS'julia'
+p6
+F0.01524358312091912
+sS'hadoop'
+p7
+F0.0078103738686903642
+sS'analytics'
+p8
+F0.0026435789118040322
 sS'engineering'
-p60
-I1
-sS'machine learning'
-p61
-I1
-sS'design'
-p62
-I1
-sS'computer science'
-p63
-I1
-sS'communication'
-p64
-I1
-sS'mathematics'
-p65
-I1
-sS'computer science mathematics'
-p66
-I1
-sS'ee computer science'
-p67
-I1
-sS'data analytics'
-p68
-I1
-sS'science'
-p69
-I1
-ssS'education'
-p70
-(dp71
-VDoctor
-p72
-I1
-ssS'responsibility'
-p73
-(dp74
-S'forecasting'
-p75
-I1
-sS'data analysis'
-p76
-I1
-sS'business problem'
-p77
-I1
-sS'pattern'
-p78
-I1
-sVinsight
-p79
-I1
-sS'communicate'
-p80
-I1
-sS'product'
-p81
-I1
-sS'analysis'
-p82
-I1
-sS'analytic'
-p83
-I1
-sS'optimization'
-p84
-I1
-sS'design'
-p85
-I1
+p9
+F0.0037229628482481902
+sS'hive'
+p10
+F0.0063396785698784392
+sS'problem solving'
+p11
+F0.007460826337243924
 sS'data mining'
-p86
-I1
-sS'understand'
-p87
-I1
-sS'modeling'
-p88
-I1
-sS'extract'
-p89
-I1
+p12
+F0.0064497851935627279
+sS'hbase'
+p13
+F0.010177076260912072
+sS'research'
+p14
+F0.0051863850556944577
 sS'quantitative analysis'
-p90
-I1
+p15
+F0.02318542457155277
+sS'experimentation'
+p16
+F0.010945548873166806
+sS'statistics'
+p17
+F0.0056687711538152257
+sS'java'
+p18
+F0.0037667688986877919
+sS'big data'
+p19
+F0.0038684654296737616
+sS'user experience'
+p20
+F0.010259005972969167
+sS'data'
+p21
+F0.0032444176014293502
+sS'predictive modeling'
+p22
+F0.0063191668957111547
+sS'education'
+p23
+F0.0063788047106786297
+sS'scientific computing'
+p24
+F0.0098119096189976211
+sS'perl'
+p25
+F0.0087114004385695082
+sS'mahout'
+p26
+F0.01317988678101671
+sS'r'
+F0.0033738134140665118
+sS'computer science'
+p27
+F0.0042735053592316734
+sS'mathematics'
+p28
+F0.011111813264898516
+sS'unstructured data'
+p29
+F0.0096924268494017023
+sS'matlab'
+p30
+F0.0038796388682008046
+sS'segmentation'
+p31
+F0.017605175149726694
+sS'data analysis'
+p32
+F0.0045099149391053649
+sS'python'
+p33
+F0.0031687022051870273
+sS'marketing'
+p34
+F0.011581851200471421
+sS'data scientist'
+p35
+F0.0032199746661516057
+sS'experimental design'
+p36
+F0.010528002641459562
+sS'octave'
+p37
+F0.012662127098885461
+sS'sql'
+p38
+F0.0020727776864226354
+sS'modeling'
+p39
+F0.0049370558603133892
+sS'solr'
+p40
+F0.012607687444950283
+sS'c'
+F0.0038012824434592624
+sS'science'
+p41
+F0.00213688111913098
+sS'programming'
+p42
+F0.0033505022335406564
+sS'business strategy'
+p43
+F0.0092387091803022396
+sS'analysis'
+p44
+F0.0010413942910459876
+sS'machine learning'
+p45
+F0.0019924550815624297
+sS'lucene'
+p46
+F0.016075480511205605
+sS'weka'
+p47
+F0.011819941726994713
+sS'optimization'
+p48
+F0.0060790542777767239
+sS'scripting'
+p49
+F0.0073953932445187335
+sS'communication skills'
+p50
+F0.011194911404438066
+sS'data analytics'
+p51
+F0.006207667724880842
+sS'statistical analysis'
+p52
+F0.0078258363325611185
+ssS'working-year'
+p53
+(dp54
+V(2, 5]
+p55
+F0.0037657885362648497
+ssS'major'
+p56
+(dp57
+VStatistics
+p58
+F0.0054756983887175687
+sVBusiness
+p59
+F0.003287885553720712
+sVData Science
+p60
+F0.0031224589136931995
+sVEconomics
+p61
+F0.0049871475608646229
+sVEngineering
+p62
+F0.0068461365555219679
+sVComputer Science
+p63
+F0.0027518411743227894
+sVMathematics
+p64
+F0.005210554801162468
+ssS'education'
+p65
+(dp66
+VDoctor
+p67
+F0.0033105828929375926
+ssS'responsibility'
+p68
+(dp69
+S'forecasting'
+p70
+F0.0089125501696970168
+sS'data analysis'
+p71
+F0.0045099149391053649
+sS'business problem'
+p72
+F0.0086569925900627492
+sS'pattern'
+p73
+F0.0079592433908028757
+sS'insight'
+p74
+F0.011154366905832736
+sS'communicate'
+p75
+F0.0060980026817069669
+sS'product'
+p76
+F0.0040881242878958862
+sS'analysis'
+p77
+F0.0010413942910459876
+sS'analytic'
+p78
+F0.006862388973555145
+sS'optimization'
+p79
+F0.0060790542777767239
+sS'design'
+p80
+F0.0044389629483844303
+sS'data mining'
+p81
+F0.0064497851935627279
+sS'understand'
+p82
+F0.0063880845393443023
+sS'modeling'
+p83
+F0.0049370558603133892
+sS'extract'
+p84
+F0.0094033693942335243
+sS'quantitative analysis'
+p85
+F0.02318542457155277
 sS'model'
-p91
-I1
+p86
+F0.0047033764191539238
 ss.

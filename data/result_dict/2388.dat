@@ -2,59 +2,59 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'visualization'
 p4
-aS'nosql'
+aS'management'
 p5
-aS'data visualization'
+aS'nosql'
 p6
-aS'analytics'
+aS'data visualization'
 p7
-aS'marketing'
+aS'analytics'
 p8
-aS'data scientist'
+aS'marketing'
 p9
-aS'governance'
+aS'data scientist'
 p10
-aS'data quality'
+aS'sales'
 p11
-aS'credit'
+aS'governance'
 p12
-aS'data governance'
+aS'strategy'
 p13
-aS'analysis'
+aS'credit'
 p14
-aS'data analysis'
+aS'data governance'
 p15
-aS'big data'
+aS'data quality'
 p16
-aS'data'
+aS'analysis'
 p17
-aS'data management'
+aS'data analysis'
 p18
-aS'rdbms'
+aS'big data'
 p19
-asS'working-year'
+aS'data'
 p20
-(lp21
-V[0]
+aS'data management'
+p21
+aS'rdbms'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'information'
+S'[0]'
 p25
-aS'management'
+asS'major'
 p26
-aS'business'
-p27
-aS'big data'
+(lp27
+VData Science
 p28
-aS'marketing'
+aVEconomics
 p29
-aS'data analyst'
+aVBusiness
 p30
-aS'analytics'
+aVManagement Science and Engineering
 p31
 asS'education'
 p32
@@ -64,26 +64,30 @@ p34
 asS'responsibility'
 p35
 (lp36
-S'large data set'
+S'development'
 p37
-aS'data analysis'
-p38
 aS'information'
+p38
+aS'data analysis'
 p39
-aVinsight
+aS'large data set'
 p40
-aS'communicate'
+aS'insight'
 p41
-aS'mapping'
+aS'communicate'
 p42
-aS'analysis'
+aS'mapping'
 p43
-aS'model'
+aS'analysis'
 p44
-aS'understand'
+aS'model'
 p45
-aS'implement'
+aS'understand'
 p46
-aS'transformation'
+aS'manipulate ... data set'
 p47
+aS'implement'
+p48
+aS'transformation'
+p49
 as.

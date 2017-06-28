@@ -4,197 +4,173 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.0082909356788144536
 sS'healthcare industry'
 p5
-I1
+F0.010709145841883302
 sS'communication'
 p6
-I1
+F0.0034718626296290711
 sS'project planning'
 p7
-I1
+F0.0091356136305555183
 sS'decision support'
 p8
-I1
+F0.009740223592045549
 sS'analytics'
 p9
-I1
-sS'data mining'
+F0.005721956986733728
+sS'engineering'
 p10
-I1
-sS'data modeling'
+F0.0053721700748844501
+sS'data mining'
 p11
-I1
-sS'machine learning'
+F0.004653463440092407
+sS'data modeling'
 p12
-I1
-sS'visualization'
+F0.0057285125982856821
+sS'machine learning'
 p13
-I1
-sS'technical leadership'
+F0.0014375388636711389
+sS'visualization'
 p14
-I1
-sS'management'
+F0.0041102966489780027
+sS'technical leadership'
 p15
-I1
-sS'publishing'
+F0.0098655695559041658
+sS'management'
 p16
-I1
-sS'predictive modeling'
+F0.0039738985403493512
+sS'publishing'
 p17
-I1
-sS'hadoop'
-p18
-I1
-sS'research'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'innovation'
-p21
-I1
-sS'signal processing'
-p22
-I1
-sS'government'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'leadership'
-p25
-I1
-sS'algorithm design'
-p26
-I1
-sS'modeling'
-p27
-I1
+F0.011092786706629764
 sS'biomedical engineering'
+p18
+F0.0099790237522918279
+sS'predictive modeling'
+p19
+F0.0045592234839670386
+sS'hadoop'
+p20
+F0.0028175581171043088
+sS'research'
+p21
+F0.014967725292311197
+sS'computer science'
+p22
+F0.0030832966297965362
+sS'innovation'
+p23
+F0.012735688632465287
+sS'signal processing'
+p24
+F0.0068720833586857454
+sS'government'
+p25
+F0.0057173673588354502
+sS'processing'
+p26
+F0.0035813335234007016
+sS'leadership'
+p27
+F0.0036237031166750479
+sS'algorithm design'
 p28
-I1
-sS'high performance computing'
+F0.0092439294365589657
+sS'modeling'
 p29
-I1
-sS'simulation'
+F0.0017810212478542816
+sS'data'
 p30
-I1
-sS'electrical engineering'
+F0.00026009098218086164
+sS'science'
 p31
-I1
-sS'healthcare'
+F0.0015417409828817816
+sS'high performance computing'
 p32
-I1
-sS'organization'
+F0.0085380206178402741
+sS'simulation'
 p33
-I1
-sS'data analytics'
+F0.011775595559975314
+sS'electrical engineering'
 p34
-I1
-ssS'working-year'
+F0.0086943532530237184
+sS'healthcare'
 p35
-(dp36
-V(5, 10]
+F0.029575003764365834
+sS'organization'
+p36
+F0.0038666312264949146
+sS'data analytics'
 p37
-I1
-ssS'major'
+F0.0044787778102758705
+ssS'working-year'
 p38
 (dp39
-S'information'
+V(5, 10]
 p40
-I1
-sS'management'
+F0.0026439567139843394
+ssS'major'
 p41
-I1
-sS'business'
-p42
-I1
-sS'communication'
+(dp42
+VBusiness
 p43
-I1
-sS'computer science computer engineering'
+F0.0023721805859081451
+sVData Science
 p44
-I1
-sS'high performance computing'
+F0.0022528267162391724
+sVElectrical and Electronics Engineering
 p45
-I1
-sS'machine learning'
+F0.0069005013056468887
+sVEngineering
 p46
-I1
-sS'analytics'
+F0.0053721700748844501
+sVComputer Science
 p47
-I1
-sS'computer engineering'
+F0.0019854292683162229
+sVBiological Engineering
 p48
-I1
-sS'design'
+F0.0057679732027997596
+sVManagement Science and Engineering
 p49
-I1
-sS'computer science'
-p50
-I1
-sS'data mining'
-p51
-I1
-sS'electrical engineering'
-p52
-I1
-sS'electrical'
-p53
-I1
-sS'biomedical engineering'
-p54
-I1
-sS'analytics predictive modeling'
-p55
-I1
-sS'data analytics'
-p56
-I1
-sS'data mining machine learning'
-p57
-I1
+F0.0028279485492738866
 ssS'education'
-p58
-(dp59
+p50
+(dp51
 VDoctor
-p60
-I1
+p52
+F0.0023885565170536577
 ssS'responsibility'
-p61
-(dp62
+p53
+(dp54
 S'development'
-p63
-I1
+p55
+F0.0053112324667285906
 sS'information'
-p64
-I1
-sVinsight
-p65
-I1
+p56
+F0.0030418973673890229
+sS'insight'
+p57
+F0.0040238889386172913
 sS'processing'
-p66
-I1
+p58
+F0.0035813335234007016
 sS'simulation'
-p67
-I1
+p59
+F0.011775595559975314
 sS'design'
-p68
-I1
+p60
+F0.0032026728289878893
 sS'data mining'
-p69
-I1
+p61
+F0.004653463440092407
 sS'understand'
-p70
-I1
+p62
+F0.0046089469593076212
 sS'modeling'
-p71
-I1
+p63
+F0.0017810212478542816
 sS'prototype'
-p72
-I1
+p64
+F0.013829699182235472
 ss.

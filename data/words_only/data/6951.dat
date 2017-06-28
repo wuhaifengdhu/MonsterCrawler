@@ -2,207 +2,213 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'consulting'
 p4
-I1
-sS'data science'
-p5
-I1
-sS'analytics'
-p6
-I1
-sS'engineering'
-p7
-I1
-sS'statistical analysis'
-p8
-I1
-sS'regression'
-p9
-I1
-sS'experimentation'
-p10
-I1
-sS'management'
-p11
-I1
-sS'genetics'
-p12
-I1
-sS'scala'
-p13
-I1
-sS'asset management'
-p14
-I1
-sS'excel'
-p15
-I1
-sS'insurance'
-p16
-I1
-sS'market research'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'innovation'
-p19
-I1
-sS'unstructured data'
-p20
-I1
-sS'python'
-p21
-I1
-sS'collaboration'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'business transformation'
-p24
-I1
-sS'data'
-p25
-I1
-sS'project management'
-p26
-I1
-sS'search'
-p27
-I1
-sS'fraud'
-p28
-I1
-sS'analysis'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'r'
-I1
-sS'real estate'
-p31
-I1
-sS'cluster analysis'
-p32
-I1
-sS'powerpoint'
-p33
-I1
-sS'data analytics'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(5, 10]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'management'
-p41
-I1
-sS'genetics'
-p42
-I1
-sS'business'
-p43
-I1
-sS'mathematics statistics'
-p44
-I1
+F0.0040859216900742687
 sS'communication'
-p45
-I1
-sS'data science'
-p46
-I1
-sS'machine learning'
-p47
-I1
+p5
+F0.0028628740671082396
+sS'energy'
+p6
+F0.0055795575154612732
 sS'analytics'
-p48
-I1
+p7
+F0.011009334961816792
 sS'engineering'
-p49
-I1
-sS'project management'
-p50
-I1
-sS'design'
-p51
-I1
+p8
+F0.0022149272641476575
+sS'statistical analysis'
+p9
+F0.0046558773117768674
+sS'sas'
+p10
+F0.0025049491079157625
+sS'machine learning'
+p11
+F0.0011853846687776479
+sS'insurance'
+p12
+F0.017105812370070639
+sS'experimentation'
+p13
+F0.0065119088232764534
+sS'statistics'
+p14
+F0.0016862800267678202
+sS'genetics'
+p15
+F0.007023879032764733
+sS'scala'
+p16
+F0.0044133207734152564
+sS'asset management'
+p17
+F0.0085808703202781885
+sS'excel'
+p18
+F0.0029239678604087984
+sS'regression'
+p19
+F0.0042968676142528042
+sS'market research'
+p20
+F0.0057953130569592167
+sS'risk management'
+p21
+F0.00571384688243804
 sS'computer science'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'data analytics'
-p54
-I1
-sS'history'
-p55
-I1
-ssS'education'
-p56
-(dp57
-S'Bachelor'
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
-sS'large data set'
-p62
-I1
-sS'product'
-p63
-I1
-sS'information'
-p64
-I1
-sS'pattern'
-p65
-I1
-sVinsight
-p66
-I1
-sS'communicate'
-p67
-I1
+p22
+F0.0025424652137201096
+sS'innovation'
+p23
+F0.0070011742211020748
+sS'mathematics'
+p24
+F0.0033054128066470267
+sS'data science'
+p25
+F0.0021751192145761287
+sS'segmentation'
+p26
+F0.0052369824812478136
+sS'python'
+p27
+F0.00094258863065690046
+sS'collaboration'
+p28
+F0.0046250803256301159
+sS'data scientist'
+p29
+F0.0019156811304952589
+sS'management'
+p30
+F0.003276849429293498
+sS'business transformation'
+p31
+F0.010018347910972135
+sS'data'
+p32
+F0.0021446923666269967
+sS'project management'
+p33
+F0.0034384327727387813
+sS'search'
+p34
+F0.0056093847697102489
+sS'fraud'
+p35
+F0.021221642363155272
+sS'science'
+p36
+F0.0012713090202424817
 sS'analysis'
+p37
+F0.0006195636921412838
+sS'unstructured data'
+p38
+F0.0057663805306567084
+sS'r'
+F0.0010036027244375067
+sS'real estate'
+p39
+F0.0098538426590632743
+sS'organization'
+p40
+F0.003188397539388212
+sS'cluster analysis'
+p41
+F0.0071080003363805004
+sS'powerpoint'
+p42
+F0.0044249989275483769
+sS'data analytics'
+p43
+F0.0036931694059417668
+ssS'working-year'
+p44
+(dp45
+V(5, 10]
+p46
+F0.0021801885381136686
+ssS'major'
+p47
+(dp48
+VStatistics
+p49
+F0.003257693978097794
+sVBusiness
+p50
+F0.0019560838104414361
+sVData Science
+p51
+F0.0018576654296655743
+sVEngineering
+p52
+F0.0022149272641476575
+sVComputer Science
+p53
+F0.0016371713315591278
+sVBiological Engineering
+p54
+F0.0047562310677697834
+sVMathematics
+p55
+F0.0030999503247422277
+sVManagement Science and Engineering
+p56
+F0.0023319069411734039
+ssS'education'
+p57
+(dp58
+S'Bachelor'
+p59
+F0.0016480629795115854
+ssS'responsibility'
+p60
+(dp61
+S'development'
+p62
+F0.0021898028976747174
+sS'information'
+p63
+F0.0050166553328368701
+sS'product'
+p64
+F0.0024321752092545147
+sS'large data set'
+p65
+F0.0056861792682330308
+sS'pattern'
+p66
+F0.0047352460679460145
+sS'insight'
+p67
+F0.0033180711681907505
+sS'communicate'
 p68
-I1
-sS'statistical model'
+F0.0036279256460788282
+sS'analysis'
 p69
-I1
-sS'design'
+F0.0006195636921412838
+sS'statistical model'
 p70
-I1
-sS'recommendation'
+F0.0064934255074482732
+sS'design'
 p71
-I1
-sS'report'
+F0.0026409020072666865
+sS'recommendation'
 p72
-I1
-sS'model'
+F0.0047236921244453367
+sS'report'
 p73
-I1
-sS'presentation'
+F0.0075055205069527262
+sS'model'
 p74
-I1
+F0.0027982112873447392
+sS'presentation'
+p75
+F0.004454528647937806
+sS'transformation'
+p76
+F0.0056861792682330308
 ss.

@@ -2,37 +2,37 @@
 S'skills'
 p2
 (lp3
-S'science'
-p4
+S'a'
 aS'instrumentation'
-p5
-aS'c'
+p4
 aS'distributed computing'
-p6
+p5
 aS'quantitative analysis'
-p7
+p6
 aS'python'
+p7
+aS'science'
 p8
-aS'quantitative research'
-p9
 aS'data science'
-p10
+p9
 aS'hadoop'
-p11
+p10
 aS'analysis'
-p12
+p11
 aS'research'
-p13
+p12
 aS'hive'
-p14
+p13
 aS'engineering'
-p15
+p14
 aS'r'
 aS'facebook'
-p16
+p15
 aS'matlab'
-p17
+p16
 aS'sql'
+p17
+aS'sas'
 p18
 aS'php'
 p19
@@ -45,39 +45,37 @@ p22
 asS'working-year'
 p23
 (lp24
-V[0]
+S'[0]'
 p25
 asS'major'
 p26
 (lp27
-S'science'
+VData Science
 p28
-aS'data science'
+aVEngineering
 p29
-aS'engineering'
+aVComputer Science
 p30
-aS'business'
+aVBusiness
 p31
-aS'computing'
-p32
 asS'education'
-p33
-(lp34
+p32
+(lp33
 VDoctor
-p35
+p34
 asS'responsibility'
-p36
-(lp37
+p35
+(lp36
 S'large data set'
-p38
+p37
 aS'product'
-p39
+p38
 aS'communicate'
-p40
+p39
 aS'analysis'
-p41
+p40
 aS'analytic'
-p42
+p41
 aS'quantitative analysis'
-p43
+p42
 as.

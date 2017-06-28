@@ -4,37 +4,39 @@ p2
 (lp3
 S'lead generation'
 p4
-aS'data scientist'
-p5
 aS'data science'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'research'
-p8
+p7
 aS'management'
-p9
+p8
 aS'java'
-p10
+p9
 aS'predictive modeling'
-p11
+p10
 aS'hadoop'
-p12
+p11
 aS'strategy'
-p13
+p12
+aS'r'
+aS'a'
 aS'product development'
-p14
+p13
 aS'marketing'
-p15
+p14
 aS'processing'
+p15
+aS'data scientist'
 p16
-aS'aws'
-p17
 aS'data processing'
+p17
+aS'modeling'
 p18
-aS'data'
+aS'spark'
 p19
-aS'customer experience'
+aS'data'
 p20
 aS'software development'
 p21
@@ -42,52 +44,58 @@ aS'digital strategy'
 p22
 aS'science'
 p23
-aS'machine learning'
+aS'aws'
 p24
-aS'e-commerce'
+aS'machine learning'
 p25
-aS'optimization'
+aS'e-commerce'
 p26
-asS'working-year'
+aS'optimization'
 p27
-(lp28
-V[0]
+aS'emr'
+p28
+aS'options'
 p29
-asS'major'
+asS'working-year'
 p30
 (lp31
-S'management'
+S'[0]'
 p32
-aS'science'
+asS'major'
 p33
-aS'data science'
-p34
-aS'machine learning'
+(lp34
+VEngineering
 p35
-aS'engineering'
+aVData Science
 p36
-aS'marketing'
+aVEconomics
 p37
-asS'education'
+aVComputer Science
 p38
-(lp39
-VMaster
+aVManagement Science and Engineering
+p39
+asS'education'
 p40
+(lp41
+VMaster
+p42
 asS'responsibility'
-p41
-(lp42
-S'development'
 p43
-aS'product'
-p44
-aS'processing'
+(lp44
+S'development'
 p45
-aVinsight
+aS'product'
 p46
-aS'optimization'
+aS'processing'
 p47
-aS'recommendation'
+aS'insight'
 p48
-aS'model'
+aS'optimization'
 p49
+aS'recommendation'
+p50
+aS'modeling'
+p51
+aS'model'
+p52
 as.

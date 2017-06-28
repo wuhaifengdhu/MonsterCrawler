@@ -2,135 +2,141 @@
 S'skills'
 p2
 (dp3
-S'powerpoint'
+S'data science'
 p4
-I1
-sS'customer satisfaction'
-p5
-I1
-sS'r'
-I1
-sS'predictive modeling'
-p6
-I1
-sS'data visualization'
-p7
-I1
-sS'credit'
-p8
-I1
-sS'communication'
-p9
-I1
-sS'data science'
-p10
-I1
+F0.0029409313585833721
 sS'human resources'
-p11
-I1
-sS'excel vba'
-p12
-I1
-sS'communication skills'
-p13
-I1
-sS'research'
-p14
-I1
+p5
+F0.012127948616592929
 sS'analytics'
+p6
+F0.0021264974620624124
+sS'sas'
+p7
+F0.003386887180140383
+sS'education'
+p8
+F0.010262233495419409
+sS'insurance'
+p9
+F0.030837862235204769
+sS'statistics'
+p10
+F0.0022799825300797178
+sS'predictive modeling'
+p11
+F0.0050831440310243762
+sS'research'
+p12
+F0.004171933211059845
+sS'statistical software'
+p13
+F0.0096222429616075519
+sS'mathematics'
+p14
+F0.0044691767287917015
+sS'customer satisfaction'
 p15
-I1
+F0.011061693738567961
 sS'leadership'
 p16
-I1
-sS'statistical software'
-p17
-I1
+F0.0040401188782489533
 sS'sql'
-p18
-I1
+p17
+F0.0016673443981248095
 sS'modeling'
-p19
-I1
-sS'education'
-p20
-I1
+p18
+F0.0059570588436788693
 sS'data'
+p19
+F0.00086993756387143944
+sS'data visualization'
+p20
+F0.004808639671343767
+sS'science'
 p21
-I1
-sS'insurance'
+F0.0017189092620882454
+sS'economics'
 p22
-I1
-ssS'working-year'
+F0.0058593932135928145
+sS'excel vba'
 p23
-(dp24
-V(5, 10]
+F0.014288087482493265
+sS'communication skills'
+p24
+F0.0090051976822985904
+sS'credit'
 p25
-I1
-sV(15, 20]
+F0.0077690338000920454
+sS'r'
+F0.0027138988098481232
+sS'organization'
 p26
-I1
-sV(2, 5]
+F0.0043109629322290498
+sS'powerpoint'
 p27
-I1
-ssS'major'
+F0.0059829447602304459
+ssS'working-year'
 p28
 (dp29
-S'mathematics economics'
+V(5, 10]
 p30
-I1
-sS'economics statistics'
+F0.0029477854806280166
+sV(15, 20]
 p31
-I1
-sS'business'
+F0.0068331683782090393
+sV(2, 5]
 p32
-I1
-sS'communication'
+F0.0030292039814942186
+ssS'major'
 p33
-I1
-sS'data science'
-p34
-I1
-sS'analytics'
+(dp34
+VMathematics
 p35
-I1
-sS'statistic'
+F0.0041913753779522049
+sVData Science
 p36
-I1
-sS'mathematics economics statistics'
+F0.0025117090039243587
+sVStatistics
 p37
-I1
-ssS'education'
+F0.0044046571390906602
+sVBusiness
 p38
-(dp39
-VBachelor
+F0.0026447783549489344
+sVEconomics
+p39
+F0.0040116663753654302
+ssS'education'
 p40
-I1
-sVMaster
-p41
-I1
-sVDoctor
+(dp41
+VBachelor
 p42
-I1
-ssS'responsibility'
+F0.0022283100921024613
+sVMaster
 p43
-(dp44
-S'build model'
+F0.0017781923844111904
+sVDoctor
+p44
+F0.0026630361168128803
+ssS'responsibility'
 p45
-I1
-sS'business problem'
-p46
-I1
-sS'decision-making'
+(dp46
+S'build model'
 p47
-I1
-sS'recommendation'
+F0.01293113224495512
+sS'decision-making'
 p48
-I1
-sS'modeling'
+F0.0089780817745357521
+sS'recommendation'
 p49
-I1
-sS'model'
+F0.012773602664148025
+sS'modeling'
 p50
-I1
+F0.0059570588436788693
+sS'model'
+p51
+F0.0037834005914465546
+sS'decision making'
+p52
+F0.0079867556232995438
 ss.

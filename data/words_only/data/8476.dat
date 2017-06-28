@@ -4,146 +4,128 @@ p2
 (dp3
 S'science'
 p4
-I1
+F0.00300441832561578
 sS'data quality'
 p5
-I1
+F0.015106145569171897
 sS'big data'
 p6
-I1
+F0.0054389962665071269
 sS'marketing'
 p7
-I1
+F0.0081419424037502096
 sS'data scientist'
 p8
-I1
+F0.0045272293383071729
 sS'scientific computing'
 p9
-I1
+F0.013795377199359906
 sS'analysis'
 p10
-I1
-sS'machine learning'
+F0.001464182571598846
+sS'sales'
 p11
-I1
+F0.014207712564918821
 sS'hardware'
 p12
-I1
+F0.01586887212202763
 sS'engineering'
 p13
-I1
-sS'statistical analysis'
-p14
-I1
-sS'data mining'
-p15
-I1
-sS'organization'
-p16
-I1
-sS'modeling'
-p17
-I1
-sS'education'
-p18
-I1
-sS'data'
-p19
-I1
-sS'research'
-p20
-I1
-sS'data analytics'
-p21
-I1
-sS'computer science'
-p22
-I1
-ssS'working-year'
-p23
-(dp24
-V(5, 10]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'business'
-p28
-I1
-sS'big data'
-p29
-I1
-sS'marketing'
-p30
-I1
-sS'scientific computing'
-p31
-I1
+F0.0052344221242463882
 sS'machine learning'
-p32
-I1
-sS'engineering'
-p33
-I1
-sS'design'
-p34
-I1
-sS'computer science'
-p35
-I1
+p14
+F0.0028013577856155531
+sS'statistical analysis'
+p15
+F0.01100299210860089
 sS'data mining'
-p36
-I1
-sS'phd'
-p37
-I1
-sS'data analytics'
-p38
-I1
-sS'science'
-p39
-I1
-ssS'education'
-p40
-(dp41
-VBachelor
-p42
-I1
-sVMaster
-p43
-I1
-sVDoctor
-p44
-I1
-ssS'responsibility'
-p45
-(dp46
-S'formulate'
-p47
-I1
-sS'complex data set'
-p48
-I1
-sVinsight
-p49
-I1
-sS'analysis'
-p50
-I1
-sS'design'
-p51
-I1
-sS'data mining'
-p52
-I1
-sS'report'
-p53
-I1
+p16
+F0.0090682877294108455
+sS'organization'
+p17
+F0.0075349736721439372
 sS'modeling'
-p54
-I1
+p18
+F0.0034707080727416776
+sS'education'
+p19
+F0.0089684903838173902
+sS'data'
+p20
+F0.0055752836180307779
+sS'research'
+p21
+F0.0072919687321516095
+sS'data analytics'
+p22
+F0.0087278747072042622
+sS'computer science'
+p23
+F0.0060084754837060718
+ssS'working-year'
+p24
+(dp25
+V(5, 10]
+p26
+F0.0051523259041746103
+ssS'major'
+p27
+(dp28
+VEngineering
+p29
+F0.0096255509690885803
+sVEconomics
+p30
+F0.007011844220190004
+sVData Science
+p31
+F0.0043901238572865925
+sVBusiness
+p32
+F0.0046227108853594632
+sVComputer Science
+p33
+F0.0038690416510777687
+ssS'education'
+p34
+(dp35
+VBachelor
+p36
+F0.0038947813148286618
+sVMaster
+p37
+F0.0031080371163426366
+sVDoctor
+p38
+F0.0046546229563096926
+ssS'responsibility'
+p39
+(dp40
+S'formulate'
+p41
+F0.019261275609674292
+sS'complex data set'
+p42
+F0.021372447428557446
+sS'insight'
+p43
+F0.023524273794993399
+sS'analysis'
+p44
+F0.001464182571598846
+sS'design'
+p45
+F0.01248221205143998
+sS'data mining'
+p46
+F0.0090682877294108455
+sS'report'
+p47
+F0.0088687026503095259
+sS'modeling'
+p48
+F0.0034707080727416776
 sS'implement'
-p55
-I1
+p49
+F0.036202789318283891
 ss.

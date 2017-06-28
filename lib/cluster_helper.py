@@ -37,6 +37,7 @@ class ClusterHelper(object):
             for key, value in position_tag.items():
                 print ("%s: %s" % (key, value))
             StoreHelper.store_data(position_tag, 'position_tag.dat')
+            StoreHelper.save_file(position_tag, 'position_tag.txt')
         else:
             length = len(label)
             clusters = [[str(j) for j in range(length) if label[j] == i] for i in range(cluster_number)]
@@ -73,7 +74,7 @@ class ClusterHelper(object):
     @staticmethod
     def birch_cluster(vector_list, index_list):
         np_array = np.array(vector_list, dtype=float)
-        brc = Birch(branching_factor=50, n_clusters=15, threshold=0.05, compute_labels=True)
+        brc = Birch(branching_factor=50, threshold=0.05, compute_labels=True)
         brc.fit(np_array)
         label = brc.predict(np_array)
         ClusterHelper.print_label(label, index_list)
@@ -84,7 +85,7 @@ if __name__ == '__main__':
     # ClusterHelper.mean_shift_cluster(_vector_list)
     # ClusterHelper.birch_cluster(_vector_list)
     # ClusterHelper.run_script(_vector_list)
-    position_dict = StoreHelper.load_data("../data/position_vector.dat", {})
+    position_dict = StoreHelper.load_data("../data/position_vector_01.dat", {})
     _vector_list = position_dict.values()
     _index_list = position_dict.keys()
     ClusterHelper.birch_cluster(_vector_list, _index_list)

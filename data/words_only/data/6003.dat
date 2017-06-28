@@ -4,65 +4,59 @@ p2
 (dp3
 S'database design'
 p4
-I1
+F0.029501228249115004
 sS'testing'
 p5
-I1
+F0.016249031864285817
 sS'data scientist'
 p6
-I1
+F0.0084077116282847471
 sS'analytics'
 p7
-I1
+F0.0069026782697105288
 sS'computer science'
 p8
-I1
-sS'data'
+F0.011158597326882702
+sS'organization'
 p9
-I1
-ssS'working-year'
+F0.013993522533981596
+sS'data'
 p10
-(dp11
+F0.003765126599189616
+ssS'working-year'
+p11
+(dp12
 V(2, 5]
-p12
-I1
-ssS'major'
 p13
-(dp14
-S'ee computer science'
-p15
-I1
-sS'analytics'
+F0.0098328922891359957
+ssS'major'
+p14
+(dp15
+VData Science
 p16
-I1
-sS'design'
+F0.0081530871635322431
+sVComputer Science
 p17
-I1
-sS'computer science'
-p18
-I1
-sS'data analyst'
-p19
-I1
+F0.0071853630662872831
 ssS'education'
-p20
-(dp21
+p18
+(dp19
 VBachelor
-p22
-I1
+p20
+F0.0072331652989675137
 ssS'responsibility'
-p23
-(dp24
+p21
+(dp22
 S'report'
-p25
-I1
+p23
+F0.016470447779146261
 sS'development'
-p26
-I1
+p24
+F0.019221603212922517
 sS'design'
-p27
-I1
+p25
+F0.034771876429011368
 sS'presentation'
-p28
-I1
+p26
+F0.01955043128817148
 ss.

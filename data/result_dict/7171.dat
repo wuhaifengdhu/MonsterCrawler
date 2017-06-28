@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'continuous improvement'
+S'a'
+aS'continuous improvement'
 p4
 aS'data analysis'
 p5
@@ -50,56 +51,52 @@ p26
 asS'major'
 p27
 (lp28
-S'information'
+VMathematics
 p29
-aS'business'
+aVComputer Science
 p30
-aS'machine learning'
+aVBusiness
 p31
-aS'design'
-p32
-aS'statistic'
-p33
-aS'mathematics'
-p34
 asS'education'
+p32
+(lp33
+VBachelor
+p34
+asS'responsibility'
 p35
 (lp36
-VBachelor
-p37
-asS'responsibility'
-p38
-(lp39
 S'development'
-p40
+p37
 aS'information'
-p41
+p38
 aS'product'
-p42
+p39
 aS'data analysis'
-p43
+p40
 aVtest hypothesis
-p44
+p41
 aS'pattern'
-p45
+p42
 aS'communicate'
-p46
+p43
 aS'analysis'
-p47
-aS'simulation'
-p48
-aS'model'
-p49
-aS'design'
-p50
-aS'identify opportunity'
-p51
-aS'prototype'
-p52
-aS'modeling'
-p53
+p44
 aS'improvement'
-p54
+p45
+aS'develop ... model'
+p46
+aS'model'
+p47
+aS'design'
+p48
+aS'identify opportunity'
+p49
+aS'prototype'
+p50
+aS'modeling'
+p51
+aS'simulation'
+p52
 aS'transformation'
-p55
+p53
 as.

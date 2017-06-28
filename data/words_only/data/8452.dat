@@ -4,178 +4,184 @@ p2
 (dp3
 S'microsoft excel'
 p4
-I1
+F0.0069723215427203739
 sS'testing'
 p5
-I1
+F0.0069402644572881794
 sS'mapreduce'
 p6
-I1
-sS'business intelligence'
+F0.0089379712439183745
+sS'analytics'
 p7
-I1
-sS'analysis'
+F0.0058965251659900113
+sS'business intelligence'
 p8
-I1
-sS'regression'
-p9
-I1
-sS'content management'
-p10
-I1
-sS'visualization'
-p11
-I1
-sS'management'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'sharepoint'
-p14
-I1
-sS'excel'
-p15
-I1
-sS'tableau'
-p16
-I1
-sS'big data analytics'
-p17
-I1
-sS'teradata'
-p18
-I1
-sS'data analysis'
-p19
-I1
-sS'visual analytics'
-p20
-I1
-sS'python'
-p21
-I1
-sS'collaboration'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'facebook'
-p25
-I1
-sS'sql'
-p26
-I1
-sS'customer experience'
-p27
-I1
-sS'decision trees'
-p28
-I1
-sS'economics'
-p29
-I1
-sS'engineering'
-p30
-I1
-sS'hive'
-p31
-I1
-sS'r'
-I1
-sS'application development'
-p32
-I1
-sS'retail'
-p33
-I1
-sS'data analytics'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'management'
-p40
-I1
-sS'business'
-p41
-I1
-sS'big data'
-p42
-I1
-sS'economics'
-p43
-I1
-sS'general'
-p44
-I1
-sS'big data analytics'
-p45
-I1
-sS'engineering'
-p46
-I1
-sS'statistic'
-p47
-I1
-sS'data analytics'
-p48
-I1
-ssS'education'
-p49
-(dp50
-S'Bachelor'
-p51
-I1
-ssS'responsibility'
-p52
-(dp53
-S'development'
-p54
-I1
-sS'large data set'
-p55
-I1
-sS'product'
-p56
-I1
-sVinsight
-p57
-I1
-sS'processing'
-p58
-I1
+F0.0069255705382183759
 sS'analysis'
-p59
-I1
-sS'improvement'
-p60
-I1
-sS'statistical method'
-p61
-I1
+p9
+F0.0069685163746602691
+sS'regression'
+p10
+F0.0080548060701077992
+sS'content management'
+p11
+F0.018056180438032494
+sS'visualization'
+p12
+F0.012707086589382842
+sS'statistics'
+p13
+F0.0031610605247545916
+sS'big data'
+p14
+F0.0043143224622463304
+sS'sharepoint'
+p15
+F0.015706545455409594
+sS'excel'
+p16
+F0.0054812007688341199
+sS'tableau'
+p17
+F0.0068102579224535312
+sS'big data analytics'
+p18
+F0.011234810524571121
+sS'teradata'
+p19
+F0.012410395575707212
 sS'data analysis'
+p20
+F0.0050297017456463226
+sS'visual analytics'
+p21
+F0.019302700046591181
+sS'python'
+p22
+F0.0017669542805195456
+sS'collaboration'
+p23
+F0.0086700658307574709
+sS'processing'
+p24
+F0.0055358918192227793
+sS'data scientist'
+p25
+F0.0035910903903860281
+sS'management'
+p26
+F0.0030713520922022106
+sS'facebook'
+p27
+F0.014487727826731266
+sS'sql'
+p28
+F0.0023116740977391424
+sS'data'
+p29
+F0.00080407788389473165
+sS'customer experience'
+p30
+F0.012986767462665237
+sS'decision trees'
+p31
+F0.01414197300513664
+sS'economics'
+p32
+F0.0081237010995235965
+sS'engineering'
+p33
+F0.0083041001835502011
+sS'hive'
+p34
+F0.0070703533881017171
+sS'r'
+F0.001881329852928614
+sS'application development'
+p35
+F0.012986767462665237
+sS'retail'
+p36
+F0.011681225370903464
+sS'powerpoint'
+p37
+F0.0082949979896076356
+sS'data analytics'
+p38
+F0.0069231277338501597
+ssS'working-year'
+p39
+(dp40
+V(2, 5]
+p41
+F0.0041998116218004596
+ssS'major'
+p42
+(dp43
+VStatistics
+p44
+F0.0061067958301290852
+sVBusiness
+p45
+F0.0036668282955054717
+sVData Science
+p46
+F0.0034823355342544493
+sVEconomics
+p47
+F0.0055619374492354608
+sVEngineering
+p48
+F0.0083041001835502011
+sVManagement Science and Engineering
+p49
+F0.0043713374185386181
+ssS'education'
+p50
+(dp51
+VBachelor
+p52
+F0.0030894197548132431
+sVMaster
+p53
+F0.0024653582549972095
+ssS'responsibility'
+p54
+(dp55
+S'development'
+p56
+F0.0041049525505563343
+sS'large data set'
+p57
+F0.010659176729941919
+sS'product'
+p58
+F0.0045592979346364294
+sS'insight'
+p59
+F0.018659932433994761
+sS'processing'
+p60
+F0.0055358918192227793
+sS'analysis'
+p61
+F0.0069685163746602691
+sS'improvement'
 p62
-I1
-sS'report'
+F0.018211569466705817
+sS'statistical method'
 p63
-I1
-sS'model'
+F0.011917933657801732
+sS'data analysis'
 p64
-I1
-sS'statistical model'
+F0.0050297017456463226
+sS'report'
 p65
-I1
+F0.014069670645236806
+sS'model'
+p66
+F0.010490920962045023
+sS'statistical model'
+p67
+F0.012172421374979306
 ss.

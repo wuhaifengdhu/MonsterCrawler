@@ -2,35 +2,35 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'classification'
 p4
-aS'classification'
-p5
 aS'testing'
-p6
+p5
 aS'data mining'
+p6
+aS'statistics'
 p7
-aS'management'
-p8
 aS'java'
-p9
+p8
 aS'big data'
-p10
+p9
 aS'scala'
-p11
+p10
 aS'hadoop'
-p12
+p11
 aS'computer science'
-p13
+p12
 aS'mathematics'
-p14
+p13
 aS'electronics'
-p15
+p14
 aS'data analysis'
-p16
+p15
 aS'python'
-p17
+p16
 aS'data scientist'
+p17
+aS'management'
 p18
 aS'statistical modeling'
 p19
@@ -49,70 +49,56 @@ p25
 aS'machine learning'
 p26
 aS'r'
-aS'product management'
+aS'algorithms'
 p27
-aS'organization'
+aS'product management'
 p28
-asS'working-year'
+aS'organization'
 p29
-(lp30
+asS'working-year'
+p30
+(lp31
 V(5, 10]
-p31
-asS'major'
 p32
-(lp33
-S'management'
-p34
-aS'big data'
+asS'major'
+p33
+(lp34
+VMathematics
 p35
-aS'science'
+aVStatistics
 p36
-aS'statistic'
+aVComputer Science
 p37
-aS'machine learning'
+aVManagement Science and Engineering
 p38
-aS'design'
-p39
-aS'computer science'
-p40
-aS'data mining'
-p41
-aS'mathematics'
-p42
-aS'electronics'
-p43
-aS'mathematics computer science'
-p44
-aS'machine learning engineer'
-p45
 asS'education'
-p46
-(lp47
-VMaster
-p48
+p39
+(lp40
+VBachelor
+p41
+aVMaster
+p42
 asS'responsibility'
-p49
-(lp50
+p43
+(lp44
 S'development'
-p51
+p45
 aS'product'
-p52
+p46
 aS'data analysis'
-p53
+p47
 aS'communicate'
-p54
+p48
 aS'analysis'
-p55
-aS'statistical model'
-p56
+p49
 aS'design'
-p57
+p50
 aS'data mining'
-p58
+p51
 aS'report'
-p59
+p52
 aS'modeling'
-p60
+p53
 aS'implement'
-p61
+p54
 as.

@@ -6,89 +6,81 @@ S'nosql'
 p4
 aS'data science'
 p5
-aS'engineering'
+aS'analytics'
 p6
-aS'management'
+aS'engineering'
 p7
-aS'big data'
+aS'management'
 p8
-aS'r programming'
+aS'java'
 p9
-aS'access'
+aS'big data'
 p10
-aS'computer science'
+aS'scala'
 p11
-aS'mathematics'
+aS'access'
 p12
-aS'data management'
+aS'computer science'
 p13
-aS'calculus'
+aS'mathematics'
 p14
-aS'algebra'
+aS'data management'
 p15
-aS'python'
+aS'calculus'
 p16
-aS'data scientist'
+aS'algebra'
 p17
-aS'data'
+aS'python'
 p18
-aS'data collection'
+aS'data scientist'
 p19
-aS'database management'
+aS'sql'
 p20
-aS'science'
+aS'data'
 p21
-aS'programming'
+aS'data collection'
 p22
-aS'machine learning'
+aS'database management'
 p23
+aS'science'
+p24
+aS'programming'
+p25
+aS'machine learning'
+p26
 aS'r'
 aS'linear algebra'
-p24
-asS'working-year'
-p25
-(lp26
-V(0, 2]
 p27
-asS'major'
+asS'working-year'
 p28
 (lp29
-S'management'
+V(0, 2]
 p30
-aS'big data'
+asS'major'
 p31
-aS'science'
-p32
-aS'data science'
+(lp32
+VMathematics
 p33
-aS'machine learning'
+aVData Science
 p34
-aS'engineering'
+aVEngineering
 p35
-aS'computer science'
+aVComputer Science
 p36
-aS'statistic'
+aVManagement Science and Engineering
 p37
-aS'mathematics'
-p38
-aS'computer science mathematics'
-p39
-aS'ee computer science'
-p40
-aS'data science engineering'
-p41
 asS'education'
-p42
-(lp43
+p38
+(lp39
 VBachelor
-p44
+p40
 asS'responsibility'
-p45
-(lp46
+p41
+(lp42
 S'data collection'
-p47
-aVinsight
-p48
+p43
+aS'insight'
+p44
 aS'data infrastructure'
-p49
+p45
 as.

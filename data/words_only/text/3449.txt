@@ -1,5 +1,5 @@
-skills: {'nlp': 1, 'java': 1, 'team building': 1, 'marketing': 1, 'data science': 1, 'economics': 1, 'data scientist': 1, 'hadoop': 1, 'hive': 1, 'pig': 1, 'python': 1, 'r': 1, 'computer science': 1, 'sql': 1, 'communication': 1, 'algorithm development': 1, 'hbase': 1, 'real estate': 1, 'data': 1, 'science': 1}
-working-year: {u'[0]': 1}
-major: {'business': 1, 'marketing': 1, 'data science': 1, 'economics': 1, 'statistic': 1, 'general': 1, 'statistics computer science': 1, 'computer science engineering': 1, 'computer science': 1, 'communication': 1, 'science': 1}
-education: {u'Master': 1}
-responsibility: {'development': 1, 'business problem': 1, 'communicate': 1, 'understand': 1, 'recommendation': 1, 'model': 1}
+skills: {'nlp': 0.03107963727202132, 'communication': 0.007163662258420166, 'data science': 0.005442719120636196, 'pig': 0.012210987217718967, 'engineering': 0.005542329308025587, 'hbase': 0.015150489094298966, 'statistics': 0.004219515180102284, 'java': 0.00560754284012798, 'team building': 0.018121406136051763, 'hadoop': 0.005813604078731063, 'computer science': 0.006361915218041723, 'algorithm development': 0.01904489930928351, 'graph databases': 0.027416011760659113, 'python': 0.002358604130105276, 'marketing': 0.008620880192206104, 'real estate': 0.024656900409330277, 'data scientist': 0.004793536946442889, 'sql': 0.006171437636498164, 'data': 0.0042932665293926855, 'science': 0.006362297630715769, 'economics': 0.010843854408866342, 'hive': 0.009437802033891433, 'r': 0.0025112774054929466, 'databases': 0.010418543770718509}
+working-year: {'[0]': 0.009937623215132954}
+major: {u'Statistics': 0.008151605293611223, u'Business': 0.00489463505508649, u'Data Science': 0.004648366437126981, u'Economics': 0.0074243056449070635, u'Engineering': 0.010191759849623203, u'Computer Science': 0.004096632336435284}
+education: {u'Master': 0.003290862829068674}
+responsibility: {'development': 0.010958923098770305, 'business problem': 0.012887559104663552, 'communicate': 0.009078022091771911, 'understand': 0.009509863409250115, 'recommendation': 0.023639834794735488, 'model': 0.03500929506564798}

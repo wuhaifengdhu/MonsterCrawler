@@ -1,5 +1,5 @@
-skills: {'nosql': 1, 'energy': 1, 'sqoop': 1, 'pig': 1, 'analytics': 1, 'engineering': 1, 'education': 1, 'hdfs': 1, 'big data': 1, 'computer science': 1, 'flume': 1, 'finance': 1, 'automotive': 1, 'alteryx': 1, 'aerospace': 1, 'oozie': 1, 'spark': 1, 'data': 1, 'project management': 1, 'mapreduce': 1, 'hive': 1, 'data engineering': 1, 'r': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'information systems': 1, 'finance': 1, 'big data': 1, 'analytics': 1, 'engineering': 1, 'information system': 1, 'computer science engineering': 1, 'computer science': 1, 'ee computer science': 1, 'project management': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'analytic': 1, 'information': 1}
+skills: {'nosql': 0.028214916126458992, 'communication': 0.0054404445330269975, 'energy': 0.010603076653093072, 'sqoop': 0.04859250380642298, 'pig': 0.027820909021813313, 'analytics': 0.0029887885291530122, 'engineering': 0.021045614726351455, 'education': 0.014423551545108378, 'hdfs': 0.04112952128203864, 'big data': 0.004373625863789235, 'computer science': 0.0048315576054543665, 'flume': 0.05277252563031186, 'finance': 0.009124213244617485, 'automotive': 0.014595836657509052, 'collaboration': 0.008789241993379568, 'alteryx': 0.050601769269636804, 'aerospace': 0.01673917699237689, 'oozie': 0.0524552939631257, 'spark': 0.017382841477481016, 'data': 0.002852956752994194, 'project management': 0.0065342038602218076, 'science': 0.007247772043238066, 'mapreduce': 0.027182489865524954, 'hive': 0.021502621128762955, 'data engineering': 0.013762305003668174, 'r': 0.005721570171277744}
+working-year: {u'(0, 2]': 0.007826735959072692, u'(2, 5]': 0.004257540991172287}
+major: {u'Data Science': 0.003530202689364476, u'Economics': 0.005638390197678559, u'Engineering': 0.021045614726351455, u'Information Science': 0.008703282434893793, u'Computer Science': 0.0031111881317944937, u'Management Science and Engineering': 0.004431424530820936}
+education: {u'Bachelor': 0.003131886005738511, u'Master': 0.0024992463409765527}
+responsibility: {'analytic': 0.03879254247937531, 'information': 0.019066738137861094}

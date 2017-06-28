@@ -4,214 +4,223 @@ p2
 (dp3
 S'data science'
 p4
-I1
-sS'pig'
+F0.0025322966856012614
+sS'testing'
 p5
-I1
-sS'hive'
-p6
-I1
-sS'problem solving'
-p7
-I1
-sS'data mining'
-p8
-I1
-sS'education'
-p9
-I1
-sS'management'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'predictive modeling'
-p12
-I1
-sS'tableau'
-p13
-I1
-sS'advanced analytics'
-p14
-I1
-sS'unstructured data'
-p15
-I1
-sS'business objects'
-p16
-I1
-sS'data analysis'
-p17
-I1
-sS'processing'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'mathematical analysis'
-p20
-I1
-sS'mentoring'
-p21
-I1
-sS'data processing'
-p22
-I1
-sS'sql'
-p23
-I1
-sS'modeling'
-p24
-I1
-sS'organization'
-p25
-I1
-sS'data visualization'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'credit'
-p29
-I1
-sS'organizational leadership'
-p30
-I1
-sS'r'
-I1
-sS'healthcare'
-p31
-I1
+F0.0043102695050526588
 sS'hadoop'
-p32
-I1
-sS'security'
-p33
-I1
-sS'data analytics'
-p34
-I1
-sS'statistical analysis'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(5, 10]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-I1
+p6
+F0.0027048557924201364
+sS'analytics'
+p7
+F0.0036620524715095856
+sS'hive'
+p8
+F0.0043910615778736976
+sS'problem solving'
+p9
+F0.0051676039262173708
+sS'data mining'
+p10
+F0.0044673249024887104
+sS'sas'
+p11
+F0.0029162881193208774
+sS'education'
+p12
+F0.0044181615785542508
 sS'management'
-p42
-I1
-sS'health services'
-p43
-I1
+p13
+F0.0019074712993676886
 sS'big data'
-p44
-I1
-sS'data science'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'business'
-p47
-I1
-sS'design'
-p48
-I1
-sS'data mining'
-p49
-I1
+p14
+F0.0026794213186582473
+sS'predictive modeling'
+p15
+F0.0043768545446083579
+sS'tableau'
+p16
+F0.0042295286044711404
 sS'advanced analytics'
-p50
-I1
-sS'data analytics'
-p51
-I1
-ssS'education'
-p52
-(dp53
-VMaster
-p54
-I1
-sVDoctor
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
-Vinsight
-p58
-I1
-sS'large data set'
-p59
-I1
-sS'product'
-p60
-I1
+p17
+F0.0061953906407117548
+sS'unstructured data'
+p18
+F0.0067132809125329679
+sS'business objects'
+p19
+F0.009054930312661226
 sS'data analysis'
-p61
-I1
-sS'analytic'
-p62
-I1
-sS'identify opportunity'
-p63
-I1
-sS'business problem'
-p64
-I1
+p20
+F0.0031237095051908741
+sS'python'
+p21
+F0.0010973716057963495
 sS'processing'
-p65
-I1
-sS'communicate'
-p66
-I1
-sS'analysis'
-p67
-I1
-sS'improvement'
-p68
-I1
-sS'information'
-p69
-I1
-sS'statistical method'
-p70
-I1
-sS'design'
-p71
-I1
-sS'data mining'
-p72
-I1
-sS'understand'
-p73
-I1
+p22
+F0.0034380801824646736
+sS'data scientist'
+p23
+F0.0022302561371871123
+sS'mathematical analysis'
+p24
+F0.010179302686272991
+sS'mentoring'
+p25
+F0.0072423446346925359
+sS'data processing'
+p26
+F0.0077383549425860537
+sS'sql'
+p27
+F0.0014356712817537834
 sS'modeling'
-p74
-I1
-sS'statistical model'
-p75
-I1
+p28
+F0.003419560795880221
+sS'spark'
+p29
+F0.0035497592069803339
+sS'pig'
+p30
+F0.0056813224739281926
+sS'data'
+p31
+F0.00074906202868088155
+sS'data visualization'
+p32
+F0.004140491843325475
+sS'science'
+p33
+F0.0014800713435665102
+sS'programming'
+p34
+F0.0023206636522839492
+sS'analysis'
+p35
+F0.00072130257211395772
+sS'machine learning'
+p36
+F0.0013800373091242934
+sS'credit'
+p37
+F0.0066895469983950457
+sS'organizational leadership'
+p38
+F0.011613928401752509
+sS'r'
+F0.0011684048560293499
+sS'healthcare'
+p39
+F0.011356801445516481
+sS'organization'
+p40
+F0.0074239319548702366
+sS'security'
+p41
+F0.0046007385594100877
+sS'data analytics'
+p42
+F0.0042996266978648362
+sS'statistical analysis'
+p43
+F0.0054204213756054902
+ssS'working-year'
+p44
+(dp45
+V(5, 10]
+p46
+F0.0025381984454249658
+ssS'major'
+p47
+(dp48
+VData Science
+p49
+F0.0021627136475896053
+sVComputer Science
+p50
+F0.0019060120975835741
+sVBusiness
+p51
+F0.0022772933624718192
+sVManagement Science and Engineering
+p52
+F0.0027148306073029311
+ssS'education'
+p53
+(dp54
+VMaster
+p55
+F0.0015311172320508987
+sVDoctor
+p56
+F0.0022930142563715116
+ssS'responsibility'
+p57
+(dp58
+S'insight'
+p59
+F0.0038629333810725999
+sS'drive ... decision'
+p60
+F0.0084970162920612914
+sS'design'
+p61
+F0.0030745659158283737
+sS'data mining'
+p62
+F0.0044673249024887104
+sS'decision making'
+p63
+F0.0068770169472200287
+sS'information'
+p64
+F0.017521328836160772
+sS'business problem'
+p65
+F0.0059961064465908305
+sS'improvement'
+p66
+F0.0056551715712402266
+sS'analytic'
+p67
+F0.004753107310104511
 sS'evaluation'
+p68
+F0.014246076563480746
+sS'product'
+p69
+F0.0056631279609168274
+sS'data analysis'
+p70
+F0.0031237095051908741
+sS'large data set'
+p71
+F0.0066199097585955078
+sS'processing'
+p72
+F0.0034380801824646736
+sS'communicate'
+p73
+F0.0084473384517119669
+sS'statistical model'
+p74
+F0.0075597143276187268
+sS'statistical method'
+p75
+F0.0074016640611610758
+sS'understand'
 p76
-I1
-sS'model'
+F0.0044245890809353162
+sS'identify opportunity'
 p77
-I1
+F0.0087200621910218726
+sS'modeling'
+p78
+F0.003419560795880221
+sS'analysis'
+p79
+F0.00072130257211395772
+sS'model'
+p80
+F0.0032577070355824015
 ss.

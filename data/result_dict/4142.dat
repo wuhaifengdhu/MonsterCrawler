@@ -27,32 +27,32 @@ p14
 aS'lamp'
 p15
 aS'r'
-aS'algebra'
+aS'theory'
 p16
-aS'python'
+aS'algebra'
 p17
-aS'javascript'
+aS'python'
 p18
-aS'data scientist'
+aS'javascript'
 p19
+aS'data scientist'
+p20
 aS'c'
 aS'multivariate testing'
-p20
-aS'leadership'
 p21
-aS'ruby'
+aS'leadership'
 p22
-aS'b2b'
+aS'ruby'
 p23
-aS'search'
+aS'b2b'
 p24
-aS'software engineering'
+aS'search'
 p25
-aS'linear algebra'
+aS'software engineering'
 p26
-aS'programming'
+aS'linear algebra'
 p27
-aS'c++'
+aS'programming'
 p28
 aS'optimization'
 p29
@@ -61,43 +61,37 @@ p30
 asS'working-year'
 p31
 (lp32
-V[0]
+S'[0]'
 p33
 asS'major'
 p34
 (lp35
-S'engineering'
+VEngineering
 p36
-aS'design'
+aVComputer Science
 p37
-aS'development practice'
-p38
-aS'software engineering'
-p39
-aS'statistic'
-p40
 asS'education'
+p38
+(lp39
+VBachelor
+p40
+asS'responsibility'
 p41
 (lp42
-S'Bachelor'
-p43
-asS'responsibility'
-p44
-(lp45
 S'development'
-p46
+p43
 aS'product'
-p47
+p44
 aS'provide leadership'
-p48
+p45
 aS'optimization'
-p49
+p46
 aS'design'
-p50
+p47
 aS'report'
-p51
+p48
 aS'implement'
-p52
+p49
 aS'prototype'
-p53
+p50
 as.

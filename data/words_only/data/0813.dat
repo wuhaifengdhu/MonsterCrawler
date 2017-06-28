@@ -4,59 +4,91 @@ p2
 (dp3
 S'software development'
 p4
-I1
+F0.02437007606980773
 sS'search'
 p5
-I1
+F0.035655054915514572
 sS'nosql'
 p6
-I1
-sS'data science'
+F0.031458009934097954
+sS'python'
 p7
-I1
-sS'programming'
+F0.0059913966983134023
+sS'mongodb'
 p8
-I1
-sS'machine learning'
+F0.03398960648070546
+sS'data science'
 p9
-I1
+F0.013825757766213784
 sS'mysql'
 p10
-I1
-sS'oracle'
+F0.027289171571117495
+sS'programming'
 p11
-I1
-sS'statistical inference'
+F0.012670290055573286
+sS'hadoop'
 p12
-I1
-ssS'working-year'
+F0.014767890820684653
+sS'data'
 p13
-(dp14
-V(2, 5]
-p15
-I1
-ssS'major'
-p16
-(dp17
-S'data science'
-p18
-I1
+F0.0013632354928100334
 sS'machine learning'
+p14
+F0.007534686457862521
+sS'sas'
+p15
+F0.015922262720430076
+sS'r'
+F0.0063792219151027722
+sS'algorithms'
+p16
+F0.020622662969715561
+sS'matlab'
+p17
+F0.014671278018828331
+sS'splunk'
+p18
+F0.054542773415101588
+sS'oracle'
 p19
-I1
-ssS'education'
+F0.0301726609030037
+sS'statistical inference'
 p20
-(dp21
-S'Bachelor'
+F0.052303848632701995
+sS'solr'
+p21
+F0.047677346774582102
+sS'cassandra'
 p22
-I1
-ssS'responsibility'
+F0.04326904048920318
+ssS'working-year'
 p23
 (dp24
-S'development'
+V(2, 5]
 p25
-I1
-sS'ownership'
+F0.014240740556679718
+ssS'major'
 p26
-I1
+(dp27
+VData Science
+p28
+F0.011807919340288076
+sVComputer Science
+p29
+F0.010406387889105721
+ssS'education'
+p30
+(dp31
+S'Bachelor'
+p32
+F0.010475618708849502
+ssS'responsibility'
+p33
+(dp34
+S'development'
+p35
+F0.013919091981771478
+sS'ownership'
+p36
+F0.045290729311349288
 ss.

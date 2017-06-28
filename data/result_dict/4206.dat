@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'a'
+aS'visualization'
 p4
 aS'data analysis'
 p5
@@ -14,7 +15,7 @@ aS'nosql'
 p8
 aS'python'
 p9
-aS'science'
+aS'communication'
 p10
 aS'mysql'
 p11
@@ -26,43 +27,43 @@ aS'analysis'
 p14
 aS'computer science'
 p15
-aS'communication'
+aS'ip'
 p16
 aS'organization'
 p17
-aS'scheme'
+aS'tcp'
 p18
-aS'data'
+aS'scheme'
 p19
-aS'arm'
+aS'data'
 p20
-asS'working-year'
+aS'arm'
 p21
-(lp22
-V[0]
+aS'science'
+p22
+asS'working-year'
 p23
+(lp24
+S'[0]'
+p25
 asS'major'
-p24
-(lp25
-S'science'
 p26
-aS'communication'
-p27
-aS'computer science'
+(lp27
+VComputer Science
 p28
-aS'big data'
-p29
-aS'phd'
-p30
 asS'education'
+p29
+(lp30
+VMaster
 p31
-(lp32
-VDoctor
-p33
+aVDoctor
+p32
 asS'responsibility'
-p34
-(lp35
-Vinsight
+p33
+(lp34
+S'product'
+p35
+aS'insight'
 p36
 aS'analysis'
 p37

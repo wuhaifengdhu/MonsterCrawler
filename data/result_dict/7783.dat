@@ -12,13 +12,13 @@ aS'analytics'
 p7
 aS'engineering'
 p8
-aS'analysis'
-p9
 aS'insurance'
-p10
+p9
 aS'management'
-p11
+p10
 aS'data'
+p11
+aS'strategy'
 p12
 aS'computer science'
 p13
@@ -55,7 +55,7 @@ aS'science'
 p28
 aS'programming'
 p29
-aS'c++'
+aS'analysis'
 p30
 aS'machine learning'
 p31
@@ -72,44 +72,36 @@ p36
 asS'major'
 p37
 (lp38
-S'information'
+VData Science
 p39
-aS'management'
+aVEngineering
 p40
-aS'business'
+aVComputer Science
 p41
-aS'science'
+aVBusiness
 p42
-aS'communication'
+aVManagement Science and Engineering
 p43
-aS'machine learning'
-p44
-aS'analytics'
-p45
-aS'engineering'
-p46
-aS'computer science'
-p47
-aS'natural language processing'
-p48
 asS'education'
-p49
-(lp50
+p44
+(lp45
 S'Bachelor'
-p51
+p46
 asS'responsibility'
-p52
-(lp53
-S'information'
-p54
+p47
+(lp48
+S'development'
+p49
+aS'information'
+p50
 aS'data collection'
-p55
+p51
 aS'formulate'
-p56
+p52
 aS'processing'
-p57
+p53
 aS'analysis'
-p58
+p54
 aS'implement'
-p59
+p55
 as.

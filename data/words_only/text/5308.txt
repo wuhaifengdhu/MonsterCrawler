@@ -1,5 +1,5 @@
-skills: {'management': 1, 'organization': 1, 'science': 1, 'jmp': 1, 'analysis': 1, 'strategy': 1, 'mathematics': 1, 'managed care': 1, 'statistical software': 1, 'healthcare': 1, 'it management': 1, 'education': 1, 'data': 1}
-working-year: {u'(5, 10]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'science': 1, 'pharmacy': 1, 'design': 1, 'statistic': 1, 'mathematics': 1}
-education: {u'Master': 1}
-responsibility: {'information': 1, 'product': 1, 'predict': 1, 'collect data': 1, 'design': 1, 'analysis': 1, 'report': 1, 'model': 1}
+skills: {'statistics': 0.003968139807670658, 'science': 0.002991633566783372, 'jmp': 0.017726977938439643, 'analysis': 0.0029159040149287657, 'strategy': 0.006702176303092914, 'mathematics': 0.007778269285428961, 'managed care': 0.026732262481037345, 'management': 0.00771105418893321, 'statistical software': 0.016746797324670167, 'healthcare': 0.011477618482170911, 'sas': 0.005894624922031561, 'organization': 0.007502909954390133, 'education': 0.008930326594950081, 'data': 0.0010093743648891312}
+working-year: {u'(5, 10]': 0.0051304011130930164}
+major: {u'Mathematics': 0.007294776721627455, u'Statistics': 0.007665977744204596, u'Chemical Engineering': 0.016001627513762533, u'Business': 0.0046030397752089966, u'Management Science and Engineering': 0.005487423567952733}
+education: {u'Master': 0.003094811426485859}
+responsibility: {'information': 0.00590257531714636, 'product': 0.011446748006108481, 'predict': 0.01775268951708642, 'analysis': 0.0029159040149287657, 'develop ... model': 0.01319111926457931, 'design': 0.006214548127738203, 'collect data': 0.02258521330946318, 'report': 0.008830963490095442, 'model': 0.01975418096044648}

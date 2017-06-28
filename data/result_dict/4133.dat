@@ -37,49 +37,35 @@ p19
 asS'working-year'
 p20
 (lp21
-V[0]
+S'[0]'
 p22
 asS'major'
 p23
 (lp24
-S'information'
+VEngineering
 p25
-aS'business'
+aVElectrical and Electronics Engineering
 p26
-aS'big data'
+aVComputer Science
 p27
-aS'science'
+aVBusiness
 p28
-aS'communication'
-p29
-aS'phd'
-p30
-aS'engineering'
-p31
-aS'electrical'
-p32
-aS'computer science'
-p33
-aS'mechanical'
-p34
-aS'electrical engineering'
-p35
-aS'material science engineering'
-p36
 asS'education'
-p37
-(lp38
-VDoctor
-p39
+p29
+(lp30
+VMaster
+p31
+aVDoctor
+p32
 asS'responsibility'
-p40
-(lp41
+p33
+(lp34
 S'development'
-p42
+p35
 aS'information'
-p43
+p36
 aS'product'
-p44
+p37
 aS'documentation'
-p45
+p38
 as.

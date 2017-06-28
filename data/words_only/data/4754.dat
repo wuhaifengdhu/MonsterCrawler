@@ -4,190 +4,170 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0059617801968629832
 sS'biostatistics'
 p5
-I1
+F0.010383898077302082
 sS'communication'
 p6
-I1
+F0.0083544557209016164
 sS'data science'
 p7
-I1
+F0.0031737227589989422
 sS'analytics'
 p8
-I1
+F0.0022948217994288303
 sS'unix'
 p9
-I1
+F0.013625798357704747
 sS'data warehousing'
 p10
-I1
+F0.0080250402682962886
 sS'high performance computing'
 p11
-I1
+F0.010272658052071676
 sS'visualization'
 p12
-I1
-sS'big data'
+F0.0098907402212874366
+sS'git'
 p13
-I1
-sS'integration'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'medicine'
-p16
-I1
-sS'data management'
-p17
-I1
-sS'data analysis'
-p18
-I1
-sS'python'
-p19
-I1
-sS'collaboration'
-p20
-I1
-sS'bioinformatics'
-p21
-I1
-sS'informatics'
-p22
-I1
-sS'data'
-p23
-I1
-sS'project management'
-p24
-I1
-sS'training'
-p25
-I1
-sS'data visualization'
-p26
-I1
-sS'engineering'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'data engineering'
-p30
-I1
-sS'exploratory data analysis'
-p31
-I1
-sS'r'
-I1
-sS'english'
-p32
-I1
-sS'data integration'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(2, 5]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'biostatistics'
-p39
-I1
+F0.007632382895722694
 sS'big data'
-p40
-I1
-sS'communication'
-p41
-I1
-sS'data science'
-p42
-I1
-sS'bioinformatics'
-p43
-I1
-sS'informatics'
-p44
-I1
-sS'high performance computing'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'analytics'
-p47
-I1
-sS'engineering'
-p48
-I1
-sS'design'
-p49
-I1
+p14
+F0.0033581137898751122
+sS'integration'
+p15
+F0.012170148402082387
 sS'computer science'
-p50
-I1
-sS'english'
-p51
-I1
+p16
+F0.0037097183725256482
 sS'medicine'
-p52
-I1
-sS'computer science data science'
-p53
-I1
-sS'medical informatics'
-p54
-I1
-sS'project management'
-p55
-I1
-ssS'education'
-p56
-(dp57
-VDoctor
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
+p17
+F0.01285250792818384
+sS'data management'
+p18
+F0.007255720592636598
 sS'data analysis'
-p62
-I1
-sS'exploratory analysis'
-p63
-I1
+p19
+F0.003914939353471412
+sS'python'
+p20
+F0.002750667613473699
+sS'collaboration'
+p21
+F0.020245404380528662
+sS'training'
+p22
+F0.0062092209789507361
+sS'bioinformatics'
+p23
+F0.008599623457131807
+sS'informatics'
+p24
+F0.034789096331268685
+sS'data'
+p25
+F0.0028163941711616259
+sS'project management'
+p26
+F0.0050170272383233405
+sS'a'
+F0.0049341474765541597
+sS'c'
+F0.0032997939944540825
+sS'data visualization'
+p27
+F0.0051892707798934061
+sS'science'
+p28
+F0.0018549706812509034
+sS'engineering'
+p29
+F0.0032318067996666348
 sS'analysis'
-p64
-I1
+p30
+F0.003616028725637255
+sS'machine learning'
+p31
+F0.0017295982106439033
+sS'data engineering'
+p32
+F0.010566835767987965
+sS'exploratory data analysis'
+p33
+F0.011782689258915161
+sS'r'
+F0.0014643596480578922
+sS'english'
+p34
+F0.0089127938033074072
+sS'data integration'
+p35
+F0.010212826280822117
+ssS'working-year'
+p36
+(dp37
+V(2, 5]
+p38
+F0.0032689826607681673
+ssS'major'
+p39
+(dp40
+VData Science
+p41
+F0.0027105250200661281
+sVEngineering
+p42
+F0.0032318067996666348
+sVInformation Science
+p43
+F0.0066824675159738618
+sVComputer Science
+p44
+F0.0023888014415625269
+sVBiological Engineering
+p45
+F0.0069398305553474678
+sVManagement Science and Engineering
+p46
+F0.0034024921859337528
+ssS'education'
+p47
+(dp48
+VMaster
+p49
+F0.0019189463990083823
+sVDoctor
+p50
+F0.0028738305323917361
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+F0.0031951477636256429
+sS'data analysis'
+p54
+F0.003914939353471412
+sS'exploratory analysis'
+p55
+F0.01415776716470429
+sS'analysis'
+p56
+F0.003616028725637255
 sS'analytic'
-p65
-I1
+p57
+F0.0059570606129278171
 sS'design'
-p66
-I1
+p58
+F0.0038533477836899146
 sS'interface'
-p67
-I1
+p59
+F0.0083312854843009994
 sS'implement'
-p68
-I1
+p60
+F0.0055880294858037137
 sS'presentation'
-p69
-I1
+p61
+F0.0064996156789171675
 ss.

@@ -12,91 +12,83 @@ aS'tableau'
 p7
 aS'engineering'
 p8
-aS'qlikview'
+aS'sas'
 p9
-aS'visualization'
+aS'd3'
 p10
-aS'hadoop'
+aS'qlikview'
 p11
-aS'd3.js'
+aS'visualization'
 p12
-aS'computer science'
+aS'hadoop'
 p13
-aS'mathematics'
+aS'd3.js'
 p14
-aS'data modeling'
+aS'computer science'
 p15
-aS'python'
+aS'mathematics'
 p16
-aS'collaboration'
+aS'data modeling'
 p17
-aS'spotfire'
+aS'python'
 p18
-aS'business process'
+aS'collaboration'
 p19
-aS'modeling'
+aS'spotfire'
 p20
-aS'data'
+aS'business process'
 p21
-aS'science'
+aS'modeling'
 p22
-aS'applied mathematics'
+aS'data'
 p23
-aS'spss'
+aS'science'
 p24
-aS'data architecture'
+aS'applied mathematics'
 p25
+aS'spss'
+p26
+aS'data architecture'
+p27
 aS'r'
 aS'architecture'
-p26
+p28
 asS'working-year'
-p27
-(lp28
-V(2, 5]
 p29
+(lp30
+V(2, 5]
+p31
 asS'major'
-p30
-(lp31
-S'business'
 p32
-aS'science'
-p33
-aS'applied mathematics'
+(lp33
+VMathematics
 p34
-aS'mathematics'
+aVData Science
 p35
-aS'engineering'
+aVEngineering
 p36
-aS'computer science engineering'
+aVComputer Science
 p37
-aS'computer science'
+aVBusiness
 p38
-aS'applied math'
-p39
-aS'design'
-p40
-aS'ee computer science'
-p41
-aS'data science'
-p42
 asS'education'
+p39
+(lp40
+VBachelor
+p41
+aVMaster
+p42
+asS'responsibility'
 p43
 (lp44
-VBachelor
-p45
-aVMaster
-p46
-asS'responsibility'
-p47
-(lp48
 S'development'
-p49
+p45
 aS'modeling'
-p50
+p46
 aS'model'
-p51
+p47
 aS'prototype'
-p52
+p48
 aS'design'
-p53
+p49
 as.

@@ -2,133 +2,135 @@
 S'skills'
 p2
 (dp3
-S'data analysis'
+S'communication'
 p4
-I1
-sS'data modeling'
-p5
-I1
-sS'data scientist'
-p6
-I1
+F0.005173756075525675
 sS'data science'
-p7
-I1
-sS'r programming'
-p8
-I1
-sS'analysis'
-p9
-I1
-sS'machine learning'
-p10
-I1
-sS'exploratory data analysis'
-p11
-I1
-sS'leadership'
-p12
-I1
-sS'computer science'
-p13
-I1
-sS'communication'
-p14
-I1
-sS'performance improvement'
-p15
-I1
+p5
+F0.0039308526982372522
+sS'analytics'
+p6
+F0.0028422792875278649
 sS'modeling'
+p7
+F0.0026540708791554005
+sS'sas'
+p8
+F0.0045269178322791398
+sS'machine learning'
+p9
+F0.0021422147772354226
+sS'computer science'
+p10
+F0.0045947165463634662
+sS'mathematics'
+p11
+F0.0059735074577640717
+sS'data analysis'
+p12
+F0.0048488954737440039
+sS'data modeling'
+p13
+F0.0085366070092100371
+sS'python'
+p14
+F0.0017034363161871438
+sS'data scientist'
+p15
+F0.0034619989057643082
+sS'leadership'
 p16
-I1
-sS'simulation'
+F0.010800056347737398
+sS'performance improvement'
 p17
-I1
+F0.01773747999580404
 sS'data'
 p18
-I1
-ssS'working-year'
+F0.0019379328084064202
+sS'science'
 p19
-(dp20
-V(5, 10]
-p21
-I1
-sV(2, 5]
-p22
-I1
-ssS'major'
-p23
-(dp24
-S'business'
-p25
-I1
-sS'communication'
-p26
-I1
-sS'data science'
-p27
-I1
-sS'applied math'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'design'
-p30
-I1
-sS'computer science'
-p31
-I1
-sS'statistic'
-p32
-I1
-ssS'education'
-p33
-(dp34
-VMaster
-p35
-I1
-ssS'responsibility'
-p36
-(dp37
-S'product'
-p38
-I1
-sS'data analysis'
-p39
-I1
-sS'predict'
-p40
-I1
-sS'pattern'
-p41
-I1
-sVinsight
-p42
-I1
+F0.0022974963666473609
+sS'programming'
+p20
+F0.0036023373687414247
 sS'analysis'
-p43
-I1
+p21
+F0.0022393380506805878
 sS'simulation'
+p22
+F0.0087739731623345477
+sS'exploratory data analysis'
+p23
+F0.014593592252055053
+sS'r'
+F0.0018137003484115725
+sS'organization'
+p24
+F0.0057620386904630103
+ssS'working-year'
+p25
+(dp26
+V(5, 10]
+p27
+F0.003940013926721761
+sV(2, 5]
+p28
+F0.0040488380014089397
+ssS'major'
+p29
+(dp30
+VMathematics
+p31
+F0.0056021978090929798
+sVData Science
+p32
+F0.0033571535379250412
+sVComputer Science
+p33
+F0.002958678909647705
+sVBusiness
+p34
+F0.0035350142064513538
+ssS'education'
+p35
+(dp36
+VMaster
+p37
+F0.0023767342654384864
+ssS'responsibility'
+p38
+(dp39
+S'data analysis'
+p40
+F0.0048488954737440039
+sS'predict'
+p41
+F0.013633601426520618
+sS'pattern'
+p42
+F0.0085574871750789087
+sS'insight'
+p43
+F0.0059963835163708663
+sS'analysis'
 p44
-I1
-sS'analytic'
+F0.0022393380506805878
+sS'simulation'
 p45
-I1
-sS'design'
+F0.0087739731623345477
+sS'analytic'
 p46
-I1
+F0.0073781894519596176
 sS'modeling'
 p47
-I1
+F0.0026540708791554005
 sS'implement'
 p48
-I1
+F0.013842242974637958
 sS'improvement'
 p49
-I1
+F0.017556905204830772
 sS'model'
 p50
-I1
+F0.0050568981761491532
 ss.

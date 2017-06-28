@@ -14,114 +14,111 @@ aS'health insurance'
 p8
 aS'insurance'
 p9
-aS'java'
+aS'visualization'
 p10
-aS'probability'
+aS'statistics'
 p11
-aS'big data'
+aS'java'
 p12
-aS'deep learning'
+aS'probability'
 p13
-aS'algebra'
-p14
-aS'hadoop'
-p15
-aVpanda
-p16
-aS'access'
-p17
-aS'computer science'
-p18
-aS'tensorflow'
-p19
-aS'unstructured data'
-p20
-aS'apis'
-p21
-aS'python'
-p22
-aS'data scientist'
-p23
-aS'matplotlib'
-p24
-aS'sql'
-p25
-aS'spark'
-p26
-aS'data'
-p27
-aS'property casualty insurance'
-p28
-aS'data visualization'
-p29
-aS'science'
-p30
-aS'scikit-learn'
-p31
-aS'machine learning'
-p32
-aS'optimization'
-p33
-aS'linear algebra'
-p34
-aS'theano'
-p35
-aS'nltk'
-p36
-asS'working-year'
-p37
-(lp38
-V(0, 2]
-p39
-asS'major'
-p40
-(lp41
-S'information'
-p42
-aS'business'
-p43
 aS'big data'
-p44
-aS'science'
-p45
-aS'information retrieval'
-p46
+p14
+aS'deep learning'
+p15
+aS'apis'
+p16
+aS'hadoop'
+p17
+aVpanda
+p18
+aS'access'
+p19
+aS'optimization'
+p20
 aS'computer science'
-p47
-aS'statistic'
-p48
-aS'probability statistics'
-p49
+p21
+aS'tensorflow'
+p22
+aS'unstructured data'
+p23
+aS'algebra'
+p24
+aS'python'
+p25
+aS'data scientist'
+p26
+aS'matplotlib'
+p27
+aS'sql'
+p28
+aS'spark'
+p29
+aS'data'
+p30
+aS'data visualization'
+p31
+aS'science'
+p32
+aS'scikit-learn'
+p33
+aS'analysis'
+p34
 aS'machine learning'
-p50
+p35
+aS'r'
+aS'linear algebra'
+p36
+aS'theano'
+p37
+aS'nltk'
+p38
+asS'working-year'
+p39
+(lp40
+V(0, 2]
+p41
+asS'major'
+p42
+(lp43
+VStatistics
+p44
+aVComputer Science
+p45
+aVBusiness
+p46
 asS'education'
+p47
+(lp48
+VBachelor
+p49
+aVMaster
+p50
+asS'responsibility'
 p51
 (lp52
-S'Bachelor'
+S'information'
 p53
-asS'responsibility'
-p54
-(lp55
-S'large data set'
-p56
 aS'product'
-p57
+p54
 aS'build model'
-p58
-aS'information'
-p59
-aVinsight
-p60
+p55
+aS'insight'
+p56
 aS'communicate'
-p61
+p57
+aS'analysis'
+p58
 aS'optimization'
-p62
+p59
 aS'understand'
-p63
+p60
 aS'report'
-p64
+p61
 aS'complex data set'
-p65
+p62
 aS'model'
-p66
+p63
+aS'test ... model'
+p64
 as.

@@ -4,205 +4,210 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.0087609691799958034
 sS'nosql'
 p5
-I1
+F0.013963504409523072
 sS'data science'
 p6
-I1
+F0.0030684717491341815
 sS'hadoop'
 p7
-I1
+F0.0032775676056111345
 sS'analysis'
 p8
-I1
-sS'hbase'
+F0.00087402735141359667
+sS'go'
 p9
-I1
-sS'writing'
+F0.0083645744771112945
+sS'hbase'
 p10
-I1
-sS'regression'
-p11
-I1
-sS'clustering'
-p12
-I1
-sS'java'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'scala'
-p15
-I1
-sS'user experience'
-p16
-I1
-sS'deep learning'
-p17
-I1
-sS'predictive modeling'
-p18
-I1
-sS'recruiting'
-p19
-I1
-sS'integration'
-p20
-I1
+F0.0085414747189797736
 sS'research'
+p11
+F0.0021764294430146381
+sS'regression'
+p12
+F0.0060616525272494913
+sS'clustering'
+p13
+F0.0082229912259086987
+sS'statistics'
+p14
+F0.0023788593234760321
+sS'java'
+p15
+F0.0031613953256843966
+sS'big data'
+p16
+F0.0032467477713333352
+sS'scala'
+p17
+F0.0062259346624965219
+sS'user experience'
+p18
+F0.0086102371558848343
+sS'deep learning'
+p19
+F0.0079452593951363538
+sS'predictive modeling'
+p20
+F0.0053035865017575755
+sS'recruiting'
 p21
-I1
-sS'computer science'
+F0.0087982098230035485
+sS'integration'
 p22
-I1
-sS'innovation'
+F0.005883273270904623
+sS'writing'
 p23
-I1
-sS'energy'
+F0.0057322967502104402
+sS'computer science'
 p24
-I1
-sS'go-to-market strategy'
+F0.0035866919979265829
+sS'innovation'
 p25
-I1
-sS'product development'
+F0.0049383282452416417
+sS'energy'
 p26
-I1
-sS'python'
+F0.0078711614950257251
+sS'go-to-market strategy'
 p27
-I1
-sS'aws'
+F0.030712846833814159
+sS'product development'
 p28
-I1
-sS'user research'
+F0.0066670315019941575
+sS'python'
 p29
-I1
-sS'leadership'
+F0.002659446493639112
+sS'aws'
 p30
-I1
-sS'sql'
+F0.0066670315019941575
+sS'user research'
 p31
-I1
-sS'modeling'
+F0.014322076751265627
+sS'leadership'
 p32
-I1
-sS'data'
+F0.0042153281153158723
+sS'sql'
 p33
-I1
-sS'b2b'
+F0.0034793054022094236
+sS'modeling'
 p34
-I1
-sS'science'
+F0.0041436004541915939
+sS'data'
 p35
-I1
-sS'programming'
+F0.0033281029760693932
+sS'b2b'
 p36
-I1
-sS'hive'
+F0.0088666445193830972
+sS'a'
+F0.0047705150347296596
+sS'science'
 p37
-I1
+F0.0089672689820675059
 sS'machine learning'
 p38
-I1
-sS'r'
-I1
-sS'product innovation'
+F0.0016722390863113247
+sS'programming'
 p39
-I1
-sS'architecture'
+F0.0028120286602930505
+sS'hive'
 p40
-I1
-sVbayesian statistic
+F0.0053208016568622608
+sS'django'
 p41
-I1
-sS'statistical analysis'
+F0.011154464101414031
+sS'flask'
 p42
-I1
-ssS'working-year'
+F0.013637732708167654
+sS'r'
+F0.0028315934010915362
+sS'product innovation'
 p43
-(dp44
-V(5, 10]
+F0.014388340508735479
+sS'architecture'
+p44
+F0.0055791186803180052
+sS'databases'
 p45
-I1
-sV(2, 5]
+F0.0058737198299203828
+sVbayesian statistic
 p46
-I1
-ssS'major'
+F0.0099203082351562756
+sS'statistical analysis'
 p47
-(dp48
-S'business'
-p49
-I1
-sS'big data'
+F0.0065681126362566525
+ssS'working-year'
+p48
+(dp49
+V(5, 10]
 p50
-I1
-sS'science'
+F0.0030756231162674965
+sV(2, 5]
 p51
-I1
-sS'data science'
+F0.0031605725215079986
+ssS'major'
 p52
-I1
-sS'computer science statistics'
-p53
-I1
-sS'machine learning'
+(dp53
+VData Science
 p54
-I1
-sS'design'
+F0.0026206351597067921
+sVStatistics
 p55
-I1
-sS'computer science'
+F0.0045956754333879597
+sVComputer Science
 p56
-I1
-sS'statistic'
+F0.0023095809855923411
+sVBusiness
 p57
-I1
+F0.0027594753754441688
 ssS'education'
 p58
 (dp59
 VBachelor
 p60
-I1
+F0.0023249459889538434
 sVMaster
 p61
-I1
+F0.0018553078704698388
 ssS'responsibility'
 p62
 (dp63
 S'development'
 p64
-I1
+F0.0030891862306482616
 sS'product'
 p65
-I1
-sS'develop model'
+F0.02401773019138833
+sS'develop ... system'
 p66
-I1
+F0.011945667068826446
 sS'design'
 p67
-I1
+F0.0037255581888226467
 sS'communicate'
 p68
-I1
+F0.010235933072865265
 sS'analysis'
 p69
-I1
-sS'analytical method'
+F0.00087402735141359667
+sS'develop ... model'
 p70
-I1
-sS'go-to-market strategy'
+F0.0079079413958574943
+sS'analytical method'
 p71
-I1
-sS'modeling'
+F0.013688249376078892
+sS'go-to-market strategy'
 p72
-I1
-sS'understand'
+F0.030712846833814159
+sS'modeling'
 p73
-I1
-sS'model'
+F0.0041436004541915939
+sS'understand'
 p74
-I1
+F0.0053614280955211098
+sS'model'
+p75
+F0.003947476637504185
 ss.

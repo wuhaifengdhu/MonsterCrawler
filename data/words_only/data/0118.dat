@@ -4,325 +4,295 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0060414831406713117
 sS'classification'
 p5
-I1
+F0.0084367965279627775
 sS'sql'
 p6
-I1
+F0.0018233793016926392
 sS'information retrieval'
 p7
-I1
+F0.0093837459972812114
 sS'sentiment analysis'
 p8
-I1
+F0.011237040716075085
 sS'engineering'
 p9
-I1
+F0.0032750127729242102
 sS'statistical analysis'
 p10
-I1
+F0.0068842250091246194
 sS'data mining'
 p11
-I1
-sS'analysis'
+F0.0056737415205404748
+sS'sas'
 p12
-I1
-sS'public policy'
+F0.0037038418627738413
+sS'analysis'
 p13
-I1
-sS'regression'
+F0.0018321856778295718
+sS'public policy'
 p14
-I1
-sS'management'
+F0.011090719704247708
+sS'regression'
 p15
-I1
-sS'java'
+F0.0063533898146572202
+sS'statistics'
 p16
-I1
-sS'big data'
+F0.0024933498791513491
+sS'java'
 p17
-I1
-sS'statistical inference'
+F0.0033135480418938061
+sS'big data'
 p18
-I1
-sS'data'
+F0.0034030083592584692
+sS'statistical inference'
 p19
-I1
-sS'hadoop'
+F0.012166938050922657
+sS'data'
 p20
-I1
-sS'risk management'
+F0.0022198139441746267
+sS'hadoop'
 p21
-I1
-sS'r'
-I1
-sS'marketing research'
+F0.0068706230021367103
+sS'risk management'
 p22
-I1
-sS'computer science'
+F0.0084485489999685456
+sS'r'
+F0.0014839366487003774
+sS'marketing research'
 p23
-I1
-sS'advanced analytics'
+F0.010892573295174851
+sS'computer science'
 p24
-I1
-sS'mathematics'
+F0.0037593135379337451
+sS'advanced analytics'
 p25
-I1
-sS'operations research'
+F0.0078684774180162662
+sS'mathematics'
 p26
-I1
-sS'matlab'
+F0.0048874151927160584
+sS'operations research'
 p27
-I1
-sS'data analysis'
+F0.0077030441592297041
+sS'matlab'
 p28
-I1
-sS'product development'
+F0.0034128374001017774
+sS'data analysis'
 p29
-I1
-sS'python'
+F0.0039672781148814571
+sS'product development'
 p30
-I1
-sS'marketing'
+F0.0069879046758869251
+sS'python'
 p31
-I1
+F0.0013937206223349357
 sS'processing'
 p32
-I1
+F0.01746618274514139
 sS'data scientist'
 p33
-I1
+F0.0028325445592617066
 sS'business analytics'
 p34
-I1
+F0.0081218828707462914
 sS'business process'
 p35
-I1
-sS'statistical modeling'
-p36
-I1
-sS'bioinformatics'
-p37
-I1
-sS'modeling'
-p38
-I1
-sS'spark'
-p39
-I1
-sS'pig'
-p40
-I1
-sS'ruby'
-p41
-I1
-sS'linux'
-p42
-I1
-sS'collaborative filtering'
-p43
-I1
-sS'data visualization'
-p44
-I1
-sS'cluster'
-p45
-I1
-sS'amazon ec2'
-p46
-I1
-sS'science'
-p47
-I1
-sS'programming'
-p48
-I1
-sS'mapreduce'
-p49
-I1
-sS'hive'
-p50
-I1
-sS'machine learning'
-p51
-I1
-sS'optimization'
-p52
-I1
-sS'solr'
-p53
-I1
-sS'scripting'
-p54
-I1
-sS'organization'
-p55
-I1
-sS'validation'
-p56
-I1
-sS'data analytics'
-p57
-I1
-sS'ec2'
-p58
-I1
-ssS'working-year'
-p59
-(dp60
-V(0, 2]
-p61
-I1
-sV(2, 5]
-p62
-I1
-ssS'major'
-p63
-(dp64
-S'data mining'
-p65
-I1
-sS'information retrieval'
-p66
-I1
-sS'engineering'
-p67
-I1
-sS'marketing research'
-p68
-I1
-sS'statistic'
-p69
-I1
-sS'public policy'
-p70
-I1
-sS'information'
-p71
-I1
+F0.0081692056939030918
 sS'management'
-p72
-I1
-sS'big data'
-p73
-I1
-sS'computer science statistics'
-p74
-I1
-sS'computer science'
-p75
-I1
-sS'advanced analytics'
-p76
-I1
-sS'mathematics'
-p77
-I1
-sS'operations research'
-p78
-I1
-sS'marketing'
-p79
-I1
-sS'phd'
-p80
-I1
-sS'business analytics'
-p81
-I1
+p36
+F0.0024225905540097648
+sS'statistical modeling'
+p37
+F0.0047897473801882251
 sS'bioinformatics'
-p82
-I1
-sS'law'
-p83
-I1
-sVphysic
-p84
-I1
-sS'science'
-p85
-I1
-sS'machine learning'
-p86
-I1
-sS'data analytics'
-p87
-I1
-sS'history'
-p88
-I1
-ssS'education'
-p89
-(dp90
-VMaster
-p91
-I1
-sVDoctor
-p92
-I1
-ssS'responsibility'
-p93
-(dp94
-S'development'
-p95
-I1
-sS'information'
-p96
-I1
-sS'product'
-p97
-I1
-sS'data analysis'
-p98
-I1
-sS'data infrastructure'
-p99
-I1
-sS'pattern'
-p100
-I1
-sS'processing'
-p101
-I1
-sS'communicate'
-p102
-I1
-sS'recommendation'
-p103
-I1
-sS'analysis'
-p104
-I1
-sS'statistical model'
-p105
-I1
-sS'statistical method'
-p106
-I1
-sS'optimization'
-p107
-I1
-sS'understand'
-p108
-I1
-sS'data mining'
-p109
-I1
-sS'report'
-p110
-I1
+p38
+F0.008714591685168329
 sS'modeling'
-p111
-I1
+p39
+F0.0021715125374907819
+sS'spark'
+p40
+F0.0045083840195605839
+sS'pig'
+p41
+F0.0072155833559248428
+sS'ruby'
+p42
+F0.0090837234340360885
+sS'linux'
+p43
+F0.0049360375342225385
+sS'solr'
+p44
+F0.011090719704247708
+sS'collaborative filtering'
+p45
+F0.012263300517728573
+sS'data visualization'
+p46
+F0.0052586460576994672
+sS'cluster'
+p47
+F0.0093921144452392413
+sS'amazon ec2'
+p48
+F0.012602868634286174
+sS'science'
+p49
+F0.0018797697545296587
+sS'programming'
+p50
+F0.0029473669380611655
+sS'mapreduce'
+p51
+F0.0070500040560318731
+sS'hive'
+p52
+F0.0055768830200267549
+sS'machine learning'
+p53
+F0.0017527211813744366
+sS'optimization'
+p54
+F0.0053476172657447646
+sS'command'
+p55
+F0.010266722666530921
+sS'scripting'
+p56
+F0.0065055732017290455
+sS'organization'
+p57
+F0.0047143952921970085
+sS'validation'
+p58
+F0.0084544446659761945
+sS'physics'
+p59
+F0.0065055732017290455
+sS'data analytics'
+p60
+F0.0054607558328497244
+sS'ec2'
+p61
+F0.011575041114063695
+ssS'working-year'
+p62
+(dp63
+V(0, 2]
+p64
+F0.0060897865350004101
+sV(2, 5]
+p65
+F0.0033126856375164048
+ssS'major'
+p66
+(dp67
+VSociology
+p68
+F0.010522720244110932
+sVBusiness
+p69
+F0.0028922843507329255
+sVData Science
+p70
+F0.0027467619855750338
+sVEconomics
+p71
+F0.0043870896992632639
+sVEngineering
+p72
+F0.0032750127729242102
+sVStatistics
+p73
+F0.0048168576734975406
+sVComputer Science
+p74
+F0.0024207372897117586
+sVBiological Engineering
+p75
+F0.0070326090387077284
+sVMathematics
+p76
+F0.0045836163892578928
+sVPhysics
+p77
+F0.0070153264737970325
+sVOperations Research
+p78
+F0.0086062270005004115
+sVManagement Science and Engineering
+p79
+F0.0034479800493820651
+ssS'education'
+p80
+(dp81
+VMaster
+p82
+F0.0019446007626314889
+sVDoctor
+p83
+F0.0029122507266750482
+ssS'responsibility'
+p84
+(dp85
+S'development'
+p86
+F0.0032378636428184986
+sS'information'
+p87
+F0.0037088374318967766
+sS'product'
+p88
+F0.0035962376757158999
+sS'data analysis'
+p89
+F0.0039672781148814571
+sS'data infrastructure'
+p90
+F0.011575041114063695
+sS'pattern'
+p91
+F0.0070015804159736517
+sS'processing'
+p92
+F0.01746618274514139
+sS'communicate'
+p93
+F0.005364285781501583
+sS'recommendation'
+p94
+F0.0069844966438991204
+sS'analysis'
+p95
+F0.0018321856778295718
+sS'statistical method'
+p96
+F0.009400509168586927
+sS'optimization'
+p97
+F0.0053476172657447646
+sS'understand'
+p98
+F0.0056194647418296127
+sS'data mining'
+p99
+F0.0056737415205404748
+sS'report'
+p100
+F0.0055488674336161203
+sS'modeling'
+p101
+F0.0021715125374907819
 sS'implement'
-p112
-I1
+p102
+F0.011325471524703782
 sS'presentation'
-p113
-I1
+p103
+F0.0065865089366567023
 sS'model'
-p114
-I1
+p104
+F0.0041374621441220344
 ss.

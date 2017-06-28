@@ -4,221 +4,197 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.010841546566256379
 sS'nosql'
 p5
-I1
+F0.0067743734264022826
 sS'data science'
 p6
-I1
+F0.0029773290239123742
 sS'analytics'
 p7
-I1
+F0.017222523999673795
 sS'unix'
 p8
-I1
+F0.012782617766262624
 sS'system administration'
 p9
-I1
-sS'visualization'
+F0.011398498154576185
+sS'sas'
 p10
-I1
-sS'technical leadership'
+F0.0034288041006866748
+sS'visualization'
 p11
-I1
-sS'management'
+F0.0046393447325098255
+sS'technical leadership'
 p12
-I1
-sS'open source'
-p13
-I1
-sS'rdbms'
-p14
-I1
-sS'big data'
-p15
-I1
-sS'predictive modeling'
-p16
-I1
-sS'storage'
-p17
-I1
-sS'hadoop'
-p18
-I1
-sS'strategy'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'advanced analytics'
-p21
-I1
-sS'mathematics'
-p22
-I1
-sS'energy'
-p23
-I1
-sS'data management'
-p24
-I1
-sS'distributed computing'
-p25
-I1
-sS'collaboration'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'business process'
-p28
-I1
-sS'leadership'
-p29
-I1
-sS'energy efficiency'
-p30
-I1
-sS'sql'
-p31
-I1
-sS'modeling'
-p32
-I1
-sS'manufacturing'
-p33
-I1
-sS'data'
-p34
-I1
-sS'software engineering'
-p35
-I1
-sS'applied mathematics'
-p36
-I1
-sS'engineering'
-p37
-I1
-sS'hive'
-p38
-I1
-sS'architecture'
-p39
-I1
-sS'oracle'
-p40
-I1
-sS'organization'
-p41
-I1
-sS'security'
-p42
-I1
-sS'data analytics'
-p43
-I1
-ssS'working-year'
-p44
-(dp45
-V(0, 2]
-p46
-I1
-sV(2, 5]
-p47
-I1
-ssS'major'
-p48
-(dp49
-S'information'
-p50
-I1
+F0.011135395340327474
 sS'management'
-p51
-I1
-sS'business'
-p52
-I1
+p13
+F0.0067280856475221695
+sS'open source'
+p14
+F0.0079156429205893431
+sS'rdbms'
+p15
+F0.011073768431419955
 sS'big data'
-p53
-I1
-sS'computing'
-p54
-I1
-sS'applied mathematics'
-p55
-I1
-sS'applied math'
-p56
-I1
-sS'data science analytics'
-p57
-I1
-sS'analytics'
-p58
-I1
-sS'engineering'
-p59
-I1
-sS'design'
-p60
-I1
+p16
+F0.0031503097187194741
+sS'predictive modeling'
+p17
+F0.0051460542294281429
+sS'storage'
+p18
+F0.0092586672340258889
+sS'hadoop'
+p19
+F0.0095406423371254805
+sS'strategy'
+p20
+F0.0077970862932021526
+sS'scripting'
+p21
+F0.0060224860827887703
 sS'computer science'
-p61
-I1
-sS'mathematics'
-p62
-I1
+p22
+F0.0034801565920475758
 sS'advanced analytics'
-p63
-I1
-sS'software engineering'
-p64
-I1
-sS'data science'
-p65
-I1
-sS'ee computer science'
-p66
-I1
-sS'computer science applied math'
-p67
-I1
-sS'data analytics'
-p68
-I1
-ssS'education'
-p69
-(dp70
-VBachelor
-p71
-I1
-ssS'responsibility'
-p72
-(dp73
-S'development'
-p74
-I1
-sS'information'
-p75
-I1
-sS'design'
-p76
-I1
-sS'analytic'
-p77
-I1
-sS'understand'
-p78
-I1
+p23
+F0.0072841845404408015
+sS'energy'
+p24
+F0.015274729237871704
+sS'data management'
+p25
+F0.006806727981706116
+sS'distributed computing'
+p26
+F0.008854941738760674
+sS'collaboration'
+p27
+F0.006330864901171916
+sS'processing'
+p28
+F0.0040422972442344558
+sS'data scientist'
+p29
+F0.0026222070919897978
+sS'automation'
+p30
+F0.0082550701125341814
+sS'business process'
+p31
+F0.0075625815087122681
+sS'leadership'
+p32
+F0.0040901203495144114
+sS'architectures'
+p33
+F0.011882384897068717
+sS'energy efficiency'
+p34
+F0.014094793350852472
+sS'sql'
+p35
+F0.0016879798485966513
 sS'modeling'
-p79
-I1
+p36
+F0.0080410464259559646
+sS'manufacturing'
+p37
+F0.0092392538911678455
+sS'data'
+p38
+F0.0029356803929324981
+sS'software engineering'
+p39
+F0.0064407499720643855
+sS'science'
+p40
+F0.0017401828915695357
+sS'applied mathematics'
+p41
+F0.0074804721407022434
+sS'engineering'
+p42
+F0.0030318187551328086
+sS'hive'
+p43
+F0.0051627580432920955
+sS'architecture'
+p44
+F0.010826804567745834
+sS'oracle'
+p45
+F0.0064975779667359448
+sS'organization'
+p46
+F0.0087286328677310954
+sS'security'
+p47
+F0.0054092841973262173
+sS'data analytics'
+p48
+F0.0050552541620935568
+ssS'working-year'
+p49
+(dp50
+V(2, 5]
+p51
+F0.0030666941297800383
+ssS'major'
+p52
+(dp53
+VBusiness
+p54
+F0.0026775107603319659
+sVData Science
+p55
+F0.0025427945113986701
+sVEngineering
+p56
+F0.0030318187551328086
+sVComputer Science
+p57
+F0.0022409795701787073
+sVMathematics
+p58
+F0.0042432488356001288
+sVManagement Science and Engineering
+p59
+F0.0031919419269031989
+ssS'education'
+p60
+(dp61
+VBachelor
+p62
+F0.0022558881873017494
+ssS'responsibility'
+p63
+(dp64
+S'development'
+p65
+F0.014987141118986618
+sS'information'
+p66
+F0.0034334287117064222
+sS'design'
+p67
+F0.014459592178400768
+sS'processing'
+p68
+F0.0040422972442344558
+sS'analytic'
+p69
+F0.027942153122520332
+sS'understand'
+p70
+F0.0052021777560501865
+sS'modeling'
+p71
+F0.0080410464259559646
 sS'model'
-p80
-I1
+p72
+F0.0038302248561921802
 ss.

@@ -4,268 +4,228 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.0087381276175498655
 sS'economics'
 p5
-I1
+F0.0045474228166213684
 sS'data science'
 p6
-I1
+F0.0022824305989764689
 sS'actuarial science'
 p7
-I1
+F0.0094378632088119238
 sS'analytics'
 p8
-I1
+F0.029706402876097684
 sS'business intelligence'
 p9
-I1
+F0.0038767425213935883
 sS'defense'
 p10
-I1
+F0.01340280134318117
 sS'problem solving'
 p11
-I1
+F0.0046577075236304572
 sS'aviation'
 p12
-I1
+F0.022702002827020541
 sS'transportation'
 p13
-I1
+F0.0084129731915369398
 sS'strategy'
 p14
-I1
+F0.0029886364918915273
 sS'quantitative finance'
 p15
-I1
+F0.0079865706780866338
 sS'open source'
 p16
-I1
+F0.0060681588992753215
 sS'mechanical engineering'
 p17
-I1
+F0.010381696022212044
 sS'program management'
 p18
-I1
+F0.0063383516291534965
 sS'team building'
 p19
-I1
-sS'power bi'
+F0.0075992993473765445
+sS'statistics'
 p20
-I1
+F0.0017694741077848284
 sS'tableau'
 p21
-I1
+F0.0038121937137073846
 sS'writing'
 p22
-I1
+F0.0042638715864942939
 sS'computer science'
 p23
-I1
+F0.0026678999301465289
 sS'advanced analytics'
 p24
-I1
-sS'electronics'
+F0.0055840807482696085
+sS'mathematics'
 p25
-I1
-sS'unstructured data'
+F0.0034684882012823641
+sS'electronics'
 p26
-I1
-sS'operations research'
+F0.0083253802486195176
+sS'unstructured data'
 p27
-I1
-sS'data modeling'
+F0.0060508698927004929
+sS'operations research'
 p28
-I1
-sS'python'
+F0.0054666765000985001
+sS'data modeling'
 p29
-I1
-sS'marketing'
+F0.00495673955373486
+sS'finance'
 p30
-I1
-sS'collaboration'
+F0.0050382278068001676
+sS'python'
 p31
-I1
-sS'data scientist'
+F0.0009890920545602771
+sS'marketing'
 p32
-I1
-sS'business analytics'
+F0.0036152078225380434
+sS'collaboration'
 p33
-I1
-sS'management'
+F0.0097065253133717423
+sS'data scientist'
 p34
-I1
-sS'mentoring'
+F0.0020101929130244369
+sS'business analytics'
 p35
-I1
-sS'aerospace'
+F0.0057639168760134979
+sS'management'
 p36
-I1
-sS'military'
+F0.0017192578125230591
+sS'mentoring'
 p37
-I1
-sS'modeling'
+F0.0065277299838310335
+sS'aerospace'
 p38
-I1
-sS'data'
+F0.055458449769810347
+sS'military'
 p39
-I1
-sS'wireless'
+F0.007082843590193187
+sS'modeling'
 p40
-I1
-sS'training'
+F0.0015410734137031358
+sS'data'
 p41
-I1
-sS'applied mathematics'
+F0.0036008041859422516
+sS'a'
+F0.0035484665912979634
+sS'wireless'
 p42
-I1
-sS'marketing analytics'
+F0.0087559447842962667
+sS'training'
 p43
-I1
-sS'machine learning'
+F0.0044654549355262413
+sS'science'
 p44
-I1
-sS'r'
-I1
-sS'architecture'
+F0.0026680602967517741
+sS'applied mathematics'
 p45
-I1
-sS'organization'
+F0.0057345554930620614
+sS'marketing analytics'
 p46
-I1
-sS'predictive analytics'
+F0.0073193514478933188
+sS'engineering'
 p47
-I1
-ssS'working-year'
+F0.0023242026130429879
+sS'machine learning'
 p48
-(dp49
-V(5, 10]
+F0.0012438666448463744
+sS'r'
+F0.0010531163313357518
+sS'architecture'
+p49
+F0.0041499326806160499
+sS'organization'
 p50
-I1
-sV(2, 5]
+F0.0033456998847849737
+sS'predictive analytics'
 p51
-I1
-ssS'major'
+F0.0043690667425593747
+ssS'working-year'
 p52
 (dp53
-S'business intelligence analytics'
+V(5, 10]
 p54
-I1
-sS'economics'
+F0.0022877500219674741
+sV(2, 5]
 p55
-I1
-sS'data science'
+F0.0023509381943664811
+ssS'major'
 p56
-I1
-sS'mba'
-p57
-I1
-sS'general'
+(dp57
+VStatistics
 p58
-I1
-sS'analytics'
+F0.0034184151231272867
+sVBusiness
 p59
-I1
-sS'applied statistics'
+F0.0020525888940685277
+sVData Science
 p60
-I1
-sS'management'
+F0.0019493149575048627
+sVEconomics
 p61
-I1
-sS'mechanical engineering'
+F0.0031134184962513488
+sVEngineering
 p62
-I1
-sVapplied statistic
+F0.0023242026130429879
+sVComputer Science
 p63
-I1
-sS'computer science'
+F0.0017179425926986674
+sVMathematics
 p64
-I1
-sS'advanced analytics'
+F0.0032528890504410855
+sVOperations Research
 p65
-I1
-sS'electronics'
+F0.0061076449680970667
+sVManagement Science and Engineering
 p66
-I1
-sS'operations research'
-p67
-I1
-sS'transportation'
-p68
-I1
-sS'marketing'
-p69
-I1
-sS'applied math'
-p70
-I1
-sS'actuarial science'
-p71
-I1
-sS'business analytics'
-p72
-I1
-sS'quantitative finance'
-p73
-I1
-sS'applied mathematics'
-p74
-I1
-sS'marketing analytics'
-p75
-I1
-sS'data science analytics'
-p76
-I1
-sS'machine learning'
-p77
-I1
-sS'statistics computer science'
-p78
-I1
-sS'mechanical'
-p79
-I1
-sS'predictive analytics'
-p80
-I1
+F0.0024469535834324334
 ssS'education'
-p81
-(dp82
+p67
+(dp68
 VBachelor
-p83
-I1
+p69
+F0.0017293715895064644
 sVMaster
-p84
-I1
+p70
+F0.0013800392508997665
 sVDoctor
-p85
-I1
+p71
+F0.002066758580221002
 ssS'responsibility'
-p86
-(dp87
+p72
+(dp73
 S'development'
-p88
-I1
+p74
+F0.0022978387142582896
 sS'product'
-p89
-I1
+p75
+F0.00765650601926611
 sS'predict'
-p90
-I1
+p76
+F0.031665138797080147
 sS'pattern'
-p91
-I1
+p77
+F0.00496886352101356
 sS'understand'
-p92
-I1
+p78
+F0.0039880072361371446
 sS'recommendation'
-p93
-I1
+p79
+F0.01487021866120458
 sS'modeling'
-p94
-I1
+p80
+F0.0015410734137031358
 sS'model'
-p95
-I1
+p81
+F0.0029362634571188629
 ss.

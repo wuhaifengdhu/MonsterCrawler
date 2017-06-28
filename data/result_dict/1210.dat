@@ -2,25 +2,25 @@
 S'skills'
 p2
 (lp3
-S'r programming'
+S'integration'
 p4
-aS'devops'
-p5
 aS'analytics'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'ansible'
+p7
+aS'devops'
 p8
-aS'ec2'
-p9
 aS'hbase'
-p10
+p9
 aS'git'
+p10
+aS'open source'
 p11
-aS'java'
-p12
 aS'big data'
+p12
+aS'agile'
 p13
 aS'storage'
 p14
@@ -48,10 +48,11 @@ aS'mentoring'
 p25
 aS'sql'
 p26
-aS'open source'
+aS'java'
 p27
 aS'data'
 p28
+aS'c'
 aS'postgresql'
 p29
 aS'software engineering'
@@ -64,44 +65,36 @@ aS'test automation'
 p33
 aS'architecture'
 p34
-asS'working-year'
+aS'ec2'
 p35
-(lp36
+asS'working-year'
+p36
+(lp37
 V(10, 15]
-p37
-asS'major'
 p38
-(lp39
-S'big data'
-p40
-aS'software engineering'
+asS'major'
+p39
+(lp40
+VData Science
 p41
-aS'science'
+aVEngineering
 p42
-aS'automation'
+aVComputer Science
 p43
-aS'analytics'
-p44
-aS'engineering'
-p45
-aS'computer science engineering'
-p46
-aS'computer science'
-p47
-aS'ee computer science'
-p48
 asS'education'
-p49
-(lp50
-S'Bachelor'
-p51
+p44
+(lp45
+VBachelor
+p46
+aVMaster
+p47
 asS'responsibility'
-p52
-(lp53
+p48
+(lp49
 S'report'
-p54
+p50
 aS'product'
-p55
+p51
 aS'improvement'
-p56
+p52
 as.

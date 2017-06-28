@@ -2,61 +2,62 @@
 S'skills'
 p2
 (lp3
-S'retail'
+S'a'
+aS'retail'
 p4
-aS'banking'
+aS'psychology'
 p5
-aS'marketing'
+aS'banking'
 p6
-aS'healthcare'
+aS'marketing'
 p7
-aS'data scientist'
+aS'energy'
 p8
-aS'analysis'
+aS'healthcare'
 p9
-aS'data'
+aS'data scientist'
 p10
-aS'cluster'
+aS'analysis'
 p11
-aS'business intelligence'
+aS'data'
 p12
-aS'management'
+aS'cluster'
 p13
-aS'financial services'
+aS'business intelligence'
 p14
-aS'sql'
+aS'management'
 p15
-aS'intelligence'
+aS'financial services'
 p16
-aS'modeling'
+aS'sql'
 p17
-aS'research'
+aS'intelligence'
 p18
-aS'cluster analysis'
+aS'modeling'
 p19
-aS'science'
+aS'research'
 p20
-asS'working-year'
+aS'cluster analysis'
 p21
-(lp22
-V(2, 5]
+aS'telecommunications'
+p22
+aS'science'
 p23
-asS'major'
+asS'working-year'
 p24
 (lp25
-S'management'
+V(2, 5]
 p26
-aS'telecommunication'
+asS'major'
 p27
-aS'business'
-p28
-aS'marketing'
+(lp28
+VEconomics
 p29
-aS'phd'
+aVPsychology
 p30
-aS'management science'
+aVBusiness
 p31
-aS'science'
+aVManagement Science and Engineering
 p32
 asS'education'
 p33
@@ -68,7 +69,7 @@ p36
 asS'responsibility'
 p37
 (lp38
-Vinsight
+S'insight'
 p39
 aS'communicate'
 p40

@@ -8,7 +8,7 @@ aS'data science'
 p5
 aS'analytics'
 p6
-aS'c++'
+aS'hbase'
 p7
 aS'insurance'
 p8
@@ -18,98 +18,87 @@ aS'java'
 p10
 aS'big data'
 p11
-aS'research'
+aS'hadoop'
 p12
-aS'computer science'
+aS'research'
 p13
-aS'energy'
-p14
-aS'econometrics'
-p15
-aS'python'
-p16
-aS'modeling'
-p17
-aS'spark'
-p18
-aS'data'
-p19
-aS'software development'
-p20
-aS'dynamic programming'
-p21
-aS'science'
-p22
-aS'programming'
-p23
-aS'analysis'
-p24
-aS'machine learning'
-p25
-aS'optimization'
-p26
-aS'architecture'
-p27
-aS'product management'
-p28
-asS'working-year'
-p29
-(lp30
-V[0]
-p31
-asS'major'
-p32
-(lp33
-S'management'
-p34
-aS'big data'
-p35
-aS'science'
-p36
-aS'data science'
-p37
-aS'machine learning'
-p38
-aS'analytics'
-p39
-aS'design'
-p40
 aS'computer science'
-p41
-aS'statistic'
-p42
+p14
+aS'energy'
+p15
 aS'econometrics'
-p43
-aS'computer science operation research'
-p44
-asS'education'
-p45
-(lp46
-VMaster
-p47
-aVDoctor
-p48
-asS'responsibility'
-p49
-(lp50
-S'development'
-p51
-aS'forecasting'
-p52
-aS'product'
-p53
-aS'analysis'
-p54
-aS'optimization'
-p55
-aS'design'
-p56
+p16
+aS'python'
+p17
 aS'modeling'
-p57
+p18
+aS'spark'
+p19
+aS'data'
+p20
+aS'software development'
+p21
+aS'c'
+aS'dynamic programming'
+p22
+aS'science'
+p23
+aS'programming'
+p24
+aS'analysis'
+p25
+aS'machine learning'
+p26
+aS'optimization'
+p27
+aS'architecture'
+p28
+aS'product management'
+p29
+asS'working-year'
+p30
+(lp31
+S'[0]'
+p32
+asS'major'
+p33
+(lp34
+VData Science
+p35
+aVComputer Science
+p36
+aVManagement Science and Engineering
+p37
+asS'education'
+p38
+(lp39
+VBachelor
+p40
+aVMaster
+p41
+aVDoctor
+p42
+asS'responsibility'
+p43
+(lp44
+S'development'
+p45
+aS'forecasting'
+p46
+aS'product'
+p47
+aS'analysis'
+p48
+aS'optimization'
+p49
+aS'design'
+p50
+aS'modeling'
+p51
 aS'implement'
-p58
+p52
 aS'prototype'
-p59
+p53
 aS'transformation'
-p60
+p54
 as.

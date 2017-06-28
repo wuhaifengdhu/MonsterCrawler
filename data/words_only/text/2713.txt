@@ -1,5 +1,5 @@
-skills: {'theory': 1, 'government': 1, 'science': 1, 'data scientist': 1, 'research': 1, 'defense': 1, 'intelligence': 1, 'security': 1, 'data': 1}
-working-year: {u'(0, 2]': 1, u'(10, 15]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'information systems': 1, 'business': 1, 'science': 1, 'general': 1, 'information system': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'information': 1, 'pattern': 1}
+skills: {'theory': 0.013320346593060615, 'government': 0.023701086505717867, 'science': 0.00319560858270042, 'data scientist': 0.004815325750744901, 'research': 0.003878001553007901, 'defense': 0.03210580139934762, 'intelligence': 0.014273260089879808, 'security': 0.009933412798726326, 'data': 0.0005390976721566951}
+working-year: {u'(0, 2]': 0.010352637109500696, u'(10, 15]': 0.008897392528174359, u'(2, 5]': 0.005631565583777889}
+major: {u'Information Science': 0.011512069038882244, u'Business': 0.004916883396245973}
+education: {u'Bachelor': 0.004142631034863212, u'Master': 0.003305821296473531}
+responsibility: {'pattern': 0.011902686707155209, 'information': 0.012610047268449042}

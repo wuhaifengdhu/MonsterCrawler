@@ -4,230 +4,211 @@ p2
 (dp3
 S'nosql'
 p4
-I1
-sS'communication'
-p5
-I1
+F0.0034210585803331529
 sS'human resources'
-p6
-I1
+p5
+F0.0062004137302331353
 sS'hadoop'
-p7
-I1
+p6
+F0.0048180243802483681
 sS'analytics'
-p8
-I1
+p7
+F0.0097845464473146748
 sS'unix'
-p9
-I1
+p8
+F0.0032276109859813123
 sS'data warehousing'
+p9
+F0.0038018628271053669
+sS'hive'
 p10
-I1
-sS'high performance computing'
-p11
-I1
+F0.0026071928118625081
 sS'linux'
-p12
-I1
+p11
+F0.0023075975472490367
 sS'xml'
+p12
+F0.0041173911443194927
+sS'access'
 p13
-I1
+F0.0028993275313705688
 sS'management'
 p14
-I1
+F0.0033976832519986956
 sS'java'
 p15
-I1
+F0.0015490837095853544
 sS'big data'
 p16
-I1
+F0.0015909064079533345
 sS'user experience'
 p17
-I1
+F0.0042190162063835699
 sS'agile'
 p18
-I1
+F0.0054592246817487733
 sS'xslt'
 p19
-I1
+F0.0077334646127373953
 sS'storage'
 p20
-I1
+F0.0093512539063661491
 sS'information management'
 p21
-I1
+F0.0060293410371139366
 sS'big data analytics'
 p22
-I1
+F0.0041428363809356003
 sS'risk management'
 p23
-I1
+F0.0039496966574852953
 sS'computer science'
 p24
-I1
+F0.0017574790789840259
 sS'innovation'
 p25
-I1
+F0.0048395616803368095
 sS'advanced analytics'
 p26
-I1
+F0.0036785131929226045
 sS'unstructured data'
 p27
-I1
+F0.0039860105418164501
 sS'architecture'
 p28
-I1
+F0.008201304460067468
 sS'finance'
 p29
-I1
+F0.0066378651354592208
 sS'government'
 p30
-I1
+F0.0032588993945362067
 sS'python'
 p31
-I1
+F0.00065156439094158248
 sS'processing'
 p32
-I1
+F0.0020413601083384002
 sS'data scientist'
 p33
-I1
+F0.0013242145814548478
 sS'automation'
 p34
-I1
+F0.0041688104068297619
 sS'process automation'
 p35
-I1
-sS'spark'
+F0.0069553048160894979
+sS'sql'
 p36
-I1
-sS'pig'
+F0.00085242982354130886
+sS'spark'
 p37
-I1
-sS'data'
+F0.0021076695291445732
+sS'pig'
 p38
-I1
-sS'documentation'
+F0.0033732852188948642
+sS'data'
 p39
-I1
-sS'programming'
+F0.0029650371968618231
+sS'a'
+F0.0046751047340350665
+sS'science'
 p40
-I1
-sS'business intelligence'
+F0.00087879236024261556
+sS'documentation'
 p41
-I1
-sS'communication skills'
+F0.007248602397360077
+sS'programming'
 p42
-I1
-sS'data architecture'
+F0.0013778940435435949
+sS'business intelligence'
 p43
-I1
-sS'application development'
+F0.0025538041359680266
+sS'communication skills'
 p44
-I1
-sS'etl'
+F0.0046039073150751552
+sS'data architecture'
 p45
-I1
-sS'asset management'
+F0.0050718419435191288
+sS'application development'
 p46
-I1
-sS'oracle'
+F0.0047888705018578068
+sS'etl'
 p47
-I1
-sS'organization'
+F0.017811029212594892
+sS'asset management'
 p48
-I1
-sS'security'
+F0.005931526608892298
+sS'oracle'
 p49
-I1
-sS'data analytics'
+F0.0032812768732016525
+sS'organization'
 p50
-I1
-ssS'working-year'
+F0.006611939397306304
+sS'security'
 p51
-(dp52
-V(2, 5]
+F0.0054633770392994796
+sS'high performance computing'
+p52
+F0.0048666717521689568
+sS'data analytics'
 p53
-I1
-ssS'major'
+F0.0025529033518572465
+ssS'working-year'
 p54
 (dp55
-S'information'
+V(2, 5]
 p56
-I1
-sS'management'
+F0.0015486805355389194
+ssS'major'
 p57
-I1
-sS'finance'
-p58
-I1
-sS'big data'
+(dp58
+VBusiness
 p59
-I1
-sS'business'
+F0.0013521429339676428
+sVData Science
 p60
-I1
-sS'communication'
+F0.0012841112282563282
+sVEconomics
 p61
-I1
-sS'information management'
+F0.0020509644344055759
+sVInformation Science
 p62
-I1
-sS'high performance computing'
+F0.0031658189856926173
+sVComputer Science
 p63
-I1
-sS'automation'
+F0.0011316946829402473
+sVManagement Science and Engineering
 p64
-I1
-sS'big data analytics'
-p65
-I1
-sS'analytics'
-p66
-I1
-sS'design'
-p67
-I1
-sS'computer science'
-p68
-I1
-sS'advanced analytics'
-p69
-I1
-sS'ee computer science'
-p70
-I1
-sS'data analytics'
-p71
-I1
+F0.0016119306730861156
 ssS'education'
-p72
-(dp73
-S'Bachelor'
-p74
-I1
+p65
+(dp66
+VBachelor
+p67
+F0.0011392235345873834
 ssS'responsibility'
-p75
-(dp76
+p68
+(dp69
 S'development'
-p77
-I1
+p70
+F0.0090822075181058899
 sS'information'
-p78
-I1
+p71
+F0.0052016444982352292
 sS'processing'
-p79
-I1
+p72
+F0.0020413601083384002
 sS'data infrastructure'
-p80
-I1
+p73
+F0.0054113317208247785
 sS'documentation'
-p81
-I1
+p74
+F0.007248602397360077
 sS'design'
-p82
-I1
+p75
+F0.021906282150277165
 sS'model'
-p83
-I1
+p76
+F0.0038685271047541022
 ss.

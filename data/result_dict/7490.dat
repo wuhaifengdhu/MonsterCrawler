@@ -2,66 +2,73 @@
 S'skills'
 p2
 (lp3
-S'networking'
+S'science'
 p4
-aS'active directory'
+aS'a'
+aS'networking'
 p5
-aS'spring'
+aS'active directory'
 p6
-aS'ip'
+aS'windows'
 p7
-aS'cloud computing'
+aS'ip'
 p8
-aS'linux'
+aS'cloud computing'
 p9
-aS'data scientist'
+aS'linux'
 p10
-aS'network optimization'
+aS'data scientist'
 p11
-aS'team building'
+aS'spring'
 p12
-aS'optimization'
+aS'network optimization'
 p13
-aS'computer science'
+aS'team building'
 p14
-aS'automotive'
+aS'engineering'
 p15
-aS'agile'
+aS'optimization'
 p16
-aS'data'
+aS'computer science'
 p17
-aS'energy'
+aS'automotive'
 p18
-aS'virtualization'
+aS'agile'
 p19
-asS'working-year'
+aS'data'
 p20
-(lp21
-V[0]
+aS'energy'
+p21
+aS'virtualization'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'computer science'
+S'[0]'
 p25
-aS'business'
+asS'major'
 p26
-aS'computing'
-p27
-asS'education'
+(lp27
+VEngineering
 p28
-(lp29
-VBachelor
+aVComputer Science
+p29
+aVBusiness
 p30
-aVMaster
+asS'education'
 p31
-asS'responsibility'
-p32
-(lp33
-S'interface'
+(lp32
+VBachelor
+p33
+aVMaster
 p34
-aS'product'
+asS'responsibility'
 p35
+(lp36
+S'interface'
+p37
+aS'product'
+p38
 aS'optimization'
-p36
+p39
 as.

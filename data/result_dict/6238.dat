@@ -4,7 +4,7 @@ p2
 (lp3
 S'probability'
 p4
-aS'intelligence'
+aS'communication'
 p5
 aS'linear programming'
 p6
@@ -16,106 +16,90 @@ aS'education'
 p9
 aS'visualization'
 p10
-aS'r programming'
-p11
 aS'integration'
-p12
+p11
 aS'research'
-p13
+p12
 aS'access'
+p13
+aS'intelligence'
 p14
-aS'communication'
+aS'mathematics'
 p15
-aS'mathematics'
+aS'data science'
 p16
-aS'data science'
-p17
 aS'theory'
-p18
+p17
 aS'government'
-p19
+p18
 aS'data scientist'
+p19
+aS'modeling'
 p20
-aS'modeling'
-p21
 aS'data'
-p22
+p21
 aS'probability theory'
+p22
+aS'information technology'
 p23
-aS'information technology'
+aS'data collection'
 p24
-aS'data collection'
+aS'science'
 p25
-aS'science'
+aS'documentation'
 p26
-aS'documentation'
-p27
 aS'programming'
-p28
+p27
 aS'communication skills'
-p29
+p28
 aS'security'
-p30
+p29
 aS'game theory'
-p31
+p30
 asS'working-year'
-p32
-(lp33
+p31
+(lp32
 V(2, 5]
-p34
+p33
 asS'major'
-p35
-(lp36
-S'information'
+p34
+(lp35
+VMathematics
+p36
+aVData Science
 p37
-aS'information systems'
+aVInformation Science
 p38
-aS'business'
+aVEngineering
 p39
-aS'science'
+aVBusiness
 p40
-aS'data science'
-p41
-aS'engineering'
-p42
-aS'information system'
-p43
-aS'design'
-p44
-aS'communication'
-p45
-aS'mathematics'
-p46
-aS'law'
-p47
-aS'information technology'
-p48
 asS'education'
-p49
-(lp50
+p41
+(lp42
 VBachelor
-p51
+p43
 asS'responsibility'
-p52
-(lp53
+p44
+(lp45
 S'information'
-p54
+p46
 aS'product'
-p55
+p47
 aS'data collection'
-p56
+p48
 aS'documentation'
-p57
+p49
 aS'communicate'
-p58
+p50
 aS'statistical method'
-p59
+p51
 aS'design'
-p60
+p52
 aS'report'
-p61
+p53
 aS'modeling'
-p62
+p54
 aS'model'
-p63
+p55
 as.

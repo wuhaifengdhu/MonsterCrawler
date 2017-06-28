@@ -4,110 +4,107 @@ p2
 (dp3
 S'data scientist'
 p4
-I1
-sS'communication'
-p5
-I1
-sS'consumer insights'
-p6
-I1
-sS'innovation'
-p7
-I1
-sS'product marketing'
-p8
-I1
-sS'competitive analysis'
-p9
-I1
-sS'analysis'
-p10
-I1
-sS'strategy'
-p11
-I1
-sS'access'
-p12
-I1
+F0.0038383031346517328
 sS'thought leadership'
+p5
+F0.014861155433076532
+sS'competitive analysis'
+p6
+F0.015412847008721774
+sS'communication'
+p7
+F0.017208362599031048
+sS'marketing'
+p8
+F0.0069029511683969163
+sS'innovation'
+p9
+F0.0070138575077345064
+sS'product marketing'
+p10
+F0.016519288713724229
+sS'sales'
+p11
+F0.012045669348518131
+sS'analysis'
+p12
+F0.0012413721802685867
+sS'strategy'
 p13
-I1
-sS'vendor management'
+F0.011413126313237933
+sS'access'
 p14
-I1
-sS'music'
-p15
-I1
-sS'leadership'
-p16
-I1
-sS'contract negotiation'
-p17
-I1
-sS'account management'
-p18
-I1
-sS'data'
-p19
-I1
-sS'marketing management'
-p20
-I1
+F0.0084038479170161409
 sS'business intelligence'
+p15
+F0.0074023308288928297
+sS'vendor management'
+p16
+F0.018170792923124603
+sS'music'
+p17
+F0.017311633440264422
+sS'leadership'
+p18
+F0.0059869877579848624
+sS'contract negotiation'
+p19
+F0.024321970814526552
+sS'account management'
+p20
+F0.018120118472037833
+sS'consumer insights'
 p21
-I1
-ssS'working-year'
+F0.022100581522285206
+sS'research'
 p22
-(dp23
-V(5, 10]
+F0.0030911606581947039
+sS'data'
+p23
+F0.0012891466073312273
+sS'marketing management'
 p24
-I1
-ssS'major'
+F0.016551783556145672
+ssS'working-year'
 p25
 (dp26
-S'information'
+V(5, 10]
 p27
-I1
-sS'business'
+F0.0043682763100610826
+ssS'major'
 p28
-I1
-sS'communication'
-p29
-I1
-sS'mba'
+(dp29
+VData Science
 p30
-I1
-sS'data analyst'
+F0.0037220615311777633
+sVEconomics
 p31
-I1
-sS'general'
+F0.0059448244475523949
+sVBusiness
 p32
-I1
-sS'music'
+F0.0039192548810656315
+sVManagement Science and Engineering
 p33
-I1
-sS'marketing management'
-p34
-I1
+F0.0046722628205394653
 ssS'education'
-p35
-(dp36
+p34
+(dp35
 S'Bachelor'
-p37
-I1
+p36
+F0.0033020972017025608
 ssS'responsibility'
-p38
-(dp39
+p37
+(dp38
 S'information'
-p40
-I1
+p39
+F0.0050257434765557775
 sS'product'
+p40
+F0.004873162647528068
+sS'insight'
 p41
-I1
-sVinsight
-p42
-I1
+F0.0066481643333676996
 sS'analysis'
-p43
-I1
+p42
+F0.0012413721802685867
 ss.

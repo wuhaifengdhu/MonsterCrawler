@@ -4,169 +4,172 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.011309284563084804
 sS'data science'
 p5
-I1
-sS'business intelligence'
+F0.0049704170481842946
+sS'linux'
 p6
-I1
-sS'marketing strategy'
+F0.0076284216437984692
+sS'business intelligence'
 p7
-I1
-sS'problem solving'
-p8
-I1
-sS'data mining'
-p9
-I1
-sS'regression'
-p10
-I1
-sS'clustering'
-p11
-I1
-sS'writing'
-p12
-I1
-sS'stochastic processes'
-p13
-I1
-sS'r'
-I1
-sS'computer science'
-p14
-I1
-sS'natural language processing'
-p15
-I1
-sS'microsoft excel'
-p16
-I1
-sS'python'
-p17
-I1
-sS'processing'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'decision trees'
-p20
-I1
-sS'marketing analytics'
-p21
-I1
-sS'analysis'
-p22
-I1
-sS'machine learning'
-p23
-I1
-sS'online marketing'
-p24
-I1
-sS'optimization'
-p25
-I1
-sS'logistic regression'
-p26
-I1
-sS'data analytics'
-p27
-I1
-sS'predictive analytics'
-p28
-I1
-ssS'working-year'
-p29
-(dp30
-V(5, 10]
-p31
-I1
-sV(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'information'
-p35
-I1
-sS'natural language processing'
-p36
-I1
-sS'business'
-p37
-I1
-sS'predictive analytics'
-p38
-I1
-sS'data science'
-p39
-I1
-sS'marketing analytics'
-p40
-I1
-sS'machine learning'
-p41
-I1
+F0.0084423277222083516
 sS'marketing strategy'
-p42
-I1
+p8
+F0.015408099277228623
+sS'problem solving'
+p9
+F0.010143024235344014
 sS'data mining'
-p43
-I1
-sS'general'
-p44
-I1
-sS'data analytics'
-p45
-I1
+p10
+F0.0087685096226534608
+sS'writing'
+p11
+F0.0092853732482747649
+sS'regression'
+p12
+F0.0098188751681066149
+sS'clustering'
+p13
+F0.013319886613868638
+sS'strategy'
+p14
+F0.0065083116992844421
+sS'stochastic processes'
+p15
+F0.021559398752496718
+sS'r'
+F0.0022933566389005833
 sS'computer science'
-p46
-I1
-ssS'education'
-p47
-(dp48
-S'Bachelor'
-p49
-I1
-ssS'responsibility'
-p50
-(dp51
-S'large data set'
-p52
-I1
+p16
+F0.0058098481949885152
+sS'natural language processing'
+p17
+F0.010355198892397945
+sS'microsoft excel'
+p18
+F0.0084993175830682249
+sS'python'
+p19
+F0.0021539318708812642
+sS'marketing'
+p20
+F0.0078727872829650776
 sS'processing'
+p21
+F0.0067482978788046283
+sS'statistical modeling'
+p22
+F0.0074023368602908948
+sS'sql'
+p23
+F0.0028179498298886245
+sS'modeling'
+p24
+F0.0033559739215766634
+sS'data'
+p25
+F0.0014702663786091683
+sS'decision trees'
+p26
+F0.017239181969071527
+sS'science'
+p27
+F0.0029050987115458366
+sS'marketing analytics'
+p28
+F0.015939248814213963
+sS'unix'
+p29
+F0.010669788383409297
+sS'analysis'
+p30
+F0.0014157798419592146
+sS'machine learning'
+p31
+F0.0027087509166695842
+sS'online marketing'
+p32
+F0.019186333581748163
+sS'optimization'
+p33
+F0.0082644994106964558
+sS'algorithms'
+p34
+F0.0074139325552283223
+sS'logistic regression'
+p35
+F0.013528772218229521
+sS'data analytics'
+p36
+F0.0084393499234950292
+sS'predictive analytics'
+p37
+F0.009514455261689217
+ssS'working-year'
+p38
+(dp39
+V(5, 10]
+p40
+F0.0049820010808961108
+sV(2, 5]
+p41
+F0.0051196050761617169
+ssS'major'
+p42
+(dp43
+VData Science
+p44
+F0.0042449957958886888
+sVEconomics
+p45
+F0.0067800477170432269
+sVComputer Science
+p46
+F0.0037411394477363542
+sVBusiness
+p47
+F0.0044698939965872484
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0037660282135120113
+ssS'responsibility'
+p51
+(dp52
+S'information'
 p53
-I1
-sS'information'
+F0.0057318396674768375
+sS'processing'
 p54
-I1
-sVinsight
+F0.0067482978788046283
+sS'insight'
 p55
-I1
+F0.030328815801809673
 sS'communicate'
 p56
-I1
+F0.016580519688277621
 sS'analysis'
 p57
-I1
+F0.0014157798419592146
 sS'optimization'
 p58
-I1
+F0.0082644994106964558
 sS'understand'
 p59
-I1
+F0.0086846273282821292
 sS'data mining'
 p60
-I1
+F0.0087685096226534608
 sS'report'
 p61
-I1
-sS'model'
+F0.0085755223974067311
+sS'modeling'
 p62
-I1
+F0.0033559739215766634
+sS'model'
+p63
+F0.0063942596772795079
 ss.

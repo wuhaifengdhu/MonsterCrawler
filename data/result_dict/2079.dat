@@ -6,33 +6,33 @@ S'higher education'
 p4
 aS'pmp'
 p5
-aS'r d'
-p6
 aS'cancer'
-p7
+p6
 aS'proteomics'
-p8
+p7
 aS'data science'
-p9
+p8
 aS'thought leadership'
-p10
+p9
 aS'laboratory'
-p11
+p10
 aS'education'
-p12
+p11
 aS'genomics'
-p13
+p12
 aS'infectious diseases'
-p14
+p13
 aS'open source'
-p15
+p14
 aS'agile'
-p16
+p15
 aS'management'
-p17
+p16
 aS'integration'
-p18
+p17
 aS'research'
+p18
+aS'genetics'
 p19
 aS'computer science'
 p20
@@ -46,103 +46,75 @@ aS'computational biology'
 p24
 aS'cancer research'
 p25
-aS'business process'
-p26
 aS'leadership'
-p27
+p26
 aS'project management'
-p28
+p27
 aS'biomedical informatics'
-p29
+p28
 aS'bioinformatics'
-p30
+p29
 aS'informatics'
+p30
+aS'modeling'
 p31
-aS'genetics'
-p32
 aS'nanotechnology'
-p33
+p32
 aS'manufacturing'
-p34
+p33
 aS'data'
-p35
+p34
 aS'information technology'
-p36
+p35
 aS'software development'
-p37
+p36
 aS'open source software'
-p38
+p37
 aS'risk assessment'
-p39
+p38
 aS'science'
-p40
+p39
 aS'procurement'
-p41
+p40
 aS'r'
 aS'organization'
-p42
+p41
 asS'working-year'
-p43
-(lp44
+p42
+(lp43
 V(0, 2]
-p45
+p44
 aV(2, 5]
-p46
+p45
 asS'major'
-p47
-(lp48
-S'information'
+p46
+(lp47
+VBusiness
+p48
+aVData Science
 p49
-aS'biology'
+aVInformation Science
 p50
-aS'management'
+aVComputer Science
 p51
-aS'genetics genomics'
+aVBiological Engineering
 p52
-aS'business'
+aVManagement Science and Engineering
 p53
-aS'computational biology'
-p54
-aS'science'
-p55
-aS'data science'
-p56
-aS'communication'
-p57
-aS'information systems'
-p58
-aS'information system'
-p59
-aS'project management'
-p60
-aS'biomedical informatics'
-p61
-aS'bioinformatics'
-p62
-aS'informatics'
-p63
-aS'genetics'
-p64
-aS'computational biolog'
-p65
-aS'medical informatics'
-p66
-aS'information technology'
-p67
-aS'computer science'
-p68
 asS'education'
-p69
-(lp70
+p54
+(lp55
 VMaster
-p71
+p56
 asS'responsibility'
-p72
-(lp73
+p57
+(lp58
 S'development'
-p74
-aS'information'
-p75
+p59
+aS'modeling'
+p60
 aS'product'
-p76
+p61
+aS'information'
+p62
 as.

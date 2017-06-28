@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'java'
+S'network security'
 p4
 aS'big data'
 p5
@@ -20,32 +20,30 @@ aS'engineering'
 p11
 aS'organization'
 p12
-aS'network security'
+aS'java'
 p13
-aS'data'
+aS'security'
 p14
-asS'working-year'
+aS'data'
 p15
-(lp16
-V[0]
-p17
-asS'major'
+asS'working-year'
+p16
+(lp17
+S'[0]'
 p18
-(lp19
-S'engineering'
-p20
-aS'network security'
+asS'major'
+p19
+(lp20
+VEngineering
 p21
-aS'big data'
-p22
 asS'education'
-p23
-(lp24
+p22
+(lp23
 S'Bachelor'
-p25
+p24
 asS'responsibility'
-p26
-(lp27
+p25
+(lp26
 S'analysis'
-p28
+p27
 as.

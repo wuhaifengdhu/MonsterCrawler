@@ -2,207 +2,200 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'economics'
 p4
-I1
-sS'data science'
-p5
-I1
-sS'testing'
-p6
-I1
-sS'trading'
-p7
-I1
-sS'communication skills'
-p8
-I1
-sS'problem solving'
-p9
-I1
-sS'go'
-p10
-I1
-sS'visualization'
-p11
-I1
-sS'agile'
-p12
-I1
-sS'excel'
-p13
-I1
-sS'tableau'
-p14
-I1
-sS'perl'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'microsoft excel'
-p17
-I1
-sS'data analysis'
-p18
-I1
-sS'business analysis'
-p19
-I1
-sS'python'
-p20
-I1
-sS'customer service'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'training'
-p23
-I1
-sS'business process'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'informatics'
-p26
-I1
-sS'data'
-p27
-I1
-sS'project management'
-p28
-I1
-sS'software development'
-p29
-I1
-sS'vba'
-p30
-I1
-sS'data visualization'
-p31
-I1
-sS'solver'
-p32
-I1
-sS'economics'
-p33
-I1
-sS'programming'
-p34
-I1
-sS'analysis'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'r'
-I1
-sS'organization'
-p37
-I1
-sS'microsoft office'
-p38
-I1
-sS'data analytics'
-p39
-I1
-sS'statistical analysis'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V[0]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'business analysis'
-p46
-I1
-sS'business'
-p47
-I1
+F0.0051316741420973479
 sS'communication'
-p48
-I1
+p5
+F0.0067801685615025975
 sS'data science'
-p49
-I1
-sS'economics'
-p50
-I1
-sS'data analyst'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'design'
-p53
-I1
-sS'data analytics'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'informatics'
-p56
-I1
-sS'computer science mathematics'
-p57
-I1
-sS'ee computer science'
-p58
-I1
-sS'project management'
-p59
-I1
+p6
+F0.0025756765003438955
+sS'testing'
+p7
+F0.0043841070982869662
+sS'analytics'
+p8
+F0.0018623928522131193
+sS'trading'
+p9
+F0.018025365085017796
+sS'communication skills'
+p10
+F0.0078867791264670747
+sS'problem solving'
+p11
+F0.005256128190478054
+sS'go'
+p12
+F0.007021227398346098
+sS'd3'
+p13
+F0.0064672233237372465
+sS'visualization'
+p14
+F0.0080269604793746022
+sS'agile'
+p15
+F0.004675995444752697
+sS'excel'
+p16
+F0.0034624287511907186
+sS'tableau'
+p17
+F0.0086039661118791945
+sS'perl'
+p18
+F0.0061371536280286267
 sS'computer science'
-p60
-I1
+p19
+F0.0030106707991161045
+sS'mathematics'
+p20
+F0.0039141183770359869
+sS'microsoft excel'
+p21
+F0.004404357291440065
+sS'software development'
+p22
+F0.0045400355847393416
+sS'data analysis'
+p23
+F0.0031772205887915742
+sS'business analysis'
+p24
+F0.0057142017136557902
+sS'python'
+p25
+F0.0022323405257099185
+sS'customer service'
+p26
+F0.0073415840312369201
+sS'data scientist'
+p27
+F0.0022684618097727587
+sS'training'
+p28
+F0.0050391750557223329
+sS'business process'
+p29
+F0.0065423617334470158
+sS'sql'
+p30
+F0.0029205304446811441
+sS'informatics'
+p31
+F0.0094111830903289301
+sS'data'
+p32
+F0.0038094696319423849
+sS'project management'
+p33
+F0.0040716345253202276
+sS'a'
+F0.0040043723631992007
+sS'vba'
+p34
+F0.0066158318747324679
+sS'data visualization'
+p35
+F0.0042114210397850129
+sS'solver'
+p36
+F0.0092397876311058544
+sS'science'
+p37
+F0.0015054258847839238
+sS'.net'
+p38
+F0.0080694793118296117
+sS'programming'
+p39
+F0.0047208361234898329
+sS'analysis'
+p40
+F0.0036682946654617763
+sS'machine learning'
+p41
+F0.0014036782052120758
+sS'r'
+F0.0035652610703251039
+sS'organization'
+p42
+F0.0075511085194076288
+sS'microsoft office'
+p43
+F0.0041122108027683594
+sS'data analytics'
+p44
+F0.0043732819732029918
+sS'statistical analysis'
+p45
+F0.0055132765597700386
+ssS'working-year'
+p46
+(dp47
+S'[0]'
+p48
+F0.0047028152688316548
+ssS'major'
+p49
+(dp50
+VBusiness
+p51
+F0.0023163048119360049
+sVData Science
+p52
+F0.0021997622753855734
+sVEconomics
+p53
+F0.0035134294379538778
+sVInformation Science
+p54
+F0.0054232445151051259
+sVComputer Science
+p55
+F0.0019386632684201238
+sVMathematics
+p56
+F0.0036708191211615674
+sVManagement Science and Engineering
+p57
+F0.0027613373414751446
 ssS'education'
-p61
-(dp62
+p58
+(dp59
 VBachelor
-p63
-I1
+p60
+F0.0019515606588220702
 sVMaster
-p64
-I1
+p61
+F0.0015573462210367814
 ssS'responsibility'
-p65
-(dp66
+p62
+(dp63
 S'development'
+p64
+F0.0077791927349943378
+sS'data analysis'
+p65
+F0.0031772205887915742
+sS'pattern'
+p66
+F0.0056072614037990277
+sS'analysis'
 p67
-I1
+F0.0036682946654617763
 sS'design'
 p68
-I1
-sS'data analysis'
-p69
-I1
-sS'pattern'
-p70
-I1
-sS'analysis'
-p71
-I1
-sS'understand'
-p72
-I1
+F0.0031272351392258625
 sS'report'
-p73
-I1
+p69
+F0.0044438467241379636
+sS'understand'
+p70
+F0.0045003850394952369
 sS'analytical method'
-p74
-I1
+p71
+F0.011489922388485924
 ss.

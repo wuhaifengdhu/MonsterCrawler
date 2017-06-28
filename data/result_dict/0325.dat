@@ -10,7 +10,7 @@ aS'communication'
 p6
 aS'analytics'
 p7
-aS'troubleshooting'
+aS'pricing'
 p8
 aS'direct marketing'
 p9
@@ -32,64 +32,64 @@ aS'research'
 p17
 aS'access'
 p18
-aS'r'
-aS'innovation'
+aS'coaching'
 p19
-aS'mathematics'
-p20
-aS'python'
-p21
-aS'marketing'
-p22
-aS'processing'
-p23
-aS'data scientist'
-p24
-aS'sql'
-p25
-aS'regression'
-p26
-aS'modeling'
-p27
-aS'data'
-p28
-aS'search'
-p29
-aS'applied mathematics'
-p30
-aS'analysis'
-p31
 aS'optimization'
-p32
-aS'microsoft office'
-p33
-asS'working-year'
-p34
-(lp35
-V(2, 5]
-p36
-asS'major'
-p37
-(lp38
-S'information'
-p39
-aS'business'
-p40
-aS'big data'
-p41
-aS'marketing'
-p42
-aS'applied mathematics'
-p43
-aS'statistic'
-p44
-aS'communication'
-p45
-aS'analytics'
-p46
-aS'applied math'
-p47
+p20
+aS'data munging'
+p21
+aS'innovation'
+p22
 aS'mathematics'
+p23
+aS'python'
+p24
+aS'marketing'
+p25
+aS'processing'
+p26
+aS'data scientist'
+p27
+aS'leadership'
+p28
+aS'sql'
+p29
+aS'regression'
+p30
+aS'modeling'
+p31
+aS'data'
+p32
+aS'search'
+p33
+aS'applied mathematics'
+p34
+aS'programming'
+p35
+aS'analysis'
+p36
+aS'r'
+aS'validation'
+p37
+aS'microsoft office'
+p38
+aS'troubleshooting'
+p39
+asS'working-year'
+p40
+(lp41
+V(2, 5]
+p42
+asS'major'
+p43
+(lp44
+VMathematics
+p45
+aVData Science
+p46
+aVEconomics
+p47
+aVBusiness
 p48
 asS'education'
 p49
@@ -107,7 +107,7 @@ aS'processing'
 p56
 aS'model'
 p57
-aVinsight
+aS'insight'
 p58
 aS'communicate'
 p59
@@ -121,18 +121,22 @@ aS'data gathering'
 p63
 aS'optimization'
 p64
-aS'analysis'
+aS'understand'
 p65
-aS'recommendation'
+aS'analysis'
 p66
-aS'report'
+aS'recommendation'
 p67
 aS'modeling'
 p68
 aS'implement'
 p69
-aS'extract'
+aS'develop ... model'
 p70
-aS'transformation'
+aS'extract'
 p71
+aS'transformation'
+p72
+aS'test ... model'
+p73
 as.

@@ -28,13 +28,13 @@ aS'clustering'
 p15
 aS'visualization'
 p16
-aS'management'
+aS'statistics'
 p17
 aS'big data'
 p18
 aS'industrial engineering'
 p19
-aS'r programming'
+aS'education'
 p20
 aS'hadoop'
 p21
@@ -54,21 +54,21 @@ aS'energy'
 p28
 aS'operations research'
 p29
-aS'education'
-p30
 aS'theory'
-p31
+p30
 aS'automotive'
-p32
+p31
 aS'collaboration'
-p33
+p32
 aS'cplex'
-p34
+p33
 aS'algorithm design'
-p35
+p34
 aS'discrete event simulation'
-p36
+p35
 aS'product development'
+p36
+aS'management'
 p37
 aS'statistical modeling'
 p38
@@ -93,94 +93,74 @@ p47
 aS'machine learning'
 p48
 aS'r'
-aS'etl'
+aS'organization'
 p49
-asS'working-year'
+aS'etl'
 p50
-(lp51
-V[0]
-p52
-asS'major'
+asS'working-year'
+p51
+(lp52
+S'[0]'
 p53
-(lp54
-S'communication'
-p55
-aS'analytics'
+asS'major'
+p54
+(lp55
+VStatistics
 p56
-aS'engineering'
+aVBusiness
 p57
-aS'design'
+aVData Science
 p58
-aS'statistic'
+aVEconomics
 p59
-aS'computer science mathematics'
+aVEngineering
 p60
-aS'operations research industrial engineering'
+aVComputer Science
 p61
-aS'information'
+aVMathematics
 p62
-aS'management'
+aVIndustrial Engineering
 p63
-aS'big data'
+aVOperations Research
 p64
-aS'industrial engineering'
+aVManagement Science and Engineering
 p65
-aS'computer science'
-p66
-aS'mathematics'
-p67
-aS'operations research'
-p68
-aS'finance'
-p69
-aS'business'
-p70
-aS'phd'
-p71
-aS'mathematics statistics'
-p72
-aS'science'
-p73
-aS'applied mathematics'
-p74
-aS'machine learning'
-p75
-aS'applied math'
-p76
 asS'education'
-p77
-(lp78
-VDoctor
-p79
+p66
+(lp67
+VMaster
+p68
+aVDoctor
+p69
 asS'responsibility'
-p80
-(lp81
+p70
+(lp71
 S'development'
-p82
+p72
 aS'information'
-p83
+p73
 aS'product'
-p84
+p74
 aS'prototype'
-p85
+p75
 aS'business problem'
-p86
-aVinsight
-p87
+p76
+aS'insight'
+p77
 aS'communicate'
-p88
+p78
 aS'simulation'
-p89
+p79
 aS'optimization'
-p90
+p80
 aS'design'
-p91
+p81
 aS'modeling'
-p92
+p82
 aS'model'
-p93
+p83
 aS'improvement'
-p94
+p84
 aS'transformation'
-p95
+p85
 as.

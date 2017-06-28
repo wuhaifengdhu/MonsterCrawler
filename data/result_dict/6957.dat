@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'clustering'
+S'a'
+aS'clustering'
 p4
 aS'segmentation'
 p5
@@ -30,63 +31,57 @@ aS'statistical analysis'
 p16
 aS'mathematics'
 p17
-aS'modeling'
+aS'regression'
 p18
-aS'experimental design'
+aS'modeling'
 p19
 aS'r'
 aS'data'
 p20
-aS'regression'
+aS'statistics'
 p21
 aS'science'
 p22
 asS'working-year'
 p23
 (lp24
-V[0]
+S'[0]'
 p25
 asS'major'
 p26
 (lp27
-S'business'
+VStatistics
 p28
-aS'marketing'
+aVBusiness
 p29
-aS'data science'
+aVData Science
 p30
-aS'machine learning'
+aVEconomics
 p31
-aS'mathematics statistics'
+aVComputer Science
 p32
-aS'statistic'
+aVMathematics
 p33
-aS'mathematics'
-p34
-aS'science'
-p35
 asS'education'
+p34
+(lp35
+VMaster
 p36
-(lp37
-VBachelor
-p38
-aVMaster
-p39
 asS'responsibility'
-p40
-(lp41
+p37
+(lp38
 S'documentation'
-p42
+p39
 aS'analysis'
-p43
+p40
 aS'statistical model'
-p44
+p41
 aS'report'
-p45
+p42
 aS'modeling'
-p46
+p43
 aS'implement'
-p47
+p44
 aS'model'
-p48
+p45
 as.

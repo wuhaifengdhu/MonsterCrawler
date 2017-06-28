@@ -2,104 +2,90 @@
 S'skills'
 p2
 (lp3
-S'education'
+S'scientific computing'
 p4
-aS'organization'
+aS'education'
 p5
-aS'statistical analysis'
+aS'organization'
 p6
-aS'marketing'
+aS'statistical analysis'
 p7
-aS'data scientist'
-p8
-aS'scientific computing'
-p9
-aS'analysis'
-p10
-aS'machine learning'
-p11
-aS'hardware'
-p12
-aS'analytics'
-p13
-aS'computer science'
-p14
-aS'data mining'
-p15
-aS'modeling'
-p16
-aS'research'
-p17
-aS'data'
-p18
-aS'data analytics'
-p19
-aS'data quality'
-p20
-aS'science'
-p21
-asS'working-year'
-p22
-(lp23
-V(5, 10]
-p24
-aV(0, 2]
-p25
-asS'major'
-p26
-(lp27
-S'business'
-p28
-aS'computing'
-p29
 aS'marketing'
-p30
-aS'scientific computing'
-p31
-aS'machine learning'
-p32
-aS'analytics'
-p33
-aS'design'
-p34
-aS'computer science'
-p35
-aS'data mining'
-p36
-aS'phd'
-p37
-aS'data analytics'
-p38
-aS'science'
-p39
-asS'education'
-p40
-(lp41
-VBachelor
-p42
-aVMaster
-p43
-aVDoctor
-p44
-asS'responsibility'
-p45
-(lp46
-S'modeling'
-p47
-aS'formulate'
-p48
-aVinsight
-p49
+p8
+aS'data scientist'
+p9
+aS'sales'
+p10
 aS'analysis'
-p50
-aS'design'
-p51
+p11
+aS'machine learning'
+p12
+aS'hardware'
+p13
+aS'analytics'
+p14
+aS'computer science'
+p15
 aS'data mining'
-p52
+p16
+aS'modeling'
+p17
+aS'research'
+p18
+aS'data'
+p19
+aS'data analytics'
+p20
+aS'data quality'
+p21
+aS'science'
+p22
+asS'working-year'
+p23
+(lp24
+V(5, 10]
+p25
+aV(0, 2]
+p26
+asS'major'
+p27
+(lp28
+VData Science
+p29
+aVEconomics
+p30
+aVComputer Science
+p31
+aVBusiness
+p32
+asS'education'
+p33
+(lp34
+VBachelor
+p35
+aVMaster
+p36
+aVDoctor
+p37
+asS'responsibility'
+p38
+(lp39
+S'modeling'
+p40
+aS'formulate'
+p41
+aS'insight'
+p42
+aS'analysis'
+p43
+aS'design'
+p44
+aS'data mining'
+p45
 aS'report'
-p53
+p46
 aS'complex data set'
-p54
+p47
 aS'implement'
-p55
+p48
 as.

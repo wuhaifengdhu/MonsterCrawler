@@ -4,211 +4,220 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.0040886942965801532
 sS'data science'
 p5
-I1
+F0.0031323982439078104
 sS'data wrangling'
 p6
-I1
-sS'operations management'
+F0.026047670303554385
+sS'sales'
 p7
-I1
-sS'cluster'
-p8
-I1
-sS'engineering'
-p9
-I1
-sS'statistical analysis'
-p10
-I1
-sS'data mining'
-p11
-I1
-sS'go'
-p12
-I1
-sS'machine learning'
-p13
-I1
-sS'quantitative analysis'
-p14
-I1
-sS'econometrics'
-p15
-I1
-sS'java'
-p16
-I1
-sS'predictive modeling'
-p17
-I1
-sS'integration'
-p18
-I1
-sS'governance'
-p19
-I1
-sS'statistical software'
-p20
-I1
-sS'stata'
-p21
-I1
-sS'policy'
-p22
-I1
-sS'mathematics'
-p23
-I1
-sS'business analysis'
-p24
-I1
-sS'python'
-p25
-I1
-sS'data quality'
-p26
-I1
-sS'advanced analytics'
-p27
-I1
-sS'sql'
-p28
-I1
-sS'modeling'
-p29
-I1
-sS'data'
-p30
-I1
-sS'analytics'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'spss'
-p33
-I1
-sS'r'
-I1
-sS'customer support'
-p34
-I1
-sS'microsoft office'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(5, 10]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-I1
-sS'business analysis'
-p42
-I1
-sS'business'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'data mining'
-p45
-I1
+F0.0086578248442474061
 sS'operations management'
-p46
-I1
-sS'machine learning'
-p47
-I1
-sS'analytics'
-p48
-I1
+p8
+F0.013060257413495808
+sS'cluster'
+p9
+F0.0091475281315611355
 sS'engineering'
-p49
-I1
-sS'design'
-p50
-I1
-sS'statistic'
-p51
-I1
-sS'advanced analytics'
-p52
-I1
-sS'mathematics'
-p53
-I1
-sS'law'
-p54
-I1
+p10
+F0.0031897259819626423
+sS'statistical analysis'
+p11
+F0.0067049483161786662
+sS'data mining'
+p12
+F0.0055259878351097327
+sS'go'
+p13
+F0.0085388364453844456
+sS'machine learning'
+p14
+F0.0017070774006094774
+sS'quantitative analysis'
+p15
+F0.019864595531356409
 sS'econometrics'
+p16
+F0.0079876524993235422
+sS'statistics'
+p17
+F0.0024284188927151161
+sS'java'
+p18
+F0.0032272577283028216
+sS'physics'
+p19
+F0.0063361572329340187
+sS'predictive modeling'
+p20
+F0.0054140778872108584
+sS'integration'
+p21
+F0.0060058414640484694
+sS'governance'
+p22
+F0.0093867604710828091
+sS'sas'
+p23
+F0.0036073876475974393
+sS'statistical software'
+p24
+F0.01024869107108721
+sS'stata'
+p25
+F0.0079256485226527878
+sS'policy'
+p26
+F0.0071084849688561186
+sS'mathematics'
+p27
+F0.0047601387554057437
+sS'business analysis'
+p28
+F0.0069493026048886818
+sS'python'
+p29
+F0.0013574258144616301
+sS'marketing'
+p30
+F0.0049614961522852826
+sS'data quality'
+p31
+F0.0092053074562141231
+sS'advanced analytics'
+p32
+F0.0076635691519220924
+sS'management'
+p33
+F0.0023595022583324274
+sS'sql'
+p34
+F0.00177589546571106
+sS'modeling'
+p35
+F0.0021149627318269595
+sS'data'
+p36
+F0.0018531482480386393
+sS'analytics'
+p37
+F0.0045298826144975343
+sS'science'
+p38
+F0.0018308174171721156
+sS'analysis'
+p39
+F0.0017844725091360934
+sS'spss'
+p40
+F0.005745700080358242
+sS'r'
+F0.0014452924651404716
+sS'customer support'
+p41
+F0.013211264923264288
+sS'microsoft office'
+p42
+F0.0050010480335750613
+ssS'working-year'
+p43
+(dp44
+sS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0046914186715835415
+sVBusiness
+p48
+F0.0028169644457659224
+sVData Science
+p49
+F0.0026752317255340171
+sVEconomics
+p50
+F0.0042728425716782835
+sVEngineering
+p51
+F0.0031897259819626423
+sVComputer Science
+p52
+F0.0023576972561255146
+sVMathematics
+p53
+F0.0044642513791209679
+sVPhysics
+p54
+F0.0068326356802085684
+sVOperations Research
 p55
-I1
-sVphysic
+F0.008382106505695713
+sVManagement Science and Engineering
 p56
-I1
+F0.0033581889022627404
 ssS'education'
 p57
 (dp58
 VBachelor
 p59
-I1
+F0.0023733823637237155
 sVMaster
 p60
-I1
+F0.0018939601177712939
 ssS'responsibility'
 p61
 (dp62
-S'large data set'
+S'information'
 p63
-I1
-sS'business problem'
+F0.0072245062475489296
+sS'large data set'
 p64
-I1
-sS'pattern'
+F0.008188690456596006
+sS'business problem'
 p65
-I1
-sS'data mining'
+F0.0074170587555485532
+sS'pattern'
 p66
-I1
-sS'manage data'
+F0.0068192475926410045
+sS'data mining'
 p67
-I1
-sS'analysis'
+F0.0055259878351097327
+sS'manage data'
 p68
-I1
-sS'information'
+F0.013773002833819385
+sS'analysis'
 p69
-I1
-sS'design'
+F0.0017844725091360934
+sS'forecast'
 p70
-I1
-sS'data wrangling'
+F0.011827146601138915
+sS'design'
 p71
-I1
-sS'report'
+F0.015212695937692474
+sS'data wrangling'
 p72
-I1
-sS'modeling'
+F0.026047670303554385
+sS'report'
 p73
-I1
-sS'model'
+F0.010808731355064733
+sS'identify ... trend'
 p74
-I1
-sS'quantitative analysis'
+F0.011182862272657461
+sS'modeling'
 p75
-I1
-sS'normalization'
+F0.0021149627318269595
+sS'develop ... model'
 p76
-I1
+F0.008072690174937858
+sS'quantitative analysis'
+p77
+F0.019864595531356409
+sS'model'
+p78
+F0.020148578670594282
+sS'normalization'
+p79
+F0.015778485935170998
 ss.

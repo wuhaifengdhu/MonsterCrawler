@@ -1,5 +1,5 @@
-skills: {'communication': 1, 'sql': 1, 'data scientist': 1, 'communication skills': 1, 'writing': 1, 'data structures': 1, 'healthcare': 1, 'technical documentation': 1, 'education': 1, 'data': 1, 'etl': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'data analyst': 1, 'business': 1, 'communication': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'mapping': 1, 'understand': 1, 'ownership': 1, 'transformation': 1}
+skills: {'a': 0.008947568868966634, 'communication': 0.007574973010099791, 'documentation': 0.01387292324853603, 'data scientist': 0.005068763948152527, 'communication skills': 0.01762261173234509, 'writing': 0.010751484813791831, 'data structures': 0.021366694876214575, 'sql': 0.006525778553426288, 'healthcare': 0.01290545618808691, 'technical documentation': 0.025046727977708905, 'education': 0.010041276314896024, 'data': 0.0028373561692457638, 'etl': 0.027270475349427586}
+working-year: {u'(0, 2]': 0.010897512746842839, u'(2, 5]': 0.005927963772397777}
+major: {u'Data Science': 0.004915258289976376, u'Business': 0.005175666732890498}
+education: {u'Bachelor': 0.004360664247224434, u'Master': 0.0034798118910247698}
+responsibility: {'development': 0.005794071781885735, 'information': 0.013273733966788465, 'documentation': 0.01387292324853603, 'mapping': 0.02044918520997954, 'understand': 0.010055884274852992, 'ownership': 0.018853078708552094, 'design': 0.00698764980870085, 'transformation': 0.015045249451353427}

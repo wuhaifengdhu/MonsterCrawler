@@ -14,93 +14,87 @@ aS'analytics'
 p8
 aS'engineering'
 p9
-aS'scala'
+aS'sas'
 p10
-aS'research'
+aS'statistics'
 p11
-aS'matlab'
+aS'scala'
 p12
-aS'advanced analytics'
+aS'research'
 p13
-aS'operations research'
+aS'matlab'
 p14
-aS'computer science'
+aS'advanced analytics'
 p15
-aS'python'
+aS'operations research'
 p16
-aS'greenplum'
+aS'computer science'
 p17
-aS'data scientist'
+aS'python'
 p18
-aS'data wrangling'
+aS'greenplum'
 p19
-aS'modeling'
+aS'data scientist'
 p20
-aS'spark'
+aS'data wrangling'
 p21
-aS'data'
+aS'modeling'
 p22
-aS'science'
+aS'spark'
 p23
-aS'economics'
+aS'data'
 p24
-aS'analysis'
+aS'science'
 p25
-aS'machine learning'
+aS'economics'
 p26
-aS'banking'
+aS'analysis'
 p27
+aS'machine learning'
+p28
+aS'banking'
+p29
 aS'r'
 aS'retail'
-p28
+p30
 asS'working-year'
-p29
-(lp30
-V(10, 15]
 p31
+(lp32
+V(10, 15]
+p33
 asS'major'
-p32
-(lp33
-S'business'
 p34
-aS'business administration'
-p35
-aS'science'
+(lp35
+VStatistics
 p36
-aS'data science'
+aVBusiness
 p37
-aS'economics'
+aVData Science
 p38
-aS'machine learning'
+aVEconomics
 p39
-aS'analytics'
+aVEngineering
 p40
-aS'engineering'
+aVComputer Science
 p41
-aS'computer science'
+aVOperations Research
 p42
-aS'statistic'
-p43
-aS'advanced analytics'
-p44
-aS'operations research'
-p45
 asS'education'
+p43
+(lp44
+VMaster
+p45
+asS'responsibility'
 p46
 (lp47
-VMaster
-p48
-asS'responsibility'
-p49
-(lp50
 S'development'
-p51
+p48
 aS'modeling'
-p52
+p49
 aS'data wrangling'
-p53
+p50
 aS'analysis'
-p54
+p51
 aS'large data set'
-p55
+p52
 as.

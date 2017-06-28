@@ -18,7 +18,7 @@ aS'research'
 p10
 aS'hdfs'
 p11
-aS'management'
+aS'statistics'
 p12
 aS'java'
 p13
@@ -38,75 +38,61 @@ aS'government'
 p20
 aS'python'
 p21
-aS'data'
+aS'data scientist'
 p22
+aS'management'
+p23
+aS'data'
+p24
 aS'c'
 aS'science'
-p23
-aS'documentation'
-p24
-aS'mapreduce'
 p25
-aS'c++'
-p26
-aS'machine learning'
-p27
-aS'security'
-p28
-asS'working-year'
-p29
-(lp30
-V(2, 5]
-p31
-asS'major'
-p32
-(lp33
-S'information'
-p34
-aS'management'
-p35
-aS'mathematics'
-p36
-aS'ee'
-p37
-aS'science'
-p38
-aS'data science'
-p39
-aS'statistic'
-p40
-aS'machine learning data mining'
-p41
-aS'analytics'
-p42
-aS'engineering'
-p43
-aS'design'
-p44
-aS'data mining'
-p45
-aS'management technology'
-p46
-aS'machine learning'
-p47
-aS'artificial intelligence'
-p48
-asS'education'
-p49
-(lp50
-VBachelor
-p51
-asS'responsibility'
-p52
-(lp53
-S'development'
-p54
-aS'information'
-p55
 aS'documentation'
-p56
+p26
+aS'mapreduce'
+p27
+aS'machine learning'
+p28
+aS'security'
+p29
+asS'working-year'
+p30
+(lp31
+V(2, 5]
+p32
+asS'major'
+p33
+(lp34
+VStatistics
+p35
+aVData Science
+p36
+aVEngineering
+p37
+aVComputer Science
+p38
+aVMathematics
+p39
+aVManagement Science and Engineering
+p40
+asS'education'
+p41
+(lp42
+VBachelor
+p43
+aVMaster
+p44
+asS'responsibility'
+p45
+(lp46
+S'development'
+p47
+aS'information'
+p48
+aS'documentation'
+p49
 aS'design'
-p57
+p50
 aS'data mining'
-p58
+p51
 as.

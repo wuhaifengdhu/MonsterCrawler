@@ -2,54 +2,54 @@
 S'skills'
 p2
 (lp3
-S'education'
-p4
+S'r'
 aS'php'
+p4
+aS'problem solving'
 p5
-aS'python'
+aS'big data'
 p6
-aS'data mining'
+aS'python'
 p7
-aS'programming'
-p8
-aS'analysis'
-p9
-aS'analytics'
-p10
-aS'r'
-aS'matlab'
-p11
-aS'leadership'
-p12
-aS'sql'
-p13
-aS'policy'
-p14
-aS'manufacturing'
-p15
-aS'data'
-p16
-aS'data analytics'
-p17
-asS'working-year'
-p18
-(lp19
-V(2, 5]
-p20
-asS'major'
-p21
-(lp22
-S'information'
-p23
-aS'business'
-p24
-aS'analytics'
-p25
-aS'design'
-p26
 aS'data mining'
-p27
+p8
+aS'programming'
+p9
+aS'analysis'
+p10
+aS'analytics'
+p11
+aS'sas'
+p12
+aS'materials'
+p13
+aS'matlab'
+p14
+aS'leadership'
+p15
+aS'sql'
+p16
+aS'policy'
+p17
+aS'education'
+p18
+aS'manufacturing'
+p19
+aS'data'
+p20
 aS'data analytics'
+p21
+asS'working-year'
+p22
+(lp23
+sS'major'
+p24
+(lp25
+VData Science
+p26
+aVComputer Science
+p27
+aVBusiness
 p28
 asS'education'
 p29
@@ -67,7 +67,7 @@ aS'product'
 p36
 aS'analysis'
 p37
-aS'interface'
+aS'develop ... model'
 p38
 aS'design'
 p39

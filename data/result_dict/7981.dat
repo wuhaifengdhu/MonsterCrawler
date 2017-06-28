@@ -2,77 +2,89 @@
 S'skills'
 p2
 (lp3
-S'organization'
+S'public relations'
 p4
-aS'web design'
+aS'communication'
 p5
-aS'python'
+aS'data science'
 p6
-aS'marketing'
+aS'sales'
 p7
-aS'data science'
+aS'analytics'
 p8
-aS'programming'
-p9
-aS'analytics'
-p10
-aS'communication'
-p11
-aS'r'
 aS'go'
+p9
+aS'statistics'
+p10
+aS'new business development'
+p11
+aS'computer science'
 p12
-aS'sql'
-p13
 aS'policy'
-p14
+p13
 aS'military'
+p14
+aS'web design'
 p15
-aS'data'
+aS'marketing communications'
 p16
-aS'business development'
+aS'python'
 p17
-aS'science'
-p18
-asS'working-year'
-p19
-(lp20
-V[0]
-p21
-asS'major'
-p22
-(lp23
-S'information'
-p24
-aS'business'
-p25
 aS'marketing'
-p26
-aS'data science'
-p27
-aS'communication'
-p28
-aS'analytics'
-p29
-aS'design'
-p30
-aS'statistic'
-p31
+p18
+aS'business analytics'
+p19
+aS'sql'
+p20
+aS'business development'
+p21
+aS'data'
+p22
+aS'information technology'
+p23
 aS'science'
-p32
-asS'education'
+p24
+aS'programming'
+p25
+aS'r'
+aS'organization'
+p26
+aS'data analytics'
+p27
+asS'working-year'
+p28
+(lp29
+S'[0]'
+p30
+asS'major'
+p31
+(lp32
+VStatistics
 p33
-(lp34
-VMaster
+aVBusiness
+p34
+aVData Science
 p35
-asS'responsibility'
+aVEconomics
 p36
-(lp37
-S'development'
+aVInformation Science
+p37
+aVComputer Science
 p38
-aS'information'
+asS'education'
 p39
-aS'design'
-p40
-aVtest hypothesis
+(lp40
+VMaster
 p41
+asS'responsibility'
+p42
+(lp43
+S'development'
+p44
+aS'information'
+p45
+aS'design'
+p46
+aVtest hypothesis
+p47
 as.

@@ -2,94 +2,94 @@
 S'skills'
 p2
 (lp3
-S'characterization'
+S'.net'
 p4
-aS'communication'
+aS'characterization'
 p5
-aS'data science'
+aS'communication'
 p6
-aS'engineering'
+aS'data science'
 p7
-aS'analysis'
+aS'testing'
 p8
-aS'experimentation'
+aS'engineering'
 p9
-aS'research'
-p10
-aS'optimization'
-p11
-aS'matlab'
-p12
-aS'mathematics'
-p13
 aS'data analysis'
+p10
+aS'analysis'
+p11
+aS'sas'
+p12
+aS'experimentation'
+p13
+aS'visualization'
 p14
-aS'python'
+aS'research'
 p15
-aS'experimental design'
+aS'optimization'
 p16
-aS'modeling'
+aS'matlab'
 p17
-aS'manufacturing'
+aS'mathematics'
 p18
-aS'data'
+aS'optimizations'
 p19
-aS'process development'
+aS'python'
 p20
-aS'data visualization'
+aS'experimental design'
 p21
-aS'science'
+aS'modeling'
 p22
-aS'documentation'
+aS'manufacturing'
 p23
-aS'communication skills'
+aS'data'
 p24
+aS'process development'
+p25
+aS'data visualization'
+p26
+aS'science'
+p27
+aS'documentation'
+p28
+aS'communication skills'
+p29
 aS'r'
 aS'organization'
-p25
-aS'statistical analysis'
-p26
-asS'working-year'
-p27
-(lp28
-V(5, 10]
-p29
-asS'major'
 p30
-(lp31
-S'science'
+aS'statistical analysis'
+p31
+asS'working-year'
 p32
-aS'data science'
-p33
-aS'communication'
+(lp33
+V(5, 10]
 p34
-aS'phd'
+asS'major'
 p35
-aS'engineering'
-p36
-aS'design'
+(lp36
+VMathematics
 p37
-aS'statistic'
+aVData Science
 p38
-aS'mathematics'
+aVEngineering
 p39
-aVphysic
-p40
 asS'education'
-p41
-(lp42
-VDoctor
+p40
+(lp41
+VMaster
+p42
+aVDoctor
 p43
 asS'responsibility'
 p44
 (lp45
-S'mine data'
+S'development'
 p46
-aS'data analysis'
-p47
-aS'documentation'
-p48
 aS'product'
+p47
+aS'data analysis'
+p48
+aS'documentation'
 p49
 aS'analysis'
 p50
@@ -97,10 +97,10 @@ aS'optimization'
 p51
 aS'design'
 p52
-aS'design experiment'
-p53
 aS'modeling'
-p54
+p53
 aS'model'
+p54
+aS'design ... experiment'
 p55
 as.

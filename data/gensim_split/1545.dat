@@ -1,201 +1,386 @@
-open
-location
-platform
-company
-enables
-people
-enterprise
-city
-harness_power
-location
-making_sense
-world
-lens
-location
-empower
-customer_achieve
-better_outcome
-helping
-city
-manage
-infrastructure
-enterprise
-optimize
-asset
-delivering
-driver
-destination
-safely
-learn
-including
-new
-generation_cloud-based
-location
-platform
-service
-visit_http
-360herecom
-currently_looking
-data_scientist
-chicago_il
-responsibility
-develop
-sampling_plan
-data_collection
-quality
-evaluation
-production
-training
-data
-design
-create
-technical
-method
-estimator
-evaluation
-map
-quality
-along
-various
-internal
-customer
-use-cases
-design
-analyze
-b_experiment
-validate
-different
-optimization
-solution
-approach
-calibrate
-model_parameter
-build
-test
-analytic
-statistical_model
-support
-improvement
-wide_variety
-data-driven
-process
-map-making
-data
-evaluation
-decision
-work
-map
-expert
-engineering
-team
-analytic
-team
-provide
-support
-statistical
-analytical
-need
-various_department
-within
-company
-train
-team
-within_organization
-statistical
-thinking
-method
-m_phd
-required
-degree_statistic
-mathematics_econometrics
-related_field
-2_year
-related
-work
-experience
-knowledge
-sampling
-method
-data_mining
-analytic_method
-regression
-classifier_clustering
-association_rule
-decision_tree
-etc
-proficiency
-analysis
-programming
-r
-similar
-package
-python_matlab
-sa
-etc
-knowledge
-experience
-using
-gi
-tool
-spatial
-data
-analysis
-knowledge
-tool
-pig_hive
-etc
-working
-big_data
-hadoop_spark
-data
-extraction
-prep_analysis
-application
-statistic
-quality
-area
-six_sigma
-plus
-experience
-understanding
-specifying
-explaining
-measurement
-analytic
-system
-team
-data_scientist
-engineer
-execute
-project
-delivering
-solution
-excellent_oral
-written_communication
-skill
-ability_explain
-statistic
-analytic
-concept
-non-subject
-matter_expert
-ability
-learn
-expand
-role
-equal_opportunity
-employer
-evaluate
-qualified_applicant
-without_regard
-race_color
-age_gender
-identity_sexual
-orientation_marital
-status
-parental_status
-religion_sex
-national_origin
-disability_veteran
-status_legally
-protected_characteristic
+(lp1
+Vopen
+p2
+aVlocation
+p3
+aVplatform
+p4
+aVcompany
+p5
+aVenables
+p6
+aVpeople
+p7
+aVenterprise
+p8
+aVcity
+p9
+aVharness power
+p10
+aVlocation
+p11
+aVmaking sense
+p12
+aVworld
+p13
+aVlens
+p14
+aVlocation
+p15
+aVempower
+p16
+aVcustomer achieve
+p17
+aVbetter outcome
+p18
+aVhelping
+p19
+aVcity
+p20
+aVmanage
+p21
+aVinfrastructure
+p22
+aVenterprise
+p23
+aVoptimize
+p24
+aVasset
+p25
+aVdelivering
+p26
+aVdriver
+p27
+aVdestination
+p28
+aVsafely
+p29
+aVlearn
+p30
+aVincluding
+p31
+aVnew
+p32
+aVgeneration cloud-based
+p33
+aVlocation
+p34
+aVplatform
+p35
+aVservice
+p36
+aVvisit http
+p37
+aV360.here.com.
+p38
+aVcurrently looking
+p39
+aVdata scientist
+p40
+aVchicago il
+p41
+aVresponsibility
+p42
+aVdevelop
+p43
+aVsampling plan
+p44
+aVdata collection
+p45
+aVquality
+p46
+aVevaluation
+p47
+aVproduction
+p48
+aVtraining
+p49
+aVdata
+p50
+aVdesign
+p51
+aVcreate
+p52
+aVtechnical
+p53
+aVmethod
+p54
+aVestimator
+p55
+aVevaluation
+p56
+aVmap
+p57
+aVquality
+p58
+aValong
+p59
+aVvarious internal
+p60
+aVcustomer
+p61
+aVuse-cases
+p62
+aVdesign
+p63
+aVanalyze
+p64
+aVb experiment
+p65
+aVvalidate
+p66
+aVdifferent
+p67
+aVoptimization
+p68
+aVsolution
+p69
+aVapproach
+p70
+aVcalibrate
+p71
+aVmodel parameter
+p72
+aVbuild
+p73
+aVtest
+p74
+aVanalytic
+p75
+aVstatistical model
+p76
+aVsupport
+p77
+aVimprovement
+p78
+aVwide variety
+p79
+aVdata-driven
+p80
+aVprocess
+p81
+aVmap-making
+p82
+aVdata
+p83
+aVevaluation
+p84
+aVdecision
+p85
+aVwork
+p86
+aVmap
+p87
+aVexpert
+p88
+aVengineering team
+p89
+aVanalytic
+p90
+aVteam
+p91
+aVprovide
+p92
+aVsupport
+p93
+aVstatistical
+p94
+aVanalytical
+p95
+aVneed
+p96
+aVvarious department
+p97
+aVwithin
+p98
+aVcompany
+p99
+aVtrain
+p100
+aVteam
+p101
+aVwithin organization
+p102
+aVstatistical
+p103
+aVthinking
+p104
+aVmethod
+p105
+aVm phd
+p106
+aVrequired
+p107
+aVdegree statistic
+p108
+aVmathematics econometrics
+p109
+aVrelated field
+p110
+aV2 year
+p111
+aVrelated
+p112
+aVwork
+p113
+aVexperience
+p114
+aVknowledge
+p115
+aVsampling
+p116
+aVmethod
+p117
+aVdata mining
+p118
+aVanalytic method
+p119
+aVregression classifier
+p120
+aVclustering association
+p121
+aVrule
+p122
+aVdecision tree
+p123
+aVetc
+p124
+aVproficiency
+p125
+aVanalysis
+p126
+aVprogramming
+p127
+aVr similar
+p128
+aVpackage
+p129
+aVpython matlab
+p130
+aVsa etc
+p131
+aVknowledge
+p132
+aVexperience
+p133
+aVusing gi
+p134
+aVtool
+p135
+aVspatial
+p136
+aVdata
+p137
+aVanalysis
+p138
+aVknowledge
+p139
+aVtool
+p140
+aVpig hive
+p141
+aVetc
+p142
+aVworking
+p143
+aVbig data
+p144
+aVhadoop spark
+p145
+aVdata extraction
+p146
+aVprep analysis
+p147
+aVapplication
+p148
+aVstatistic
+p149
+aVquality
+p150
+aVarea
+p151
+aVsix sigma
+p152
+aVplus
+p153
+aVexperience
+p154
+aVunderstanding
+p155
+aVspecifying
+p156
+aVexplaining
+p157
+aVmeasurement
+p158
+aVanalytic
+p159
+aVsystem
+p160
+aVteam
+p161
+aVdata scientist
+p162
+aVengineer
+p163
+aVexecute project
+p164
+aVdelivering
+p165
+aVsolution
+p166
+aVexcellent oral
+p167
+aVwritten communication
+p168
+aVskill ability
+p169
+aVexplain
+p170
+aVstatistic
+p171
+aVanalytic
+p172
+aVconcept
+p173
+aVnon-subject
+p174
+aVmatter expert
+p175
+aVability learn
+p176
+aVexpand
+p177
+aVrole
+p178
+aVequal opportunity
+p179
+aVemployer evaluate
+p180
+aVqualified applicant
+p181
+aVwithout regard
+p182
+aVrace color
+p183
+aVage gender
+p184
+aVidentity sexual
+p185
+aVorientation marital
+p186
+aVstatus
+p187
+aVparental status
+p188
+aVreligion sex
+p189
+aVnational origin
+p190
+aVdisability veteran
+p191
+aVstatus legally
+p192
+aVprotected characteristic
+p193
+a.

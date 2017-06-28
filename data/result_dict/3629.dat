@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'market data'
+S'economics'
 p4
 aS'communication'
 p5
@@ -18,81 +18,81 @@ aS'visualization'
 p10
 aS'management'
 p11
-aS'excel'
+aS'gis'
 p12
-aS'research'
+aS'excel'
 p13
-aS'statistical software'
+aS'research'
 p14
-aS'stata'
+aS'statistical software'
 p15
-aS'policy'
+aS'stata'
 p16
-aS'data scientist'
+aS'policy'
 p17
-aS'sql'
+aS'data scientist'
 p18
-aS'data'
+aS'sql'
 p19
-aS'project management'
+aS'modeling'
 p20
-aS'econometric modeling'
+aS'data'
 p21
-aS'data visualization'
+aS'project management'
 p22
-aS'science'
+aS'econometric modeling'
 p23
-aS'economics'
+aS'data visualization'
 p24
-aS'analysis'
+aS'science'
 p25
+aS'market data'
+p26
+aS'analysis'
+p27
 aS'r'
 aS'real estate'
-p26
-aS'organization'
-p27
-asS'working-year'
 p28
-(lp29
-V[0]
+aS'organization'
+p29
+asS'working-year'
 p30
-aV(2, 5]
-p31
-asS'major'
+(lp31
+V[0]
 p32
-(lp33
-S'management'
+aV(2, 5]
+p33
+asS'major'
 p34
-aS'science'
-p35
-aS'data science'
+(lp35
+VData Science
 p36
-aS'economics'
+aVSociology
 p37
-aS'design'
+aVEconomics
 p38
-aS'communication'
+aVManagement Science and Engineering
 p39
-aS'public policy'
-p40
-aS'project management'
-p41
 asS'education'
-p42
-(lp43
+p40
+(lp41
 VMaster
-p44
+p42
 asS'responsibility'
+p43
+(lp44
+S'analysis'
 p45
-(lp46
-S'report'
-p47
-aS'quantitative analysis'
-p48
-aS'model'
-p49
+aS'forecast'
+p46
 aS'design'
+p47
+aS'report'
+p48
+aS'modeling'
+p49
+aS'model'
 p50
-aS'analysis'
+aS'quantitative analysis'
 p51
 as.

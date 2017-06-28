@@ -4,7 +4,7 @@ p2
 (lp3
 S'consulting'
 p4
-aS'economics'
+aS'marketing analytics'
 p5
 aS'communication'
 p6
@@ -14,103 +14,84 @@ aS'process improvement'
 p8
 aS'problem solving'
 p9
-aS'econometrics'
+aS'sas'
 p10
-aS'management'
+aS'econometrics'
 p11
-aS'research'
+aS'management'
 p12
-aS'innovation'
+aS'research'
 p13
-aS'mathematics'
+aS'innovation'
 p14
-aS'data management'
+aS'mathematics'
 p15
-aS'design thinking'
+aS'data management'
 p16
-aS'marketing'
+aS'design thinking'
 p17
-aS'data scientist'
+aS'marketing'
 p18
-aS'data'
+aS'data scientist'
 p19
-aS'science'
+aS'data'
 p20
-aS'applied mathematics'
+aS'a'
+aS'science'
 p21
-aS'marketing analytics'
+aS'applied mathematics'
 p22
-aS'analysis'
+aS'economics'
 p23
+aS'analysis'
+p24
 aS'r'
 aS'retail'
-p24
-asS'working-year'
 p25
-(lp26
+asS'working-year'
+p26
+(lp27
 V(5, 10]
-p27
-asS'major'
 p28
-(lp29
-S'management'
-p30
-aS'business'
+asS'major'
+p29
+(lp30
+VMathematics
 p31
-aS'marketing analytics'
+aVData Science
 p32
-aS'marketing'
+aVEconomics
 p33
-aS'applied mathematics'
+aVBusiness
 p34
-aS'economics'
+aVManagement Science and Engineering
 p35
-aS'statistic'
-p36
-aS'mba'
-p37
-aS'phd'
-p38
-aS'analytics'
-p39
-aS'design'
-p40
-aS'applied math'
-p41
-aS'communication'
-p42
-aS'mathematics'
-p43
-aS'general'
-p44
-aS'econometrics'
-p45
-aS'science'
-p46
 asS'education'
-p47
-(lp48
+p36
+(lp37
 VMaster
-p49
+p38
 aVDoctor
-p50
+p39
 asS'responsibility'
-p51
-(lp52
+p40
+(lp41
 S'development'
-p53
+p42
+aS'information'
+p43
 aS'product'
-p54
-aVinsight
-p55
+p44
+aS'insight'
+p45
 aS'analysis'
-p56
+p46
 aS'improvement'
-p57
+p47
 aS'analytic'
-p58
+p48
 aS'design'
-p59
+p49
 aS'model'
-p60
+p50
 as.

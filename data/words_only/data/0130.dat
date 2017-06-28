@@ -4,208 +4,196 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0034342068527350466
 sS'management consulting'
 p5
-I1
+F0.0083197743365669603
 sS'sqoop'
 p6
-I1
+F0.0102244530785749
 sS'presentation skills'
 p7
-I1
+F0.010050826267561454
 sS'hadoop'
 p8
-I1
+F0.002786998918437234
 sS'information technology'
 p9
-I1
+F0.0067606270537131138
 sS'analytics'
 p10
-I1
+F0.0037732644771519596
 sS'thought leadership'
 p11
-I1
+F0.0088973511920371427
 sS'security clearance'
 p12
-I1
-sS'accounting'
+F0.0079258578595637081
+sS'sas'
 p13
-I1
-sS'econometrics'
+F0.003004852183682032
+sS'accounting'
 p14
-I1
-sS'business analysis'
+F0.0095667891287762596
+sS'econometrics'
 p15
-I1
-sS'visualization'
+F0.00665348928360139
+sS'business analysis'
 p16
-I1
-sS'management'
+F0.0057885731025536964
+sS'visualization'
 p17
-I1
-sS'power bi'
+F0.0040657164250194567
+sS'management'
 p18
-I1
-sS'recruiting'
+F0.0058961965327526166
+sS'power bi'
 p19
-I1
-sS'tableau'
+F0.011070349008848457
+sS'recruiting'
 p20
-I1
-sS'writing'
+F0.0074813411076299161
+sS'tableau'
 p21
-I1
-sS'coaching'
+F0.0043579741586199389
+sS'writing'
 p22
-I1
-sS'quality assurance'
+F0.0048743174101572515
+sS'coaching'
 p23
-I1
-sS'policy'
+F0.0083768605566902354
+sS'materials'
 p24
-I1
+F0.0095336713735002399
 sS'matlab'
 p25
-I1
-sS'text mining'
+F0.0027687661337051296
+sS'policy'
 p26
-I1
-sS'customer satisfaction'
+F0.0059211675228649664
+sS'quality assurance'
 p27
-I1
-sS'performance management'
+F0.0084654096960803688
+sS'text mining'
 p28
-I1
-sS'government'
+F0.0071288176343830912
+sS'customer satisfaction'
 p29
-I1
-sS'training'
+F0.0098139538808553074
+sS'performance management'
 p30
-I1
-sS'advanced analytics'
+F0.010293321664021342
+sS'government'
 p31
-I1
-sS'leadership'
+F0.016966070600622333
+sS'python'
 p32
-I1
-sS'sql'
+F0.0011306974246274751
+sS'data scientist'
 p33
-I1
-sS'business development'
+F0.0022979862584899748
+sS'training'
 p34
-I1
-sS'pig'
-p35
-I1
-sS'data'
-p36
-I1
-sS'project management'
-p37
-I1
-sS'search'
-p38
-I1
-sS'analysis'
-p39
-I1
-sS'spss'
-p40
-I1
-sS'r'
-I1
-sS'security'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(5, 10]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
-sS'management'
-p48
-I1
-sS'business analysis'
-p49
-I1
-sS'business'
-p50
-I1
-sS'communication'
-p51
-I1
-sS'analytics'
-p52
-I1
-sS'design'
-p53
-I1
-sS'information technology'
-p54
-I1
-sS'applied math'
-p55
-I1
+F0.0051047608482046192
 sS'advanced analytics'
-p56
-I1
-sS'accounting'
-p57
-I1
-sS'econometrics'
-p58
-I1
+p35
+F0.0063835369942257776
+sS'leadership'
+p36
+F0.003584400479834755
+sS'sql'
+p37
+F0.0014792708434556337
+sS'business development'
+p38
+F0.0075460960499830433
+sS'pig'
+p39
+F0.0058538572128327363
+sS'data'
+p40
+F0.00025727003877326014
 sS'project management'
-p59
-I1
+p41
+F0.0041246275994024865
+sS'search'
+p42
+F0.006728828151084095
+sS'analysis'
+p43
+F0.00074320763937989144
+sS'spss'
+p44
+F0.0047860061406888614
+sS'r'
+F0.0012038878668415209
+sS'security'
+p45
+F0.0047404573009106115
+ssS'working-year'
+p46
+(dp47
+V(5, 10]
+p48
+F0.0026152803938760496
+ssS'major'
+p49
+(dp50
+VBusiness
+p51
+F0.0023464519461477533
+sVData Science
+p52
+F0.0022283925869957975
+sVEconomics
+p53
+F0.0035591573699012167
+sVInformation Science
+p54
+F0.0054938290424166895
+sVMathematics
+p55
+F0.0037185955088556441
+sVManagement Science and Engineering
+p56
+F0.0027972766561147342
 ssS'education'
+p57
+(dp58
+VMaster
+p59
+F0.0015776153692498415
+ssS'responsibility'
 p60
 (dp61
-VMaster
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
 S'development'
-p65
-I1
-sS'large data set'
-p66
-I1
-sS'mine data'
-p67
-I1
+p62
+F0.005253626908521122
 sS'information'
-p68
-I1
+p63
+F0.003008904988133177
+sS'large data set'
+p64
+F0.0068209482328261744
 sS'discover pattern'
-p69
-I1
+p65
+F0.014111116833963018
 sS'communicate'
-p70
-I1
+p66
+F0.0043519368379210241
 sS'analysis'
-p71
-I1
+p67
+F0.00074320763937989144
 sS'analytic'
-p72
-I1
+p68
+F0.039179626417347381
 sS'design'
-p73
-I1
+p69
+F0.0031679366811680643
 sS'model'
-p74
-I1
+p70
+F0.0033566395702855551
 sS'presentation'
-p75
-I1
+p71
+F0.0053435018271358065
 ss.

@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'a'
+aS'visualization'
 p4
 aS'data analysis'
 p5
@@ -30,29 +31,27 @@ p15
 asS'working-year'
 p16
 (lp17
-V[0]
+S'[0]'
 p18
 asS'major'
 p19
 (lp20
-S'information'
+VData Science
 p21
-aS'data analyst'
-p22
 asS'education'
-p23
-(lp24
+p22
+(lp23
 S'Bachelor'
-p25
+p24
 asS'responsibility'
-p26
-(lp27
+p25
+(lp26
 S'information'
-p28
+p27
 aS'data analysis'
-p29
+p28
 aS'analysis'
-p30
+p29
 aS'data wrangling'
-p31
+p30
 as.

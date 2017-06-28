@@ -4,283 +4,258 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.0058179146941077743
 sS'excel'
 p5
-I1
+F0.0032082425135040982
 sS'data science'
 p6
-I1
+F0.0023865891382154744
 sS'testing'
 p7
-I1
-sS'analytics'
+F0.0040622579660714543
+sS'sales'
 p8
-I1
-sS'business intelligence'
-p9
-I1
-sS'data-driven decision making'
-p10
-I1
-sS'data mining'
-p11
-I1
-sS'strategy'
-p12
-I1
-sS'quantitative analysis'
-p13
-I1
-sS'experimentation'
-p14
-I1
-sS'visualization'
-p15
-I1
-sS'education'
-p16
-I1
-sS'user experience'
-p17
-I1
-sS'agile'
-p18
-I1
-sS'product marketing'
-p19
-I1
-sS'tableau'
-p20
-I1
-sS'perl'
-p21
-I1
-sS'omniture'
-p22
-I1
-sS'r'
-I1
-sS'computer science'
-p23
-I1
-sS'microstrategy'
-p24
-I1
-sS'communication'
-p25
-I1
-sS'intelligence'
-p26
-I1
-sS'mathematics'
-p27
-I1
-sS'decision support'
-p28
-I1
-sS'python'
-p29
-I1
-sS'marketing'
-p30
-I1
-sS'data scientist'
-p31
-I1
-sS'performance measurement'
-p32
-I1
-sS'statistical modeling'
-p33
-I1
-sS'sql'
-p34
-I1
-sS'modeling'
-p35
-I1
-sS'spark'
-p36
-I1
-sS'data'
-p37
-I1
-sS'science'
-p38
-I1
-sS'economics'
-p39
-I1
-sS'analysis'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'pricing analysis'
-p42
-I1
-sS'optimization'
-p43
-I1
-sS'real estate'
-p44
-I1
-sS'organization'
-p45
-I1
-sS'powerpoint'
-p46
-I1
-sS'data analytics'
-p47
-I1
-sS'pricing'
-p48
-I1
-ssS'working-year'
-p49
-(dp50
-V(5, 10]
-p51
-I1
-sV(2, 5]
-p52
-I1
-ssS'major'
-p53
-(dp54
-S'data mining'
-p55
-I1
-sS'information'
-p56
-I1
-sS'business'
-p57
-I1
-sS'marketing'
-p58
-I1
-sS'data science'
-p59
-I1
-sS'economics'
-p60
-I1
-sVapplied statistic
-p61
-I1
-sS'analytics data science'
-p62
-I1
-sS'machine learning'
-p63
-I1
+F0.0065964379765694522
 sS'analytics'
-p64
-I1
-sS'design'
-p65
-I1
-sS'computer science'
-p66
-I1
-sS'phd'
-p67
-I1
-sS'statistic'
-p68
-I1
-sS'communication'
-p69
-I1
-sS'mathematics'
-p70
-I1
-sS'mathematics computer science'
-p71
-I1
-sS'machine learning data mining'
-p72
-I1
-sS'data analytics'
-p73
-I1
-sS'science'
-p74
-I1
-ssS'education'
-p75
-(dp76
-VDoctor
-p77
-I1
-ssS'responsibility'
-p78
-(dp79
-S'recommendation'
-p80
-I1
-sS'information'
-p81
-I1
-sS'forecasting'
-p82
-I1
-sS'design experiment'
-p83
-I1
-sS'business problem'
-p84
-I1
-sS'understand'
-p85
-I1
-sS'presentation'
-p86
-I1
-sVinsight
-p87
-I1
-sS'communicate'
-p88
-I1
-sS'product'
-p89
-I1
-sS'analysis'
-p90
-I1
-sS'statistical model'
-p91
-I1
-sS'analytic'
-p92
-I1
-sS'optimization'
-p93
-I1
-sS'design'
-p94
-I1
-sS'ownership'
-p95
-I1
+p9
+F0.0086283478371381606
+sS'business intelligence'
+p10
+F0.0040536573586794069
+sS'data-driven decision making'
+p11
+F0.010855463896241561
 sS'data mining'
-p96
-I1
-sS'modeling'
-p97
-I1
-sS'implement'
-p98
-I1
+p12
+F0.0042102764457978914
+sS'strategy'
+p13
+F0.0031250226810056246
 sS'quantitative analysis'
-p99
-I1
+p14
+F0.0151349299286525
+sS'experimentation'
+p15
+F0.0071450110699838865
+sS'visualization'
+p16
+F0.0037188398252658121
+sS'education'
+p17
+F0.0041639419639152159
+sS'user experience'
+p18
+F0.0066968511212437609
+sS'agile'
+p19
+F0.0043327180013879151
+sS'product marketing'
+p20
+F0.0090462771527537438
+sS'tableau'
+p21
+F0.0039861628712773642
+sS'perl'
+p22
+F0.005686608619621762
+sS'omniture'
+p23
+F0.010251872866869051
+sS'r'
+F0.0011011752115355974
+sS'computer science'
+p24
+F0.0027896493317206756
+sS'microstrategy'
+p25
+F0.0090640719474131062
+sS'communication'
+p26
+F0.0062824180917097471
+sS'intelligence'
+p27
+F0.0031151956545372598
+sS'mathematics'
+p28
+F0.0036267723850710431
+sS'decision support'
+p29
+F0.0088125832499459725
+sS'python'
+p30
+F0.0010342291919707657
+sS'marketing'
+p31
+F0.022681125267589863
+sS'data scientist'
+p32
+F0.0021019279070711868
+sS'performance measurement'
+p33
+F0.010727411831335723
+sS'statistical modeling'
+p34
+F0.0035542966670444372
+sS'sql'
+p35
+F0.0040591896359109944
+sS'modeling'
+p36
+F0.0032228003532601287
+sS'spark'
+p37
+F0.00334550718911837
+sS'data'
+p38
+F0.0035298061867402651
+sS'a'
+F0.0037104005825675129
+sS'science'
+p39
+F0.0013949085083216118
+sS'economics'
+p40
+F0.0047549440959513117
+sS'analysis'
+p41
+F0.0033989952554973205
+sS'machine learning'
+p42
+F0.0013006304004643636
+sS'pricing analysis'
+p43
+F0.011531903125992669
+sS'optimization'
+p44
+F0.0039682715424375833
+sS'real estate'
+p45
+F0.010811855139805537
+sS'organization'
+p46
+F0.0034983806334953991
+sS'powerpoint'
+p47
+F0.0048552071566155802
+sS'data analytics'
+p48
+F0.0040522275426305493
+sS'pricing'
+p49
+F0.0075013227570226004
+ssS'working-year'
+p50
+(dp51
+V(5, 10]
+p52
+F0.0023921513126524976
+sV(2, 5]
+p53
+F0.0024582230722839989
+ssS'major'
+p54
+(dp55
+VStatistics
+p56
+F0.003574414225968413
+sVBusiness
+p57
+F0.0021462586253454645
+sVData Science
+p58
+F0.0020382717908830608
+sVEconomics
+p59
+F0.0032554991022310728
+sVComputer Science
+p60
+F0.0017963407665718208
+sVMathematics
+p61
+F0.0034013343840921663
+ssS'education'
+p62
+(dp63
+VBachelor
+p64
+F0.0018082913247418784
+sVMaster
+p65
+F0.0014430172325876525
+sVDoctor
+p66
+F0.0021610749440009284
+ssS'responsibility'
+p67
+(dp68
+S'forecasting'
+p69
+F0.0058179146941077743
+sS'insight'
+p70
+F0.00364066142065374
+sS'design'
+p71
+F0.0057953127381685614
+sS'recommendation'
+p72
+F0.010365879939755044
+sS'forecast'
+p73
+F0.0090111593151534584
+sS'quantitative analysis'
+p74
+F0.0151349299286525
+sS'decision making'
+p75
+F0.006481315575256971
+sS'data mining'
+p76
+F0.0042102764457978914
+sS'information'
+p77
+F0.0027521928562091163
+sS'develop ... model'
+p78
+F0.0061506210856669399
+sS'analytic'
+p79
+F0.013438845073212158
+sS'presentation'
+p80
+F0.01955043128817148
+sS'product'
+p81
+F0.0080059100637961105
+sS'business problem'
+p82
+F0.0056510923851798506
+sS'communicate'
+p83
+F0.0039806406394476031
+sS'understand'
+p84
+F0.0041699996298497528
+sS'ownership'
+p85
+F0.0078180425596971973
+sS'modeling'
+p86
+F0.0032228003532601287
+sS'design ... experiment'
+p87
+F0.0089093880184447517
+sS'implement'
+p88
+F0.0042021094744436657
+sS'analysis'
+p89
+F0.0033989952554973205
+sS'optimization'
+p90
+F0.0039682715424375833
 sS'model'
-p100
-I1
+p91
+F0.0061405192138953993
 ss.

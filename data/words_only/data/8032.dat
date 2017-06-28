@@ -4,193 +4,205 @@ p2
 (dp3
 S'model validation'
 p4
-I1
-sS'excel'
-p5
-I1
-sS'problem solving'
-p6
-I1
-sS'chemistry'
-p7
-I1
-sS'credit risk'
-p8
-I1
-sS'big data'
-p9
-I1
+F0.020960131857120805
 sS'r programming'
-p10
-I1
-sS'hadoop'
-p11
-I1
-sS'strategy'
-p12
-I1
-sS'risk management'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'policy'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'risk analytics'
-p17
-I1
-sS'data modeling'
-p18
-I1
-sS'finance'
-p19
-I1
-sS'python'
-p20
-I1
-sS'processing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'automation'
-p23
-I1
-sS'risk analysis'
-p24
-I1
-sS'business process'
-p25
-I1
-sS'data processing'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'data quality'
-p29
-I1
-sS'data'
-p30
-I1
-sS'validation'
-p31
-I1
-sS'risk modeling'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'credit'
-p35
-I1
-sS'r'
-I1
-sS'architecture'
-p36
-I1
-sS'business process re-engineering'
-p37
-I1
-sS'retail'
-p38
-I1
-sS'powerpoint'
-p39
-I1
-sS'data analytics'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(5, 10]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'mathematics physics'
-p46
-I1
+p5
+F0.012325632427570621
+sS'analytics'
+p6
+F0.0033974119608731509
+sS'engineering'
+p7
+F0.0047845889729439635
+sS'problem solving'
+p8
+F0.0095883275974736372
+sS'sas'
+p9
+F0.005411081471396159
 sS'chemistry'
-p47
-I1
-sS'finance'
-p48
-I1
-sS'business'
-p49
-I1
-sS'automation'
-p50
-I1
-sS'data analytics'
-p51
-I1
-sS'mathematics'
-p52
-I1
+p10
+F0.015623889644040535
+sS'credit risk'
+p11
+F0.017507940827952432
 sS'big data'
-p53
-I1
-sVphysic
-p54
-I1
+p12
+F0.0049715825248541701
+sS'excel'
+p13
+F0.0063162274484611933
+sS'hadoop'
+p14
+F0.0050187753960920503
+sS'strategy'
+p15
+F0.012304776806459647
+sS'risk management'
+p16
+F0.012342802054641548
 sS'computer science'
+p17
+F0.0054921221218250807
+sS'policy'
+p18
+F0.010662727453284178
+sS'mathematics'
+p19
+F0.0071402081331086165
+sS'risk analytics'
+p20
+F0.02024794192725908
+sS'data modeling'
+p21
+F0.010203913065696372
+sS'finance'
+p22
+F0.010371664274155033
+sS'python'
+p23
+F0.0020361387216924452
+sS'processing'
+p24
+F0.0063792503385575001
+sS'data scientist'
+p25
+F0.0041381705670463995
+sS'data quality'
+p26
+F0.013807961184321186
+sS'risk analysis'
+p27
+F0.02051744387095953
+sS'business process'
+p28
+F0.011934698943436548
+sS'data processing'
+p29
+F0.014358275772376467
+sS'sql'
+p30
+F0.0026638431985665902
+sS'modeling'
+p31
+F0.012689776390961758
+sS'automation'
+p32
+F0.02605506504268601
+sS'data'
+p33
+F0.0032430094340676189
+sS'validation'
+p34
+F0.024702830508399193
+sS'science'
+p35
+F0.0027462261257581735
+sS'risk modeling'
+p36
+F0.021930680025375494
+sS'programming'
+p37
+F0.0043059188860737341
+sS'analysis'
+p38
+F0.0053534175274082803
+sS'credit'
+p39
+F0.012412245407178307
+sS'r'
+F0.0021679386977107077
+sS'architecture'
+p40
+F0.0085430254792369462
+sS'business process re-engineering'
+p41
+F0.026874679072351061
+sS'retail'
+p42
+F0.10768629638801631
+sS'physics'
+p43
+F0.0095042358494010284
+sS'powerpoint'
+p44
+F0.0095586890895869234
+sS'data analytics'
+p45
+F0.0079778229745538949
+ssS'working-year'
+p46
+(dp47
+V(5, 10]
+p48
+F0.0047095478967846046
+ssS'major'
+p49
+(dp50
+VBusiness
+p51
+F0.0042254466686488835
+sVData Science
+p52
+F0.0040128475883010259
+sVEconomics
+p53
+F0.0064092638575174252
+sVEngineering
+p54
+F0.0047845889729439635
+sVChemical Engineering
 p55
-I1
-ssS'education'
+F0.014688994006774201
+sVMathematics
 p56
-(dp57
-VBachelor
+F0.0066963770686814528
+sVManagement Science and Engineering
+p57
+F0.0050372833533941109
+sVPhysics
 p58
-I1
-sVMaster
+F0.010248953520312853
+sVComputer Science
 p59
-I1
-ssS'responsibility'
+F0.0035365458841882724
+ssS'education'
 p60
 (dp61
-S'development'
+VBachelor
 p62
-I1
-sS'data infrastructure'
+F0.0035600735455855732
+sVMaster
 p63
-I1
-sS'processing'
+F0.0028409401766569409
+ssS'responsibility'
 p64
-I1
-sS'analysis'
-p65
-I1
-sS'improvement'
+(dp65
+S'development'
 p66
-I1
-sS'identify opportunity'
+F0.014190949247040452
+sS'data infrastructure'
 p67
-I1
-sS'modeling'
+F0.016910411627577431
+sS'processing'
 p68
-I1
-sS'model'
+F0.0063792503385575001
+sS'analysis'
 p69
-I1
-sS'transformation'
+F0.0053534175274082803
+sS'improvement'
 p70
-I1
+F0.01049299412632464
+sS'identify opportunity'
+p71
+F0.016179802893497616
+sS'modeling'
+p72
+F0.012689776390961758
+sS'model'
+p73
+F0.030222868005891423
+sS'transformation'
+p74
+F0.012283035684894009
 ss.

@@ -4,131 +4,122 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0033470810974859547
 sS'data warehousing'
 p5
-I1
+F0.0064302119697342355
 sS'experimentation'
 p6
-I1
-sS'management'
+F0.0076132887511033377
+sS'xml'
 p7
-I1
-sS'clinical trials'
+F0.0069638750855297981
+sS'management'
 p8
-I1
-sS'clinical development'
+F0.0038310734342480008
+sS'clinical trials'
 p9
-I1
-sS'governance'
+F0.010486957683269574
+sS'clinical development'
 p10
-I1
-sS'research'
+F0.012495811771433636
+sS'governance'
 p11
-I1
-sS'innovation'
+F0.0076205412703928095
+sS'research'
 p12
-I1
-sS'policy'
+F0.0036074433051236292
+sS'innovation'
 p13
-I1
-sS'data management'
+F0.0081853051675886846
+sS'policy'
 p14
-I1
-sS'clinical research'
+F0.0057709476279931282
+sS'data management'
 p15
-I1
-sS'data scientist'
+F0.0058137803480111435
+sS'clinical research'
 p16
-I1
-sS'leadership'
+F0.0096965632000644529
+sS'data scientist'
 p17
-I1
-sS'mentoring'
+F0.0022396863956953028
+sS'leadership'
 p18
-I1
-sS'data'
+F0.0034934643154414845
+sS'mentoring'
 p19
-I1
-sS'statistical programming'
+F0.00727296765640371
+sS'data'
 p20
-I1
-sS'fda'
+F0.0072715499965321662
+sS'statistical programming'
 p21
-I1
-sS'training'
+F0.0088983567597286581
+sS'fda'
 p22
-I1
-sS'data collection'
+F0.012354815603255277
+sS'training'
 p23
-I1
-sS'science'
+F0.0099505063468174598
+sS'data collection'
 p24
-I1
+F0.015329173560089825
 sS'programming'
 p25
-I1
+F0.0023304761835832473
 sS'validation'
 p26
-I1
+F0.020054729207664459
 ssS'working-year'
 p27
 (dp28
 V(5, 10]
 p29
-I1
+F0.0025489307855747546
 ssS'major'
 p30
 (dp31
-S'communication'
+VManagement Science and Engineering
 p32
-I1
-sS'design'
-p33
-I1
-sS'management'
-p34
-I1
-sS'statistical science'
-p35
-I1
-sS'science'
-p36
-I1
+F0.0027263098064881446
 ssS'education'
+p33
+(dp34
+VBachelor
+p35
+F0.0019268051324945175
+sVMaster
+p36
+F0.0015375913006853634
+ssS'responsibility'
 p37
 (dp38
-VBachelor
-p39
-I1
-sVMaster
-p40
-I1
-ssS'responsibility'
-p41
-(dp42
 S'development'
-p43
-I1
+p39
+F0.0051203425049222775
 sS'product'
-p44
-I1
+p40
+F0.0028435367668451306
 sS'data collection'
-p45
-I1
+p41
+F0.015329173560089825
+sS'cross functionally'
+p42
+F0.012646887409978673
 sS'mapping'
-p46
-I1
+p43
+F0.036142745952521975
 sS'improvement'
-p47
-I1
+p44
+F0.0056790835017740127
 sS'design'
-p48
-I1
+p45
+F0.0092626985836267075
 sS'implement'
-p49
-I1
+p46
+F0.0044775119981387054
 sS'presentation'
-p50
-I1
+p47
+F0.0052079372987518116
 ss.

@@ -1,5 +1,5 @@
-skills: {'management': 1, 'finance': 1, 'experimentation': 1, 'marketing': 1, 'data scientist': 1, 'strategy': 1, 'strategic thinking': 1, 'teamwork': 1, 'communication': 1, 'organization': 1, 'retail': 1, 'data': 1, 'project management': 1, 'publishing': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'management': 1, 'finance': 1, 'business': 1, 'marketing': 1, 'communication': 1, 'project management': 1, 'history': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'product': 1, 'communicate': 1, 'improvement': 1}
+skills: {'management': 0.011382523457282063, 'publishing': 0.012709323462872294, 'experimentation': 0.009047953716763514, 'marketing': 0.004786971162003891, 'data scientist': 0.0026617378521705485, 'sales': 0.008353278241685939, 'strategy': 0.003957315153836269, 'strategic thinking': 0.013746617597250621, 'teamwork': 0.007197010422869345, 'communication': 0.003977812460077529, 'organization': 0.004430110148948948, 'retail': 0.008658194684463624, 'data': 0.00029799368812681636, 'project management': 0.004777520912875744, 'finance': 0.006671221241667559}
+working-year: {u'(0, 2]': 0.005722563226357169, u'(2, 5]': 0.0031129256995757176}
+major: {u'Economics': 0.004122541576694626, u'Business': 0.002717875244156066, u'Management Science and Engineering': 0.0032400616544444533}
+education: {'Bachelor': 0.002289896551934439}
+responsibility: {'development': 0.006085231167910144, 'product': 0.0033793791224063984, 'communicate': 0.00504081126201405, 'improvement': 0.006749262553615849}

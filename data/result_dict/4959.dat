@@ -2,123 +2,126 @@
 S'skills'
 p2
 (lp3
-S'problem solving'
+S'debugging'
 p4
-aS'nosql'
+aS'aws'
 p5
-aS'spring'
+aS'problem solving'
 p6
-aS'testing'
+aS'nosql'
 p7
-aS'devops'
+aS'spring'
 p8
-aS'engineering'
+aS'testing'
 p9
-aS'ansible'
+aS'devops'
 p10
-aS'angularjs'
-p11
-aS'git'
-p12
-aS'agile'
-p13
-aS'integration'
-p14
-aS'strategy'
-p15
-aS'lua'
-p16
-aS'json'
-p17
-aS'computer science'
-p18
-aS'sdlc'
-p19
-aS'jenkins'
-p20
-aS'web development'
-p21
-aS'apis'
-p22
-aS'leadership development'
-p23
-aS'data scientist'
-p24
-aS'scalability'
-p25
-aS'automation'
-p26
-aS'maven'
-p27
-aS'leadership'
-p28
-aS'splunk'
-p29
-aS'data'
-p30
-aS'docker'
-p31
-aS'information technology'
-p32
-aS'software development'
-p33
-aS'c'
-aS'documentation'
-p34
-aS'eclipse'
-p35
-aS'architecture'
-p36
-aS'management'
-p37
-aS'security'
-p38
-asS'working-year'
-p39
-(lp40
-V(15, 20]
-p41
-aV(2, 5]
-p42
-asS'major'
-p43
-(lp44
-S'information'
-p45
-aS'management'
-p46
-aS'business'
-p47
-aS'automation'
-p48
 aS'engineering'
-p49
-aS'information system'
-p50
-aS'web development'
-p51
-aS'information systems'
-p52
-aS'information technology'
-p53
+p11
+aS'ansible'
+p12
+aS'troubleshooting'
+p13
+aS'angularjs'
+p14
+aS'git'
+p15
+aS'java'
+p16
+aS'agile'
+p17
+aS'integration'
+p18
+aS'strategy'
+p19
+aS'lua'
+p20
+aS'json'
+p21
 aS'computer science'
-p54
-asS'education'
-p55
-(lp56
-VBachelor
-p57
-asS'responsibility'
-p58
-(lp59
-S'development'
-p60
-aS'information'
-p61
-aS'implement'
-p62
+p22
+aS'sdlc'
+p23
+aS'jenkins'
+p24
+aS'web development'
+p25
+aS'apis'
+p26
+aS'python'
+p27
+aS'leadership development'
+p28
+aS'data scientist'
+p29
+aS'scalability'
+p30
+aS'automation'
+p31
+aS'maven'
+p32
+aS'leadership'
+p33
+aS'splunk'
+p34
+aS'data'
+p35
+aS'docker'
+p36
+aS'information technology'
+p37
+aS'software development'
+p38
+aS'science'
+p39
 aS'documentation'
-p63
+p40
+aS'eclipse'
+p41
+aS'architecture'
+p42
+aS'management'
+p43
+aS'security'
+p44
+asS'working-year'
+p45
+(lp46
+V(15, 20]
+p47
+aV(2, 5]
+p48
+asS'major'
+p49
+(lp50
+VEngineering
+p51
+aVInformation Science
+p52
+aVComputer Science
+p53
+aVBusiness
+p54
+aVManagement Science and Engineering
+p55
+asS'education'
+p56
+(lp57
+VBachelor
+p58
+asS'responsibility'
+p59
+(lp60
+S'development'
+p61
+aS'information'
+p62
 aS'product'
+p63
+aS'documentation'
 p64
+aS'design'
+p65
+aS'implement'
+p66
 as.

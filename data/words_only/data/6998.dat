@@ -4,166 +4,163 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.017248203775657028
 sS'classification'
 p5
-I1
-sS'communication'
-p6
-I1
+F0.012043366036099538
 sS'data science'
-p7
-I1
+p6
+F0.0045909958994679355
 sS'pig'
-p8
-I1
+p7
+F0.010300107538610272
 sS'hive'
+p8
+F0.0079608940820229263
+sS'sas'
 p9
-I1
+F0.0052871635751046437
 sS'spss'
 p10
-I1
+F0.0084211787437311648
 sS'regression'
 p11
-I1
+F0.009069342712525956
 sS'cassandra'
 p12
-I1
-sS'java'
+F0.014367963826567468
+sS'statistics'
 p13
-I1
-sS'big data'
+F0.0035592093694755901
+sS'java'
 p14
-I1
-sS'critical thinking'
+F0.0047300265941537531
+sS'big data'
 p15
-I1
-sS'recruiting'
+F0.0048577294899338451
+sS'critical thinking'
 p16
-I1
-sS'hadoop'
+F0.014966586370271059
+sS'recruiting'
 p17
-I1
-sS'perl'
+F0.013163733780982408
+sS'hadoop'
 p18
-I1
-sS'computer science'
+F0.0049038416083952855
+sS'perl'
 p19
-I1
-sS'mathematics'
+F0.010939124978203695
+sS'computer science'
 p20
-I1
-sS'operations research'
+F0.0053663483327756516
+sS'mathematics'
 p21
-I1
-sS'data analysis'
+F0.0069766919163198691
+sS'operations research'
 p22
-I1
-sS'python'
+F0.010995948532640876
+sS'data analysis'
 p23
-I1
-sS'data scientist'
+F0.0056632137975788747
+sS'python'
 p24
-I1
-sS'sql'
+F0.0019895095906613206
+sS'data scientist'
 p25
-I1
-sS'data'
+F0.004043403302152207
+sS'sql'
 p26
-I1
-sS'training'
+F0.0026028391558513245
+sS'data'
 p27
-I1
-sS'software engineering'
+F0.0018107097385415712
+sS'training'
 p28
-I1
-sS'programming'
+F0.01796408206887274
+sS'software engineering'
 p29
-I1
-sS'analysis'
+F0.0099315381248626395
+sS'science'
 p30
-I1
-sS'machine learning'
+F0.0026833354511224899
+sS'programming'
 p31
-I1
-sS'r'
-I1
-sS'communication skills'
+F0.0042073100566216637
+sS'analysis'
 p32
-I1
-sS'scripting'
+F0.0013077050448630913
+sS'machine learning'
 p33
-I1
-ssS'working-year'
+F0.0025019760375345011
+sS'r'
+F0.0021182912466180962
+sS'communication skills'
 p34
-(dp35
-sS'major'
+F0.014057732259771465
+sS'scripting'
+p35
+F0.0092865815933078754
+ssS'working-year'
 p36
 (dp37
-S'business'
+sS'major'
 p38
-I1
-sS'big data'
-p39
-I1
-sS'communication'
+(dp39
+VStatistics
 p40
-I1
-sS'data science'
+F0.0068759724041529777
+sVBusiness
 p41
-I1
-sS'software engineering'
+F0.0041286807144050161
+sVData Science
 p42
-I1
-sS'machine learning'
+F0.0039209503152864986
+sVEngineering
 p43
-I1
-sS'design'
+F0.0085968661326974328
+sVComputer Science
 p44
-I1
-sS'computer science'
+F0.0034555562837870141
+sVMathematics
 p45
-I1
-sS'statistic'
+F0.0065430249220704267
+sVOperations Research
 p46
-I1
-sS'mathematics'
-p47
-I1
-sS'operations research'
-p48
-I1
+F0.012285224802241045
 ssS'education'
-p49
-(dp50
+p47
+(dp48
 S'Bachelor'
-p51
-I1
+p49
+F0.0034785451437782701
 ssS'responsibility'
-p52
-(dp53
+p50
+(dp51
 S'product'
-p54
-I1
+p52
+F0.010267121303188905
 sS'data analysis'
-p55
-I1
-sVinsight
-p56
-I1
+p53
+F0.0056632137975788747
+sS'insight'
+p54
+F0.014006819511522786
 sS'analysis'
-p57
-I1
+p55
+F0.0013077050448630913
+sS'improvement'
+p56
+F0.010252696550912625
 sS'analytic'
-p58
-I1
+p57
+F0.0172345494068675
 sS'design'
-p59
-I1
+p58
+F0.011148235190980745
 sS'recommendation'
-p60
-I1
+p59
+F0.0099702356672453103
 sS'implement'
-p61
-I1
+p60
+F0.0080834472332809437
 ss.

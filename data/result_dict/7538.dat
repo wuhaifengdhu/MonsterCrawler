@@ -6,220 +6,195 @@ S'insurance'
 p4
 aS'continuous improvement'
 p5
-aS'chinese'
-p6
-aS'german'
-p7
-aS'excel'
-p8
-aS'data science'
-p9
-aS'testing'
-p10
-aS'analytics'
-p11
-aS'engineering'
-p12
-aS'defense'
-p13
-aS'communication skills'
-p14
-aS'system design'
-p15
-aS'spanish'
-p16
-aS'analysis'
-p17
-aS'research'
-p18
-aS'web crawling'
-p19
-aS'data mining'
-p20
-aS'visualization'
-p21
-aS'management'
-p22
-aS'java'
-p23
-aS'big data'
-p24
-aS'ruby'
-p25
-aS'storage'
-p26
-aS'r programming'
-p27
-aS'innovation'
-p28
-aS'perl'
-p29
-aS'user interface'
-p30
-aS'html'
-p31
-aS'computer science'
-p32
-aS'communication'
-p33
-aS'database development'
-p34
-aS'mathematics'
-p35
-aS'military'
-p36
-aS'microsoft excel'
-p37
-aS'text mining'
-p38
-aS'education'
-p39
-aS'recommender systems'
-p40
-aS'government'
-p41
-aS'python'
-p42
-aS'ruby rails'
-p43
-aS'javascript'
-p44
-aS'data scientist'
-p45
-aS'user research'
-p46
-aS'french'
-p47
-aS'leadership'
-p48
-aS'aerospace'
-p49
-aS'sql'
-p50
-aS'data'
-p51
-aS'national security'
-p52
-aS'data collection'
-p53
-aS'data visualization'
-p54
-aS'collaborative filtering'
-p55
-aS'statistical analysis'
-p56
-aS'science'
-p57
-aS'intelligence'
-p58
-aS'programming'
-p59
-aS'security clearance'
-p60
-aS'customer support'
-p61
 aS'english'
-p62
-aS'electrical engineering'
-p63
-aS'security'
-p64
+p6
+aS'chinese'
+p7
+aS'german'
+p8
+aS'communication'
+p9
+aS'data science'
+p10
+aS'testing'
+p11
+aS'analytics'
+p12
+aS'engineering'
+p13
+aS'defense'
+p14
+aS'communication skills'
+p15
+aS'system design'
+p16
+aS'spanish'
+p17
+aS'analysis'
+p18
+aS'research'
+p19
+aS'web crawling'
+p20
+aS'data mining'
+p21
+aS'visualization'
+p22
+aS'statistics'
+p23
+aS'java'
+p24
+aS'big data'
+p25
+aS'ruby'
+p26
+aS'storage'
+p27
+aS'excel'
+p28
+aS'innovation'
+p29
+aS'perl'
+p30
+aS'user interface'
+p31
+aS'html'
+p32
+aS'computer science'
+p33
+aS'intelligence'
+p34
+aS'policy'
+p35
+aS'mathematics'
+p36
+aS'military'
+p37
+aS'microsoft excel'
+p38
+aS'css'
+p39
+aS'text mining'
+p40
+aS'education'
+p41
+aS'recommender systems'
+p42
+aS'government'
+p43
+aS'python'
+p44
+aS'ruby rails'
+p45
+aS'javascript'
+p46
+aS'data scientist'
+p47
+aS'user research'
+p48
+aS'french'
+p49
+aS'database development'
+p50
+aS'leadership'
+p51
+aS'aerospace'
+p52
+aS'sql'
+p53
+aS'data'
+p54
+aS'national security'
+p55
+aS'a'
+aS'data collection'
+p56
+aS'data visualization'
+p57
+aS'collaborative filtering'
+p58
+aS'management'
+p59
+aS'statistical analysis'
+p60
+aS'science'
+p61
 aS'applied mathematics'
+p62
+aS'programming'
+p63
+aS'security clearance'
+p64
+aS'customer support'
 p65
-aS'scripting'
+aS'databases'
 p66
-aS'predictive analytics'
+aS'electrical engineering'
 p67
-asS'working-year'
+aS'security'
 p68
-(lp69
-V(5, 10]
+aS'scripting'
+p69
+aS'predictive analytics'
 p70
-asS'major'
+asS'working-year'
 p71
 (lp72
-S'communication'
+V(5, 10]
 p73
-aS'data science'
+asS'major'
 p74
-aS'statistic'
-p75
-aS'data mining predictive analytics'
+(lp75
+VStatistics
 p76
-aS'analytics'
+aVData Science
 p77
-aS'engineering'
+aVElectrical and Electronics Engineering
 p78
-aS'design'
+aVEngineering
 p79
-aS'data mining'
+aVInformation Science
 p80
-aS'computer science mathematics'
+aVComputer Science
 p81
-aS'information'
+aVMathematics
 p82
-aS'management'
+aVManagement Science and Engineering
 p83
-aS'big data'
-p84
-aS'electrical'
-p85
-aS'computer science'
-p86
-aS'mathematics'
-p87
-aS'english'
-p88
-aS'mathematics statistics'
-p89
-aS'information system'
-p90
-aS'ee computer science'
-p91
-aS'information systems'
-p92
-aS'science'
-p93
-aS'applied mathematics'
-p94
-aS'applied math'
-p95
-aS'electrical engineering'
-p96
-aS'predictive analytics'
-p97
 asS'education'
-p98
-(lp99
+p84
+(lp85
 VBachelor
-p100
+p86
+aVDoctor
+p87
 asS'responsibility'
-p101
-(lp102
+p88
+(lp89
 S'development'
-p103
+p90
 aS'information'
-p104
+p91
 aS'product'
-p105
+p92
 aS'data collection'
-p106
-aVinsight
-p107
+p93
+aS'insight'
+p94
 aS'analysis'
-p108
+p95
 aS'improvement'
-p109
+p96
 aS'interface'
-p110
+p97
 aS'design'
-p111
+p98
 aS'data mining'
-p112
+p99
 aS'report'
-p113
+p100
 aS'understand'
-p114
+p101
 aS'transformation'
-p115
+p102
 as.

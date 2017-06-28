@@ -1,5 +1,5 @@
-skills: {'training': 1, 'management': 1, 'corporate finance': 1, 'healthcare': 1, 'collaboration': 1, 'testing': 1, 'data scientist': 1, 'writing': 1, 'analytics': 1, 'coaching': 1, 'leadership': 1, 'mentoring': 1, 'english': 1, 'organization': 1, 'data': 1, 'geography': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'corporate finance': 1, 'business': 1, 'analytics': 1, 'english': 1, 'geography': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'information': 1, 'implement': 1, 'communicate': 1, 'recommendation': 1}
+skills: {'training': 0.015381011444590387, 'management': 0.0029609440104563798, 'corporate finance': 0.015507259108215158, 'healthcare': 0.00881451092585021, 'collaboration': 0.008358396797625667, 'testing': 0.006690777826470631, 'data scientist': 0.003461998905764308, 'writing': 0.007343334398962395, 'analytics': 0.002842279287527865, 'coaching': 0.0126200415576281, 'leadership': 0.005400028173868699, 'mentoring': 0.011242201638820113, 'english': 0.01103904853416179, 'organization': 0.01152407738092602, 'data': 0.00038758656168128404, 'geography': 0.016343636268896868}
+working-year: {u'(0, 2]': 0.007443072431667168, u'(2, 5]': 0.00404883800140894}
+major: {u'Data Science': 0.003357153537925041, u'Economics': 0.005361998521321768, u'Geography': 0.016040430127956765, u'Business': 0.003535014206451354, u'Management Science and Engineering': 0.004214197838133636}
+education: {u'Bachelor': 0.0029783621819278, u'Master': 0.0023767342654384864}
+responsibility: {'development': 0.003957388896778166, 'information': 0.004533023527873839, 'implement': 0.006921121487318979, 'communicate': 0.006556349288501935, 'recommendation': 0.008536607009210037}

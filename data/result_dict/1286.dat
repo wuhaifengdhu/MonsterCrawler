@@ -8,141 +8,123 @@ aS'analytics'
 p5
 aS'hive'
 p6
-aS'visualization'
+aS'sas'
 p7
-aS'big data'
+aS'visualization'
 p8
-aS'predictive modeling'
+aS'statistics'
 p9
-aS'hadoop'
+aS'big data'
 p10
-aS'research'
+aS'predictive modeling'
 p11
-aS'big data analytics'
+aS'hadoop'
 p12
-aS'computer science'
+aS'research'
 p13
-aS'innovation'
+aS'big data analytics'
 p14
-aS'mathematics'
+aS'computer science'
 p15
-aS'energy'
+aS'innovation'
 p16
-aS'data analysis'
+aS'mathematics'
 p17
-aS'python'
+aS'energy'
 p18
-aS'data scientist'
+aS'data analysis'
 p19
-aS'sql'
+aS'business analysis'
 p20
-aS'modeling'
+aS'python'
 p21
-aS'spark'
+aS'data scientist'
 p22
-aS'data'
+aS'sql'
 p23
-aS'organization'
+aS'modeling'
 p24
-aS'data visualization'
+aS'spark'
 p25
-aS'unstructured data'
+aS'data'
 p26
-aS'science'
+aS'organization'
 p27
-aS'applied mathematics'
+aS'data visualization'
 p28
-aS'analysis'
+aS'unstructured data'
 p29
-aS'machine learning'
+aS'science'
 p30
-aS'h2o'
+aS'applied mathematics'
 p31
+aS'analysis'
+p32
+aS'machine learning'
+p33
+aS'h2o'
+p34
 aS'r'
 aS'healthcare'
-p32
-aS'military'
-p33
-aS'retail'
-p34
-aS'data analytics'
 p35
-aS'predictive analytics'
+aS'military'
 p36
-asS'working-year'
+aS'retail'
 p37
-(lp38
-V(5, 10]
-p39
-asS'major'
-p40
-(lp41
-S'information'
-p42
-aS'mathematics physics'
-p43
-aS'business'
-p44
-aS'big data'
-p45
-aS'mathematics'
-p46
-aS'science'
-p47
-aS'applied mathematics'
-p48
-aS'statistic'
-p49
-aS'computer science statistics'
-p50
-aS'machine learning'
-p51
-aS'big data analytics'
-p52
-aS'analytics'
-p53
-aS'physics computer science'
-p54
+aS'physics'
+p38
 aS'data analytics'
-p55
-aS'applied math'
-p56
-aS'computer science'
-p57
-aS'phd'
-p58
-aS'data science'
-p59
-aVphysic
-p60
+p39
 aS'predictive analytics'
-p61
+p40
+asS'working-year'
+p41
+(lp42
+V(5, 10]
+p43
+asS'major'
+p44
+(lp45
+VStatistics
+p46
+aVBusiness
+p47
+aVData Science
+p48
+aVComputer Science
+p49
+aVMathematics
+p50
+aVPhysics
+p51
 asS'education'
-p62
-(lp63
-VDoctor
-p64
+p52
+(lp53
+VMaster
+p54
+aVDoctor
+p55
 asS'responsibility'
-p65
-(lp66
+p56
+(lp57
 S'development'
-p67
+p58
 aS'information'
-p68
+p59
 aS'product'
-p69
+p60
 aS'data analysis'
-p70
+p61
 aS'communicate'
-p71
+p62
 aS'analysis'
-p72
+p63
 aS'analytic'
-p73
+p64
 aS'statistical method'
-p74
+p65
 aS'modeling'
-p75
+p66
 aS'model'
-p76
+p67
 as.

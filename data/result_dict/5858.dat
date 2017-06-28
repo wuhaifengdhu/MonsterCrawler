@@ -2,53 +2,53 @@
 S'skills'
 p2
 (lp3
-S'reporting analysis'
+S'intelligence'
 p4
-aS'intelligence'
-p5
 aS'data science'
-p6
+p5
 aS'communication'
-p7
+p6
 aS'business intelligence'
-p8
+p7
 aS'accounting'
-p9
+p8
 aS'sap'
-p10
+p9
 aS'management'
-p11
+p10
 aS'excel'
-p12
+p11
 aS'access'
-p13
+p12
 aS'oracle sql'
-p14
+p13
 aS'innovation'
-p15
+p14
 aS'policy'
-p16
+p15
 aS'sql'
-p17
+p16
 aS'db2'
-p18
+p17
 aS'data'
-p19
+p18
 aS'project management'
-p20
+p19
 aS'search'
-p21
+p20
 aS'sql server'
-p22
+p21
 aS'science'
-p23
+p22
 aS'documentation'
-p24
+p23
 aS'analysis'
-p25
+p24
 aS'banking'
-p26
+p25
 aS'oracle'
+p26
+aS'organization'
 p27
 aS'sap bw'
 p28
@@ -64,44 +64,34 @@ p33
 asS'major'
 p34
 (lp35
-S'information'
+VData Science
 p36
-aS'management'
+aVEconomics
 p37
-aS'business'
+aVInformation Science
 p38
-aS'science'
+aVBusiness
 p39
-aS'data science'
+aVManagement Science and Engineering
 p40
-aS'information systems'
-p41
-aS'information system'
-p42
-aS'communication'
-p43
-aS'accounting'
-p44
-aS'general'
-p45
-aS'project management'
-p46
 asS'education'
-p47
-(lp48
+p41
+(lp42
 VBachelor
-p49
+p43
+aVMaster
+p44
 asS'responsibility'
-p50
-(lp51
+p45
+(lp46
 S'report'
-p52
+p47
 aS'information'
-p53
+p48
 aS'documentation'
-p54
+p49
 aS'analysis'
-p55
+p50
 aS'recommendation'
-p56
+p51
 as.

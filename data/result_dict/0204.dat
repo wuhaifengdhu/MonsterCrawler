@@ -2,88 +2,89 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'communication'
 p4
-aS'management'
-p5
-aS'data visualization'
-p6
-aS'apis'
-p7
-aS'communication'
-p8
 aS'data science'
+p5
+aS'analytics'
+p6
+aS'analysis'
+p7
+aS'ic'
+p8
+aS'visualization'
 p9
-aS'government'
+aS'management'
 p10
-aS'data scientist'
+aS'government'
 p11
-aS'dod'
+aS'strategy'
 p12
 aS'access'
 p13
-aS'analytics'
-p14
-aS'analysis'
-p15
 aS'policy'
+p14
+aS'apis'
+p15
+aS'data scientist'
 p16
-aS'ic'
-p17
 aS'data'
+p17
+aS'project management'
 p18
-aS'data analytics'
+aS'a'
+aS'training'
 p19
-aS'project management'
+aS'data visualization'
 p20
-asS'working-year'
+aS'science'
 p21
-(lp22
-V(5, 10]
+aS'dod'
+p22
+aS'architecture'
 p23
-asS'major'
+aS'organization'
 p24
-(lp25
-S'management'
-p26
-aS'business'
-p27
-aS'communication'
-p28
-aS'data science'
-p29
-aS'data analyst'
-p30
-aS'analytics'
-p31
-aS'project management'
-p32
-aS'analytics data science'
-p33
 aS'data analytics'
-p34
+p25
+asS'working-year'
+p26
+(lp27
+V(5, 10]
+p28
+asS'major'
+p29
+(lp30
+VData Science
+p31
+aVBusiness
+p32
+aVManagement Science and Engineering
+p33
 asS'education'
-p35
-(lp36
+p34
+(lp35
 VBachelor
-p37
+p36
 asS'responsibility'
-p38
-(lp39
+p37
+(lp38
 S'product'
-p40
+p39
 aS'pattern'
-p41
+p40
 aS'mapping'
-p42
+p41
 aS'analysis'
-p43
+p42
 aS'analytic'
-p44
+p43
 aS'recommendation'
-p45
+p44
 aS'report'
-p46
+p45
 aS'extract'
+p46
+aS'decision making'
 p47
 as.

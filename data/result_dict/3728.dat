@@ -10,7 +10,7 @@ aS'mysql'
 p6
 aS'information retrieval'
 p7
-aS'analysis'
+aS'hive'
 p8
 aS'problem solving'
 p9
@@ -22,37 +22,38 @@ aS'distributed computing'
 p12
 aS'hbase'
 p13
-aS'research'
+aS'perl'
 p14
-aS'open source'
+aS'research'
 p15
-aS'big data'
+aS'open source'
 p16
-aS'hadoop'
+aS'big data'
 p17
-aS'writing'
+aS'c'
+aS'hadoop'
 p18
-aS'optimization'
+aS'writing'
 p19
-aS'gurobi'
+aS'optimization'
 p20
-aS'matlab'
+aS'gurobi'
 p21
-aS'policy'
+aS'matlab'
 p22
-aS'computer science'
+aS'policy'
 p23
-aS'data analysis'
+aS'computer science'
 p24
-aS'data modeling'
+aS'data analysis'
 p25
-aS'python'
+aS'data modeling'
 p26
-aS'data scientist'
+aS'python'
 p27
-aS'search'
+aS'data scientist'
 p28
-aS'hive'
+aS'search'
 p29
 aS'modeling'
 p30
@@ -60,6 +61,7 @@ aS'spark'
 p31
 aS'data'
 p32
+aS'a'
 aS'training'
 p33
 aS'java'
@@ -70,7 +72,7 @@ aS'scikit-learn'
 p36
 aS'mapreduce'
 p37
-aS'c++'
+aS'analysis'
 p38
 aS'machine learning'
 p39
@@ -91,74 +93,56 @@ p46
 asS'major'
 p47
 (lp48
-S'information'
+VComputer Science
 p49
-aS'business'
+aVBusiness
 p50
-aS'big data'
-p51
-aS'computing'
-p52
-aS'science'
-p53
-aS'statistic'
-p54
-aS'communication'
-p55
-aS'machine learning data mining'
-p56
-aS'machine learning'
-p57
-aS'computer science'
-p58
-aS'data mining'
-p59
-aS'phd'
-p60
-aS'information retrieval'
-p61
 asS'education'
-p62
-(lp63
-VDoctor
-p64
+p51
+(lp52
+VMaster
+p53
+aVDoctor
+p54
 asS'responsibility'
-p65
-(lp66
-S'data mining'
-p67
-aS'large data set'
-p68
-aS'product'
-p69
-aS'data analysis'
-p70
-aS'develop model'
-p71
-aS'development'
-p72
+p55
+(lp56
+S'modeling'
+p57
 aS'information'
-p73
+p58
+aS'product'
+p59
+aS'data analysis'
+p60
+aS'development'
+p61
+aS'large data set'
+p62
 aS'recommendation'
-p74
+p63
 aS'analysis'
-p75
-aS'improvement'
-p76
+p64
+aS'develop ... model'
+p65
 aS'optimization'
-p77
+p66
 aS'complex data set'
-p78
-aS'identify trend'
-p79
-aS'validate model'
-p80
-aS'modeling'
-p81
-aS'implement'
-p82
+p67
+aS'normalization'
+p68
+aS'data mining'
+p69
 aS'prototype'
-p83
+p70
+aS'implement'
+p71
+aS'improvement'
+p72
+aS'validate ... model'
+p73
 aS'model'
-p84
+p74
+aS'identify ... trend'
+p75
 as.

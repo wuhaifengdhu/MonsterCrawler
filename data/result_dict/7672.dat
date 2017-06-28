@@ -46,36 +46,28 @@ p24
 asS'major'
 p25
 (lp26
-S'management'
+VEngineering
 p27
-aS'business'
+aVEconomics
 p28
-aS'business administration'
+aVComputer Science
 p29
-aS'science'
+aVBusiness
 p30
-aS'mba'
+aVManagement Science and Engineering
 p31
-aS'engineering'
-p32
-aS'computer science engineering'
-p33
-aS'computer science'
-p34
-aS'ee computer science'
-p35
 asS'education'
+p32
+(lp33
+VBachelor
+p34
+aVMaster
+p35
+asS'responsibility'
 p36
 (lp37
-VBachelor
-p38
-aVMaster
-p39
-asS'responsibility'
-p40
-(lp41
 S'product'
-p42
+p38
 aS'analysis'
-p43
+p39
 as.

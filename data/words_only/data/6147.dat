@@ -2,111 +2,114 @@
 S'skills'
 p2
 (dp3
-S'calculus'
+S'nosql'
 p4
-I1
-sS'management'
-p5
-I1
-sS'nosql'
-p6
-I1
-sS'big data'
-p7
-I1
-sS'database management'
-p8
-I1
-sS'python'
-p9
-I1
-sS'data scientist'
-p10
-I1
+F0.012440213019393282
 sS'data science'
-p11
-I1
-sS'r programming'
-p12
-I1
-sS'machine learning'
-p13
-I1
+p5
+F0.0054674587530027232
+sS'analytics'
+p6
+F0.0039533520999251205
+sS'engineering'
+p7
+F0.0055675217139711571
+sS'java'
+p8
+F0.0056330316712194699
+sS'big data'
+p9
+F0.0057851142107393973
+sS'scala'
+p10
+F0.011093483580448349
 sS'access'
-p14
-I1
-sS'data collection'
-p15
-I1
+p11
+F0.010543009204983885
 sS'computer science'
+p12
+F0.0063908330144873664
+sS'mathematics'
+p13
+F0.0083086058276172995
+sS'data management'
+p14
+F0.012499627748223958
+sS'calculus'
+p15
+F0.02060404867428638
+sS'python'
 p16
-I1
-sS'linear algebra'
+F0.0023693250579693908
+sS'data scientist'
 p17
-I1
-sS'programming'
+F0.0048153257507449008
+sS'sql'
 p18
-I1
-sS'r'
-I1
+F0.0030997448128774864
 sS'data'
 p19
-I1
-sS'data management'
-p20
-I1
-ssS'working-year'
-p21
-(dp22
-V(0, 2]
-p23
-I1
-ssS'major'
-p24
-(dp25
-S'management'
-p26
-I1
-sS'big data'
-p27
-I1
-sS'data science'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'computer science'
-p30
-I1
-sS'statistic'
-p31
-I1
-sS'computer science mathematics'
-p32
-I1
-sS'ee computer science'
-p33
-I1
-sS'data science engineering'
-p34
-I1
-ssS'education'
-p35
-(dp36
-VBachelor
-p37
-I1
-ssS'responsibility'
-p38
-(dp39
-Vinsight
-p40
-I1
+F0.0059300743937236462
 sS'data collection'
+p20
+F0.032957723154193118
+sS'database management'
+p21
+F0.022031832455236346
+sS'science'
+p22
+F0.00319560858270042
+sS'programming'
+p23
+F0.0050105237947039808
+sS'machine learning'
+p24
+F0.0029796260083365424
+sS'r'
+F0.0025226923027906415
+sS'linear algebra'
+p25
+F0.020011940950429827
+ssS'working-year'
+p26
+(dp27
+V(0, 2]
+p28
+F0.010352637109500696
+ssS'major'
+p29
+(dp30
+VMathematics
+p31
+F0.0077921478617384177
+sVData Science
+p32
+F0.0046694953754775571
+sVManagement Science and Engineering
+p33
+F0.0058615660839495109
+sVEngineering
+p34
+F0.0055675217139711571
+sVComputer Science
+p35
+F0.0041152533925099891
+ssS'education'
+p36
+(dp37
+VBachelor
+p38
+F0.0041426310348632121
+ssS'responsibility'
+p39
+(dp40
+S'insight'
 p41
-I1
-sS'data infrastructure'
+F0.025021273036492979
+sS'data collection'
 p42
-I1
+F0.032957723154193118
+sS'data infrastructure'
+p43
+F0.019677569893908283
 ss.

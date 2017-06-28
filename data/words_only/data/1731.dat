@@ -4,164 +4,181 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
-sS'cancer'
+F0.0099644598856163148
+sS'nosql'
 p5
-I1
+F0.0073968834169365468
 sS'communication'
 p6
-I1
+F0.0042788361057050179
 sS'hadoop'
 p7
-I1
-sS'd3'
+F0.0034724500037826081
+sS'vis'
 p8
-I1
-sS'visualization'
+F0.0168467340874313
+sS'unix'
 p9
-I1
-sS'open source'
+F0.0069786183480677029
+sS'linux'
 p10
-I1
-sS'rdbms'
+F0.0049894001021600796
+sS'd3'
 p11
-I1
-sS'big data'
+F0.0081626845734737684
+sS'visualization'
 p12
-I1
-sS'user experience'
+F0.010131325794237672
+sS'open source'
 p13
-I1
-sS'agile'
+F0.0086430263241029578
+sS'cancer'
 p14
-I1
-sS'servlets'
+F0.01244592771472643
+sS'big data'
 p15
-I1
-sS'integration'
+F0.0034397976388180207
+sS'user experience'
 p16
-I1
-sS'json'
+F0.0091221972029915024
+sS'agile'
 p17
-I1
-sS'computer science'
+F0.017705593562428457
+sS'servlets'
 p18
-I1
-sS'application development'
+F0.015243863457903536
+sS'integration'
 p19
-I1
-sS'software development'
+F0.0062330895194448992
+sS'coffeescript'
 p20
-I1
-sS'marketing'
+F0.01885196737527263
+sS'json'
 p21
-I1
-sS'collaboration'
-p22
-I1
-sS'javascript'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'html5'
-p25
-I1
-sS'data'
-p26
-I1
-sS'jquery'
-p27
-I1
-sS'data visualization'
-p28
-I1
-sS'software engineering'
-p29
-I1
-sS'bootstrapping'
-p30
-I1
-sS'aws'
-p31
-I1
-sS'mvc'
-p32
-I1
-sS'architecture'
-p33
-I1
-sS'organization'
-p34
-I1
-sS'data analytics'
-p35
-I1
-sS'crm'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(20, 30)
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'big data'
-p42
-I1
-sS'software engineering'
-p43
-I1
-sS'marketing'
-p44
-I1
-sS'business'
-p45
-I1
-sS'design'
-p46
-I1
+F0.010610739666847016
 sS'computer science'
-p47
-I1
-sS'communication'
-p48
-I1
-sS'computer science software engineering'
-p49
-I1
-sS'ee computer science'
-p50
-I1
+p22
+F0.0037999547653708669
+sS'application development'
+p23
+F0.010354314598611475
+sS'css'
+p24
+F0.0083062178210350536
+sS'software development'
+p25
+F0.0057302611299277642
+sS'marketing'
+p26
+F0.0051492284391285101
+sS'collaboration'
+p27
+F0.0069126200542525785
+sS'javascript'
+p28
+F0.017979280654231978
+sS'data scientist'
+p29
+F0.0028631666626050766
+sS'html5'
+p30
+F0.01107039236563441
+sS'data'
+p31
+F0.00096163368546869942
+sS'rdbms'
+p32
+F0.012091357962955842
+sS'a'
+F0.020216669120151642
+sS'jquery'
+p33
+F0.010319590647104117
+sS'search'
+p34
+F0.0083837561558101834
+sS'data visualization'
+p35
+F0.0053154962853502732
+sS'software engineering'
+p36
+F0.0070326026722000315
+sS'bootstrapping'
+p37
+F0.016485839189596532
+sS'science'
+p38
+F0.0019000915897137633
+sS'aws'
+p39
+F0.0070634495913019192
+sS'engineering'
+p40
+F0.0033104183164152832
+sS'mvc'
+p41
+F0.012548899261575826
+sS'architecture'
+p42
+F0.0059108500613098873
+sS'organization'
+p43
+F0.0047653617277883279
 sS'data analytics'
+p44
+F0.0055197910310426949
+sS'crm'
+p45
+F0.0088888863951264822
+ssS'working-year'
+p46
+(dp47
+V(20, 30)
+p48
+F0.014727499974221597
+ssS'major'
+p49
+(dp50
+VEngineering
 p51
-I1
-ssS'education'
+F0.0060875106128830481
+sVEconomics
 p52
-(dp53
-S'Bachelor'
+F0.0044345176960120568
+sVData Science
+p53
+F0.0027764567097434125
+sVBusiness
 p54
-I1
-ssS'responsibility'
+F0.0029235522896597682
+sVComputer Science
 p55
-(dp56
-S'development'
-p57
-I1
-sS'implement'
+F0.0024469074225735073
+ssS'education'
+p56
+(dp57
+VBachelor
 p58
-I1
-sS'design'
+F0.0024631860207294776
+sVMaster
 p59
-I1
-sS'product'
+F0.0019656234735788564
+ssS'responsibility'
 p60
-I1
+(dp61
+S'development'
+p62
+F0.019637205444553277
+sS'implement'
+p63
+F0.0057239545273502909
+sS'design'
+p64
+F0.01578831145965922
+sS'product'
+p65
+F0.003635115920858775
 sS'solve problem'
-p61
-I1
+p66
+F0.011116331003328869
 ss.

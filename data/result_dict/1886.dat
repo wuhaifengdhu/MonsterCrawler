@@ -2,90 +2,80 @@
 S'skills'
 p2
 (lp3
-S'product development'
+S'management'
 p4
-aS'big data'
+aS'product development'
 p5
-aS'analytics'
-p6
-aS'marketing'
-p7
-aS'data science'
-p8
-aS'english'
-p9
-aS'data scientist'
-p10
-aS'strategy'
-p11
-aS'risk management'
-p12
-aS'engineering'
-p13
-aS'customer support'
-p14
-aS'communication'
-p15
-aS'software engineering'
-p16
-aS'predictive analytics'
-p17
-aS'data'
-p18
-aS'customer relations'
-p19
-aS'science'
-p20
-asS'working-year'
-p21
-(lp22
-V[0]
-p23
-asS'major'
-p24
-(lp25
-S'science'
-p26
-aS'business'
-p27
 aS'big data'
-p28
-aS'marketing'
-p29
-aS'data science'
-p30
-aS'communication'
-p31
+p6
 aS'analytics'
-p32
-aS'engineering'
-p33
+p7
+aS'marketing'
+p8
+aS'data science'
+p9
 aS'english'
-p34
+p10
+aS'data scientist'
+p11
+aS'sales'
+p12
+aS'strategy'
+p13
+aS'risk management'
+p14
+aS'engineering'
+p15
+aS'customer support'
+p16
+aS'communication'
+p17
 aS'software engineering'
-p35
-aS'data science engineering'
-p36
+p18
 aS'predictive analytics'
-p37
+p19
+aS'data'
+p20
+aS'science'
+p21
+asS'working-year'
+p22
+(lp23
+S'[0]'
+p24
+asS'major'
+p25
+(lp26
+VBusiness
+p27
+aVData Science
+p28
+aVEconomics
+p29
+aVEngineering
+p30
+aVComputer Science
+p31
+aVManagement Science and Engineering
+p32
 asS'education'
-p38
-(lp39
+p33
+(lp34
 S'Bachelor'
-p40
+p35
 asS'responsibility'
-p41
-(lp42
+p36
+(lp37
 S'development'
-p43
+p38
 aS'product'
-p44
+p39
 aS'predict'
-p45
+p40
 aS'understand'
-p46
+p41
 aS'ownership'
-p47
+p42
 aS'model'
-p48
+p43
 as.

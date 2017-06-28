@@ -2,25 +2,25 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'healthcare industry'
 p4
-aS'healthcare industry'
-p5
 aS'business strategy'
-p6
+p5
 aS'testing'
-p7
+p6
 aS'communication'
-p8
+p7
 aS'pig'
-p9
+p8
 aS'analytics'
+p9
+aS'engineering'
 p10
 aS'analysis'
 p11
 aS'econometrics'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'java'
 p14
@@ -56,109 +56,95 @@ aS'data scientist'
 p29
 aS'hive'
 p30
-aS'informatics'
+aS'management'
 p31
-aS'ruby'
+aS'sql'
 p32
-aS'science'
+aS'informatics'
 p33
-aS'applied mathematics'
+aS'ruby'
 p34
-aS'programming'
+aS'science'
 p35
-aS'communication skills'
+aS'applied mathematics'
 p36
-aS'machine learning'
+aS'programming'
 p37
+aS'mapreduce'
+p38
+aS'communication skills'
+p39
+aS'machine learning'
+p40
 aS'r'
 aS'architecture'
-p38
-aS'emr'
-p39
-aS'clojure'
-p40
-aS'statistical analysis'
 p41
-asS'working-year'
+aS'emr'
 p42
-(lp43
-V(5, 10]
+aS'organization'
+p43
+aS'clojure'
 p44
-asS'major'
+aS'physics'
 p45
-(lp46
-S'information'
+aS'statistical analysis'
+p46
+asS'working-year'
 p47
-aS'management'
-p48
-aS'bio-statistics'
+(lp48
+V(5, 10]
 p49
-aS'business'
+asS'major'
 p50
-aS'big data'
-p51
-aS'statistics computer science'
+(lp51
+VStatistics
 p52
-aS'science'
+aVBusiness
 p53
-aS'applied mathematics'
+aVData Science
 p54
-aS'applied math'
+aVEngineering
 p55
-aS'communication'
+aVInformation Science
 p56
-aS'machine learning'
+aVComputer Science
 p57
-aS'analytics'
+aVMathematics
 p58
-aS'mathematics'
+aVPhysics
 p59
-aS'design'
+aVManagement Science and Engineering
 p60
-aS'computer science'
-p61
-aS'natural language processing'
-p62
-aS'informatics'
-p63
-aS'computer science applied math'
-p64
-aS'phd'
-p65
-aS'econometrics'
-p66
-aVphysic
-p67
 asS'education'
-p68
-(lp69
+p61
+(lp62
 VMaster
-p70
+p63
 aVDoctor
-p71
+p64
 asS'responsibility'
-p72
-(lp73
+p65
+(lp66
 S'development'
-p74
+p67
 aS'information'
-p75
+p68
 aS'product'
-p76
+p69
 aS'processing'
-p77
+p70
 aS'predict'
-p78
-aVinsight
-p79
+p71
+aS'insight'
+p72
 aS'analysis'
-p80
+p73
 aS'understand'
-p81
+p74
 aS'design'
-p82
+p75
 aS'model'
-p83
+p76
 aS'prototype'
-p84
+p77
 as.

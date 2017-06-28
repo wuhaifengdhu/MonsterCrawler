@@ -2,94 +2,86 @@
 S'skills'
 p2
 (lp3
-S'calculus'
+S'probability'
 p4
-aS'github'
-p5
-aS'probability'
-p6
-aS'algebra'
-p7
-aS'python'
-p8
-aS'communication'
-p9
 aS'regression analysis'
-p10
+p5
+aS'communication'
+p6
 aS'decision support'
-p11
-aS'mapreduce'
-p12
-aS'analysis'
-p13
-aS'machine learning'
-p14
+p7
 aS'analytics'
-p15
+p8
 aS'engineering'
-p16
-aS'computer science'
-p17
+p9
 aS'data mining'
-p18
+p10
 aS'regression'
-p19
-aS'electrical engineering'
-p20
+p11
+aS'statistics'
+p12
+aS'computer science'
+p13
+aS'calculus'
+p14
+aS'algebra'
+p15
+aS'python'
+p16
 aS'data'
-p21
+p17
+aS'a'
+aS'github'
+p18
 aS'linear algebra'
+p19
+aS'mapreduce'
+p20
+aS'analysis'
+p21
+aS'machine learning'
 p22
+aS'r'
 aS'science'
 p23
-asS'working-year'
-p24
-(lp25
-V[0]
-p26
-asS'major'
-p27
-(lp28
-S'information'
-p29
-aS'science'
-p30
-aS'statistic'
-p31
-aS'communication'
-p32
-aS'machine learning'
-p33
-aS'analytics'
-p34
-aS'engineering'
-p35
-aS'electrical'
-p36
-aS'computer science'
-p37
-aS'data mining'
-p38
 aS'electrical engineering'
-p39
-aS'phd'
-p40
+p24
+asS'working-year'
+p25
+(lp26
+S'[0]'
+p27
+asS'major'
+p28
+(lp29
+VEngineering
+p30
+aVData Science
+p31
+aVElectrical and Electronics Engineering
+p32
+aVStatistics
+p33
+aVComputer Science
+p34
 asS'education'
-p41
-(lp42
-VDoctor
-p43
+p35
+(lp36
+VMaster
+p37
+aVDoctor
+p38
 asS'responsibility'
-p44
-(lp45
+p39
+(lp40
 S'information'
-p46
+p41
 aS'model'
-p47
+p42
 aS'understand'
-p48
+p43
 aS'analysis'
-p49
+p44
 aS'data mining'
-p50
+p45
 as.

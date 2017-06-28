@@ -4,80 +4,86 @@ p2
 (lp3
 S'consulting'
 p4
-aS'organization'
+aS'communication'
 p5
-aS'agile'
+aS'sales'
 p6
 aS'thought leadership'
 p7
-aS'innovation'
+aS'presentations'
 p8
-aS'data scientist'
+aS'strategy'
 p9
-aS'training'
+aS'management'
 p10
-aS'analysis'
+aS'agile'
 p11
 aS'writing'
 p12
-aS'communication'
+aS'innovation'
 p13
-aS'management'
-p14
 aS'data analysis'
-p15
+p14
 aS'marketing'
+p15
+aS'data scientist'
 p16
-aS'product management'
+aS'leadership'
 p17
 aS'customer acquisition'
 p18
-aS'strategy'
-p19
 aS'data'
-p20
+p19
 aS'customer experience'
+p20
+aS'training'
 p21
-asS'working-year'
+aS'analysis'
 p22
-(lp23
-V(2, 5]
+aS'product management'
+p23
+aS'organization'
 p24
-asS'major'
+aS'retail'
 p25
-(lp26
-S'marketing'
+aS'investments'
+p26
+asS'working-year'
 p27
-aS'management'
-p28
-aS'mba'
+(lp28
+V(2, 5]
 p29
-aS'business'
+asS'major'
 p30
-aS'communication'
-p31
-asS'education'
+(lp31
+VEconomics
 p32
-(lp33
-S'Bachelor'
+aVBusiness
+p33
+aVManagement Science and Engineering
 p34
-asS'responsibility'
+asS'education'
 p35
 (lp36
-S'development'
+S'Bachelor'
 p37
-aS'product'
+asS'responsibility'
 p38
-aS'data analysis'
-p39
-aVinsight
+(lp39
+S'development'
 p40
-aS'analysis'
+aS'product'
 p41
-aS'report'
+aS'data analysis'
 p42
-aS'implement'
+aS'insight'
 p43
-aS'model'
+aS'analysis'
 p44
+aS'report'
+p45
+aS'implement'
+p46
+aS'model'
+p47
 as.

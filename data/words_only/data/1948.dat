@@ -2,106 +2,100 @@
 S'skills'
 p2
 (dp3
-S'reporting analysis'
+S'data analysis'
 p4
-I1
-sS'data analysis'
+F0.0060561714896557768
+sS'genetics'
 p5
-I1
-sS'database design'
-p6
-I1
-sS'programming'
-p7
-I1
-sS'documentation'
-p8
-I1
+F0.0158538983882404
 sS'data scientist'
-p9
-I1
-sS'statistical data analysis'
-p10
-I1
+p6
+F0.0043239659802607284
+sS'documentation'
+p7
+F0.011834452893649105
+sS'programming'
+p8
+F0.0089984917129377635
 sS'analysis'
-p11
-I1
+p9
+F0.012585993860355795
 sS'writing'
-p12
-I1
+p10
+F0.027515024401010117
 sS'epidemiology'
-p13
-I1
+p11
+F0.018646090863249819
 sS'quality control'
-p14
-I1
+p12
+F0.019640457554141771
 sS'quality assurance'
-p15
-I1
+p13
+F0.015928791305685919
 sS'communication'
-p16
-I1
+p14
+F0.0064619157514728843
 sS'research'
-p17
-I1
+p15
+F0.0069645742176468435
 sS'data'
-p18
-I1
+p16
+F0.0043567893504908419
 sS'data quality'
-p19
-I1
+p17
+F0.014427910461984586
 sS'statistical analysis'
-p20
-I1
+p18
+F0.010508980218010645
 ssS'working-year'
+p19
+(dp20
+S'[0]'
 p21
-(dp22
-V[0]
-p23
-I1
+F0.0089641417573240109
 ssS'major'
+p22
+(dp23
+VBiological Engineering
 p24
-(dp25
-S'epidemiology'
+F0.010735492981537514
+sVData Science
+p25
+F0.0041930162555308681
+sVStatistics
 p26
-I1
-sS'statistical genetics'
-p27
-I1
-sS'design'
-p28
-I1
-sS'communication'
-p29
-I1
+F0.0073530806934207363
 ssS'education'
+p27
+(dp28
+S'Bachelor'
+p29
+F0.0037199135823261504
+ssS'responsibility'
 p30
 (dp31
-S'Bachelor'
-p32
-I1
-ssS'responsibility'
-p33
-(dp34
 S'data analysis'
-p35
-I1
+p32
+F0.0060561714896557768
+sS'develop ... system'
+p33
+F0.019113067310122318
 sS'documentation'
-p36
-I1
+p34
+F0.011834452893649105
 sS'analysis'
-p37
-I1
+p35
+F0.012585993860355795
 sS'statistical method'
-p38
-I1
+p36
+F0.014350165016536782
 sS'design'
-p39
-I1
+p37
+F0.017882679306348705
 sS'report'
-p40
-I1
+p38
+F0.033882064002815168
 sS'presentation'
-p41
-I1
+p39
+F0.040218030078524196
 ss.

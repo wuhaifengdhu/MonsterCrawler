@@ -2,109 +2,121 @@
 S'skills'
 p2
 (lp3
-S'data science'
+S'nosql'
 p4
-aS'analytics'
+aS'data science'
 p5
-aS'management'
+aS'analytics'
 p6
-aS'big data'
+aS'engineering'
 p7
-aS'hadoop'
+aS'statistics'
 p8
-aS'marketing'
+aS'big data'
 p9
-aS'advanced analytics'
+aS'industrial engineering'
 p10
-aS'unstructured data'
+aS'hadoop'
 p11
-aS'pyspark'
+aS'computer science'
 p12
-aS'python'
+aS'marketing'
 p13
-aS'customer service'
+aS'advanced analytics'
 p14
-aS'data scientist'
+aS'unstructured data'
 p15
-aS'apache spark'
+aS'teradata'
 p16
-aS'sql'
+aS'pyspark'
 p17
-aS'apache'
+aS'python'
 p18
-aS'spark'
+aS'customer service'
 p19
-aS'credit risk'
-p20
-aS'data'
-p21
-aS'customer experience'
-p22
-aS'fraud'
-p23
-aS'science'
-p24
 aS'aws'
+p20
+aS'apache spark'
+p21
+aS'management'
+p22
+aS'sql'
+p23
+aS'apache'
+p24
+aS'modeling'
 p25
-aS'hive'
+aS'spark'
 p26
-aS'machine learning'
+aS'credit risk'
 p27
-aS'credit'
+aS'data'
 p28
-aS'h2o'
+aS'customer experience'
 p29
+aS'fraud'
+p30
+aS'science'
+p31
+aS'economics'
+p32
+aS'hive'
+p33
+aS'machine learning'
+p34
+aS'credit'
+p35
+aS'h2o'
+p36
 aS'r'
 aS'financial services'
-p30
-asS'working-year'
-p31
-(lp32
-V(2, 5]
-p33
-asS'major'
-p34
-(lp35
-S'management'
-p36
-aS'business'
 p37
-aS'big data'
+aS'oracle'
 p38
-aS'marketing'
+aS'organization'
 p39
-aS'data science'
+asS'working-year'
 p40
-aS'machine learning'
-p41
-aS'analytics'
+(lp41
+V(2, 5]
 p42
-aS'design'
+asS'major'
 p43
-aS'machine learning big data'
-p44
-aS'science'
+(lp44
+VStatistics
 p45
-aS'advanced analytics'
+aVBusiness
 p46
-asS'education'
+aVData Science
 p47
-(lp48
-VMaster
+aVEconomics
+p48
+aVEngineering
 p49
-aVDoctor
+aVComputer Science
 p50
-asS'responsibility'
+aVIndustrial Engineering
 p51
-(lp52
-S'development'
+aVManagement Science and Engineering
+p52
+asS'education'
 p53
-aS'analytic'
-p54
-aVinsight
+(lp54
+VMaster
 p55
-aS'design'
+aVDoctor
 p56
-aS'business problem'
+asS'responsibility'
 p57
+(lp58
+S'development'
+p59
+aS'analytic'
+p60
+aS'insight'
+p61
+aS'design'
+p62
+aS'modeling'
+p63
 as.

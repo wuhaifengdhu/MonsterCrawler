@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'photoshop'
+S'a'
+aS'photoshop'
 p4
 aS'data scientist'
 p5
@@ -25,11 +26,13 @@ p13
 sS'education'
 p15
 (lp16
-S'Bachelor'
+VBachelor
 p17
 asS'responsibility'
 p18
 (lp19
 S'development'
 p20
+aS'identify ... trend'
+p21
 as.

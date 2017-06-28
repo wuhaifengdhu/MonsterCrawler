@@ -26,7 +26,7 @@ aS'regression'
 p14
 aS'visualization'
 p15
-aS'education'
+aS'statistics'
 p16
 aS'big data'
 p17
@@ -34,168 +34,158 @@ aS'anomaly detection'
 p18
 aS'agile'
 p19
-aS'hadoop'
+aS'education'
 p20
-aS'research'
+aS'hadoop'
 p21
-aS'quantitative analytics'
+aS'research'
 p22
-aS'computer science'
+aS'quantitative analytics'
 p23
-aS'innovation'
+aS'computer science'
 p24
-aS'advanced analytics'
+aS'innovation'
 p25
-aS'mathematics'
+aS'advanced analytics'
 p26
-aS'unstructured data'
+aS'mathematics'
 p27
-aS'operations research'
+aS'unstructured data'
 p28
-aS'data analysis'
+aS'operations research'
 p29
-aS'marketing'
+aS'data analysis'
 p30
-aS'processing'
+aS'marketing'
 p31
-aS'data scientist'
+aS'processing'
 p32
-aS'leadership'
+aS'data scientist'
 p33
-aS'algorithm development'
+aS'sales'
 p34
-aS'modeling'
+aS'leadership'
 p35
-aS'spark'
+aS'algorithm development'
 p36
-aS'data'
+aS'modeling'
 p37
-aS'software development'
+aS'spark'
 p38
-aS'data visualization'
+aS'data'
 p39
-aS'analytics'
+aS'software development'
 p40
-aS'statistical analysis'
+aS'data visualization'
 p41
-aS'science'
+aS'analytics'
 p42
-aS'economics'
+aS'statistical analysis'
 p43
-aS'business strategy'
+aS'science'
 p44
-aS'analysis'
+aS'economics'
 p45
-aS'machine learning'
+aS'business strategy'
 p46
-aS'cluster analysis'
+aS'analysis'
 p47
-aS'predictive analytics'
+aS'machine learning'
 p48
-asS'working-year'
+aS'algorithms'
 p49
-(lp50
-V(5, 10]
+aS'cluster analysis'
+p50
+aS'predictive analytics'
 p51
-asS'major'
+asS'working-year'
 p52
 (lp53
-S'science'
+V(5, 10]
 p54
-aS'information'
+asS'major'
 p55
-aS'information systems'
-p56
-aS'business'
+(lp56
+VStatistics
 p57
-aS'big data'
+aVBusiness
 p58
-aS'marketing'
+aVData Science
 p59
-aS'data science'
+aVEconomics
 p60
-aS'economics'
+aVEngineering
 p61
-aS'communication'
+aVInformation Science
 p62
-aS'machine learning'
+aVComputer Science
 p63
-aS'analytics'
+aVMathematics
 p64
-aS'engineering'
+aVOperations Research
 p65
-aS'information system'
-p66
-aS'computer science engineering'
-p67
-aS'computer science'
-p68
-aS'statistic'
-p69
-aS'advanced analytics'
-p70
-aS'mathematics'
-p71
-aS'operations research'
-p72
-aS'predictive analytics'
-p73
 asS'education'
-p74
-(lp75
-VMaster
-p76
+p66
+(lp67
+VBachelor
+p68
+aVMaster
+p69
 asS'responsibility'
-p77
-(lp78
+p70
+(lp71
 S'forecasting'
-p79
+p72
 aVtest hypothesis
-p80
+p73
 aS'formulate'
-p81
+p74
 aS'predict'
-p82
-aVinsight
-p83
+p75
+aS'insight'
+p76
 aS'solve problem'
-p84
+p77
 aS'recommendation'
-p85
-aS'large data set'
-p86
-aS'mine data'
-p87
-aS'pattern'
-p88
-aS'improvement'
-p89
-aS'analytic'
-p90
-aS'presentation'
-p91
-aS'development'
-p92
-aS'product'
-p93
-aS'data analysis'
-p94
-aS'business problem'
-p95
-aS'processing'
-p96
-aS'communicate'
-p97
-aS'understand'
-p98
+p78
 aS'modeling'
-p99
-aS'analysis'
-p100
+p79
+aS'forecast'
+p80
 aS'information'
-p101
+p81
+aS'mine data'
+p82
+aS'pattern'
+p83
+aS'improvement'
+p84
+aS'analytic'
+p85
+aS'presentation'
+p86
+aS'development'
+p87
+aS'product'
+p88
+aS'data analysis'
+p89
+aS'business problem'
+p90
+aS'processing'
+p91
+aS'communicate'
+p92
+aS'understand'
+p93
+aS'manipulate ... data set'
+p94
+aS'large data set'
+p95
+aS'analysis'
+p96
 aS'model'
-p102
+p97
 aS'decision-making'
-p103
+p98
 as.

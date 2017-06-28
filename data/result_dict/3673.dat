@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'nlp'
+S'a'
+aS'nlp'
 p4
 aS'search'
 p5
@@ -50,56 +51,40 @@ p26
 asS'major'
 p27
 (lp28
-S'information'
+VComputer Science
 p29
-aS'business'
+aVBusiness
 p30
-aS'big data'
-p31
-aS'science'
-p32
-aS'machine learning data mining'
-p33
-aS'design'
-p34
-aS'computer science'
-p35
-aS'phd'
-p36
-aS'data mining'
-p37
-aS'machine learning'
-p38
-aS'information retrieval'
-p39
 asS'education'
-p40
-(lp41
+p31
+(lp32
 VDoctor
-p42
+p33
 asS'responsibility'
-p43
-(lp44
+p34
+(lp35
 S'information'
-p45
+p36
 aS'product'
-p46
+p37
 aS'modeling'
-p47
+p38
+aS'develop ... model'
+p39
 aS'optimization'
-p48
+p40
 aS'understand'
-p49
+p41
 aS'ownership'
-p50
+p42
 aS'data mining'
-p51
+p43
 aS'design'
-p52
+p44
 aS'implement'
-p53
+p45
 aS'prototype'
-p54
+p46
 aS'model'
-p55
+p47
 as.

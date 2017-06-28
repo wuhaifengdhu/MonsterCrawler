@@ -1,5 +1,5 @@
-skills: {'customer satisfaction': 1, 'management': 1, 'program management': 1, 'data scientist': 1, 'customer retention': 1, 'analysis': 1, 'research': 1, 'hardware': 1, 'data analysis': 1, 'process improvement': 1, 'computer science': 1, 'electrical engineering': 1, 'organization': 1, 'customer experience': 1, 'education': 1, 'data analytics': 1, 'sap': 1}
-working-year: {u'(5, 10]': 1, u'(10, 15]': 1}
-major: {'management': 1, 'business': 1, 'electrical engineering computer science': 1, 'computer science': 1, 'electrical engineering': 1, 'data analytics': 1}
-education: {u'Bachelor': 1}
-responsibility: {'data analysis': 1, 'build model': 1, 'analysis': 1, 'improvement': 1}
+skills: {'a': 0.02597280407797259, 'customer satisfaction': 0.012567313164095269, 'education': 0.011659037498962606, 'organization': 0.009795465773787117, 'program management': 0.00927864252378859, 'customer retention': 0.01566730410951197, 'data scientist': 0.002942699069899662, 'analysis': 0.0009517186715392498, 'research': 0.002369889837949273, 'hardware': 0.010314766879317958, 'data analysis': 0.004121561152682403, 'process improvement': 0.00896045179008185, 'computer science': 0.0039055090644089466, 'science': 0.0019528719116502567, 'electrical engineering': 0.011012847453830046, 'sap': 0.011153166496607941, 'data': 0.00032944857742909145, 'data analytics': 0.00567311855968277, 'customer experience': 0.010641934448572903}
+working-year: {u'(5, 10]': 0.003349011837713497, u'(10, 15]': 0.00543729543388433}
+major: {u'Data Science': 0.002853580507236285, u'Electrical and Electronics Engineering': 0.008740634987152726, u'Computer Science': 0.0025148770732005494, u'Business': 0.003004762075483651, u'Management Science and Engineering': 0.0035820681624135903}
+education: {u'Bachelor': 0.00253160785463863}
+responsibility: {'data analysis': 0.004121561152682403, 'build model': 0.014691203022740679, 'analysis': 0.0009517186715392498, 'improvement': 0.007461684712053078, 'model': 0.0042983634497267805, 'forecast': 0.012615623041214843}

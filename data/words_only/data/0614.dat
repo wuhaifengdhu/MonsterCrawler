@@ -2,112 +2,119 @@
 S'skills'
 p2
 (dp3
-S'investment banking'
+S'financial markets'
 p4
-I1
-sS'big data'
-p5
-I1
-sS'government'
-p6
-I1
-sS'financial markets'
-p7
-I1
-sS'anomaly detection'
-p8
-I1
-sS'management'
-p9
-I1
-sS'risk management'
-p10
-I1
-sS'trading systems'
-p11
-I1
-sS'machine learning'
-p12
-I1
-sS'banking'
-p13
-I1
-sS'defense'
-p14
-I1
+F0.020565919803936624
 sS'testing'
-p15
-I1
-sS'investment management'
-p16
-I1
-sS'go'
-p17
-I1
+p5
+F0.0079049344204633713
+sS'defense'
+p6
+F0.013635668547985477
 sS'trading'
-p18
-I1
-sS'security'
-p19
-I1
-sS'fraud'
-p20
-I1
-sS'spark'
-p21
-I1
-sS'philosophy'
-p22
-I1
+p7
+F0.032501333956383438
+sS'go'
+p8
+F0.012659896505898176
 sS'simulation'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(2, 5]
-p26
-I1
-ssS'major'
-p27
-(dp28
-S'information'
-p29
-I1
+p9
+F0.010366161342372091
 sS'management'
-p30
-I1
+p10
+F0.0034982581745160316
+sS'java'
+p11
+F0.0047848145469817898
 sS'big data'
-p31
-I1
-sS'business'
-p32
-I1
+p12
+F0.0049139966268828862
+sS'anomaly detection'
+p13
+F0.016969198853990775
+sS'trading systems'
+p14
+F0.021299675640279698
+sS'risk management'
+p15
+F0.012199835235475817
+sS'government'
+p16
+F0.010066098515941951
+sS'python'
+p17
+F0.0020125541032944634
 sS'philosophy'
-p33
-I1
+p18
+F0.019151857081801192
+sS'investment banking'
+p19
+F0.019151857081801192
+sS'spark'
+p20
+F0.0065101761517979096
+sS'data'
+p21
+F0.00045792080260414255
+sS'a'
+F0.0072202389714827288
+sS'fraud'
+p22
+F0.015103691411615014
+sS'scala'
+p23
+F0.009423036245940682
 sS'machine learning'
+p24
+F0.0025309564549576809
+sS'banking'
+p25
+F0.013259845245399056
+sS'r'
+F0.0021428274386638656
+sS'investment management'
+p26
+F0.023551198842280758
+sS'security'
+p27
+F0.016875295874284109
+ssS'working-year'
+p28
+(dp29
+V(2, 5]
+p30
+F0.0047835692217418364
+ssS'major'
+p31
+(dp32
+VComputer Science
+p33
+F0.0034955820322478677
+sVBusiness
 p34
-I1
-ssS'education'
+F0.004176503270942526
+sVManagement Science and Engineering
 p35
-(dp36
+F0.0049789364419648352
+ssS'education'
+p36
+(dp37
 VDoctor
-p37
-I1
-ssS'responsibility'
 p38
-(dp39
+F0.0042053350261639696
+ssS'responsibility'
+p39
+(dp40
 S'information'
-p40
-I1
-sVinsight
 p41
-I1
-sS'simulation'
+F0.0053556185310015235
+sS'insight'
 p42
-I1
-sS'business problem'
+F0.0070845303320829544
+sS'simulation'
 p43
-I1
+F0.010366161342372091
+sS'business problem'
+p44
+F0.010996720317106736
 ss.

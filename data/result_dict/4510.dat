@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'intelligence'
+S'communication'
 p4
 aS'data science'
 p5
@@ -16,105 +16,97 @@ aS'regression'
 p9
 aS'visualization'
 p10
-aS'research'
+aS'statistics'
 p11
-aS'system architecture'
+aS'research'
 p12
-aS'matlab'
+aS'system architecture'
 p13
-aS'communication'
-p14
-aS'artificial intelligence'
-p15
 aS'computer science'
+p14
+aS'intelligence'
+p15
+aS'mathematics'
 p16
-aS'python'
+aS'artificial intelligence'
 p17
-aS'design thinking'
+aS'matlab'
 p18
-aS'data scientist'
+aS'python'
 p19
-aS'leadership'
+aS'design thinking'
 p20
-aS'sql'
+aS'leadership'
 p21
-aS'data'
+aS'sql'
 p22
-aS'customer experience'
+aS'data'
 p23
-aS'data visualization'
+aS'customer experience'
 p24
-aS'science'
+aS'data visualization'
 p25
-aS'analysis'
+aS'science'
 p26
-aS'machine learning'
+aS'analysis'
 p27
-aS'product design'
+aS'machine learning'
 p28
+aS'product design'
+p29
 aS'r'
 aS'architecture'
-p29
-aS'organization'
 p30
-aS'cluster analysis'
+aS'organization'
 p31
-asS'working-year'
+aS'cluster analysis'
 p32
-(lp33
-V[0]
-p34
-asS'major'
+asS'working-year'
+p33
+(lp34
+S'[0]'
 p35
-(lp36
-S'business'
-p37
-aS'computing'
+asS'major'
+p36
+(lp37
+VStatistics
 p38
-aS'science'
+aVBusiness
 p39
-aS'data science'
+aVData Science
 p40
-aVapplied statistic
+aVEngineering
 p41
-aS'machine learning'
+aVComputer Science
 p42
-aS'engineering'
+aVMathematics
 p43
-aS'design'
-p44
-aS'computer science'
-p45
-aS'statistic'
-p46
-aS'communication'
-p47
-aS'artificial intelligence'
-p48
 asS'education'
-p49
-(lp50
+p44
+(lp45
 S'Bachelor'
-p51
+p46
 asS'responsibility'
-p52
-(lp53
+p47
+(lp48
 S'development'
-p54
+p49
 aS'product'
-p55
-aVinsight
-p56
+p50
+aS'insight'
+p51
 aS'analysis'
-p57
+p52
+aS'develop ... model'
+p53
 aS'design'
-p58
+p54
 aS'report'
-p59
+p55
 aS'understand'
-p60
+p56
 aS'model'
-p61
+p57
 aS'prototype'
-p62
+p58
 as.

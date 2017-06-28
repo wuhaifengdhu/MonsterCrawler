@@ -2,121 +2,125 @@
 S'skills'
 p2
 (dp3
-S'dna'
+S'a'
+F0.015892707311167365
+sS'statistics'
 p4
-I1
-sS'mechanical engineering'
+F0.0026416794753614864
+sS'dna'
 p5
-I1
-sS'biostatistics'
+F0.013352614360405182
+sS'mechanical engineering'
 p6
-I1
-sS'scala'
+F0.01549901927395396
+sS'biostatistics'
 p7
-I1
-sS'communication'
+F0.011148717765715266
+sS'scala'
 p8
-I1
-sS'data science'
+F0.0069137858008459967
+sS'python'
 p9
-I1
-sS'data scientist'
+F0.0014766331806041529
+sS'communication'
 p10
-I1
-sS'engineering'
+F0.0044848990343083752
+sS'data science'
 p11
-I1
-sS'research'
+F0.0034074813758090631
+sS'data scientist'
 p12
-I1
+F0.003001052875818352
 sS'quantitative models'
 p13
-I1
-sS'statistical software'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'organization'
-p16
-I1
+F0.019759852489662527
 sS'data'
-p17
-I1
-ssS'working-year'
-p18
-(dp19
-V(2, 5]
-p20
-I1
-ssS'major'
-p21
-(dp22
-S'information'
-p23
-I1
-sS'mechanical engineering'
-p24
-I1
-sS'biostatistics'
-p25
-I1
-sS'communication'
-p26
-I1
-sS'data science'
-p27
-I1
-sS'mechanical'
-p28
-I1
-sS'phd'
-p29
-I1
-sS'statistics computer science'
-p30
-I1
+p14
+F0.0036957970725756432
+sS'research'
+p15
+F0.0048337696411429936
 sS'engineering'
-p31
-I1
+p16
+F0.013879374244460677
+sS'r'
+F0.0015722161660451592
+sS'statistical software'
+p17
+F0.011148717765715266
 sS'computer science'
+p18
+F0.0039829554197938263
+sS'science'
+p19
+F0.0039831948339608637
+sS'organization'
+p20
+F0.0049948550687866329
+sS'physics'
+p21
+F0.0068925903043814823
+ssS'working-year'
+p22
+(dp23
+V(2, 5]
+p24
+F0.0035097575876236135
+ssS'major'
+p25
+(dp26
+VStatistics
+p27
+F0.005103412945858584
+sVData Science
+p28
+F0.0029101670895327553
+sVEngineering
+p29
+F0.013879374244460677
+sVComputer Science
+p30
+F0.0025647471568050928
+sVBiological Engineering
+p31
+F0.0074509795480926077
+sVMathematics
 p32
-I1
-sS'statistic'
+F0.0048562961177973148
+sVPhysics
 p33
-I1
-sS'applied math'
-p34
-I1
-sVphysic
-p35
-I1
+F0.0074326688419266021
 ssS'education'
+p34
+(dp35
+VBachelor
 p36
-(dp37
-VMaster
-p38
-I1
+F0.0025818097101130504
+sVMaster
+p37
+F0.0020602852272639575
 sVDoctor
-p39
-I1
+p38
+F0.0030855007699050088
 ssS'responsibility'
-p40
-(dp41
+p39
+(dp40
 S'development'
-p42
-I1
+p41
+F0.0034304844261023194
 sS'information'
-p43
-I1
+p42
+F0.0039294764859189651
 sS'product'
-p44
-I1
+p43
+F0.022861068964041022
 sS'communicate'
+p44
+F0.0056834075985314229
+sS'develop ... model'
 p45
-I1
+F0.0087816233064479821
 sS'model'
 p46
-I1
+F0.0087672002374030653
 ss.

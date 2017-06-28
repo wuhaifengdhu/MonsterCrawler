@@ -4,102 +4,92 @@ p2
 (lp3
 S'training'
 p4
-aS'software engineering'
+aS'statistics'
 p5
-aS'hadoop'
-p6
-aS'programming'
-p7
-aS'data science'
-p8
-aS'data scientist'
-p9
-aS'mobile devices'
-p10
-aS'analysis'
-p11
-aS'machine learning'
-p12
-aS'engineering'
-p13
-aS'sas programming'
-p14
-aS'computer science'
-p15
-aS'mathematics'
-p16
-aS'electrical engineering'
-p17
-aS'manufacturing'
-p18
-aS'data'
-p19
-aS'industrial engineering'
-p20
-aS'science'
-p21
-asS'working-year'
-p22
-(lp23
-V(5, 10]
-p24
-aV(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
-aS'general'
-p29
 aS'software engineering'
-p30
-aS'mathematics'
-p31
-aS'science'
-p32
+p6
+aS'hadoop'
+p7
+aS'programming'
+p8
 aS'data science'
-p33
-aS'statistic'
-p34
-aS'machine learning'
-p35
-aS'statistics computer science'
-p36
-aS'engineering'
-p37
-aS'electrical'
-p38
-aS'computer science'
-p39
-aS'electrical engineering'
-p40
-aS'design'
-p41
-aS'phd'
-p42
-aS'industrial engineering'
-p43
-asS'education'
-p44
-(lp45
-VDoctor
-p46
-asS'responsibility'
-p47
-(lp48
-S'information'
-p49
+p9
+aS'data scientist'
+p10
+aS'mobile devices'
+p11
 aS'analysis'
-p50
+p12
+aS'machine learning'
+p13
+aS'engineering'
+p14
+aS'sas programming'
+p15
+aS'computer science'
+p16
+aS'mathematics'
+p17
+aS'sas'
+p18
+aS'electrical engineering'
+p19
+aS'manufacturing'
+p20
+aS'data'
+p21
+aS'industrial engineering'
+p22
+aS'science'
+p23
+asS'working-year'
+p24
+(lp25
+V(5, 10]
+p26
+aV(2, 5]
+p27
+asS'major'
+p28
+(lp29
+VStatistics
+p30
+aVIndustrial Engineering
+p31
+aVElectrical and Electronics Engineering
+p32
+aVEngineering
+p33
+aVComputer Science
+p34
+aVMathematics
+p35
+aVData Science
+p36
+asS'education'
+p37
+(lp38
+VBachelor
+p39
+aVMaster
+p40
+aVDoctor
+p41
+asS'responsibility'
+p42
+(lp43
+S'information'
+p44
+aS'develop ... system'
+p45
+aS'analysis'
+p46
 aS'improvement'
-p51
+p47
 aS'analytic'
-p52
+p48
 aS'design'
-p53
-aS'develop system'
-p54
+p49
 aS'implement'
-p55
+p50
 as.

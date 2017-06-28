@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'parallel computing'
 p4
 aS'cancer'
 p5
@@ -10,181 +10,159 @@ aS'communication'
 p6
 aS'data science'
 p7
-aS'analytics'
+aS'testing'
 p8
-aS'engineering'
+aS'analytics'
 p9
-aS'statistical analysis'
+aS'engineering'
 p10
-aS'data mining'
+aS'statistical analysis'
 p11
-aS'laboratory'
+aS'data mining'
 p12
-aS'simulation'
+aS'laboratory'
 p13
-aS'data analytics'
+aS'simulation'
 p14
-aS'parallel computing'
+aS'data analytics'
 p15
-aS'visualization'
-p16
-aS'technical leadership'
-p17
-aS'management'
-p18
 aS'education'
+p16
+aS'visualization'
+p17
+aS'technical leadership'
+p18
+aS'statistics'
 p19
-aS'integration'
+aS'java'
 p20
-aS'research'
+aS'scala'
 p21
-aS'access'
+aS'management'
 p22
-aS'energy'
+aS'integration'
 p23
-aS'computer science'
+aS'research'
 p24
-aS'leadership'
+aS'access'
 p25
-aS'mathematics'
+aS'energy'
 p26
-aS'statistical learning'
+aS'computer science'
 p27
-aS'data management'
+aS'leadership'
 p28
-aS'matlab'
+aS'mathematics'
 p29
-aS'biology'
+aS'statistical learning'
 p30
-aS'data analysis'
+aS'data management'
 p31
-aS'theory'
+aS'matlab'
 p32
-aS'computational biology'
+aS'biology'
 p33
-aS'government'
+aS'data analysis'
 p34
-aS'processing'
+aS'theory'
 p35
-aS'data scientist'
+aS'computational biology'
 p36
-aS'scipy'
+aS'government'
 p37
-aS'information visualization'
+aS'python'
 p38
-aS'algorithm development'
+aS'processing'
 p39
-aS'modeling'
+aS'data scientist'
 p40
-aS'data'
+aS'scipy'
 p41
-aS'project management'
+aS'information visualization'
 p42
-aS'national security'
+aS'algorithm development'
 p43
-aS'science'
+aS'modeling'
 p44
-aS'applied mathematics'
+aS'data'
 p45
-aS'programming'
+aS'project management'
 p46
-aS'analysis'
+aS'a'
+aS'c'
+aS'national security'
 p47
-aS'machine learning'
+aS'science'
 p48
+aS'applied mathematics'
+p49
+aS'programming'
+p50
+aS'analysis'
+p51
+aS'machine learning'
+p52
 aS'r'
 aS'architecture'
-p49
-aS'scientific analysis'
-p50
-aS'organization'
-p51
-aS'security'
-p52
-aS'data integration'
 p53
-asS'working-year'
+aS'scientific analysis'
 p54
-(lp55
-V[0]
+aS'organization'
+p55
+aS'security'
 p56
-asS'major'
+aS'data integration'
 p57
-(lp58
-S'computing'
-p59
-aS'communication'
+asS'working-year'
+p58
+(lp59
+S'[0]'
 p60
-aS'data science'
+asS'major'
 p61
-aS'statistic'
-p62
-aS'analytics'
+(lp62
+VStatistics
 p63
-aS'engineering'
+aVData Science
 p64
-aS'applied statistics'
+aVEngineering
 p65
-aS'data mining'
+aVComputer Science
 p66
-aS'computational biolog'
+aVBiological Engineering
 p67
-aS'information'
+aVMathematics
 p68
-aS'management'
+aVManagement Science and Engineering
 p69
-aVapplied statistic
-p70
-aS'computer science'
-p71
-aS'mathematics'
-p72
-aS'biology'
-p73
-aS'computational biology'
-p74
-aS'phd'
-p75
-aS'project management'
-p76
-aS'science'
-p77
-aS'applied mathematics'
-p78
-aS'machine learning'
-p79
-aS'statistics applied mathematics'
-p80
-aS'applied math'
-p81
-aS'data analytics'
-p82
 asS'education'
-p83
-(lp84
+p70
+(lp71
 VMaster
-p85
+p72
 aVDoctor
-p86
+p73
 asS'responsibility'
-p87
-(lp88
+p74
+(lp75
 S'development'
-p89
+p76
 aS'information'
-p90
+p77
 aS'data analysis'
-p91
+p78
 aS'processing'
-p92
+p79
 aS'analysis'
-p93
+p80
 aS'simulation'
-p94
+p81
 aS'data mining'
-p95
+p82
 aS'modeling'
-p96
+p83
 aS'model'
-p97
+p84
+aS'evaluation'
+p85
 as.

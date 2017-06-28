@@ -4,217 +4,204 @@ p2
 (dp3
 S'aws'
 p4
-I1
+F0.00616385931316441
 sS'probability'
 p5
-I1
+F0.0082189366466355711
 sS'regression analysis'
 p6
-I1
-sS'storage'
+F0.0089360777870974538
+sS'communication'
 p7
-I1
+F0.0037338899979029632
 sS'data science'
 p8
-I1
-sS'analytics'
+F0.0028368889756146204
+sS'personalization'
 p9
-I1
-sS'engineering'
+F0.01043819289611614
+sS'analytics'
 p10
-I1
-sS'problem solving'
+F0.0061538027970532549
+sS'engineering'
 p11
-I1
-sS'data mining'
+F0.0028888084364944683
+sS'problem solving'
 p12
-I1
-sS'regression'
+F0.0057891789267765356
+sS'data mining'
 p13
-I1
-sS'xml'
+F0.0050046682280239091
+sS'regression'
 p14
-I1
-sS'visualization'
+F0.005604169317645756
+sS'xml'
 p15
-I1
-sS'classification'
+F0.0077686625364518725
+sS'visualization'
 p16
-I1
-sS'predictive modeling'
+F0.0044205077168253991
+sS'java'
 p17
-I1
-sS'r programming'
+F0.0029227994520478382
+sS'classification'
 p18
-I1
-sS'tableau'
+F0.0074418912770237711
+sS'scala'
 p19
-I1
-sS'd3'
+F0.0057560528011760302
+sS'predictive modeling'
 p20
-I1
-sS'json'
+F0.0049033158223796454
+sS'storage'
 p21
-I1
-sS'r'
-I1
-sS'communication'
+F0.0088219376475152343
+sS'tableau'
 p22
-I1
-sS'microsoft excel'
+F0.0047382690734051689
+sS'd3'
 p23
-I1
-sS'clustering'
+F0.0071230973872294665
+sS'json'
 p24
-I1
-sS'data analysis'
+F0.0092593718790881969
+sS'r'
+F0.0013089441193725028
+sS'microsoft excel'
 p25
-I1
-sS'python'
+F0.0048510256016568642
+sS'clustering'
 p26
-I1
-sS'marketing'
+F0.0076023881145193635
+sS'data analysis'
 p27
-I1
-sS'data scientist'
+F0.0034994387145416629
+sS'python'
 p28
-I1
-sS'multivariate testing'
+F0.0012293667753614764
+sS'marketing'
 p29
-I1
-sS'sql'
+F0.008986860955082776
+sS'data scientist'
 p30
-I1
-sS'modeling'
+F0.0024985180782166939
+sS'multivariate testing'
 p31
-I1
-sS'data'
+F0.012956666429440515
+sS'sql'
 p32
-I1
-sS'customer experience'
+F0.0016083581576251109
+sS'modeling'
 p33
-I1
-sS'b testing'
+F0.0019154379458055483
+sS'data'
 p34
-I1
-sS'collaborative filtering'
+F0.0022377639221598661
+sS'customer experience'
 p35
-I1
-sS'marketing analytics'
+F0.0090356047204864266
+sS'a'
+F0.0044104761641840249
+sS'b testing'
 p36
-I1
-sS'programming'
+F0.0094093480291456318
+sS'collaborative filtering'
 p37
-I1
-sS'analysis'
+F0.010817156588751146
+sS'science'
 p38
-I1
-sS'machine learning'
+F0.0016580987929105952
+sS'marketing analytics'
 p39
-I1
-sS'optimization'
+F0.0090974014458485349
+sS'programming'
 p40
-I1
-sS'retail'
+F0.0025998000821577261
+sS'analysis'
 p41
-I1
-sS'predictive analytics'
+F0.00080806302300502337
+sS'machine learning'
 p42
-I1
-ssS'working-year'
+F0.0015460323628161304
+sS'optimization'
 p43
-(dp44
-V(2, 5]
+F0.0047170020221427881
+sS'retail'
+p44
+F0.0081272676519257587
+sS'predictive analytics'
 p45
-I1
-ssS'major'
+F0.0054304202201150712
+ssS'working-year'
 p46
 (dp47
-S'data mining'
+V(2, 5]
 p48
-I1
-sS'business'
+F0.0029220387462998479
+ssS'major'
 p49
-I1
-sS'marketing'
-p50
-I1
-sS'data science'
+(dp50
+VEngineering
 p51
-I1
-sS'marketing analytics'
+F0.0053122144499215271
+sVEconomics
 p52
-I1
-sS'communication'
+F0.0038697442158595772
+sVData Science
 p53
-I1
-sS'general'
+F0.0024228513740685437
+sVBusiness
 p54
-I1
-sS'analytics'
+F0.0025512130829578165
+sVComputer Science
 p55
-I1
-sS'engineering'
-p56
-I1
-sS'machine learning'
-p57
-I1
-sS'design'
-p58
-I1
-sS'statistic'
-p59
-I1
-sS'machine learning data mining'
-p60
-I1
-sS'predictive analytics'
-p61
-I1
+F0.0021352729866797116
 ssS'education'
-p62
-(dp63
+p56
+(dp57
 VBachelor
-p64
-I1
+p58
+F0.0021494783671460065
 ssS'responsibility'
-p65
-(dp66
+p59
+(dp60
 S'data mining'
-p67
-I1
+p61
+F0.0050046682280239091
 sS'product'
-p68
-I1
+p62
+F0.0063443060882912572
 sS'data analysis'
-p69
-I1
+p63
+F0.0034994387145416629
 sS'pattern'
-p70
-I1
-sVinsight
-p71
-I1
+p64
+F0.0061759223480522306
+sS'insight'
+p65
+F0.0043275786698336914
 sS'analysis'
-p72
-I1
+p66
+F0.00080806302300502337
+sS'statistical model'
+p67
+F0.0084690195887238088
 sS'optimization'
-p73
-I1
+p68
+F0.0047170020221427881
 sS'design'
-p74
-I1
+p69
+F0.0034443839858926358
 sS'recommendation'
-p75
-I1
+p70
+F0.012321706343482411
 sS'modeling'
-p76
-I1
+p71
+F0.0019154379458055483
 sS'model'
-p77
-I1
+p72
+F0.0036495538724095299
 sS'normalization'
-p78
-I1
+p73
+F0.014289949526192601
 ss.

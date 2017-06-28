@@ -1,5 +1,5 @@
-skills: {'management': 1, 'national security': 1, 'big data': 1, 'government': 1, 'intelligence': 1, 'energy': 1, 'data scientist': 1, 'strategy': 1, 'engineering': 1, 'defense': 1, 'computer science': 1, 'policy': 1, 'security': 1, 'data quality': 1, 'data': 1, 'data management': 1}
-working-year: {u'(5, 10]': 1, u'(10, 15]': 1}
-major: {'management': 1, 'business': 1, 'big data': 1, 'computer science computer engineering': 1, 'computer engineering': 1, 'data analyst': 1, 'engineering': 1, 'design': 1, 'computer science': 1, 'ee computer science': 1}
-education: {u'Bachelor': 1}
-responsibility: {'implement': 1, 'design': 1}
+skills: {'management': 0.019696714504340265, 'national security': 0.02284050667289175, 'big data': 0.006916984382405802, 'government': 0.028338255604662667, 'science': 0.003820836348880937, 'energy': 0.016768996228533065, 'data scientist': 0.005757454701977599, 'strategy': 0.00855984473492845, 'engineering': 0.019970458321853065, 'defense': 0.03838737123835041, 'computer science': 0.007641213386887068, 'intelligence': 0.008532927227645539, 'policy': 0.044505297196316566, 'security': 0.011876906607172782, 'data quality': 0.01921107643035991, 'data': 0.006445733036656137, 'data management': 0.014945207090267774}
+working-year: {u'(5, 10]': 0.0065524144650916235, u'(10, 15]': 0.010638186718469342}
+major: {u'Data Science': 0.005583092296766645, u'Management Science and Engineering': 0.0070083942308091975, u'Engineering': 0.019970458321853065, u'Business': 0.005878882321598447, u'Computer Science': 0.004920411664957596}
+education: {u'Bachelor': 0.004953145802553841}
+responsibility: {'information': 0.007538615214833666, 'implement': 0.011510125951736998, 'design': 0.007937058750100421}

@@ -18,7 +18,7 @@ aS'analytics'
 p10
 aS'engineering'
 p11
-aS'management'
+aS'statistics'
 p12
 aS'big data'
 p13
@@ -34,86 +34,69 @@ aS'gas'
 p18
 aS'data scientist'
 p19
-aS'internet things'
-p20
-aS'manufacturing'
-p21
-aS'data'
-p22
-aS'life sciences'
-p23
-aS'science'
-p24
-aS'cloud computing'
-p25
-aS'optimization'
-p26
-aS'electrical engineering'
-p27
-aS'predictive analytics'
-p28
-asS'working-year'
-p29
-(lp30
-V(5, 10]
-p31
-aV(0, 2]
-p32
-asS'major'
-p33
-(lp34
-S'life sciences'
-p35
 aS'management'
-p36
-aS'master science'
-p37
-aS'big data'
-p38
-aS'business administration'
-p39
+p20
+aS'internet things'
+p21
+aS'manufacturing'
+p22
+aS'data'
+p23
+aS'a'
+aS'life sciences'
+p24
 aS'science'
-p40
-aS'data science'
-p41
-aS'computing'
-p42
-aS'communication'
-p43
-aS'business'
-p44
-aS'analytics'
-p45
-aS'engineering'
-p46
-aS'electrical'
-p47
-aS'computer science'
-p48
-aS'statistic'
-p49
+p25
+aS'cloud computing'
+p26
+aS'optimization'
+p27
 aS'electrical engineering'
-p50
+p28
 aS'predictive analytics'
-p51
+p29
+asS'working-year'
+p30
+(lp31
+V(5, 10]
+p32
+aV(0, 2]
+p33
+asS'major'
+p34
+(lp35
+VStatistics
+p36
+aVBusiness
+p37
+aVData Science
+p38
+aVElectrical and Electronics Engineering
+p39
+aVEngineering
+p40
+aVComputer Science
+p41
+aVManagement Science and Engineering
+p42
 asS'education'
-p52
-(lp53
+p43
+(lp44
 VBachelor
-p54
+p45
 aVMaster
-p55
+p46
 asS'responsibility'
-p56
-(lp57
+p47
+(lp48
 S'optimization'
-p58
+p49
 aS'product'
-p59
-aVinsight
-p60
+p50
+aS'insight'
+p51
 aS'presentation'
-p61
+p52
 aS'transformation'
-p62
+p53
 as.

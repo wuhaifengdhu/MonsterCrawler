@@ -1,5 +1,5 @@
-skills: {'wireless': 1, 'technical communication': 1, 'management': 1, 'itil': 1, 'data center': 1, 'communication': 1, 'documentation': 1, 'data scientist': 1, 'analysis': 1, 'access': 1, 'engineering': 1, 'troubleshooting': 1, 'problem solving': 1, 'marketing': 1, 'policy': 1, 'security': 1, 'education': 1, 'data': 1, 'voip': 1, 'computer science': 1}
-working-year: {u'(5, 10]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'communication': 1, 'engineering': 1, 'design': 1, 'computer science': 1, 'marketing': 1, 'computer science engineering': 1}
-education: {'Bachelor': 1}
-responsibility: {'information': 1, 'provide leadership': 1, 'documentation': 1, 'analysis': 1, 'understand': 1, 'design': 1, 'implement': 1}
+skills: {'communication': 0.00851166322102611, 'engineering': 0.006585240736955133, 'troubleshooting': 0.010108555015414505, 'problem solving': 0.006598418991809816, 'education': 0.005641469757562552, 'technical communication': 0.017487163603378902, 'management': 0.0024356152344076672, 'strategy': 0.004233901696846331, 'access': 0.006235112970689395, 'computer science': 0.003779524901040916, 'policy': 0.007337790935593413, 'marketing': 0.005121544415262228, 'data scientist': 0.002847773293451286, 'wireless': 0.012404255111086379, 'data': 0.0006376424079272738, 'voip': 0.017025201300957207, 'a': 0.005026994337672115, 'itil': 0.012904525533375705, 'science': 0.0018898760435325066, 'documentation': 0.007794196126193632, 'analysis': 0.0027630542076945964, 'data center': 0.011599410816468909, 'security': 0.005874598966988688}
+working-year: {u'(5, 10]': 0.003240979197787255}
+major: {u'Engineering': 0.006585240736955133, u'Economics': 0.004410676203022745, u'Computer Science': 0.0024337520063231126, u'Business': 0.0029078342665970814, u'Management Science and Engineering': 0.003466517576529281}
+education: {u'Bachelor': 0.002449943085134158}
+responsibility: {'information': 0.0037287774180897707, 'provide leadership': 0.013979247737150027, 'documentation': 0.007794196126193632, 'analysis': 0.0027630542076945964, 'understand': 0.005649676917860956, 'design': 0.007851714032357408, 'implement': 0.005693180578278515}

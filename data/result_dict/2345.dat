@@ -4,41 +4,41 @@ p2
 (lp3
 S'marketing analytics'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data mining'
-p7
+p6
 aS'julia'
-p8
+p7
 aS'python'
-p9
+p8
 aS'analytics'
-p10
+p9
 aS'hive'
-p11
+p10
 aS'modeling'
-p12
+p11
 aS'go'
-p13
+p12
 aS'portfolio optimization'
-p14
+p13
 aS'simulation'
-p15
+p14
 aS'econometrics'
-p16
+p15
 aS'finance'
-p17
+p16
 aS'quantitative finance'
-p18
+p17
 aS'java'
-p19
+p18
 aS'big data'
-p20
+p19
 aS'cognitive neuroscience'
-p21
+p20
 aS'deep learning'
+p21
+aS'management'
 p22
 aS'hadoop'
 p23
@@ -76,7 +76,7 @@ aS'scala'
 p39
 aS'financial risk'
 p40
-aS'management'
+aS'statistics'
 p41
 aS'gpu'
 p42
@@ -86,6 +86,8 @@ aS'spark'
 p44
 aS'data'
 p45
+aS'a'
+aS'c'
 aS'pattern recognition'
 p46
 aS'quantitative research'
@@ -103,102 +105,72 @@ aS'science'
 p52
 aS'organization'
 p53
-asS'working-year'
+aS'physics'
 p54
-(lp55
+asS'working-year'
+p55
+(lp56
 V(2, 5]
-p56
-asS'major'
 p57
-(lp58
-S'marketing analytics'
-p59
-aS'computing'
+asS'major'
+p58
+(lp59
+VStatistics
 p60
-aS'economics mathematics'
+aVBusiness
 p61
-aS'statistic'
+aVData Science
 p62
-aS'analytics'
+aVEconomics
 p63
-aS'data mining'
+aVCognitive Science
 p64
-aS'econometrics'
+aVComputer Science
 p65
-aS'mathematics physics'
+aVMathematics
 p66
-aS'management'
+aVPhysics
 p67
-aS'economics math'
+aVOperations Research
 p68
-aS'big data'
+aVManagement Science and Engineering
 p69
-aS'cognitive neuroscience'
-p70
-aS'computer science'
-p71
-aS'communication'
-p72
-aS'mathematics'
-p73
-aS'operations research'
-p74
-aS'finance'
-p75
-aS'business'
-p76
-aS'marketing'
-p77
-aS'quantitative finance'
-p78
-aS'neuroscience'
-p79
-aVphysic
-p80
-aS'science'
-p81
-aS'economics'
-p82
-aS'machine learning'
-p83
-aS'quantitative marketing'
-p84
-aS'statistics economics'
-p85
 asS'education'
-p86
-(lp87
+p70
+(lp71
 VDoctor
-p88
+p72
 asS'responsibility'
-p89
-(lp90
+p73
+(lp74
 S'development'
-p91
+p75
 aS'product'
-p92
+p76
 aS'business problem'
-p93
+p77
 aS'pattern'
-p94
-aVinsight
-p95
+p78
+aS'insight'
+p79
 aS'analysis'
-p96
+p80
 aS'simulation'
-p97
+p81
 aS'analytic'
-p98
+p82
 aS'optimization'
-p99
+p83
 aS'data mining'
-p100
-aS'test model'
-p101
+p84
 aS'modeling'
-p102
-aS'evaluation'
-p103
+p85
 aS'model'
-p104
+p86
+aS'develop ... model'
+p87
+aS'evaluation'
+p88
+aS'test ... model'
+p89
 as.

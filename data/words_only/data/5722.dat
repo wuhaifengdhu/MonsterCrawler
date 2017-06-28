@@ -4,109 +4,106 @@ p2
 (dp3
 S'commodity'
 p4
-I1
-sS'python'
+F0.03030426541728011
+sS'google analytics'
 p5
-I1
-sS'marketing'
+F0.020627263171335713
+sS'python'
 p6
-I1
-sS'data science'
-p7
-I1
-sS'data scientist'
-p8
-I1
-sS'excel vba'
-p9
-I1
-sS'perl'
-p10
-I1
-sS'analytics'
-p11
-I1
-sS'engineering'
-p12
-I1
-sS'r'
-I1
-sS'computer science'
-p13
-I1
-sS'sql'
-p14
-I1
-sS'mathematics'
-p15
-I1
-sS'data'
-p16
-I1
-sS'science'
-p17
-I1
-ssS'working-year'
-p18
-(dp19
-V[0]
-p20
-I1
-ssS'major'
-p21
-(dp22
-S'business'
-p23
-I1
-sS'economics math'
-p24
-I1
-sS'economics mathematics'
-p25
-I1
-sS'data science'
-p26
-I1
-sS'analytics'
-p27
-I1
-sS'engineering'
-p28
-I1
-sS'computer science'
-p29
-I1
+F0.0027874412446698715
 sS'marketing'
-p30
-I1
+p7
+F0.091694816589828546
+sS'data science'
+p8
+F0.0064323044152973215
+sS'economics'
+p9
+F0.012815464301387493
+sS'data scientist'
+p10
+F0.0056650891185234132
+sS'excel vba'
+p11
+F0.031250415937645701
+sS'business objects'
+p12
+F0.023000491435904182
+sS'perl'
+p13
+F0.015326474568392343
+sS'materials'
+p14
+F0.023502794134671712
+sS'analytics'
+p15
+F0.0046510024705001419
+sS'engineering'
+p16
+F0.0065500255458484204
+sS'r'
+F0.0029678732974007548
+sS'computer science'
+p17
+F0.0075186270758674902
+sS'sql'
+p18
+F0.0036467586033852783
 sS'mathematics'
-p31
-I1
-sS'ee computer science'
-p32
-I1
-sS'computer science economics'
-p33
-I1
+p19
+F0.0097748303854321168
+sS'data'
+p20
+F0.0063423255547846481
+sS'power bi'
+p21
+F0.027291074294540845
 sS'science'
-p34
-I1
+p22
+F0.0037595395090593174
+ssS'working-year'
+p23
+(dp24
+S'[0]'
+p25
+F0.01174446379970258
+ssS'major'
+p26
+(dp27
+VBusiness
+p28
+F0.005784568701465851
+sVData Science
+p29
+F0.0054935239711500676
+sVEconomics
+p30
+F0.0087741793985265278
+sVEngineering
+p31
+F0.012044807095009238
+sVComputer Science
+p32
+F0.0048414745794235171
+sVMathematics
+p33
+F0.0091672327785157857
 ssS'education'
-p35
-(dp36
+p34
+(dp35
 VBachelor
-p37
-I1
+p36
+F0.0048736835704273089
 ssS'responsibility'
-p38
-(dp39
+p37
+(dp38
 S'report'
+p39
+F0.022195469734464481
+sS'insight'
 p40
-I1
-sVinsight
-p41
-I1
+F0.0098122639358795994
 sS'presentation'
-p42
-I1
+p41
+F0.013173017873313405
 ss.

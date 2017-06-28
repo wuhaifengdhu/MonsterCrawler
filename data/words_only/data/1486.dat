@@ -4,208 +4,199 @@ p2
 (dp3
 S'qualitative research'
 p4
-I1
+F0.0060141221932211442
 sS'communication'
 p5
-I1
+F0.0025129672366838991
 sS'data science'
 p6
-I1
+F0.0019092713105723796
 sS'testing'
 p7
-I1
+F0.0032498063728571632
 sS'analytics'
 p8
-I1
+F0.0013805356539421058
 sS'survey methodology'
 p9
-I1
+F0.0097497143191973053
 sS'social sciences'
 p10
-I1
+F0.0093817761395049368
 sS'sociology'
 p11
-I1
+F0.0091292932391017871
 sS'genetics'
 p12
-I1
+F0.0061654049287601549
 sS'psychology'
 p13
-I1
+F0.007075463670429466
 sS'questionnaire design'
 p14
-I1
+F0.0092759171116503902
 sS'research'
 p15
-I1
+F0.021667564232679067
 sS'market research'
 p16
-I1
-sS'r'
-I1
-sS'statistical software'
+F0.0050869970166642015
+sS'materials'
 p17
-I1
-sS'survey research'
+F0.0069762261955295399
+sS'statistical software'
 p18
-I1
-sS'performance management'
+F0.0062468212242817282
+sS'survey research'
 p19
-I1
-sS'government'
+F0.0077910660621504282
+sS'budgets'
 p20
-I1
-sS'python'
+F0.0082014982934952418
+sS'performance management'
 p21
-I1
-sS'data scientist'
+F0.0075320972811330766
+sS'government'
 p22
-I1
-sS'performance measurement'
+F0.0041382849454428021
+sS'python'
 p23
-I1
-sS'data quality'
+F0.00082738335357661265
+sS'data scientist'
 p24
-I1
-sS'survey design'
+F0.0016815423256569496
+sS'performance measurement'
 p25
-I1
-sS'management'
+F0.0085819294650685794
+sS'data quality'
 p26
-I1
-sS'editing'
+F0.0056108540685495612
+sS'survey design'
 p27
-I1
-sS'data'
-p28
-I1
-sS'training'
-p29
-I1
-sS'data collection'
-p30
-I1
-sS'quantitative research'
-p31
-I1
-sS'eye tracking'
-p32
-I1
-sS'documentation'
-p33
-I1
-sS'analysis'
-p34
-I1
+F0.0072801180851277559
 sS'leadership'
-p35
-I1
-sS'advertising'
-p36
-I1
+p28
+F0.002622870827307654
+sS'statistics'
+p29
+F0.0014801791346073089
+sS'editing'
+p30
+F0.0068381146791817509
+sS'data'
+p31
+F0.0020708196295542891
 sS'science'
+p32
+F0.0033477804199718688
+sS'training'
+p33
+F0.0037353884936862369
+sS'data collection'
+p34
+F0.011509046180829345
+sS'quantitative research'
+p35
+F0.0055607787939329521
+sS'eye tracking'
+p36
+F0.0098202725241109783
+sS'documentation'
 p37
-I1
-sS'organization'
+F0.0046022872364190962
+sS'analysis'
 p38
-I1
-sS'retail'
+F0.0010876784817591427
+sS'r'
+F0.000880940169228478
+sS'advertising'
 p39
-I1
-ssS'working-year'
+F0.0052244401338576024
+sS'english'
 p40
-(dp41
-V(2, 5]
+F0.0053618235737357264
+sS'organization'
+p41
+F0.0027987045067963193
+sS'retail'
 p42
-I1
-ssS'major'
+F0.0054697801339944792
+ssS'working-year'
 p43
 (dp44
-S'information'
+V(2, 5]
 p45
-I1
-sS'management'
+F0.0019665784578271994
+ssS'major'
 p46
-I1
-sS'genetics'
-p47
-I1
-sS'psychology'
+(dp47
+VStatistics
 p48
-I1
-sS'business'
+F0.0028595313807747305
+sVPsychology
 p49
-I1
-sS'science'
+F0.0074011127162260035
+sVBusiness
 p50
-I1
-sS'data science'
+F0.0017170069002763718
+sVData Science
 p51
-I1
-sS'phd'
+F0.0016306174327064486
+sVSociology
 p52
-I1
-sS'analytics'
+F0.0062468212242817282
+sVBiological Engineering
 p53
-I1
-sS'sociology'
+F0.0041749139372645877
+sVManagement Science and Engineering
 p54
-I1
-sS'design'
-p55
-I1
-sS'communication'
-p56
-I1
-sS'survey methodology'
-p57
-I1
+F0.0020468960928077657
 ssS'education'
-p58
-(dp59
+p55
+(dp56
 VBachelor
-p60
-I1
+p57
+F0.0014466330597935027
 sVMaster
-p61
-I1
+p58
+F0.0011544137860701219
 sVDoctor
-p62
-I1
+p59
+F0.0017288599552007428
 ssS'responsibility'
-p63
-(dp64
+p60
+(dp61
 S'development'
-p65
-I1
+p62
+F0.0057664809638767562
 sS'information'
-p66
-I1
+p63
+F0.0044035085699345861
 sS'data collection'
-p67
-I1
+p64
+F0.011509046180829345
 sS'explore opportunity'
-p68
-I1
+p65
+F0.010655339594935441
 sS'documentation'
-p69
-I1
+p66
+F0.0046022872364190962
 sS'communicate'
-p70
-I1
+p67
+F0.0031845125115580828
 sS'analysis'
-p71
-I1
+p68
+F0.0010876784817591427
 sS'design'
-p72
-I1
+p69
+F0.011590625476337123
 sS'report'
-p73
-I1
+p70
+F0.0032940895558292525
 sS'implement'
-p74
-I1
+p71
+F0.0067233751591098652
 sS'evaluation'
-p75
-I1
+p72
+F0.0053705447362328209
 ss.

@@ -4,238 +4,213 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.0098971179209174504
 sS'data scientist'
 p5
-I1
+F0.0030529442800111763
 sS'nosql'
 p6
-I1
+F0.0078871667558113034
 sS'electrical engineering'
 p7
-I1
+F0.011425432516941832
 sS'communication'
 p8
-I1
+F0.0091248954415611323
 sS'data science'
 p9
-I1
+F0.0034664003621342914
 sS'analytics'
 p10
-I1
-sS'data mining'
+F0.012532240086217963
+sS'engineering'
 p11
-I1
-sS'clustering'
+F0.0035298408561200418
+sS'data mining'
 p12
-I1
-sS'technical leadership'
-p13
-I1
-sS'management'
-p14
-I1
-sS'big data'
-p15
-I1
-sS'scala'
-p16
-I1
-sS'predictive modeling'
-p17
-I1
-sS'hadoop'
-p18
-I1
+F0.0061152142036949202
 sS'research'
-p19
-I1
-sS'r'
-I1
-sS'computer science'
-p20
-I1
-sS'intelligence'
-p21
-I1
-sS'advanced analytics'
-p22
-I1
-sS'tensorflow'
-p23
-I1
-sS'energy'
-p24
-I1
-sS'segmentation'
-p25
-I1
-sS'processing'
-p26
-I1
-sS'python'
-p27
-I1
-sS'marketing'
-p28
-I1
-sS'natural language processing'
-p29
-I1
-sS'customer retention'
-p30
-I1
-sS'experimental design'
-p31
-I1
-sS'leadership'
-p32
-I1
-sS'statistical modeling'
-p33
-I1
-sS'sql'
-p34
-I1
-sS'modeling'
-p35
-I1
-sS'spark'
-p36
-I1
-sS'data'
-p37
-I1
-sS'solver'
-p38
-I1
-sS'science'
-p39
-I1
-sS'programming'
-p40
-I1
-sS'hive'
-p41
-I1
-sS'machine learning'
-p42
-I1
-sS'optimization'
-p43
-I1
-sS'customer support'
-p44
-I1
-sS'product management'
-p45
-I1
-sS'customer acquisition'
-p46
-I1
-ssS'working-year'
-p47
-(dp48
-V(5, 10]
-p49
-I1
-sV(0, 2]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'natural language processing'
-p53
-I1
-sS'management'
-p54
-I1
-sS'business'
-p55
-I1
+p13
+F0.0024586753362009746
+sS'clustering'
+p14
+F0.0092893733733608354
+sS'technical leadership'
+p15
+F0.012964552499977808
+sS'statistics'
+p16
+F0.0026873569302668719
 sS'big data'
-p56
-I1
-sS'marketing'
-p57
-I1
-sS'data science'
-p58
-I1
-sS'statistic'
-p59
-I1
-sS'communication'
-p60
-I1
-sS'strategy marketing'
-p61
-I1
-sS'electrical engineering computer science'
-p62
-I1
-sS'machine learning'
-p63
-I1
-sS'analytics'
-p64
-I1
-sS'design'
-p65
-I1
+p17
+F0.0036677957532065346
+sS'scala'
+p18
+F0.0070333325293908833
+sS'predictive modeling'
+p19
+F0.0059913714947808921
+sS'hadoop'
+p20
+F0.0037026123959641635
+sS'strategy'
+p21
+F0.0045389378421522618
+sS'r'
+F0.0031988029199650787
 sS'computer science'
-p66
-I1
-sS'data mining'
-p67
-I1
+p22
+F0.0040518249659574077
+sS'intelligence'
+p23
+F0.0045246645818062797
 sS'advanced analytics'
-p68
-I1
-sS'electrical engineering'
-p69
-I1
-sS'phd'
-p70
-I1
-sS'science'
-p71
-I1
-ssS'education'
-p72
-(dp73
-VMaster
-p74
-I1
-sVDoctor
-p75
-I1
-ssS'responsibility'
-p76
-(dp77
-S'development'
-p78
-I1
-sS'product'
-p79
-I1
+p24
+F0.0084807220586111919
+sS'tensorflow'
+p25
+F0.012435103238404709
+sS'energy'
+p26
+F0.0088919173085016835
+sS'segmentation'
+p27
+F0.008345969199222019
 sS'processing'
-p80
-I1
-sS'statistical model'
-p81
-I1
-sS'optimization'
-p82
-I1
-sS'design'
-p83
-I1
-sS'data mining'
-p84
-I1
+p28
+F0.0047063057252758498
+sS'python'
+p29
+F0.0015021657428048009
+sS'marketing'
+p30
+F0.010981063530129963
+sS'natural language processing'
+p31
+F0.0072217813601161461
+sS'customer retention'
+p32
+F0.016254263629464864
+sS'experimental design'
+p33
+F0.0099818814669746271
+sS'leadership'
+p34
+F0.0095239689982929213
+sS'statistical modeling'
+p35
+F0.0051624366576092113
+sS'sql'
+p36
+F0.0019652560773286659
 sS'modeling'
-p85
-I1
+p37
+F0.0023404774899756556
+sS'spark'
+p38
+F0.0048591804706503124
+sS'data'
+p39
+F0.0030761192820468481
+sS'a'
+F0.0053891697222306235
+sS'solver'
+p40
+F0.012435103238404709
+sS'science'
+p41
+F0.012156205559552031
+sS'programming'
+p42
+F0.0031767009649420054
+sS'hive'
+p43
+F0.0060108191627954071
+sS'machine learning'
+p44
+F0.0018891000629223033
+sS'optimization'
+p45
+F0.011527428572844623
+sS'customer support'
+p46
+F0.014619958877618118
+sS'product management'
+p47
+F0.0089999942911427686
+sS'customer acquisition'
+p48
+F0.015898028792024326
+ssS'working-year'
+p49
+(dp50
+V(5, 10]
+p51
+F0.0034744791399909472
+sV(0, 2]
+p52
+F0.0065636315968015946
+ssS'major'
+p53
+(dp54
+VStatistics
+p55
+F0.0051916563973719888
+sVBusiness
+p56
+F0.0031173324126055162
+sVData Science
+p57
+F0.0029604869815707856
+sVEconomics
+p58
+F0.0047284482637592528
+sVElectrical and Electronics Engineering
+p59
+F0.0090680939347982173
+sVEngineering
+p60
+F0.0035298408561200418
+sVComputer Science
+p61
+F0.0026090943698910598
+sVManagement Science and Engineering
+p62
+F0.0037162666814665483
+ssS'education'
+p63
+(dp64
+VBachelor
+p65
+F0.0026264519529392125
+sVMaster
+p66
+F0.0020959097556892702
+sVDoctor
+p67
+F0.0031388523682318961
+ssS'responsibility'
+p68
+(dp69
+S'development'
+p70
+F0.0069796023193897322
+sS'product'
+p71
+F0.027132421426582787
+sS'processing'
+p72
+F0.0047063057252758498
+sS'optimization'
+p73
+F0.011527428572844623
+sS'design'
+p74
+F0.0042086997406872552
+sS'data mining'
+p75
+F0.0061152142036949202
+sS'modeling'
+p76
+F0.0023404774899756556
 ss.

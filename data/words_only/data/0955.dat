@@ -2,143 +2,137 @@
 S'skills'
 p2
 (dp3
-S'c'
-I1
-sS'data analysis'
+S'communication'
 p4
-I1
-sS'java'
+F0.0054404445330269975
+sS'analytics'
 p5
-I1
-sS'big data'
+F0.0029887885291530122
+sS'engineering'
 p6
-I1
-sS'sql'
+F0.0042091229452702909
+sS'statistical analysis'
 p7
-I1
-sS'communication'
+F0.0088477668502151482
+sS'statistics'
 p8
-I1
-sS'processing'
+F0.003204511528531287
+sS'java'
 p9
-I1
-sS'r'
-I1
-sS'data'
+F0.0042586493734305276
+sS'big data'
 p10
-I1
+F0.0043736258637892354
 sS'research'
 p11
-I1
-sS'engineering'
-p12
-I1
-sS'machine learning'
-p13
-I1
-sS'statistical analysis'
-p14
-I1
-sS'statistical modeling'
-p15
-I1
-sS'natural language processing'
-p16
-I1
-sS'data modeling'
-p17
-I1
-sS'modeling'
-p18
-I1
-sS'analysis'
-p19
-I1
-sS'hypothesis testing'
-p20
-I1
-sS'data analytics'
-p21
-I1
+F0.0029318224799372446
 sS'matlab'
-p22
-I1
-ssS'working-year'
-p23
-(dp24
-V[0]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'business'
-p28
-I1
-sS'big data'
-p29
-I1
-sS'communication'
-p30
-I1
+p12
+F0.0043862583767631091
 sS'natural language processing'
-p31
-I1
-sS'machine learning'
-p32
-I1
-sS'engineering'
-p33
-I1
-sS'statistic'
-p34
-I1
-sS'data analytics'
-p35
-I1
-ssS'education'
-p36
-(dp37
-S'Bachelor'
-p38
-I1
-ssS'responsibility'
-p39
-(dp40
-S'development'
-p41
-I1
-sS'product'
-p42
-I1
-sS'processing'
-p43
-I1
-sS'predict'
-p44
-I1
-sVinsight
-p45
-I1
-sS'analysis'
-p46
-I1
-sS'statistical model'
-p47
-I1
+p13
+F0.0086115399723721738
+sS'hypothesis testing'
+p14
+F0.015459449201004465
 sS'data analysis'
-p48
-I1
-sS'understand'
-p49
-I1
+p15
+F0.0050988385394009116
+sS'data modeling'
+p16
+F0.0089766382983445751
+sS'processing'
+p17
+F0.0056119865521330583
+sS'statistical modeling'
+p18
+F0.0061558952583862419
+sS'sql'
+p19
+F0.002343449686711502
 sS'modeling'
-p50
-I1
+p20
+F0.0027908786564314518
+sS'data'
+p21
+F0.003260522003421936
+sS'c'
+F0.0042976698415742179
+sS'analysis'
+p22
+F0.0023547678471074222
+sS'machine learning'
+p23
+F0.0022526382193609599
+sS'r'
+F0.0019071900570925813
+sS'data analytics'
+p24
+F0.0070182910016694054
+ssS'working-year'
+p25
+(dp26
+S'[0]'
+p27
+F0.0075471296582281192
+ssS'major'
+p28
+(dp29
+VEngineering
+p30
+F0.0077401337689578268
+sVStatistics
+p31
+F0.0061907380408525092
+sVData Science
+p32
+F0.0035302026893644762
+sVBusiness
+p33
+F0.0037172314335880211
+sVComputer Science
+p34
+F0.0031111881317944937
+ssS'education'
+p35
+(dp36
+S'Bachelor'
+p37
+F0.0031318860057385112
+ssS'responsibility'
+p38
+(dp39
+S'development'
+p40
+F0.012484134045506377
+sS'product'
+p41
+F0.013865906089873677
+sS'processing'
+p42
+F0.0056119865521330583
+sS'predict'
+p43
+F0.014336364386650546
+sS'insight'
+p44
+F0.012610950900408832
+sS'analysis'
+p45
+F0.0023547678471074222
+sS'data analysis'
+p46
+F0.0050988385394009116
+sS'understand'
+p47
+F0.0072222674001521485
+sS'modeling'
+p48
+F0.0027908786564314518
 sS'model'
-p51
-I1
+p49
+F0.010635126061179662
 sS'extract'
-p52
-I1
+p50
+F0.010631300792793228
 ss.

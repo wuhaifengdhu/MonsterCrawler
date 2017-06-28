@@ -4,185 +4,193 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.0074237030724874182
 sS'consulting'
 p5
-I1
+F0.011489057769208832
 sS'outsourcing'
 p6
-I1
+F0.009273142040179233
 sS'analytics'
 p7
-I1
+F0.0073706564574875138
 sS'engineering'
 p8
-I1
+F0.0020760250458875503
 sS'data governance'
 p9
-I1
-sS'microsoft sql server'
+F0.0074111015724649155
+sS'accounting'
 p10
-I1
-sS'tableau'
+F0.0074750674379082298
+sS'microsoft sql server'
 p11
-I1
-sS'strategy'
+F0.0053222513748915918
+sS'statistics'
 p12
-I1
-sS'risk management'
+F0.0015805302623772958
+sS'tableau'
 p13
-I1
-sS'computer science'
+F0.0034051289612267656
+sS'governance'
 p14
-I1
-sS'mathematics'
+F0.0061093491879589809
+sS'strategy'
 p15
-I1
-sS'data management'
+F0.010678043601537863
+sS'risk management'
 p16
-I1
-sS'dashboard'
-p17
-I1
-sS'data analysis'
-p18
-I1
-sS'finance'
-p19
-I1
-sS'executive management'
-p20
-I1
-sS'spotfire'
-p21
-I1
-sS'business process'
-p22
-I1
-sS'leadership'
-p23
-I1
-sS'db2'
-p24
-I1
-sS'data'
-p25
-I1
-sS'project management'
-p26
-I1
-sS'enterprise risk management'
-p27
-I1
-sS'data visualization'
-p28
-I1
-sS'sql server'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'financial services'
-p31
-I1
-sS'healthcare'
-p32
-I1
-sS'oracle'
-p33
-I1
-sS'organization'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'information systems'
-p41
-I1
-sS'finance/economics'
-p42
-I1
-sS'finance'
-p43
-I1
-sS'business'
-p44
-I1
-sS'business administration'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'analytics'
-p47
-I1
-sS'engineering'
-p48
-I1
-sS'information system'
-p49
-I1
+F0.0053555208915054848
 sS'computer science'
-p50
-I1
-sS'economics management'
-p51
-I1
+p17
+F0.0023830224799783399
+sS'innovation'
+p18
+F0.0032810587663300401
 sS'mathematics'
-p52
-I1
-sS'management information systems'
-p53
-I1
-sS'project management'
-p54
-I1
-sS'accounting finance'
-p55
-I1
-ssS'education'
-p56
-(dp57
-VBachelor
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
-sS'information'
-p62
-I1
+p19
+F0.0061962484138162908
+sS'data management'
+p20
+F0.0046608781434055438
+sS'financial services'
+p21
+F0.0071660519693224249
 sS'data analysis'
-p63
-I1
+p22
+F0.0025148508728231613
+sS'finance'
+p23
+F0.0090004950989277573
+sS'executive management'
+p24
+F0.0091994387774848082
+sS'spotfire'
+p25
+F0.00727833747915333
+sS'business process'
+p26
+F0.0051784456432538237
+sS'management'
+p27
+F0.0046070281383033158
+sS'db2'
+p28
+F0.0084073406511635737
+sS'data'
+p29
+F0.00060305841292104866
+sS'project management'
+p30
+F0.0032228022429229594
+sS'a'
+F0.0031695625315491974
+sS'fraud'
+p31
+F0.0066302645349293017
+sS'enterprise risk management'
+p32
+F0.011135192013761426
+sS'data visualization'
+p33
+F0.0033334468230162726
+sS'sql server'
+p34
+F0.004742082151319698
+sS'science'
+p35
+F0.0011915828613459193
+sS'economics'
+p36
+F0.0040618505497617982
 sS'analysis'
+p37
+F0.0011614193957767117
+sS'leadership'
+p38
+F0.0028006925783115627
+sS'dashboard'
+p39
+F0.0059430524900331277
+sS'healthcare'
+p40
+F0.0091431876044412337
+sS'oracle'
+p41
+F0.0044491889806124096
+sS'organization'
+p42
+F0.0059768943704463767
+ssS'working-year'
+p43
+(dp44
+V(2, 5]
+p45
+F0.0020999058109002298
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0030533979150645426
+sVBusiness
+p49
+F0.0018334141477527358
+sVData Science
+p50
+F0.0017411677671272247
+sVEconomics
+p51
+F0.0027809687246177304
+sVEngineering
+p52
+F0.0020760250458875503
+sVInformation Science
+p53
+F0.0042926359128035484
+sVComputer Science
+p54
+F0.0015345012650037249
+sVMathematics
+p55
+F0.0029055466603092406
+sVManagement Science and Engineering
+p56
+F0.0021856687092693091
+ssS'education'
+p57
+(dp58
+VBachelor
+p59
+F0.0015447098774066215
+ssS'responsibility'
+p60
+(dp61
+S'development'
+p62
+F0.0041049525505563343
+sS'information'
+p63
+F0.0070530772857426835
+sS'data analysis'
 p64
-I1
-sS'improvement'
+F0.0025148508728231613
+sS'analysis'
 p65
-I1
-sS'understand'
+F0.0011614193957767117
+sS'improvement'
 p66
-I1
-sS'model'
+F0.0045528923666764542
+sS'understand'
 p67
-I1
-sS'evaluation'
+F0.0035621691753292802
+sS'model'
 p68
-I1
+F0.0026227302405112556
+sS'evaluation'
+p69
+F0.0057346494641130124
+sS'decision making'
+p70
+F0.0055365814405584973
 ss.

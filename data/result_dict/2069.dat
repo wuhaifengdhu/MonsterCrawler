@@ -59,53 +59,49 @@ p30
 asS'working-year'
 p31
 (lp32
-V[0]
+S'[0]'
 p33
 asS'major'
 p34
 (lp35
-S'big data'
+VData Science
 p36
-aS'science'
+aVEngineering
 p37
-aS'data science'
+aVComputer Science
 p38
-aS'machine learning'
-p39
-aS'engineering'
-p40
-aS'design'
-p41
-aS'data mining'
-p42
 asS'education'
-p43
-(lp44
-VMaster
-p45
+p39
+(lp40
+VBachelor
+p41
+aVMaster
+p42
 aVDoctor
-p46
+p43
 asS'responsibility'
-p47
-(lp48
+p44
+(lp45
 S'development'
-p49
+p46
 aS'product'
-p50
+p47
 aS'data analysis'
-p51
-aS'identify trend'
-p52
+p48
 aS'analysis'
-p53
+p49
 aS'simulation'
-p54
+p50
 aS'design'
-p55
-aS'data mining'
-p56
-aS'report'
-p57
+p51
 aS'data aggregation'
-p58
+p52
+aS'data mining'
+p53
+aS'report'
+p54
+aS'identify ... trend'
+p55
+aS'decision making'
+p56
 as.

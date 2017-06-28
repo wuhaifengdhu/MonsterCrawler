@@ -2,118 +2,98 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'economics'
 p4
-aS'data science'
-p5
-aS'sql'
-p6
-aS'unix'
-p7
-aS'hive'
-p8
-aS'linux'
-p9
-aS'big data'
-p10
-aS'hadoop'
-p11
-aS'research'
-p12
-aS'computer science'
-p13
-aS'mathematics'
-p14
-aS'unstructured data'
-p15
-aS'distributed computing'
-p16
-aS'finance'
-p17
-aS'data scientist'
-p18
-aS'bioinformatics'
-p19
-aS'spark'
-p20
-aS'data'
-p21
-aS'science'
-p22
-aS'applied mathematics'
-p23
-aS'documentation'
-p24
-aS'engineering'
-p25
-aS'analysis'
-p26
-aS'machine learning'
-p27
-asS'working-year'
-p28
-(lp29
-V(2, 5]
-p30
-asS'major'
-p31
-(lp32
-S'finance'
-p33
-aS'big data'
-p34
-aS'computing'
-p35
-aS'science'
-p36
-aS'applied mathematics'
-p37
-aS'applied math'
-p38
-aS'statistic'
-p39
-aS'machine learning'
-p40
-aS'engineering'
-p41
-aS'machine learning data science'
-p42
-aS'computer science'
-p43
-aS'bioinformatics'
-p44
 aS'communication'
-p45
-aS'mathematics'
-p46
+p5
 aS'data science'
-p47
-aS'phd'
-p48
-aS'computer science economics'
-p49
-aVphysic
-p50
-asS'education'
-p51
-(lp52
-VBachelor
-p53
-aVMaster
-p54
-aVDoctor
-p55
-asS'responsibility'
-p56
-(lp57
-S'report'
-p58
-aS'model'
-p59
+p6
+aS'sql'
+p7
+aS'unix'
+p8
+aS'hive'
+p9
+aS'linux'
+p10
+aS'econometrics'
+p11
+aS'big data'
+p12
+aS'hadoop'
+p13
+aS'research'
+p14
+aS'computer science'
+p15
+aS'mathematics'
+p16
+aS'unstructured data'
+p17
+aS'distributed computing'
+p18
+aS'finance'
+p19
+aS'data scientist'
+p20
+aS'bioinformatics'
+p21
+aS'spark'
+p22
+aS'data'
+p23
+aS'science'
+p24
+aS'applied mathematics'
+p25
 aS'documentation'
-p60
-aS'communicate'
-p61
+p26
+aS'engineering'
+p27
 aS'analysis'
-p62
+p28
+aS'machine learning'
+p29
+asS'working-year'
+p30
+(lp31
+V(2, 5]
+p32
+asS'major'
+p33
+(lp34
+VData Science
+p35
+aVEconomics
+p36
+aVEngineering
+p37
+aVComputer Science
+p38
+aVBiological Engineering
+p39
+aVMathematics
+p40
+asS'education'
+p41
+(lp42
+VBachelor
+p43
+aVMaster
+p44
+aVDoctor
+p45
+asS'responsibility'
+p46
+(lp47
+S'report'
+p48
+aS'model'
+p49
+aS'documentation'
+p50
+aS'communicate'
+p51
+aS'analysis'
+p52
 as.

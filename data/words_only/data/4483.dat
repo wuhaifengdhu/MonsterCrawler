@@ -4,162 +4,153 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.0085050186023128815
 sS'communication'
 p5
-I1
+F0.004267302854746244
 sS'data science'
 p6
-I1
+F0.0032421588292738525
 sS'radar'
 p7
-I1
+F0.016932834725185381
 sS'defense'
 p8
-I1
-sS'c++'
+F0.0190384806141684
+sS'dod'
 p9
-I1
+F0.011378924413141532
 sS'data mining'
 p10
-I1
+F0.0057196208320273254
 sS'education'
 p11
-I1
+F0.0056566758755074642
 sS'open source'
 p12
-I1
+F0.0086197297571916302
 sS'big data'
 p13
-I1
+F0.003430525947069185
 sS'deep learning'
 p14
-I1
+F0.0083949910590119976
 sS'writing'
 p15
-I1
+F0.0060567663775808432
 sS'big data analytics'
 p16
-I1
+F0.0089333399049824277
 sS'computer vision'
 p17
-I1
+F0.0095278653994237839
 sS'intelligence'
 p18
-I1
+F0.021159819540253089
 sS'signal processing'
 p19
-I1
+F0.0084465498963900276
 sS'python'
 p20
-I1
+F0.001404990600413116
 sS'processing'
 p21
-I1
-sS'electrical engineering'
+F0.0044018546810531542
+sS'architectures'
 p22
-I1
-sS'business development'
+F0.012939308621066745
+sS'electrical engineering'
 p23
-I1
-sS'software development'
+F0.010686320979457726
+sS'business development'
 p24
-I1
-sS'c'
-I1
-sS'dod'
+F0.0093766853882538623
+sS'data'
 p25
-I1
-sS'machine learning'
+F0.0012787222412342094
+sS'software development'
 p26
-I1
-sS'r'
-I1
-sS'cuda'
+F0.0057148156821382008
+sS'c'
+F0.0033709485819355726
+sS'science'
 p27
-I1
-sS'military'
-p28
-I1
-sS'data analytics'
-p29
-I1
+F0.0018949700490406805
 sS'security clearance'
+p28
+F0.0098485727042018044
+sS'machine learning'
+p29
+F0.0017668941289327206
+sS'r'
+F0.0014959361364257175
+sS'algorithms'
 p30
-I1
-ssS'working-year'
+F0.0048360422597446204
+sS'cuda'
 p31
-(dp32
-V(5, 10]
+F0.013971625696437534
+sS'military'
+p32
+F0.01006107431814504
+sS'security'
 p33
-I1
-sV(2, 5]
+F0.0058904334655520002
+sS'data analytics'
 p34
-I1
-ssS'major'
+F0.0055049128881018792
+ssS'working-year'
 p35
 (dp36
-S'information'
+V(5, 10]
 p37
-I1
-sS'business'
+F0.0032497149907732043
+sV(2, 5]
 p38
-I1
-sS'big data'
+F0.0033394728529141122
+ssS'major'
 p39
-I1
-sS'communication'
-p40
-I1
-sS'data science'
+(dp40
+VData Science
 p41
-I1
-sS'data mining'
+F0.0027689729989354788
+sVElectrical and Electronics Engineering
 p42
-I1
-sS'machine learning'
+F0.0084814786937331046
+sVComputer Science
 p43
-I1
-sS'big data analytics'
+F0.0024403119847768136
+sVBusiness
 p44
-I1
-sS'data analytics'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'electrical engineering'
-p47
-I1
-sS'phd'
-p48
-I1
-sVphysic
-p49
-I1
+F0.0029156720948089331
 ssS'education'
+p45
+(dp46
+VBachelor
+p47
+F0.0024565467053097216
+sVMaster
+p48
+F0.0019603252971002075
+sVDoctor
+p49
+F0.0029357999239257898
+ssS'responsibility'
 p50
 (dp51
-VDoctor
-p52
-I1
-ssS'responsibility'
-p53
-(dp54
 S'development'
-p55
-I1
+p52
+F0.0097921374858284532
 sS'information'
-p56
-I1
+p53
+F0.026171796217535747
 sS'processing'
-p57
-I1
+p54
+F0.0044018546810531542
 sS'extract'
-p58
-I1
+p55
+F0.0083388370099806725
 sS'data mining'
-p59
-I1
+p56
+F0.0057196208320273254
 ss.

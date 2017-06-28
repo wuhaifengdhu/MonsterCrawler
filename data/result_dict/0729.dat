@@ -4,7 +4,7 @@ p2
 (lp3
 S'organization'
 p4
-aS'customer insight'
+aS'banking'
 p5
 aS'marketing'
 p6
@@ -14,82 +14,72 @@ aS'documentation'
 p8
 aS'management'
 p9
-aS'governance'
+aS'sales'
 p10
-aS'data quality'
+aS'governance'
 p11
-aS'analytics'
+aS'data quality'
 p12
-aS'business intelligence'
-p13
-aS'data governance'
-p14
-aS'financial services'
-p15
-aS'intelligence'
-p16
-aS'communication'
-p17
-aS'policy'
-p18
-aS'analysis'
-p19
-aS'advanced analytics'
-p20
-aS'data'
-p21
-aS'data management'
-p22
-asS'working-year'
-p23
-(lp24
-V(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
-aS'management'
-p29
-aS'business'
-p30
-aS'business administration'
-p31
-aS'marketing'
-p32
-aS'mba'
-p33
-aS'data analyst'
-p34
 aS'analytics'
-p35
+p13
+aS'business intelligence'
+p14
+aS'data governance'
+p15
+aS'financial services'
+p16
+aS'intelligence'
+p17
 aS'communication'
-p36
-aS'advanced analytics'
-p37
-asS'education'
-p38
-(lp39
-VBachelor
-p40
-aVMaster
-p41
-asS'responsibility'
-p42
-(lp43
-S'development'
-p44
-aS'information'
-p45
-aS'documentation'
-p46
-aVinsight
-p47
+p18
+aS'policy'
+p19
 aS'analysis'
-p48
+p20
+aS'advanced analytics'
+p21
+aS'data'
+p22
+aS'data management'
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VData Science
+p29
+aVEconomics
+p30
+aVBusiness
+p31
+aVManagement Science and Engineering
+p32
+asS'education'
+p33
+(lp34
+VBachelor
+p35
+aVMaster
+p36
+asS'responsibility'
+p37
+(lp38
+S'development'
+p39
+aS'information'
+p40
+aS'documentation'
+p41
+aS'insight'
+p42
+aS'analysis'
+p43
 aS'understand'
-p49
+p44
 aS'implement'
-p50
+p45
 as.

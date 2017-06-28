@@ -4,215 +4,208 @@ p2
 (dp3
 S'probability'
 p4
-I1
+F0.0088447440055164517
 sS'communication'
 p5
-I1
+F0.0040181963429209554
 sS'decision support'
 p6
-I1
+F0.011272949131910584
 sS'business insights'
 p7
-I1
-sS'analytics'
-p8
-I1
+F0.014915272867227377
 sS'unix'
-p9
-I1
+p8
+F0.0065535248446321054
 sS'problem solving'
+p9
+F0.0062299793526732258
+sS'sas'
 p10
-I1
+F0.0070316591709513529
 sS'data'
 p11
-I1
-sS'investment banking'
+F0.00030101900475754546
+sS'econometrics'
 p12
-I1
-sS'credit'
+F0.0077849202023863966
+sS'investment banking'
 p13
-I1
-sS'asset management'
+F0.01258967254869672
+sS'credit'
 p14
-I1
-sS'excel'
+F0.024194427595718122
+sS'asset management'
 p15
-I1
-sS'strategy'
+F0.012043708850542735
+sS'excel'
 p16
-I1
-sS'risk management'
+F0.00410394473808646
+sS'strategy'
 p17
-I1
-sS'policy'
+F0.0039974909422000882
+sS'risk management'
 p18
-I1
-sS'mathematics'
+F0.0080196886446401924
+sS'policy'
 p19
-I1
-sS'operations research'
+F0.0069280665686313435
+sS'mathematics'
 p20
-I1
-sS'segmentation'
+F0.0046393230509538218
+sS'operations research'
 p21
-I1
-sS'data analysis'
+F0.0073120266892180439
+sS'segmentation'
 p22
-I1
-sS'government'
+F0.0073503840409391893
+sS'data analysis'
 p23
-I1
-sS'marketing'
+F0.0037658934389991497
+sS'government'
 p24
-I1
-sS'processing'
+F0.0066170546081953429
+sS'marketing'
 p25
-I1
-sS'data scientist'
+F0.0048355698540039306
+sS'processing'
 p26
-I1
-sS'business analytics'
+F0.0041448936209916749
+sS'data scientist'
 p27
-I1
-sS'management'
+F0.0026887605714819244
+sS'business analytics'
 p28
-I1
-sS'sql'
+F0.0077096045524342972
+sS'statistics'
 p29
-I1
-sS'modeling'
+F0.0023667838954380825
+sS'sql'
 p30
-I1
-sS'credit risk'
+F0.0017308219767336219
+sS'modeling'
 p31
-I1
-sS'valuation'
+F0.010306417373369955
+sS'credit risk'
 p32
-I1
-sS'project management'
+F0.01137571789836503
+sS'valuation'
 p33
-I1
-sS'fraud'
+F0.011213227768998683
+sS'project management'
 p34
-I1
-sS'risk assessment'
+F0.0048260236632602692
+sS'a'
+F0.0094925984447412504
+sS'fraud'
 p35
-I1
-sS'science'
-p36
-I1
-sS'microsoft word'
-p37
-I1
-sS'business strategy'
-p38
-I1
-sS'banking'
-p39
-I1
+F0.0099285687198179904
 sS'organization'
+p36
+F0.004475085886501729
+sS'risk assessment'
+p37
+F0.012838352127469982
+sS'science'
+p38
+F0.0035686999400715348
+sS'microsoft word'
+p39
+F0.0081398853632607456
+sS'economics'
 p40
-I1
-sS'powerpoint'
+F0.0060824665592879726
+sS'business strategy'
 p41
-I1
-ssS'working-year'
+F0.007714556650556946
+sS'banking'
 p42
-(dp43
-V(5, 10]
+F0.061015480786569772
+sS'management'
+p43
+F0.011498082071061575
+sS'powerpoint'
 p44
-I1
-ssS'major'
+F0.006210721845010792
+ssS'working-year'
 p45
 (dp46
-S'information'
+V(5, 10]
 p47
-I1
-sS'management'
+F0.0030600108161849206
+ssS'major'
 p48
-I1
-sS'business'
-p49
-I1
-sS'statistics economics'
+(dp49
+VStatistics
 p50
-I1
-sS'marketing'
+F0.0045723471316956345
+sVBusiness
 p51
-I1
-sS'statistic'
+F0.002745467886228716
+sVData Science
 p52
-I1
-sS'applied economics'
+F0.0026073324431600572
+sVEconomics
 p53
-I1
-sS'phd'
+F0.0041643947906712204
+sVMathematics
 p54
-I1
-sS'business analytics'
+F0.0043509455065544461
+sVOperations Research
 p55
-I1
-sS'analytics'
+F0.0081693626857541977
+sVManagement Science and Engineering
 p56
-I1
-sS'project management'
-p57
-I1
-sS'communication'
-p58
-I1
-sS'mathematics'
-p59
-I1
-sS'operations research'
-p60
-I1
-sS'science'
-p61
-I1
+F0.0032729556813931278
 ssS'education'
-p62
-(dp63
-VDoctor
-p64
-I1
+p57
+(dp58
+VMaster
+p59
+F0.0018458900640207533
+sVDoctor
+p60
+F0.0027644207405494109
 ssS'responsibility'
-p65
-(dp66
+p61
+(dp62
 S'development'
-p67
-I1
+p63
+F0.0061470101645386731
 sS'information'
-p68
-I1
+p64
+F0.0070411431448192613
 sS'product'
-p69
-I1
+p65
+F0.0034136875398927576
 sS'processing'
-p70
-I1
-sVinsight
-p71
-I1
+p66
+F0.0041448936209916749
+sS'insight'
+p67
+F0.0046570897360646828
 sS'communicate'
-p72
-I1
+p68
+F0.0050919870108669845
+sS'develop ... model'
+p69
+F0.0078677995613607547
 sS'analytic'
-p73
-I1
+p70
+F0.017190806895682559
 sS'data analysis'
-p74
-I1
-sS'design experiment'
-p75
-I1
+p71
+F0.0037658934389991497
 sS'recommendation'
-p76
-I1
+p72
+F0.0066299536670514497
 sS'modeling'
-p77
-I1
+p73
+F0.010306417373369955
 sS'model'
-p78
-I1
+p74
+F0.031419509480236356
+sS'design ... experiment'
+p75
+F0.011396780612426789
 ss.

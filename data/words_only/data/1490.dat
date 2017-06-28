@@ -4,98 +4,86 @@ p2
 (dp3
 S'insurance'
 p4
-I1
-sS'marketing'
-p5
-I1
-sS'data science'
-p6
-I1
-sS'data scientist'
-p7
-I1
-sS'automation'
-p8
-I1
-sS'marketing automation'
-p9
-I1
-sS'communication'
-p10
-I1
-sS'strategy'
-p11
-I1
-sS'marketing strategy'
-p12
-I1
-sS'email marketing'
-p13
-I1
-sS'go'
-p14
-I1
+F0.0098845498857356977
 sS'seo'
-p15
-I1
-sS'education'
-p16
-I1
-sS'collaboration'
-p17
-I1
-sS'data analytics'
-p18
-I1
-sS'science'
-p19
-I1
-ssS'working-year'
-p20
-(dp21
-V(2, 5]
-p22
-I1
-ssS'major'
-p23
-(dp24
-S'business'
-p25
-I1
+p5
+F0.014128960792049479
 sS'marketing'
-p26
-I1
+p6
+F0.023889837272445751
 sS'data science'
-p27
-I1
+p7
+F0.0037706612089673953
+sS'data scientist'
+p8
+F0.0033209143108585523
 sS'automation'
-p28
-I1
-sS'marketing strategy'
-p29
-I1
+p9
+F0.010454696945027615
+sS'marketing automation'
+p10
+F0.018638276470922296
 sS'communication'
-p30
-I1
+p11
+F0.0049629133514446904
+sS'strategy'
+p12
+F0.014812019729405971
+sS'marketing strategy'
+p13
+F0.011688902899966542
+sS'email marketing'
+p14
+F0.016096185735528304
+sS'go'
+p15
+F0.010278724749302907
+sS'sem'
+p16
+F0.015634355704153256
+sS'education'
+p17
+F0.0065787672407939465
+sS'collaboration'
+p18
+F0.0080177724767192919
 sS'data analytics'
-p31
-I1
+p19
+F0.006402265459203125
 sS'science'
-p32
-I1
+p20
+F0.0022038679880692553
+ssS'working-year'
+p21
+(dp22
+V(2, 5]
+p23
+F0.0038838383336399231
+ssS'major'
+p24
+(dp25
+VData Science
+p26
+F0.0032203416382603845
+sVEconomics
+p27
+F0.00514348447499831
+sVBusiness
+p28
+F0.0033909540663765335
 ssS'education'
-p33
-(dp34
+p29
+(dp30
 VBachelor
-p35
-I1
+p31
+F0.0028569869205953189
 ssS'responsibility'
-p36
-(dp37
+p32
+(dp33
 S'product'
-p38
-I1
-sVinsight
-p39
-I1
+p34
+F0.016865114617150428
+sS'insight'
+p35
+F0.0057520167899983857
 ss.

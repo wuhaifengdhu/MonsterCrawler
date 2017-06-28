@@ -4,181 +4,175 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.0092792057146529067
 sS'communication'
 p5
-I1
-sS'statistical analysis'
+F0.020040118469757676
+sS'analytics'
 p6
-I1
-sS'research'
+F0.002752333740454198
+sS'statistical analysis'
 p7
-I1
-sS'econometrics'
+F0.0081477852956095189
+sS'sas'
 p8
-I1
-sS'management'
+F0.0043836609388525844
+sS'research'
 p9
-I1
-sS'rdbms'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'linear regression'
-p12
-I1
-sS'time series analysis'
-p13
-I1
-sS'strategy'
-p14
-I1
-sS'r'
-I1
-sS'data management'
-p15
-I1
-sS'statistical data analysis'
-p16
-I1
-sS'data analysis'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'statistical modeling'
-p19
-I1
-sS'sql'
-p20
-I1
-sS'regression'
-p21
-I1
-sS'modeling'
-p22
-I1
-sS'data'
-p23
-I1
-sS'decision trees'
-p24
-I1
-sS'sql server'
-p25
-I1
-sS'bootstrap'
-p26
-I1
-sS'programming'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'spss'
-p29
-I1
-sS'optimization'
-p30
-I1
-sS'logistic regression'
-p31
-I1
-sS'oracle'
-p32
-I1
-sS'predictive analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(2, 5]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'management'
-p40
-I1
-sS'business'
-p41
-I1
-sS'big data'
-p42
-I1
-sS'communication'
-p43
-I1
-sS'general'
-p44
-I1
-sS'statistic'
-p45
-I1
+F0.0026998744989295514
 sS'econometrics'
-p46
-I1
-sS'predictive analytics'
-p47
-I1
-ssS'education'
-p48
-(dp49
-S'Bachelor'
-p50
-I1
-ssS'responsibility'
-p51
-(dp52
-S'development'
-p53
-I1
-sS'large data set'
-p54
-I1
-sS'forecasting'
-p55
-I1
+p10
+F0.0097065144295577239
+sS'rdbms'
+p11
+F0.014157602678144499
+sS'big data'
+p12
+F0.0040276111593755305
+sS'linear regression'
+p13
+F0.012016441764548719
+sS'time series analysis'
+p14
+F0.0091063636468340647
+sS'strategy'
+p15
+F0.0049842133899583377
+sS'r'
+F0.0035126095355312733
+sS'data management'
+p16
+F0.0087022724829407296
+sS'statistical data analysis'
+p17
+F0.0097902168693127511
 sS'data analysis'
-p56
-I1
-sS'information'
-p57
-I1
-sS'communicate'
-p58
-I1
-sS'product'
-p59
-I1
-sS'analysis'
-p60
-I1
-sS'statistical model'
-p61
-I1
-sS'optimization'
-p62
-I1
+p18
+F0.0046954494144483072
+sS'data scientist'
+p19
+F0.0033524419783667035
+sS'statistical modeling'
+p20
+F0.0056688782284506217
+sS'sql'
+p21
+F0.0021580501861805288
+sS'regression'
+p22
+F0.0075195183249424065
 sS'modeling'
-p63
-I1
+p23
+F0.0025700812943720017
+sS'data'
+p24
+F0.00075064232831944882
+sS'decision trees'
+p25
+F0.013202158343402876
+sS'sql server'
+p26
+F0.0088538875610082966
+sS'bootstrap'
+p27
+F0.016736813570210899
+sS'programming'
+p28
+F0.0034883393507432782
+sS'analysis'
+p29
+F0.0010842364612472467
+sS'spss'
+p30
+F0.0069821165533467252
+sS'optimization'
+p31
+F0.0063291419537612097
+sS'logistic regression'
+p32
+F0.010360642015226405
+sS'oracle'
+p33
+F0.0083070300587383596
+sS'predictive analytics'
+p34
+F0.0072863866244581976
+ssS'working-year'
+p35
+(dp36
+V(2, 5]
+p37
+F0.0039207102165542259
+ssS'major'
+p38
+(dp39
+VData Science
+p40
+F0.0032509145019147551
+sVComputer Science
+p41
+F0.0028650498302284738
+sVBusiness
+p42
+F0.003423146668272513
+sVManagement Science and Engineering
+p43
+F0.0040808371470534566
+ssS'education'
+p44
+(dp45
+VMaster
+p46
+F0.0023015211557727115
+ssS'responsibility'
+p47
+(dp48
+S'development'
+p49
+F0.003832155070930755
+sS'information'
+p50
+F0.0087791468324645225
+sS'forecasting'
+p51
+F0.0092792057146529067
+sS'data analysis'
+p52
+F0.0046954494144483072
+sS'large data set'
+p53
+F0.0099508137194078052
+sS'communicate'
+p54
+F0.0063488698806379498
+sS'product'
+p55
+F0.0042563066161954008
+sS'analysis'
+p56
+F0.0010842364612472467
+sS'develop ... model'
+p57
+F0.0098098513518232212
+sS'optimization'
+p58
+F0.0063291419537612097
+sS'manipulate ... data set'
+p59
+F0.018295277247812294
+sS'modeling'
+p60
+F0.0025700812943720017
 sS'implement'
-p64
-I1
+p61
+F0.013404197310883591
+sS'statistical model'
+p62
+F0.011363494638034479
 sS'evaluation'
-p65
-I1
+p63
+F0.010707098682995814
 sS'model'
-p66
-I1
+p64
+F0.019587479011413174
 ss.

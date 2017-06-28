@@ -4,188 +4,196 @@ p2
 (dp3
 S'energy'
 p4
-I1
+F0.0097028154278304534
 sS'mapreduce'
 p5
-I1
+F0.0082915142042639025
 sS'analytics'
 p6
-I1
+F0.0027350234653570021
 sS'thought leadership'
 p7
-I1
+F0.012898361319273972
 sS'analysis'
 p8
-I1
-sS'data mining'
+F0.001077417364006698
+sS'problem solving'
 p9
-I1
-sVpanda
+F0.007718905235702048
+sS'data mining'
 p10
-I1
-sS'management'
+F0.0066728909706985457
+sVpanda
 p11
-I1
-sS'open source'
+F0.013844739022309946
+sS'statistics'
 p12
-I1
-sS'asset management'
+F0.0029324303610144802
+sS'open source'
 p13
-I1
-sS'storage'
+F0.010056351383390234
+sS'asset management'
 p14
-I1
-sS'hadoop'
+F0.014922079519225908
+sS'storage'
 p15
-I1
-sS'computer science'
+F0.011762583530020312
+sS'hadoop'
 p16
-I1
-sS'gas'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'wireless'
-p19
-I1
-sS'leadership'
-p20
-I1
-sS'networking'
-p21
-I1
-sS'manufacturing'
-p22
-I1
-sS'data'
-p23
-I1
-sS'engineering'
-p24
-I1
-sS'water'
-p25
-I1
-sS'search'
-p26
-I1
-sS'open source software'
-p27
-I1
-sS'unix'
-p28
-I1
-sS'hive'
-p29
-I1
-sS'optimization'
-p30
-I1
-sS'scripting'
-p31
-I1
-sS'statistical analysis'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(2, 5]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'information'
-p38
-I1
-sS'management'
-p39
-I1
-sS'telecommunication'
-p40
-I1
-sS'business'
-p41
-I1
-sS'data mining'
-p42
-I1
-sS'analytics'
-p43
-I1
-sS'engineering'
-p44
-I1
-sS'design'
-p45
-I1
+F0.0040402720169797641
+sS'r'
+F0.0017452588258300037
 sS'computer science'
-p46
-I1
-sS'statistic'
-p47
-I1
-sS'physics computer science'
-p48
-I1
-sVphysic
-p49
-I1
-ssS'education'
-p50
-(dp51
-VMaster
-p52
-I1
-ssS'responsibility'
-p53
-(dp54
-S'large data set'
-p55
-I1
-sS'mine data'
-p56
-I1
-sVinsight
-p57
-I1
-sS'business problem'
-p58
-I1
-sS'predict'
-p59
-I1
-sS'pattern'
-p60
-I1
-sS'data mining'
-p61
-I1
-sS'recommendation'
-p62
-I1
-sS'collect data'
-p63
-I1
-sS'information'
-p64
-I1
+p17
+F0.0044213310163120148
+sS'python'
+p18
+F0.0016391557004819686
+sS'gas'
+p19
+F0.014757401789212045
+sS'data scientist'
+p20
+F0.0033313574376222588
+sS'water'
+p21
+F0.016517187518759874
+sS'leadership'
+p22
+F0.0051962535257981824
+sS'sql'
+p23
+F0.0021444775435001482
+sS'networking'
+p24
+F0.022845230456860297
+sS'manufacturing'
+p25
+F0.011737920037835879
+sS'data'
+p26
+F0.0018648032684665554
+sS'engineering'
+p27
+F0.0038517445819926249
+sS'wireless'
+p28
+F0.014510638054478405
+sS'search'
+p29
+F0.0097546848353766286
+sS'open source software'
+p30
+F0.018376816919307377
+sS'science'
+p31
+F0.0022107983905474606
+sS'unix'
+p32
+F0.0081197760653617928
+sS'hive'
+p33
+F0.0065589756273270652
 sS'optimization'
+p34
+F0.0062893360295237181
+sS'management'
+p35
+F0.0028492102742127428
+sS'physics'
+p36
+F0.0076512087341090041
+sS'scripting'
+p37
+F0.0076512087341090041
+sS'statistical analysis'
+p38
+F0.0080965413629327295
+ssS'working-year'
+p39
+(dp40
+V(2, 5]
+p41
+F0.0038960516617331307
+ssS'major'
+p42
+(dp43
+VStatistics
+p44
+F0.0056651093392706929
+sVBusiness
+p45
+F0.0034016174439437555
+sVData Science
+p46
+F0.003230468498758059
+sVEngineering
+p47
+F0.0038517445819926249
+sVComputer Science
+p48
+F0.0028470306489062824
+sVPhysics
+p49
+F0.0082507298779877069
+sVManagement Science and Engineering
+p50
+F0.0040551715046191587
+ssS'education'
+p51
+(dp52
+VBachelor
+p53
+F0.0028659711561946754
+sVMaster
+p54
+F0.0022870461799502418
+sVDoctor
+p55
+F0.0034250999112467552
+ssS'responsibility'
+p56
+(dp57
+S'data mining'
+p58
+F0.0066728909706985457
+sS'information'
+p59
+F0.0043619660362559584
+sS'large data set'
+p60
+F0.0098882299853234792
+sS'business problem'
+p61
+F0.0089564483085869326
+sS'predict'
+p62
+F0.013119125900991539
+sS'pattern'
+p63
+F0.0082345631307363092
+sS'insight'
+p64
+F0.023080419572446356
+sS'collect data'
 p65
-I1
-sS'design'
+F0.016690330590326565
+sS'optimization'
 p66
-I1
-sS'analysis'
+F0.0062893360295237181
+sS'design'
 p67
-I1
-sS'identify trend'
+F0.0091850239623803634
+sS'analysis'
 p68
-I1
-sS'implement'
+F0.001077417364006698
+sS'recommendation'
 p69
-I1
+F0.0082144708956549423
+sS'identify ... trend'
+p70
+F0.013503833687737311
+sS'implement'
+p71
+F0.006659947091571093
 ss.

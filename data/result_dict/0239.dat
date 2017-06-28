@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'statistics'
 p4
 aS'data scientist'
 p5
@@ -14,46 +14,52 @@ aS'excel'
 p8
 aS'analysis'
 p9
-aS'strategy'
+aS'writing'
 p10
 aS'leadership'
 p11
 aS'marketing strategy'
 p12
-aS'go'
+aS'data analysis'
 p13
-aS'business transformation'
+aS'go'
 p14
-aS'data'
+aS'business transformation'
 p15
-asS'working-year'
+aS'strategy'
 p16
-(lp17
-V[0]
+aS'data'
+p17
+aS'powerpoint'
 p18
-asS'major'
+asS'working-year'
 p19
 (lp20
-S'marketing'
+S'[0]'
 p21
-aS'marketing strategy'
+asS'major'
 p22
-aS'business'
-p23
-asS'education'
+(lp23
+VEconomics
 p24
-(lp25
-S'Bachelor'
+aVStatistics
+p25
+aVBusiness
 p26
-asS'responsibility'
+asS'education'
 p27
 (lp28
-S'data analysis'
+S'Bachelor'
 p29
-aS'presentation'
+asS'responsibility'
 p30
-aS'transformation'
-p31
-aS'analysis'
+(lp31
+S'data analysis'
 p32
+aS'presentation'
+p33
+aS'transformation'
+p34
+aS'analysis'
+p35
 as.

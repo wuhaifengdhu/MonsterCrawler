@@ -4,68 +4,78 @@ p2
 (lp3
 S'visualization'
 p4
+aS'c'
 aS'word'
 p5
-aS'data visualization'
+aS'theory'
 p6
-aS'data cleaning'
+aS'data visualization'
 p7
-aS'marketing'
+aS'java'
 p8
-aS'distributed computing'
+aS'data cleaning'
 p9
-aS'data scientist'
+aS'marketing'
 p10
-aS'machine learning'
+aS'scala'
 p11
-aS'modeling'
+aS'data scientist'
 p12
-aS'research'
+aS'hadoop'
 p13
-aS'data'
-p14
-aS'game theory'
-p15
-asS'working-year'
-p16
-(lp17
-V(2, 5]
-p18
-asS'major'
-p19
-(lp20
-S'marketing'
-p21
-aS'phd'
-p22
-aS'computing'
-p23
-aS'business'
-p24
 aS'machine learning'
+p14
+aS'python'
+p15
+aS'distributed computing'
+p16
+aS'r'
+aS'modeling'
+p17
+aS'spark'
+p18
+aS'research'
+p19
+aS'data'
+p20
+aS'game theory'
+p21
+asS'working-year'
+p22
+(lp23
+V(2, 5]
+p24
+asS'major'
 p25
-asS'education'
-p26
-(lp27
-VMaster
+(lp26
+VEconomics
+p27
+aVComputer Science
 p28
-aVDoctor
+aVBusiness
 p29
-asS'responsibility'
+asS'education'
 p30
 (lp31
-S'product'
+VMaster
 p32
-aS'formulate'
+aVDoctor
 p33
-aS'business problem'
+asS'responsibility'
 p34
-aS'understand'
-p35
-aS'report'
+(lp35
+S'product'
 p36
-aS'modeling'
+aS'formulate'
 p37
-aS'prototype'
+aS'business problem'
 p38
+aS'understand'
+p39
+aS'report'
+p40
+aS'modeling'
+p41
+aS'prototype'
+p42
 as.

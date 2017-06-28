@@ -4,169 +4,172 @@ p2
 (dp3
 S'healthcare industry'
 p4
-I1
+F0.014533840785413053
 sS'data science'
 p5
-I1
-sS'data mining'
+F0.0035798837073232116
+sS'engineering'
 p6
-I1
-sS'experimentation'
+F0.0036454011222430195
+sS'data mining'
 p7
-I1
-sS'visualization'
+F0.0063154146686968376
+sS'experimentation'
 p8
-I1
-sS'management'
+F0.01071751660497583
+sS'visualization'
 p9
-I1
-sS'big data'
+F0.016734779213696153
+sS'statistics'
 p10
-I1
-sS'excel'
-p11
-I1
-sS'user interface'
-p12
-I1
-sS'computer science'
-p13
-I1
-sS'data management'
-p14
-I1
-sS'data analysis'
-p15
-I1
-sS'data modeling'
-p16
-I1
-sS'marketing'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'modeling'
-p20
-I1
-sS'training'
-p21
-I1
-sS'word'
-p22
-I1
-sS'data visualization'
-p23
-I1
-sS'analysis'
-p24
-I1
-sS'machine learning'
-p25
-I1
-sS'r'
-I1
-sS'healthcare'
-p26
-I1
-sS'powerpoint'
-p27
-I1
-sS'microsoft azure'
-p28
-I1
-ssS'working-year'
-p29
-(dp30
-V[0]
-p31
-I1
-ssS'major'
-p32
-(dp33
-S'management'
-p34
-I1
-sS'business'
-p35
-I1
+F0.0055506717547774082
 sS'big data'
-p36
-I1
-sS'marketing'
-p37
-I1
-sS'data science'
-p38
-I1
-sS'statistic'
-p39
-I1
-sS'machine learning'
-p40
-I1
-sS'computer science engineering'
-p41
-I1
+p11
+F0.0037878723998888914
+sS'excel'
+p12
+F0.0048123637702561471
+sS'user interface'
+p13
+F0.013490746155782749
 sS'computer science'
-p42
-I1
-sS'data mining'
-p43
-I1
-sS'applied math'
-p44
-I1
-sS'ee computer science'
-p45
-I1
-sS'data mining machine learning'
-p46
-I1
-ssS'education'
-p47
-(dp48
-VBachelor
-p49
-I1
-sVMaster
-p50
-I1
-ssS'responsibility'
-p51
-(dp52
-S'development'
-p53
-I1
-sS'product'
-p54
-I1
+p14
+F0.0041844739975810136
+sS'data management'
+p15
+F0.0081842800732418765
 sS'data analysis'
-p55
-I1
-sVinsight
-p56
-I1
-sS'analysis'
-p57
-I1
-sS'data mining'
-p58
-I1
-sS'interface'
-p59
-I1
+p16
+F0.0044159583778740031
+sS'data modeling'
+p17
+F0.0077744099548162828
+sS'marketing'
+p18
+F0.0056702813168974658
+sS'data scientist'
+p19
+F0.0031528918606067804
+sS'water'
+p20
+F0.015632338187397735
+sS'management'
+p21
+F0.0026965740095227743
+sS'sql'
+p22
+F0.0020295948179554972
 sS'modeling'
+p23
+F0.0024171002649450964
+sS'data'
+p24
+F0.0014119224746961061
+sS'training'
+p25
+F0.021011560276985083
+sS'word'
+p26
+F0.0082996091092205852
+sS'data visualization'
+p27
+F0.0058533738856535733
+sS'science'
+p28
+F0.0020923627624824179
+sS'analysis'
+p29
+F0.0010196985766491961
+sS'machine learning'
+p30
+F0.0019509456006965456
+sS'r'
+F0.0033035256346067923
+sS'algorithms'
+p31
+F0.0053397966618013507
+sS'healthcare'
+p32
+F0.0080275010217564398
+sS'powerpoint'
+p33
+F0.0072828107349233694
+sS'microsoft azure'
+p34
+F0.015796205737273354
+ssS'working-year'
+p35
+(dp36
+S'[0]'
+p37
+F0.0065363533647154245
+ssS'major'
+p38
+(dp39
+VStatistics
+p40
+F0.005361621338952619
+sVBusiness
+p41
+F0.0032193879380181967
+sVData Science
+p42
+F0.0030574076863245912
+sVEconomics
+p43
+F0.0048832486533466092
+sVEngineering
+p44
+F0.0036454011222430195
+sVComputer Science
+p45
+F0.0026945111498577314
+sVMathematics
+p46
+F0.0051020015761382492
+sVManagement Science and Engineering
+p47
+F0.0038379301740145604
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0027124369871128176
+sVMaster
+p51
+F0.0021645258488814786
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.0036040506024229719
+sS'product'
+p55
+F0.02401773019138833
+sS'data analysis'
+p56
+F0.0044159583778740031
+sS'insight'
+p57
+F0.010921984261961221
+sS'analysis'
+p58
+F0.0010196985766491961
+sS'data mining'
+p59
+F0.0063154146686968376
+sS'interface'
 p60
-I1
-sS'model'
+F0.0093974916623514246
+sS'modeling'
 p61
-I1
-sS'transformation'
+F0.0024171002649450964
+sS'model'
 p62
-I1
+F0.0276323364625293
+sS'transformation'
+p63
+F0.0093585033789668638
 ss.

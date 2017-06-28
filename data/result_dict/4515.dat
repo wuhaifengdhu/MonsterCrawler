@@ -4,96 +4,101 @@ p2
 (lp3
 S'consulting'
 p4
-aS'management'
+aS'communication'
 p5
-aS'powerpoint'
-p6
 aS'analytics'
+p6
+aS'sas'
 p7
-aS'business strategy'
+aS'strategy'
 p8
-aS'documentation'
+aS'insurance'
 p9
-aS'data scientist'
+aS'management'
 p10
-aS'research'
+aS'excel'
 p11
-aS'credit'
+aS'research'
 p12
 aS'statistical software'
 p13
 aS'education'
 p14
-aS'sql'
+aS'innovation'
 p15
-aS'communication'
-p16
-aS'modeling'
-p17
 aS'advanced analytics'
+p16
+aS'data scientist'
+p17
+aS'sql'
 p18
-aS'strategy'
+aS'modeling'
 p19
 aS'data'
 p20
-aS'insurance'
-p21
 aS'customer experience'
+p21
+aS'a'
+aS'vba'
 p22
-asS'working-year'
+aS'documentation'
 p23
-(lp24
-V(15, 20]
+aS'business strategy'
+p24
+aS'credit'
 p25
-aV(2, 5]
+aS'powerpoint'
 p26
-asS'major'
+asS'working-year'
 p27
 (lp28
-S'management'
+V(15, 20]
 p29
-aS'business'
+aV(2, 5]
 p30
-aS'communication'
+asS'major'
 p31
-aS'analytics'
-p32
-aS'design'
+(lp32
+VData Science
 p33
-aS'advanced analytics'
+aVBusiness
 p34
-asS'education'
+aVManagement Science and Engineering
 p35
-(lp36
+asS'education'
+p36
+(lp37
 VBachelor
-p37
-asS'responsibility'
 p38
-(lp39
-S'development'
+aVMaster
+p39
+asS'responsibility'
 p40
-aS'decision-making'
-p41
-aS'understand'
+(lp41
+S'development'
 p42
-aVinsight
+aS'decision-making'
 p43
-aS'improvement'
+aS'understand'
 p44
-aS'design'
+aS'insight'
 p45
-aS'ownership'
+aS'improvement'
 p46
-aS'identify opportunity'
+aS'design'
 p47
-aS'complex data set'
+aS'ownership'
 p48
-aS'modeling'
+aS'identify opportunity'
 p49
-aS'presentation'
+aS'complex data set'
 p50
-aS'model'
+aS'modeling'
 p51
-aS'documentation'
+aS'presentation'
 p52
+aS'model'
+p53
+aS'documentation'
+p54
 as.

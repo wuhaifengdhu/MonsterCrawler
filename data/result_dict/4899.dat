@@ -2,102 +2,96 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
-p5
 aS'cluster'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'pricing'
-p8
+p7
 aS'hbase'
-p9
+p8
 aS'management'
-p10
+p9
 aS'java'
-p11
+p10
 aS'hadoop'
-p12
+p11
 aS'computer science'
-p13
+p12
 aS'business requirements'
+p13
+aS'mathematics'
 p14
 aS'data management'
 p15
 aS'apis'
 p16
-aS'data scientist'
+aS'python'
 p17
-aS'statistical modeling'
+aS'data scientist'
 p18
-aS'modeling'
+aS'statistical modeling'
 p19
-aS'spark'
+aS'modeling'
 p20
-aS'data'
+aS'spark'
 p21
+aS'data'
+p22
 aS'c'
 aS'science'
-p22
-aS'machine learning'
 p23
+aS'machine learning'
+p24
 aS'r'
 aS'advertising'
-p24
-aS'scripting'
 p25
-asS'working-year'
+aS'scripting'
 p26
-(lp27
+asS'working-year'
+p27
+(lp28
 V(2, 5]
-p28
-asS'major'
 p29
-(lp30
-S'management'
-p31
-aS'business'
+asS'major'
+p30
+(lp31
+VMathematics
 p32
-aS'science'
+aVEngineering
 p33
-aS'computer science computer engineering'
+aVComputer Science
 p34
-aS'engineering'
+aVBusiness
 p35
-aS'machine learning'
+aVManagement Science and Engineering
 p36
-aS'computer engineering'
-p37
-aS'design'
-p38
-aS'computer science'
-p39
 asS'education'
+p37
+(lp38
+VBachelor
+p39
+aVMaster
 p40
-(lp41
-S'Bachelor'
-p42
 asS'responsibility'
-p43
-(lp44
+p41
+(lp42
 S'large data set'
-p45
+p43
 aS'product'
-p46
-aS'statistical model'
-p47
+p44
 aS'design'
-p48
+p45
 aS'ownership'
-p49
+p46
 aS'interface'
-p50
+p47
 aS'modeling'
-p51
+p48
 aS'implement'
-p52
+p49
 aS'model'
-p53
+p50
 as.

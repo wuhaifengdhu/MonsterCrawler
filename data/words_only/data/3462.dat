@@ -4,143 +4,154 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0057361208663436825
 sS'data science'
 p5
-I1
-sS'troubleshooting'
+F0.0043581192958717365
+sS'analytics'
 p6
-I1
-sS'analysis'
+F0.006302445376692222
+sS'troubleshooting'
 p7
-I1
-sS'hbase'
-p8
-I1
-sS'big data analytics'
-p9
-I1
-sS'big data'
-p10
-I1
-sS'storage'
-p11
-I1
-sS'access'
-p12
-I1
-sS'computer science'
-p13
-I1
-sS'customer satisfaction'
-p14
-I1
-sS'product development'
-p15
-I1
-sS'collaboration'
-p16
-I1
-sS'data scientist'
-p17
-I1
-sS'sql'
-p18
-I1
-sS'spark'
-p19
-I1
-sS'data'
-p20
-I1
-sS'data collection'
-p21
-I1
-sS'design patterns'
-p22
-I1
-sS'object oriented design'
-p23
-I1
-sS'programming'
-p24
-I1
-sS'hive'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'impala'
-p27
-I1
-sS'data analytics'
-p28
-I1
-ssS'working-year'
-p29
-(dp30
-V(2, 5]
-p31
-I1
-ssS'major'
-p32
-(dp33
-S'big data'
-p34
-I1
-sS'communication'
-p35
-I1
-sS'data science'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'big data analytics'
-p38
-I1
-sS'design'
-p39
-I1
-sS'computer science'
-p40
-I1
-sS'statistic'
-p41
-I1
-sS'phd'
-p42
-I1
-sS'data analytics'
-p43
-I1
-ssS'education'
-p44
-(dp45
-VDoctor
-p46
-I1
-ssS'responsibility'
-p47
-(dp48
-S'development'
-p49
-I1
-sS'product'
-p50
-I1
-sS'data collection'
-p51
-I1
+F0.013624574151210853
 sS'analysis'
+p8
+F0.0012413721802685867
+sS'hbase'
+p9
+F0.012131369890724896
+sS'big data analytics'
+p10
+F0.012008221394016234
+sS'statistics'
+p11
+F0.0033786697637775529
+sS'java'
+p12
+F0.0044900977089430564
+sS'big data'
+p13
+F0.004611322921603868
+sS'anomaly detection'
+p14
+F0.015923994576752212
+sS'storage'
+p15
+F0.027105083786568545
+sS'access'
+p16
+F0.0084038479170161409
+sS'computer science'
+p17
+F0.0050941422579247123
+sS'customer satisfaction'
+p18
+F0.016392147605341655
+sS'product development'
+p19
+F0.0094691172057308343
+sS'python'
+p20
+F0.0018885924375118333
+sS'collaboration'
+p21
+F0.0092669181886719347
+sS'data scientist'
+p22
+F0.0038383031346517328
+sS'sql'
+p23
+F0.0024708110827284316
+sS'spark'
+p24
+F0.0061091870409987628
+sS'data'
+p25
+F0.0042971553577707579
+sS'c'
+F0.0045312388547032517
+sS'data collection'
+p26
+F0.026270648891023502
+sS'design patterns'
+p27
+F0.017693371390937632
+sS'object oriented design'
+p28
+F0.016269317251073025
+sS'scala'
+p29
+F0.0088426318394878144
+sS'programming'
+p30
+F0.0039938957783872313
+sS'hive'
+p31
+F0.0075570806140942267
+sS'machine learning'
+p32
+F0.0023750642095436208
+sS'science'
+p33
+F0.0050944484651745826
+sS'organization'
+p34
+F0.0063883472437742074
+sS'impala'
+p35
+F0.016487082721177805
+sS'data analytics'
+p36
+F0.0073997198604557864
+ssS'working-year'
+p37
+(dp38
+V(2, 5]
+p39
+F0.0044889290885186065
+ssS'major'
+p40
+(dp41
+VData Science
+p42
+F0.0037220615311777633
+sVStatistics
+p43
+F0.0065271911952466677
+sVComputer Science
+p44
+F0.0032802744433050642
+sVBusiness
+p45
+F0.0039192548810656315
+ssS'education'
+p46
+(dp47
+VMaster
+p48
+F0.0026350749464644089
+sVDoctor
+p49
+F0.003946310767306044
+ssS'responsibility'
+p50
+(dp51
+S'development'
 p52
-I1
-sS'analytic'
+F0.0043875398638192706
+sS'product'
 p53
-I1
-sS'design'
+F0.004873162647528068
+sS'data collection'
 p54
-I1
+F0.026270648891023502
+sS'analysis'
+p55
+F0.0012413721802685867
+sS'analytic'
+p56
+F0.0081801665663030539
+sS'design'
+p57
+F0.0052913725000669478
 ss.

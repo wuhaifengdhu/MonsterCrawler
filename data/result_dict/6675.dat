@@ -4,39 +4,39 @@ p2
 (lp3
 S'excel'
 p4
-aS'communication'
-p5
 aS'hadoop'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'mysql'
-p8
+p7
 aS'continuous improvement'
-p9
+p8
 aS'cassandra'
-p10
+p9
 aS'management'
-p11
+p10
 aS'java'
-p12
+p11
 aS'saas'
-p13
+p12
 aS'integration'
-p14
+p13
 aS'research'
-p15
+p14
 aS'oracle sql'
-p16
+p15
 aS'computer science'
+p16
+aS'communication'
 p17
-aS'innovation'
-p18
 aS'product development'
-p19
+p18
 aS'python'
-p20
+p19
 aS'mongodb'
+p20
+aS'innovation'
 p21
 aS'data scientist'
 p22
@@ -48,6 +48,7 @@ aS'data'
 p25
 aS'b2b'
 p26
+aS'c'
 aS'cloudera'
 p27
 aS'sql server'
@@ -68,40 +69,30 @@ p35
 asS'major'
 p36
 (lp37
-S'information'
+VEngineering
 p38
-aS'management'
+aVComputer Science
 p39
-aS'business'
+aVBusiness
 p40
-aS'science'
+aVManagement Science and Engineering
 p41
-aS'automation'
-p42
-aS'engineering'
-p43
-aS'design'
-p44
-aS'computer science'
-p45
-aS'communication'
-p46
 asS'education'
-p47
-(lp48
+p42
+(lp43
 VBachelor
-p49
+p44
 asS'responsibility'
-p50
-(lp51
+p45
+(lp46
 S'development'
-p52
+p47
 aS'information'
-p53
+p48
 aS'product'
-p54
+p49
 aS'design'
-p55
+p50
 aS'improvement'
-p56
+p51
 as.

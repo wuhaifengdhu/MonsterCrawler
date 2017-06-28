@@ -4,187 +4,190 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0060954273146247712
 sS'information management'
 p5
-I1
+F0.010742701179713028
 sS'analytics'
 p6
-I1
+F0.0077482179241294127
 sS'business intelligence'
 p7
-I1
+F0.0045502078146423628
 sS'data governance'
 p8
-I1
-sS'mapreduce'
+F0.0097384185473369713
+sS'linux'
 p9
-I1
-sS'xml'
+F0.0041115323781720026
+sS'sas'
 p10
-I1
-sS'visualization'
+F0.0030851600371434671
+sS'xml'
 p11
-I1
-sS'big data'
+F0.007336108943108227
+sS'visualization'
 p12
-I1
-sS'agile'
+F0.0041743769976257672
+sS'management'
 p13
-I1
-sS'hadoop'
-p14
-I1
-sS'governance'
-p15
-I1
-sS'research'
-p16
-I1
-sS'policy'
-p17
-I1
-sS'finance'
-p18
-I1
-sS'python'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'data quality'
-p21
-I1
-sS'business analytics'
-p22
-I1
-sS'statistical modeling'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'spark'
-p26
-I1
-sS'pig'
-p27
-I1
-sS'data'
-p28
-I1
-sS'solution architecture'
-p29
-I1
-sS'programming'
-p30
-I1
-sS'engineering'
-p31
-I1
-sS'hive'
-p32
-I1
-sS'data center'
-p33
-I1
-sS'data engineering'
-p34
-I1
-sS'r'
-I1
-sS'data security'
-p35
-I1
-sS'organization'
-p36
-I1
-sS'security'
-p37
-I1
-sS'data integration'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(2, 5]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'business intelligence analytics'
-p44
-I1
-sS'information'
-p45
-I1
-sS'finance'
-p46
-I1
+F0.0020179262075716081
 sS'big data'
-p47
-I1
-sS'computing'
-p48
-I1
-sS'information management'
-p49
-I1
+p14
+F0.0028345771188478118
+sS'agile'
+p15
+F0.0048634518322928939
+sS'unix'
+p16
+F0.0057507545407239416
+sS'hadoop'
+p17
+F0.0028614844129166254
+sS'governance'
+p18
+F0.0080278753249349629
+sS'research'
+p19
+F0.0019001343912288156
+sS'policy'
+p20
+F0.0060794169889548987
+sS'unstructured data'
+p21
+F0.0071020232370894425
+sS'finance'
+p22
+F0.0059134655995182368
+sS'python'
+p23
+F0.0011609165094727527
+sS'data quality'
+p24
+F0.0078726905638891384
 sS'business analytics'
-p50
-I1
-sS'analytics'
-p51
-I1
-sS'engineering'
-p52
-I1
-sS'business'
-p53
-I1
-ssS'education'
-p54
-(dp55
-VMaster
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
-S'information'
-p59
-I1
-sS'product'
-p60
-I1
-sS'statistical model'
-p61
-I1
-sS'analytic'
-p62
-I1
-sS'understand'
-p63
-I1
-sS'report'
-p64
-I1
+p25
+F0.0067652209212897847
+sS'statistical modeling'
+p26
+F0.0039896782186868516
+sS'sql'
+p27
+F0.001518805921677165
 sS'modeling'
+p28
+F0.0018087877261059075
+sS'spark'
+p29
+F0.0075106263844795483
+sS'pig'
+p30
+F0.0060103077396790449
+sS'data'
+p31
+F0.0076602297290862247
+sS'engineering'
+p32
+F0.005455923283178862
+sS'solution architecture'
+p33
+F0.010134598732839808
+sS'programming'
+p34
+F0.0024550450664473852
+sS'mapreduce'
+p35
+F0.0058723864520176406
+sS'hive'
+p36
+F0.0046453324042093685
+sS'data center'
+p37
+F0.0096102022800143294
+sS'data engineering'
+p38
+F0.0089194448910187955
+sS'r'
+F0.0012360630436836105
+sS'architecture'
+p39
+F0.0048708563979613763
+sS'data security'
+p40
+F0.011738271810675695
+sS'organization'
+p41
+F0.0039269127823645458
+sS'security'
+p42
+F0.0097343020744756863
+sS'data integration'
+p43
+F0.0086206261924979561
+ssS'working-year'
+p44
+(dp45
+V(2, 5]
+p46
+F0.0027593417114279185
+ssS'major'
+p47
+(dp48
+VBusiness
+p49
+F0.002409163356735221
+sVData Science
+p50
+F0.0022879487363141704
+sVEconomics
+p51
+F0.003654279615867396
+sVEngineering
+p52
+F0.005455923283178862
+sVInformation Science
+p53
+F0.0056406574355325027
+sVComputer Science
+p54
+F0.0020163825085795051
+sVManagement Science and Engineering
+p55
+F0.0028720368340064417
+ssS'education'
+p56
+(dp57
+VMaster
+p58
+F0.001619778808962532
+ssS'responsibility'
+p59
+(dp60
+S'information'
+p61
+F0.0030893211570810568
+sS'product'
+p62
+F0.0029955298234248255
+sS'analytic'
+p63
+F0.0050283429227163537
+sS'understand'
+p64
+F0.0046808013662456016
+sS'report'
 p65
-I1
-sS'model'
+F0.0046219964814530707
+sS'modeling'
 p66
-I1
-sS'transformation'
+F0.0018087877261059075
+sS'model'
 p67
-I1
-sS'data sourcing'
+F0.0034463493138121174
+sS'transformation'
 p68
-I1
+F0.0070032452902736436
+sS'data sourcing'
+p69
+F0.014105511990993498
 ss.

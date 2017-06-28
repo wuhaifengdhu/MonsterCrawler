@@ -6,7 +6,7 @@ S'big data'
 p4
 aS'scala'
 p5
-aS'mllib'
+aS'python'
 p6
 aS'science'
 p7
@@ -14,15 +14,15 @@ aS'data science'
 p8
 aS'data scientist'
 p9
-aS'hadoop'
+aS'mllib'
 p10
 aS'machine learning'
 p11
 aS'access'
 p12
-aS'python'
-p13
 aS'financial services'
+p13
+aS'hadoop'
 p14
 aS'security'
 p15
@@ -37,29 +37,25 @@ p19
 asS'working-year'
 p20
 (lp21
-V[0]
+S'[0]'
 p22
 asS'major'
 p23
 (lp24
-S'science'
+VData Science
 p25
-aS'data science'
+aVComputer Science
 p26
-aS'business'
+aVBusiness
 p27
-aS'big data'
-p28
-aS'machine learning'
-p29
 asS'education'
-p30
-(lp31
+p28
+(lp29
 S'Bachelor'
-p32
+p30
 asS'responsibility'
-p33
-(lp34
+p31
+(lp32
 S'development'
-p35
+p33
 as.

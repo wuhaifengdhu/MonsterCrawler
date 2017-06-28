@@ -4,7 +4,8 @@ p2
 (lp3
 S'software development'
 p4
-aS'software design'
+aS'a'
+aS'statistics'
 p5
 aS'publishing'
 p6
@@ -16,25 +17,25 @@ aS'communication'
 p9
 aS'data science'
 p10
-aS'data scientist'
-p11
 aS'machine learning'
+p11
+aS'software design'
 p12
-aS'data architecture'
-p13
 aS'analytics'
-p14
+p13
 aS'engineering'
-p15
+p14
 aS'trading'
-p16
+p15
 aS'computer science'
-p17
+p16
 aS'science'
-p18
+p17
 aS'advanced analytics'
-p19
+p18
 aS'mathematics'
+p19
+aS'architectures'
 p20
 aS'data'
 p21
@@ -50,62 +51,40 @@ p26
 asS'major'
 p27
 (lp28
-S'software engineering'
+VStatistics
 p29
-aS'business'
+aVBusiness
 p30
-aS'analytics'
+aVData Science
 p31
-aS'science'
+aVEngineering
 p32
-aS'data science'
+aVComputer Science
 p33
-aS'data science analytics'
+aVMathematics
 p34
-aS'machine learning'
-p35
-aS'mathematics statistics'
-p36
-aS'engineering'
-p37
-aS'design'
-p38
-aS'computer science'
-p39
-aS'statistic'
-p40
-aS'advanced analytics'
-p41
-aS'mathematics'
-p42
-aS'general'
-p43
-aS'communication'
-p44
-aS'statistics computer science'
-p45
 asS'education'
-p46
-(lp47
+p35
+(lp36
 S'Bachelor'
-p48
+p37
 asS'responsibility'
-p49
-(lp50
+p38
+(lp39
 S'development'
-p51
+p40
 aS'build model'
-p52
-aVinsight
-p53
+p41
+aS'insight'
+p42
 aS'analytic'
-p54
+p43
 aS'design'
-p55
+p44
 aS'model'
-p56
+p45
 aS'prototype'
-p57
+p46
 aS'extract'
-p58
+p47
 as.

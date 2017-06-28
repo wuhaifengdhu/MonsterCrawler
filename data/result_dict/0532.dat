@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'a'
+aS'consulting'
 p4
 aS'management'
 p5
@@ -20,80 +21,72 @@ aS'data mining'
 p11
 aS'data scientist'
 p12
-aS'analytics'
+aS'strategy'
 p13
-aS'problem solving'
-p14
-aS'statistical modeling'
-p15
-aS'sql'
-p16
-aS'communication'
-p17
-aS'modeling'
-p18
-aS'data'
-p19
-aS'project management'
-p20
-asS'working-year'
-p21
-(lp22
-V(2, 5]
-p23
-asS'major'
-p24
-(lp25
-S'information'
-p26
-aS'management'
-p27
-aS'business'
-p28
-aS'big data'
-p29
-aS'communication'
-p30
-aS'general'
-p31
 aS'analytics'
-p32
-aS'design'
-p33
-aS'data mining'
-p34
-aS'project management'
-p35
-aS'history'
-p36
-asS'education'
-p37
-(lp38
-S'Bachelor'
-p39
-asS'responsibility'
-p40
-(lp41
-S'development'
-p42
-aS'information'
-p43
-aS'product'
-p44
-aS'business problem'
-p45
-aVinsight
-p46
-aS'statistical model'
-p47
-aS'design'
-p48
-aS'ownership'
-p49
-aS'data mining'
-p50
+p14
+aS'communication'
+p15
+aS'statistical modeling'
+p16
+aS'sql'
+p17
+aS'sas'
+p18
 aS'modeling'
-p51
+p19
+aS'problem solving'
+p20
+aS'data'
+p21
+aS'project management'
+p22
+asS'working-year'
+p23
+(lp24
+V(2, 5]
+p25
+asS'major'
+p26
+(lp27
+VData Science
+p28
+aVComputer Science
+p29
+aVBusiness
+p30
+aVManagement Science and Engineering
+p31
+asS'education'
+p32
+(lp33
+S'Bachelor'
+p34
+asS'responsibility'
+p35
+(lp36
+S'development'
+p37
+aS'information'
+p38
+aS'product'
+p39
+aS'business problem'
+p40
+aS'insight'
+p41
+aS'drive ... decision'
+p42
+aS'design'
+p43
+aS'ownership'
+p44
+aS'data mining'
+p45
+aS'modeling'
+p46
 aS'presentation'
-p52
+p47
+aS'decision making'
+p48
 as.

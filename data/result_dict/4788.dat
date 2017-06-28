@@ -16,7 +16,7 @@ aS'education'
 p9
 aS'insurance'
 p10
-aS'management'
+aS'statistics'
 p11
 aS'programming languages'
 p12
@@ -38,17 +38,18 @@ aS'data analysis'
 p20
 aS'data scientist'
 p21
-aS'sql'
+aS'leadership'
 p22
-aS'modeling'
+aS'sql'
 p23
-aS'data'
+aS'modeling'
 p24
-aS'project management'
+aS'data'
 p25
-aS'training'
+aS'project management'
 p26
-aS'property casualty insurance'
+aS'a'
+aS'training'
 p27
 aS'solver'
 p28
@@ -62,92 +63,60 @@ aS'analysis'
 p32
 aS'machine learning'
 p33
-asS'working-year'
+aS'management'
 p34
-(lp35
+asS'working-year'
+p35
+(lp36
 V(0, 2]
-p36
-aV(2, 5]
 p37
 asS'major'
 p38
 (lp39
-S'communication'
+VStatistics
 p40
-aS'data science'
+aVBusiness
 p41
-aS'statistic'
+aVData Science
 p42
-aS'general'
+aVComputer Science
 p43
-aS'analytics'
+aVMathematics
 p44
-aS'applied mathematics statistics'
+aVManagement Science and Engineering
 p45
-aS'data mining'
-p46
-aS'information'
-p47
-aS'management'
-p48
-aS'computer science'
-p49
-aS'advanced analytics'
-p50
-aS'mathematics'
-p51
-aS'business'
-p52
-aS'phd'
-p53
-aS'mathematics statistics'
-p54
-aS'machine learning data mining'
-p55
-aS'project management'
-p56
-aS'science'
-p57
-aS'applied mathematics'
-p58
-aS'machine learning'
-p59
-aS'statistics computer science'
-p60
-aS'applied math'
-p61
 asS'education'
-p62
-(lp63
+p46
+(lp47
 VMaster
-p64
+p48
 aVDoctor
-p65
+p49
 asS'responsibility'
-p66
-(lp67
+p50
+(lp51
 S'development'
-p68
+p52
 aS'information'
-p69
+p53
 aS'data analysis'
-p70
+p54
 aS'business problem'
-p71
+p55
 aS'recommendation'
-p72
+p56
 aS'communicate'
-p73
+p57
 aS'analysis'
-p74
+p58
 aS'understand'
-p75
+p59
 aS'data mining'
-p76
+p60
 aS'modeling'
-p77
+p61
 aS'implement'
-p78
+p62
 aS'model'
-p79
+p63
 as.

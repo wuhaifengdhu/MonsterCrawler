@@ -2,213 +2,206 @@
 S'skills'
 p2
 (dp3
-S'statistical modeling'
+S'forecasting'
 p4
-I1
-sS'classification'
+F0.0078401845075676962
+sS'statistical modeling'
 p5
-I1
-sS'communication'
+F0.0047897473801882251
+sS'classification'
 p6
-I1
-sS'hive'
-p7
-I1
-sS'linux'
-p8
-I1
-sS'fraud'
-p9
-I1
-sS'insurance'
-p10
-I1
-sS'clustering'
-p11
-I1
-sS'java'
-p12
-I1
-sS'shell scripting'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'nosql'
-p15
-I1
-sS'predictive modeling'
-p16
-I1
-sS'hadoop'
-p17
-I1
-sS'random forest'
-p18
-I1
-sS'computer science'
-p19
-I1
-sS'hypothesis testing'
-p20
-I1
-sS'matlab'
-p21
-I1
-sS'python'
-p22
-I1
-sS'collaboration'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'c++'
-p25
-I1
-sS'bayesian inference'
-p26
-I1
-sS'svm'
-p27
-I1
-sS'computational linguistics'
-p28
-I1
-sS'octave'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'regression'
-p31
-I1
-sS'modeling'
-p32
-I1
-sS'data'
-p33
-I1
-sS'decision trees'
-p34
-I1
-sS'property casualty insurance'
-p35
-I1
-sS'economics'
-p36
-I1
-sS'programming'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'machine learning'
-p39
-I1
-sS'r'
-I1
-sS'logistic regression'
-p40
-I1
-sS'scripting'
-p41
-I1
-sS'statistical analysis'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(10, 15]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'information'
-p48
-I1
-sS'business'
-p49
-I1
-sS'big data'
-p50
-I1
-sS'statistics economics'
-p51
-I1
+F0.0084367965279627775
 sS'communication'
-p52
-I1
-sS'economics'
-p53
-I1
-sS'computer science statistics'
-p54
-I1
-sS'machine learning'
-p55
-I1
-sS'computing'
-p56
-I1
+p7
+F0.0042330731527028247
+sS'analysis'
+p8
+F0.00091609283891478592
+sS'linux'
+p9
+F0.0049360375342225385
+sS'sas'
+p10
+F0.0037038418627738413
+sS'fraud'
+p11
+F0.010459508223551572
+sS'insurance'
+p12
+F0.042154698042108127
+sS'clustering'
+p13
+F0.01723750032383
+sS'statistics'
+p14
+F0.0049866997583026982
+sS'java'
+p15
+F0.0033135480418938061
+sS'shell scripting'
+p16
+F0.0090100629606516287
+sS'big data'
+p17
+F0.0034030083592584692
+sS'nosql'
+p18
+F0.0073177723643489895
+sS'predictive modeling'
+p19
+F0.0055588393280453733
+sS'hadoop'
+p20
+F0.0034353115010683551
+sS'random forest'
+p21
+F0.012143380467479528
 sS'computer science'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'design'
-p59
-I1
-sS'phd'
-p60
-I1
-sVphysic
-p61
-I1
+p22
+F0.0037593135379337451
+sS'hypothesis testing'
+p23
+F0.012028608870300266
+sS'matlab'
+p24
+F0.0034128374001017774
+sS'python'
+p25
+F0.0013937206223349357
+sS'collaboration'
+p26
+F0.0068386882889664539
+sS'data scientist'
+p27
+F0.0028325445592617066
+sS'bayesian inference'
+p28
+F0.013645537147270423
+sS'svm'
+p29
+F0.011940211842590497
 sS'computational linguistics'
-p62
-I1
+p30
+F0.013335185747660129
+sS'octave'
+p31
+F0.011138609132442022
+sS'sql'
+p32
+F0.0018233793016926392
+sS'regression'
+p33
+F0.01270677962931444
+sS'modeling'
+p34
+F0.0043430250749815639
+sS'data'
+p35
+F0.00095134883321769728
+sS'c'
+F0.0033439088874280677
+sS'decision trees'
+p36
+F0.011154764803516869
+sS'science'
+p37
+F0.0018797697545296587
+sS'economics'
+p38
+F0.0064077321506937467
+sS'programming'
+p39
+F0.005894733876122331
+sS'hive'
+p40
+F0.0055768830200267549
+sS'machine learning'
+p41
+F0.0017527211813744366
+sS'r'
+F0.0014839366487003774
+sS'logistic regression'
+p42
+F0.0087539114353249823
+sS'organization'
+p43
+F0.0047143952921970085
+sS'security'
+p44
+F0.0058431839992507803
+sS'physics'
+p45
+F0.0065055732017290455
+sS'scripting'
+p46
+F0.0065055732017290455
+sS'statistical analysis'
+p47
+F0.0068842250091246194
+ssS'working-year'
+p48
+(dp49
+V(10, 15]
+p50
+F0.0052337603106907991
+ssS'major'
+p51
+(dp52
+VLinguistics
+p53
+F0.013996700928719682
+sVStatistics
+p54
+F0.0048168576734975406
+sVBusiness
+p55
+F0.0028922843507329255
+sVEconomics
+p56
+F0.0043870896992632639
+sVComputer Science
+p57
+F0.0024207372897117586
+sVPhysics
+p58
+F0.0070153264737970325
 ssS'education'
+p59
+(dp60
+VMaster
+p61
+F0.0019446007626314889
+sVDoctor
+p62
+F0.0029122507266750482
+ssS'responsibility'
 p63
 (dp64
-VMaster
+S'information'
 p65
-I1
-sVDoctor
+F0.011126512295690331
+sS'forecasting'
 p66
-I1
-ssS'responsibility'
+F0.0078401845075676962
+sS'large data set'
 p67
-(dp68
-S'large data set'
-p69
-I1
+F0.0084076393992857379
+sS'insight'
+p68
+F0.0049061319679397997
 sS'product'
-p70
-I1
-sS'information'
-p71
-I1
-sVinsight
-p72
-I1
+p69
+F0.0071924753514317997
 sS'analysis'
-p73
-I1
-sS'statistical model'
-p74
-I1
+p70
+F0.00091609283891478592
 sS'design'
-p75
-I1
+p71
+F0.0039048631283916512
 sS'modeling'
-p76
-I1
+p72
+F0.0043430250749815639
+sS'decision making'
+p73
+F0.0087341792778863996
 ss.

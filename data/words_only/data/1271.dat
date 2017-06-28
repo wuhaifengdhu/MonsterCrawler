@@ -4,175 +4,172 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.0064526828250676465
 sS'intelligence'
 p5
-I1
+F0.0032107538034494461
 sS'testing'
 p6
-I1
-sS'hadoop'
+F0.0041868671061349961
+sS'tableau'
 p7
-I1
+F0.004108437805979125
 sS'analytics'
 p8
-I1
-sS'digital analytics'
+F0.0035572084334704571
+sS'sas'
 p9
-I1
-sS'machine learning'
+F0.0028327952079292779
+sS'digital analytics'
 p10
-I1
-sS'regression'
+F0.010778085977491591
+sS'education'
 p11
-I1
-sS'clustering'
+F0.0042916702450169104
+sS'regression'
 p12
-I1
-sS'visualization'
+F0.0048592388357501038
+sS'clustering'
 p13
-I1
-sS'big data'
+F0.0065918457271088148
+sS'visualization'
 p14
-I1
-sS'tableau'
+F0.0038329146665316352
+sS'big data'
 p15
-I1
-sS'strategy'
+F0.0026027098698623062
+sS'hadoop'
 p16
-I1
-sS'market research'
+F0.0052548323165626382
+sS'strategy'
 p17
-I1
-sS'innovation'
+F0.0032208822724475155
+sS'market research'
 p18
-I1
-sS'segmentation'
+F0.0065537998374201375
+sS'innovation'
 p19
-I1
-sS'data analysis'
+F0.0039587416608072058
+sS'segmentation'
 p20
-I1
-sS'python'
+F0.0059223953213293273
+sS'data analysis'
 p21
-I1
-sS'marketing'
+F0.0030342781492140396
+sS'python'
 p22
-I1
-sS'data scientist'
+F0.00106595401381036
+sS'marketing'
 p23
-I1
-sS'business analytics'
+F0.019480721088727494
+sS'data scientist'
 p24
-I1
-sS'sql'
+F0.0021664042232390152
+sS'business analytics'
 p25
-I1
-sS'spotfire'
+F0.0062118286168898031
+sS'machine learning'
 p26
-I1
-sS'modeling'
+F0.0013405270385154181
+sS'sql'
 p27
-I1
-sS'spark'
+F0.0013945682184724891
+sS'spotfire'
 p28
-I1
-sS'data'
+F0.017563268354603132
+sS'modeling'
 p29
-I1
-sS'pattern recognition'
+F0.0016608296299009254
+sS'spark'
 p30
-I1
-sS'consumer insights'
+F0.0034481301090299771
+sS'data'
 p31
-I1
-sS'analysis'
+F0.0019403106400731767
+sS'search'
 p32
-I1
-sS'spss'
+F0.0063435373776068874
+sS'pattern recognition'
 p33
-I1
-sS'google analytics'
+F0.0065303756827846454
+sS'consumer insights'
 p34
-I1
-sS'r'
-I1
-sS'scripting'
+F0.012473947853068951
+sS'analysis'
 p35
-I1
-ssS'working-year'
+F0.0007006517827282822
+sS'spss'
 p36
-(dp37
-V(2, 5]
+F0.0045119607992997251
+sS'google analytics'
+p37
+F0.0078881354049893243
+sS'r'
+F0.002269907184515097
+sS'scripting'
 p38
-I1
-ssS'major'
+F0.0049756326737150584
+ssS'working-year'
 p39
 (dp40
-S'information'
+V(2, 5]
 p41
-I1
-sS'business'
+F0.0025336286879982322
+ssS'major'
 p42
-I1
-sS'big data'
-p43
-I1
-sS'marketing'
+(dp43
+VData Science
 p44
-I1
-sS'machine learning'
+F0.0021007954654500261
+sVEconomics
 p45
-I1
-sS'business analytics'
+F0.0033553610378823334
+sVComputer Science
 p46
-I1
-sS'analytics'
+F0.0018514432440740242
+sVBusiness
 p47
-I1
-sS'general'
-p48
-I1
+F0.0022120947794971664
 ssS'education'
-p49
-(dp50
+p48
+(dp49
 VBachelor
-p51
-I1
+p50
+F0.0018637603837830406
 ssS'responsibility'
-p52
-(dp53
+p51
+(dp52
 S'development'
-p54
-I1
-sS'large data set'
-p55
-I1
-sS'data analysis'
-p56
-I1
+p53
+F0.0024764028679225333
 sS'information'
-p57
-I1
+p54
+F0.0028366159499578626
+sS'data analysis'
+p55
+F0.0030342781492140396
+sS'large data set'
+p56
+F0.0064303826898422633
 sS'pattern'
+p57
+F0.0053549919745892564
+sS'insight'
 p58
-I1
-sVinsight
-p59
-I1
+F0.018761690756743204
 sS'analysis'
-p60
-I1
+p59
+F0.0007006517827282822
 sS'solve problem'
-p61
-I1
+p60
+F0.0084111297980197994
 sS'identify opportunity'
-p62
-I1
+p61
+F0.0084704080587635795
 sS'report'
-p63
-I1
+p62
+F0.0042439190596573195
 sS'modeling'
-p64
-I1
+p63
+F0.0016608296299009254
 ss.

@@ -2,113 +2,100 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
-p5
 aS'data science'
-p6
+p5
 aS'decision support'
-p7
+p6
 aS'pig'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'hbase'
-p11
+p10
 aS'cassandra'
-p12
+p11
 aS'dna'
-p13
+p12
 aS'scala'
-p14
+p13
 aS'agile'
-p15
+p14
 aS'research'
-p16
+p15
 aS'mathematics'
-p17
+p16
 aS'pyspark'
-p18
+p17
 aS'python'
-p19
+p18
 aS'mongodb'
-p20
+p19
 aS'data scientist'
-p21
+p20
 aS'sql'
-p22
+p21
 aS'data'
-p23
+p22
+aS'a'
 aS'science'
-p24
+p23
 aS'applied mathematics'
-p25
+p24
 aS'hive'
-p26
+p25
 aS'machine learning'
-p27
+p26
 aS'r'
 aS'electrical engineering'
-p28
+p27
 aS'organization'
+p28
+aS'data analytics'
 p29
-aS'data analytics'
-p30
 asS'working-year'
-p31
-(lp32
+p30
+(lp31
 V(0, 2]
-p33
+p32
 asS'major'
-p34
-(lp35
-S'mathematics'
+p33
+(lp34
+VBusiness
+p35
+aVData Science
 p36
-aS'business'
+aVElectrical and Electronics Engineering
 p37
-aS'science'
+aVEngineering
 p38
-aS'applied mathematics'
+aVComputer Science
 p39
-aS'statistic'
+aVMathematics
 p40
-aS'machine learning'
-p41
-aS'analytics'
-p42
-aS'engineering'
-p43
-aS'electrical'
-p44
-aS'applied math'
-p45
-aS'electrical engineering'
-p46
-aS'data science'
-p47
-aS'data analytics'
-p48
-aS'data science engineering'
-p49
 asS'education'
-p50
-(lp51
-VMaster
-p52
+p41
+(lp42
+VBachelor
+p43
+aVMaster
+p44
 asS'responsibility'
-p53
-(lp54
+p45
+(lp46
 S'development'
-p55
+p47
 aS'product'
-p56
-aVinsight
-p57
-aS'model'
-p58
+p48
 aS'data infrastructure'
-p59
+p49
+aS'insight'
+p50
+aS'drive ... model'
+p51
+aS'model'
+p52
 as.

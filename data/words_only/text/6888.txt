@@ -1,5 +1,5 @@
-skills: {'consulting': 1, 'storage': 1, 'engineering': 1, 'troubleshooting': 1, 'linux': 1, 'education': 1, 'vmware': 1, 'management': 1, 'networking': 1, 'saas': 1, 'research': 1, 'oracle sql': 1, 'computer science': 1, 'innovation': 1, 'systems engineering': 1, 'product development': 1, 'data scientist': 1, 'sql': 1, 'data': 1, 'b2b': 1, 'disaster recovery': 1, 'excel': 1, 'oracle': 1}
-working-year: {u'(5, 10]': 1}
-major: {'systems engineering': 1, 'information': 1, 'management': 1, 'business': 1, 'engineering': 1, 'information systems': 1, 'design': 1, 'computer science': 1, 'computer information systems': 1, 'information system': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'design': 1}
+skills: {'consulting': 0.006025372518962855, 'storage': 0.029924012500371674, 'engineering': 0.013065117622118982, 'troubleshooting': 0.020055373150582374, 'linux': 0.004922874767464612, 'education': 0.00559633799950205, 'vmware': 0.013568436038461846, 'management': 0.0024161303125324056, 'networking': 0.009686377713708765, 'saas': 0.008233446123201763, 'research': 0.002275094244431302, 'oracle sql': 0.009409195872087505, 'computer science': 0.0037492887018325885, 'innovation': 0.010324398251385192, 'systems engineering': 0.011451250967201239, 'product development': 0.006969270263417893, 'data scientist': 0.002824991107103675, 'sql': 0.0018185169568881254, 'data': 0.0006325412686638555, 'b2b': 0.009268599070928463, 'disaster recovery': 0.01277115743103059, 'windows': 0.008986036126089891, 'science': 0.0018747570351842463, 'excel': 0.008623755876299016, 'oracle': 0.007000057329496858}
+working-year: {u'(5, 10]': 0.0032150513642049566}
+major: {u'Engineering': 0.013065117622118982, u'Information Science': 0.006753747169477583, u'Computer Science': 0.002414281990272527, u'Business': 0.0028845715924643044, u'Management Science and Engineering': 0.003438785435917046}
+education: {u'Bachelor': 0.0024303435404530844}
+responsibility: {'development': 0.0032292293397709827, 'information': 0.0073978943974901045, 'product': 0.003586647708580658, 'design': 0.011683350480147821}

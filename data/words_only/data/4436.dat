@@ -4,125 +4,125 @@ p2
 (dp3
 S'debugging'
 p4
-I1
+F0.012450488677573968
 sS'nlp'
 p5
-I1
-sS'life sciences'
-p6
-I1
-sS'software engineering'
-p7
-I1
-sS'big data'
-p8
-I1
-sS'genomics'
-p9
-I1
-sS'cancer research'
-p10
-I1
+F0.029186684860269312
 sS'proteomics'
-p11
-I1
+p6
+F0.016464813528329479
 sS'data science'
-p12
-I1
+p7
+F0.0034074813758090631
 sS'data acquisition'
+p8
+F0.013045306669826569
+sS'engineering'
+p9
+F0.0034698435611151693
+sS'genomics'
+p10
+F0.012032261947125027
+sS'big data'
+p11
+F0.0036054536157582653
+sS'agile'
+p12
+F0.012372180581866909
+sS'saas'
 p13
-I1
+F0.0087465787427780783
 sS'integration'
 p14
-I1
-sS'big data analytics'
-p15
-I1
-sS'mentoring'
-p16
-I1
-sS'data analytics'
-p17
-I1
-sS'agile'
-p18
-I1
-sS'oracle'
-p19
-I1
-sS'organization'
-p20
-I1
+F0.0065332666351122165
 sS'research'
-p21
-I1
-sS'collaboration'
-p22
-I1
+p15
+F0.00725065446171449
 sS'operating systems'
-p23
-I1
-sS'software development'
-p24
-I1
-ssS'working-year'
-p25
-(dp26
-V(5, 10]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'life sciences'
-p30
-I1
-sS'business'
-p31
-I1
-sS'big data'
-p32
-I1
-sS'data science'
-p33
-I1
-sS'big data analytics'
-p34
-I1
-sS'design'
-p35
-I1
+p16
+F0.013412255216633683
+sS'product development'
+p17
+F0.0074036157189283575
+sS'cancer research'
+p18
+F0.015627807339468672
+sS'collaboration'
+p19
+F0.0072455224364687083
+sS'mentoring'
+p20
+F0.0097453645934248018
+sS'informatics'
+p21
+F0.012450488677573968
+sS'data'
+p22
+F0.0016799077602616562
 sS'software engineering'
+p23
+F0.0073712832541473422
+sS'science'
+p24
+F0.0019915974169804319
+sS'oracle'
+p25
+F0.014872643051338934
+sS'organization'
+p26
+F0.0049948550687866329
+ssS'working-year'
+p27
+(dp28
+V(5, 10]
+p29
+F0.003415422837328212
+ssS'major'
+p30
+(dp31
+VEngineering
+p32
+F0.0063806768463646676
+sVInformation Science
+p33
+F0.0071746605908047986
+sVData Science
+p34
+F0.0029101670895327553
+sVBusiness
+p35
+F0.00306434659256123
+sVComputer Science
 p36
-I1
-sS'data analytics'
-p37
-I1
+F0.0025647471568050928
 ssS'education'
-p38
-(dp39
-S'Bachelor'
+p37
+(dp38
+VBachelor
+p39
+F0.0025818097101130504
+sVMaster
 p40
-I1
+F0.0020602852272639575
 ssS'responsibility'
 p41
 (dp42
 S'development'
 p43
-I1
+F0.0034304844261023194
 sS'product'
 p44
-I1
+F0.0038101781606735036
 sS'communicate'
 p45
-I1
+F0.0056834075985314229
 sS'design'
 p46
-I1
+F0.0082743275355154546
 sS'model'
 p47
-I1
+F0.0043836001187015326
 sS'extract'
 p48
-I1
+F0.0087640468291864861
 ss.

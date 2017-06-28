@@ -10,81 +10,89 @@ aS'analytics'
 p6
 aS'engineering'
 p7
-aS'mathematical modeling'
+aS'hive'
 p8
-aS'regression'
+aS'mathematical modeling'
 p9
-aS'visualization'
+aS'education'
 p10
-aS'programming languages'
+aS'regression'
 p11
-aS'tableau'
+aS'visualization'
 p12
-aS'strategy'
+aS'programming languages'
 p13
-aS'access'
+aS'tableau'
 p14
-aS'finance'
+aS'strategy'
 p15
-aS'python'
+aS'access'
 p16
-aS'data scientist'
+aS'finance'
 p17
-aS'sql'
+aS'python'
 p18
-aS'modeling'
+aS'data scientist'
 p19
-aS'spark'
+aS'sql'
 p20
-aS'data'
+aS'modeling'
 p21
-aS'statistical programming'
+aS'spark'
 p22
-aS'data visualization'
+aS'data'
 p23
-aS'programming'
+aS'statistical programming'
 p24
-aS'analysis'
+aS'data visualization'
 p25
+aS'presto'
+p26
+aS'programming'
+p27
+aS'analysis'
+p28
 aS'r'
 aS'dashboard'
-p26
+p29
 aS'organization'
-p27
-asS'working-year'
-p28
-(lp29
-V[0]
 p30
-asS'major'
+asS'working-year'
 p31
 (lp32
-S'analytics'
+S'[0]'
 p33
-aS'engineering'
+asS'major'
 p34
-aS'finance'
-p35
-aS'business'
+(lp35
+VData Science
 p36
-asS'education'
+aVEconomics
 p37
-(lp38
-S'Bachelor'
+aVEngineering
+p38
+aVBusiness
 p39
-asS'responsibility'
+asS'education'
 p40
 (lp41
-S'exploratory analysis'
+VBachelor
 p42
-aVinsight
+asS'responsibility'
 p43
-aS'analysis'
-p44
-aS'statistical method'
+(lp44
+S'decision-making'
 p45
-aS'understand'
+aS'exploratory analysis'
 p46
-aS'modeling'
+aS'insight'
 p47
+aS'analysis'
+p48
+aS'statistical method'
+p49
+aS'understand'
+p50
+aS'modeling'
+p51
 as.

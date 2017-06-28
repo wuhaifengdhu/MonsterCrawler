@@ -4,221 +4,199 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.010918207271481243
 sS'communication'
 p5
-I1
+F0.0054780946682036558
 sS'data science'
 p6
-I1
+F0.0041620793275453259
 sS'robotics'
 p7
-I1
+F0.0167716371631557
 sS'image analysis'
 p8
-I1
+F0.017257299202854286
 sS'hardware'
 p9
-I1
+F0.012848844555551782
 sS'unix'
 p10
-I1
+F0.0089345632829932516
 sS'ec2'
 p11
-I1
+F0.014979464971141254
 sS'linux'
 p12
-I1
+F0.0063878132795821092
 sS'education'
 p13
-I1
+F0.0072616842554092363
 sS'image processing'
 p14
-I1
+F0.011476965450766893
 sS'open source'
 p15
-I1
+F0.011065466228090293
 sS'research'
 p16
-I1
+F0.011808447635456585
 sS'opencv'
 p17
-I1
+F0.01673068780615803
 sS'computer vision'
 p18
-I1
+F0.012231273575038837
 sS'computer science'
 p19
-I1
+F0.0048649939902671996
 sS'mathematics'
 p20
-I1
+F0.0063248902493972525
 sS'operating systems'
 p21
-I1
+F0.016382443223085432
 sS'architecture'
 p22
-I1
+F0.0075675242999469145
 sS'segmentation'
 p23
-I1
+F0.010020938796297719
 sS'theory'
 p24
-I1
+F0.010140056230011543
 sS'machine vision'
 p25
-I1
+F0.022101875473187205
 sS'python'
 p26
-I1
+F0.0018036384524334464
 sS'data scientist'
 p27
-I1
+F0.0036656459002210322
 sS'collaboration'
 p28
-I1
+F0.0088500671974859994
 sS'processing'
 p29
-I1
+F0.016952471487931348
 sS'aws'
 p30
-I1
+F0.0090431707570301396
 sS'gpu'
 p31
-I1
+F0.018636665637596753
 sS'genetics'
 p32
-I1
-sS'tensorflow'
+F0.013440156073075771
+sS'data'
 p33
-I1
-sS'pattern recognition'
+F0.00041038577119194779
+sS'tensorflow'
 p34
-I1
-sS'fluorescence'
+F0.014930729493863093
+sS'engineering'
 p35
-I1
-sS'cloud computing'
+F0.0042382518237842719
+sS'c'
+F0.0043274115013774992
+sS'pattern recognition'
 p36
-I1
-sS'programming'
+F0.011049666812739417
+sS'fluorescence'
 p37
-I1
-sS'mapreduce'
+F0.018708012328696212
+sS'science'
 p38
-I1
-sS'analysis'
+F0.0072979296352327925
+sS'cloud computing'
 p39
-I1
-sS'machine learning'
+F0.011202756521515039
+sS'programming'
 p40
-I1
-sS'optimization'
+F0.011442718700708053
+sS'mapreduce'
 p41
-I1
-sS'artificial intelligence'
-p42
-I1
-sS'english'
-p43
-I1
-sS'electrical engineering'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-V(0, 2]
-p47
-I1
-ssS'major'
-p48
-(dp49
-S'design'
-p50
-I1
-sS'genetics'
-p51
-I1
-sS'physics mathematics'
-p52
-I1
-sS'imaging science'
-p53
-I1
-sS'communication'
-p54
-I1
-sS'data science'
-p55
-I1
-sS'robotics'
-p56
-I1
-sS'computer science computer engineering'
-p57
-I1
-sS'electrical'
-p58
-I1
-sS'machine learning'
-p59
-I1
-sS'computer engineering'
-p60
-I1
-sS'computing'
-p61
-I1
-sS'electrical engineering'
-p62
-I1
-sS'english'
-p63
-I1
-sVphysic
-p64
-I1
-sS'mathematics'
-p65
-I1
-sS'phd'
-p66
-I1
-sS'artificial intelligence'
-p67
-I1
-sS'computer science'
-p68
-I1
-ssS'education'
-p69
-(dp70
-VDoctor
-p71
-I1
-ssS'responsibility'
-p72
-(dp73
-S'pattern'
-p74
-I1
-sS'processing'
-p75
-I1
+F0.0091235346607471315
 sS'analysis'
-p76
-I1
+p42
+F0.0047421276367353628
+sS'machine learning'
+p43
+F0.0022682274111904474
 sS'optimization'
-p77
-I1
+p44
+F0.0069204458733167547
+sS'artificial intelligence'
+p45
+F0.0095765278895320587
+sS'english'
+p46
+F0.011688404330288954
+sS'electrical engineering'
+p47
+F0.013718425894044347
+sS'physics'
+p48
+F0.0084189770845905301
+ssS'working-year'
+p49
+(dp50
+V(0, 2]
+p51
+F0.0078809002217652361
+ssS'major'
+p52
+(dp53
+VData Science
+p54
+F0.0035546331578029848
+sVElectrical and Electronics Engineering
+p55
+F0.010887988219290594
+sVEngineering
+p56
+F0.0042382518237842719
+sVComputer Science
+p57
+F0.0031327188455093349
+sVBiological Engineering
+p58
+F0.009101023461857061
+sVMathematics
+p59
+F0.0059317388566866849
+sVPhysics
+p60
+F0.0090786577896196912
+ssS'education'
+p61
+(dp62
+VDoctor
+p63
+F0.0037687950580500623
+ssS'responsibility'
+p64
+(dp65
+S'pattern'
+p66
+F0.0090608687736129616
+sS'processing'
+p67
+F0.016952471487931348
+sS'analysis'
+p68
+F0.0047421276367353628
+sS'optimization'
+p69
+F0.0069204458733167547
 sS'design'
-p78
-I1
+p70
+F0.010106704567601921
 sS'implement'
-p79
-I1
+p71
+F0.0073282462806906834
 sS'prototype'
-p80
-I1
+p72
+F0.010910627728545633
 ss.

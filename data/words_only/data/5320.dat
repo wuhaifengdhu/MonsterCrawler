@@ -4,98 +4,104 @@ p2
 (dp3
 S'segmentation'
 p4
-I1
-sS'model validation'
+F0.034892184483494473
+sS'statistics'
 p5
-I1
-sS'industrial engineering'
+F0.01123509463617596
+sS'model validation'
 p6
-I1
-sS'testing'
+F0.064648117535215974
+sS'industrial engineering'
 p7
-I1
-sS'data scientist'
+F0.055594974714748592
+sS'testing'
 p8
-I1
+F0.024667204998795336
 sS'analysis'
 p9
-I1
+F0.0041279364066762643
 sS'analytics'
 p10
-I1
+F0.010478764602211164
 sS'engineering'
 p11
-I1
+F0.014757286470766923
 sS'sql'
 p12
-I1
+F0.0082161910702776755
 sS'data mining'
 p13
-I1
-sS'credit risk'
+F0.025566016008218527
+sS'sas'
 p14
-I1
-sS'valuation'
+F0.016689600682860444
+sS'credit risk'
 p15
-I1
-sS'econometrics'
+F0.054000395806696661
+sS'validation'
 p16
-I1
-ssS'working-year'
+F0.03809593138644695
+sS'valuation'
 p17
-(dp18
-V(5, 10]
-p19
-I1
-ssS'major'
-p20
-(dp21
-S'industrial engineering'
-p22
-I1
-sS'data mining'
-p23
-I1
-sS'phd'
-p24
-I1
-sS'analytics'
-p25
-I1
-sS'engineering'
-p26
-I1
-sS'statistic'
-p27
-I1
+F0.10645811424061402
 sS'econometrics'
+p18
+F0.036954922406508925
+ssS'working-year'
+p19
+(dp20
+V(5, 10]
+p21
+F0.014525834476829624
+ssS'major'
+p22
+(dp23
+VStatistics
+p24
+F0.02170487674563952
+sVBusiness
+p25
+F0.013032702978001376
+sVIndustrial Engineering
+p26
+F0.048312916410772795
+sVEngineering
+p27
+F0.014757286470766923
+sVComputer Science
 p28
-I1
-ssS'education'
+F0.010907900558460214
+sVData Science
 p29
-(dp30
+F0.012376975694036899
+ssS'education'
+p30
+(dp31
 VMaster
-p31
-I1
-sVDoctor
 p32
-I1
-ssS'responsibility'
+F0.0087624178942671913
+sVDoctor
 p33
-(dp34
-S'data mining'
-p35
-I1
-sS'model'
+F0.013122671949114073
+ssS'responsibility'
+p34
+(dp35
+S'business problem'
 p36
-I1
-sS'business problem'
-p37
-I1
+F0.034315067013622226
 sS'analysis'
-p38
-I1
+p37
+F0.0041279364066762643
 sS'statistical model'
+p38
+F0.043263425368902354
+sS'data mining'
 p39
-I1
+F0.025566016008218527
+sS'model'
+p40
+F0.01864350411929688
+sS'forecast'
+p41
+F0.054718364998040288
 ss.

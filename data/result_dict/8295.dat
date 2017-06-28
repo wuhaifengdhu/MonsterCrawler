@@ -22,103 +22,98 @@ aS'insurance'
 p12
 aS'visualization'
 p13
-aS'scala'
+aS'statistics'
 p14
-aS'hadoop'
+aS'scala'
 p15
-aS'computer science'
+aS'hadoop'
 p16
-aS'semantic web'
+aS'computer science'
 p17
-aS'hypothesis testing'
+aS'semantic web'
 p18
-aS'unstructured data'
+aS'hypothesis testing'
 p19
-aS'python'
+aS'unstructured data'
 p20
-aS'processing'
+aS'python'
 p21
-aS'data scientist'
+aS'processing'
 p22
-aS'leadership'
+aS'data scientist'
 p23
-aS'sql'
+aS'c'
+aS'leadership'
 p24
-aS'data'
+aS'sql'
 p25
-aS'search'
+aS'data'
 p26
-aS'science'
+aS'search'
 p27
-aS'programming'
+aS'science'
 p28
-aS'engineering'
+aS'programming'
 p29
-aS'analysis'
+aS'engineering'
 p30
-aS'machine learning'
+aS'analysis'
 p31
+aS'machine learning'
+p32
 aS'r'
 asS'working-year'
-p32
-(lp33
+p33
+(lp34
 V(5, 10]
-p34
-asS'major'
 p35
-(lp36
-S'information'
-p37
-aS'business'
+asS'major'
+p36
+(lp37
+VEngineering
 p38
-aS'science'
+aVData Science
 p39
-aS'data science'
+aVStatistics
 p40
-aS'data science analytics'
+aVComputer Science
 p41
-aS'machine learning'
+aVBusiness
 p42
-aS'analytics'
-p43
-aS'engineering'
-p44
-aS'computer science'
-p45
-aS'statistic'
-p46
 asS'education'
-p47
-(lp48
-VMaster
-p49
+p43
+(lp44
+VBachelor
+p45
+aVMaster
+p46
 aVDoctor
-p50
+p47
 asS'responsibility'
-p51
-(lp52
+p48
+(lp49
 S'information'
-p53
+p50
 aS'product'
-p54
+p51
 aS'presentation'
-p55
+p52
 aS'processing'
-p56
+p53
 aS'analysis'
-p57
+p54
 aS'analytic'
-p58
+p55
 aS'problem statement'
-p59
+p56
 aS'understand'
-p60
+p57
 aS'solve problem'
-p61
+p58
 aS'recommendation'
-p62
+p59
 aS'model'
-p63
+p60
 aS'evaluation'
-p64
+p61
 as.

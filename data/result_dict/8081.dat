@@ -2,66 +2,69 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
-aS'healthcare industry'
+aS'management'
 p5
-aS'healthcare'
+aS'healthcare industry'
 p6
-aS'documentation'
+aS'healthcare'
 p7
-aS'data scientist'
-p8
-aS'analysis'
-p9
-aS'analytics'
-p10
-aS'business requirements'
-p11
-aS'modeling'
-p12
-aS'data'
-p13
-aS'data analytics'
-p14
-asS'working-year'
-p15
-(lp16
-V(2, 5]
-p17
-asS'major'
-p18
-(lp19
-S'analytics'
-p20
-aS'business'
-p21
-aS'data analytics'
-p22
-asS'education'
-p23
-(lp24
-VMaster
-p25
-asS'responsibility'
-p26
-(lp27
-S'product'
-p28
 aS'documentation'
-p29
+p8
+aS'data scientist'
+p9
 aS'analysis'
-p30
-aS'statistical model'
-p31
-aS'analytic'
-p32
-aS'understand'
-p33
-aS'interface'
-p34
+p10
+aS'analytics'
+p11
+aS'business requirements'
+p12
 aS'modeling'
+p13
+aS'data'
+p14
+aS'data analytics'
+p15
+asS'working-year'
+p16
+(lp17
+V(2, 5]
+p18
+asS'major'
+p19
+(lp20
+VData Science
+p21
+aVBusiness
+p22
+aVManagement Science and Engineering
+p23
+asS'education'
+p24
+(lp25
+VMaster
+p26
+asS'responsibility'
+p27
+(lp28
+S'information'
+p29
+aS'product'
+p30
+aS'documentation'
+p31
+aS'analysis'
+p32
+aS'analytic'
+p33
+aS'understand'
+p34
+aS'interface'
 p35
-aS'model'
+aS'modeling'
 p36
+aS'model'
+p37
 as.

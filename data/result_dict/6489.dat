@@ -2,74 +2,83 @@
 S'skills'
 p2
 (lp3
-S'problem solving'
+S'testing'
 p4
-aS'google analytics'
+aS'analytics'
 p5
-aS'python'
-p6
-aS'agile'
-p7
-aS'collaboration'
-p8
-aS'testing'
-p9
-aS'data scientist'
-p10
-aS'analytics'
-p11
-aS'optimization'
-p12
-aS'amazon redshift'
-p13
-aS'advertising'
-p14
-aS'sql'
-p15
-aS'performance tuning'
-p16
-aS'facebook'
-p17
-aS'etl'
-p18
-aS'data'
-p19
-aS'google adwords'
-p20
-aS'scripting'
-p21
 aS'troubleshooting'
+p6
+aS'problem solving'
+p7
+aS'linux'
+p8
+aS'git'
+p9
+aS'agile'
+p10
+aS'etl'
+p11
+aS'python'
+p12
+aS'collaboration'
+p13
+aS'data scientist'
+p14
+aS'facebook'
+p15
+aS'sql'
+p16
+aS'data'
+p17
+aS'bash'
+p18
+aS'a'
+aS'postgresql'
+p19
+aS'performance tuning'
+p20
+aS'google analytics'
+p21
+aS'optimization'
 p22
-asS'working-year'
+aS'amazon redshift'
 p23
-(lp24
-V(2, 5]
+aS'advertising'
+p24
+aS'databases'
 p25
-asS'major'
+aS'google adwords'
 p26
-(lp27
-S'information'
+aS'scripting'
+p27
+asS'working-year'
 p28
-aS'business'
-p29
-aS'analytics'
+(lp29
+V(2, 5]
 p30
-asS'education'
+asS'major'
 p31
 (lp32
-S'Bachelor'
+VData Science
 p33
-asS'responsibility'
+aVBusiness
 p34
-(lp35
-S'development'
-p36
-aS'information'
+asS'education'
+p35
+(lp36
+VBachelor
 p37
-aS'product'
+asS'responsibility'
 p38
-aS'optimization'
-p39
-aS'understand'
+(lp39
+S'development'
 p40
+aS'information'
+p41
+aS'product'
+p42
+aS'optimization'
+p43
+aS'understand'
+p44
 as.

@@ -4,158 +4,151 @@ p2
 (dp3
 S'debugging'
 p4
-I1
+F0.0080201140569043979
 sS'cancer'
 p5
-I1
+F0.042016361810664038
 sS'communication'
 p6
-I1
-sS'data science'
+F0.002888995180859227
+sS'engineering'
 p7
-I1
-sS'research'
+F0.0022351364545139681
+sS'mysql'
 p8
-I1
-sS'insurance'
+F0.004332404975706609
+sS'research'
 p9
-I1
-sS'management'
+F0.0077843096866946912
+sS'insurance'
 p10
-I1
-sS'big data'
+F0.0057539624334848318
+sS'management'
 p11
-I1
+F0.0016533738452548397
 sS'team building'
 p12
-I1
+F0.0073080853212909467
 sS'agile'
 p13
-I1
+F0.0079696710682463836
 sS'storage'
 p14
-I1
+F0.0068257327783694506
 sS'devops'
 p15
-I1
+F0.015074210539854168
 sS'strategy'
 p16
-I1
+F0.002874108451143859
 sS'access'
 p17
-I1
+F0.0084651898726147978
 sS'database design'
 p18
-I1
+F0.0067831291229716976
 sS'teamwork'
 p19
-I1
+F0.0052270258180693412
 sS'application development'
 p20
-I1
+F0.0069910518275296445
 sS'data management'
 p21
-I1
+F0.0050180987310388149
 sS'cancer research'
 p22
-I1
+F0.010066817501519054
 sS'scrum'
 p23
-I1
+F0.012398950964706194
 sS'data scientist'
 p24
-I1
+F0.0019331599729267852
 sS'automation'
 p25
-I1
+F0.0060858546085106003
 sS'mentoring'
 p26
-I1
+F0.0062775797472243693
 sS'sql'
 p27
-I1
+F0.0012444231000603048
 sS'data'
 p28
-I1
+F0.0043285214552727337
 sS'etl'
 p29
-I1
+F0.010400601000055411
+sS'c'
+F0.0022821567954344839
 sS'operating systems'
 p30
-I1
+F0.0086396461523206014
 sS'software engineering'
 p31
-I1
-sS'data architecture'
+F0.0047482901253905318
+sS'science'
 p32
-I1
-sS'data engineering'
+F0.0012829085550987087
+sS'data architecture'
 p33
-I1
-sS'architecture'
+F0.0074041488226556616
+sS'data engineering'
 p34
-I1
-sS'oracle'
+F0.0073080853212909467
+sS'architecture'
 p35
-I1
-sS'security'
+F0.0039909024136581357
+sS'oracle'
 p36
-I1
-sS'oracle database'
+F0.043111666947174998
+sS'security'
 p37
-I1
-ssS'working-year'
+F0.0039878664520434154
+sS'oracle database'
 p38
-(dp39
+F0.010244989208934538
+ssS'working-year'
+p39
+(dp40
 V(5, 10]
-p40
-I1
-ssS'major'
 p41
-(dp42
-S'management'
-p43
-I1
-sS'business'
+F0.0022000807693008371
+ssS'major'
+p42
+(dp43
+VEngineering
 p44
-I1
-sS'big data'
+F0.0022351364545139681
+sVComputer Science
 p45
-I1
-sS'communication'
+F0.0016521090261901418
+sVBusiness
 p46
-I1
-sS'data science'
+F0.0019739312904637121
+sVManagement Science and Engineering
 p47
-I1
-sS'automation'
-p48
-I1
-sS'design'
-p49
-I1
-sS'software engineering'
-p50
-I1
-sS'development practice'
-p51
-I1
+F0.0023531834643592928
 ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0016631000504925306
+sVMaster
+p51
+F0.0013271545350806147
+ssS'responsibility'
 p52
 (dp53
-S'Bachelor'
-p54
-I1
-ssS'responsibility'
-p55
-(dp56
 S'development'
-p57
-I1
+p54
+F0.0044195657022413088
 sS'design'
-p58
-I1
+p55
+F0.0026649978285008713
 sS'understand'
-p59
-I1
+p56
+F0.0038351821413216704
 ss.

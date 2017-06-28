@@ -1,5 +1,5 @@
-skills: {'management': 1, 'science': 1, 'data science': 1, 'data scientist': 1, 'machine learning': 1, 'sql': 1, 'business development': 1, 'data': 1, 'experimentation': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'management': 1, 'business': 1, 'science': 1, 'data science': 1, 'phd': 1, 'statistic': 1, 'machine learning': 1}
-education: {u'Doctor': 1}
-responsibility: {'development': 1, 'product': 1, u'insight': 1, 'statistical model': 1, 'recommendation': 1, 'model': 1}
+skills: {'management': 0.004719004516664855, 'finance': 0.013828885698873377, 'python': 0.00271485162892326, 'science': 0.0073232696686884625, 'data science': 0.006264796487815621, 'data scientist': 0.005517560756061865, 'machine learning': 0.003414154801218955, 'r': 0.0028905849302809433, 'pricing': 0.019690972237184325, 'sql': 0.00355179093142212, 'business development': 0.018118491036678036, 'data': 0.0037062964960772786, 'experimentation': 0.018755654058707702}
+working-year: {u'(5, 10]': 0.006279397195712806, u'(2, 5]': 0.006452835564745497}
+major: {u'Data Science': 0.005350463451068034, u'Economics': 0.008545685143356567, u'Computer Science': 0.004715394512251029, u'Business': 0.005633928891531845, u'Management Science and Engineering': 0.006716377804525481}
+education: {u'Doctor': 0.005672821728002438}
+responsibility: {'development': 0.006307088554240201, 'product': 0.02101551391746479, 'insight': 0.009556736229216068, 'statistical model': 0.018702418258431747, 'recommendation': 0.013605217420928496, 'model': 0.016118862936475423}

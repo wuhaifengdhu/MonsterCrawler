@@ -6,80 +6,74 @@ S'management'
 p4
 aS'finance'
 p5
-aS'science'
+aS'pl'
 p6
-aS'human resources'
-p7
-aS'data scientist'
-p8
-aS'analysis'
-p9
-aS'spss'
-p10
-aS'engineering management'
-p11
-aS'e-commerce'
-p12
-aS'engineering'
-p13
-aS'defense'
-p14
-aS'statistical software'
-p15
-aS'computer science'
-p16
-aS'intelligence'
-p17
-aS'military'
-p18
-aS'education'
-p19
-aS'data'
-p20
-aS'insurance'
-p21
-aS'information technology'
-p22
-asS'working-year'
-p23
-(lp24
-V[0]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
-aS'management'
-p29
-aS'finance'
-p30
 aS'science'
-p31
+p7
+aS'human resources'
+p8
+aS'data scientist'
+p9
+aS'analysis'
+p10
+aS'spss'
+p11
 aS'engineering management'
-p32
+p12
+aS'e-commerce'
+p13
 aS'engineering'
-p33
-aS'computer science engineering'
-p34
+p14
+aS'defense'
+p15
+aS'statistical software'
+p16
 aS'computer science'
-p35
-aS'statistic'
-p36
+p17
+aS'intelligence'
+p18
+aS'sas'
+p19
+aS'military'
+p20
+aS'education'
+p21
+aS'data'
+p22
+aS'insurance'
+p23
 aS'information technology'
-p37
+p24
+asS'working-year'
+p25
+(lp26
+S'[0]'
+p27
+asS'major'
+p28
+(lp29
+VEngineering
+p30
+aVInformation Science
+p31
+aVEconomics
+p32
+aVComputer Science
+p33
+aVManagement Science and Engineering
+p34
 asS'education'
+p35
+(lp36
+VBachelor
+p37
+asS'responsibility'
 p38
 (lp39
-VBachelor
-p40
-asS'responsibility'
-p41
-(lp42
 S'development'
-p43
+p40
 aS'information'
-p44
+p41
 aS'analysis'
-p45
+p42
 as.

@@ -1,5 +1,5 @@
-skills: {'python': 1, 'science': 1, 'data science': 1, 'strategy': 1, 'analytics': 1, 'customer analytics': 1, 'r': 1, 'marketing': 1, 'advanced analytics': 1, 'organization': 1, 'retail': 1, 'data analytics': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'business': 1, 'marketing': 1, 'data science': 1, 'data analyst': 1, 'advanced analytics': 1, 'analytics': 1, 'science': 1, 'analytics data science': 1, 'data analytics': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'analytic': 1, 'product': 1, 'analytical method': 1}
+skills: {'forecasting': 0.01383126889542603, 'python': 0.0024587335507229528, 'marketing': 0.02696058286524833, 'data science': 0.005673777951229241, 'strategy': 0.014858598407800329, 'analytics': 0.036922816782319526, 'customer analytics': 0.025703655615386747, 'r': 0.0026178882387450056, 'science': 0.0033161975858211905, 'sas': 0.006534136116402908, 'organization': 0.024950714706816243, 'advanced analytics': 0.0138811818600853, 'retail': 0.016254535303851517, 'data': 0.002237763922159866, 'data analytics': 0.009633597554178287, 'simulation': 0.012664319753180997}
+working-year: {u'(5, 10]': 0.005687001233853108, u'(2, 5]': 0.005844077492599696}
+major: {u'Data Science': 0.004845702748137087, u'Economics': 0.0077394884317191544, u'Business': 0.005102426165915633}
+education: {'Bachelor': 0.004298956734292013}
+responsibility: {'development': 0.011424160400133195, 'forecasting': 0.01383126889542603, 'product': 0.006344306088291257, 'simulation': 0.012664319753180997, 'analytic': 0.010649650812734163, 'analytical method': 0.02531034790293833}

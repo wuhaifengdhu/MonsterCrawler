@@ -4,302 +4,265 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.0051957115216697243
 sS'soa'
 p5
-I1
+F0.0051694471735623491
 sS'consulting'
 p6
-I1
+F0.0026803258536311635
 sS'pmp'
 p7
-I1
+F0.0062096870075221368
 sS'nosql'
 p8
-I1
+F0.0032465561853695403
 sS'communication'
 p9
-I1
+F0.0018780182195858321
 sS'data science'
 p10
-I1
+F0.0014268575630612091
 sS'tableau'
 p11
-I1
+F0.004766372685940194
 sS'information technology'
 p12
-I1
-sS'business intelligence'
+F0.0036970926118170171
+sS'analytics'
 p13
-I1
-sS'data governance'
+F0.0030951511102616605
+sS'business intelligence'
 p14
-I1
-sS'data warehousing'
+F0.0024235389190681153
+sS'data governance'
 p15
-I1
-sS'education'
+F0.0051868919664938319
+sS'data warehousing'
 p16
-I1
-sS'financial reporting'
+F0.0036079362534807754
+sS'education'
 p17
-I1
-sS'insurance'
+F0.022405267791600739
+sS'financial reporting'
 p18
-I1
-sS'it strategy'
+F0.0068945185948995329
+sS'insurance'
 p19
-I1
-sS'publishing'
-p20
-I1
-sS'big data'
-p21
-I1
-sS'agile'
-p22
-I1
-sS'integration'
-p23
-I1
-sS'governance'
-p24
-I1
-sS'application architecture'
-p25
-I1
-sS'strategy'
-p26
-I1
-sS'coaching'
-p27
-I1
-sS'teamwork'
-p28
-I1
-sS'computer science'
-p29
-I1
-sS'intelligence'
-p30
-I1
-sS'policy'
-p31
-I1
-sS'master data management'
-p32
-I1
-sS'customer service'
-p33
-I1
-sS'informatica'
-p34
-I1
-sS'data management'
-p35
-I1
-sS'systems engineering'
-p36
-I1
-sS'data modeling'
-p37
-I1
-sS'finance'
-p38
-I1
-sS'marketing'
-p39
-I1
-sS'collaboration'
-p40
-I1
-sS'alteryx'
-p41
-I1
-sS'salesforce.com'
-p42
-I1
-sS'leadership'
-p43
-I1
-sS'mentoring'
-p44
-I1
-sS'sql'
-p45
-I1
-sS'data'
-p46
-I1
-sS'project management'
-p47
-I1
-sS'organization'
-p48
-I1
-sS'data visualization'
-p49
-I1
-sS'science'
-p50
-I1
-sS'cloud computing'
-p51
-I1
-sS'solution architecture'
-p52
-I1
-sS'business strategy'
-p53
-I1
-sS'business objects'
-p54
-I1
-sS'data architecture'
-p55
-I1
-sS'data integration'
-p56
-I1
-sS'architecture'
-p57
-I1
-sS'oracle'
-p58
-I1
-sS'hadoop'
-p59
-I1
-sS'data analytics'
-p60
-I1
-ssS'working-year'
-p61
-(dp62
-V(5, 10]
-p63
-I1
-ssS'major'
-p64
-(dp65
-S'business intelligence analytics'
-p66
-I1
-sS'computing'
-p67
-I1
-sS'communication'
-p68
-I1
-sS'data science'
-p69
-I1
-sS'information technology'
-p70
-I1
-sS'design'
-p71
-I1
-sS'finance'
-p72
-I1
-sS'information'
-p73
-I1
-sS'big data'
-p74
-I1
-sS'business leadership'
-p75
-I1
-sS'computer science'
-p76
-I1
-sS'systems engineering'
-p77
-I1
+F0.0037404168606757866
 sS'it strategy'
-p78
-I1
-sS'business'
-p79
-I1
+p20
+F0.0053874546795223532
+sS'management'
+p21
+F0.0010747910642937748
+sS'publishing'
+p22
+F0.0060003686099919015
+sS'big data'
+p23
+F0.0015097569707742202
+sS'agile'
+p24
+F0.0025903794456696434
+sS'integration'
+p25
+F0.005471513931659816
+sS'governance'
+p26
+F0.0042758197163651236
+sS'strategy'
+p27
+F0.0093417048115470632
+sS'coaching'
+p28
+F0.0045809403518792396
+sS'teamwork'
+p29
+F0.0033978768070011853
+sS'computer science'
+p30
+F0.0016678330524166321
+sS'intelligence'
+p31
+F0.0074498629176122377
+sS'policy'
+p32
+F0.0064760574805237245
+sS'master data management'
+p33
+F0.0059491564018770947
+sS'customer service'
+p34
+F0.004067045957992458
+sS'informatica'
+p35
+F0.01700359725805331
+sS'data management'
+p36
+F0.0032620618085519226
+sS'systems engineering'
+p37
+F0.0050939728501784879
+sS'data modeling'
+p38
+F0.0030986972061901202
+sS'finance'
+p39
+F0.0031496394474302357
 sS'marketing'
-p80
-I1
-sS'information system'
-p81
-I1
-sS'ee computer science'
-p82
-I1
+p40
+F0.0022600409519306628
+sS'collaboration'
+p41
+F0.0030340088019851176
+sS'alteryx'
+p42
+F0.0058225048863045914
+sS'salesforce.com'
+p43
+F0.0058684292418875964
+sS'leadership'
+p44
+F0.0078406103022719918
+sS'mentoring'
+p45
+F0.0040807991713866605
+sS'architectures'
+p46
+F0.0056945237229131225
+sS'sql'
+p47
+F0.0016178976484769801
+sS'modeling'
+p48
+F0.0009633993938571204
+sS'data'
+p49
+F0.0022510365432877421
 sS'project management'
-p83
-I1
-sS'information systems'
-p84
-I1
-sS'data analytics business'
-p85
-I1
+p50
+F0.0022555792684751438
+sS'a'
+F0.0044366355720380233
+sS'organization'
+p51
+F0.0062746755846323169
+sS'data visualization'
+p52
+F0.0023330173494419942
 sS'science'
-p86
-I1
+p53
+F0.00083396665266203141
+sS'cloud computing'
+p54
+F0.0038405654029867692
+sS'solution architecture'
+p55
+F0.0053979060866489606
+sS'business strategy'
+p56
+F0.0036056172245782173
+sS'engineering'
+p57
+F0.0014529712658050472
+sS'business objects'
+p58
+F0.0051021256210131462
+sS'data architecture'
+p59
+F0.0048131358894606202
+sS'data integration'
+p60
+F0.00459153162566024
+sS'architecture'
+p61
+F0.012971616386030001
+sS'oracle'
+p62
+F0.012455618024015763
+sS'hadoop'
+p63
+F0.0015240883765119395
 sS'data analytics'
-p87
-I1
-sS'history'
-p88
-I1
+p64
+F0.0024226840824268059
+ssS'working-year'
+p65
+(dp66
+V(5, 10]
+p67
+F0.0014301829911943758
+ssS'major'
+p68
+(dp69
+VBusiness
+p70
+F0.0012831724165766479
+sVData Science
+p71
+F0.0012186108927699439
+sVEconomics
+p72
+F0.0019463482177039869
+sVEngineering
+p73
+F0.0014529712658050472
+sVInformation Science
+p74
+F0.0030043359294829111
+sVComputer Science
+p75
+F0.0010739688568827969
+sVManagement Science and Engineering
+p76
+F0.0015297088238065155
 ssS'education'
-p89
-(dp90
+p77
+(dp78
 VBachelor
-p91
-I1
+p79
+F0.0010811136745787744
 sVMaster
-p92
-I1
+p80
+F0.00086272916396699516
 ssS'responsibility'
-p93
-(dp94
+p81
+(dp82
 S'development'
-p95
-I1
+p83
+F0.0028729798396538997
 sS'information'
-p96
-I1
+p84
+F0.0049363174360476676
 sS'product'
-p97
-I1
+p85
+F0.0047864515683905574
 sS'formulate'
-p98
-I1
-sS'business problem'
-p99
-I1
-sVproduct operation
-p100
-I1
+p86
+F0.005346546254642686
 sS'communicate'
-p101
-I1
+p87
+F0.0023798847951145815
 sS'improvement'
-p102
-I1
+p88
+F0.0031864845745422396
 sS'analytic'
-p103
-I1
+p89
+F0.0026782040003554483
 sS'design'
-p104
-I1
+p90
+F0.0017324066548261895
+sS'modeling'
+p91
+F0.0009633993938571204
 sS'implement'
-p105
-I1
+p92
+F0.0050245864178401134
 sS'presentation'
-p106
-I1
+p93
+F0.0029221285199402215
 sS'model'
-p107
-I1
+p94
+F0.0018356000497053867
 ss.

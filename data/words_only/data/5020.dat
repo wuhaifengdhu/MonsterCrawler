@@ -4,208 +4,205 @@ p2
 (dp3
 S'consulting'
 p4
-I1
-sS'communication'
-p5
-I1
-sS'management consulting'
-p6
-I1
-sS'testing'
-p7
-I1
-sS'software design'
-p8
-I1
-sS'engineering'
-p9
-I1
-sS'visual studio'
-p10
-I1
-sS'api development'
-p11
-I1
-sS'angularjs'
-p12
-I1
-sS'mvc'
-p13
-I1
-sS'education'
-p14
-I1
-sS'microsoft sql server'
-p15
-I1
-sS'management'
-p16
-I1
-sS'asp.net'
-p17
-I1
-sS'agile'
-p18
-I1
-sS'strategy'
-p19
-I1
-sS'asp.net mvc'
-p20
-I1
-sS'html'
-p21
-I1
-sS'computer science'
-p22
-I1
-sS'uml'
-p23
-I1
-sS'web development'
-p24
-I1
-sS'css3'
-p25
-I1
-sS'javascript'
-p26
-I1
-sS'apis'
-p27
-I1
-sS'mongodb'
-p28
-I1
-sS'scrum'
-p29
-I1
-sS'data scientist'
-p30
-I1
-sS'search'
-p31
-I1
-sS'ajax'
-p32
-I1
-sS'data'
-p33
-I1
-sS'information technology'
-p34
-I1
-sS'software development'
-p35
-I1
-sS'c'
-I1
-sS'design patterns'
-p36
-I1
-sS'software engineering'
-p37
-I1
-sS'sql server'
-p38
-I1
-sS'amazon ec2'
-p39
-I1
+F0.01762491961475094
 sS'documentation'
-p40
-I1
-sS'optimization'
-p41
-I1
-sS'oracle'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(5, 10]
-p45
-I1
-sV(2, 5]
-p46
-I1
-ssS'major'
-p47
-(dp48
-S'information technology management'
-p49
-I1
-sS'information'
-p50
-I1
-sS'management'
-p51
-I1
-sS'software engineering'
-p52
-I1
-sS'business'
-p53
-I1
+p5
+F0.00452330882830582
+sS'classification'
+p6
+F0.0049225614687333523
 sS'communication'
-p54
-I1
-sS'technology management'
-p55
-I1
+p7
+F0.0024698429939326934
+sS'management consulting'
+p8
+F0.0059834882514155519
+sS'testing'
+p9
+F0.0031940374647426101
+sS'rest'
+p10
+F0.0055809617199053235
+sS'software design'
+p11
+F0.006271972951922355
 sS'engineering'
-p56
-I1
-sS'design'
-p57
-I1
-sS'information technology'
-p58
-I1
-sS'web development'
-p59
-I1
+p12
+F0.0019108498862303504
+sS'visual studio'
+p13
+F0.0069045144897866518
+sS'api development'
+p14
+F0.0091678900307138635
+sS'angularjs'
+p15
+F0.0070580853963717579
+sS'mvc'
+p16
+F0.0072435143943573406
+sS'education'
+p17
+F0.0032739886892562704
+sS'microsoft sql server'
+p18
+F0.0048987961172949138
+sS'management'
+p19
+F0.0042404783176270772
+sS'asp.net'
+p20
+F0.0073211447253813261
+sS'agile'
+p21
+F0.0034066924691099989
+sS'strategy'
+p22
+F0.0049142322347171139
+sS'asp.net mvc'
+p23
+F0.0096517499066925364
+sS'html'
+p24
+F0.0039938918771430486
 sS'computer science'
+p25
+F0.0021934216274371618
+sS'uml'
+p26
+F0.0069045144897866518
+sS'css'
+p27
+F0.0047945407079297503
+sS'css3'
+p28
+F0.0082800704020652843
+sS'asp'
+p29
+F0.0071409391630915331
+sS'apis'
+p30
+F0.0057401175758762081
+sS'mongodb'
+p31
+F0.0046132539217182142
+sS'collaboration'
+p32
+F0.0039901239002705993
+sS'scrum'
+p33
+F0.0053000196011380616
+sS'data scientist'
+p34
+F0.0016526859050918538
+sS'search'
+p35
+F0.0048392976250386391
+sS'ajax'
+p36
+F0.0074714259541910633
+sS'data'
+p37
+F0.00018502572211306228
+sS'information technology'
+p38
+F0.0048621670386298681
+sS'software development'
+p39
+F0.0033076390297554956
+sS'c'
+F0.0019510482432107603
+sS'design patterns'
+p40
+F0.0076183627205909299
+sS'software engineering'
+p41
+F0.0040593806376193631
+sS'sql server'
+p42
+F0.0043647870035547921
+sS'amazon ec2'
+p43
+F0.0073533118084602635
+sS'science'
+p44
+F0.0010967767366522503
+sS'.net'
+p45
+F0.0058790122287432581
+sS'optimization'
+p46
+F0.0031201386230710489
+sS'web development'
+p47
+F0.0057058299847988422
+sS'javascript'
+p48
+F0.0034593519719531107
+sS'oracle'
+p49
+F0.0040951973456494883
+ssS'working-year'
+p50
+(dp51
+V(5, 10]
+p52
+F0.0018808802832712306
+sV(2, 5]
+p53
+F0.0019328306215774345
+ssS'major'
+p54
+(dp55
+VEngineering
+p56
+F0.0019108498862303504
+sVInformation Science
+p57
+F0.0039511001381499124
+sVComputer Science
+p58
+F0.0014124114607678593
+sVBusiness
+p59
+F0.0016875418832669488
+sVManagement Science and Engineering
 p60
-I1
+F0.0020117699508095045
 ssS'education'
 p61
 (dp62
 VBachelor
 p63
-I1
+F0.0014218078434787937
 ssS'responsibility'
 p64
 (dp65
 S'development'
 p66
-I1
+F0.011335048384531532
 sS'information'
 p67
-I1
+F0.0021639706700926592
 sS'business problem'
 p68
-I1
-sS'pattern'
-p69
-I1
+F0.0044432926086281511
 sS'documentation'
-p70
-I1
+p69
+F0.00452330882830582
 sS'communicate'
-p71
-I1
+p70
+F0.0031298640909229207
 sS'optimization'
-p72
-I1
+p71
+F0.0031201386230710489
 sS'design'
-p73
-I1
+p72
+F0.0045566889548158433
 sS'interface'
-p74
-I1
+p73
+F0.0049259862691888902
 sS'transformation'
-p75
-I1
+p74
+F0.0049055493530933952
 ss.

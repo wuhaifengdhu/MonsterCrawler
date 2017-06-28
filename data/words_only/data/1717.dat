@@ -4,197 +4,184 @@ p2
 (dp3
 S'classification'
 p4
-I1
-sS'reinforcement learning'
+F0.010624114146323497
+sS'sql'
 p5
-I1
-sS'causal inference'
+F0.0022961072687981382
+sS'reinforcement learning'
 p6
-I1
-sS'analytics'
+F0.01745277149285631
+sS'causal inference'
 p7
-I1
-sS'engineering'
+F0.018817967582447498
+sS'cluster'
 p8
-I1
+F0.011827107079190156
 sS'data-driven decision making'
 p9
-I1
+F0.018421393278470529
 sS'machine learning'
 p10
-I1
+F0.0022071303765455871
 sS'open source'
 p11
-I1
-sS'r programming'
-p12
-I1
+F0.010767406531710755
 sS'hadoop'
-p13
-I1
+p12
+F0.0086518956323203017
 sS'access'
+p13
+F0.0078096364481362113
+sS'mathematics'
 p14
-I1
-sS'mathematics'
+F0.0061545228352720728
+sS'web development'
 p15
-I1
-sS'web development'
+F0.012314602761804908
+sS'data analysis'
 p16
-I1
-sS'data analysis'
-p17
-I1
+F0.0049958317002210947
 sS'data modeling'
-p18
-I1
+p17
+F0.0087952920700951898
 sS'python'
-p19
-I1
+p18
+F0.0017550555984958451
 sS'data scientist'
+p19
+F0.0035669079635147413
+sS'data wrangling'
 p20
-I1
-sS'business process'
+F0.033677795948029908
+sS'modeling'
 p21
-I1
-sS'data wrangling'
-p22
-I1
-sS'modeling'
-p23
-I1
+F0.0027344972694328365
 sS'data'
-p24
-I1
+p22
+F0.002795321263034715
 sS'github'
-p25
-I1
+p23
+F0.012554747559223322
 sS'data visualization'
-p26
-I1
+p24
+F0.0066219987393252551
 sS'open source software'
-p27
-I1
-sS'cluster'
-p28
-I1
-sS'programming'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'simulation'
-p31
-I1
-sS'data engineering'
-p32
-I1
-sS'exploratory data analysis'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(0, 2]
-p36
-I1
-sV(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'business'
-p40
-I1
-sS'reinforcement learning'
-p41
-I1
-sS'machine learning'
-p42
-I1
+p25
+F0.019676187812591735
 sS'analytics'
-p43
-I1
-sS'engineering'
-p44
-I1
-sS'design'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'mathematics'
-p47
-I1
-sS'web development'
-p48
-I1
-ssS'education'
-p49
-(dp50
-VBachelor
-p51
-I1
-sVMaster
-p52
-I1
-ssS'responsibility'
-p53
-(dp54
-S'development'
-p55
-I1
-sS'product'
-p56
-I1
-sS'data analysis'
-p57
-I1
-sVtest hypothesis
-p58
-I1
-sS'formulate'
-p59
-I1
-sS'business problem'
-p60
-I1
-sS'pattern'
-p61
-I1
-sVinsight
-p62
-I1
+p26
+F0.0087852268887224916
+sS'programming'
+p27
+F0.0074229982143762686
 sS'analysis'
-p63
-I1
+p28
+F0.0023071967794890905
 sS'simulation'
-p64
-I1
+p29
+F0.0090398511369507457
+sS'data engineering'
+p30
+F0.013484278639957707
+sS'exploratory data analysis'
+p31
+F0.015035822320299144
+sS'r'
+F0.0018686609650301049
+ssS'working-year'
+p32
+(dp33
+V(0, 2]
+p34
+F0.0076686200811116271
+sV(2, 5]
+p35
+F0.0041715300620576955
+ssS'major'
+p36
+(dp37
+VMathematics
+p38
+F0.0057719613790654942
+sVData Science
+p39
+F0.0034588854633167089
+sVEngineering
+p40
+F0.0075837674301910017
+sVBusiness
+p41
+F0.0036421358490710916
+sVComputer Science
+p42
+F0.0030483358463036961
+ssS'education'
+p43
+(dp44
+VBachelor
+p45
+F0.0030686155813801574
+sVMaster
+p46
+F0.0024487565159063193
+ssS'responsibility'
+p47
+(dp48
+S'development'
+p49
+F0.0040773097724381095
+sS'product'
+p50
+F0.013585786774926735
+sS'data analysis'
+p51
+F0.0049958317002210947
+sVtest hypothesis
+p52
+F0.016240649258219358
+sS'formulate'
+p53
+F0.01517555048034944
+sS'pattern'
+p54
+F0.017633609936526233
+sS'insight'
+p55
+F0.018534276323328134
+sS'analysis'
+p56
+F0.0023071967794890905
+sS'simulation'
+p57
+F0.0090398511369507457
 sS'statistical method'
-p65
-I1
+p58
+F0.01183767821229465
 sS'design'
-p66
-I1
-sS'design experiment'
-p67
-I1
+p59
+F0.0049172350505672646
+sS'decision making'
+p60
+F0.0109985961277088
 sS'data wrangling'
-p68
-I1
+p61
+F0.033677795948029908
 sS'modeling'
-p69
-I1
+p62
+F0.0027344972694328365
 sS'implement'
-p70
-I1
+p63
+F0.0071308524414801597
+sS'develop ... model'
+p64
+F0.010437417599919655
+sS'design ... experiment'
+p65
+F0.015118961485845638
 sS'model'
-p71
-I1
+p66
+F0.0052101375148203392
 sS'identify opportunity'
-p72
-I1
+p67
+F0.013946227409883466
 ss.

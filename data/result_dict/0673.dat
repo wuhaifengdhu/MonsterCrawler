@@ -2,124 +2,123 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'insurance'
 p4
-aS'communication'
+aS'consulting'
 p5
-aS'data science'
-p6
-aS'testing'
-p7
-aS'graphic design'
-p8
-aS'information design'
-p9
-aS'd3.js'
-p10
-aS'insurance'
-p11
-aS'visualization'
-p12
-aS'quantitative finance'
-p13
-aS'user experience'
-p14
-aS'tableau'
-p15
-aS'writing'
-p16
-aS'access'
-p17
-aS'finance'
-p18
-aS'government'
-p19
-aS'python'
-p20
-aS'data scientist'
-p21
-aS'processing'
-p22
-aS'spotfire'
-p23
-aS'information visualization'
-p24
-aS'data'
-p25
-aS'information technology'
-p26
-aS'data visualization'
-p27
-aS'science'
-p28
-aS'analysis'
-p29
-aS'leadership'
-p30
-aS'interaction design'
-p31
-aS'research'
-p32
-asS'working-year'
-p33
-(lp34
-V(5, 10]
-p35
-aV(2, 5]
-p36
-asS'major'
-p37
-(lp38
-S'information'
-p39
-aS'quantitative finance'
-p40
-aS'finance'
-p41
-aS'business'
-p42
-aS'science'
-p43
-aS'data science'
-p44
-aS'data science analytics'
-p45
-aS'design'
-p46
-aS'statistic'
-p47
 aS'communication'
-p48
-aS'information technology'
-p49
-asS'education'
-p50
-(lp51
-S'Bachelor'
-p52
-asS'responsibility'
-p53
-(lp54
-S'development'
-p55
-aS'information'
-p56
-aS'product'
-p57
+p6
+aS'data science'
+p7
+aS'testing'
+p8
+aS'graphic design'
+p9
+aS'analytics'
+p10
+aS'ggplot2'
+p11
+aS'information design'
+p12
+aS'd3.js'
+p13
+aS'd3'
+p14
+aS'visualization'
+p15
+aS'quantitative finance'
+p16
+aS'user experience'
+p17
+aS'tableau'
+p18
+aS'writing'
+p19
+aS'access'
+p20
+aS'leadership'
+p21
+aS'finance'
+p22
+aS'government'
+p23
+aS'python'
+p24
+aS'data scientist'
+p25
 aS'processing'
-p58
-aS'communicate'
-p59
+p26
+aS'spotfire'
+p27
+aS'information visualization'
+p28
+aS'statistics'
+p29
+aS'data'
+p30
+aS'information technology'
+p31
+aS'data visualization'
+p32
+aS'science'
+p33
 aS'analysis'
-p60
+p34
+aS'r'
+aS'interaction design'
+p35
+aS'organization'
+p36
+aS'research'
+p37
+asS'working-year'
+p38
+(lp39
+V(5, 10]
+p40
+aV(2, 5]
+p41
+asS'major'
+p42
+(lp43
+VData Science
+p44
+aVEconomics
+p45
+aVStatistics
+p46
+aVInformation Science
+p47
+aVBusiness
+p48
+asS'education'
+p49
+(lp50
+S'Bachelor'
+p51
+asS'responsibility'
+p52
+(lp53
+S'development'
+p54
+aS'information'
+p55
+aS'product'
+p56
+aS'processing'
+p57
+aS'communicate'
+p58
+aS'analysis'
+p59
 aS'design'
-p61
+p60
 aS'understand'
-p62
+p61
 aS'implement'
-p63
+p62
 aS'prototype'
-p64
+p63
 aS'presentation'
-p65
+p64
 as.

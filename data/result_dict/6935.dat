@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'svm'
+S'a'
+aS'svm'
 p4
 aS'neural networks'
 p5
@@ -31,26 +32,20 @@ p16
 asS'major'
 p17
 (lp18
-S'science'
+VData Science
 p19
-aS'information'
+aVComputer Science
 p20
-aS'data science'
-p21
-aS'big data'
-p22
-aS'machine learning'
-p23
 asS'education'
+p21
+(lp22
+S'Bachelor'
+p23
+asS'responsibility'
 p24
 (lp25
-S'Bachelor'
+S'information'
 p26
-asS'responsibility'
+aS'large data set'
 p27
-(lp28
-S'large data set'
-p29
-aS'information'
-p30
 as.

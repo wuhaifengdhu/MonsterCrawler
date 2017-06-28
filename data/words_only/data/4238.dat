@@ -4,270 +4,245 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
+F0.0071365662183166664
 sS'communication'
 p5
-I1
+F0.0029155973464288333
 sS'energy'
 p6
-I1
-sS'integration'
-p7
-I1
-sS'analytics'
-p8
-I1
-sS'engineering'
-p9
-I1
-sS'defense'
-p10
-I1
-sS'business objects'
-p11
-I1
-sS'data mining'
-p12
-I1
-sS'ic'
-p13
-I1
-sS'education'
-p14
-I1
-sS'visualization'
-p15
-I1
+F0.0056823117975139678
 sS'sap'
-p16
-I1
-sS'tableau'
-p17
-I1
-sS'strategy'
-p18
-I1
-sS'supply chain management'
-p19
-I1
-sS'application development'
-p20
-I1
-sS'innovation'
-p21
-I1
-sS'mathematics'
-p22
-I1
-sS'electronics'
-p23
-I1
-sS'data management'
-p24
-I1
-sS'architecture'
-p25
-I1
-sS'segmentation'
-p26
-I1
-sS'data analysis'
-p27
-I1
-sS'data modeling'
-p28
-I1
-sS'finance'
-p29
-I1
-sS'government'
-p30
-I1
-sS'python'
-p31
-I1
-sS'automation'
-p32
-I1
-sS'business analytics'
-p33
-I1
-sS'business process'
-p34
-I1
-sS'leadership'
-p35
-I1
-sS'sql'
-p36
-I1
-sS'modeling'
-p37
-I1
-sS'data quality'
-p38
-I1
-sS'data'
-p39
-I1
-sS'c'
-I1
-sS'data collection'
-p40
-I1
-sS'erp'
-p41
-I1
-sS'database management'
-p42
-I1
-sS'science'
-p43
-I1
-sS'solution architecture'
-p44
-I1
-sS'programming'
-p45
-I1
-sS'analysis'
-p46
-I1
-sS'r'
-I1
-sS'data analytics'
-p47
-I1
-sS'etl'
-p48
-I1
-ssS'working-year'
-p49
-(dp50
-V(5, 10]
-p51
-I1
-sV(10, 15]
-p52
-I1
-ssS'major'
-p53
-(dp54
-S'engineering science'
-p55
-I1
-sS'information'
-p56
-I1
-sS'information systems'
-p57
-I1
-sS'finance'
-p58
-I1
-sS'business'
-p59
-I1
-sS'communication'
-p60
-I1
-sS'operations supply chain'
-p61
-I1
-sS'history'
-p62
-I1
-sS'automation'
-p63
-I1
-sS'supply chain management'
-p64
-I1
+p7
+F0.0073943645281378612
+sS'integration'
+p8
+F0.004247224902752509
 sS'analytics'
-p65
-I1
+p9
+F0.0080086322466254769
 sS'engineering'
-p66
-I1
-sS'information system'
-p67
-I1
-sS'design'
-p68
-I1
+p10
+F0.0090228712859937738
+sS'defense'
+p11
+F0.013007875336752258
+sS'business objects'
+p12
+F0.0079209795552745536
 sS'data mining'
-p69
-I1
+p13
+F0.0039078808999671042
+sS'ic'
+p14
+F0.0078220782087203202
+sS'education'
+p15
+F0.0038648743090483779
+sS'visualization'
+p16
+F0.0034517408322909198
+sS'management'
+p17
+F0.0016685982821356394
+sS'tableau'
+p18
+F0.0036998638805226369
+sS'strategy'
+p19
+F0.0058011470763419332
+sS'supply chain management'
+p20
+F0.008719200905104401
+sS'application development'
+p21
+F0.0070554261537499911
+sS'innovation'
+p22
+F0.0071301092896306579
 sS'mathematics'
-p70
-I1
+p23
+F0.0067325719413473513
 sS'electronics'
-p71
-I1
-sS'phd'
-p72
-I1
-sS'business analytics'
-p73
-I1
-sS'data analytics'
-p74
-I1
-sS'science'
-p75
-I1
-ssS'education'
-p76
-(dp77
-VDoctor
-p78
-I1
-ssS'responsibility'
-p79
-(dp80
-S'development'
-p81
-I1
-sS'information'
-p82
-I1
-sS'product'
-p83
-I1
+p24
+F0.0080800651768369904
+sS'data management'
+p25
+F0.0050643059016745318
+sS'architecture'
+p26
+F0.0040276510546678789
+sS'segmentation'
+p27
+F0.0053334278308103883
 sS'data analysis'
-p84
-I1
-sS'business problem'
-p85
-I1
-sVinsight
-p86
-I1
-sS'communicate'
-p87
-I1
-sS'analysis'
-p88
-I1
-sS'improvement'
-p89
-I1
-sS'analytic'
-p90
-I1
-sS'data collection'
-p91
-I1
-sS'design'
-p92
-I1
-sS'data mining'
-p93
-I1
-sS'understand'
-p94
-I1
+p28
+F0.0027325267310601572
+sS'data modeling'
+p29
+F0.0048106846129249937
+sS'finance'
+p30
+F0.004889771738828156
+sS'government'
+p31
+F0.0048013250748231403
+sS'python'
+p32
+F0.00095994753729883244
+sS'automation'
+p33
+F0.012283787570769096
+sS'business analytics'
+p34
+F0.0055940777047129167
+sS'business process'
+p35
+F0.0056266720617306745
+sS'leadership'
+p36
+F0.0060862195992774292
+sS'sql'
+p37
+F0.0012558818763039542
 sS'modeling'
-p95
-I1
+p38
+F0.0014956642523417172
+sS'data quality'
+p39
+F0.0065098306872674472
+sS'data'
+p40
+F0.0013105136781709713
+sS'a'
+F0.0034439077230460895
+sS'c'
+F0.0023031711305673986
+sS'data collection'
+p41
+F0.013353037005382113
+sS'erp'
+p42
+F0.0085153988062692133
+sS'database management'
+p43
+F0.0089263409579226453
+sS'science'
+p44
+F0.0038841651281441569
+sS'solution architecture'
+p45
+F0.0083801746428086073
+sS'programming'
+p46
+F0.002030046472992405
+sS'analysis'
+p47
+F0.001261947409775801
+sS'r'
+F0.0010220852792153614
+sS'data analytics'
+p48
+F0.0037611835754802893
+sS'etl'
+p49
+F0.005248185403342878
+ssS'working-year'
+p50
+(dp51
+V(5, 10]
+p52
+F0.0022203393399205505
+sV(10, 15]
+p53
+F0.0036048367517465176
+ssS'major'
+p54
+(dp55
+VElectrical and Electronics Engineering
+p56
+F0.0057948961240791557
+sVBusiness
+p57
+F0.0019921074533593265
+sVData Science
+p58
+F0.0018918765793831725
+sVEconomics
+p59
+F0.0030216787247227643
+sVEngineering
+p60
+F0.0090228712859937738
+sVInformation Science
+p61
+F0.0046641900341696024
+sVComputer Science
+p62
+F0.001667321816486552
+sVMathematics
+p63
+F0.003157039649323116
+sVManagement Science and Engineering
+p64
+F0.0023748518203847006
+ssS'education'
+p65
+(dp66
+VBachelor
+p67
+F0.0016784140472742297
+sVMaster
+p68
+F0.0013393751109100863
+sVDoctor
+p69
+F0.0020058596165312488
+ssS'responsibility'
+p70
+(dp71
+S'development'
+p72
+F0.0022301307595103473
+sS'information'
+p73
+F0.0076635646382839477
+sS'product'
+p74
+F0.0024769666495722776
+sS'data analysis'
+p75
+F0.0027325267310601572
+sS'business problem'
+p76
+F0.0052452128216033973
+sS'insight'
+p77
+F0.0033791774512145216
+sS'communicate'
+p78
+F0.0036947382730784387
+sS'analysis'
+p79
+F0.001261947409775801
+sS'improvement'
+p80
+F0.0049469732897589463
+sS'analytic'
+p81
+F0.012473624156351617
+sS'data collection'
+p82
+F0.013353037005382113
+sS'design'
+p83
+F0.0080686122100468369
+sS'data mining'
+p84
+F0.0039078808999671042
+sS'understand'
+p85
+F0.0038704968940041903
+sS'modeling'
+p86
+F0.0014956642523417172
 ss.

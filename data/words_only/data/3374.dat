@@ -4,214 +4,195 @@ p2
 (dp3
 S'data science'
 p4
-I1
-sS'testing'
-p5
-I1
+F0.0023042929610356303
 sS'analytics'
-p6
-I1
+p5
+F0.018327800923024509
 sS'business intelligence'
-p7
-I1
+p6
+F0.0039138760704490825
 sS'regression'
-p8
-I1
+p7
+F0.0045520455760187746
 sS'instrumentation'
+p8
+F0.010357501078531044
+sS'statistics'
 p9
-I1
+F0.0017864230934915796
 sS'open source'
 p10
-I1
+F0.0061262830266630161
 sS'big data'
 p11
-I1
+F0.0024381707401583668
 sS'e-commerce'
 p12
-I1
+F0.0072192468172881758
 sS'deep learning'
 p13
-I1
-sS'random forest'
+F0.0059665549480717442
+sS'b testing'
 p14
-I1
-sS'access'
+F0.0076428420773136932
+sS'random forest'
 p15
-I1
-sS'computer science'
+F0.0087004296835964424
+sS'access'
 p16
-I1
-sS'data integration'
+F0.004443413841180948
+sS'computer science'
 p17
-I1
-sS'policy'
+F0.0026934545271785834
+sS'data integration'
 p18
-I1
-sS'architecture'
+F0.0074150596943133758
+sS'policy'
 p19
-I1
-sS'python'
+F0.0052292303219171445
+sS'architecture'
 p20
-I1
-sS'data scientist'
+F0.0041896829936487702
+sS'python'
 p21
-I1
-sS'training'
+F0.00099856611638556698
+sS'data scientist'
 p22
-I1
-sS'experimental design'
+F0.0020294476344135596
+sS'training'
 p23
-I1
-sS'advanced analytics'
+F0.0045082274923799407
+sS'experimental design'
 p24
-I1
-sS'leadership'
+F0.0066354652663605284
+sS'advanced analytics'
 p25
-I1
-sS'data analytics'
+F0.0056375681117587801
+sS'leadership'
 p26
-I1
-sS'modeling'
+F0.0031655337570954444
+sS'sql'
 p27
-I1
-sS'spark'
+F0.0013064058598334235
+sS'data analytics'
 p28
-I1
-sS'data'
+F0.00391249555840191
+sS'modeling'
 p29
-I1
-sS'search'
+F0.0077791732664899658
+sS'spark'
 p30
-I1
-sS'svm'
+F0.0032301448722522191
+sS'data'
 p31
-I1
-sS'applied mathematics'
+F0.0040897064784301005
+sS'a'
+F0.0071649114697855424
+sS'search'
 p32
-I1
-sS'engineering'
+F0.0059425091525857621
+sS'svm'
 p33
-I1
-sS'hive'
+F0.0085548644236184794
+sS'science'
 p34
-I1
-sS'data engineering'
+F0.006734041074656057
+sS'applied mathematics'
 p35
-I1
-sS'r'
-I1
-sS'dashboard'
+F0.0057894841855243417
+sS'engineering'
 p36
-I1
-sS'product management'
+F0.002346465090179415
+sS'hive'
 p37
-I1
-sS'retail'
+F0.0039956977959578668
+sS'data engineering'
 p38
-I1
-sS'etl'
+F0.0076720895710104195
+sS'r'
+F0.0010632036525171286
+sS'dashboard'
 p39
-I1
-ssS'working-year'
+F0.0067172432358611972
+sS'product management'
 p40
-(dp41
-V(5, 10]
+F0.0059827548257213427
+sS'management'
+p41
+F0.00173572579923305
+sS'retail'
 p42
-I1
-sV(2, 5]
+F0.0066014587824071297
+sS'etl'
 p43
-I1
-ssS'major'
+F0.0054593192988796604
+ssS'working-year'
 p44
 (dp45
-S'business'
+V(5, 10]
 p46
-I1
-sS'big data'
+F0.0023096633363541355
+sV(2, 5]
 p47
-I1
-sS'applied mathematics'
+F0.0023734567594466197
+ssS'major'
 p48
-I1
-sS'applied math'
-p49
-I1
-sS'data science analytics'
+(dp49
+VStatistics
 p50
-I1
-sS'statistics applied mathematics'
+F0.0034511585630039848
+sVBusiness
 p51
-I1
-sS'advanced analytics'
+F0.0020722497072301039
+sVData Science
 p52
-I1
-sS'analytics'
+F0.0019679865567146793
+sVEngineering
 p53
-I1
-sS'engineering'
+F0.002346465090179415
+sVComputer Science
 p54
-I1
-sS'design'
+F0.0017343979815176202
+sVMathematics
 p55
-I1
-sS'data analytics'
+F0.0032840469915372639
+sVManagement Science and Engineering
 p56
-I1
-sS'statistic'
-p57
-I1
-sS'analytics data science'
-p58
-I1
-sS'management technology'
-p59
-I1
-sS'mathematics computer science'
-p60
-I1
-sS'data science'
-p61
-I1
-sS'applied mathematics computer science'
-p62
-I1
-sS'computer science'
-p63
-I1
+F0.0024703918361473035
 ssS'education'
-p64
-(dp65
+p57
+(dp58
 VMaster
-p66
-I1
+p59
+F0.0013932580176708369
 sVDoctor
-p67
-I1
+p60
+F0.0020865551183457242
 ssS'responsibility'
-p68
-(dp69
+p61
+(dp62
 S'development'
-p70
-I1
+p63
+F0.0046396973272571597
 sS'product'
-p71
-I1
-sVinsight
-p72
-I1
+p64
+F0.0025766147331757598
+sS'insight'
+p65
+F0.0070302427433313599
 sS'design'
-p73
-I1
+p66
+F0.0027977371839434436
 sS'recommendation'
-p74
-I1
+p67
+F0.0050042179019507112
 sS'report'
-p75
-I1
+p68
+F0.0079512506520016436
 sS'modeling'
-p76
-I1
+p69
+F0.0077791732664899658
 sS'model'
-p77
-I1
+p70
+F0.011857554344073875
 ss.

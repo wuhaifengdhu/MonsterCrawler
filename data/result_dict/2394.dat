@@ -4,128 +4,125 @@ p2
 (lp3
 S'energy'
 p4
-aS'grid computing'
+aS'linux'
 p5
-aS'analytics'
+aS'grid computing'
 p6
-aS'marketing strategy'
+aS'analytics'
 p7
-aS'data mining'
+aS'unix'
 p8
-aS'strategy'
+aS'marketing strategy'
 p9
-aS'education'
+aS'data mining'
 p10
-aS'deep learning'
+aS'strategy'
 p11
-aS'research'
+aS'statistics'
 p12
-aS'optimization'
+aS'deep learning'
 p13
-aS'matlab'
+aS'education'
 p14
-aS'automotive'
+aS'research'
 p15
-aS'computer science'
+aS'optimization'
 p16
-aS'teradata'
+aS'matlab'
 p17
-aS'finance'
+aS'automotive'
 p18
-aS'python'
+aS'teradata'
 p19
-aS'marketing'
+aS'finance'
 p20
-aS'data scientist'
+aS'python'
 p21
-aS'aerospace'
+aS'marketing'
 p22
-aS'modeling'
+aS'data scientist'
 p23
-aS'data'
+aS'aerospace'
 p24
+aS'modeling'
+p25
+aS'data'
+p26
+aS'a'
 aS'c'
 aS'dynamic programming'
-p25
-aS'statistical analysis'
-p26
-aS'science'
 p27
-aS'economics'
+aS'pattern recognition'
 p28
-aS'programming'
+aS'statistical analysis'
 p29
-aS'analysis'
+aS'economics'
 p30
+aS'programming'
+p31
+aS'analysis'
+p32
 aS'r'
 aS'organization'
-p31
-aS'pricing'
-p32
-asS'working-year'
 p33
-(lp34
-V[0]
+aS'physics'
+p34
+aS'pricing'
 p35
-asS'major'
+asS'working-year'
 p36
 (lp37
-S'finance'
+S'[0]'
 p38
-aS'business'
+asS'major'
 p39
-aS'computing'
-p40
-aS'marketing'
+(lp40
+VStatistics
 p41
-aS'economics'
+aVBusiness
 p42
-aS'statistic'
+aVData Science
 p43
-aS'computer sciences'
+aVEconomics
 p44
-aS'phd'
+aVComputer Science
 p45
-aS'analytics'
+aVPhysics
 p46
-aS'economics computer science'
-p47
-aS'marketing strategy'
-p48
-aS'data mining'
-p49
-aS'computer science'
-p50
-aVphysic
-p51
-aS'science'
-p52
 asS'education'
-p53
-(lp54
+p47
+(lp48
 VDoctor
-p55
+p49
 asS'responsibility'
-p56
-(lp57
+p50
+(lp51
 S'development'
-p58
-aS'extract'
-p59
-aVinsight
-p60
-aS'analysis'
-p61
-aS'optimization'
-p62
-aS'data mining'
-p63
-aS'report'
-p64
-aS'modeling'
-p65
-aS'model'
-p66
+p52
 aS'evaluation'
-p67
+p53
+aS'pattern'
+p54
+aS'insight'
+p55
+aS'analysis'
+p56
+aS'forecast'
+p57
+aS'optimization'
+p58
+aS'data mining'
+p59
+aS'report'
+p60
+aS'modeling'
+p61
+aS'model'
+p62
+aS'develop ... model'
+p63
+aS'extract'
+p64
+aS'test ... model'
+p65
 as.

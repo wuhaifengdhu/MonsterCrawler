@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'user experience'
+S'a'
+aS'user experience'
 p4
 aS'data scientist'
 p5
@@ -10,34 +11,36 @@ aS'research'
 p6
 aS'analytics'
 p7
-aS'security'
+aS'leadership'
 p8
-aS'education'
+aS'security'
 p9
-aS'data'
+aS'education'
 p10
-asS'working-year'
+aS'data'
 p11
-(lp12
-V[0]
-p13
-asS'major'
+asS'working-year'
+p12
+(lp13
+S'[0]'
 p14
-(lp15
-S'analytics'
-p16
-asS'education'
+asS'major'
+p15
+(lp16
+VData Science
 p17
-(lp18
+asS'education'
+p18
+(lp19
 S'Bachelor'
-p19
-asS'responsibility'
 p20
-(lp21
+asS'responsibility'
+p21
+(lp22
 S'development'
-p22
-aS'analytic'
 p23
-aS'product'
+aS'analytic'
 p24
+aS'product'
+p25
 as.

@@ -2,142 +2,136 @@
 S'skills'
 p2
 (dp3
-S'data analysis'
+S'financial engineering'
 p4
-I1
-sS'python'
+F0.021628451047569996
+sS'data analysis'
 p5
-I1
-sS'communication'
-p6
-I1
-sS'data science'
-p7
-I1
-sS'economics'
-p8
-I1
-sS'data scientist'
-p9
-I1
-sS'information retrieval'
-p10
-I1
-sS'access'
-p11
-I1
-sS'analytics'
-p12
-I1
+F0.0058415827360852957
 sS'quantitative research'
+p6
+F0.013792482835345512
+sS'python'
+p7
+F0.002052171310052228
+sS'communication'
+p8
+F0.0062329502327199068
+sS'data science'
+p9
+F0.00473559419551417
+sS'economics'
+p10
+F0.009435007182517564
+sS'data scientist'
+p11
+F0.0041707545872593631
+sS'information retrieval'
+p12
+F0.013817011822768397
+sS'access'
 p13
-I1
-sS'data collection'
+F0.0091317402562852545
+sS'analytics'
 p14
-I1
-sS'computer science'
+F0.0034241632361556168
+sS'engineering'
 p15
-I1
-sS'business development'
+F0.0096445258037295648
+sS'data collection'
 p16
-I1
-sS'algorithm development'
+F0.028546059424891679
+sS'computer science'
 p17
-I1
-sS'machine learning'
+F0.0055353671779024439
+sS'business development'
 p18
-I1
-sS'unstructured data'
+F0.013695867240323555
+sS'algorithm development'
 p19
-I1
-sS'scripting'
+F0.016570561997447462
+sS'machine learning'
 p20
-I1
-sS'financial engineering'
+F0.0025807784324174778
+sS'data'
 p21
-I1
-ssS'working-year'
+F0.0004669349916317831
+sS'unstructured data'
 p22
-(dp23
-V(2, 5]
+F0.012554363911232913
+sS'scripting'
+p23
+F0.0095790723521522181
+sS'science'
 p24
-I1
-ssS'major'
+F0.0027678499535200487
+ssS'working-year'
 p25
 (dp26
-S'information'
+V(2, 5]
 p27
-I1
-sS'business'
+F0.0048777339702013207
+ssS'major'
 p28
-I1
-sS'communication'
-p29
-I1
-sS'data science'
+(dp29
+VEngineering
 p30
-I1
-sS'economics'
+F0.0088676335699477467
+sVEconomics
 p31
-I1
-sS'data science analytics'
+F0.0064597305020648067
+sVData Science
 p32
-I1
-sS'machine learning'
+F0.004044444813405758
+sVBusiness
 p33
-I1
-sS'analytics'
+F0.0042587179022602921
+sVComputer Science
 p34
-I1
-sS'computer science engineering'
-p35
-I1
-sS'financial engineering'
-p36
-I1
-sS'statistic'
-p37
-I1
-sS'information retrieval'
-p38
-I1
-sS'computer science'
-p39
-I1
+F0.0035643927021740069
 ssS'education'
+p35
+(dp36
+VBachelor
+p37
+F0.0035881056207476645
+sVMaster
+p38
+F0.0028633097843471528
+sVDoctor
+p39
+F0.0042881172117183782
+ssS'responsibility'
 p40
 (dp41
-S'Bachelor'
-p42
-I1
-ssS'responsibility'
-p43
-(dp44
 S'development'
-p45
-I1
+p42
+F0.0047675630016303884
 sS'information'
-p46
-I1
+p43
+F0.0054610440926354115
 sS'product'
-p47
-I1
+p44
+F0.010590495202501942
 sS'data collection'
-p48
-I1
+p45
+F0.028546059424891679
 sS'data infrastructure'
-p49
-I1
-sVinsight
-p50
-I1
+p46
+F0.017043564475038672
+sS'cross functionally'
+p47
+F0.02355109348393666
+sS'insight'
+p48
+F0.0072239895905885244
 sS'communicate'
-p51
-I1
+p49
+F0.0078985940247306777
 sS'data analysis'
-p52
-I1
+p50
+F0.0058415827360852957
 sS'model'
-p53
-I1
+p51
+F0.0060921686689040973
 ss.

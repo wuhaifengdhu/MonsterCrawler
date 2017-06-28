@@ -2,135 +2,132 @@
 S'skills'
 p2
 (dp3
-S'credit risk'
+S'data science'
 p4
-I1
-sS'big data'
-p5
-I1
-sS'python'
-p6
-I1
-sS'science'
-p7
-I1
-sS'data science'
-p8
-I1
-sS'sql'
-p9
-I1
-sS'data scientist'
-p10
-I1
-sS'hadoop'
-p11
-I1
-sS'analysis'
-p12
-I1
-sS'strategy'
-p13
-I1
-sS'credit'
-p14
-I1
-sS'r'
-I1
-sS'command'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'algorithm development'
-p18
-I1
-sS'modeling'
-p19
-I1
-sS'machine learning'
-p20
-I1
-sS'data'
-p21
-I1
-sS'spark'
-p22
-I1
+F0.0045735396412950541
 sS'statistical analysis'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(5, 10]
-p26
-I1
-sV(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'big data'
-p30
-I1
-sS'business'
-p31
-I1
-sS'science'
-p32
-I1
-sS'data science'
-p33
-I1
-sS'computer science statistics'
-p34
-I1
-sS'machine learning'
-p35
-I1
+p5
+F0.0097897344236220832
+sS'algorithms'
+p6
+F0.0068219455451150341
+sS'statistics'
+p7
+F0.003545676254002299
+sS'big data'
+p8
+F0.0048392590355994967
+sS'hadoop'
+p9
+F0.0048851958228120339
+sS'strategy'
+p10
+F0.0059886366206343532
 sS'computer science'
-p36
-I1
-sS'statistic'
-p37
-I1
-ssS'education'
-p38
-(dp39
-S'Bachelor'
-p40
-I1
-ssS'responsibility'
-p41
-(dp42
-S'development'
-p43
-I1
-sS'product'
-p44
-I1
-sS'business problem'
-p45
-I1
-sS'predict'
-p46
-I1
-sS'communicate'
-p47
-I1
-sS'analysis'
-p48
-I1
+p11
+F0.0053459439664913337
+sS'innovation'
+p12
+F0.0073605500841624474
+sS'algorithm development'
+p13
+F0.016003508545063327
+sS'python'
+p14
+F0.0019819449154116577
+sS'data scientist'
+p15
+F0.0040280291451098033
+sS'sql'
+p16
+F0.0025929424290229929
 sS'modeling'
-p49
-I1
+p17
+F0.015440032110675902
+sS'spark'
+p18
+F0.0064111620658390059
+sS'credit risk'
+p19
+F0.017041950007436586
+sS'data'
+p20
+F0.0036076498212767429
+sS'science'
+p21
+F0.010692530618921557
+sS'analysis'
+p22
+F0.0013027327823350947
+sS'machine learning'
+p23
+F0.0024924628206617464
+sS'credit'
+p24
+F0.012081881460979644
+sS'r'
+F0.0021102369072773428
+sS'command'
+p25
+F0.029199652298726727
+ssS'working-year'
+p26
+(dp27
+V(5, 10]
+p28
+F0.0045841987132199955
+sV(2, 5]
+p29
+F0.0047108153172286523
+ssS'major'
+p30
+(dp31
+VData Science
+p32
+F0.0039060417589546108
+sVStatistics
+p33
+F0.0068498280223881379
+sVComputer Science
+p34
+F0.0034424172865102575
+sVBusiness
+p35
+F0.0041129823086468219
+ssS'education'
+p36
+(dp37
+S'Bachelor'
+p38
+F0.0034653187363874781
+ssS'responsibility'
+p39
+(dp40
+S'development'
+p41
+F0.0046044144578483602
+sS'product'
+p42
+F0.0051140414095731815
+sS'business problem'
+p43
+F0.010829469817987242
+sS'predict'
+p44
+F0.01586266934036239
+sS'communicate'
+p45
+F0.0076282999326296279
+sS'analysis'
+p46
+F0.0013027327823350947
+sS'drive ... model'
+p47
+F0.02370072856406685
+sS'modeling'
+p48
+F0.015440032110675902
 sS'model'
-p50
-I1
+p49
+F0.0058836914140746798
 ss.

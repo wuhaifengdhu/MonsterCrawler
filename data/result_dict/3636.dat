@@ -4,74 +4,68 @@ p2
 (lp3
 S'aws'
 p4
-aS'python'
+aS'statistics'
 p5
-aS'scikit-learn'
+aS'python'
 p6
-aS'healthcare'
+aS'scikit-learn'
 p7
-aS'data scientist'
+aS'healthcare'
 p8
-aS'analysis'
+aS'data scientist'
 p9
-aS'machine learning'
+aS'analysis'
 p10
-aS'mathematics'
+aS'machine learning'
 p11
-aS'engineering'
+aS'mathematics'
 p12
-aS'data analysis'
+aS'engineering'
 p13
-aS'computer science'
+aS'data analysis'
 p14
-aS'sql'
+aS'computer science'
 p15
-aS'modeling'
+aS'sql'
 p16
-aS'data'
+aS'modeling'
 p17
-aVpanda
+aS'data'
 p18
-aS'science'
+aS'pandas'
 p19
-asS'working-year'
+aS'science'
 p20
-(lp21
-V(2, 5]
-p22
-asS'major'
+asS'working-year'
+p21
+(lp22
+sS'major'
 p23
 (lp24
-S'science'
+VMathematics
 p25
-aS'machine learning'
+aVEngineering
 p26
-aS'engineering'
+aVStatistics
 p27
-aS'computer science engineering'
+aVComputer Science
 p28
-aS'computer science'
-p29
-aS'statistic'
-p30
-aS'mathematics'
-p31
 asS'education'
+p29
+(lp30
+VBachelor
+p31
+asS'responsibility'
 p32
 (lp33
-S'Bachelor'
-p34
-asS'responsibility'
-p35
-(lp36
 S'report'
-p37
+p34
 aS'modeling'
-p38
+p35
 aS'data analysis'
-p39
+p36
 aS'development'
-p40
+p37
 aS'analysis'
-p41
+p38
 as.

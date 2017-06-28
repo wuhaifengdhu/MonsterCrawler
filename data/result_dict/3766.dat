@@ -6,13 +6,13 @@ S'nlp'
 p4
 aS'classification'
 p5
-aS'communication'
+aS'programming'
 p6
 aS'data science'
 p7
 aS'personalization'
 p8
-aS'mllib'
+aS'hadoop'
 p9
 aS'engineering'
 p10
@@ -36,7 +36,7 @@ aS'clustering'
 p19
 aS'hdfs'
 p20
-aS'management'
+aS'statistics'
 p21
 aS'big data'
 p22
@@ -46,17 +46,17 @@ aS'deep learning'
 p24
 aS'saas'
 p25
-aS'hadoop'
+aS'mllib'
 p26
 aS'research'
 p27
-aS'access'
+aS'mahout'
 p28
 aS'optimization'
 p29
 aS'computer science'
 p30
-aS'innovation'
+aS'communication'
 p31
 aS'operations research'
 p32
@@ -70,121 +70,110 @@ aS'python'
 p36
 aS'collaboration'
 p37
-aS'data scientist'
+aS'innovation'
 p38
-aS'apache spark'
+aS'data scientist'
 p39
-aS'statistical modeling'
+aS'apache spark'
 p40
-aS'apache'
-p41
-aS'modeling'
-p42
-aS'spark'
-p43
-aS'data'
-p44
-aS'econometrics'
-p45
-aS'software engineering'
-p46
-aS'science'
-p47
-aS'scala'
-p48
-aS'programming'
-p49
-aS'mapreduce'
-p50
-aS'analysis'
-p51
-aS'machine learning'
-p52
-aS'r'
-aS'product management'
-p53
-aS'statistical analysis'
-p54
-asS'working-year'
-p55
-(lp56
-V(2, 5]
-p57
-asS'major'
-p58
-(lp59
-S'econometrics'
-p60
 aS'management'
-p61
-aS'finance'
-p62
-aS'big data'
-p63
-aS'science'
-p64
-aS'data science'
-p65
-aS'data mining'
-p66
-aS'statistic'
-p67
-aS'computer science statistics'
-p68
-aS'machine learning'
-p69
-aS'business'
-p70
-aS'engineering'
-p71
-aS'design'
-p72
-aS'computer science'
-p73
-aS'applied math'
-p74
-aS'communication'
-p75
-aS'accounting'
-p76
-aS'phd'
-p77
-aS'software engineering'
-p78
-aS'operations research'
-p79
-asS'education'
-p80
-(lp81
-VDoctor
-p82
-asS'responsibility'
-p83
-(lp84
-S'product'
-p85
-aS'data analysis'
-p86
-aS'data infrastructure'
-p87
-aS'pattern'
-p88
-aS'communicate'
-p89
-aS'analysis'
-p90
-aS'statistical model'
-p91
-aS'optimization'
-p92
-aS'design'
-p93
-aS'data mining'
-p94
+p41
+aS'statistical modeling'
+p42
+aS'apache'
+p43
 aS'modeling'
-p95
+p44
+aS'spark'
+p45
+aS'data'
+p46
+aS'a'
+aS'software engineering'
+p47
+aS'science'
+p48
+aS'access'
+p49
+aS'scikit-learn'
+p50
+aS'mapreduce'
+p51
+aS'analysis'
+p52
+aS'machine learning'
+p53
+aS'econometrics'
+p54
+aS'r'
+aS'scala'
+p55
+aS'product management'
+p56
+aS'etl'
+p57
+aS'statistical analysis'
+p58
+asS'working-year'
+p59
+(lp60
+V(2, 5]
+p61
+asS'major'
+p62
+(lp63
+VStatistics
+p64
+aVBusiness
+p65
+aVData Science
+p66
+aVEconomics
+p67
+aVEngineering
+p68
+aVComputer Science
+p69
+aVMathematics
+p70
+aVOperations Research
+p71
+aVManagement Science and Engineering
+p72
+asS'education'
+p73
+(lp74
+VBachelor
+p75
+aVMaster
+p76
+aVDoctor
+p77
+asS'responsibility'
+p78
+(lp79
+S'product'
+p80
+aS'data analysis'
+p81
+aS'data infrastructure'
+p82
+aS'pattern'
+p83
+aS'communicate'
+p84
+aS'analysis'
+p85
+aS'optimization'
+p86
+aS'design'
+p87
+aS'data mining'
+p88
+aS'modeling'
+p89
 aS'model'
-p96
+p90
 aS'engineering design'
-p97
+p91
 as.

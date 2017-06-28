@@ -2,13 +2,13 @@
 S'skills'
 p2
 (lp3
-S'saas'
+S'communication'
 p4
 aS'testing'
 p5
-aS'communication'
-p6
 aS'process improvement'
+p6
+aS'sas'
 p7
 aS'education'
 p8
@@ -30,9 +30,9 @@ aS'root cause analysis'
 p16
 aS'customer satisfaction'
 p17
-aS'customer relations'
-p18
 aS'product development'
+p18
+aS'processing'
 p19
 aS'data scientist'
 p20
@@ -46,31 +46,33 @@ aS'data'
 p24
 aS'b2b'
 p25
+aS'a'
 aS'training'
 p26
-aS'documentation'
+aS'saas'
 p27
-aS'analysis'
+aS'documentation'
 p28
-aS'crystal reports'
+aS'analysis'
 p29
-aS'root'
+aS'r'
+aS'databases'
 p30
-asS'working-year'
+aS'crystal reports'
 p31
-(lp32
-V(2, 5]
+aS'root'
+p32
+asS'working-year'
 p33
+(lp34
+V(2, 5]
+p35
 asS'major'
-p34
-(lp35
-S'information'
 p36
-aS'management'
-p37
-aS'business'
+(lp37
+VBusiness
 p38
-aS'communication'
+aVManagement Science and Engineering
 p39
 asS'education'
 p40
@@ -88,11 +90,11 @@ aS'product'
 p47
 aS'documentation'
 p48
-aS'analysis'
+aS'processing'
 p49
-aS'improvement'
+aS'analysis'
 p50
-aS'interface'
+aS'improvement'
 p51
 aS'understand'
 p52

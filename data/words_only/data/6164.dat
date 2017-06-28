@@ -4,214 +4,211 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.010192077419168603
 sS'bioinformatics'
 p5
-I1
+F0.013988228713531997
 sS'actuarial science'
 p6
-I1
+F0.010673291654600608
 sS'health insurance'
 p7
-I1
+F0.01105296887876631
 sS'statistical analysis'
 p8
-I1
+F0.0055251076253489441
 sS'problem solving'
 p9
-I1
-sS'education'
+F0.0052674074355219978
+sS'sas'
 p10
-I1
-sS'random forest'
+F0.0059452225608472818
+sS'education'
 p11
-I1
-sS'finance'
-p12
-I1
-sS'management'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
+F0.0045034908794276164
 sS'insurance'
-p15
-I1
-sS'access'
-p16
-I1
-sS'risk management'
-p17
-I1
-sS'oracle sql'
-p18
-I1
-sS'matlab'
-p19
-I1
-sS'teamwork'
-p20
-I1
-sS'data analysis'
-p21
-I1
-sS'product development'
-p22
-I1
-sS'python'
-p23
-I1
-sS'collaboration'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'data quality'
-p26
-I1
-sS'risk analysis'
-p27
-I1
-sS'fraud'
-p28
-I1
-sS'statistical modeling'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'regression'
-p31
-I1
-sS'modeling'
-p32
-I1
-sS'data'
-p33
-I1
-sS'decision trees'
-p34
-I1
-sS'glm'
-p35
-I1
-sS'economics'
-p36
-I1
-sS'analysis'
-p37
-I1
-sS'r'
-I1
-sS'oracle'
-p38
-I1
-sS'data analytics'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'bioinformatics'
-p45
-I1
-sS'management'
-p46
-I1
+p12
+F0.047365235825853676
 sS'finance'
-p47
-I1
-sS'business'
-p48
-I1
-sS'communication'
-p49
-I1
-sS'economics'
-p50
-I1
-sS'actuarial science'
-p51
-I1
-sS'phd'
-p52
-I1
-sS'statistics actuarial science'
-p53
-I1
-sS'design'
-p54
-I1
-sS'computational finance'
-p55
-I1
-sS'statistic'
-p56
-I1
-sS'data analytics'
-p57
-I1
-sS'finance economics'
-p58
-I1
-ssS'education'
-p59
-(dp60
-VBachelor
-p61
-I1
-sVMaster
-p62
-I1
-sVDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'development'
-p66
-I1
-sS'product'
-p67
-I1
+p13
+F0.017093214941096706
+sS'statistics'
+p14
+F0.0040022010935734107
+sS'predictive modeling'
+p15
+F0.0044613860701480041
+sS'research'
+p16
+F0.0018308161838234726
+sS'access'
+p17
+F0.0049773863199494735
+sS'risk management'
+p18
+F0.0067805951201464296
+sS'oracle sql'
+p19
+F0.0075717777940618345
+sS'matlab'
+p20
+F0.0054781166851419092
+sS'random forest'
+p21
+F0.0097459748816252009
+sS'teamwork'
+p22
+F0.0061468028933519296
 sS'data analysis'
-p68
-I1
-sS'understand'
-p69
-I1
-sVinsight
-p70
-I1
-sS'communicate'
-p71
-I1
-sS'analysis'
-p72
-I1
-sS'statistical model'
-p73
-I1
-sS'design'
-p74
-I1
+p23
+F0.0031840386587246032
+sS'product development'
+p24
+F0.0056083183450251293
+sS'python'
+p25
+F0.0022371309560226009
+sS'collaboration'
+p26
+F0.01097712197456418
+sS'data quality'
+p27
+F0.0075854894059790203
+sS'risk analysis'
+p28
+F0.011271385474175192
+sS'fraud'
+p29
+F0.0083945409347817353
+sS'statistical modeling'
+p30
+F0.0038441320175759582
+sS'sql'
+p31
+F0.001463398838697526
+sS'regression'
+p32
+F0.0050990725121927054
 sS'modeling'
-p75
-I1
+p33
+F0.0052284057233147156
+sS'data'
+p34
+F0.0010180385225276646
+sS'econometrics'
+p35
+F0.0065820999136056669
+sS'vba'
+p36
+F0.006630028938841335
+sS'decision trees'
+p37
+F0.0089525365590457269
+sS'glm'
+p38
+F0.011788898210478066
+sS'science'
+p39
+F0.0015086564124336746
+sS'economics'
+p40
+F0.010285372636735885
+sS'analysis'
+p41
+F0.00073523330848525737
+sS'r'
+F0.0023819412301027518
+sS'oracle'
+p42
+F0.0056330933445521928
+sS'management'
+p43
+F0.001944310873818996
+sS'data analytics'
+p44
+F0.0043826666984673754
+ssS'working-year'
+p45
+(dp46
+V(2, 5]
+p47
+F0.0026586790309681019
+ssS'major'
+p48
+(dp49
+VStatistics
+p50
+F0.0038658900641375111
+sVBusiness
+p51
+F0.0023212754231204166
+sVData Science
+p52
+F0.0022044827952898338
+sVEconomics
+p53
+F0.0035209689861039934
+sVBiological Engineering
+p54
+F0.0056441969538126406
+sVMathematics
+p55
+F0.003678696415412987
+sVManagement Science and Engineering
+p56
+F0.0027672629580877519
+ssS'education'
+p57
+(dp58
+VBachelor
+p59
+F0.0019557485572315597
+sVMaster
+p60
+F0.0015606881657171177
+sVDoctor
+p61
+F0.0023372999394344809
+ssS'responsibility'
+p62
+(dp63
+S'development'
+p64
+F0.0051972575210906379
+sS'product'
+p65
+F0.0057725016769002001
+sS'data analysis'
+p66
+F0.0031840386587246032
+sS'understand'
+p67
+F0.0045100425181207621
+sS'insight'
+p68
+F0.003937539390578294
+sS'communicate'
+p69
+F0.0043052422366557774
+sS'analysis'
+p70
+F0.00073523330848525737
+sS'develop ... model'
+p71
+F0.0066521738780603813
+sS'design'
+p72
+F0.0031339459442456599
+sS'modeling'
+p73
+F0.0052284057233147156
 sS'implement'
-p76
-I1
+p74
+F0.0045447707620592439
+sS'statistical model'
+p75
+F0.0077057173940319641
 sS'model'
-p77
-I1
+p76
+F0.0033206241242524481
 ss.

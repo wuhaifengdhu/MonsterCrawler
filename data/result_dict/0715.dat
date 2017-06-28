@@ -28,80 +28,78 @@ aS'music'
 p15
 aS'computer science'
 p16
-aS'marketing'
+aS'python'
 p17
-aS'data scientist'
+aS'marketing'
 p18
-aS'pig'
+aS'data scientist'
 p19
-aS'data'
+aS'facebook'
 p20
-aS'search'
+aS'java'
 p21
-aS'science'
+aS'pig'
 p22
-aS'aws'
+aS'data'
 p23
-aS'programming'
+aS'search'
 p24
-aS'hive'
+aS'science'
 p25
-aS'machine learning'
+aS'aws'
 p26
-aS'editorial'
+aS'programming'
 p27
-aS'asset management'
+aS'hive'
 p28
-aS'organization'
+aS'machine learning'
 p29
-aS'docker'
+aS'editorial'
 p30
-aS'rapid prototyping'
+aS'asset management'
 p31
-asS'working-year'
+aS'organization'
 p32
-(lp33
-V(2, 5]
+aS'docker'
+p33
+aS'rapid prototyping'
 p34
-asS'major'
+asS'working-year'
 p35
 (lp36
-S'information'
+V(2, 5]
 p37
-aS'management'
+asS'major'
 p38
-aS'business'
-p39
-aS'marketing'
+(lp39
+VEngineering
 p40
-aS'machine learning'
+aVEconomics
 p41
-aS'engineering'
+aVComputer Science
 p42
-aS'music'
+aVBusiness
 p43
-aS'computer science'
+aVManagement Science and Engineering
 p44
-aS'science'
-p45
-aS'phd'
-p46
-aS'information retrieval'
-p47
 asS'education'
+p45
+(lp46
+VBachelor
+p47
+aVMaster
 p48
-(lp49
-VDoctor
-p50
+aVDoctor
+p49
 asS'responsibility'
-p51
-(lp52
+p50
+(lp51
 S'development'
-p53
+p52
 aS'information'
-p54
+p53
 aS'prototype'
-p55
+p54
 aS'ownership'
-p56
+p55
 as.

@@ -8,7 +8,7 @@ aS'intelligence'
 p5
 aS'testing'
 p6
-aS'engineering'
+aS'unix'
 p7
 aS'defense'
 p8
@@ -52,55 +52,55 @@ aS'science'
 p27
 aS'documentation'
 p28
-aS'scripting'
-p29
-aS'oracle'
-p30
-aS'security'
-p31
-aS'application development'
-p32
-asS'working-year'
-p33
-(lp34
-V(5, 10]
-p35
-aV(10, 15]
-p36
-asS'major'
-p37
-(lp38
-S'information'
-p39
-aS'information systems'
-p40
-aS'business'
-p41
-aS'science'
-p42
 aS'engineering'
-p43
-aS'information system'
-p44
+p29
+aS'scripting'
+p30
+aS'oracle'
+p31
+aS'security'
+p32
+aS'application development'
+p33
+asS'working-year'
+p34
+(lp35
+V(5, 10]
+p36
+aV(10, 15]
+p37
+asS'major'
+p38
+(lp39
+VEngineering
+p40
+aVInformation Science
+p41
+aVBusiness
+p42
 asS'education'
+p43
+(lp44
+VBachelor
 p45
-(lp46
-VMaster
-p47
+aVMaster
+p46
 aVDoctor
-p48
+p47
 asS'responsibility'
-p49
-(lp50
+p48
+(lp49
 S'development'
-p51
+p50
 aS'information'
-p52
+p51
 aS'documentation'
-p53
+p52
 aS'processing'
-p54
+p53
 aS'mapping'
+p54
+aS'improvement'
 p55
 aS'report'
 p56

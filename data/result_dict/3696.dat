@@ -2,38 +2,42 @@
 S'skills'
 p2
 (lp3
-S'predictive modeling'
+S'statistics'
 p4
-aS'programming'
+aS'predictive modeling'
 p5
-aS'credit'
+aS'programming'
 p6
-aS'problem solving'
+aS'credit'
 p7
-aS'modeling'
+aS'problem solving'
 p8
-aS'creative problem solving'
+aS'modeling'
 p9
-aS'data'
+aS'creative problem solving'
 p10
-asS'working-year'
+aS'data'
 p11
-(lp12
-V[0]
-p13
-asS'major'
+asS'working-year'
+p12
+(lp13
+S'[0]'
 p14
-(lp15
-S'business'
-p16
-asS'education'
+asS'major'
+p15
+(lp16
+VStatistics
 p17
-(lp18
-S'Bachelor'
+aVBusiness
+p18
+asS'education'
 p19
+(lp20
+S'Bachelor'
+p21
 asS'responsibility'
-p20
-(lp21
-S'modeling'
 p22
+(lp23
+S'modeling'
+p24
 as.

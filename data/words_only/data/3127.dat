@@ -4,227 +4,191 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.011556688160336615
 sS'consulting'
 p5
-I1
-sS'ip'
+F0.0059617801968629832
+sS'communication'
 p6
-I1
+F0.0083544557209016164
 sS'management consulting'
 p7
-I1
+F0.010119831053185669
 sS'thought leadership'
 p8
-I1
+F0.010822371766567607
 sS'statistical analysis'
 p9
-I1
+F0.0067934040987140051
 sS'problem solving'
 p10
-I1
+F0.0064765484563410322
 sS'data mining'
 p11
-I1
-sS'research'
-p12
-I1
-sS'market research'
-p13
-I1
-sS'investment banking'
-p14
-I1
-sS'big data'
-p15
-I1
+F0.0055988900492932384
 sS'education'
+p12
+F0.0055372737462091532
+sS'research'
+p13
+F0.0022510826956774095
+sS'market research'
+p14
+F0.0084559581015790156
+sS'investment banking'
+p15
+F0.013087944549304771
+sS'big data'
 p16
-I1
+F0.0033581137898751122
 sS'strategy'
 p17
-I1
+F0.029089920893371621
 sS'big data analytics'
 p18
-I1
+F0.0087447733634524547
 sS'risk management'
 p19
-I1
+F0.0083370905698898056
 sS'coaching'
 p20
-I1
-sS'computer science'
+F0.010189268381620577
+sS'business planning'
 p21
-I1
-sS'communication'
+F0.012726841239290632
+sS'computer science'
 p22
-I1
+F0.0037097183725256482
 sS'advanced analytics'
 p23
-I1
+F0.0077646716473300358
 sS'marketing'
 p24
-I1
+F0.0050269512466426082
 sS'data scientist'
 p25
-I1
+F0.0027951758975300217
 sS'experimental design'
 p26
-I1
+F0.0091390840871772971
 sS'management'
 p27
-I1
+F0.0047812605129269239
 sS'statistical modeling'
 p28
-I1
+F0.004726558100766217
 sS'modeling'
 p29
-I1
+F0.0021428646148325924
 sS'business transformation'
 p30
-I1
-sS'project management'
+F0.014617800513898657
+sS'data'
 p31
-I1
-sS'science'
-p32
-I1
-sS'business strategy'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'banking'
-p35
-I1
-sS'leadership'
-p36
-I1
-sS'organization'
-p37
-I1
-sS'data analytics'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(5, 10]
-p41
-I1
-sV(10, 15]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
-sS'management'
-p46
-I1
-sS'business'
-p47
-I1
-sS'big data'
-p48
-I1
-sS'communication'
-p49
-I1
-sS'data mining'
-p50
-I1
-sS'mba'
-p51
-I1
-sS'phd'
-p52
-I1
-sS'big data analytics'
-p53
-I1
-sS'design'
-p54
-I1
-sS'computer science'
-p55
-I1
-sS'marketing'
-p56
-I1
-sS'advanced analytics'
-p57
-I1
-sS'data analytics'
-p58
-I1
+F0.0015646634284231255
 sS'project management'
-p59
-I1
+p32
+F0.0050170272383233405
 sS'science'
-p60
-I1
-ssS'education'
-p61
-(dp62
-VDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'recommendation'
-p66
-I1
-sS'financial model'
-p67
-I1
-sS'mine data'
-p68
-I1
-sS'business problem'
-p69
-I1
-sVinsight
-p70
-I1
-sS'communicate'
-p71
-I1
-sS'product'
-p72
-I1
+p33
+F0.0018549706812509034
+sS'business strategy'
+p34
+F0.0080198821116607838
 sS'analysis'
-p73
-I1
-sS'improvement'
-p74
-I1
+p35
+F0.0027120215442279416
+sS'banking'
+p36
+F0.0090614773576737605
+sS'leadership'
+p37
+F0.0087198344126850763
+sS'organization'
+p38
+F0.0046522001036455969
+sS'data analytics'
+p39
+F0.0053887141991709681
+ssS'working-year'
+p40
+(dp41
+V(5, 10]
+p42
+F0.003181119423685643
+sV(10, 15]
+p43
+F0.0051647133408927676
+ssS'major'
+p44
+(dp45
+VData Science
+p46
+F0.0027105250200661281
+sVEconomics
+p47
+F0.0043292125264497647
+sVComputer Science
+p48
+F0.0023888014415625269
+sVBusiness
+p49
+F0.0028541275651032035
+sVManagement Science and Engineering
+p50
+F0.0034024921859337528
+ssS'education'
+p51
+(dp52
+VMaster
+p53
+F0.0019189463990083823
+sVDoctor
+p54
+F0.0028738305323917361
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.0063902955272512859
 sS'information'
-p75
-I1
+p58
+F0.0036599081781778222
+sS'product'
+p59
+F0.0035487939069069833
+sS'business problem'
+p60
+F0.0075149091349093521
+sS'insight'
+p61
+F0.0048414072717928363
+sS'communicate'
+p62
+F0.0052935168397931186
+sS'recommendation'
+p63
+F0.020677058666107688
+sS'analysis'
+p64
+F0.0027120215442279416
+sS'improvement'
+p65
+F0.007087616085327461
 sS'design'
-p76
-I1
+p66
+F0.0038533477836899146
 sS'data mining'
-p77
-I1
+p67
+F0.0055988900492932384
 sS'modeling'
-p78
-I1
-sS'development'
-p79
-I1
-sS'statistical model'
-p80
-I1
+p68
+F0.0021428646148325924
 sS'presentation'
-p81
-I1
+p69
+F0.0064996156789171675
 sS'transformation'
-p82
-I1
+p70
+F0.0082967206737014944
 ss.

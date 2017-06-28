@@ -2,149 +2,145 @@
 S'skills'
 p2
 (lp3
-S'rest'
+S'testing'
 p4
-aS'pig'
+aS'rest'
 p5
-aS'business insights'
+aS'pig'
 p6
-aS'engineering'
+aS'business insights'
 p7
-aS'data mining'
+aS'engineering'
 p8
-aS'hbase'
+aS'data mining'
 p9
-aS'cassandra'
+aS'sas'
 p10
-aS'visualization'
+aS'hbase'
 p11
-aS'git'
+aS'cassandra'
 p12
-aS'power bi'
+aS'visualization'
 p13
-aS'predictive modeling'
+aS'git'
 p14
-aS'redis'
+aS'power bi'
 p15
-aS'tableau'
+aS'predictive modeling'
 p16
-aS'data munging'
+aS'redis'
 p17
-aS'natural language processing'
+aS'tableau'
 p18
-aS'mathematics'
+aS'data munging'
 p19
-aS'apache hive'
+aS'natural language processing'
 p20
-aS'calculus'
+aS'mathematics'
 p21
-aS'processing'
+aS'apache hive'
 p22
-aS'algebra'
+aS'calculus'
 p23
-aS'python'
+aS'processing'
 p24
-aS'mongodb'
+aS'algebra'
 p25
-aS'collaboration'
+aS'python'
 p26
-aS'innovation'
+aS'mongodb'
 p27
-aS'data scientist'
+aS'collaboration'
 p28
-aS'apache spark'
+aS'innovation'
 p29
-aS'leadership'
+aS'data scientist'
 p30
-aS'sql'
+aS'apache spark'
 p31
-aS'apache'
+aS'leadership'
 p32
-aS'modeling'
+aS'sql'
 p33
-aS'spark'
+aS'apache'
 p34
-aS'data'
+aS'modeling'
 p35
-aS'software engineering'
+aS'spark'
 p36
-aS'data visualization'
+aS'data'
 p37
-aS'linear algebra'
+aS'software engineering'
 p38
-aS'hive'
+aS'data visualization'
 p39
-aS'machine learning'
+aS'linear algebra'
 p40
+aS'hive'
+p41
+aS'machine learning'
+p42
 aS'r'
 aS'healthcare'
-p41
-aS'retail'
-p42
-asS'working-year'
 p43
-(lp44
-V[0]
+aS'retail'
+p44
+aS'physics'
 p45
-asS'major'
+aS'statistics'
 p46
-(lp47
-S'software engineering'
-p48
-aS'business'
+asS'working-year'
+p47
+(lp48
+S'[0]'
 p49
-aS'data mining'
+asS'major'
 p50
-aVapplied statistic
-p51
-aS'statistic'
+(lp51
+VStatistics
 p52
-aS'machine learning'
+aVBusiness
 p53
-aS'mathematics statistics'
+aVEngineering
 p54
-aS'engineering'
+aVComputer Science
 p55
-aS'applied statistics'
+aVMathematics
 p56
-aS'natural language processing'
+aVPhysics
 p57
-aS'mathematics'
-p58
-aVphysic
-p59
 asS'education'
-p60
-(lp61
+p58
+(lp59
 VMaster
-p62
+p60
 asS'responsibility'
-p63
-(lp64
+p61
+(lp62
 S'development'
-p65
+p63
 aS'product'
-p66
+p64
 aS'processing'
-p67
+p65
 aS'business problem'
-p68
+p66
 aS'pattern'
-p69
-aVinsight
-p70
+p67
+aS'insight'
+p68
 aS'communicate'
-p71
+p69
 aS'understand'
-p72
+p70
 aS'data mining'
-p73
+p71
 aS'modeling'
-p74
+p72
 aS'implement'
-p75
+p73
 aS'prototype'
-p76
+p74
 aS'model'
-p77
+p75
 as.

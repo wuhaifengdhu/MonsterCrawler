@@ -4,107 +4,108 @@ p2
 (dp3
 S'nlp'
 p4
-I1
-sS'retail'
+F0.022743708069922885
+sS'energy'
 p5
-I1
-sS'java'
+F0.020433743748676056
+sS'hadoop'
 p6
-I1
-sS'big data'
+F0.0085086523271494362
+sS'telecommunications'
 p7
-I1
+F0.029961806219035075
 sS'social media'
 p8
-I1
-sS'python'
+F0.022334334727985863
+sS'java'
 p9
-I1
-sS'mongodb'
+F0.0082070660110482342
+sS'big data'
 p10
-I1
-sS'data science'
-p11
-I1
-sS'processing'
-p12
-I1
-sS'data scientist'
-p13
-I1
+F0.0084286432209448175
 sS'integration'
-p14
-I1
-sS'hive'
-p15
-I1
-sS'hadoop'
-p16
-I1
-sS'banking'
-p17
-I1
-sS'healthcare'
-p18
-I1
-sS'c++'
-p19
-I1
+p11
+F0.01527313325956697
 sS'natural language processing'
+p12
+F0.016595749218280151
+sS'data science'
+p13
+F0.0079658339447721809
+sS'python'
+p14
+F0.003451996773200437
+sS'mongodb'
+p15
+F0.019583415654446195
+sS'processing'
+p16
+F0.021630305783718145
+sS'data scientist'
+p17
+F0.0070157063918137638
+sS'data'
+p18
+F0.00078544031704948951
+sS'a'
+F0.012384383401417395
+sS'c'
+F0.0082822643966761408
+sS'science'
+p19
+F0.0046558535641992877
+sS'hive'
 p20
-I1
-sS'oracle'
-p21
-I1
+F0.013812942049602692
 sS'machine learning'
+p21
+F0.0043411769657883403
+sS'banking'
 p22
-I1
+F0.022743708069922885
 sS'financial services'
 p23
-I1
-ssS'working-year'
+F0.027999805707948546
+sS'healthcare'
 p24
-(dp25
-V[0]
+F0.017862518829868636
+sS'oracle'
+p25
+F0.017384248334843189
+sS'retail'
 p26
-I1
-ssS'major'
+F0.022820936982890873
+ssS'working-year'
 p27
 (dp28
-S'telecommunication'
+S'[0]'
 p29
-I1
-sS'big data'
+F0.014544468414201209
+ssS'major'
 p30
-I1
-sS'data science'
-p31
-I1
-sS'machine learning engineer'
+(dp31
+VData Science
 p32
-I1
-sS'natural language processing'
+F0.0068032382953977658
+sVComputer Science
 p33
-I1
-sS'machine learning'
-p34
-I1
+F0.0059957334195509786
 ssS'education'
-p35
-(dp36
+p34
+(dp35
 S'Bachelor'
-p37
-I1
+p36
+F0.0060356213752973953
 ssS'responsibility'
-p38
-(dp39
+p37
+(dp38
 S'development'
-p40
-I1
+p39
+F0.0080196092875107188
 sS'implement'
-p41
-I1
+p40
+F0.014025583941189454
 sS'processing'
-p42
-I1
+p41
+F0.021630305783718145
 ss.

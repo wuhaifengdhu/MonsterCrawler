@@ -27,56 +27,50 @@ aS'data mining'
 p14
 aS'mathematics'
 p15
-aS'data'
-p16
-aS'scripting'
-p17
 aS'experimentation'
+p16
+aS'data'
+p17
+aS'scripting'
 p18
-asS'working-year'
+aS'matlab'
 p19
-(lp20
-V[0]
-p21
-asS'major'
+asS'working-year'
+p20
+(lp21
+S'[0]'
 p22
-(lp23
-S'information'
-p24
-aS'science'
+asS'major'
+p23
+(lp24
+VMathematics
 p25
-aS'data science'
+aVData Science
 p26
-aS'phd'
+aVEngineering
 p27
-aS'engineering'
+aVComputer Science
 p28
-aS'data mining'
-p29
-aS'mathematics'
-p30
-aS'information retrieval'
-p31
 asS'education'
+p29
+(lp30
+VDoctor
+p31
+asS'responsibility'
 p32
 (lp33
-VDoctor
-p34
-asS'responsibility'
-p35
-(lp36
 S'information'
-p37
+p34
 aS'product'
-p38
+p35
 aS'communicate'
-p39
+p36
 aS'analysis'
-p40
+p37
 aS'statistical method'
-p41
+p38
 aS'data mining'
-p42
+p39
 aS'presentation'
-p43
+p40
 as.

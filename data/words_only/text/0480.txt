@@ -1,5 +1,5 @@
-skills: {'management': 1, 'genetics': 1, 'performance management': 1, 'big data': 1, 'python': 1, 'communication': 1, 'data science': 1, 'performance measurement': 1, 'analysis': 1, 'machine learning': 1, 'analytics': 1, 'r': 1, 'advertising': 1, 'algorithm design': 1, 'organization': 1, 'retail': 1, 'data': 1, 'research': 1, 'data quality': 1, 'science': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'genetics': 1, 'big data': 1, 'science': 1, 'data science': 1, 'statistic': 1, 'machine learning': 1, 'analytics': 1, 'design': 1, 'communication': 1}
-education: {u'Master': 1}
-responsibility: {'information': 1, 'analysis': 1, 'statistical method': 1, 'understand': 1, 'design experiment': 1, 'design': 1, 'implement': 1, 'model': 1}
+skills: {'r': 0.0030327448448849246, 'statistics': 0.0025478493300617614, 'genetics': 0.010612582254423217, 'performance management': 0.012965085483917591, 'big data': 0.0034773910556357038, 'python': 0.0028483689221489943, 'communication': 0.004325599341832941, 'data science': 0.003286450616559014, 'performance measurement': 0.014772173669380342, 'analysis': 0.0018722334522083602, 'machine learning': 0.0017910320268689599, 'analytics': 0.002376331863342969, 'management': 0.0024755433530045143, 'advertising': 0.00899288875500079, 'algorithm design': 0.0115170268389915, 'organization': 0.00481744218382973, 'retail': 0.009415195312613448, 'data': 0.0019442866864667692, 'research': 0.006993117554604412, 'data quality': 0.009658027495044326, 'science': 0.005762572854049938}
+working-year: {u'(2, 5]': 0.0033850940667517365}
+major: {u'Biological Engineering': 0.007186327269061996, u'Data Science': 0.002806800498920936, u'Statistics': 0.004922144180022077, u'Computer Science': 0.0024736495801972614, u'Management Science and Engineering': 0.003523345733521564}
+education: {u'Master': 0.0019871056973338164}
+responsibility: {'information': 0.0075798098334939595, 'analysis': 0.0018722334522083602, 'statistical method': 0.009605984778829265, 'understand': 0.005742294572252118, 'implement': 0.005786511407430622, 'design ... experiment': 0.01226866546802228, 'model': 0.00845579695028219}

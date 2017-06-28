@@ -2,118 +2,121 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'product management'
 p4
-I1
+F0.012104643484598996
 sS'dna'
 p5
-I1
+F0.018269274686910964
 sS'finance'
 p6
-I1
+F0.010291263775905769
 sS'design thinking'
 p7
-I1
+F0.017603194941230013
 sS'agile'
 p8
-I1
+F0.0084639142352694163
 sS'data scientist'
 p9
-I1
+F0.0041060917254413885
 sS'strategy'
 p10
-I1
-sS'entrepreneurship'
-p11
-I1
-sS'product management'
-p12
-I1
-sS'optimization'
-p13
-I1
-sS'military experience'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'innovation'
-p16
-I1
-sS'communication'
-p17
-I1
-sS'product strategy'
-p18
-I1
-sS'military'
-p19
-I1
+F0.0061046954698714528
 sS'data'
+p11
+F0.00091939137887188307
+sS'entrepreneurship'
+p12
+F0.014528707577934735
+sS'banking'
+p13
+F0.01331123999441223
+sS'engineering'
+p14
+F0.0047474991359443977
+sS'optimization'
+p15
+F0.007751972315459466
+sS'military experience'
+p16
+F0.017215278906871204
+sS'computer science'
+p17
+F0.0054495475317334133
+sS'innovation'
+p18
+F0.0075031964036229599
+sS'communication'
+p19
+F0.0061363153453909162
+sS'product strategy'
 p20
-I1
-ssS'working-year'
+F0.018392330570208677
+sS'military'
 p21
-(dp22
-V(0, 2]
+F0.014467668883844221
+sS'loans'
+p22
+F0.024160045009106904
+sS'science'
 p23
-I1
-ssS'major'
+F0.002724937551139893
+ssS'working-year'
 p24
 (dp25
-S'management'
+V(0, 2]
 p26
-I1
-sS'finance'
+F0.0088278300933726881
+ssS'major'
 p27
-I1
-sS'business'
-p28
-I1
-sS'communication'
+(dp28
+VEngineering
 p29
-I1
-sS'entrepreneurship'
+F0.0047474991359443977
+sVEconomics
 p30
-I1
-sS'computer science engineering'
+F0.0063595796415676781
+sVComputer Science
 p31
-I1
-sS'computer science'
+F0.0035091307998147197
+sVBusiness
 p32
-I1
-sS'design'
+F0.0041926912681167217
+sVManagement Science and Engineering
 p33
-I1
-sS'ee computer science'
-p34
-I1
+F0.0049982346452282648
 ssS'education'
-p35
-(dp36
+p34
+(dp35
 VBachelor
-p37
-I1
+p36
+F0.0035324760762399485
 ssS'responsibility'
-p38
-(dp39
+p37
+(dp38
 S'product'
-p40
-I1
+p39
+F0.036492055174512504
 sS'improvement'
+p40
+F0.01041165308658569
+sS'drive ... decision'
 p41
-I1
+F0.01564373154546168
 sS'optimization'
 p42
-I1
+F0.007751972315459466
 sS'design'
 p43
-I1
+F0.0056605380233274325
 sS'understand'
 p44
-I1
+F0.0081460457885437036
 sS'transformation'
 p45
-I1
+F0.012187818354003357
+sS'decision making'
+p46
+F0.012661174612129898
 ss.

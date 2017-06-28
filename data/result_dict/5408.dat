@@ -12,113 +12,101 @@ aS'analytics'
 p7
 aS'openmp'
 p8
-aS'education'
+aS'sas'
 p9
-aS'open source'
+aS'education'
 p10
-aS'deep learning'
+aS'statistics'
 p11
-aS'research'
+aS'open source'
 p12
-aS'access'
+aS'deep learning'
 p13
-aS'teamwork'
+aS'research'
 p14
-aS'computer science'
+aS'access'
 p15
-aS'natural language processing'
+aS'teamwork'
 p16
-aS'mathematics'
+aS'computer science'
 p17
-aS'architecture'
+aS'natural language processing'
 p18
-aS'signal processing'
+aS'mathematics'
 p19
-aS'collaboration'
+aS'architecture'
 p20
 aS'processing'
 p21
-aS'data scientist'
+aS'signal processing'
 p22
-aS'mpi'
+aS'collaboration'
 p23
-aS'gpu'
+aS'innovation'
 p24
-aS'java'
+aS'data scientist'
 p25
-aS'data'
+aS'mpi'
 p26
-aS'tensorflow'
+aS'gpu'
 p27
+aS'java'
+p28
+aS'data'
+p29
+aS'tensorflow'
+p30
 aS'c'
 aS'science'
-p28
-aS'programming'
-p29
-aS'c++'
-p30
-aS'machine learning'
 p31
-aS'cuda'
+aS'programming'
 p32
-aS'theano'
+aS'machine learning'
 p33
-asS'working-year'
+aS'cuda'
 p34
-(lp35
-V[0]
+aS'theano'
+p35
+aS'physics'
 p36
-asS'major'
+asS'working-year'
 p37
 (lp38
-S'information'
+S'[0]'
 p39
-aS'computer science mathematics'
+asS'major'
 p40
-aS'analytics'
-p41
-aS'science'
+(lp41
+VMathematics
 p42
-aS'statistic'
+aVData Science
 p43
-aS'communication'
+aVStatistics
 p44
-aS'machine learning'
+aVPhysics
 p45
-aS'mathematics statistics'
+aVComputer Science
 p46
-aS'computing'
-p47
-aS'computer science'
-p48
-aS'natural language processing'
-p49
-aS'mathematics'
-p50
-aS'law'
-p51
-aVphysic
-p52
 asS'education'
-p53
-(lp54
+p47
+(lp48
 VMaster
-p55
+p49
 aVDoctor
-p56
+p50
 asS'responsibility'
-p57
-(lp58
+p51
+(lp52
 S'development'
-p59
+p53
 aS'information'
-p60
+p54
 aS'product'
-p61
+p55
 aS'processing'
-p62
+p56
 aS'implement'
-p63
+p57
 aS'prototype'
-p64
+p58
 as.

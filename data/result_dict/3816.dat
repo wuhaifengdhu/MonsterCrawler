@@ -4,60 +4,69 @@ p2
 (lp3
 S'search'
 p4
-aS'open source'
+aS'statistics'
 p5
-aS'open source software'
+aS'open source'
 p6
-aS'science'
+aS'open source software'
 p7
-aS'mapreduce'
+aS'python'
 p8
-aS'analysis'
+aS'science'
 p9
-aS'hadoop'
+aS'mapreduce'
 p10
-aS'hive'
+aS'physics'
 p11
-aS'unix'
+aS'hadoop'
 p12
-aS'computer science'
+aS'hive'
 p13
-aS'problem solving'
+aS'unix'
 p14
-aS'data'
-p15
-aVpanda
-p16
-aS'scripting'
-p17
-asS'working-year'
-p18
-(lp19
-V(2, 5]
-p20
-asS'major'
-p21
-(lp22
-S'science'
-p23
-aS'physics computer science'
-p24
+aS'r'
 aS'computer science'
+p15
+aS'problem solving'
+p16
+aS'sql'
+p17
+aS'analysis'
+p18
+aS'data'
+p19
+aVpanda
+p20
+aS'scripting'
+p21
+asS'working-year'
+p22
+(lp23
+V(2, 5]
+p24
+asS'major'
 p25
-aVphysic
-p26
-aS'statistic'
+(lp26
+VStatistics
 p27
-asS'education'
+aVPhysics
 p28
-(lp29
-VMaster
+aVComputer Science
+p29
+asS'education'
 p30
-asS'responsibility'
-p31
-(lp32
-S'analysis'
+(lp31
+VBachelor
+p32
+aVMaster
 p33
-aS'recommendation'
+aVDoctor
 p34
+asS'responsibility'
+p35
+(lp36
+S'analysis'
+p37
+aS'recommendation'
+p38
 as.

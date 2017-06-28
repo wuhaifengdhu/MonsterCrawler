@@ -2,143 +2,130 @@
 S'skills'
 p2
 (lp3
-S'octave'
+S'forecasting'
 p4
-aS'shell scripting'
+aS'octave'
 p5
-aS'communication'
+aS'shell scripting'
 p6
-aS'testing'
+aS'communication'
 p7
-aS'analysis'
+aS'testing'
 p8
-aS'linux'
-p9
-aS'random forest'
-p10
-aS'clustering'
-p11
-aS'linguistics'
-p12
-aS'java'
-p13
-aS'classification'
-p14
-aS'big data'
-p15
-aS'nosql'
-p16
-aS'hadoop'
-p17
-aS'regression'
-p18
-aS'computer science'
-p19
-aS'hypothesis testing'
-p20
-aS'matlab'
-p21
-aS'python'
-p22
-aS'collaboration'
-p23
-aS'data scientist'
-p24
-aS'bayesian inference'
-p25
 aS'hive'
+p9
+aS'linux'
+p10
+aS'sas'
+p11
+aS'random forest'
+p12
+aS'clustering'
+p13
+aS'linguistics'
+p14
+aS'statistics'
+p15
+aS'java'
+p16
+aS'classification'
+p17
+aS'big data'
+p18
+aS'nosql'
+p19
+aS'hadoop'
+p20
+aS'regression'
+p21
+aS'computer science'
+p22
+aS'hypothesis testing'
+p23
+aS'matlab'
+p24
+aS'python'
+p25
+aS'collaboration'
 p26
-aS'svm'
+aS'bayesian inference'
 p27
-aS'computational linguistics'
+aS'svm'
 p28
-aS'statistical modeling'
+aS'computational linguistics'
 p29
-aS'sql'
+aS'statistical modeling'
 p30
-aS'modeling'
+aS'sql'
 p31
-aS'data'
+aS'modeling'
 p32
-aS'decision trees'
+aS'data'
 p33
-aS'science'
+aS'c'
+aS'decision trees'
 p34
-aS'economics'
+aS'science'
 p35
-aS'programming'
+aS'economics'
 p36
-aS'c++'
+aS'programming'
 p37
-aS'machine learning'
+aS'analysis'
 p38
+aS'machine learning'
+p39
 aS'r'
 aS'logistic regression'
-p39
-aS'scripting'
 p40
-aS'statistical analysis'
+aS'physics'
 p41
-asS'working-year'
+aS'scripting'
 p42
-(lp43
-V(10, 15]
+aS'statistical analysis'
+p43
+asS'working-year'
 p44
+(lp45
+V(10, 15]
+p46
 asS'major'
-p45
-(lp46
-S'linguistics'
 p47
-aS'business'
-p48
-aS'big data'
+(lp48
+VLinguistics
 p49
-aS'statistics economics'
+aVStatistics
 p50
-aS'science'
+aVBusiness
 p51
-aS'economics'
+aVEconomics
 p52
-aS'communication'
+aVComputer Science
 p53
-aS'computer science statistics'
+aVPhysics
 p54
-aS'computing'
-p55
-aS'machine learning'
-p56
-aS'design'
-p57
-aS'computer science'
-p58
-aS'statistic'
-p59
-aS'phd'
-p60
-aVphysic
-p61
-aS'computational linguistics'
-p62
 asS'education'
-p63
-(lp64
+p55
+(lp56
 VMaster
-p65
+p57
 aVDoctor
-p66
+p58
 asS'responsibility'
-p67
-(lp68
+p59
+(lp60
 S'large data set'
-p69
-aVinsight
-p70
+p61
+aS'forecasting'
+p62
+aS'insight'
+p63
 aS'analysis'
-p71
-aS'statistical model'
-p72
+p64
 aS'design'
-p73
+p65
 aS'modeling'
-p74
+p66
+aS'decision making'
+p67
 as.

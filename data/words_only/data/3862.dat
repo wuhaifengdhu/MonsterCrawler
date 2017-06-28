@@ -2,213 +2,195 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-I1
-sS'centos'
-p5
-I1
+F0.0083186834780137452
 sS'communication'
-p6
-I1
+p5
+F0.0048120649213095942
 sS'mysql'
-p7
-I1
+p6
+F0.0072162854914505229
 sS'mapreduce'
+p7
+F0.0080142903250939833
+sS'analytics'
 p8
-I1
+F0.0026435789118040322
 sS'statistical analysis'
 p9
-I1
+F0.0078258363325611185
 sS'linux'
 p10
-I1
-sS'quantitative analysis'
+F0.0056111794461982658
+sS'analysis'
 p11
-I1
-sS'amazon web services'
+F0.0010413942910459876
+sS'quantitative analysis'
 p12
-I1
-sS'technical leadership'
+F0.02318542457155277
+sS'amazon web services'
 p13
-I1
-sS'java'
+F0.010073766275831248
+sS'technical leadership'
 p14
-I1
-sS'nosql'
+F0.013673859323684801
+sS'java'
 p15
-I1
-sS'big data'
+F0.0037667688986877919
+sS'centos'
 p16
-I1
-sS'user experience'
+F0.017965103245860516
+sS'big data'
 p17
-I1
-sS'hadoop'
+F0.0038684654296737616
+sS'user experience'
 p18
-I1
-sS'research'
+F0.010259005972969167
+sS'hadoop'
 p19
-I1
-sS'r'
-I1
-sS'computer science'
+F0.0039051869343451821
+sS'research'
 p20
-I1
-sS'web services'
+F0.010372770111388915
+sS'r'
+F0.0033738134140665118
+sS'computer science'
 p21
-I1
-sS'innovation'
+F0.0042735053592316734
+sS'web services'
 p22
-I1
-sS'electronics'
+F0.0089393287786023873
+sS'innovation'
 p23
-I1
-sS'hypothesis testing'
+F0.011767931137597104
+sS'electronics'
 p24
-I1
-sS'primary research'
+F0.013335791462074425
+sS'hypothesis testing'
 p25
-I1
-sS'data modeling'
+F0.013673859323684801
+sS'primary research'
 p26
-I1
+F0.020403841777535951
 sS'mongodb'
 p27
-I1
+F0.0089881330207336636
 sS'data scientist'
 p28
-I1
+F0.0032199746661516057
 sS'scalability'
 p29
-I1
+F0.012267728689146242
 sS'business process'
 p30
-I1
+F0.009286574253859441
 sS'leadership'
 p31
-I1
+F0.0050225186054827413
 sS'ubuntu'
 p32
-I1
+F0.015374804675450373
 sS'modeling'
 p33
-I1
+F0.0024685279301566946
 sS'spark'
 p34
-I1
+F0.005125032289713248
 sS'data'
 p35
-I1
-sS'programming'
+F0.0018024542230163057
+sS'science'
 p36
-I1
-sS'mobile devices'
+F0.00213688111913098
+sS'programming'
 p37
-I1
-sS'hive'
+F0.0033505022335406564
+sS'mobile devices'
 p38
-I1
-sS'machine learning'
+F0.014843071440421842
+sS'hive'
 p39
-I1
-sS'optimization algorithms'
+F0.0063396785698784392
+sS'machine learning'
 p40
-I1
+F0.0019924550815624297
 sS'optimization'
 p41
-I1
+F0.0060790542777767239
 sS'security'
 p42
-I1
+F0.0066424036951969355
 sS'high availability'
 p43
-I1
+F0.016497473795489472
 sS'data analytics'
 p44
-I1
+F0.006207667724880842
 sS'predictive analytics'
 p45
-I1
+F0.006998474690968968
 ssS'working-year'
 p46
 (dp47
 V(2, 5]
 p48
-I1
+F0.0037657885362648497
 ssS'major'
 p49
 (dp50
-S'information'
+VData Science
 p51
-I1
-sS'business'
+F0.0031224589136931995
+sVComputer Science
 p52
-I1
-sS'big data'
+F0.0027518411743227894
+sVBusiness
 p53
-I1
-sS'communication'
-p54
-I1
-sS'machine learning'
-p55
-I1
-sS'computer science'
-p56
-I1
-sS'phd'
-p57
-I1
-sS'electronics'
-p58
-I1
-sS'general'
-p59
-I1
-sS'data analytics'
-p60
-I1
-sS'predictive analytics'
-p61
-I1
+F0.003287885553720712
 ssS'education'
-p62
-(dp63
-VMaster
-p64
-I1
+p54
+(dp55
+VBachelor
+p56
+F0.0027701484123705371
+sVMaster
+p57
+F0.0022105795903470424
 sVDoctor
-p65
-I1
+p58
+F0.0033105828929375926
 ssS'responsibility'
-p66
-(dp67
+p59
+(dp60
 S'development'
-p68
-I1
+p61
+F0.0036807325301340993
 sS'information'
-p69
-I1
+p62
+F0.0042161252265331146
 sS'product'
-p70
-I1
+p63
+F0.012264372863687659
+sS'design ... experiment'
+p64
+F0.013648424198468555
+sS'analysis'
+p65
+F0.0010413942910459876
 sS'optimization'
-p71
-I1
-sS'design experiment'
-p72
-I1
+p66
+F0.0060790542777767239
 sS'modeling'
-p73
-I1
+p67
+F0.0024685279301566946
 sS'implement'
-p74
-I1
+p68
+F0.0064372740885094452
 sS'prototype'
-p75
-I1
+p69
+F0.0095841076399686559
 sS'quantitative analysis'
-p76
-I1
+p70
+F0.02318542457155277
 ss.

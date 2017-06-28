@@ -4,17 +4,17 @@ p2
 (lp3
 S'debugging'
 p4
-aS'intelligence'
+aS'communication'
 p5
 aS'reinforcement learning'
 p6
 aS'engineering'
 p7
-aS'analysis'
-p8
 aS'data mining'
-p9
+p8
 aS'simulation'
+p9
+aS'experimentation'
 p10
 aS'git'
 p11
@@ -28,7 +28,7 @@ aS'research'
 p15
 aS'computer science'
 p16
-aS'communication'
+aS'intelligence'
 p17
 aS'operations research'
 p18
@@ -43,118 +43,96 @@ p22
 aS'c'
 aS'experimental design'
 p23
-aS'data processing'
+aS'statistics'
 p24
-aS'data wrangling'
+aS'data processing'
 p25
-aS'data'
-p26
-aS'training'
-p27
-aS'software engineering'
-p28
-aS'science'
-p29
-aS'economics'
-p30
-aS'programming'
-p31
-aS'c++'
-p32
-aS'machine learning'
-p33
-aS'data engineering'
-p34
-aS'artificial intelligence'
-p35
-aS'application development'
-p36
-asS'working-year'
-p37
-(lp38
-V(5, 10]
-p39
-asS'major'
-p40
-(lp41
-S'economics statistics'
-p42
-aS'communication'
-p43
-aS'data mining'
-p44
-aS'reinforcement learning'
-p45
-aS'engineering'
-p46
-aS'design'
-p47
-aS'machine learning artificial intelligence'
-p48
-aS'statistic'
-p49
-aS'development practice'
-p50
-aS'computer science economics'
-p51
-aS'statistics operations research'
-p52
-aS'information'
-p53
-aS'computer science'
-p54
-aS'operations research'
-p55
-aS'business'
-p56
-aS'phd'
-p57
-aS'law'
-p58
-aS'software engineering'
-p59
-aS'science'
-p60
-aS'economics'
-p61
-aS'machine learning'
-p62
-aS'artificial intelligence'
-p63
-asS'education'
-p64
-(lp65
-VDoctor
-p66
-asS'responsibility'
-p67
-(lp68
-S'development'
-p69
-aS'information'
-p70
-aS'product'
-p71
-aS'data analysis'
-p72
 aS'data wrangling'
-p73
-aS'business problem'
-p74
-aS'processing'
-p75
+p26
+aS'spark'
+p27
+aS'data'
+p28
+aS'training'
+p29
+aS'software engineering'
+p30
+aS'windows'
+p31
+aS'science'
+p32
+aS'economics'
+p33
+aS'programming'
+p34
 aS'analysis'
-p76
+p35
+aS'machine learning'
+p36
+aS'data engineering'
+p37
+aS'algorithms'
+p38
+aS'artificial intelligence'
+p39
+aS'application development'
+p40
+asS'working-year'
+p41
+(lp42
+V(5, 10]
+p43
+asS'major'
+p44
+(lp45
+VStatistics
+p46
+aVBusiness
+p47
+aVEconomics
+p48
+aVEngineering
+p49
+aVComputer Science
+p50
+aVOperations Research
+p51
+asS'education'
+p52
+(lp53
+VMaster
+p54
+aVDoctor
+p55
+asS'responsibility'
+p56
+(lp57
+S'development'
+p58
+aS'information'
+p59
+aS'product'
+p60
+aS'data analysis'
+p61
+aS'data wrangling'
+p62
+aS'processing'
+p63
+aS'analysis'
+p64
 aS'simulation'
-p77
+p65
 aS'design'
-p78
-aS'design experiment'
-p79
+p66
 aS'data mining'
-p80
+p67
 aS'understand'
-p81
+p68
+aS'design ... experiment'
+p69
 aS'transformation'
-p82
+p70
+aS'decision making'
+p71
 as.

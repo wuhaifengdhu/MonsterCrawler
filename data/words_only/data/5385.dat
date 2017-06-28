@@ -4,178 +4,174 @@ p2
 (dp3
 S'venture capital'
 p4
-I1
+F0.015754830948112593
 sS'communication'
 p5
-I1
-sS'engineering'
+F0.0044222607796392636
+sS'analytics'
 p6
-I1
-sS'statistical analysis'
-p7
-I1
-sS'analysis'
-p8
-I1
-sS'education'
-p9
-I1
-sS'java'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'user experience'
-p12
-I1
-sS'hadoop'
-p13
-I1
-sS'matlab'
-p14
-I1
-sS'stata'
-p15
-I1
-sS'android'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'segmentation'
-p18
-I1
-sS'data analysis'
-p19
-I1
-sS'python'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'bigquery'
-p22
-I1
-sS'experimental design'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'data'
-p25
-I1
-sS'b testing'
-p26
-I1
-sS'programming'
-p27
-I1
-sS'hive'
-p28
-I1
-sS'spss'
-p29
-I1
-sS'r'
-I1
-sS'predictive analytics'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(0, 2]
-p33
-I1
-sV(2, 5]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'computer science mathematics'
-p37
-I1
-sS'school computer science'
-p38
-I1
-sS'business'
-p39
-I1
-sS'communication'
-p40
-I1
-sS'data analyst'
-p41
-I1
-sS'phd'
-p42
-I1
-sS'mathematics statistics'
-p43
-I1
+F0.0024294342513506333
 sS'engineering'
-p44
-I1
-sS'design'
-p45
-I1
-sS'computer science'
-p46
-I1
-sS'statistic'
-p47
-I1
-sS'big data'
-p48
-I1
-sS'predictive analytics'
-p49
-I1
-ssS'education'
-p50
-(dp51
-VDoctor
-p52
-I1
-ssS'responsibility'
-p53
-(dp54
-S'development'
-p55
-I1
-sS'mine data'
-p56
-I1
-sS'data analysis'
-p57
-I1
-sVinsight
-p58
-I1
-sS'product'
-p59
-I1
+p7
+F0.010264146176594871
+sS'statistical analysis'
+p8
+F0.0071918998698676205
+sS'sas'
+p9
+F0.0038693766946296558
 sS'analysis'
-p60
-I1
+p10
+F0.00095703553562606137
+sS'education'
+p11
+F0.011724171786666309
+sS'statistics'
+p12
+F0.0052095690212436013
+sS'java'
+p13
+F0.0034616395744924123
+sS'big data'
+p14
+F0.0035550981183314736
+sS'user experience'
+p15
+F0.0094279691762761339
+sS'hadoop'
+p16
+F0.0035888449759764384
+sS'matlab'
+p17
+F0.0035653664459163823
+sS'stata'
+p18
+F0.0085012542812812029
+sS'mathematics'
+p19
+F0.010211694313272658
+sS'android'
+p20
+F0.011394782052325513
+sS'computer science'
+p21
+F0.0039273275508022922
+sS'segmentation'
+p22
+F0.016179057609665034
+sS'data analysis'
+p23
+F0.0041445866339823055
+sS'python'
+p24
+F0.0014560098121599609
+sS'data scientist'
+p25
+F0.00295913872950804
+sS'bigquery'
+p26
+F0.016709435041675734
+sS'experimental design'
+p27
+F0.0096751756118441234
+sS'sql'
+p28
+F0.0019048711140587909
+sS'data'
+p29
+F0.0029816016504755761
+sS'a'
+F0.0052235807084190693
+sS'b testing'
+p30
+F0.011144032302675274
+sS'science'
+p31
+F0.0058913454317940702
+sS'programming'
+p32
+F0.0030790928347342902
+sS'hive'
+p33
+F0.0058261291885195717
+sS'spss'
+p34
+F0.0061629855610546517
+sS'r'
+F0.0015502578397037464
+sS'predictive analytics'
+p35
+F0.0064315591433765093
+ssS'working-year'
+p36
+(dp37
+V(0, 2]
+p38
+F0.0063619557656149541
+sV(2, 5]
+p39
+F0.0034607386269026132
+ssS'major'
+p40
+(dp41
+VStatistics
+p42
+F0.0050321362287376542
+sVBusiness
+p43
+F0.0030215484557936153
+sVData Science
+p44
+F0.0028695222977795048
+sVEngineering
+p45
+F0.0062915612479517531
+sVComputer Science
+p46
+F0.0025289266657882621
+sVMathematics
+p47
+F0.0047884707530236091
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0025457509152790694
+sVDoctor
+p51
+F0.0030424071837331511
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.0033825726324416723
+sS'product'
+p55
+F0.0075139267637862944
+sS'data analysis'
+p56
+F0.0041445866339823055
+sS'insight'
+p57
+F0.015376201307342054
+sS'analysis'
+p58
+F0.00095703553562606137
 sS'analytic'
-p61
-I1
+p59
+F0.0063064971293286115
 sS'design'
-p62
-I1
+p60
+F0.0040793821508896023
 sS'recommendation'
-p63
-I1
+p61
+F0.0072966529184867917
 sS'report'
-p64
-I1
+p62
+F0.005796861508861534
 sS'understand'
-p65
-I1
+p63
+F0.017611842012102866
 ss.

@@ -4,193 +4,183 @@ p2
 (dp3
 S'jira'
 p4
-I1
+F0.010780246858538945
 sS'network security'
 p5
-I1
-sS'communication'
+F0.012530795561975446
+sS'dod'
 p6
-I1
+F0.010172484234398815
 sS'linux'
 p7
-I1
-sS'hadoop'
+F0.0044483808139740471
+sS'integration'
 p8
-I1
+F0.016671637027912863
 sS'engineering'
 p9
-I1
+F0.0088543718824601551
 sS'defense'
 p10
-I1
+F0.042549857276243837
 sS'data warehousing'
 p11
-I1
+F0.007328892196829623
 sS'analysis'
 p12
-I1
+F0.0033023491253410119
 sS'system design'
 p13
-I1
+F0.011188175245260374
 sS'data mining'
 p14
-I1
-sS'insurance'
+F0.0051132032016437054
+sS'education'
 p15
-I1
-sS'java'
+F0.0050569319272608902
+sS'insurance'
 p16
-I1
-sS'scala'
+F0.015196006812287654
+sS'java'
 p17
-I1
-sS'integration'
+F0.0029861854642609241
+sS'scala'
 p18
-I1
-sS'research'
+F0.0058808828619244264
+sS'hadoop'
 p19
-I1
-sS'etl'
+F0.0092877578414426384
+sS'research'
 p20
-I1
-sS'computer science'
+F0.0061674241565908795
+sS'etl'
 p21
-I1
-sS'microstrategy'
+F0.0068669028289522482
+sS'computer science'
 p22
-I1
-sS'technical training'
+F0.0033879114775595682
+sS'microstrategy'
 p23
-I1
-sS'operating systems'
+F0.011007933160231822
+sS'technical training'
 p24
-I1
-sS'government'
+F0.014505344528741146
+sS'operating systems'
 p25
-I1
-sS'python'
+F0.01140849660595588
+sS'government'
 p26
-I1
-sS'data scientist'
+F0.0062822157003107606
+sS'python'
 p27
-I1
-sS'training'
+F0.0012560277415741351
+sS'data scientist'
 p28
-I1
-sS'dod'
+F0.0025527028076238033
+sS'training'
 p29
-I1
+F0.0056705897614995893
 sS'sql'
 p30
-I1
+F0.0016432382140555352
 sS'modeling'
 p31
-I1
+F0.0019569775639073556
 sS'data'
 p32
-I1
+F0.0042868007665472141
+sS'a'
+F0.0045061250448530767
 sS'c'
-I1
+F0.003013546804573729
 sS'itil'
 p33
-I1
+F0.011567430116664487
 sS'data visualization'
 p34
-I1
-sS'communication skills'
+F0.0047391171700713278
+sS'science'
 p35
-I1
-sS'system architecture'
+F0.0016940575619134757
+sS'communication skills'
 p36
-I1
-sS'architecture'
+F0.0088750020531569249
+sS'telecommunications'
 p37
-I1
-sS'military'
+F0.010901765636323607
+sS'system architecture'
 p38
-I1
-sS'data analytics'
+F0.010780246858538945
+sS'architecture'
 p39
-I1
-ssS'working-year'
+F0.0052699145124931526
+sS'military'
 p40
-(dp41
-V(15, 20]
-p42
-I1
-sV(20, 30)
-p43
-I1
-sV(10, 15]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
-sS'network security'
-p48
-I1
-sS'telecommunication'
-p49
-I1
-sS'business'
-p50
-I1
-sS'communication'
-p51
-I1
-sS'data analyst'
-p52
-I1
-sS'engineering'
-p53
-I1
-sS'design'
-p54
-I1
-sS'computer science'
-p55
-I1
-sS'data mining'
-p56
-I1
+F0.0089943580048959266
+sS'security'
+p41
+F0.0052659055800476917
 sS'data analytics'
-p57
-I1
+p42
+F0.0049212594734597522
+ssS'working-year'
+p43
+(dp44
+V(15, 20]
+p45
+F0.0067343755823795117
+sV(20, 30)
+p46
+F0.013130542145691546
+sV(10, 15]
+p47
+F0.0047166900149358051
+ssS'major'
+p48
+(dp49
+VData Science
+p50
+F0.0024753951388073801
+sVEngineering
+p51
+F0.0054274191006427174
+sVBusiness
+p52
+F0.0026065405956002753
+sVComputer Science
+p53
+F0.002181580111692043
 ssS'education'
+p54
+(dp55
+VBachelor
+p56
+F0.0021960935606503778
+sVMaster
+p57
+F0.0017524835788534385
+ssS'responsibility'
 p58
 (dp59
-VBachelor
-p60
-I1
-sVMaster
-p61
-I1
-ssS'responsibility'
-p62
-(dp63
 S'development'
-p64
-I1
+p60
+F0.0087539349572104963
 sS'information'
-p65
-I1
+p61
+F0.0033424221675407103
 sS'analysis'
-p66
-I1
+p62
+F0.0033023491253410119
 sS'design'
-p67
-I1
+p63
+F0.0035190814699240427
 sS'data mining'
-p68
-I1
+p64
+F0.0051132032016437054
 sS'modeling'
-p69
-I1
+p65
+F0.0019569775639073556
 sS'model'
-p70
-I1
+p66
+F0.0074574016477187517
 ss.

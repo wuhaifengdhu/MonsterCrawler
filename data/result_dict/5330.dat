@@ -2,128 +2,122 @@
 S'skills'
 p2
 (lp3
-S'project planning'
+S'business strategy'
 p4
-aS'testing'
+aS'project planning'
 p5
-aS'information management'
+aS'testing'
 p6
-aS'analytics'
-p7
-aS'process improvement'
-p8
-aS'strategy'
-p9
-aS'visualization'
-p10
-aS'management'
-p11
-aS'rdbms'
-p12
 aS'integration'
-p13
-aS'research'
-p14
-aS'access'
-p15
-aS'coaching'
-p16
-aS'computer science'
-p17
-aS'business requirements'
-p18
-aS'hdfs'
-p19
-aS'data scientist'
-p20
-aS'data quality'
-p21
-aS'business analytics'
-p22
-aS'business process'
-p23
-aS'mentoring'
-p24
-aS'sql'
-p25
-aS'data'
-p26
-aS'data visualization'
-p27
-aS'science'
-p28
-aS'documentation'
-p29
-aS'business strategy'
-p30
-aS'unit testing'
-p31
-aS'data warehousing'
-p32
-asS'working-year'
-p33
-(lp34
-V(5, 10]
-p35
-aV(2, 5]
-p36
-asS'major'
-p37
-(lp38
-S'information'
-p39
-aS'management'
-p40
-aS'business'
-p41
-aS'science'
-p42
-aS'information management'
-p43
-aS'business analytics'
-p44
+p7
 aS'analytics'
-p45
-aS'design'
-p46
+p8
+aS'process improvement'
+p9
+aS'strategy'
+p10
+aS'visualization'
+p11
+aS'management'
+p12
+aS'rdbms'
+p13
+aS'hadoop'
+p14
+aS'research'
+p15
+aS'access'
+p16
+aS'information management'
+p17
+aS'coaching'
+p18
 aS'computer science'
-p47
-aS'statistic'
-p48
-asS'education'
-p49
-(lp50
-VBachelor
-p51
-aVMaster
-p52
-asS'responsibility'
-p53
-(lp54
-S'development'
-p55
-aS'information'
-p56
-aS'mine data'
-p57
-aS'pattern'
-p58
+p19
+aS'business requirements'
+p20
+aS'hdfs'
+p21
+aS'data scientist'
+p22
+aS'data quality'
+p23
+aS'business analytics'
+p24
+aS'business process'
+p25
+aS'mentoring'
+p26
+aS'sql'
+p27
+aS'data'
+p28
+aS'organization'
+p29
+aS'data visualization'
+p30
+aS'science'
+p31
 aS'documentation'
-p59
+p32
+aS'programming'
+p33
+aS'unit testing'
+p34
+aS'data warehousing'
+p35
+asS'working-year'
+p36
+(lp37
+V(5, 10]
+p38
+aV(2, 5]
+p39
+asS'major'
+p40
+(lp41
+VData Science
+p42
+aVInformation Science
+p43
+aVComputer Science
+p44
+aVBusiness
+p45
+aVManagement Science and Engineering
+p46
+asS'education'
+p47
+(lp48
+VBachelor
+p49
+aVMaster
+p50
+asS'responsibility'
+p51
+(lp52
+S'development'
+p53
+aS'information'
+p54
+aS'pattern'
+p55
+aS'documentation'
+p56
 aS'improvement'
-p60
-aS'interface'
-p61
+p57
 aS'design'
-p62
+p58
+aS'identify ... trend'
+p59
 aS'report'
-p63
+p60
 aS'understand'
-p64
+p61
 aS'model'
-p65
+p62
 aS'transformation'
-p66
+p63
 aS'data sourcing'
-p67
+p64
 as.

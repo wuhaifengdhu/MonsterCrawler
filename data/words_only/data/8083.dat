@@ -2,91 +2,94 @@
 S'skills'
 p2
 (dp3
-S'user experience'
+S'management'
 p4
-I1
-sS'storage'
+F0.0046464044471777035
+sS'user experience'
 p5
-I1
-sS'cloud computing'
+F0.017308784436445415
+sS'storage'
 p6
-I1
-sS'data scientist'
+F0.019182059295110049
+sS'cloud computing'
 p7
-I1
-sS'user research'
+F0.016603059665219723
+sS'data scientist'
 p8
-I1
-sS'research'
+F0.0054326752059686064
+sS'user research'
 p9
-I1
-sS'software design'
+F0.028791046597416034
+sS'servers'
 p10
-I1
-sS'engineering'
+F0.028411007152654315
+sS'software design'
 p11
-I1
-sS'enterprise software'
-p12
-I1
-sS'product management'
-p13
-I1
-sS'security'
-p14
-I1
+F0.02061710083170374
 sS'strategy'
+p12
+F0.0080769816985991529
+sS'engineering'
+p13
+F0.0062813065490956652
+sS'enterprise software'
+p14
+F0.020779911793098571
+sS'product management'
 p15
-I1
-sS'data'
+F0.016015374456546366
+sS'security'
 p16
-I1
-sS'docker'
+F0.011206927260101496
+sS'research'
 p17
-I1
-sS'project management'
+F0.0043751812392909652
+sS'data'
 p18
-I1
-ssS'working-year'
+F0.0012164255166612606
+sS'docker'
 p19
-(dp20
-V[0]
-p21
-I1
-ssS'major'
-p22
-(dp23
-S'engineering'
-p24
-I1
-sS'design'
-p25
-I1
+F0.021951864859451026
 sS'project management'
+p20
+F0.0097510426837156203
+ssS'working-year'
+p21
+(dp22
+S'[0]'
+p23
+F0.011262639643817346
+ssS'major'
+p24
+(dp25
+VEngineering
 p26
-I1
-sS'business'
+F0.0062813065490956652
+sVComputer Science
 p27
-I1
-sS'computing'
+F0.0046428499812933219
+sVBusiness
 p28
-I1
-ssS'education'
+F0.0055472530624313546
+sVManagement Science and Engineering
 p29
-(dp30
-S'Bachelor'
-p31
-I1
-ssS'responsibility'
+F0.0066130489152250891
+ssS'education'
+p30
+(dp31
+VBachelor
 p32
-(dp33
+F0.0046737375777943938
+ssS'responsibility'
+p33
+(dp34
 S'product'
-p34
-I1
-sVinsight
 p35
-I1
-sS'design'
+F0.020692198318734565
+sS'insight'
 p36
-I1
+F0.009409709517997359
+sS'design'
+p37
+F0.029957308923455953
 ss.

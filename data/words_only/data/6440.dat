@@ -4,127 +4,132 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
-sS'r d'
-p5
-I1
+F0.010764320712627638
 sS'text analytics'
-p6
-I1
+p5
+F0.011871888080238121
 sS'data science'
+p6
+F0.0033412247935016644
+sS'sales'
 p7
-I1
+F0.0092350131671972337
 sS'analytics'
 p8
-I1
+F0.0024159373943986851
 sS'management'
 p9
-I1
+F0.0050336048177758459
 sS'networking'
 p10
-I1
-sS'coaching'
+F0.010089976785113298
+sS'storage'
 p11
-I1
-sS'innovation'
+F0.010390282118184609
+sS'hadoop'
 p12
-I1
-sS'collaboration'
+F0.0035689069483321248
+sS'coaching'
 p13
-I1
-sS'processing'
+F0.010727035323983886
+sS'innovation'
 p14
-I1
-sS'talent management'
+F0.010754581511859576
+sS'marketing'
 p15
-I1
-sS'leadership'
+F0.0052922625624376354
+sS'collaboration'
 p16
-I1
-sS'staff development'
-p17
-I1
-sS'manufacturing'
-p18
-I1
-sS'data'
-p19
-I1
-sS'project management'
-p20
-I1
-sS'training'
-p21
-I1
-sS'science'
-p22
-I1
-sS'machine learning'
-p23
-I1
-sS'r'
-I1
-sS'product innovation'
-p24
-I1
-sS'organization'
-p25
-I1
-ssS'working-year'
-p26
-(dp27
-V(5, 10]
-p28
-I1
-ssS'major'
-p29
-(dp30
-S'management'
-p31
-I1
-sS'business'
-p32
-I1
-sS'science'
-p33
-I1
-sS'data science'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'business leadership'
-p36
-I1
-sS'analytics'
-p37
-I1
-sS'project management'
-p38
-I1
-ssS'education'
-p39
-(dp40
-S'Bachelor'
-p41
-I1
-ssS'responsibility'
-p42
-(dp43
-S'report'
-p44
-I1
-sS'development'
-p45
-I1
-sS'statistical method'
-p46
-I1
+F0.0071046372779818168
 sS'processing'
+p17
+F0.0045363557963075561
+sS'talent management'
+p18
+F0.01597626316842813
+sS'leadership'
+p19
+F0.01836009579115358
+sS'staff development'
+p20
+F0.018070069056824865
+sS'spark'
+p21
+F0.0046837100647657186
+sS'manufacturing'
+p22
+F0.010368496033421692
+sS'data'
+p23
+F0.0026355886194327316
+sS'project management'
+p24
+F0.0052818147870126279
+sS'a'
+F0.005194560815594519
+sS'training'
+p25
+F0.0065369298639509146
+sS'science'
+p26
+F0.0097643595582512822
+sS'machine learning'
+p27
+F0.0018208825606501093
+sS'r'
+F0.0061665811845993462
+sS'product innovation'
+p28
+F0.015667304109511969
+sS'organization'
+p29
+F0.0097954657737871174
+ssS'working-year'
+p30
+(dp31
+V(5, 10]
+p32
+F0.0033490118377134969
+ssS'major'
+p33
+(dp34
+VData Science
+p35
+F0.0028535805072362852
+sVEconomics
+p36
+F0.0045576987431235026
+sVComputer Science
+p37
+F0.0025148770732005494
+sVBusiness
+p38
+F0.0030047620754836508
+sVManagement Science and Engineering
+p39
+F0.0035820681624135903
+ssS'education'
+p40
+(dp41
+S'Bachelor'
+p42
+F0.0025316078546386298
+ssS'responsibility'
+p43
+(dp44
+S'report'
+p45
+F0.0057646567227011914
+sS'development'
+p46
+F0.0067275611245228815
+sS'statistical method'
 p47
-I1
-sS'product'
+F0.0097660845251430865
+sS'processing'
 p48
-I1
+F0.0045363557963075561
+sS'product'
+p49
+F0.0074721827262097034
 ss.

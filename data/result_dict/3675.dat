@@ -2,96 +2,83 @@
 S'skills'
 p2
 (lp3
-S'software development'
+S'communication'
 p4
 aS'human resources'
 p5
-aS'signal processing'
+aS'analytics'
 p6
-aS'image processing'
+aS'engineering'
 p7
-aS'anomaly detection'
+aS'image processing'
 p8
-aS'python'
+aS'anomaly detection'
 p9
 aS'agile'
 p10
-aS'government'
-p11
-aS'processing'
-p12
 aS'integration'
-p13
-aS'machine learning'
-p14
-aS'analytics'
-p15
-aS'engineering'
-p16
+p11
 aS'computer science'
-p17
-aS'communication'
-p18
-aS'electrical engineering'
-p19
-aS'predictive analytics'
-p20
-aS'data'
-p21
+p12
 aS'unstructured data'
-p22
-aS'data analytics'
-p23
-aS'science'
-p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-aV(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'science'
-p31
-aS'machine learning'
-p32
-aS'analytics'
-p33
-aS'engineering'
-p34
-aS'electrical'
-p35
-aS'computer science'
-p36
-aS'communication'
-p37
-aS'electrical engineering'
-p38
-aS'phd'
-p39
-aS'ee computer science'
-p40
-aS'data analytics'
-p41
-aS'predictive analytics'
-p42
-asS'education'
-p43
-(lp44
-VBachelor
-p45
-aVMaster
-p46
-aVDoctor
-p47
-asS'responsibility'
-p48
-(lp49
-S'development'
-p50
+p13
+aS'signal processing'
+p14
+aS'government'
+p15
+aS'python'
+p16
 aS'processing'
-p51
+p17
+aS'data scientist'
+p18
+aS'data'
+p19
+aS'software development'
+p20
+aS'c'
+aS'science'
+p21
+aS'machine learning'
+p22
+aS'electrical engineering'
+p23
+aS'data analytics'
+p24
+aS'predictive analytics'
+p25
+asS'working-year'
+p26
+(lp27
+V(5, 10]
+p28
+aV(2, 5]
+p29
+asS'major'
+p30
+(lp31
+VEngineering
+p32
+aVData Science
+p33
+aVElectrical and Electronics Engineering
+p34
+aVComputer Science
+p35
+asS'education'
+p36
+(lp37
+VBachelor
+p38
+aVMaster
+p39
+aVDoctor
+p40
+asS'responsibility'
+p41
+(lp42
+S'development'
+p43
+aS'processing'
+p44
 as.

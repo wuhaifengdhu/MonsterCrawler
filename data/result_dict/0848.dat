@@ -2,151 +2,138 @@
 S'skills'
 p2
 (lp3
-S'forecasting'
+S'logistics'
 p4
-aS'cancer'
-p5
-aS'communication'
-p6
-aS'analytics'
-p7
-aS'process improvement'
-p8
-aS'analysis'
-p9
-aS'mathematical modeling'
-p10
-aS'spss'
-p11
-aS'visualization'
-p12
-aS'management'
-p13
-aS'java'
-p14
-aS'predictive modeling'
-p15
-aS'recruiting'
-p16
-aS'tableau'
-p17
-aS'research'
-p18
-aS'access'
-p19
-aS'strategy'
-p20
-aS'statistical software'
-p21
-aS'innovation'
-p22
-aS'policy'
-p23
-aS'mathematics'
-p24
-aS'python'
-p25
-aS'advanced analytics'
-p26
-aS'leadership'
-p27
-aS'mentoring'
-p28
-aS'sql'
-p29
-aS'modeling'
-p30
-aS'data'
-p31
-aS'training'
-p32
-aS'data visualization'
-p33
-aS'science'
-p34
-aS'economics'
-p35
-aS'programming'
-p36
-aS'communication skills'
-p37
-aS'machine learning'
-p38
-aS'r'
-aS'dashboard'
-p39
-aS'organization'
-p40
-aS'data analytics'
-p41
-aS'visual c'
-p42
-asS'working-year'
-p43
-(lp44
-V(5, 10]
-p45
-asS'major'
-p46
-(lp47
-S'information'
-p48
-aS'management'
-p49
-aS'business'
-p50
-aS'analytics'
-p51
-aS'science'
-p52
-aS'economics'
-p53
-aS'communication'
-p54
-aS'machine learning'
-p55
-aS'management science'
-p56
-aS'statistic'
-p57
-aS'advanced analytics'
-p58
-aS'mathematics'
-p59
-aS'law'
-p60
-aS'data analytics'
-p61
-aS'history'
-p62
-asS'education'
-p63
-(lp64
-VBachelor
-p65
-aVMaster
-p66
-asS'responsibility'
-p67
-(lp68
-S'information'
-p69
 aS'forecasting'
-p70
-aS'business problem'
-p71
-aVinsight
-p72
-aS'communicate'
-p73
+p5
+aS'cancer'
+p6
+aS'communication'
+p7
+aS'dashboards'
+p8
+aS'analytics'
+p9
+aS'process improvement'
+p10
 aS'analysis'
-p74
-aS'improvement'
-p75
-aS'report'
-p76
+p11
+aS'mathematical modeling'
+p12
+aS'spss'
+p13
+aS'visualization'
+p14
+aS'management'
+p15
+aS'java'
+p16
+aS'predictive modeling'
+p17
+aS'recruiting'
+p18
+aS'tableau'
+p19
+aS'research'
+p20
+aS'access'
+p21
+aS'strategy'
+p22
+aS'sas'
+p23
+aS'statistical software'
+p24
+aS'education'
+p25
+aS'innovation'
+p26
+aS'policy'
+p27
+aS'mathematics'
+p28
+aS'python'
+p29
+aS'advanced analytics'
+p30
+aS'leadership'
+p31
+aS'mentoring'
+p32
+aS'sql'
+p33
 aS'modeling'
-p77
+p34
+aS'data'
+p35
+aS'a'
+aS'training'
+p36
+aS'data visualization'
+p37
+aS'science'
+p38
+aS'economics'
+p39
+aS'programming'
+p40
+aS'communication skills'
+p41
+aS'machine learning'
+p42
+aS'r'
+aS'organization'
+p43
+aS'data analytics'
+p44
+asS'working-year'
+p45
+(lp46
+V(5, 10]
+p47
+asS'major'
+p48
+(lp49
+VBusiness
+p50
+aVData Science
+p51
+aVEconomics
+p52
+aVComputer Science
+p53
+aVMathematics
+p54
+aVManagement Science and Engineering
+p55
+asS'education'
+p56
+(lp57
+VBachelor
+p58
+aVMaster
+p59
+asS'responsibility'
+p60
+(lp61
+S'information'
+p62
+aS'forecasting'
+p63
+aS'business problem'
+p64
+aS'insight'
+p65
+aS'communicate'
+p66
+aS'analysis'
+p67
+aS'improvement'
+p68
+aS'report'
+p69
+aS'modeling'
+p70
 aS'model'
-p78
+p71
 as.

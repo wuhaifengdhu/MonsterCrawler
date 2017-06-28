@@ -4,197 +4,194 @@ p2
 (dp3
 S'cognos'
 p4
-I1
+F0.012296450654213191
 sS'forecasting'
 p5
-I1
+F0.0077163921206061014
 sS'global health'
 p6
-I1
+F0.017288850758208532
 sS'intelligence'
 p7
-I1
+F0.0082634663678251528
 sS'data science'
 p8
-I1
+F0.0031653708570015767
 sS'healthcare analytics'
 p9
-I1
+F0.013775700387739898
 sS'spss modeler'
 p10
-I1
+F0.014707727294702388
 sS'business intelligence'
 p11
-I1
+F0.0053764297599326874
 sS'statistical analysis'
 p12
-I1
+F0.0067755267195068625
 sS'data mining'
 p13
-I1
-sS'public policy'
+F0.0055841561281108881
+sS'sas'
 p14
-I1
-sS'education'
+F0.0036453601491510967
+sS'public policy'
 p15
-I1
-sS'clustering'
+F0.010915603077338534
+sS'education'
 p16
-I1
-sS'ehr'
+F0.011045403946385627
+sS'clustering'
 p17
-I1
-sS'predictive modeling'
+F0.0084826646330426574
+sS'ehr'
 p18
-I1
-sS'research'
+F0.016052001316186094
+sS'predictive modeling'
 p19
-I1
-sS'access'
+F0.0054710681807604465
+sS'research'
 p20
-I1
-sS'statistical software'
+F0.0022451587938466795
+sS'access'
 p21
-I1
-sS'innovation'
+F0.006103847434464355
+sS'statistical software'
 p22
-I1
-sS'segmentation'
+F0.010356572029730234
+sS'innovation'
 p23
-I1
-sS'data analysis'
+F0.0050942754529861144
+sS'policy'
 p24
-I1
-sS'public health'
+F0.0071833111264230252
+sS'segmentation'
 p25
-I1
-sS'data scientist'
+F0.007621187663500107
+sS'data analysis'
 p26
-I1
-sS'epidemiology'
+F0.0039046368814885926
+sS'public health'
 p27
-I1
-sS'leadership'
+F0.012724128357841239
+sS'data scientist'
 p28
-I1
-sS'sql'
+F0.0027878201714838899
+sS'epidemiology'
 p29
-I1
-sS'modeling'
+F0.012021821740779488
+sS'leadership'
 p30
-I1
-sS'data'
+F0.004348443740010058
+sS'sql'
 p31
-I1
-sS'hedis'
+F0.0017945891021922292
+sS'modeling'
 p32
-I1
-sS'science'
+F0.0021372254974251379
+sS'data'
 p33
-I1
-sS'machine learning'
+F0.0040574193220214421
+sS'hedis'
 p34
-I1
-sS'analysis'
+F0.034940821400688972
+sS'analytics'
 p35
-I1
-sS'spss'
+F0.0022887827946934912
+sS'science'
 p36
-I1
-sS'healthcare'
+F0.0037001783589162758
+sS'machine learning'
 p37
-I1
-sS'organization'
+F0.0017250466364053666
+sS'analysis'
 p38
-I1
-sS'data analytics'
+F0.00090162821514244717
+sS'spss'
 p39
-I1
-ssS'working-year'
+F0.0058061811338356974
+sS'healthcare'
 p40
-(dp41
-V(5, 10]
+F0.049686006324134599
+sS'organization'
+p41
+F0.0046399574717938975
+sS'cms'
 p42
-I1
-sV(2, 5]
+F0.044123181884107167
+sS'data analytics'
 p43
-I1
-ssS'major'
+F0.0053745333723310453
+ssS'working-year'
 p44
 (dp45
-S'data analytics business'
+V(5, 10]
 p46
-I1
-sS'public health'
+F0.0031727480567812073
+sV(2, 5]
 p47
-I1
-sS'machine learning'
+F0.0032603800748187777
+ssS'major'
 p48
-I1
-sS'epidemiology'
-p49
-I1
-sS'data mining'
+(dp49
+VBiological Engineering
 p50
-I1
-sS'public policy'
+F0.0069215678433597119
+sVData Science
 p51
-I1
-sS'phd'
+F0.0027033920594870067
+sVSociology
 p52
-I1
-sS'data science'
+F0.010356572029730234
+sVComputer Science
 p53
-I1
-sS'data analytics'
+F0.0023825151219794677
+sVBusiness
 p54
-I1
-sS'science'
-p55
-I1
+F0.0028466167030897741
 ssS'education'
-p56
-(dp57
+p55
+(dp56
 VBachelor
-p58
-I1
+p57
+F0.0023983653359734387
 sVMaster
-p59
-I1
+p58
+F0.0019138965400636234
 sVDoctor
-p60
-I1
+p59
+F0.0028662678204643896
 ssS'responsibility'
-p61
-(dp62
+p60
+(dp61
 S'large data set'
-p63
-I1
+p62
+F0.0082748871982443843
 sS'forecasting'
-p64
-I1
+p63
+F0.0077163921206061014
 sS'data analysis'
-p65
-I1
+p64
+F0.0039046368814885926
 sS'business problem'
-p66
-I1
+p65
+F0.0074951330582385383
 sS'product'
-p67
-I1
+p66
+F0.0035394549755730174
 sS'analysis'
-p68
-I1
+p67
+F0.00090162821514244717
 sS'analytic'
-p69
-I1
+p68
+F0.017824152412891918
 sS'data mining'
-p70
-I1
+p69
+F0.0055841561281108881
 sS'modeling'
-p71
-I1
+p70
+F0.0021372254974251379
 sS'model'
-p72
-I1
+p71
+F0.016288535177912008
 ss.

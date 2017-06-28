@@ -4,184 +4,176 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0097126954546678315
 sS'data science'
 p5
-I1
+F0.0036896960909834331
 sS'actuarial science'
 p6
-I1
-sS'engineering'
+F0.015256913837557924
+sS'analytics'
 p7
-I1
-sS'machine learning'
-p8
-I1
-sS'regression'
-p9
-I1
-sS'visualization'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'deep learning'
-p12
-I1
-sS'hadoop'
-p13
-I1
-sS'strategy'
-p14
-I1
-sS'r'
-I1
-sS'mixed model'
-p15
-I1
-sS'business requirements'
-p16
-I1
-sS'advanced analytics'
-p17
-I1
-sS'energy'
-p18
-I1
-sS'transportation'
-p19
-I1
-sS'python'
-p20
-I1
-sS'innovation'
-p21
-I1
-sS'microeconomics'
-p22
-I1
-sS'sql'
-p23
-I1
-sS'business development'
-p24
-I1
-sS'spark'
-p25
-I1
-sS'data'
-p26
-I1
-sS'project management'
-p27
-I1
-sS'data visualization'
-p28
-I1
-sS'analysis'
-p29
-I1
-sS'simulation'
-p30
-I1
-sS'optimization'
-p31
-I1
-sS'cluster analysis'
-p32
-I1
-sS'data analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V[0]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'transportation'
-p39
-I1
-sS'business'
-p40
-I1
-sS'big data'
-p41
-I1
-sS'computing'
-p42
-I1
-sS'communication'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'actuarial science'
-p45
-I1
-sS'machine learning'
-p46
-I1
+F0.0026679063251028425
 sS'engineering'
-p47
-I1
-sS'data analytics'
-p48
-I1
-sS'statistic'
-p49
-I1
+p8
+F0.0037572232425572231
+sS'machine learning'
+p9
+F0.0020107905577731269
+sS'regression'
+p10
+F0.0072888582536251552
+sS'visualization'
+p11
+F0.0057493719997974519
+sS'big data'
+p12
+F0.0039040648047934589
+sS'deep learning'
+p13
+F0.0095538088432314434
+sS'hadoop'
+p14
+F0.0078822484748439572
+sS'strategy'
+p15
+F0.0096626468173425448
+sS'r'
+F0.0034048607767726453
+sS'mixed model'
+p16
+F0.018349624984416908
+sS'business requirements'
+p17
+F0.015900224335516334
 sS'advanced analytics'
-p50
-I1
-sS'phd'
-p51
-I1
+p18
+F0.00902702624030087
+sS'energy'
+p19
+F0.0094647095277609946
+sS'transportation'
+p20
+F0.013600113104110328
+sS'python'
+p21
+F0.0031978620414310796
+sS'innovation'
+p22
+F0.0059381124912108087
+sS'microeconomics'
+p23
+F0.017467167220074842
+sS'sql'
+p24
+F0.0020918523277087334
+sS'business development'
+p25
+F0.010671013125896267
+sS'spark'
+p26
+F0.01034439032708993
+sS'data'
+p27
+F0.0025466577150960444
 sS'project management'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VDoctor
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
-S'development'
-p58
-I1
+p28
+F0.0058326789059035154
+sS'a'
+F0.017208974481110674
+sS'c'
+F0.0038362635702395625
+sS'data visualization'
+p29
+F0.0060329252318392663
+sS'science'
+p30
+F0.0021565456693070318
 sS'analysis'
-p59
-I1
-sS'statistical model'
-p60
-I1
-sS'analytic'
-p61
-I1
-sS'optimization'
-p62
-I1
-sS'understand'
-p63
-I1
-sS'report'
-p64
-I1
-sS'model'
-p65
-I1
+p31
+F0.0042039106963696928
 sS'simulation'
-p66
-I1
+p32
+F0.0082356926002281339
+sS'optimization'
+p33
+F0.0061349964950568776
+sS'cluster analysis'
+p34
+F0.012057436153430726
+sS'data analytics'
+p35
+F0.0062647935014901752
+ssS'working-year'
+p36
+(dp37
+S'[0]'
+p38
+F0.0067368550016698855
+ssS'major'
+p39
+(dp40
+VBusiness
+p41
+F0.003318142169245749
+sVData Science
+p42
+F0.0031511931981750389
+sVEngineering
+p43
+F0.0037572232425572231
+sVComputer Science
+p44
+F0.0027771648661110361
+sVMathematics
+p45
+F0.0052585046919707114
+sVManagement Science and Engineering
+p46
+F0.0039556580934628598
+ssS'education'
+p47
+(dp48
+VMaster
+p49
+F0.002230922347313426
+sVDoctor
+p50
+F0.0033410483796824171
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+F0.0037146043018837995
+sS'insight'
+p54
+F0.0056285072270229608
+sS'analysis'
+p55
+F0.0042039106963696928
+sS'statistical model'
+p56
+F0.011014921182880047
+sS'analytic'
+p57
+F0.020776619376990581
+sS'optimization'
+p58
+F0.0061349964950568776
+sS'understand'
+p59
+F0.0064468705933873474
+sS'report'
+p60
+F0.012731757178971957
+sS'model'
+p61
+F0.0047466590242381621
+sS'simulation'
+p62
+F0.0082356926002281339
 sS'presentation'
-p67
-I1
+p63
+F0.007556301663526401
 ss.

@@ -4,55 +4,57 @@ p2
 (lp3
 S'consulting'
 p4
-aS'marketing'
-p5
 aS'processing'
+p5
+aS'marketing'
 p6
+aS'c'
 aS'data scientist'
 p7
-aS'c'
-aS'analytics'
+aS'sales'
 p8
-aS'pricing'
-p9
-aS'intelligence'
-p10
-aS'organization'
-p11
-aS'direct mail'
-p12
-aS'data'
-p13
-aS'customer experience'
-p14
-asS'working-year'
-p15
-(lp16
-V(5, 10]
-p17
-asS'major'
-p18
-(lp19
-S'marketing'
-p20
-aS'business'
-p21
 aS'analytics'
+p9
+aS'pricing'
+p10
+aS'intelligence'
+p11
+aS'organization'
+p12
+aS'direct mail'
+p13
+aS'data'
+p14
+aS'customer experience'
+p15
+asS'working-year'
+p16
+(lp17
+V(5, 10]
+p18
+asS'major'
+p19
+(lp20
+VData Science
+p21
+aVEconomics
 p22
-asS'education'
+aVBusiness
 p23
-(lp24
-S'Bachelor'
-p25
-asS'responsibility'
+asS'education'
+p24
+(lp25
+VMaster
 p26
-(lp27
+asS'responsibility'
+p27
+(lp28
 S'report'
-p28
-aS'analytic'
 p29
-aVinsight
+aS'analytic'
 p30
-aS'processing'
+aS'insight'
 p31
+aS'processing'
+p32
 as.

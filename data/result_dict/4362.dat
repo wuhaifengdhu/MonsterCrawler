@@ -10,7 +10,7 @@ aS'information retrieval'
 p6
 aS'engineering'
 p7
-aS'analysis'
+aS'hive'
 p8
 aS'modeling'
 p9
@@ -22,45 +22,47 @@ aS'clustering'
 p12
 aS'visualization'
 p13
-aS'ruby'
+aS'anomaly detection'
 p14
-aS'predictive modeling'
+aS'ruby'
 p15
-aS'hadoop'
+aS'predictive modeling'
 p16
-aS'strategy'
+aS'hadoop'
 p17
-aS'optimization'
+aS'strategy'
 p18
-aS'matlab'
+aS'optimization'
 p19
-aS'natural language processing'
+aS'matlab'
 p20
-aS'numpy'
+aS'natural language processing'
 p21
-aS'python'
+aS'numpy'
 p22
-aS'processing'
+aS'python'
 p23
-aS'hive'
+aS'processing'
 p24
-aS'scipy'
-p25
-aS'data processing'
-p26
-aS'sql'
-p27
-aS'business development'
-p28
-aS'pig'
-p29
-aS'data'
-p30
 aS'search'
+p25
+aS'scipy'
+p26
+aS'data processing'
+p27
+aS'sql'
+p28
+aS'business development'
+p29
+aS'pig'
+p30
+aS'data'
 p31
+aS'a'
+aS'c'
 aS'github'
 p32
-aS'c++'
+aS'analysis'
 p33
 aS'machine learning'
 p34
@@ -72,57 +74,49 @@ p36
 asS'working-year'
 p37
 (lp38
-V[0]
+S'[0]'
 p39
 asS'major'
 p40
 (lp41
-S'information'
+VEngineering
 p42
-aS'business'
+aVComputer Science
 p43
-aS'information retrieval'
+aVBusiness
 p44
-aS'engineering'
-p45
-aS'design'
-p46
-aS'natural language processing'
-p47
-aS'machine learning'
-p48
 asS'education'
-p49
-(lp50
+p45
+(lp46
 VBachelor
-p51
+p47
 aVMaster
-p52
+p48
 aVDoctor
-p53
+p49
 asS'responsibility'
-p54
-(lp55
+p50
+(lp51
 S'development'
-p56
-aS'large data set'
-p57
-aS'product'
-p58
-aS'processing'
-p59
+p52
 aS'information'
-p60
-aVinsight
-p61
+p53
+aS'product'
+p54
+aS'processing'
+p55
+aS'large data set'
+p56
+aS'insight'
+p57
 aS'communicate'
-p62
+p58
 aS'analysis'
-p63
+p59
 aS'optimization'
-p64
+p60
 aS'design'
-p65
+p61
 aS'modeling'
-p66
+p62
 as.

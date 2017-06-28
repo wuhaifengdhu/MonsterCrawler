@@ -6,148 +6,134 @@ S'soa'
 p4
 aS'communication'
 p5
-aS'engineering'
-p6
-aS'integration'
-p7
-aS'business intelligence'
-p8
-aS'data warehousing'
-p9
-aS'cassandra'
-p10
-aS'data center'
-p11
-aS'management'
-p12
-aS'impala'
-p13
-aS'big data'
-p14
-aS'data migration'
-p15
-aS'air force'
-p16
-aS'hadoop'
-p17
-aS'teamwork'
-p18
-aS'computer science'
-p19
-aS'intelligence'
-p20
-aS'mathematics'
-p21
-aS'data management'
-p22
-aS'data modeling'
-p23
-aS'government'
-p24
-aS'data scientist'
-p25
-aS'bigquery'
-p26
 aS'splunk'
-p27
-aS'modeling'
-p28
-aS'data'
-p29
-aS'information technology'
-p30
-aS'software development'
-p31
-aS'science'
-p32
-aS'cloud computing'
-p33
-aS'mapreduce'
-p34
-aS'security clearance'
-p35
-aS'data architecture'
-p36
-aS'command'
-p37
-aS'architecture'
-p38
-aS'oracle'
-p39
-aS'military'
-p40
-aS'security'
-p41
-aS'microsoft office'
-p42
-aS'data integration'
-p43
-asS'working-year'
-p44
-(lp45
-V(10, 15]
-p46
-asS'major'
-p47
-(lp48
-S'information'
-p49
-aS'management'
-p50
-aS'business'
-p51
-aS'big data'
-p52
-aS'business administration'
-p53
-aS'science'
-p54
-aS'computing'
-p55
-aS'communication'
-p56
-aS'information systems'
-p57
+p6
 aS'engineering'
-p58
-aS'information system'
-p59
-aS'design'
-p60
+p7
+aS'integration'
+p8
+aS'business intelligence'
+p9
+aS'defense'
+p10
+aS'data warehousing'
+p11
+aS'sas'
+p12
+aS'education'
+p13
+aS'cassandra'
+p14
+aS'management'
+p15
+aS'impala'
+p16
+aS'big data'
+p17
+aS'data migration'
+p18
+aS'air force'
+p19
+aS'hadoop'
+p20
+aS'writing'
+p21
+aS'teamwork'
+p22
 aS'computer science'
-p61
-aS'computer information systems'
-p62
+p23
+aS'intelligence'
+p24
 aS'mathematics'
-p63
-aS'general'
-p64
-aS'ee computer science'
-p65
-aS'information technology'
-p66
-asS'education'
-p67
-(lp68
-VBachelor
-p69
-asS'responsibility'
-p70
-(lp71
-S'development'
-p72
-aS'information'
-p73
-aS'communicate'
-p74
-aS'design'
-p75
-aS'interface'
-p76
+p25
+aS'data management'
+p26
+aS'data modeling'
+p27
+aS'government'
+p28
+aS'data scientist'
+p29
+aS'bigquery'
+p30
+aS'sql'
+p31
 aS'modeling'
-p77
+p32
+aS'data'
+p33
+aS'information technology'
+p34
+aS'software development'
+p35
+aS'organization'
+p36
+aS'science'
+p37
+aS'cloud computing'
+p38
+aS'mapreduce'
+p39
+aS'security clearance'
+p40
+aS'data architecture'
+p41
+aS'command'
+p42
+aS'architecture'
+p43
+aS'oracle'
+p44
+aS'military'
+p45
+aS'security'
+p46
+aS'microsoft office'
+p47
+aS'data integration'
+p48
+asS'working-year'
+p49
+(lp50
+V(10, 15]
+p51
+asS'major'
+p52
+(lp53
+VBusiness
+p54
+aVEngineering
+p55
+aVInformation Science
+p56
+aVComputer Science
+p57
+aVMathematics
+p58
+aVManagement Science and Engineering
+p59
+asS'education'
+p60
+(lp61
+VBachelor
+p62
+asS'responsibility'
+p63
+(lp64
+S'development'
+p65
+aS'information'
+p66
+aS'communicate'
+p67
+aS'design'
+p68
+aS'interface'
+p69
+aS'modeling'
+p70
 aS'model'
-p78
+p71
 aS'normalization'
-p79
+p72
 as.

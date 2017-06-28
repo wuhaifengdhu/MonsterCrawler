@@ -26,70 +26,64 @@ aS'python'
 p14
 aS'mongodb'
 p15
-aS'data scientist'
-p16
 aS'search'
-p17
+p16
 aS'java'
-p18
+p17
 aS'data'
-p19
+p18
 aS'training'
-p20
+p19
 aS'github'
-p21
+p20
 aS'software engineering'
+p21
+aS'science'
 p22
 aS'programming'
 p23
 aS'elasticsearch'
 p24
-aS'healthcare'
+aS'architecture'
 p25
-aS'docker'
+aS'healthcare'
 p26
-aS'retail'
+aS'docker'
 p27
-asS'working-year'
+aS'retail'
 p28
-(lp29
+asS'working-year'
+p29
+(lp30
 V(5, 10]
-p30
-aV(2, 5]
 p31
-asS'major'
+aV(2, 5]
 p32
-(lp33
-S'information'
-p34
-aS'management'
+asS'major'
+p33
+(lp34
+VEngineering
 p35
-aS'business'
+aVComputer Science
 p36
-aS'software engineering'
+aVBusiness
 p37
-aS'general'
+aVManagement Science and Engineering
 p38
-aS'engineering'
-p39
-aS'design'
-p40
-aS'computer science'
-p41
 asS'education'
+p39
+(lp40
+S'Bachelor'
+p41
+asS'responsibility'
 p42
 (lp43
-S'Bachelor'
-p44
-asS'responsibility'
-p45
-(lp46
 S'development'
-p47
+p44
 aS'information'
-p48
+p45
 aS'product'
-p49
+p46
 aS'design'
-p50
+p47
 as.

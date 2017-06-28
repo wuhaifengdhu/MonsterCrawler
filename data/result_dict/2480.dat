@@ -2,96 +2,74 @@
 S'skills'
 p2
 (lp3
-S'processing'
+S'distributed computing'
 p4
-aS'distributed computing'
-p5
 aS'big data'
-p6
+p5
 aS'nosql'
-p7
+p6
 aS'communication'
-p8
+p7
 aS'cloud computing'
+p8
+aS'processing'
 p9
-aS'innovation'
-p10
-aS'data scientist'
-p11
 aS'mapreduce'
-p12
+p10
 aS'mahout'
-p13
+p11
 aS'analytics'
-p14
+p12
 aS'architecture'
-p15
-aS'science'
-p16
+p13
+aS'innovation'
+p14
 aS'organization'
-p17
+p15
 aS'security'
+p16
+aS'data'
+p17
+aS'collaboration'
 p18
 aS'predictive analytics'
 p19
-aS'data'
-p20
-aS'collaboration'
-p21
-aS'computer science'
-p22
 asS'working-year'
+p20
+(lp21
+S'[0]'
+p22
+asS'major'
 p23
 (lp24
-V[0]
+VData Science
 p25
-asS'major'
+aVComputer Science
 p26
-(lp27
-S'information'
-p28
-aS'business'
-p29
-aS'big data'
-p30
-aS'computing'
-p31
-aS'science'
-p32
-aS'computer sciences'
-p33
-aS'analytics'
-p34
-aS'design'
-p35
-aS'computer science'
-p36
-aS'communication'
-p37
-aS'predictive analytics'
-p38
+aVBusiness
+p27
 asS'education'
-p39
-(lp40
-S'Bachelor'
-p41
+p28
+(lp29
+VBachelor
+p30
 asS'responsibility'
-p42
-(lp43
+p31
+(lp32
 S'information'
-p44
+p33
 aS'product'
-p45
+p34
 aS'processing'
-p46
-aVinsight
-p47
+p35
+aS'insight'
+p36
 aS'analytic'
-p48
+p37
 aS'understand'
-p49
+p38
 aS'design'
-p50
+p39
 aS'model'
-p51
+p40
 as.

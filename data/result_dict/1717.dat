@@ -4,23 +4,23 @@ p2
 (lp3
 S'classification'
 p4
-aS'reinforcement learning'
+aS'sql'
 p5
-aS'causal inference'
+aS'reinforcement learning'
 p6
-aS'analytics'
+aS'causal inference'
 p7
-aS'engineering'
+aS'cluster'
 p8
-aS'data-driven decision making'
+aS'engineering'
 p9
-aS'simulation'
+aS'data-driven decision making'
 p10
-aS'visualization'
+aS'simulation'
 p11
-aS'open source'
+aS'visualization'
 p12
-aS'r programming'
+aS'open source'
 p13
 aS'hadoop'
 p14
@@ -38,104 +38,97 @@ aS'python'
 p20
 aS'data scientist'
 p21
-aS'business process'
+aS'data wrangling'
 p22
-aS'data wrangling'
+aS'modeling'
 p23
-aS'modeling'
-p24
 aS'data'
-p25
+p24
 aS'github'
-p26
+p25
 aS'open source software'
-p27
+p26
 aS'data visualization'
-p28
-aS'cluster'
-p29
-aS'programming'
-p30
-aS'analysis'
-p31
-aS'machine learning'
-p32
-aS'data engineering'
-p33
-aS'exploratory data analysis'
-p34
-asS'working-year'
-p35
-(lp36
-V(0, 2]
-p37
-aV(2, 5]
-p38
-asS'major'
-p39
-(lp40
-S'business'
-p41
-aS'reinforcement learning'
-p42
-aS'machine learning'
-p43
+p27
 aS'analytics'
-p44
-aS'engineering'
-p45
-aS'design'
-p46
-aS'statistic'
-p47
-aS'mathematics'
-p48
-aS'web development'
-p49
-asS'education'
-p50
-(lp51
-VBachelor
-p52
-aVMaster
-p53
-asS'responsibility'
-p54
-(lp55
-S'development'
-p56
-aS'data wrangling'
-p57
-aS'product'
-p58
-aS'data analysis'
-p59
-aVtest hypothesis
-p60
-aS'formulate'
-p61
-aS'business problem'
-p62
-aS'pattern'
-p63
-aVinsight
-p64
+p28
+aS'programming'
+p29
 aS'analysis'
-p65
+p30
+aS'machine learning'
+p31
+aS'data engineering'
+p32
+aS'exploratory data analysis'
+p33
+aS'r'
+asS'working-year'
+p34
+(lp35
+V(0, 2]
+p36
+aV(2, 5]
+p37
+asS'major'
+p38
+(lp39
+VMathematics
+p40
+aVData Science
+p41
+aVEngineering
+p42
+aVComputer Science
+p43
+aVBusiness
+p44
+asS'education'
+p45
+(lp46
+VBachelor
+p47
+aVMaster
+p48
+asS'responsibility'
+p49
+(lp50
+S'development'
+p51
+aS'data wrangling'
+p52
+aS'product'
+p53
+aS'data analysis'
+p54
+aVtest hypothesis
+p55
+aS'formulate'
+p56
+aS'pattern'
+p57
+aS'insight'
+p58
+aS'analysis'
+p59
 aS'simulation'
-p66
+p60
 aS'statistical method'
-p67
+p61
 aS'design'
-p68
-aS'design experiment'
-p69
+p62
 aS'identify opportunity'
-p70
+p63
 aS'modeling'
-p71
+p64
 aS'implement'
-p72
+p65
+aS'develop ... model'
+p66
+aS'design ... experiment'
+p67
 aS'model'
-p73
+p68
+aS'decision making'
+p69
 as.

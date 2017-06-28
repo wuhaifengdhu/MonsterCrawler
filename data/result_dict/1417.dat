@@ -2,90 +2,84 @@
 S'skills'
 p2
 (lp3
-S'renewable energy'
+S'financial analysis'
 p4
-aS'energy'
-p5
-aS'testing'
-p6
-aS'database administration'
-p7
-aS'engineering'
-p8
-aS'system design'
-p9
 aS'java'
-p10
-aS'r programming'
-p11
-aS'data analysis'
-p12
-aS'python'
-p13
-aS'data scientist'
-p14
-aS'sql'
-p15
-aS'modeling'
-p16
-aS'data'
-p17
-aS'financial analysis'
-p18
+p5
 aS'programming'
-p19
-aS'analysis'
-p20
+p6
+aS'data analysis'
+p7
 aS'procurement'
-p21
-aS'optimization'
-p22
-aS'electrical engineering'
-p23
-aS'root'
-p24
-aS'scripting'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-asS'major'
-p29
-(lp30
-S'electrical engineering'
-p31
-aS'engineering'
-p32
-aS'electrical'
-p33
-aS'design'
-p34
-asS'education'
-p35
-(lp36
-VBachelor
-p37
-aVMaster
-p38
-asS'responsibility'
-p39
-(lp40
-S'data analysis'
-p41
+p8
+aS'sql'
+p9
+aS'data'
+p10
+aS'energy'
+p11
+aS'testing'
+p12
+aS'data scientist'
+p13
 aS'analysis'
-p42
+p14
+aS'database administration'
+p15
+aS'python'
+p16
+aS'engineering'
+p17
 aS'optimization'
-p43
-aS'design'
-p44
-aS'ownership'
-p45
-aS'report'
-p46
+p18
+aS'renewable energy'
+p19
+aS'system design'
+p20
+aS'electrical engineering'
+p21
 aS'modeling'
-p47
+p22
+aS'root'
+p23
+aS'scripting'
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+asS'major'
+p28
+(lp29
+VEngineering
+p30
+aVElectrical and Electronics Engineering
+p31
+asS'education'
+p32
+(lp33
+VBachelor
+p34
+aVMaster
+p35
+asS'responsibility'
+p36
+(lp37
+S'data analysis'
+p38
+aS'analysis'
+p39
+aS'optimization'
+p40
+aS'design'
+p41
+aS'ownership'
+p42
+aS'report'
+p43
+aS'modeling'
+p44
 aS'model'
-p48
+p45
 as.

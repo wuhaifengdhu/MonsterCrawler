@@ -4,196 +4,192 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.022192738575656769
 sS'communication'
 p5
-I1
+F0.0038148659255683292
 sS'data science'
 p6
-I1
-sS'business intelligence'
+F0.0028984118690616851
+sS'analytics'
 p7
-I1
-sS'email marketing'
+F0.0041915058408844661
+sS'business intelligence'
 p8
-I1
-sS'writing'
+F0.0049229959247576414
+sS'email marketing'
 p9
-I1
-sS'education'
+F0.012372730722008504
+sS'sas'
 p10
-I1
-sS'insurance'
+F0.0033379201365720886
+sS'writing'
 p11
-I1
-sS'management'
+F0.0054146031953795012
+sS'education'
 p12
-I1
-sS'recruiting'
+F0.0050569319272608902
+sS'insurance'
 p13
-I1
-sS'research'
+F0.0075980034061438268
+sS'visualization'
 p14
-I1
-sS'strategy'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'stata'
-p17
-I1
-sS'intelligence'
-p18
-I1
-sS'data management'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'marketing'
-p21
-I1
-sS'performance measurement'
-p22
-I1
-sS'business analytics'
-p23
-I1
-sS'facebook'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'neuroscience'
-p26
-I1
-sS'data'
-p27
-I1
-sS'statistical programming'
-p28
-I1
-sS'analytical skills'
-p29
-I1
-sS'search'
-p30
-I1
-sS'data collection'
-p31
-I1
-sS'science'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'r'
-I1
-sS'dashboard'
-p35
-I1
-sS'organization'
-p36
-I1
-sS'data analytics'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V(0, 2]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'data science business analytics'
-p43
-I1
-sS'marketing'
-p44
-I1
-sS'data science'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'data analyst'
-p47
-I1
-sS'business analytics'
-p48
-I1
+F0.004516374149238481
 sS'management'
-p49
-I1
-sS'design'
-p50
-I1
+p15
+F0.0043665005648176013
+sS'recruiting'
+p16
+F0.0083105981942587746
+sS'research'
+p17
+F0.00205580805219696
+sS'strategy'
+p18
+F0.0075904165360329394
 sS'computer science'
-p51
-I1
-sS'communication'
-p52
-I1
+p19
+F0.0033879114775595682
+sS'stata'
+p20
+F0.0073336121269847497
+sS'intelligence'
+p21
+F0.0037832737587633232
+sS'data management'
+p22
+F0.0066263086858054723
+sS'data analysis'
+p23
+F0.0035753301565437717
+sS'python'
+p24
+F0.0012560277415741351
+sS'marketing'
+p25
+F0.0045908783674157806
+sS'performance measurement'
+p26
+F0.013027989308417363
+sS'business analytics'
+p27
+F0.0073194799847207557
+sS'leadership'
+p28
+F0.0039817075209730652
+sS'facebook'
+p29
+F0.010298505322616202
+sS'sql'
+p30
+F0.0032864764281110704
 sS'neuroscience'
-p53
-I1
-sS'law'
-p54
-I1
-sS'data analytics'
-p55
-I1
+p31
+F0.020314370231666937
+sS'data'
+p32
+F0.0028578671776981427
+sS'statistical programming'
+p33
+F0.01014198252373893
+sS'a'
+F0.0045061250448530767
+sS'analytical skills'
+p34
+F0.010082113548581113
+sS'search'
+p35
+F0.0074746741630114895
+sS'data collection'
+p36
+F0.017471564081740932
 sS'science'
-p56
-I1
+p37
+F0.0016940575619134757
+sS'programming'
+p38
+F0.0026561812887587375
+sS'analysis'
+p39
+F0.0016511745626705059
+sS'r'
+F0.0013373308593107017
+sS'dashboard'
+p40
+F0.0084491589617338454
+sS'organization'
+p41
+F0.0084972715146105129
+sS'data analytics'
+p42
+F0.0049212594734597522
+ssS'working-year'
+p43
+(dp44
+sS'major'
+p45
+(dp46
+VBusiness
+p47
+F0.0026065405956002753
+sVData Science
+p48
+F0.0024753951388073801
+sVEconomics
+p49
+F0.0039536663795770146
+sVCognitive Science
+p50
+F0.010380752404540972
+sVComputer Science
+p51
+F0.002181580111692043
+sVManagement Science and Engineering
+p52
+F0.0031073362372744397
 ssS'education'
+p53
+(dp54
+VBachelor
+p55
+F0.0021960935606503778
+sVMaster
+p56
+F0.0017524835788534385
+ssS'responsibility'
 p57
 (dp58
-VBachelor
-p59
-I1
-ssS'responsibility'
-p60
-(dp61
 S'development'
-p62
-I1
+p59
+F0.0029179783190701656
 sS'data analysis'
-p63
-I1
+p60
+F0.0035753301565437717
 sS'analysis'
-p64
-I1
+p61
+F0.0016511745626705059
 sS'analytic'
-p65
-I1
+p62
+F0.0054403035477099829
 sS'data collection'
-p66
-I1
+p63
+F0.017471564081740932
 sS'design'
-p67
-I1
+p64
+F0.0035190814699240427
 sS'recommendation'
-p68
-I1
+p65
+F0.0062944620357066787
 sS'report'
-p69
-I1
+p66
+F0.0050006660727046487
 sS'implement'
-p70
-I1
+p67
+F0.0051032847593243556
 sS'model'
-p71
-I1
+p68
+F0.0037287008238593758
+sS'decision making'
+p69
+F0.0078712844576614791
 ss.

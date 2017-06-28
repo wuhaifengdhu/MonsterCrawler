@@ -2,11 +2,11 @@
 S'skills'
 p2
 (lp3
-S'aws'
+S'.net'
 p4
 aS'communication'
 p5
-aS'data science'
+aS'energy'
 p6
 aS'engineering'
 p7
@@ -18,99 +18,89 @@ aS'management'
 p10
 aS'java'
 p11
-aS'research'
+aS'aws'
 p12
-aS'computer science'
+aS'research'
 p13
-aS'innovation'
+aS'computer science'
 p14
-aS'mathematics'
+aS'innovation'
 p15
-aS'electronics'
+aS'mathematics'
 p16
-aS'energy'
+aS'electronics'
 p17
-aS'python'
+aS'data science'
 p18
-aS'automotive'
+aS'python'
 p19
-aS'collaboration'
+aS'automotive'
 p20
-aS'processing'
+aS'collaboration'
 p21
-aS'leadership development'
+aS'processing'
 p22
-aS'employee engagement'
+aS'leadership development'
 p23
-aS'leadership'
+aS'employee engagement'
 p24
-aS'data'
+aS'leadership'
 p25
-aS'training'
+aS'data'
 p26
-aS'science'
+aS'training'
 p27
-aS'documentation'
+aS'science'
 p28
+aS'documentation'
+p29
 aS'r'
 aS'architecture'
-p29
-asS'working-year'
 p30
-(lp31
-V(2, 5]
+aS'options'
+p31
+asS'working-year'
 p32
+(lp33
+V(2, 5]
+p34
 asS'major'
-p33
-(lp34
-S'information'
 p35
-aS'management'
-p36
-aS'science'
+(lp36
+VMathematics
 p37
-aS'data science'
+aVData Science
 p38
-aS'computer science computer engineering'
+aVEngineering
 p39
-aS'engineering'
+aVComputer Science
 p40
-aS'computer engineering'
+aVManagement Science and Engineering
 p41
-aS'design'
-p42
-aS'computer science'
-p43
-aS'communication'
-p44
-aS'mathematics'
-p45
-aS'electronics'
-p46
-aS'ee computer science'
-p47
 asS'education'
-p48
-(lp49
+p42
+(lp43
 VBachelor
-p50
+p44
 aVMaster
-p51
+p45
+aVDoctor
+p46
 asS'responsibility'
-p52
-(lp53
+p47
+(lp48
 S'development'
-p54
+p49
 aS'information'
-p55
+p50
 aS'processing'
-p56
-aVinsight
-p57
+p51
+aS'insight'
+p52
 aS'design'
-p58
+p53
 aS'model'
-p59
+p54
 aS'documentation'
-p60
+p55
 as.

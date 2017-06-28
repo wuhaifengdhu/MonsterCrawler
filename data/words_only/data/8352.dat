@@ -2,121 +2,112 @@
 S'skills'
 p2
 (dp3
-S'software engineering'
+S'hadoop'
 p4
-I1
-sS'big data'
-p5
-I1
-sS'sql server'
-p6
-I1
-sS'toad'
-p7
-I1
-sS'communication'
-p8
-I1
-sS'informatica'
-p9
-I1
-sS'data scientist'
-p10
-I1
-sS'hadoop'
-p11
-I1
-sS'etl tools'
-p12
-I1
-sS'integration'
-p13
-I1
-sS'information management'
-p14
-I1
-sS'engineering'
-p15
-I1
-sS'data integration'
-p16
-I1
-sS'oracle sql'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'oracle'
-p20
-I1
-sS'etl'
-p21
-I1
+F0.022739938077868404
 sS'education'
-p22
-I1
-sS'communication skills'
-p23
-I1
+p5
+F0.037143836279880868
 sS'data analytics'
-p24
-I1
-ssS'working-year'
-p25
-(dp26
-V(5, 10]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'information'
-p30
-I1
-sS'software engineering'
-p31
-I1
+p6
+F0.018073652048546877
 sS'big data'
-p32
-I1
-sS'communication'
-p33
-I1
+p7
+F0.011263054215598828
+sS'excel'
+p8
+F0.014309329440761642
+sS'integration'
+p9
+F0.020409231169863828
 sS'information management'
-p34
-I1
-sS'engineering'
-p35
-I1
+p10
+F0.042685600262753531
+sS'oracle sql'
+p11
+F0.031225207540113403
 sS'computer science'
-p36
-I1
-sS'computer science mathematics'
-p37
-I1
-sS'ee computer science'
-p38
-I1
-sS'data analytics'
-p39
-I1
+p12
+F0.012442329762718767
+sS'mathematics'
+p13
+F0.016176046744033678
+sS'toad'
+p14
+F0.054750191948583327
+sS'informatica'
+p15
+F0.084566563354212032
+sS'data scientist'
+p16
+F0.0093749704881759145
+sS'sql'
+p17
+F0.012069802811204374
+sS'data'
+p18
+F0.0010495706891546276
+sS'software engineering'
+p19
+F0.023027106094814263
+sS'sql server'
+p20
+F0.024759543975917005
+sS'science'
+p21
+F0.0062215388335760385
+sS'communication skills'
+p22
+F0.03259403408902764
+sS'etl'
+p23
+F0.05043831281442801
+sS'oracle'
+p24
+F0.02323027874833028
+sS'data integration'
+p25
+F0.034253638587890108
+ssS'working-year'
+p26
+(dp27
+V(5, 10]
+p28
+F0.010669418244042998
+ssS'major'
+p29
+(dp30
+VMathematics
+p31
+F0.015170553359136743
+sVData Science
+p32
+F0.0090910529434076338
+sVInformation Science
+p33
+F0.022412877774814988
+sVComputer Science
+p34
+F0.0080119977553291827
+sVManagement Science and Engineering
+p35
+F0.011411898570521172
 ssS'education'
+p36
+(dp37
+VBachelor
+p38
+F0.0080652993599106791
+sVMaster
+p39
+F0.0064361122586210342
+ssS'responsibility'
 p40
 (dp41
-VBachelor
-p42
-I1
-ssS'responsibility'
-p43
-(dp44
 S'report'
-p45
-I1
+p42
+F0.018365278054623266
 sS'information'
-p46
-I1
+p43
+F0.012275267252472518
 ss.

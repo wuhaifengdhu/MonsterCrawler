@@ -2,11 +2,11 @@
 S'skills'
 p2
 (lp3
-S'nlp'
+S'debugging'
 p4
 aS'cancer'
 p5
-aS'debugging'
+aS'nlp'
 p6
 aS'proteomics'
 p7
@@ -22,11 +22,11 @@ aS'big data'
 p12
 aS'agile'
 p13
-aS'integration'
+aS'saas'
 p14
-aS'research'
+aS'integration'
 p15
-aS'big data analytics'
+aS'research'
 p16
 aS'operating systems'
 p17
@@ -36,64 +36,52 @@ aS'collaboration'
 p19
 aS'mentoring'
 p20
-aS'data'
+aS'informatics'
 p21
-aS'software development'
+aS'data'
 p22
-aS'life sciences'
+aS'software engineering'
 p23
-aS'software engineering'
+aS'science'
 p24
-aS'science'
-p25
 aS'oracle'
-p26
-aS'data analytics'
-p27
+p25
 asS'working-year'
-p28
-(lp29
+p26
+(lp27
 V(5, 10]
-p30
+p28
 asS'major'
+p29
+(lp30
+VEngineering
 p31
-(lp32
-S'life sciences'
+aVData Science
+p32
+aVInformation Science
 p33
-aS'business'
+aVComputer Science
 p34
-aS'big data'
+aVBusiness
 p35
-aS'science'
-p36
-aS'data science'
-p37
-aS'big data analytics'
-p38
-aS'engineering'
-p39
-aS'design'
-p40
-aS'software engineering'
-p41
-aS'data analytics'
-p42
 asS'education'
-p43
-(lp44
-S'Bachelor'
-p45
+p36
+(lp37
+VBachelor
+p38
+aVMaster
+p39
 asS'responsibility'
-p46
-(lp47
+p40
+(lp41
 S'communicate'
-p48
+p42
 aS'extract'
-p49
+p43
 aS'development'
-p50
+p44
 aS'design'
-p51
+p45
 aS'model'
-p52
+p46
 as.

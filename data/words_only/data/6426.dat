@@ -4,287 +4,274 @@ p2
 (dp3
 S'sqoop'
 p4
-I1
+F0.0081266773607293601
 sS'nosql'
 p5
-I1
-sS'communication'
-p6
-I1
+F0.0047187014901146932
 sS'human resources'
-p7
-I1
+p6
+F0.0085522948003215662
 sS'test driven development'
-p8
-I1
+p7
+F0.0091837469469303202
 sS'hadoop'
-p9
-I1
+p8
+F0.0088607344924107913
 sS'sql development'
+p9
+F0.0098663229262689455
+sS'analytics'
 p10
-I1
+F0.0014995473482474597
 sS'data warehousing'
 p11
-I1
+F0.005243948727041885
 sS'analysis'
 p12
-I1
+F0.0017721658021765342
 sS'problem solving'
 p13
-I1
+F0.0042320894223331915
 sS'linux'
 p14
-I1
+F0.0031828931686193611
 sS'hbase'
 p15
-I1
-sS'investment banking'
+F0.00577285877558633
+sS'big data analytics'
 p16
-I1
-sS'open source'
+F0.0057142570771525521
+sS'investment banking'
 p17
-I1
-sS'rdbms'
+F0.0085522948003215662
+sS'open source'
 p18
-I1
-sS'big data'
+F0.0055136547239967148
+sS'rdbms'
 p19
-I1
-sS'user experience'
-p20
-I1
-sS'agile'
-p21
-I1
-sS'storage'
-p22
-I1
-sS'information management'
-p23
-I1
-sS'time management'
-p24
-I1
-sS'big data analytics'
-p25
-I1
-sS'risk management'
-p26
-I1
-sS'application development'
-p27
-I1
-sS'innovation'
-p28
-I1
-sS'advanced analytics'
-p29
-I1
-sS'unstructured data'
-p30
-I1
-sS'architecture'
-p31
-I1
-sS'flume'
-p32
-I1
-sS'processing'
-p33
-I1
-sS'data modeling'
-p34
-I1
-sS'finance'
-p35
-I1
-sS'government'
-p36
-I1
-sS'database design'
-p37
-I1
-sS'scrum'
-p38
-I1
-sS'data scientist'
-p39
-I1
-sS'automation'
-p40
-I1
-sS'hive'
-p41
-I1
-sS'process automation'
-p42
-I1
-sS'mentoring'
-p43
-I1
-sS'data processing'
-p44
-I1
-sS'oozie'
-p45
-I1
-sS'technical documentation'
-p46
-I1
-sS'modeling'
-p47
-I1
-sS'spark'
-p48
-I1
-sS'db2'
-p49
-I1
-sS'data'
-p50
-I1
-sS'data security'
-p51
-I1
-sS'java'
-p52
-I1
-sS'pig'
-p53
-I1
-sS'documentation'
-p54
-I1
-sS'communication skills'
-p55
-I1
-sS'data architecture'
-p56
-I1
-sS'banking'
-p57
-I1
-sS'optimization'
-p58
-I1
-sS'etl'
-p59
-I1
-sS'sql'
-p60
-I1
-sS'asset management'
-p61
-I1
-sS'oracle'
-p62
-I1
-sS'organization'
-p63
-I1
-sS'security'
-p64
-I1
-sS'high performance computing'
-p65
-I1
-sS'data analytics'
-p66
-I1
-ssS'working-year'
-p67
-(dp68
-V(5, 10]
-p69
-I1
-sV(10, 15]
-p70
-I1
-sV(2, 5]
-p71
-I1
-ssS'major'
-p72
-(dp73
-S'information'
-p74
-I1
-sS'finance'
-p75
-I1
+F0.015426904987219523
 sS'big data'
-p76
-I1
-sS'communication'
-p77
-I1
+p20
+F0.00219435366614253
+sS'user experience'
+p21
+F0.0058193326984600962
+sS'agile'
+p22
+F0.015059930156548339
+sS'storage'
+p23
+F0.0064491406250801022
 sS'information management'
-p78
-I1
-sS'high performance computing'
-p79
-I1
-sS'automation'
-p80
-I1
-sS'big data analytics'
-p81
-I1
-sS'design'
-p82
-I1
+p24
+F0.0083163324649847409
+sS'time management'
+p25
+F0.0074276073239387978
+sS'access'
+p26
+F0.0039990724570628531
+sS'risk management'
+p27
+F0.0054478574586004072
+sS'application development'
+p28
+F0.0066053386232521466
+sS'innovation'
+p29
+F0.0033376287450598684
 sS'advanced analytics'
-p83
-I1
-sS'business'
-p84
-I1
-sS'data analytics'
-p85
-I1
-ssS'education'
-p86
-(dp87
-S'Bachelor'
-p88
-I1
-ssS'responsibility'
-p89
-(dp90
-S'development'
-p91
-I1
-sS'information'
-p92
-I1
-sS'product'
-p93
-I1
+p30
+F0.0050738113005829024
+sS'unstructured data'
+p31
+F0.0054979455749192413
+sS'architecture'
+p32
+F0.01131214408285168
+sS'flume'
+p33
+F0.0088257499761038808
 sS'processing'
-p94
-I1
-sS'design'
-p95
-I1
-sS'documentation'
-p96
-I1
-sS'mapping'
-p97
-I1
-sS'analysis'
-p98
-I1
-sS'optimization'
-p99
-I1
-sS'understand'
-p100
-I1
+p34
+F0.0028156691149495172
+sS'data modeling'
+p35
+F0.0045037961117556403
+sS'finance'
+p36
+F0.0045778380244546352
+sS'government'
+p37
+F0.0044950336476361468
+sS'database design'
+p38
+F0.0064088875161870526
+sS'scrum'
+p39
+F0.011714870911481025
+sS'data scientist'
+p40
+F0.0018265028709722039
+sS'data security'
+p41
+F0.0090870414534368737
+sS'hive'
+p42
+F0.0035961280163620802
+sS'process automation'
+p43
+F0.0095935238842613773
+sS'management'
+p44
+F0.001562153219309745
+sS'mentoring'
+p45
+F0.0059312305197913012
+sS'data processing'
+p46
+F0.0063374458581523718
+sS'oozie'
+p47
+F0.0087726957145227453
+sS'technical documentation'
+p48
+F0.0090254588747261388
 sS'modeling'
-p101
-I1
+p49
+F0.0014002511879681939
+sS'spark'
+p50
+F0.0058142607700539953
+sS'db2'
+p51
+F0.0085522948003215662
+sS'data'
+p52
+F0.0034762505066655855
+sS'a'
+F0.0064484203228069885
+sS'java'
+p53
+F0.0021366671856349715
+sS'pig'
+p54
+F0.0046528071984756744
+sS'documentation'
+p55
+F0.0049990361361103974
+sS'communication skills'
+p56
+F0.0063502169863105581
+sS'data architecture'
+p57
+F0.0069956440600263846
+sS'banking'
+p58
+F0.0059212067561350955
+sS'optimization'
+p59
+F0.0068965822668570417
+sS'etl'
+p60
+F0.014740162106975083
+sS'sql'
+p61
+F0.0011757652738500811
+sS'asset management'
+p62
+F0.0081814160122652378
+sS'oracle'
+p63
+F0.0045258991354505552
+sS'organization'
+p64
+F0.0030399721366925537
+sS'security'
+p65
+F0.0037678462339996409
+sS'high performance computing'
+p66
+F0.0067126506926468371
+sS'data analytics'
+p67
+F0.0035212460025617191
+ssS'working-year'
+p68
+(dp69
+V(5, 10]
+p70
+F0.002078697002718722
+sV(10, 15]
+p71
+F0.0033748730279282049
+sV(2, 5]
+p72
+F0.0021361110835019575
+ssS'major'
+p73
+(dp74
+VBusiness
+p75
+F0.0018650247365070934
+sVData Science
+p76
+F0.0017711879010432114
+sVEconomics
+p77
+F0.0028289164612490705
+sVInformation Science
+p78
+F0.0043666468768174026
+sVComputer Science
+p79
+F0.0015609581833658582
+sVManagement Science and Engineering
+p80
+F0.0022233526525325732
+ssS'education'
+p81
+(dp82
+VMaster
+p83
+F0.0012539322159037531
+ssS'responsibility'
+p84
+(dp85
+S'development'
+p86
+F0.010439318986328609
+sS'information'
+p87
+F0.0023915606888437837
+sS'product'
+p88
+F0.0023189532598581839
+sS'processing'
+p89
+F0.0028156691149495172
+sS'design'
+p90
+F0.010071853862196398
+sS'documentation'
+p91
+F0.0049990361361103974
+sS'mapping'
+p92
+F0.0073687581187684885
+sS'analysis'
+p93
+F0.0017721658021765342
+sS'optimization'
+p94
+F0.0068965822668570417
+sS'understand'
+p95
+F0.0036235858852487505
+sS'modeling'
+p96
+F0.0014002511879681939
 sS'transformation'
-p102
-I1
+p97
+F0.0054214778195394242
 ss.

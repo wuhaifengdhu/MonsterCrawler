@@ -4,209 +4,197 @@ p2
 (dp3
 S'solution architecture'
 p4
-I1
+F0.013423111596003167
 sS'data processing'
 p5
-I1
+F0.010842827721912612
 sS'communication'
 p6
-I1
+F0.0046701161035718475
 sS'data acquisition'
 p7
-I1
+F0.013584050898078993
 sS'hadoop'
 p8
-I1
+F0.0037899896796447343
 sS'analytics'
 p9
-I1
-sS'engineering'
-p10
-I1
+F0.005131194465979508
 sS'enterprise software'
-p11
-I1
+p10
+F0.011953046606649621
 sS'troubleshooting'
-p12
-I1
+p11
+F0.011092573645233614
 sS'hbase'
-p13
-I1
+p12
+F0.009876867521652127
 sS'research'
-p14
-I1
+p13
+F0.0050333943460869517
 sS'cassandra'
-p15
-I1
+p14
+F0.011104444019353028
 sS'management'
-p16
-I1
+p15
+F0.0053454210454256766
 sS'open source'
-p17
-I1
+p16
+F0.0094333915631802205
 sS'big data'
+p17
+F0.0037543514051996091
+sS'agile'
 p18
-I1
+F0.0064415630463112369
 sS'storage'
 p19
-I1
+F0.011033927913116399
 sS'integration'
 p20
-I1
+F0.013606154113242551
 sS'continuous improvement'
 p21
-I1
+F0.011828826141870624
 sS'access'
 p22
-I1
+F0.0068420708704910174
 sS'unstructured data'
 p23
-I1
-sS'product development'
+F0.0094065145529591727
+sS'processing'
 p24
-I1
-sS'processing'
+F0.01926947594891705
+sS'product development'
 p25
-I1
-sS'data scientist'
+F0.0077093697604180235
+sS'scrum'
 p26
-I1
-sS'performance measurement'
+F0.010021570986222706
+sS'data scientist'
 p27
-I1
-sS'data quality'
+F0.0031249901627253044
+sS'performance measurement'
 p28
-I1
-sS'leadership'
+F0.015948718474906209
+sS'data quality'
 p29
-I1
-sS'mentoring'
+F0.010427250923853167
+sS'leadership'
 p30
-I1
-sS'computer security'
+F0.0097487234289311032
+sS'mentoring'
 p31
-I1
-sS'dna'
-p32
-I1
-sS'spark'
-p33
-I1
-sS'data'
-p34
-I1
-sS'software development'
-p35
-I1
-sS'saas'
-p36
-I1
-sS'data visualization'
-p37
-I1
-sS'cluster'
-p38
-I1
-sS'cloud computing'
-p39
-I1
-sS'presto'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'data engineering'
-p42
-I1
-sS'optimization'
-p43
-I1
-sS'architecture'
-p44
-I1
-sS'security'
-p45
-I1
-sS'high availability'
-p46
-I1
-ssS'working-year'
-p47
-(dp48
-V(5, 10]
-p49
-I1
-sV(2, 5]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'management'
-p53
-I1
-sS'business'
-p54
-I1
-sS'big data'
-p55
-I1
-sS'computing'
-p56
-I1
-sS'communication'
-p57
-I1
-sS'machine learning'
-p58
-I1
-sS'analytics'
-p59
-I1
-sS'engineering'
-p60
-I1
-sS'design'
-p61
-I1
+F0.010147828027961518
 sS'computer security'
-p62
-I1
-ssS'education'
-p63
-(dp64
-S'Bachelor'
-p65
-I1
-ssS'responsibility'
-p66
-(dp67
-S'development'
-p68
-I1
-sS'product'
-p69
-I1
-sVinsight
-p70
-I1
-sS'processing'
-p71
-I1
-sS'improvement'
-p72
-I1
+p32
+F0.016637845072048105
+sS'dna'
+p33
+F0.013904049761719849
+sS'spark'
+p34
+F0.0049738513962113819
+sS'data'
+p35
+F0.0031487120674638827
+sS'software development'
+p36
+F0.0062542673099506563
+sS'search'
+p37
+F0.0091504123234506431
+sS'saas'
+p38
+F0.0091077943840727465
+sS'data visualization'
+p39
+F0.0058015741167539844
+sS'cluster'
+p40
+F0.010361801777343589
+sS'cloud computing'
+p41
+F0.0095504325507901073
+sS'presto'
+p42
+F0.017435159197310059
+sS'machine learning'
+p43
+F0.001933680595380647
+sS'data engineering'
+p44
+F0.011813660047396575
 sS'optimization'
-p73
-I1
+p45
+F0.005899731142739062
+sS'architecture'
+p46
+F0.012902740546812144
+sS'security'
+p47
+F0.012892925166488448
+sS'high availability'
+p48
+F0.016010822651079754
+ssS'working-year'
+p49
+(dp50
+V(5, 10]
+p51
+F0.0035564727480143325
+sV(2, 5]
+p52
+F0.0036547033287054145
+ssS'major'
+p53
+(dp54
+VData Science
+p55
+F0.0030303509811358781
+sVComputer Science
+p56
+F0.0026706659184430612
+sVBusiness
+p57
+F0.0031908977792746733
+sVManagement Science and Engineering
+p58
+F0.0038039661901737238
+ssS'education'
+p59
+(dp60
+S'Bachelor'
+p61
+F0.0026884331199702265
+ssS'responsibility'
+p62
+(dp63
+S'development'
+p64
+F0.017860781746520924
+sS'product'
+p65
+F0.015870122604339194
+sS'insight'
+p66
+F0.0054126647669896317
+sS'processing'
+p67
+F0.01926947594891705
+sS'improvement'
+p68
+F0.00792391296855194
+sS'optimization'
+p69
+F0.005899731142739062
 sS'design'
-p74
-I1
+p70
+F0.017232080354200326
 sS'ownership'
-p75
-I1
+p71
+F0.011623284513532117
 sS'implement'
-p76
-I1
+p72
+F0.0062473839974029723
 ss.

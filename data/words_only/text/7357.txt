@@ -1,5 +1,5 @@
-skills: {'b testing': 1, 'product development': 1, 'solver': 1, 'communication': 1, 'testing': 1, 'data scientist': 1, 'writing': 1, 'analytics': 1, 'management': 1, 'product launch': 1, 'product management': 1, 'android': 1, 'strategy': 1, 'data': 1}
-working-year: {u'(5, 10]': 1}
-major: {'analytics': 1, 'management': 1, 'design': 1, 'business': 1, 'communication': 1}
-education: {'Bachelor': 1}
-responsibility: {'design': 1, 'product': 1, 'product launch': 1}
+skills: {'a': 0.008201938129886082, 'b testing': 0.017498085808586614, 'data scientist': 0.00464636695247315, 'product development': 0.011462615564832062, 'solver': 0.018925354490028218, 'communication': 0.006943725259258142, 'testing': 0.008979728135526372, 'ios': 0.021005193143142416, 'hive': 0.009148044953903537, 'pig': 0.0118360884873504, 'analytics': 0.0038146379911558185, 'strategy': 0.006907944873801907, 'product launch': 0.04859777539269816, 'sql': 0.0029909818369870484, 'product management': 0.013697359732572549, 'android': 0.01789180690672164, 'writing': 0.009855527745975845, 'data': 0.0005201819643617233}
+working-year: {u'(5, 10]': 0.005287913427968679}
+major: {u'Data Science': 0.004505653432478345, u'Business': 0.00474436117181629, u'Management Science and Engineering': 0.005655897098547773}
+education: {'Bachelor': 0.003997275559955731}
+responsibility: {'development': 0.005311232466728591, 'design': 0.006405345657975779, 'product': 0.029495458129775144, 'product launch': 0.04859777539269816}

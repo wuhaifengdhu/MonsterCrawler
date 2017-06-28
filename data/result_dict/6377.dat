@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'financial modeling'
+S'a'
+aS'financial modeling'
 p4
 aS'data analysis'
 p5
@@ -12,78 +13,74 @@ aS'finance'
 p7
 aS'corporate finance'
 p8
-aS'marketing'
+aS'competitive analysis'
 p9
-aS'excel'
+aS'marketing'
 p10
-aS'due diligence'
+aS'excel'
 p11
-aS'analysis'
+aS'due diligence'
 p12
-aS'strategy'
+aS'analysis'
 p13
-aS'marketing strategy'
+aS'strategy'
 p14
-aS'big data'
+aS'analytics'
 p15
-aS'data'
+aS'marketing strategy'
 p16
-asS'working-year'
+aS'modeling'
 p17
-(lp18
-V(2, 5]
+aS'big data'
+p18
+aS'data'
 p19
-asS'major'
+asS'working-year'
 p20
 (lp21
-S'information'
+V(2, 5]
 p22
-aS'finance'
+asS'major'
 p23
-aS'big data'
-p24
-aS'marketing'
+(lp24
+VData Science
 p25
-aS'phd'
+aVEconomics
 p26
-aS'business'
+aVBusiness
 p27
-aS'design'
-p28
-aS'marketing strategy'
-p29
-aS'corporate finance'
-p30
 asS'education'
-p31
-(lp32
+p28
+(lp29
 VBachelor
-p33
+p30
 aVMaster
-p34
+p31
 aVDoctor
-p35
+p32
 asS'responsibility'
-p36
-(lp37
-S'financial model'
-p38
+p33
+(lp34
+S'information'
+p35
 aS'product'
-p39
+p36
 aS'data analysis'
-p40
-aS'information'
-p41
-aVinsight
-p42
+p37
+aS'insight'
+p38
 aS'due diligence'
-p43
+p39
 aS'analysis'
-p44
+p40
 aS'design'
-p45
+p41
+aS'modeling'
+p42
+aS'identify ... trend'
+p43
 aS'evaluation'
-p46
+p44
 aS'transformation'
-p47
+p45
 as.

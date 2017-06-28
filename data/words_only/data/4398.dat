@@ -2,169 +2,163 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'data science'
 p4
-I1
-sS'data science'
+F0.0025483917916538116
+sS'testing'
 p5
-I1
-sS'presentation skills'
+F0.0043376652858051123
+sS'sales'
 p6
-I1
+F0.0070436541105741608
 sS'product strategy'
 p7
-I1
+F0.010053434930325929
 sS'communication skills'
 p8
-I1
-sS'research'
+F0.007803232737415516
+sS'go'
 p9
-I1
-sS'quantitative analysis'
+F0.0069468499894653124
+sS'research'
 p10
-I1
-sS'insurance'
-p11
-I1
-sS'management'
-p12
-I1
-sS'agile'
-p13
-I1
-sS'education'
-p14
-I1
-sS'strategy'
-p15
-I1
-sS'innovation'
-p16
-I1
-sS'segmentation'
-p17
-I1
-sS'product development'
-p18
-I1
-sS'competitive intelligence'
-p19
-I1
-sS'marketing'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'scalability'
-p22
-I1
-sS'leadership'
-p23
-I1
-sS'project management'
-p24
-I1
-sS'analytical skills'
-p25
-I1
-sS'science'
-p26
-I1
-sS'market data'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'product innovation'
-p29
-I1
-sS'go-to-market strategy'
-p30
-I1
-sS'executive management'
-p31
-I1
-sS'product management'
-p32
-I1
-sS'organization'
-p33
-I1
-sS'pricing'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(5, 10]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'management'
-p41
-I1
-sS'business'
-p42
-I1
-sS'communication'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'marketing'
-p45
-I1
-sS'project management'
-p46
-I1
-sS'science'
-p47
-I1
-ssS'education'
-p48
-(dp49
-VBachelor
-p50
-I1
-ssS'responsibility'
-p51
-(dp52
-S'development'
-p53
-I1
-sS'information'
-p54
-I1
-sS'product'
-p55
-I1
-sS'presentation'
-p56
-I1
-sVinsight
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'go-to-market strategy'
-p59
-I1
-sS'model'
-p60
-I1
-sS'engineering design'
-p61
-I1
+F0.0036150861934819418
 sS'quantitative analysis'
-p62
-I1
+p11
+F0.016161026872967926
+sS'insurance'
+p12
+F0.0066804479100628974
+sS'management'
+p13
+F0.0057587851728791457
+sS'agile'
+p14
+F0.00462646159470235
+sS'education'
+p15
+F0.0044462431140111633
+sS'strategy'
+p16
+F0.0033368886254805824
+sS'innovation'
+p17
+F0.0082026469158251007
+sS'segmentation'
+p18
+F0.0061357019324789
+sS'product development'
+p19
+F0.005537026162673115
+sS'competitive intelligence'
+p20
+F0.011166279752104633
+sS'marketing'
+p21
+F0.0040364714459270104
+sS'data scientist'
+p22
+F0.0022444314939912675
+sS'scalability'
+p23
+F0.0085510227515447328
+sS'presentation skills'
+p24
+F0.0098165909096309973
+sS'leadership'
+p25
+F0.0070017314457789066
+sS'project management'
+p26
+F0.0040285028036536989
+sS'analytical skills'
+p27
+F0.0088645701751295797
+sS'science'
+p28
+F0.0014894785766823991
+sS'market data'
+p29
+F0.013013389875199793
+sS'analysis'
+p30
+F0.00072588712236044484
+sS'product innovation'
+p31
+F0.011949638727593873
+sS'go-to-market strategy'
+p32
+F0.025507279573845659
+sS'executive management'
+p33
+F0.011499298471856009
+sS'product management'
+p34
+F0.0066165212267511467
+sS'organization'
+p35
+F0.0037355589815289856
+sS'pricing'
+p36
+F0.0080098870117359978
+ssS'working-year'
+p37
+(dp38
+V(5, 10]
+p39
+F0.0025543310626628363
+ssS'major'
+p40
+(dp41
+VData Science
+p42
+F0.0021764597089090308
+sVEconomics
+p43
+F0.003476210905772163
+sVBusiness
+p44
+F0.00229176768469092
+sVManagement Science and Engineering
+p45
+F0.0027320858865866366
+ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0019308873467582771
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+F0.0051311906881954181
+sS'information'
+p52
+F0.0029387822023927853
+sS'product'
+p53
+F0.028495612091477683
+sS'presentation'
+p54
+F0.0052189710642152687
+sS'insight'
+p55
+F0.0038874859237489089
+sS'analysis'
+p56
+F0.00072588712236044484
+sS'go-to-market strategy'
+p57
+F0.025507279573845659
+sS'engineering design'
+p58
+F0.012380991060041834
+sS'quantitative analysis'
+p59
+F0.016161026872967926
+sS'validate ... model'
+p60
+F0.011090606244366866
 ss.

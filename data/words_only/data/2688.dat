@@ -2,213 +2,194 @@
 S'skills'
 p2
 (dp3
-S'reporting analysis'
+S'regression analysis'
 p4
-I1
-sS'regression analysis'
-p5
-I1
+F0.013341186555384932
 sS'communication'
-p6
-I1
+p5
+F0.0055745399968692129
 sS'data science'
+p6
+F0.0042353553720443637
+sS'dashboards'
 p7
-I1
+F0.017465954169670804
 sS'integration'
 p8
-I1
+F0.0081205743739246918
 sS'analytics'
 p9
-I1
+F0.015312279260273357
 sS'data governance'
 p10
-I1
+F0.015396302562515143
 sS'problem solving'
 p11
-I1
+F0.0086429995244832782
 sS'data mining'
 p12
-I1
+F0.007471758199584992
 sS'regression'
 p13
-I1
+F0.0083667879953584524
 sS'visualization'
 p14
-I1
+F0.019798893717612353
 sS'management'
 p15
-I1
+F0.0031903129126748318
 sS'predictive modeling'
 p16
-I1
+F0.0073204433404541192
 sS'excel'
 p17
-I1
+F0.0056935007986129065
 sS'tableau'
 p18
-I1
+F0.0070740355180415205
 sS'governance'
 p19
-I1
+F0.01269195782005563
 sS'access'
 p20
-I1
+F0.0081671198066776574
 sS'computer science'
 p21
-I1
+F0.0049506452929127488
 sS'advanced analytics'
 p22
-I1
+F0.010362008994148181
 sS'unstructured data'
 p23
-I1
+F0.011228198709342113
 sS'data analysis'
 p24
-I1
+F0.0052245141372030462
 sS'python'
 p25
-I1
+F0.0018353926505396689
 sS'data scientist'
 p26
-I1
+F0.0037301819195911206
 sS'data quality'
 p27
-I1
-sS'modeling'
+F0.012446612898543041
+sS'metrics'
 p28
-I1
-sS'statistical programming'
-p29
-I1
-sS'word'
-p30
-I1
-sS'data visualization'
-p31
-I1
-sS'sql server'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'spss'
-p35
-I1
-sS'r'
-I1
-sS'dashboard'
-p36
-I1
-sS'microsoft office'
-p37
-I1
-sS'powerpoint'
-p38
-I1
-sS'data analytics'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(0, 2]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
-sS'management'
-p46
-I1
-sS'communication'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'data science analytics'
-p49
-I1
-sS'analytics'
-p50
-I1
-sS'computer science data science'
-p51
-I1
-sS'information system'
-p52
-I1
-sS'design'
-p53
-I1
-sS'computer science'
-p54
-I1
-sS'data mining'
-p55
-I1
-sS'advanced analytics'
-p56
-I1
-sS'ee computer science'
-p57
-I1
-sS'data analytics'
-p58
-I1
-ssS'education'
-p59
-(dp60
-VBachelor
-p61
-I1
-ssS'responsibility'
-p62
-(dp63
-S'information'
-p64
-I1
-sS'product'
-p65
-I1
-sS'data analysis'
-p66
-I1
-sVinsight
-p67
-I1
-sS'communicate'
-p68
-I1
-sS'analysis'
-p69
-I1
-sS'design'
-p70
-I1
-sS'data mining'
-p71
-I1
-sS'report'
-p72
-I1
-sS'understand'
-p73
-I1
+F0.015370316598348274
 sS'modeling'
-p74
-I1
+p29
+F0.0085790037572699204
+sS'data'
+p30
+F0.0012528326183923195
+sS'statistical programming'
+p31
+F0.014820150518843857
+sS'a'
+F0.006584654554978967
+sS'word'
+p32
+F0.0098192558475285793
+sS'data visualization'
+p33
+F0.0069251183999281722
+sS'sql server'
+p34
+F0.0098515086946430342
+sS'science'
+p35
+F0.0024754714373031424
+sS'programming'
+p36
+F0.0038813916719537887
+sS'analysis'
+p37
+F0.0012064039498384856
+sS'spss'
+p38
+F0.0077688339114703004
+sS'r'
+F0.0019541982627251449
+sS'dashboard'
+p39
+F0.012346482285632203
+sS'organization'
+p40
+F0.00620839380028761
+sS'microsoft office'
+p41
+F0.0067619804397634634
+sS'powerpoint'
+p42
+F0.0086162831230079309
+sS'data analytics'
+p43
+F0.0071912770474852009
+ssS'working-year'
+p44
+(dp45
+sS'major'
+p46
+(dp47
+VData Science
+p48
+F0.0036172147274826151
+sVComputer Science
+p49
+F0.0031878723463105553
+sVManagement Science and Engineering
+p50
+F0.0045406497833411705
+ssS'education'
+p51
+(dp52
+VBachelor
+p53
+F0.00320908037911939
+sVMaster
+p54
+F0.0025608474831837215
+ssS'responsibility'
+p55
+(dp56
+S'information'
+p57
+F0.0048841732377795585
+sS'product'
+p58
+F0.0047358904602737562
+sS'data analysis'
+p59
+F0.0052245141372030462
+sS'insight'
+p60
+F0.012921784197249896
+sS'communicate'
+p61
+F0.007064235500991522
+sS'analysis'
+p62
+F0.0012064039498384856
+sS'design'
+p63
+F0.0051423197535861893
+sS'data mining'
+p64
+F0.007471758199584992
+sS'report'
+p65
+F0.0073073113386353137
+sS'understand'
+p66
+F0.007400281033254491
+sS'modeling'
+p67
+F0.0085790037572699204
 sS'presentation'
-p75
-I1
+p68
+F0.017347565790912723
 sS'data gathering'
-p76
-I1
+p69
+F0.01674659193571636
 ss.

@@ -2,231 +2,221 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'data scientist'
 p4
-I1
-sS'energy'
+F0.0014920727678364484
+sS'communication'
 p5
-I1
-sS'information retrieval'
+F0.0022298159987476853
+sS'energy'
 p6
-I1
-sS'analytics'
+F0.013037304110070777
+sS'information retrieval'
 p7
-I1
-sS'engineering'
+F0.004942987328145315
+sS'analytics'
 p8
-I1
-sS'go'
+F0.0061249117041093423
+sS'engineering'
 p9
-I1
-sS'gas'
+F0.0051754427200295262
+sS'go'
 p10
-I1
+F0.013854562795891383
 sS'machine learning'
 p11
-I1
-sS'research'
+F0.00092326439694935124
+sS'statistics'
 p12
-I1
-sS'computer science'
+F0.0013133983870459221
+sS'research'
 p13
-I1
-sS'innovation'
+F0.0036049028520918516
+sS'sas'
 p14
-I1
-sS'policy'
-p15
-I1
-sS'data science'
-p16
-I1
-sS'root cause analysis'
-p17
-I1
-sS'data analysis'
-p18
-I1
-sS'transportation'
-p19
-I1
-sS'python'
-p20
-I1
-sS'leadership development'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'leadership'
-p23
-I1
-sS'modeling'
-p24
-I1
-sS'manufacturing'
-p25
-I1
-sS'data'
-p26
-I1
-sS'project management'
-p27
-I1
-sS'pattern recognition'
-p28
-I1
-sS'analysis'
-p29
-I1
-sS'spss'
-p30
-I1
-sS'exploratory data analysis'
-p31
-I1
+F0.0019510378263062208
 sS'r'
-I1
-sS'architecture'
-p32
-I1
-sS'electrical engineering'
-p33
-I1
-sS'root'
-p34
-I1
-sS'predictive analytics'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(5, 10]
-p38
-I1
-sV(2, 5]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'information'
-p42
-I1
-sS'transportation'
-p43
-I1
-sS'business'
-p44
-I1
-sS'analytics'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'mechanical'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'statistics computer science'
-p50
-I1
-sS'engineering'
-p51
-I1
-sS'design'
-p52
-I1
+F0.000781679305090058
 sS'computer science'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'electrical engineering'
-p55
-I1
-sS'electrical'
-p56
-I1
-sS'information retrieval'
-p57
-I1
+p15
+F0.0019802581171650996
+sS'innovation'
+p16
+F0.002726513622724963
+sS'policy'
+p17
+F0.0038445890535785208
+sS'data science'
+p18
+F0.0016941421488177455
+sS'root cause analysis'
+p19
+F0.0075574559935534177
+sS'data analysis'
+p20
+F0.0020898056548812188
+sS'transportation'
+p21
+F0.0062445589745633344
+sS'finance'
+p22
+F0.003739642329836181
+sS'python'
+p23
+F0.0007341570602158676
+sS'gas'
+p24
+F0.085925491544510693
+sS'leadership development'
+p25
+F0.0064090631423170058
+sS'leadership'
+p26
+F0.0023273360862025665
+sS'modeling'
+p27
+F0.0022877343352719791
+sS'manufacturing'
+p28
+F0.0052572655944109993
+sS'data'
+p29
+F0.0011693104438328316
 sS'project management'
-p58
-I1
+p30
+F0.0026781032722880934
+sS'a'
+F0.0026338618219915871
+sS'pattern recognition'
+p31
+F0.0044976812801150587
+sS'science'
+p32
+F0.000990188574921257
+sS'analysis'
+p33
+F0.00048256157993539431
+sS'spss'
+p34
+F0.0031075335645881202
+sS'exploratory data analysis'
+p35
+F0.0062896327170828817
+sS'optimization'
+p36
+F0.0028169138836458343
+sS'architecture'
+p37
+F0.0030803021446262793
+sS'electrical engineering'
+p38
+F0.0055839789906743896
+sS'root'
+p39
+F0.0055162532837284006
+sS'data analytics'
+p40
+F0.0028765108189940805
 sS'predictive analytics'
-p59
-I1
+p41
+F0.0032429551737025216
+ssS'working-year'
+p42
+(dp43
+V(5, 10]
+p44
+F0.0016980905092631815
+sV(2, 5]
+p45
+F0.0017449921527199093
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0025373306618141976
+sVBusiness
+p49
+F0.0015235413340480483
+sVData Science
+p50
+F0.001446885890993046
+sVEconomics
+p51
+F0.002310945841583748
+sVElectrical and Electronics Engineering
+p52
+F0.0044318712610915238
+sVEngineering
+p53
+F0.0051754427200295262
+sVComputer Science
+p54
+F0.0012751489385242221
+sVManagement Science and Engineering
+p55
+F0.0018162599133364683
 ssS'education'
+p56
+(dp57
+VMaster
+p58
+F0.0010243389932734887
+sVDoctor
+p59
+F0.0015340588334879833
+ssS'responsibility'
 p60
 (dp61
-VMaster
-p62
-I1
-sVDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
 S'development'
-p66
-I1
+p62
+F0.01364463101311683
 sS'information'
-p67
-I1
+p63
+F0.0019536692951118233
 sS'product'
-p68
-I1
+p64
+F0.0075774247364380097
 sS'data analysis'
-p69
-I1
-sS'complex data set'
-p70
-I1
-sS'pattern'
-p71
-I1
-sVinsight
-p72
-I1
-sS'communicate'
-p73
-I1
-sS'analysis'
-p74
-I1
-sS'analytic'
-p75
-I1
-sS'statistical method'
-p76
-I1
+p65
+F0.0020898056548812188
 sS'understand'
-p77
-I1
-sS'modeling'
-p78
-I1
-sS'report'
-p79
-I1
+p66
+F0.0029601124133017964
+sS'pattern'
+p67
+F0.0036881564444706284
+sS'insight'
+p68
+F0.0051687136788999581
+sS'communicate'
+p69
+F0.0028256942003966087
+sS'analysis'
+p70
+F0.00048256157993539431
+sS'analytic'
+p71
+F0.0063597914712665996
+sS'statistical method'
+p72
+F0.0049518175057063542
+sS'optimization'
+p73
+F0.0028169138836458343
 sS'design'
-p80
-I1
+p74
+F0.0020569279014344757
+sS'report'
+p75
+F0.0029229245354541254
+sS'modeling'
+p76
+F0.0022877343352719791
 sS'model'
-p81
-I1
+p77
+F0.0065383556700069319
 sS'presentation'
-p82
-I1
+p78
+F0.0034695131581825448
 ss.

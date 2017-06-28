@@ -2,21 +2,21 @@
 S'skills'
 p2
 (lp3
-S'customer insight'
+S'business strategy'
 p4
-aS'business strategy'
-p5
 aS'data science'
-p6
+p5
 aS'testing'
-p7
+p6
 aS'tableau'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'statistical analysis'
-p10
+p9
 aS'problem solving'
+p10
+aS'sas'
 p11
 aS'education'
 p12
@@ -81,64 +81,54 @@ p41
 asS'major'
 p42
 (lp43
-S'information'
+VData Science
 p44
-aS'management'
+aVComputer Science
 p45
-aS'health services'
+aVBusiness
 p46
-aS'big data'
+aVManagement Science and Engineering
 p47
-aS'science'
-p48
-aS'data science'
-p49
-aS'machine learning'
-p50
-aS'business'
-p51
-aS'analytics'
-p52
-aS'advanced analytics'
-p53
-aS'data analytics'
-p54
 asS'education'
-p55
-(lp56
+p48
+(lp49
 VMaster
-p57
+p50
 aVDoctor
-p58
+p51
 asS'responsibility'
-p59
-(lp60
-S'large data set'
-p61
+p52
+(lp53
+S'information'
+p54
 aS'product'
-p62
+p55
+aS'large data set'
+p56
 aS'business problem'
-p63
-aVinsight
-p64
+p57
+aS'insight'
+p58
 aS'communicate'
-p65
-aS'analysis'
-p66
-aS'statistical model'
-p67
-aS'analytic'
-p68
+p59
 aS'statistical method'
-p69
+p60
+aS'analysis'
+p61
+aS'statistical model'
+p62
+aS'analytic'
+p63
+aS'drive ... decision'
+p64
 aS'understand'
-p70
+p65
 aS'modeling'
-p71
-aS'information'
-p72
-aS'evaluation'
-p73
+p66
 aS'model'
-p74
+p67
+aS'evaluation'
+p68
+aS'decision making'
+p69
 as.

@@ -4,242 +4,203 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.0079425770368474584
 sS'economics'
 p5
-I1
+F0.0050346466898308004
 sS'political science'
 p6
-I1
+F0.012021990120243672
 sS'communication'
 p7
-I1
+F0.0033259860485522191
 sS'data science'
 p8
-I1
-sS'reinforcement learning'
+F0.0025269767345810906
+sS'testing'
 p9
-I1
-sS'causal inference'
+F0.004301214317016834
+sS'reinforcement learning'
 p10
-I1
-sS'engineering'
+F0.01088964943987043
+sS'causal inference'
 p11
-I1
-sS'analysis'
+F0.011741462966359049
+sS'engineering'
 p12
-I1
-sS'writing'
+F0.005146448643166616
+sS'analysis'
 p13
-I1
-sS'clustering'
+F0.00071978723057590326
+sS'writing'
 p14
-I1
-sS'visualization'
+F0.0047207149707615397
+sS'clustering'
 p15
-I1
-sS'java'
+F0.0067718751272189282
+sS'visualization'
 p16
-I1
-sS'scala'
+F0.0039375951091049771
+sS'java'
 p17
-I1
-sS'deep learning'
+F0.002603502032916562
+sS'scala'
 p18
-I1
-sS'hadoop'
+F0.010254480620582507
+sS'deep learning'
 p19
-I1
-sS'research'
+F0.0065431547959946441
+sS'hadoop'
 p20
-I1
-sS'control theory'
+F0.0026991733222679931
+sS'research'
 p21
-I1
-sS'computer science'
+F0.005377060976859695
+sS'control theory'
 p22
-I1
-sS'teaching'
+F0.012728862603163157
+sS'computer science'
 p23
-I1
-sS'theory'
+F0.0029537463512336569
+sS'teaching'
 p24
-I1
-sS'python'
+F0.0060454010764696732
+sS'theory'
 p25
-I1
-sS'data scientist'
+F0.012312925422156871
+sS'python'
 p26
-I1
-sS'bayesian inference'
+F0.0021901324065263274
+sS'marketing'
 p27
-I1
-sS'statistical modeling'
+F0.0040025515178099763
+sS'data scientist'
 p28
-I1
-sS'mathematics'
+F0.002225570725134198
+sS'bayesian inference'
 p29
-I1
-sS'modeling'
+F0.010721493472855332
+sS'statistical modeling'
 p30
-I1
-sS'spark'
+F0.0037633729415764627
+sS'modeling'
 p31
-I1
-sS'experimental design'
+F0.0017061884223141858
+sS'spark'
 p32
-I1
-sS'data'
+F0.0035423017296547449
+sS'experimental design'
 p33
-I1
-sS'applied mathematics'
+F0.0072767077080676378
+sS'data'
 p34
-I1
-sS'convex optimization'
+F0.0012458139482612702
+sS'science'
 p35
-I1
-sS'programming'
+F0.001476961949987589
+sS'applied mathematics'
 p36
-I1
-sS'hive'
+F0.0063489721530329965
+sS'convex optimization'
 p37
-I1
-sS'machine learning'
+F0.013095150446112565
+sS'programming'
 p38
-I1
-sS'optimization'
+F0.0023157883084766301
+sS'hive'
 p39
-I1
-sS'product innovation'
+F0.0043818366585924506
+sS'machine learning'
 p40
-I1
-sS'advertising'
+F0.0013771380710799145
+sS'optimization'
 p41
-I1
-sS'root'
+F0.0042016992802280297
+sS'product innovation'
 p42
-I1
-sS'scripting'
+F0.011849221595429218
+sS'advertising'
 p43
-I1
-sS'statistical analysis'
+F0.0069147001771644734
+sS'root'
 p44
-I1
-ssS'working-year'
+F0.0082280248559814372
+sS'scripting'
 p45
-(dp46
-V(5, 10]
+F0.0051115218013585359
+sS'statistical analysis'
+p46
+F0.0054090339357407728
+ssS'working-year'
 p47
-I1
-sV(2, 5]
-p48
-I1
-ssS'major'
+(dp48
+sS'major'
 p49
 (dp50
-S'economics political science'
+VSociology
 p51
-I1
-sS'business'
+F0.008267851620372876
+sVBusiness
 p52
-I1
-sS'communication'
+F0.0022725091327187273
+sVData Science
 p53
-I1
-sS'applied mathematics'
+F0.0021581701315232407
+sVEconomics
 p54
-I1
-sS'economics'
+F0.0034469990494211361
+sVEngineering
 p55
-I1
-sS'reinforcement learning'
+F0.0047318885016107721
+sVComputer Science
 p56
-I1
-sS'machine learning engineer'
+F0.0019020078704878104
+sVMathematics
 p57
-I1
-sS'engineering'
-p58
-I1
-sS'applied math'
-p59
-I1
-sS'design'
-p60
-I1
-sS'computer science'
-p61
-I1
-sS'political science'
-p62
-I1
-sS'statistic'
-p63
-I1
-sS'mathematics'
-p64
-I1
-sS'machine learning'
-p65
-I1
-sS'phd'
-p66
-I1
-sS'data science'
-p67
-I1
-sVphysic
-p68
-I1
+F0.0036014128772740585
 ssS'education'
-p69
-(dp70
+p58
+(dp59
 VBachelor
-p71
-I1
-sVDoctor
-p72
-I1
+p60
+F0.0019146614026678713
 ssS'responsibility'
-p73
-(dp74
+p61
+(dp62
 S'product'
-p75
-I1
+p63
+F0.011302461266535686
 sS'business problem'
-p76
-I1
+p64
+F0.0059835095843080765
 sS'understand'
-p77
-I1
-sVinsight
-p78
-I1
+p65
+F0.0044152937257232678
+sS'insight'
+p66
+F0.0038548179748098426
 sS'communicate'
-p79
-I1
+p67
+F0.0042147959711798149
 sS'construct'
-p80
-I1
-sS'statistical model'
-p81
-I1
+p68
+F0.011150262873369426
 sS'optimization'
-p82
-I1
+p69
+F0.0042016992802280297
 sS'design'
-p83
-I1
+p70
+F0.006136213487472595
 sS'analysis'
-p84
-I1
+p71
+F0.00071978723057590326
 sS'modeling'
-p85
-I1
+p72
+F0.0017061884223141858
 sS'model'
-p86
-I1
+p73
+F0.0097525893397162229
 sS'prototype'
-p87
-I1
+p74
+F0.0066243096923312766
 ss.

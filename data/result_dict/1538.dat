@@ -2,102 +2,94 @@
 S'skills'
 p2
 (lp3
-S'change management'
+S'consulting'
 p4
-aS'mathematics'
-p5
-aS'consulting'
-p6
-aS'organization'
-p7
-aS'management'
-p8
 aS'ip'
+p5
+aS'communication'
+p6
+aS'sales'
+p7
+aS'analytics'
+p8
+aS'engineering'
 p9
-aS'innovation'
+aS'pricing'
 p10
-aS'data scientist'
+aS'go'
 p11
-aS'business strategy'
-p12
-aS'strategy'
-p13
-aS'analytics'
-p14
-aS'engineering'
-p15
-aS'leadership'
-p16
-aS'design thinking'
-p17
-aS'communication'
-p18
-aS'performance improvement'
-p19
-aS'advanced analytics'
-p20
 aS'team management'
-p21
-aS'data'
-p22
+p12
 aS'insurance'
-p23
-asS'working-year'
-p24
-(lp25
-V(5, 10]
-p26
-aV(2, 5]
-p27
-asS'major'
-p28
-(lp29
-S'information'
-p30
+p13
+aS'change management'
+p14
 aS'management'
-p31
-aS'business'
-p32
-aS'communication'
-p33
-aS'general'
-p34
-aS'business leadership'
-p35
-aS'analytics'
-p36
-aS'engineering'
-p37
-aS'design'
-p38
-aS'statistic'
-p39
+p15
+aS'strategy'
+p16
+aS'innovation'
+p17
 aS'advanced analytics'
-p40
+p18
 aS'mathematics'
-p41
+p19
+aS'design thinking'
+p20
+aS'data scientist'
+p21
+aS'leadership'
+p22
+aS'performance improvement'
+p23
+aS'data'
+p24
+aS'business strategy'
+p25
+aS'organization'
+p26
+asS'working-year'
+p27
+(lp28
+V(5, 10]
+p29
+aV(2, 5]
+p30
+asS'major'
+p31
+(lp32
+VMathematics
+p33
+aVData Science
+p34
+aVEngineering
+p35
+aVBusiness
+p36
+aVManagement Science and Engineering
+p37
 asS'education'
-p42
-(lp43
+p38
+(lp39
 VMaster
-p44
+p40
 asS'responsibility'
-p45
-(lp46
+p41
+(lp42
 S'development'
-p47
+p43
 aS'information'
-p48
+p44
 aS'product'
-p49
-aVinsight
-p50
+p45
+aS'insight'
+p46
 aS'improvement'
-p51
+p47
 aS'analytic'
-p52
+p48
 aS'design'
-p53
+p49
 aS'model'
-p54
+p50
 as.

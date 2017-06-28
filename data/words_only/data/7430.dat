@@ -3,139 +3,112 @@ S'skills'
 p2
 (dp3
 S'c'
-I1
-sS'management'
-p4
-I1
+F0.0046319330514744345
 sS'nosql'
+p4
+F0.010136469867653786
+sS'big data'
 p5
-I1
-sS'big data'
-p6
-I1
+F0.0047137967643061766
 sS'python'
+p6
+F0.0019305611583454296
+sS'science'
 p7
-I1
-sS'programming'
+F0.0026038292155336758
+sS'data science'
 p8
-I1
-sS'data science'
+F0.0044549663913355528
+sS'philosophy'
 p9
-I1
-sS'philosophy'
-p10
-I1
+F0.01837159623772781
 sS'data scientist'
+p10
+F0.0039235987598662163
+sS'machine learning'
 p11
-I1
-sS'strategy'
-p12
-I1
+F0.0024278434142001458
 sS'r'
-I1
-sS'machine learning'
-p13
-I1
+F0.0020555270615331155
 sS'computer science'
-p14
-I1
+p12
+F0.0052073454192119286
 sS'sql'
-p15
-I1
+p13
+F0.0025257179956779522
 sS'innovation'
-p16
-I1
+p14
+F0.0071697210079063843
+sS'programming'
+p15
+F0.0040826490179069483
 sS'teaching'
-p17
-I1
+p16
+F0.074604727358507233
 sS'education'
-p18
-I1
+p17
+F0.015545383331950142
 sS'data'
+p18
+F0.0039533829291490971
+sS'data analytics'
 p19
-I1
-sS'data analytics'
-p20
-I1
+F0.0075641580795770269
 sS'data management'
-p21
-I1
+p20
+F0.010184881868923225
 sS'architecture'
-p22
-I1
+p21
+F0.0081000537877209573
 ssS'working-year'
-p23
-(dp24
-V(20, 30)
-p25
-I1
-sV(2, 5]
-p26
-I1
+p22
+(dp23
+V(2, 5]
+p24
+F0.0045886830682634648
 ssS'major'
+p25
+(dp26
+VData Science
 p27
-(dp28
-S'information'
+F0.0038047740096483801
+sVComputer Science
+p28
+F0.0033531694309340658
+sVBusiness
 p29
-I1
-sS'management'
+F0.0040063494339782008
+sVManagement Science and Engineering
 p30
-I1
-sS'business'
-p31
-I1
-sS'big data'
-p32
-I1
-sS'data science'
-p33
-I1
-sS'philosophy'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'design'
-p36
-I1
-sS'computer science'
-p37
-I1
-sS'data analytics'
-p38
-I1
+F0.0047760908832181204
 ssS'education'
-p39
-(dp40
+p31
+(dp32
 VBachelor
-p41
-I1
+p33
+F0.003375477139518173
 sVMaster
-p42
-I1
+p34
+F0.0026936321674969517
 sVDoctor
-p43
-I1
+p35
+F0.0040340065621350665
 ssS'responsibility'
-p44
-(dp45
+p36
+(dp37
 S'development'
-p46
-I1
-sS'information'
-p47
-I1
-sS'product'
-p48
-I1
+p38
+F0.0089700814993638415
 sS'pattern'
-p49
-I1
+p39
+F0.0096984854650894303
+sS'product'
+p40
+F0.004981455150806469
 sS'communicate'
-p50
-I1
-sS'design'
-p51
-I1
+p41
+F0.0074305291936355268
+sS'information'
+p42
+F0.0051374266649236843
 ss.

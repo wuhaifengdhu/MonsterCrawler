@@ -2,88 +2,82 @@
 S'skills'
 p2
 (lp3
-S'software development'
+S'consulting'
 p4
-aS'consulting'
-p5
-aS'saas'
-p6
-aS'big data'
-p7
 aS'nosql'
-p8
-aS'marketing'
-p9
-aS'innovation'
-p10
-aS'data scientist'
-p11
-aS'integration'
-p12
-aS'business analytics'
-p13
+p5
+aS'product marketing'
+p6
+aS'sales'
+p7
 aS'analytics'
-p14
-aS'salesforce.com'
-p15
-aS'amazon redshift'
-p16
-aS'computer science'
-p17
-aS'science'
-p18
+p8
 aS'engineering'
-p19
+p9
 aS'sap'
+p10
+aS'big data'
+p11
+aS'saas'
+p12
+aS'integration'
+p13
+aS'computer science'
+p14
+aS'innovation'
+p15
+aS'quality assurance'
+p16
+aS'marketing'
+p17
+aS'data scientist'
+p18
+aS'business analytics'
+p19
+aS'salesforce.com'
 p20
 aS'data'
 p21
-aS'quality assurance'
+aS'software development'
 p22
-aS'data integration'
-p23
-aS'product marketing'
-p24
-asS'working-year'
-p25
-(lp26
-V[0]
-p27
-asS'major'
-p28
-(lp29
-S'information'
-p30
-aS'business'
-p31
-aS'big data'
-p32
-aS'marketing'
-p33
-aS'business analytics'
-p34
-aS'analytics'
-p35
-aS'engineering'
-p36
-aS'computer science'
-p37
 aS'science'
-p38
+p23
+aS'amazon redshift'
+p24
+aS'data integration'
+p25
+asS'working-year'
+p26
+(lp27
+S'[0]'
+p28
+asS'major'
+p29
+(lp30
+VData Science
+p31
+aVEconomics
+p32
+aVEngineering
+p33
+aVBusiness
+p34
+aVComputer Science
+p35
 asS'education'
+p36
+(lp37
+S'Bachelor'
+p38
+asS'responsibility'
 p39
 (lp40
-S'Bachelor'
-p41
-asS'responsibility'
-p42
-(lp43
 S'development'
-p44
+p41
 aS'information'
-p45
+p42
 aS'product'
-p46
+p43
 aS'communicate'
-p47
+p44
 as.

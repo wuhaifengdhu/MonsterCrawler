@@ -6,43 +6,44 @@ S'nosql'
 p4
 aS'data mining'
 p5
-aS'spss'
+aS'sas'
 p6
-aS'education'
+aS'spss'
 p7
-aS'java'
+aS'education'
 p8
-aS'big data'
+aS'java'
 p9
-aS'research'
+aS'big data'
 p10
-aS'computer science'
+aS'research'
 p11
-aS'mathematics'
+aS'computer science'
 p12
-aS'finance'
+aS'mathematics'
 p13
-aS'python'
+aS'finance'
 p14
-aS'processing'
+aS'python'
 p15
-aS'data scientist'
+aS'processing'
 p16
-aS'data quality'
+aS'data scientist'
 p17
-aS'statistical modeling'
+aS'data quality'
 p18
-aS'sql'
+aS'statistical modeling'
 p19
-aS'modeling'
+aS'sql'
 p20
-aS'data'
+aS'modeling'
 p21
-aS'science'
+aS'data'
 p22
-aS'programming'
+aS'c'
+aS'science'
 p23
-aS'c++'
+aS'programming'
 p24
 aS'machine learning'
 p25
@@ -50,57 +51,43 @@ aS'r'
 asS'working-year'
 p26
 (lp27
-V[0]
+S'[0]'
 p28
 asS'major'
 p29
 (lp30
-S'computer science mathematics'
+VMathematics
 p31
-aS'finance'
+aVEconomics
 p32
-aS'big data'
+aVComputer Science
 p33
-aS'science'
+aVBusiness
 p34
-aS'statistic'
-p35
-aS'phd'
-p36
-aS'business'
-p37
-aS'machine learning'
-p38
-aS'computer science'
-p39
-aS'data mining'
-p40
-aS'mathematics'
-p41
-aS'law'
-p42
 asS'education'
-p43
-(lp44
-VDoctor
-p45
+p35
+(lp36
+VMaster
+p37
+aVDoctor
+p38
 asS'responsibility'
-p46
-(lp47
+p39
+(lp40
 S'processing'
-p48
+p41
 aS'pattern'
-p49
-aVinsight
-p50
+p42
+aS'insight'
+p43
 aS'understand'
-p51
+p44
 aS'data mining'
-p52
+p45
 aS'modeling'
-p53
+p46
 aS'model'
-p54
+p47
 aS'extract'
-p55
+p48
 as.

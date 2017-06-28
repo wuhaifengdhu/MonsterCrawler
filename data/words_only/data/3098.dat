@@ -4,155 +4,154 @@ p2
 (dp3
 S'communication'
 p4
-I1
-sS'product strategy'
+F0.0076297318511366584
+sS'engineering'
 p5
-I1
-sS'problem solving'
+F0.002951457294153385
+sS'product strategy'
 p6
-I1
-sS'strategy'
+F0.011434268161720093
+sS'problem solving'
 p7
-I1
-sS'management'
-p8
-I1
-sS'credit'
-p9
-I1
-sS'agile'
-p10
-I1
-sS'recruiting'
-p11
-I1
+F0.0059147273854295215
 sS'writing'
-p12
-I1
-sS'computer science'
-p13
-I1
-sS'design thinking'
-p14
-I1
-sS'data scientist'
-p15
-I1
-sS'military experience'
-p16
-I1
-sS'data'
-p17
-I1
-sS'b testing'
-p18
-I1
-sS'solver'
-p19
-I1
-sS'economics'
-p20
-I1
-sS'business strategy'
-p21
-I1
-sS'analysis'
-p22
-I1
-sS'machine learning'
-p23
-I1
+p8
+F0.0054146031953795012
+sS'management'
+p9
+F0.0021832502824088006
 sS'banking'
-p24
-I1
-sS'optimization'
-p25
-I1
-sS'product management'
-p26
-I1
+p10
+F0.0082754214905020624
+sS'agile'
+p11
+F0.010523806615419323
+sS'recruiting'
+p12
+F0.0083105981942587746
+sS'strategy'
+p13
+F0.0075904165360329394
+sS'computer science'
+p14
+F0.0033879114775595682
+sS'design thinking'
+p15
+F0.010943672999608058
+sS'data scientist'
+p16
+F0.0025527028076238033
+sS'military experience'
+p17
+F0.010702510742103061
 sS'military'
+p18
+F0.0089943580048959266
+sS'data'
+p19
+F0.00028578671776981429
+sS'a'
+F0.0045061250448530767
+sS'b testing'
+p20
+F0.0096134061791752976
+sS'solver'
+p21
+F0.010397544153557673
+sS'science'
+p22
+F0.0016940575619134757
+sS'economics'
+p23
+F0.0057746790948420756
+sS'business strategy'
+p24
+F0.0073241814947456324
+sS'analysis'
+p25
+F0.00082558728133525297
+sS'machine learning'
+p26
+F0.0015795607755037095
+sS'credit'
 p27
-I1
-ssS'working-year'
+F0.0076567104198497519
+sS'optimization'
 p28
-(dp29
-V(2, 5]
+F0.0048192984515386559
+sS'product management'
+p29
+F0.0075252964313892567
+sS'organization'
 p30
-I1
-ssS'major'
+F0.0042486357573052564
+ssS'working-year'
 p31
 (dp32
-S'management'
+V(2, 5]
 p33
-I1
-sS'business'
+F0.0029854082612798447
+ssS'major'
 p34
-I1
-sS'communication'
-p35
-I1
-sS'economics'
+(dp35
+VEngineering
 p36
-I1
-sS'mba'
+F0.002951457294153385
+sVEconomics
 p37
-I1
-sS'machine learning'
+F0.0039536663795770146
+sVComputer Science
 p38
-I1
-sS'computer science engineering'
+F0.002181580111692043
+sVBusiness
 p39
-I1
-sS'computer science'
+F0.0026065405956002753
+sVManagement Science and Engineering
 p40
-I1
-sS'design'
-p41
-I1
-sS'general'
-p42
-I1
-sS'ee computer science'
-p43
-I1
+F0.0031073362372744397
 ssS'education'
-p44
-(dp45
+p41
+(dp42
 VBachelor
-p46
-I1
+p43
+F0.0021960935606503778
 sVMaster
-p47
-I1
+p44
+F0.0017524835788534385
 ssS'responsibility'
-p48
-(dp49
+p45
+(dp46
 S'product'
-p50
-I1
+p47
+F0.055096094318558296
 sS'mapping'
-p51
-I1
+p48
+F0.010298505322616202
 sS'analysis'
-p52
-I1
+p49
+F0.00082558728133525297
 sS'analytic'
-p53
-I1
+p50
+F0.0054403035477099829
+sS'drive ... decision'
+p51
+F0.009725500575250878
 sS'optimization'
-p54
-I1
+p52
+F0.0048192984515386559
 sS'design'
-p55
-I1
+p53
+F0.0070381629398480854
 sS'interface'
-p56
-I1
+p54
+F0.0076085715627712746
 sS'understand'
-p57
-I1
+p55
+F0.0050642887070946399
 sS'engineering design'
-p58
-I1
+p56
+F0.014081512723710232
+sS'decision making'
+p57
+F0.0078712844576614791
 ss.

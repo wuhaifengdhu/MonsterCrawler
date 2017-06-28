@@ -2,54 +2,48 @@
 S'skills'
 p2
 (lp3
-S'python'
+S'transportation'
 p4
-aS'science'
+aS'python'
 p5
-aS'data science'
-p6
-aS'data scientist'
-p7
-aS'machine learning'
-p8
-aS'access'
-p9
-aS'analytics'
-p10
-aS'data'
-p11
-asS'working-year'
-p12
-(lp13
-V[0]
-p14
-asS'major'
-p15
-(lp16
-S'information'
-p17
-aS'business'
-p18
 aS'science'
-p19
+p6
 aS'data science'
-p20
-aS'data science analytics'
-p21
+p7
+aS'data scientist'
+p8
 aS'machine learning'
-p22
+p9
+aS'access'
+p10
 aS'analytics'
-p23
+p11
+aS'data'
+p12
+asS'working-year'
+p13
+(lp14
+S'[0]'
+p15
+asS'major'
+p16
+(lp17
+VData Science
+p18
+aVComputer Science
+p19
+aVBusiness
+p20
 asS'education'
+p21
+(lp22
+S'Bachelor'
+p23
+asS'responsibility'
 p24
 (lp25
-S'Bachelor'
-p26
-asS'responsibility'
-p27
-(lp28
 S'information'
-p29
+p26
 aS'product'
-p30
+p27
 as.

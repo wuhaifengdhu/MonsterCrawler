@@ -4,220 +4,193 @@ p2
 (dp3
 S'debugging'
 p4
-I1
+F0.010693485409205864
 sS'communication'
 p5
-I1
+F0.0038519935744789693
 sS'reinforcement learning'
 p6
-I1
+F0.012611856772210037
 sS'engineering'
 p7
-I1
-sS'c++'
-p8
-I1
+F0.0059603638787039158
 sS'data mining'
-p9
-I1
+p8
+F0.0051629667364528897
 sS'machine learning'
+p9
+F0.0015949336297665191
+sS'experimentation'
 p10
-I1
+F0.0087617653996882698
 sS'git'
 p11
-I1
+F0.0070381341057880811
 sS'open source'
 p12
-I1
+F0.007780826617805583
 sS'recruiting'
 p13
-I1
+F0.0083914799285094675
 sS'hadoop'
 p14
-I1
-sS'computer science'
+F0.0031260498817507663
+sS'research'
 p15
-I1
-sS'operations research'
-p16
-I1
-sS'data analysis'
-p17
-I1
-sS'theory'
-p18
-I1
-sS'processing'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'training'
-p21
-I1
-sS'experimental design'
-p22
-I1
-sS'data processing'
-p23
-I1
-sS'data wrangling'
-p24
-I1
-sS'data'
-p25
-I1
-sS'c'
-I1
-sS'software engineering'
-p26
-I1
-sS'science'
-p27
-I1
-sS'economics'
-p28
-I1
-sS'programming'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'simulation'
-p31
-I1
-sS'data engineering'
-p32
-I1
-sS'artificial intelligence'
-p33
-I1
-sS'application development'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(5, 10]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'economics statistics'
-p41
-I1
-sS'economics'
-p42
-I1
-sS'software engineering'
-p43
-I1
-sS'communication'
-p44
-I1
-sS'machine learning'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'reinforcement learning'
-p47
-I1
-sS'artificial intelligence'
-p48
-I1
-sS'phd'
-p49
-I1
-sS'engineering'
-p50
-I1
-sS'operations research'
-p51
-I1
-sS'design'
-p52
-I1
+F0.0020758159164519178
 sS'computer science'
-p53
-I1
-sS'machine learning artificial intelligence'
-p54
-I1
-sS'data mining'
-p55
-I1
-sS'development practice'
-p56
-I1
-sS'law'
-p57
-I1
-sS'computer science economics'
-p58
-I1
-sS'statistics operations research'
-p59
-I1
-sS'science'
-p60
-I1
-ssS'education'
-p61
-(dp62
-VDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'development'
-p66
-I1
-sS'information'
-p67
-I1
-sS'product'
-p68
-I1
+p16
+F0.0034208838520370334
+sS'operations research'
+p17
+F0.0070095827629000238
 sS'data analysis'
-p69
-I1
-sS'data mining'
-p70
-I1
-sS'business problem'
-p71
-I1
+p18
+F0.0036101265570940761
+sS'theory'
+p19
+F0.0071301125315652936
 sS'processing'
-p72
-I1
-sS'analysis'
-p73
-I1
-sS'simulation'
-p74
-I1
-sS'design'
-p75
-I1
-sS'design experiment'
-p76
-I1
+p20
+F0.0039734503325321658
+sS'data scientist'
+p21
+F0.0025775466305690471
+sS'training'
+p22
+F0.0057257779830226993
+sS'experimental design'
+p23
+F0.0084275252288082622
+sS'statistics'
+p24
+F0.0045377754491610928
+sS'data processing'
+p25
+F0.0089433542523804765
 sS'data wrangling'
-p77
-I1
+p26
+F0.024336509480693148
+sS'spark'
+p27
+F0.0041025197647582938
+sS'data'
+p28
+F0.00057713619403636457
+sS'c'
+F0.0060857514544919583
+sS'software engineering'
+p29
+F0.0063310535005207096
+sS'windows'
+p30
+F0.0081989380712499012
+sS'science'
+p31
+F0.0017105447401316116
+sS'economics'
+p32
+F0.011661760702479131
+sS'programming'
+p33
+F0.0026820322015447102
+sS'analysis'
+p34
+F0.00083362219404897796
+sS'simulation'
+p35
+F0.0065324471719571085
+sS'data engineering'
+p36
+F0.0097441137617212629
+sS'algorithms'
+p37
+F0.0043653812125675276
+sS'artificial intelligence'
+p38
+F0.0067338602434909127
+sS'application development'
+p39
+F0.0093214024367061932
+ssS'working-year'
+p40
+(dp41
+V(5, 10]
+p42
+F0.0029334410257344495
+ssS'major'
+p43
+(dp44
+VStatistics
+p45
+F0.0043832232843992215
+sVBusiness
+p46
+F0.0026319083872849494
+sVEconomics
+p47
+F0.0039921448844877395
+sVEngineering
+p48
+F0.0054802406977292641
+sVComputer Science
+p49
+F0.0022028120349201893
+sVOperations Research
+p50
+F0.0078314571732047544
+ssS'education'
+p51
+(dp52
+VMaster
+p53
+F0.0017695393801074864
+sVDoctor
+p54
+F0.0026500773035923798
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.0029463771348275393
+sS'information'
+p58
+F0.0033749518236724932
+sS'product'
+p59
+F0.0065449775704026604
+sS'data analysis'
+p60
+F0.0036101265570940761
+sS'data mining'
+p61
+F0.0051629667364528897
+sS'processing'
+p62
+F0.0039734503325321658
+sS'analysis'
+p63
+F0.00083362219404897796
+sS'simulation'
+p64
+F0.0065324471719571085
+sS'design'
+p65
+F0.0035533304380011622
+sS'data wrangling'
+p66
+F0.024336509480693148
 sS'understand'
-p78
-I1
+p67
+F0.0051135761884288939
+sS'design ... experiment'
+p68
+F0.01092538092772787
 sS'transformation'
-p79
-I1
+p69
+F0.0076507472879145172
+sS'decision making'
+p70
+F0.0079478906324319063
 ss.

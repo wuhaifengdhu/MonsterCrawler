@@ -4,7 +4,7 @@ p2
 (lp3
 S'nosql'
 p4
-aS'intelligence'
+aS'communication'
 p5
 aS'energy'
 p6
@@ -18,112 +18,108 @@ aS'engineering'
 p10
 aS'insurance'
 p11
-aS'management'
+aS'xml'
 p12
-aS'java'
+aS'management'
 p13
-aS'mechanical engineering'
+aS'java'
 p14
-aS'scala'
-p15
-aS'excel'
-p16
-aS'hadoop'
-p17
-aS'strategy'
-p18
-aS'communication'
-p19
-aS'mathematics'
-p20
-aS'artificial intelligence'
-p21
-aS'distributed computing'
-p22
-aS'finance'
-p23
-aS'apis'
-p24
-aS'python'
-p25
-aS'customer service'
-p26
-aS'data scientist'
-p27
-aS'water'
-p28
-aS'data'
-p29
-aS'software development'
-p30
-aS'training'
-p31
-aS'aws'
-p32
-aS'programming'
-p33
-aS'machine learning'
-p34
-aS'optimization'
-p35
-aS'command'
-p36
-asS'working-year'
-p37
-(lp38
-V(2, 5]
-p39
-asS'major'
-p40
-(lp41
-S'management'
-p42
-aS'finance'
-p43
 aS'mechanical engineering'
-p44
-aS'computing'
-p45
-aS'communication'
-p46
-aS'statistic'
-p47
-aS'machine learning'
-p48
-aS'business'
-p49
-aS'engineering'
-p50
-aS'electrical'
-p51
-aS'artificial intelligence'
-p52
-aS'machine learning artificial intelligence'
-p53
-aS'mechanical'
-p54
+p15
+aS'scala'
+p16
+aS'excel'
+p17
+aS'hadoop'
+p18
+aS'strategy'
+p19
+aS'json'
+p20
+aS'intelligence'
+p21
 aS'mathematics'
-p55
-aVphysic
-p56
-asS'education'
-p57
-(lp58
-VBachelor
-p59
-asS'responsibility'
-p60
-(lp61
-S'development'
-p62
-aS'product'
-p63
+p22
+aS'artificial intelligence'
+p23
+aS'ip'
+p24
+aS'a'
+aS'distributed computing'
+p25
+aS'finance'
+p26
+aS'apis'
+p27
+aS'python'
+p28
+aS'customer service'
+p29
+aS'data scientist'
+p30
+aS'c'
+aS'water'
+p31
+aS'tcp'
+p32
+aS'data'
+p33
+aS'software development'
+p34
+aS'training'
+p35
+aS'aws'
+p36
+aS'programming'
+p37
+aS'machine learning'
+p38
 aS'optimization'
-p64
+p39
+aS'command'
+p40
+asS'working-year'
+p41
+(lp42
+V(2, 5]
+p43
+asS'major'
+p44
+(lp45
+VBusiness
+p46
+aVEconomics
+p47
+aVEngineering
+p48
+aVComputer Science
+p49
+aVMathematics
+p50
+aVManagement Science and Engineering
+p51
+asS'education'
+p52
+(lp53
+VBachelor
+p54
+aVMaster
+p55
+asS'responsibility'
+p56
+(lp57
+S'development'
+p58
+aS'product'
+p59
+aS'optimization'
+p60
 aS'interface'
-p65
+p61
 aS'model'
-p66
+p62
 aS'presentation'
-p67
+p63
+aS'decision making'
+p64
 as.

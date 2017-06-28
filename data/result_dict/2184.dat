@@ -4,11 +4,11 @@ p2
 (lp3
 S'digital marketing'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
+p6
+aS'rest'
 p7
 aS'analytics'
 p8
@@ -18,77 +18,74 @@ aS'sem'
 p10
 aS'visualization'
 p11
-aS'html'
+aS'statistics'
 p12
-aS'marketing'
+aS'html'
 p13
-aS'javascript'
+aS'css'
 p14
-aS'sql'
+aS'marketing'
 p15
-aS't-sql'
+aS'javascript'
 p16
-aS'data'
+aS'sql'
 p17
-aS'data visualization'
+aS't-sql'
 p18
-aS'science'
+aS'data'
 p19
-aS'programming'
+aS'a'
+aS'data visualization'
 p20
-aS'machine learning'
+aS'science'
 p21
+aS'programming'
+p22
+aS'machine learning'
+p23
 aS'r'
 aS'architecture'
-p22
-aS'organization'
-p23
-aS'security'
 p24
-aS'crm'
+aS'organization'
 p25
-aS'predictive analytics'
+aS'security'
 p26
-asS'working-year'
+aS'crm'
 p27
-(lp28
-V[0]
+aS'cms'
+p28
+aS'predictive analytics'
 p29
-asS'major'
+asS'working-year'
 p30
 (lp31
-S'science'
+S'[0]'
 p32
-aS'marketing'
+asS'major'
 p33
-aS'machine learning data science'
-p34
-aS'communication'
+(lp34
+VData Science
 p35
-aS'machine learning'
+aVEconomics
 p36
-aS'analytics'
+aVStatistics
 p37
-aS'statistic'
+aVComputer Science
 p38
-aS'data science'
-p39
-aS'predictive analytics'
-p40
 asS'education'
+p39
+(lp40
+VBachelor
 p41
-(lp42
-S'Bachelor'
-p43
 asS'responsibility'
-p44
-(lp45
+p42
+(lp43
 S'report'
-p46
+p44
 aS'analytic'
-p47
+p45
 aS'implement'
-p48
+p46
 aS'development'
-p49
+p47
 as.

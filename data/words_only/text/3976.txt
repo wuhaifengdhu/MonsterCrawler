@@ -1,5 +1,5 @@
-skills: {'validation': 1, 'java': 1, 'scala': 1, 'python': 1, 'processing': 1, 'hadoop': 1, 'c++': 1, 'r': 1, 'data-driven decision making': 1, 'sql': 1, 'linux': 1, 'distributed computing': 1, 'spark': 1, 'analysis': 1, 'data': 1, 'dashboard': 1, 'etl': 1, 'statistical analysis': 1}
-working-year: {u'(2, 5]': 1}
-major: {'statistic': 1, 'statistical practice': 1, 'business': 1, 'computing': 1}
-education: {'Bachelor': 1}
-responsibility: {'report': 1, u'insight': 1, 'processing': 1, 'analysis': 1}
+skills: {'c': 0.012260999253902914, 'java': 0.012149676153610622, 'scala': 0.02392712144802585, 'python': 0.005110308948561431, 'processing': 0.01601066751637961, 'hadoop': 0.01259614217058397, 'analysis': 0.0033590070760208817, 'r': 0.005441101045234717, 'data-driven decision making': 0.05363876278142889, 'sql': 0.006685724106206344, 'linux': 0.018098804292149308, 'distributed computing': 0.0350725143378364, 'spark': 0.016530741405055477, 'validation': 0.03099963044191271, 'data': 0.006976558110263113, 'dashboard': 0.03437648008940731, 'etl': 0.027938869353090028, 'statistical analysis': 0.025242158366790272}
+working-year: {u'(2, 5]': 0.01214651400422682}
+major: {u'Statistics': 0.01766181146949098, u'Computer Science': 0.008876036728943115, u'Business': 0.010605042619354061}
+education: {'Bachelor': 0.0089350865457834}
+responsibility: {'report': 0.020345847256592442, 'insight': 0.017989150549112598, 'processing': 0.01601066751637961, 'decision making': 0.0320253240189168, 'analysis': 0.0033590070760208817}

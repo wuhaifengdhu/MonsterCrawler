@@ -4,215 +4,199 @@ p2
 (dp3
 S'communication'
 p4
-I1
-sS'data governance'
+F0.0053485451321312718
+sS'analytics'
 p5
-I1
-sS'problem solving'
+F0.0014691511182154168
+sS'data governance'
 p6
-I1
-sS'education'
+F0.0073860640671525347
+sS'problem solving'
 p7
-I1
-sS'econometrics'
+F0.0041463038259345461
+sS'education'
 p8
-I1
-sS'open source'
-p9
-I1
-sS'banking'
-p10
-I1
-sS'industrial engineering'
-p11
-I1
-sS'recruiting'
-p12
-I1
-sS'governance'
-p13
-I1
-sS'coaching'
-p14
-I1
-sS'teamwork'
-p15
-I1
-sS'innovation'
-p16
-I1
-sS'mathematics'
-p17
-I1
-sS'risk analytics'
-p18
-I1
-sS'operations research'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'collaboration'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'training'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'mentoring'
-p25
-I1
-sS'statistical modeling'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'data'
-p28
-I1
-sS'search'
-p29
-I1
-sS'economics'
-p30
-I1
-sS'analysis'
-p31
-I1
-sS'data center'
-p32
-I1
-sS'credit'
-p33
-I1
-sS'validation'
-p34
-I1
-sS'data analytics'
-p35
-I1
-sS'predictive analytics'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-sV(0, 2]
-p40
-I1
-sV(2, 5]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'information'
-p44
-I1
-sS'economics statistics'
-p45
-I1
-sS'economics'
-p46
-I1
-sS'business'
-p47
-I1
-sS'communication'
-p48
-I1
-sS'industrial engineering'
-p49
-I1
-sS'industrial engineering operations research'
-p50
-I1
-sS'data analyst'
-p51
-I1
-sS'history'
-p52
-I1
-sS'finance economics'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'data analytics'
-p55
-I1
-sS'mathematics'
-p56
-I1
-sS'law'
-p57
-I1
+F0.0035449776179278195
 sS'econometrics'
-p58
-I1
+p9
+F0.0051811799995612178
+sS'statistics'
+p10
+F0.0015751906331125079
+sS'open source'
+p11
+F0.0054018914525643495
+sS'banking'
+p12
+F0.0058011822948620872
+sS'industrial engineering'
+p13
+F0.0077945657116961706
+sS'recruiting'
+p14
+F0.0058258416395564044
+sS'governance'
+p15
+F0.0060887094947564167
+sS'coaching'
+p16
+F0.0065231971564766872
+sS'teamwork'
+p17
+F0.0048385306559155395
+sS'innovation'
+p18
+F0.0065399482166713643
+sS'mathematics'
+p19
+F0.0030876575710739964
+sS'risk analytics'
+p20
+F0.0087558667793552793
 sS'operations research'
-p59
-I1
-sS'predictive analytics'
-p60
-I1
-ssS'education'
-p61
-(dp62
-VBachelor
-p63
-I1
-sVMaster
-p64
-I1
-sVDoctor
-p65
-I1
-ssS'responsibility'
-p66
-(dp67
-S'large data set'
-p68
-I1
+p21
+F0.0048664501951890364
 sS'data analysis'
-p69
-I1
-sS'business problem'
-p70
-I1
-sS'analysis'
-p71
-I1
-sS'statistical model'
-p72
-I1
-sS'cross-functionally'
-p73
-I1
-sS'report'
-p74
-I1
+p22
+F0.0025063547550095698
+sS'finance'
+p23
+F0.0044850440104454202
+sS'collaboration'
+p24
+F0.0043203875339078617
+sS'training'
+p25
+F0.0039751600524025833
+sS'leadership'
+p26
+F0.0027912307790605106
+sS'mentoring'
+p27
+F0.0058110028741198564
+sS'statistical modeling'
+p28
+F0.003025955270591886
 sS'modeling'
-p75
-I1
-sS'information'
-p76
-I1
-sS'presentation'
-p77
-I1
+p29
+F0.0013718677179418116
+sS'data'
+p30
+F0.0012020421068358743
+sS'a'
+F0.0031588545500236937
+sS'search'
+p31
+F0.0052398475973813646
+sS'economics'
+p32
+F0.0040481280816882792
+sS'analysis'
+p33
+F0.00057874784080089517
+sS'data center'
+p34
+F0.0072888189589973553
+sS'credit'
+p35
+F0.010734914946748808
+sS'validation'
+p36
+F0.016023457627069748
+sS'data analytics'
+p37
+F0.0034498693944016844
+sS'predictive analytics'
+p38
+F0.0038893550225148486
+ssS'working-year'
+p39
+(dp40
+V(5, 10]
+p41
+F0.0020365612526636128
+sV(0, 2]
+p42
+F0.0038472637906928268
+sV(2, 5]
+p43
+F0.0020928115345120535
+ssS'major'
+p44
+(dp45
+VStatistics
+p46
+F0.0030430823815677031
+sVBusiness
+p47
+F0.0018272201810373551
+sVData Science
+p48
+F0.0017352854435896329
+sVEconomics
+p49
+F0.0027715735600075354
+sVComputer Science
+p50
+F0.0015293171391084423
+sVMathematics
+p51
+F0.0028957306242946824
+sVIndustrial Engineering
+p52
+F0.0067736014562401045
+sVOperations Research
+p53
+F0.0054370420577485711
+ssS'education'
+p54
+(dp55
+VBachelor
+p56
+F0.0015394912629559236
+sVMaster
+p57
+F0.0012285146709867854
+sVDoctor
+p58
+F0.0018398340739467366
+ssS'responsibility'
+p59
+(dp60
+S'information'
+p61
+F0.0046861662146263335
+sS'data analysis'
+p62
+F0.0025063547550095698
+sS'large data set'
+p63
+F0.0053115829988730854
+sS'business problem'
+p64
+F0.0048110651387341975
+sS'decision-making'
+p65
+F0.0062027625773397347
+sS'analysis'
+p66
+F0.00057874784080089517
+sS'statistical model'
+p67
+F0.0060656491648967831
+sS'cross-functionally'
+p68
+F0.0085948708013905278
+sS'report'
+p69
+F0.0035055344935345087
+sS'modeling'
+p70
+F0.0013718677179418116
 sS'model'
-p78
-I1
+p71
+F0.010455478661497573
+sS'presentation'
+p72
+F0.0041610715241716329
 ss.

@@ -2,78 +2,89 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'data science'
 p4
-aS'management'
+aS'pig'
 p5
-aS'science'
+aS'analytics'
 p6
-aS'data science'
+aS'engineering'
 p7
-aS'data scientist'
+aS'hive'
 p8
-aS'analysis'
+aS'personalization'
 p9
-aS'machine learning'
-p10
-aS'analytics'
-p11
-aS'engineering'
-p12
-aS'statistical analysis'
-p13
-aS'strategy'
-p14
-aS'data'
-p15
 aS'insurance'
-p16
+p10
 aS'experimentation'
+p11
+aS'management'
+p12
+aS'strategy'
+p13
+aS'matlab'
+p14
+aS'stata'
+p15
+aS'python'
+p16
+aS'data scientist'
 p17
-asS'working-year'
+aS'sql'
 p18
-(lp19
-V(5, 10]
+aS'data'
+p19
+aS'search'
 p20
-aV(2, 5]
-p21
-asS'major'
-p22
-(lp23
-S'management'
-p24
-aS'business'
-p25
 aS'science'
-p26
-aS'data science'
-p27
-aS'machine learning'
-p28
-aS'analytics'
-p29
-aS'engineering'
-p30
-aS'design'
-p31
-aS'statistic'
-p32
-asS'education'
-p33
-(lp34
-S'Bachelor'
-p35
-asS'responsibility'
-p36
-(lp37
-S'pattern'
-p38
-aS'product'
-p39
-aS'design'
-p40
-aS'model'
-p41
+p21
+aS'unix'
+p22
 aS'analysis'
-p42
+p23
+aS'machine learning'
+p24
+aS'r'
+aS'statistical analysis'
+p25
+asS'working-year'
+p26
+(lp27
+V(5, 10]
+p28
+aV(2, 5]
+p29
+asS'major'
+p30
+(lp31
+VData Science
+p32
+aVEngineering
+p33
+aVComputer Science
+p34
+aVBusiness
+p35
+aVManagement Science and Engineering
+p36
+asS'education'
+p37
+(lp38
+VMaster
+p39
+aVDoctor
+p40
+asS'responsibility'
+p41
+(lp42
+S'pattern'
+p43
+aS'product'
+p44
+aS'design'
+p45
+aS'model'
+p46
+aS'analysis'
+p47
 as.

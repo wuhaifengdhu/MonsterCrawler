@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'processing'
+S'c'
+aS'processing'
 p4
 aS'java'
 p5
@@ -14,59 +15,57 @@ aS'linux'
 p8
 aS'hadoop'
 p9
-aS'c++'
+aS'analysis'
 p10
-aS'distributed computing'
-p11
 aS'r'
 aS'data-driven decision making'
-p12
+p11
 aS'sql'
-p13
+p12
 aS'statistical analysis'
+p13
+aS'distributed computing'
 p14
-aS'analysis'
-p15
 aS'spark'
-p16
+p15
 aS'validation'
-p17
+p16
 aS'data'
-p18
+p17
 aS'etl'
-p19
+p18
 aS'dashboard'
-p20
+p19
 asS'working-year'
-p21
-(lp22
+p20
+(lp21
 V(2, 5]
-p23
+p22
 asS'major'
-p24
-(lp25
-S'computing'
+p23
+(lp24
+VStatistics
+p25
+aVComputer Science
 p26
-aS'statistical practice'
+aVBusiness
 p27
-aS'business'
-p28
-aS'statistic'
-p29
 asS'education'
-p30
-(lp31
+p28
+(lp29
 S'Bachelor'
-p32
+p30
 asS'responsibility'
-p33
-(lp34
+p31
+(lp32
 S'report'
-p35
-aVinsight
-p36
+p33
 aS'analysis'
-p37
+p34
+aS'insight'
+p35
+aS'decision making'
+p36
 aS'processing'
-p38
+p37
 as.

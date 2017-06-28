@@ -4,89 +4,91 @@ p2
 (dp3
 S'software development'
 p4
-I1
+F0.01432565282481941
 sS'speech recognition'
 p5
-I1
-sS'natural language processing'
+F0.038861180679960312
+sS'search'
 p6
-I1
+F0.020959390389525458
 sS'signal processing'
 p7
-I1
+F0.021173446024058785
 sS'theory'
 p8
-I1
+F0.019800515205900916
 sS'shell scripting'
 p9
-I1
+F0.02276867261678182
 sS'python'
 p10
-I1
+F0.0035219696807653107
 sS'processing'
 p11
-I1
-sS'c++'
+F0.011034378963991353
+sS'c'
+F0.0084501481344466042
+sS'linux'
 p12
-I1
+F0.012473500255400199
 sS'writing'
 p13
-I1
+F0.015182840041097925
 sS'machine learning'
 p14
-I1
+F0.0044291737961759418
 sS'architecture'
 p15
-I1
-sS'linux'
+F0.014777125153274718
+sS'english'
 p16
-I1
-sS'education'
+F0.022823978726037215
+sS'natural language processing'
 p17
-I1
-sS'digital signal processing'
+F0.016932149540272317
+sS'education'
 p18
-I1
-sS'research'
+F0.014179910471711278
+sS'digital signal processing'
 p19
-I1
-sS'scripting'
+F0.036818749935553993
+sS'research'
 p20
-I1
-ssS'working-year'
+F0.0057645969031198535
+sS'scripting'
 p21
-(dp22
-V(0, 2]
-p23
-I1
-ssS'major'
+F0.01643975930707205
+ssS'working-year'
+p22
+(dp23
+sS'major'
 p24
 (dp25
-S'machine learning'
+VEngineering
 p26
-I1
-sS'natural language processing'
+F0.01521877653220762
+sVComputer Science
 p27
-I1
+F0.0061172685564337692
 ssS'education'
 p28
 (dp29
 S'Bachelor'
 p30
-I1
+F0.0061579650518236943
 ssS'responsibility'
 p31
 (dp32
 S'development'
 p33
-I1
+F0.008182168935230532
 sS'product'
 p34
-I1
+F0.018175579604293876
 sS'processing'
 p35
-I1
+F0.011034378963991353
 sS'engineering design'
 p36
-I1
+F0.039485322840133417
 ss.

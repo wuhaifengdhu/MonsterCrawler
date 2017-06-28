@@ -2,184 +2,168 @@
 S'skills'
 p2
 (dp3
-S'forecasting'
+S'nlp'
 p4
-I1
-sS'communication'
+F0.0090139105473972577
+sS'forecasting'
 p5
-I1
-sS'data science'
+F0.0076961391229142216
+sS'communication'
 p6
-I1
-sS'analytics'
+F0.0041553001551466046
+sS'data science'
 p7
-I1
-sS'health insurance'
+F0.0031570627970094467
+sS'analytics'
 p8
-I1
-sS'statistical analysis'
+F0.0022827754907704112
+sS'health insurance'
 p9
-I1
-sS'problem solving'
+F0.013518854324160367
+sS'statistical analysis'
 p10
-I1
-sS'principal component analysis'
+F0.0067577431848099946
+sS'problem solving'
 p11
-I1
-sS'insurance'
+F0.0064425508266489533
+sS'principal component analysis'
 p12
-I1
-sS'qlikview'
+F0.014302296562892364
+sS'insurance'
 p13
-I1
-sS'management'
+F0.049656242733065951
+sS'qlikview'
 p14
-I1
+F0.010579542716803227
 sS'big data'
 p15
-I1
+F0.0033404858959650064
 sS'tableau'
 p16
-I1
+F0.0052730343494062776
 sS'oracle sql'
 p17
-I1
+F0.009261019559141246
 sS'natural language processing'
 p18
-I1
+F0.0065773179316543379
 sS'policy'
 p19
-I1
+F0.0071644572914455369
 sS'master data management'
 p20
-I1
+F0.013163094086043018
 sS'data management'
 p21
-I1
+F0.0072176328204967737
 sS'clustering'
 p22
-I1
+F0.0084604004214073759
 sS'segmentation'
 p23
-I1
+F0.0076011845462730732
 sS'product development'
 p24
-I1
+F0.0068595179758050131
 sS'customer service'
 p25
-I1
+F0.008998739481857327
 sS'processing'
 p26
-I1
+F0.0042863204374559583
 sS'data scientist'
 p27
-I1
-sS'leadership'
-p28
-I1
-sS'sql'
-p29
-I1
-sS'data'
-p30
-I1
+F0.0027805030581729089
 sS'training'
+p28
+F0.0061766266431032262
+sS'leadership'
+p29
+F0.004337030501847302
+sS'sql'
+p30
+F0.0017898788945749267
+sS'data'
 p31
-I1
-sS'data visualization'
+F0.0037354799330542648
+sS'a'
+F0.0049082464399318286
+sS'search'
 p32
-I1
-sS'science'
+F0.0081417054531489966
+sS'data visualization'
 p33
-I1
-sS'analysis'
-p34
-I1
-sS'linear regression'
-p35
-I1
-sS'google analytics'
-p36
-I1
-sS'artificial intelligence'
-p37
-I1
-sS'oracle'
-p38
-I1
-sS'validation'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
-sS'management'
-p46
-I1
-sS'big data'
-p47
-I1
+F0.0051620305133322853
 sS'science'
-p48
-I1
-sS'data science'
-p49
-I1
-sS'natural language processing'
-p50
-I1
-sS'communication'
-p51
-I1
-sS'analytics'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'artificial intelligence'
-p54
-I1
-ssS'education'
-p55
-(dp56
-VMaster
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'information'
-p60
-I1
-sS'forecasting'
-p61
-I1
-sS'processing'
-p62
-I1
-sS'product'
-p63
-I1
+p34
+F0.0073809332093867971
 sS'analysis'
-p64
-I1
-sS'solve problem'
-p65
-I1
+p35
+F0.00089926173688748012
+sS'linear regression'
+p36
+F0.0099663926446125848
+sS'google analytics'
+p37
+F0.010124142291442989
+sS'artificial intelligence'
+p38
+F0.0072640854595138193
+sS'healthcare'
+p39
+F0.0070793709798167041
+sS'oracle'
+p40
+F0.0068898202061976948
+sS'validation'
+p41
+F0.0082991136616144268
+ssS'working-year'
+p42
+(dp43
+sS'major'
+p44
+(dp45
+VData Science
+p46
+F0.0026962965422705053
+sVManagement Science and Engineering
+p47
+F0.0033846313345640218
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0023920704138317762
+sVMaster
+p51
+F0.0019088731895647688
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.0031783753344202591
+sS'information'
+p55
+F0.0036406960617569413
+sS'forecasting'
+p56
+F0.0076961391229142216
+sS'processing'
+p57
+F0.0042863204374559583
+sS'product'
+p58
+F0.01412066027000259
+sS'analysis'
+p59
+F0.00089926173688748012
 sS'recommendation'
-p66
-I1
+p60
+F0.01371234511715628
 sS'report'
-p67
-I1
+p61
+F0.010893839475970755
 ss.

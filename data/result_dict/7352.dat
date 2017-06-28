@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'management'
 p5
@@ -22,7 +23,7 @@ aS'access'
 p12
 aS'engineering'
 p13
-aS'instructional design'
+aS'materials'
 p14
 aS'governance'
 p15
@@ -40,42 +41,40 @@ aS'insurance'
 p21
 aS'information technology'
 p22
-asS'working-year'
+aS'instructional design'
 p23
-(lp24
-V[0]
-p25
-asS'major'
+asS'working-year'
+p24
+(lp25
+S'[0]'
 p26
-(lp27
-S'information'
-p28
-aS'engineering'
+asS'major'
+p27
+(lp28
+VEngineering
 p29
-aS'management'
+aVInformation Science
 p30
-aS'design'
+aVManagement Science and Engineering
 p31
-aS'information technology'
-p32
 asS'education'
-p33
-(lp34
+p32
+(lp33
 S'Bachelor'
-p35
+p34
 asS'responsibility'
-p36
-(lp37
+p35
+(lp36
 S'development'
-p38
+p37
 aS'information'
-p39
+p38
 aS'documentation'
-p40
+p39
 aS'design'
-p41
+p40
 aS'model'
-p42
+p41
 aS'presentation'
-p43
+p42
 as.

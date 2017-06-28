@@ -42,6 +42,7 @@ aS'data'
 p22
 aS'customer experience'
 p23
+aS'a'
 aS'data collection'
 p24
 aS'data visualization'
@@ -57,68 +58,60 @@ p29
 aS'banking'
 p30
 aS'r'
-aS'organization'
+aS'algorithms'
 p31
-asS'working-year'
+aS'organization'
 p32
-(lp33
+asS'working-year'
+p33
+(lp34
 V(2, 5]
-p34
-asS'major'
 p35
-(lp36
-S'information'
-p37
-aS'business'
+asS'major'
+p36
+(lp37
+VMathematics
 p38
-aS'science'
+aVData Science
 p39
-aS'machine learning'
+aVComputer Science
 p40
-aS'analytics'
+aVBusiness
 p41
-aS'design'
-p42
-aS'computer science'
-p43
-aS'statistic'
-p44
-aS'mathematics'
-p45
 asS'education'
+p42
+(lp43
+VBachelor
+p44
+aVMaster
+p45
+asS'responsibility'
 p46
 (lp47
-VBachelor
-p48
-aVMaster
-p49
-asS'responsibility'
-p50
-(lp51
 S'information'
-p52
+p48
 aS'data collection'
-p53
+p49
 aS'business problem'
-p54
+p50
 aS'pattern'
-p55
-aVinsight
-p56
+p51
+aS'insight'
+p52
 aS'analysis'
-p57
-aS'statistical model'
-p58
-aS'design'
-p59
-aS'modeling'
-p60
-aS'understand'
-p61
-aS'implement'
-p62
+p53
 aS'improvement'
-p63
+p54
+aS'design'
+p55
+aS'modeling'
+p56
+aS'understand'
+p57
+aS'implement'
+p58
+aS'statistical model'
+p59
 aS'model'
-p64
+p60
 as.

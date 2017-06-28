@@ -4,250 +4,229 @@ p2
 (dp3
 S'statistical modeling'
 p4
-I1
+F0.0059712184006346552
 sS'communication'
 p5
-I1
+F0.0052772311970361889
 sS'linear programming'
 p6
-I1
+F0.015642845896564766
 sS'testing'
 p7
-I1
+F0.0068245933830000435
 sS'data acquisition'
 p8
-I1
+F0.015349977514829263
 sS'analytics'
 p9
-I1
+F0.0086973746198352672
 sS'problem solving'
 p10
-I1
+F0.0081820395498441705
 sS'education'
 p11
-I1
+F0.0069954224993775639
 sS'regression'
 p12
-I1
+F0.0079205593022726693
 sS'theory'
 p13
-I1
+F0.0097682541682444519
 sS'clustering'
 p14
-I1
-sS'management'
+F0.021489417070374734
+sS'statistics'
 p15
-I1
+F0.0031083761826753487
 sS'big data'
 p16
-I1
+F0.0042424170878755585
 sS'industrial engineering'
 p17
-I1
-sS'r programming'
-p18
-I1
+F0.015381276337747109
 sS'hadoop'
+p18
+F0.0042826883379985499
+sS'research'
 p19
-I1
+F0.0028438678055391279
 sS'access'
 p20
-I1
+F0.0077315400836548498
 sS'r'
-I1
+F0.001849974355379804
 sS'computer science'
 p21
-I1
+F0.0046866108772907356
 sS'database development'
 p22
-I1
-sS'algorithm development'
+F0.018547479509571998
+sS'mathematics'
 p23
-I1
+F0.0060929776069193527
 sS'energy'
 p24
-I1
+F0.010284984353500282
 sS'operations research'
 p25
-I1
-sS'finance'
+F0.0096031283851730331
+sS'algorithm development'
 p26
-I1
-sS'automotive'
+F0.014029742491172186
+sS'finance'
 p27
-I1
-sS'collaboration'
+F0.0088504868472789617
+sS'automotive'
 p28
-I1
-sS'cplex'
+F0.014157961557783781
+sS'collaboration'
 p29
-I1
-sS'discrete event simulation'
+F0.0085255647335781802
+sS'cplex'
 p30
-I1
-sS'product development'
+F0.017011436310263795
+sS'discrete event simulation'
 p31
-I1
+F0.02019646199701888
 sS'machine learning'
 p32
-I1
-sS'aerospace'
+F0.0021850590727801314
+sS'product development'
 p33
-I1
-sS'algorithm design'
+F0.0087115878292723676
+sS'management'
 p34
-I1
-sS'sequencing'
+F0.0090604886719965212
+sS'aerospace'
 p35
-I1
-sS'modeling'
+F0.016237001682605584
+sS'algorithm design'
 p36
-I1
-sS'manufacturing'
+F0.014050772743569631
+sS'sequencing'
 p37
-I1
-sS'data'
+F0.016446712876062128
+sS'modeling'
 p38
-I1
-sS'data visualization'
+F0.0027071522967385083
+sS'manufacturing'
 p39
-I1
-sS'science'
+F0.037326585720318092
+sS'data'
 p40
-I1
-sS'applied mathematics'
+F0.0019766914645745486
+sS'data visualization'
 p41
-I1
-sS'programming'
+F0.0065557787519320036
+sS'science'
 p42
-I1
-sS'simulation'
+F0.0023434462939803083
+sS'applied mathematics'
 p43
-I1
-sS'optimization'
+F0.010073702482812355
+sS'programming'
 p44
-I1
-sS'etl'
+F0.0036743841161162535
+sS'simulation'
 p45
-I1
-ssS'working-year'
+F0.0089494526255812397
+sS'optimization'
 p46
-(dp47
-V[0]
+F0.013333392382590282
+sS'organization'
+p47
+F0.0058772794642722708
+sS'etl'
 p48
-I1
-ssS'major'
+F0.0094992155800506101
+ssS'working-year'
 p49
 (dp50
-S'information'
+S'[0]'
 p51
-I1
-sS'management'
+F0.0073207157684812762
+ssS'major'
 p52
-I1
-sS'finance'
-p53
-I1
-sS'big data'
+(dp53
+VStatistics
 p54
-I1
-sS'mathematics statistics'
+F0.0060050158996269344
+sVBusiness
 p55
-I1
-sS'communication'
+F0.0036057144905803809
+sVData Science
 p56
-I1
-sS'industrial engineering'
+F0.0034242966086835422
+sVEconomics
 p57
-I1
-sS'applied math'
+F0.0054692384917482033
+sVComputer Science
 p58
-I1
-sS'phd'
+F0.0030178524878406595
+sVMathematics
 p59
-I1
-sS'business'
+F0.0057142417652748401
+sVIndustrial Engineering
 p60
-I1
-sS'analytics'
+F0.013366573540313807
+sVOperations Research
 p61
-I1
-sS'machine learning'
+F0.010729096327290515
+sVManagement Science and Engineering
 p62
-I1
-sS'design'
-p63
-I1
-sS'computer science'
-p64
-I1
-sS'statistic'
-p65
-I1
-sS'applied mathematics'
-p66
-I1
-sS'computer science mathematics'
-p67
-I1
-sS'operations research industrial engineering'
-p68
-I1
-sS'operations research'
-p69
-I1
-sS'science'
-p70
-I1
+F0.0042984817948963083
 ssS'education'
-p71
-(dp72
-VDoctor
-p73
-I1
+p63
+(dp64
+VMaster
+p65
+F0.0024242689507472564
+sVDoctor
+p66
+F0.0036306059059215603
 ssS'responsibility'
-p74
-(dp75
+p67
+(dp68
 S'development'
-p76
-I1
+p69
+F0.012109610024141187
 sS'information'
-p77
-I1
+p70
+F0.0046236839984313159
 sS'product'
-p78
-I1
+p71
+F0.0044833096357258222
 sS'business problem'
-p79
-I1
+p72
+F0.0094938352071021487
 sS'improvement'
-p80
-I1
-sVinsight
-p81
-I1
+p73
+F0.0089540216544636928
+sS'insight'
+p74
+F0.0061163111866982837
 sS'communicate'
-p82
-I1
+p75
+F0.0066874762742719744
 sS'simulation'
-p83
-I1
+p76
+F0.0089494526255812397
 sS'optimization'
-p84
-I1
+p77
+F0.013333392382590282
 sS'design'
-p85
-I1
+p78
+F0.0048680627000615923
 sS'modeling'
-p86
-I1
+p79
+F0.0027071522967385083
 sS'model'
-p87
-I1
+p80
+F0.025790180698360681
 sS'prototype'
-p88
-I1
+p81
+F0.010510571378498959
 sS'transformation'
-p89
-I1
+p82
+F0.010481523784442889
 ss.

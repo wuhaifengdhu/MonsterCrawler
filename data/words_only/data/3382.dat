@@ -2,178 +2,177 @@
 S'skills'
 p2
 (dp3
-S'probability'
+S'economics'
 p4
-I1
-sS'communication'
+F0.0068471194981698895
+sS'probability'
 p5
-I1
-sS'data science'
-p6
-I1
-sS'analytics'
-p7
-I1
-sS'engineering'
-p8
-I1
-sS'data mining'
-p9
-I1
-sS'accounting'
-p10
-I1
-sS'regression'
-p11
-I1
-sS'clustering'
-p12
-I1
-sS'management'
-p13
-I1
-sS'classification'
-p14
-I1
-sS'anomaly detection'
-p15
-I1
-sS'strategy'
-p16
-I1
-sS'risk management'
-p17
-I1
-sS'fraud detection'
-p18
-I1
-sS'computer science'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'statistical modeling'
-p21
-I1
-sS'sql'
-p22
-I1
-sS'modeling'
-p23
-I1
-sS'fraud'
-p24
-I1
-sS'data visualization'
-p25
-I1
-sS'risk modeling'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'credit'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'management'
-p35
-I1
-sS'business'
-p36
-I1
+F0.0099566546804956621
 sS'communication'
-p37
-I1
+p6
+F0.0045233410260310187
 sS'data science'
-p38
-I1
-sS'data mining'
-p39
-I1
-sS'data science analytics'
-p40
-I1
-sS'machine learning data mining'
-p41
-I1
+p7
+F0.0034366883590302836
 sS'analytics'
-p42
-I1
+p8
+F0.0074548925312873712
 sS'engineering'
-p43
-I1
-sS'finance accounting'
-p44
-I1
-sS'design'
-p45
-I1
-sS'computer science'
-p46
-I1
-sS'statistic'
-p47
-I1
-sS'accounting'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'computer science economics'
-p50
-I1
-ssS'education'
-p51
-(dp52
-VMaster
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'product'
-p56
-I1
-sS'data analysis'
-p57
-I1
-sS'business problem'
-p58
-I1
-sS'communicate'
-p59
-I1
-sS'analysis'
-p60
-I1
-sS'statistical model'
-p61
-I1
-sS'design'
-p62
-I1
+p9
+F0.003499585077353299
 sS'data mining'
-p63
-I1
+p10
+F0.0060627980819489644
+sS'sas'
+p11
+F0.0039578195905069051
+sS'accounting'
+p12
+F0.037802483900278766
+sS'regression'
+p13
+F0.0067890508305194306
+sS'clustering'
+p14
+F0.0092097501730177434
+sS'statistics'
+p15
+F0.0026643224422931559
+sS'classification'
+p16
+F0.0090153197184516549
+sS'anomaly detection'
+p17
+F0.012557207151953173
+sS'strategy'
+p18
+F0.0090000653212961995
+sS'risk management'
+p19
+F0.0090278780742521041
+sS'fraud detection'
+p20
+F0.013496983073187835
+sS'computer science'
+p21
+F0.0040170950376777733
+sS'data analysis'
+p22
+F0.0042393200427590432
+sS'finance'
+p23
+F0.0075861315833819672
+sS'management'
+p24
+F0.0025887110491418634
+sS'statistical modeling'
+p25
+F0.00511818720054399
+sS'sql'
+p26
+F0.0019484110252372775
 sS'modeling'
-p64
-I1
+p27
+F0.0023204162543472929
+sS'data'
+p28
+F0.0010165841817811965
+sS'a'
+F0.0053429768388972192
+sS'fraud'
+p29
+F0.055883658222975544
+sS'data visualization'
+p30
+F0.005619238930227431
+sS'science'
+p31
+F0.0020086682519831213
+sS'risk modeling'
+p32
+F0.016040725961417503
+sS'analysis'
+p33
+F0.00097891063358322835
+sS'machine learning'
+p34
+F0.0018729077766686838
+sS'credit'
+p35
+F0.0090786709263932768
+ssS'working-year'
+p36
+(dp37
+V(2, 5]
+p38
+F0.0035398412240889585
+ssS'major'
+p39
+(dp40
+VStatistics
+p41
+F0.0051471564853945145
+sVBusiness
+p42
+F0.0030906124204974693
+sVData Science
+p43
+F0.0029351113788716075
+sVEconomics
+p44
+F0.0046879187072127451
+sVEngineering
+p45
+F0.003499585077353299
+sVComputer Science
+p46
+F0.0025867307038634222
+sVManagement Science and Engineering
+p47
+F0.0036844129670539783
+ssS'education'
+p48
+(dp49
+VMaster
+p50
+F0.0020779448149262198
+sVDoctor
+p51
+F0.0031119479193613374
+ssS'responsibility'
+p52
+(dp53
+S'product'
+p54
+F0.0038428368306221332
+sS'data analysis'
+p55
+F0.0042393200427590432
+sS'business problem'
+p56
+F0.0081375730346589844
+sS'communicate'
+p57
+F0.0057321225208045489
+sS'analysis'
+p58
+F0.00097891063358322835
+sS'statistical model'
+p59
+F0.010259612301768273
+sS'design'
+p60
+F0.0041726251714813648
+sS'data mining'
+p61
+F0.0060627980819489644
+sS'modeling'
+p62
+F0.0023204162543472929
+sS'implement'
+p63
+F0.0060510376431988783
 sS'model'
-p65
-I1
+p64
+F0.02210586917002344
 ss.

@@ -4,142 +4,147 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0035737457316272151
 sS'decision support'
 p5
-I1
-sS'integration'
+F0.010026054081202641
+sS'sales'
 p6
-I1
-sS'data warehousing'
-p7
-I1
-sS'education'
-p8
-I1
-sS'insurance'
-p9
-I1
-sS'java'
-p10
-I1
-sS'rdbms'
-p11
-I1
+F0.0075047511065259673
 sS'hadoop'
+p7
+F0.0029002404094798304
+sS'data warehousing'
+p8
+F0.0068656665049306844
+sS'sas'
+p9
+F0.0031269455004004887
+sS'education'
+p10
+F0.0094746128659741261
+sS'insurance'
+p11
+F0.0071177684278773985
+sS'management'
 p12
-I1
-sS'governance'
+F0.0020452570365680632
+sS'java'
 p13
-I1
-sS'strategy'
+F0.0027974423649396916
+sS'rdbms'
 p14
-I1
-sS'computer science'
+F0.010098876853936029
+sS'integration'
 p15
-I1
-sS'data analysis'
+F0.02082386566315677
+sS'governance'
 p16
-I1
-sS'marketing'
+F0.0081366050133088001
+sS'strategy'
 p17
-I1
-sS'data scientist'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'data'
-p20
-I1
-sS'project management'
-p21
-I1
-sS'database management'
-p22
-I1
-sS'analysis'
-p23
-I1
-sS'r'
-I1
-sS'data integration'
-p24
-I1
-sS'healthcare'
-p25
-I1
-sS'data analytics'
-p26
-I1
-ssS'working-year'
-p27
-(dp28
-V(5, 10]
-p29
-I1
-sV(2, 5]
-p30
-I1
-ssS'major'
-p31
-(dp32
-S'information'
-p33
-I1
-sS'business'
-p34
-I1
-sS'communication'
-p35
-I1
-sS'data analytics'
-p36
-I1
-sS'marketing'
-p37
-I1
-sS'ee computer science'
-p38
-I1
-sS'project management'
-p39
-I1
+F0.017776652722650506
 sS'computer science'
-p40
-I1
-ssS'education'
-p41
-(dp42
-VBachelor
-p43
-I1
-ssS'responsibility'
-p44
-(dp45
-S'development'
-p46
-I1
-sS'information'
-p47
-I1
-sS'product'
-p48
-I1
+p18
+F0.0031737771178041098
 sS'data analysis'
-p49
-I1
-sVinsight
-p50
-I1
+p19
+F0.0033493499209157223
+sS'marketing'
+p20
+F0.0043007099830192968
+sS'data scientist'
+p21
+F0.0023913581606408085
+sS'sql'
+p22
+F0.0015393766565080069
+sS'data'
+p23
+F0.0029449579381923296
+sS'project management'
+p24
+F0.0042922196914775305
+sS'c'
+F0.0028230743203117321
+sS'database management'
+p25
+F0.01094131634345823
+sS'science'
+p26
+F0.0015869839462620595
 sS'analysis'
+p27
+F0.00077340569244724582
+sS'r'
+F0.0012528043038689417
+sS'data integration'
+p28
+F0.00873738410932637
+sS'healthcare'
+p29
+F0.0060885786530703477
+sS'retail'
+p30
+F0.0077786940957483564
+sS'data analytics'
+p31
+F0.0046102092132862234
+ssS'working-year'
+p32
+(dp33
+V(5, 10]
+p34
+F0.0027215446085256403
+sV(2, 5]
+p35
+F0.0027967142853975967
+ssS'major'
+p36
+(dp37
+VData Science
+p38
+F0.0023189367553161683
+sVEconomics
+p39
+F0.0037037732449762095
+sVComputer Science
+p40
+F0.0020436924296889339
+sVBusiness
+p41
+F0.0024417931087451785
+sVManagement Science and Engineering
+p42
+F0.0029109357527514496
+ssS'education'
+p43
+(dp44
+VBachelor
+p45
+F0.0020572885500449362
+ssS'responsibility'
+p46
+(dp47
+S'development'
+p48
+F0.0027335462808445112
+sS'information'
+p49
+F0.0062623259572433159
+sS'product'
+p50
+F0.012144405333794552
+sS'data analysis'
 p51
-I1
-sS'understand'
+F0.0033493499209157223
+sS'analysis'
 p52
-I1
-sS'model'
+F0.00077340569244724582
+sS'understand'
 p53
-I1
+F0.0047441982244791764
+sS'model'
+p54
+F0.003493026731154945
 ss.

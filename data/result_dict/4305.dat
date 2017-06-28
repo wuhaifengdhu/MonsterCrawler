@@ -6,109 +6,110 @@ S'logistics'
 p4
 aS'supply chain'
 p5
-aS'engineering'
+aS'analytics'
 p6
-aS'go'
+aS'unix'
 p7
-aS'research'
+aS'linux'
 p8
-aS'insurance'
+aS'go'
 p9
-aS'visualization'
-p10
-aS'management'
-p11
-aS'data'
-p12
-aS'education'
-p13
 aS'strategy'
+p10
+aS'insurance'
+p11
+aS'visualization'
+p12
+aS'management'
+p13
+aS'data'
 p14
-aS'user interface'
+aS'education'
 p15
-aS'html'
+aS'research'
 p16
-aS'computer science'
+aS'user interface'
 p17
-aS'product development'
+aS'html'
 p18
-aS'python'
-p19
-aS'ruby rails'
-p20
-aS'collaboration'
-p21
-aS'javascript'
-p22
-aS'data scientist'
-p23
-aS'search'
-p24
-aS'sql'
-p25
-aS'ruby'
-p26
-aS'c'
-aS'github'
-p27
-aS'data visualization'
-p28
-aS'science'
-p29
-aS'programming'
-p30
-aS'analysis'
-p31
-aS'machine learning'
-p32
-aS'architecture'
-p33
-aS'data analytics'
-p34
-asS'working-year'
-p35
-(lp36
-V(2, 5]
-p37
-asS'major'
-p38
-(lp39
-S'management'
-p40
-aS'science'
-p41
-aS'machine learning'
-p42
-aS'engineering'
-p43
-aS'design'
-p44
 aS'computer science'
-p45
-aS'data analytics'
-p46
-asS'education'
-p47
-(lp48
-VBachelor
-p49
-aVMaster
-p50
-aVDoctor
-p51
-asS'responsibility'
-p52
-(lp53
-S'development'
-p54
-aS'product'
-p55
-aVinsight
-p56
+p19
+aS'css'
+p20
+aS'product development'
+p21
+aS'python'
+p22
+aS'ruby rails'
+p23
+aS'collaboration'
+p24
+aS'javascript'
+p25
+aS'data scientist'
+p26
+aS'sql'
+p27
+aS'ruby'
+p28
+aS'search'
+p29
+aS'github'
+p30
+aS'data visualization'
+p31
+aS'science'
+p32
+aS'programming'
+p33
+aS'engineering'
+p34
 aS'analysis'
+p35
+aS'machine learning'
+p36
+aS'architecture'
+p37
+aS'data analytics'
+p38
+asS'working-year'
+p39
+(lp40
+V(2, 5]
+p41
+asS'major'
+p42
+(lp43
+VData Science
+p44
+aVEngineering
+p45
+aVComputer Science
+p46
+aVManagement Science and Engineering
+p47
+asS'education'
+p48
+(lp49
+VBachelor
+p50
+aVMaster
+p51
+aVDoctor
+p52
+asS'responsibility'
+p53
+(lp54
+S'development'
+p55
+aS'product'
+p56
+aS'insight'
 p57
-aS'design'
+aS'analysis'
 p58
-aS'interface'
+aS'design'
 p59
+aS'interface'
+p60
 as.

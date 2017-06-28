@@ -12,7 +12,7 @@ aS'data science'
 p7
 aS'decision support'
 p8
-aS'cluster'
+aS'analytics'
 p9
 aS'business intelligence'
 p10
@@ -30,7 +30,7 @@ aS'education'
 p16
 aS'multivariate analysis'
 p17
-aS'analytics'
+aS'time series analysis'
 p18
 aS'power bi'
 p19
@@ -38,155 +38,137 @@ aS'excel'
 p20
 aS'research'
 p21
-aS'computer science'
+aS'python'
 p22
-aS'intelligence'
+aS'optimization'
 p23
-aS'advanced analytics'
-p24
-aS'mathematics'
-p25
-aS'microsoft excel'
-p26
 aS'six sigma'
-p27
-aS'collaboration'
-p28
-aS'data scientist'
-p29
-aS'leadership'
-p30
-aS'sql'
-p31
-aS'modeling'
-p32
-aS'data'
-p33
-aS'organization'
-p34
-aS'word'
-p35
-aS'sql server'
-p36
-aS'statistical analysis'
-p37
-aS'root'
-p38
-aS'economics'
-p39
-aS'programming'
-p40
-aS'engineering'
-p41
-aS'communication skills'
-p42
-aS'machine learning'
-p43
-aS'time series analysis'
-p44
-aS'r'
-aS'science'
-p45
-aS'oracle'
-p46
-aS'statistical inference'
-p47
-aS'security'
-p48
-aS'cluster analysis'
-p49
-aS'predictive analytics'
-p50
-asS'working-year'
-p51
-(lp52
-V(5, 10]
-p53
-aV(2, 5]
-p54
-asS'major'
-p55
-(lp56
-S'science'
-p57
-aS'mathematics'
-p58
-aS'business'
-p59
-aS'economics math'
-p60
-aS'economics mathematics'
-p61
-aS'data science'
-p62
-aS'economics'
-p63
-aS'statistic'
-p64
-aS'machine learning'
-p65
-aS'analytics'
-p66
-aS'engineering'
-p67
-aS'design'
-p68
+p24
 aS'computer science'
-p69
-aS'phd'
-p70
-aS'data mining'
-p71
+p25
+aS'visio'
+p26
+aS'intelligence'
+p27
+aS'mathematics'
+p28
+aS'microsoft excel'
+p29
+aS'toad'
+p30
+aS'collaboration'
+p31
+aS'data scientist'
+p32
 aS'advanced analytics'
-p72
-aS'computer science engineering'
-p73
-aS'predictive analytics'
-p74
-aS'communication'
-p75
-aS'history'
-p76
-asS'education'
-p77
-(lp78
-VBachelor
-p79
-aVMaster
-p80
-aVDoctor
-p81
-asS'responsibility'
-p82
-(lp83
-S'forecasting'
-p84
-aS'decision-making'
-p85
-aS'business problem'
-p86
-aS'understand'
-p87
-aVinsight
-p88
-aS'product'
-p89
-aS'analysis'
-p90
-aS'improvement'
-p91
-aS'analytic'
-p92
-aS'design'
-p93
-aS'data mining'
-p94
-aS'complex data set'
-p95
+p33
+aS'leadership'
+p34
+aS'sql'
+p35
 aS'modeling'
-p96
-aS'statistical model'
-p97
+p36
+aS'data'
+p37
+aS'organization'
+p38
+aS'word'
+p39
+aS'sql server'
+p40
+aS'statistical analysis'
+p41
+aS'root'
+p42
+aS'economics'
+p43
+aS'programming'
+p44
+aS'engineering'
+p45
+aS'communication skills'
+p46
+aS'machine learning'
+p47
+aS'cluster'
+p48
+aS'r'
+aS'algorithms'
+p49
+aS'science'
+p50
+aS'oracle'
+p51
+aS'statistical inference'
+p52
+aS'security'
+p53
+aS'cluster analysis'
+p54
+aS'predictive analytics'
+p55
+asS'working-year'
+p56
+(lp57
+V(5, 10]
+p58
+aV(2, 5]
+p59
+asS'major'
+p60
+(lp61
+VBusiness
+p62
+aVData Science
+p63
+aVEconomics
+p64
+aVEngineering
+p65
+aVComputer Science
+p66
+aVMathematics
+p67
+asS'education'
+p68
+(lp69
+VBachelor
+p70
+aVMaster
+p71
+aVDoctor
+p72
+asS'responsibility'
+p73
+(lp74
+S'forecasting'
+p75
+aS'decision-making'
+p76
+aS'business problem'
+p77
+aS'insight'
+p78
+aS'product'
+p79
+aS'analysis'
+p80
+aS'forecast'
+p81
+aS'analytic'
+p82
+aS'optimization'
+p83
+aS'design'
+p84
+aS'data mining'
+p85
+aS'understand'
+p86
+aS'modeling'
+p87
+aS'improvement'
+p88
 aS'documentation'
-p98
+p89
 as.

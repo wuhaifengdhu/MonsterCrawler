@@ -1,175 +1,336 @@
-job_requisition
-number
-117508
-category_consultant
--
-analyst
-primary_location
-herndon_va
-u
-security_clearance
-t_sci
-polygraph_clearance
-status
-must_current
-schedule_full
-time
-type_travel
-none
-percent_travel
-required_none
-description
-develops_applies
-mathematical_statistical
-theory_method
-collect_organize
-interpret_summarize
-numerical
-data
-provide_usable
-information
-responsibility
-produce_innovative
-solution
-driven_exploratory
-data
-analysis
-complex_high-dimensional
-datasets
-applies_knowledge
-statistic
-machine_learning
-programming
-data
-modeling_simulation
-advanced
-mathematics_recognize
-pattern
-identify_opportunity
-pose_business
-question
-make_valuable
-discovery_leading
-prototype
-development
-product
-improvement
-us_flexible
-analytical_approach
-design
-develop_evaluate
-predictive_model
-advanced
-algorithm
-lead_optimal
-value_extraction
-data
-generates_test
-hypothesis_analyzes
-interprets_result
-product
-experiment
-work
-product
-engineer
-translate_prototype
-new
-product
-service
-feature
-provide_guideline
-large-scale_implementation
-required_qualification
-demonstrated
-job
-experience
-integrating_analyzing
-large
-data_set
-using
-big_data
-technology_gots
-cot_hive
-pig_twister
-tableau_visual
-studio
-hadoop_hbase
-blur
-demonstrated
-job
-experience
-xml_json
-customer
-standard
-data
-transfer_metadata
-management
-demonstrated
-job
-experience
-proposing_implementing
-evaluating_content
-analytic
-strategy_characterizing
-categorizing_large
-data_set
-demonstrated
-job
-experience
-designing_implementing
-metadata_measurement
-trend
-extraction
-large
-data_set
-typically_requires
-bachelor's_degree
-equivalent_five
-seven_year
-related
-experience
-position_requires
-active_t
-sci_full
-scope_polygraph
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV117508
+p4
+aVcategory consultant
+p5
+aV-
+aVanalyst
+p6
+aVprimary location
+p7
+aVherndon va
+p8
+aVu
+aVsecurity clearance
+p9
+aVt sci
+p10
+aVpolygraph clearance
+p11
+aVstatus
+p12
+aVmust current
+p13
+aVschedule full
+p14
+aVtime
+p15
+aVtype travel
+p16
+aVnone
+p17
+aVpercent travel
+p18
+aVrequired none
+p19
+aVdescription
+p20
+aVdevelops applies
+p21
+aVmathematical statistical
+p22
+aVtheory method
+p23
+aVcollect organize
+p24
+aVinterpret summarize
+p25
+aVnumerical
+p26
+aVdata
+p27
+aVprovide usable
+p28
+aVinformation
+p29
+aVresponsibility
+p30
+aVproduce innovative
+p31
+aVsolution
+p32
+aVdriven exploratory
+p33
+aVdata
+p34
+aVanalysis
+p35
+aVcomplex high-dimensional
+p36
+aVdatasets
+p37
+aVapplies knowledge
+p38
+aVstatistic machine
+p39
+aVlearning
+p40
+aVprogramming
+p41
+aVdata
+p42
+aVmodeling simulation
+p43
+aVadvanced mathematics
+p44
+aVrecognize pattern
+p45
+aVidentify opportunity
+p46
+aVpose business
+p47
+aVquestion make
+p48
+aVvaluable discovery
+p49
+aVleading prototype
+p50
+aVdevelopment
+p51
+aVproduct
+p52
+aVimprovement
+p53
+aVus flexible
+p54
+aVanalytical approach
+p55
+aVdesign develop
+p56
+aVevaluate predictive
+p57
+aVmodel
+p58
+aVadvanced
+p59
+aValgorithm
+p60
+aVlead optimal
+p61
+aVvalue extraction
+p62
+aVdata
+p63
+aVgenerates test
+p64
+aVhypothesis analyzes
+p65
+aVinterprets result
+p66
+aVproduct
+p67
+aVexperiment
+p68
+aVwork
+p69
+aVproduct
+p70
+aVengineer translate
+p71
+aVprototype new
+p72
+aVproduct service
+p73
+aVfeature
+p74
+aVprovide guideline
+p75
+aVlarge-scale implementation
+p76
+aVrequired qualification
+p77
+aVdemonstrated
+p78
+aVjob
+p79
+aVexperience
+p80
+aVintegrating analyzing
+p81
+aVlarge
+p82
+aVdata set
+p83
+aVusing big
+p84
+aVdata
+p85
+aVtechnology gots
+p86
+aVcot hive
+p87
+aVpig twister
+p88
+aVtableau visual
+p89
+aVstudio hadoop
+p90
+aVhbase blur
+p91
+aVdemonstrated
+p92
+aVjob
+p93
+aVexperience
+p94
+aVxml json
+p95
+aVcustomer
+p96
+aVstandard
+p97
+aVdata
+p98
+aVtransfer metadata
+p99
+aVmanagement
+p100
+aVdemonstrated
+p101
+aVjob
+p102
+aVexperience proposing
+p103
+aVimplementing evaluating
+p104
+aVcontent
+p105
+aVanalytic
+p106
+aVstrategy characterizing
+p107
+aVcategorizing large
+p108
+aVdata set
+p109
+aVdemonstrated
+p110
+aVjob
+p111
+aVexperience designing
+p112
+aVimplementing metadata
+p113
+aVmeasurement trend
+p114
+aVextraction
+p115
+aVlarge
+p116
+aVdata set
+p117
+aVtypically requires
+p118
+aVbachelor's degree
+p119
+aVequivalent five
+p120
+aVseven year
+p121
+aVrelated
+p122
+aVexperience
+p123
+aVposition requires
+p124
+aVactive t
+p125
+aVsci full
+p126
+aVscope polygraph
+p127
+aVcompany description
+p128
+aVcaci employ
+p129
+aVdiverse range
+p130
+aVtalent create
+p131
+aVenvironment fuel
+p132
+aVinnovation foster
+p133
+aVcontinuous improvement
+p134
+aVsuccess join
+p135
+aVcaci opportunity
+p136
+aVmake immediate
+p137
+aVimpact providing
+p138
+aVinformation
+p139
+aVsolution
+p140
+aVservice
+p141
+aVsupport
+p142
+aVnational security
+p143
+aVmission government
+p144
+aVtransformation intelligence
+p145
+aVdefense federal
+p146
+aVcivilian customer
+p147
+aVfortune magazine
+p148
+aVworld's admired
+p149
+aVcompany
+p150
+aVservice
+p151
+aVindustry caci
+p152
+aVmember fortune
+p153
+aV1000 largest
+p154
+aVcompany russell
+p155
+aV2000 index
+p156
+aVp smallcap600
+p157
+aVindex caci
+p158
+aVprovides dynamic
+p159
+aVcareer 20
+p160
+aV000 employee
+p161
+aVworldwide caci
+p162
+aVequal opportunity
+p163
+aVemployer -
+p164
+aVfemale minority
+p165
+aVprotected veteran
+p166
+aVindividual disability
+p167
+a.

@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'psychology'
+S'a'
+aS'psychology'
 p4
 aS'communication'
 p5
@@ -10,35 +11,35 @@ aS'data scientist'
 p6
 aS'outsourcing'
 p7
-aS'advertising'
+aS'strategy'
 p8
-aS'marketing'
+aS'advertising'
 p9
-aS'organization'
+aS'marketing'
 p10
-aS'data'
+aS'organization'
 p11
-asS'working-year'
+aS'data'
 p12
-(lp13
-V(5, 10]
+aS'crm'
+p13
+asS'working-year'
 p14
-aV(0, 2]
-p15
-aV(2, 5]
+(lp15
+V(5, 10]
 p16
-asS'major'
+aV(0, 2]
 p17
-(lp18
-S'marketing'
+aV(2, 5]
+p18
+asS'major'
 p19
-aS'communication'
-p20
-aS'psychology'
+(lp20
+VEconomics
 p21
-aS'business'
+aVPsychology
 p22
-aS'information'
+aVBusiness
 p23
 asS'education'
 p24

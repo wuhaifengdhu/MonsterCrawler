@@ -4,7 +4,7 @@ p2
 (lp3
 S'mathematics'
 p4
-aS'segmentation'
+aS'training'
 p5
 aS'predictive modeling'
 p6
@@ -14,82 +14,76 @@ aS'economics'
 p8
 aS'customer retention'
 p9
-aS'analysis'
+aS'segmentation'
 p10
-aS'research'
+aS'analysis'
 p11
-aS'analytics'
+aS'research'
 p12
-aS'optimization'
+aS'analytics'
 p13
-aS'design experiments'
+aS'optimization'
 p14
-aS'statistical modeling'
+aS'design experiments'
 p15
-aS'sql'
+aS'advertising'
 p16
-aS'modeling'
+aS'statistical modeling'
 p17
-aS'data'
+aS'sql'
 p18
-aS'insurance'
+aS'sas'
 p19
-aS'direct mail'
+aS'modeling'
 p20
-asS'working-year'
+aS'data'
 p21
-(lp22
-V(0, 2]
+aS'insurance'
+p22
+aS'direct mail'
 p23
-asS'major'
+asS'working-year'
 p24
 (lp25
-S'business'
+V(0, 2]
 p26
-aS'economics math'
+asS'major'
 p27
-aS'economics mathematics'
-p28
-aS'economics'
+(lp28
+VMathematics
 p29
-aS'statistic'
+aVData Science
 p30
-aS'analytics'
+aVEconomics
 p31
-aS'design'
+aVBusiness
 p32
-aS'marketing'
-p33
-aS'mathematics'
-p34
 asS'education'
-p35
-(lp36
+p33
+(lp34
 VBachelor
-p37
+p35
 asS'responsibility'
-p38
-(lp39
+p36
+(lp37
 S'development'
-p40
-aS'develop model'
-p41
+p38
 aS'analysis'
-p42
-aS'statistical model'
-p43
+p39
+aS'develop ... model'
+p40
 aS'analytic'
-p44
+p41
 aS'optimization'
-p45
+p42
 aS'design'
-p46
-aS'design experiment'
-p47
+p43
 aS'report'
-p48
+p44
 aS'modeling'
-p49
+p45
 aS'model'
-p50
+p46
+aS'design ... experiment'
+p47
 as.

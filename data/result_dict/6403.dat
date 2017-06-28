@@ -4,215 +4,206 @@ p2
 (lp3
 S'digital marketing'
 p4
-aS'classification'
+aS'forecasting'
 p5
-aS'teamwork'
+aS'classification'
 p6
-aS'communication'
+aS'teamwork'
 p7
-aS'data science'
+aS'excel'
 p8
-aS'teradata'
+aS'data science'
 p9
-aS'analytics'
+aS'teradata'
 p10
-aS'business intelligence'
+aS'tableau'
 p11
-aS'c++'
+aS'analytics'
 p12
-aS'data mining'
+aS'business intelligence'
 p13
 aS'analysis'
 p14
-aS'direct marketing'
+aS'research'
 p15
-aS'insurance'
+aS'data mining'
 p16
-aS'finance'
+aS'sas'
 p17
-aS'powerpoint'
+aS'direct marketing'
 p18
-aS'management'
+aS'insurance'
 p19
-aS'java'
+aS'finance'
 p20
-aS'linear regression'
+aS'powerpoint'
 p21
-aS'agile'
+aS'management'
 p22
-aS'sas enterprise guide'
+aS'java'
 p23
-aS'tableau'
+aS'linear regression'
 p24
-aS'governance'
+aS'agile'
 p25
-aS'perl'
+aS'sas enterprise guide'
 p26
-aS'risk management'
+aS'hadoop'
 p27
-aS'html'
+aS'governance'
 p28
-aS'campaign management'
+aS'perl'
 p29
-aS'microstrategy'
+aS'risk management'
 p30
-aS'intelligence'
+aS'html'
 p31
-aS'policy'
+aS'campaign management'
 p32
-aS'mathematics'
+aS'microstrategy'
 p33
-aS'construction'
+aS'communication'
 p34
-aS'direct mail'
+aS'policy'
 p35
-aS'text mining'
+aS'mathematics'
 p36
-aS'segmentation'
+aS'construction'
 p37
-aS'theory'
+aS'direct mail'
 p38
-aS'python'
+aS'css'
 p39
-aS'marketing'
+aS'text mining'
 p40
-aS'healthcare'
+aS'segmentation'
 p41
-aS'data scientist'
+aS'theory'
 p42
-aS'experimental design'
+aS'healthcare'
 p43
-aS'leadership'
+aS'python'
 p44
-aS'statistical modeling'
+aS'marketing'
 p45
-aS'sql'
+aS'intelligence'
 p46
-aS'regression'
+aS'javascript'
 p47
-aS'modeling'
+aS'data scientist'
 p48
-aS'db2'
+aS'experimental design'
 p49
-aS'data'
+aS'leadership'
 p50
-aS'financial analysis'
+aS'statistical modeling'
 p51
-aS'word'
+aS'sql'
 p52
-aS'solver'
+aS'regression'
 p53
-aS'statistical analysis'
+aS'modeling'
 p54
-aS'science'
+aS'db2'
 p55
-aS'microsoft word'
+aS'data'
 p56
-aS'economics'
+aS'c'
+aS'financial analysis'
 p57
-aS'programming'
+aS'word'
 p58
-aS'thought leadership'
+aS'solver'
 p59
-aS'business objects'
+aS'statistical analysis'
 p60
-aS'machine learning'
+aS'science'
 p61
-aS'cluster'
+aS'microsoft word'
 p62
+aS'economics'
+p63
+aS'programming'
+p64
+aS'thought leadership'
+p65
+aS'business objects'
+p66
+aS'machine learning'
+p67
+aS'cluster'
+p68
 aS'r'
 aS'logistic regression'
-p63
-aS'sql server'
-p64
-aS'oracle'
-p65
-aS'retail'
-p66
-aS'cluster analysis'
-p67
-aS'applied mathematics'
-p68
-aS'pricing'
 p69
-asS'working-year'
+aS'sql server'
 p70
-(lp71
-V(5, 10]
+aS'oracle'
+p71
+aS'retail'
 p72
-asS'major'
+aS'cluster analysis'
 p73
-(lp74
-S'science'
-p75
-aS'management'
-p76
-aS'economics'
-p77
-aS'finance'
-p78
-aS'business'
-p79
-aS'general'
-p80
-aS'marketing'
-p81
 aS'applied mathematics'
+p74
+aS'pricing'
+p75
+asS'working-year'
+p76
+(lp77
+V(5, 10]
+p78
+asS'major'
+p79
+(lp80
+VBusiness
+p81
+aVData Science
 p82
-aS'data mining'
+aVEconomics
 p83
-aS'data science analytics'
+aVComputer Science
 p84
-aS'statistic'
+aVMathematics
 p85
-aS'machine learning'
+aVManagement Science and Engineering
 p86
-aS'analytics'
-p87
-aS'design'
-p88
-aS'applied math'
-p89
-aS'communication'
-p90
-aS'mathematics'
-p91
-aS'law'
-p92
-aS'data science'
-p93
-aS'telecommunication'
-p94
 asS'education'
-p95
-(lp96
+p87
+(lp88
 VDoctor
-p97
+p89
 asS'responsibility'
-p98
-(lp99
+p90
+(lp91
 S'development'
-p100
-aS'product'
-p101
-aS'recommendation'
-p102
-aS'analysis'
-p103
-aS'statistical model'
-p104
-aS'statistical method'
-p105
-aS'design'
-p106
-aS'design experiment'
-p107
+p92
+aS'information'
+p93
+aS'forecasting'
+p94
 aS'data mining'
-p108
+p95
+aS'product'
+p96
+aS'analysis'
+p97
+aS'analytic'
+p98
+aS'statistical method'
+p99
+aS'design'
+p100
+aS'recommendation'
+p101
 aS'modeling'
-p109
+p102
 aS'implement'
-p110
+p103
+aS'design ... experiment'
+p104
 aS'model'
-p111
+p105
+aS'test ... model'
+p106
 as.

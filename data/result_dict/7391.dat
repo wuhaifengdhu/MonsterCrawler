@@ -2,86 +2,87 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'.net'
 p4
-aS'data science'
+aS'communication'
 p5
-aS'defense'
+aS'data science'
 p6
-aS'analysis'
+aS'defense'
 p7
-aS'ic'
+aS'analysis'
 p8
-aS'education'
+aS'ic'
 p9
-aS'visualization'
+aS'education'
 p10
-aS'open source'
+aS'visualization'
 p11
-aS'big data'
+aS'open source'
 p12
-aS'research'
+aS'big data'
 p13
-aS'scientific analysis'
+aS'integration'
 p14
-aS'intelligence'
+aS'research'
 p15
-aS'mathematics'
+aS'scientific analysis'
 p16
-aS'unstructured data'
+aS'intelligence'
 p17
-aS'government'
+aS'mathematics'
 p18
-aS'python'
+aS'unstructured data'
 p19
-aS'data'
+aS'government'
 p20
-aS'security'
+aS'python'
 p21
-aS'data collection'
+aS'data scientist'
 p22
-aS'national security'
+aS'data'
 p23
-aS'data visualization'
+aS'security'
 p24
-aS'science'
+aS'a'
+aS'data collection'
 p25
-aS'documentation'
+aS'national security'
 p26
-aS'programming'
+aS'data visualization'
 p27
-aS'security clearance'
+aS'science'
 p28
+aS'applied mathematics'
+p29
+aS'documentation'
+p30
+aS'programming'
+p31
+aS'security clearance'
+p32
 aS'r'
 aS'architecture'
-p29
-aS'data security'
-p30
-aS'visual basic'
-p31
-aS'validation'
-p32
-asS'working-year'
 p33
-(lp34
-V(15, 20]
+aS'data security'
+p34
+aS'visual basic'
 p35
-aV(2, 5]
+aS'validation'
 p36
-asS'major'
+asS'working-year'
 p37
 (lp38
-S'big data'
+V(15, 20]
 p39
-aS'science'
+aV(2, 5]
 p40
-aS'data science'
+asS'major'
 p41
-aS'general'
-p42
-aS'communication'
+(lp42
+VMathematics
 p43
-aS'mathematics'
+aVData Science
 p44
 asS'education'
 p45

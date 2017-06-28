@@ -38,12 +38,13 @@ aS'finance'
 p20
 aS'collaboration'
 p21
-aS'data scientist'
+aS'processing'
 p22
 aS'leadership'
 p23
 aS'data'
 p24
+aS'a'
 aS'science'
 p25
 aS'economics'
@@ -56,66 +57,54 @@ aS'organization'
 p29
 aS'security'
 p30
-aS'data analytics'
+aS'investments'
 p31
-asS'working-year'
-p32
-(lp33
-V[0]
-p34
-asS'major'
-p35
-(lp36
-S'quantitative finance'
-p37
-aS'finance'
-p38
-aS'big data'
-p39
-aS'science'
-p40
-aS'data science'
-p41
-aS'economics'
-p42
-aS'analytics'
-p43
-aS'engineering'
-p44
-aS'computational social science'
-p45
-aS'statistic'
-p46
-aS'mathematics'
-p47
-aS'computer science mathematics'
-p48
 aS'data analytics'
-p49
-aS'computer science'
-p50
+p32
+asS'working-year'
+p33
+(lp34
+S'[0]'
+p35
+asS'major'
+p36
+(lp37
+VBusiness
+p38
+aVData Science
+p39
+aVEconomics
+p40
+aVEngineering
+p41
+aVComputer Science
+p42
+aVMathematics
+p43
 asS'education'
-p51
-(lp52
+p44
+(lp45
 VBachelor
-p53
+p46
 aVMaster
-p54
+p47
 asS'responsibility'
-p55
-(lp56
-S'data analysis'
-p57
+p48
+(lp49
+S'processing'
+p50
 aS'pattern'
-p58
-aVinsight
-p59
+p51
+aS'insight'
+p52
 aS'communicate'
-p60
+p53
 aS'analysis'
-p61
+p54
 aS'analytic'
-p62
+p55
 aS'statistical method'
-p63
+p56
+aS'data analysis'
+p57
 as.

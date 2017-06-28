@@ -2,100 +2,96 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'communication'
 p4
-aS'organization'
-p5
-aS'finance'
-p6
-aS'data visualization'
-p7
-aS'marketing'
-p8
 aS'data science'
-p9
-aS'economics'
-p10
-aS'communication'
-p11
-aS'analysis'
-p12
-aS'research'
-p13
+p5
+aS'sales'
+p6
 aS'business intelligence'
-p14
-aS'data collection'
-p15
-aS'data processing'
-p16
-aS'sql'
-p17
-aS'intelligence'
-p18
-aS'mathematics'
-p19
-aS'customer service'
-p20
+p7
 aS'strategy'
-p21
-aS'data'
-p22
+p8
+aS'visualization'
+p9
+aS'statistics'
+p10
+aS'research'
+p11
+aS'customer service'
+p12
+aS'intelligence'
+p13
+aS'mathematics'
+p14
 aS'data analysis'
+p15
+aS'finance'
+p16
+aS'marketing'
+p17
+aS'processing'
+p18
+aS'data processing'
+p19
+aS'sql'
+p20
+aS'data'
+p21
+aS'data collection'
+p22
+aS'data visualization'
 p23
 aS'science'
 p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-asS'major'
-p28
-(lp29
-S'economics statistics'
-p30
-aS'finance'
-p31
-aS'business'
-p32
-aS'marketing'
-p33
-aS'data science'
-p34
 aS'economics'
+p25
+aS'analysis'
+p26
+aS'materials'
+p27
+aS'organization'
+p28
+asS'working-year'
+p29
+(lp30
+V(5, 10]
+p31
+asS'major'
+p32
+(lp33
+VMathematics
+p34
+aVData Science
 p35
-aS'communication'
+aVEconomics
 p36
-aS'design'
+aVStatistics
 p37
-aS'finance economics'
+aVBusiness
 p38
-aS'statistic'
-p39
-aS'mathematics'
-p40
-aS'science'
-p41
 asS'education'
+p39
+(lp40
+VBachelor
+p41
+asS'responsibility'
 p42
 (lp43
-VBachelor
-p44
-asS'responsibility'
-p45
-(lp46
 S'product'
+p44
+aS'insight'
+p45
+aS'processing'
+p46
+aS'analysis'
 p47
 aS'data collection'
 p48
-aVinsight
-p49
-aS'analysis'
-p50
-aS'data analysis'
-p51
 aS'design'
-p52
+p49
+aS'data analysis'
+p50
 aS'report'
-p53
+p51
 as.

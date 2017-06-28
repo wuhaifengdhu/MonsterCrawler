@@ -4,209 +4,194 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.0088883433843889546
 sS'data science'
 p5
-I1
+F0.003388284297635491
 sS'testing'
 p6
-I1
-sS'data warehousing'
+F0.0057672620138028534
+sS'analytics'
 p7
-I1
-sS'data mining'
+F0.0024499646816437373
+sS'engineering'
 p8
-I1
-sS'accounting'
+F0.0069005902933727027
+sS'data warehousing'
 p9
-I1
-sS'research'
+F0.0085675782019275868
+sS'data mining'
 p10
-I1
-sS'regression'
+F0.0059774065596679936
+sS'accounting'
 p11
-I1
-sS'clustering'
+F0.012423351516523538
+sS'research'
 p12
-I1
-sS'technical leadership'
+F0.0048065371361224697
+sS'regression'
 p13
-I1
-sS'big data'
+F0.0066934303962867623
+sS'clustering'
 p14
-I1
-sS'anomaly detection'
+F0.0090800353818484801
+sS'technical leadership'
 p15
-I1
-sS'strategy'
+F0.012672393570400845
+sS'statistics'
 p16
-I1
-sS'computer science'
+F0.0026267967740918443
+sS'big data'
 p17
-I1
-sS'innovation'
+F0.0035851412010215991
+sS'anomaly detection'
 p18
-I1
-sS'operations research'
+F0.012380345079390452
+sS'innovation'
 p19
-I1
-sS'finance'
+F0.021812108981799704
+sS'strategy'
 p20
-I1
-sS'collaboration'
+F0.0044366519189488309
+sS'computer science'
 p21
-I1
+F0.0039605162343301992
 sS'natural language processing'
 p22
-I1
-sS'data scientist'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'statistical modeling'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'data'
-p27
-I1
-sS'econometrics'
-p28
-I1
-sS'software engineering'
-p29
-I1
-sS'solver'
-p30
-I1
-sS'science'
-p31
-I1
-sS'machine learning'
-p32
-I1
-sS'engineering management'
-p33
-I1
-sS'command'
-p34
-I1
-sS'artificial intelligence'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(10, 15]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'artificial intelligence machine learning'
-p41
-I1
-sS'natural language processing'
-p42
-I1
-sS'artificial intelligence'
-p43
-I1
-sS'finance'
-p44
-I1
-sS'big data'
-p45
-I1
-sS'engineering management'
-p46
-I1
-sS'science'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'statistic'
-p49
-I1
-sS'software engineering'
-p50
-I1
-sS'computer science statistics'
-p51
-I1
-sS'phd'
-p52
-I1
-sS'business'
-p53
-I1
-sS'data science analytics'
-p54
-I1
-sS'applied math'
-p55
-I1
-sS'computer science'
-p56
-I1
-sS'data mining'
-p57
-I1
-sS'accounting'
-p58
-I1
-sS'machine learning'
-p59
-I1
-sS'econometrics'
-p60
-I1
+F0.0070590369914374732
 sS'operations research'
-p61
-I1
-ssS'education'
-p62
-(dp63
-VDoctor
-p64
-I1
-ssS'responsibility'
-p65
-(dp66
-S'development'
-p67
-I1
-sS'product'
-p68
-I1
-sS'data infrastructure'
-p69
-I1
-sVinsight
-p70
-I1
-sS'communicate'
-p71
-I1
-sS'statistical model'
-p72
-I1
-sS'key decision'
-p73
-I1
-sS'data mining'
-p74
-I1
+p23
+F0.0081153197621180555
+sS'finance'
+p24
+F0.007479284659672362
+sS'collaboration'
+p25
+F0.0072047025917562086
+sS'processing'
+p26
+F0.004600248131466817
+sS'data scientist'
+p27
+F0.0029841455356728968
+sS'leadership'
+p28
+F0.0093093443448102661
+sS'statistical modeling'
+p29
+F0.0050461000568743563
 sS'modeling'
-p75
-I1
+p30
+F0.0045754686705439581
+sS'data'
+p31
+F0.0030067982841415668
+sS'econometrics'
+p32
+F0.0086401649570147631
+sS'software engineering'
+p33
+F0.0073297548977859488
+sS'solver'
+p34
+F0.012154875559792772
+sS'science'
+p35
+F0.0099018857492125696
+sS'machine learning'
+p36
+F0.0018465287938987025
+sS'engineering management'
+p37
+F0.014290495015587289
+sS'command'
+p38
+F0.010816209231781873
+sS'artificial intelligence'
+p39
+F0.0077961029861260992
+sS'management'
+p40
+F0.0025522503301398654
+ssS'working-year'
+p41
+(dp42
+V(10, 15]
+p43
+F0.0055138770597136875
+ssS'major'
+p44
+(dp45
+VStatistics
+p46
+F0.0050746613236283952
+sVBusiness
+p47
+F0.0030470826680960967
+sVData Science
+p48
+F0.002893771781986092
+sVEconomics
+p49
+F0.004621891683167496
+sVEngineering
+p50
+F0.0069005902933727027
+sVComputer Science
+p51
+F0.0025502978770484443
+sVMathematics
+p52
+F0.0048289367030491604
+sVOperations Research
+p53
+F0.0090668419667243785
+sVManagement Science and Engineering
+p54
+F0.0036325198266729366
+ssS'education'
+p55
+(dp56
+VBachelor
+p57
+F0.0025672643032955121
+sVMaster
+p58
+F0.0020486779865469774
+sVDoctor
+p59
+F0.0030681176669759666
+ssS'responsibility'
+p60
+(dp61
+S'development'
+p62
+F0.0034111577532792074
+sS'product'
+p63
+F0.018943561841095025
+sS'insight'
+p64
+F0.015506141036699873
+sS'data infrastructure'
+p65
+F0.012194550356788233
+sS'processing'
+p66
+F0.004600248131466817
+sS'communicate'
+p67
+F0.0056513884007932174
+sS'key decision'
+p68
+F0.016461486705182382
+sS'data mining'
+p69
+F0.0059774065596679936
+sS'modeling'
+p70
+F0.0045754686705439581
 sS'engineering design'
-p76
-I1
+p71
+F0.016461486705182382
 ss.

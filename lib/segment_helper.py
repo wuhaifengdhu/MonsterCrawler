@@ -26,30 +26,36 @@ class SegmentHelper(object):
         """Return a list of words that is the best segmentation of `text`."""
         # remove characters \ and .
         text = re.sub(r'\\', '', text)
-        text = re.sub(r'(?<=[a-z])\.]', '', text)
+        # text = re.sub(r'(?<=[a-z])\.]', '', text) remove the last .
+        text = re.sub(r'/', ' ', text)
         # remove unicode characters
         text = text.decode('unicode_escape').encode('ascii', 'ignore')
 
         # split words
-        return re.split(r'[^a-zA-Z0-9-+/\'.]', text)
+        return re.split(r'[^a-zA-Z0-9-+/\'.&]', text)
 
     @staticmethod
-    def lemmatization(word_list):
-        print "Before lemmatization:", word_list
+    def lemmatization(word_list, debug=False):
+        if debug:
+            print ("Before lemmatization:", word_list)
         new_list = []
         word_list = [word.strip() for word in word_list]
         word_list = [word[1:] if len(word) > 1 and word.startswith('-') else word for word in word_list]
+        word_list = [word[:-1] if word.count('.') == 1 and word[-1] == '.' else word for word in word_list]
         word_list = [word for word in word_list if len(word) > 0 and word not in stopwords.words('english')]
         for word in word_list:
             new_list.append(lmtzr.lemmatize(word).lower())
-        print "After lemmatization:", new_list
+        if debug:
+            print ("After lemmatization:", new_list)
         return new_list
 
     @staticmethod
-    def normalize(text):
-        print "Before normalize:", text
-        result = ' '.join(SegmentHelper.lemmatization(SegmentHelper.segment_text(text)))
-        print "After normalize:", result
+    def normalize(text, debug=False):
+        if debug:
+            print ("Before normalize:", text)
+        result = ' '.join(SegmentHelper.lemmatization(SegmentHelper.segment_text(text), False))
+        if debug:
+            print ("After normalize:", result)
         return result
 
     @staticmethod
@@ -96,10 +102,11 @@ class SegmentHelper(object):
 
 
 if __name__ == '__main__':
+    print SegmentHelper.normalize("build ... model")
     # print SegmentHelper.segment_text("w\tu;hai\nhello")
     # print SegmentHelper.segment_text("wu-hai;feng,df%33+5")
-    insert_dict_list = ["../resource/%s_2.dat" % name for name in ('discipline', 'education', 'skills')]
-    SegmentHelper.update_probability_dict('../data/probability.dic', insert_dict_list)
+    # insert_dict_list = ["../resource/%s_2.dat" % name for name in ('discipline', 'education', 'skills')]
+    # SegmentHelper.update_probability_dict('../data/probability.dic', insert_dict_list)
     # sentence = "I loves China, it's Beautiful!"
     # word_list = SegmentHelper.segment_text(sentence)
     # print (word_list)

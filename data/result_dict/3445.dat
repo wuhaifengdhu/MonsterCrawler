@@ -10,39 +10,39 @@ aS'data science'
 p6
 aS'testing'
 p7
-aS'human resources'
+aS'd3'
 p8
-aS'mllib'
+aS'hadoop'
 p9
 aS'analytics'
 p10
-aS'enterprise software'
+aS'engineering'
 p11
-aS'gephi'
+aS'enterprise software'
 p12
-aS'tableau'
+aS'gephi'
 p13
-aS'research'
+aS'tableau'
 p14
-aVpanda
+aS'research'
 p15
-aS'clustering'
+aVpanda
 p16
-aS'visualization'
+aS'clustering'
 p17
-aS'management'
+aS'visualization'
 p18
-aS'java'
+aS'management'
 p19
-aS'big data'
+aS'java'
 p20
-aS'anomaly detection'
+aS'big data'
 p21
-aS'agile'
+aS'anomaly detection'
 p22
-aS'r programming'
+aS'agile'
 p23
-aS'hadoop'
+aS'mllib'
 p24
 aS'd3.js'
 p25
@@ -82,87 +82,83 @@ aS'search'
 p42
 aS'science'
 p43
-aS'scala'
+aS'human resources'
 p44
-aS'programming'
+aS'scala'
 p45
-aS'hive'
+aS'programming'
 p46
-aS'machine learning'
+aS'hive'
 p47
-aS'h2o'
+aS'machine learning'
 p48
+aS'h2o'
+p49
 aS'r'
 aS'elasticsearch'
-p49
-aS'cuda'
 p50
-aS'deep learning'
+aS'cuda'
 p51
-aS'organization'
+aS'deep learning'
 p52
-aS'predictive analytics'
+aS'organization'
 p53
-asS'working-year'
+aS'patents'
 p54
-(lp55
-V[0]
-p56
-asS'major'
-p57
-(lp58
-S'management'
-p59
-aS'finance'
-p60
-aS'big data'
-p61
-aS'science'
-p62
-aS'data science'
-p63
-aS'machine learning'
-p64
-aS'business'
-p65
-aS'analytics'
-p66
-aS'design'
-p67
-aS'natural language processing'
-p68
 aS'predictive analytics'
-p69
+p55
+asS'working-year'
+p56
+(lp57
+S'[0]'
+p58
+asS'major'
+p59
+(lp60
+VBusiness
+p61
+aVData Science
+p62
+aVEconomics
+p63
+aVEngineering
+p64
+aVComputer Science
+p65
+aVManagement Science and Engineering
+p66
 asS'education'
+p67
+(lp68
+VBachelor
+p69
+aVMaster
 p70
-(lp71
-S'Bachelor'
-p72
+aVDoctor
+p71
 asS'responsibility'
-p73
-(lp74
+p72
+(lp73
 S'development'
-p75
+p74
 aS'forecasting'
-p76
-aVinsight
-p77
-aS'build model'
-p78
+p75
 aS'processing'
-p79
-aVproduct operation
-p80
+p76
+aS'build model'
+p77
+aS'insight'
+p78
 aS'product'
-p81
+p79
 aS'design'
-p82
+p80
 aS'recommendation'
-p83
+p81
 aS'modeling'
-p84
+p82
 aS'model'
-p85
+p83
 aS'normalization'
-p86
+p84
 as.

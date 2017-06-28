@@ -2,95 +2,83 @@
 S'skills'
 p2
 (lp3
-S'data modeling'
+S'statistics'
 p4
-aS'problem solving'
+aS'data modeling'
 p5
-aS'quantitative analysis'
+aS'problem solving'
 p6
-aS'python'
+aS'quantitative analysis'
 p7
-aS'communication'
+aS'python'
 p8
-aS'data mining'
+aS'communication'
 p9
-aS'analysis'
+aS'data mining'
 p10
-aS'machine learning'
+aS'analysis'
 p11
-aS'engineering'
+aS'machine learning'
 p12
+aS'engineering'
+p13
 aS'r'
 aS'computer science'
-p13
-aS'statistical modeling'
 p14
-aS'sql'
+aS'statistical modeling'
 p15
-aS'modeling'
+aS'sql'
 p16
-aS'data'
-p17
-aS'science'
-p18
-asS'working-year'
-p19
-(lp20
-V(2, 5]
-p21
-asS'major'
-p22
-(lp23
-S'science'
-p24
-aS'applied math'
-p25
-aS'statistic'
-p26
-aS'machine learning'
-p27
-aS'statistics computer science'
-p28
-aS'engineering'
-p29
-aS'design'
-p30
-aS'computer science'
-p31
-aS'data mining'
-p32
-aS'communication'
-p33
-aS'machine learning engineer'
-p34
-asS'education'
-p35
-(lp36
-VBachelor
-p37
-asS'responsibility'
-p38
-(lp39
-S'development'
-p40
-aS'quantitative analysis'
-p41
-aVinsight
-p42
-aS'analysis'
-p43
-aS'statistical model'
-p44
-aS'design'
-p45
-aS'data mining'
-p46
 aS'modeling'
-p47
+p17
+aS'data'
+p18
+aS'science'
+p19
+asS'working-year'
+p20
+(lp21
+V(2, 5]
+p22
+asS'major'
+p23
+(lp24
+VMathematics
+p25
+aVEngineering
+p26
+aVStatistics
+p27
+aVComputer Science
+p28
+asS'education'
+p29
+(lp30
+VBachelor
+p31
+asS'responsibility'
+p32
+(lp33
+S'development'
+p34
+aS'design ... experiment'
+p35
+aS'quantitative analysis'
+p36
+aS'insight'
+p37
+aS'analysis'
+p38
+aS'design'
+p39
+aS'data mining'
+p40
+aS'modeling'
+p41
 aS'implement'
-p48
+p42
 aS'presentation'
-p49
+p43
 aS'model'
-p50
+p44
 as.

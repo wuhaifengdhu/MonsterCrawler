@@ -2,29 +2,29 @@
 S'skills'
 p2
 (lp3
-S'logistics'
+S'intelligence'
 p4
-aS'management'
+aS'logistics'
 p5
-aS'customer service'
+aS'management'
 p6
-aS'data science'
+aS'customer service'
 p7
-aS'sharepoint'
+aS'data science'
 p8
-aS'data scientist'
+aS'sharepoint'
 p9
-aS'analysis'
+aS'data scientist'
 p10
-aS'science communication'
+aS'analysis'
 p11
-aS'strategy'
+aS'writing'
 p12
-aS'leadership'
+aS'materials'
 p13
-aS'education'
+aS'budgets'
 p14
-aS'intelligence'
+aS'leadership'
 p15
 aS'communication'
 p16
@@ -32,58 +32,56 @@ aS'policy'
 p17
 aS'organization'
 p18
-aS'writing'
+aS'strategy'
 p19
 aS'data'
 p20
-aS'science'
+aS'education'
 p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
-aS'management'
-p28
-aS'business'
-p29
-aS'communication'
-p30
-aS'data science'
-p31
 aS'science'
-p32
+p22
+asS'working-year'
+p23
+(lp24
+S'[0]'
+p25
+asS'major'
+p26
+(lp27
+VData Science
+p28
+aVBusiness
+p29
+aVManagement Science and Engineering
+p30
 asS'education'
-p33
-(lp34
+p31
+(lp32
 VBachelor
-p35
+p33
 aVMaster
-p36
+p34
 asS'responsibility'
-p37
-(lp38
+p35
+(lp36
 S'development'
-p39
+p37
 aS'information'
-p40
+p38
 aS'presentation'
-p41
+p39
 aS'communicate'
-p42
+p40
 aS'analysis'
-p43
+p41
 aS'ownership'
-p44
+p42
 aS'recommendation'
-p45
+p43
 aS'report'
-p46
+p44
 aS'evaluation'
-p47
+p45
+aS'decision making'
+p46
 as.

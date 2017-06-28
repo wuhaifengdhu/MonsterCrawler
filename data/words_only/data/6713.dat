@@ -2,184 +2,170 @@
 S'skills'
 p2
 (dp3
-S'consulting'
+S'logistics'
 p4
-I1
-sS'nosql'
+F0.016992595034866342
+sS'consulting'
 p5
-I1
-sS'excel'
+F0.0083376926000408511
+sS'nosql'
 p6
-I1
-sS'testing'
+F0.010099065919802665
+sS'excel'
 p7
-I1
-sS'graphic design'
+F0.0059666207631220124
+sS'testing'
 p8
-I1
-sS'cluster'
+F0.015109800847970575
+sS'graphic design'
 p9
-I1
-sS'analysis'
-p10
-I1
-sS'linux'
-p11
-I1
-sS'go'
-p12
-I1
-sS'open source'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'critical thinking'
-p15
-I1
-sS'recruiting'
-p16
-I1
+F0.019799976957280169
 sS'analytics'
+p10
+F0.0032093633283524969
+sS'engineering'
+p11
+F0.0045197593249950352
+sS'high performance computing'
+p12
+F0.014366558677989539
+sS'linux'
+p13
+F0.0068120960804399604
+sS'go'
+p14
+F0.012099310682758773
+sS'open source'
+p15
+F0.011800441844716215
+sS'big data'
+p16
+F0.0046964026803050464
+sS'critical thinking'
 p17
-I1
-sS'wordpress'
+F0.01446954106646132
+sS'recruiting'
 p18
-I1
-sS'computer science'
+F0.012726561810396277
+sS'wordpress'
 p19
-I1
-sS'communication'
+F0.019799976957280169
+sS'computer science'
 p20
-I1
+F0.0051881301224620691
 sS'product development'
 p21
-I1
+F0.0096438241652461627
 sS'python'
 p22
-I1
+F0.0019234373164327158
 sS'data scientist'
 p23
-I1
+F0.003909120535660067
 sS'aws'
 p24
-I1
-sS'c++'
+F0.0096438241652461627
+sS'automation'
 p25
-I1
+F0.012306451385475311
 sS'statistical modeling'
 p26
-I1
+F0.0066102048715512779
 sS'algorithm design'
 p27
-I1
+F0.015554360970741287
 sS'modeling'
 p28
-I1
+F0.002996847560965138
 sS'data'
 p29
-I1
+F0.0026258632001728319
+sS'a'
+F0.0069005235926716847
+sS'c'
+F0.004614841047594455
 sS'postgresql'
 p30
-I1
+F0.01255688056433053
 sS'software engineering'
 p31
-I1
+F0.0096017084454391565
 sS'java'
 p32
-I1
+F0.0045729408401043673
 sS'mysql'
 p33
-I1
-sS'high performance computing'
+F0.0087607303567794163
+sS'science'
 p34
-I1
-sS'machine learning'
-p35
-I1
-sS'mvc'
-p36
-I1
-sS'architecture'
-p37
-I1
-sS'organization'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(0, 2]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'big data'
-p44
-I1
-sS'software engineering'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'high performance computing'
-p47
-I1
-sS'machine learning'
-p48
-I1
-sS'business'
-p49
-I1
-sS'analytics'
-p50
-I1
-sS'computer engineering'
-p51
-I1
-sS'computer science software engineering'
-p52
-I1
-sS'computer science'
-p53
-I1
-sS'design'
-p54
-I1
-ssS'education'
-p55
-(dp56
-VBachelor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'product'
-p61
-I1
-sS'predict'
-p62
-I1
-sS'pattern'
-p63
-I1
+F0.0025942209896460972
 sS'analysis'
-p64
-I1
-sS'statistical model'
-p65
-I1
+p35
+F0.0025285514520599997
+sS'machine learning'
+p36
+F0.0024188845824134292
+sS'mvc'
+p37
+F0.017133183493664411
+sS'architecture'
+p38
+F0.016140328580698585
+sS'organization'
+p39
+F0.0065062134290836942
+sS'scripting'
+p40
+F0.0089781711344895324
+ssS'working-year'
+p41
+(dp42
+V(0, 2]
+p43
+F0.0084043548490411561
+ssS'major'
+p44
+(dp45
+VData Science
+p46
+F0.0037907342531552125
+sVEngineering
+p47
+F0.0083113613533827586
+sVBusiness
+p48
+F0.0039915658567310488
+sVComputer Science
+p49
+F0.0033407961120007295
+ssS'education'
+p50
+(dp51
+VBachelor
+p52
+F0.0033630215043169991
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+F0.022342453919079679
+sS'product'
+p56
+F0.029778440384894758
+sS'predict'
+p57
+F0.015394398658728077
+sS'pattern'
+p58
+F0.0096626976958455561
+sS'analysis'
+p59
+F0.0025285514520599997
 sS'design'
-p66
-I1
+p60
+F0.032333995793767029
 sS'modeling'
-p67
-I1
+p61
+F0.002996847560965138
 ss.

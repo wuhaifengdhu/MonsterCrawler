@@ -14,113 +14,99 @@ aS'education'
 p8
 aS'insurance'
 p9
-aS'big data'
+aS'statistics'
 p10
-aS'hadoop'
+aS'big data'
 p11
-aS'research'
+aS'hadoop'
 p12
-aS'biotechnology'
+aS'research'
 p13
-aS'computer science'
+aS'access'
 p14
-aS'innovation'
+aS'biotechnology'
 p15
-aS'mathematics'
+aS'computer science'
 p16
-aS'data analysis'
+aS'innovation'
 p17
-aS'python'
+aS'mathematics'
 p18
-aS'data scientist'
+aS'data analysis'
 p19
-aS'aws'
+aS'python'
 p20
-aS'epidemiology'
+aS'aws'
 p21
-aS'sql'
+aS'data scientist'
 p22
-aS'data'
+aS'epidemiology'
 p23
-aS'cloudera'
+aS'sql'
 p24
-aS'science'
+aS'data'
 p25
-aS'cloud computing'
+aS'cloudera'
 p26
-aS'analysis'
+aS'science'
 p27
+aS'cloud computing'
+p28
+aS'analysis'
+p29
 aS'r'
 aS'healthcare'
-p28
-aS'organization'
-p29
-asS'working-year'
 p30
-(lp31
-V(0, 2]
+aS'organization'
+p31
+asS'working-year'
 p32
-aV(2, 5]
-p33
-asS'major'
+(lp33
+V(0, 2]
 p34
-(lp35
-S'information'
+aV(2, 5]
+p35
+asS'major'
 p36
-aS'big data'
-p37
-aS'biostatistics'
+(lp37
+VStatistics
 p38
-aS'epidemiology'
+aVBusiness
 p39
-aS'science'
+aVData Science
 p40
-aS'data science'
+aVComputer Science
 p41
-aS'computing'
+aVBiological Engineering
 p42
-aS'computer science statistics'
+aVMathematics
 p43
-aS'business'
-p44
-aS'analytics'
-p45
-aS'mathematics'
-p46
-aS'computer science'
-p47
-aS'statistic'
-p48
-aS'biotechnology'
-p49
-aS'law'
-p50
-aS'biostatistics epidemiology'
-p51
 asS'education'
-p52
-(lp53
+p44
+(lp45
 VMaster
-p54
+p46
 asS'responsibility'
-p55
-(lp56
+p47
+(lp48
 S'development'
-p57
+p49
 aS'information'
-p58
-aVinsight
-p59
-aS'decision-making'
-p60
-aS'analysis'
-p61
-aS'analytic'
-p62
+p50
 aS'data analysis'
-p63
+p51
+aS'insight'
+p52
+aS'analysis'
+p53
+aS'analytic'
+p54
+aS'drive ... decision'
+p55
 aS'understand'
-p64
+p56
 aS'prototype'
-p65
+p57
+aS'decision-making'
+p58
 as.

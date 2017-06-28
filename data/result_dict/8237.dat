@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'management'
 p5
@@ -48,38 +49,32 @@ p25
 asS'major'
 p26
 (lp27
-S'knowledge management'
+VBusiness
 p28
-aS'management'
+aVManagement Science and Engineering
 p29
-aS'business'
-p30
-aS'big data'
-p31
-aS'business administration'
-p32
 asS'education'
+p30
+(lp31
+S'Bachelor'
+p32
+asS'responsibility'
 p33
 (lp34
-S'Bachelor'
-p35
-asS'responsibility'
-p36
-(lp37
 S'development'
-p38
+p35
 aS'product'
-p39
+p36
+aVass ... improvement
+p37
 aS'pattern'
-p40
+p38
 aS'improvement'
-p41
+p39
 aS'recommendation'
-p42
+p40
 aS'implement'
-p43
+p41
 aS'prototype'
-p44
-aS'model'
-p45
+p42
 as.

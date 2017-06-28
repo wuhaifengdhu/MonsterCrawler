@@ -4,215 +4,188 @@ p2
 (dp3
 S'model validation'
 p4
-I1
+F0.013901020091769238
 sS'engineering'
 p5
-I1
+F0.003173198904335893
 sS'perl'
 p6
-I1
+F0.0074250019282107987
 sS'quantitative finance'
 p7
-I1
-sS'data'
+F0.010903944941325534
+sS'predictive analytics'
 p8
-I1
-sS'predictive modeling'
+F0.0059650211744269183
+sS'data'
 p9
-I1
-sS'education'
+F0.00061451548121488559
+sS'predictive modeling'
 p10
-I1
-sS'research'
+F0.0053860256701786782
+sS'education'
 p11
-I1
-sS'computer science'
+F0.0054368568648012153
+sS'research'
 p12
-I1
-sS'advanced analytics'
-p13
-I1
-sS'unstructured data'
-p14
-I1
-sS'data analysis'
-p15
-I1
-sS'python'
-p16
-I1
-sS'javascript'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'business analytics'
-p19
-I1
-sS'machine learning'
-p20
-I1
-sS'management'
-p21
-I1
-sS'modeling'
-p22
-I1
-sS'ruby'
-p23
-I1
-sS'science'
-p24
-I1
-sS'applied mathematics'
-p25
-I1
-sS'economics'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'simulation'
-p28
-I1
-sS'optimization'
-p29
-I1
-sS'architecture'
-p30
-I1
-sS'english'
-p31
-I1
-sS'organization'
-p32
-I1
-sS'validation'
-p33
-I1
-sS'scripting'
-p34
-I1
-sS'predictive analytics'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(0, 2]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-I1
-sS'economics statistics'
-p42
-I1
-sS'economics'
-p43
-I1
-sS'quantitative finance'
-p44
-I1
-sS'business'
-p45
-I1
-sS'science'
-p46
-I1
-sS'applied mathematics'
-p47
-I1
-sS'english'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'business analytics'
-p50
-I1
-sS'engineering'
-p51
-I1
-sS'management'
-p52
-I1
-sS'finance economics'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'advanced analytics'
-p55
-I1
-sS'computer science applied math'
-p56
-I1
-sS'applied math'
-p57
-I1
-sS'ee computer science'
-p58
-I1
-sS'predictive analytics'
-p59
-I1
+F0.0088410398099662002
 sS'computer science'
-p60
-I1
-ssS'education'
-p61
-(dp62
-VBachelor
-p63
-I1
-sVMaster
-p64
-I1
-ssS'responsibility'
-p65
-(dp66
-S'development'
-p67
-I1
-sS'information'
-p68
-I1
-sS'product'
-p69
-I1
+p13
+F0.003642443687013525
+sS'advanced analytics'
+p14
+F0.0076238615397359677
+sS'unstructured data'
+p15
+F0.0082611617446973051
 sS'data analysis'
-p70
-I1
-sS'business problem'
-p71
-I1
-sVinsight
-p72
-I1
-sS'analysis'
-p73
-I1
-sS'simulation'
-p74
-I1
-sS'optimization'
-p75
-I1
+p16
+F0.0038439430439525008
+sS'finance'
+p17
+F0.006878616720683131
+sS'python'
+p18
+F0.0013503925200861813
+sS'javascript'
+p19
+F0.0057446751658599589
+sS'data scientist'
+p20
+F0.002744486179181032
+sS'business analytics'
+p21
+F0.0078693891027438179
+sS'machine learning'
+p22
+F0.0016982324399845579
+sS'management'
+p23
+F0.002347276858030187
 sS'modeling'
-p76
-I1
+p24
+F0.0021040043757035039
+sS'ruby'
+p25
+F0.0088013278868639827
+sS'science'
+p26
+F0.0018213313165650062
+sS'applied mathematics'
+p27
+F0.0078293024477816223
+sS'economics'
+p28
+F0.0062085280423820246
+sS'analysis'
+p29
+F0.00088761326879308283
+sS'simulation'
+p30
+F0.020866599386070245
+sS'optimization'
+p31
+F0.010362740193723017
+sS'architecture'
+p32
+F0.0056658407323436745
+sS'english'
+p33
+F0.0087511628275997611
+sS'organization'
+p34
+F0.0091356675610449814
+sS'validation'
+p35
+F0.0081916121893137218
+sS'scripting'
+p36
+F0.0063033274027115629
+sS'statistics'
+p37
+F0.0024158364114057113
+ssS'working-year'
+p38
+(dp39
+V(0, 2]
+p40
+F0.005900466746347548
+ssS'major'
+p41
+(dp42
+VStatistics
+p43
+F0.0046671108028188604
+sVBusiness
+p44
+F0.0028023687750624721
+sVData Science
+p45
+F0.0026613704212566391
+sVEconomics
+p46
+F0.0042507034909960127
+sVEngineering
+p47
+F0.003173198904335893
+sVComputer Science
+p48
+F0.0023454812081663153
+sVMathematics
+p49
+F0.0044411205429597204
+sVManagement Science and Engineering
+p50
+F0.00334078895976397
+ssS'education'
+p51
+(dp52
+VBachelor
+p53
+F0.0023610850457769605
+sVMaster
+p54
+F0.0018841468529123754
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.0031372046694666286
+sS'information'
+p58
+F0.007187073572691164
+sS'product'
+p59
+F0.0034844375407195511
+sS'data analysis'
+p60
+F0.0038439430439525008
+sS'business problem'
+p61
+F0.0073786283993021885
+sS'insight'
+p62
+F0.0095072194611890426
+sS'analysis'
+p63
+F0.00088761326879308283
+sS'simulation'
+p64
+F0.020866599386070245
+sS'drive ... decision'
+p65
+F0.010456172898261954
+sS'optimization'
+p66
+F0.010362740193723017
+sS'modeling'
+p67
+F0.0021040043757035039
 sS'model'
-p77
-I1
+p68
+F0.0080176727559670511
 sS'extract'
-p78
-I1
+p69
+F0.0080147889396446365
 ss.

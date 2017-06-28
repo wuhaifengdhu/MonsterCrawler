@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'investment banking'
+S'a'
+aS'investment banking'
 p4
 aS'apis'
 p5
@@ -16,68 +17,64 @@ aS'processing'
 p9
 aS'data scientist'
 p10
-aS'research'
+aS'physics'
 p11
-aS'banking'
+aS'research'
 p12
-aS'trading'
+aS'banking'
 p13
-aS'computer science'
+aS'management'
 p14
-aS'science'
+aS'trading'
 p15
-aS'organization'
-p16
-aS'government'
-p17
-aS'strategy'
-p18
-aS'data'
-p19
-aS'asset management'
-p20
-aS'electronic trading'
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
-aS'business'
-p28
-aS'science'
-p29
-aS'design'
-p30
 aS'computer science'
+p16
+aS'science'
+p17
+aS'organization'
+p18
+aS'government'
+p19
+aS'strategy'
+p20
+aS'data'
+p21
+aS'asset management'
+p22
+aS'electronic trading'
+p23
+asS'working-year'
+p24
+(lp25
+S'[0]'
+p26
+asS'major'
+p27
+(lp28
+VPhysics
+p29
+aVComputer Science
+p30
+aVBusiness
 p31
-aS'communication'
+aVManagement Science and Engineering
 p32
-aS'physics computer science'
-p33
-aVphysic
-p34
 asS'education'
-p35
-(lp36
+p33
+(lp34
 S'Bachelor'
-p37
+p35
 asS'responsibility'
-p38
-(lp39
+p36
+(lp37
 S'development'
-p40
-aS'large data set'
-p41
-aS'processing'
-p42
-aS'design'
-p43
+p38
 aS'information'
-p44
+p39
+aS'processing'
+p40
+aS'design'
+p41
+aS'large data set'
+p42
 as.

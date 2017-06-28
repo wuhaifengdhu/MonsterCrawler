@@ -4,224 +4,203 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.011259999732978214
 sS'communication'
 p5
-I1
+F0.0051907192101995295
 sS'data science'
 p6
-I1
-sS'engineering'
+F0.0039437407398708168
+sS'analytics'
 p7
-I1
-sS'enterprise software'
-p8
-I1
-sS'statistical analysis'
-p9
-I1
-sS'angularjs'
-p10
-I1
-sS'mysql'
-p11
-I1
-sS'analysis'
-p12
-I1
-sS'hbase'
-p13
-I1
-sS'writing'
-p14
-I1
-sS'research'
-p15
-I1
-sS'git'
-p16
-I1
-sS'java'
-p17
-I1
-sS'big data'
-p18
-I1
-sS'scala'
-p19
-I1
-sS'agile'
-p20
-I1
-sS'hadoop'
-p21
-I1
-sS'time management'
-p22
-I1
-sS'big data analytics'
-p23
-I1
-sS'computer science'
-p24
-I1
-sS'intelligence'
-p25
-I1
-sS'web development'
-p26
-I1
-sS'processing'
-p27
-I1
-sS'apis'
-p28
-I1
-sS'python'
-p29
-I1
-sS'mongodb'
-p30
-I1
-sS'innovation'
-p31
-I1
-sS'data scientist'
-p32
-I1
-sS'automation'
-p33
-I1
-sS'management'
-p34
-I1
-sS'data processing'
-p35
-I1
-sS'data'
-p36
-I1
-sS'software development'
-p37
-I1
-sS'scikit-learn'
-p38
-I1
-sS'training'
-p39
-I1
-sS'data visualization'
-p40
-I1
-sS'programming'
-p41
-I1
-sS'test automation'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'optimization'
-p44
-I1
-sS'javascript'
-p45
-I1
-sS'data analytics'
-p46
-I1
-sS'predictive analytics'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(2, 5]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'management'
-p53
-I1
-sS'big data'
-p54
-I1
-sS'communication'
-p55
-I1
-sS'data science'
-p56
-I1
-sS'machine learning'
-p57
-I1
-sS'big data analytics'
-p58
-I1
+F0.0028515982360115626
 sS'engineering'
-p59
-I1
-sS'computer science engineering'
-p60
-I1
-sS'computer science'
-p61
-I1
-sS'automation'
-p62
-I1
-sS'ee computer science'
-p63
-I1
-sS'data analytics'
-p64
-I1
-sS'web development'
-p65
-I1
-sS'predictive analytics'
-p66
-I1
-ssS'education'
-p67
-(dp68
-VBachelor
-p69
-I1
-sVMaster
-p70
-I1
-ssS'responsibility'
-p71
-(dp72
-S'development'
-p73
-I1
-sS'product'
-p74
-I1
-sS'processing'
-p75
-I1
+p8
+F0.008031834603761669
+sS'enterprise software'
+p9
+F0.013285517375915479
+sS'statistical analysis'
+p10
+F0.0084416398472544514
+sS'angularjs'
+p11
+F0.014833549964178022
+sS'mysql'
+p12
+F0.01556824869958834
 sS'analysis'
-p76
-I1
+p13
+F0.0011233400713250162
+sS'hbase'
+p14
+F0.032933686129574473
+sS'writing'
+p15
+F0.007367410905188501
+sS'research'
+p16
+F0.0083917410655252947
+sS'git'
+p17
+F0.0094841741556685281
+sS'java'
+p18
+F0.012189511157392953
+sS'big data'
+p19
+F0.0041728692667628445
+sS'scala'
+p20
+F0.024005571026543972
+sS'agile'
+p21
+F0.007159638926883637
+sS'hadoop'
+p22
+F0.0042124803324575895
+sS'time management'
+p23
+F0.014124630320932797
+sS'big data analytics'
+p24
+F0.01086645608114256
+sS'computer science'
+p25
+F0.0046097811907777723
+sS'intelligence'
+p26
+F0.0051477331471697675
+sS'web development'
+p27
+F0.01199159678772478
+sS'processing'
+p28
+F0.0053543871694121965
+sS'apis'
+p29
+F0.012063656938152948
+sS'python'
+p30
+F0.0017090213532893967
+sS'mongodb'
+p31
+F0.019390791893910658
+sS'innovation'
+p32
+F0.0063469661381466346
+sS'data scientist'
+p33
+F0.003473349721848781
+sS'automation'
+p34
+F0.010934584673651833
+sS'management'
+p35
+F0.0029706520236054169
+sS'data processing'
+p36
+F0.012051536385994674
+sS'data'
+p37
+F0.0019442866864667692
+sS'software development'
+p38
+F0.0069514643215517133
+sS'scikit-learn'
+p39
+F0.01176223049543439
+sS'training'
+p40
+F0.0077157204951551778
+sS'data visualization'
+p41
+F0.0064483069691134457
+sS'science'
+p42
+F0.002305029141619975
+sS'programming'
+p43
+F0.0036141483109340196
+sS'test automation'
+p44
+F0.017280275550797992
+sS'machine learning'
+p45
+F0.0021492384322427519
 sS'optimization'
-p77
-I1
+p46
+F0.013114812179596997
+sS'javascript'
+p47
+F0.0072703102099080132
+sS'data analytics'
+p48
+F0.0066961399392976954
+sS'predictive analytics'
+p49
+F0.0075491743387829189
+ssS'working-year'
+p50
+(dp51
+V(2, 5]
+p52
+F0.0040621128801020838
+ssS'major'
+p53
+(dp54
+VData Science
+p55
+F0.0033681605987051235
+sVManagement Science and Engineering
+p56
+F0.004228014880225877
+sVEngineering
+p57
+F0.008031834603761669
+sVBusiness
+p58
+F0.0035466044169643086
+sVComputer Science
+p59
+F0.0029683794962367138
+ssS'education'
+p60
+(dp61
+VBachelor
+p62
+F0.0029881273038357596
+sVMaster
+p63
+F0.0023845268368005799
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+F0.0039703639423413727
+sS'product'
+p67
+F0.0088196255129032574
+sS'processing'
+p68
+F0.0053543871694121965
+sS'analysis'
+p69
+F0.0011233400713250162
+sS'optimization'
+p70
+F0.013114812179596997
 sS'ownership'
-p78
-I1
+p71
+F0.012918994918319304
 sS'implement'
-p79
-I1
+p72
+F0.0069438136889167458
 sS'model'
-p80
-I1
+p73
+F0.0050734781701693137
 sS'normalization'
-p81
-I1
+p74
+F0.019865372456084142
 ss.

@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'data modeling'
+S'a'
+aS'data modeling'
 p4
 aS'scala'
 p5
@@ -40,32 +41,28 @@ p21
 asS'major'
 p22
 (lp23
-S'business'
+VData Science
 p24
-aS'science'
+aVComputer Science
 p25
-aS'data science'
+aVBusiness
 p26
-aS'phd'
-p27
-aS'design'
-p28
-aS'machine learning'
-p29
 asS'education'
+p27
+(lp28
+VDoctor
+p29
+asS'responsibility'
 p30
 (lp31
-VDoctor
-p32
-asS'responsibility'
-p33
-(lp34
 S'modeling'
-p35
+p32
 aS'product'
-p36
+p33
 aS'design'
-p37
+p34
 aS'model'
-p38
+p35
+aS'develop ... model'
+p36
 as.

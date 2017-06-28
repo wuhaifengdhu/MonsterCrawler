@@ -4,168 +4,177 @@ p2
 (dp3
 S'business strategy'
 p4
-I1
+F0.013816069637815622
 sS'data science'
 p5
-I1
+F0.0054674587530027232
 sS'analytics'
 p6
-I1
-sS'data mining'
+F0.0039533520999251205
+sS'engineering'
 p7
-I1
-sS'research'
+F0.0055675217139711571
+sS'data mining'
 p8
-I1
-sS'regression'
+F0.0096453605849188065
+sS'sas'
 p9
-I1
-sS'visualization'
+F0.0062965311667155304
+sS'research'
 p10
-I1
-sS'management'
+F0.015512006212031604
+sS'regression'
 p11
-I1
-sS'java'
+F0.010800762684917274
+sS'visualization'
 p12
-I1
-sS'agile'
-p13
-I1
-sS'recruiting'
-p14
-I1
-sS'strategy'
-p15
-I1
-sS'stata'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'database development'
-p18
-I1
-sS'segmentation'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'python'
-p21
-I1
-sS'sql'
-p22
-I1
-sS'c'
-I1
-sS'applied mathematics'
-p23
-I1
-sS'programming'
-p24
-I1
-sS'excel vba'
-p25
-I1
-sS'banking'
-p26
-I1
-sS'r'
-I1
-sS'cluster analysis'
-p27
-I1
-ssS'working-year'
-p28
-(dp29
-V(2, 5]
-p30
-I1
-ssS'major'
-p31
-(dp32
-S'mathematics economics'
-p33
-I1
+F0.0085195239633362244
 sS'management'
-p34
-I1
-sS'business'
-p35
-I1
-sS'applied mathematics'
-p36
-I1
-sS'data mining'
-p37
-I1
-sS'analytics'
-p38
-I1
-sS'computer engineering'
-p39
-I1
-sS'design'
-p40
-I1
-sS'statistic'
-p41
-I1
-sS'applied math'
-p42
-I1
-sS'data science'
-p43
-I1
-sS'applied mathematics economics'
-p44
-I1
-ssS'education'
-p45
-(dp46
-VBachelor
-p47
-I1
-ssS'responsibility'
-p48
-(dp49
-S'development'
-p50
-I1
-sS'product'
-p51
-I1
-sS'decision-making'
-p52
-I1
-sVtest hypothesis
-p53
-I1
-sS'business problem'
-p54
-I1
-sVinsight
-p55
-I1
-sS'statistical model'
-p56
-I1
+p13
+F0.0082368078836332018
+sS'java'
+p14
+F0.0056330316712194699
+sS'agile'
+p15
+F0.0099258630577250418
+sS'recruiting'
+p16
+F0.015676810230079049
+sS'strategy'
+p17
+F0.01431828573842577
+sS'stata'
+p18
+F0.013833859239539411
+sS'innovation'
+p19
+F0.0087992030551578351
+sS'database development'
+p20
+F0.025292017513052718
+sS'segmentation'
+p21
+F0.013163869600591094
 sS'data analysis'
+p22
+F0.0067443727952984775
+sS'python'
+p23
+F0.0023693250579693908
+sS'sql'
+p24
+F0.0030997448128774864
+sS'data'
+p25
+F0.0005390976721566951
+sS'c'
+F0.0056846451086277148
+sS'science'
+p26
+F0.00319560858270042
+sS'applied mathematics'
+p27
+F0.013736867022016847
+sS'economics'
+p28
+F0.010893144656179368
+sS'programming'
+p29
+F0.010021047589407962
+sS'excel vba'
+p30
+F0.026562853546998843
+sS'analysis'
+p31
+F0.0015573578261551359
+sS'banking'
+p32
+F0.015610454175265251
+sS'r'
+F0.0025226923027906415
+sS'cluster analysis'
+p33
+F0.01786692811826553
+ssS'working-year'
+p34
+(dp35
+V(2, 5]
+p36
+F0.0056315655837778887
+ssS'major'
+p37
+(dp38
+VBusiness
+p39
+F0.004916883396245973
+sVData Science
+p40
+F0.0046694953754775571
+sVEconomics
+p41
+F0.0074580524887475491
+sVEngineering
+p42
+F0.0055675217139711571
+sVComputer Science
+p43
+F0.0041152533925099891
+sVMathematics
+p44
+F0.0077921478617384177
+sVManagement Science and Engineering
+p45
+F0.0058615660839495109
+ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0041426310348632121
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+F0.0055043681927914477
+sS'product'
+p52
+F0.0061136040487170295
+sS'data analysis'
+p53
+F0.0067443727952984775
+sVtest hypothesis
+p54
+F0.021924876498596133
+sS'business problem'
+p55
+F0.012946138918775657
+sS'insight'
+p56
+F0.0083404243454976591
+sS'analysis'
 p57
-I1
-sS'design'
+F0.0015573578261551359
+sS'develop ... model'
 p58
-I1
-sS'data mining'
+F0.014090513759891534
+sS'design'
 p59
-I1
-sS'model'
+F0.0066382673182658067
+sS'data mining'
 p60
-I1
-sS'presentation'
+F0.0096453605849188065
+sS'statistical model'
 p61
-I1
+F0.016322110480085888
+sS'presentation'
+p62
+F0.011197065192316393
+sS'validate ... model'
+p63
+F0.023794391578823459
+sS'decision-making'
+p64
+F0.016691070208114195
 ss.

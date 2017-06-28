@@ -4,298 +4,268 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0034425746720333611
 sS'communication'
 p5
-I1
+F0.0019914079988815805
 sS'data science'
 p6
-I1
+F0.001513007453661131
 sS'testing'
 p7
-I1
+F0.0025753182577358653
 sS'hadoop'
 p8
-I1
+F0.0016161088067919054
 sS'sentiment analysis'
 p9
-I1
+F0.0052863562613988451
 sS'data analysis'
 p10
-I1
+F0.0018663673144222203
 sS'statistical analysis'
 p11
-I1
+F0.0032386165451730917
 sS'data mining'
 p12
-I1
-sS'hbase'
+F0.0026691563882794184
+sS'sas'
 p13
-I1
-sS'education'
+F0.0017424362977074422
+sS'hbase'
 p14
-I1
-sS'amazon web services'
+F0.0042116453960252464
+sS'education'
 p15
-I1
-sS'cassandra'
+F0.0026397820752368166
+sS'amazon web services'
 p16
-I1
-sS'visualization'
+F0.0041688919556584656
+sS'cassandra'
 p17
-I1
-sS'management'
+F0.0047351025441014797
+sS'visualization'
 p18
-I1
-sS'java'
+F0.0023576041156402128
+sS'statistics'
 p19
-I1
-sS'classification'
+F0.0011729721444057918
+sS'java'
 p20
-I1
-sS'big data'
+F0.0015588263744255137
+sS'classification'
 p21
-I1
-sS'statistical inference'
-p22
-I1
-sS'critical thinking'
-p23
-I1
-sS'agile'
-p24
-I1
-sS'devops'
-p25
-I1
-sS'strategy'
-p26
-I1
-sS'big data analytics'
-p27
-I1
-sS'data analytics'
-p28
-I1
-sS'statistical software'
-p29
-I1
-sS'computer science'
-p30
-I1
-sS'web services'
-p31
-I1
-sS'amazon web services aws'
-p32
-I1
-sS'management consulting'
-p33
-I1
-sS'scrum'
-p34
-I1
-sS'finance'
-p35
-I1
-sS'python'
-p36
-I1
-sS'mongodb'
-p37
-I1
-sS'philosophy'
-p38
-I1
-sS'data scientist'
-p39
-I1
-sS'sql'
-p40
-I1
-sS'regression'
-p41
-I1
-sS'modeling'
-p42
-I1
-sS'data'
-p43
-I1
-sS'software development'
-p44
-I1
-sS'svm'
-p45
-I1
-sS'organization'
-p46
-I1
-sS'data visualization'
-p47
-I1
-sS'cell'
-p48
-I1
-sS'mapreduce'
-p49
-I1
-sS'analysis'
-p50
-I1
-sS'machine learning'
-p51
-I1
-sS'team building'
-p52
-I1
-sS'r'
-I1
-sS'architecture'
-p53
-I1
-sS'investment management'
-p54
-I1
-sS'validation'
-p55
-I1
-sS'collaborative filtering'
-p56
-I1
-sS'predictive analytics'
-p57
-I1
-ssS'working-year'
-p58
-(dp59
-V(5, 10]
-p60
-I1
-sV(0, 2]
-p61
-I1
-sV(2, 5]
-p62
-I1
-ssS'major'
-p63
-(dp64
-S'information'
-p65
-I1
-sS'management'
-p66
-I1
-sS'finance'
-p67
-I1
+F0.0039690086810793444
 sS'big data'
-p68
-I1
-sS'communication'
-p69
-I1
-sS'data science'
-p70
-I1
-sS'philosophy'
-p71
-I1
-sVapplied statistic
-p72
-I1
-sS'mba'
-p73
-I1
-sS'general'
-p74
-I1
+p22
+F0.0016009121086322862
+sS'statistical inference'
+p23
+F0.0057238173975409732
+sS'critical thinking'
+p24
+F0.0049323844390075696
+sS'agile'
+p25
+F0.0054935594281748656
+sS'devops'
+p26
+F0.0051953882866918764
+sS'strategy'
+p27
+F0.0019811464543733771
 sS'big data analytics'
-p75
-I1
-sS'statistics computer science'
-p76
-I1
-sS'machine learning'
-p77
-I1
-sS'design'
-p78
-I1
-sS'computer science'
-p79
-I1
-sS'data mining'
-p80
-I1
-sS'law'
-p81
-I1
-sS'business'
-p82
-I1
+p28
+F0.0041688919556584656
 sS'data analytics'
-p83
-I1
-sS'predictive analytics'
-p84
-I1
-ssS'education'
-p85
-(dp86
-VMaster
-p87
-I1
-sVDoctor
-p88
-I1
-ssS'responsibility'
-p89
-(dp90
-S'development'
-p91
-I1
-sS'information'
-p92
-I1
-sS'product'
-p93
-I1
-sS'data analysis'
-p94
-I1
-sS'understand'
-p95
-I1
-sS'pattern'
-p96
-I1
-sS'recommendation'
-p97
-I1
-sS'communicate'
-p98
-I1
-sS'analysis'
-p99
-I1
-sS'statistical method'
-p100
-I1
-sS'design'
-p101
-I1
-sS'data mining'
-p102
-I1
+p29
+F0.0025689593477808766
+sS'statistical software'
+p30
+F0.0049503111588647657
+sS'computer science'
+p31
+F0.0017685324065248057
+sS'web services'
+p32
+F0.0036994203373084088
+sS'amazon web services aws'
+p33
+F0.0043796038858676728
+sS'management consulting'
+p34
+F0.0048244226027136707
+sS'scrum'
+p35
+F0.0042733491375213798
+sS'finance'
+p36
+F0.003339806357463759
+sS'python'
+p37
+F0.00065566228019278737
+sS'mongodb'
+p38
+F0.003719617312982862
+sS'philosophy'
+p39
+F0.0062394100430018971
+sS'aws'
+p40
+F0.0032873916336876854
+sS'management'
+p41
+F0.0011396841096850969
+sS'sql'
+p42
+F0.00085779101740005915
+sS'regression'
+p43
+F0.005977780605488806
 sS'modeling'
-p103
-I1
+p44
+F0.0010215669044296258
+sS'data'
+p45
+F0.0016410268762505687
+sS'software development'
+p46
+F0.0026669139849978271
+sS'svm'
+p47
+F0.0056171562630551522
+sS'organization'
+p48
+F0.002217841307272555
+sS'data visualization'
+p49
+F0.0024738787743139633
+sS'science'
+p50
+F0.00088431935621898416
+sS'cell'
+p51
+F0.0054101784886969586
+sS'mapreduce'
+p52
+F0.0033166056817055603
+sS'analysis'
+p53
+F0.0012929008368080376
+sS'machine learning'
+p54
+F0.00082455059350193625
+sS'team building'
+p55
+F0.005037522963606841
+sS'r'
+F0.0013962070606640029
+sS'architecture'
+p56
+F0.0027509616637542869
+sS'investment management'
+p57
+F0.0076726547171707118
+sS'validation'
+p58
+F0.0039773110755661591
+sS'collaborative filtering'
+p59
+F0.0057691501806672778
+sS'predictive analytics'
+p60
+F0.0028962241173947048
+ssS'working-year'
+p61
+(dp62
+V(5, 10]
+p63
+F0.0015165336623608285
+sV(0, 2]
+p64
+F0.0028648807095473625
+sV(2, 5]
+p65
+F0.0015584206646932521
+ssS'major'
+p66
+(dp67
+VStatistics
+p68
+F0.002266043735708277
+sVBusiness
+p69
+F0.0013606469775775021
+sVData Science
+p70
+F0.0012921873995032235
+sVEconomics
+p71
+F0.0020638635817917745
+sVComputer Science
+p72
+F0.0011388122595625129
+sVManagement Science and Engineering
+p73
+F0.0016220686018476632
+ssS'education'
+p74
+(dp75
+VBachelor
+p76
+F0.0011463884624778702
+sVMaster
+p77
+F0.00091481847198009668
+sVDoctor
+p78
+F0.0013700399644987018
+ssS'responsibility'
+p79
+(dp80
+S'development'
+p81
+F0.0030464427733688519
+sS'information'
+p82
+F0.0034895728290047661
+sS'product'
+p83
+F0.0016918149568776687
+sS'data analysis'
+p84
+F0.0018663673144222203
+sS'understand'
+p85
+F0.002643622406848145
+sS'pattern'
+p86
+F0.0032938252522945232
+sS'recommendation'
+p87
+F0.0032857883582619765
+sS'communicate'
+p88
+F0.0025235759525554617
+sS'analysis'
+p89
+F0.0012929008368080376
+sS'statistical method'
+p90
+F0.0044223778981780015
+sS'design'
+p91
+F0.0036740095849521447
+sS'data mining'
+p92
+F0.0026691563882794184
+sS'modeling'
+p93
+F0.0010215669044296258
 sS'implement'
-p104
-I1
+p94
+F0.0053279576732568742
 sS'model'
-p105
-I1
+p95
+F0.0038928574639034985
 ss.

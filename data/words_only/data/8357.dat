@@ -4,184 +4,178 @@ p2
 (dp3
 S'probability'
 p4
-I1
+F0.013559646452036896
 sS'knowledge management'
 p5
-I1
+F0.019857707755171743
 sS'hadoop'
 p6
-I1
+F0.00499924708715784
 sS'hardware'
 p7
-I1
-sS'thought leadership'
+F0.014448700686982353
+sS'analytics'
 p8
-I1
-sS'troubleshooting'
+F0.0033841924590798703
+sS'thought leadership'
 p9
-I1
-sS'data mining'
+F0.015959840075988805
+sS'troubleshooting'
 p10
-I1
-sS'visualization'
+F0.014631838388070801
+sS'data mining'
 p11
-I1
-sS'open source'
+F0.0082567289053779667
+sS'sas'
 p12
-I1
-sS'publishing'
+F0.0053900266796786641
+sS'visualization'
 p13
-I1
-sS'big data'
+F0.0072929777118053282
+sS'management'
 p14
-I1
-sS'time series analysis'
+F0.0035254819735395025
+sS'open source'
 p15
-I1
-sS'r programming'
+F0.012443267470498422
+sS'publishing'
 p16
-I1
-sS'integration'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'natural language processing'
-p19
-I1
-sS'mathematics'
-p20
-I1
-sS'data modeling'
-p21
-I1
-sS'theory'
-p22
-I1
-sS'python'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'business process'
-p25
-I1
-sS'leadership'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'data'
-p28
-I1
-sS'business insights'
-p29
-I1
-sS'data visualization'
-p30
-I1
-sS'programming'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'r'
-I1
-sS'sas enterprise miner'
-p34
-I1
-sS'predictive analytics'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V[0]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-I1
-sS'natural language processing'
-p42
-I1
-sS'business'
-p43
-I1
+F0.019682142950284719
 sS'big data'
-p44
-I1
-sS'knowledge management'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'machine learning'
-p47
-I1
-sS'design'
-p48
-I1
+p17
+F0.0049522378457691344
+sS'time series analysis'
+p18
+F0.011196929620231768
+sS'r programming'
+p19
+F0.012277672768319373
+sS'integration'
+p20
+F0.017947417293343287
 sS'computer science'
-p49
-I1
-sS'data mining'
-p50
-I1
+p21
+F0.0054707519968374349
+sS'natural language processing'
+p22
+F0.0097508098519856149
 sS'mathematics'
-p51
-I1
-sS'predictive analytics'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VMaster
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
-S'development'
-p58
-I1
-sS'information'
-p59
-I1
-sS'product'
-p60
-I1
-sS'business problem'
-p61
-I1
-sS'communicate'
-p62
-I1
-sS'analysis'
-p63
-I1
-sS'design'
-p64
-I1
-sS'data mining'
-p65
-I1
+p23
+F0.0071124252220848474
+sS'data modeling'
+p24
+F0.010164209123806504
+sS'theory'
+p25
+F0.011402631324798971
+sS'python'
+p26
+F0.0040564320058619919
+sS'processing'
+p27
+F0.0063544283528043583
+sS'data scientist'
+p28
+F0.0041220687360462192
+sS'business process'
+p29
+F0.011888260426146912
+sS'leadership'
+p30
+F0.0064296055299759612
 sS'modeling'
-p66
-I1
+p31
+F0.0031600999572823055
+sS'data'
+p32
+F0.0027689063316997569
+sS'business insights'
+p33
+F0.022866215991002282
+sS'data visualization'
+p34
+F0.0076526600217105096
+sS'science'
+p35
+F0.0027355404209886865
+sS'programming'
+p36
+F0.0085783286757577897
+sS'analysis'
+p37
+F0.0013331467772534238
+sS'machine learning'
+p38
+F0.0025506526141402309
+sS'r'
+F0.0021595031385756467
+sS'sas enterprise miner'
+p39
+F0.020878574923824614
+sS'predictive analytics'
+p40
+F0.0089591368612015193
+ssS'working-year'
+p41
+(dp42
+S'[0]'
+p43
+F0.0085455826091221116
+ssS'major'
+p44
+(dp45
+VMathematics
+p46
+F0.0066703211267799684
+sVData Science
+p47
+F0.0039972333953504384
+sVComputer Science
+p48
+F0.0035227850052614697
+sVBusiness
+p49
+F0.0042090052419226235
+sVManagement Science and Engineering
+p50
+F0.0050176830290618382
+ssS'education'
+p51
+(dp52
+VMaster
+p53
+F0.0028298859347244236
+ssS'responsibility'
+p54
+(dp55
+S'development'
+p56
+F0.014135731545690101
+sS'information'
+p57
+F0.010794592992446651
+sS'product'
+p58
+F0.0052334353724425939
+sS'processing'
+p59
+F0.0063544283528043583
+sS'communicate'
+p60
+F0.0078063925380606695
+sS'analysis'
+p61
+F0.0013331467772534238
+sS'design'
+p62
+F0.01704769038932075
+sS'data mining'
+p63
+F0.0082567289053779667
+sS'modeling'
+p64
+F0.0031600999572823055
 sS'extract'
-p67
-I1
+p65
+F0.012037776384057702
 ss.

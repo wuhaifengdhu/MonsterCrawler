@@ -4,214 +4,184 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.0089903139229276317
 sS'consulting'
 p5
-I1
-sS'r d'
-p6
-I1
+F0.0059149599335368347
 sS'intellectual property'
-p7
-I1
+p6
+F0.014153443882181167
 sS'communication'
-p8
-I1
+p7
+F0.0041444224060493626
 sS'information retrieval'
+p8
+F0.0091872277565004535
+sS'analytics'
 p9
-I1
+F0.0022767996387003317
 sS'engineering'
 p10
-I1
+F0.0032064261179938604
 sS'cognitive science'
 p11
-I1
+F0.014697000226429651
 sS'linguistics'
 p12
-I1
-sS'deep learning'
+F0.013241651147181082
+sS'statistics'
 p13
-I1
-sS'r'
-I1
-sS'computer science'
+F0.0024411331277555096
+sS'deep learning'
 p14
-I1
-sS'natural language processing'
+F0.0081532504787786668
+sS'r'
+F0.0014528594413977518
+sS'computer science'
 p15
-I1
-sS'advanced analytics'
+F0.0036805844586052898
+sS'natural language processing'
 p16
-I1
-sS'algorithm development'
+F0.0065600998218856097
+sS'advanced analytics'
 p17
-I1
-sS'artificial intelligence'
-p18
-I1
-sS'product development'
-p19
-I1
-sS'marketing'
-p20
-I1
-sS'processing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'automation'
-p23
-I1
-sS'business process'
-p24
-I1
+F0.007703692550623256
 sS'mathematics'
+p18
+F0.0047850609478424242
+sS'artificial intelligence'
+p19
+F0.0072450695289915318
+sS'product development'
+p20
+F0.0068415611224652102
+sS'marketing'
+p21
+F0.004987472571930756
+sS'processing'
+p22
+F0.012825299109979475
+sS'data scientist'
+p23
+F0.0027732242543557022
+sS'automation'
+p24
+F0.0087304929985963595
+sS'business process'
 p25
-I1
-sS'business development'
+F0.0079981228521459596
+sS'algorithm development'
 p26
-I1
-sS'information extraction'
+F0.011018122375266115
+sS'business development'
 p27
-I1
-sS'science'
+F0.0091066761231470769
+sS'information extraction'
 p28
-I1
-sS'machine learning'
+F0.013703576301940213
+sS'data'
 p29
-I1
-sS'optimization'
+F0.00031047509914783485
+sS'science'
 p30
-I1
-sS'organization'
+F0.0036808056973512693
+sS'machine learning'
 p31
-I1
-sS'data analytics'
+F0.0017160149786231396
+sS'optimization'
 p32
-I1
-ssS'working-year'
+F0.0052356252811218383
+sS'organization'
 p33
-(dp34
-V(2, 5]
+F0.0046156645007373858
+sS'physics'
+p34
+F0.0063693308310122081
+sS'data analytics'
 p35
-I1
-ssS'major'
+F0.0053463944541513016
+ssS'working-year'
 p36
 (dp37
-S'communication'
+V(2, 5]
 p38
-I1
-sS'information retrieval'
+F0.0032433100220710357
+ssS'major'
 p39
-I1
-sS'engineering'
-p40
-I1
-sS'cognitive science'
+(dp40
+VLinguistics
 p41
-I1
-sS'design'
+F0.013703576301940213
+sVStatistics
 p42
-I1
-sS'applied statistics'
+F0.0047159810730054456
+sVBusiness
 p43
-I1
-sS'information'
+F0.0028317129507175764
+sVData Science
 p44
-I1
-sS'mathematics physics'
+F0.002689238174358803
+sVEconomics
 p45
-I1
-sVapplied statistic
+F0.0042952134751949242
+sVEngineering
 p46
-I1
-sS'computer science'
+F0.0058962799130019049
+sVCognitive Science
 p47
-I1
-sS'natural language processing'
+F0.011277518973519642
+sVComputer Science
 p48
-I1
-sS'advanced analytics'
+F0.0023700412208172718
+sVMathematics
 p49
-I1
-sS'mathematics'
+F0.0044876244229907119
+sVPhysics
 p50
-I1
-sS'artificial intelligence'
-p51
-I1
-sS'business'
-p52
-I1
-sS'linguistics'
-p53
-I1
-sS'marketing'
-p54
-I1
-sS'automation'
-p55
-I1
-sS'artificial intelligence machine learning'
-p56
-I1
-sS'law'
-p57
-I1
-sVphysic
-p58
-I1
-sS'science'
-p59
-I1
-sS'machine learning'
-p60
-I1
-sS'data analytics'
-p61
-I1
-sS'history'
-p62
-I1
+F0.0068684086418850541
 ssS'education'
-p63
-(dp64
-VDoctor
-p65
-I1
+p51
+(dp52
+VMaster
+p53
+F0.0019038761393303061
+sVDoctor
+p54
+F0.002851261182660911
 ssS'responsibility'
-p66
-(dp67
+p55
+(dp56
 S'development'
-p68
-I1
+p57
+F0.0095101649404250154
 sS'information'
-p69
-I1
+p58
+F0.0072623308875884541
 sS'product'
-p70
-I1
+p59
+F0.0070418475953808726
 sS'processing'
-p71
-I1
+p60
+F0.012825299109979475
 sS'transformation'
-p72
-I1
+p61
+F0.0082315631814996511
 sS'optimization'
-p73
-I1
+p62
+F0.0052356252811218383
 sS'design'
-p74
-I1
+p63
+F0.007646171780201454
 sS'model'
-p75
-I1
+p64
+F0.016203254889022418
 sS'prototype'
-p76
-I1
+p65
+F0.0082543754281405451
 sS'implement'
-p77
-I1
+p66
+F0.0055441444374858843
+sS'decision making'
+p67
+F0.008551264528611293
 ss.

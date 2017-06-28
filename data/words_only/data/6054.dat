@@ -2,128 +2,125 @@
 S'skills'
 p2
 (dp3
-S'customer satisfaction'
+S'forecasting'
 p4
-I1
-sS'forecasting'
-p5
-I1
-sS'management'
-p6
-I1
-sS'big data'
-p7
-I1
-sS'customer service'
-p8
-I1
+F0.014303556126001553
 sS'energy'
-p9
-I1
+p5
+F0.022576794922317692
 sS'human resources'
+p6
+F0.012098368254113435
+sS'operational excellence'
+p7
+F0.014100750269045571
+sS'sas'
+p8
+F0.0067572529594020327
+sS'telecommunications'
+p9
+F0.011034713997742187
+sS'management'
 p10
-I1
-sS'data scientist'
+F0.0066296258575584306
+sS'big data'
 p11
-I1
-sS'c'
-I1
-sS'research'
+F0.0031042076252747988
+sS'sharepoint'
 p12
-I1
+F0.011301050998404465
 sS'access'
 p13
-I1
-sS'advanced analytics'
-p14
-I1
-sS'r'
-I1
-sS'operational excellence'
-p15
-I1
+F0.0056572244514547683
 sS'stata'
+p14
+F0.0074230464212162702
+sS'advanced analytics'
+p15
+F0.0071775867178977652
+sS'customer satisfaction'
 p16
-I1
-sS'sql'
+F0.011034713997742187
+sS'customer service'
 p17
-I1
-sS'policy'
+F0.0083622432746040046
+sS'data scientist'
 p18
-I1
-sS'organization'
+F0.0025838333296679958
+sS'policy'
 p19
-I1
-sS'spss'
+F0.00665770299522134
+sS'sql'
 p20
-I1
+F0.0016632777044708466
 sS'data'
 p21
-I1
-sS'sharepoint'
+F0.0020249034515153913
+sS'a'
+F0.0045610777893025038
+sS'economics'
 p22
-I1
-ssS'working-year'
+F0.0058451020106328327
+sS'spss'
 p23
-(dp24
-V(5, 10]
+F0.0053813386118477203
+sS'r'
+F0.0013536397722291248
+sS'organization'
+p24
+F0.0043004483884919054
+ssS'working-year'
 p25
-I1
-sV(2, 5]
-p26
-I1
-ssS'major'
+(dp26
+V(5, 10]
 p27
-(dp28
-S'information'
+F0.002940595759943558
+sV(2, 5]
+p28
+F0.0030218156791003304
+ssS'major'
 p29
-I1
-sS'management'
-p30
-I1
-sS'telecommunication'
+(dp30
+VData Science
 p31
-I1
-sS'big data'
+F0.0025055828844025916
+sVEconomics
 p32
-I1
-sS'design'
+F0.0040018818232303924
+sVBusiness
 p33
-I1
-sS'advanced analytics'
+F0.0026383276760344248
+sVManagement Science and Engineering
 p34
-I1
-sS'business economics'
-p35
-I1
+F0.003145230581631445
 ssS'education'
-p36
-(dp37
+p35
+(dp36
 VBachelor
-p38
-I1
+p37
+F0.0022228751894387971
 ssS'responsibility'
-p39
-(dp40
+p38
+(dp39
 S'information'
-p41
-I1
+p40
+F0.0067663668269726564
 sS'forecasting'
+p41
+F0.014303556126001553
+sS'insight'
 p42
-I1
-sVinsight
-p43
-I1
+F0.0044753496488036219
 sS'product'
-p44
-I1
+p43
+F0.0032804704651652355
 sS'design'
-p45
-I1
+p44
+F0.0035619970976060429
 sS'recommendation'
-p46
-I1
+p45
+F0.019113671303548328
 sS'report'
-p47
-I1
+p46
+F0.015184949415895823
 ss.

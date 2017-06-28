@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'management'
 p5
@@ -20,54 +21,54 @@ aS'sustainability'
 p11
 aS'policy'
 p12
-aS'ic'
+aS'organization'
 p13
-aS'data'
+aS'ic'
 p14
-aS'project management'
+aS'data'
 p15
-aS'process development'
-p16
-asS'working-year'
-p17
-(lp18
-V(5, 10]
-p19
-asS'major'
-p20
-(lp21
-S'management'
-p22
-aS'business'
-p23
-aS'communication'
-p24
-aS'data analyst'
-p25
-aS'sustainability'
-p26
 aS'project management'
-p27
+p16
+aS'process development'
+p17
+asS'working-year'
+p18
+(lp19
+V(5, 10]
+p20
+asS'major'
+p21
+(lp22
+VData Science
+p23
+aVBusiness
+p24
+aVManagement Science and Engineering
+p25
 asS'education'
-p28
-(lp29
+p26
+(lp27
 VBachelor
-p30
+p28
 asS'responsibility'
+p29
+(lp30
+S'development'
 p31
-(lp32
-S'pattern'
-p33
+aS'pattern'
+p32
 aS'analysis'
-p34
+p33
 aS'improvement'
-p35
+p34
 aS'analytic'
-p36
+p35
 aS'recommendation'
-p37
+p36
 aS'report'
-p38
+p37
 aS'implement'
+p38
+aS'decision making'
 p39
 as.

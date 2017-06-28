@@ -2,23 +2,23 @@
 S'skills'
 p2
 (lp3
-S'energy'
+S'intelligence'
 p4
-aS'engineering'
+aS'energy'
 p5
-aS'process improvement'
-p6
-aS'user experience'
-p7
-aS'recruiting'
-p8
-aS'hadoop'
-p9
-aS'policy'
-p10
-aS'data science'
-p11
 aS'business intelligence'
+p6
+aS'process improvement'
+p7
+aS'user experience'
+p8
+aS'recruiting'
+p9
+aS'hadoop'
+p10
+aS'policy'
+p11
+aS'data science'
 p12
 aS'data analysis'
 p13
@@ -34,71 +34,67 @@ aS'spark'
 p18
 aS'data'
 p19
-aS'customer experience'
+aS'engineering'
 p20
-aS'software development'
+aS'customer experience'
 p21
-aS'science'
+aS'software development'
 p22
-aS'consumer insights'
+aS'science'
 p23
-aS'mapreduce'
+aS'consumer insights'
 p24
-aS'analysis'
+aS'mapreduce'
 p25
-aS'unstructured data'
+aS'analysis'
 p26
+aS'unstructured data'
+p27
 aS'r'
 aS'scripting'
-p27
-aS'crm'
 p28
-asS'working-year'
+aS'crm'
 p29
-(lp30
+asS'working-year'
+p30
+(lp31
 V(2, 5]
-p31
-asS'major'
 p32
-(lp33
-S'information'
-p34
-aS'business'
+asS'major'
+p33
+(lp34
+VData Science
 p35
-aS'marketing'
+aVEconomics
 p36
-aS'data science'
+aVEngineering
 p37
-aS'engineering'
+aVBusiness
 p38
-aS'design'
-p39
-aS'science'
-p40
 asS'education'
-p41
-(lp42
+p39
+(lp40
 S'Bachelor'
-p43
+p41
 asS'responsibility'
-p44
-(lp45
+p42
+(lp43
 S'development'
-p46
+p44
 aS'information'
-p47
+p45
 aS'product'
-p48
+p46
 aS'data analysis'
-p49
-aVinsight
-p50
+p47
+aS'insight'
+p48
 aS'analysis'
-p51
+p49
 aS'improvement'
-p52
+p50
 aS'understand'
-p53
+p51
 aS'design'
-p54
+p52
 as.

@@ -4,218 +4,191 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.010814777315475499
 sS'nosql'
 p5
-I1
+F0.0067576465784358573
 sS'data science'
 p6
-I1
+F0.0029699775942237014
 sS'analytics'
 p7
-I1
+F0.017179999249057314
 sS'unix'
 p8
-I1
+F0.012751055747086666
 sS'system administration'
 p9
-I1
-sS'visualization'
+F0.011370353714688343
+sS'sas'
 p10
-I1
-sS'technical leadership'
+F0.0034203379177220163
+sS'visualization'
 p11
-I1
-sS'management'
+F0.0046278895603307883
+sS'technical leadership'
 p12
-I1
-sS'open source'
-p13
-I1
-sS'rdbms'
-p14
-I1
-sS'big data'
-p15
-I1
-sS'predictive modeling'
-p16
-I1
-sS'storage'
-p17
-I1
-sS'hadoop'
-p18
-I1
-sS'strategy'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'advanced analytics'
-p21
-I1
-sS'mathematics'
-p22
-I1
-sS'energy'
-p23
-I1
-sS'data management'
-p24
-I1
-sS'collaboration'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'business process'
-p27
-I1
-sS'leadership'
-p28
-I1
-sS'energy efficiency'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'manufacturing'
-p32
-I1
-sS'data'
-p33
-I1
-sS'software engineering'
-p34
-I1
-sS'applied mathematics'
-p35
-I1
-sS'engineering'
-p36
-I1
-sS'hive'
-p37
-I1
-sS'architecture'
-p38
-I1
-sS'oracle'
-p39
-I1
-sS'organization'
-p40
-I1
-sS'security'
-p41
-I1
-sS'data analytics'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(0, 2]
-p45
-I1
-sV(2, 5]
-p46
-I1
-ssS'major'
-p47
-(dp48
-S'information'
-p49
-I1
+F0.011107900537018024
 sS'management'
-p50
-I1
-sS'business'
-p51
-I1
+p13
+F0.0067114730903677939
+sS'open source'
+p14
+F0.0078960981232545548
+sS'rdbms'
+p15
+F0.011046425793317683
 sS'big data'
-p52
-I1
-sS'computing'
-p53
-I1
-sS'applied mathematics'
-p54
-I1
-sS'applied math'
-p55
-I1
-sS'data science analytics'
-p56
-I1
-sS'analytics'
-p57
-I1
-sS'engineering'
-p58
-I1
-sS'design'
-p59
-I1
+p16
+F0.0031425311762041173
+sS'predictive modeling'
+p17
+F0.0051333479226888142
+sS'storage'
+p18
+F0.0092358063272752079
+sS'hadoop'
+p19
+F0.0095170851955523328
+sS'strategy'
+p20
+F0.007777834228280666
+sS'scripting'
+p21
+F0.0060076157467818846
 sS'computer science'
-p60
-I1
-sS'mathematics'
-p61
-I1
+p22
+F0.0034715636128079524
 sS'advanced analytics'
-p62
-I1
-sS'software engineering'
-p63
-I1
-sS'data science'
-p64
-I1
-sS'ee computer science'
-p65
-I1
-sS'computer science applied math'
-p66
-I1
-sS'data analytics'
-p67
-I1
-ssS'education'
-p68
-(dp69
-VBachelor
-p70
-I1
-ssS'responsibility'
-p71
-(dp72
-S'development'
-p73
-I1
-sS'information'
-p74
-I1
-sS'design'
-p75
-I1
-sS'analytic'
-p76
-I1
-sS'understand'
-p77
-I1
+p23
+F0.0072661988996002066
+sS'energy'
+p24
+F0.015237013857037452
+sS'data management'
+p25
+F0.006789921245948816
+sS'collaboration'
+p26
+F0.006315233135983837
+sS'processing'
+p27
+F0.0040323162633844941
+sS'data scientist'
+p28
+F0.002615732506577477
+sS'automation'
+p29
+F0.0082346872233674297
+sS'business process'
+p30
+F0.0075439084679500158
+sS'leadership'
+p31
+F0.0040800212869230171
+sS'architectures'
+p32
+F0.011853045675100647
+sS'energy efficiency'
+p33
+F0.014059991391961478
+sS'sql'
+p34
+F0.0016838119971186347
 sS'modeling'
-p78
-I1
+p35
+F0.0080211919903363203
+sS'manufacturing'
+p36
+F0.0092164409185970606
+sS'data'
+p37
+F0.0029284317993697015
+sS'software engineering'
+p38
+F0.0064248468857136089
+sS'science'
+p39
+F0.0017358861436891171
+sS'applied mathematics'
+p40
+F0.0074620018391202622
+sS'engineering'
+p41
+F0.0030243327828979125
+sS'hive'
+p42
+F0.005150010492567917
+sS'architecture'
+p43
+F0.010800071716961275
+sS'oracle'
+p44
+F0.0064815345643489423
+sS'organization'
+p45
+F0.0087070806878107709
+sS'security'
+p46
+F0.0053959279400488686
+sS'data analytics'
+p47
+F0.0050427720530513507
+ssS'working-year'
+p48
+(dp49
+sS'major'
+p50
+(dp51
+VBusiness
+p52
+F0.0026708996226521339
+sVData Science
+p53
+F0.0025365160064322535
+sVEngineering
+p54
+F0.0030243327828979125
+sVComputer Science
+p55
+F0.0022354462872893771
+sVMathematics
+p56
+F0.0042327716779813626
+sVManagement Science and Engineering
+p57
+F0.0031840605888120801
+ssS'education'
+p58
+(dp59
+VBachelor
+p60
+F0.0022503180930121152
+ssS'responsibility'
+p61
+(dp62
+S'development'
+p63
+F0.011960108665818455
+sS'information'
+p64
+F0.0034249511099491226
+sS'design'
+p65
+F0.014423889481663977
+sS'processing'
+p66
+F0.0040323162633844941
+sS'analytic'
+p67
+F0.027873160151847442
+sS'understand'
+p68
+F0.0051893328727019147
+sS'modeling'
+p69
+F0.0080211919903363203
 sS'model'
-p79
-I1
+p70
+F0.0038207675108682488
 ss.

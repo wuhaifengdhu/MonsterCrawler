@@ -4,218 +4,196 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.010937260887128521
 sS'communication'
 p5
-I1
+F0.0050419406341110076
 sS'data science'
 p6
-I1
-sS'software design'
+F0.0038307035849063672
+sS'linux'
 p7
-I1
-sS'engineering'
+F0.0058792294197427689
+sS'software design'
 p8
-I1
-sS'haskell'
+F0.012803613573828755
+sS'unix'
 p9
-I1
-sS'marketing strategy'
+F0.0082232127031371012
+sS'haskell'
 p10
-I1
-sS'problem solving'
-p11
-I1
-sS'data mining'
-p12
-I1
-sS'java'
-p13
-I1
-sS'scala'
-p14
-I1
-sS'deep learning'
-p15
-I1
-sS'product marketing'
-p16
-I1
-sS'hadoop'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'natural language processing'
-p19
-I1
-sS'artificial intelligence'
-p20
-I1
-sS'apis'
-p21
-I1
-sS'processing'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'statistical modeling'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'pattern recognition'
-p26
-I1
-sS'software engineering'
-p27
-I1
-sS'science'
-p28
-I1
-sS'functional programming'
-p29
-I1
-sS'documentation'
-p30
-I1
-sS'programming'
-p31
-I1
-sS'c++'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'architecture'
-p34
-I1
-sS'unit testing'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(0, 2]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'science'
-p41
-I1
-sS'information'
-p42
-I1
-sS'natural language processing'
-p43
-I1
-sS'software engineering'
-p44
-I1
-sS'communication'
-p45
-I1
-sS'data science'
-p46
-I1
-sS'data mining'
-p47
-I1
-sS'machine learning data mining'
-p48
-I1
-sS'engineering'
-p49
-I1
-sS'design'
-p50
-I1
+F0.018134702273071335
 sS'marketing strategy'
-p51
-I1
-sS'machine learning artificial intelligence'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'phd'
-p55
-I1
-sS'artificial intelligence'
-p56
-I1
-sS'computer science'
-p57
-I1
-ssS'education'
-p58
-(dp59
-VBachelor
-p60
-I1
-sVMaster
-p61
-I1
-sVDoctor
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'development'
-p65
-I1
-sS'information'
-p66
-I1
-sS'product'
-p67
-I1
-sS'processing'
-p68
-I1
-sS'understand'
-p69
-I1
-sS'pattern'
-p70
-I1
-sS'documentation'
-p71
-I1
-sS'statistical model'
-p72
-I1
-sS'design'
-p73
-I1
+p11
+F0.011875031927036074
+sS'problem solving'
+p12
+F0.0078172352387046225
 sS'data mining'
-p74
-I1
-sS'interface'
-p75
-I1
+p13
+F0.0067578959512169991
+sS'java'
+p14
+F0.003946710088115553
+sS'scala'
+p15
+F0.0077725044194224104
+sS'deep learning'
+p16
+F0.0099189225569855117
+sS'product marketing'
+p17
+F0.014520139124165245
+sS'hadoop'
+p18
+F0.0040917404503170857
+sS'strategy'
+p19
+F0.0050159599720599841
+sS'computer science'
+p20
+F0.0044776537044179006
+sS'natural language processing'
+p21
+F0.0079807583820391808
+sS'artificial intelligence'
+p22
+F0.0088140654779451117
+sS'apis'
+p23
+F0.01171788333164538
+sS'marketing'
+p24
+F0.0060675621734953781
+sS'processing'
+p25
+F0.0052009174734736312
+sS'data scientist'
+p26
+F0.0033737951119868735
+sS'statistical modeling'
+p27
+F0.0057049857330904348
 sS'modeling'
-p76
-I1
+p28
+F0.0051729024778442833
+sS'data'
+p29
+F0.00075542348964632432
+sS'c'
+F0.0039828723691022212
+sS'pattern recognition'
+p30
+F0.010169916270323858
+sS'software engineering'
+p31
+F0.0082868248048216936
+sS'science'
+p32
+F0.0067168842821091626
+sS'functional programming'
+p33
+F0.017643778327285323
+sS'documentation'
+p34
+F0.0092338884042803531
+sS'programming'
+p35
+F0.003510558072722535
+sS'engineering'
+p36
+F0.0039008113919543142
+sS'unit testing'
+p37
+F0.015797232433714996
+sS'machine learning'
+p38
+F0.0020876360567963037
+sS'architecture'
+p39
+F0.0069650144034543258
+ssS'working-year'
+p40
+(dp41
+V(0, 2]
+p42
+F0.0072534400130259665
+ssS'major'
+p43
+(dp44
+VEngineering
+p45
+F0.0071731812954354381
+sVEconomics
+p46
+F0.0052253870940269457
+sVData Science
+p47
+F0.0032716209637103908
+sVComputer Science
+p48
+F0.0028832985552617765
+ssS'education'
+p49
+(dp50
+VBachelor
+p51
+F0.0029024803428977924
+sVMaster
+p52
+F0.0023161805261916464
+sVDoctor
+p53
+F0.0034687317572498983
+ssS'responsibility'
+p54
+(dp55
+S'development'
+p56
+F0.003856563701955792
+sS'information'
+p57
+F0.0044175324825776897
+sS'product'
+p58
+F0.0042834168494195754
+sS'processing'
+p59
+F0.0052009174734736312
+sS'develop ... system'
+p60
+F0.014913062073184611
+sS'understand'
+p61
+F0.0066932478135168011
+sS'pattern'
+p62
+F0.0083394620241214849
+sS'documentation'
+p63
+F0.0092338884042803531
+sS'develop ... model'
+p64
+F0.0098723344814526676
+sS'design'
+p65
+F0.0046510153185301837
+sS'data mining'
+p66
+F0.0067578959512169991
+sS'interface'
+p67
+F0.010055914645063946
+sS'modeling'
+p68
+F0.0051729024778442833
 sS'implement'
-p77
-I1
+p69
+F0.0067447871819095789
 sS'prototype'
-p78
-I1
-sS'model'
-p79
-I1
+p70
+F0.010041947176909835
+sS'test ... model'
+p71
+F0.014756149392821117
 ss.

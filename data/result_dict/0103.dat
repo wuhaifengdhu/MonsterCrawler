@@ -14,199 +14,183 @@ aS'sqoop'
 p8
 aS'consulting'
 p9
-aS'tableau'
-p10
-aS'analytics'
-p11
-aS'business intelligence'
-p12
-aS'data warehousing'
-p13
-aS'analysis'
-p14
-aS'data mining'
-p15
-aS'accounting'
-p16
-aS'research'
-p17
-aS'econometrics'
-p18
-aS'performance management'
-p19
-aS'visualization'
-p20
-aS'management'
-p21
-aS'big data'
-p22
-aS'power bi'
-p23
-aS'predictive modeling'
-p24
-aS'recruiting'
-p25
-aS'hadoop'
-p26
-aS'writing'
-p27
-aS'optimization'
-p28
-aS'fraud detection'
-p29
-aS'matlab'
-p30
-aS'intelligence'
-p31
-aS'policy'
-p32
-aS'mathematics'
-p33
 aS'management consulting'
-p34
-aS'simulation'
-p35
-aS'text mining'
-p36
-aS'customer satisfaction'
-p37
-aS'business analysis'
-p38
-aS'government'
-p39
-aS'informatica'
-p40
-aS'search'
-p41
-aS'presentation skills'
-p42
-aS'advanced analytics'
-p43
-aS'leadership'
-p44
-aS'project management'
-p45
-aS'sql'
-p46
-aS'modeling'
-p47
-aS'data'
-p48
-aS'information technology'
-p49
-aS'training'
-p50
-aS'fraud'
-p51
-aS'data visualization'
-p52
-aS'science'
-p53
-aS'economics'
-p54
-aS'education'
-p55
-aS'thought leadership'
-p56
-aS'security clearance'
-p57
-aS'spss'
-p58
-aS'r'
-aS'security'
-p59
-aS'retail'
-p60
-asS'working-year'
-p61
-(lp62
-V(2, 5]
-p63
-asS'major'
-p64
-(lp65
-S'information'
-p66
-aS'management'
-p67
-aS'economics'
-p68
-aS'business analysis'
-p69
-aS'big data'
-p70
-aS'mathematics'
-p71
-aS'science'
-p72
-aS'data science'
-p73
-aS'data mining'
-p74
-aS'statistic'
-p75
-aS'business'
-p76
+p10
+aS'tableau'
+p11
 aS'analytics'
-p77
-aS'communication'
-p78
-aS'information system'
-p79
-aS'design'
-p80
-aS'project management'
-p81
-aS'applied math'
-p82
-aS'advanced analytics'
-p83
-aS'accounting'
-p84
-aS'econometrics'
-p85
-aS'information technology'
-p86
-asS'education'
-p87
-(lp88
-VBachelor
-p89
-aVMaster
-p90
-asS'responsibility'
-p91
-(lp92
-S'development'
-p93
-aS'large data set'
-p94
-aS'mine data'
-p95
-aS'information'
-p96
-aS'pattern'
-p97
-aS'discover pattern'
-p98
-aS'communicate'
-p99
+p12
+aS'business intelligence'
+p13
+aS'data warehousing'
+p14
 aS'analysis'
-p100
-aS'simulation'
-p101
-aS'analytic'
-p102
-aS'optimization'
-p103
-aS'design'
-p104
+p15
 aS'data mining'
-p105
+p16
+aS'sas'
+p17
+aS'accounting'
+p18
+aS'research'
+p19
+aS'econometrics'
+p20
+aS'performance management'
+p21
+aS'visualization'
+p22
+aS'management'
+p23
+aS'big data'
+p24
+aS'power bi'
+p25
+aS'predictive modeling'
+p26
+aS'recruiting'
+p27
+aS'hadoop'
+p28
+aS'writing'
+p29
+aS'r'
+aS'fraud detection'
+p30
+aS'matlab'
+p31
+aS'intelligence'
+p32
+aS'policy'
+p33
+aS'mathematics'
+p34
+aS'optimization'
+p35
+aS'pl'
+p36
+aS'simulation'
+p37
+aS'text mining'
+p38
+aS'customer satisfaction'
+p39
+aS'business analysis'
+p40
+aS'government'
+p41
+aS'python'
+p42
+aS'informatica'
+p43
+aS'data scientist'
+p44
+aS'search'
+p45
+aS'presentation skills'
+p46
+aS'advanced analytics'
+p47
+aS'leadership'
+p48
+aS'project management'
+p49
+aS'sql'
+p50
 aS'modeling'
-p106
+p51
+aS'pig'
+p52
+aS'data'
+p53
+aS'information technology'
+p54
+aS'training'
+p55
+aS'fraud'
+p56
+aS'data visualization'
+p57
+aS'science'
+p58
+aS'economics'
+p59
+aS'education'
+p60
+aS'thought leadership'
+p61
+aS'security clearance'
+p62
+aS'spss'
+p63
+aS'materials'
+p64
+aS'oracle'
+p65
+aS'security'
+p66
+aS'retail'
+p67
+asS'working-year'
+p68
+(lp69
+V(2, 5]
+p70
+asS'major'
+p71
+(lp72
+VBusiness
+p73
+aVData Science
+p74
+aVEconomics
+p75
+aVInformation Science
+p76
+aVComputer Science
+p77
+aVMathematics
+p78
+aVManagement Science and Engineering
+p79
+asS'education'
+p80
+(lp81
+VBachelor
+p82
+aVMaster
+p83
+asS'responsibility'
+p84
+(lp85
+S'development'
+p86
+aS'information'
+p87
+aS'large data set'
+p88
+aS'pattern'
+p89
+aS'discover pattern'
+p90
+aS'communicate'
+p91
+aS'analysis'
+p92
+aS'simulation'
+p93
+aS'analytic'
+p94
+aS'optimization'
+p95
+aS'design'
+p96
+aS'data mining'
+p97
+aS'modeling'
+p98
 aS'model'
-p107
+p99
 aS'presentation'
-p108
+p100
 as.

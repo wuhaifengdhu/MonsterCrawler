@@ -4,273 +4,273 @@ p2
 (dp3
 S'cognos'
 p4
-I1
+F0.0099630090588507733
 sS'oncology'
 p5
-I1
+F0.01144092485164803
 sS'communication'
 p6
-I1
+F0.0067512552627328635
 sS'data science'
 p7
-I1
-sS'hadoop'
+F0.0025646928052464801
+sS'sales'
 p8
-I1
-sS'analytics'
+F0.0070887094673582176
+sS'hadoop'
 p9
-I1
-sS'engineering'
-p10
-I1
-sS'hive'
-p11
-I1
-sS'data mining'
-p12
-I1
-sS'sap'
-p13
-I1
-sS'regression'
-p14
-I1
-sS'clustering'
-p15
-I1
-sS'visualization'
-p16
-I1
-sS'technical leadership'
-p17
-I1
-sS'management'
-p18
-I1
-sS'java'
-p19
-I1
-sS'r programming'
-p20
-I1
-sS'tableau'
-p21
-I1
-sS'computer science'
-p22
-I1
-sS'reliability engineering'
-p23
-I1
-sS'innovation'
-p24
-I1
-sS'military'
-p25
-I1
-sS'jmp'
-p26
-I1
-sS'data management'
-p27
-I1
-sS'matlab'
-p28
-I1
-sS'product development'
-p29
-I1
-sS'python'
-p30
-I1
-sS'marketing'
-p31
-I1
-sS'collaboration'
-p32
-I1
-sS'data scientist'
-p33
-I1
-sS'c++'
-p34
-I1
-sS'data structures'
-p35
-I1
-sS'leadership'
-p36
-I1
-sS'sql'
-p37
-I1
-sS'computational mathematics'
-p38
-I1
-sS'spark'
-p39
-I1
-sS'data'
-p40
-I1
-sS'software development'
-p41
-I1
-sS'emerging markets'
-p42
-I1
-sS'c'
-I1
-sS'decision trees'
-p43
-I1
-sS'dna sequencing'
-p44
-I1
-sS'science'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'aws'
-p47
-I1
-sS'programming'
-p48
-I1
-sS'mapreduce'
-p49
-I1
-sS'analysis'
-p50
-I1
-sS'simulation'
-p51
-I1
-sS'r'
-I1
-sS'english'
-p52
-I1
-sS'organization'
-p53
-I1
-sS'education'
-p54
-I1
-ssS'working-year'
-p55
-(dp56
-V(5, 10]
-p57
-I1
-sV(0, 2]
-p58
-I1
-sV(2, 5]
-p59
-I1
-ssS'major'
-p60
-(dp61
-S'management'
-p62
-I1
-sS'business'
-p63
-I1
-sS'english'
-p64
-I1
-sS'marketing'
-p65
-I1
-sS'data science'
-p66
-I1
-sS'statistic'
-p67
-I1
-sS'communication'
-p68
-I1
-sS'mba'
-p69
-I1
-sS'computer science statistics'
-p70
-I1
+F0.0027394594912570681
 sS'analytics'
-p71
-I1
+p10
+F0.0037089017568593887
 sS'engineering'
-p72
-I1
-sS'design'
-p73
-I1
-sS'computer science'
-p74
-I1
-sS'data mining'
-p75
-I1
-sS'computational mathematics'
-p76
-I1
-sS'machine learning'
-p77
-I1
-sS'science'
-p78
-I1
-ssS'education'
-p79
-(dp80
-VMaster
-p81
-I1
-sVDoctor
-p82
-I1
-ssS'responsibility'
-p83
-(dp84
-S'development'
-p85
-I1
-sS'large data set'
-p86
-I1
-sS'product'
-p87
-I1
-sS'communicate'
-p88
-I1
+p11
+F0.0052232613094825358
 sS'analysis'
-p89
-I1
-sS'simulation'
-p90
-I1
-sS'statistical method'
-p91
-I1
-sS'design'
-p92
-I1
+p12
+F0.00073053032356957344
 sS'data mining'
-p93
-I1
+p13
+F0.0045244761805589284
+sS'sas'
+p14
+F0.0029535967093335109
+sS'sap'
+p15
+F0.0085610659675455399
+sS'regression'
+p16
+F0.0050664558436712163
+sS'product development'
+p17
+F0.0055724442404727296
+sS'clustering'
+p18
+F0.0068729478903117487
+sS'visualization'
+p19
+F0.0079927303707205515
+sS'technical leadership'
+p20
+F0.0095921102718385925
+sS'statistics'
+p21
+F0.0019883003300695192
+sS'java'
+p22
+F0.0026423602722138238
+sS'education'
+p23
+F0.0044746839015208295
+sS'tableau'
+p24
+F0.004283637712417466
+sS'computer science'
+p25
+F0.0029978321176699799
+sS'reliability engineering'
+p26
+F0.013870415480718446
+sS'innovation'
+p27
+F0.0041275579363213724
+sS'mathematics'
+p28
+F0.0038974270406733598
+sS'military'
+p29
+F0.0079587602815177176
+sS'jmp'
+p30
+F0.0088823876663823385
+sS'data management'
+p31
+F0.005863364828591195
+sS'matlab'
+p32
+F0.0027215377135139975
+sS'finance'
+p33
+F0.0056612922264044525
+sS'python'
+p34
+F0.0011114104749536588
+sS'marketing'
+p35
+F0.0040622910927026624
+sS'collaboration'
+p36
+F0.0054534529212653601
+sS'processing'
+p37
+F0.0034820641506838378
+sS'data scientist'
+p38
+F0.0022587881986436634
+sS'data structures'
+p39
+F0.0095216188254346398
+sS'leadership'
+p40
+F0.0035232593202640127
+sS'sql'
+p41
+F0.0014540380785352815
+sS'computational mathematics'
+p42
+F0.013619279342752883
+sS'spark'
+p43
+F0.0035951719047242186
+sS'data'
+p44
+F0.0022759347353310368
+sS'software development'
+p45
+F0.0045206750918406662
+sS'emerging markets'
+p46
+F0.012918845627090966
+sS'c'
+F0.0026665712663072436
+sS'decision trees'
+p47
+F0.0088952708667703814
+sS'dna sequencing'
+p48
+F0.011864059387785925
+sS'science'
+p49
+F0.002998012316392718
+sS'machine learning'
+p50
+F0.0013976923706482715
+sS'aws'
+p51
+F0.0055724442404727296
+sS'programming'
+p52
+F0.0023503523130807588
+sS'mapreduce'
+p53
+F0.0056219648549166749
+sS'hive'
+p54
+F0.0044472372057356218
+sS'simulation'
+p55
+F0.0057245965622054829
+sS'r'
+F0.0023667049322556124
+sS'english'
+p56
+F0.0072024495766599313
+sS'organization'
+p57
+F0.0037594538150995333
+ssS'working-year'
+p58
+(dp59
+V(5, 10]
+p60
+F0.0025706700673280569
+sV(0, 2]
+p61
+F0.0048562476846271928
+sV(2, 5]
+p62
+F0.0026416725552902676
+ssS'major'
+p63
+(dp64
+VStatistics
+p65
+F0.0038411615562645631
+sVBusiness
+p66
+F0.0023064271794757231
+sVData Science
+p67
+F0.0021903816260235875
+sVEconomics
+p68
+F0.0034984467964274219
+sVEngineering
+p69
+F0.0052232613094825358
+sVComputer Science
+p70
+F0.0019303960476592702
+sVMathematics
+p71
+F0.0036551653082781488
+sVManagement Science and Engineering
+p72
+F0.002749561915711924
+ssS'education'
+p73
+(dp74
+VMaster
+p75
+F0.0015507050857658355
+sVDoctor
+p76
+F0.0023223491935532368
+ssS'responsibility'
+p77
+(dp78
+S'development'
+p79
+F0.0025820064017358607
+sS'information'
+p80
+F0.0029575803827918859
+sS'product'
+p81
+F0.0028677886795687559
+sS'develop ... system'
+p82
+F0.0099844381470788213
+sS'large data set'
+p83
+F0.0067045994356777529
+sS'processing'
+p84
+F0.0034820641506838378
+sS'communicate'
+p85
+F0.0042777033737347375
+sS'drive ... decision'
+p86
+F0.0086057201252219915
+sS'analysis'
+p87
+F0.00073053032356957344
+sS'simulation'
+p88
+F0.0057245965622054829
+sS'statistical method'
+p89
+F0.0074963548593848855
+sS'design'
+p90
+F0.006227798763405022
+sS'data mining'
+p91
+F0.0045244761805589284
 sS'implement'
-p94
-I1
+p92
+F0.0045156997337305067
+sS'develop ... model'
+p93
+F0.0066096226592241743
 sS'evaluation'
-p95
-I1
+p94
+F0.0072141645710590129
 sS'model'
+p95
+F0.0098981503746373607
+sS'decision making'
 p96
-I1
+F0.0069649958420671928
 ss.

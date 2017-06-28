@@ -4,164 +4,172 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0043493663711836718
 sS'mapreduce'
 p5
-I1
+F0.0072436854861426397
 sS'analytics'
 p6
-I1
+F0.0071681658954686261
 sS'unix'
 p7
-I1
+F0.0070936505186402479
 sS'analysis'
 p8
-I1
+F0.00094126022459925811
 sS'problem solving'
 p9
-I1
+F0.0067434391894320095
 sS'data mining'
 p10
-I1
+F0.0058296135403355437
 sVpanda
 p11
-I1
-sS'networking'
+F0.012095129145864183
+sS'statistics'
 p12
-I1
-sS'hadoop'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'data scientist'
-p15
-I1
-sS'leadership'
-p16
-I1
-sS'organization'
-p17
-I1
+F0.002561848502204958
 sS'open source'
-p18
-I1
-sS'data'
-p19
-I1
-sS'customer experience'
-p20
-I1
-sS'search'
-p21
-I1
-sS'word'
-p22
-I1
-sS'open source software'
-p23
-I1
-sS'thought leadership'
-p24
-I1
-sS'hive'
-p25
-I1
-sS'scripting'
-p26
-I1
-sS'internet things'
-p27
-I1
-sS'security'
-p28
-I1
-sS'data analytics'
-p29
-I1
-sS'statistical analysis'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(5, 10]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'business'
-p36
-I1
-sS'communication'
-p37
-I1
-sS'statistic'
-p38
-I1
-sS'analytics'
-p39
-I1
-sS'physics computer science'
-p40
-I1
-sS'data analytics'
-p41
-I1
-sS'data mining'
-p42
-I1
-sVphysic
-p43
-I1
+p13
+F0.0087854937909837769
+sS'hadoop'
+p14
+F0.0035296881906581455
 sS'computer science'
+p15
+F0.0038625913823824745
+sS'government'
+p16
+F0.0071624162517279271
+sS'python'
+p17
+F0.0014320096504210605
+sS'data scientist'
+p18
+F0.0029103617174831824
+sS'leadership'
+p19
+F0.0045395841241863246
+sS'sql'
+p20
+F0.0018734721396512285
+sS'networking'
+p21
+F0.0099790979193428216
+sS'internet things'
+p22
+F0.013701537004463981
+sS'data'
+p23
+F0.0016291413169570454
+sS'customer experience'
+p24
+F0.010524990113973202
+sS'search'
+p25
+F0.0085219499385982642
+sS'word'
+p26
+F0.0076611776392805407
+sS'open source software'
+p27
+F0.016054471924010293
+sS'science'
+p28
+F0.0019314117807530012
+sS'thought leadership'
+p29
+F0.01126834862508001
+sS'hive'
+p30
+F0.0057300940920055133
+sS'r'
+F0.001524704139049289
+sS'scripting'
+p31
+F0.0066842977402380866
+sS'organization'
+p32
+F0.0048439116463782454
+sS'security'
+p33
+F0.0060037110321972311
+sS'physics'
+p34
+F0.0066842977402380866
+sS'data analytics'
+p35
+F0.0056107765974884542
+sS'statistical analysis'
+p36
+F0.0070733520698148577
+ssS'working-year'
+p37
+(dp38
+V(5, 10]
+p39
+F0.0033122095098265356
+ssS'major'
+p40
+(dp41
+VData Science
+p42
+F0.0028222224796842382
+sVStatistics
+p43
+F0.0049491889282639572
+sVPhysics
 p44
-I1
-ssS'education'
+F0.0072080552230771719
+sVComputer Science
 p45
-(dp46
-VBachelor
+F0.002487241061407137
+sVBusiness
+p46
+F0.0029717427120167974
+ssS'education'
 p47
-I1
-sVMaster
-p48
-I1
-ssS'responsibility'
+(dp48
+VBachelor
 p49
-(dp50
-S'data mining'
+F0.0025037879881041397
+sVMaster
+p50
+F0.0019980238605059805
+sVDoctor
 p51
-I1
-sS'large data set'
+F0.0029922576147705169
+ssS'responsibility'
 p52
-I1
-sS'mine data'
-p53
-I1
-sS'business problem'
+(dp53
+S'data mining'
 p54
-I1
-sS'pattern'
+F0.0058296135403355437
+sS'large data set'
 p55
-I1
-sVinsight
-p56
-I1
-sS'recommendation'
-p57
-I1
+F0.0086386185036617207
 sS'product'
+p56
+F0.0073900708281194874
+sS'business problem'
+p57
+F0.0078245894564028702
+sS'pattern'
 p58
-I1
-sS'analysis'
+F0.0071939315263025994
+sS'insight'
 p59
-I1
-sS'identify trend'
+F0.020163663252851485
+sS'analysis'
 p60
-I1
-sS'implement'
+F0.00094126022459925811
+sS'recommendation'
 p61
-I1
+F0.0071763784198304158
+sS'identify ... trend'
+p62
+F0.011797305254671608
+sS'implement'
+p63
+F0.0058183054261527686
 ss.

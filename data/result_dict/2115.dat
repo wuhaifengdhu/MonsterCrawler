@@ -20,121 +20,119 @@ aS'cassandra'
 p11
 aS'hdfs'
 p12
-aS'management'
+aS'statistics'
 p13
-aS'big data'
+aS'java'
 p14
-aS'programming languages'
+aS'big data'
 p15
-aS'deep learning'
+aS'programming languages'
 p16
-aS'education'
+aS'deep learning'
 p17
-aS'hadoop'
+aS'education'
 p18
-aS'research'
+aS'hadoop'
 p19
-aS'system architecture'
+aS'research'
 p20
-aS'computer science'
+aS'system architecture'
 p21
-aS'innovation'
+aS'computer science'
 p22
-aS'pca'
+aS'innovation'
 p23
-aS'matlab'
+aS'pca'
 p24
-aS'data analysis'
+aS'matlab'
 p25
-aS'theory'
+aS'data analysis'
 p26
-aS'python'
+aS'theory'
 p27
-aS'aws'
+aS'python'
 p28
-aS'data scientist'
+aS'aws'
 p29
-aS'cart'
+aS'data scientist'
 p30
-aS'sql'
+aS'cart'
 p31
-aS'regression'
+aS'management'
 p32
-aS'spark'
+aS'sql'
 p33
-aS'data'
+aS'regression'
 p34
-aS'svm'
+aS'spark'
 p35
-aS'science'
+aS'data'
 p36
-aS'scala'
+aS'svm'
 p37
-aS'programming'
+aS'science'
 p38
-aS'mapreduce'
+aS'scala'
 p39
-aS'analysis'
+aS'programming'
 p40
-aS'machine learning'
+aS'mapreduce'
 p41
-aS'exploratory data analysis'
+aS'analysis'
 p42
+aS'machine learning'
+p43
+aS'exploratory data analysis'
+p44
 aS'r'
 aS'architecture'
-p43
-aS'logistic regression'
-p44
-aS'statistical inference'
 p45
-asS'working-year'
+aS'logistic regression'
 p46
-(lp47
-V(2, 5]
+aS'databases'
+p47
+aS'statistical inference'
 p48
-asS'major'
+aS'validation'
 p49
-(lp50
-S'management'
-p51
-aS'business'
+asS'working-year'
+p50
+(lp51
+V(2, 5]
 p52
-aS'big data'
+asS'major'
 p53
-aS'science'
-p54
-aS'data science'
+(lp54
+VStatistics
 p55
-aS'communication'
+aVBusiness
 p56
-aS'computer science statistics'
+aVData Science
 p57
-aS'machine learning'
+aVEngineering
 p58
-aS'engineering'
+aVComputer Science
 p59
-aS'computer science'
+aVManagement Science and Engineering
 p60
-aS'statistic'
-p61
-aS'phd'
-p62
 asS'education'
-p63
-(lp64
+p61
+(lp62
 VMaster
-p65
+p63
 aVDoctor
-p66
+p64
 asS'responsibility'
-p67
-(lp68
+p65
+(lp66
 S'model'
-p69
+p67
 aS'data analysis'
-p70
+p68
 aS'understand'
-p71
+p69
 aS'analysis'
-p72
+p70
+aS'decision making'
+p71
 as.

@@ -2,135 +2,125 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'biostatistics'
 p4
-aS'biostatistics'
-p5
 aS'testing'
-p6
+p5
 aS'causal inference'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'engineering'
-p9
+p8
 aS'high performance computing'
-p10
+p9
 aS'problem solving'
+p10
+aS'statistics'
 p11
-aS'management'
-p12
 aS'big data'
+p12
+aS'management'
 p13
 aS'hadoop'
 p14
 aS'data analysis'
 p15
-aS'python'
+aS'product development'
 p16
-aS'marketing'
+aS'python'
 p17
-aS'data scientist'
+aS'marketing'
 p18
-aS'hive'
+aS'data scientist'
 p19
-aS'product management'
+aS'hive'
 p20
-aS'leadership'
+aS'oracle'
 p21
-aS'statistical inference'
+aS'leadership'
 p22
-aS'modeling'
+aS'statistical inference'
 p23
-aS'data'
+aS'modeling'
 p24
-aS'marketing analytics'
+aS'data'
 p25
-aS'thought leadership'
+aS'marketing analytics'
 p26
-aS'analysis'
+aS'thought leadership'
 p27
+aS'analysis'
+p28
 aS'r'
 aS'advertising'
-p28
-aS'sql'
 p29
-aS'oracle'
+aS'sql'
 p30
-aS'organization'
+aS'product management'
 p31
-aS'statistical analysis'
+aS'organization'
 p32
-asS'working-year'
+aS'statistical analysis'
 p33
-(lp34
+asS'working-year'
+p34
+(lp35
 V(5, 10]
-p35
-aV(0, 2]
 p36
-aV(2, 5]
+aV(0, 2]
 p37
-asS'major'
+aV(2, 5]
 p38
-(lp39
-S'management'
-p40
-aS'big data'
+asS'major'
+p39
+(lp40
+VStatistics
 p41
-aS'biostatistics'
+aVBusiness
 p42
-aS'computing'
+aVData Science
 p43
-aS'marketing'
+aVEconomics
 p44
-aS'marketing analytics'
+aVEngineering
 p45
-aS'high performance computing'
+aVComputer Science
 p46
-aS'phd'
+aVBiological Engineering
 p47
-aS'business'
+aVManagement Science and Engineering
 p48
-aS'analytics'
-p49
-aS'engineering'
-p50
-aS'design'
-p51
-aS'statistic'
-p52
 asS'education'
-p53
-(lp54
+p49
+(lp50
 VBachelor
-p55
+p51
+aVMaster
+p52
 aVDoctor
-p56
+p53
 asS'responsibility'
-p57
-(lp58
+p54
+(lp55
 S'development'
-p59
+p56
 aS'product'
-p60
+p57
 aS'data analysis'
-p61
+p58
 aS'predict'
-p62
-aVinsight
-p63
+p59
+aS'insight'
+p60
 aS'analysis'
-p64
+p61
 aS'improvement'
-p65
+p62
 aS'cross-functionally'
-p66
-aS'statistical method'
-p67
-aS'design'
-p68
-aS'modeling'
-p69
+p63
 aS'understand'
-p70
+p64
+aS'modeling'
+p65
 as.

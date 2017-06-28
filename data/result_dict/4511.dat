@@ -39,6 +39,7 @@ aS'data'
 p20
 aS'statistical programming'
 p21
+aS'a'
 aS'search'
 p22
 aS'b testing'
@@ -55,54 +56,52 @@ aS'machine learning'
 p28
 aS'optimization'
 p29
-aS'advertising'
+aS'algorithms'
 p30
-aS'etl'
+aS'advertising'
 p31
-asS'working-year'
+aS'organization'
 p32
-(lp33
-V(5, 10]
+aS'etl'
+p33
+asS'working-year'
 p34
+(lp35
+V(5, 10]
+p36
 asS'major'
-p35
-(lp36
-S'big data'
 p37
-aS'marketing'
-p38
-aS'data science'
+(lp38
+VEngineering
 p39
-aS'marketing analytics'
+aVData Science
 p40
-aS'machine learning'
+aVEconomics
 p41
-aS'analytics'
+aVComputer Science
 p42
-aS'engineering'
-p43
-aS'science'
-p44
 asS'education'
-p45
-(lp46
+p43
+(lp44
 S'Bachelor'
-p47
+p45
 asS'responsibility'
-p48
-(lp49
+p46
+(lp47
 S'analysis'
-p50
+p48
+aS'develop ... model'
+p49
 aS'optimization'
-p51
+p50
 aS'recommendation'
-p52
+p51
 aS'modeling'
-p53
+p52
 aS'model'
-p54
+p53
 aS'prototype'
-p55
+p54
 aS'extract'
-p56
+p55
 as.

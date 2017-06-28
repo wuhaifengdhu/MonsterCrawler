@@ -16,29 +16,29 @@ aS'analytics'
 p9
 aS'defense'
 p10
-aS'security clearance'
+aS'analysis'
 p11
 aS'linux'
 p12
-aS'analysis'
-p13
 aS'image processing'
-p14
+p13
 aS'java'
-p15
+p14
 aS'deep learning'
-p16
+p15
 aS'recruiting'
-p17
+p16
 aS'integration'
-p18
+p17
 aS'research'
-p19
+p18
 aS'access'
-p20
+p19
 aS'computer vision'
-p21
+p20
 aS'matlab'
+p21
+aS'innovation'
 p22
 aS'mathematics'
 p23
@@ -61,75 +61,69 @@ aS'training'
 p31
 aS'science'
 p32
-aS'c++'
+aS'.net'
 p33
-aS'machine learning'
+aS'security clearance'
 p34
+aS'machine learning'
+p35
 aS'r'
 aS'theano'
-p35
-aS'security'
 p36
-aS'ubuntu'
+aS'security'
 p37
-asS'working-year'
+aS'physics'
 p38
-(lp39
-V(15, 20]
+aS'ubuntu'
+p39
+asS'working-year'
 p40
-aV(2, 5]
-p41
-asS'major'
+(lp41
+V(15, 20]
 p42
-(lp43
-S'information'
+aV(2, 5]
+p43
+asS'major'
 p44
-aS'mathematics physics'
-p45
-aS'business'
+(lp45
+VMathematics
 p46
-aS'science'
+aVData Science
 p47
-aS'data science'
+aVPhysics
 p48
-aS'machine learning'
+aVComputer Science
 p49
-aS'analytics'
+aVBusiness
 p50
-aS'design'
-p51
-aS'mathematics'
-p52
-aS'ee cs'
-p53
-aVphysic
-p54
 asS'education'
+p51
+(lp52
+VBachelor
+p53
+aVMaster
+p54
+asS'responsibility'
 p55
 (lp56
-S'Bachelor'
-p57
-asS'responsibility'
-p58
-(lp59
 S'development'
-p60
+p57
 aS'information'
-p61
+p58
 aS'product'
-p62
+p59
 aS'processing'
-p63
+p60
 aS'mapping'
-p64
+p61
 aS'analysis'
-p65
+p62
 aS'analytic'
-p66
+p63
 aS'design'
-p67
+p64
 aS'model'
-p68
+p65
 aS'prototype'
-p69
+p66
 as.

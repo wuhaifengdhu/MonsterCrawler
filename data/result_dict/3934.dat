@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'fda'
+S'a'
+aS'fda'
 p4
 aS'data analysis'
 p5
@@ -30,64 +31,54 @@ aS'computer science'
 p16
 aS'data processing'
 p17
-aS'oracle'
+aS'sql'
 p18
-aS'spark'
+aS'oracle'
 p19
-aS'linear regression'
+aS'spark'
 p20
-aS'data'
+aS'linear regression'
 p21
-aS'energy'
+aS'data'
 p22
-asS'working-year'
+aS'energy'
 p23
-(lp24
-V[0]
-p25
-asS'major'
+asS'working-year'
+p24
+(lp25
+S'[0]'
 p26
-(lp27
-S'engineering science'
-p28
-aS'information'
+asS'major'
+p27
+(lp28
+VEngineering
 p29
-aS'science'
+aVData Science
 p30
-aS'data science'
+aVElectrical and Electronics Engineering
 p31
-aS'phd'
+aVComputer Science
 p32
-aS'engineering'
-p33
-aS'computer science engineering'
-p34
-aS'computer science'
-p35
-aS'statistic'
-p36
-aS'machine learning'
-p37
 asS'education'
-p38
-(lp39
+p33
+(lp34
 VDoctor
-p40
+p35
 asS'responsibility'
-p41
-(lp42
+p36
+(lp37
 S'information'
-p43
+p38
 aS'data analysis'
-p44
+p39
 aS'pattern'
-p45
+p40
 aS'processing'
-p46
+p41
 aS'analysis'
-p47
+p42
 aS'cross-functionally'
-p48
+p43
 aS'transformation'
-p49
+p44
 as.

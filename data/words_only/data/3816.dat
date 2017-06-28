@@ -4,77 +4,94 @@ p2
 (dp3
 S'search'
 p4
-I1
-sS'open source'
+F0.029264054506129882
+sS'statistics'
 p5
-I1
-sS'open source software'
+F0.0087972910830434389
+sS'open source'
 p6
-I1
-sS'mapreduce'
+F0.030169054150170703
+sS'open source software'
 p7
-I1
-sS'analysis'
+F0.055130450757922125
+sS'python'
 p8
-I1
-sS'hadoop'
+F0.0049174671014459055
+sS'data'
 p9
-I1
-sS'unix'
+F0.001118881961079933
+sS'mapreduce'
 p10
-I1
+F0.024874542612791702
 sS'hive'
 p11
-I1
-sS'problem solving'
+F0.019676926881981194
+sS'hadoop'
 p12
-I1
-sS'data'
+F0.012120816050939291
+sS'unix'
 p13
-I1
-sVpanda
+F0.024359328196085377
+sS'r'
+F0.0052357764774900112
+sS'computer science'
 p14
-I1
-sS'scripting'
+F0.013263993048936043
+sS'problem solving'
 p15
-I1
-sS'computer science'
+F0.023156715707106142
+sS'sql'
 p16
-I1
-ssS'working-year'
+F0.0064334326305004437
+sS'analysis'
 p17
-(dp18
-V(2, 5]
+F0.0032322520920200935
+sS'physics'
+p18
+F0.022953626202327011
+sVpanda
 p19
-I1
-ssS'major'
+F0.041534217066929828
+sS'scripting'
 p20
-(dp21
-S'physics computer science'
-p22
-I1
-sS'computer science'
+F0.022953626202327011
+ssS'working-year'
+p21
+(dp22
+V(2, 5]
 p23
-I1
-sVphysic
+F0.011688154985199392
+ssS'major'
 p24
-I1
-sS'statistic'
-p25
-I1
-ssS'education'
+(dp25
+VStatistics
 p26
-(dp27
-VMaster
+F0.016995328017812075
+sVPhysics
+p27
+F0.024752189633963115
+sVComputer Science
 p28
-I1
-ssS'responsibility'
+F0.0085410919467188463
+ssS'education'
 p29
 (dp30
-S'analysis'
+VBachelor
 p31
-I1
-sS'recommendation'
+F0.0085979134685840262
+sVMaster
 p32
-I1
+F0.006861138539850725
+sVDoctor
+p33
+F0.010275299733740265
+ssS'responsibility'
+p34
+(dp35
+S'analysis'
+p36
+F0.0032322520920200935
+sS'recommendation'
+p37
+F0.024643412686964822
 ss.

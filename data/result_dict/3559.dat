@@ -2,87 +2,92 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'analytics'
 p4
-aS'data visualization'
-p5
-aS'python'
-p6
-aS'marketing'
-p7
-aS'data scientist'
-p8
-aS'analysis'
-p9
-aS'machine learning'
-p10
 aS'pricing'
-p11
-aS'analytics'
-p12
-aS'r'
-aS'matlab'
-p13
+p5
 aS'data mining'
-p14
-aS'statistical analysis'
-p15
-aS'modeling'
-p16
-aS'algorithm development'
-p17
+p6
+aS'monetization'
+p7
+aS'visualization'
+p8
 aS'strategy'
-p18
-aS'data'
-p19
+p9
+aS'matlab'
+p10
+aS'algorithm development'
+p11
+aS'numpy'
+p12
 aS'unstructured data'
-p20
-aS'data analytics'
-p21
-aS'architecture'
-p22
-asS'working-year'
-p23
-(lp24
-V[0]
-p25
-asS'major'
-p26
-(lp27
-S'marketing'
-p28
-aS'machine learning'
-p29
-aS'analytics'
-p30
-aS'data mining'
-p31
-aS'data analytics'
-p32
-aS'history'
-p33
-asS'education'
-p34
-(lp35
-VMaster
-p36
-asS'responsibility'
-p37
-(lp38
-S'development'
-p39
-aS'product'
-p40
-aVinsight
-p41
-aVproduct operation
-p42
-aS'analysis'
-p43
-aS'data mining'
-p44
-aS'report'
-p45
+p13
+aS'python'
+p14
+aS'marketing'
+p15
+aS'data scientist'
+p16
+aS'scipy'
+p17
+aS'sql'
+p18
 aS'modeling'
+p19
+aS'data'
+p20
+aS'a'
+aS'data visualization'
+p21
+aS'analysis'
+p22
+aS'machine learning'
+p23
+aS'r'
+aS'architecture'
+p24
+aS'data analytics'
+p25
+aS'statistical analysis'
+p26
+asS'working-year'
+p27
+(lp28
+S'[0]'
+p29
+asS'major'
+p30
+(lp31
+VData Science
+p32
+aVEconomics
+p33
+aVComputer Science
+p34
+asS'education'
+p35
+(lp36
+VBachelor
+p37
+aVMaster
+p38
+asS'responsibility'
+p39
+(lp40
+S'development'
+p41
+aS'product'
+p42
+aS'insight'
+p43
+aVproduct operation
+p44
+aS'analysis'
+p45
+aS'data mining'
 p46
+aS'report'
+p47
+aS'modeling'
+p48
 as.

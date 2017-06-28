@@ -4,264 +4,270 @@ p2
 (dp3
 S'clustering'
 p4
-I1
+F0.0069470098287849353
 sS'forecasting'
 p5
-I1
+F0.0063194590642894795
 sS'mentoring'
 p6
-I1
+F0.007414038149739126
 sS'probability'
 p7
-I1
+F0.0075104076253738831
 sS'communication'
 p8
-I1
+F0.003412002929118225
 sS'data science'
 p9
-I1
+F0.0025923295811650844
 sS'testing'
 p10
-I1
+F0.0044124526183189931
 sS'supply chain'
 p11
-I1
-sS'tableau'
+F0.0083516281391076506
+sS'hadoop'
 p12
-I1
+F0.0027689795288783725
 sS'hardware'
 p13
-I1
-sS'leadership'
+F0.0080028363718846231
+sS'analytics'
 p14
-I1
-sS'statistical analysis'
+F0.0018744341853093247
+sS'leadership'
 p15
-I1
-sS'mysql'
+F0.0035612254767323748
+sS'statistical analysis'
 p16
-I1
-sS'modeling'
+F0.0055489227444237236
+sS'mysql'
 p17
-I1
-sVpanda
+F0.0051167196695845298
+sS'sas'
 p18
-I1
-sS'cassandra'
+F0.0089562727802419174
+sS'modeling'
 p19
-I1
-sS'qlikview'
-p20
-I1
-sS'hdfs'
-p21
-I1
-sS'multivariate analysis'
-p22
-I1
-sS'nosql'
-p23
-I1
-sS'big data'
-p24
-I1
-sS'business objects'
-p25
-I1
-sS'predictive modeling'
-p26
-I1
-sS'excel'
-p27
-I1
-sS'hadoop'
-p28
-I1
-sS'strategy'
-p29
-I1
-sS'vertica'
-p30
-I1
-sS'r'
-I1
-sS'oracle sql'
-p31
-I1
-sS'microstrategy'
-p32
-I1
-sS'advanced analytics'
-p33
-I1
-sS'numpy'
-p34
-I1
-sS'data management'
-p35
-I1
-sS'customer support'
-p36
-I1
-sS'customer satisfaction'
-p37
-I1
-sS'factor analysis'
-p38
-I1
-sS'python'
-p39
-I1
-sS'data scientist'
-p40
-I1
-sS'business process'
-p41
-I1
-sS'scipy'
-p42
-I1
-sS'pentaho'
-p43
-I1
-sS'octave'
-p44
-I1
+F0.0017503139849602424
 sS'regression'
-p45
-I1
-sS'java'
-p46
-I1
-sS'pig'
-p47
-I1
-sS'fuzzy logic'
-p48
-I1
-sS'project management'
-p49
-I1
-sS'business insights'
-p50
-I1
-sS'c'
-I1
-sS'decision trees'
-p51
-I1
-sS'sql server'
-p52
-I1
-sS'analysis'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'product design'
-p55
-I1
-sS'optimization'
-p56
-I1
-sS'artificial intelligence'
-p57
-I1
-sS'oracle'
-p58
-I1
-sS'organization'
-p59
-I1
-sS'obiee'
-p60
-I1
-sS'predictive analytics'
-p61
-I1
-ssS'working-year'
-p62
-(dp63
-V(5, 10]
-p64
-I1
-ssS'major'
-p65
-(dp66
-S'business'
-p67
-I1
+p20
+F0.010242102546042244
+sS'cassandra'
+p21
+F0.0081129450917255957
+sS'qlikview'
+p22
+F0.0086870814118578232
+sS'hdfs'
+p23
+F0.0085981973369779058
+sS'multivariate analysis'
+p24
+F0.0097691610093599227
+sS'nosql'
+p25
+F0.0058983768626433668
 sS'big data'
-p68
-I1
-sS'communication'
-p69
-I1
-sS'data science'
-p70
-I1
-sS'machine learning'
-p71
-I1
+p26
+F0.0027429420826781629
+sS'business objects'
+p27
+F0.0092695946088665569
+sS'predictive modeling'
+p28
+F0.0044806161825193319
+sS'excel'
+p29
+F0.0034848151439785895
+sS'tableau'
+p30
+F0.0043297976015598955
+sS'strategy'
+p31
+F0.0033944211879888683
+sS'vertica'
+p32
+F0.011066127693175708
+sS'r'
+F0.0023922082181635396
+sS'oracle sql'
+p33
+F0.0076044147673121005
+sS'microstrategy'
+p34
+F0.0098454574601211323
 sS'advanced analytics'
-p72
-I1
-sS'design'
-p73
-I1
+p35
+F0.0063422641257286283
+sS'numpy'
+p36
+F0.0077316385799730365
+sS'pandas'
+p37
+F0.0088643156707579329
+sS'data management'
+p38
+F0.0059265476392441176
+sS'customer support'
+p39
+F0.010933460626149756
+sS'customer satisfaction'
+p40
+F0.0097505015928325348
+sS'factor analysis'
+p41
+F0.010605841705727304
+sS'product development'
+p42
+F0.0056324921309950648
+sS'python'
+p43
+F0.0011233868809337629
+sS'data scientist'
+p44
+F0.0022831285887152547
+sS'business process'
+p45
+F0.0065846614860339573
+sS'scipy'
+p46
+F0.0087098872790625816
+sS'pentaho'
+p47
+F0.01120750034099097
+sS'octave'
+p48
+F0.0089781030507183543
+sS'java'
+p49
+F0.0026708339820437142
+sS'pig'
+p50
+F0.0058160089980945932
+sS'data'
+p51
+F0.00076681996470564389
+sS'fuzzy logic'
+p52
+F0.012526032705819624
 sS'project management'
-p74
-I1
-sS'analytics data science'
-p75
-I1
+p53
+F0.0040979597485442804
+sS'c'
+F0.0026953058704700375
+sS'decision trees'
+p54
+F0.0089911250786967861
+sS'sql server'
+p55
+F0.0060298027355142709
+sS'science'
+p56
+F0.0015151592417976128
+sS'analysis'
+p57
+F0.0014768048351471118
+sS'machine learning'
+p58
+F0.0014127537108492227
+sS'product design'
+p59
+F0.0099245544276913341
+sS'optimization'
+p60
+F0.0086207278335713022
 sS'artificial intelligence'
-p76
-I1
+p61
+F0.0059646908622300971
+sS'databases'
+p62
+F0.0049622805459672206
+sS'oracle'
+p63
+F0.022629495677252774
+sS'organization'
+p64
+F0.011399895512597076
+sS'obiee'
+p65
+F0.01333355967713344
+sS'pl'
+p66
+F0.0080277513330519294
 sS'predictive analytics'
-p77
-I1
+p67
+F0.0049622805459672206
+ssS'working-year'
+p68
+(dp69
+V(5, 10]
+p70
+F0.0025983712533984024
+ssS'major'
+p71
+(dp72
+VData Science
+p73
+F0.0022139848763040142
+sVComputer Science
+p74
+F0.0019511977292073226
+sVBusiness
+p75
+F0.0023312809206338667
+sVManagement Science and Engineering
+p76
+F0.0027791908156657164
 ssS'education'
-p78
-(dp79
-S'Bachelor'
+p77
+(dp78
+VBachelor
+p79
+F0.0019641785079092819
+sVMaster
 p80
-I1
+F0.0015674152698796915
 ssS'responsibility'
 p81
 (dp82
 S'development'
 p83
-I1
+F0.0052196594931643043
 sS'large data set'
 p84
-I1
+F0.0067768472744242809
 sS'forecasting'
 p85
-I1
+F0.0063194590642894795
 sS'predict'
 p86
-I1
-sVinsight
+F0.0089911250786967861
+sS'insight'
 p87
-I1
+F0.011863534629371671
 sS'product'
 p88
-I1
+F0.0057973831496454598
 sS'analysis'
 p89
-I1
-sS'optimization'
+F0.0014768048351471118
+sS'develop ... model'
 p90
-I1
-sS'design'
+F0.0066808470413278831
+sS'optimization'
 p91
-I1
-sS'modeling'
+F0.0086207278335713022
+sS'design'
 p92
-I1
-sS'model'
+F0.0031474543319363743
+sS'modeling'
 p93
-I1
+F0.0017503139849602424
+sS'model'
+p94
+F0.0066698743185415552
+sS'forecast'
+p95
+F0.0097879833940459991
 ss.

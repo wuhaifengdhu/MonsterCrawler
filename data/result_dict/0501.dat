@@ -2,24 +2,26 @@
 S'skills'
 p2
 (lp3
-S'nlp'
+S'a'
+aS'nlp'
 p4
 aS'training'
 p5
-aS'java'
+aS'statistics'
 p6
-aS'finance'
+aS'java'
 p7
-aS'probability'
+aS'finance'
 p8
-aS'team building'
+aS'probability'
 p9
-aS'processing'
+aS'team building'
 p10
-aS'programming'
+aS'processing'
 p11
-aS'c++'
+aS'programming'
 p12
+aS'c'
 aS'machine learning'
 p13
 aS'python'
@@ -40,36 +42,28 @@ p21
 asS'major'
 p22
 (lp23
-S'finance'
+VEconomics
 p24
-aS'statistic'
+aVStatistics
 p25
-aS'phd'
+aVComputer Science
 p26
-aS'design'
-p27
-aS'natural language processing'
-p28
-aS'probability statistics'
-p29
-aS'machine learning'
-p30
 asS'education'
-p31
-(lp32
+p27
+(lp28
 VDoctor
-p33
+p29
 asS'responsibility'
-p34
-(lp35
-S'model'
-p36
+p30
+(lp31
+S'design ... experiment'
+p32
+aS'model'
+p33
 aS'processing'
-p37
+p34
 aS'design'
-p38
+p35
 aS'solve problem'
-p39
-aS'design experiment'
-p40
+p36
 as.

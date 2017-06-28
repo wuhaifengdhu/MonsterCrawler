@@ -4,211 +4,193 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.024179018401977614
 sS'text analytics'
 p5
-I1
-sS'testing'
+F0.016375018041707753
+sS'energy'
 p6
-I1
-sS'information retrieval'
+F0.011821821095977333
+sS'testing'
 p7
-I1
-sS'engineering'
-p8
-I1
-sS'analysis'
-p9
-I1
-sS'data mining'
-p10
-I1
-sS'regression'
-p11
-I1
-sS'clustering'
-p12
-I1
-sS'java'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'anomaly detection'
-p15
-I1
-sS'hadoop'
-p16
-I1
-sS'natural language processing'
-p17
-I1
-sS'mathematics'
-p18
-I1
-sS'operations research'
-p19
-I1
-sS'innovation'
-p20
-I1
-sS'text mining'
-p21
-I1
-sS'graphical models'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'search'
-p25
-I1
-sS'statistical modeling'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'spark'
-p28
-I1
-sS'pig'
-p29
-I1
-sS'data'
-p30
-I1
-sS'c'
-I1
-sS'pattern recognition'
-p31
-I1
-sS'scala'
-p32
-I1
-sS'mapreduce'
-p33
-I1
-sS'hive'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'banking'
-p36
-I1
-sS'financial services'
-p37
-I1
-sS'healthcare'
-p38
-I1
-sS'retail'
-p39
-I1
-sS'data analytics'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V[0]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'information'
-p46
-I1
-sS'telecommunication'
-p47
-I1
-sS'big data'
-p48
-I1
-sS'machine learning statistics'
-p49
-I1
-sS'statistic'
-p50
-I1
-sS'machine learning'
-p51
-I1
-sS'engineering'
-p52
-I1
-sS'natural language processing'
-p53
-I1
-sS'data mining'
-p54
-I1
-sS'data analytics'
-p55
-I1
-sS'mathematics'
-p56
-I1
-sS'phd'
-p57
-I1
+F0.0078443602103448768
 sS'information retrieval'
-p58
-I1
-sS'ee cs'
-p59
-I1
-sS'operations research'
-p60
-I1
-ssS'education'
-p61
-(dp62
-VDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'development'
-p66
-I1
-sS'information'
-p67
-I1
-sVinsight
-p68
-I1
-sS'pattern'
-p69
-I1
-sS'processing'
-p70
-I1
+p8
+F0.013446440624456601
+sS'engineering'
+p9
+F0.0093858603607176599
 sS'analysis'
-p71
-I1
-sS'statistical model'
-p72
-I1
+p10
+F0.0013127154090196548
 sS'data mining'
-p73
-I1
+p11
+F0.0081301889987821351
+sS'telecommunications'
+p12
+F0.017334225053924505
+sS'clustering'
+p13
+F0.012350239695617663
+sS'statistics'
+p14
+F0.0035728461869831592
+sS'java'
+p15
+F0.0047481493014110473
+sS'big data'
+p16
+F0.0048763414803167336
+sS'anomaly detection'
+p17
+F0.016839166678864405
+sS'hadoop'
+p18
+F0.0049226302735615509
+sS'regression'
+p19
+F0.0091040911520375491
+sS'natural language processing'
+p20
+F0.0096013721531046075
+sS'mathematics'
+p21
+F0.0070034225366889108
+sS'operations research'
+p22
+F0.011038078603647163
+sS'text mining'
+p23
+F0.012591513139657489
+sS'segmentation'
+p24
+F0.011095982038812416
+sS'graphical models'
+p25
+F0.024069278479094926
+sS'processing'
+p26
+F0.0062570424776655937
+sS'data scientist'
+p27
+F0.0040588952688271193
+sS'statistical modeling'
+p28
+F0.0068634694260168438
 sS'modeling'
-p74
-I1
+p29
+F0.0093350079197879587
+sS'spark'
+p30
+F0.0064602897445044383
+sS'pig'
+p31
+F0.010339571552168166
+sS'data'
+p32
+F0.0022720591546833892
+sS'a'
+F0.0071649114697855424
+sS'search'
+p33
+F0.011885018305171524
+sS'pattern recognition'
+p34
+F0.012235071681539046
+sS'scala'
+p35
+F0.0093508290716422856
+sS'mapreduce'
+p36
+F0.010102304662666362
+sS'hive'
+p37
+F0.0079913955919157335
+sS'machine learning'
+p38
+F0.0025115621526208402
+sS'banking'
+p39
+F0.013158237235855767
+sS'algorithms'
+p40
+F0.0068742209899051868
+sS'financial services'
+p41
+F0.01619912130996257
+sS'healthcare'
+p42
+F0.010334254188927831
+sS'retail'
+p43
+F0.013202917564814259
+sS'data analytics'
+p44
+F0.00782499111680382
+ssS'working-year'
+p45
+(dp46
+S'[0]'
+p47
+F0.0084146158258405455
+ssS'major'
+p48
+(dp49
+VStatistics
+p50
+F0.0069023171260079695
+sVData Science
+p51
+F0.0039359731134293585
+sVEngineering
+p52
+F0.008629804317113899
+sVComputer Science
+p53
+F0.0034687959630352403
+sVMathematics
+p54
+F0.0065680939830745277
+sVOperations Research
+p55
+F0.012332294629069556
+ssS'education'
+p56
+(dp57
+VDoctor
+p58
+F0.0041731102366914484
+ssS'responsibility'
+p59
+(dp60
+S'development'
+p61
+F0.0046396973272571597
+sS'information'
+p62
+F0.0053145793085417415
+sS'insight'
+p63
+F0.0070302427433313599
+sS'pattern'
+p64
+F0.010032915998368374
+sS'processing'
+p65
+F0.0062570424776655937
+sS'analysis'
+p66
+F0.0013127154090196548
+sS'data mining'
+p67
+F0.0081301889987821351
+sS'modeling'
+p68
+F0.0093350079197879587
 sS'model'
-p75
-I1
+p69
+F0.011857554344073875
 sS'evaluation'
-p76
-I1
+p70
+F0.012963383846079223
 ss.

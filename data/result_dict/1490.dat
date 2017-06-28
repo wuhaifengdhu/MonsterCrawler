@@ -4,76 +4,66 @@ p2
 (lp3
 S'education'
 p4
-aS'analytics'
-p5
-aS'marketing'
-p6
-aS'data science'
-p7
-aS'data scientist'
-p8
-aS'automation'
-p9
-aS'collaboration'
-p10
-aS'marketing automation'
-p11
-aS'marketing strategy'
-p12
 aS'go'
-p13
-aS'email marketing'
-p14
-aS'communication'
-p15
-aS'seo'
-p16
-aS'strategy'
-p17
-aS'data'
-p18
-aS'insurance'
-p19
-aS'data analytics'
-p20
-aS'science'
-p21
-asS'working-year'
-p22
-(lp23
-V(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'business'
-p27
-aS'marketing'
-p28
-aS'data science'
-p29
-aS'communication'
-p30
-aS'automation'
-p31
+p5
 aS'analytics'
-p32
+p6
+aS'marketing'
+p7
+aS'data science'
+p8
+aS'data scientist'
+p9
+aS'automation'
+p10
+aS'collaboration'
+p11
+aS'marketing automation'
+p12
 aS'marketing strategy'
-p33
-aS'science'
-p34
+p13
+aS'sem'
+p14
+aS'email marketing'
+p15
+aS'communication'
+p16
+aS'seo'
+p17
+aS'strategy'
+p18
+aS'data'
+p19
+aS'insurance'
+p20
 aS'data analytics'
-p35
+p21
+aS'science'
+p22
+asS'working-year'
+p23
+(lp24
+V(2, 5]
+p25
+asS'major'
+p26
+(lp27
+VData Science
+p28
+aVEconomics
+p29
+aVBusiness
+p30
 asS'education'
-p36
-(lp37
+p31
+(lp32
 VBachelor
-p38
+p33
 asS'responsibility'
-p39
-(lp40
+p34
+(lp35
 S'product'
-p41
-aVinsight
-p42
+p36
+aS'insight'
+p37
 as.

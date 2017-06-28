@@ -4,184 +4,166 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.012547665543457162
 sS'communication'
 p5
-I1
-sS'defense'
+F0.0086276259352090264
+sS'analytics'
 p6
-I1
-sS'data mining'
+F0.0047397136892835239
+sS'defense'
 p7
-I1
-sS'education'
+F0.0096229922450360716
+sS'data mining'
 p8
-I1
-sS'earth science'
+F0.0057819600236570503
+sS'education'
 p9
-I1
-sS'visualization'
+F0.0057183290185647655
+sS'earth science'
 p10
-I1
-sS'strategy'
+F0.017725408339119758
+sS'visualization'
 p11
-I1
-sS'intelligence'
+F0.0051070715856511425
+sS'strategy'
 p12
-I1
-sS'policy'
+F0.0042915842812720293
+sS'intelligence'
 p13
-I1
-sS'mathematics'
+F0.0085561777105546532
+sS'policy'
 p14
-I1
-sS'segmentation'
-p15
-I1
-sS'government'
-p16
-I1
-sS'python'
-p17
-I1
-sS'marketing'
-p18
-I1
-sS'apache spark'
-p19
-I1
-sS'business analytics'
-p20
-I1
-sS'advanced analytics'
-p21
-I1
-sS'construction'
-p22
-I1
-sS'apache'
-p23
-I1
-sS'spark'
-p24
-I1
-sS'data'
-p25
-I1
-sS'information technology'
-p26
-I1
-sS'customer experience'
-p27
-I1
-sS'training'
-p28
-I1
-sS'remote sensing'
-p29
-I1
-sS'science'
-p30
-I1
-sS'marketing analytics'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'r'
-I1
-sS'elasticsearch'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-sV(20, 30)
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'data mining'
-p40
-I1
-sS'information'
-p41
-I1
-sS'communication'
-p42
-I1
-sS'marketing'
-p43
-I1
-sS'marketing analytics'
-p44
-I1
-sS'business analytics'
-p45
-I1
-sS'design'
-p46
-I1
-sS'statistic'
-p47
-I1
-sS'advanced analytics'
-p48
-I1
+F0.014875521678696182
 sS'mathematics'
-p49
-I1
-sS'law'
-p50
-I1
+p15
+F0.0049806356459831218
+sS'segmentation'
+p16
+F0.0078911479894551526
+sS'government'
+p17
+F0.02841547155998872
+sS'python'
+p18
+F0.0014203038494639399
+sS'data scientist'
+p19
+F0.0028865712947244637
+sS'apache spark'
+p20
+F0.0071596874452041952
+sS'business analytics'
+p21
+F0.0082767961680084833
+sS'advanced analytics'
+p22
+F0.0080185573687686206
+sS'construction'
+p23
+F0.013823230873388248
+sS'apache'
+p24
+F0.0061664898325395866
+sS'spark'
+p25
+F0.0045943749954105136
+sS'data'
+p26
+F0.0016158240854832822
 sS'information technology'
-p51
-I1
+p27
+F0.0084922318031655179
+sS'customer experience'
+p28
+F0.010438954772442085
+sS'training'
+p29
+F0.0064122472779899976
+sS'remote sensing'
+p30
+F0.013340035232759211
 sS'science'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VBachelor
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
-S'data mining'
-p58
-I1
-sS'information'
-p59
-I1
-sS'product'
-p60
-I1
-sVinsight
-p61
-I1
-sS'communicate'
-p62
-I1
+p31
+F0.0057468710206601556
+sS'marketing analytics'
+p32
+F0.010510349354331821
 sS'analysis'
-p63
-I1
+p33
+F0.0018671319986601086
+sS'r'
+F0.0015122406174766789
+sS'elasticsearch'
+p34
+F0.011270203037484789
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0032851342277298605
+sV(20, 30)
+p38
+F0.01484788825738962
+ssS'major'
+p39
+(dp40
+VBusiness
+p41
+F0.0029474505372591667
+sVData Science
+p42
+F0.0027991525411582086
+sVEconomics
+p43
+F0.004470767159467196
+sVInformation Science
+p44
+F0.0069009678162236885
+sVComputer Science
+p45
+F0.0024669093906054432
+sVMathematics
+p46
+F0.0046710423149385607
+ssS'education'
+p47
+(dp48
+VBachelor
+p49
+F0.0024833210563212716
+ssS'responsibility'
+p50
+(dp51
+S'data mining'
+p52
+F0.0057819600236570503
+sS'information'
+p53
+F0.011338734601057721
+sS'product'
+p54
+F0.0036648307648984922
+sS'insight'
+p55
+F0.0099994188338391552
+sS'communicate'
+p56
+F0.0054666018590779075
+sS'analysis'
+p57
+F0.0018671319986601086
 sS'design'
-p64
-I1
+p58
+F0.0039793428065898568
 sS'ownership'
-p65
-I1
+p59
+F0.010736494414407051
 sS'quantitative information'
-p66
-I1
+p60
+F0.018746370143111365
 sS'understand'
-p67
-I1
+p61
+F0.005726647993036172
 ss.

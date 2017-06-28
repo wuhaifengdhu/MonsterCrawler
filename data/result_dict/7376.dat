@@ -2,92 +2,78 @@
 S'skills'
 p2
 (lp3
-S'validation'
+S'databases'
 p4
-aS'java'
+aS'validation'
 p5
-aS'big data'
+aS'java'
 p6
-aS'data scientist'
-p7
-aS'distributed computing'
-p8
-aS'programming'
-p9
-aS'mapreduce'
-p10
-aS'security clearance'
-p11
-aS'hadoop'
-p12
-aS'computer science'
-p13
-aS'data mining'
-p14
-aS'communication'
-p15
-aS'mathematics'
-p16
-aS'security'
-p17
-aS'analysis'
-p18
-aS'data'
-p19
-aS'science'
-p20
-asS'working-year'
-p21
-(lp22
-V(0, 2]
-p23
-aV(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
 aS'big data'
-p28
-aS'business'
-p29
-aS'computing'
-p30
-aS'science'
-p31
-aS'data mining'
-p32
-aS'communication'
-p33
-aS'design'
-p34
+p7
+aS'data scientist'
+p8
+aS'distributed computing'
+p9
+aS'programming'
+p10
+aS'mapreduce'
+p11
+aS'security clearance'
+p12
+aS'hadoop'
+p13
 aS'computer science'
-p35
-aS'statistic'
-p36
-aS'mathematics'
-p37
-asS'education'
-p38
-(lp39
-VBachelor
-p40
-asS'responsibility'
-p41
-(lp42
-S'information'
-p43
-aS'product'
-p44
-aS'analysis'
-p45
-aS'understand'
-p46
+p14
 aS'data mining'
-p47
+p15
+aS'communication'
+p16
+aS'mathematics'
+p17
+aS'security'
+p18
+aS'analysis'
+p19
+aS'data'
+p20
+aS'science'
+p21
+asS'working-year'
+p22
+(lp23
+V(0, 2]
+p24
+aV(2, 5]
+p25
+asS'major'
+p26
+(lp27
+VMathematics
+p28
+aVComputer Science
+p29
+aVBusiness
+p30
+asS'education'
+p31
+(lp32
+VBachelor
+p33
+asS'responsibility'
+p34
+(lp35
+S'information'
+p36
+aS'product'
+p37
+aS'analysis'
+p38
+aS'understand'
+p39
+aS'data mining'
+p40
 aS'design'
-p48
+p41
 aS'implement'
-p49
+p42
 as.

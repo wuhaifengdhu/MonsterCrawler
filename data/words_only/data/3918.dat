@@ -2,225 +2,208 @@
 S'skills'
 p2
 (dp3
-S'data science'
+S'insurance'
 p4
-I1
-sS'linux'
+F0.0064350437011218122
+sS'data science'
 p5
-I1
-sS'hadoop'
-p6
-I1
-sS'analytics'
-p7
-I1
-sS'engineering'
-p8
-I1
-sS'hive'
-p9
-I1
+F0.0024547773993073454
 sS'data mining'
-p10
-I1
-sS'machine learning'
-p11
-I1
-sS'quantitative analysis'
-p12
-I1
-sS'insurance'
-p13
-I1
-sS'management'
-p14
-I1
-sS'sybase'
-p15
-I1
-sS'tableau'
-p16
-I1
-sS'research'
-p17
-I1
-sS'vertica'
-p18
-I1
-sS'r'
-I1
-sS'computer science'
-p19
-I1
-sS'android'
-p20
-I1
-sS'matlab'
-p21
-I1
+p6
+F0.0043305700585349752
+sS'hadoop'
+p7
+F0.002622054084488908
+sS'analytics'
+p8
+F0.0035499488244225578
+sS'engineering'
+p9
+F0.0024997036266809279
 sS'business objects'
-p22
-I1
-sS'data modeling'
-p23
-I1
-sS'python'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'pentaho'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'data'
-p29
-I1
+p10
+F0.0087777385683960873
+sS'linux'
+p11
+F0.0037675061995902643
+sS'sas'
+p12
+F0.002827013993219218
+sS'machine learning'
+p13
+F0.00133779126904906
+sS'quantitative analysis'
+p14
+F0.015567356498042575
 sS'econometrics'
+p15
+F0.0062597113464086546
+sS'statistics'
+p16
+F0.001903087458780826
+sS'sybase'
+p17
+F0.012365180814501355
+sS'mathematica'
+p18
+F0.0064261322067881146
+sS'tableau'
+p19
+F0.0041000532390281464
+sS'research'
+p20
+F0.0017411435544117109
+sS'vertica'
+p21
+F0.010478945407415365
+sS'r'
+F0.0011326373604366147
+sS'computer science'
+p22
+F0.002869353598341267
+sS'android'
+p23
+F0.0083251672953725177
+sS'matlab'
+p24
+F0.0026049003829348265
+sS'data modeling'
+p25
+F0.0053310239690168805
+sS'python'
+p26
+F0.0010637785974556449
+sS'data scientist'
+p27
+F0.0021619829901303642
+sS'ios'
+p28
+F0.0097738449727274926
+sS'management'
+p29
+F0.0018490793208156169
+sS'pentaho'
 p30
-I1
-sS'data visualization'
+F0.010612816649428184
+sS'sql'
 p31
-I1
-sS'applied mathematics'
+F0.0013917221608837696
+sS'modeling'
 p32
-I1
-sS'scikit-learn'
+F0.0049723205450299133
+sS'data'
 p33
-I1
-sS'analysis'
+F0.0024204385280504675
+sS'a'
+F0.019082060138918638
+sS'c'
+F0.0025522896406083621
+sS'data visualization'
 p34
-I1
-sS'spss'
+F0.0040137420930195936
+sS'science'
 p35
-I1
-sS'optimization'
+F0.001434763037130801
+sS'applied mathematics'
 p36
-I1
-sS'dashboard'
+F0.0061675729486606254
+sS'scikit-learn'
 p37
-I1
-sS'product management'
+F0.0073213883696071208
+sS'hive'
 p38
-I1
-sS'data analytics'
+F0.0042566413254898098
+sS'spss'
 p39
-I1
-ssS'working-year'
+F0.0045027527160358474
+sS'optimization'
 p40
-(dp41
-V(5, 10]
+F0.0040816507293643719
+sS'dashboard'
+p41
+F0.0071559203451419294
+sS'product management'
 p42
-I1
-sV(2, 5]
+F0.0063734653449521251
+sS'data analytics'
 p43
-I1
-ssS'major'
+F0.0041680054724199944
+ssS'working-year'
 p44
 (dp45
-S'management'
+V(5, 10]
 p46
-I1
-sS'business'
+F0.0024604984930139979
+sV(2, 5]
 p47
-I1
-sS'applied mathematics'
+F0.0025284580172063994
+ssS'major'
 p48
-I1
-sS'data mining'
-p49
-I1
-sS'statistics applied mathematics'
+(dp49
+VStatistics
 p50
-I1
-sS'data analyst'
+F0.0036765403467103682
+sVBusiness
 p51
-I1
-sS'machine learning'
+F0.0022075803003553354
+sVData Science
 p52
-I1
-sS'analytics'
+F0.002096508127765434
+sVEngineering
 p53
-I1
-sS'engineering'
+F0.0024997036266809279
+sVComputer Science
 p54
-I1
-sS'applied math'
+F0.0018476647884738732
+sVMathematics
 p55
-I1
-sS'mathematics computer science'
+F0.0034985153664948
+sVManagement Science and Engineering
 p56
-I1
-sS'statistic'
-p57
-I1
-sS'data analytics'
-p58
-I1
-sS'data science'
-p59
-I1
-sS'phd'
-p60
-I1
-sS'econometrics'
-p61
-I1
-sS'applied mathematics computer science'
-p62
-I1
-sS'computer science'
-p63
-I1
+F0.0026317235478956992
 ssS'education'
-p64
-(dp65
-VDoctor
-p66
-I1
+p57
+(dp58
+VMaster
+p59
+F0.0014842462963758714
+sVDoctor
+p60
+F0.0022228199424009555
 ssS'responsibility'
-p67
-(dp68
+p61
+(dp62
 S'development'
-p69
-I1
+p63
+F0.0024713489845186098
 sS'product'
-p70
-I1
-sS'evaluation'
-p71
-I1
-sVinsight
-p72
-I1
-sS'analysis'
-p73
-I1
-sS'optimization'
-p74
-I1
-sS'understand'
-p75
-I1
-sS'data mining'
-p76
-I1
-sS'modeling'
-p77
-I1
-sS'implement'
-p78
-I1
+p64
+F0.016469300702666285
 sS'quantitative analysis'
-p79
-I1
+p65
+F0.015567356498042575
+sS'insight'
+p66
+F0.0037446803183867048
+sS'optimization'
+p67
+F0.0040816507293643719
+sS'understand'
+p68
+F0.0085782849528337774
+sS'data mining'
+p69
+F0.0043305700585349752
+sS'modeling'
+p70
+F0.0049723205450299133
+sS'implement'
+p71
+F0.0043221697451420564
+sS'evaluation'
+p72
+F0.0069049860894421985
 sS'model'
-p80
-I1
+p73
+F0.0031579813100033488
 ss.

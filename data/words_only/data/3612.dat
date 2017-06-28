@@ -4,133 +4,124 @@ p2
 (dp3
 S'software development'
 p4
-I1
+F0.003933574430562658
 sS'c'
-I1
-sS'java'
+F0.0092810532385758614
+sS'statistics'
 p5
-I1
-sS'big data'
+F0.0034601590159651376
+sS'java'
 p6
-I1
-sS'anomaly detection'
+F0.009196786401990972
+sS'big data'
 p7
-I1
-sS'python'
+F0.0023612711064242443
+sS'anomaly detection'
 p8
-I1
-sS'communication'
+F0.0081540306181514099
+sS'python'
 p9
-I1
-sS'collaboration'
+F0.0038682858089296177
+sS'communication'
 p10
-I1
-sS'processing'
+F0.005874468864975349
+sS'collaboration'
 p11
-I1
-sS'data scientist'
+F0.0094904245642799777
+sS'processing'
 p12
-I1
-sS'scala'
+F0.0060596960544368091
+sS'data scientist'
 p13
-I1
-sS'c++'
+F0.0019654390819366942
+sS'scala'
 p14
-I1
+F0.01811180992726261
 sS'machine learning'
 p15
-I1
-sS'architecture'
+F0.0012161738809536907
+sS'computer science'
 p16
-I1
-sS'innovation'
+F0.0026085032712193333
+sS'architecture'
 p17
-I1
-sS'organization'
+F0.0081150817168261901
+sS'innovation'
 p18
-I1
-sS'security'
+F0.0071830229021696609
+sS'organization'
 p19
-I1
-sS'data'
+F0.0065424261197836037
+sS'security'
 p20
-I1
-sS'computer science'
+F0.03243563362849413
+sS'data'
 p21
-I1
-ssS'working-year'
+F0.0015402790633048432
+sS'science'
 p22
-(dp23
+F0.0013043300337552736
+ssS'working-year'
+p23
+(dp24
 V(5, 10]
-p24
-I1
-ssS'major'
 p25
-(dp26
-S'big data'
-p27
-I1
-sS'business'
+F0.0022368168118309067
+ssS'major'
+p26
+(dp27
+VStatistics
 p28
-I1
-sS'communication'
+F0.0033423094061003343
+sVComputer Science
 p29
-I1
-sS'computer science statistics'
+F0.0016796952622489755
+sVBusiness
 p30
-I1
-sS'phd'
-p31
-I1
-sS'computer science'
-p32
-I1
-sS'statistic'
-p33
-I1
-sS'machine learning'
-p34
-I1
+F0.0020068911821412138
 ssS'education'
+p31
+(dp32
+VMaster
+p33
+F0.0013493148148871557
+sVDoctor
+p34
+F0.0020207454021826865
+ssS'responsibility'
 p35
 (dp36
-VDoctor
-p37
-I1
-ssS'responsibility'
-p38
-(dp39
 S'development'
-p40
-I1
+p37
+F0.006740042685050753
 sS'mine data'
-p41
-I1
-sVinsight
-p42
-I1
+p38
+F0.0123168016069219
+sS'insight'
+p39
+F0.0068085096697940084
 sS'build model'
-p43
-I1
+p40
+F0.0098123062860605639
 sS'processing'
-p44
-I1
+p41
+F0.0060596960544368091
 sS'product'
-p45
-I1
+p42
+F0.01497209154787844
 sS'collect data'
-p46
-I1
+p43
+F0.00984698539466391
 sS'statistical method'
-p47
-I1
+p44
+F0.0065228022802439915
 sS'understand'
-p48
-I1
+p45
+F0.0077984408662125247
 sS'implement'
-p49
-I1
+p46
+F0.0078584904457128287
 sS'model'
-p50
-I1
+p47
+F0.0028708921000030444
 ss.

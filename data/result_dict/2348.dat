@@ -4,96 +4,101 @@ p2
 (lp3
 S'consulting'
 p4
-aS'go'
+aS'presentations'
 p5
-aS'research'
+aS'go'
 p6
-aS'quantitative analysis'
-p7
-aS'management'
-p8
-aS'excel'
-p9
 aS'time management'
+p7
+aS'quantitative analysis'
+p8
+aS'research'
+p9
+aS'management'
 p10
-aS'market research'
+aS'excel'
 p11
-aS'innovation'
+aS'writing'
 p12
-aS'mathematics'
+aS'market research'
 p13
-aS'survey research'
+aS'innovation'
 p14
-aS'customer satisfaction'
+aS'mathematics'
 p15
-aS'marketing'
+aS'survey research'
 p16
-aS'data scientist'
+aS'customer satisfaction'
 p17
-aS'modeling'
+aS'marketing'
 p18
-aS'data'
+aS'data scientist'
 p19
-aS'project management'
+aS'modeling'
 p20
-aS'word'
+aS'data'
 p21
-aS'science'
+aS'project management'
 p22
-aS'documentation'
+aS'a'
+aS'word'
 p23
-aS'education'
+aS'science'
 p24
-aS'analysis'
+aS'documentation'
 p25
-aS'organization'
+aS'education'
 p26
-aS'powerpoint'
+aS'analysis'
 p27
-asS'working-year'
+aS'spss'
 p28
-(lp29
-V[0]
+aS'organization'
+p29
+aS'powerpoint'
 p30
-asS'major'
+asS'working-year'
 p31
 (lp32
-S'management'
+S'[0]'
 p33
-aS'business'
+asS'major'
 p34
-aS'marketing'
-p35
-aS'science'
+(lp35
+VMathematics
 p36
-aS'mathematics'
+aVEconomics
 p37
-aS'project management'
+aVBusiness
 p38
-asS'education'
+aVManagement Science and Engineering
 p39
-(lp40
+asS'education'
+p40
+(lp41
 VBachelor
-p41
-asS'responsibility'
 p42
-(lp43
-S'product'
+aVMaster
+p43
+asS'responsibility'
 p44
-aS'documentation'
-p45
-aS'presentation'
+(lp45
+S'product'
 p46
-aVinsight
+aS'documentation'
 p47
-aS'analysis'
+aS'presentation'
 p48
-aS'recommendation'
+aS'insight'
 p49
-aS'report'
+aS'analysis'
 p50
-aS'modeling'
+aS'recommendation'
 p51
-aS'quantitative analysis'
+aS'report'
 p52
+aS'modeling'
+p53
+aS'quantitative analysis'
+p54
 as.

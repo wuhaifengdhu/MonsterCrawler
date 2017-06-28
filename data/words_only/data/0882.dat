@@ -4,188 +4,196 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.01019080094527702
 sS'consulting'
 p5
-I1
+F0.006704791378667866
 sS'financial markets'
 p6
-I1
+F0.01580585527958334
 sS'neural networks'
 p7
-I1
+F0.0096569824888183657
 sS'sentiment analysis'
 p8
-I1
-sS'trading'
+F0.012470781091430511
+sS'engineering'
 p9
-I1
-sS'machine learning'
+F0.0036345839082304295
+sS'trading'
 p10
-I1
-sS'parallel computing'
-p11
-I1
-sS'clustering'
-p12
-I1
-sS'investment banking'
-p13
-I1
-sS'capital markets'
-p14
-I1
-sS'anomaly detection'
-p15
-I1
-sS'time series analysis'
-p16
-I1
-sS'management'
-p17
-I1
-sS'research'
-p18
-I1
-sS'computer science'
-p19
-I1
-sS'gpu'
-p20
-I1
-sS'finance'
-p21
-I1
-sS'government'
-p22
-I1
-sS'python'
-p23
-I1
-sS'philosophy'
-p24
-I1
-sS'data scientist'
-p25
-I1
+F0.012489385006978207
 sS'decision trees'
-p26
-I1
-sS'spark'
-p27
-I1
-sS'data'
-p28
-I1
-sS'training'
-p29
-I1
-sS'svm'
-p30
-I1
-sS'pattern recognition'
-p31
-I1
-sS'glm'
-p32
-I1
-sS'commodity'
-p33
-I1
-sS'scikit-learn'
-p34
-I1
-sS'analysis'
-p35
-I1
-sS'simulation'
-p36
-I1
-sS'banking'
-p37
-I1
-sS'financial engineering'
-p38
-I1
-sS'investment management'
-p39
-I1
-sS'security'
-p40
-I1
-sS'fixed income'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(5, 10]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'management'
-p47
-I1
-sS'finance'
-p48
-I1
-sS'business'
-p49
-I1
-sS'computing'
-p50
-I1
-sS'philosophy'
-p51
-I1
-sS'computer science statistics'
-p52
-I1
+p11
+F0.012379471918443054
 sS'machine learning'
-p53
-I1
-sS'financial engineering'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'machine learning engineer'
-p56
-I1
+p12
+F0.0019451564446113928
+sS'parallel computing'
+p13
+F0.012762883971851876
+sS'clustering'
+p14
+F0.019130044869769793
+sS'investment banking'
+p15
+F0.014719083039129105
+sS'capital markets'
+p16
+F0.015381225915069213
+sS'anomaly detection'
+p17
+F0.013041609801731783
+sS'time series analysis'
+p18
+F0.0085389047845684414
+sS'equities'
+p19
+F0.014112854925054739
+sS'management'
+p20
+F0.0026885723062304218
+sS'research'
+p21
+F0.002531633061310796
 sS'computer science'
-p57
-I1
-ssS'education'
-p58
-(dp59
-VDoctor
-p60
-I1
-ssS'responsibility'
-p61
-(dp62
-S'development'
-p63
-I1
-sS'business problem'
-p64
-I1
-sS'pattern'
-p65
-I1
-sVinsight
-p66
-I1
+p22
+F0.0041720571607929396
+sS'gpu'
+p23
+F0.015982185072004336
+sS'finance'
+p24
+F0.0078787716741355734
+sS'government'
+p25
+F0.0077362596902936656
+sS'python'
+p26
+F0.0015467403939266053
+sS'philosophy'
+p27
+F0.014719083039129105
+sS'data scientist'
+p28
+F0.0031435360984091343
+sS'statistics'
+p29
+F0.0027671004593549098
+sS'java'
+p30
+F0.0036773500524281411
+sS'spark'
+p31
+F0.0050033698021236164
+sS'data'
+p32
+F0.0010557995953217173
+sS'a'
+F0.0055490857377270822
+sS'training'
+p33
+F0.006983070477811066
+sS'svm'
+p34
+F0.013251154982578178
+sS'pattern recognition'
+p35
+F0.0094758270293225262
+sS'glm'
+p36
+F0.01630156251063139
+sS'science'
+p37
+F0.0020861539709023515
+sS'scala'
+p38
+F0.0072420367587496641
+sS'scikit-learn'
+p39
+F0.010645342139784833
 sS'analysis'
-p67
-I1
+p40
+F0.0010166727648490503
 sS'simulation'
+p41
+F0.007966871773514456
+sS'securities'
+p42
+F0.017750675800949293
+sS'banking'
+p43
+F0.01019080094527702
+sS'financial engineering'
+p44
+F0.01630156251063139
+sS'investment management'
+p45
+F0.018100179525669783
+sS'security'
+p46
+F0.01296944104284743
+sS'fixed income'
+p47
+F0.014244758155536386
+ssS'working-year'
+p48
+(dp49
+V(5, 10]
+p50
+F0.0035775794112072961
+ssS'major'
+p51
+(dp52
+VStatistics
+p53
+F0.0053457114833474189
+sVBusiness
+p54
+F0.003209834858083425
+sVEconomics
+p55
+F0.0048687583012595277
+sVEngineering
+p56
+F0.0036345839082304295
+sVComputer Science
+p57
+F0.0026865155678106756
+sVManagement Science and Engineering
+p58
+F0.0038265416571777225
+ssS'education'
+p59
+(dp60
+VMaster
+p61
+F0.0021581029235138781
+sVDoctor
+p62
+F0.0032319933880607362
+ssS'responsibility'
+p63
+(dp64
+S'development'
+p65
+F0.0035933560902496105
+sS'business problem'
+p66
+F0.0084514853475686786
+sS'pattern'
+p67
+F0.0077702999275197212
+sS'insight'
 p68
-I1
-sS'prototype'
+F0.0054447874065563359
+sS'analysis'
 p69
-I1
+F0.0010166727648490503
+sS'simulation'
+p70
+F0.007966871773514456
+sS'prototype'
+p71
+F0.009356591731601447
 ss.

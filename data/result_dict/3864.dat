@@ -2,145 +2,140 @@
 S'skills'
 p2
 (lp3
-S'probability'
+S'consulting'
 p4
-aS'communication'
+aS'probability'
 p5
-aS'data science'
+aS'communication'
 p6
-aS'feature extraction'
+aS'data science'
 p7
-aS'analytics'
+aS'feature extraction'
 p8
-aS'engineering'
+aS'sales'
 p9
-aS'linux'
+aS'analytics'
 p10
-aS'dimensionality reduction'
+aS'engineering'
 p11
-aS'weka'
+aS'linux'
 p12
-aS'big data'
+aS'sas'
 p13
-aS'anomaly detection'
+aS'dimensionality reduction'
 p14
-aS'time series analysis'
+aS'weka'
 p15
-aS'matlab'
+aS'big data'
 p16
-aS'natural language processing'
+aS'anomaly detection'
 p17
-aS'teradata'
+aS'time series analysis'
 p18
-aS'python'
+aS'matlab'
 p19
-aS'collaboration'
+aS'natural language processing'
 p20
-aS'processing'
+aS'teradata'
 p21
-aS'data scientist'
+aS'python'
 p22
-aS'experimental design'
+aS'collaboration'
 p23
-aS'statistical modeling'
+aS'processing'
 p24
-aS'data wrangling'
+aS'data scientist'
 p25
-aS'modeling'
+aS'experimental design'
 p26
-aS'data quality'
+aS'statistical modeling'
 p27
-aS'data'
+aS'data wrangling'
 p28
-aS'training'
+aS'modeling'
 p29
-aS'organization'
+aS'data quality'
 p30
-aS'science'
+aS'data'
 p31
-aS'documentation'
+aS'a'
+aS'training'
 p32
-aS'analysis'
+aS'organization'
 p33
-aS'machine learning'
+aS'science'
 p34
+aS'documentation'
+p35
+aS'analysis'
+p36
+aS'machine learning'
+p37
 aS'r'
 aS'command'
-p35
-aS'electrical engineering'
-p36
-aS'chemistry'
-p37
-asS'working-year'
 p38
-(lp39
-V(2, 5]
-p40
-asS'major'
-p41
-(lp42
-S'chemistry'
-p43
-aS'business'
-p44
-aS'big data'
-p45
-aS'science'
-p46
-aS'data science'
-p47
-aS'statistic'
-p48
-aS'communication'
-p49
-aS'machine learning'
-p50
-aS'analytics'
-p51
-aS'engineering'
-p52
-aS'design'
-p53
-aS'natural language processing'
-p54
 aS'electrical engineering'
-p55
-aS'electrical'
-p56
-aVphysic
-p57
+p39
+aS'chemistry'
+p40
+aS'physics'
+p41
+asS'working-year'
+p42
+(lp43
+V(2, 5]
+p44
+asS'major'
+p45
+(lp46
+VBusiness
+p47
+aVData Science
+p48
+aVElectrical and Electronics Engineering
+p49
+aVEngineering
+p50
+aVComputer Science
+p51
+aVPhysics
+p52
+aVChemical Engineering
+p53
 asS'education'
-p58
-(lp59
+p54
+(lp55
 S'Bachelor'
-p60
+p56
 asS'responsibility'
-p61
-(lp62
+p57
+(lp58
 S'processing'
-p63
+p59
 aS'data wrangling'
-p64
+p60
 aS'presentation'
-p65
-aVinsight
-p66
+p61
+aS'insight'
+p62
 aS'analysis'
-p67
-aS'statistical model'
-p68
+p63
+aS'validate ... model'
+p64
 aS'design'
-p69
+p65
 aS'pattern'
-p70
-aS'modeling'
-p71
+p66
 aS'understand'
-p72
-aS'model'
-p73
+p67
+aS'modeling'
+p68
 aS'extract'
-p74
+p69
+aS'model'
+p70
+aS'decision making'
+p71
 aS'documentation'
-p75
+p72
 as.

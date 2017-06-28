@@ -2,121 +2,115 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'databases'
 p4
-aS'data science'
+aS'probability'
 p5
-aS'scientific computing'
+aS'communication'
 p6
-aS'data governance'
+aS'data science'
 p7
-aS'data mining'
+aS'data governance'
 p8
-aS'relational databases'
+aS'data mining'
 p9
-aS'education'
+aS'relational databases'
 p10
-aS'innovation'
+aS'education'
 p11
-aS'governance'
+aS'visualization'
 p12
-aS'research'
+aS'scientific computing'
 p13
-aS'database design'
+aS'governance'
 p14
-aS'teaching'
+aS'research'
 p15
-aS'natural language processing'
+aS'database design'
 p16
-aS'algorithm development'
+aS'natural language processing'
 p17
-aS'python'
+aS'teaching'
 p18
-aS'processing'
+aS'algorithm development'
 p19
-aS'data scientist'
+aS'processing'
 p20
-aS'sql'
+aS'python'
 p21
-aS'data'
+aS'innovation'
 p22
-aS'data collection'
+aS'data scientist'
 p23
-aS'data cleaning'
+aS'sql'
 p24
-aS'cognition'
+aS'data'
 p25
-aS'machine learning'
+aS'data collection'
 p26
+aS'data cleaning'
+p27
+aS'cognition'
+p28
+aS'presentations'
+p29
+aS'machine learning'
+p30
 aS'r'
 aS'science'
-p27
-aS'organization'
-p28
-asS'working-year'
-p29
-(lp30
-V(2, 5]
 p31
-asS'major'
+aS'organization'
 p32
-(lp33
-S'business'
-p34
-aS'computing'
+asS'working-year'
+p33
+(lp34
+V(2, 5]
 p35
-aS'science'
+asS'major'
 p36
-aS'data science'
-p37
-aS'natural language processing'
+(lp37
+VData Science
 p38
-aS'statistic'
+aVComputer Science
 p39
-aS'scientific computing'
+aVBusiness
 p40
-aS'machine learning'
-p41
-aS'design'
-p42
-aS'data mining'
-p43
-aS'communication'
-p44
 asS'education'
-p45
-(lp46
+p41
+(lp42
 VDoctor
-p47
+p43
 asS'responsibility'
-p48
-(lp49
+p44
+(lp45
 S'development'
-p50
+p46
 aS'product'
-p51
+p47
 aS'data collection'
-p52
+p48
 aS'business problem'
-p53
+p49
 aS'processing'
-p54
+p50
 aS'communicate'
-p55
-aS'statistical model'
-p56
+p51
+aS'develop ... model'
+p52
 aS'analytic'
-p57
+p53
 aS'design'
-p58
+p54
 aS'solve problem'
-p59
+p55
 aS'data mining'
-p60
+p56
 aS'report'
-p61
+p57
 aS'understand'
-p62
+p58
 aS'model'
-p63
+p59
+aS'statistical model'
+p60
 as.

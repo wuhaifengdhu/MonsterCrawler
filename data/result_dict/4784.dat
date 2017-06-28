@@ -10,9 +10,9 @@ aS'data science'
 p6
 aS'analytics'
 p7
-aS'high performance computing'
-p8
 aS'analysis'
+p8
+aS'sas'
 p9
 aS'research'
 p10
@@ -20,110 +20,106 @@ aS'd3'
 p11
 aS'visualization'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'open source'
 p14
-aS'c'
-aS'insurance'
+aS'flask'
 p15
-aS'access'
+aS'c'
+aS'storage'
 p16
-aS'computer science'
+aS'insurance'
 p17
-aS'natural language processing'
+aS'access'
 p18
-aS'technical training'
-p19
-aS'unstructured data'
-p20
-aS'finance'
-p21
-aS'energy'
-p22
-aS'python'
-p23
-aS'aws'
-p24
-aS'processing'
-p25
-aS'data scientist'
-p26
-aS'search'
-p27
-aS'leadership'
-p28
-aS'java'
-p29
-aS'data'
-p30
-aS'training'
-p31
-aS'data visualization'
-p32
-aS'database management'
-p33
-aS'science'
-p34
-aS'cloud computing'
-p35
-aS'programming'
-p36
-aS'c++'
-p37
-aS'life sciences'
-p38
-aS'r'
-aS'emr'
-p39
-asS'working-year'
-p40
-(lp41
-V(0, 2]
-p42
-asS'major'
-p43
-(lp44
-S'information'
-p45
-aS'life sciences'
-p46
-aS'management'
-p47
-aS'finance'
-p48
-aS'biostatistics'
-p49
-aS'computing'
-p50
-aS'science'
-p51
-aS'data science'
-p52
-aS'communication'
-p53
-aS'high performance computing'
-p54
-aS'phd'
-p55
-aS'analytics'
-p56
 aS'computer science'
-p57
+p19
 aS'natural language processing'
-p58
-asS'education'
-p59
-(lp60
-VDoctor
-p61
-asS'responsibility'
-p62
-(lp63
-S'information'
-p64
+p20
+aS'technical training'
+p21
+aS'unstructured data'
+p22
+aS'finance'
+p23
+aS'energy'
+p24
+aS'python'
+p25
+aS'aws'
+p26
 aS'processing'
-p65
+p27
+aS'data scientist'
+p28
+aS'search'
+p29
+aS'leadership'
+p30
+aS'java'
+p31
+aS'data'
+p32
+aS'econometrics'
+p33
+aS'training'
+p34
+aS'data visualization'
+p35
+aS'database management'
+p36
+aS'science'
+p37
+aS'cloud computing'
+p38
+aS'programming'
+p39
+aS'high performance computing'
+p40
+aS'life sciences'
+p41
+aS'r'
+aS'cuda'
+p42
+aS'emr'
+p43
+aS'management'
+p44
+aS'shiny'
+p45
+asS'working-year'
+p46
+(lp47
+V(0, 2]
+p48
+asS'major'
+p49
+(lp50
+VStatistics
+p51
+aVData Science
+p52
+aVEconomics
+p53
+aVComputer Science
+p54
+aVBiological Engineering
+p55
+aVManagement Science and Engineering
+p56
+asS'education'
+p57
+(lp58
+VDoctor
+p59
+asS'responsibility'
+p60
+(lp61
+S'information'
+p62
+aS'processing'
+p63
 aS'analysis'
-p66
+p64
 as.

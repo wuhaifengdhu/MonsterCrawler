@@ -6,79 +6,77 @@ S'visualization'
 p4
 aS'education'
 p5
-aS'probability'
+aS'statistics'
 p6
-aS'data visualization'
+aS'probability'
 p7
-aS'python'
+aS'data visualization'
 p8
-aS'science'
-p9
-aS'data science'
-p10
-aS'aws'
-p11
-aS'data scientist'
-p12
-aS'mapreduce'
-p13
-aS'machine learning'
-p14
-aS'r'
-aS'computer science'
-p15
-aS'emr'
-p16
-aS'teaching'
-p17
 aS'hadoop'
+p9
+aS'science'
+p10
+aS'data science'
+p11
+aS'databases'
+p12
+aS'aws'
+p13
+aS'mapreduce'
+p14
+aS'machine learning'
+p15
+aS'python'
+p16
+aS'r'
+aS'algorithms'
+p17
+aS'computer science'
 p18
-aS'data'
+aS'emr'
 p19
-aS'scripting'
+aS'teaching'
 p20
-asS'working-year'
+aS'entrepreneurship'
 p21
-(lp22
-V(0, 2]
+aS'data'
+p22
+aS'scripting'
 p23
-asS'major'
+asS'working-year'
 p24
 (lp25
-S'business'
+V(0, 2]
 p26
-aS'science'
+asS'major'
 p27
-aS'data science'
-p28
-aS'machine learning'
+(lp28
+VData Science
 p29
-aS'design'
+aVStatistics
 p30
-aS'computer science'
+aVComputer Science
 p31
-aS'statistic'
+aVBusiness
 p32
-aS'probability statistics'
-p33
-aS'general'
-p34
 asS'education'
-p35
-(lp36
+p33
+(lp34
 S'Bachelor'
-p37
+p35
 asS'responsibility'
-p38
-(lp39
+p36
+(lp37
 S'development'
-p40
+p38
 aS'large data set'
+p39
+aS'product'
+p40
+aS'business problem'
 p41
-aVinsight
+aS'insight'
 p42
 aS'design'
 p43
-aS'business problem'
-p44
 as.

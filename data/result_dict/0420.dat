@@ -10,7 +10,7 @@ aS'testing'
 p6
 aS'engineering'
 p7
-aS'analysis'
+aS'unit testing'
 p8
 aS'education'
 p9
@@ -20,120 +20,98 @@ aS'java'
 p11
 aS'time series analysis'
 p12
-aS'unit testing'
-p13
 aS'predictive modeling'
-p14
+p13
 aS'research'
-p15
+p14
 aS'access'
-p16
+p15
 aS'matlab'
-p17
+p16
 aS'mathematics'
-p18
+p17
 aS'computer science'
-p19
+p18
 aS'data modeling'
-p20
+p19
 aS'finance'
-p21
+p20
 aS'python'
-p22
+p21
 aS'data scientist'
-p23
+p22
 aS'c'
-aS'sql'
+aS'automation'
+p23
+aS'facebook'
 p24
-aS'modeling'
+aS'sql'
 p25
-aS'data'
+aS'modeling'
 p26
-aS'econometrics'
+aS'data'
 p27
-aS'search'
+aS'econometrics'
 p28
-aS'science'
+aS'search'
 p29
-aS'applied mathematics'
+aS'science'
 p30
-aS'c++'
+aS'applied mathematics'
 p31
-aS'machine learning'
+aS'analysis'
 p32
+aS'machine learning'
+p33
 aS'r'
 aS'etl'
-p33
-asS'working-year'
 p34
-(lp35
-V[0]
-p36
-asS'major'
+asS'working-year'
+p35
+(lp36
+S'[0]'
 p37
-(lp38
-S'information'
-p39
-aS'finance'
+asS'major'
+p38
+(lp39
+VMathematics
 p40
-aS'science'
+aVEngineering
 p41
-aS'applied mathematics'
+aVEconomics
 p42
-aS'communication'
+aVComputer Science
 p43
-aS'software systems'
-p44
-aS'machine learning'
-p45
-aS'mathematics'
-p46
-aS'engineering'
-p47
-aS'design'
-p48
-aS'applied mathematics computer science'
-p49
-aS'applied math'
-p50
-aS'computer science engineering'
-p51
-aS'mathematics computer science'
-p52
-aS'econometrics'
-p53
-aVphysic
-p54
-aS'computer science'
-p55
 asS'education'
-p56
-(lp57
+p44
+(lp45
 VMaster
-p58
+p46
+aVDoctor
+p47
 asS'responsibility'
-p59
-(lp60
+p48
+(lp49
 S'development'
-p61
+p50
 aS'information'
-p62
+p51
 aS'communicate'
-p63
+p52
 aS'analysis'
-p64
+p53
 aS'statistical method'
-p65
+p54
 aS'design'
-p66
+p55
 aS'modeling'
-p67
+p56
 aS'understand'
-p68
+p57
 aS'model'
-p69
+p58
 aS'prototype'
-p70
+p59
 aS'extract'
-p71
+p60
 as.

@@ -2,145 +2,132 @@
 S'skills'
 p2
 (lp3
-S'storage'
+S'recruiting'
 p4
 aS'data science'
 p5
 aS'julia'
 p6
-aS'research'
+aS'analytics'
 p7
-aS'd3'
+aS'research'
 p8
-aS'visualization'
+aS'd3'
 p9
-aS'open source'
+aS'visualization'
 p10
-aS'banking'
+aS'open source'
 p11
-aS'excel'
+aS'banking'
 p12
-aS'tableau'
+aS'storage'
 p13
-aS'perl'
+aS'excel'
 p14
-aS'mahout'
+aS'tableau'
 p15
-aS'teamwork'
+aS'perl'
 p16
-aS'matlab'
+aS'mahout'
 p17
-aS'intelligence'
+aS'teamwork'
 p18
-aS'artificial intelligence'
+aS'matlab'
 p19
-aS'data analysis'
+aS'intelligence'
 p20
-aS'recruiting'
+aS'artificial intelligence'
 p21
-aS'python'
+aS'data analysis'
 p22
-aS'collaboration'
+aS'python'
 p23
-aS'innovation'
+aS'collaboration'
 p24
-aS'aws'
+aS'innovation'
 p25
-aS'business analytics'
+aS'aws'
 p26
-aS'mentoring'
+aS'business analytics'
 p27
-aS'statistical modeling'
+aS'mentoring'
 p28
-aS'sql'
+aS'statistical modeling'
 p29
-aS'modeling'
+aS'sql'
 p30
-aS'data'
+aS'modeling'
 p31
-aS'training'
+aS'data'
 p32
-aS'java'
+aS'a'
+aS'training'
 p33
-aS'science'
+aS'java'
 p34
-aS'cloud computing'
+aS'science'
 p35
-aS'programming'
+aS'cloud computing'
 p36
-aS'analysis'
+aS'programming'
 p37
-aS'machine learning'
+aS'analysis'
 p38
-aS'data center'
+aS'machine learning'
 p39
-aS'credit'
+aS'data center'
 p40
+aS'credit'
+p41
 aS'r'
 asS'working-year'
-p41
-(lp42
+p42
+(lp43
 V(5, 10]
-p43
-aV(0, 2]
 p44
-aV(2, 5]
+aV(0, 2]
 p45
-asS'major'
+aV(2, 5]
 p46
-(lp47
-S'information'
-p48
-aS'business'
+asS'major'
+p47
+(lp48
+VData Science
 p49
-aS'computing'
+aVComputer Science
 p50
-aS'science'
+aVBusiness
 p51
-aS'data science'
-p52
-aS'machine learning'
-p53
-aS'business analytics'
-p54
-aS'machine learning artificial intelligence'
-p55
-aS'law'
-p56
-aS'phd'
-p57
-aS'artificial intelligence'
-p58
-aS'history'
-p59
 asS'education'
-p60
-(lp61
-VMaster
-p62
+p52
+(lp53
+VBachelor
+p54
+aVMaster
+p55
 aVDoctor
-p63
+p56
 asS'responsibility'
-p64
-(lp65
+p57
+(lp58
 S'development'
-p66
+p59
 aS'information'
-p67
+p60
 aS'product'
-p68
+p61
 aS'data analysis'
-p69
+p62
+aS'decision-making'
+p63
 aS'analysis'
-p70
-aS'statistical model'
-p71
+p64
 aS'understand'
-p72
+p65
 aS'modeling'
-p73
+p66
 aS'model'
-p74
+p67
 aS'transformation'
-p75
+p68
 as.

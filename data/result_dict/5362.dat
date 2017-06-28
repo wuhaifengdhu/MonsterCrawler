@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'a'
+aS'consulting'
 p4
 aS'management'
 p5
@@ -46,40 +47,36 @@ p24
 asS'major'
 p25
 (lp26
-S'analytics'
+VData Science
 p27
-aS'information'
+aVBusiness
 p28
-aS'management'
+aVManagement Science and Engineering
 p29
-aS'business'
-p30
-aS'english'
-p31
 asS'education'
-p32
-(lp33
+p30
+(lp31
 VMaster
-p34
+p32
 asS'responsibility'
+p33
+(lp34
+S'development'
 p35
-(lp36
-S'financial model'
-p37
-aS'business problem'
-p38
-aVinsight
-p39
-aS'communicate'
-p40
+aS'financial model'
+p36
 aS'information'
-p41
+p37
+aS'insight'
+p38
+aS'communicate'
+p39
 aS'recommendation'
-p42
+p40
 aS'implement'
-p43
+p41
 aS'presentation'
-p44
+p42
 aS'model'
-p45
+p43
 as.

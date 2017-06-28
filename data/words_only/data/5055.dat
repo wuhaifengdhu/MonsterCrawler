@@ -4,178 +4,168 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0043733960196432496
 sS'data science'
 p5
-I1
-sS'process improvement'
+F0.0033227649880127048
+sS'analytics'
 p6
-I1
-sS'communication skills'
+F0.0024025896739876427
+sS'process improvement'
 p7
-I1
-sS'data mining'
+F0.0089109465315731096
+sS'communication skills'
 p8
-I1
-sS'research'
+F0.010174380806795922
+sS'data mining'
 p9
-I1
-sS'big data'
+F0.0058618213499506558
+sS'research'
 p10
-I1
-sS'critical thinking'
+F0.0023567965239274535
+sS'big data'
 p11
-I1
-sS'valuation'
+F0.0035158152661952141
+sS'critical thinking'
 p12
-I1
-sS'predictive modeling'
+F0.010832170245886789
+sS'valuation'
 p13
-I1
-sS'r programming'
+F0.024408904646328628
+sS'predictive modeling'
 p14
-I1
+F0.0057431102449971537
 sS'hadoop'
 p15
-I1
+F0.0035491892303855382
 sS'strategy'
 p16
-I1
+F0.0043508603072564492
 sS'computer science'
 p17
-I1
-sS'automotive'
+F0.0038839316662630402
+sS'python'
 p18
-I1
-sS'data scientist'
+F0.0014399213059482485
+sS'automotive'
 p19
-I1
-sS'business process'
+F0.082131821191563356
+sS'data scientist'
 p20
-I1
-sS'sql'
+F0.002926441063988614
+sS'business process'
 p21
-I1
-sS'modeling'
+F0.0084400080925960113
+sS'sql'
 p22
-I1
-sS'spark'
-p23
-I1
-sS'data'
-p24
-I1
-sS'training'
-p25
-I1
-sS'programming'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'r'
-I1
-sS'organization'
-p29
-I1
-sS'data analytics'
-p30
-I1
-sS'pricing'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(5, 10]
-p34
-I1
-sV(2, 5]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'business'
-p38
-I1
-sS'big data'
-p39
-I1
-sS'computing'
-p40
-I1
-sS'communication'
-p41
-I1
-sS'data science'
-p42
-I1
-sVapplied statistic
-p43
-I1
-sS'machine learning'
-p44
-I1
-sS'design'
-p45
-I1
-sS'computer science'
-p46
-I1
-sS'data mining'
-p47
-I1
-sS'data analytics'
-p48
-I1
-sVphysic
-p49
-I1
-sS'data mining machine learning'
-p50
-I1
-ssS'education'
-p51
-(dp52
-VMaster
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-I1
-sS'product'
-p57
-I1
-sVinsight
-p58
-I1
-sS'analysis'
-p59
-I1
-sS'analytic'
-p60
-I1
-sS'understand'
-p61
-I1
-sS'data mining'
-p62
-I1
-sS'design'
-p63
-I1
+F0.0018838228144559311
 sS'modeling'
-p64
-I1
+p23
+F0.0022434963785125757
+sS'spark'
+p24
+F0.0046578332135791675
+sS'data'
+p25
+F0.0039315410345129144
+sS'a'
+F0.0051658615845691343
+sS'training'
+p26
+F0.0065008142293434502
+sS'science'
+p27
+F0.0019420825640720785
+sS'programming'
+p28
+F0.0030450697094886073
+sS'analysis'
+p29
+F0.00094646055733185058
+sS'machine learning'
+p30
+F0.0018108224360056334
+sS'r'
+F0.0015331279188230418
+sS'algorithms'
+p31
+F0.0049562753546001492
+sS'organization'
+p32
+F0.0048706735891759145
+sS'data analytics'
+p33
+F0.0056417753632204337
+sS'pricing'
+p34
+F0.010443830578838095
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0033305090098808251
+sV(2, 5]
+p38
+F0.0034224984210804847
+ssS'major'
+p39
+(dp40
+VData Science
+p41
+F0.0028378148690747585
+sVStatistics
+p42
+F0.0049765325135029837
+sVComputer Science
+p43
+F0.0025009827247298279
+sVBusiness
+p44
+F0.0029881611800389894
+ssS'education'
+p45
+(dp46
+VMaster
+p47
+F0.0020090626663651296
+sVDoctor
+p48
+F0.003008789424796873
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+F0.0033451961392655209
+sS'product'
+p52
+F0.003715449974358416
+sS'insight'
+p53
+F0.0050687661768217818
+sS'analysis'
+p54
+F0.00094646055733185058
+sS'improvement'
+p55
+F0.0074204599346384195
+sS'analytic'
+p56
+F0.043657684547230659
+sS'design'
+p57
+F0.0080686122100468369
+sS'data mining'
+p58
+F0.0058618213499506558
+sS'understand'
+p59
+F0.005805745341006285
+sS'modeling'
+p60
+F0.0022434963785125757
 sS'model'
-p65
-I1
+p61
+F0.008549231170727296
 ss.

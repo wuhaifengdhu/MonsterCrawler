@@ -4,122 +4,117 @@ p2
 (dp3
 S'owl'
 p4
-I1
-sS'training'
-p5
-I1
-sS'management'
-p6
-I1
-sS'software engineering'
-p7
-I1
-sS'big data'
-p8
-I1
+F0.042425374077446183
 sS'text analytics'
-p9
-I1
-sS'rdf'
-p10
-I1
-sS'predictive modeling'
-p11
-I1
-sS'processing'
-p12
-I1
-sS'apis'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'big data analytics'
-p15
-I1
-sS'vendor management'
-p16
-I1
-sS'knowledge representation'
-p17
-I1
-sS'scripting'
-p18
-I1
-sS'natural language processing'
-p19
-I1
-sS'modeling'
-p20
-I1
-sS'rapid prototyping'
-p21
-I1
-sS'data analytics'
-p22
-I1
-sS'semantics'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(5, 10]
-p26
-I1
-ssS'major'
-p27
-(dp28
-S'management'
-p29
-I1
-sS'business'
-p30
-I1
+p5
+F0.030311203609118605
+sS'java'
+p6
+F0.0087891274302715136
 sS'big data'
-p31
-I1
-sS'machine learning'
-p32
-I1
+p7
+F0.0090264193359054432
+sS'predictive modeling'
+p8
+F0.01474472275665936
 sS'big data analytics'
-p33
-I1
+p9
+F0.023505454643606243
+sS'vendor management'
+p10
+F0.035568360615477947
+sS'r'
+F0.0039361156497442632
 sS'natural language processing'
-p34
-I1
-sS'software engineering'
-p35
-I1
-sS'phd'
-p36
-I1
-sS'data analytics'
-p37
-I1
-ssS'education'
-p38
-(dp39
-VMaster
-p40
-I1
-sVDoctor
-p41
-I1
-ssS'responsibility'
-p42
-(dp43
-S'modeling'
-p44
-I1
-sS'implement'
-p45
-I1
+p11
+F0.017772752708938317
+sS'apis'
+p12
+F0.026095144440685454
+sS'python'
+p13
+F0.0036968192393848649
 sS'processing'
-p46
-I1
+p14
+F0.046328740047396309
+sS'training'
+p15
+F0.016690033695193823
+sS'knowledge representation'
+p16
+F0.042971195738338033
+sS'modeling'
+p17
+F0.0057598985036989535
+sS'semantics'
+p18
+F0.044917552368482841
+sS'c'
+F0.0088696590347382784
+sS'software engineering'
+p19
+F0.018454347437688024
+sS'machine learning'
+p20
+F0.004649061856979002
+sS'rdf'
+p21
+F0.040584874448482189
+sS'algorithms'
+p22
+F0.012724621832377688
+sS'scripting'
+p23
+F0.017255917570543712
+sS'rapid prototyping'
+p24
+F0.036762220804101589
+sS'data analytics'
+p25
+F0.014484558024721966
+ssS'working-year'
+p26
+(dp27
+V(5, 10]
+p28
+F0.0085506685218216926
+ssS'major'
+p29
+(dp30
+VData Science
+p31
+F0.007285737465284132
+sVComputer Science
+p32
+F0.0064209627400865082
+sVBusiness
+p33
+F0.0076717329586816606
+sVManagement Science and Engineering
+p34
+F0.0091457059465878884
+ssS'education'
+p35
+(dp36
+VMaster
+p37
+F0.0051580190441430987
+sVDoctor
+p38
+F0.007724693416854383
+ssS'responsibility'
+p39
+(dp40
+S'modeling'
+p41
+F0.0057598985036989535
+sS'implement'
+p42
+F0.01502030620652204
+sS'processing'
+p43
+F0.046328740047396309
 sS'recommendation'
-p47
-I1
+p44
+F0.018526253509349441
 ss.

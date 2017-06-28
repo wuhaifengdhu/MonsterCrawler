@@ -2,9 +2,10 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'a'
+aS'search'
 p4
-aS'data analysis'
+aS'statistics'
 p5
 aS'python'
 p6
@@ -20,66 +21,56 @@ aS'analytics'
 p11
 aS'health insurance'
 p12
-aS'computer science'
-p13
-aS'communication'
-p14
-aS'mathematics'
-p15
-aS'data'
-p16
-aS'insurance'
-p17
-aS'science'
-p18
-asS'working-year'
-p19
-(lp20
-V(2, 5]
-p21
-asS'major'
-p22
-(lp23
-S'information'
-p24
-aS'science'
-p25
-aS'data science'
-p26
-aS'communication'
-p27
-aS'phd'
-p28
-aS'analytics'
-p29
-aS'design'
-p30
-aS'computer science'
-p31
-aS'statistic'
-p32
-aS'mathematics'
-p33
-asS'education'
-p34
-(lp35
-VDoctor
-p36
-asS'responsibility'
-p37
-(lp38
-S'information'
-p39
 aS'data analysis'
-p40
-aVinsight
-p41
+p13
+aS'computer science'
+p14
+aS'communication'
+p15
+aS'mathematics'
+p16
+aS'data'
+p17
+aS'insurance'
+p18
+aS'science'
+p19
+asS'working-year'
+p20
+(lp21
+V(2, 5]
+p22
+asS'major'
+p23
+(lp24
+VMathematics
+p25
+aVData Science
+p26
+aVStatistics
+p27
+aVComputer Science
+p28
+asS'education'
+p29
+(lp30
+VDoctor
+p31
+asS'responsibility'
+p32
+(lp33
+S'information'
+p34
+aS'insight'
+p35
+aS'evaluate ... experiment'
+p36
 aS'analysis'
-p42
-aS'evaluate experiment'
-p43
-aS'statistical method'
-p44
+p37
+aS'data analysis'
+p38
 aS'design'
-p45
+p39
+aS'design ... experiment'
+p40
 as.

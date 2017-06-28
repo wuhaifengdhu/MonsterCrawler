@@ -16,133 +16,124 @@ aS'linux'
 p9
 aS'visualization'
 p10
-aS'java'
+aS'statistics'
 p11
-aS'big data'
+aS'java'
 p12
-aS'scala'
+aS'big data'
 p13
-aS'deep learning'
+aS'scala'
 p14
-aS'hadoop'
+aS'deep learning'
 p15
-aS'computer science'
+aS'hadoop'
 p16
-aS'natural language processing'
+aS'computer science'
 p17
-aS'web development'
+aS'natural language processing'
 p18
-aS'python'
+aS'web development'
 p19
-aS'processing'
+aS'python'
 p20
-aS'data scientist'
+aS'processing'
 p21
-aS'algorithm design'
+aS'data scientist'
 p22
-aS'statistical modeling'
+aS'algorithm design'
 p23
-aS'sql'
+aS'statistical modeling'
 p24
-aS'modeling'
+aS'sql'
 p25
-aS'spark'
+aS'modeling'
 p26
-aS'data'
+aS'spark'
 p27
-aS'software engineering'
+aS'data'
 p28
-aS'science'
+aS'a'
+aS'software engineering'
 p29
-aS'documentation'
+aS'science'
 p30
-aS'analysis'
+aS'documentation'
 p31
-aS'machine learning'
+aS'analysis'
 p32
+aS'machine learning'
+p33
 aS'r'
 aS'architecture'
-p33
-asS'working-year'
 p34
-(lp35
-V[0]
+aS'physics'
+p35
+asS'working-year'
 p36
+(lp37
+S'[0]'
+p38
 asS'major'
-p37
-(lp38
-S'information'
 p39
-aS'software engineering'
-p40
-aS'big data'
+(lp40
+VEngineering
 p41
-aS'science'
+aVData Science
 p42
-aS'data science'
+aVStatistics
 p43
-aS'statistic'
+aVPhysics
 p44
-aS'machine learning'
+aVComputer Science
 p45
-aS'statistics computer science'
-p46
-aS'engineering'
-p47
-aS'design'
-p48
-aS'web development'
-p49
-aS'natural language processing'
-p50
-aS'phd'
-p51
-aVphysic
-p52
-aS'computer science'
-p53
 asS'education'
-p54
-(lp55
-VDoctor
-p56
+p46
+(lp47
+VBachelor
+p48
+aVMaster
+p49
+aVDoctor
+p50
 asS'responsibility'
-p57
-(lp58
+p51
+(lp52
 S'modeling'
-p59
-aS'development'
-p60
-aS'product'
-p61
-aS'processing'
-p62
+p53
 aS'information'
-p63
-aVinsight
-p64
+p54
+aS'product'
+p55
+aS'processing'
+p56
+aS'development'
+p57
+aS'insight'
+p58
 aS'communicate'
-p65
+p59
 aS'analysis'
-p66
-aS'statistical model'
-p67
+p60
+aS'develop ... model'
+p61
 aS'analytic'
-p68
+p62
+aS'validate ... model'
+p63
 aS'design'
-p69
+p64
 aS'identify opportunity'
-p70
-aS'validate model'
-p71
+p65
 aS'understand'
-p72
+p66
 aS'implement'
-p73
+p67
+aS'statistical model'
+p68
 aS'model'
-p74
+p69
 aS'decision-making'
-p75
+p70
 aS'documentation'
-p76
+p71
 as.

@@ -4,130 +4,127 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0097392874767718556
 sS'pmp'
 p5
-I1
+F0.022563647186815351
 sS'data science'
 p6
-I1
-sS'problem solving'
+F0.0051846591623301687
+sS'analytics'
 p7
-I1
-sS'education'
+F0.0037488683706186493
+sS'problem solving'
 p8
-I1
-sS'outsourcing'
+F0.010580223555832978
+sS'sas'
 p9
-I1
-sS'research'
+F0.0059708485201612786
+sS'education'
 p10
-I1
-sS'stata'
+F0.0090458049560916774
+sS'outsourcing'
 p11
-I1
-sS'advanced analytics'
+F0.02358255949873167
+sS'research'
 p12
-I1
-sS'microsoft excel'
+F0.014709661063133418
+sS'stata'
 p13
-I1
-sS'data analysis'
+F0.013118314796114959
+sS'advanced analytics'
 p14
-I1
-sS'data modeling'
+F0.012684528251457257
+sS'microsoft excel'
 p15
-I1
-sS'government'
+F0.0088656674788901314
+sS'data analysis'
 p16
-I1
-sS'sql'
+F0.0063955259265761431
+sS'data modeling'
 p17
-I1
-sS'modeling'
+F0.011259490279389101
+sS'government'
 p18
-I1
-sS'data'
+F0.022475168238180736
+sS'sql'
 p19
-I1
-sS'security'
+F0.0029394131846252028
+sS'modeling'
 p20
-I1
-sS'project management'
+F0.0035006279699204847
+sS'data'
 p21
-I1
-sS'national security'
+F0.003578493168626338
+sS'security'
 p22
-I1
-sS'analysis'
+F0.018839231169998204
+sS'project management'
 p23
-I1
-sS'spss'
+F0.0081959194970885607
+sS'national security'
 p24
-I1
-sS'r'
-I1
-sS'microsoft access'
+F0.018114884602638284
+sS'science'
 p25
-I1
-sS'data analytics'
+F0.0030303184835952257
+sS'analysis'
 p26
-I1
-ssS'working-year'
+F0.0029536096702942236
+sS'spss'
 p27
-(dp28
-V(5, 10]
+F0.0095101242709377809
+sS'r'
+F0.0023922082181635396
+sS'microsoft access'
+p28
+F0.023215501591661469
+sS'data analytics'
 p29
-I1
-ssS'major'
+F0.0088031150064042975
+ssS'working-year'
 p30
 (dp31
-S'data science'
+V(5, 10]
 p32
-I1
-sS'data analyst'
+F0.0051967425067968049
+ssS'major'
 p33
-I1
-sS'data analytics'
-p34
-I1
-sS'advanced analytics'
+(dp34
+VData Science
 p35
-I1
-sS'law'
+F0.0044279697526080283
+sVManagement Science and Engineering
 p36
-I1
-sS'project management'
-p37
-I1
+F0.0055583816313314327
 ssS'education'
-p38
-(dp39
+p37
+(dp38
 VBachelor
-p40
-I1
+p39
+F0.0039283570158185638
 ssS'responsibility'
-p41
-(dp42
+p40
+(dp41
 S'development'
-p43
-I1
+p42
+F0.010439318986328609
 sS'data analysis'
-p44
-I1
+p43
+F0.0063955259265761431
 sS'analysis'
-p45
-I1
+p44
+F0.0029536096702942236
 sS'recommendation'
-p46
-I1
+p45
+F0.011259490279389101
 sS'report'
-p47
-I1
+p46
+F0.0089451569835018487
 sS'modeling'
-p48
-I1
+p47
+F0.0035006279699204847
 sS'model'
-p49
-I1
+p48
+F0.0066698743185415552
 ss.

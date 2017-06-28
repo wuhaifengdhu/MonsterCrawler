@@ -2,77 +2,79 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'supply chain'
 p4
-aS'supply chain'
-p5
-aS'education'
-p6
-aS'big data'
-p7
 aS'unsupervised learning'
+p5
+aS'engineering'
+p6
+aS'sas'
+p7
+aS'education'
 p8
-aS'scala'
-p9
-aS'python'
-p10
-aS'optimization'
-p11
-aS'data scientist'
-p12
-aS'machine learning'
-p13
-aS'data architecture'
-p14
-aS'r'
-aS'architecture'
-p15
-aS'process development'
-p16
-aS'computer science'
-p17
-aS'spark'
-p18
-aS'manufacturing'
-p19
-aS'data'
-p20
 aS'experimentation'
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'big data'
-p27
-aS'business'
-p28
-aS'machine learning'
-p29
-aS'design'
-p30
+p9
+aS'visualization'
+p10
+aS'big data'
+p11
+aS'scala'
+p12
+aS'research'
+p13
+aS'r'
 aS'computer science'
-p31
-aS'law'
-p32
-asS'education'
-p33
-(lp34
-S'Bachelor'
-p35
-asS'responsibility'
-p36
-(lp37
-S'development'
-p38
+p14
+aS'python'
+p15
+aS'data scientist'
+p16
+aS'spark'
+p17
+aS'manufacturing'
+p18
+aS'data'
+p19
+aS'process development'
+p20
+aS'science'
+p21
+aS'machine learning'
+p22
+aS'data architecture'
+p23
 aS'optimization'
+p24
+aS'architecture'
+p25
+asS'working-year'
+p26
+(lp27
+S'[0]'
+p28
+asS'major'
+p29
+(lp30
+VEngineering
+p31
+aVComputer Science
+p32
+aVBusiness
+p33
+asS'education'
+p34
+(lp35
+VMaster
+p36
+asS'responsibility'
+p37
+(lp38
+S'development'
 p39
-aS'design'
+aS'optimization'
 p40
-aS'improvement'
+aS'design'
 p41
+aS'improvement'
+p42
 as.

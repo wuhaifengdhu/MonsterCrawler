@@ -1,5 +1,5 @@
-skills: {'clustering': 1, 'calculus': 1, 'classification': 1, 'python': 1, 'linear algebra': 1, 'data science': 1, 'data scientist': 1, 'machine learning': 1, 'access': 1, 'credit': 1, 'r': 1, 'computer science': 1, 'problem solving': 1, 'sql': 1, 'mathematics': 1, 'data analytics': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'law': 1, 'data science': 1, 'machine learning': 1, 'computer science': 1, 'statistic': 1, 'mathematics': 1, 'computer science mathematics': 1, 'data analytics': 1}
-education: {u'Master': 1, u'Doctor': 1}
-responsibility: {'report': 1, 'information': 1, 'understand': 1, 'recommendation': 1}
+skills: {'clustering': 0.026421414430788607, 'calculus': 0.03715484187166397, 'statistics': 0.007643547990185284, 'classification': 0.025863622143099008, 'python': 0.004272553383223492, 'science': 0.005762572854049938, 'data science': 0.009859351849677043, 'data scientist': 0.008683374304621953, 'machine learning': 0.0053730960806068805, 'access': 0.019011983812266025, 'credit': 0.07813610223535196, 'linear algebra': 0.03608710663192265, 'a': 0.03065642448547585, 'computer science': 0.011524452976944433, 'problem solving': 0.020119769384862714, 'sql': 0.005589703760926616, 'mathematics': 0.01498273182029349, 'r': 0.004549117267327387, 'data': 0.0009721433432333846, 'data analytics': 0.01674034984824424}
+working-year: {u'(2, 5]': 0.01015528220025521}
+major: {u'Mathematics': 0.014051414176905344, u'Data Science': 0.008420401496762809, u'Statistics': 0.014766432540066233, u'Computer Science': 0.007420948740591785}
+education: {u'Master': 0.0059613170920014506, u'Doctor': 0.008927719440790722}
+responsibility: {'report': 0.017010462460429747, 'information': 0.02273942950048188, 'understand': 0.017226883716756358, 'recommendation': 0.021411489711625174}

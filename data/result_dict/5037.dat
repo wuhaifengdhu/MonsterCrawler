@@ -14,66 +14,67 @@ aS'hive'
 p8
 aS'weka'
 p9
-aS'research'
+aS'sas'
 p10
-aS'quantitative analysis'
+aS'research'
 p11
-aS'random forest'
+aS'quantitative analysis'
 p12
-aS'finance'
+aS'random forest'
 p13
-aS'clustering'
+aS'finance'
 p14
-aS'visualization'
+aS'clustering'
 p15
-aS'java'
+aS'visualization'
 p16
-aS'big data'
+aS'statistics'
 p17
-aS'anomaly detection'
+aS'java'
 p18
-aS'predictive modeling'
+aS'big data'
 p19
-aS'excel'
+aS'anomaly detection'
 p20
-aS'tableau'
+aS'predictive modeling'
 p21
-aS'access'
+aS'excel'
 p22
-aS'perl'
+aS'tableau'
 p23
-aS'mahout'
+aS'access'
 p24
-aS'optimization'
+aS'perl'
 p25
-aS'statistical software'
+aS'mahout'
 p26
-aS'matlab'
+aS'optimization'
 p27
-aS'innovation'
+aS'statistical software'
 p28
-aS'unstructured data'
+aS'matlab'
 p29
-aS'operations research'
+aS'innovation'
 p30
-aS'computer science'
+aS'unstructured data'
 p31
-aS'linear regression'
+aS'operations research'
 p32
-aS'graph theory'
+aS'computer science'
 p33
-aS'distributed computing'
+aS'linear regression'
 p34
-aS'theory'
+aS'graph theory'
 p35
-aS'python'
+aS'distributed computing'
 p36
-aS'spotfire'
+aS'theory'
 p37
-aS'data scientist'
+aS'python'
 p38
-aS'scala'
+aS'spotfire'
 p39
+aS'c'
 aS'sql'
 p40
 aS'apache'
@@ -111,88 +112,76 @@ aS'product innovation'
 p56
 aS'data analytics'
 p57
-aS'impala'
+aS'scala'
 p58
-aS'powerpoint'
+aS'impala'
 p59
-aS'scripting'
+aS'powerpoint'
 p60
-asS'working-year'
+aS'scripting'
 p61
-(lp62
-V[0]
-p63
-asS'major'
+asS'working-year'
+p62
+(lp63
+S'[0]'
 p64
-(lp65
-S'graph theory'
-p66
-aS'telecommunication'
+asS'major'
+p65
+(lp66
+VStatistics
 p67
-aS'big data'
+aVBusiness
 p68
-aS'computing'
+aVData Science
 p69
-aS'science'
+aVEconomics
 p70
-aS'machine learning'
+aVEngineering
 p71
-aS'business'
+aVComputer Science
 p72
-aS'analytics'
+aVOperations Research
 p73
-aS'engineering'
-p74
-aS'design'
-p75
-aS'operations research'
-p76
-aS'statistic'
-p77
-aS'computer science'
-p78
-aS'data analytics'
-p79
-aS'finance'
-p80
 asS'education'
-p81
-(lp82
-S'Bachelor'
-p83
+p74
+(lp75
+VMaster
+p76
 asS'responsibility'
-p84
-(lp85
+p77
+(lp78
 S'large data set'
-p86
+p79
 aS'product'
-p87
+p80
 aS'documentation'
-p88
+p81
 aS'business problem'
-p89
-aVinsight
-p90
-aS'communicate'
-p91
-aS'analysis'
-p92
-aS'improvement'
-p93
-aS'optimization'
-p94
-aS'design'
-p95
-aS'design experiment'
-p96
-aS'modeling'
-p97
+p82
 aS'understand'
-p98
+p83
+aS'design ... experiment'
+p84
+aS'insight'
+p85
+aS'communicate'
+p86
+aS'analysis'
+p87
+aS'improvement'
+p88
+aS'optimization'
+p89
+aS'design'
+p90
+aS'modeling'
+p91
+aS'manipulate ... data set'
+p92
 aS'model'
-p99
+p93
 aS'prototype'
-p100
+p94
 aS'quantitative analysis'
-p101
+p95
 as.

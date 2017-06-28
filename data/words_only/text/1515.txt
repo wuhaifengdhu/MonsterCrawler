@@ -1,5 +1,5 @@
-skills: {'teradata': 1, 'data analysis': 1, 'theory': 1, 'probability': 1, 'analysis': 1, 'business process': 1, 'engineering': 1, 'statistical tools': 1, 'sql': 1, 'data': 1, 'statistical analysis': 1}
-working-year: {u'(5, 10]': 1, u'(0, 2]': 1}
-major: {'engineering': 1, 'design': 1, u'physic': 1, 'business': 1, 'general': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'product': 1, 'data analysis': 1, 'business problem': 1, 'pattern': 1, 'collect data': 1, 'analysis': 1, 'design': 1, 'construct': 1, 'model': 1}
+skills: {'teradata': 0.012982506010048325, 'data analysis': 0.005261567428956259, 'theory': 0.010391759753451545, 'probability': 0.012357550135366957, 'analysis': 0.001214960006220319, 'business process': 0.010834336629502683, 'engineering': 0.013030369968868666, 'statistical tools': 0.020610209842199665, 'sql': 0.0024182406341597415, 'sas': 0.0049121874350263, 'data': 0.000420572652037138, 'statistical analysis': 0.00913014238798797}
+working-year: {u'(5, 10]': 0.004275334260910846, u'(0, 2]': 0.008076525404575012}
+major: {u'Engineering': 0.00798715931477563, u'Business': 0.0038358664793408303}
+education: {u'Bachelor': 0.0032318398144322935, u'Master': 0.0025790095220715493}
+responsibility: {'product': 0.004769478335878534, 'data analysis': 0.005261567428956259, 'pattern': 0.009285783955936688, 'construct': 0.018821011091219315, 'collect data': 0.018821011091219315, 'analysis': 0.001214960006220319, 'model': 0.010974544978025821}

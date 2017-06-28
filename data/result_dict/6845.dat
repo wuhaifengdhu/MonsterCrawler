@@ -10,105 +10,95 @@ aS'analytics'
 p6
 aS'engineering'
 p7
-aS'spss'
+aS'sas'
 p8
-aS'qlikview'
+aS'spss'
 p9
-aS'visualization'
+aS'd3'
 p10
-aS'management'
+aS'qlikview'
 p11
-aS'program management'
+aS'visualization'
 p12
-aS'tableau'
+aS'management'
 p13
-aS'd3.js'
+aS'program management'
 p14
-aS'computer science'
+aS'tableau'
 p15
-aS'advanced analytics'
+aS'd3.js'
 p16
-aS'mathematics'
+aS'computer science'
 p17
-aS'change management'
+aS'advanced analytics'
 p18
-aS'python'
+aS'mathematics'
 p19
-aS'data scientist'
+aS'change management'
 p20
-aS'collaboration'
+aS'python'
 p21
-aS'spotfire'
+aS'data scientist'
 p22
-aS'business process'
+aS'collaboration'
 p23
-aS'leadership'
+aS'spotfire'
 p24
-aS'modeling'
+aS'business process'
 p25
-aS'data'
+aS'leadership'
 p26
-aS'training'
+aS'modeling'
 p27
-aS'science'
+aS'data'
 p28
-aS'machine learning'
+aS'training'
 p29
+aS'science'
+p30
+aS'machine learning'
+p31
 aS'r'
 asS'working-year'
-p30
-(lp31
-V(2, 5]
 p32
+(lp33
+V(2, 5]
+p34
 asS'major'
-p33
-(lp34
-S'management'
 p35
-aS'business'
-p36
-aS'science'
+(lp36
+VBusiness
 p37
-aS'data science'
+aVData Science
 p38
-aS'machine learning'
+aVEngineering
 p39
-aS'business leadership'
+aVComputer Science
 p40
-aS'analytics'
+aVMathematics
 p41
-aS'engineering'
+aVManagement Science and Engineering
 p42
-aS'design'
-p43
-aS'computer science'
-p44
-aS'advanced analytics'
-p45
-aS'mathematics'
-p46
-aS'mathematics computer science'
-p47
 asS'education'
+p43
+(lp44
+VBachelor
+p45
+aVMaster
+p46
+aVDoctor
+p47
+asS'responsibility'
 p48
 (lp49
-VBachelor
-p50
-aVMaster
-p51
-aVDoctor
-p52
-asS'responsibility'
-p53
-(lp54
 S'development'
-p55
+p50
 aS'analytic'
-p56
+p51
 aS'model'
-p57
+p52
 aS'design'
-p58
+p53
 aS'modeling'
-p59
+p54
 as.

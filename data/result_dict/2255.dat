@@ -22,110 +22,93 @@ aS'simulation'
 p12
 aS'geography'
 p13
-aS'research'
+aS'statistics'
 p14
-aS'computer science'
+aS'research'
 p15
-aS'innovation'
+aS'computer science'
 p16
-aS'python'
+aS'innovation'
 p17
-aS'data scientist'
+aS'python'
 p18
-aS'modeling'
+aS'data scientist'
 p19
-aS'data'
+aS'management'
 p20
-aS'hydrology'
+aS'modeling'
 p21
-aS'remote sensing'
+aS'data'
 p22
-aS'science'
+aS'hydrology'
 p23
-aS'machine learning'
+aS'remote sensing'
 p24
-aS'data analytics'
+aS'science'
 p25
-asS'working-year'
+aS'machine learning'
 p26
-(lp27
-V(2, 5]
+aS'r'
+aS'databases'
+p27
+aS'physics'
 p28
-asS'major'
+asS'working-year'
 p29
 (lp30
-S'hydrology'
+V(2, 5]
 p31
-aS'business'
+asS'major'
 p32
-aS'geography'
-p33
-aS'science'
+(lp33
+VStatistics
 p34
-aS'machine learning data science'
+aVBusiness
 p35
-aS'statistic'
+aVData Science
 p36
-aS'communication'
+aVEngineering
 p37
-aS'machine learning data mining'
+aVComputer Science
 p38
-aS'computer science'
+aVManagement Science and Engineering
 p39
-aS'engineering'
+aVPhysics
 p40
-aS'design'
+aVGeography
 p41
-aVphysic
-p42
-aS'phd'
-p43
-aS'data mining'
-p44
-aS'computer science engineering'
-p45
-aS'machine learning'
-p46
-aS'data science'
-p47
-aS'data analytics'
-p48
-aS'history'
-p49
 asS'education'
-p50
-(lp51
-VMaster
-p52
+p42
+(lp43
+VBachelor
+p44
 aVDoctor
-p53
+p45
 asS'responsibility'
-p54
-(lp55
+p46
+(lp47
 S'business problem'
-p56
-aVinsight
-p57
+p48
+aS'insight'
+p49
 aS'communicate'
-p58
+p50
 aS'simulation'
-p59
+p51
 aS'analytic'
-p60
-aS'statistical method'
-p61
+p52
 aS'design'
-p62
+p53
 aS'data mining'
-p63
+p54
 aS'modeling'
-p64
+p55
 aS'implement'
-p65
+p56
 aS'prototype'
-p66
+p57
 aS'extract'
-p67
+p58
 aS'model'
-p68
+p59
 as.

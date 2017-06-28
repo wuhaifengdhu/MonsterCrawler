@@ -2,82 +2,82 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'statistics'
 p4
-I1
+F0.0067573395275551057
 sS'finance'
 p5
-I1
-sS'research'
+F0.019240188798432527
+sS'economics'
 p6
-I1
-sS'talent management'
+F0.017365882785213487
+sS'research'
 p7
-I1
-sS'leadership'
+F0.0061823213163894079
+sS'analytics'
 p8
-I1
-sS'advanced analytics'
+F0.006302445376692222
+sS'talent management'
 p9
-I1
-sS'data'
+F0.041677208265464685
+sS'leadership'
 p10
-I1
-ssS'working-year'
-p11
-(dp12
-V(5, 10]
-p13
-I1
-sV(2, 5]
-p14
-I1
-ssS'major'
-p15
-(dp16
-S'information'
-p17
-I1
-sS'economics statistics'
-p18
-I1
-sS'finance'
-p19
-I1
-sS'business'
-p20
-I1
-sS'management'
-p21
-I1
-sS'statistic'
-p22
-I1
+F0.035921926547909176
 sS'advanced analytics'
+p11
+F0.021324714161870172
+sS'management'
+p12
+F0.0065655715014467549
+sS'data'
+p13
+F0.0017188621431083032
+ssS'working-year'
+p14
+(dp15
+V(5, 10]
+p16
+F0.0087365526201221653
+sV(2, 5]
+p17
+F0.008977858177037213
+ssS'major'
+p18
+(dp19
+VData Science
+p20
+F0.0074441230623555265
+sVEconomics
+p21
+F0.01188964889510479
+sVStatistics
+p22
+F0.013054382390493335
+sVBusiness
 p23
-I1
-sS'business economics'
+F0.0078385097621312631
+sVManagement Science and Engineering
 p24
-I1
+F0.0093445256410789306
 ssS'education'
 p25
 (dp26
 VBachelor
 p27
-I1
+F0.0066041944034051217
 ssS'responsibility'
 p28
 (dp29
 S'analytic'
 p30
-I1
+F0.032720666265212216
 sS'model'
 p31
-I1
+F0.011213122042765512
 sS'analytical method'
 p32
-I1
+F0.038882563445093665
 sS'information'
 p33
-I1
+F0.010051486953111555
 ss.

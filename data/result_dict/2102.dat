@@ -18,7 +18,7 @@ aS'unix'
 p10
 aS'data analysis'
 p11
-aS'analysis'
+aS'hive'
 p12
 aS'problem solving'
 p13
@@ -46,47 +46,47 @@ aS'access'
 p24
 aS'ssis'
 p25
-aS'devops'
-p26
 aS'policy'
-p27
+p26
 aS'unstructured data'
-p28
+p27
 aS'data management'
-p29
+p28
 aS'analysis services'
-p30
+p29
 aS'flume'
-p31
+p30
 aS'teradata'
-p32
+p31
 aS'asp'
-p33
+p32
 aS'pig'
-p34
+p33
 aS'python'
-p35
+p34
 aS'informatica'
-p36
+p35
 aS'javascript'
-p37
+p36
 aS'data scientist'
-p38
+p37
 aS'processing'
-p39
+p38
 aS'data quality'
+p39
+aS'devops'
 p40
-aS'hive'
-p41
 aS'data processing'
-p42
+p41
 aS'sql'
-p43
+p42
 aS'sqoop'
-p44
+p43
 aS'manufacturing'
-p45
+p44
 aS'data'
+p45
+aS'software development'
 p46
 aS'c'
 aS'sql server'
@@ -99,7 +99,7 @@ aS'programming'
 p50
 aS'mapreduce'
 p51
-aS'c++'
+aS'analysis'
 p52
 aS'olap'
 p53
@@ -112,63 +112,55 @@ p56
 asS'working-year'
 p57
 (lp58
-V[0]
+S'[0]'
 p59
 asS'major'
 p60
 (lp61
-S'information'
+VData Science
 p62
-aS'management'
+aVComputer Science
 p63
-aS'business'
+aVBusiness
 p64
-aS'big data'
+aVManagement Science and Engineering
 p65
-aS'science'
-p66
-aS'data science'
-p67
-aS'design'
-p68
-aS'data mining'
-p69
 asS'education'
-p70
-(lp71
-S'Bachelor'
-p72
+p66
+(lp67
+VMaster
+p68
 asS'responsibility'
-p73
-(lp74
+p69
+(lp70
 S'development'
-p75
+p71
 aS'information'
-p76
+p72
 aS'data analysis'
-p77
+p73
 aS'processing'
-p78
+p74
 aS'business problem'
-p79
+p75
 aS'presentation'
-p80
-aVinsight
-p81
+p76
+aS'insight'
+p77
 aS'analysis'
-p82
+p78
 aS'model'
-p83
+p79
 aS'design'
-p84
+p80
 aS'data mining'
-p85
+p81
 aS'understand'
-p86
+p82
 aS'implement'
-p87
+p83
 aS'extract'
-p88
+p84
 aS'transformation'
-p89
+p85
 as.

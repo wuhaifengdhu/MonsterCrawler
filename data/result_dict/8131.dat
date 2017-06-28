@@ -4,7 +4,7 @@ p2
 (lp3
 S'teradata'
 p4
-aS'data analysis'
+aS'management'
 p5
 aS'theory'
 p6
@@ -20,45 +20,45 @@ aS'analytics'
 p11
 aS'engineering'
 p12
-aS'statistical tools'
+aS'data analysis'
 p13
-aS'statistical modeling'
+aS'statistical tools'
 p14
-aS'sql'
+aS'statistical modeling'
 p15
-aS'modeling'
+aS'sql'
 p16
-aS'analysis'
+aS'sas'
 p17
-aS'data'
+aS'modeling'
 p18
-aS'statistical analysis'
+aS'analysis'
 p19
-asS'working-year'
+aS'data'
 p20
-(lp21
-V(5, 10]
+aS'project management'
+p21
+aS'statistical analysis'
 p22
-aV(0, 2]
+asS'working-year'
 p23
-aV(2, 5]
-p24
-asS'major'
+(lp24
+V(5, 10]
 p25
-(lp26
-S'business'
+aV(0, 2]
+p26
+aV(2, 5]
 p27
-aS'communication'
+asS'major'
 p28
-aS'general'
-p29
-aS'analytics'
+(lp29
+VData Science
 p30
-aS'engineering'
+aVEngineering
 p31
-aS'design'
+aVBusiness
 p32
-aVphysic
+aVManagement Science and Engineering
 p33
 asS'education'
 p34
@@ -74,22 +74,16 @@ S'product'
 p40
 aS'data analysis'
 p41
-aS'business problem'
-p42
 aS'pattern'
-p43
+p42
 aS'collect data'
-p44
-aS'statistical model'
-p45
-aS'design'
-p46
+p43
 aS'construct'
-p47
+p44
 aS'modeling'
-p48
-aS'analysis'
-p49
+p45
 aS'model'
-p50
+p46
+aS'analysis'
+p47
 as.

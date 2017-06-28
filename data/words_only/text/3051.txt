@@ -1,5 +1,5 @@
-skills: {'consulting': 1, 'unix': 1, 'troubleshooting': 1, 'linux': 1, 'perl': 1, 'vmware': 1, 'management': 1, 'java': 1, 'storage': 1, 'strategy': 1, 'distributed computing': 1, 'python': 1, 'aws': 1, 'data scientist': 1, 'splunk': 1, 'data': 1, 'information technology': 1, 'documentation': 1, 'programming': 1, 'engineering': 1, 'root': 1, 'scripting': 1}
-working-year: {u'(10, 15]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'computing': 1, 'engineering': 1, 'design': 1, 'information technology': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'documentation': 1, 'design': 1, 'report': 1, 'implement': 1}
+skills: {'consulting': 0.006867825819486537, 'engineering': 0.0037229628482481902, 'troubleshooting': 0.01142973393840181, 'linux': 0.016833538338594797, 'education': 0.00637880471067863, 'vmware': 0.01546554259703098, 'management': 0.0027539479246190034, 'java': 0.003766768898687792, 'storage': 0.011369305661235438, 'strategy': 0.00478726878792351, 'gcp': 0.018071763508280284, 'distributed computing': 0.010873545478599735, 'python': 0.0015843511025935137, 'aws': 0.007943697108758998, 'perl': 0.008711400438569508, 'splunk': 0.2884633001285008, 'data': 0.0007209816892065222, 'information technology': 0.009473097482558496, 'a': 0.005684017913720445, 'windows': 0.030727327178878806, 'documentation': 0.008812890452717418, 'programming': 0.0033505022335406564, 'unix': 0.007848294190836018, 'root': 0.011904376387377399, 'scripting': 0.0073953932445187335}
+working-year: {u'(10, 15]': 0.005949624182973736}
+major: {u'Engineering': 0.0037229628482481902, u'Information Science': 0.007698040086790559, u'Computer Science': 0.0027518411743227894, u'Business': 0.003287885553720712, u'Management Science and Engineering': 0.003919588262823381}
+education: {u'Bachelor': 0.002770148412370537, u'Master': 0.0022105795903470424}
+responsibility: {'development': 0.0036807325301340993, 'information': 0.00843225045306623, 'documentation': 0.008812890452717418, 'design': 0.00887792589676886, 'report': 0.0063078310643538875, 'implement': 0.019311822265528335}

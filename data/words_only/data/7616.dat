@@ -4,205 +4,190 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0036145419157782108
 sS'management consulting'
 p5
-I1
+F0.0087566574638296077
 sS'sqoop'
 p6
-I1
+F0.010761353582700979
 sS'presentation skills'
 p7
-I1
+F0.010578609382068106
 sS'hadoop'
 p8
-I1
+F0.0029333481767113354
 sS'information technology'
 p9
-I1
+F0.0071156371501409701
 sS'analytics'
 p10
-I1
+F0.0039714039359978383
 sS'thought leadership'
 p11
-I1
+F0.0093645636975550738
 sS'security clearance'
 p12
-I1
-sS'accounting'
+F0.00834205587502025
+sS'sas'
 p13
-I1
-sS'econometrics'
+F0.0031626412252909056
+sS'accounting'
 p14
-I1
-sS'business analysis'
+F0.010069154767958574
+sS'econometrics'
 p15
-I1
-sS'visualization'
+F0.007002873424064476
+sS'business analysis'
 p16
-I1
-sS'management'
+F0.006092539270039392
+sS'visualization'
 p17
-I1
-sS'power bi'
+F0.0042792129496209341
+sS'management'
 p18
-I1
-sS'recruiting'
+F0.0062058141589017264
+sS'power bi'
 p19
-I1
-sS'tableau'
+F0.011651668705660131
+sS'recruiting'
 p20
-I1
-sS'writing'
+F0.0078741969192177869
+sS'tableau'
 p21
-I1
-sS'coaching'
+F0.0045868175505109398
+sS'writing'
 p22
-I1
-sS'quality assurance'
+F0.005130274717083317
+sS'coaching'
 p23
-I1
-sS'policy'
+F0.0088167413621785349
+sS'materials'
 p24
-I1
+F0.010034297952473995
 sS'matlab'
 p25
-I1
-sS'text mining'
+F0.0029141579626439833
+sS'policy'
 p26
-I1
-sS'customer satisfaction'
+F0.0062320964110519394
+sS'quality assurance'
 p27
-I1
-sS'performance management'
+F0.0089099403422215739
+sS'text mining'
 p28
-I1
-sS'government'
+F0.0075031619393849426
+sS'customer satisfaction'
 p29
-I1
-sS'training'
+F0.010329298491037206
+sS'performance management'
 p30
-I1
-sS'advanced analytics'
+F0.010833838555054424
+sS'government'
 p31
-I1
-sS'leadership'
+F0.017856982983760036
+sS'python'
 p32
-I1
-sS'sql'
+F0.0011900719469252648
+sS'training'
 p33
-I1
-sS'business development'
-p34
-I1
-sS'pig'
-p35
-I1
-sS'project management'
-p36
-I1
-sS'search'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'spss'
-p39
-I1
-sS'r'
-I1
-sS'security'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(5, 10]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'information'
-p46
-I1
-sS'management'
-p47
-I1
-sS'business analysis'
-p48
-I1
-sS'business'
-p49
-I1
-sS'communication'
-p50
-I1
-sS'analytics'
-p51
-I1
-sS'design'
-p52
-I1
-sS'information technology'
-p53
-I1
-sS'applied math'
-p54
-I1
+F0.0053728190662610253
 sS'advanced analytics'
-p55
-I1
-sS'accounting'
-p56
-I1
-sS'econometrics'
-p57
-I1
+p34
+F0.0067187455578495052
+sS'leadership'
+p35
+F0.003772622422839776
+sS'sql'
+p36
+F0.0015569494493905185
+sS'business development'
+p37
+F0.0079423522352561251
+sS'pig'
+p38
+F0.006161251541360482
+sS'data'
+p39
+F0.00027077965268144499
 sS'project management'
-p58
-I1
-ssS'education'
-p59
-(dp60
-VMaster
-p61
-I1
-ssS'responsibility'
-p62
-(dp63
-S'development'
-p64
-I1
-sS'large data set'
-p65
-I1
-sS'mine data'
-p66
-I1
-sS'information'
-p67
-I1
-sS'discover pattern'
-p68
-I1
-sS'communicate'
-p69
-I1
+p40
+F0.004341217633161064
+sS'search'
+p41
+F0.0070821684421227575
 sS'analysis'
-p70
-I1
+p42
+F0.00078223452455280802
+sS'spss'
+p43
+F0.0050373260978483223
+sS'r'
+F0.0012671057228628793
+sS'security'
+p44
+F0.0049893854240177895
+ssS'working-year'
+p45
+(dp46
+sS'major'
+p47
+(dp48
+VBusiness
+p49
+F0.0024696674593016306
+sVData Science
+p50
+F0.0023454086360846179
+sVEconomics
+p51
+F0.0037460537614713717
+sVInformation Science
+p52
+F0.0057823177820869719
+sVMathematics
+p53
+F0.0039138642227909857
+sVManagement Science and Engineering
+p54
+F0.0029441656129426765
+ssS'education'
+p55
+(dp56
+VMaster
+p57
+F0.0016604581854433261
+ssS'responsibility'
+p58
+(dp59
+S'development'
+p60
+F0.0055295022941283956
+sS'information'
+p61
+F0.0031669068482406268
+sS'large data set'
+p62
+F0.007179125879755402
+sS'discover pattern'
+p63
+F0.014852111553554682
+sS'communicate'
+p64
+F0.0045804632015561458
+sS'analysis'
+p65
+F0.00078223452455280802
 sS'analytic'
-p71
-I1
+p66
+F0.041237004060267445
 sS'design'
-p72
-I1
+p67
+F0.0033342895205901312
 sS'model'
-p73
-I1
+p68
+F0.00353290146552886
 sS'presentation'
-p74
-I1
+p69
+F0.0056240966719397411
 ss.

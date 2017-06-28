@@ -2,162 +2,156 @@
 S'skills'
 p2
 (dp3
-S'r'
-I1
-sS'data analysis'
+S'data science'
 p4
-I1
-sS'processing'
+F0.0050539534691621812
+sS'data mining'
 p5
-I1
-sS'python'
+F0.0089158795322778883
+sS'sas'
 p6
-I1
-sS'programming'
+F0.0058203229272160359
+sS'strategy'
 p7
-I1
-sS'data science'
+F0.0066176950891883813
+sS'econometrics'
 p8
-I1
-sS'natural language processing'
+F0.025775282014623868
+sS'statistics'
 p9
-I1
-sS'data scientist'
+F0.0078362424773328106
+sS'data'
 p10
-I1
+F0.00099665115860901599
 sS'innovation'
 p11
-I1
-sS'customer analysis'
-p12
-I1
-sS'strategy'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'optimization'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'data mining'
-p17
-I1
-sS'mathematics'
-p18
-I1
+F0.0081337171098097624
 sS'research'
-p19
-I1
-sS'ruby'
-p20
-I1
-sS'econometrics'
-p21
-I1
-sS'operations research'
-p22
-I1
-sS'analysis'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(5, 10]
-p26
-I1
-sV(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'mathematics physics'
-p30
-I1
-sS'data science'
-p31
-I1
-sS'data mining'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'design'
-p34
-I1
-sS'natural language processing'
-p35
-I1
-sS'statistic'
-p36
-I1
-sVphysic
-p37
-I1
-sS'mathematics'
-p38
-I1
-sS'phd'
-p39
-I1
-sS'econometrics'
-p40
-I1
-sS'operations research'
-p41
-I1
+p12
+F0.0071694146358129264
+sS'r'
+F0.002331900447957736
 sS'computer science'
-p42
-I1
-ssS'education'
-p43
-(dp44
-VMaster
-p45
-I1
-sVDoctor
-p46
-I1
-ssS'responsibility'
-p47
-(dp48
-S'development'
-p49
-I1
-sS'product'
-p50
-I1
+p13
+F0.0059074927024673138
+sS'natural language processing'
+p14
+F0.0105292358485727
+sS'mathematics'
+p15
+F0.015360447748536182
+sS'operations research'
+p16
+F0.012104783678789536
 sS'data analysis'
-p51
-I1
-sS'data mining'
-p52
-I1
+p17
+F0.0062342941805280045
+sS'python'
+p18
+F0.0043802648130526547
 sS'processing'
-p53
-I1
+p19
+F0.0068617146498769748
+sS'data scientist'
+p20
+F0.004451141450268396
+sS'customer analysis'
+p21
+F0.020315835193191894
+sS'ruby'
+p22
+F0.028548845078399134
+sS'science'
+p23
+F0.0029539238999751779
+sS'programming'
+p24
+F0.0092631532339065206
 sS'analysis'
-p54
-I1
-sS'cross-functionally'
-p55
-I1
+p25
+F0.002879148922303613
+sS'machine learning'
+p26
+F0.002754276142159829
 sS'optimization'
-p56
-I1
+p27
+F0.0084033985604560595
+sS'physics'
+p28
+F0.020446087205434144
+ssS'working-year'
+p29
+(dp30
+V(5, 10]
+p31
+F0.0050657321914994065
+sV(2, 5]
+p32
+F0.0052056488589543506
+ssS'major'
+p33
+(dp34
+VStatistics
+p35
+F0.0075693477726389916
+sVData Science
+p36
+F0.0043163402630464814
+sVComputer Science
+p37
+F0.0038040157409756207
+sVMathematics
+p38
+F0.0072028257545481171
+sVPhysics
+p39
+F0.011024084458823909
+sVOperations Research
+p40
+F0.013524071000786361
+ssS'education'
+p41
+(dp42
+VMaster
+p43
+F0.0030558011984209111
+sVDoctor
+p44
+F0.0045763939990607896
+ssS'responsibility'
+p45
+(dp46
+S'development'
+p47
+F0.010176142877429567
+sS'product'
+p48
+F0.01695369189980353
+sS'data analysis'
+p49
+F0.0062342941805280045
+sS'data mining'
+p50
+F0.0089158795322778883
+sS'processing'
+p51
+F0.0068617146498769748
+sS'analysis'
+p52
+F0.002879148922303613
+sS'cross-functionally'
+p53
+F0.021378838295895767
+sS'optimization'
+p54
+F0.0084033985604560595
 sS'design'
-p57
-I1
+p55
+F0.006136213487472595
 sS'recommendation'
-p58
-I1
+p56
+F0.010975637583270047
 sS'model'
-p59
-I1
+p57
+F0.019505178679432446
 ss.

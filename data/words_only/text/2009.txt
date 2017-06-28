@@ -1,5 +1,5 @@
-skills: {'communication': 1, 'integration': 1, 'engineering': 1, 'education': 1, 'management': 1, 'agile': 1, 'storage': 1, 'saas': 1, 'devops': 1, 'research': 1, 'computer science': 1, 'innovation': 1, 'information security': 1, 'jenkins': 1, 'data scientist': 1, 'automation': 1, 'data': 1, 'risk assessment': 1, 'test automation': 1, 'architecture': 1, 'organization': 1, 'security': 1}
-working-year: {u'(5, 10]': 1, u'(0, 2]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'communication': 1, 'automation': 1, 'engineering': 1, 'design': 1, 'computer science': 1, 'development practice': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, u'insight': 1, 'design': 1, 'prototype': 1}
+skills: {'communication': 0.006868413705470093, 'integration': 0.020010786309714642, 'engineering': 0.007970855382258056, 'education': 0.004552335682892124, 'management': 0.003930797688501745, 'agile': 0.009473708775269022, 'storage': 0.008113886252812277, 'devops': 0.01791901816885051, 'research': 0.0018506731923248118, 'computer science': 0.0030498552346794375, 'innovation': 0.004199185839771635, 'information security': 0.01020197435067691, 'jenkins': 0.009686852991602704, 'data scientist': 0.0022979862584899748, 'automation': 0.00723437814634232, 'fraud': 0.008485588016503879, 'data': 0.00025727003877326014, 'saas': 0.013394977423864042, 'risk assessment': 0.010972474486384323, 'science': 0.001525019280247489, 'test automation': 0.011432720266796936, 'architecture': 0.004744066209728109, 'organization': 0.011474081383611808, 'security': 0.028442743805463667}
+working-year: {}
+major: {u'Engineering': 0.007970855382258056, u'Computer Science': 0.0019638953283127934, u'Business': 0.0023464519461477533, u'Management Science and Engineering': 0.002797276656114734}
+education: {u'Bachelor': 0.001976960580628865}
+responsibility: {'development': 0.002626813454260561, 'information': 0.003008904988133177, 'product': 0.011670220309915373, 'insight': 0.003980245891560705, 'design': 0.006335873362336129, 'prototype': 0.0068398512224505156}

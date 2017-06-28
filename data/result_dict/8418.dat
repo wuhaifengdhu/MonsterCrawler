@@ -2,94 +2,87 @@
 S'skills'
 p2
 (lp3
-S'science'
+S'communication'
 p4
-aS'networking'
-p5
-aS'business analysis'
-p6
-aS'critical thinking'
-p7
-aS'customer service'
-p8
-aS'english'
-p9
-aS'data scientist'
-p10
-aS'command'
-p11
-aS'data'
-p12
-aS'writing'
-p13
-aS'analysis'
-p14
-aS'communication'
-p15
 aS'troubleshooting'
-p16
+p5
+aS'laboratory'
+p6
+aS'networking'
+p7
+aS'critical thinking'
+p8
+aS'hipaa'
+p9
+aS'writing'
+p10
 aS'computer science'
+p11
+aS'policy'
+p12
+aS'data munging'
+p13
+aS'business analysis'
+p14
+aS'customer service'
+p15
+aS'data scientist'
+p16
+aS'automation'
 p17
 aS'sql'
 p18
-aS'policy'
+aS'data'
 p19
-aS'laboratory'
-p20
-aS'automation'
-p21
-aS'hipaa'
-p22
-aS'data munging'
-p23
-asS'working-year'
-p24
-(lp25
-V(2, 5]
-p26
-asS'major'
-p27
-(lp28
-S'information'
-p29
-aS'business analysis'
-p30
-aS'business'
-p31
+aS'a'
 aS'science'
-p32
-aS'communication'
-p33
-aS'data analyst'
-p34
-aS'automation'
-p35
-aS'information system'
-p36
-aS'computer science'
-p37
-aS'english'
-p38
-asS'education'
-p39
-(lp40
-S'Bachelor'
-p41
-asS'responsibility'
-p42
-(lp43
-S'information'
-p44
-aS'communicate'
-p45
+p20
 aS'analysis'
-p46
+p21
+aS'command'
+p22
+aS'english'
+p23
+aS'validation'
+p24
+asS'working-year'
+p25
+(lp26
+V(2, 5]
+p27
+asS'major'
+p28
+(lp29
+VData Science
+p30
+aVComputer Science
+p31
+aVBusiness
+p32
+asS'education'
+p33
+(lp34
+VBachelor
+p35
+aVMaster
+p36
+asS'responsibility'
+p37
+(lp38
+S'information'
+p39
+aS'develop ... system'
+p40
+aS'communicate'
+p41
+aS'analysis'
+p42
 aS'understand'
-p47
+p43
 aS'report'
-p48
+p44
 aS'implement'
-p49
+p45
 aS'evaluation'
-p50
+p46
 as.

@@ -2,153 +2,132 @@
 S'skills'
 p2
 (dp3
-S'segmentation'
+S'communication'
 p4
-I1
-sS'distributed computing'
+F0.0081606667995404968
+sS'engineering'
 p5
-I1
-sS'scala'
-p6
-I1
-sS'python'
-p7
-I1
-sS'communication'
-p8
-I1
-sS'applied mathematics'
-p9
-I1
-sS'sql'
-p10
-I1
-sS'data scientist'
-p11
-I1
-sS'hadoop'
-p12
-I1
-sS'customer retention'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'engineering'
-p15
-I1
-sS'r'
-I1
+F0.012627368835810872
 sS'statistical analysis'
-p16
-I1
+p6
+F0.013271650275322721
 sS'data mining'
-p17
-I1
+p7
+F0.010938037776712048
 sS'go'
+p8
+F0.016901614407358906
+sS'statistics'
+p9
+F0.0096135345855938616
+sS'scala'
+p10
+F0.012580239111848643
+sS'hadoop'
+p11
+F0.013245427849480049
+sS'computer science'
+p12
+F0.0072473364081815494
+sS'mathematics'
+p13
+F0.0094221303199783796
+sS'segmentation'
+p14
+F0.014928099547062066
+sS'distributed computing'
+p15
+F0.018440187950821196
+sS'python'
+p16
+F0.00268686346780034
+sS'customer retention'
+p17
+F0.029073347832084061
+sS'data scientist'
 p18
-I1
-sS'modeling'
+F0.0054606786864117435
+sS'sql'
 p19
-I1
-sS'spark'
-p20
-I1
-sS'analysis'
-p21
-I1
-sS'computer science'
-p22
-I1
-ssS'working-year'
-p23
-(dp24
-V(2, 5]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'mathematics physics'
-p28
-I1
-sS'mathematics computer science'
-p29
-I1
-sS'computing'
-p30
-I1
-sS'communication'
-p31
-I1
-sS'applied mathematics'
-p32
-I1
-sS'statistic'
-p33
-I1
-sS'computer science statistics'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'statistics applied mathematics'
-p36
-I1
-sS'engineering'
-p37
-I1
-sS'applied math'
-p38
-I1
-sS'design'
-p39
-I1
-sS'computer science'
-p40
-I1
-sS'data mining'
-p41
-I1
-sVphysic
-p42
-I1
-sS'phd'
-p43
-I1
-sS'applied mathematics computer science'
-p44
-I1
-sS'data mining machine learning'
-p45
-I1
-ssS'education'
-p46
-(dp47
-VDoctor
-p48
-I1
-ssS'responsibility'
-p49
-(dp50
-S'analysis'
-p51
-I1
-sS'design'
-p52
-I1
-sS'data mining'
-p53
-I1
+F0.0035151745300672529
 sS'modeling'
-p54
-I1
+p20
+F0.0041863179846471773
+sS'spark'
+p21
+F0.0086914207387405081
+sS'data'
+p22
+F0.00061134787564161297
+sS'science'
+p23
+F0.0036238860216190332
+sS'applied mathematics'
+p24
+F0.015577890437338692
+sS'analysis'
+p25
+F0.0017660758853305667
+sS'machine learning'
+p26
+F0.0033789573290414396
+sS'r'
+F0.0028607850856388721
+sS'physics'
+p27
+F0.025083344097388282
+ssS'working-year'
+p28
+(dp29
+V(2, 5]
+p30
+F0.00638631148675843
+ssS'major'
+p31
+(dp32
+VMathematics
+p33
+F0.008836456338053876
+sVEngineering
+p34
+F0.01161020065343674
+sVStatistics
+p35
+F0.0092861070612787634
+sVPhysics
+p36
+F0.013524392274227271
+sVComputer Science
+p37
+F0.004666782197691741
+ssS'education'
+p38
+(dp39
+VMaster
+p40
+F0.0037488695114648294
+sVDoctor
+p41
+F0.0056143390297756085
+ssS'responsibility'
+p42
+(dp43
+S'analysis'
+p44
+F0.0017660758853305667
+sS'design'
+p45
+F0.0075279320104045238
+sS'data mining'
+p46
+F0.010938037776712048
+sS'modeling'
+p47
+F0.0041863179846471773
 sS'model'
-p55
-I1
+p48
+F0.047858067275308482
 sS'prototype'
-p56
-I1
+p49
+F0.016253460894586021
 ss.

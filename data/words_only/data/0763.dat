@@ -2,123 +2,114 @@
 S'skills'
 p2
 (dp3
-S'clustering'
+S'classification'
 p4
-I1
-sS'data analysis'
+F0.019721011884112995
+sS'data science'
 p5
-I1
-sS'finance'
-p6
-I1
-sS'classification'
-p7
-I1
-sS'data science'
-p8
-I1
-sS'economics'
-p9
-I1
-sS'data scientist'
-p10
-I1
-sS'apache spark'
-p11
-I1
-sS'analysis'
-p12
-I1
-sS'research'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'r'
-I1
+F0.0075177557853787456
 sS'statistical analysis'
-p15
-I1
-sS'innovation'
-p16
-I1
-sS'apache'
-p17
-I1
-sS'modeling'
-p18
-I1
-sS'spark'
-p19
-I1
-sS'data'
-p20
-I1
-sVpanda
-p21
-I1
-sS'matlab'
-p22
-I1
-ssS'working-year'
-p23
-(dp24
-V(2, 5]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'information'
-p28
-I1
-sS'finance'
-p29
-I1
-sS'statistics economics'
-p30
-I1
-sS'data science'
-p31
-I1
-sS'economics'
-p32
-I1
-sS'computer science statistics'
-p33
-I1
+p6
+F0.0160918759588288
+sS'clustering'
+p7
+F0.020146328503476314
+sS'statistics'
+p8
+F0.0058282053425162787
+sS'research'
+p9
+F0.0053322521353858648
 sS'computer science'
-p34
-I1
-sS'statistic'
-p35
-I1
-sS'ee computer science'
-p36
-I1
+p10
+F0.0087873953949201295
+sS'innovation'
+p11
+F0.012098904200842024
+sS'pandas'
+p12
+F0.02570651544519801
+sS'matlab'
+p13
+F0.0079775074227379054
+sS'data analysis'
+p14
+F0.0092735125935354077
+sS'finance'
+p15
+F0.033189325677296107
+sS'data scientist'
+p16
+F0.0066210729072742397
+sS'apache spark'
+p17
+F0.016422533077437126
+sS'apache'
+p18
+F0.014144386053387678
+sS'modeling'
+p19
+F0.0050759105563847034
+sS'spark'
+p20
+F0.010538347645722868
+sS'data'
+p21
+F0.0051888150945081897
+sS'science'
+p22
+F0.0043939618012130777
+sS'economics'
+p23
+F0.014978073902246633
+sS'analysis'
+p24
+F0.0021413670109633122
+sS'r'
+F0.0034687019163371323
+ssS'working-year'
+p25
+(dp26
+V(2, 5]
+p27
+F0.0077434026776945974
+ssS'major'
+p28
+(dp29
+VData Science
+p30
+F0.0064205561412816418
+sVEconomics
+p31
+F0.010254822172027882
+sVStatistics
+p32
+F0.011259404811800502
+sVComputer Science
+p33
+F0.0056584734147012358
 ssS'education'
+p34
+(dp35
+S'Bachelor'
+p36
+F0.0056961176729369177
+ssS'responsibility'
 p37
 (dp38
-S'Bachelor'
-p39
-I1
-ssS'responsibility'
-p40
-(dp41
 S'modeling'
-p42
-I1
+p39
+F0.0050759105563847034
 sS'statistical method'
-p43
-I1
+p40
+F0.021973690181571946
 sS'data analysis'
-p44
-I1
+p41
+F0.0092735125935354077
 sS'analysis'
-p45
-I1
+p42
+F0.0021413670109633122
 sS'information'
-p46
-I1
+p43
+F0.0086694074970587159
 ss.

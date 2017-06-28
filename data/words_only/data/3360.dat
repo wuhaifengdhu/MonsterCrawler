@@ -4,214 +4,202 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.012117521376728816
 sS'consulting'
 p5
-I1
+F0.0072420342775995853
 sS'communication'
 p6
-I1
+F0.0050742607663809497
 sS'data science'
 p7
-I1
+F0.003855259377117305
 sS'analytics'
 p8
-I1
+F0.0083628602113800642
 sS'engineering'
 p9
-I1
+F0.0078516331863695814
 sS'data mining'
 p10
-I1
-sVpanda
+F0.0068012157970581332
+sS'sas'
 p11
-I1
-sS'open source'
+F0.0044398617201199253
+sS'statistics'
 p12
-I1
-sS'big data'
+F0.0029888232525724506
+sS'open source'
 p13
-I1
-sS'predictive modeling'
+F0.010249742756147739
+sS'big data'
 p14
-I1
-sS'tableau'
+F0.0040792471998803443
+sS'predictive modeling'
 p15
-I1
-sS'computer science'
+F0.0066634804765672104
+sS'tableau'
 p16
-I1
-sS'numpy'
+F0.0064391861766788195
+sS'research'
 p17
-I1
-sS'operations research'
-p18
-I1
-sS'matlab'
-p19
-I1
-sS'teradata'
-p20
-I1
-sS'theory'
-p21
-I1
-sS'python'
-p22
-I1
-sS'marketing'
-p23
-I1
-sS'collaboration'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'scipy'
-p26
-I1
-sS'octave'
-p27
-I1
-sS'sql'
-p28
-I1
-sS'modeling'
-p29
-I1
-sS'data'
-p30
-I1
-sS'statistical programming'
-p31
-I1
-sS'scikit-learn'
-p32
-I1
-sS'analysis'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'data architecture'
-p35
-I1
-sS'r'
-I1
-sS'architecture'
-p36
-I1
-sS'organization'
-p37
-I1
-sS'rapid prototyping'
-p38
-I1
-sS'data integration'
-p39
-I1
-sS'predictive analytics'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(0, 2]
-p43
-I1
-sV(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'big data'
-p47
-I1
-sS'mathematics statistics'
-p48
-I1
-sS'communication'
-p49
-I1
-sS'data science'
-p50
-I1
-sS'data mining'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'analytics'
-p53
-I1
-sS'engineering'
-p54
-I1
-sS'data science operations research'
-p55
-I1
-sS'design'
-p56
-I1
+F0.0054689765491137063
 sS'computer science'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'computer science engineering'
-p59
-I1
-sS'phd'
-p60
-I1
-sS'marketing'
-p61
-I1
+p18
+F0.0045063566127795532
+sS'mathematics'
+p19
+F0.0058586323143455313
+sS'numpy'
+p20
+F0.011498334298421439
+sS'pandas'
+p21
+F0.013182828433434875
 sS'operations research'
-p62
-I1
-sS'predictive analytics'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VMaster
-p66
-I1
-sVDoctor
-p67
-I1
-ssS'responsibility'
-p68
-(dp69
-S'exploratory analysis'
-p70
-I1
-sS'pattern'
-p71
-I1
-sS'analysis'
-p72
-I1
-sS'analytic'
-p73
-I1
-sS'design'
-p74
-I1
-sS'data mining'
-p75
-I1
+p22
+F0.0092337772934356077
+sS'matlab'
+p23
+F0.0040910294475579
+sS'teradata'
+p24
+F0.058670940622333766
+sS'theory'
+p25
+F0.0093925520848504342
+sS'python'
+p26
+F0.001670677925491237
+sS'marketing'
+p27
+F0.0061064568028126563
+sS'collaboration'
+p28
+F0.0081976583976713265
+sS'data scientist'
+p29
+F0.0033954220037303788
+sS'scipy'
+p30
+F0.012953165697067429
+sS'octave'
+p31
+F0.013352050690811912
+sS'sql'
+p32
+F0.0021857174962597661
 sS'modeling'
-p76
-I1
+p33
+F0.002603031054556258
+sS'data'
+p34
+F0.0026609308176965079
+sS'statistical programming'
+p35
+F0.013490137010742484
+sS'science'
+p36
+F0.0022533137442118344
+sS'scikit-learn'
+p37
+F0.011498334298421439
+sS'analysis'
+p38
+F0.0010981369286991343
+sS'machine learning'
+p39
+F0.0021010183392116645
+sS'data architecture'
+p40
+F0.013004722932100329
+sS'r'
+F0.0017788214955575038
+sS'architecture'
+p41
+F0.0070096619316815968
+sS'organization'
+p42
+F0.011302460508215905
+sS'rapid prototyping'
+p43
+F0.016613695940315143
+sS'data integration'
+p44
+F0.012405965257793533
+sS'predictive analytics'
+p45
+F0.0073798018375922769
+ssS'working-year'
+p46
+(dp47
+V(0, 2]
+p48
+F0.0072999364233658761
+sV(2, 5]
+p49
+F0.0039709757321510749
+ssS'major'
+p50
+(dp51
+VStatistics
+p52
+F0.0057740537496412826
+sVData Science
+p53
+F0.0032925928929649442
+sVEconomics
+p54
+F0.0052588831651425028
+sVEngineering
+p55
+F0.0072191632268164344
+sVComputer Science
+p56
+F0.0029017812383083262
+sVMathematics
+p57
+F0.0054944632358411918
+sVOperations Research
+p58
+F0.010316438776240878
+ssS'education'
+p59
+(dp60
+VMaster
+p61
+F0.0023310278372569771
+sVDoctor
+p62
+F0.0034909672172322693
+ssS'responsibility'
+p63
+(dp64
+S'exploratory analysis'
+p65
+F0.017198056908406815
+sS'pattern'
+p66
+F0.0083929201140196981
+sS'analysis'
+p67
+F0.0010981369286991343
+sS'analytic'
+p68
+F0.01447260238653617
+sS'design'
+p69
+F0.0046808295192899921
+sS'data mining'
+p70
+F0.0068012157970581332
+sS'modeling'
+p71
+F0.002603031054556258
 sS'prototype'
-p77
-I1
+p72
+F0.010106318633172075
+sS'decision making'
+p73
+F0.010469817467722799
 ss.

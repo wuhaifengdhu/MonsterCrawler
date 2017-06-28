@@ -2,68 +2,67 @@
 S'skills'
 p2
 (lp3
-S'organization'
+S'a'
+aS'organization'
 p4
 aS'probability'
 p5
 aS'classification'
 p6
-aS'science'
+aS'python'
 p7
-aS'data science'
-p8
-aS'predictive modeling'
-p9
-aS'engineering'
-p10
-aS'architecture'
-p11
-aS'algorithm development'
-p12
-aS'intelligence'
-p13
-aS'modeling'
-p14
-aS'validation'
-p15
-aS'data'
-p16
-aS'artificial intelligence'
-p17
-asS'working-year'
-p18
-(lp19
-V(2, 5]
-p20
-asS'major'
-p21
-(lp22
-S'business'
-p23
 aS'science'
-p24
+p8
 aS'data science'
-p25
+p9
+aS'predictive modeling'
+p10
 aS'engineering'
-p26
-aS'statistic'
-p27
+p11
+aS'architecture'
+p12
+aS'algorithm development'
+p13
+aS'intelligence'
+p14
+aS'modeling'
+p15
+aS'validation'
+p16
+aS'data'
+p17
 aS'artificial intelligence'
-p28
+p18
+asS'working-year'
+p19
+(lp20
+V(2, 5]
+p21
+asS'major'
+p22
+(lp23
+VData Science
+p24
+aVEngineering
+p25
+aVBusiness
+p26
 asS'education'
-p29
-(lp30
+p27
+(lp28
 S'Bachelor'
-p31
+p29
 asS'responsibility'
+p30
+(lp31
+S'development'
 p32
-(lp33
-S'modeling'
-p34
+aS'modeling'
+p33
 aS'product'
+p34
+aS'insight'
 p35
-aVinsight
-p36
 aS'model'
-p37
+p36
 as.

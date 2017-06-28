@@ -2,105 +2,125 @@
 S'skills'
 p2
 (lp3
-S'data science'
+S'aws'
 p4
-aS'hadoop'
+aS'nosql'
 p5
-aS'analytics'
-p6
-aVpanda
-p7
-aS'management'
-p8
-aS'big data'
-p9
-aS'mllib'
-p10
-aS'advanced analytics'
-p11
-aS'unstructured data'
-p12
-aS'pyspark'
-p13
-aS'python'
-p14
-aS'marketing'
-p15
-aS'data scientist'
-p16
-aS'apache spark'
-p17
-aS'sql'
-p18
-aS'apache'
-p19
-aS'modeling'
-p20
-aS'spark'
-p21
-aS'data'
-p22
-aS'science'
-p23
-aS'aws'
-p24
-aS'hive'
-p25
-aS'machine learning'
-p26
-aS'credit'
-p27
-aS'h2o'
-p28
-aS'r'
-aS'financial services'
-p29
-asS'working-year'
-p30
-(lp31
-V(2, 5]
-p32
-asS'major'
-p33
-(lp34
-S'management'
-p35
-aS'business'
-p36
-aS'big data'
-p37
-aS'marketing'
-p38
-aS'machine learning data science'
-p39
-aS'machine learning'
-p40
-aS'analytics'
-p41
-aS'science'
-p42
-aS'advanced analytics'
-p43
 aS'data science'
+p6
+aS'hadoop'
+p7
+aS'analytics'
+p8
+aS'engineering'
+p9
+aS'sas'
+p10
+aS'statistics'
+p11
+aS'big data'
+p12
+aS'industrial engineering'
+p13
+aS'mllib'
+p14
+aS'computer science'
+p15
+aS'advanced analytics'
+p16
+aS'unstructured data'
+p17
+aS'teradata'
+p18
+aS'pyspark'
+p19
+aS'python'
+p20
+aS'marketing'
+p21
+aS'data scientist'
+p22
+aS'apache spark'
+p23
+aS'management'
+p24
+aS'sql'
+p25
+aS'apache'
+p26
+aS'modeling'
+p27
+aS'spark'
+p28
+aS'data'
+p29
+aS'fraud'
+p30
+aS'science'
+p31
+aS'economics'
+p32
+aS'hive'
+p33
+aS'machine learning'
+p34
+aS'credit'
+p35
+aS'h2o'
+p36
+aS'r'
+aS'algorithms'
+p37
+aS'financial services'
+p38
+aS'oracle'
+p39
+aS'pandas'
+p40
+aS'impala'
+p41
+asS'working-year'
+p42
+(lp43
+V(2, 5]
 p44
-asS'education'
+asS'major'
 p45
 (lp46
-VMaster
+VStatistics
 p47
-aVDoctor
+aVBusiness
 p48
-asS'responsibility'
+aVData Science
 p49
-(lp50
-S'analytic'
+aVEconomics
+p50
+aVEngineering
 p51
-aS'implement'
+aVComputer Science
 p52
-aVinsight
+aVIndustrial Engineering
 p53
-aS'pattern'
+aVManagement Science and Engineering
 p54
-aS'modeling'
+asS'education'
 p55
+(lp56
+VMaster
+p57
+aVDoctor
+p58
+asS'responsibility'
+p59
+(lp60
+S'analytic'
+p61
+aS'implement'
+p62
+aS'insight'
+p63
+aS'modeling'
+p64
+aS'pattern'
+p65
 as.

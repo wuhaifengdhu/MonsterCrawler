@@ -2,58 +2,59 @@
 S'skills'
 p2
 (lp3
-S'documentation'
+S'a'
+aS'.net'
 p4
-aS'data modeling'
+aS'documentation'
 p5
-aS'management'
+aS'data modeling'
 p6
-aS'storage'
+aS'management'
 p7
-aS'testing'
+aS'storage'
 p8
-aS'data scientist'
+aS'testing'
 p9
-aS'high performance computing'
+aS'data scientist'
 p10
-aS'data quality'
+aS'high performance computing'
 p11
-aS'engineering'
+aS'data quality'
 p12
+aS'engineering'
+p13
 aS'r'
 aS'etl'
-p13
-aS'system administration'
 p14
-aS'linux'
+aS'system administration'
 p15
-aS'modeling'
+aS'linux'
 p16
-aS'security'
+aS'modeling'
 p17
-aS'education'
+aS'security'
 p18
-aS'data'
+aS'education'
 p19
-aS'linux system administration'
+aS'data'
 p20
-aS'application development'
+aS'linux system administration'
 p21
-asS'working-year'
+aS'application development'
 p22
-(lp23
-V[0]
-p24
-asS'major'
+asS'working-year'
+p23
+(lp24
+S'[0]'
 p25
-(lp26
-S'engineering'
-p27
-aS'management'
+asS'major'
+p26
+(lp27
+VEngineering
 p28
-aS'high performance computing'
+aVComputer Science
 p29
-aS'computing'
+aVManagement Science and Engineering
 p30
 asS'education'
 p31
@@ -65,12 +66,14 @@ p34
 (lp35
 S'development'
 p36
-aS'modeling'
-p37
 aS'documentation'
-p38
-aS'transformation'
-p39
+p37
 aS'mapping'
+p38
+aS'improvement'
+p39
+aS'modeling'
 p40
+aS'transformation'
+p41
 as.

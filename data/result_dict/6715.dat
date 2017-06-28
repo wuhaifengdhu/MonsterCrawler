@@ -10,117 +10,118 @@ aS'unix'
 p6
 aS'hive'
 p7
-aS'data mining'
+aS'problem solving'
 p8
-aVpanda
-p9
-aS'management'
-p10
-aS'open source'
-p11
-aS'asset management'
-p12
-aS'storage'
-p13
-aS'hadoop'
-p14
-aS'computer science'
-p15
-aS'gas'
-p16
-aS'thought leadership'
-p17
-aS'data scientist'
-p18
-aS'water'
-p19
-aS'leadership'
-p20
-aS'networking'
-p21
-aS'manufacturing'
-p22
-aS'data'
-p23
-aS'engineering'
-p24
-aS'wireless'
-p25
-aS'search'
-p26
-aS'open source software'
-p27
-aS'science'
-p28
-aS'mapreduce'
-p29
-aS'analysis'
-p30
-aS'optimization'
-p31
-aS'scripting'
-p32
-aS'statistical analysis'
-p33
-asS'working-year'
-p34
-(lp35
-V(2, 5]
-p36
-asS'major'
-p37
-(lp38
-S'information'
-p39
-aS'management'
-p40
-aS'telecommunication'
-p41
-aS'business'
-p42
-aS'science'
-p43
-aS'statistic'
-p44
-aS'analytics'
-p45
-aS'engineering'
-p46
-aS'design'
-p47
-aS'computer science'
-p48
 aS'data mining'
+p9
+aVpanda
+p10
+aS'statistics'
+p11
+aS'open source'
+p12
+aS'asset management'
+p13
+aS'storage'
+p14
+aS'hadoop'
+p15
+aS'optimization'
+p16
+aS'computer science'
+p17
+aS'python'
+p18
+aS'gas'
+p19
+aS'thought leadership'
+p20
+aS'data scientist'
+p21
+aS'water'
+p22
+aS'leadership'
+p23
+aS'sql'
+p24
+aS'networking'
+p25
+aS'manufacturing'
+p26
+aS'data'
+p27
+aS'engineering'
+p28
+aS'wireless'
+p29
+aS'search'
+p30
+aS'open source software'
+p31
+aS'science'
+p32
+aS'mapreduce'
+p33
+aS'analysis'
+p34
+aS'r'
+aS'management'
+p35
+aS'physics'
+p36
+aS'scripting'
+p37
+aS'statistical analysis'
+p38
+asS'working-year'
+p39
+(lp40
+V(2, 5]
+p41
+asS'major'
+p42
+(lp43
+VStatistics
+p44
+aVBusiness
+p45
+aVData Science
+p46
+aVEngineering
+p47
+aVComputer Science
+p48
+aVPhysics
 p49
-aS'physics computer science'
+aVManagement Science and Engineering
 p50
-aVphysic
-p51
 asS'education'
-p52
-(lp53
-VMaster
+p51
+(lp52
+VBachelor
+p53
+aVMaster
 p54
-asS'responsibility'
+aVDoctor
 p55
-(lp56
-S'data mining'
-p57
-aS'large data set'
+asS'responsibility'
+p56
+(lp57
+S'information'
 p58
-aS'mine data'
+aS'large data set'
 p59
 aS'business problem'
 p60
 aS'predict'
 p61
-aS'identify trend'
+aS'pattern'
 p62
-aVinsight
+aS'insight'
 p63
-aS'collect data'
+aS'recommendation'
 p64
-aS'information'
+aS'collect data'
 p65
 aS'optimization'
 p66
@@ -128,9 +129,9 @@ aS'design'
 p67
 aS'analysis'
 p68
-aS'recommendation'
+aS'data mining'
 p69
-aS'pattern'
+aS'identify ... trend'
 p70
 aS'implement'
 p71

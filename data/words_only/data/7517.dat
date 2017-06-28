@@ -4,68 +4,74 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0091109463492381887
 sS'cloudera'
 p5
-I1
+F0.018348527544536586
 sS'network security'
 p6
-I1
+F0.02096887160572504
 sS'emr'
 p7
-I1
+F0.019221617285487984
 sS'aws'
 p8
-I1
+F0.021076422167594436
 sS'security clearance'
 p9
-I1
+F0.014733147069592216
 sS'risk management'
 p10
-I1
-sS'hive'
+F0.012740956959629984
+sS'management'
 p11
-I1
-sS'oozie'
+F0.0036534228516115004
+sS'hive'
 p12
-I1
-sS'security'
+F0.0084102993931048642
+sS'oozie'
 p13
-I1
-sS'information technology'
+F0.020516788364609649
+sS'policy'
 p14
-I1
-ssS'working-year'
+F0.011006686403390118
+sS'security'
 p15
-(dp16
-V(10, 15]
-p17
-I1
-ssS'major'
-p18
-(dp19
-S'business management'
-p20
-I1
-sS'information'
-p21
-I1
-sS'network security'
-p22
-I1
+F0.017623796900966063
 sS'information technology'
+p16
+F0.012567133353878004
+ssS'working-year'
+p17
+(dp18
+V(10, 15]
+p19
+F0.0078928482104772529
+ssS'major'
+p20
+(dp21
+VInformation Science
+p22
+F0.010212319308685863
+sVBusiness
 p23
-I1
-ssS'education'
+F0.0043617513998956215
+sVManagement Science and Engineering
 p24
-(dp25
+F0.0051997763647939205
+ssS'education'
+p25
+(dp26
 VBachelor
-p26
-I1
-ssS'responsibility'
 p27
-(dp28
-S'information'
-p29
-I1
+F0.003674914627701237
+ssS'responsibility'
+p28
+(dp29
+S'development'
+p30
+F0.0048829072677988652
+sS'information'
+p31
+F0.0055931661271346553
 ss.

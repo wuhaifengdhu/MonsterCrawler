@@ -4,247 +4,231 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.010163082444998363
 sS'consulting'
 p5
-I1
+F0.0060739642328254597
 sS'aerospace'
 p6
-I1
+F0.013094356195649666
 sS'communication'
 p7
-I1
+F0.0042558316105130549
 sS'data science'
 p8
-I1
+F0.0032334433485499982
 sS'analytics'
 p9
-I1
+F0.0046760078601264876
 sS'engineering'
 p10
-I1
+F0.0065852407369551332
 sS'data mining'
 p11
-I1
-sVpanda
+F0.0057042455072100475
+sS'sas'
 p12
-I1
+F0.0037237549910683248
 sS'clustering'
 p13
-I1
-sS'open source'
+F0.0086650875283769101
+sS'statistics'
 p14
-I1
-sS'big data'
+F0.0050135099720570141
+sS'open source'
 p15
-I1
-sS'anomaly detection'
-p16
-I1
-sS'predictive modeling'
-p17
-I1
-sS'tableau'
-p18
-I1
-sS'fortran'
-p19
-I1
-sS'matlab'
-p20
-I1
-sS'numpy'
-p21
-I1
-sS'operations research'
-p22
-I1
-sS'computer science'
-p23
-I1
-sS'teradata'
-p24
-I1
-sS'theory'
-p25
-I1
-sS'python'
-p26
-I1
-sS'marketing'
-p27
-I1
-sS'collaboration'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'scipy'
-p30
-I1
-sS'octave'
-p31
-I1
-sS'sql'
-p32
-I1
-sS'modeling'
-p33
-I1
-sS'spark'
-p34
-I1
-sS'data'
-p35
-I1
-sS'statistical programming'
-p36
-I1
-sS'scikit-learn'
-p37
-I1
-sS'java'
-p38
-I1
-sS'programming'
-p39
-I1
-sS'analysis'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'data architecture'
-p42
-I1
-sS'r'
-I1
-sS'architecture'
-p43
-I1
-sS'organization'
-p44
-I1
-sS'rapid prototyping'
-p45
-I1
-sS'data integration'
-p46
-I1
-sS'predictive analytics'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(2, 5]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'information'
-p53
-I1
+F0.008596558440640039
 sS'big data'
-p54
-I1
-sS'mathematics statistics'
-p55
-I1
-sS'marketing'
-p56
-I1
-sS'data science'
-p57
-I1
-sS'data mining'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'general'
-p60
-I1
-sS'analytics'
-p61
-I1
-sS'engineering'
-p62
-I1
-sS'data science operations research'
-p63
-I1
-sS'design'
-p64
-I1
+p16
+F0.0034213041031254505
+sS'anomaly detection'
+p17
+F0.011814576621461318
+sS'predictive modeling'
+p18
+F0.0055887255609918546
+sS'tableau'
+p19
+F0.005400607761085462
+sS'research'
+p20
+F0.0045868835573211735
+sS'fortran'
+p21
+F0.010065715718721169
 sS'computer science'
-p65
-I1
-sS'phd'
-p66
-I1
-sS'statistic'
-p67
-I1
-sS'computer science engineering'
-p68
-I1
-sS'machine learning'
-p69
-I1
+p22
+F0.0037795249010409162
+sS'mathematics'
+p23
+F0.0049136916184833491
+sS'numpy'
+p24
+F0.0096437642502889501
+sS'pandas'
+p25
+F0.011056565782880865
 sS'operations research'
-p70
-I1
-sS'predictive analytics'
-p71
-I1
-ssS'education'
-p72
-(dp73
-VMaster
-p74
-I1
-sVDoctor
-p75
-I1
-ssS'responsibility'
-p76
-(dp77
-S'development'
-p78
-I1
-sS'information'
-p79
-I1
-sS'exploratory analysis'
-p80
-I1
-sS'pattern'
-p81
-I1
-sS'analysis'
-p82
-I1
-sS'analytic'
-p83
-I1
-sS'design'
-p84
-I1
-sS'data mining'
-p85
-I1
+p26
+F0.0077444583751395428
+sS'matlab'
+p27
+F0.0034311859882743679
+sS'teradata'
+p28
+F0.059049462819897217
+sS'theory'
+p29
+F0.007877624329229397
+sS'python'
+p30
+F0.0028024274879207851
+sS'marketing'
+p31
+F0.0051215444152622278
+sS'collaboration'
+p32
+F0.0068754554303049843
+sS'data scientist'
+p33
+F0.0028477732934512859
+sS'scipy'
+p34
+F0.010863945423346877
+sS'octave'
+p35
+F0.011198494127777733
+sS'sql'
+p36
+F0.0018331824162178686
 sS'modeling'
-p86
-I1
+p37
+F0.0021831873360794425
+sS'spark'
+p38
+F0.0045326226433216633
+sS'data'
+p39
+F0.0028693908356727318
+sS'statistical programming'
+p40
+F0.011314308460622731
+sS'scikit-learn'
+p41
+F0.0096437642502889501
+sS'c'
+F0.0033618868921991866
+sS'java'
+p42
+F0.0033313628163125905
+sS'science'
+p43
+F0.0018898760435325066
+sS'programming'
+p44
+F0.0029632129968679461
+sS'analysis'
+p45
+F0.00092101806923153219
+sS'machine learning'
+p46
+F0.0017621444135323639
+sS'data architecture'
+p47
+F0.010907186975309955
+sS'r'
+F0.0014919148027256483
+sS'architecture'
+p48
+F0.0058790712975394042
+sS'organization'
+p49
+F0.0094794830068907592
+sS'rapid prototyping'
+p50
+F0.01393406756284496
+sS'data integration'
+p51
+F0.010405003119439739
+sS'predictive analytics'
+p52
+F0.0061895112186257806
+ssS'working-year'
+p53
+(dp54
+V(2, 5]
+p55
+F0.003330495775352515
+ssS'major'
+p56
+(dp57
+VStatistics
+p58
+F0.0048427547577636568
+sVData Science
+p59
+F0.0027615295231318889
+sVEconomics
+p60
+F0.004410676203022745
+sVEngineering
+p61
+F0.006054782061200881
+sVComputer Science
+p62
+F0.0024337520063231126
+sVMathematics
+p63
+F0.0046082594881248712
+sVOperations Research
+p64
+F0.0086524970381375108
+ssS'education'
+p65
+(dp66
+VMaster
+p67
+F0.0019550556054413358
+sVDoctor
+p68
+F0.0029279079886464195
+ssS'responsibility'
+p69
+(dp70
+S'development'
+p71
+F0.0032552715118659105
+sS'information'
+p72
+F0.0037287774180897707
+sS'exploratory analysis'
+p73
+F0.014424176761889587
+sS'pattern'
+p74
+F0.014078446642871754
+sS'analysis'
+p75
+F0.00092101806923153219
+sS'analytic'
+p76
+F0.012138311679030338
+sS'design'
+p77
+F0.0039258570161787038
+sS'data mining'
+p78
+F0.0057042455072100475
+sS'modeling'
+p79
+F0.0021831873360794425
 sS'model'
-p87
-I1
+p80
+F0.0041597065642517226
 sS'prototype'
-p88
-I1
+p81
+F0.0084762672407249686
+sS'decision making'
+p82
+F0.0087811372309933161
 ss.

@@ -27,37 +27,31 @@ p14
 asS'working-year'
 p15
 (lp16
-V[0]
+S'[0]'
 p17
 asS'major'
 p18
 (lp19
-S'science'
+VData Science
 p20
-aS'data science'
+aVEngineering
 p21
-aS'machine learning'
+aVComputer Science
 p22
-aS'engineering'
-p23
-aS'statistic'
-p24
-aS'data science engineering'
-p25
 asS'education'
+p23
+(lp24
+S'Bachelor'
+p25
+asS'responsibility'
 p26
 (lp27
-S'Bachelor'
-p28
-asS'responsibility'
-p29
-(lp30
 S'modeling'
-p31
+p28
 aS'implement'
-p32
+p29
 aS'model'
-p33
+p30
 aS'formulate'
-p34
+p31
 as.

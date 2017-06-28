@@ -2,82 +2,78 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'software development'
 p4
-aS'problem solving'
-p5
-aS'continuous improvement'
-p6
 aS'change management'
+p5
+aS'saas'
+p6
+aS'product development'
 p7
 aS'management'
 p8
 aS'agile'
 p9
-aS'saas'
-p10
-aS'research'
-p11
-aS'risk management'
-p12
-aS'coaching'
-p13
-aS'strategy'
-p14
-aS'sdlc'
-p15
-aS'innovation'
-p16
-aS'product development'
-p17
 aS'scrum'
-p18
+p10
 aS'data scientist'
-p19
+p11
+aS'research'
+p12
+aS'risk management'
+p13
+aS'coaching'
+p14
 aS'leadership'
-p20
-aS'data'
-p21
-aS'b2b'
-p22
-aS'project management'
-p23
-aS'software development'
-p24
+p15
+aS'sdlc'
+p16
+aS'innovation'
+p17
+aS'continuous improvement'
+p18
 aS'organization'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-aV(2, 5]
-p29
-asS'major'
-p30
-(lp31
-S'communication'
-p32
-aS'management'
-p33
-aS'business'
-p34
+p19
+aS'problem solving'
+p20
+aS'strategy'
+p21
+aS'data'
+p22
+aS'b2b'
+p23
 aS'project management'
-p35
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+aV(2, 5]
+p28
+asS'major'
+p29
+(lp30
+VBusiness
+p31
+aVManagement Science and Engineering
+p32
 asS'education'
+p33
+(lp34
+VMaster
+p35
+asS'responsibility'
 p36
 (lp37
-VMaster
-p38
-asS'responsibility'
-p39
-(lp40
 S'report'
-p41
+p38
 aS'development'
-p42
+p39
 aS'product'
-p43
+p40
+aS'decision making'
+p41
 aS'improvement'
-p44
+p42
 as.

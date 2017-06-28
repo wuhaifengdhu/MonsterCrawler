@@ -4,113 +4,151 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.011596808746892043
 sS'communication'
 p5
-I1
+F0.0067083447419951543
 sS'data science'
 p6
-I1
-sS'engineering'
+F0.0050967835833076233
+sS'sql'
 p7
-I1
-sS'mysql'
+F0.0028895926221739286
+sS'hadoop'
 p8
-I1
-sS'machine learning'
+F0.0054440953449134107
+sS'engineering'
 p9
-I1
-sS'cassandra'
+F0.010380125229437751
+sS'mysql'
 p10
-I1
-sS'visualization'
+F0.010059991214776364
+sS'sas'
 p11
-I1
-sS'hdfs'
+F0.0058696476977856639
+sS'machine learning'
 p12
-I1
-sS'python'
+F0.002777617465398472
+sS'd3'
 p13
-I1
-sS'data scientist'
+F0.012797429204174975
+sS'cassandra'
 p14
-I1
-sS'bloomberg'
+F0.015950875095596086
+sS'qlikview'
 p15
-I1
-sS'spark'
+F0.017079685487720465
+sS'visualization'
 p16
-I1
+F0.0079419291183642771
 sS'data'
 p17
-I1
-sS'software development'
+F0.003015292064605244
+sS'tableau'
 p18
-I1
-sS'search'
+F0.0085128224030669147
+sS'd3.js'
 p19
-I1
-sS'data visualization'
+F0.014676749445085575
+sS'matlab'
 p20
-I1
-sS'market data'
+F0.0054084796086358673
+sS'hdfs'
 p21
-I1
-sS'programming'
+F0.016904930357448084
+sS'python'
 p22
-I1
-sS'simulation'
+F0.0022086928506494319
+sS'mongodb'
 p23
-I1
-sS'oracle'
+F0.012530066795853285
+sS'data scientist'
 p24
-I1
-sS'statistical inference'
+F0.0044888629879825349
+sS'bloomberg'
 p25
-I1
-ssS'working-year'
+F0.059917027998597827
+sS'splunk'
 p26
-(dp27
-V(2, 5]
+F0.020106869860651858
+sS'spark'
+p27
+F0.014289284943353039
+sS'solr'
 p28
-I1
-ssS'major'
+F0.017575971056731539
+sS'software development'
 p29
-(dp30
-S'communication'
+F0.0089838839748867475
+sS'search'
+p30
+F0.013144024481566813
+sS'data visualization'
 p31
-I1
-sS'data science'
+F0.008333617057540682
+sS'science'
 p32
-I1
-sS'engineering'
+F0.0029789571533647983
+sS'market data'
 p33
-I1
-sS'machine learning'
+F0.026026779750399586
+sS'programming'
 p34
-I1
-ssS'education'
+F0.0046708272662494745
+sS'simulation'
 p35
-(dp36
-S'Bachelor'
+F0.011376422829128693
+sS'r'
+F0.0023516623161607677
+sS'oracle'
+p36
+F0.011122972451531024
+sS'statistical inference'
 p37
-I1
-ssS'responsibility'
+F0.019281503521377433
+ssS'working-year'
 p38
 (dp39
-S'develop system'
+V(2, 5]
 p40
-I1
-sS'development'
+F0.0052497645272505744
+ssS'major'
 p41
-I1
-sS'product'
-p42
-I1
-sS'ownership'
+(dp42
+VData Science
 p43
-I1
-sS'simulation'
+F0.0043529194178180616
+sVEngineering
 p44
-I1
+F0.0095439785032488452
+sVComputer Science
+p45
+F0.0038362531625093124
+ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0038617746935165542
+sVMaster
+p49
+F0.003081697818746512
+ssS'responsibility'
+p50
+(dp51
+S'development'
+p52
+F0.0051311906881954181
+sS'product'
+p53
+F0.011398244836591073
+sS'develop ... system'
+p54
+F0.019841955470254101
+sS'ownership'
+p55
+F0.016696158686810965
+sS'simulation'
+p56
+F0.011376422829128693
 ss.

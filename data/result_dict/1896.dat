@@ -2,89 +2,87 @@
 S'skills'
 p2
 (lp3
-S'validation'
+S'model validation'
 p4
-aS'mysql'
-p5
-aS'model validation'
-p6
-aS'science'
-p7
 aS'testing'
+p5
+aS'mysql'
+p6
+aS'sas'
+p7
+aS'visualization'
 p8
-aS'programming'
+aS'statistics'
 p9
 aS'tableau'
 p10
-aS'analysis'
-p11
-aS'machine learning'
-p12
-aS'python'
-p13
-aS'r'
-aS'computer science'
-p14
-aS'sql'
-p15
-aS'oracle'
-p16
-aS'etl'
-p17
 aS'writing'
-p18
-aS'data'
-p19
+p11
 aS'optimization'
-p20
+p12
+aS'computer science'
+p13
+aS'python'
+p14
 aS'data quality'
+p15
+aS'sql'
+p16
+aS'data'
+p17
+aS'science'
+p18
+aS'programming'
+p19
+aS'analysis'
+p20
+aS'machine learning'
 p21
-asS'working-year'
+aS'r'
+aS'oracle'
 p22
-(lp23
-V(2, 5]
+aS'validation'
+p23
+aS'etl'
 p24
-asS'major'
+asS'working-year'
 p25
 (lp26
-S'business'
+V(2, 5]
 p27
-aS'science'
+asS'major'
 p28
-aVapplied statistic
-p29
-aS'machine learning'
+(lp29
+VStatistics
 p30
-aS'computer science'
+aVComputer Science
 p31
-aS'applied statistics'
+aVBusiness
 p32
-aS'statistic'
-p33
-aS'ee computer science'
-p34
 asS'education'
-p35
-(lp36
+p33
+(lp34
 VBachelor
-p37
+p35
 asS'responsibility'
+p36
+(lp37
+Vass ... improvement
 p38
-(lp39
-S'business problem'
-p40
+aS'business problem'
+p39
 aS'analysis'
-p41
+p40
 aS'statistical model'
-p42
+p41
 aS'optimization'
-p43
+p42
 aS'understand'
-p44
+p43
 aS'recommendation'
-p45
+p44
 aS'model'
-p46
+p45
 aS'improvement'
-p47
+p46
 as.

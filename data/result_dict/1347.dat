@@ -18,7 +18,7 @@ aS'hbase'
 p10
 aS'data analytics'
 p11
-aS'geography'
+aS'cassandra'
 p12
 aS'visualization'
 p13
@@ -32,111 +32,101 @@ aS'big data'
 p17
 aS'hadoop'
 p18
-aS'computer science'
+aS'perl'
 p19
-aS'innovation'
+aS'etl'
 p20
-aS'cassandra'
+aS'computer science'
 p21
-aS'data modeling'
+aS'innovation'
 p22
-aS'mongodb'
+aS'geography'
 p23
-aS'collaboration'
+aS'data modeling'
 p24
-aS'data scientist'
+aS'python'
 p25
+aS'mongodb'
+p26
+aS'collaboration'
+p27
+aS'data scientist'
+p28
 aS'c'
 aS'data quality'
-p26
-aS'informatics'
-p27
-aS'modeling'
-p28
-aS'spark'
 p29
-aS'data'
+aS'scripting'
 p30
-aS'training'
-p31
-aS'science'
-p32
-aS'mapreduce'
-p33
-aS'analysis'
-p34
-aS'machine learning'
-p35
-aS'data architecture'
-p36
-aS'etl'
-p37
-aS'security'
-p38
-aS'data integration'
-p39
-asS'working-year'
-p40
-(lp41
-V(2, 5]
-p42
-asS'major'
-p43
-(lp44
-S'information'
-p45
-aS'management'
-p46
-aS'business'
-p47
-aS'big data'
-p48
-aS'computing'
-p49
-aS'computational science'
-p50
-aS'communication'
-p51
-aS'machine learning'
-p52
-aS'analytics'
-p53
-aS'design'
-p54
-aS'computer science'
-p55
-aS'science'
-p56
 aS'informatics'
-p57
-aS'data analytics'
-p58
-aS'geography'
-p59
-asS'education'
-p60
-(lp61
-VBachelor
-p62
-aVMaster
-p63
-asS'responsibility'
-p64
-(lp65
-S'development'
-p66
-aS'information'
-p67
-aS'data infrastructure'
-p68
-aVinsight
-p69
-aS'analysis'
-p70
-aS'design'
-p71
+p31
 aS'modeling'
-p72
+p32
+aS'spark'
+p33
+aS'data'
+p34
+aS'training'
+p35
+aS'science'
+p36
+aS'mapreduce'
+p37
+aS'analysis'
+p38
+aS'machine learning'
+p39
+aS'data architecture'
+p40
+aS'architecture'
+p41
+aS'security'
+p42
+aS'data integration'
+p43
+asS'working-year'
+p44
+(lp45
+V(2, 5]
+p46
+asS'major'
+p47
+(lp48
+VBusiness
+p49
+aVData Science
+p50
+aVInformation Science
+p51
+aVComputer Science
+p52
+aVGeography
+p53
+aVManagement Science and Engineering
+p54
+asS'education'
+p55
+(lp56
+VBachelor
+p57
+aVMaster
+p58
+asS'responsibility'
+p59
+(lp60
+S'development'
+p61
+aS'information'
+p62
+aS'data infrastructure'
+p63
+aS'insight'
+p64
+aS'analysis'
+p65
+aS'design'
+p66
+aS'modeling'
+p67
 aS'implement'
-p73
+p68
 as.

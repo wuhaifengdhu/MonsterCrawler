@@ -14,23 +14,23 @@ aS'powerpoint'
 p8
 aS'amazon web services'
 p9
-aS'excel'
-p10
 aS'data science'
-p11
+p10
 aS'testing'
-p12
+p11
 aS'integration'
-p13
+p12
 aS'analytics'
-p14
+p13
 aS'engineering'
-p15
+p14
 aS'statistical analysis'
-p16
+p15
 aS'problem solving'
-p17
+p16
 aS'data mining'
+p17
+aS'sas'
 p18
 aS'tableau'
 p19
@@ -48,7 +48,7 @@ aS'power bi'
 p25
 aS'predictive modeling'
 p26
-aS'r programming'
+aS'excel'
 p27
 aS'hadoop'
 p28
@@ -96,25 +96,25 @@ aS'customer retention'
 p49
 aS'cart'
 p50
-aS'business process'
-p51
 aS'leadership'
-p52
+p51
 aS'data processing'
-p53
+p52
 aS'sql'
-p54
+p53
 aS'regression'
-p55
+p54
 aS'modeling'
-p56
+p55
 aS'data'
-p57
+p56
 aS'project management'
-p58
+p57
 aS'customer experience'
-p59
+p58
 aS'linux'
+p59
+aS'vba'
 p60
 aS'glm'
 p61
@@ -135,120 +135,98 @@ aS'command'
 p68
 aS'data analytics'
 p69
-aS'microsoft office'
+aS'organization'
 p70
-aS'industrial engineering'
+aS'microsoft office'
 p71
-aS'microsoft azure'
-p72
-asS'working-year'
-p73
-(lp74
-V(2, 5]
-p75
-asS'major'
-p76
-(lp77
-S'computer science computer engineering'
-p78
-aS'data science'
-p79
-aS'data mining'
-p80
-aS'analytics'
-p81
-aS'engineering'
-p82
-aS'design'
-p83
-aS'statistic'
-p84
-aS'econometrics'
-p85
-aS'geography'
-p86
-aS'management'
-p87
 aS'industrial engineering'
-p88
-aVapplied statistic
-p89
-aS'computer science'
-p90
-aS'advanced analytics'
-p91
-aS'mathematics'
-p92
-aS'operation research industrial engineering'
-p93
-aS'finance'
-p94
-aS'business'
-p95
-aS'marketing'
-p96
-aS'project management'
-p97
-aS'science'
-p98
-aS'machine learning'
-p99
-aS'computer engineering'
-p100
-aS'mathematics computer science'
-p101
-aS'data analytics'
-p102
+p72
+aS'microsoft azure'
+p73
+asS'working-year'
+p74
+(lp75
+V(2, 5]
+p76
+asS'major'
+p77
+(lp78
+VBusiness
+p79
+aVIndustrial Engineering
+p80
+aVEconomics
+p81
+aVEngineering
+p82
+aVComputer Science
+p83
+aVMathematics
+p84
+aVManagement Science and Engineering
+p85
+aVData Science
+p86
+aVGeography
+p87
 asS'education'
-p103
-(lp104
+p88
+(lp89
 VMaster
-p105
+p90
 asS'responsibility'
-p106
-(lp107
+p91
+(lp92
 S'forecasting'
-p108
+p93
 aS'formulate'
-p109
+p94
 aS'predict'
-p110
-aVinsight
-p111
+p95
+aS'insight'
+p96
+aS'drive ... model'
+p97
 aS'design'
-p112
+p98
 aS'solve problem'
-p113
+p99
 aS'data mining'
-p114
+p100
+aS'decision making'
+p101
+aS'develop ... model'
+p102
 aS'presentation'
-p115
+p103
 aS'development'
-p116
+p104
 aS'product'
-p117
+p105
 aS'data analysis'
-p118
+p106
 aS'build model'
-p119
+p107
 aS'business problem'
-p120
+p108
 aS'processing'
-p121
+p109
 aS'communicate'
-p122
+p110
 aS'understand'
-p123
+p111
 aS'interface'
-p124
+p112
 aS'modeling'
-p125
+p113
 aS'model'
-p126
+p114
+aS'test ... model'
+p115
 aS'analysis'
-p127
+p116
 aS'optimization'
-p128
+p117
 aS'implement'
-p129
+p118
 as.

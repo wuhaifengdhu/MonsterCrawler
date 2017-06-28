@@ -4,167 +4,166 @@ p2
 (dp3
 S'neural networks'
 p4
-I1
+F0.013392605344575266
 sS'unsupervised learning'
 p5
-I1
+F0.020638431468240293
 sS'probabilistic models'
 p6
-I1
+F0.023320566391075642
 sS'information retrieval'
 p7
-I1
+F0.014442473263305241
 sS'health insurance'
 p8
-I1
+F0.021196228384794652
 sVpanda
 p9
-I1
-sS'java'
+F0.018117806621788322
+sS'statistics'
 p10
-I1
-sS'big data'
+F0.0076750029201860465
+sS'java'
 p11
-I1
-sS'deep learning'
+F0.0050998640644785336
+sS'probability'
 p12
-I1
-sS'hadoop'
+F0.01434086065091968
+sS'big data'
 p13
-I1
-sS'insurance'
+F0.0052375519603401963
+sS'deep learning'
 p14
-I1
-sS'access'
+F0.012817043962524489
+sS'hadoop'
 p15
-I1
-sS'computer science'
+F0.0052872695530846291
+sS'insurance'
 p16
-I1
-sS'tensorflow'
+F0.038928042142588735
+sS'access'
 p17
-I1
-sS'unstructured data'
+F0.0095451112143887032
+sS'r'
+F0.0022839189572590175
+sS'computer science'
 p18
-I1
-sS'apis'
+F0.0057859393546799212
+sS'tensorflow'
 p19
-I1
-sS'python'
+F0.017757122731384505
+sS'unstructured data'
 p20
-I1
-sS'data scientist'
+F0.013122668450424528
+sS'apis'
 p21
-I1
-sS'matplotlib'
+F0.015141627021138474
+sS'python'
 p22
-I1
-sS'sql'
+F0.002145067953717144
+sS'data scientist'
 p23
-I1
-sS'spark'
+F0.0043595541776291291
+sS'matplotlib'
 p24
-I1
-sS'data'
+F0.018618241724585583
+sS'sql'
 p25
-I1
-sS'property casualty insurance'
+F0.0028063533285310584
+sS'spark'
 p26
-I1
-sS'data visualization'
+F0.0069388297255788423
+sS'data'
 p27
-I1
-sS'linear algebra'
+F0.0029284317993697015
+sS'data visualization'
 p28
-I1
-sS'scikit-learn'
+F0.0080935540147308686
+sS'science'
 p29
-I1
-sS'machine learning'
+F0.0028931435728151954
+sS'scikit-learn'
 p30
-I1
-sS'optimization'
+F0.014763293420195429
+sS'analysis'
 p31
-I1
-sS'theano'
+F0.0014099535874655554
+sS'machine learning'
 p32
-I1
-sS'nltk'
+F0.0026976037935557175
+sS'optimization'
 p33
-I1
-ssS'working-year'
+F0.0082304891250557302
+sS'linear algebra'
 p34
-(dp35
-V(0, 2]
+F0.018117806621788322
+sS'theano'
+p35
+F0.020147296009969676
+sS'nltk'
 p36
-I1
-ssS'major'
+F0.020580875301573837
+ssS'working-year'
 p37
 (dp38
-S'information'
+V(0, 2]
 p39
-I1
-sS'business'
+F0.009372757876914212
+ssS'major'
 p40
-I1
-sS'big data'
-p41
-I1
-sS'information retrieval'
+(dp41
+VStatistics
 p42
-I1
-sS'computer science'
+F0.0074135998760826351
+sVComputer Science
 p43
-I1
-sS'statistic'
+F0.0037257438121489623
+sVBusiness
 p44
-I1
-sS'probability statistics'
-p45
-I1
-sS'machine learning'
-p46
-I1
+F0.0044514993710868898
 ssS'education'
+p45
+(dp46
+VBachelor
 p47
-(dp48
-S'Bachelor'
-p49
-I1
+F0.0037505301550201926
+sVMaster
+p48
+F0.0029929246305521683
 ssS'responsibility'
-p50
-(dp51
-S'large data set'
-p52
-I1
+p49
+(dp50
+S'information'
+p51
+F0.0057082518499152043
 sS'product'
-p53
-I1
+p52
+F0.0055349501675627435
 sS'build model'
+p53
+F0.02176474521887508
+sS'insight'
 p54
-I1
-sS'information'
-p55
-I1
-sVinsight
-p56
-I1
+F0.0075510014650596105
 sS'communicate'
-p57
-I1
+p55
+F0.0082561435484839185
+sS'analysis'
+p56
+F0.0014099535874655554
 sS'optimization'
-p58
-I1
+p57
+F0.0082304891250557302
 sS'understand'
-p59
-I1
+p58
+F0.0086488881211698575
 sS'report'
-p60
-I1
+p59
+F0.0085402321817795446
 sS'complex data set'
+p60
+F0.020580875301573837
+sS'test ... model'
 p61
-I1
-sS'model'
-p62
-I1
+F0.019067616910888194
 ss.

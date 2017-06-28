@@ -2,184 +2,185 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'nosql'
 p4
-I1
-sS'data science'
-p5
-I1
-sS'presentation skills'
-p6
-I1
-sS'analytics'
-p7
-I1
-sS'engineering'
-p8
-I1
-sS'statistical analysis'
-p9
-I1
-sS'user experience design'
-p10
-I1
-sS'management'
-p11
-I1
-sS'java'
-p12
-I1
-sS'user experience'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'storage'
-p15
-I1
-sS'strategy'
-p16
-I1
-sS'advanced analytics'
-p17
-I1
-sS'systems engineering'
-p18
-I1
-sS'graph theory'
-p19
-I1
-sS'javascript'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'sql'
-p22
-I1
-sS'data'
-p23
-I1
-sS'genetic algorithms'
-p24
-I1
-sS'software engineering'
-p25
-I1
-sS'programming'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'etl'
-p29
-I1
-sS'data analytics'
-p30
-I1
-sS'predictive analytics'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(2, 5]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'systems engineering'
-p37
-I1
-sS'information'
-p38
-I1
-sS'management'
-p39
-I1
-sS'software engineering'
-p40
-I1
-sS'business'
-p41
-I1
+F0.008526002692419073
 sS'communication'
-p42
-I1
+p5
+F0.0049319917729310171
 sS'data science'
-p43
-I1
-sS'machine learning'
-p44
-I1
+p6
+F0.0037471679927121469
+sS'presentation skills'
+p7
+F0.014434364203569564
 sS'analytics'
-p45
-I1
+p8
+F0.013547312491955243
 sS'engineering'
-p46
-I1
-sS'graph theory'
-p47
-I1
-sS'design'
-p48
-I1
+p9
+F0.0038157469690768058
+sS'statistical analysis'
+p10
+F0.0080208727520641992
+sS'user experience design'
+p11
+F0.01810616565576419
+sS'management'
+p12
+F0.0028225821408088851
+sS'java'
+p13
+F0.007721289518182451
+sS'big data'
+p14
+F0.0039648757830612691
+sS'user experience'
+p15
+F0.01051468213428927
+sS'predictive modeling'
+p16
+F0.0064766539211494386
+sS'storage'
+p17
+F0.023305305685647721
+sS'integration'
+p18
+F0.0071845580130673282
+sS'strategy'
+p19
+F0.0049065776673733168
 sS'advanced analytics'
-p49
-I1
-sS'data analytics'
-p50
-I1
-sS'predictive analytics'
-p51
-I1
-ssS'education'
-p52
-(dp53
-VBachelor
-p54
-I1
-sVMaster
-p55
-I1
-sVDoctor
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
-S'development'
-p59
-I1
-sS'information'
-p60
-I1
+p20
+F0.0091676341256638118
+sS'systems engineering'
+p21
+F0.013377629634580888
+sS'graph theory'
+p22
+F0.015370759697254323
+sS'theory'
+p23
+F0.0091292095030321967
+sS'javascript'
+p24
+F0.013815854292971613
+sS'data scientist'
+p25
+F0.0033002232559622376
+sS'metrics'
+p26
+F0.013598660168009064
+sS'sql'
+p27
+F0.0021244356972992119
+sS'modeling'
+p28
+F0.0025300488754565497
+sS'data'
+p29
+F0.0036947504010739225
+sS'a'
+F0.0058256756810405813
+sS'genetic algorithms'
+p30
+F0.016654178260441497
+sS'software engineering'
+p31
+F0.0081061152296386645
+sS'science'
+p32
+F0.0021901367233460823
+sS'programming'
+p33
+F0.0034340038468376197
 sS'analysis'
+p34
+F0.0010673480428477569
+sS'machine learning'
+p35
+F0.0020421112829720851
+sS'r'
+F0.0034578959913641192
+sS'algorithms'
+p36
+F0.0055893198702967406
+sS'etl'
+p37
+F0.0088777715701407554
+sS'data analytics'
+p38
+F0.0063623759547844147
+sS'predictive analytics'
+p39
+F0.0071728915056971662
+ssS'working-year'
+p40
+(dp41
+V(5, 10]
+p42
+F0.0037559011264076598
+ssS'major'
+p43
+(dp44
+VData Science
+p45
+F0.003200277204377142
+sVManagement Science and Engineering
+p46
+F0.0040172727055105681
+sVEngineering
+p47
+F0.0038157469690768058
+sVBusiness
+p48
+F0.0033698266267106359
+sVComputer Science
+p49
+F0.0028204228858323918
+ssS'education'
+p50
+(dp51
+VBachelor
+p52
+F0.0028391863790339774
+sVMaster
+p53
+F0.0022656719165862209
+sVDoctor
+p54
+F0.0033930896317023924
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.011317392545926341
+sS'information'
+p58
+F0.0043211999985339391
+sS'develop ... system'
+p59
+F0.014587855112087126
+sS'analysis'
+p60
+F0.0010673480428477569
+sS'design'
 p61
-I1
+F0.0045495913084687778
 sS'interface'
 p62
-I1
-sS'design'
+F0.0098366267867603698
+sS'modeling'
 p63
-I1
-sS'develop system'
-p64
-I1
+F0.0025300488754565497
 sS'model'
-p65
-I1
+p64
+F0.0048205945230580709
 sS'presentation'
-p66
-I1
+p65
+F0.0076740010663850673
 sS'transformation'
-p67
-I1
+p66
+F0.0097958166209746612
 ss.

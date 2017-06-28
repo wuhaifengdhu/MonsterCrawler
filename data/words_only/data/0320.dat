@@ -4,140 +4,133 @@ p2
 (dp3
 S'financial markets'
 p4
-I1
-sS'commodity'
-p5
-I1
-sS'credit'
-p6
-I1
-sS'machine learning'
-p7
-I1
+F0.017127245110030821
 sS'communication'
-p8
-I1
+p5
+F0.0050905767173982522
 sS'data science'
-p9
-I1
-sS'fixed income'
-p10
-I1
-sS'data scientist'
-p11
-I1
+p6
+F0.0038676557095196117
 sS'presentation skills'
-p12
-I1
-sS'research'
-p13
-I1
-sS'risk management'
-p14
-I1
-sS'management'
-p15
-I1
+p7
+F0.014898491669922284
 sS'trading'
-p16
-I1
-sS'logistic regression'
-p17
-I1
-sS'marketing'
-p18
-I1
+p8
+F0.054134054628317115
+sS'accounting'
+p9
+F0.014180996104070276
+sS'research'
+p10
+F0.0054865616827121429
+sS'risk management'
+p11
+F0.010159991401891435
 sS'policy'
-p19
-I1
-sS'security'
-p20
-I1
-sS'quantitative research'
-p21
-I1
+p12
+F0.0087770361030249187
 sS'energy'
+p13
+F0.0099212067718652229
+sS'finance'
+p14
+F0.017074894239123398
+sS'marketing'
+p15
+F0.0061260917121464592
+sS'data scientist'
+p16
+F0.0034063397593693833
+sS'a'
+F0.0060129964424888317
+sS'commodity'
+p17
+F0.054664607392585669
+sS'quantitative research'
+p18
+F0.011264600129188939
+sS'economics'
+p19
+F0.0077057614931172391
+sS'machine learning'
+p20
+F0.002107774025189837
+sS'credit'
+p21
+F0.020434307551367503
+sS'logistic regression'
 p22
-I1
+F0.010527211822545157
 sS'science'
 p23
-I1
-ssS'working-year'
+F0.0022605591260260204
+sS'security'
 p24
-(dp25
-V(0, 2]
+F0.0070268514974912918
+sS'fixed income'
+p25
+F0.015435638258571581
+ssS'working-year'
 p26
-I1
-sV(2, 5]
-p27
-I1
-ssS'major'
+(dp27
+V(0, 2]
 p28
-(dp29
-S'information'
+F0.0073234088877496897
+sV(2, 5]
+p29
+F0.0039837441428653871
+ssS'major'
 p30
-I1
-sS'management'
-p31
-I1
-sS'business'
+(dp31
+VData Science
 p32
-I1
-sS'communication'
+F0.003303180008376407
+sVEconomics
 p33
-I1
-sS'data science'
+F0.0052757927573133792
+sVComputer Science
 p34
-I1
-sS'machine learning'
+F0.0029111117246051373
+sVBusiness
 p35
-I1
-sS'finance economics'
+F0.0034781811806241614
+sVManagement Science and Engineering
 p36
-I1
-sS'marketing'
-p37
-I1
-sS'phd'
-p38
-I1
-sS'accounting finance'
-p39
-I1
-sS'science'
-p40
-I1
+F0.0041464454613147662
 ssS'education'
+p37
+(dp38
+VMaster
+p39
+F0.0023385231036147165
+sVDoctor
+p40
+F0.0035021921922072925
+ssS'responsibility'
 p41
 (dp42
-VMaster
-p43
-I1
-sVDoctor
-p44
-I1
-ssS'responsibility'
-p45
-(dp46
 S'information'
-p47
-I1
+p43
+F0.0044601453361073785
 sS'product'
-p48
-I1
+p44
+F0.0043247359830152626
 sS'communicate'
-p49
-I1
+p45
+F0.019352825231012144
+sS'manipulate ... data set'
+p46
+F0.018589413537970046
 sS'implement'
-p50
-I1
+p47
+F0.0068098494376836252
 sS'automate report'
-p51
-I1
+p48
+F0.029832193506645042
 sS'presentation'
-p52
-I1
+p49
+F0.0079207535122495388
 sS'model'
-p53
-I1
+p50
+F0.009951195124769394
 ss.

@@ -2,143 +2,134 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'insurance'
 p4
-aS'data science'
+aS'communication'
 p5
-aS'software design'
+aS'data science'
 p6
-aS'problem solving'
+aS'software design'
 p7
-aS'user experience design'
+aS'problem solving'
 p8
-aS'insurance'
+aS'user experience design'
 p9
-aS'xml'
+aS'd3'
 p10
-aS'visualization'
+aS'xml'
 p11
-aS'open source'
+aS'visualization'
 p12
-aS'user experience'
+aS'statistics'
 p13
-aS'agile'
+aS'open source'
 p14
-aS'd3.js'
+aS'user experience'
 p15
-aS'vertica'
+aS'agile'
 p16
-aS'json'
+aS'd3.js'
 p17
-aS'html'
+aS'vertica'
 p18
-aS'computer science'
+aS'json'
 p19
-aS'policy'
+aS'html'
 p20
-aS'jenkins'
+aS'computer science'
 p21
 aS'web development'
 p22
-aS'human computer interaction'
+aS'policy'
 p23
-aS'apis'
+aS'jenkins'
 p24
-aS'python'
+aS'css'
 p25
-aS'javascript'
+aS'human computer interaction'
 p26
-aS'data scientist'
+aS'apis'
 p27
-aS'ggplot'
+aS'python'
 p28
-aS'matplotlib'
+aS'javascript'
 p29
-aS'construction'
+aS'data scientist'
 p30
-aS'facebook'
+aS'ggplot'
 p31
-aS'sql'
+aS'matplotlib'
 p32
-aS'data'
+aS'construction'
 p33
-aS'fraud'
+aS'facebook'
 p34
-aS'data visualization'
+aS'sql'
 p35
-aS'science'
+aS'data'
 p36
-aS'django'
+aS'a'
+aS'fraud'
 p37
-aS'flask'
+aS'data visualization'
 p38
+aS'science'
+p39
+aS'django'
+p40
+aS'flask'
+p41
 aS'r'
 aS'dashboard'
-p39
-aS'military'
-p40
-aS'docker'
-p41
-aS'shiny'
 p42
-asS'working-year'
+aS'military'
 p43
-(lp44
-V(2, 5]
+aS'docker'
+p44
+aS'shiny'
 p45
-aV(10, 15]
+asS'working-year'
 p46
+(lp47
+V(10, 15]
+p48
 asS'major'
-p47
-(lp48
-S'information'
 p49
-aS'business'
-p50
-aS'science'
+(lp50
+VData Science
 p51
-aS'data science'
+aVStatistics
 p52
-aS'communication'
+aVComputer Science
 p53
-aS'design'
+aVBusiness
 p54
-aS'computer science'
-p55
-aS'statistic'
-p56
-aS'law'
-p57
-aS'computer science data science'
-p58
-aS'web development'
-p59
-aS'history'
-p60
 asS'education'
-p61
-(lp62
+p55
+(lp56
 VBachelor
-p63
+p57
 aVMaster
-p64
+p58
 asS'responsibility'
-p65
-(lp66
+p59
+(lp60
 S'development'
-p67
+p61
 aS'information'
-p68
+p62
 aS'product'
-p69
+p63
 aS'pattern'
-p70
+p64
+aS'insight'
+p65
 aS'communicate'
-p71
+p66
 aS'construct'
-p72
+p67
 aS'analytic'
-p73
+p68
 aS'design'
-p74
+p69
 as.

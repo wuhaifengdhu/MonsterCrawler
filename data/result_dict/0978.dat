@@ -8,53 +8,53 @@ aS'management'
 p5
 aS'healthcare industry'
 p6
-aS'data scientist'
+aS'marketing'
 p7
-aS'information management'
+aS'economics'
 p8
-aS'analysis'
+aS'data scientist'
 p9
-aS'research'
+aS'sales'
 p10
-aS'analytics'
+aS'analysis'
 p11
-aS'education'
+aS'research'
 p12
-aS'healthcare'
+aS'analytics'
 p13
-aS'informatics'
+aS'leadership'
 p14
-aS'strategy'
+aS'education'
 p15
-aS'data'
+aS'healthcare'
 p16
-asS'working-year'
+aS'informatics'
 p17
-(lp18
-V(0, 2]
+aS'strategy'
+p18
+aS'data'
 p19
-aV(2, 5]
+aS'information management'
 p20
-asS'major'
+asS'working-year'
 p21
 (lp22
-S'information'
+V(2, 5]
 p23
-aS'management'
+asS'major'
 p24
-aS'information management'
-p25
-aS'pharmacy'
+(lp25
+VBusiness
 p26
-aS'analytics'
+aVData Science
 p27
-aS'design'
+aVEconomics
 p28
-aS'statistic'
+aVInformation Science
 p29
-aS'informatics'
+aVChemical Engineering
 p30
-aS'general'
+aVManagement Science and Engineering
 p31
 asS'education'
 p32
@@ -66,7 +66,7 @@ p35
 (lp36
 S'information'
 p37
-aVinsight
+aS'insight'
 p38
 aS'analysis'
 p39
@@ -82,4 +82,6 @@ aS'implement'
 p44
 aS'presentation'
 p45
+aS'decision making'
+p46
 as.

@@ -1,5 +1,5 @@
-skills: {'science': 1, 'java': 1, 'programming': 1, 'sql': 1, 'intelligence': 1, 'processing': 1, 'data scientist': 1, 'hadoop': 1, 'strategy': 1, 'data engineering': 1, 'engineering': 1, 'apache pig': 1, 'troubleshooting': 1, 'data processing': 1, 'innovation': 1, 'mapreduce': 1, 'hbase': 1, 'writing': 1, 'data': 1, 'spark': 1, 'computer science': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'engineering': 1, 'design': 1, 'computer science': 1, 'science': 1}
-education: {'Bachelor': 1}
-responsibility: {'information': 1, 'processing': 1, u'insight': 1, 'design': 1, 'implement': 1, 'model': 1}
+skills: {'science': 0.002267851252239008, 'core java': 0.015874550165991836, 'sql': 0.002199818899461442, 'intelligence': 0.005064705193183158, 'processing': 0.005268026086034581, 'programming': 0.0035558555962415354, 'hadoop': 0.004144537101288919, 'writing': 0.014497163394080598, 'data engineering': 0.012918808890540126, 'apache pig': 0.01177489341686633, 'troubleshooting': 0.012130266018497406, 'data processing': 0.011857156766865728, 'innovation': 0.006244595716563625, 'mapreduce': 0.008505488764373938, 'hbase': 0.010800832547871198, 'strategy': 0.005080682036215596, 'data': 0.0019129272237818212, 'spark': 0.005439147171985996, 'computer science': 0.0045354298812490985}
+working-year: {u'(2, 5]': 0.003996594930423018}
+major: {u'Engineering': 0.007265738473441057, u'Computer Science': 0.0029205024075877346}
+education: {'Bachelor': 0.0029399317021609893}
+responsibility: {'information': 0.004474532901707725, 'processing': 0.005268026086034581, 'insight': 0.005919010825837049, 'design': 0.004711028419414444, 'implement': 0.0068318166939342175, 'model': 0.004991647877102067}

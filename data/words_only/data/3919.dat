@@ -4,175 +4,171 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.003237565151555944
 sS'data science'
 p5
-I1
+F0.0024597973939889557
 sS'information technology'
 p6
-I1
-sS'relational databases'
+F0.0063735154841753489
+sS'unix'
 p7
-I1
-sS'writing'
+F0.0052803451713395707
+sS'linux'
 p8
-I1
-sS'education'
+F0.0037752107112458684
+sS'relational databases'
 p9
-I1
-sS'deep learning'
+F0.0099120718612515282
+sS'writing'
 p10
-I1
-sS'r programming'
+F0.0045952153907617447
+sS'management'
 p11
-I1
-sS'research'
+F0.0018528606691199433
+sS'deep learning'
 p12
-I1
-sS'access'
+F0.0063692058954876295
+sS'education'
 p13
-I1
-sS'emacs'
+F0.0085833404900338209
+sS'research'
 p14
-I1
-sS'bash'
+F0.0052341125255321369
+sS'access'
 p15
-I1
-sS'innovation'
+F0.0047432761249416259
+sS'emacs'
 p16
-I1
-sS'medicine'
+F0.012747017612166834
+sS'project management'
 p17
-I1
-sS'tensorflow'
+F0.0038884526039356772
+sS'innovation'
 p18
-I1
-sS'data management'
-p19
-I1
-sS'python'
-p20
-I1
-sS'collaboration'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'data quality'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'data'
-p25
-I1
-sS'statistical programming'
-p26
-I1
-sS'project management'
-p27
-I1
-sS'word'
-p28
-I1
-sS'science'
-p29
-I1
-sS'microsoft word'
-p30
-I1
-sS'programming'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'r'
-I1
-sS'command'
-p34
-I1
-sS'architecture'
-p35
-I1
-sS'healthcare'
-p36
-I1
-sS'hipaa'
-p37
-I1
-sS'powerpoint'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(2, 5]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'information'
-p44
-I1
-sS'health sciences'
-p45
-I1
-sS'computing'
-p46
-I1
-sS'science'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'information technology'
-p50
-I1
-sS'communication'
-p51
-I1
+F0.011876224982421617
 sS'medicine'
-p52
-I1
-sS'project management'
-p53
-I1
-ssS'education'
-p54
-(dp55
-VBachelor
-p56
-I1
-sVMaster
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'interface'
-p60
-I1
-sS'information'
-p61
-I1
-sVinsight
-p62
-I1
-sS'presentation'
-p63
-I1
+p19
+F0.0099613507255248996
+sS'tensorflow'
+p20
+F0.017648183328124477
+sS'data management'
+p21
+F0.0056235544061539284
+sS'python'
+p22
+F0.00213190802762072
+sS'collaboration'
+p23
+F0.0052304078120111539
+sS'healthcare'
+p24
+F0.011031657845849344
+sS'data scientist'
+p25
+F0.0021664042232390152
+sS'data quality'
+p26
+F0.0072287076956773491
+sS'sql'
+p27
+F0.0027891364369449782
+sS'data'
+p28
+F0.0019403106400731767
+sS'statistical programming'
+p29
+F0.0086072039823142255
+sS'bash'
+p30
+F0.0076654530779287564
+sS'a'
+F0.0038242165513579281
+sS'word'
+p31
+F0.0057027988971331631
+sS'windows'
+p32
+F0.013782263997070388
+sS'science'
+p33
+F0.0071884855643567737
+sS'microsoft word'
+p34
+F0.0065585170411548753
+sS'programming'
+p35
+F0.0045084467682408019
 sS'analysis'
-p64
-I1
+p36
+F0.0007006517827282822
+sS'machine learning'
+p37
+F0.0013405270385154181
+sS'r'
+F0.002269907184515097
+sS'command'
+p38
+F0.0078522582357516673
+sS'architecture'
+p39
+F0.004472422336778443
+sS'databases'
+p40
+F0.0047085852215312694
+sS'hipaa'
+p41
+F0.011702387110912043
+sS'powerpoint'
+p42
+F0.010008279782962178
+ssS'working-year'
+p43
+(dp44
+V(2, 5]
+p45
+F0.0025336286879982322
+ssS'major'
+p46
+(dp47
+VData Science
+p48
+F0.0021007954654500261
+sVInformation Science
+p49
+F0.0051792539643233009
+sVComputer Science
+p50
+F0.0018514432440740242
+sVManagement Science and Engineering
+p51
+F0.0026371053956419071
+ssS'education'
+p52
+(dp53
+VBachelor
+p54
+F0.0018637603837830406
+sVMaster
+p55
+F0.0014872815648756174
+ssS'responsibility'
+p56
+(dp57
+S'interface'
+p58
+F0.0064571721851739861
+sS'information'
+p59
+F0.0056732318999157252
+sS'insight'
+p60
+F0.0075046763026972814
+sS'presentation'
+p61
+F0.0050375344423509343
+sS'analysis'
+p62
+F0.0007006517827282822
 ss.

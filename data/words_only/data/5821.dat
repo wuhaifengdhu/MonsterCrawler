@@ -2,166 +2,145 @@
 S'skills'
 p2
 (dp3
-S'bioinformatics'
+S'communication'
 p4
-I1
-sS'big data'
-p5
-I1
-sS'optimization'
-p6
-I1
-sS'communication'
-p7
-I1
+F0.0054592046865891601
 sS'data science'
-p8
-I1
-sS'processing'
-p9
-I1
-sS'programming'
-p10
-I1
-sS'analysis'
-p11
-I1
-sS'research'
-p12
-I1
+p5
+F0.0041477273298641355
 sS'engineering'
-p13
-I1
-sS'data collection'
-p14
-I1
-sS'solution architecture'
-p15
-I1
+p6
+F0.0042236371623229473
+sS'statistics'
+p7
+F0.0064311231365696865
+sS'big data'
+p8
+F0.0043887073322850601
+sS'integration'
+p9
+F0.0079525624903262499
+sS'research'
+p10
+F0.0029419322126266836
 sS'computer science'
-p16
-I1
-sS'statistical modeling'
-p17
-I1
+p11
+F0.0048482181489214503
 sS'marketing'
-p18
-I1
+p12
+F0.019709115749767744
+sS'processing'
+p13
+F0.0056313382298990343
+sS'statistical modeling'
+p14
+F0.0061771224834151596
+sS'bioinformatics'
+p15
+F0.011238818242251571
 sS'modeling'
-p19
-I1
-sS'machine learning'
-p20
-I1
+p16
+F0.0028005023759363878
 sS'data'
-p21
-I1
+p17
+F0.0024538238870580602
+sS'data collection'
+p18
+F0.025002410668698228
+sS'science'
+p19
+F0.0024242547868761808
 sS'applied mathematics'
+p20
+F0.010421071533943815
+sS'solution architecture'
+p21
+F0.015691154589810598
+sS'programming'
 p22
-I1
-sS'predictive analytics'
+F0.0038010870166719857
+sS'analysis'
 p23
-I1
-sS'architecture'
+F0.0011814438681176894
+sS'machine learning'
 p24
-I1
-ssS'working-year'
+F0.0022604059373587562
+sS'optimization'
 p25
-(dp26
-V(2, 5]
+F0.0068965822668570417
+sS'architecture'
+p26
+F0.007541429388567787
+sS'predictive analytics'
 p27
-I1
-ssS'major'
+F0.0079396488735475525
+ssS'working-year'
 p28
 (dp29
-S'information'
+V(2, 5]
 p30
-I1
-sS'bioinformatics'
+F0.004272222167003915
+ssS'major'
 p31
-I1
-sS'business'
-p32
-I1
-sS'big data'
+(dp32
+VStatistics
 p33
-I1
-sS'marketing'
+F0.0062120854134071731
+sVBusiness
 p34
-I1
-sS'applied mathematics'
+F0.0037300494730141869
+sVData Science
 p35
-I1
-sS'statistic'
+F0.0035423758020864228
+sVEconomics
 p36
-I1
-sS'machine learning statistics'
+F0.005657832922498141
+sVEngineering
 p37
-I1
-sS'machine learning'
+F0.0042236371623229473
+sVComputer Science
 p38
-I1
-sS'engineering'
+F0.0031219163667317164
+sVBiological Engineering
 p39
-I1
-sS'computer science'
+F0.009069640622333416
+sVMathematics
 p40
-I1
-sS'applied math'
-p41
-I1
-sS'communication'
-p42
-I1
-sS'computer science applied math'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'predictive analytics'
-p45
-I1
+F0.0059112845847670752
 ssS'education'
-p46
-(dp47
-VBachelor
-p48
-I1
-sVMaster
-p49
-I1
+p41
+(dp42
+VMaster
+p43
+F0.0025078644318075063
 sVDoctor
-p50
-I1
+p44
+F0.0037557992130223036
 ssS'responsibility'
-p51
-(dp52
+p45
+(dp46
 S'information'
-p53
-I1
+p47
+F0.0047831213776875674
 sS'product'
-p54
-I1
+p48
+F0.013913719559149103
 sS'data collection'
-p55
-I1
+p49
+F0.025002410668698228
 sS'processing'
-p56
-I1
-sVinsight
-p57
-I1
+p50
+F0.0056313382298990343
+sS'insight'
+p51
+F0.0063272184689982247
 sS'analysis'
-p58
-I1
-sS'statistical model'
-p59
-I1
+p52
+F0.0011814438681176894
 sS'optimization'
-p60
-I1
+p53
+F0.0068965822668570417
 sS'modeling'
-p61
-I1
+p54
+F0.0028005023759363878
 ss.

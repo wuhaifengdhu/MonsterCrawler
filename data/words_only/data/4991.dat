@@ -2,94 +2,88 @@
 S'skills'
 p2
 (dp3
-S'data visualization'
+S'statistics'
 p4
-I1
-sS'python'
+F0.0052388362629359805
+sS'probability'
 p5
-I1
-sS'science'
+F0.019577691787491473
+sS'data visualization'
 p6
-I1
-sS'data science'
+F0.011049065312244949
+sS'python'
 p7
-I1
-sS'data scientist'
-p8
-I1
-sS'machine learning'
-p9
-I1
-sS'computer science'
-p10
-I1
-sS'teaching'
-p11
-I1
-sS'education'
-p12
-I1
-sS'data'
-p13
-I1
-ssS'working-year'
-p14
-(dp15
-V(0, 2]
-p16
-I1
-ssS'major'
-p17
-(dp18
-S'business'
-p19
-I1
+F0.0029283792851307077
 sS'science'
-p20
-I1
+p8
+F0.011848885756080209
 sS'data science'
-p21
-I1
+p9
+F0.0067575332902280851
 sS'machine learning'
-p22
-I1
-sS'design'
-p23
-I1
+p10
+F0.0036826838305283106
 sS'computer science'
+p11
+F0.0078987823774562954
+sS'entrepreneurship'
+p12
+F0.021058463792736862
+sS'teaching'
+p13
+F0.032332706880893985
+sS'education'
+p14
+F0.011790037920299264
+sS'data'
+p15
+F0.0033315024683840708
+ssS'working-year'
+p16
+(dp17
+V(0, 2]
+p18
+F0.01279539418028176
+ssS'major'
+p19
+(dp20
+VData Science
+p21
+F0.0057712864191295649
+sVStatistics
+p22
+F0.010120813313977978
+sVComputer Science
+p23
+F0.005086268237933695
+sVBusiness
 p24
-I1
-sS'statistic'
-p25
-I1
-sS'probability statistics'
-p26
-I1
-sS'general'
-p27
-I1
+F0.0060770468942365962
 ssS'education'
+p25
+(dp26
+S'Bachelor'
+p27
+F0.0051201057734264425
+ssS'responsibility'
 p28
 (dp29
-S'Bachelor'
-p30
-I1
-ssS'responsibility'
-p31
-(dp32
 S'development'
-p33
-I1
+p30
+F0.0068031516989557226
 sS'large data set'
-p34
-I1
-sVinsight
-p35
-I1
-sS'design'
-p36
-I1
+p31
+F0.017665489524341944
+sS'product'
+p32
+F0.0075561398354929586
 sS'business problem'
-p37
-I1
+p33
+F0.016000845854666542
+sS'insight'
+p34
+F0.010308389640502725
+sS'design'
+p35
+F0.0082046000562835814
 ss.

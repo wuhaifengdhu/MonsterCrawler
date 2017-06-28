@@ -4,142 +4,133 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0043613480967241228
 sS'data science'
 p5
-I1
+F0.0033136113654561963
 sS'analytics'
 p6
-I1
+F0.0023959709696515885
 sS'engineering'
 p7
-I1
-sS'management'
+F0.0067485111684498882
+sS'sas'
 p8
-I1
-sS'genetics'
+F0.0038160794949791093
+sS'statistics'
 p9
-I1
-sS'research'
+F0.0025689059360953295
+sS'genetics'
 p10
-I1
-sS'computer science'
+F0.010700289545782088
+sS'research'
 p11
-I1
-sS'quality assurance'
+F0.0047006079430398804
+sS'computer science'
 p12
-I1
-sS'biology'
+F0.0038732321299923436
+sS'quality assurance'
 p13
-I1
-sS'data analysis'
+F0.010750837107143389
+sS'biology'
 p14
-I1
-sS'performance management'
+F0.0093589877805220316
+sS'data analysis'
 p15
-I1
-sS'python'
+F0.0040874986638172591
+sS'performance management'
 p16
-I1
-sS'data scientist'
+F0.013072234950726827
+sS'python'
 p17
-I1
-sS'performance measurement'
+F0.0014359545805875096
+sS'data scientist'
 p18
-I1
-sS'data'
+F0.0029183792428756979
+sS'performance measurement'
 p19
-I1
-sS'science'
+F0.014894257749292577
+sS'management'
 p20
-I1
-sS'documentation'
+F0.0024960023889797579
+sS'data'
 p21
-I1
-sS'analysis'
+F0.0013069034476525941
+sS'science'
 p22
-I1
-sS'r'
-I1
-sS'advertising'
+F0.0058101974230916733
+sS'documentation'
 p23
-I1
-sS'retail'
+F0.0079874406582480188
+sS'analysis'
 p24
-I1
-ssS'working-year'
+F0.00094385322797280982
+sS'r'
+F0.0015289044259337223
+sS'advertising'
 p25
-(dp26
-V(2, 5]
+F0.0090672101496702198
+sS'retail'
+p26
+F0.0094930068441226503
+sS'physics'
 p27
-I1
-ssS'major'
+F0.0067027117835996236
+ssS'working-year'
 p28
 (dp29
-S'information'
+V(2, 5]
 p30
-I1
-sS'biology'
+F0.0034130700507744782
+ssS'major'
 p31
-I1
-sS'management'
-p32
-I1
-sS'genetics'
+(dp32
+VStatistics
 p33
-I1
-sS'business'
+F0.0049628230575429208
+sVBusiness
 p34
-I1
-sS'science'
+F0.0029799293310581658
+sVData Science
 p35
-I1
-sS'data science'
+F0.0028299971972591256
+sVEngineering
 p36
-I1
-sS'statistic'
+F0.0067485111684498882
+sVComputer Science
 p37
-I1
-sS'analytics'
+F0.0024940929651575696
+sVBiological Engineering
 p38
-I1
-sS'engineering'
+F0.0072457184035170539
+sVPhysics
 p39
-I1
-sS'computer science'
+F0.0072279121245181557
+sVManagement Science and Engineering
 p40
-I1
-sS'communication'
-p41
-I1
-sVphysic
-p42
-I1
+F0.0035524642933027341
 ssS'education'
-p43
-(dp44
+p41
+(dp42
 VBachelor
-p45
-I1
+p43
+F0.0025106854756746745
 sVMaster
-p46
-I1
+p44
+F0.0020035280584688067
 ssS'responsibility'
-p47
-(dp48
+p45
+(dp46
 S'information'
-p49
-I1
-sS'statistical method'
-p50
-I1
+p47
+F0.0076424528899691167
 sS'data analysis'
-p51
-I1
+p48
+F0.0040874986638172591
 sS'analysis'
-p52
-I1
+p49
+F0.00094385322797280982
 sS'documentation'
-p53
-I1
+p50
+F0.0079874406582480188
 ss.

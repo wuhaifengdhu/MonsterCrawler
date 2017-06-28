@@ -4,232 +4,219 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.0055442845731235157
 sS'neural networks'
 p5
-I1
+F0.0041194975933313786
 sS'classification'
 p6
-I1
+F0.0039941289891874416
 sS'data science'
 p7
-I1
+F0.0015225834502032901
 sS'testing'
 p8
-I1
-sS'rest'
+F0.0025916177403797632
+sS'software development'
 p9
-I1
-sS'hadoop'
+F0.0026837931874345222
+sS'rest'
 p10
-I1
-sS'software design'
+F0.0045283499524801426
+sS'hadoop'
 p11
-I1
-sS'engineering'
+F0.001626337343543753
+sS'software design'
 p12
-I1
+F0.0050890312179521892
 sS'go'
 p13
-I1
-sS'machine learning'
-p14
-I1
-sS'regression'
-p15
-I1
-sS'clustering'
-p16
-I1
-sS'technical leadership'
-p17
-I1
-sS'management'
-p18
-I1
-sS'java'
-p19
-I1
-sS'scala'
-p20
-I1
-sS'deep learning'
-p21
-I1
-sS'integration'
-p22
-I1
-sS'research'
-p23
-I1
-sS'r'
-I1
-sS'teamwork'
-p24
-I1
-sS'computer science'
-p25
-I1
-sS'natural language processing'
-p26
-I1
-sS'project planning'
-p27
-I1
-sS'innovation'
-p28
-I1
-sS'customer satisfaction'
-p29
-I1
-sS'python'
-p30
-I1
-sS'collaboration'
-p31
-I1
-sS'processing'
-p32
-I1
-sS'leadership'
-p33
-I1
-sS'mentoring'
-p34
-I1
-sS'sql'
-p35
-I1
-sS'data'
-p36
-I1
-sS'software development'
-p37
-I1
-sS'software engineering'
-p38
-I1
-sS'documentation'
-p39
-I1
-sS'hive'
-p40
-I1
-sS'unstructured data'
-p41
-I1
-sS'product design'
-p42
-I1
-sS'architecture'
-p43
-I1
-sS'healthcare'
-p44
-I1
-sS'organization'
-p45
-I1
-sS'predictive analytics'
-p46
-I1
-ssS'working-year'
-p47
-(dp48
-V(5, 10]
-p49
-I1
-sV(2, 5]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'information'
-p53
-I1
-sS'management'
-p54
-I1
-sS'software engineering'
-p55
-I1
-sS'business'
-p56
-I1
-sS'data science'
-p57
-I1
-sS'machine learning'
-p58
-I1
+F0.0041505230316805416
 sS'engineering'
-p59
-I1
-sS'design'
-p60
-I1
+p14
+F0.0031008981698067207
+sS'sas'
+p15
+F0.0017534643755410338
+sS'machine learning'
+p16
+F0.00082976926814435357
+sS'regression'
+p17
+F0.0030078073299769628
+sS'clustering'
+p18
+F0.0040802690639952024
+sS'technical leadership'
+p19
+F0.0056945566044206324
+sS'management'
+p20
+F0.0022937946005054484
+sS'java'
+p21
+F0.0015686923641370677
+sS'scala'
+p22
+F0.0030893245413906793
+sS'deep learning'
+p23
+F0.0039424578264474061
+sS'integration'
+p24
+F0.0029192950913855854
+sS'research'
+p25
+F0.0053997489978591029
+sS'r'
+F0.0014050438142125094
+sS'teamwork'
+p26
+F0.0036258356307620242
 sS'computer science'
-p61
-I1
+p27
+F0.0017797256496040769
 sS'natural language processing'
-p62
-I1
-sS'pharmacy'
-p63
-I1
-sS'phd'
-p64
-I1
-sS'ee computer science'
-p65
-I1
-sS'predictive analytics'
-p66
-I1
-ssS'education'
-p67
-(dp68
-VDoctor
-p69
-I1
-ssS'responsibility'
-p70
-(dp71
-S'development'
-p72
-I1
-sS'information'
-p73
-I1
-sS'product'
-p74
-I1
+p28
+F0.0031720989012155735
+sS'project planning'
+p29
+F0.0052732149563712869
+sS'innovation'
+p30
+F0.0024504109773857263
+sS'customer satisfaction'
+p31
+F0.005726876884904173
+sS'python'
+p32
+F0.0013196240829196606
+sS'collaboration'
+p33
+F0.0032375562279410809
 sS'processing'
-p75
-I1
+p34
+F0.002067200109709772
+sS'leadership'
+p35
+F0.0062749694476094504
+sS'mentoring'
+p36
+F0.0087091486113391268
+sS'sql'
+p37
+F0.00086322007447221154
+sS'data'
+p38
+F0.00030025693132777954
+sS'a'
+F0.0023671416374861096
+sS'software engineering'
+p39
+F0.0032937506186253313
+sS'science'
+p40
+F0.0017798326283394745
 sS'documentation'
-p76
-I1
+p41
+F0.0036701784290430767
+sS'hive'
+p42
+F0.0026401952525189959
+sS'unstructured data'
+p43
+F0.0040364663714596962
+sS'product design'
+p44
+F0.0058291053853782009
+sS'architecture'
+p45
+F0.002768372813524884
+sS'healthcare'
+p46
+F0.0034142282826710941
+sS'organization'
+p47
+F0.0022318782775717482
+sS'predictive analytics'
+p48
+F0.002914554649783279
+ssS'working-year'
+p49
+(dp50
+V(5, 10]
+p51
+F0.0015261319766795682
+sV(2, 5]
+p52
+F0.0015682840866216906
+ssS'major'
+p53
+(dp54
+VBusiness
+p55
+F0.0013692586673090053
+sVData Science
+p56
+F0.0013003658007659021
+sVEngineering
+p57
+F0.0031008981698067207
+sVComputer Science
+p58
+F0.0011460199320913896
+sVChemical Engineering
+p59
+F0.0047599778047268297
+sVManagement Science and Engineering
+p60
+F0.0016323348588213828
+ssS'education'
+p61
+(dp62
+VBachelor
+p63
+F0.0011536440856581098
+sVDoctor
+p64
+F0.0013787111035145165
+ssS'responsibility'
+p65
+(dp66
+S'development'
+p67
+F0.013795758255350718
+sS'information'
+p68
+F0.0035116587329858092
+sS'product'
+p69
+F0.0051075679394344811
+sS'processing'
+p70
+F0.002067200109709772
+sS'documentation'
+p71
+F0.0036701784290430767
 sS'improvement'
-p77
-I1
+p72
+F0.0034002613877710227
 sS'design'
-p78
-I1
+p73
+F0.009243157025433402
 sS'ownership'
-p79
-I1
+p74
+F0.0049877132279587191
 sS'recommendation'
-p80
-I1
+p75
+F0.0033065844871117359
 sS'implement'
-p81
-I1
+p76
+F0.0026808394621767183
 sS'prototype'
-p82
-I1
+p77
+F0.003991356219683149
 sS'presentation'
-p83
-I1
+p78
+F0.0031181700535564644
 ss.

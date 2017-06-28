@@ -4,301 +4,274 @@ p2
 (dp3
 S'debugging'
 p4
-I1
+F0.0067408320600975619
 sS'probability'
 p5
-I1
+F0.0053448299665237453
 sS'data science'
 p6
-I1
+F0.0018448480454917166
 sS'testing'
 p7
-I1
+F0.0031401503296012469
 sS'pig'
 p8
-I1
+F0.0082780005371653111
 sS'grid computing'
 p9
-I1
+F0.0090652131409326847
 sS'analytics'
 p10
-I1
-sS'analysis'
+F0.0093376721378599491
+sS'engineering'
 p11
-I1
-sS'modeling'
-p12
-I1
-sS'hbase'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'data'
-p15
-I1
-sS'cassandra'
-p16
-I1
-sS'mahout'
-p17
-I1
-sS'management'
-p18
-I1
-sS'networking'
-p19
-I1
-sS'big data'
-p20
-I1
-sS'scala'
-p21
-I1
-sS'agile'
-p22
-I1
-sS'saas'
-p23
-I1
-sS'hadoop'
-p24
-I1
-sS'perl'
-p25
-I1
-sS'big data analytics'
-p26
-I1
-sS'hidden markov models'
-p27
-I1
-sS'computer science'
-p28
-I1
-sS'stata'
-p29
-I1
-sS'innovation'
-p30
-I1
-sS'ruby'
-p31
-I1
-sS'artificial intelligence'
-p32
-I1
-sS'matlab'
-p33
-I1
-sS'factor analysis'
-p34
-I1
-sS'product development'
-p35
-I1
-sS'python'
-p36
-I1
-sS'mongodb'
-p37
-I1
-sS'processing'
-p38
-I1
-sS'data scientist'
-p39
-I1
-sS'automation'
-p40
-I1
-sS'ec2'
-p41
-I1
-sS'advanced analytics'
-p42
-I1
-sS'leadership'
-p43
-I1
-sS'scripting'
-p44
-I1
-sS'statistical modeling'
-p45
-I1
-sS'sql'
-p46
-I1
-sS'open source'
-p47
-I1
-sS'spark'
-p48
-I1
-sS'discrete event simulation'
-p49
-I1
-sS'social networking'
-p50
-I1
-sS'node.js'
-p51
-I1
-sS'genetic algorithms'
-p52
-I1
-sS'java'
-p53
-I1
-sS'documentation'
-p54
-I1
-sS'programming'
-p55
-I1
-sS'hive'
-p56
-I1
-sS'simulation'
-p57
-I1
-sS'cluster'
-p58
-I1
-sS'theory'
-p59
-I1
-sS'r'
-I1
-sS'architecture'
-p60
-I1
-sS'healthcare'
-p61
-I1
-sS'organization'
-p62
-I1
-sS'data analytics'
-p63
-I1
-sS'data architecture'
-p64
-I1
-ssS'working-year'
-p65
-(dp66
-V(5, 10]
-p67
-I1
-ssS'major'
-p68
-(dp69
-S'management'
-p70
-I1
-sS'health sciences'
-p71
-I1
-sS'business'
-p72
-I1
-sS'big data'
-p73
-I1
-sS'computing'
-p74
-I1
-sS'data science'
-p75
-I1
-sS'automation'
-p76
-I1
-sS'big data analytics'
-p77
-I1
-sS'analytics'
-p78
-I1
-sS'machine learning'
-p79
-I1
-sS'design'
-p80
-I1
-sS'computer science'
-p81
-I1
-sS'machine learning artificial intelligence'
-p82
-I1
-sS'statistic'
-p83
-I1
-sS'advanced analytics'
-p84
-I1
-sS'computer science engineering'
-p85
-I1
-sS'law'
-p86
-I1
-sS'data analytics'
-p87
-I1
-sS'artificial intelligence'
-p88
-I1
-sS'statistics computer science'
-p89
-I1
-ssS'education'
-p90
-(dp91
-S'Bachelor'
-p92
-I1
-ssS'responsibility'
-p93
-(dp94
-S'development'
-p95
-I1
-sS'product'
-p96
-I1
-sVinsight
-p97
-I1
-sS'processing'
-p98
-I1
-sS'communicate'
-p99
-I1
+F0.0018786116212786115
 sS'analysis'
-p100
-I1
-sS'simulation'
-p101
-I1
-sS'design'
-p102
-I1
-sS'interface'
-p103
-I1
+p12
+F0.0015764665111386348
 sS'modeling'
-p104
-I1
-sS'statistical model'
-p105
-I1
+p13
+F0.001245622222425694
+sS'hbase'
+p14
+F0.005135365168466367
+sS'machine learning'
+p15
+F0.0010053952788865634
+sS'data'
+p16
+F0.0014552329800548824
+sS'cassandra'
+p17
+F0.0057736296358292588
+sS'mahout'
+p18
+F0.013301174082682509
+sS'statistics'
+p19
+F0.0014302344398812955
+sS'networking'
+p20
+F0.0055711528261361762
+sS'big data'
+p21
+F0.0019520324023967295
+sS'scala'
+p22
+F0.0037431999811328785
+sS'agile'
+p23
+F0.0066984351923297832
+sS'saas'
+p24
+F0.0047354943193261678
+sS'hadoop'
+p25
+F0.013793934830976923
+sS'perl'
+p26
+F0.0043957833501370681
+sS'big data analytics'
+p27
+F0.0050832348232338655
+sS'r'
+F0.00085121519419316134
+sS'hidden markov models'
+p28
+F0.0090652131409326847
+sS'computer science'
+p29
+F0.0021564160478331606
+sS'stata'
+p30
+F0.0046678666145685138
+sS'innovation'
+p31
+F0.0029690562456054044
+sS'ruby'
+p32
+F0.015631806277589713
+sS'artificial intelligence'
+p33
+F0.004244810674961296
+sS'matlab'
+p34
+F0.0019576705331872161
+sS'factor analysis'
+p35
+F0.0075477155697200454
+sS'product development'
+p36
+F0.0040083993079474082
+sS'python'
+p37
+F0.0031978620414310796
+sS'mongodb'
+p38
+F0.0045354229506462812
+sS'processing'
+p39
+F0.0025047363292495708
+sS'data scientist'
+p40
+F0.0016248031674292612
+sS'automation'
+p41
+F0.0051151047936561491
+sS'ec2'
+p42
+F0.006639670823097887
+sS'advanced analytics'
+p43
+F0.004513513120150435
+sS'management'
+p44
+F0.0013896455018399573
+sS'scripting'
+p45
+F0.0037317245052862933
+sS'statistical modeling'
+p46
+F0.0027474931291263751
+sS'sql'
+p47
+F0.0010459261638543667
+sS'open source'
+p48
+F0.0049047848771749921
+sS'spark'
+p49
+F0.005172195163544965
+sS'discrete event simulation'
+p50
+F0.0092928506121252499
+sS'social networking'
+p51
+F0.0070486057596026728
+sS'node.js'
+p52
+F0.0068000565520551642
+sS'genetic algorithms'
+p53
+F0.0081993730392664436
+sS'java'
+p54
+F0.0019007162080801894
+sS'science'
+p55
+F0.0010782728346535159
 sS'documentation'
-p106
-I1
+p56
+F0.0044469953358037282
+sS'programming'
+p57
+F0.003381335076180601
+sS'hive'
+p58
+F0.012796038340429488
+sS'simulation'
+p59
+F0.0041178463001140669
+sS'cluster'
+p60
+F0.0053875012308580925
+sS'theory'
+p61
+F0.0044945954761860972
+sS'leadership'
+p62
+F0.0025343690509261074
+sS'algorithms'
+p63
+F0.0027517970527074446
+sS'architecture'
+p64
+F0.0067086335051676632
+sS'healthcare'
+p65
+F0.012410615076580511
+sS'organization'
+p66
+F0.002704269692149818
+sS'data analytics'
+p67
+F0.0031323967507450876
+sS'data architecture'
+p68
+F0.0062231189491032254
+ssS'working-year'
+p69
+(dp70
+V(5, 10]
+p71
+F0.0018491476404553049
+ssS'major'
+p72
+(dp73
+VStatistics
+p74
+F0.0027630441255952149
+sVBusiness
+p75
+F0.0016590710846228745
+sVData Science
+p76
+F0.0015755965990875195
+sVEngineering
+p77
+F0.0018786116212786115
+sVComputer Science
+p78
+F0.0013885824330555181
+sVManagement Science and Engineering
+p79
+F0.0019778290467314299
+ssS'education'
+p80
+(dp81
+VMaster
+p82
+F0.001115461173656713
+sVDoctor
+p83
+F0.0016705241898412086
+ssS'responsibility'
+p84
+(dp85
+S'development'
+p86
+F0.0074292086037675989
+sS'product'
+p87
+F0.00412574506355137
+sS'insight'
+p88
+F0.0056285072270229608
+sS'processing'
+p89
+F0.0025047363292495708
+sS'communicate'
+p90
+F0.0030770596354012148
+sS'analysis'
+p91
+F0.0015764665111386348
+sS'simulation'
+p92
+F0.0041178463001140669
+sS'design'
+p93
+F0.0089596246013403536
+sS'interface'
+p94
+F0.0048428791388804892
+sS'modeling'
+p95
+F0.001245622222425694
+sS'statistical model'
+p96
+F0.0055074605914400233
+sS'documentation'
+p97
+F0.0044469953358037282
 ss.

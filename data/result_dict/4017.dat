@@ -12,117 +12,114 @@ aS'engineering'
 p7
 aS'hive'
 p8
-aS'relational databases'
+aS'sas'
 p9
-aS'research'
+aS'relational databases'
 p10
-aS'visualization'
+aS'research'
 p11
-aS'big data'
+aS'visualization'
 p12
-aS'data'
+aS'statistics'
 p13
-aS'hadoop'
+aS'big data'
 p14
-aS'perl'
+aS'data'
 p15
-aS'computer science'
+aS'hadoop'
 p16
-aS'mathematics'
+aS'perl'
 p17
-aS'unstructured data'
+aS'computer science'
 p18
-aS'operations research'
+aS'mathematics'
 p19
-aS'teradata'
+aS'unstructured data'
 p20
-aS'hdfs'
+aS'operations research'
 p21
-aS'python'
+aS'teradata'
 p22
-aS'marketing'
+aS'hdfs'
 p23
-aS'business analytics'
+aS'python'
 p24
-aS'sql'
+aS'marketing'
 p25
-aS'ruby'
+aS'business analytics'
 p26
-aS'data visualization'
+aS'sql'
 p27
-aS'solver'
+aS'ruby'
 p28
-aS'science'
+aS'a'
+aS'metrics'
 p29
-aS'economics'
+aS'data visualization'
 p30
-aS'analysis'
+aS'solver'
 p31
-aS'spss'
+aS'science'
 p32
+aS'economics'
+p33
+aS'analysis'
+p34
+aS'spss'
+p35
 aS'r'
 aS'dashboard'
-p33
-aS'oracle'
-p34
-aS'scripting'
-p35
-aS'statistical analysis'
 p36
-asS'working-year'
+aS'databases'
 p37
-(lp38
-V(5, 10]
+aS'oracle'
+p38
+aS'scripting'
 p39
-aV(2, 5]
+aS'statistical analysis'
 p40
-asS'major'
+asS'working-year'
 p41
 (lp42
-S'business'
+V(5, 10]
 p43
-aS'big data'
+aV(2, 5]
 p44
-aS'statistics economics'
+asS'major'
 p45
-aS'marketing'
-p46
-aS'economics'
+(lp46
+VStatistics
 p47
-aS'communication'
+aVBusiness
 p48
-aS'business analytics'
+aVData Science
 p49
-aS'analytics'
+aVEconomics
 p50
-aS'engineering'
+aVEngineering
 p51
-aS'computer science engineering'
+aVComputer Science
 p52
-aS'computer science'
+aVMathematics
 p53
-aS'statistic'
+aVOperations Research
 p54
-aS'mathematics'
-p55
-aS'operations research'
-p56
-aS'science'
-p57
 asS'education'
+p55
+(lp56
+VBachelor
+p57
+aVMaster
 p58
-(lp59
-S'Bachelor'
-p60
 asS'responsibility'
-p61
-(lp62
+p59
+(lp60
 S'product'
-p63
-aVinsight
-p64
+p61
+aS'insight'
+p62
 aS'analysis'
-p65
+p63
 aS'recommendation'
-p66
+p64
 as.

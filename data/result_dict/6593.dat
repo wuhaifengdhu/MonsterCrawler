@@ -12,7 +12,7 @@ aS'engineering'
 p7
 aS'analysis'
 p8
-aS'simulation'
+aS'sas'
 p9
 aS'quantitative analysis'
 p10
@@ -24,102 +24,94 @@ aS'statistical software'
 p13
 aS'computer science'
 p14
-aS'failure analysis'
+aS'mathematics'
 p15
-aS'energy'
+aS'failure analysis'
 p16
-aS'matlab'
+aS'energy'
 p17
-aS'data analysis'
+aS'matlab'
 p18
-aS'python'
+aS'data analysis'
 p19
-aS'aerospace'
+aS'python'
 p20
-aS'sql'
+aS'aerospace'
 p21
-aS'manufacturing'
+aS'sql'
 p22
-aS'data'
+aS'manufacturing'
 p23
-aS'analytical skills'
+aS'data'
 p24
-aS'c'
-aS'science'
+aS'analytical skills'
 p25
-aS'applied mathematics'
-p26
-aS'programming'
-p27
-aS'communication skills'
-p28
-aS'electrical engineering'
-p29
-aS'r'
+aS'c'
 aS'organization'
+p26
+aS'solver'
+p27
+aS'science'
+p28
+aS'applied mathematics'
+p29
+aS'programming'
 p30
-asS'working-year'
+aS'communication skills'
 p31
-(lp32
-V(2, 5]
+aS'simulation'
+p32
+aS'r'
+aS'electrical engineering'
 p33
-asS'major'
+asS'working-year'
 p34
 (lp35
-S'design'
+V(2, 5]
 p36
-aS'science'
+asS'major'
 p37
-aS'applied mathematics'
-p38
-aS'communication'
+(lp38
+VMathematics
 p39
-aS'analytics'
+aVData Science
 p40
-aS'engineering'
+aVElectrical and Electronics Engineering
 p41
-aS'electrical'
+aVEngineering
 p42
-aS'computer science'
+aVComputer Science
 p43
-aS'applied math'
-p44
-aS'electrical engineering'
-p45
-aS'ee computer science'
-p46
-aS'data science'
-p47
 asS'education'
-p48
-(lp49
+p44
+(lp45
 VMaster
-p50
+p46
 asS'responsibility'
-p51
-(lp52
+p47
+(lp48
 S'development'
-p53
+p49
 aS'large data set'
-p54
+p50
 aS'product'
-p55
+p51
 aS'data analysis'
-p56
+p52
 aS'communicate'
-p57
+p53
 aS'analysis'
-p58
+p54
 aS'simulation'
-p59
+p55
 aS'statistical method'
-p60
+p56
 aS'design'
-p61
+p57
 aS'report'
-p62
+p58
 aS'model'
-p63
+p59
 aS'quantitative analysis'
-p64
+p60
 as.

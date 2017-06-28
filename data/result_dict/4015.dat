@@ -22,7 +22,7 @@ aS'recruiting'
 p12
 aS'research'
 p13
-aS'epidemiology'
+aS'informatics'
 p14
 aS'engineering'
 p15
@@ -32,72 +32,58 @@ aS'biomedical informatics'
 p17
 aS'communication'
 p18
-aS'informatics'
+aS'policy'
 p19
 aS'genetics'
 p20
-aS'data'
-p21
-aS'collaboration'
-p22
-aS'experimentation'
-p23
-asS'working-year'
-p24
-(lp25
-V(5, 10]
-p26
-aV(2, 5]
-p27
-asS'major'
-p28
-(lp29
-S'information'
-p30
-aS'management'
-p31
-aS'genetics'
-p32
-aS'science'
-p33
-aS'data science'
-p34
-aS'economics'
-p35
-aS'communication'
-p36
 aS'epidemiology'
-p37
-aS'engineering'
-p38
-aS'biomedical informatics'
-p39
-aS'statistic'
-p40
-aS'informatics'
-p41
-aS'medical informatics'
-p42
-aS'data science engineering'
-p43
+p21
+aS'data'
+p22
+aS'collaboration'
+p23
+aS'experimentation'
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+aV(2, 5]
+p28
+asS'major'
+p29
+(lp30
+VData Science
+p31
+aVEconomics
+p32
+aVEngineering
+p33
+aVInformation Science
+p34
+aVBiological Engineering
+p35
+aVManagement Science and Engineering
+p36
 asS'education'
-p44
-(lp45
+p37
+(lp38
 S'Bachelor'
-p46
+p39
 asS'responsibility'
-p47
-(lp48
+p40
+(lp41
 S'development'
-p49
+p42
 aS'information'
-p50
+p43
 aS'product'
-p51
+p44
 aS'communicate'
-p52
+p45
 aS'understand'
-p53
+p46
 aS'analytical method'
-p54
+p47
 as.

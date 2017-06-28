@@ -4,93 +4,81 @@ p2
 (lp3
 S'rapidminer'
 p4
-aS'management'
+aS'statistics'
 p5
-aS'science'
-p6
 aS'english'
+p6
+aS'science'
 p7
-aS'actuarial science'
+aS'data mining'
 p8
-aS'analysis'
+aS'management'
 p9
-aS'tableau'
+aS'actuarial science'
 p10
-aS'mathematics'
+aS'analysis'
 p11
-aS'engineering'
+aS'tableau'
 p12
+aS'mathematics'
+p13
+aS'engineering'
+p14
 aS'r'
 aS'computer science'
-p13
-aS'data analysis'
-p14
-aS'data mining'
 p15
-aS'modeling'
+aS'data analysis'
 p16
-aS'security'
+aS'spanish'
 p17
-aS'data'
+aS'sas'
 p18
-aS'data management'
+aS'modeling'
 p19
-asS'working-year'
+aS'security'
 p20
-(lp21
-V[0]
+aS'data'
+p21
+aS'data management'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'information'
+S'[0]'
 p25
-aS'management'
+asS'major'
 p26
-aS'mathematics statistics'
-p27
-aS'science'
+(lp27
+VStatistics
 p28
-aS'data mining'
+aVBusiness
 p29
-aS'statistic'
+aVEngineering
 p30
-aS'actuarial science'
+aVComputer Science
 p31
-aS'statistics actuarial science'
+aVMathematics
 p32
-aS'engineering'
+aVManagement Science and Engineering
 p33
-aS'computer science'
-p34
-aS'computer science mathematics'
-p35
-aS'english'
-p36
-aS'mathematics'
-p37
-aS'law'
-p38
-aS'ee computer science'
-p39
 asS'education'
-p40
-(lp41
+p34
+(lp35
 S'Bachelor'
-p42
+p36
 asS'responsibility'
-p43
-(lp44
+p37
+(lp38
 S'information'
-p45
+p39
 aS'data analysis'
-p46
+p40
 aS'communicate'
-p47
+p41
 aS'analysis'
-p48
+p42
 aS'data mining'
-p49
+p43
 aS'modeling'
-p50
+p44
 as.

@@ -4,125 +4,125 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.039584469235949389
 sS'consulting'
 p5
-I1
+F0.0064742541392867354
 sS'management'
 p6
-I1
+F0.012980642796556622
 sS'business process improvement'
 p7
-I1
+F0.012988225525338119
 sS'program management'
 p8
-I1
-sS'communication'
-p9
-I1
-sS'decision support'
-p10
-I1
-sS'data scientist'
-p11
-I1
-sS'presentation skills'
-p12
-I1
-sS'communication skills'
-p13
-I1
-sS'machine learning'
-p14
-I1
+F0.0095710925746816406
 sS'analytics'
+p9
+F0.002492084418290907
+sS'communication'
+p10
+F0.0090726037771395786
+sS'decision support'
+p11
+F0.012726481254936304
+sS'data scientist'
+p12
+F0.0030354488973177028
+sS'machine learning'
+p13
+F0.0018782742745961012
+sS'metrics'
+p14
+F0.012507650183183122
+sS'business process'
 p15
-I1
+F0.0087543923481941434
 sS'leadership'
 p16
-I1
+F0.0047346951896957649
 sS'process improvement'
 p17
-I1
-sS'business process'
-p18
-I1
+F0.0092428729066746877
 sS'customer experience'
+p18
+F0.010977353585920472
+sS'security'
 p19
-I1
+F0.0062617501883088589
 sS'automation'
 p20
-I1
+F0.047780061969395549
 sS'data'
 p21
-I1
+F0.0010194970304395954
 sS'finance'
 p22
-I1
+F0.0076078683500965284
 ssS'working-year'
 p23
 (dp24
 V(5, 10]
 p25
-I1
+F0.0034545680847474463
 sV(2, 5]
 p26
-I1
+F0.0035499840356192991
 ssS'major'
 p27
 (dp28
-S'management'
+VData Science
 p29
-I1
-sS'finance'
+F0.0029435214401291191
+sVEconomics
 p30
-I1
-sS'business'
+F0.00470135113903857
+sVComputer Science
 p31
-I1
-sS'communication'
+F0.002594142539691111
+sVBusiness
 p32
-I1
-sS'data analyst'
+F0.003099468043478837
+sVManagement Science and Engineering
 p33
-I1
-sS'automation'
-p34
-I1
-sS'analytics'
-p35
-I1
-sS'machine learning'
-p36
-I1
+F0.0036949700242661673
 ssS'education'
+p34
+(dp35
+VMaster
+p36
+F0.0020838988115305926
+ssS'responsibility'
 p37
 (dp38
-VMaster
-p39
-I1
-ssS'responsibility'
-p40
-(dp41
 S'cross-functionally'
-p42
-I1
+p39
+F0.029158530168614284
 sS'communicate'
-p43
-I1
+p40
+F0.017245640821904804
+sS'improvement'
+p41
+F0.007696866751687988
 sS'analytic'
-p44
-I1
+p42
+F0.058222159744116861
+sS'drive ... decision'
+p43
+F0.011564706987762503
 sS'key decision'
-p45
-I1
+p44
+F0.016744492207277209
 sS'report'
+p45
+F0.011892701548266068
+sS'identify ... trend'
 p46
-I1
+F0.012304352758454054
 sS'model'
 p47
-I1
+F0.0044338419538728965
 sS'presentation'
 p48
-I1
+F0.0070583218977352622
 ss.

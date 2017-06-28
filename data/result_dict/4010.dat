@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'cancer'
+S'classification'
 p4
 aS'communication'
 p5
@@ -12,177 +12,164 @@ aS'analytics'
 p7
 aS'statistical analysis'
 p8
-aS'data mining'
-p9
 aS'go'
+p9
+aS'data mining'
 p10
-aS'machine learning'
+aS'sas'
 p11
-aS'research'
-p12
-aS'clustering'
-p13
-aS'visualization'
-p14
-aS'education'
-p15
-aS'ehr'
-p16
-aS'classification'
-p17
-aS'predictive modeling'
-p18
-aS'data munging'
-p19
-aS'perl'
-p20
-aS'python'
-p21
-aS'matlab'
-p22
-aS'medicine'
-p23
-aS'mathematics'
-p24
-aS'computer science'
-p25
-aS'data analysis'
-p26
-aS'cancer research'
-p27
-aS'data scientist'
-p28
-aS'epidemiology'
-p29
-aS'leadership'
-p30
-aS'statistical modeling'
-p31
-aS'sql'
-p32
-aS'informatics'
-p33
-aS'modeling'
-p34
-aS'data'
-p35
-aS'training'
-p36
-aS'data visualization'
-p37
-aS'mysql'
-p38
-aS'science'
-p39
-aS'risk modeling'
-p40
-aS'analysis'
-p41
 aS'spss'
+p12
+aS'hospitals'
+p13
+aS'research'
+p14
+aS'clustering'
+p15
+aS'visualization'
+p16
+aS'education'
+p17
+aS'ehr'
+p18
+aS'cancer'
+p19
+aS'predictive modeling'
+p20
+aS'data munging'
+p21
+aS'perl'
+p22
+aS'python'
+p23
+aS'matlab'
+p24
+aS'medicine'
+p25
+aS'mathematics'
+p26
+aS'computer science'
+p27
+aS'data analysis'
+p28
+aS'cancer research'
+p29
+aS'philosophy'
+p30
+aS'data scientist'
+p31
+aS'epidemiology'
+p32
+aS'leadership'
+p33
+aS'statistical modeling'
+p34
+aS'sql'
+p35
+aS'informatics'
+p36
+aS'modeling'
+p37
+aS'data'
+p38
+aS'a'
+aS'training'
+p39
+aS'postgresql'
+p40
+aS'data visualization'
+p41
+aS'mysql'
 p42
-aS'weka'
+aS'science'
 p43
+aS'risk modeling'
+p44
+aS'analysis'
+p45
+aS'machine learning'
+p46
+aS'weka'
+p47
 aS'r'
 aS'data analytics'
-p44
-aS'healthcare'
-p45
-aS'clinical research'
-p46
-aS'scripting'
-p47
-aS'predictive analytics'
 p48
-asS'working-year'
+aS'healthcare'
 p49
-(lp50
-V(5, 10]
+aS'clinical research'
+p50
+aS'scripting'
 p51
-aV(2, 5]
+aS'predictive analytics'
 p52
-asS'major'
+asS'working-year'
 p53
 (lp54
-S'information'
+V(5, 10]
 p55
-aS'health sciences'
+aV(2, 5]
 p56
-aS'business'
+asS'major'
 p57
-aS'analytics'
-p58
-aS'science'
+(lp58
+VStatistics
 p59
-aS'data mining'
+aVBusiness
 p60
-aVapplied statistic
+aVData Science
 p61
-aS'statistic'
+aVInformation Science
 p62
-aS'machine learning'
+aVComputer Science
 p63
-aS'medicine'
+aVBiological Engineering
 p64
-aS'communication'
+aVMathematics
 p65
-aS'computer science'
-p66
-aS'bioinformatics'
-p67
-aS'informatics'
-p68
-aS'mathematics'
-p69
-aS'epidemiology'
-p70
-aS'data mining machine learning'
-p71
-aS'data analytics'
-p72
-aS'predictive analytics'
-p73
 asS'education'
-p74
-(lp75
+p66
+(lp67
 VMaster
-p76
+p68
 aVDoctor
-p77
+p69
 asS'responsibility'
-p78
-(lp79
+p70
+(lp71
 S'development'
-p80
-aS'large data set'
-p81
-aS'data analysis'
-p82
-aS'formulate'
-p83
+p72
 aS'information'
-p84
+p73
+aS'data analysis'
+p74
+aS'formulate'
+p75
+aS'large data set'
+p76
 aS'pattern'
-p85
-aVinsight
-p86
+p77
+aS'insight'
+p78
 aS'analysis'
-p87
+p79
 aS'statistical model'
-p88
+p80
 aS'analytic'
-p89
+p81
 aS'understand'
-p90
+p82
 aS'data mining'
-p91
+p83
 aS'report'
-p92
+p84
 aS'modeling'
-p93
+p85
 aS'model'
-p94
+p86
 aS'prototype'
-p95
+p87
 aS'extract'
-p96
+p88
+aS'decision making'
+p89
 as.

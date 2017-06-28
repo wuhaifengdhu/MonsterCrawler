@@ -4,201 +4,192 @@ p2
 (dp3
 S'communication'
 p4
-I1
-sS'sql'
-p5
-I1
-sS'c++'
-p6
-I1
-sS'data mining'
-p7
-I1
-sS'go'
-p8
-I1
-sS'strategy'
-p9
-I1
-sS'insurance'
-p10
-I1
-sS'experimentation'
-p11
-I1
-sS'java'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'research'
-p14
-I1
-sS'big data analytics'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'data analysis'
-p18
-I1
-sS'python'
-p19
-I1
-sS'aws'
-p20
-I1
-sS'javascript'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'perl'
-p23
-I1
+F0.00474002802128999
 sS'data wrangling'
-p24
-I1
-sS'c'
-I1
-sS'data visualization'
-p25
-I1
-sS'programming'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'r'
-I1
-sS'scripting'
-p29
-I1
-sS'electrical engineering'
-p30
-I1
-sS'data analytics'
-p31
-I1
+p5
+F0.029947022145403845
+sS'analytics'
+p6
+F0.0026040043771961875
+sS'engineering'
+p7
+F0.003667229871478008
 sS'statistical analysis'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'mathematics physics'
-p38
-I1
-sS'business'
-p39
-I1
-sS'big data'
-p40
-I1
-sS'communication'
-p41
-I1
+p8
+F0.0077086830940497246
 sS'data mining'
-p42
-I1
-sS'machine learning'
-p43
-I1
+p9
+F0.0063532315230004121
+sS'go'
+p10
+F0.0098171053743342142
+sS'strategy'
+p11
+F0.0047156030875054938
+sS'insurance'
+p12
+F0.0094406329746996639
+sS'experimentation'
+p13
+F0.010781693351113409
+sS'java'
+p14
+F0.0037103801427194119
+sS'big data'
+p15
+F0.0038105542705469089
+sS'research'
+p16
+F0.0076631168412730983
 sS'big data analytics'
-p44
-I1
-sS'design'
-p45
-I1
+p17
+F0.0099229613914625162
 sS'computer science'
-p46
-I1
-sS'statistic'
-p47
-I1
+p18
+F0.0042095307281054513
+sS'innovation'
+p19
+F0.0057958822519003708
+sS'mathematics'
+p20
+F0.0054727343774724725
+sS'data analysis'
+p21
+F0.0044424012424121714
+sS'python'
+p22
+F0.0015606332717163652
+sS'javascript'
+p23
+F0.0066390557306046233
+sS'aws'
+p24
+F0.0078247794873703893
+sS'perl'
+p25
+F0.0085809902523633786
+sS'sql'
+p26
+F0.0020417480803384645
+sS'sensors'
+p27
+F0.01489147877558049
+sS'data'
+p28
+F0.00035509427507327224
+sS'c'
+F0.0037443770176589742
+sS'data visualization'
+p29
+F0.0058884240286814398
+sS'science'
+p30
+F0.0021048918808206363
+sS'programming'
+p31
+F0.0033003450144756764
+sS'analysis'
+p32
+F0.0010258045561500897
+sS'machine learning'
+p33
+F0.0019626279096827525
+sS'r'
+F0.0016616536126165904
+sS'scripting'
+p34
+F0.0072846837648103697
 sS'electrical engineering'
-p48
-I1
-sS'phd'
-p49
-I1
-sS'ee computer science'
-p50
-I1
+p35
+F0.011870134980176097
+sS'physics'
+p36
+F0.0072846837648103697
 sS'data analytics'
-p51
-I1
-sVphysic
-p52
-I1
-sS'data mining machine learning'
-p53
-I1
+p37
+F0.0061147385673227458
+ssS'working-year'
+p38
+(dp39
+V(5, 10]
+p40
+F0.0036097133580145473
+ssS'major'
+p41
+(dp42
+VBusiness
+p43
+F0.0032386657101021385
+sVData Science
+p44
+F0.003075715516781625
+sVElectrical and Electronics Engineering
+p45
+F0.0094210436987274895
+sVEngineering
+p46
+F0.006743649481337508
+sVComputer Science
+p47
+F0.002710645947162269
+sVMathematics
+p48
+F0.005132552483779796
+sVPhysics
+p49
+F0.0078554853329344029
 ssS'education'
+p50
+(dp51
+VBachelor
+p52
+F0.0027286791247601999
+sVDoctor
+p53
+F0.0032610232687918204
+ssS'responsibility'
 p54
 (dp55
-VBachelor
-p56
-I1
-sVDoctor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
 S'development'
-p60
-I1
+p56
+F0.0072512634875096932
 sS'large data set'
-p61
-I1
+p57
+F0.0094145423213558878
 sS'product'
-p62
-I1
+p58
+F0.012080774467524671
 sS'data analysis'
-p63
-I1
+p59
+F0.0044424012424121714
 sS'build model'
-p64
-I1
+p60
+F0.015834829605349234
 sS'business problem'
-p65
-I1
+p61
+F0.0085273968926067208
 sS'data mining'
-p66
-I1
-sVinsight
-p67
-I1
+p62
+F0.0063532315230004121
+sS'insight'
+p63
+F0.0054936926826631297
 sS'analysis'
-p68
-I1
+p64
+F0.0010258045561500897
+sS'develop ... model'
+p65
+F0.0092811767280722695
 sS'analytic'
-p69
-I1
+p66
+F0.0067596585996995296
 sS'design'
-p70
-I1
+p67
+F0.0087450228144819019
 sS'data wrangling'
-p71
-I1
+p68
+F0.029947022145403845
 sS'model'
-p72
-I1
+p69
+F0.023164832962599413
 ss.

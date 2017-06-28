@@ -2,81 +2,79 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'consulting'
 p4
-aS'training'
-p5
-aS'big data'
-p6
-aS'data visualization'
-p7
-aS'government'
-p8
-aS'python'
-p9
-aS'science'
-p10
-aS'greenplum'
-p11
-aS'processing'
-p12
-aS'consulting'
-p13
-aS'hadoop'
-p14
-aS'banking'
-p15
-aS'r'
-aS'computer science'
-p16
-aS'mathematics'
-p17
-aS'etl'
-p18
-aS'data'
-p19
 aS'data science'
-p20
+p5
+aS'visualization'
+p6
+aS'big data'
+p7
+aS'hadoop'
+p8
+aS'computer science'
+p9
+aS'mathematics'
+p10
+aS'pl'
+p11
+aS'government'
+p12
+aS'python'
+p13
+aS'greenplum'
+p14
+aS'processing'
+p15
+aS'data scientist'
+p16
+aS'sql'
+p17
+aS'data'
+p18
 aS'information technology'
+p19
+aS'training'
+p20
+aS'data visualization'
 p21
-asS'working-year'
+aS'science'
 p22
-(lp23
-V[0]
+aS'banking'
+p23
+aS'r'
+aS'etl'
 p24
-asS'major'
+asS'working-year'
 p25
 (lp26
-S'information'
+S'[0]'
 p27
-aS'big data'
+asS'major'
 p28
-aS'science'
-p29
-aS'data science'
+(lp29
+VMathematics
 p30
-aS'information system'
+aVData Science
 p31
-aS'computer science'
+aVInformation Science
 p32
-aS'statistic'
+aVComputer Science
 p33
-aS'mathematics'
+aVBusiness
 p34
-aS'information technology'
-p35
 asS'education'
-p36
-(lp37
+p35
+(lp36
 VBachelor
-p38
+p37
 aVMaster
-p39
+p38
 asS'responsibility'
-p40
-(lp41
+p39
+(lp40
 S'information'
-p42
+p41
 aS'processing'
-p43
+p42
 as.

@@ -2,94 +2,101 @@
 S'skills'
 p2
 (lp3
-S'programming'
+S'communication'
 p4
 aS'data science'
 p5
-aS'processing'
+aS'engineering'
 p6
-aS'data scientist'
+aS'statistics'
 p7
-aS'thought leadership'
+aS'java'
 p8
-aS'analysis'
+aS'scala'
 p9
-aS'machine learning'
+aS'hadoop'
 p10
-aS'engineering'
-p11
-aS'leadership'
-p12
-aS'computer science'
-p13
-aS'data processing'
-p14
-aS'data wrangling'
-p15
-aS'communication'
-p16
 aS'strategy'
-p17
-aS'data'
-p18
-aS'science'
-p19
-asS'working-year'
-p20
-(lp21
-V(2, 5]
-p22
-asS'major'
-p23
-(lp24
-S'business'
-p25
-aS'science'
-p26
-aS'data science'
-p27
-aS'communication'
-p28
-aS'machine learning'
-p29
-aS'statistics computer science'
-p30
-aS'engineering'
-p31
-aS'design'
-p32
+p11
 aS'computer science'
-p33
-aS'statistic'
-p34
-asS'education'
-p35
-(lp36
-VBachelor
-p37
-asS'responsibility'
-p38
-(lp39
-S'product'
-p40
+p12
+aS'python'
+p13
 aS'processing'
-p41
-aS'build model'
-p42
-aS'business problem'
-p43
-aVinsight
-p44
-aS'mapping'
-p45
-aS'analysis'
-p46
-aS'design'
-p47
-aS'design experiment'
-p48
+p14
+aS'data scientist'
+p15
+aS'leadership'
+p16
+aS'data processing'
+p17
 aS'data wrangling'
+p18
+aS'spark'
+p19
+aS'data'
+p20
+aS'a'
+aS'science'
+p21
+aS'programming'
+p22
+aS'thought leadership'
+p23
+aS'analysis'
+p24
+aS'machine learning'
+p25
+asS'working-year'
+p26
+(lp27
+V(2, 5]
+p28
+asS'major'
+p29
+(lp30
+VEngineering
+p31
+aVData Science
+p32
+aVStatistics
+p33
+aVComputer Science
+p34
+aVBusiness
+p35
+asS'education'
+p36
+(lp37
+VBachelor
+p38
+asS'responsibility'
+p39
+(lp40
+S'information'
+p41
+aS'product'
+p42
+aS'processing'
+p43
+aS'build model'
+p44
+aS'business problem'
+p45
+aS'insight'
+p46
+aS'mapping'
+p47
+aS'analysis'
+p48
+aS'drive ... decision'
 p49
-aS'model'
+aS'design'
 p50
+aS'data wrangling'
+p51
+aS'model'
+p52
+aS'design ... experiment'
+p53
 as.

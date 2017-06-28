@@ -4,86 +4,87 @@ p2
 (lp3
 S'data science'
 p4
-aS'human resources'
+aS'testing'
 p5
 aS'analytics'
 p6
 aS'engineering'
 p7
-aS'sap'
+aS'sas'
 p8
-aS'esri'
+aS'sap'
 p9
-aS'management'
+aS'telecommunications'
 p10
-aS'strategy'
+aS'esri'
 p11
-aS'six sigma'
+aS'management'
 p12
-aS'policy'
+aS'strategy'
 p13
-aS'mathematics'
+aS'six sigma'
 p14
-aS'energy'
+aS'policy'
 p15
-aS'testing'
+aS'mathematics'
 p16
-aS'python'
-p17
-aS'data scientist'
-p18
-aS'business process'
-p19
-aS'minitab'
-p20
-aS'data'
-p21
-aS'erp'
-p22
-aS'performance metrics'
-p23
-aS'science'
-p24
-aS'business strategy'
-p25
-aS'analysis'
-p26
 aS'unstructured data'
+p17
+aS'human resources'
+p18
+aS'energy'
+p19
+aS'python'
+p20
+aS'data scientist'
+p21
+aS'metrics'
+p22
+aS'business process'
+p23
+aS'minitab'
+p24
+aS'modeling'
+p25
+aS'data'
+p26
+aS'a'
+aS'erp'
 p27
+aS'performance metrics'
+p28
+aS'science'
+p29
+aS'business strategy'
+p30
+aS'analysis'
+p31
+aS'advanced analytics'
+p32
 aS'r'
 aS'oracle'
-p28
-aS'organization'
-p29
-asS'working-year'
-p30
-(lp31
-V(0, 2]
-p32
-aV(2, 5]
 p33
-asS'major'
+aS'organization'
 p34
-(lp35
-S'information'
-p36
-aS'management'
+asS'working-year'
+p35
+(lp36
+V(0, 2]
 p37
-aS'telecommunication'
+aV(2, 5]
 p38
-aS'business'
+asS'major'
 p39
-aS'science'
-p40
-aS'data science'
+(lp40
+VMathematics
 p41
-aS'analytics'
+aVData Science
 p42
-aS'engineering'
+aVEngineering
 p43
-aS'statistic'
+aVBusiness
 p44
-aS'mathematics'
+aVManagement Science and Engineering
 p45
 asS'education'
 p46
@@ -103,12 +104,16 @@ aS'pattern'
 p54
 aS'analysis'
 p55
-aS'improvement'
+aS'develop ... model'
 p56
-aS'model'
+aS'modeling'
 p57
-aS'presentation'
+aS'model'
 p58
-aS'transformation'
+aS'improvement'
 p59
+aS'presentation'
+p60
+aS'transformation'
+p61
 as.

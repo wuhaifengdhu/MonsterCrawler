@@ -2,57 +2,57 @@
 S'skills'
 p2
 (lp3
-S'healthcare industry'
+S'statistics'
 p4
-aS'business process'
+aS'healthcare industry'
 p5
-aS'python'
+aS'business process'
 p6
-aS'science'
+aS'python'
 p7
-aS'programming'
-p8
-aS'research'
-p9
-aS'analytics'
-p10
-aS'r'
-aS'computer science'
-p11
-aS'healthcare'
-p12
-aS'data'
-p13
-aS'predictive analytics'
-p14
-asS'working-year'
-p15
-(lp16
-V[0]
-p17
-asS'major'
-p18
-(lp19
-S'business'
-p20
 aS'science'
-p21
+p8
+aS'data science'
+p9
+aS'programming'
+p10
+aS'physics'
+p11
+aS'research'
+p12
 aS'analytics'
-p22
-aS'physics computer science'
-p23
-aS'computer science'
-p24
-aS'statistic'
-p25
-aVphysic
-p26
+p13
+aS'r'
+aS'healthcare'
+p14
+aS'data'
+p15
 aS'predictive analytics'
-p27
+p16
+asS'working-year'
+p17
+(lp18
+S'[0]'
+p19
+asS'major'
+p20
+(lp21
+VData Science
+p22
+aVStatistics
+p23
+aVPhysics
+p24
+aVComputer Science
+p25
+aVBusiness
+p26
 asS'education'
-p28
-(lp29
-VMaster
+p27
+(lp28
+VBachelor
+p29
+aVMaster
 p30
 asS'responsibility'
 p31

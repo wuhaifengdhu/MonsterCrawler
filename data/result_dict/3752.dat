@@ -12,113 +12,95 @@ aS'sql'
 p7
 aS'engineering'
 p8
-aS'experimentation'
+aS'sas'
 p9
-aS'management'
+aS'experimentation'
 p10
-aS'genetics'
+aS'management'
 p11
-aS'research'
+aS'genetics'
 p12
-aS'computer science'
+aS'research'
 p13
-aS'policy'
+aS'computer science'
 p14
-aS'product development'
+aS'policy'
 p15
-aS'python'
+aS'product development'
 p16
-aS'collaboration'
+aS'python'
 p17
-aS'epidemiology'
+aS'collaboration'
 p18
-aS'medicaid'
+aS'epidemiology'
 p19
-aS'biomedical informatics'
+aS'medicaid'
 p20
-aS'bioinformatics'
+aS'biomedical informatics'
 p21
-aS'informatics'
+aS'bioinformatics'
 p22
-aS'data'
+aS'informatics'
 p23
-aS'science'
+aS'data'
 p24
-aS'economics'
+aS'science'
 p25
-aS'analysis'
+aS'economics'
 p26
+aS'analysis'
+p27
 aS'r'
 aS'medicare'
-p27
-aS'healthcare'
 p28
-aS'product management'
+aS'healthcare'
 p29
-asS'working-year'
+aS'product management'
 p30
-(lp31
+asS'working-year'
+p31
+(lp32
 V(2, 5]
-p32
-asS'major'
 p33
-(lp34
-S'information'
-p35
-aS'management'
+asS'major'
+p34
+(lp35
+VData Science
 p36
-aS'genetics'
+aVEconomics
 p37
-aS'science'
+aVEngineering
 p38
-aS'data science'
+aVInformation Science
 p39
-aS'economics'
+aVComputer Science
 p40
-aS'statistic'
+aVBiological Engineering
 p41
-aS'medical informatics'
+aVManagement Science and Engineering
 p42
-aS'epidemiology'
-p43
-aS'engineering'
-p44
-aS'computer science'
-p45
-aS'biomedical informatics'
-p46
-aS'bioinformatics'
-p47
-aS'informatics'
-p48
-aS'phd'
-p49
-aS'computer science economics'
-p50
-aS'communication'
-p51
 asS'education'
-p52
-(lp53
+p43
+(lp44
 VMaster
-p54
+p45
 aVDoctor
-p55
+p46
 asS'responsibility'
-p56
-(lp57
+p47
+(lp48
 S'development'
-p58
+p49
 aS'information'
-p59
+p50
 aS'product'
-p60
-aVinsight
-p61
+p51
+aS'insight'
+p52
 aS'analysis'
-p62
+p53
 aS'analytical method'
-p63
+p54
 aS'understand'
-p64
+p55
 as.

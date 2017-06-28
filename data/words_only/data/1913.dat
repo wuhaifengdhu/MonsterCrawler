@@ -2,72 +2,84 @@
 S'skills'
 p2
 (dp3
-S'c'
-I1
-sS'data science'
+S'a'
+F0.014960335148912214
+sS'government'
 p4
-I1
-sS'data mining'
-p5
-I1
-sS'data scientist'
-p6
-I1
-sS'analysis'
-p7
-I1
-sS'access'
-p8
-I1
-sS'innovation'
-p9
-I1
-sS'modeling'
-p10
-I1
+F0.020856956125031724
 sS'root'
-p11
-I1
-sS'predictive analytics'
-p12
-I1
-ssS'working-year'
-p13
-(dp14
-V[0]
-p15
-I1
-ssS'major'
-p16
-(dp17
-S'data science'
-p18
-I1
-sS'predictive analytics'
-p19
-I1
+p5
+F0.031332318651577318
+sS'data science'
+p6
+F0.0096227274052847929
 sS'data mining'
+p7
+F0.0169758346294571
+sS'data scientist'
+p8
+F0.0084749733213110266
+sS'science'
+p9
+F0.0056242711055527394
+sS'analysis'
+p10
+F0.0027409497740330394
+sS'access'
+p11
+F0.018555696200771639
+sS'analytics'
+p12
+F0.0069578996958682129
+sS'innovation'
+p13
+F0.015486597377077789
+sS'organization'
+p14
+F0.01410547071425345
+sS'modeling'
+p15
+F0.00649716551217242
+sS'data'
+p16
+F0.0018976238059915666
+sS'predictive analytics'
+p17
+F0.018419985386630325
+ssS'working-year'
+p18
+(dp19
+S'[0]'
 p20
-I1
-ssS'education'
+F0.01756971784435506
+ssS'major'
 p21
 (dp22
-S'Bachelor'
+VData Science
 p23
-I1
-ssS'responsibility'
+F0.008218311860840502
+sVComputer Science
 p24
-(dp25
-S'modeling'
-p26
-I1
-sS'complex data set'
+F0.0072428459708175821
+ssS'education'
+p25
+(dp26
+S'Bachelor'
 p27
-I1
-sS'analysis'
+F0.0072910306213592544
+ssS'responsibility'
 p28
-I1
+(dp29
+S'modeling'
+p30
+F0.00649716551217242
+sS'complex data set'
+p31
+F0.040009221586259539
+sS'analysis'
+p32
+F0.0027409497740330394
 sS'data mining'
-p29
-I1
+p33
+F0.0169758346294571
 ss.

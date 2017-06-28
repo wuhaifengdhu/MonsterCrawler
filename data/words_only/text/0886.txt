@@ -1,5 +1,5 @@
-skills: {'management': 1, 'credit cards': 1, 'credit': 1, 'data scientist': 1, 'management consulting': 1, 'recruiting': 1, 'analysis': 1, 'strategy': 1, 'banking': 1, 'data analysis': 1, 'teamwork': 1, 'innovation': 1, 'organization': 1, 'retail': 1, 'collaboration': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'law': 1, 'management': 1, 'business': 1, 'history': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'data analysis': 1, 'business problem': 1, 'communicate': 1, 'analysis': 1, 'recommendation': 1, 'model': 1}
+skills: {'a': 0.0030161966026032686, 'management': 0.0014613691406446003, 'credit cards': 0.009978664016435348, 'credit': 0.005125056168125236, 'data scientist': 0.0017086639760707713, 'management consulting': 0.006186154788963497, 'recruiting': 0.011125478227798035, 'analysis': 0.0005526108415389192, 'strategy': 0.022863069162970186, 'banking': 0.03323516050217763, 'data analysis': 0.0023931645402672018, 'teamwork': 0.004620016368229031, 'innovation': 0.0249783828662545, 'organization': 0.0028438449020672277, 'retail': 0.005558002394220197, 'loans': 0.010053696148950938, 'collaboration': 0.00412527325818299}
+working-year: {u'(0, 2]': 0.003673516393693796, u'(2, 5]': 0.001998297465211509}
+major: {u'Business': 0.0017447005599582487, u'Management Science and Engineering': 0.0020799105459175684}
+education: {u'Bachelor': 0.0014699658510804947}
+responsibility: {'development': 0.001953162907119546, 'information': 0.006711799352561587, 'product': 0.006508030116376194, 'data analysis': 0.0023931645402672018, 'business problem': 0.004593791229242975, 'communicate': 0.003235875616583213, 'analysis': 0.0005526108415389192, 'recommendation': 0.012639685862023894, 'model': 0.0024958239385510336}

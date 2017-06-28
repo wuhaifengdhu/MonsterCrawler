@@ -4,199 +4,204 @@ p2
 (dp3
 S'nlp'
 p4
-I1
-sS'healthcare industry'
+F0.0099834299958091732
+sS'classification'
 p5
-I1
+F0.0091725636670292997
 sS'communication'
 p6
-I1
+F0.0046022365090431869
 sS'julia'
 p7
-I1
+F0.014578891996460437
 sS'analytics'
 p8
-I1
+F0.0050566131510670154
 sS'business intelligence'
 p9
-I1
+F0.0059390793859721543
 sS'statistical analysis'
 p10
-I1
-sS'education'
+F0.0074845934692226975
+sS'sas'
 p11
-I1
-sS'random forest'
+F0.0040268513275506295
+sS'education'
 p12
-I1
-sS'clustering'
+F0.0061006591564339218
+sS'random forest'
 p13
-I1
-sS'management'
+F0.01320239620592251
+sS'clustering'
 p14
-I1
-sS'research'
+F0.0093703853504540982
+sS'statistics'
 p15
-I1
-sS'matlab'
+F0.0027107931825657108
+sS'healthcare industry'
 p16
-I1
-sS'collaboration'
+F0.014195844488077865
+sS'research'
 p17
-I1
-sS'performance management'
+F0.0024801172722724949
+sS'matlab'
 p18
-I1
-sS'python'
+F0.0037104685687153046
+sS'intelligence'
 p19
-I1
-sS'quality management'
+F0.0045641238659499392
+sS'collaboration'
 p20
-I1
-sS'decision trees'
+F0.0074350855234693427
+sS'performance management'
 p21
-I1
-sS'data scientist'
+F0.013794247927656506
+sS'python'
 p22
-I1
-sS'data quality'
+F0.0015152660254455406
+sS'quality management'
 p23
-I1
-sS'knime'
+F0.016396015928559035
+sS'decision trees'
 p24
-I1
-sS'octave'
+F0.012127564059637526
+sS'data scientist'
 p25
-I1
-sS'sql'
+F0.0030795687940810413
+sS'data quality'
 p26
-I1
-sS'regression'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'translation'
-p29
-I1
-sS'data'
-p30
-I1
+F0.010275692044145999
 sS'svm'
+p27
+F0.01298150938700246
+sS'octave'
+p28
+F0.012109999463759642
+sS'sql'
+p29
+F0.0019823949384681601
+sS'regression'
+p30
+F0.0069074645077959324
+sS'modeling'
 p31
-I1
-sS'programming'
+F0.002360888630876606
+sS'translation'
 p32
-I1
-sS'analysis'
+F0.014791173007044165
+sS'data'
 p33
-I1
-sS'machine learning'
+F0.0020686306024617369
+sS'c'
+F0.0036355288485409804
+sS'knime'
 p34
-I1
-sS'r'
-I1
-sS'data integration'
+F0.015540672155818955
+sS'programming'
 p35
-I1
-sS'logistic regression'
+F0.003204404752426965
+sS'analysis'
 p36
-I1
-sS'healthcare'
-p37
-I1
-sS'scripting'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(5, 10]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'information'
-p44
-I1
-sS'management'
-p45
-I1
-sS'business'
-p46
-I1
-sS'communication'
-p47
-I1
-sS'phd'
-p48
-I1
-sS'analytics'
-p49
-I1
-sS'design'
-p50
-I1
-sS'statistic'
-p51
-I1
+F0.00099598465626200556
 sS'machine learning'
+p37
+F0.0019055747727733702
+sS'r'
+F0.0016133497285288987
+sS'data integration'
+p38
+F0.011251921977998786
+sS'logistic regression'
+p39
+F0.0095173339442196046
+sS'healthcare'
+p40
+F0.015681629902966069
+sS'military'
+p41
+F0.010850751662883166
+sS'scripting'
+p42
+F0.0070729197018798351
+ssS'working-year'
+p43
+(dp44
+V(5, 10]
+p45
+F0.0035047798301652872
+ssS'major'
+p46
+(dp47
+VData Science
+p48
+F0.0029863051819914613
+sVStatistics
+p49
+F0.0052369324706048838
+sVComputer Science
+p50
+F0.00263184809986104
+sVBusiness
+p51
+F0.0031445184510875412
+sVManagement Science and Engineering
 p52
-I1
+F0.0037486759839211988
 ssS'education'
 p53
 (dp54
-VMaster
+VBachelor
 p55
-I1
-sVDoctor
+F0.0026493570571799615
+sVMaster
 p56
-I1
-ssS'responsibility'
+F0.0021141880384423746
+sVDoctor
 p57
-(dp58
-S'large data set'
-p59
-I1
-sS'product'
+F0.0031662260807455464
+ssS'responsibility'
+p58
+(dp59
+S'information'
 p60
-I1
-sS'information'
+F0.008064565113542992
+sS'product'
 p61
-I1
-sS'understand'
+F0.0039098630544120543
+sS'large data set'
 p62
-I1
-sVinsight
+F0.0091408637655025181
+sS'understand'
 p63
-I1
-sS'communicate'
+F0.012219068682815554
+sS'insight'
 p64
-I1
-sS'analysis'
+F0.0053339923139810617
+sS'communicate'
 p65
-I1
-sS'statistical model'
+F0.017496304205944117
+sS'analysis'
 p66
-I1
-sS'analytic'
+F0.00099598465626200556
+sS'develop ... model'
 p67
-I1
-sS'statistical method'
+F0.0090113750790004003
+sS'analytic'
 p68
-I1
+F0.0065631568962198914
 sS'design'
 p69
-I1
+F0.0042454035174955742
 sS'report'
 p70
-I1
+F0.0060327802911989215
 sS'modeling'
 p71
-I1
+F0.002360888630876606
 sS'model'
 p72
-I1
+F0.0044982873311094212
+sS'statistical model'
+p73
+F0.010438559027961905
 ss.

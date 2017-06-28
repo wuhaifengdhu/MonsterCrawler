@@ -4,174 +4,165 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0033051552382272575
 sS'data science'
 p5
-I1
-sS'engineering'
+F0.0025111501579553218
+sS'data mining'
 p6
-I1
-sS'c++'
+F0.0044300194753280533
+sS'engineering'
 p7
-I1
+F0.0076713242822984634
 sS'personalization'
 p8
-I1
-sS'strategy'
+F0.00923965300199007
+sS'go'
 p9
-I1
-sS'java'
+F0.0068453302610180112
+sS'strategy'
 p10
-I1
-sS'big data'
+F0.0032881240735424524
+sS'java'
 p11
-I1
-sS'scala'
+F0.0025871961746728252
+sS'big data'
 p12
-I1
-sS'research'
+F0.0026570461928239401
+sS'scala'
 p13
-I1
-sS'marketing'
+F0.005095128158034732
+sS'research'
 p14
-I1
-sS'mathematics'
+F0.0017811280619242967
+sS'marketing'
 p15
-I1
-sS'data analysis'
+F0.023864900072787666
+sS'mathematics'
 p16
-I1
-sS'python'
+F0.0038160611316822666
+sS'data analysis'
 p17
-I1
-sS'customer service'
+F0.0030976242483625573
+sS'python'
 p18
-I1
-sS'sql'
+F0.0010882077510506595
+sS'customer service'
 p19
-I1
-sS'php'
+F0.0071576612580117769
+sS'algorithm design'
 p20
-I1
-sS'data'
+F0.0088000664364736719
+sS'php'
 p21
-I1
-sS'b2b'
+F0.0067740393398354488
+sS'data'
 p22
-I1
-sS'customer experience'
+F0.0022284204402301801
+sS'b2b'
 p23
-I1
-sS'c'
-I1
-sS'science'
+F0.0072562101285974399
+sS'customer experience'
 p24
-I1
-sS'economics'
+F0.0079981135730401772
+sS'c'
+F0.0026109017200377812
+sS'science'
 p25
-I1
-sS'programming'
+F0.0073385583318798788
+sS'economics'
 p26
-I1
-sS'analysis'
+F0.0050031144558652634
+sS'programming'
 p27
-I1
-sS'machine learning'
+F0.0023012844151041249
+sS'cvs'
 p28
-I1
-sS'r'
-I1
-ssS'working-year'
+F0.013222077001995992
+sS'analysis'
 p29
-(dp30
-V(2, 5]
+F0.0014305583371779953
+sS'machine learning'
+p30
+F0.0013685129892151134
+sS'r'
+F0.0011586478217410045
+sS'sql'
 p31
-I1
-ssS'major'
+F0.0014236823775220188
+ssS'working-year'
 p32
 (dp33
-S'mathematics economics'
+V(2, 5]
 p34
-I1
-sS'business'
+F0.0025865228150963159
+ssS'major'
 p35
-I1
-sS'big data'
-p36
-I1
-sS'marketing'
+(dp36
+VBusiness
 p37
-I1
-sS'data science'
+F0.0022582762989021171
+sVData Science
 p38
-I1
-sS'economics'
+F0.0021446534083612995
+sVEconomics
 p39
-I1
-sS'statistic'
+F0.0034254103288610871
+sVEngineering
 p40
-I1
-sS'general'
+F0.0047022524567155062
+sVComputer Science
 p41
-I1
-sS'engineering'
+F0.001890095503866801
+sVMathematics
 p42
-I1
-sS'design'
-p43
-I1
-sS'phd'
-p44
-I1
-sS'communication'
-p45
-I1
-sS'mathematics'
-p46
-I1
-sS'machine learning'
-p47
-I1
-sS'science'
-p48
-I1
+F0.0035788570554957239
 ssS'education'
-p49
-(dp50
-VDoctor
-p51
-I1
+p43
+(dp44
+VMaster
+p45
+F0.0015183312843928534
+sVDoctor
+p46
+F0.0022738659118506639
 ssS'responsibility'
-p52
-(dp53
+p47
+(dp48
 S'development'
-p54
-I1
-sVinsight
-p55
-I1
-sS'build model'
-p56
-I1
-sVproduct operation
-p57
-I1
-sS'analysis'
-p58
-I1
+p49
+F0.0025281023014908526
+sS'product'
+p50
+F0.0028079183522291161
 sS'data analysis'
-p59
-I1
+p51
+F0.0030976242483625573
+sS'build model'
+p52
+F0.011041405194544142
+sS'data mining'
+p53
+F0.0044300194753280533
+sS'insight'
+p54
+F0.0038306750647379645
+sS'analysis'
+p55
+F0.0014305583371779953
+sS'develop ... model'
+p56
+F0.0064716347122675101
 sS'design'
-p60
-I1
+p57
+F0.0060977820877598224
 sS'solve problem'
-p61
-I1
+p58
+F0.0085867274973521514
 sS'recommendation'
-p62
-I1
+p59
+F0.010906896638072114
 sS'model'
-p63
-I1
+p60
+F0.0032305028014648031
 ss.

@@ -4,161 +4,149 @@ p2
 (dp3
 S'nlp'
 p4
-I1
-sS'search'
-p5
-I1
-sS'programming'
-p6
-I1
-sS'big data'
-p7
-I1
-sS'python'
-p8
-I1
-sS'data'
-p9
-I1
+F0.011842413512270191
 sS'data science'
+p5
+F0.0041477273298641355
+sS'information retrieval'
+p6
+F0.012101796562010941
+sS'engineering'
+p7
+F0.01267091148696884
+sS'data mining'
+p8
+F0.0073171700989039228
+sS'quantitative analysis'
+p9
+F0.026303464427727106
+sS'statistics'
 p10
-I1
-sS'sql'
+F0.0032155615682848433
+sS'big data'
 p11
-I1
+F0.0043887073322850601
 sS'recruiting'
 p12
-I1
-sS'analysis'
+F0.011892752588335831
+sS'computer science'
 p13
-I1
-sS'information retrieval'
+F0.0048482181489214503
+sS'python'
 p14
-I1
-sS'non-profits'
-p15
-I1
-sS'engineering'
-p16
-I1
-sS'computer science'
-p17
-I1
+F0.0017974190094940206
 sS'statistical modeling'
+p15
+F0.0061771224834151596
+sS'sql'
+p16
+F0.0023515305477001622
+sS'modeling'
+p17
+F0.0028005023759363878
+sS'spark'
 p18
-I1
-sS'data mining'
+F0.0058142607700539953
+sS'data'
 p19
-I1
-sS'modeling'
+F0.0020448532392150502
+sS'search'
 p20
-I1
-sS'machine learning'
+F0.010696516474654371
+sS'non-profits'
 p21
-I1
-sS'quantitative analysis'
+F0.01983260255391078
+sS'science'
 p22
-I1
-sS'predictive analytics'
+F0.0024242547868761808
+sS'programming'
 p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(5, 10]
-p26
-I1
-sV(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'information'
-p30
-I1
-sS'business'
-p31
-I1
-sS'big data'
-p32
-I1
-sS'data science'
-p33
-I1
-sS'data mining'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'statistics computer science'
-p36
-I1
-sS'engineering'
-p37
-I1
-sS'computer science'
-p38
-I1
-sS'statistic'
-p39
-I1
-sS'machine learning data mining'
-p40
-I1
-sS'information retrieval'
-p41
-I1
-sS'predictive analytics'
-p42
-I1
-ssS'education'
-p43
-(dp44
-S'Bachelor'
-p45
-I1
-ssS'responsibility'
-p46
-(dp47
-S'development'
-p48
-I1
-sS'information'
-p49
-I1
-sS'product'
-p50
-I1
-sVinsight
-p51
-I1
+F0.0076021740333439714
 sS'analysis'
-p52
-I1
-sS'statistical model'
-p53
-I1
-sS'model'
-p54
-I1
+p24
+F0.0011814438681176894
+sS'machine learning'
+p25
+F0.0022604059373587562
+sS'predictive analytics'
+p26
+F0.0079396488735475525
+ssS'working-year'
+p27
+(dp28
+V(5, 10]
+p29
+F0.0041573940054374439
+sV(2, 5]
+p30
+F0.004272222167003915
+ssS'major'
+p31
+(dp32
+VEngineering
+p33
+F0.0077668238854025091
+sVStatistics
+p34
+F0.0062120854134071731
+sVData Science
+p35
+F0.0035423758020864228
+sVBusiness
+p36
+F0.0037300494730141869
+sVComputer Science
+p37
+F0.0031219163667317164
+ssS'education'
+p38
+(dp39
+S'Bachelor'
+p40
+F0.003142685612654851
+ssS'responsibility'
+p41
+(dp42
+S'development'
+p43
+F0.0083514551890628876
+sS'information'
+p44
+F0.0047831213776875674
+sS'product'
+p45
+F0.0092758130394327357
 sS'data mining'
-p55
-I1
+p46
+F0.0073171700989039228
+sS'insight'
+p47
+F0.0063272184689982247
+sS'analysis'
+p48
+F0.0011814438681176894
+sS'statistical model'
+p49
+F0.012382290709030673
+sS'model'
+p50
+F0.0053358994548332438
+sS'recommendation'
+p51
+F0.0090075922235112807
 sS'modeling'
-p56
-I1
+p52
+F0.0028005023759363878
 sS'product decision'
-p57
-I1
+p53
+F0.020757648204922673
 sS'prototype'
-p58
-I1
+p54
+F0.010873004874309268
 sS'quantitative analysis'
-p59
-I1
+p55
+F0.026303464427727106
 sS'implement'
-p60
-I1
+p56
+F0.0073029764659296812
 ss.

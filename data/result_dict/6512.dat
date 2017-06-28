@@ -14,7 +14,7 @@ aS'go'
 p8
 aS'hbase'
 p9
-aS'regression'
+aS'd3'
 p10
 aS'cassandra'
 p11
@@ -28,65 +28,67 @@ aS'scala'
 p15
 aS'deep learning'
 p16
-aS'd3.js'
+aS'redis'
 p17
-aS'tensorflow'
+aS'd3.js'
 p18
-aS'numpy'
+aS'tensorflow'
 p19
-aS'apis'
+aS'numpy'
 p20
-aS'python'
+aS'apis'
 p21
-aS'ggplot'
+aS'python'
 p22
-aS'matplotlib'
+aS'ggplot'
 p23
-aS'sql'
+aS'matplotlib'
 p24
-aS'spark'
+aS'sql'
 p25
-aS'data'
+aS'regression'
 p26
-aS'data visualization'
+aS'spark'
 p27
-aS'science'
+aS'data'
 p28
-aS'programming'
+aS'software development'
 p29
-aS'hive'
+aS'data visualization'
 p30
-aS'machine learning'
+aS'science'
 p31
+aS'programming'
+p32
+aS'hive'
+p33
+aS'machine learning'
+p34
 aS'r'
 aS'theano'
-p32
+p35
 aS'scripting'
-p33
-asS'working-year'
-p34
-(lp35
-V[0]
 p36
-asS'major'
+asS'working-year'
 p37
 (lp38
-S'science'
+S'[0]'
 p39
-aS'data science'
+asS'major'
 p40
-aS'statistic'
-p41
-aS'machine learning'
+(lp41
+VData Science
 p42
-asS'education'
+aVComputer Science
 p43
-(lp44
+asS'education'
+p44
+(lp45
 S'Bachelor'
-p45
-asS'responsibility'
 p46
-(lp47
+asS'responsibility'
+p47
+(lp48
 S'development'
-p48
+p49
 as.

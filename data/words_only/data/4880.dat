@@ -4,248 +4,236 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0065493179553944075
 sS'classification'
 p5
-I1
+F0.0091459765259654466
 sS'pig'
 p6
-I1
+F0.0078221106525098293
 sS'sentiment analysis'
 p7
-I1
+F0.012181603558875599
 sS'engineering'
 p8
-I1
+F0.0035503037016627673
 sS'analysis'
 p9
-I1
+F0.001986195488429739
 sS'linux'
 p10
-I1
+F0.0053509508342006653
 sS'public policy'
 p11
-I1
+F0.012022983099677226
 sS'clustering'
 p12
-I1
-sS'management'
+F0.0093432248132064057
+sS'statistics'
 p13
-I1
+F0.0027029358110220426
 sS'big data'
 p14
-I1
-sS'hadoop'
+F0.0036890583372830945
+sS'analytics'
 p15
-I1
-sS'risk management'
+F0.002520978150676889
+sS'hadoop'
 p16
-I1
-sS'computer science'
+F0.0037240768156509129
+sS'risk management'
 p17
-I1
-sS'natural language processing'
+F0.0091587168869224234
+sS'computer science'
 p18
-I1
-sS'text classification'
+F0.0040753138063397698
+sS'natural language processing'
 p19
-I1
-sS'mathematics'
+F0.0072636467593052258
+sS'policy'
 p20
-I1
-sS'unstructured data'
+F0.0079120528349007242
+sS'mathematics'
 p21
-I1
-sS'operations research'
+F0.0052982413973211764
+sS'unstructured data'
 p22
-I1
-sS'text mining'
+F0.0092429229955164061
+sS'operations research'
 p23
-I1
-sS'product development'
+F0.0083505464218895931
+sS'text mining'
 p24
-I1
-sS'marketing'
+F0.0095257534186974063
+sS'product development'
 p25
-I1
+F0.0075752937645846667
 sS'processing'
 p26
-I1
+F0.018934354628066318
 sS'data scientist'
 p27
-I1
-sS'business analytics'
-p28
-I1
+F0.0030706425077213864
 sS'business process'
+p28
+F0.0088558925493326269
+sS'business analytics'
 p29
-I1
-sS'computational linguistics'
+F0.0088045918656785901
+sS'text classification'
 p30
-I1
-sS'bioinformatics'
+F0.016505207286215649
+sS'computational linguistics'
 p31
-I1
-sS'spark'
+F0.014456114404709824
+sS'bioinformatics'
 p32
-I1
-sS'data'
+F0.0094471225804433484
+sS'spark'
 p33
-I1
-sS'cluster'
+F0.0048873496327990103
+sS'data'
 p34
-I1
-sS'amazon ec2'
+F0.0030939518575949453
+sS'cluster'
 p35
-I1
-sS'science'
+F0.010181596529041961
+sS'amazon ec2'
 p36
-I1
-sS'mapreduce'
+F0.01366224020064646
+sS'science'
 p37
-I1
-sS'hive'
+F0.0020377793860698332
+sS'mapreduce'
 p38
-I1
-sS'optimization'
+F0.007642613092625857
+sS'hive'
 p39
-I1
-sS'scripting'
+F0.0060456644912753816
+sS'optimization'
 p40
-I1
-sS'logistic regression'
+F0.0057971271228653394
+sS'command'
 p41
-I1
-sS'organization'
+F0.011129722542848013
+sS'scripting'
 p42
-I1
-sS'data analytics'
+F0.0070524184853526474
+sS'logistic regression'
 p43
-I1
-sS'marketing research'
+F0.0094897474690189675
+sS'organization'
 p44
-I1
-ssS'working-year'
+F0.0051106777950193655
+sS'physics'
 p45
-(dp46
-V(2, 5]
+F0.0070524184853526474
+sS'data analytics'
+p46
+F0.0059197758883646296
+sS'marketing research'
 p47
-I1
-ssS'major'
+F0.011808180905493897
+ssS'working-year'
 p48
 (dp49
-S'bioinformatics'
+V(2, 5]
 p50
-I1
-sS'computational linguistics'
+F0.0035911432708148855
+ssS'major'
 p51
-I1
-sS'management'
-p52
-I1
-sS'big data'
+(dp52
+VLinguistics
 p53
-I1
-sS'marketing'
+F0.015173235209684525
+sVStatistics
 p54
-I1
-sS'natural language processing'
+F0.0052217529561973336
+sVBusiness
 p55
-I1
-sS'science'
+F0.0031354039048525051
+sVData Science
 p56
-I1
-sS'phd'
+F0.0029776492249422104
+sVEconomics
 p57
-I1
-sS'business analytics'
+F0.0047558595580419159
+sVEngineering
 p58
-I1
-sS'engineering'
+F0.0035503037016627673
+sVSociology
 p59
-I1
-sS'history'
+F0.011407238757384025
+sVComputer Science
 p60
-I1
-sS'marketing research'
+F0.0026242195546440513
+sVBiological Engineering
 p61
-I1
-sS'statistic'
+F0.0076237558854396828
+sVMathematics
 p62
-I1
-sVphysic
+F0.0049689058828476865
+sVPhysics
 p63
-I1
-sS'mathematics'
+F0.007605020583188668
+sVOperations Research
 p64
-I1
-sS'public policy'
+F0.0093296489802526198
+sVManagement Science and Engineering
 p65
-I1
-sS'law'
-p66
-I1
-sS'data analytics'
-p67
-I1
-sS'operations research'
-p68
-I1
-sS'computer science'
-p69
-I1
+F0.003737810256431572
 ssS'education'
+p66
+(dp67
+VMaster
+p68
+F0.0021080599571715272
+sVDoctor
+p69
+F0.0031570486138448347
+ssS'responsibility'
 p70
 (dp71
-VMaster
-p72
-I1
-sVDoctor
-p73
-I1
-ssS'responsibility'
-p74
-(dp75
 S'development'
-p76
-I1
+p72
+F0.0035100318910554163
 sS'product'
-p77
-I1
-sVinsight
-p78
-I1
+p73
+F0.0038985301180224541
+sS'insight'
+p74
+F0.0053185314666941595
 sS'pattern'
-p79
-I1
+p75
+F0.0075901190596352058
 sS'processing'
-p80
-I1
+p76
+F0.018934354628066318
 sS'communicate'
-p81
-I1
+p77
+F0.0058151967602364987
 sS'analysis'
-p82
-I1
+p78
+F0.001986195488429739
 sS'statistical method'
-p83
-I1
+p79
+F0.010190696895801482
 sS'optimization'
-p84
-I1
+p80
+F0.0057971271228653394
 sS'understand'
-p85
-I1
+p81
+F0.0060918255462152912
 sS'report'
-p86
-I1
+p82
+F0.0060152939715142871
 sS'implement'
-p87
-I1
+p83
+F0.0061387338409263983
 sS'presentation'
-p88
-I1
+p84
+F0.0071401575139408893
 sS'model'
-p89
-I1
+p85
+F0.0044852488171062055
 ss.

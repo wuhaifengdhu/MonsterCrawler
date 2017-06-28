@@ -2,77 +2,78 @@
 S'skills'
 p2
 (lp3
-S'customer insight'
+S'analytics'
 p4
-aS'analytics'
-p5
 aS'statistical analysis'
-p6
+p5
 aS'problem solving'
+p6
+aS'sas'
 p7
 aS'education'
 p8
-aS'programming languages'
+aS'visualization'
 p9
-aS'predictive modeling'
+aS'programming languages'
 p10
-aS'unstructured data'
+aS'predictive modeling'
 p11
-aS'data modeling'
+aS'unstructured data'
 p12
-aS'python'
+aS'segmentation'
 p13
-aS'marketing'
+aS'data modeling'
 p14
-aS'data scientist'
+aS'python'
 p15
-aS'mathematical analysis'
+aS'marketing'
 p16
-aS'sql'
+aS'data scientist'
 p17
-aS'modeling'
+aS'mathematical analysis'
 p18
-aS'data'
+aS'metrics'
 p19
-aS'performance metrics'
+aS'sql'
 p20
-aS'data visualization'
+aS'modeling'
 p21
-aS'marketing analytics'
+aS'data'
 p22
-aS'programming'
+aS'performance metrics'
 p23
-aS'analysis'
+aS'data visualization'
 p24
-aS'machine learning'
+aS'marketing analytics'
 p25
-aS'demand generation'
+aS'programming'
 p26
-aS'organization'
+aS'analysis'
 p27
-aS'validation'
+aS'machine learning'
 p28
-asS'working-year'
+aS'demand generation'
 p29
-(lp30
-V(5, 10]
+aS'r'
+aS'organization'
+p30
+aS'validation'
 p31
-asS'major'
+asS'working-year'
 p32
 (lp33
-S'information'
+V(5, 10]
 p34
-aS'health services'
+asS'major'
 p35
-aS'business'
-p36
-aS'marketing'
+(lp36
+VData Science
 p37
-aS'marketing analytics'
+aVEconomics
 p38
-aS'machine learning'
+aVComputer Science
 p39
-aS'analytics'
+aVBusiness
 p40
 asS'education'
 p41
@@ -84,23 +85,23 @@ p44
 (lp45
 S'development'
 p46
-aS'large data set'
+aS'information'
 p47
 aS'product'
 p48
-aS'business problem'
+aS'large data set'
 p49
 aS'pattern'
 p50
-aVinsight
-p51
 aS'communicate'
-p52
+p51
 aS'analysis'
+p52
+aS'develop ... model'
 p53
-aS'statistical model'
-p54
 aS'analytic'
+p54
+aS'drive ... decision'
 p55
 aS'understand'
 p56
@@ -108,10 +109,12 @@ aS'report'
 p57
 aS'modeling'
 p58
-aS'information'
-p59
-aS'presentation'
-p60
 aS'model'
+p59
+aS'statistical model'
+p60
+aS'presentation'
 p61
+aS'decision making'
+p62
 as.

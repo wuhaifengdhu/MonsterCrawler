@@ -4,191 +4,205 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.012066786032223534
 sS'communication'
 p5
-I1
+F0.0065151002432545539
 sS'data acquisition'
 p6
-I1
+F0.0094752947622402869
 sS'analytics'
 p7
-I1
-sS'data mining'
+F0.0053687497653304109
+sS'engineering'
 p8
-I1
-sS'education'
+F0.0025202773190815941
+sS'data mining'
 p9
-I1
-sS'regression'
+F0.0043662126104570733
+sS'sas'
 p10
-I1
-sS'excel'
+F0.0028502815981016807
+sS'education'
 p11
-I1
-sS'research'
+F0.0086363240733056349
+sS'regression'
 p12
-I1
-sS'innovation'
+F0.0048892341372053514
+sS'statistics'
 p13
-I1
-sS'mathematics'
+F0.0019187507300465116
+sS'excel'
 p14
-I1
-sS'segmentation'
+F0.0033270663103005466
+sS'innovation'
 p15
-I1
-sS'data analysis'
+F0.0039831783377257688
+sS'mathematics'
 p16
-I1
-sS'discrete event simulation'
+F0.0037610972882218228
+sS'operations research'
 p17
-I1
-sS'strategic thinking'
+F0.0059278570278845878
+sS'segmentation'
 p18
-I1
-sS'leadership'
+F0.011917906634280004
+sS'data analysis'
 p19
-I1
-sS'statistical modeling'
+F0.003053008261246225
+sS'finance'
 p20
-I1
-sS'modeling'
+F0.0054632634859746679
+sS'discrete event simulation'
 p21
-I1
+F0.012466951850011653
 sS'business analytics'
 p22
-I1
-sS'analysis'
+F0.0062501732379817154
+sS'leadership'
 p23
-I1
-sS'simulation'
+F0.0068000354782050297
+sS'statistical modeling'
 p24
-I1
-sS'optimization'
+F0.0036859372843423797
+sS'sql'
 p25
-I1
-sS'organization'
-p26
-I1
-sS'microsoft office'
-p27
-I1
-sS'data analytics'
-p28
-I1
-ssS'working-year'
-p29
-(dp30
-V(5, 10]
-p31
-I1
-sV(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'information'
-p35
-I1
-sS'business'
-p36
-I1
-sS'communication'
-p37
-I1
-sS'data mining'
-p38
-I1
-sS'business analytics'
-p39
-I1
-sS'analytics'
-p40
-I1
-sS'design'
-p41
-I1
-sS'statistic'
-p42
-I1
-sS'mathematics'
-p43
-I1
-sS'data analytics'
-p44
-I1
-ssS'education'
-p45
-(dp46
-VBachelor
-p47
-I1
-ssS'responsibility'
-p48
-(dp49
-S'development'
-p50
-I1
-sS'large data set'
-p51
-I1
-sS'forecasting'
-p52
-I1
-sS'data analysis'
-p53
-I1
-sS'develop model'
-p54
-I1
-sS'information'
-p55
-I1
-sS'presentation'
-p56
-I1
-sVinsight
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'improvement'
-p59
-I1
-sS'optimization'
-p60
-I1
-sS'design'
-p61
-I1
-sS'ownership'
-p62
-I1
-sS'data mining'
-p63
-I1
-sS'report'
-p64
-I1
-sS'prototype'
-p65
-I1
+F0.0014031766642655292
 sS'modeling'
-p66
-I1
-sS'statistical model'
-p67
-I1
-sS'evaluation'
-p68
-I1
-sS'model'
-p69
-I1
+p26
+F0.0016710816646534003
+sS'a'
+F0.0038478228263663103
+sS'strategic thinking'
+p27
+F0.01125751811462088
+sS'training'
+p28
+F0.0048421702695932703
+sS'analysis'
+p29
+F0.0007049767937327777
 sS'simulation'
+p30
+F0.0055243534725810117
+sS'optimization'
+p31
+F0.0082304891250557302
+sS'organization'
+p32
+F0.0072559005731756433
+sS'microsoft office'
+p33
+F0.0039514453598617771
+sS'data analytics'
+p34
+F0.0042023100442094598
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0024807495094174049
+sV(2, 5]
+p38
+F0.0025492683712574809
+ssS'major'
+p39
+(dp40
+VStatistics
+p41
+F0.0037067999380413176
+sVBusiness
+p42
+F0.0022257496855434449
+sVData Science
+p43
+F0.0021137633386935448
+sVEconomics
+p44
+F0.0033760731430544466
+sVEngineering
+p45
+F0.0046345245406722796
+sVComputer Science
+p46
+F0.0018628719060744812
+sVMathematics
+p47
+F0.0035273097316511361
+sVOperations Research
+p48
+F0.0066228989674632808
+ssS'education'
+p49
+(dp50
+VBachelor
+p51
+F0.0018752650775100963
+sVMaster
+p52
+F0.0014964623152760842
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+F0.012458446526894224
+sS'information'
+p56
+F0.011416503699830409
+sS'forecasting'
+p57
+F0.012066786032223534
+sS'data analysis'
+p58
+F0.003053008261246225
+sS'large data set'
+p59
+F0.0064700764101499313
+sS'presentation'
+p60
+F0.0050686303339703845
+sS'insight'
+p61
+F0.018877503662649023
+sS'analysis'
+p62
+F0.0007049767937327777
+sS'improvement'
+p63
+F0.016581521582340171
+sS'optimization'
+p64
+F0.0082304891250557302
+sS'design'
+p65
+F0.0060099539506933237
+sS'ownership'
+p66
+F0.0081075996915378357
+sS'data mining'
+p67
+F0.0043662126104570733
+sS'report'
+p68
+F0.0085402321817795446
+sS'prototype'
+p69
+F0.0064880070237647901
+sS'modeling'
 p70
-I1
+F0.0016710816646534003
+sS'develop ... model'
+p71
+F0.0063784218666175681
+sS'evaluation'
+p72
+F0.0069618172506721761
+sS'model'
+p73
+F0.003183972925723541
+sS'simulation'
+p74
+F0.0055243534725810117
 ss.

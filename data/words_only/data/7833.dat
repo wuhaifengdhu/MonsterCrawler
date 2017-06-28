@@ -2,115 +2,124 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'product management'
 p4
-I1
-sS'big data'
+F0.011566659329727931
+sS'data analytics'
 p5
-I1
-sS'programming languages'
-p6
-I1
-sS'marketing'
-p7
-I1
-sS'testing'
-p8
-I1
-sS'data scientist'
-p9
-I1
-sS'integration'
-p10
-I1
-sS'machine learning'
-p11
-I1
-sS'business process'
-p12
-I1
-sS'product design'
-p13
-I1
-sS'etl'
-p14
-I1
-sS'healthcare'
-p15
-I1
-sS'product management'
-p16
-I1
+F0.0075641580795770269
 sS'validation'
-p17
-I1
-sS'data'
-p18
-I1
-sS'b2b'
-p19
-I1
-sS'data analytics'
-p20
-I1
-ssS'working-year'
-p21
-(dp22
-V[0]
-p23
-I1
-ssS'major'
-p24
-(dp25
-S'management'
-p26
-I1
-sS'business'
-p27
-I1
+p6
+F0.011710971500278135
+sS'programming'
+p7
+F0.0040826490179069483
 sS'big data'
-p28
-I1
+p8
+F0.0047137967643061766
+sS'programming languages'
+p9
+F0.017655411432596371
 sS'marketing'
-p29
-I1
+p10
+F0.0070563500832501805
+sS'testing'
+p11
+F0.01516576307333343
+sS'data scientist'
+p12
+F0.0039235987598662163
+sS'integration'
+p13
+F0.0085416411933133801
+sS'sales'
+p14
+F0.01231335088959631
+sS'business process'
+p15
+F0.011315862701925024
+sS'product design'
+p16
+F0.017055530572032514
+sS'html'
+p17
+F0.0094817951601803493
+sS'etl'
+p18
+F0.01055468397783401
+sS'healthcare'
+p19
+F0.0099897790492969041
+sS'go'
+p20
+F0.012144122944546769
 sS'machine learning'
+p21
+F0.0024278434142001458
+sS'data'
+p22
+F0.0021963238495272762
+sS'b2b'
+p23
+F0.012873054265178423
+sS'css'
+p24
+F0.011382594791788776
+ssS'working-year'
+p25
+(dp26
+S'[0]'
+p27
+F0.0081341286316458615
+ssS'major'
+p28
+(dp29
+VData Science
 p30
-I1
-sS'design'
+F0.0038047740096483801
+sVEconomics
 p31
-I1
-sS'data analytics'
+F0.0060769316574980038
+sVComputer Science
 p32
-I1
-ssS'education'
+F0.0033531694309340658
+sVBusiness
 p33
-(dp34
-S'Bachelor'
+F0.0040063494339782008
+sVManagement Science and Engineering
+p34
+F0.0047760908832181204
+ssS'education'
 p35
-I1
+(dp36
+S'Bachelor'
+p37
+F0.003375477139518173
 ssS'responsibility'
-p36
-(dp37
-S'development'
 p38
-I1
-sS'product'
-p39
-I1
-sVinsight
+(dp39
+S'development'
 p40
-I1
-sS'design'
+F0.0044850407496819207
+sS'product'
 p41
-I1
-sS'report'
+F0.024907275754032343
+sS'insight'
 p42
-I1
+F0.0067959013185536488
 sS'understand'
 p43
-I1
-sS'prototype'
+F0.0077839993090528716
+sS'report'
 p44
-I1
+F0.0076862089636015891
+sS'design'
+p45
+F0.0054089585556239914
+sS'prototype'
+p46
+F0.011678412642776621
+sS'monitor ... metric'
+p47
+F0.025481177194525452
 ss.

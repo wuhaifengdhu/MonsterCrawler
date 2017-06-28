@@ -8,9 +8,9 @@ aS'cancer'
 p5
 aS'communication'
 p6
-aS'data science'
-p7
 aS'engineering'
+p7
+aS'mysql'
 p8
 aS'strategy'
 p9
@@ -18,104 +18,91 @@ aS'insurance'
 p10
 aS'management'
 p11
-aS'big data'
-p12
 aS'team building'
-p13
+p12
 aS'agile'
-p14
+p13
 aS'storage'
-p15
+p14
 aS'devops'
-p16
+p15
 aS'research'
-p17
+p16
 aS'access'
-p18
+p17
 aS'database design'
-p19
+p18
 aS'teamwork'
-p20
+p19
 aS'data management'
-p21
+p20
 aS'architecture'
-p22
+p21
 aS'cancer research'
-p23
+p22
 aS'scrum'
-p24
+p23
 aS'data scientist'
+p24
+aS'automation'
 p25
-aS'automation'
-p26
 aS'mentoring'
-p27
+p26
 aS'sql'
-p28
+p27
 aS'oracle database'
-p29
+p28
 aS'data'
-p30
+p29
 aS'etl'
+p30
+aS'c'
+aS'software engineering'
 p31
-aS'software engineering'
+aS'science'
 p32
-aS'science'
-p33
 aS'data architecture'
-p34
+p33
 aS'data engineering'
-p35
+p34
 aS'operating systems'
-p36
+p35
 aS'oracle'
-p37
+p36
 aS'security'
-p38
+p37
 aS'application development'
-p39
+p38
 asS'working-year'
-p40
-(lp41
+p39
+(lp40
 V(5, 10]
-p42
+p41
 asS'major'
-p43
-(lp44
-S'management'
+p42
+(lp43
+VEngineering
+p44
+aVComputer Science
 p45
-aS'business'
+aVBusiness
 p46
-aS'big data'
+aVManagement Science and Engineering
 p47
-aS'science'
-p48
-aS'data science'
-p49
-aS'automation'
-p50
-aS'engineering'
-p51
-aS'design'
-p52
-aS'communication'
-p53
-aS'software engineering'
-p54
-aS'development practice'
-p55
 asS'education'
-p56
-(lp57
-S'Bachelor'
-p58
+p48
+(lp49
+VBachelor
+p50
+aVMaster
+p51
 asS'responsibility'
-p59
-(lp60
+p52
+(lp53
 S'development'
-p61
+p54
 aS'understand'
-p62
+p55
 aS'design'
-p63
+p56
 as.

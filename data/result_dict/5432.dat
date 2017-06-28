@@ -2,199 +2,178 @@
 S'skills'
 p2
 (lp3
-S'supply chain'
+S'soa'
 p4
-aS'classification'
+aS'supply chain'
 p5
-aS'regression analysis'
+aS'classification'
 p6
-aS'eclipse'
+aS'regression analysis'
 p7
-aS'data science'
+aS'eclipse'
 p8
-aS'innovation'
+aS'data science'
 p9
-aS'pig'
+aS'rest'
 p10
-aS'hardware'
+aS'pig'
 p11
-aS'analytics'
+aS'hardware'
 p12
-aS'engineering'
+aS'analytics'
 p13
-aS'troubleshooting'
+aS'engineering'
 p14
-aS'problem solving'
+aS'innovation'
 p15
-aS'data mining'
+aS'problem solving'
 p16
-aS'education'
+aS'data mining'
 p17
-aS'regression'
+aS'education'
 p18
-aS'clustering'
+aS'regression'
 p19
-aS'hdfs'
+aS'clustering'
 p20
-aS'git'
+aS'hdfs'
 p21
-aS'java'
+aS'git'
 p22
-aS'big data'
+aS'java'
 p23
-aS'agile'
+aS'big data'
 p24
-aS'hadoop'
+aS'agile'
 p25
-aS'anova'
+aS'scrum'
 p26
-aS'computer science'
+aS'hadoop'
 p27
-aS'communication'
+aS'anova'
 p28
-aS'advanced analytics'
+aS'computer science'
 p29
-aS'jenkins'
+aS'communication'
 p30
-aS'electronics'
+aS'advanced analytics'
 p31
-aS'pca'
+aS'jenkins'
 p32
-aS'energy'
+aS'electronics'
 p33
-aS'architecture'
+aS'pca'
 p34
-aS'processing'
+aS'energy'
 p35
-aS'spring'
+aS'architecture'
 p36
-aS'gas'
+aS'processing'
 p37
+aS'spring'
+p38
+aS'gas'
+p39
 aS'c'
 aS'data scientist'
-p38
-aS'search'
-p39
-aS'scalability'
 p40
-aS'hive'
+aS'search'
 p41
-aS'management'
+aS'scalability'
 p42
-aS'data processing'
+aS'hive'
 p43
-aS'oozie'
+aS'management'
 p44
-aS'spark'
+aS'data processing'
 p45
-aS'manufacturing'
+aS'oozie'
 p46
-aS'data'
+aS'spark'
 p47
-aS'maven'
+aS'manufacturing'
 p48
-aVbayesian network
+aS'data'
 p49
-aS'science'
+aS'a'
+aS'maven'
 p50
-aS'aws'
+aVbayesian network
 p51
-aS'programming'
+aS'science'
 p52
-aS'mapreduce'
+aS'aws'
 p53
-aS'analysis'
+aS'programming'
 p54
-aS'machine learning'
+aS'mapreduce'
 p55
-aS'lucene'
+aS'analysis'
 p56
-aS'optimization'
+aS'machine learning'
 p57
-aS'solr'
+aS'lucene'
 p58
-aS'financial services'
+aS'optimization'
 p59
-aS'security'
+aS'solr'
 p60
-aS'high availability'
+aS'financial services'
 p61
-aS'data analytics'
+aS'security'
 p62
-asS'working-year'
+aS'high availability'
 p63
-(lp64
-V(0, 2]
+aS'data analytics'
+p64
+aS'troubleshooting'
 p65
-asS'major'
+asS'working-year'
 p66
 (lp67
-S'information'
+V(0, 2]
 p68
-aS'management'
+asS'major'
 p69
-aS'business'
-p70
-aS'big data'
+(lp70
+VData Science
 p71
-aS'science'
+aVEngineering
 p72
-aS'data science'
+aVComputer Science
 p73
-aS'statistic'
+aVBusiness
 p74
-aS'communication'
+aVManagement Science and Engineering
 p75
-aS'machine learning'
-p76
-aS'analytics'
-p77
-aS'engineering'
-p78
-aS'design'
-p79
-aS'computer science'
-p80
-aS'data mining'
-p81
-aS'advanced analytics'
-p82
-aS'electronics'
-p83
-aS'phd'
-p84
-aS'data analytics'
-p85
-aS'data mining machine learning'
-p86
 asS'education'
-p87
-(lp88
+p76
+(lp77
 VBachelor
-p89
+p78
 aVMaster
-p90
+p79
 aVDoctor
-p91
+p80
 asS'responsibility'
-p92
-(lp93
+p81
+(lp82
 S'development'
-p94
+p83
 aS'information'
-p95
+p84
 aS'product'
-p96
+p85
 aS'processing'
-p97
+p86
 aS'analysis'
-p98
+p87
 aS'optimization'
-p99
+p88
 aS'design'
-p100
+p89
 aS'data mining'
-p101
+p90
 aS'implement'
-p102
+p91
 as.

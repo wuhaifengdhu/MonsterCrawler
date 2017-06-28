@@ -2,109 +2,96 @@
 S'skills'
 p2
 (dp3
-S'search'
+S'a'
+F0.020894322833676277
+sS'search'
 p4
-I1
-sS'data analysis'
+F0.069318207321782524
+sS'statistics'
 p5
-I1
+F0.0052095690212436013
 sS'python'
 p6
-I1
-sS'data scientist'
+F0.0029120196243199218
+sS'programming'
 p7
-I1
+F0.0061581856694685804
 sS'data science'
 p8
-I1
-sS'programming'
+F0.0067197817076011133
+sS'data scientist'
 p9
-I1
-sS'analysis'
-p10
-I1
+F0.0059182774590160799
 sS'analytics'
-p11
-I1
+p10
+F0.0048588685027012666
 sS'health insurance'
+p11
+F0.028774768142486595
+sS'data analysis'
 p12
-I1
+F0.0082891732679646109
 sS'computer science'
 p13
-I1
+F0.0078546551016045844
 sS'communication'
 p14
-I1
+F0.0088445215592785273
 sS'mathematics'
 p15
-I1
+F0.010211694313272658
 sS'insurance'
 p16
-I1
-ssS'working-year'
+F0.017615482757260825
+sS'science'
 p17
-(dp18
+F0.0039275636211960471
+ssS'working-year'
+p18
+(dp19
 V(2, 5]
-p19
-I1
-ssS'major'
 p20
-(dp21
-S'information'
-p22
-I1
-sS'communication'
+F0.0069214772538052265
+ssS'major'
+p21
+(dp22
+VMathematics
 p23
-I1
-sS'data science'
+F0.0095769415060472183
+sVData Science
 p24
-I1
-sS'phd'
+F0.0057390445955590097
+sVStatistics
 p25
-I1
-sS'analytics'
+F0.010064272457475308
+sVComputer Science
 p26
-I1
-sS'design'
-p27
-I1
-sS'computer science'
-p28
-I1
-sS'statistic'
-p29
-I1
-sS'mathematics'
-p30
-I1
+F0.0050578533315765242
 ssS'education'
-p31
-(dp32
+p27
+(dp28
 VDoctor
-p33
-I1
+p29
+F0.0060848143674663022
 ssS'responsibility'
-p34
-(dp35
+p30
+(dp31
 S'information'
-p36
-I1
+p32
+F0.0077491910588234339
+sS'evaluate ... experiment'
+p33
+F0.040214364766560935
+sS'insight'
+p34
+F0.010250800871561369
 sS'data analysis'
-p37
-I1
-sVinsight
-p38
-I1
-sS'analysis'
-p39
-I1
-sS'evaluate experiment'
-p40
-I1
-sS'statistical method'
-p41
-I1
+p35
+F0.0082891732679646109
 sS'design'
-p42
-I1
+p36
+F0.0081587643017792047
+sS'design ... experiment'
+p37
+F0.025085651180425446
 ss.

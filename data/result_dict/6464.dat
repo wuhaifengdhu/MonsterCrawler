@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'a'
+aS'communication'
 p4
 aS'data scientist'
 p5
@@ -28,32 +29,26 @@ p15
 asS'major'
 p16
 (lp17
-S'marketing'
+VEconomics
 p18
-aS'communication'
+aVBusiness
 p19
-aS'business'
-p20
-aS'information'
-p21
 asS'education'
-p22
-(lp23
+p20
+(lp21
 VBachelor
-p24
+p22
 asS'responsibility'
+p23
+(lp24
+S'report'
 p25
-(lp26
-S'development'
-p27
 aS'information'
-p28
-aS'product'
-p29
-aS'identify opportunity'
-p30
-aS'report'
-p31
+p26
+aS'development'
+p27
 aS'presentation'
-p32
+p28
+aS'identify opportunity'
+p29
 as.

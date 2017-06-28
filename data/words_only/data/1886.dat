@@ -2,106 +2,109 @@
 S'skills'
 p2
 (dp3
-S'product development'
+S'science'
 p4
-I1
-sS'big data'
+F0.0026429845420830539
+sS'product development'
 p5
-I1
-sS'marketing'
-p6
-I1
-sS'data science'
-p7
-I1
-sS'data scientist'
-p8
-I1
-sS'strategy'
-p9
-I1
-sS'risk management'
-p10
-I1
-sS'customer support'
-p11
-I1
-sS'english'
-p12
-I1
-sS'communication'
-p13
-I1
-sS'software engineering'
-p14
-I1
-sS'customer relations'
-p15
-I1
-sS'predictive analytics'
-p16
-I1
-ssS'working-year'
-p17
-(dp18
-V[0]
-p19
-I1
-ssS'major'
-p20
-(dp21
-S'business'
-p22
-I1
+F0.0098250990555703386
 sS'big data'
-p23
-I1
+p6
+F0.0047846809261754414
+sS'risk management'
+p7
+F0.011878786939805399
 sS'marketing'
-p24
-I1
+p8
+F0.014324921221635704
 sS'data science'
-p25
-I1
-sS'communication'
-p26
-I1
+p9
+F0.0045219583671451099
+sS'data scientist'
+p10
+F0.0039826002449769859
+sS'sales'
+p11
+F0.012498514060868436
+sS'strategy'
+p12
+F0.00592109560611592
+sS'analytics'
+p13
+F0.0032696897067049872
+sS'engineering'
+p14
+F0.0046047172070438139
+sS'customer support'
+p15
+F0.019071901242607093
 sS'english'
-p27
-I1
+p16
+F0.012699055832531983
+sS'communication'
+p17
+F0.0059517645079355504
 sS'software engineering'
-p28
-I1
+p18
+F0.0097821916868947797
+sS'data'
+p19
+F0.00044587025516719137
 sS'predictive analytics'
+p20
+F0.0086560081704089853
+ssS'working-year'
+p21
+(dp22
+S'[0]'
+p23
+F0.008256446355430009
+ssS'major'
+p24
+(dp25
+VBusiness
+p26
+F0.0040665952901282488
+sVData Science
+p27
+F0.0038619886564100095
+sVEconomics
+p28
+F0.0061683140884378224
+sVEngineering
 p29
-I1
-sS'data science engineering'
+F0.0046047172070438139
+sVComputer Science
 p30
-I1
-ssS'education'
+F0.0034035930313992394
+sVManagement Science and Engineering
 p31
-(dp32
+F0.0048479117987552346
+ssS'education'
+p32
+(dp33
 S'Bachelor'
-p33
-I1
-ssS'responsibility'
 p34
-(dp35
+F0.0034262361942477694
+ssS'responsibility'
+p35
+(dp36
 S'development'
-p36
-I1
-sS'product'
 p37
-I1
-sS'predict'
+F0.0091049699429632969
+sS'product'
 p38
-I1
-sS'understand'
+F0.030338185504911578
+sS'predict'
 p39
-I1
-sS'ownership'
+F0.01568376705456883
+sS'understand'
 p40
-I1
-sS'model'
+F0.0079010519302416364
+sS'ownership'
 p41
-I1
+F0.044439399813015652
+sS'model'
+p42
+F0.017452001976334293
 ss.

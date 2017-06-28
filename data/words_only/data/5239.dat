@@ -2,138 +2,129 @@
 S'skills'
 p2
 (dp3
-S'consulting'
+S'metrics'
 p4
-I1
-sS'management'
+F0.011164117426933273
+sS'consulting'
 p5
-I1
-sS'organization'
+F0.01155761992128425
+sS'data analysis'
 p6
-I1
+F0.0037947877620605249
 sS'risk management'
 p7
-I1
+F0.0080812207825786096
 sS'critical thinking'
 p8
-I1
+F0.010028761199516671
 sS'communication'
 p9
-I1
+F0.0080980529877793181
 sS'processing'
 p10
-I1
+F0.0041766958738381592
 sS'data scientist'
 p11
-I1
+F0.0027093904479894588
 sS'root'
 p12
-I1
+F0.010016725911629576
 sS'python'
 p13
-I1
+F0.0013331240735377648
 sS'business analytics'
 p14
-I1
+F0.0077687575285399326
 sS'analytics'
 p15
-I1
+F0.0088975699435654906
 sS'business intelligence'
 p16
-I1
-sS'data analysis'
-p17
-I1
-sS'business planning'
-p18
-I1
-sS'data processing'
-p19
-I1
-sS'sql'
-p20
-I1
+F0.0052251747027478807
 sS'r'
-I1
+F0.0014194176639742743
+sS'business planning'
+p17
+F0.012336247646268925
+sS'data processing'
+p18
+F0.0094008148279498098
+sS'sql'
+p19
+F0.0017441019407494812
+sS'organization'
+p20
+F0.0045094215838406169
 sS'education'
 p21
-I1
+F0.010734663681909305
 sS'data'
 p22
-I1
+F0.0012133144539588022
 sS'predictive analytics'
 p23
-I1
+F0.0058887421312756793
 ssS'working-year'
 p24
 (dp25
 V(2, 5]
 p26
-I1
+F0.0031686558271896053
 ssS'major'
 p27
 (dp28
-S'information'
+VData Science
 p29
-I1
-sS'management'
+F0.0026273375514195979
+sVComputer Science
 p30
-I1
-sS'business'
+F0.0023154878423329865
+sVBusiness
 p31
-I1
-sS'communication'
+F0.0027665328572227988
+sVManagement Science and Engineering
 p32
-I1
-sS'business analytics'
-p33
-I1
-sS'analytics'
-p34
-I1
-sS'law'
-p35
-I1
-sS'predictive analytics'
-p36
-I1
+F0.0032980678733219755
 ssS'education'
-p37
-(dp38
+p33
+(dp34
 S'Bachelor'
-p39
-I1
+p35
+F0.0023308921423782782
 ssS'responsibility'
-p40
-(dp41
+p36
+(dp37
 S'information'
-p42
-I1
-sS'data analysis'
-p43
-I1
+p38
+F0.0070951672610199221
+sS'insight'
+p39
+F0.0046928218823771998
 sS'processing'
-p44
-I1
-sVinsight
-p45
-I1
-sS'statistical method'
-p46
-I1
-sS'solve problem'
-p47
-I1
-sS'report'
-p48
-I1
-sS'model'
-p49
-I1
-sS'evaluation'
-p50
-I1
+p40
+F0.0041766958738381592
 sS'decision-making'
-p51
-I1
+p41
+F0.0093913950020079878
+sS'drive ... decision'
+p42
+F0.010322462247389039
+sS'statistical method'
+p43
+F0.0089917913786483668
+sS'data analysis'
+p44
+F0.0037947877620605249
+sS'report'
+p45
+F0.010615224655613448
+sS'model'
+p46
+F0.0039575724856819464
+sS'evaluation'
+p47
+F0.0086533073755157997
+sS'decision making'
+p48
+F0.0083544323527609057
 ss.

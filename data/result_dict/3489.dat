@@ -8,111 +8,102 @@ aS'scalding'
 p5
 aS'data science'
 p6
-aS'information retrieval'
+aS'testing'
 p7
-aS'software design'
-p8
-aS'engineering'
-p9
-aS'system design'
-p10
-aS'hbase'
-p11
-aS'cassandra'
-p12
-aS'management'
-p13
-aS'java'
-p14
-aS'user experience'
-p15
-aS'hadoop'
-p16
-aS'computer science'
-p17
-aS'product development'
-p18
-aS'c'
-aS'spark'
-p19
-aS'data'
-p20
-aS'software development'
-p21
-aS'search'
-p22
-aS'postgresql'
-p23
-aS'science'
-p24
-aS'cloud computing'
-p25
-aS'programming'
-p26
-aS'analysis'
-p27
-aS'machine learning'
-p28
-aS'lucene'
-p29
-aS'product management'
-p30
-aS'high availability'
-p31
-aS'etl'
-p32
-asS'working-year'
-p33
-(lp34
-V(10, 15]
-p35
-asS'major'
-p36
-(lp37
-S'information'
-p38
-aS'management'
-p39
-aS'computing'
-p40
-aS'science'
-p41
-aS'data science'
-p42
-aS'machine learning'
-p43
-aS'engineering'
-p44
-aS'design'
-p45
-aS'computer science'
-p46
 aS'information retrieval'
-p47
-asS'education'
-p48
-(lp49
-S'Bachelor'
-p50
-asS'responsibility'
-p51
-(lp52
-S'development'
-p53
-aS'information'
-p54
-aS'product'
-p55
+p8
+aS'software design'
+p9
+aS'engineering'
+p10
+aS'system design'
+p11
+aS'hbase'
+p12
+aS'cassandra'
+p13
+aS'management'
+p14
+aS'java'
+p15
+aS'user experience'
+p16
+aS'hadoop'
+p17
+aS'computer science'
+p18
+aS'product development'
+p19
+aS'spark'
+p20
+aS'data'
+p21
+aS'software development'
+p22
+aS'search'
+p23
+aS'postgresql'
+p24
+aS'science'
+p25
+aS'cloud computing'
+p26
+aS'programming'
+p27
 aS'analysis'
-p56
+p28
+aS'machine learning'
+p29
+aS'lucene'
+p30
+aS'product management'
+p31
+aS'high availability'
+p32
+aS'etl'
+p33
+asS'working-year'
+p34
+(lp35
+V(10, 15]
+p36
+asS'major'
+p37
+(lp38
+VData Science
+p39
+aVEngineering
+p40
+aVComputer Science
+p41
+aVManagement Science and Engineering
+p42
+asS'education'
+p43
+(lp44
+VBachelor
+p45
+aVMaster
+p46
+asS'responsibility'
+p47
+(lp48
+S'development'
+p49
+aS'information'
+p50
+aS'product'
+p51
+aS'analysis'
+p52
 aS'understand'
-p57
+p53
 aS'recommendation'
-p58
+p54
 aS'design'
-p59
+p55
 aS'implement'
-p60
+p56
 aS'model'
-p61
+p57
 as.

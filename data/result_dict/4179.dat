@@ -4,130 +4,118 @@ p2
 (lp3
 S'consulting'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'hardware'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'data analysis'
-p10
-aS'analysis'
-p11
+p9
 aS'go'
-p12
+p10
 aS'writing'
-p13
+p11
 aS'technical leadership'
-p14
+p12
+aS'statistics'
+p13
 aS'publishing'
-p15
+p14
 aS'big data'
-p16
+p15
 aS'scala'
-p17
+p16
 aS'product marketing'
-p18
+p17
 aS'hadoop'
-p19
+p18
 aS'research'
-p20
+p19
 aS'strategy'
-p21
+p20
 aS'intelligence'
-p22
+p21
 aS'processing'
-p23
+p22
 aS'python'
-p24
+p23
 aS'marketing'
-p25
+p24
 aS'innovation'
-p26
+p25
 aS'data scientist'
-p27
+p26
 aS'leadership'
-p28
+p27
 aS'modeling'
-p29
+p28
 aS'spark'
-p30
+p29
 aS'data'
-p31
+p30
 aS'c'
 aS'science'
+p31
+aS'analysis'
 p32
-aS'c++'
-p33
 aS'machine learning'
-p34
+p33
 aS'r'
 aS'organization'
-p35
+p34
 aS'security'
+p35
+aS'data analytics'
 p36
-aS'data analytics'
-p37
 asS'working-year'
-p38
-(lp39
+p37
+(lp38
 V(5, 10]
-p40
+p39
 aV(2, 5]
-p41
+p40
 asS'major'
-p42
-(lp43
-S'big data'
+p41
+(lp42
+VData Science
+p43
+aVEconomics
 p44
-aS'marketing'
+aVStatistics
 p45
-aS'data science'
+aVComputer Science
 p46
-aS'communication'
-p47
-aS'machine learning'
-p48
-aS'analytics'
-p49
-aS'statistic'
-p50
-aS'data analytics'
-p51
-aS'science'
-p52
 asS'education'
-p53
-(lp54
+p47
+(lp48
 VBachelor
-p55
+p49
 aVMaster
-p56
+p50
 aVDoctor
-p57
+p51
 asS'responsibility'
-p58
-(lp59
+p52
+(lp53
 S'development'
-p60
+p54
 aS'product'
-p61
+p55
 aS'data analysis'
-p62
+p56
 aS'processing'
-p63
+p57
 aS'communicate'
-p64
+p58
 aS'analysis'
-p65
+p59
 aS'analytic'
-p66
+p60
 aS'modeling'
-p67
+p61
 aS'model'
-p68
+p62
 as.

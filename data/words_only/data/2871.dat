@@ -4,195 +4,180 @@ p2
 (dp3
 S'neural networks'
 p4
-I1
+F0.01266304707677739
 sS'business development'
 p5
-I1
+F0.013535993303666081
 sS'security clearance'
 p6
-I1
+F0.014217200285053968
 sS'proposal writing'
 p7
-I1
+F0.019682142950284719
 sS'analysis'
 p8
-I1
+F0.0053325871090136954
 sS'data mining'
 p9
-I1
+F0.0082567289053779667
 sS'mathematical modeling'
 p10
-I1
+F0.0092614773554192328
 sS'signal processing'
 p11
-I1
+F0.012193268527473541
 sS'writing'
 p12
-I1
+F0.017486850786634187
 sS'digital signal processing'
 p13
-I1
-sS'java'
+F0.021203015527089458
+sS'management'
 p14
-I1
-sS'big data'
+F0.0035254819735395025
+sS'java'
 p15
-I1
-sS'program management'
-p16
-I1
-sS'hadoop'
-p17
-I1
-sS'research'
-p18
-I1
-sS'access'
-p19
-I1
-sS'algorithm development'
-p20
-I1
-sS'distributed computing'
-p21
-I1
-sS'product development'
-p22
-I1
-sS'government'
-p23
-I1
-sS'python'
-p24
-I1
-sS'processing'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'spark'
-p28
-I1
-sS'artificial neural networks'
-p29
-I1
-sS'project management'
-p30
-I1
-sS'c'
-I1
-sS'software engineering'
-p31
-I1
-sS'scala'
-p32
-I1
-sS'dod'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'r'
-I1
-sS'security'
-p35
-I1
-sS'statistical analysis'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V[0]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'information'
-p42
-I1
-sS'business'
-p43
-I1
+F0.0048220504578532428
 sS'big data'
-p44
-I1
-sS'computing'
-p45
-I1
-sS'applied math'
-p46
-I1
-sS'machine learning'
-p47
-I1
-sS'design'
-p48
-I1
-sS'data mining'
-p49
-I1
-sS'software engineering'
-p50
-I1
-sS'project management'
-p51
-I1
-sS'history'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VMaster
-p55
-I1
-sVDoctor
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
-S'development'
-p59
-I1
-sS'large data set'
-p60
-I1
-sS'product'
-p61
-I1
-sS'information'
-p62
-I1
+p16
+F0.0049522378457691344
+sS'program management'
+p17
+F0.012997320266785574
+sS'hadoop'
+p18
+F0.00499924708715784
+sS'research'
+p19
+F0.0066393800907528274
+sS'access'
+p20
+F0.0090251440665231712
+sS'algorithm development'
+p21
+F0.016377131312652355
+sS'distributed computing'
+p22
+F0.013919830593226898
+sS'product development'
+p23
+F0.010169168672302374
+sS'government'
+p24
+F0.030433301738859518
+sS'python'
+p25
+F0.0020282160029309959
 sS'processing'
-p63
-I1
-sS'analysis'
-p64
-I1
-sS'design'
-p65
-I1
-sS'data mining'
-p66
-I1
-sS'report'
-p67
-I1
+p26
+F0.0063544283528043583
+sS'data scientist'
+p27
+F0.0041220687360462192
 sS'modeling'
-p68
-I1
+p28
+F0.006320199914564611
+sS'spark'
+p29
+F0.0065608390012282438
+sS'artificial neural networks'
+p30
+F0.017810669274481217
+sS'project management'
+p31
+F0.0073986510635196349
+sS'c'
+F0.0097324663338373332
+sS'software engineering'
+p32
+F0.010124758710949462
+sS'scala'
+p33
+F0.0094963672673098708
+sS'engineering'
+p34
+F0.0047659718952282283
+sS'dod'
+p35
+F0.016426385047764624
+sS'machine learning'
+p36
+F0.0025506526141402309
+sS'r'
+F0.0021595031385756467
+sS'security'
+p37
+F0.017006621134006163
+sS'statistical analysis'
+p38
+F0.010018288534679409
+ssS'working-year'
+p39
+(dp40
+S'[0]'
+p41
+F0.0085455826091221116
+ssS'major'
+p42
+(dp43
+VEngineering
+p44
+F0.0047659718952282283
+sVComputer Science
+p45
+F0.0035227850052614697
+sVBusiness
+p46
+F0.0042090052419226235
+sVManagement Science and Engineering
+p47
+F0.0050176830290618382
+ssS'education'
+p48
+(dp49
+VMaster
+p50
+F0.0028298859347244236
+sVDoctor
+p51
+F0.0042380613687800313
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.014135731545690101
+sS'information'
+p55
+F0.010794592992446651
+sS'product'
+p56
+F0.0052334353724425939
+sS'large data set'
+p57
+F0.012235241771723216
+sS'processing'
+p58
+F0.0063544283528043583
+sS'analysis'
+p59
+F0.0053325871090136954
+sS'design'
+p60
+F0.011365126926213834
+sS'data mining'
+p61
+F0.0082567289053779667
+sS'report'
+p62
+F0.0080750055259627591
+sS'modeling'
+p63
+F0.006320199914564611
 sS'implement'
-p69
-I1
+p64
+F0.0082407127436560611
 sS'model'
-p70
-I1
+p65
+F0.024084215438157835
 ss.

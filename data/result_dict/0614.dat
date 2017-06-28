@@ -2,67 +2,69 @@
 S'skills'
 p2
 (lp3
-S'investment banking'
+S'financial markets'
 p4
-aS'defense'
-p5
-aS'big data'
-p6
-aS'anomaly detection'
-p7
-aS'banking'
-p8
-aS'government'
-p9
 aS'testing'
-p10
-aS'trading systems'
-p11
-aS'machine learning'
-p12
-aS'risk management'
-p13
-aS'fraud'
-p14
+p5
+aS'defense'
+p6
 aS'trading'
-p15
+p7
 aS'go'
+p8
+aS'simulation'
+p9
+aS'investment banking'
+p10
+aS'java'
+p11
+aS'big data'
+p12
+aS'anomaly detection'
+p13
+aS'trading systems'
+p14
+aS'risk management'
+p15
+aS'government'
 p16
-aS'investment management'
+aS'python'
 p17
-aS'financial markets'
+aS'philosophy'
 p18
 aS'management'
 p19
-aS'security'
-p20
-aS'simulation'
-p21
-aS'data'
-p22
 aS'spark'
+p20
+aS'data'
+p21
+aS'a'
+aS'fraud'
+p22
+aS'scala'
 p23
-aS'philosophy'
+aS'machine learning'
 p24
-asS'working-year'
+aS'banking'
 p25
-(lp26
-V(2, 5]
+aS'r'
+aS'investment management'
+p26
+aS'security'
 p27
-asS'major'
+asS'working-year'
 p28
 (lp29
-S'information'
+V(2, 5]
 p30
-aS'management'
+asS'major'
 p31
-aS'big data'
-p32
-aS'business'
+(lp32
+VComputer Science
 p33
-aS'philosophy'
+aVBusiness
 p34
-aS'machine learning'
+aVManagement Science and Engineering
 p35
 asS'education'
 p36
@@ -76,7 +78,7 @@ S'information'
 p41
 aS'business problem'
 p42
-aVinsight
+aS'insight'
 p43
 aS'simulation'
 p44

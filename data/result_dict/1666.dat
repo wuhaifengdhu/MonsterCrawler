@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'cissp'
 p5
@@ -45,39 +46,31 @@ p23
 asS'working-year'
 p24
 (lp25
-V(5, 10]
+V(2, 5]
 p26
-aV(2, 5]
-p27
 asS'major'
-p28
-(lp29
-S'general'
+p27
+(lp28
+VData Science
+p29
+aVManagement Science and Engineering
 p30
-aS'analytics'
-p31
-aS'management'
-p32
-aS'design'
-p33
-aS'communication'
-p34
 asS'education'
-p35
-(lp36
-S'Bachelor'
-p37
+p31
+(lp32
+VBachelor
+p33
 asS'responsibility'
-p38
-(lp39
+p34
+(lp35
 S'development'
-p40
+p36
 aS'product'
-p41
-aVinsight
-p42
+p37
+aS'insight'
+p38
 aS'design'
-p43
+p39
 aS'model'
-p44
+p40
 as.

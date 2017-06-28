@@ -1,5 +1,5 @@
-skills: {'training': 1, 'communication': 1, 'sql': 1, 'data scientist': 1, 'pricing': 1, 'automotive': 1, 'education': 1, 'valuation': 1}
-working-year: {u'(5, 10]': 1}
-major: {'communication': 1, 'business communications': 1, 'business': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'report': 1, 'development': 1, 'collect data': 1}
+skills: {'training': 0.023891317269262222, 'valuation': 0.13455873322798423, 'automotive': 0.06468104264977362, 'pricing': 0.019191201368220254, 'sql': 0.003461643953467244, 'education': 0.021305855328053493, 'data': 0.0006020380095150909}
+working-year: {u'(5, 10]': 0.006120021632369841}
+major: {u'Business': 0.005490935772457432}
+education: {u'Bachelor': 0.004626288465329476, u'Master': 0.0036917801280415066}
+responsibility: {'report': 0.010534398071941262, 'development': 0.006147010164538673, 'collect data': 0.026941751917379936}

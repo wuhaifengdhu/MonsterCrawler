@@ -2,96 +2,95 @@
 S'skills'
 p2
 (lp3
-S'marketing analytics'
+S'a'
+aS'statistics'
 p4
 aS'customer insight'
 p5
-aS'marketing'
-p6
-aS'intelligence'
-p7
-aS'excel'
-p8
-aS'data scientist'
-p9
-aS'analysis'
-p10
 aS'powerpoint'
+p6
+aS'marketing analytics'
+p7
+aS'marketing'
+p8
+aS'intelligence'
+p9
+aS'excel'
+p10
+aS'data scientist'
 p11
-aS'water'
+aS'analysis'
 p12
-aS'analytics'
+aS'strategy'
 p13
-aS'statistical modeling'
+aS'water'
 p14
-aS'sql'
+aS'analytics'
 p15
 aS'communication'
 p16
-aS'modeling'
+aS'statistical modeling'
 p17
-aS'data'
+aS'sql'
 p18
-aS'go'
+aS'sas'
 p19
-aS'direct mail'
+aS'modeling'
 p20
-asS'working-year'
+aS'data'
 p21
-(lp22
-V(2, 5]
+aS'go'
+p22
+aS'direct mail'
 p23
-asS'major'
+asS'working-year'
 p24
 (lp25
-S'information'
+sS'major'
 p26
-aS'business'
-p27
-aS'marketing'
+(lp27
+VData Science
 p28
-aS'marketing analytics'
+aVEconomics
 p29
-aS'communication'
+aVStatistics
 p30
-aS'analytics'
+aVBusiness
 p31
-aS'statistic'
-p32
 asS'education'
-p33
-(lp34
+p32
+(lp33
 VBachelor
-p35
+p34
 aVMaster
-p36
+p35
 asS'responsibility'
-p37
-(lp38
+p36
+(lp37
 S'information'
-p39
+p38
 aS'product'
-p40
+p39
 aS'pattern'
+p40
+aS'insight'
 p41
-aVinsight
-p42
 aS'analysis'
-p43
-aS'statistical model'
-p44
+p42
 aS'analytic'
-p45
+p43
 aS'understand'
-p46
+p44
 aS'recommendation'
-p47
+p45
 aS'report'
-p48
+p46
 aS'modeling'
-p49
+p47
 aS'model'
-p50
+p48
 aS'presentation'
-p51
+p49
+aS'validate ... model'
+p50
 as.

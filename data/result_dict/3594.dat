@@ -18,9 +18,9 @@ aS'data warehousing'
 p10
 aS'data mining'
 p11
-aVpanda
-p12
 aS'clustering'
+p12
+aS'statistics'
 p13
 aS'open source'
 p14
@@ -36,133 +36,115 @@ aS'computer science'
 p19
 aS'communication'
 p20
-aS'mathematics'
+aS'intelligence'
 p21
-aS'numpy'
+aS'mathematics'
 p22
-aS'operations research'
+aS'numpy'
 p23
-aS'matlab'
+aS'pandas'
 p24
-aS'teradata'
+aS'operations research'
 p25
-aS'theory'
+aS'matlab'
 p26
-aS'python'
+aS'teradata'
 p27
-aS'collaboration'
+aS'theory'
 p28
-aS'innovation'
+aS'python'
 p29
-aS'data scientist'
+aS'collaboration'
 p30
-aS'scipy'
+aS'innovation'
 p31
-aS'octave'
+aS'data scientist'
 p32
-aS'sql'
+aS'scipy'
 p33
-aS'modeling'
+aS'octave'
 p34
-aS'data'
+aS'sql'
 p35
-aS'statistical programming'
+aS'modeling'
 p36
-aS'science'
+aS'data'
 p37
-aS'scikit-learn'
+aS'statistical programming'
 p38
-aS'engineering'
+aS'science'
 p39
-aS'analysis'
+aS'scikit-learn'
 p40
-aS'machine learning'
+aS'engineering'
 p41
-aS'data architecture'
+aS'analysis'
 p42
+aS'machine learning'
+p43
+aS'data architecture'
+p44
 aS'r'
 aS'architecture'
-p43
-aS'organization'
-p44
-aS'rapid prototyping'
 p45
-aS'data integration'
+aS'organization'
 p46
-aS'predictive analytics'
+aS'rapid prototyping'
 p47
-asS'working-year'
+aS'data integration'
 p48
-(lp49
-V[0]
-p50
-asS'major'
-p51
-(lp52
-S'mathematics'
-p53
-aS'computer science'
-p54
-aS'business'
-p55
-aS'big data'
-p56
-aS'analytics'
-p57
-aS'science'
-p58
-aS'data science'
-p59
-aS'statistic'
-p60
-aS'communication'
-p61
-aS'machine learning'
-p62
-aS'mathematics statistics'
-p63
-aS'engineering'
-p64
-aS'design'
-p65
-aS'operations research'
-p66
-aS'data mining'
-p67
-aS'computer science engineering'
-p68
-aS'phd'
-p69
-aS'statistics operations research'
-p70
 aS'predictive analytics'
-p71
+p49
+asS'working-year'
+p50
+(lp51
+S'[0]'
+p52
+asS'major'
+p53
+(lp54
+VStatistics
+p55
+aVBusiness
+p56
+aVData Science
+p57
+aVEngineering
+p58
+aVComputer Science
+p59
+aVMathematics
+p60
+aVOperations Research
+p61
 asS'education'
-p72
-(lp73
+p62
+(lp63
 VBachelor
-p74
+p64
 aVMaster
-p75
+p65
 aVDoctor
-p76
+p66
 asS'responsibility'
-p77
-(lp78
+p67
+(lp68
 S'exploratory analysis'
-p79
+p69
 aS'pattern'
-p80
+p70
 aS'analysis'
-p81
+p71
 aS'analytic'
-p82
+p72
 aS'design'
-p83
+p73
 aS'data mining'
-p84
+p74
 aS'modeling'
-p85
+p75
 aS'prototype'
-p86
+p76
+aS'decision making'
+p77
 as.

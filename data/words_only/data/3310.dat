@@ -2,264 +2,243 @@
 S'skills'
 p2
 (dp3
-S'model validation'
+S'logistics'
 p4
-I1
-sS'data science'
+F0.010348299448199504
+sS'model validation'
 p5
-I1
-sS'pig'
-p6
-I1
-sS'unix'
-p7
-I1
-sS'analysis'
-p8
-I1
-sS'data mining'
-p9
-I1
-sS'research'
-p10
-I1
-sS'management'
-p11
-I1
-sS'java'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'scala'
-p14
-I1
-sS'hadoop'
-p15
-I1
-sS'perl'
-p16
-I1
-sS'big data analytics'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'natural language processing'
-p19
-I1
-sS'innovation'
-p20
-I1
-sS'data analysis'
-p21
-I1
-sS'data modeling'
-p22
-I1
-sS'conjoint analysis'
-p23
-I1
-sS'python'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'processing'
-p26
-I1
-sS'aws'
-p27
-I1
-sS'e-commerce'
-p28
-I1
-sS'data wrangling'
-p29
-I1
-sS'modeling'
-p30
-I1
-sS'spark'
-p31
-I1
-sS'php'
-p32
-I1
-sS'data'
-p33
-I1
-sS'science'
-p34
-I1
-sS'applied mathematics'
-p35
-I1
-sS'programming'
-p36
-I1
-sS'engineering'
-p37
-I1
-sS'hive'
-p38
-I1
-sS'machine learning'
-p39
-I1
-sS'data engineering'
-p40
-I1
-sS'r'
-I1
-sS'logistic regression'
-p41
-I1
-sS'product management'
-p42
-I1
-sS'internet things'
-p43
-I1
-sS'validation'
-p44
-I1
-sS'impala'
-p45
-I1
-sS'data analytics'
-p46
-I1
-sS'statistical analysis'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(5, 10]
-p50
-I1
-sV(10, 15]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'information'
-p54
-I1
-sS'natural language processing'
-p55
-I1
-sS'management'
-p56
-I1
-sS'bio-statistics'
-p57
-I1
-sS'business'
-p58
-I1
-sS'big data'
-p59
-I1
-sS'science'
-p60
-I1
+F0.012057963495332419
 sS'data science'
-p61
-I1
-sS'statistic'
-p62
-I1
-sS'phd'
-p63
-I1
-sS'big data analytics'
-p64
-I1
-sS'data analytics'
-p65
-I1
-sS'engineering'
-p66
-I1
-sS'applied math'
-p67
-I1
-sS'computer science'
-p68
-I1
-sS'data mining'
-p69
-I1
-sVphysic
-p70
-I1
-sS'spatial analytics'
-p71
-I1
-sS'machine learning'
-p72
-I1
-sS'applied mathematics'
-p73
-I1
-sS'computer science operation research'
-p74
-I1
-ssS'education'
-p75
-(dp76
-VDoctor
-p77
-I1
-ssS'responsibility'
-p78
-(dp79
-S'development'
-p80
-I1
-sS'large data set'
-p81
-I1
-sS'product'
-p82
-I1
-sS'data analysis'
-p83
-I1
-sS'data mining'
-p84
-I1
-sS'information'
-p85
-I1
-sS'processing'
-p86
-I1
-sS'analysis'
-p87
-I1
+p6
+F0.0027030133160912346
 sS'data wrangling'
-p88
-I1
-sS'report'
-p89
-I1
+p7
+F0.022477090778797493
+sS'pig'
+p8
+F0.0060643329777885207
+sS'analytics'
+p9
+F0.0039089324134091085
+sS'unix'
+p10
+F0.0058024467163708994
+sS'analysis'
+p11
+F0.0007699297118070336
+sS'data mining'
+p12
+F0.0047684928734430063
+sS'research'
+p13
+F0.0038344285018505095
+sS'statistics'
+p14
+F0.0020955345051743924
+sS'java'
+p15
+F0.002784869590265806
+sS'big data'
+p16
+F0.002860056463736332
+sS'scala'
+p17
+F0.0054844188487609821
+sS'hadoop'
+p18
+F0.0028872056211226181
+sS'perl'
+p19
+F0.0064405634703131875
+sS'big data analytics'
+p20
+F0.0074477957410078221
+sS'computer science'
+p21
+F0.0031595129509825186
+sS'natural language processing'
+p22
+F0.0056313665886748385
+sS'mathematics'
+p23
+F0.0041076253529793395
+sS'innovation'
+p24
+F0.0043501678025499408
+sS'data analysis'
+p25
+F0.0033342966628441919
+sS'data modeling'
+p26
+F0.0058701162804904979
+sS'conjoint analysis'
+p27
+F0.014763513007009534
+sS'python'
+p28
+F0.0011713517140522832
+sS'data scientist'
+p29
+F0.0023806104835143332
+sS'processing'
+p30
+F0.0036698608689229666
+sS'aws'
+p31
+F0.005872980559060023
+sS'e-commerce'
+p32
+F0.0084684198620773674
+sS'sql'
+p33
+F0.0015324581097371846
 sS'modeling'
-p90
-I1
+p34
+F0.0018250464921832641
+sS'spark'
+p35
+F0.0037890688164396824
+sS'php'
+p36
+F0.0072916063905195073
+sS'data'
+p37
+F0.0021321615797658053
+sS'information technology'
+p38
+F0.0070037057792398773
+sS'science'
+p39
+F0.0031597028682880559
+sS'applied mathematics'
+p40
+F0.0067912601007723743
+sS'programming'
+p41
+F0.0024771128872693843
+sS'engineering'
+p42
+F0.0055049652902186734
+sS'hive'
+p43
+F0.0046870882011011391
+sS'machine learning'
+p44
+F0.0014730735322113246
+sS'data engineering'
+p45
+F0.0089996196765560442
+sS'r'
+F0.0012471737227279579
+sS'logistic regression'
+p46
+F0.0073572199478911101
+sS'product management'
+p47
+F0.0070179730764641382
+sS'internet things'
+p48
+F0.011207549369943571
+sS'validation'
+p49
+F0.0071055332698316785
+sS'impala'
+p50
+F0.010225696249539493
+sS'data analytics'
+p51
+F0.0045894891718781961
+sS'statistical analysis'
+p52
+F0.0057858430413766475
+ssS'working-year'
+p53
+(dp54
+V(5, 10]
+p55
+F0.002709312947363728
+sV(10, 15]
+p56
+F0.0043987109128053011
+ssS'major'
+p57
+(dp58
+VStatistics
+p59
+F0.0040483253255911913
+sVBusiness
+p60
+F0.0024308187576946388
+sVData Science
+p61
+F0.0023085145676518264
+sVEngineering
+p62
+F0.0055049652902186734
+sVInformation Science
+p63
+F0.0056913599742788633
+sVComputer Science
+p64
+F0.0020345072951734782
+sVMathematics
+p65
+F0.0038522978192864093
+sVManagement Science and Engineering
+p66
+F0.0028978528954357137
+ssS'education'
+p67
+(dp68
+VBachelor
+p69
+F0.0020480423093705773
+sVDoctor
+p70
+F0.0024475994871381306
+ssS'responsibility'
+p71
+(dp72
+S'development'
+p73
+F0.0081637820387468682
+sS'information'
+p74
+F0.0031170903360211119
+sS'product'
+p75
+F0.0030224559341971839
+sS'data analysis'
+p76
+F0.0033342966628441919
+sS'data mining'
+p77
+F0.0047684928734430063
+sS'large data set'
+p78
+F0.0070661958097367784
+sS'processing'
+p79
+F0.0036698608689229666
+sS'analysis'
+p80
+F0.0007699297118070336
+sS'data wrangling'
+p81
+F0.022477090778797493
+sS'report'
+p82
+F0.0046635425172414135
+sS'modeling'
+p83
+F0.0018250464921832641
 sS'model'
-p91
-I1
+p84
+F0.03825060508071472
 sS'engineering design'
-p92
-I1
+p85
+F0.013132197259190442
 sS'transformation'
-p93
-I1
+p86
+F0.0070661958097367784
 ss.

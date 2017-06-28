@@ -2,115 +2,109 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'software development'
 p4
-I1
-sS'problem solving'
-p5
-I1
-sS'strategy'
-p6
-I1
-sS'research'
-p7
-I1
+F0.0059556084777339117
 sS'change management'
-p8
-I1
+p5
+F0.011735845475049755
 sS'management'
-p9
-I1
+p6
+F0.012725405438197361
+sS'data scientist'
+p7
+F0.0029757631043929164
+sS'product development'
+p8
+F0.0073412256988250281
 sS'agile'
+p9
+F0.01226792063314331
+sS'scrum'
 p10
-I1
+F0.085887115390352459
 sS'saas'
 p11
-I1
-sS'continuous improvement'
+F0.0086728716185411839
+sS'strategy'
 p12
-I1
-sS'risk management'
+F0.0044241894135585245
+sS'research'
 p13
-I1
-sS'coaching'
+F0.0023965178136565683
+sS'risk management'
 p14
-I1
-sS'sdlc'
+F0.0088757228258096524
+sS'coaching'
 p15
-I1
-sS'innovation'
-p16
-I1
-sS'product development'
-p17
-I1
-sS'scrum'
-p18
-I1
-sS'data scientist'
-p19
-I1
+F0.010847563810770221
 sS'leadership'
-p20
-I1
-sS'data'
-p21
-I1
-sS'b2b'
-p22
-I1
-sS'project management'
-p23
-I1
-sS'software development'
-p24
-I1
+p16
+F0.004641597250572534
+sS'sdlc'
+p17
+F0.010294128069210987
+sS'innovation'
+p18
+F0.0054377097531874254
 sS'organization'
-p25
-I1
-ssS'working-year'
-p26
-(dp27
-V(5, 10]
-p28
-I1
-sV(2, 5]
-p29
-I1
-ssS'major'
-p30
-(dp31
-S'communication'
-p32
-I1
-sS'management'
-p33
-I1
+p19
+F0.004952763593487868
+sS'problem solving'
+p20
+F0.0068949771487450875
+sS'continuous improvement'
+p21
+F0.011263966466556578
+sS'data'
+p22
+F0.00033315024683840708
+sS'b2b'
+p23
+F0.009763271493253298
 sS'project management'
-p34
-I1
-sS'business'
-p35
-I1
+p24
+F0.0053411610205745677
+ssS'working-year'
+p25
+(dp26
+V(5, 10]
+p27
+F0.0033866411842046595
+sV(2, 5]
+p28
+F0.0034801809787391447
+ssS'major'
+p29
+(dp30
+VBusiness
+p31
+F0.0030385234471182981
+sVManagement Science and Engineering
+p32
+F0.0036223161192946414
 ssS'education'
+p33
+(dp34
+VMaster
+p35
+F0.0020429232731016202
+ssS'responsibility'
 p36
 (dp37
-VMaster
-p38
-I1
-ssS'responsibility'
-p39
-(dp40
 S'report'
-p41
-I1
+p38
+F0.0058294281465517666
 sS'development'
-p42
-I1
+p39
+F0.0034015758494778613
 sS'product'
-p43
-I1
+p40
+F0.0075561398354929586
+sS'decision making'
+p41
+F0.0091757950840716668
 sS'improvement'
-p44
-I1
+p42
+F0.0075455238661210891
 ss.

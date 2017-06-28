@@ -4,193 +4,193 @@ p2
 (dp3
 S'customer insight'
 p4
-I1
+F0.013549117826798768
 sS'programming'
 p5
-I1
+F0.0035217739132104662
 sS'nosql'
 p6
-I1
+F0.008743919694142243
 sS'text analytics'
 p7
-I1
+F0.013654567760018286
 sS'communication'
 p8
-I1
+F0.0050580490706417141
 sS'decision support'
 p9
-I1
+F0.014190229897676583
 sS'hadoop'
 p10
-I1
-sS'data mining'
+F0.0041048131035129869
+sS'analytics'
 p11
-I1
-sS'research'
-p12
-I1
-sS'java'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'tableau'
-p15
-I1
-sS'strategy'
-p16
-I1
-sS'mathematics'
-p17
-I1
-sS'unstructured data'
-p18
-I1
-sS'dashboard'
-p19
-I1
-sS'flume'
-p20
-I1
-sS'data modeling'
-p21
-I1
-sS'apis'
-p22
-I1
-sS'python'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'data'
-p27
-I1
-sS'statistical programming'
-p28
-I1
-sS'applied mathematics'
-p29
-I1
-sS'business strategy'
-p30
-I1
-sS'analysis'
-p31
-I1
-sS'machine learning'
-p32
-I1
-sS'r'
-I1
-sS'financial services'
-p33
-I1
-sS'organization'
-p34
-I1
-sS'obiee'
-p35
-I1
-sS'data analytics'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-sV(0, 2]
-p40
-I1
-sV(2, 5]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'business'
-p44
-I1
-sS'big data'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'applied mathematics'
-p47
-I1
+F0.0027787139360496058
 sS'data mining'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'statistics applied mathematics'
-p50
-I1
-sS'statistic'
-p51
-I1
-sS'mathematics'
-p52
-I1
-sS'applied math'
-p53
-I1
-sS'data analytics'
-p54
-I1
-ssS'education'
-p55
-(dp56
-VBachelor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'extract'
-p61
-I1
-sVinsight
-p62
-I1
+p12
+F0.0067794866731058709
+sS'sas'
+p13
+F0.0088513537167886052
+sS'research'
+p14
+F0.0027257518902930934
+sS'statistics'
+p15
+F0.0029792742964939445
+sS'java'
+p16
+F0.0039593193855216721
+sS'big data'
+p17
+F0.0040662144612225795
+sS'tableau'
+p18
+F0.0064186136968811232
+sS'strategy'
+p19
+F0.010063970806561245
+sS'unstructured data'
+p20
+F0.010187886368859936
+sS'dashboard'
+p21
+F0.011202559006771709
+sS'flume'
+p22
+F0.016354424875847446
+sS'data modeling'
+p23
+F0.0083456924754577357
+sS'apis'
+p24
+F0.023510641317167087
+sS'python'
+p25
+F0.0033306805926726257
+sS'data scientist'
+p26
+F0.0033845740101082372
+sS'aws'
+p27
+F0.0083497646925933221
+sS'management'
+p28
+F0.0028947248153343517
+sS'sql'
+p29
+F0.006536203119805563
+sS'modeling'
+p30
+F0.0025947146614107106
+sS'data'
+p31
+F0.0026524294412821419
+sS'statistical programming'
+p32
+F0.013447037531474937
+sS'applied mathematics'
+p33
+F0.0096553058940693492
+sS'business strategy'
+p34
+F0.0097109754642793512
 sS'analysis'
+p35
+F0.0054731425200340248
+sS'machine learning'
+p36
+F0.0020943058205560362
+sS'r'
+F0.0017731383597889493
+sS'financial services'
+p37
+F0.013507893488499139
+sS'organization'
+p38
+F0.011266350410745566
+sS'obiee'
+p39
+F0.019766043738625928
+sS'data analytics'
+p40
+F0.0065249925926063801
+ssS'working-year'
+p41
+(dp42
+V(5, 10]
+p43
+F0.0038518985992870886
+sV(0, 2]
+p44
+F0.0072766139427800428
+sV(2, 5]
+p45
+F0.0039582889087256727
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0057556062935721405
+sVBusiness
+p49
+F0.0034559563807479684
+sVData Science
+p50
+F0.003282073426853235
+sVComputer Science
+p51
+F0.0028925103717322609
+sVMathematics
+p52
+F0.0054769090401995263
+sVManagement Science and Engineering
+p53
+F0.0041199506021370362
+ssS'education'
+p54
+(dp55
+VBachelor
+p56
+F0.0029117534430348458
+sVMaster
+p57
+F0.002323580463975006
+sVDoctor
+p58
+F0.0034798139673369584
+ssS'responsibility'
+p59
+(dp60
+S'development'
+p61
+F0.0077377699834767959
+sS'extract'
+p62
+F0.0098840528137470584
+sS'insight'
 p63
-I1
-sS'statistical model'
+F0.011724558185364121
+sS'analysis'
 p64
-I1
-sS'analytic'
+F0.0054731425200340248
+sS'statistical model'
 p65
-I1
-sS'analytical method'
+F0.011472409922105097
+sS'analytic'
 p66
-I1
+F0.0072131820201266541
 sS'data mining'
 p67
-I1
+F0.0067794866731058709
 sS'modeling'
 p68
-I1
+F0.0025947146614107106
 sS'model'
 p69
-I1
+F0.0049438046067145072
 sS'presentation'
 p70
-I1
+F0.015740283337441575
 ss.

@@ -4,182 +4,170 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.017171499592791777
 sS'classification'
 p5
-I1
+F0.015776809507290396
 sS'knowledge management'
 p6
-I1
+F0.025517154465395691
 sS'data science'
 p7
-I1
+F0.006014204628302996
 sS'testing'
 p8
-I1
+F0.010236890074500064
 sS'information retrieval'
 p9
-I1
+F0.017547605014915865
 sS'software design'
 p10
-I1
+F0.020101673310911145
 sS'unix'
 p11
-I1
+F0.012910443943925249
 sS'image processing'
 p12
-I1
+F0.016584215076358159
 sS'clustering'
 p13
-I1
-sS'hadoop'
+F0.016117062802781051
+sS'management'
 p14
-I1
-sS'large-scale data analysis'
+F0.0045302443359982606
+sS'scala'
 p15
-I1
-sS'computer science'
+F0.012202831938493183
+sS'hadoop'
 p16
-I1
-sS'natural language processing'
+F0.0064240325069978245
+sS'large-scale data analysis'
 p17
-I1
-sS'data analysis'
+F0.026001400791099052
+sS'computer science'
 p18
-I1
-sS'theory'
+F0.0070299163159361034
+sS'natural language processing'
 p19
-I1
-sS'python'
+F0.012529790659801514
+sS'data analysis'
 p20
-I1
-sS'processing'
+F0.0074188100748283263
+sS'theory'
 p21
-I1
-sS'data scientist'
+F0.014652381252366677
+sS'python'
 p22
-I1
-sS'sql'
+F0.0026062575637663299
+sS'processing'
 p23
-I1
-sS'spark'
+F0.016330880866707202
+sS'data scientist'
 p24
-I1
-sS'data'
+F0.0052968583258193912
+sS'sql'
 p25
-I1
-sS'search'
+F0.0034097192941652354
+sS'spark'
 p26
-I1
-sS'science'
+F0.0084306781165782926
+sS'data'
 p27
-I1
-sS'cloud computing'
+F0.0017790223181170938
+sS'search'
 p28
-I1
-sS'analysis'
+F0.01550994888824884
+sS'science'
 p29
-I1
-sS'machine learning'
+F0.0035151694409704622
+sS'cloud computing'
 p30
-I1
-sS'electrical engineering'
+F0.016187983173589233
+sS'engineering'
 p31
-I1
-ssS'working-year'
+F0.018372821656104817
+sS'analysis'
 p32
-(dp33
-V(2, 5]
+F0.0017130936087706497
+sS'machine learning'
+p33
+F0.0032775886091701966
+sS'electrical engineering'
 p34
-I1
-ssS'major'
+F0.019823125416894082
+ssS'working-year'
 p35
 (dp36
-S'information'
+V(2, 5]
 p37
-I1
-sS'computing'
+F0.0061947221421556776
+ssS'major'
 p38
-I1
-sS'knowledge management'
-p39
-I1
-sS'data science'
+(dp39
+VEngineering
 p40
-I1
-sS'computer science computer engineering'
+F0.018372821656104817
+sVElectrical and Electronics Engineering
 p41
-I1
-sS'machine learning'
+F0.015733142976874909
+sVData Science
 p42
-I1
-sS'computer engineering'
+F0.0051364449130253129
+sVManagement Science and Engineering
 p43
-I1
-sS'design'
+F0.0064477226923444625
+sVComputer Science
 p44
-I1
-sS'computer science'
-p45
-I1
-sS'natural language processing'
-p46
-I1
-sS'electrical engineering'
-p47
-I1
-sS'electrical'
-p48
-I1
-sS'information retrieval'
-p49
-I1
-sS'science'
-p50
-I1
+F0.004526778731760989
 ssS'education'
-p51
-(dp52
+p45
+(dp46
 VMaster
-p53
-I1
+p47
+F0.0036364034261208845
+sVDoctor
+p48
+F0.0054459088588823404
 ssS'responsibility'
-p54
-(dp55
-S'large data set'
-p56
-I1
+p49
+(dp50
+S'information'
+p51
+F0.0069355259976469734
 sS'product'
-p57
-I1
+p52
+F0.0067249644535887334
 sS'data analysis'
-p58
-I1
-sS'information'
-p59
-I1
+p53
+F0.0074188100748283263
+sS'large data set'
+p54
+F0.015722285676664331
 sS'processing'
-p60
-I1
+p55
+F0.016330880866707202
 sS'analysis'
-p61
-I1
+p56
+F0.0017130936087706497
 sS'design'
-p62
-I1
+p57
+F0.007302094050092388
 sS'understand'
-p63
-I1
+p58
+F0.021016798134442755
 sS'implement'
-p64
-I1
+p59
+F0.010589315875598039
 sS'prototype'
-p65
-I1
+p60
+F0.01576585706774844
 sS'evaluation'
-p66
-I1
+p61
+F0.016917215919133387
 sS'model'
-p67
-I1
+p62
+F0.023211162628524611
+sS'test ... model'
+p63
+F0.023167154546729154
 ss.

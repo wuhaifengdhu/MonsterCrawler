@@ -4,215 +4,209 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0038167477949511332
 sS'nosql'
 p5
-I1
+F0.013869156406756025
 sS'communication'
 p6
-I1
+F0.0080228176981969081
 sS'sqoop'
 p7
-I1
-sS'data governance'
-p8
-I1
-sS'process improvement'
-p9
-I1
-sS'analysis'
-p10
-I1
-sS'problem solving'
-p11
-I1
-sS'education'
-p12
-I1
-sS'visualization'
-p13
-I1
-sS'management'
-p14
-I1
-sS'rdbms'
-p15
-I1
-sS'big data'
-p16
-I1
+F0.0079619474142280898
 sS'hadoop'
-p17
-I1
-sS'governance'
-p18
-I1
-sS'strategy'
-p19
-I1
-sS'coaching'
-p20
-I1
-sS'computer science'
-p21
-I1
-sS'data management'
-p22
-I1
-sS'data modeling'
-p23
-I1
-sS'hdfs'
-p24
-I1
-sS'six sigma'
-p25
-I1
-sS'greenplum'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'data quality'
-p28
-I1
-sS'leadership'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'spark'
-p32
-I1
-sS'data'
-p33
-I1
-sS'customer relations'
-p34
-I1
-sS'mapreduce'
-p35
-I1
-sS'hive'
-p36
-I1
-sS'data architecture'
-p37
-I1
-sS'data integration'
-p38
-I1
-sS'command'
-p39
-I1
-sS'architecture'
-p40
-I1
-sS'english'
-p41
-I1
-sS'organization'
-p42
-I1
-sS'data analytics'
-p43
-I1
-ssS'working-year'
-p44
-(dp45
-V(0, 2]
-p46
-I1
-sV(2, 5]
-p47
-I1
-ssS'major'
-p48
-(dp49
-S'information'
-p50
-I1
-sS'management'
-p51
-I1
-sS'business'
-p52
-I1
-sS'big data'
-p53
-I1
-sS'communication'
-p54
-I1
-sS'design'
-p55
-I1
-sS'computer science'
-p56
-I1
-sS'english'
-p57
-I1
-sS'ee computer science'
-p58
-I1
-sS'data analytics'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VBachelor
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'information'
-p65
-I1
-sS'product'
-p66
-I1
-sS'business problem'
-p67
-I1
-sS'decision-making'
-p68
-I1
-sS'communicate'
-p69
-I1
-sS'mapping'
-p70
-I1
+p8
+F0.0043405625047282601
+sS'analytics'
+p9
+F0.0014691511182154168
+sS'data governance'
+p10
+F0.0073860640671525347
+sS'process improvement'
+p11
+F0.0054489233858605844
 sS'analysis'
-p71
-I1
-sS'improvement'
-p72
-I1
-sS'analytic'
-p73
-I1
-sS'design'
-p74
-I1
-sS'solve problem'
-p75
-I1
+p12
+F0.00057874784080089517
+sS'problem solving'
+p13
+F0.0041463038259345461
+sS'education'
+p14
+F0.0035449776179278195
+sS'qlikview'
+p15
+F0.0068087935390236994
+sS'visualization'
+p16
+F0.003166039310699273
+sS'management'
+p17
+F0.0030609759027015277
+sS'rdbms'
+p18
+F0.015114197453694803
+sS'big data'
+p19
+F0.0021498735242612629
+sS'tableau'
+p20
+F0.0033936251471685672
+sS'governance'
+p21
+F0.0060887094947564167
+sS'strategy'
+p22
+F0.0053209845649555233
+sS'coaching'
+p23
+F0.0065231971564766872
+sS'computer science'
+p24
+F0.002374971728356792
+sS'data management'
+p25
+F0.004645131933461606
+sS'data modeling'
+p26
+F0.0044125029473281608
+sS'hdfs'
+p27
+F0.026956510569984785
+sS'six sigma'
+p28
+F0.0071636383104527277
+sS'greenplum'
+p29
+F0.0090979668399754424
+sS'data quality'
+p30
+F0.0059710102418686212
+sS'metrics'
+p31
+F0.0073735978275859962
+sS'leadership'
+p32
+F0.0055824615581210211
+sS'sql'
+p33
+F0.0011519321939747417
 sS'modeling'
-p76
-I1
+p34
+F0.0013718677179418116
+sS'spark'
+p35
+F0.0056964041328231713
+sS'data'
+p36
+F0.0064108912364579957
+sS'science'
+p37
+F0.0011875572435711022
+sS'mapreduce'
+p38
+F0.0089077753951213538
+sS'hive'
+p39
+F0.0070464670590878603
+sS'data architecture'
+p40
+F0.0068538404642150387
+sS'data integration'
+p41
+F0.0065382789872155114
+sS'command'
+p42
+F0.0064860714143286568
+sS'architecture'
+p43
+F0.0036942812883186795
+sS'english'
+p44
+F0.0057059946815093037
+sS'organization'
+p45
+F0.0059567021597354101
+sS'data analytics'
+p46
+F0.0034498693944016844
+ssS'working-year'
+p47
+(dp48
+V(0, 2]
+p49
+F0.0038472637906928268
+sV(2, 5]
+p50
+F0.0020928115345120535
+ssS'major'
+p51
+(dp52
+VData Science
+p53
+F0.0017352854435896329
+sVComputer Science
+p54
+F0.0015293171391084423
+sVBusiness
+p55
+F0.0018272201810373551
+sVManagement Science and Engineering
+p56
+F0.0021782846933596158
+ssS'education'
+p57
+(dp58
+VBachelor
+p59
+F0.0015394912629559236
+sVMaster
+p60
+F0.0012285146709867854
+ssS'responsibility'
+p61
+(dp62
+S'information'
+p63
+F0.009372332429252667
+sS'product'
+p64
+F0.0022719474505367345
+sS'business problem'
+p65
+F0.0048110651387341975
+sS'decision-making'
+p66
+F0.0062027625773397347
+sS'communicate'
+p67
+F0.010166771362913473
+sS'mapping'
+p68
+F0.0072193914001448039
+sS'analysis'
+p69
+F0.00057874784080089517
+sS'improvement'
+p70
+F0.0045375109735457907
+sS'analytic'
+p71
+F0.0038137263045602077
+sS'design'
+p72
+F0.0024669236655717529
+sS'solve problem'
+p73
+F0.0069477068770805433
+sS'modeling'
+p74
+F0.0013718677179418116
 sS'implement'
-p77
-I1
+p75
+F0.0035774715795939319
 sS'model'
-p78
-I1
+p76
+F0.0078416089961231804
 ss.

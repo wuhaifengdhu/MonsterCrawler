@@ -4,284 +4,260 @@ p2
 (dp3
 S'oncology'
 p4
-I1
+F0.023637857953404964
 sS'cancer'
 p5
-I1
-sS'data science'
+F0.02028631389625013
+sS'intelligence'
 p6
-I1
-sS'performance tuning'
-p7
-I1
-sS'tableau'
-p8
-I1
-sS'business intelligence'
-p9
-I1
-sS'data governance'
-p10
-I1
-sS'business objects'
-p11
-I1
-sS'laboratory'
-p12
-I1
-sS'21 cfr part 11'
-p13
-I1
-sS'sap'
-p14
-I1
-sS'visualization'
-p15
-I1
-sS'technical leadership'
-p16
-I1
-sS'management'
-p17
-I1
-sS'genetics'
-p18
-I1
-sS'big data'
-p19
-I1
-sS'programming languages'
-p20
-I1
-sS'data'
-p21
-I1
-sS'hadoop'
-p22
-I1
-sS'governance'
-p23
-I1
-sS'research'
-p24
-I1
-sS'information management'
-p25
-I1
-sS'strategy'
-p26
-I1
-sS'computer science'
-p27
-I1
-sS'medicine'
-p28
-I1
-sS'master data management'
-p29
-I1
-sS'application development'
-p30
-I1
-sS'data management'
-p31
-I1
-sS'data modeling'
-p32
-I1
-sS'business analysis'
-p33
-I1
-sS'python'
-p34
-I1
-sS'collaboration'
-p35
-I1
-sS'data scientist'
-p36
-I1
-sS'automation'
-p37
-I1
-sS'business analytics'
-p38
-I1
-sS'business process'
-p39
-I1
-sS'process automation'
-p40
-I1
-sS'leadership'
-p41
-I1
-sS'sql'
-p42
-I1
-sS'modeling'
-p43
-I1
-sS'hipaa'
-p44
-I1
-sS'cloudera'
-p45
-I1
-sS'java'
-p46
-I1
-sS'documentation'
-p47
-I1
-sS'programming'
-p48
-I1
-sS'analysis'
-p49
-I1
-sS'pharmaceutical industry'
-p50
-I1
-sS'artificial intelligence'
-p51
-I1
-sS'organization'
-p52
-I1
-sS'data analytics'
-p53
-I1
-sS'personalized medicine'
-p54
-I1
-ssS'working-year'
-p55
-(dp56
-V(2, 5]
-p57
-I1
-ssS'major'
-p58
-(dp59
-S'information'
-p60
-I1
-sS'management'
-p61
-I1
-sS'genetics'
-p62
-I1
-sS'business analysis'
-p63
-I1
-sS'big data'
-p64
-I1
+F0.0034582788764025972
 sS'data science'
-p65
-I1
-sS'computer science engineering'
-p66
-I1
+p7
+F0.0026494293516753291
+sS'performance tuning'
+p8
+F0.010573752199153661
+sS'tableau'
+p9
+F0.0044251675927836822
+sS'business intelligence'
+p10
+F0.0045000953937762581
+sS'data governance'
+p11
+F0.0096311672417495608
+sS'business objects'
+p12
+F0.0094737707015728687
+sS'laboratory'
+p13
+F0.027853954778001469
+sS'21 cfr part 11'
+p14
+F0.01515400405841822
+sS'sap'
+p15
+F0.0088439205699974866
 sS'information management'
-p67
-I1
-sS'data analyst'
-p68
-I1
-sS'automation'
-p69
-I1
-sS'business'
-p70
-I1
-sS'information system'
-p71
-I1
-sS'design'
-p72
-I1
+p16
+F0.010624389492711784
+sS'visualization'
+p17
+F0.0041284036826739418
+sS'technical leadership'
+p18
+F0.0099090302147407487
+sS'statistics'
+p19
+F0.0041079861445048665
+sS'genetics'
+p20
+F0.0085555178526847981
+sS'big data'
+p21
+F0.0028033593091688716
+sS'programming languages'
+p22
+F0.010499914288107974
+sS'data'
+p23
+F0.0036573146040586361
+sS'hadoop'
+p24
+F0.0028299702673999227
+sS'governance'
+p25
+F0.007939462601092068
+sS'research'
+p26
+F0.0037584156020340894
+sS'strategy'
+p27
+F0.003469188174508447
+sS'troubleshooting'
+p28
+F0.0082827807615290655
 sS'computer science'
-p73
-I1
-sS'statistic'
-p74
-I1
+p29
+F0.0030968794343330854
 sS'medicine'
-p75
-I1
-sS'information systems'
-p76
-I1
+p30
+F0.010729296266038933
+sS'master data management'
+p31
+F0.011046561336525091
+sS'application development'
+p32
+F0.0084385383292648573
+sS'data management'
+p33
+F0.0060570883361437686
+sS'data modeling'
+p34
+F0.0057537483366041225
+sS'business analysis'
+p35
+F0.0058778242296855816
+sS'python'
+p36
+F0.0011481310853596169
+sS'collaboration'
+p37
+F0.0056336330838622339
+sS'data scientist'
+p38
+F0.0023334177646781463
 sS'business analytics'
-p77
-I1
-sS'data analytics'
-p78
-I1
-sS'artificial intelligence'
-p79
-I1
-ssS'education'
-p80
-(dp81
-VBachelor
-p82
-I1
-sVMaster
-p83
-I1
-ssS'responsibility'
-p84
-(dp85
-S'development'
-p86
-I1
-sS'information'
-p87
-I1
-sS'product'
-p88
-I1
-sVinsight
-p89
-I1
-sS'build model'
-p90
-I1
-sS'business problem'
-p91
-I1
-sS'pattern'
-p92
-I1
-sS'documentation'
-p93
-I1
-sS'manage data'
-p94
-I1
-sS'mapping'
-p95
-I1
-sS'analysis'
-p96
-I1
-sS'analytic'
-p97
-I1
-sS'design'
-p98
-I1
+p39
+F0.0066907140829495894
+sS'perl'
+p40
+F0.0063128871019589618
+sS'process automation'
+p41
+F0.012256043728792068
+sS'management'
+p42
+F0.0039914047013200537
+sS'architectures'
+p43
+F0.010573752199153661
+sS'sql'
+p44
+F0.0030041579684275204
 sS'modeling'
-p99
-I1
+p45
+F0.0017888671564351378
+sS'hipaa'
+p46
+F0.012604553518140946
+sS'java'
+p47
+F0.0027296629243794791
+sS'cloudera'
+p48
+F0.010022984209350383
+sS'business process'
+p49
+F0.0067296980826426359
+sS'science'
+p50
+F0.0030970655867581165
+sS'documentation'
+p51
+F0.0063864338302731961
+sS'programming'
+p52
+F0.0024280071251869518
+sS'engineering'
+p53
+F0.0026979180111754509
+sS'analysis'
+p54
+F0.00075466678800469153
+sS'leadership'
+p55
+F0.0072793331330564858
+sS'artificial intelligence'
+p56
+F0.0060960717182263558
+sS'organization'
+p57
+F0.0038836648442327785
+sS'data analytics'
+p58
+F0.0044985081089995533
+sS'personalized medicine'
+p59
+F0.014962349248915327
+ssS'working-year'
+p60
+(dp61
+V(2, 5]
+p62
+F0.0027289524855311359
+ssS'major'
+p63
+(dp64
+VStatistics
+p65
+F0.0039680721803702209
+sVBusiness
+p66
+F0.0023826307206478289
+sVData Science
+p67
+F0.002262751063006746
+sVEngineering
+p68
+F0.0026979180111754509
+sVInformation Science
+p69
+F0.0055785356576081363
+sVComputer Science
+p70
+F0.0019941756527581448
+sVBiological Engineering
+p71
+F0.0057933827763803764
+sVManagement Science and Engineering
+p72
+F0.0028404064723984417
+ssS'education'
+p73
+(dp74
+VBachelor
+p75
+F0.0020074423516958299
+sVMaster
+p76
+F0.001601939835295544
+ssS'responsibility'
+p77
+(dp78
+S'development'
+p79
+F0.013336574916455051
+sS'information'
+p80
+F0.01222119118528101
+sS'product'
+p81
+F0.005925078813734567
+sS'insight'
+p82
+F0.004041615321606796
+sS'build model'
+p83
+F0.011649412088516838
+sS'business problem'
+p84
+F0.0062734593879529626
+sS'pattern'
+p85
+F0.0057678217523659606
+sS'documentation'
+p86
+F0.0063864338302731961
+sS'mapping'
+p87
+F0.0094138319578980709
+sS'analysis'
+p88
+F0.00075466678800469153
+sS'analytic'
+p89
+F0.0049729646966952491
+sS'design'
+p90
+F0.0032167815198644884
+sS'modeling'
+p91
+F0.0017888671564351378
 sS'model'
-p100
-I1
+p92
+F0.0068167878497869643
 sS'prototype'
-p101
-I1
+p93
+F0.0069453114835896215
 ss.

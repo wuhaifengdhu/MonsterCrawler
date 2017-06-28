@@ -52,6 +52,7 @@ aS'spark'
 p27
 aS'data'
 p28
+aS'a'
 aS'science'
 p29
 aS'economics'
@@ -79,84 +80,62 @@ p40
 asS'major'
 p41
 (lp42
-S'information'
+VStatistics
 p43
-aS'management'
+aVBusiness
 p44
-aS'business'
+aVData Science
 p45
-aS'science'
+aVEconomics
 p46
-aS'data science'
+aVComputer Science
 p47
-aS'economics'
+aVMathematics
 p48
-aVapplied statistic
+aVManagement Science and Engineering
 p49
-aS'statistic'
-p50
-aS'machine learning data mining'
-p51
-aS'analytics'
-p52
-aS'design'
-p53
-aS'mathematics computer science'
-p54
-aS'phd'
-p55
-aS'data mining'
-p56
-aS'communication'
-p57
-aS'mathematics'
-p58
-aS'machine learning'
-p59
-aS'data analytics'
-p60
-aS'computer science'
-p61
 asS'education'
-p62
-(lp63
-VDoctor
-p64
+p50
+(lp51
+VMaster
+p52
+aVDoctor
+p53
 asS'responsibility'
-p65
-(lp66
+p54
+(lp55
 S'data mining'
-p67
+p56
 aS'information'
-p68
+p57
 aS'product'
-p69
+p58
 aS'exploratory analysis'
-p70
+p59
 aS'quantitative analysis'
-p71
-aS'ownership'
-p72
+p60
+aS'design ... experiment'
+p61
 aS'presentation'
-p73
-aVinsight
-p74
+p62
+aS'insight'
+p63
 aS'communicate'
-p75
+p64
 aS'analysis'
-p76
-aS'statistical model'
-p77
+p65
+aS'develop ... model'
+p66
 aS'design'
-p78
-aS'design experiment'
-p79
+p67
+aS'ownership'
+p68
 aS'recommendation'
-p80
+p69
 aS'modeling'
-p81
+p70
 aS'model'
-p82
+p71
 aS'extract'
-p83
+p72
 as.

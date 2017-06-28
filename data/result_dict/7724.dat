@@ -4,21 +4,21 @@ p2
 (lp3
 S'management'
 p4
-aS'software engineering'
-p5
 aS'government'
-p6
+p5
 aS'user experience'
-p7
-aS'communication'
-p8
-aS'javascript'
-p9
+p6
 aS'data scientist'
-p10
+p7
+aS'javascript'
+p8
+aS'programming'
+p9
 aS'devops'
-p11
+p10
 aS'communication skills'
+p11
+aS'strategy'
 p12
 aS'analytics'
 p13
@@ -28,52 +28,48 @@ aS'html'
 p15
 aS'computer science'
 p16
-aS'science'
+aS'communication'
 p17
 aS'organization'
 p18
 aS'data'
 p19
-asS'working-year'
+aS'css'
 p20
-(lp21
-V(2, 5]
-p22
-asS'major'
-p23
-(lp24
-S'information'
-p25
-aS'management'
-p26
-aS'business'
-p27
-aS'software engineering'
-p28
 aS'science'
+p21
+asS'working-year'
+p22
+(lp23
+V(2, 5]
+p24
+asS'major'
+p25
+(lp26
+VData Science
+p27
+aVManagement Science and Engineering
+p28
+aVEngineering
 p29
-aS'analytics'
+aVBusiness
 p30
-aS'engineering'
+aVComputer Science
 p31
-aS'computer science'
-p32
-aS'communication'
-p33
 asS'education'
-p34
-(lp35
+p32
+(lp33
 S'Bachelor'
-p36
+p34
 asS'responsibility'
-p37
-(lp38
+p35
+(lp36
 S'interface'
-p39
+p37
 aS'information'
-p40
+p38
 aS'implement'
-p41
+p39
 aS'product'
-p42
+p40
 as.

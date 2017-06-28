@@ -4,274 +4,241 @@ p2
 (dp3
 S'consulting'
 p4
-I1
-sS'data science'
+F0.02538780555742776
+sS'.net'
 p5
-I1
-sS'analytics'
+F0.0052927624137983536
+sS'data science'
 p6
-I1
-sS'engineering'
-p7
-I1
-sS'defense'
-p8
-I1
-sS'security clearance'
-p9
-I1
-sS'data mining'
-p10
-I1
-sS'research'
-p11
-I1
-sS'genomics'
-p12
-I1
-sS'management'
-p13
-I1
-sS'genetics'
-p14
-I1
-sS'biomedical engineering'
-p15
-I1
-sS'innovation'
-p16
-I1
-sS'strategy'
-p17
-I1
-sS'access'
-p18
-I1
-sS'html'
-p19
-I1
-sS'natural language processing'
-p20
-I1
-sS'advanced analytics'
-p21
-I1
-sS'mathematics'
-p22
-I1
-sS'energy'
-p23
-I1
-sS'operations research'
-p24
-I1
-sS'biology'
-p25
-I1
-sS'data analysis'
-p26
-I1
-sS'government'
-p27
-I1
-sS'python'
-p28
-I1
-sS'collaboration'
-p29
-I1
-sS'processing'
-p30
-I1
-sS'data scientist'
-p31
-I1
-sS'c'
-I1
-sS'medical imaging'
-p32
-I1
-sS'facebook'
-p33
-I1
-sS'bioinformatics'
-p34
-I1
-sS'apache'
-p35
-I1
-sS'neuroscience'
-p36
-I1
-sS'data'
-p37
-I1
-sS'life sciences'
-p38
-I1
-sS'data visualization'
-p39
-I1
-sS'java'
-p40
-I1
-sS'non-profits'
-p41
-I1
-sS'science'
-p42
-I1
-sS'solver'
-p43
-I1
-sS'programming'
-p44
-I1
-sS'analysis'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'data cleaning'
-p47
-I1
-sS'financial services'
-p48
-I1
-sS'organization'
-p49
-I1
-sS'security'
-p50
-I1
-sS'root'
-p51
-I1
-sS'statistical analysis'
-p52
-I1
-ssS'working-year'
-p53
-(dp54
-V(0, 2]
-p55
-I1
-ssS'major'
-p56
-(dp57
-S'data science'
-p58
-I1
-sS'data mining'
-p59
-I1
+F0.0016893833225570213
 sS'analytics'
-p60
-I1
+p7
+F0.0024430827583806929
 sS'engineering'
-p61
-I1
-sS'management technology'
-p62
-I1
-sS'statistic'
-p63
-I1
-sS'management'
-p64
-I1
-sS'genetics'
-p65
-I1
-sS'natural language processing'
-p66
-I1
-sS'advanced analytics'
-p67
-I1
-sS'mathematics'
-p68
-I1
-sS'ee cs'
-p69
-I1
-sS'operations research'
-p70
-I1
-sS'data mining machine learning'
-p71
-I1
-sS'biology'
-p72
-I1
-sS'business'
-p73
-I1
-sS'phd'
-p74
-I1
-sS'medical imaging'
-p75
-I1
-sS'bioinformatics'
-p76
-I1
-sS'neuroscience'
-p77
-I1
-sS'biomedical engineering'
-p78
-I1
-sS'life sciences'
-p79
-I1
-sS'science'
-p80
-I1
-sS'machine learning'
-p81
-I1
-sS'history'
-p82
-I1
-ssS'education'
-p83
-(dp84
-VBachelor
-p85
-I1
-sVDoctor
-p86
-I1
-ssS'responsibility'
-p87
-(dp88
-S'development'
-p89
-I1
-sS'data analysis'
-p90
-I1
-sS'business problem'
-p91
-I1
-sS'processing'
-p92
-I1
-sS'analysis'
-p93
-I1
-sS'analytic'
-p94
-I1
+p8
+F0.0086015082659666748
+sS'defense'
+p9
+F0.0049601659465284241
+sS'security clearance'
+p10
+F0.0051317703276107718
 sS'data mining'
-p95
-I1
+p11
+F0.0029803080459018783
+sS'research'
+p12
+F0.0047930356273131365
+sS'genomics'
+p13
+F0.0059654332406392334
+sS'statistics'
+p14
+F0.0026194181314679902
+sS'genetics'
+p15
+F0.010910688497524993
+sS'biomedical engineering'
+p16
+F0.006391060155962182
+sS'innovation'
+p17
+F0.010875419506374851
+sS'strategy'
+p18
+F0.0044241894135585245
+sS'access'
+p19
+F0.0032576713835624363
+sS'html'
+p20
+F0.0071912491383390289
+sS'natural language processing'
+p21
+F0.0035196041179217734
+sS'advanced analytics'
+p22
+F0.0041331608909242748
+sS'mathematics'
+p23
+F0.0051345316912241737
+sS'energy'
+p24
+F0.0043335608231040504
+sS'operations research'
+p25
+F0.0040462619600448169
+sS'biology'
+p26
+F0.0095430128211502728
+sS'data analysis'
+p27
+F0.0020839354142776195
+sS'government'
+p28
+F0.010985054138886089
+sS'python'
+p29
+F0.0014641896425653539
+sS'collaboration'
+p30
+F0.0035922323315638396
+sS'processing'
+p31
+F0.0022936630430768538
+sS'data scientist'
+p32
+F0.0014878815521964582
+sS'medical imaging'
+p33
+F0.0072341060358217697
+sS'management'
+p34
+F0.0025450810876394723
+sS'facebook'
+p35
+F0.012005280081139671
+sS'bioinformatics'
+p36
+F0.013732825661178182
+sS'apache'
+p37
+F0.0031785137198623993
+sS'neuroscience'
+p38
+F0.011840538828850812
+sS'data'
+p39
+F0.0031649273449648671
+sS'a'
+F0.0026264633337275654
+sS'life sciences'
+p40
+F0.0059471930600512122
+sS'data visualization'
+p41
+F0.0027622663280612372
+sS'java'
+p42
+F0.003481086987832257
+sS'non-profits'
+p43
+F0.0080778858716771436
+sS'science'
+p44
+F0.0059244428780401044
+sS'solver'
+p45
+F0.0060603663254584746
+sS'programming'
+p46
+F0.0046445866636300953
+sS'analysis'
+p47
+F0.00096241213975879194
+sS'machine learning'
+p48
+F0.00092067095763207765
+sS'data cleaning'
+p49
+F0.0069667570002619498
+sS'financial services'
+p50
+F0.0059381610419947054
+sS'organization'
+p51
+F0.002476381796743934
+sS'security'
+p52
+F0.0030693129434266738
+sS'root'
+p53
+F0.0055007581902347807
+sS'statistical analysis'
+p54
+F0.0036161519008604042
+ssS'working-year'
+p55
+(dp56
+V(0, 2]
+p57
+F0.00319884854507044
+ssS'major'
+p58
+(dp59
+VStatistics
+p60
+F0.0025302033284944946
+sVBusiness
+p61
+F0.0015192617235591491
+sVData Science
+p62
+F0.0014428216047823912
+sVEngineering
+p63
+F0.0086015082659666748
+sVCognitive Science
+p64
+F0.0060505789998377846
+sVComputer Science
+p65
+F0.0012715670594834238
+sVBiological Engineering
+p66
+F0.0036940951972987226
+sVMathematics
+p67
+F0.0024076861370540053
+sVOperations Research
+p68
+F0.0045206866547572383
+sVManagement Science and Engineering
+p69
+F0.0018111580596473207
+ssS'education'
+p70
+(dp71
+VBachelor
+p72
+F0.0012800264433566106
+sVMaster
+p73
+F0.0010214616365508101
+sVDoctor
+p74
+F0.0015297496794613316
+ssS'responsibility'
+p75
+(dp76
+S'development'
+p77
+F0.0017007879247389307
+sS'information'
+p78
+F0.0019481814600131946
+sS'data analysis'
+p79
+F0.0020839354142776195
+sS'business problem'
+p80
+F0.0040002114636666355
+sS'processing'
+p81
+F0.0022936630430768538
+sS'analysis'
+p82
+F0.00096241213975879194
+sS'analytic'
+p83
+F0.0063419268884821424
+sS'data mining'
+p84
+F0.0029803080459018783
 sS'model'
-p96
-I1
+p85
+F0.0021733298341315181
 sS'data gathering'
-p97
-I1
+p86
+F0.006679820378853155
 ss.

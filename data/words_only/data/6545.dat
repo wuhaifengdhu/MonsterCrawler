@@ -4,190 +4,195 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.014320707081588601
 sS'classification'
 p5
-I1
+F0.011952128414613936
 sS'data science'
 p6
-I1
-sS'statistical analysis'
+F0.0045562156275022695
+sS'hadoop'
 p7
-I1
-sS'problem solving'
+F0.0048666912931801705
+sS'analytics'
 p8
-I1
-sS'data mining'
+F0.0032944600832709343
+sS'statistical analysis'
 p9
-I1
-sS'machine learning'
+F0.0097526520962598791
+sS'problem solving'
 p10
-I1
-sS'clustering'
-p11
-I1
-sS'java'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'tableau'
-p15
-I1
-sS'research'
-p16
-I1
-sS'big data analytics'
-p17
-I1
-sS'optimization'
-p18
-I1
-sS'fraud detection'
-p19
-I1
-sS'matlab'
-p20
-I1
-sS'advanced analytics'
-p21
-I1
-sS'unstructured data'
-p22
-I1
-sS'data analysis'
-p23
-I1
-sS'python'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'fraud'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'spss'
-p29
-I1
-sS'optimization algorithms'
-p30
-I1
-sS'r'
-I1
-sS'data analytics'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(2, 5]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'business'
-p37
-I1
-sS'big data'
-p38
-I1
-sS'data science'
-p39
-I1
-sVapplied statistic
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'big data analytics'
-p42
-I1
-sS'advanced analytics'
-p43
-I1
-sS'design'
-p44
-I1
+F0.0092977722157320114
 sS'data mining'
-p45
-I1
-sS'analytics data science'
-p46
-I1
+p11
+F0.0080378004874323387
+sS'sas'
+p12
+F0.0052471093055962755
+sS'machine learning'
+p13
+F0.0024830216736137856
+sS'clustering'
+p14
+F0.012209896062712918
+sS'java'
+p15
+F0.0046941930593495584
+sS'big data'
+p16
+F0.0048209285089494984
+sS'predictive modeling'
+p17
+F0.0078750223813976138
+sS'tableau'
+p18
+F0.0076099472997113327
+sS'research'
+p19
+F0.0032316679608399177
+sS'big data analytics'
+p20
+F0.012554049639198791
+sS'r'
+F0.0021022435856588679
+sS'fraud detection'
+p21
+F0.01789372755915054
+sS'matlab'
+p22
+F0.0048348529834775179
+sS'microstrategy'
+p23
+F0.017304137354152295
+sS'advanced analytics'
+p24
+F0.011147009675523045
+sS'unstructured data'
+p25
+F0.012078819823686212
+sS'data analysis'
+p26
+F0.0056203106627487317
+sS'python'
+p27
+F0.0019744375483078257
+sS'sql'
+p28
+F0.0025831206773979055
+sS'modeling'
+p29
+F0.0030763094281119415
+sS'data'
+p30
+F0.0013477441803917377
+sS'c'
+F0.0047372042571897626
+sS'fraud'
+p31
+F0.029635273300062791
+sS'science'
+p32
+F0.0026630071522503501
+sS'analysis'
+p33
+F0.0012977981884626135
+sS'spss'
+p34
+F0.0083573819350665352
+sS'optimization algorithms'
+p35
+F0.022259914809422677
+sS'optimization'
+p36
+F0.0075757911264717507
+sS'algorithms'
+p37
+F0.0067961048422926287
+sS'organization'
+p38
+F0.013357453327891525
 sS'data analytics'
+p39
+F0.0077360707632037774
+ssS'working-year'
+p40
+(dp41
+V(2, 5]
+p42
+F0.004692971319814907
+ssS'major'
+p43
+(dp44
+VData Science
+p45
+F0.003891246146231298
+sVStatistics
+p46
+F0.0068238817041215158
+sVComputer Science
 p47
-I1
-sS'data mining machine learning'
+F0.0034293778270916581
+sVBusiness
 p48
-I1
+F0.0040974028302049777
 ssS'education'
 p49
 (dp50
 VBachelor
 p51
-I1
+F0.0034521925290526773
 sVMaster
 p52
-I1
+F0.0027548510803946094
 ssS'responsibility'
 p53
 (dp54
 S'development'
 p55
-I1
+F0.0045869734939928738
 sS'product'
 p56
-I1
+F0.0050946700405975253
 sS'data analysis'
 p57
-I1
+F0.0056203106627487317
 sS'pattern'
 p58
-I1
-sVinsight
+F0.0099189055892960083
+sS'insight'
 p59
-I1
+F0.02085106086374415
 sS'recommendation'
 p60
-I1
+F0.0098947035788570885
 sS'analysis'
 p61
-I1
+F0.0012977981884626135
 sS'analytic'
 p62
-I1
+F0.017103984638633659
 sS'optimization'
 p63
-I1
+F0.0075757911264717507
 sS'design'
 p64
-I1
-sS'data mining'
-p65
-I1
-sS'modeling'
-p66
-I1
-sS'implement'
-p67
-I1
-sS'model'
-p68
-I1
+F0.011063778863776345
 sS'data aggregation'
+p65
+F0.021170213530253439
+sS'data mining'
+p66
+F0.0080378004874323387
+sS'modeling'
+p67
+F0.0030763094281119415
+sS'implement'
+p68
+F0.024066626989995541
+sS'model'
 p69
-I1
+F0.0058614047041728821
+sS'identify ... trend'
+p70
+F0.01626598148750176
 ss.

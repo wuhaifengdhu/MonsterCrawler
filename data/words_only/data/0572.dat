@@ -2,88 +2,86 @@
 S'skills'
 p2
 (dp3
-S'nlp'
+S'a'
+F0.064484203228069886
+sS'nlp'
 p4
-I1
+F0.039474711707567306
 sS'training'
 p5
-I1
-sS'finance'
+F0.027049364954279644
+sS'statistics'
 p6
-I1
-sS'team building'
+F0.010718538560949478
+sS'finance'
 p7
-I1
-sS'processing'
+F0.030518920163030903
+sS'probability'
 p8
-I1
-sS'programming'
+F0.040055507335327381
+sS'team building'
 p9
-I1
-sS'c++'
+F0.046032537426062517
+sS'processing'
 p10
-I1
-sS'machine learning'
+F0.018771127432996783
+sS'programming'
 p11
-I1
-sS'python'
+F0.012670290055573286
+sS'c'
+F0.014374964642506866
+sS'machine learning'
 p12
-I1
-sS'computer vision'
+F0.007534686457862521
+sS'python'
 p13
-I1
-sS'design experiments'
+F0.011982793396626805
+sS'computer vision'
 p14
-I1
+F0.040630322565358888
 sS'natural language processing'
 p15
-I1
+F0.028804116459313824
 ssS'working-year'
 p16
 (dp17
 V(5, 10]
 p18
-I1
+F0.013857980018124813
 ssS'major'
 p19
 (dp20
-S'finance'
+VEconomics
 p21
-I1
-sS'statistic'
+F0.018859443074993803
+sVStatistics
 p22
-I1
-sS'machine learning'
+F0.020706951378023909
+sVComputer Science
 p23
-I1
-sS'natural language processing'
-p24
-I1
-sS'probability statistics'
-p25
-I1
-sS'phd'
-p26
-I1
+F0.010406387889105721
 ssS'education'
+p24
+(dp25
+VDoctor
+p26
+F0.012519330710074345
+ssS'responsibility'
 p27
 (dp28
-VDoctor
+S'design'
 p29
-I1
-ssS'responsibility'
+F0.016786423103660662
+sS'model'
 p30
-(dp31
-S'model'
-p32
-I1
+F0.035572663032221626
 sS'processing'
-p33
-I1
+p31
+F0.018771127432996783
+sS'design ... experiment'
+p32
+F0.051613006451679939
 sS'solve problem'
-p34
-I1
-sS'design experiment'
-p35
-I1
+p33
+F0.047276350244042316
 ss.

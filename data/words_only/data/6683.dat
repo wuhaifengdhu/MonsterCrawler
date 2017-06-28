@@ -2,177 +2,168 @@
 S'skills'
 p2
 (dp3
-S'data science'
+S'biostatistics'
 p4
-I1
-sS'integration'
+F0.0084091824173023275
+sS'data science'
 p5
-I1
-sS'analytics'
+F0.0025701729180782036
+sS'integration'
 p6
-I1
-sS'education'
+F0.0049278699192192577
+sS'analytics'
 p7
-I1
-sS'insurance'
+F0.0018584133803066811
+sS'education'
 p8
-I1
-sS'big data'
+F0.0089684903838173902
+sS'insurance'
 p9
-I1
-sS'hadoop'
+F0.0067375457554480515
+sS'big data'
 p10
-I1
-sS'research'
+F0.0027194981332535634
+sS'hadoop'
 p11
-I1
-sS'computer science'
+F0.0027453130371785576
+sS'research'
 p12
-I1
-sS'innovation'
+F0.0054689765491137063
+sS'access'
 p13
-I1
-sS'mathematics'
+F0.0049561154382402883
+sS'computer science'
 p14
-I1
-sS'data analysis'
+F0.0030042377418530359
+sS'innovation'
 p15
-I1
-sS'python'
+F0.0082727550091227509
+sS'mathematics'
 p16
-I1
-sS'aws'
+F0.0039057548762303548
+sS'data analysis'
 p17
-I1
-sS'data scientist'
+F0.0031704316559095411
+sS'python'
 p18
-I1
-sS'sql'
+F0.0011137852836608248
+sS'aws'
 p19
-I1
-sS'informatics'
+F0.0055843511726104923
+sS'data scientist'
 p20
-I1
-sS'data'
+F0.0022636146691535864
+sS'epidemiology'
 p21
-I1
-sS'training'
+F0.0097613082510602696
+sS'sql'
 p22
-I1
-sS'cloudera'
+F0.001457144997506511
+sS'informatics'
 p23
-I1
-sS'organization'
+F0.0093910737247513056
+sS'data'
 p24
-I1
-sS'cloud computing'
+F0.0032944857742909141
+sS'training'
 p25
-I1
-sS'analysis'
+F0.0050284075876545504
+sS'cloudera'
 p26
-I1
-sS'machine learning'
+F0.0097231513483869107
+sS'organization'
 p27
-I1
-sS'r'
-I1
-sS'healthcare'
+F0.011302460508215905
+sS'science'
 p28
-I1
-sS'biotechnology'
+F0.00300441832561578
+sS'cloud computing'
 p29
-I1
-ssS'working-year'
+F0.0069179415271748857
+sS'analysis'
 p30
-(dp31
-V(0, 2]
+F0.002928365143197692
+sS'machine learning'
+p31
+F0.0014006788928077765
+sS'r'
+F0.0011858809970383358
+sS'healthcare'
 p32
-I1
-sV(2, 5]
+F0.034580004401412359
+sS'biotechnology'
 p33
-I1
-ssS'major'
+F0.009423696128986872
+ssS'working-year'
 p34
 (dp35
-S'information'
+V(0, 2]
 p36
-I1
-sS'law'
+F0.0048666242822439183
+sV(2, 5]
 p37
-I1
-sS'big data'
+F0.002647317154767384
+ssS'major'
 p38
-I1
-sS'business'
-p39
-I1
-sS'computing'
+(dp39
+VBusiness
 p40
-I1
-sS'data science'
+F0.0023113554426797316
+sVData Science
 p41
-I1
-sS'machine learning'
+F0.0021950619286432963
+sVInformation Science
 p42
-I1
-sS'analytics'
+F0.0054116563857993464
+sVComputer Science
 p43
-I1
-sS'computer science'
+F0.0019345208255388843
+sVBiological Engineering
 p44
-I1
-sS'biotechnology'
+F0.005620076454010023
+sVMathematics
 p45
-I1
-sS'informatics'
-p46
-I1
-sS'mathematics'
-p47
-I1
-sS'phd'
-p48
-I1
-sS'biostatistics epidemiology'
-p49
-I1
+F0.0036629754905607948
 ssS'education'
+p46
+(dp47
+VMaster
+p48
+F0.0015540185581713183
+sVDoctor
+p49
+F0.0023273114781548463
+ssS'responsibility'
 p50
 (dp51
-VMaster
-p52
-I1
-sVDoctor
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
 S'development'
-p56
-I1
+p52
+F0.0051750470188637555
 sS'information'
-p57
-I1
-sS'decision-making'
-p58
-I1
-sVinsight
-p59
-I1
-sS'analysis'
-p60
-I1
-sS'analytic'
-p61
-I1
+p53
+F0.0029638999989944331
 sS'data analysis'
-p62
-I1
+p54
+F0.0031704316559095411
+sS'insight'
+p55
+F0.0039207122991655671
+sS'analysis'
+p56
+F0.002928365143197692
+sS'analytic'
+p57
+F0.004824200795512058
+sS'drive ... decision'
+p58
+F0.0086241084160878518
 sS'understand'
-p63
-I1
+p59
+F0.0044907688321458878
 sS'prototype'
-p64
-I1
+p60
+F0.0067375457554480515
+sS'decision-making'
+p61
+F0.0078462295850109474
 ss.

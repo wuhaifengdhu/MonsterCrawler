@@ -10,93 +10,87 @@ aS'analytics'
 p6
 aS'engineering'
 p7
-aS'management'
+aS'sas'
 p8
-aS'genetics'
+aS'statistics'
 p9
-aS'research'
+aS'genetics'
 p10
-aS'computer science'
+aS'research'
 p11
-aS'quality assurance'
+aS'computer science'
 p12
-aS'biology'
+aS'quality assurance'
 p13
-aS'data analysis'
+aS'biology'
 p14
-aS'performance management'
+aS'data analysis'
 p15
-aS'python'
+aS'performance management'
 p16
-aS'data scientist'
+aS'python'
 p17
-aS'performance measurement'
+aS'data scientist'
 p18
-aS'data'
+aS'performance measurement'
 p19
-aS'science'
+aS'management'
 p20
-aS'documentation'
+aS'data'
 p21
-aS'analysis'
+aS'science'
 p22
+aS'documentation'
+p23
+aS'analysis'
+p24
 aS'r'
 aS'advertising'
-p23
-aS'retail'
-p24
-asS'working-year'
 p25
-(lp26
-V(2, 5]
+aS'retail'
+p26
+aS'physics'
 p27
-asS'major'
+asS'working-year'
 p28
 (lp29
-S'information'
+V(2, 5]
 p30
-aS'biology'
+asS'major'
 p31
-aS'management'
-p32
-aS'genetics'
+(lp32
+VStatistics
 p33
-aS'business'
+aVBusiness
 p34
-aS'science'
+aVData Science
 p35
-aS'data science'
+aVEngineering
 p36
-aS'communication'
+aVComputer Science
 p37
-aS'analytics'
+aVBiological Engineering
 p38
-aS'engineering'
+aVPhysics
 p39
-aS'computer science'
+aVManagement Science and Engineering
 p40
-aS'statistic'
-p41
-aVphysic
-p42
 asS'education'
-p43
-(lp44
+p41
+(lp42
 VBachelor
-p45
+p43
 aVMaster
-p46
+p44
 asS'responsibility'
-p47
-(lp48
+p45
+(lp46
 S'information'
-p49
-aS'statistical method'
-p50
+p47
 aS'data analysis'
-p51
+p48
 aS'analysis'
-p52
+p49
 aS'documentation'
-p53
+p50
 as.

@@ -4,118 +4,115 @@ p2
 (dp3
 S'logistics'
 p4
-I1
-sS'microsoft azure'
+F0.011930034337950205
+sS'analytics'
 p5
-I1
-sS'data scientist'
+F0.0022532058600609499
+sS'machine learning'
 p6
-I1
-sS'linear regression'
+F0.0016982324399845579
+sS'regression'
 p7
-I1
-sS'recruiting'
+F0.0061558751053932661
+sS'education'
 p8
-I1
+F0.0054368568648012153
 sS'agile'
 p9
-I1
-sS'programming'
+F0.0056572276494805942
+sS'recruiting'
 p10
-I1
-sS'machine learning'
-p11
-I1
-sS'analytics'
-p12
-I1
-sS'r'
-I1
+F0.0089349695611849519
 sS'computer science'
-p13
-I1
-sS'performance tuning'
-p14
-I1
+p11
+F0.003642443687013525
 sS'policy'
+p12
+F0.0070716534405200768
+sS'pyspark'
+p13
+F0.014544699705948514
+sS'python'
+p14
+F0.0013503925200861813
+sS'data scientist'
 p15
-I1
-sS'security'
+F0.002744486179181032
+sS'performance tuning'
 p16
-I1
-sS'education'
-p17
-I1
+F0.012436485747191093
 sS'data'
+p17
+F0.0018435464436446568
+sS'science'
 p18
-I1
-sS'regression'
+F0.0036426626331300125
+sS'programming'
 p19
-I1
-sS'etl'
+F0.0057114779006988388
+sS'linear regression'
 p20
-I1
-sS'r programming'
+F0.0098372942942937698
+sS'r'
+F0.0043134117094347762
+sS'algorithms'
 p21
-I1
-ssS'working-year'
+F0.0046481131563866681
+sS'microsoft azure'
 p22
-(dp23
-V(2, 5]
+F0.013750065097730175
+sS'security'
+p23
+F0.011323061221346072
+sS'etl'
 p24
-I1
-ssS'major'
+F0.0073828100363087642
+ssS'working-year'
 p25
 (dp26
-S'information'
+V(2, 5]
 p27
-I1
-sS'business'
+F0.0032097005917905066
+ssS'major'
 p28
-I1
-sS'general'
-p29
-I1
-sS'analytics'
+(dp29
+VData Science
 p30
-I1
-sS'computer science'
+F0.0026613704212566391
+sVComputer Science
 p31
-I1
-sS'machine learning'
+F0.0023454812081663153
+sVBusiness
 p32
-I1
-sS'ee computer science'
-p33
-I1
+F0.0028023687750624721
 ssS'education'
-p34
-(dp35
+p33
+(dp34
 VBachelor
-p36
-I1
+p35
+F0.0023610850457769605
 sVMaster
-p37
-I1
+p36
+F0.0018841468529123754
 ssS'responsibility'
-p38
-(dp39
+p37
+(dp38
 S'development'
-p40
-I1
+p39
+F0.0031372046694666286
 sS'information'
-p41
-I1
-sS'mine data'
-p42
-I1
+p40
+F0.003593536786345582
 sS'product'
-p43
-I1
+p41
+F0.0034844375407195511
+sS'develop ... model'
+p42
+F0.0080308627647050195
 sS'model'
-p44
-I1
+p43
+F0.020044181889917627
 sS'implement'
-p45
-I1
+p44
+F0.0054866921635222995
 ss.

@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'a'
+aS'visualization'
 p4
 aS'training'
 p5
@@ -28,62 +29,62 @@ aS'business intelligence'
 p15
 aS'data analysis'
 p16
-aS'data mining'
-p17
 aS'education'
+p17
+aS'data mining'
 p18
-aS'data'
+aS'modeling'
 p19
-aS'project management'
+aS'retail'
 p20
-aS'customer experience'
+aS'data'
 p21
-asS'working-year'
-p22
-(lp23
-V(5, 10]
-p24
-aV(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'management'
-p28
-aS'business'
-p29
-aS'statistic'
-p30
-aS'automation'
-p31
-aS'business analytics'
-p32
-aS'analytics'
-p33
-aS'data mining'
-p34
 aS'project management'
-p35
+p22
+aS'customer experience'
+p23
+asS'working-year'
+p24
+(lp25
+V(5, 10]
+p26
+aV(2, 5]
+p27
+asS'major'
+p28
+(lp29
+VData Science
+p30
+aVComputer Science
+p31
+aVBusiness
+p32
+aVManagement Science and Engineering
+p33
 asS'education'
-p36
-(lp37
+p34
+(lp35
 VBachelor
-p38
+p36
 asS'responsibility'
+p37
+(lp38
+S'insight'
 p39
-(lp40
-Vinsight
-p41
 aS'identify opportunity'
-p42
+p40
 aS'recommendation'
-p43
+p41
 aS'analysis'
-p44
+p42
 aS'data analysis'
-p45
+p43
 aS'understand'
-p46
+p44
 aS'data mining'
+p45
+aS'modeling'
+p46
+aS'decision making'
 p47
 as.

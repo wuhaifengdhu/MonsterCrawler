@@ -4,212 +4,179 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.0065963626698306889
 sS'digital marketing'
 p5
-I1
-sS'communication'
+F0.0055524851772259581
+sS'economics'
 p6
-I1
-sS'energy'
-p7
-I1
-sS'analytics'
-p8
-I1
-sS'dsp'
-p9
-I1
-sS'problem solving'
-p10
-I1
-sS'management'
-p11
-I1
-sS'java'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'governance'
-p14
-I1
-sS'strategy'
-p15
-I1
-sS'innovation'
-p16
-I1
-sS'advanced analytics'
-p17
-I1
-sS'military'
-p18
-I1
-sS'advertising'
-p19
-I1
-sS'python'
-p20
-I1
-sS'marketing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'leadership'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'data'
-p25
-I1
-sS'project management'
-p26
-I1
-sS'customer experience'
-p27
-I1
-sS'marketing analytics'
-p28
-I1
-sS'communication skills'
-p29
-I1
-sS'data architecture'
-p30
-I1
-sS'online marketing'
-p31
-I1
-sS'architecture'
-p32
-I1
-sS'organization'
-p33
-I1
-sS'security'
-p34
-I1
-sS'etl'
-p35
-I1
-sS'marketing strategy'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'information'
-p42
-I1
-sS'management'
-p43
-I1
-sS'business'
-p44
-I1
-sS'big data'
-p45
-I1
-sS'business administration'
-p46
-I1
+F0.0036091744342762974
 sS'communication'
-p47
-I1
-sS'marketing analytics'
-p48
-I1
-sS'strategy marketing'
-p49
-I1
-sS'information systems'
-p50
-I1
+p7
+F0.0047685824069604111
+sS'energy'
+p8
+F0.0046468302801959101
 sS'analytics'
-p51
-I1
-sS'computer engineering'
-p52
-I1
-sS'information system'
-p53
-I1
-sS'design'
-p54
-I1
-sS'marketing strategy'
-p55
-I1
-sS'management information systems'
-p56
-I1
-sS'marketing'
-p57
-I1
+p9
+F0.0039295367258291867
+sS'engineering'
+p10
+F0.0018446608088458654
+sS'dsp'
+p11
+F0.010230280962360781
+sS'problem solving'
+p12
+F0.0036967046158934507
+sS'management'
+p13
+F0.004093594279516501
+sS'java'
+p14
+F0.0018663659151630777
+sS'big data'
+p15
+F0.0019167547083775115
+sS'governance'
+p16
+F0.010856975966553611
+sS'strategy'
+p17
+F0.0071160155025308796
+sS'innovation'
+p18
+F0.0058307972052250717
 sS'advanced analytics'
-p58
-I1
-sS'business economics'
-p59
-I1
-sS'law'
-p60
-I1
+p19
+F0.0044319436059308487
+sS'military'
+p20
+F0.0056214737530599539
+sS'advertising'
+p21
+F0.009913847241958703
+sS'python'
+p22
+F0.00078501733848383433
+sS'marketing'
+p23
+F0.051647381633427525
+sS'data scientist'
+p24
+F0.0015954392547648771
+sS'leadership'
+p25
+F0.0024885672006081661
+sS'sql'
+p26
+F0.0010270238837847094
+sS'data'
+p27
+F0.0016075502874552052
 sS'project management'
-p61
-I1
-sS'history'
-p62
-I1
+p28
+F0.0028636345230791359
+sS'customer experience'
+p29
+F0.0057697234962142251
+sS'marketing analytics'
+p30
+F0.0058091840557827996
+sS'communication skills'
+p31
+F0.0055468762832230779
+sS'data architecture'
+p32
+F0.0061106529439989505
+sS'online marketing'
+p33
+F0.0069926095282877342
+sS'architecture'
+p34
+F0.0098810897109246603
+sS'organization'
+p35
+F0.0026553973483157849
+sS'security'
+p36
+F0.0032911909875298073
+sS'etl'
+p37
+F0.0042918142680951551
+sS'marketing strategy'
+p38
+F0.0056156024474236857
+ssS'working-year'
+p39
+(dp40
+V(5, 10]
+p41
+F0.001815729309603703
+ssS'major'
+p42
+(dp43
+VBusiness
+p44
+F0.001629087872250172
+sVData Science
+p45
+F0.0015471219617546124
+sVEconomics
+p46
+F0.002471041487235634
+sVEngineering
+p47
+F0.0018446608088458654
+sVInformation Science
+p48
+F0.0038142397417983342
+sVComputer Science
+p49
+F0.0013634875698075267
+sVManagement Science and Engineering
+p50
+F0.0019420851482965249
 ssS'education'
-p63
-(dp64
+p51
+(dp52
 VMaster
-p65
-I1
+p53
+F0.0010953022367833989
 ssS'responsibility'
-p66
-(dp67
+p54
+(dp55
 S'development'
-p68
-I1
+p56
+F0.0018237364494188535
 sS'information'
-p69
-I1
+p57
+F0.0041780277094258878
 sS'product'
-p70
-I1
+p58
+F0.0020255917028881728
+sS'transform data set'
+p59
+F0.013972608705672603
 sS'formulate'
-p71
-I1
-sS'understand'
-p72
-I1
-sS'recommendation'
-p73
-I1
+p60
+F0.0067878591756984699
 sS'design'
-p74
-I1
+p61
+F0.0021994259187025265
+sS'recommendation'
+p62
+F0.0039340387723166741
+sS'understand'
+p63
+F0.0063303608838682999
 sS'implement'
-p75
-I1
+p64
+F0.0031895529745777224
 sS'prototype'
-p76
-I1
+p65
+F0.0047487521288398912
 sS'model'
-p77
-I1
+p66
+F0.00233043801491211
 ss.

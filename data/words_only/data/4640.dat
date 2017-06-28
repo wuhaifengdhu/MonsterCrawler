@@ -4,334 +4,291 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.0084495289072454658
 sS'consulting'
 p5
-I1
+F0.016583594088888595
 sS'datastage'
 p6
-I1
+F0.011270311965310647
 sS'communication'
 p7
-I1
+F0.0029048979066254249
 sS'data science'
 p8
-I1
+F0.0022070475700194481
 sS'sql'
 p9
-I1
+F0.0050050925418939239
 sS'forecasting'
 p10
-I1
-sS'economics'
-p11
-I1
+F0.010760473415891078
 sS'tableau'
+p11
+F0.0036862863983922788
+sS'analytics'
 p12
-I1
+F0.0015958485540982141
 sS'business intelligence'
 p13
-I1
-sS'analysis'
+F0.003748703318852149
+sS'high performance computing'
 p14
-I1
+F0.0071437383518076431
 sS'data mining'
 p15
-I1
-sS'distributed computing'
+F0.0038935400526277754
+sS'sas'
 p16
-I1
-sS'education'
+F0.0025417190030778288
+sS'transportation'
 p17
-I1
-sS'random forest'
+F0.0081351135264953536
+sS'time management'
 p18
-I1
-sS'management'
+F0.0079046096291458777
+sS'random forest'
 p19
-I1
-sS'java'
+F0.0083332555868575117
+sS'education'
 p20
-I1
-sS'big data'
+F0.0038506912840610445
+sS'java'
 p21
-I1
-sS'data migration'
+F0.0022738843443454743
+sS'big data'
 p22
-I1
-sS'predictive modeling'
+F0.0023352754612159039
+sS'data migration'
 p23
-I1
-sS'excel'
+F0.0099203955284279006
+sS'predictive modeling'
 p24
-I1
-sS'integration'
+F0.0038146897407137065
+sS'excel'
 p25
-I1
-sS'research'
+F0.0029668884895524138
+sS'integration'
 p26
-I1
-sS'access'
+F0.0042316387563203902
+sS'research'
 p27
-I1
-sS'etl'
+F0.00626172727825129
+sS'access'
 p28
-I1
-sS'computer science'
+F0.0042558936240301923
+sS'etl'
 p29
-I1
-sS'intelligence'
+F0.0052289260073673082
+sS'computer science'
 p30
-I1
-sS'mathematics'
+F0.002579785804013249
+sS'intelligence'
 p31
-I1
-sS'informatica'
+F0.0028808414860307875
+sS'mathematics'
 p32
-I1
+F0.0067078652553240583
 sS'teradata'
 p33
-I1
-sS'transportation'
+F0.0067175535685020694
+sS'distributed computing'
 p34
-I1
+F0.006564030206347363
 sS'finance'
 p35
-I1
+F0.0097436552447107833
 sS'government'
 p36
-I1
+F0.0047837055332641569
 sS'python'
 p37
-I1
+F0.00095642479404268988
 sS'data scientist'
 p38
-I1
-sS'time management'
+F0.0019438012204841804
+sS'informatica'
 p39
-I1
+F0.01753398469546048
 sS'processing'
 p40
-I1
+F0.0059929838042962202
 sS'customer retention'
 p41
-I1
-sS'c++'
+F0.010349044916374877
+sS'search'
 p42
-I1
+F0.0056917243626601246
 sS'scalability'
 p43
-I1
+F0.0074056564013378241
 sS'netezza'
 p44
-I1
+F0.018785082517945875
 sS'data processing'
 p45
-I1
+F0.0067444377939970199
 sS'performance tuning'
 p46
-I1
+F0.0088082266025977293
 sS'regression'
 p47
-I1
+F0.004359940900333579
 sS'modeling'
 p48
-I1
+F0.0089410534571180093
 sS'data'
 p49
-I1
+F0.0019585566804958829
 sS'software development'
 p50
-I1
-sS'search'
+F0.0038902690239876561
+sS'c'
+F0.0022947191264185273
+sS'retail'
 p51
-I1
+F0.012645730218042283
 sS'erp'
 p52
-I1
-sS'cloud computing'
+F0.0084841496363379509
+sS'science'
 p53
-I1
-sS'.net'
+F0.0025799408741067611
+sS'cloud computing'
 p54
-I1
-sS'programming'
-p55
-I1
-sS'high performance computing'
-p56
-I1
-sS'spss'
-p57
-I1
-sS'data architecture'
-p58
-I1
-sS'banking'
-p59
-I1
-sS'r'
-I1
-sS'architecture'
-p60
-I1
-sS'oracle'
-p61
-I1
-sS'retail'
-p62
-I1
-sS'microsoft office'
-p63
-I1
-sS'data analytics'
-p64
-I1
-sS'predictive analytics'
-p65
-I1
-ssS'working-year'
-p66
-(dp67
-V(2, 5]
-p68
-I1
-ssS'major'
-p69
-(dp70
-S'communication'
-p71
-I1
-sS'data science'
-p72
-I1
-sS'data mining'
-p73
-I1
-sS'statistic'
-p74
-I1
-sS'computer science mathematics'
-p75
-I1
-sS'finance'
-p76
-I1
-sS'information'
-p77
-I1
-sS'management'
-p78
-I1
-sS'big data'
-p79
-I1
-sS'computer science'
-p80
-I1
-sS'mathematics'
-p81
-I1
-sS'transportation'
-p82
-I1
-sS'telecommunication'
-p83
-I1
-sS'business'
-p84
-I1
-sS'economics computer science'
-p85
-I1
-sS'phd'
-p86
-I1
-sVphysic
-p87
-I1
+F0.0059405442838859563
 sS'economics'
-p88
-I1
-sS'high performance computing'
-p89
-I1
-sS'computer engineering'
-p90
-I1
-sS'computer engineering computer science'
-p91
-I1
-sS'banking finance'
-p92
-I1
-sS'data analytics'
-p93
-I1
-sS'predictive analytics'
-p94
-I1
-ssS'education'
-p95
-(dp96
-VBachelor
-p97
-I1
-sVDoctor
-p98
-I1
-ssS'responsibility'
-p99
-(dp100
-S'development'
-p101
-I1
-sS'information'
-p102
-I1
-sS'forecasting'
-p103
-I1
-sVinsight
-p104
-I1
-sS'processing'
-p105
-I1
-sS'product'
-p106
-I1
-sS'collect data'
-p107
-I1
-sS'improvement'
-p108
-I1
-sS'analytic'
-p109
-I1
-sS'data gathering'
-p110
-I1
+p55
+F0.0043972327052467178
+sS'programming'
+p56
+F0.00202259676116491
+sS'engineering'
+p57
+F0.0044948799158666232
 sS'analysis'
-p111
-I1
+p58
+F0.001257316410106899
+sS'spss'
+p59
+F0.0040483464786377349
+sS'data architecture'
+p60
+F0.0074449056051656935
+sS'banking'
+p61
+F0.012602935480948093
+sS'r'
+F0.0020366690150970318
+sS'architecture'
+p62
+F0.0040128706838250608
+sS'oracle'
+p63
+F0.0048165532083693985
+sS'validation'
+p64
+F0.0058017656973854987
+sS'microsoft office'
+p65
+F0.0035236742108125207
+sS'data analytics'
+p66
+F0.0037473810669464169
+sS'predictive analytics'
+p67
+F0.0042247672905115418
+ssS'working-year'
+p68
+(dp69
+V(2, 5]
+p70
+F0.0022732925292314413
+ssS'major'
+p71
+(dp72
+VBusiness
+p73
+F0.0019847969672919527
+sVData Science
+p74
+F0.0018849339130368123
+sVEconomics
+p75
+F0.0030105899954577264
+sVEngineering
+p76
+F0.0044948799158666232
+sVComputer Science
+p77
+F0.0016612032043159593
+sVMathematics
+p78
+F0.0031454541827200953
+sVManagement Science and Engineering
+p79
+F0.0023661367678328303
+ssS'education'
+p80
+(dp81
+VBachelor
+p82
+F0.0016722547296695537
+sVDoctor
+p83
+F0.001998498663810033
+ssS'responsibility'
+p84
+(dp85
+S'development'
+p86
+F0.0022219467934204012
+sS'information'
+p87
+F0.0025451471550998069
+sS'forecasting'
+p88
+F0.010760473415891078
+sS'insight'
+p89
+F0.003366776800017404
+sS'processing'
+p90
+F0.0059929838042962202
+sS'product'
+p91
+F0.0024678768637022876
+sS'collect data'
+p92
+F0.0097385782160070607
+sS'improvement'
+p93
+F0.0049288192593378126
+sS'analytic'
+p94
+F0.0041426164629351243
+sS'data gathering'
+p95
+F0.0087266644215476096
+sS'analysis'
+p96
+F0.001257316410106899
 sS'data mining'
-p112
-I1
+p97
+F0.0038935400526277754
 sS'report'
-p113
-I1
+p98
+F0.0038078466425182185
 sS'modeling'
-p114
-I1
+p99
+F0.0089410534571180093
 sS'model'
-p115
-I1
+p100
+F0.028392859484433777
 sS'extract'
-p116
-I1
+p101
+F0.0056765294141336324
 sS'implement'
-p117
-I1
+p102
+F0.003885987477283684
 ss.

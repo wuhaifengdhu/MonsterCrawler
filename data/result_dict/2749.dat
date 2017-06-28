@@ -6,13 +6,13 @@ S'logistics'
 p4
 aS'supply chain'
 p5
-aS'r d'
-p6
 aS'classification'
-p7
+p6
 aS'intelligence'
-p8
+p7
 aS'linux'
+p8
+aS'command'
 p9
 aS'information retrieval'
 p10
@@ -26,213 +26,183 @@ aS'marketing research'
 p14
 aS'data mining'
 p15
-aS'public policy'
+aS'sas'
 p16
-aS'research'
+aS'public policy'
 p17
-aS'econometrics'
+aS'research'
 p18
-aS'clustering'
+aS'd3'
 p19
-aS'visualization'
+aS'clustering'
 p20
-aS'management'
+aS'visualization'
 p21
-aS'java'
+aS'statistics'
 p22
-aS'big data'
+aS'java'
 p23
-aS'scala'
+aS'big data'
 p24
-aS'ruby'
+aS'scala'
 p25
-aS'hadoop'
+aS'ruby'
 p26
-aS'd3.js'
+aS'hadoop'
 p27
-aS'access'
+aS'd3.js'
 p28
-aS'risk management'
+aS'access'
 p29
-aS'computer science'
+aS'risk management'
 p30
-aS'natural language processing'
+aS'computer science'
 p31
-aS'policy'
+aS'natural language processing'
 p32
-aS'mathematics'
+aS'policy'
 p33
-aS'numpy'
+aS'mathematics'
 p34
-aS'unstructured data'
-p35
-aS'matlab'
-p36
-aS'data analysis'
-p37
-aS'product development'
-p38
-aS'social media'
-p39
-aS'linguistics'
-p40
-aS'marketing'
-p41
-aS'processing'
-p42
-aS'data scientist'
-p43
-aS'business analytics'
-p44
 aS'construction'
+p35
+aS'numpy'
+p36
+aS'unstructured data'
+p37
+aS'matlab'
+p38
+aS'data analysis'
+p39
+aS'product development'
+p40
+aS'social media'
+p41
+aS'linguistics'
+p42
+aS'marketing'
+p43
+aS'processing'
+p44
+aS'data scientist'
 p45
-aS'computational linguistics'
+aS'business analytics'
 p46
-aS'modeling'
+aS'management'
 p47
-aS'spark'
+aS'computational linguistics'
 p48
-aS'data'
+aS'modeling'
 p49
-aS'information technology'
+aS'spark'
 p50
-aS'training'
+aS'data'
 p51
-aS'sentiment analysis'
+aS'information technology'
 p52
-aS'science'
+aS'econometrics'
 p53
-aS'programming'
+aS'training'
 p54
-aS'analysis'
+aS'sentiment analysis'
 p55
-aS'machine learning'
+aS'science'
 p56
-aS'exploratory data analysis'
+aS'programming'
 p57
+aS'analysis'
+p58
+aS'machine learning'
+p59
+aS'exploratory data analysis'
+p60
 aS'r'
 aS'elasticsearch'
-p58
-aS'dashboard'
-p59
-aS'python'
-p60
-aS'shiny'
 p61
-aS'scripting'
+aS'dashboard'
 p62
-aS'predictive analytics'
+aS'python'
 p63
-asS'working-year'
+aS'shiny'
 p64
-(lp65
-V(0, 2]
-p66
-aV(20, 30)
-p67
-asS'major'
-p68
-(lp69
-S'statistic'
-p70
-aS'information retrieval'
-p71
-aS'analytics'
-p72
-aS'engineering'
-p73
-aS'design'
-p74
-aS'marketing research'
-p75
-aS'data mining'
-p76
-aS'public policy'
-p77
-aS'machine learning data mining'
-p78
-aS'econometrics'
-p79
-aS'information'
-p80
-aS'management'
-p81
-aS'big data'
-p82
-aS'computer science statistics'
-p83
-aS'computer science'
-p84
-aS'natural language processing'
-p85
-aS'mathematics'
-p86
-aS'data mining machine learning'
-p87
-aS'business'
-p88
-aS'linguistics'
-p89
-aS'marketing'
-p90
-aS'phd'
-p91
-aS'business analytics'
-p92
-aS'computational linguistics'
-p93
-aS'law'
-p94
-aS'information technology'
-p95
-aS'science'
-p96
-aS'machine learning'
-p97
+aS'scripting'
+p65
 aS'predictive analytics'
-p98
+p66
+asS'working-year'
+p67
+(lp68
+V(0, 2]
+p69
+aV(20, 30)
+p70
+asS'major'
+p71
+(lp72
+VLinguistics
+p73
+aVSociology
+p74
+aVBusiness
+p75
+aVData Science
+p76
+aVEconomics
+p77
+aVEngineering
+p78
+aVInformation Science
+p79
+aVStatistics
+p80
+aVComputer Science
+p81
+aVMathematics
+p82
+aVManagement Science and Engineering
+p83
 asS'education'
-p99
-(lp100
+p84
+(lp85
 VMaster
-p101
+p86
 aVDoctor
-p102
+p87
 asS'responsibility'
-p103
-(lp104
+p88
+(lp89
 S'development'
-p105
+p90
 aS'information'
-p106
+p91
 aS'product'
-p107
+p92
 aS'data analysis'
-p108
+p93
 aS'processing'
-p109
-aVinsight
-p110
+p94
+aS'insight'
+p95
 aS'communicate'
-p111
+p96
 aS'analysis'
-p112
+p97
 aS'analytic'
-p113
+p98
 aS'design'
-p114
+p99
 aS'ownership'
-p115
+p100
 aS'data mining'
-p116
+p101
 aS'report'
-p117
+p102
 aS'modeling'
-p118
+p103
 aS'implement'
-p119
+p104
 aS'presentation'
-p120
+p105
 aS'model'
-p121
+p106
 as.

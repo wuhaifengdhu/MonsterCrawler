@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'microsoft project'
+S'a'
+aS'microsoft project'
 p4
 aS'management'
 p5
@@ -38,24 +39,18 @@ p20
 asS'major'
 p21
 (lp22
-S'marketing'
+VEconomics
 p23
-aS'management'
+aVManagement Science and Engineering
 p24
-aS'communication'
-p25
-aS'project management'
-p26
-aS'information'
-p27
 asS'education'
+p25
+(lp26
+VBachelor
+p27
+asS'responsibility'
 p28
 (lp29
-VBachelor
-p30
-asS'responsibility'
-p31
-(lp32
 S'information'
-p33
+p30
 as.

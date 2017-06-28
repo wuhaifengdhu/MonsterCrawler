@@ -4,199 +4,204 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
-sS'classification'
-p5
-I1
-sS'data warehousing'
-p6
-I1
-sS'statistical analysis'
-p7
-I1
-sS'data mining'
-p8
-I1
-sS'research'
-p9
-I1
-sS'quantitative analysis'
-p10
-I1
-sS'social sciences'
-p11
-I1
-sS'clustering'
-p12
-I1
-sS'visualization'
-p13
-I1
-sS'anomaly detection'
-p14
-I1
-sS'predictive modeling'
-p15
-I1
-sS'hadoop'
-p16
-I1
-sS'strategy'
-p17
-I1
-sS'statistical software'
-p18
-I1
-sS'computer science'
-p19
-I1
-sS'mathematics'
-p20
-I1
-sS'customer satisfaction'
-p21
-I1
-sS'python'
-p22
-I1
-sS'marketing'
-p23
-I1
+F0.009429284290736667
 sS'data scientist'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'regression'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'data'
-p28
-I1
-sS'customer experience'
-p29
-I1
-sS'search'
-p30
-I1
-sS'science'
-p31
-I1
-sS'applied mathematics'
-p32
-I1
-sS'analysis'
-p33
-I1
+p5
+F0.0027093904479894588
+sS'classification'
+p6
+F0.016139958575233142
+sS'data warehousing'
+p7
+F0.0077787474723383472
+sS'statistical analysis'
+p8
+F0.0065849108782931156
+sS'data mining'
+p9
+F0.005427057106603933
+sS'research'
+p10
+F0.0021819957587256734
+sS'quantitative analysis'
+p11
+F0.019508963386293765
+sS'social sciences'
+p12
+F0.0151164167976678
+sS'clustering'
+p13
+F0.0082440218940056532
+sS'visualization'
+p14
+F0.014380782137600788
+sS'statistics'
+p15
+F0.002384943362666508
+sS'anomaly detection'
+p16
+F0.011240466760060385
+sS'predictive modeling'
+p17
+F0.0053171506616086191
+sS'hadoop'
+p18
+F0.0032859501314566877
+sS'strategy'
+p19
+F0.0040281622282016243
 sS'r'
-I1
-sS'data analytics'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V[0]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'data mining'
-p40
-I1
-sS'information'
-p41
-I1
-sS'computer science applied math'
-p42
-I1
-sS'business'
-p43
-I1
-sS'marketing'
-p44
-I1
-sS'applied mathematics'
-p45
-I1
-sS'statistic'
-p46
-I1
+F0.0014194176639742743
+sS'statistical software'
+p20
+F0.010065210668280023
 sS'computer science'
-p47
-I1
-sS'applied math'
-p48
-I1
-sS'mathematics'
-p49
-I1
-sS'data analytics'
-p50
-I1
+p21
+F0.003595865123240974
+sS'customer satisfaction'
+p22
+F0.011570927721417639
+sS'python'
+p23
+F0.0013331240735377648
+sS'marketing'
+p24
+F0.02923602847791635
+sS'ios'
+p25
+F0.012248552523366936
+sS'sql'
+p26
+F0.0017441019407494812
+sS'regression'
+p27
+F0.0060771554748895165
+sS'modeling'
+p28
+F0.0041541978978084527
+sS'data'
+p29
+F0.0021233002944279038
+sS'customer experience'
+p30
+F0.0097982005153100914
+sS'a'
+F0.0047827158404450815
+sS'search'
+p31
+F0.087268254614187829
 sS'science'
-p51
-I1
+p32
+F0.0017980406347674999
+sS'applied mathematics'
+p33
+F0.0077291834906488659
+sS'analysis'
+p34
+F0.00087626271548370835
+sS'optimization'
+p35
+F0.0051151121672341239
+sS'data analytics'
+p36
+F0.0052233316662040853
+ssS'working-year'
+p37
+(dp38
+S'[0]'
+p39
+F0.0056169174694229744
+ssS'major'
+p40
+(dp41
+VStatistics
+p42
+F0.0046074290789976475
+sVBusiness
+p43
+F0.0027665328572227988
+sVData Science
+p44
+F0.0026273375514195979
+sVEconomics
+p45
+F0.004196346668860514
+sVComputer Science
+p46
+F0.0023154878423329865
+sVMathematics
+p47
+F0.0043843287201597242
 ssS'education'
+p48
+(dp49
+VMaster
+p50
+F0.0018600529033866418
+sVDoctor
+p51
+F0.0027856311298630897
+ssS'responsibility'
 p52
 (dp53
-VMaster
-p54
-I1
-sVDoctor
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
 S'development'
-p58
-I1
-sS'large data set'
-p59
-I1
-sS'product'
-p60
-I1
-sS'data mining'
-p61
-I1
+p54
+F0.0061941739253919114
 sS'information'
-p62
-I1
+p55
+F0.0035475836305099611
+sS'product'
+p56
+F0.013759518063608662
+sS'insight'
+p57
+F0.0140784656471316
+sS'quantitative analysis'
+p58
+F0.019508963386293765
 sS'pattern'
-p63
-I1
-sVinsight
-p64
-I1
+p59
+F0.020091491628446131
+sS'evaluate ... experiment'
+p60
+F0.01841015676013915
 sS'communicate'
-p65
-I1
+p61
+F0.0051310559649145578
+sS'recommendation'
+p62
+F0.013361645753546146
 sS'analysis'
+p63
+F0.00087626271548370835
+sS'forecast'
+p64
+F0.011615407403676071
+sS'optimization'
+p65
+F0.0051151121672341239
+sS'design'
 p66
-I1
-sS'evaluate experiment'
+F0.0037350864706354931
+sS'data mining'
 p67
-I1
+F0.005427057106603933
 sS'understand'
 p68
-I1
-sS'recommendation'
-p69
-I1
+F0.010750280375674043
 sS'modeling'
+p69
+F0.0041541978978084527
+sS'develop ... model'
 p70
-I1
-sS'model'
+F0.0079281663099133957
+sS'design ... experiment'
 p71
-I1
-sS'quantitative analysis'
+F0.011484223941933901
+sS'model'
 p72
-I1
+F0.0039575724856819464
+sS'monitor ... metric'
+p73
+F0.017595697806961311
 ss.

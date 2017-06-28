@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'management'
 p5
@@ -12,16 +13,17 @@ aS'data'
 p7
 aS'healthcare'
 p8
-aS'data scientist'
-p9
 aS'search'
+p9
+aS'research'
 p10
-aS'time management'
-p11
 aS'hardware'
+p11
+aS'optics'
 p12
 aS'engineering'
 p13
+aS'r'
 aS'facebook'
 p14
 aS'innovation'
@@ -30,66 +32,48 @@ aS'organization'
 p16
 aS'electronics'
 p17
-aS'research'
-p18
 aS'start-ups'
-p19
-aS'project management'
-p20
+p18
 asS'working-year'
-p21
-(lp22
+p19
+(lp20
 V(5, 10]
-p23
+p21
 aV(2, 5]
-p24
+p22
 asS'major'
+p23
+(lp24
+VEngineering
 p25
-(lp26
-S'information'
+aVElectrical and Electronics Engineering
+p26
+aVComputer Science
 p27
-aS'management'
+aVBusiness
 p28
-aS'business'
+aVManagement Science and Engineering
 p29
-aS'english'
-p30
-aS'engineering'
-p31
-aS'phd'
-p32
-aS'computer engineering'
-p33
-aS'design'
-p34
-aS'mechanical'
-p35
-aS'electrical'
-p36
-aS'electronics'
-p37
-aS'electrical computer engineering'
-p38
-aS'project management'
-p39
 asS'education'
-p40
-(lp41
-VDoctor
-p42
+p30
+(lp31
+VMaster
+p32
+aVDoctor
+p33
 asS'responsibility'
-p43
-(lp44
+p34
+(lp35
 S'development'
-p45
+p36
 aS'information'
-p46
+p37
 aS'product'
-p47
+p38
 aS'design'
-p48
+p39
 aS'recommendation'
-p49
+p40
 aS'interface'
-p50
+p41
 as.

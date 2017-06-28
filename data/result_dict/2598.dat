@@ -2,86 +2,78 @@
 S'skills'
 p2
 (lp3
-S'biology'
+S'policy analysis'
 p4
-aS'policy analysis'
-p5
-aS'software engineering'
-p6
-aS'government'
-p7
-aS'science'
-p8
-aS'public health'
-p9
-aS'economics'
-p10
-aS'data scientist'
-p11
-aS'analysis'
-p12
-aS'research'
-p13
-aS'health policy'
-p14
-aS'engineering'
-p15
-aS'computer science'
-p16
-aS'organization'
-p17
-aS'policy'
-p18
-aS'laboratory'
-p19
-aS'simulation'
-p20
-aS'data'
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
 aS'biology'
-p28
+p5
+aS'organization'
+p6
 aS'software engineering'
-p29
+p7
+aS'government'
+p8
 aS'science'
-p30
+p9
 aS'public health'
-p31
+p10
 aS'economics'
-p32
-aS'engineering'
-p33
-aS'computer science'
-p34
-aS'statistic'
-p35
-aVphysic
-p36
-asS'education'
-p37
-(lp38
-S'Bachelor'
-p39
-asS'responsibility'
-p40
-(lp41
-S'predict'
-p42
-aS'development'
-p43
-aS'information'
-p44
+p11
+aS'data scientist'
+p12
 aS'analysis'
-p45
+p13
+aS'research'
+p14
+aS'health policy'
+p15
+aS'engineering'
+p16
+aS'html'
+p17
+aS'computer science'
+p18
+aS'bioinformatics'
+p19
+aS'policy'
+p20
+aS'laboratory'
+p21
 aS'simulation'
-p46
+p22
+aS'data'
+p23
+asS'working-year'
+p24
+(lp25
+S'[0]'
+p26
+asS'major'
+p27
+(lp28
+VBiological Engineering
+p29
+aVEngineering
+p30
+aVEconomics
+p31
+aVComputer Science
+p32
+asS'education'
+p33
+(lp34
+S'Bachelor'
+p35
+asS'responsibility'
+p36
+(lp37
+S'predict'
+p38
+aS'information'
+p39
+aS'development'
+p40
+aS'analysis'
+p41
+aS'simulation'
+p42
 as.

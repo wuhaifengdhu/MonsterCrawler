@@ -2,93 +2,83 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'intelligence'
 p4
-aS'intelligence'
-p5
-aS'communication'
-p6
 aS'business intelligence'
-p7
+p5
 aS'visualization'
-p8
+p6
 aS'management'
-p9
+p7
 aS'user experience'
-p10
+p8
 aS'agile'
-p11
+p9
 aS'saas'
-p12
+p10
 aS'integration'
-p13
+p11
 aS'research'
-p14
+p12
 aS'quality assurance'
+p13
+aS'communication'
+p14
+aS'product development'
 p15
 aS'innovation'
 p16
-aS'product development'
-p17
 aS'data scientist'
-p18
+p17
 aS'user research'
-p19
+p18
 aS'data'
-p20
+p19
 aS'b2b'
-p21
+p20
 aS'disaster recovery'
-p22
+p21
 aS'data visualization'
-p23
+p22
 aS'team building'
-p24
+p23
 aS'r'
 aS'financial services'
-p25
+p24
 aS'product management'
-p26
-aS'research development r d'
-p27
+p25
 asS'working-year'
-p28
-(lp29
+p26
+(lp27
 V(5, 10]
-p30
+p28
 asS'major'
+p29
+(lp30
+VBusiness
 p31
-(lp32
-S'information'
-p33
-aS'management'
-p34
-aS'design'
-p35
-aS'business'
-p36
-aS'communication'
-p37
+aVManagement Science and Engineering
+p32
 asS'education'
-p38
-(lp39
+p33
+(lp34
 S'Bachelor'
-p40
+p35
 asS'responsibility'
-p41
-(lp42
+p36
+(lp37
 S'development'
-p43
+p38
 aS'information'
-p44
+p39
 aS'product'
-p45
+p40
 aS'pattern'
-p46
-aS'complex data set'
-p47
-aS'interface'
-p48
+p41
 aS'design'
-p49
+p42
+aS'interface'
+p43
+aS'complex data set'
+p44
 as.

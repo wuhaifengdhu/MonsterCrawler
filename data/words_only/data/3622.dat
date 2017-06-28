@@ -4,213 +4,204 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.010174151911771458
 sS'communication'
 p5
-I1
-sS'hadoop'
+F0.0058853879520849679
+sS'mllib'
 p6
-I1
+F0.018591645718522089
 sS'analytics'
 p7
-I1
-sS'problem solving'
+F0.0064664495314760342
+sS'engineering'
 p8
-I1
-sS'data mining'
+F0.0045533634835451843
+sS'problem solving'
 p9
-I1
-sS'econometrics'
+F0.0091249511708299293
+sS'data mining'
 p10
-I1
-sS'management'
-p11
-I1
-sS'java'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'mllib'
-p15
-I1
-sS'r'
-I1
-sS'computer science'
-p16
-I1
-sS'tensorflow'
-p17
-I1
-sS'operations research'
-p18
-I1
-sS'segmentation'
-p19
-I1
-sS'python'
-p20
-I1
-sS'marketing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'statistical modeling'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'spark'
-p26
-I1
-sS'pig'
-p27
-I1
-sS'software development'
-p28
-I1
-sS'c'
-I1
-sS'science'
-p29
-I1
-sS'programming'
-p30
-I1
-sS'mapreduce'
-p31
-I1
-sS'hive'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'optimization'
-p34
-I1
-sS'product management'
-p35
-I1
-sS'electrical engineering'
-p36
-I1
-sS'impala'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V[0]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'management'
-p43
-I1
-sS'business'
-p44
-I1
-sS'big data'
-p45
-I1
-sS'marketing'
-p46
-I1
-sS'machine learning'
-p47
-I1
-sS'statistic'
-p48
-I1
-sVapplied statistic
-p49
-I1
-sS'machine learning data mining'
-p50
-I1
-sS'analytics'
-p51
-I1
-sS'applied math'
-p52
-I1
-sS'computer science'
-p53
-I1
-sS'data mining'
-p54
-I1
-sS'communication'
-p55
-I1
-sS'electrical engineering'
-p56
-I1
-sS'phd'
-p57
-I1
-sS'ee computer science'
-p58
-I1
+F0.0078883989913834107
 sS'econometrics'
-p59
-I1
+p11
+F0.011402448177473013
+sS'experimentation'
+p12
+F0.013386935238928917
+sS'statistics'
+p13
+F0.0034665905382996452
+sS'java'
+p14
+F0.0046069404002538417
+sS'big data'
+p15
+F0.0047313201723519233
+sS'predictive modeling'
+p16
+F0.0077286465007024895
+sS'hadoop'
+p17
+F0.0047762323472102779
+sS'r'
+F0.0020631684260741306
+sS'computer science'
+p18
+F0.0052267035806216377
+sS'tensorflow'
+p19
+F0.016040820906046221
 sS'operations research'
-p60
-I1
-sS'science'
-p61
-I1
-ssS'education'
-p62
-(dp63
-VDoctor
-p64
-I1
-ssS'responsibility'
-p65
-(dp66
-S'product'
-p67
-I1
-sS'business problem'
-p68
-I1
-sS'data mining'
-p69
-I1
-sS'statistical model'
-p70
-I1
-sS'optimization'
-p71
-I1
-sS'understand'
-p72
-I1
-sS'recommendation'
-p73
-I1
+p20
+F0.010709808607999664
+sS'segmentation'
+p21
+F0.010765990007918367
+sS'python'
+p22
+F0.0019377379656255239
+sS'marketing'
+p23
+F0.0070825818679462775
+sS'data scientist'
+p24
+F0.0039381846288620006
+sS'statistical modeling'
+p25
+F0.0066593513761724768
+sS'sql'
+p26
+F0.002535107281907238
 sS'modeling'
-p74
-I1
+p27
+F0.0090573868664113651
+sS'spark'
+p28
+F0.0062681621684596974
+sS'pig'
+p29
+F0.010032075000430822
+sS'data'
+p30
+F0.0013226931733212593
+sS'software development'
+p31
+F0.007881771814398782
+sS'c'
+F0.0046491521334501755
+sS'science'
+p32
+F0.0026135088780449532
+sS'programming'
+p33
+F0.0040978261518025121
+sS'mapreduce'
+p34
+F0.0098018643753008203
+sS'hive'
+p35
+F0.007753733269479578
+sS'machine learning'
+p36
+F0.0024368688544016332
+sS'optimization'
+p37
+F0.014869954330026336
+sS'databases'
+p38
+F0.0085594727633040522
+sS'product management'
+p39
+F0.011609658063295692
+sS'electrical engineering'
+p40
+F0.014738383209586677
+sS'impala'
+p41
+F0.01691611461355046
+ssS'working-year'
+p42
+(dp43
+S'[0]'
+p44
+F0.0081643670280460313
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0066970437542307809
+sVBusiness
+p48
+F0.0040212429262978218
+sVData Science
+p49
+F0.0038189181509481881
+sVEconomics
+p50
+F0.0060995224815035718
+sVElectrical and Electronics Engineering
+p51
+F0.011697504072025954
+sVEngineering
+p52
+F0.0045533634835451843
+sVComputer Science
+p53
+F0.0033656347448037089
+sVMathematics
+p54
+F0.0063727603330202666
+sVOperations Research
+p55
+F0.011965534937498714
+sVManagement Science and Engineering
+p56
+F0.0047938458679140979
+ssS'education'
+p57
+(dp58
+VMaster
+p59
+F0.0027036456699783525
+sVDoctor
+p60
+F0.0040490028690575016
+ssS'responsibility'
+p61
+(dp62
+S'development'
+p63
+F0.0045017137636212583
+sS'product'
+p64
+F0.019999894285765749
+sS'business problem'
+p65
+F0.010587920305318381
+sS'data mining'
+p66
+F0.0078883989913834107
+sS'develop ... model'
+p67
+F0.011523840249725418
+sS'optimization'
+p68
+F0.014869954330026336
+sS'understand'
+p69
+F0.0078129361094582718
+sS'recommendation'
+p70
+F0.0097107871554582576
+sS'modeling'
+p71
+F0.0090573868664113651
 sS'implement'
-p75
-I1
+p72
+F0.007873097305277351
 sS'model'
-p76
-I1
+p73
+F0.0057524566613443894
 ss.

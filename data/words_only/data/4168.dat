@@ -4,160 +4,156 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.011485952904877443
 sS'data science'
 p5
-I1
+F0.0040228793500354486
 sS'hadoop'
 p6
-I1
-sS'deep learning'
+F0.0042970117103664374
+sS'statistics'
 p7
-I1
-sS'mllib'
+F0.0031187720896408179
+sS'deep learning'
 p8
-I1
-sS'mathematics'
+F0.010416527367536624
+sS'mllib'
 p9
-I1
+F0.016726263204958
 sS'large-scale data analysis'
 p10
-I1
+F0.01739224133183883
 sS'computer science'
 p11
-I1
+F0.0047022851611612732
 sS'advanced analytics'
 p12
-I1
+F0.0098421757670170019
 sS'tensorflow'
 p13
-I1
+F0.0144313739923961
 sS'operations research'
 p14
-I1
+F0.0096352458714110689
 sS'data analysis'
 p15
-I1
+F0.004962414765771455
 sS'python'
 p16
-I1
+F0.001743316096164769
 sS'collaboration'
 p17
-I1
-sS'data scientist'
-p18
-I1
+F0.0085540783280048625
 sS'business process'
-p19
-I1
+p18
+F0.010218337556922261
 sS'sql'
-p20
-I1
+p19
+F0.0022807486917493214
 sS'spark'
+p20
+F0.00563924957630655
+sS'data'
 p21
-I1
-sS'applied mathematics'
+F0.0007933209891269091
+sS'a'
+F0.0062543207144281823
+sS'organization'
 p22
-I1
-sS'analysis'
+F0.0058969359173300373
+sS'science'
 p23
-I1
-sS'machine learning'
+F0.0023512839070036536
+sS'applied mathematics'
 p24
-I1
-sS'r'
-I1
-sS'theano'
+F0.010107393795463901
+sS'analysis'
 p25
-I1
-ssS'working-year'
+F0.0011458820125556184
+sS'machine learning'
 p26
-(dp27
-V(5, 10]
+F0.0021923669626556499
+sS'r'
+F0.001856161560581743
+sS'algorithms'
+p27
+F0.006000574175134628
+sS'theano'
 p28
-I1
-ssS'major'
+F0.016373889399406791
+ssS'working-year'
 p29
 (dp30
-S'business'
+V(5, 10]
 p31
-I1
-sS'computing'
+F0.0040322550554409992
+ssS'major'
 p32
-I1
-sS'applied mathematics'
-p33
-I1
-sS'applied math'
+(dp33
+VStatistics
 p34
-I1
-sS'machine learning'
+F0.0060250995648430776
+sVBusiness
 p35
-I1
-sS'statistics applied mathematics'
+F0.0036177737363682749
+sVData Science
 p36
-I1
-sS'computer science'
+F0.0034357491057025505
+sVComputer Science
 p37
-I1
-sS'statistic'
+F0.0030279456399739052
+sVMathematics
 p38
-I1
-sS'advanced analytics'
+F0.0057333529417473309
+sVOperations Research
 p39
-I1
-sS'mathematics'
-p40
-I1
-sS'phd'
-p41
-I1
-sS'data science'
-p42
-I1
-sS'operations research'
-p43
-I1
+F0.010764979592599177
 ssS'education'
-p44
-(dp45
-VMaster
-p46
-I1
+p40
+(dp41
+VBachelor
+p42
+F0.0030480897246485173
+sVMaster
+p43
+F0.0024323768736594542
 sVDoctor
-p47
-I1
+p44
+F0.0036427484005901942
 ssS'responsibility'
-p48
-(dp49
+p45
+(dp46
 S'development'
-p50
-I1
+p47
+F0.0040500367973716339
 sS'product'
-p51
-I1
+p48
+F0.0089966079646672022
 sS'data analysis'
-p52
-I1
+p49
+F0.004962414765771455
 sS'business problem'
-p53
-I1
-sVinsight
-p54
-I1
+p50
+F0.0095255871643165364
+sS'insight'
+p51
+F0.012273534153909599
 sS'analysis'
-p55
-I1
+p52
+F0.0011458820125556184
+sS'develop ... model'
+p53
+F0.010367602097579056
 sS'analytic'
-p56
-I1
+p54
+F0.0075509229842797418
 sS'understand'
-p57
-I1
+p55
+F0.0070290294764022588
 sS'recommendation'
-p58
-I1
+p56
+F0.00873646068501094
 sS'model'
-p59
-I1
+p57
+F0.015525861289983019
 ss.

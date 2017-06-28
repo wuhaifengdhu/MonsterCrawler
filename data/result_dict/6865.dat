@@ -4,15 +4,15 @@ p2
 (lp3
 S'solaris'
 p4
-aS'r d'
-p5
 aS'intelligence'
+p5
+aS'servers'
 p6
 aS'business intelligence'
 p7
-aS'research development r d'
-p8
 aS'linux'
+p8
+aS'network security'
 p9
 aS'education'
 p10
@@ -36,81 +36,75 @@ aS'web services'
 p19
 aS'innovation'
 p20
-aS'quality assurance'
+aS'scheme'
 p21
-aS'product development'
+aS'quality assurance'
 p22
-aS'python'
+aS'product development'
 p23
-aS'data scientist'
+aS'python'
 p24
-aS'technical documentation'
+aS'data scientist'
 p25
-aS'php'
+aS'technical documentation'
 p26
-aS'data'
+aS'php'
 p27
-aS'b2b'
+aS'data'
 p28
-aS'disaster recovery'
+aS'b2b'
 p29
-aS'science'
+aS'disaster recovery'
 p30
-aS'documentation'
+aS'science'
 p31
-aS'engineering'
+aS'documentation'
 p32
+aS'engineering'
+p33
 aS'r'
 aS'security'
-p33
-aS'scripting'
 p34
-asS'working-year'
+aS'scripting'
 p35
-(lp36
+asS'working-year'
+p36
+(lp37
 V(5, 10]
-p37
-asS'major'
 p38
-(lp39
-S'information'
-p40
-aS'management'
+asS'major'
+p39
+(lp40
+VEngineering
 p41
-aS'business'
+aVComputer Science
 p42
-aS'science'
+aVBusiness
 p43
-aS'engineering'
+aVManagement Science and Engineering
 p44
-aS'design'
-p45
-aS'computer science'
-p46
-aS'computer science engineering'
-p47
-aS'ee computer science'
-p48
 asS'education'
-p49
-(lp50
+p45
+(lp46
 VBachelor
-p51
+p47
 asS'responsibility'
-p52
-(lp53
+p48
+(lp49
 S'development'
-p54
+p50
 aS'information'
-p55
+p51
 aS'product'
-p56
+p52
+aS'develop ... system'
+p53
 aS'documentation'
-p57
+p54
 aS'design'
-p58
+p55
 aS'interface'
-p59
+p56
 aS'implement'
-p60
+p57
 as.

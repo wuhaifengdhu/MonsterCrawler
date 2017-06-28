@@ -2,115 +2,114 @@
 S'skills'
 p2
 (dp3
-S'fda'
+S'a'
+F0.0080605254035087358
+sS'fda'
 p4
-I1
+F0.025188912846292006
 sS'data analysis'
 p5
-I1
+F0.0063955259265761431
 sS'python'
 p6
-I1
-sS'data science'
+F0.0022467737618675258
+sS'science'
 p7
-I1
-sS'processing'
+F0.0060606369671904513
+sS'data science'
 p8
-I1
-sS'aws'
+F0.0051846591623301687
+sS'processing'
 p9
-I1
-sS'hive'
+F0.0070391727873737936
+sS'aws'
 p10
-I1
-sS'machine learning'
+F0.01126498426199013
+sS'hive'
 p11
-I1
-sS'analysis'
+F0.0089903200409052007
+sS'machine learning'
 p12
-I1
-sS'data processing'
+F0.0028255074216984454
+sS'engineering'
 p13
-I1
-sS'oracle'
+F0.0052795464529036837
+sS'analysis'
 p14
-I1
-sS'spark'
+F0.0014768048351471118
+sS'data processing'
 p15
-I1
-sS'linear regression'
+F0.015843614645380928
+sS'sql'
 p16
-I1
-sS'data'
+F0.0029394131846252028
+sS'oracle'
 p17
-I1
-sS'energy'
+F0.011314747838626387
+sS'spark'
 p18
-I1
-sS'computer science'
+F0.0072678259625674939
+sS'linear regression'
 p19
-I1
-ssS'working-year'
+F0.016367222403437048
+sS'data'
 p20
-(dp21
-V[0]
+F0.0025560665490188131
+sS'energy'
+p21
+F0.0132995487329745
+sS'computer science'
 p22
-I1
-ssS'major'
+F0.0060602726861518135
+ssS'working-year'
 p23
 (dp24
-S'engineering science'
+S'[0]'
 p25
-I1
-sS'information'
+F0.0094664428040706142
+ssS'major'
 p26
-I1
-sS'data science'
-p27
-I1
-sS'phd'
+(dp27
+VEngineering
 p28
-I1
-sS'computer science engineering'
+F0.0052795464529036837
+sVElectrical and Electronics Engineering
 p29
-I1
-sS'computer science'
+F0.013563054290409403
+sVData Science
 p30
-I1
-sS'statistic'
+F0.0044279697526080283
+sVComputer Science
 p31
-I1
-sS'machine learning'
-p32
-I1
+F0.0039023954584146451
 ssS'education'
-p33
-(dp34
+p32
+(dp33
 VDoctor
-p35
-I1
+p34
+F0.004694749016277879
 ssS'responsibility'
-p36
-(dp37
+p35
+(dp36
 S'information'
-p38
-I1
+p37
+F0.005978901722109459
 sS'data analysis'
-p39
-I1
+p38
+F0.0063955259265761431
 sS'pattern'
-p40
-I1
+p39
+F0.011287030498164421
 sS'processing'
-p41
-I1
+p40
+F0.0070391727873737936
 sS'analysis'
-p42
-I1
+p41
+F0.0014768048351471118
 sS'cross-functionally'
-p43
-I1
+p42
+F0.021931739286306866
 sS'transformation'
-p44
-I1
+p43
+F0.013553694548848562
 ss.

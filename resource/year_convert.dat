@@ -1,597 +1,435 @@
 (dp1
-V6-15 year
+S'10 + year'
 p2
 V(10, 15]
 p3
-sV10 + year
+sS'four-year'
 p4
-g3
-sVfour-year
-p5
 V(2, 5]
+p5
+sS'6-8 year'
 p6
-sV6-8 year
-p7
 V(5, 10]
+p7
+sS'1-0 year'
 p8
-sV1-0 year
-p9
 V(0, 2]
+p9
+sV10-20 year
 p10
-sVtwo years
+g3
+sS'6-10 year'
 p11
-g10
-sV2 - 5 year
+g7
+sS'0-2 year'
 p12
-g6
-sV6-10 year
+g9
+sS'5-10 year'
 p13
-g8
-sV2-5 years
+g7
+sS'2-5years'
 p14
-g6
-sV2-4 year
+g5
+sS'000 year'
 p15
-g6
-sV10+ years
-p16
-g3
-sV2-5years
-p17
-g6
-sVthree year
-p18
-g6
-sV14+ years
-p19
-g3
-sV1-2 years
-p20
-g10
-sV2 - 3 year
-p21
-g6
-sV3+ years
-p22
-g6
-sV10-15 year
-p23
-g3
-sV1+ years
-p24
-g10
-sV3 + year
-p25
-g6
-sVten+ years
-p26
-g3
-sV4\u005cnyear
-p27
-g6
-sV2-5 year
-p28
-g6
-sV3-5years
-p29
-g6
-sVtwo-years
-p30
-g10
-sV12 year
-p31
-g3
-sV2-9 year
-p32
-g8
-sV26 year
-p33
-V(20, 30)
-p34
-sV09 year
-p35
-g8
-sV20+ years
-p36
-g34
-sV1 years
-p37
-g10
-sV2-3 years
-p38
-g6
-sV4-7 year
-p39
-g8
-sV5 + year
-p40
-g8
-sV3 - 5 years
-p41
-g6
-sV28 year
-p42
-g34
-sV7 year
-p43
-g8
-sV3 year
-p44
-g6
-sV8 year
-p45
-g8
-sV2-7 year
-p46
-g6
-sVthree-year
-p47
-g6
-sV8 years
-p48
-g8
-sV4+ year
-p49
-g6
-sV7-12 year
-p50
-g8
-sV3 - 5 year
-p51
-g6
-sV2+ year
-p52
-g6
-sV0 year
-p53
 V[0]
-p54
-sV4 - 8 year
-p55
-g8
-sV1- 3 year
-p56
-g6
-sV8+ year
-p57
-g8
-sV5 - 8 year
-p58
-g8
-sV5\u005cnyear
-p59
-g6
+p16
+sS'2 - 3 year'
+p17
+g5
+sS'3 + year'
+p18
+g5
+sV2-5 year
+p19
+g5
+sS'3-5years'
+p20
+g5
+sS'two-years'
+p21
+g9
+sS'12 year'
+p22
+g3
+sS'2-9 year'
+p23
+g7
+sS'26 year'
+p24
+V(20, 30)
+p25
+sS'09 year'
+p26
+g7
+sS'4-7 year'
+p27
+g7
+sV5 + year
+p28
+g7
+sS'3nyear'
+p29
+g5
+sS'28 year'
+p30
+g25
+sS'7 year'
+p31
+g7
+sS'8 year'
+p32
+g7
+sS'2-7 year'
+p33
+g5
+sS'10nyear'
+p34
+g7
+sS'three-year'
+p35
+g5
+sV4+ year
+p36
+g5
+sS'7-12 year'
+p37
+g7
+sV3 - 5 year
+p38
+g5
+sS'2+ year'
+p39
+g5
+sS'0 year'
+p40
+g16
+sS'4 - 8 year'
+p41
+g7
+sS'1- 3 year'
+p42
+g5
+sS'8+ year'
+p43
+g7
+sS'5 - 8 year'
+p44
+g7
 sVseven year
-p60
-g8
-sV0+ year
-p61
-g10
-sV1 - 3 years
-p62
-g10
-sV12 years
-p63
-g3
-sV10 years
-p64
-g8
-sV7-10 years
-p65
-g8
-sV15+ year
-p66
+p45
+g7
+sS'3+nyear'
+p46
+g5
+sS'2n+ year'
+p47
+g9
+sS'15+ year'
+p48
 V(15, 20]
-p67
-sV1-3 years
-p68
-g10
-sV5+ years
-p69
-g8
-sV6 years
-p70
-g8
-sV2 + year
-p71
-g6
+p49
+sS'four year'
+p50
+g5
+sS'2 - 5 year'
+p51
+g5
+sV8 + year
+p52
+g7
+sS'2 + year'
+p53
+g5
 sV14+ year
-p72
+p54
 g3
-sV7 + year
-p73
-g8
-sV7 years
-p74
-g8
-sV2 year
-p75
-g10
-sV9 year
-p76
-g6
-sV0- 5 year
-p77
-g6
-sV3+\u005cnyear
-p78
-g6
-sV10 year
-p79
-g8
-sVfour year
-p80
-g6
-sVeight year
-p81
-g8
-sV8 + years
-p82
-g8
-sV3\u005cnyear
-p83
-g6
-sV3-6years
-p84
-g6
-sV0-2 year
-p85
-g10
-sV3-7 year
-p86
-g6
-sV5-10 year
-p87
-g8
-sV10-12 year
-p88
-g3
-sV5 - 8 years
-p89
-g8
+sS'7 + year'
+p55
+g7
 sV1 year
-p90
-g10
-sVthree+ years
-p91
-g6
-sV2+ years
-p92
-g6
+p56
+g9
+sS'2 year'
+p57
+g9
+sS'9 year'
+p58
+g7
+sS'0- 5 year'
+p59
+g5
+sV10 year
+p60
+g7
+sS'eight year'
+p61
+g7
+sS'3-6years'
+p62
+g5
+sS'2-4 year'
+p63
+g5
+sS'3-7 year'
+p64
+g5
+sVten+ year
+p65
+g3
+sS'5nyear'
+p66
+g5
+sV10-12 year
+p67
+g3
+sS'5 - 10 year'
+p68
+g7
 sV1-3 year
-p93
-g10
-sV14 year
-p94
+p69
+g9
+sS'14 year'
+p70
 g3
-sV13+ year
-p95
-g3
-sV1-5 year
-p96
-g6
+sS'6years'
+p71
+g7
+sS'1-5 year'
+p72
+g5
 sV5+ year
-p97
-g8
-sV5 + years
-p98
-g8
+p73
+g7
+sS'6-15 year'
+p74
+g3
 sV3+ year
-p99
-g6
-sV000 year
-p100
-g54
-sV2\u005cn+ year
-p101
-g10
-sV5-7 years
-p102
-g8
-sV25 year
-p103
-g34
-sV2 - 4 year
-p104
-g6
-sV7+ year
-p105
-g8
-sV5 - 7 year
-p106
-g8
-sV3-5 year
-p107
-g6
-sV5+years
-p108
-g8
-sVten year
-p109
-g8
-sV3 - 4 year
-p110
-g6
-sVseven years
-p111
-g8
-sV3 + years
-p112
-g6
+p75
+g5
+sS'7+ year'
+p76
+g7
+sS'25 year'
+p77
+g25
+sS'2 - 4 year'
+p78
+g5
+sV1 - 3 year
+p79
+g9
+sS'3-5 year'
+p80
+g5
+sS'5+years'
+p81
+g7
+sS'0nyear'
+p82
+g16
+sS'3 - 4 year'
+p83
+g5
+sV4 - 6 year
+p84
+g5
 sV15 year
-p113
+p85
 g3
-sV10\u005cnyear
-p114
-g8
-sV0-2 years
-p115
-g10
 sV1+ year
-p116
-g6
-sV6-8 years
-p117
-g8
-sV12-15 year
-p118
+p86
+g5
+sS'12-15 year'
+p87
 g3
-sVsix year
-p119
-g8
-sV3-6 year
-p120
-g6
-sV7+ years
-p121
-g8
-sV9 years
-p122
-g8
-sV2-3 year
-p123
-g6
-sV15 + year
-p124
-g67
-sV4 year
-p125
-g6
-sV4-6 year
-p126
-g6
-sV3-5 years
-p127
-g6
-sV16 year
-p128
-g67
-sV10years
-p129
-g8
-sV5-9 year
-p130
-g8
-sV11 year
-p131
+sS'six year'
+p88
+g7
+sS'3-6 year'
+p89
+g5
+sS'2-3 year'
+p90
+g5
+sS'15 + year'
+p91
+g49
+sS'4 year'
+p92
+g5
+sS'4-6 year'
+p93
+g5
+sS'16 year'
+p94
+g49
+sS'10years'
+p95
+g7
+sS'5-9 year'
+p96
+g7
+sVthree+ year
+p97
+g5
+sS'11 year'
+p98
 g3
-sV12+ year
-p132
+sS'12+ year'
+p99
 g3
-sV18 year
-p133
-g67
-sV4+years
-p134
-g6
-sV5-8 years
-p135
-g8
-sV4-8 year
-p136
-g8
-sV27 year
-p137
-g34
-sV6 + year
-p138
-g8
-sV13 year
-p139
+sS'18 year'
+p100
+g49
+sS'4+years'
+p101
+g5
+sS'8years'
+p102
+g7
+sS'4-8 year'
+p103
+g7
+sS'27 year'
+p104
+g25
+sS'6 + year'
+p105
+g7
+sS'13 year'
+p106
 g3
-sV10+years
-p140
+sS'10+years'
+p107
 g3
-sV13-15 year
-p141
+sS'13-15 year'
+p108
 g3
 sV20+ year
-p142
-g34
+p109
+g25
 sVtwo year
-p143
-g10
-sV5 years
-p144
-g6
-sV6+ years
-p145
-g8
-sV5years
-p146
-g6
-sV15 years
-p147
-g3
-sV4-5 years
-p148
-g6
-sV4 - 6 years
-p149
-g6
-sV0-3 year
-p150
-g10
-sVthree years
-p151
-g6
+p110
+g9
+sS'7 - 10 year'
+p111
+g7
+sS'5years'
+p112
+g5
+sS'0-3 year'
+p113
+g9
 sV6 year
-p152
-g8
+p114
+g7
 sV4-5 year
-p153
-g6
-sV8-10 year
-p154
-g8
-sV3-4 years
-p155
-g6
-sVone year
-p156
-g10
-sV15+ years
-p157
-g67
-sV5-6 year
-p158
-g8
-sV2years
-p159
-g10
-sV0\u005cnyear
-p160
-g54
-sV5 - 10 year
-p161
-g8
+p115
+g5
+sS'8-10 year'
+p116
+g7
+sS'one year'
+p117
+g9
+sS'5-6 year'
+p118
+g7
+sS'2years'
+p119
+g9
 sV5-8 year
-p162
-g8
-sVfive year
-p163
-g6
-sV7 - 10 year
-p164
-g8
-sV20 years
-p165
-g67
-sV4+ years
-p166
-g6
-sV0-5 year
-p167
-g6
-sV2 - 4 years
-p168
-g6
+p120
+g7
+sS'five year'
+p121
+g5
+sVthree year
+p122
+g5
+sS'0-5 year'
+p123
+g5
 sV6+ year
-p169
-g8
-sV7-10 year
-p170
-g8
-sV10-12 years
-p171
-g3
+p124
+g7
+sS'7-10 year'
+p125
+g7
+sS'3 year'
+p126
+g5
 sV10+ year
-p172
+p127
 g3
 sV5-7 year
-p173
-g8
-sV6 - 8 year
-p174
-g8
-sV8+ years
-p175
-g8
-sV3-10 years
-p176
-g8
-sVfour years
-p177
-g6
-sVfive years
-p178
-g6
-sV4-6years
-p179
-g6
-sV07-09 year
-p180
-g8
+p128
+g7
+sS'6 - 8 year'
+p129
+g7
+sS'0+ year'
+p130
+g9
+sS'4-6years'
+p131
+g5
+sS'07-09 year'
+p132
+g7
 sV1-2 year
-p181
-g10
-sV2-6 year
-p182
-g6
-sV1-6 year
-p183
-g6
-sV3 years
-p184
-g6
-sV6years
-p185
-g8
-sV20 year
-p186
-g67
-sV3-8 year
-p187
-g8
-sV4 years
-p188
-g6
-sV2 years
-p189
-g10
-sV8years
-p190
-g8
-sV25 years
-p191
-g34
-sV3-10 year
-p192
-g8
-sV3 - 8 year
-p193
-g6
-sV8-12 year
-p194
-g8
-sV10-20 years
-p195
+p133
+g9
+sS'2-6 year'
+p134
+g5
+sS'1-6 year'
+p135
+g5
+sS'13+ year'
+p136
 g3
-sV8-12 years
-p196
-g8
+sV20 year
+p137
+g49
+sS'3-8 year'
+p138
+g7
+sVten year
+p139
+g7
+sS'5 - 7 year'
+p140
+g7
+sV3-10 year
+p141
+g7
+sS'3 - 8 year'
+p142
+g5
+sS'8-12 year'
+p143
+g7
+sS'4nyear'
+p144
+g5
 sV3-4 year
-p197
-g6
-sV9+ year
-p198
-g8
-sV18+ year
-p199
-g67
+p145
+g5
+sS'9+ year'
+p146
+g7
+sS'18+ year'
+p147
+g49
 sV5 year
-p200
-g6
-sVfour-years
-p201
-g6
-sV5-10 years
-p202
-g8
-sV2-4 years
-p203
-g6
-sVten years
-p204
-g8
+p148
+g5
+sS'four-years'
+p149
+g5
+sS'10-15 year'
+p150
+g3
 s.

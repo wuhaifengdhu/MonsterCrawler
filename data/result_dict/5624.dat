@@ -19,25 +19,19 @@ p10
 asS'working-year'
 p11
 (lp12
-V[0]
+S'[0]'
 p13
 asS'major'
 p14
 (lp15
-S'science'
+VData Science
 p16
-aS'data science'
-p17
-aS'artificial intelligence'
-p18
-aS'automation'
-p19
 asS'education'
+p17
+(lp18
+S'Bachelor'
+p19
+asS'responsibility'
 p20
 (lp21
-S'Bachelor'
-p22
-asS'responsibility'
-p23
-(lp24
 s.

@@ -1,5 +1,5 @@
-skills: {'java': 1, 'big data': 1, 'python': 1, 'communication': 1, 'processing': 1, 'data scientist': 1, 'hive': 1, 'machine learning': 1, 'computer science': 1, 'sql': 1, 'natural language processing': 1, 'modeling': 1, 'spark': 1, 'data': 1, 'statistical programming': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'business': 1, 'big data': 1, 'communication': 1, 'natural language processing': 1, 'phd': 1, 'computer science engineering': 1, 'computer science': 1, 'statistic': 1, 'machine learning': 1}
-education: {u'Master': 1, u'Doctor': 1}
-responsibility: {'modeling': 1, 'product': 1, 'processing': 1, 'ownership': 1}
+skills: {'programming': 0.006846678477235254, 'communication': 0.00983335005658917, 'engineering': 0.007607793646420215, 'statistics': 0.0057920053093329475, 'java': 0.007697310358188095, 'big data': 0.007905125008463774, 'deep learning': 0.01934497939685373, 'computer science': 0.008732815299299507, 'natural language processing': 0.015564957341368339, 'numpy': 0.02228248634228254, 'pandas': 0.025546847647401744, 'python': 0.0032375870357345712, 'processing': 0.010143404265035528, 'data scientist': 0.006579948230831542, 'sql': 0.004235676141820168, 'modeling': 0.005044383161624549, 'spark': 0.010472892070283592, 'db2': 0.03080950921854974, 'data': 0.0022099656125678185, 'statistical programming': 0.0261423773127432, 'fraud': 0.024297242705641542, 'science': 0.004366670113006785, 'scikit-learn': 0.02228248634228254, 'hive': 0.012954995338447245, 'machine learning': 0.004071538644931921, 'optimization': 0.01242241526328287}
+working-year: {u'(0, 2]': 0.014146460646522691, u'(2, 5]': 0.00769530700888904}
+major: {u'Engineering': 0.013989931222153586, u'Statistics': 0.011189470620422857, u'Computer Science': 0.0056233276170943956, u'Business': 0.006718722653255367}
+education: {u'Master': 0.004517271336796129, u'Doctor': 0.006765104172524646}
+responsibility: {'modeling': 0.005044383161624549, 'product': 0.008353993110048115, 'processing': 0.010143404265035528, 'optimization': 0.01242241526328287, 'ownership': 0.024473872360791227}

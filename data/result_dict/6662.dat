@@ -2,21 +2,21 @@
 S'skills'
 p2
 (lp3
-S'nosql'
+S'databases'
 p4
-aS'analytics'
+aS'nosql'
 p5
-aS'unix'
+aS'analytics'
 p6
-aS'ansible'
+aS'unix'
 p7
-aS'data warehousing'
+aS'ansible'
 p8
-aS'troubleshooting'
+aS'data warehousing'
 p9
-aS'linux'
+aS'troubleshooting'
 p10
-aS'continuous improvement'
+aS'linux'
 p11
 aS'amazon web services'
 p12
@@ -34,80 +34,82 @@ aS'advanced analytics'
 p18
 aS'jenkins'
 p19
-aS'python'
-p20
-aS'mongodb'
-p21
-aS'processing'
-p22
-aS'data scientist'
-p23
-aS'automation'
-p24
-aS'data processing'
-p25
-aS'data'
-p26
-aS'software development'
-p27
-aS'engineering'
-p28
-aS'analysis'
-p29
 aS'advertising'
+p20
+aS'python'
+p21
+aS'mongodb'
+p22
+aS'processing'
+p23
+aS'data scientist'
+p24
+aS'automation'
+p25
+aS'data processing'
+p26
+aS'sql'
+p27
+aS'data'
+p28
+aS'software development'
+p29
+aS'engineering'
 p30
-aS'emr'
+aS'analysis'
 p31
-aS'scripting'
+aS'optimization'
 p32
-asS'working-year'
+aS'architecture'
 p33
-(lp34
-V(2, 5]
+aS'emr'
+p34
+aS'scripting'
 p35
-asS'major'
+asS'working-year'
 p36
 (lp37
-S'business'
+V(2, 5]
 p38
-aS'big data'
+asS'major'
 p39
-aS'automation'
-p40
-aS'analytics'
+(lp40
+VData Science
 p41
-aS'engineering'
+aVEngineering
 p42
-aS'design'
+aVBusiness
 p43
-aS'advanced analytics'
-p44
 asS'education'
-p45
-(lp46
+p44
+(lp45
 S'Bachelor'
-p47
+p46
 asS'responsibility'
-p48
-(lp49
+p47
+(lp48
 S'development'
-p50
+p49
 aS'product'
-p51
+p50
 aS'processing'
+p51
+aS'identify opportunity'
 p52
 aS'business problem'
 p53
-aVinsight
+aS'insight'
 p54
-aS'recommendation'
+aS'communicate'
 p55
 aS'analysis'
 p56
-aS'design'
+aS'optimization'
 p57
-aS'identify opportunity'
+aS'design'
 p58
-aS'implement'
+aS'recommendation'
 p59
+aS'implement'
+p60
 as.

@@ -2,13 +2,13 @@
 S'skills'
 p2
 (lp3
-S'supply chain'
+S'communication'
 p4
-aS'communication'
-p5
 aS'energy'
-p6
+p5
 aS'presentation skills'
+p6
+aS'rest'
 p7
 aS'analytics'
 p8
@@ -16,25 +16,25 @@ aS'engineering'
 p9
 aS'operational excellence'
 p10
-aS'management'
+aS'regression'
 p11
-aS'team building'
+aS'management'
 p12
-aS'computer science'
+aS'team building'
 p13
-aS'innovation'
+aS'computer science'
 p14
-aS'performance management'
+aS'innovation'
 p15
-aS'process optimization'
+aS'performance management'
 p16
-aS'python'
+aS'process optimization'
 p17
-aS'gas'
+aS'python'
 p18
 aS'collaboration'
 p19
-aS'data scientist'
+aS'gas'
 p20
 aS'apache spark'
 p21
@@ -50,64 +50,59 @@ aS'manufacturing'
 p26
 aS'data'
 p27
-aS'science'
+aS'c'
+aS'windows'
 p28
-aS'programming'
-p29
-aS'machine learning'
-p30
-aS'optimization'
-p31
-aS'english'
-p32
-aS'predictive analytics'
-p33
-asS'working-year'
-p34
-(lp35
-V(2, 5]
-p36
-asS'major'
-p37
-(lp38
-S'information'
-p39
-aS'management'
-p40
 aS'science'
-p41
-aS'communication'
-p42
+p29
+aS'programming'
+p30
 aS'machine learning'
-p43
-aS'analytics'
-p44
-aS'engineering'
-p45
-aS'design'
-p46
-aS'chemical engineering'
-p47
-aS'english'
-p48
-aS'computer science'
-p49
-aS'predictive analytics'
-p50
-asS'education'
-p51
-(lp52
-S'Bachelor'
-p53
-asS'responsibility'
-p54
-(lp55
-S'design'
-p56
+p31
 aS'optimization'
-p57
-aS'presentation'
-p58
+p32
+aS'english'
+p33
+aS'predictive analytics'
+p34
+asS'working-year'
+p35
+(lp36
+V(2, 5]
+p37
+asS'major'
+p38
+(lp39
+VBusiness
+p40
+aVData Science
+p41
+aVEngineering
+p42
+aVChemical Engineering
+p43
+aVManagement Science and Engineering
+p44
+aVComputer Science
+p45
+asS'education'
+p46
+(lp47
+VBachelor
+p48
+asS'responsibility'
+p49
+(lp50
+S'development'
+p51
 aS'information'
-p59
+p52
+aS'optimization'
+p53
+aS'design'
+p54
+aS'presentation'
+p55
+aS'transformation'
+p56
 as.

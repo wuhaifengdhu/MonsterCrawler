@@ -40,97 +40,89 @@ aS'computer science'
 p21
 aS'natural language processing'
 p22
-aS'apache hive'
+aS'mathematics'
 p23
-aS'sqoop'
+aS'apache hive'
 p24
-aS'python'
-p25
 aS'scrum'
+p25
+aS'python'
 p26
-aS'data scientist'
+aS'processing'
 p27
-aS'sql'
+aS'data scientist'
 p28
-aS'apache'
+aS'sql'
 p29
-aS'spark'
+aS'apache'
 p30
-aS'pig'
+aS'modeling'
 p31
-aS'data'
+aS'spark'
 p32
-aS'analytics'
+aS'pig'
 p33
-aS'science'
+aS'data'
 p34
-aS'programming'
+aS'analytics'
 p35
-aS'hive'
+aS'science'
 p36
-aS'machine learning'
+aS'programming'
 p37
+aS'hive'
+p38
+aS'machine learning'
+p39
 aS'r'
 aS'solr'
-p38
-aS'etl'
-p39
-aS'organization'
 p40
-aS'scripting'
+aS'etl'
 p41
-asS'working-year'
+aS'organization'
 p42
-(lp43
-V(5, 10]
+aS'sqoop'
+p43
+aS'scripting'
 p44
-aV(2, 5]
+asS'working-year'
 p45
-asS'major'
-p46
-(lp47
-S'information'
+(lp46
+V(5, 10]
+p47
+aV(2, 5]
 p48
-aS'information systems'
+asS'major'
 p49
-aS'business'
-p50
-aS'science'
+(lp50
+VMathematics
 p51
-aS'data science'
+aVData Science
 p52
-aS'data mining'
+aVInformation Science
 p53
-aS'statistic'
+aVComputer Science
 p54
-aS'machine learning'
+aVBusiness
 p55
-aS'analytics'
-p56
-aS'information system'
-p57
-aS'computer science'
-p58
-aS'natural language processing'
-p59
-aS'ee computer science'
-p60
-aS'data analytics'
-p61
 asS'education'
-p62
-(lp63
+p56
+(lp57
 VBachelor
-p64
+p58
 asS'responsibility'
-p65
-(lp66
+p59
+(lp60
 S'development'
-p67
+p61
 aS'information'
-p68
-aS'model'
-p69
+p62
+aS'processing'
+p63
 aS'data mining'
-p70
+p64
+aS'modeling'
+p65
+aS'model'
+p66
 as.

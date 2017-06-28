@@ -4,157 +4,139 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
+F0.018193218105849531
 sS'data science'
 p5
-I1
-sS'problem solving'
+F0.0056471404960591514
+sS'sales'
 p6
-I1
-sS'education'
+F0.015608472958643212
+sS'problem solving'
 p7
-I1
-sS'big data'
+F0.011523999365977705
+sS'education'
 p8
-I1
-sS'research'
+F0.009852707745602202
+sS'networking'
 p9
-I1
-sS'access'
+F0.017053481890332334
+sS'big data'
 p10
-I1
+F0.0059752353350359978
 sS'innovation'
 p11
-I1
-sS'collaboration'
+F0.027265136227249631
+sS'research'
 p12
-I1
-sS'artificial intelligence'
+F0.0080108952268707814
+sS'access'
 p13
-I1
-sS'python'
-p14
-I1
-sS'customer service'
-p15
-I1
+F0.01088949307557021
 sS'marketing'
-p16
-I1
-sS'processing'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'leadership'
-p19
-I1
-sS'data processing'
-p20
-I1
-sS'organization'
-p21
-I1
-sS'b2b'
-p22
-I1
-sS'science'
-p23
-I1
-sS'programming'
-p24
-I1
-sS'machine learning'
-p25
-I1
-sS'data architecture'
-p26
-I1
-sS'r'
-I1
-sS'architecture'
-p27
-I1
-sS'english'
-p28
-I1
+p14
+F0.0089446691196129052
 sS'unstructured data'
+p15
+F0.01497093161245615
+sS'artificial intelligence'
+p16
+F0.012993504976876832
+sS'python'
+p17
+F0.0024471902007195587
+sS'customer service'
+p18
+F0.01609633681966029
+sS'collaboration'
+p19
+F0.012007837652927015
+sS'processing'
+p20
+F0.0076670802191113616
+sS'data scientist'
+p21
+F0.0049735758927881612
+sS'leadership'
+p22
+F0.0077577869540085545
+sS'data processing'
+p23
+F0.017256894825015849
+sS'data'
+p24
+F0.00055681449706325317
+sS'b2b'
+p25
+F0.016317956110789549
+sS'science'
+p26
+F0.0066012571661417125
+sS'programming'
+p27
+F0.005175188895938385
+sS'machine learning'
+p28
+F0.0030775479898311705
+sS'data architecture'
 p29
-I1
-sS'data analytics'
+F0.019049171618851189
+sS'r'
+F0.0026055976836335268
+sS'architecture'
 p30
-I1
-ssS'working-year'
+F0.01026767381542093
+sS'english'
 p31
-(dp32
-V(0, 2]
+F0.015858914795556376
+sS'organization'
+p32
+F0.0082778584003834806
+sS'data analytics'
 p33
-I1
-ssS'major'
+F0.0095883693966469351
+ssS'working-year'
 p34
 (dp35
-S'business'
+V(0, 2]
 p36
-I1
-sS'big data'
+F0.010692864620141565
+ssS'major'
 p37
-I1
-sS'marketing'
-p38
-I1
-sS'data science'
+(dp38
+VData Science
 p39
-I1
-sS'english'
+F0.0048229529699768204
+sVEconomics
 p40
-I1
-sS'machine learning'
+F0.0077031528052791589
+sVComputer Science
 p41
-I1
-sS'design'
+F0.0042504964617474071
+sVBusiness
 p42
-I1
-sS'data analytics'
-p43
-I1
-sS'machine learning big data'
-p44
-I1
-sS'statistic'
-p45
-I1
-sS'phd'
-p46
-I1
-sS'artificial intelligence'
-p47
-I1
-sS'science'
-p48
-I1
+F0.0050784711134934943
 ssS'education'
-p49
-(dp50
+p43
+(dp44
 VDoctor
-p51
-I1
+p45
+F0.0051135294449599442
 ssS'responsibility'
-p52
-(dp53
+p46
+(dp47
 S'report'
-p54
-I1
+p48
+F0.019486163569694168
 sS'presentation'
-p55
-I1
+p49
+F0.011565043860608483
 sS'processing'
-p56
-I1
+p50
+F0.0076670802191113616
 sS'design'
-p57
-I1
+p51
+F0.0068564263381149185
 sS'understand'
-p58
-I1
+p52
+F0.019734082755345307
 ss.

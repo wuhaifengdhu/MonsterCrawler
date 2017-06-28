@@ -1,247 +1,448 @@
-seneca_resource
-client
-driven
-provider
-strategic
-information
-technology
-consulting
-service
-workforce
-solution
-government
-industry
-leading
-service_provider
-headquartered_reston
-va
-office
-richmond_va
-birmingham
-al
-columbia_md
-service
-client
-throughout_united
-state
-key
-success_lie
-within
-strong
-corporate_culture
-drive
-business
-challenge
-staff_engaging
-work
-reward_staff
-competitive_compensation
-extensive
-professional
-training
-excellent
-opportunity
-career_advancement
-turn_look
-best_brightest
-join_team
-position
-data_scientist
-location
-bethesda_md
-employment_type
-full_time
-direct_hire
-compensation
-competitive
-position_overview
-ideal_candidate
-experience
-providing
-advisory
-implementation
-expertise
-leverage
-tool
-process_procedure
-create
-manipulate
-manage
-large
-data_set
-may_include
-analytics
-strategy
-business_case
-development
-cognitive_computing
-machine_learning
-ai
-natural_language
-processing
-candidate_must
-posse
-proven
-experience
-delivering
-advanced_analytics
-position_requires
-strong_oral
-written_communication
-skill
-including
-presentation_skill
-m_visio
-m_powerpoint
-well
-strong
-problem_solving
-troubleshooting
-skill
-ability
-exercise_mature
-judgment
-candidate
-also
-work_closely
-senior_management
-develop
-document
-transfer
-knowledge
-development
-new
-service_offering
-responsibility
-leverage
-tool
-process_procedure
-create
-manipulate
-manage
-large
-data_set
-apply
-machine_learning
-technique
-conduct
-insightful
-research
-build
-project
-leverage
-internal
-third-party
-public
-data
-develop
-high_performance
-computing
-data
-science
-application
-across_multiple
-platform
-test
-launch
-troubleshoot
-accurately_measure
-performance
-solution
-communicate_finding
-technical_non-technical
-audience
-requirement
-experience
-common
-data
-science_toolkits
-r_python
-sa
-experience
-data
-visualization_tool
-tableau
-experienced
-utilizing
-visualization_technique
-standard_charting
-three
-dimensional
-graph
-heatmaps
-trellis
-diagams
-etc
-proficiency
-using
-query_language
-sql_hive
-experience
-nosql_database
-hbase_mongodb
-etc
-skill
-social_network
-analysis
-text_mining
-experimental_design
-etc
-plus
-experience
-developing
-simulation
-using
-standard
-coding
-language
-plus
-strong
-scripting
-skill
-coding_skill
-popular
-language_python
-r
-java
-bachelor
-master's_degree
-mathematics_computer
-science
-related_field
-minimum_3
-year
-related
-work
-experience
-experience
-working
-environment
-utilizing
-current
-leading_edge
-technology
-preferred
-ability
-work
-effectively
-dynamic_environment
-managing_multiple
-priority
-ability_translate
-complex
-information
-idea_effectively
-communicate
-strong
-cross-functional_team
-collaboration
-skill
-excellent_written
-verbal_communication
-skill
-strong
-facilitation
-presentation_skill
-strong_analytical
-skill
+(lp1
+Vseneca resource
+p2
+aVclient
+p3
+aVdriven
+p4
+aVprovider
+p5
+aVstrategic
+p6
+aVinformation technology
+p7
+aVconsulting service
+p8
+aVworkforce
+p9
+aVsolution
+p10
+aVgovernment
+p11
+aVindustry leading
+p12
+aVservice provider
+p13
+aVheadquartered reston
+p14
+aVva
+p15
+aVoffice
+p16
+aVrichmond va
+p17
+aVbirmingham
+p18
+aVal
+p19
+aVcolumbia md
+p20
+aVservice
+p21
+aVclient
+p22
+aVthroughout united
+p23
+aVstate
+p24
+aVkey success
+p25
+aVlie within
+p26
+aVstrong
+p27
+aVcorporate culture
+p28
+aVdrive business
+p29
+aVchallenge
+p30
+aVstaff engaging
+p31
+aVwork
+p32
+aVreward staff
+p33
+aVcompetitive compensation
+p34
+aVextensive professional
+p35
+aVtraining
+p36
+aVexcellent
+p37
+aVopportunity
+p38
+aVcareer advancement
+p39
+aVturn look
+p40
+aVbest brightest
+p41
+aVjoin team
+p42
+aVposition
+p43
+aVdata scientist
+p44
+aVlocation
+p45
+aVbethesda md
+p46
+aVemployment type
+p47
+aVfull time
+p48
+aVdirect hire
+p49
+aVcompensation
+p50
+aVcompetitive
+p51
+aVposition overview
+p52
+aVideal candidate
+p53
+aVexperience
+p54
+aVproviding
+p55
+aVadvisory
+p56
+aVimplementation
+p57
+aVexpertise
+p58
+aVleverage
+p59
+aVtool
+p60
+aVprocess procedure
+p61
+aVcreate
+p62
+aVmanipulate
+p63
+aVmanage large
+p64
+aVdata set
+p65
+aVmay include
+p66
+aVanalytics
+p67
+aVstrategy
+p68
+aVbusiness case
+p69
+aVdevelopment
+p70
+aVcognitive computing
+p71
+aVmachine learning
+p72
+aVai
+p73
+aVnatural language
+p74
+aVprocessing
+p75
+aVcandidate must
+p76
+aVposse
+p77
+aVproven
+p78
+aVexperience
+p79
+aVdelivering
+p80
+aVadvanced analytics
+p81
+aVposition requires
+p82
+aVstrong oral
+p83
+aVwritten communication
+p84
+aVskill
+p85
+aVincluding
+p86
+aVpresentation skill
+p87
+aVm visio
+p88
+aVm powerpoint
+p89
+aVwell
+p90
+aVstrong
+p91
+aVproblem solving
+p92
+aVtroubleshooting skill
+p93
+aVability exercise
+p94
+aVmature judgment
+p95
+aVcandidate also
+p96
+aVwork closely
+p97
+aVsenior management
+p98
+aVdevelop
+p99
+aVdocument
+p100
+aVtransfer knowledge
+p101
+aVdevelopment
+p102
+aVnew
+p103
+aVservice offering
+p104
+aVresponsibility
+p105
+aVleverage
+p106
+aVtool
+p107
+aVprocess procedure
+p108
+aVcreate
+p109
+aVmanipulate
+p110
+aVmanage large
+p111
+aVdata set
+p112
+aVapply
+p113
+aVmachine learning
+p114
+aVtechnique
+p115
+aVconduct
+p116
+aVinsightful
+p117
+aVresearch
+p118
+aVbuild
+p119
+aVproject
+p120
+aVleverage
+p121
+aVinternal
+p122
+aVthird-party
+p123
+aVpublic
+p124
+aVdata
+p125
+aVdevelop
+p126
+aVhigh performance
+p127
+aVcomputing
+p128
+aVdata science
+p129
+aVapplication
+p130
+aVacross multiple
+p131
+aVplatform
+p132
+aVtest
+p133
+aVlaunch
+p134
+aVtroubleshoot
+p135
+aVaccurately measure
+p136
+aVperformance
+p137
+aVsolution
+p138
+aVcommunicate finding
+p139
+aVtechnical non-technical
+p140
+aVaudience
+p141
+aVrequirement
+p142
+aVexperience
+p143
+aVcommon
+p144
+aVdata science
+p145
+aVtoolkits r
+p146
+aVpython sa
+p147
+aVexperience
+p148
+aVdata visualization
+p149
+aVtool tableau
+p150
+aVexperienced
+p151
+aVutilizing
+p152
+aVvisualization technique
+p153
+aVstandard charting
+p154
+aVthree
+p155
+aVdimensional
+p156
+aVgraph
+p157
+aVheatmaps
+p158
+aVtrellis
+p159
+aVdiagams
+p160
+aVetc
+p161
+aVproficiency using
+p162
+aVquery language
+p163
+aVsql hive
+p164
+aVexperience
+p165
+aVnosql database
+p166
+aVhbase mongodb
+p167
+aVetc
+p168
+aVskill
+p169
+aVsocial network
+p170
+aVanalysis
+p171
+aVtext mining
+p172
+aVexperimental design
+p173
+aVetc
+p174
+aVplus
+p175
+aVexperience developing
+p176
+aVsimulation
+p177
+aVusing
+p178
+aVstandard
+p179
+aVcoding language
+p180
+aVplus
+p181
+aVstrong
+p182
+aVscripting
+p183
+aVskill
+p184
+aVcoding skill
+p185
+aVpopular
+p186
+aVlanguage python
+p187
+aVr java
+p188
+aVbachelor master's
+p189
+aVdegree mathematics
+p190
+aVcomputer science
+p191
+aVrelated field
+p192
+aVminimum 3
+p193
+aVyear related
+p194
+aVwork
+p195
+aVexperience
+p196
+aVexperience working
+p197
+aVenvironment
+p198
+aVutilizing
+p199
+aVcurrent
+p200
+aVleading edge
+p201
+aVtechnology
+p202
+aVpreferred
+p203
+aVability work
+p204
+aVeffectively
+p205
+aVdynamic environment
+p206
+aVmanaging multiple
+p207
+aVpriority
+p208
+aVability translate
+p209
+aVcomplex
+p210
+aVinformation
+p211
+aVidea effectively
+p212
+aVcommunicate
+p213
+aVstrong
+p214
+aVcross-functional team
+p215
+aVcollaboration skill
+p216
+aVexcellent written
+p217
+aVverbal communication
+p218
+aVskill
+p219
+aVstrong
+p220
+aVfacilitation
+p221
+aVpresentation skill
+p222
+aVstrong analytical
+p223
+aVskill
+p224
+a.

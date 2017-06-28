@@ -2,100 +2,91 @@
 S'skills'
 p2
 (dp3
-S'field work'
+S'word'
 p4
-I1
-sS'word'
-p5
-I1
-sS'performance management'
-p6
-I1
-sS'data scientist'
-p7
-I1
-sS'human resources'
-p8
-I1
-sS'leadership development'
-p9
-I1
-sS'excel'
-p10
-I1
-sS'data'
-p11
-I1
-sS'research'
-p12
-I1
-sS'talent management'
-p13
-I1
-sS'leadership'
-p14
-I1
-sS'troubleshooting'
-p15
-I1
-sS'problem solving'
-p16
-I1
+F0.014833343939883599
 sS'automotive'
-p17
-I1
+p5
+F0.022592491847527308
+sS'leadership development'
+p6
+F0.024204440590665285
+sS'human resources'
+p7
+F0.026384739277587808
+sS'data scientist'
+p8
+F0.0056349556657653097
+sS'excel'
+p9
+F0.0086008203553514118
+sS'data'
+p10
+F0.00063085897805570694
+sS'research'
+p11
+F0.0045380869237326505
+sS'talent management'
+p12
+F0.030592844365075138
+sS'leadership'
+p13
+F0.026368222678784393
+sS'troubleshooting'
+p14
+F0.020002034392203168
+sS'problem solving'
+p15
+F0.013056446090176867
 sS'communication'
-p18
-I1
+p16
+F0.0084211136122917894
 sS'strategy'
-p19
-I1
+p17
+F0.016755440757732287
 sS'microsoft office'
-p20
-I1
+p18
+F0.010214906621770338
 sS'powerpoint'
+p19
+F0.013016087270926874
+sS'project management'
+p20
+F0.010114113421939075
+sS'performance management'
 p21
-I1
-sS'project management'
-p22
-I1
+F0.025240538761243821
 ssS'working-year'
-p23
-(dp24
-V[0]
-p25
-I1
+p22
+(dp23
+S'[0]'
+p24
+F0.011681993247576503
 ssS'major'
-p26
-(dp27
-S'information'
+p25
+(dp26
+VBusiness
+p27
+F0.0057537997190112459
+sVManagement Science and Engineering
 p28
-I1
-sS'project management'
-p29
-I1
-sS'business'
-p30
-I1
-sS'communication'
-p31
-I1
+F0.0068592794599409172
 ssS'education'
-p32
-(dp33
+p29
+(dp30
 VBachelor
-p34
-I1
+p31
+F0.0048477597216484399
 sVMaster
-p35
-I1
+p32
+F0.0038685142831073236
 ssS'responsibility'
-p36
-(dp37
+p33
+(dp34
 S'development'
-p38
-I1
+p35
+F0.012882563855469346
 sS'information'
-p39
-I1
+p36
+F0.0073782191464329501
 ss.

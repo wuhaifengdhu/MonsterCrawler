@@ -4,106 +4,108 @@ p2
 (dp3
 S'xml'
 p4
-I1
+F0.015392116427362589
+sS'a'
+F0.0087385135215608707
 sS'search'
 p5
-I1
-sS'data analysis'
-p6
-I1
-sS'sql server'
-p7
-I1
-sS'data science'
-p8
-I1
+F0.014495279334811997
 sS'javascript'
+p6
+F0.010361890719728709
+sS'finance'
+p7
+F0.012407224552260225
+sS'sql server'
+p8
+F0.013073964809713184
+sS'data science'
 p9
-I1
-sS'programming'
-p10
-I1
-sS'c'
-I1
-sS'analysis'
-p11
-I1
-sS'strategy'
-p12
-I1
-sS'credit'
-p13
-I1
-sS'trading'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'sql'
-p16
-I1
-sS'accounting'
-p17
-I1
+F0.0056207519890682199
 sS'government'
+p10
+F0.024365602949803413
+sS'programming'
+p11
+F0.0051510057702564291
+sS'c'
+F0.0058440276817668096
+sS'analysis'
+p12
+F0.001601022064271635
+sS'strategy'
+p13
+F0.014719733002119951
+sS'credit'
+p14
+F0.014848293571203956
+sS'data analysis'
+p15
+F0.0069334673596526406
+sS'trading'
+p16
+F0.019667863305381568
+sS'computer science'
+p17
+F0.006570015248538414
+sS'sql'
 p18
-I1
-sS'data'
+F0.0031866535459488181
+sS'accounting'
 p19
-I1
+F0.020608830786756335
 sS'visual basic'
 p20
-I1
-ssS'working-year'
+F0.018526285436349606
+sS'data'
 p21
-(dp22
+F0.0033252753609665305
+ssS'working-year'
+p22
+(dp23
 V(20, 30)
-p23
-I1
-sV(2, 5]
 p24
-I1
-ssS'major'
+F0.025463434534869114
+sV(2, 5]
 p25
-(dp26
-S'information'
-p27
-I1
-sS'data science'
+F0.0057894599459398849
+ssS'major'
+p26
+(dp27
+VData Science
 p28
-I1
-sS'data analyst'
+F0.0048004158065657132
+sVEconomics
 p29
-I1
-sS'finance accounting'
+F0.0076671567641329944
+sVComputer Science
 p30
-I1
-sS'computer science'
+F0.004230634328748587
+sVBusiness
 p31
-I1
-sS'accounting'
-p32
-I1
+F0.0050547399400659538
 ssS'education'
-p33
-(dp34
-S'Bachelor'
+p32
+(dp33
+VBachelor
+p34
+F0.0042587795685509657
+sVMaster
 p35
-I1
+F0.0033985078748793311
 ssS'responsibility'
 p36
 (dp37
-S'large data set'
+S'information'
 p38
-I1
+F0.012963599995601817
 sS'data analysis'
 p39
-I1
+F0.0069334673596526406
 sS'analysis'
 p40
-I1
-sS'information'
+F0.001601022064271635
+sS'large data set'
 p41
-I1
+F0.014693724931461991
 ss.

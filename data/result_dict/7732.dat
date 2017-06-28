@@ -2,146 +2,140 @@
 S'skills'
 p2
 (lp3
-S'testing'
+S'nosql'
 p4
-aS'integration'
+aS'testing'
 p5
-aS'hardware'
+aS'integration'
 p6
-aS'analytics'
+aS'hardware'
 p7
-aS'unix'
+aS'analytics'
 p8
-aS'troubleshooting'
+aS'unix'
 p9
-aS'system administration'
+aS'troubleshooting'
 p10
-aS'linux'
+aS'system administration'
 p11
-aS'data analytics'
+aS'linux'
 p12
-aS'management'
+aS'hbase'
 p13
-aS'genetics'
+aS'management'
 p14
-aS'big data'
+aS'genetics'
 p15
-aS'data migration'
+aS'big data'
 p16
-aS'datastage'
+aS'data migration'
 p17
-aS'hadoop'
+aS'datastage'
 p18
-aS'research'
+aS'hadoop'
 p19
-aS'teamwork'
+aS'research'
 p20
-aS'policy'
+aS'teamwork'
 p21
-aS'linux system administration'
+aS'policy'
 p22
-aS'operating systems'
+aS'linux system administration'
 p23
-aS'government'
+aS'operating systems'
 p24
-aS'database design'
+aS'government'
 p25
-aS'data scientist'
+aS'database design'
 p26
-aS'leadership'
+aS'data scientist'
 p27
-aS'mentoring'
+aS'hive'
 p28
-aS'performance tuning'
+aS'oracle'
 p29
-aS'extract transform load etl'
+aS'leadership'
 p30
-aS'data'
+aS'mentoring'
 p31
-aS'database management'
+aS'performance tuning'
 p32
-aS'science'
+aS'extract transform load etl'
 p33
-aS'engineering'
+aS'data'
 p34
-aS'analysis'
+aS'database management'
 p35
-aS'etl'
+aS'mysql'
 p36
-aS'netezza'
+aS'engineering'
 p37
-aS'security'
+aS'analysis'
 p38
-aS'validation'
+aS'securities'
 p39
-aS'scripting'
+aS'etl'
 p40
-asS'working-year'
+aS'netezza'
 p41
-(lp42
-V(5, 10]
+aS'validation'
+p42
+aS'options'
 p43
-aV(10, 15]
+aS'scripting'
 p44
-asS'major'
+asS'working-year'
 p45
 (lp46
-S'information'
+V(5, 10]
 p47
-aS'management'
+aV(10, 15]
 p48
-aS'genetics'
+asS'major'
 p49
-aS'business'
-p50
-aS'big data'
+(lp50
+VBiological Engineering
 p51
-aS'science'
+aVData Science
 p52
-aS'data analyst'
+aVEngineering
 p53
-aS'analytics'
+aVBusiness
 p54
-aS'engineering'
+aVManagement Science and Engineering
 p55
-aS'design'
-p56
-aS'data analytics'
-p57
 asS'education'
+p56
+(lp57
+VBachelor
 p58
-(lp59
-S'Bachelor'
-p60
+aVMaster
+p59
 asS'responsibility'
-p61
-(lp62
+p60
+(lp61
 S'information'
-p63
+p62
 aS'product'
-p64
-aVinsight
-p65
+p63
 aS'manage data'
-p66
+p64
 aS'analysis'
-p67
+p65
 aS'improvement'
-p68
+p66
 aS'interface'
-p69
+p67
 aS'design'
-p70
-aS'solve problem'
-p71
+p68
 aS'recommendation'
-p72
+p69
 aS'report'
-p73
+p70
 aS'implement'
-p74
+p71
 aS'extract'
-p75
+p72
 aS'transformation'
-p76
+p73
 as.

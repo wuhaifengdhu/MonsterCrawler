@@ -1,5 +1,5 @@
-skills: {'nlp': 1, 'search': 1, 'java': 1, 'classification': 1, 'communication': 1, 'data science': 1, 'processing': 1, 'data scientist': 1, 'analysis': 1, 'machine learning': 1, 'lucene': 1, 'computer science': 1, 'data processing': 1, 'modeling': 1, 'data': 1, 'unstructured data': 1, 'cassandra': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'communication': 1, 'data science': 1, 'computer science statistics': 1, 'phd': 1, 'computer science': 1, 'statistic': 1, 'machine learning': 1}
-education: {u'Master': 1, u'Doctor': 1}
-responsibility: {'development': 1, 'processing': 1, 'mapping': 1, 'analysis': 1, 'ownership': 1, 'modeling': 1, 'implement': 1}
+skills: {'data': 0.0024105993470421323, 'nlp': 0.013960568774627462, 'search': 0.0630485727164587, 'statistics': 0.003790702661799206, 'java': 0.005037670600277576, 'classification': 0.025653348792342108, 'communication': 0.01930694340379093, 'data science': 0.004889597258782924, 'processing': 0.019915708374033173, 'data scientist': 0.004306388882779994, 'analysis': 0.002785518063041707, 'machine learning': 0.0026647061863172335, 'lucene': 0.021499321496693678, 'computer science': 0.005715379118647239, 'data processing': 0.014941945519221041, 'science': 0.002857861334122327, 'organization': 0.007167413980819843, 'modeling': 0.0033014052399250103, 'solr': 0.016861500688571722, 'cassandra': 0.015302465538864541}
+working-year: {u'(5, 10]': 0.0049009929332392635, u'(2, 5]': 0.005036359465167218}
+major: {u'Data Science': 0.00417597147400432, u'Statistics': 0.007323190121496261, u'Computer Science': 0.003680307912000804}
+education: {u'Master': 0.0029564255496917764, u'Doctor': 0.0044275681779531225}
+responsibility: {'development': 0.004922605700870402, 'processing': 0.019915708374033173, 'mapping': 0.05212048425470395, 'analysis': 0.002785518063041707, 'ownership': 0.03203490609827145, 'modeling': 0.0033014052399250103, 'implement': 0.03443679959544078}

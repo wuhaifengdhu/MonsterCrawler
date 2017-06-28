@@ -1,5 +1,5 @@
-skills: {'search': 1, 'management': 1, 'software engineering': 1, 'big data': 1, 'user experience': 1, 'recruiting': 1, 'energy': 1, 'lead generation': 1, 'data scientist': 1, 'time management': 1, 'data architecture': 1, 'data engineering': 1, 'engineering': 1, 'architecture': 1, 'innovation': 1, 'communication': 1, 'internet things': 1, 'strategy': 1, 'account management': 1}
-working-year: {u'(5, 10]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'software engineering': 1, 'communication': 1, 'engineering': 1, 'big data': 1}
-education: {u'Bachelor': 1}
-responsibility: {'report': 1, 'information': 1, 'product': 1, 'decision-making': 1}
+skills: {'search': 0.007281666144717765, 'management': 0.0021268752751165544, 'software engineering': 0.00610812908148829, 'big data': 0.002987617667517999, 'user experience': 0.007923035129358815, 'communication': 0.0037163599979128086, 'energy': 0.007242946727817099, 'lead generation': 0.012741006757549382, 'recruiting': 0.040480026415697076, 'time management': 0.010112704807240617, 'data architecture': 0.009524585809425595, 'data engineering': 0.009401011164477557, 'engineering': 0.0028752459555719595, 'architecture': 0.005133836907710465, 'innovation': 0.004544189371208271, 'account management': 0.01173979506639071, 'internet things': 0.011707416595363588, 'strategy': 0.007394419864914718, 'data': 0.0002784072485316266}
+working-year: {u'(5, 10]': 0.002830150848771969}
+major: {u'Engineering': 0.0028752459555719595, u'Computer Science': 0.0021252482308737036, u'Business': 0.002539235556746747, u'Management Science and Engineering': 0.0030270998555607803}
+education: {u'Bachelor': 0.0021393869194129265, u'Master': 0.0017072316554558142}
+responsibility: {'report': 0.004871540892423542, 'information': 0.006512230983706078, 'product': 0.006314520613698341, 'decision-making': 0.008619801515927518}

@@ -20,56 +20,48 @@ aS'statistical tools'
 p11
 aS'sql'
 p12
-aS'data'
+aS'sas'
 p13
-aS'statistical analysis'
+aS'data'
 p14
-asS'working-year'
+aS'statistical analysis'
 p15
-(lp16
+asS'working-year'
+p16
+(lp17
 V(5, 10]
-p17
-aV(0, 2]
 p18
-asS'major'
+aV(0, 2]
 p19
-(lp20
-S'engineering'
-p21
-aS'design'
+asS'major'
+p20
+(lp21
+VEngineering
 p22
-aS'business'
+aVBusiness
 p23
-aVphysic
-p24
-aS'general'
-p25
 asS'education'
-p26
-(lp27
+p24
+(lp25
 VBachelor
-p28
+p26
 aVMaster
-p29
+p27
 asS'responsibility'
-p30
-(lp31
+p28
+(lp29
 S'product'
-p32
+p30
 aS'data analysis'
+p31
+aS'pattern'
+p32
+aS'collect data'
 p33
 aS'construct'
 p34
-aS'business problem'
-p35
-aS'pattern'
-p36
 aS'analysis'
-p37
-aS'design'
-p38
-aS'collect data'
-p39
+p35
 aS'model'
-p40
+p36
 as.

@@ -4,322 +4,284 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
-sS'r d'
+F0.0055745798589930005
+sS'economics'
 p5
-I1
+F0.0091121362142945299
 sS'communication'
 p6
-I1
-sS'linear programming'
-p7
-I1
+F0.0060196553578359558
 sS'causal inference'
-p8
-I1
+p7
+F0.010625354319366745
 sS'monte carlo simulation'
-p9
-I1
+p8
+F0.0068203047549572036
 sS'analytics'
-p10
-I1
+p9
+F0.0066139730949317617
 sS'financial risk management'
+p10
+F0.012762098754390357
+sS'go'
 p11
-I1
+F0.0062336752757179235
 sS'data mining'
 p12
-I1
-sS'go'
+F0.004034181233236003
+sS'sas'
 p13
-I1
+F0.0026335301457745563
 sS'portfolio optimization'
 p14
-I1
+F0.011049580181559516
 sS'education'
 p15
-I1
-sS'insurance'
+F0.0039897846954624885
+sS'data'
 p16
-I1
-sS'theory'
+F0.00022547811382979643
+sS'insurance'
 p17
-I1
-sS'quantitative finance'
+F0.0059946224592199388
+sS'theory'
 p18
-I1
-sS'java'
+F0.0055712476244740216
+sS'quantitative finance'
 p19
-I1
-sS'big data'
+F0.0080017542725316637
+sS'java'
 p20
-I1
-sS'cognitive neuroscience'
+F0.0023560208510803866
+sS'big data'
 p21
-I1
-sS'time series analysis'
+F0.0024196295177997484
+sS'cognitive neuroscience'
 p22
-I1
-sS'deep learning'
+F0.010578410366676044
+sS'time series analysis'
 p23
-I1
-sS'r programming'
+F0.005470743179466853
+sS'deep learning'
 p24
-I1
+F0.0059211819066415415
 sS'hadoop'
 p25
-I1
+F0.002442597911406017
 sS'research'
 p26
-I1
+F0.011353844851011725
 sS'risk management'
 p27
-I1
+F0.0060071432053008297
 sS'neuroscience'
 p28
-I1
+F0.0080137487130625268
 sS'r'
-I1
+F0.0021102369072773428
 sS'theano'
 p29
-I1
+F0.0093075911224764843
 sS'matlab'
 p30
-I1
+F0.0024266182274487922
 sS'mathematics'
 p31
-I1
+F0.0069501645706304405
 sS'unstructured data'
 p32
-I1
+F0.0060623734476295812
 sS'operations research'
 p33
-I1
+F0.0054770694212013492
 sS'computer science'
 p34
-I1
+F0.0026729719832456669
+sS'a'
+F0.0071104254510039036
 sS'finance'
 p35
-I1
+F0.010095612373322009
 sS'python'
 p36
-I1
-sS'data scientist'
+F0.00099097245770582887
+sS'marketing'
 p37
-I1
-sS'financial risk'
+F0.0036220808412120698
+sS'data scientist'
 p38
-I1
-sS'management'
+F0.0020140145725549017
+sS'financial risk'
 p39
-I1
-sS'industrial organization'
+F0.009104912617179604
+sS'statistics'
 p40
-I1
-sS'gpu'
+F0.003545676254002299
+sS'industrial organization'
 p41
-I1
-sS'modeling'
+F0.012621209251199438
+sS'gpu'
 p42
-I1
-sS'spark'
-p43
-I1
-sS'social network analysis'
-p44
-I1
-sS'tensorflow'
-p45
-I1
-sS'econometrics'
-p46
-I1
-sVbayesian method
-p47
-I1
-sS'science'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'marketing analytics'
-p50
-I1
-sS'programming'
-p51
-I1
-sS'pattern recognition'
-p52
-I1
-sS'hive'
-p53
-I1
-sS'simulation'
-p54
-I1
-sS'optimization'
-p55
-I1
-sS'optimal control'
-p56
-I1
-sS'organization'
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'game theory'
-p59
-I1
-ssS'working-year'
-p60
-(dp61
-V(2, 5]
-p62
-I1
-ssS'major'
-p63
-(dp64
-S'computing'
-p65
-I1
-sS'economics mathematics'
-p66
-I1
-sS'statistic'
-p67
-I1
-sS'analytics'
-p68
-I1
-sS'design'
-p69
-I1
-sS'data mining'
-p70
-I1
-sS'econometrics'
-p71
-I1
-sS'mathematics physics'
-p72
-I1
-sS'management'
-p73
-I1
-sS'business'
-p74
-I1
-sS'big data'
-p75
-I1
-sS'cognitive neuroscience'
-p76
-I1
-sS'computer science statistics'
-p77
-I1
-sS'computer science'
-p78
-I1
-sS'communication'
-p79
-I1
-sS'mathematics'
-p80
-I1
-sS'operations research'
-p81
-I1
-sS'finance'
-p82
-I1
-sS'economics math'
-p83
-I1
-sS'quantitative finance'
-p84
-I1
-sS'neuroscience'
-p85
-I1
-sVphysic
-p86
-I1
-sS'science'
-p87
-I1
-sS'marketing analytics'
-p88
-I1
-sS'machine learning'
-p89
-I1
-sS'quantitative marketing'
-p90
-I1
-sS'statistics economics'
-p91
-I1
-ssS'education'
-p92
-(dp93
-VMaster
-p94
-I1
-sVDoctor
-p95
-I1
-ssS'responsibility'
-p96
-(dp97
-S'development'
-p98
-I1
-sS'forecasting'
-p99
-I1
-sS'business problem'
-p100
-I1
-sS'pattern'
-p101
-I1
-sVinsight
-p102
-I1
-sS'analysis'
-p103
-I1
-sS'simulation'
-p104
-I1
-sS'analytic'
-p105
-I1
-sS'optimization'
-p106
-I1
-sS'design'
-p107
-I1
-sS'data mining'
-p108
-I1
-sS'test model'
-p109
-I1
+F0.010239536823698596
 sS'modeling'
-p110
-I1
+p43
+F0.0030880064221351805
+sS'spark'
+p44
+F0.0032055810329195029
+sS'social network analysis'
+p45
+F0.0086679157509275424
+sS'tensorflow'
+p46
+F0.008203385596438087
+sS'econometrics'
+p47
+F0.005831290037528975
+sS'c'
+F0.0023776082203385879
+sVbayesian method
+p48
+F0.0093315049793816912
+sS'science'
+p49
+F0.0026731326547303892
+sS'machine learning'
+p50
+F0.0012462314103308732
+sS'marketing analytics'
+p51
+F0.0073332665647144087
+sS'programming'
+p52
+F0.0041913126799805172
+sS'pattern recognition'
+p53
+F0.0060710146556686145
+sS'hive'
+p54
+F0.0039653122613878449
+sS'simulation'
+p55
+F0.005104250546909452
+sS'optimization'
+p56
+F0.0076045964159260158
+sS'optimal control'
+p57
+F0.012621209251199438
+sS'organization'
+p58
+F0.0067041210619075333
+sS'analysis'
+p59
+F0.0013027327823350947
+sS'physics'
+p60
+F0.0092512713971356023
+sS'game theory'
+p61
+F0.0096733146662037889
+ssS'working-year'
+p62
+(dp63
+V(2, 5]
+p64
+F0.0023554076586143262
+ssS'major'
+p65
+(dp66
+VStatistics
+p67
+F0.0034249140111940689
+sVBusiness
+p68
+F0.002056491154323411
+sVData Science
+p69
+F0.0019530208794773054
+sVEconomics
+p70
+F0.003119337542822169
+sVCognitive Science
+p71
+F0.0081901373533925913
+sVComputer Science
+p72
+F0.0017212086432551287
+sVMathematics
+p73
+F0.0032590732501567529
+sVPhysics
+p74
+F0.0049880838425857233
+sVOperations Research
+p75
+F0.0061192564604318515
+sVManagement Science and Engineering
+p76
+F0.002451605586442761
+ssS'education'
+p77
+(dp78
+VMaster
+p79
+F0.0013826628996657356
+sVDoctor
+p80
+F0.0020706877790427148
+ssS'responsibility'
+p81
+(dp82
+S'development'
+p83
+F0.0069066216867725398
+sS'forecasting'
+p84
+F0.0055745798589930005
 sS'extract'
-p111
-I1
-sS'evaluation'
-p112
-I1
+p85
+F0.0058815751534274322
+sS'business problem'
+p86
+F0.0054147349089936209
+sS'pattern'
+p87
+F0.0049783100296086425
+sS'insight'
+p88
+F0.010465171231993262
+sS'analysis'
+p89
+F0.0013027327823350947
+sS'simulation'
+p90
+F0.005104250546909452
+sS'analytic'
+p91
+F0.0085845094003788695
+sS'optimization'
+p92
+F0.0076045964159260158
+sS'design'
+p93
+F0.0027764616160047104
+sS'data mining'
+p94
+F0.004034181233236003
+sS'modeling'
+p95
+F0.0030880064221351805
 sS'model'
-p113
-I1
+p96
+F0.0058836914140746798
+sS'develop ... model'
+p97
+F0.0058933707740991209
+sS'evaluation'
+p98
+F0.0064324014901647854
+sS'test ... model'
+p99
+F0.0088088040101631758
 ss.

@@ -2,150 +2,149 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'programming'
 p4
-I1
-sS'business insights'
-p5
-I1
-sS'analytics'
-p6
-I1
-sS'engineering'
-p7
-I1
-sS'data mining'
-p8
-I1
-sS'strategy'
-p9
-I1
-sS'visualization'
-p10
-I1
-sS'education'
-p11
-I1
-sS'research'
-p12
-I1
-sS'operations research'
-p13
-I1
-sS'simulation'
-p14
-I1
-sS'alteryx'
-p15
-I1
-sS'processing'
-p16
-I1
-sS'data scientist'
-p17
-I1
-sS'data processing'
-p18
-I1
-sS'modeling'
-p19
-I1
-sS'data'
-p20
-I1
-sS'data visualization'
-p21
-I1
-sS'programming'
-p22
-I1
-sS'business strategy'
-p23
-I1
-sS'spss'
-p24
-I1
-sS'r'
-I1
-ssS'working-year'
-p25
-(dp26
-V(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'information'
-p30
-I1
-sS'business'
-p31
-I1
+F0.003232595996583214
 sS'communication'
-p32
-I1
-sS'data mining'
-p33
-I1
+p5
+F0.0046427253932869693
+sS'business insights'
+p6
+F0.017233482433101428
 sS'analytics'
-p34
-I1
+p7
+F0.0102021989675487
 sS'engineering'
-p35
-I1
-sS'statistic'
-p36
-I1
-sS'statistics analytics'
-p37
-I1
+p8
+F0.0035919494928846178
+sS'data mining'
+p9
+F0.0062228132805927788
+sS'sas'
+p10
+F0.0081245563441490719
+sS'strategy'
+p11
+F0.004618801851105088
+sS'visualization'
+p12
+F0.016489401219360437
+sS'statistics'
+p13
+F0.005469283605880379
+sS'education'
+p14
+F0.0061543306446136927
+sS'research'
+p15
+F0.0075058094574346479
 sS'operations research'
-p38
-I1
-ssS'education'
-p39
-(dp40
-VMaster
-p41
-I1
-ssS'responsibility'
-p42
-(dp43
-S'data mining'
-p44
-I1
-sS'information'
-p45
-I1
+p16
+F0.008448500045606773
+sS'alteryx'
+p17
+F0.014394051669075572
 sS'processing'
-p46
-I1
-sS'develop model'
-p47
-I1
-sS'business problem'
-p48
-I1
-sVinsight
-p49
-I1
-sS'simulation'
-p50
-I1
-sS'understand'
-p51
-I1
-sS'solve problem'
-p52
-I1
-sS'recommendation'
-p53
-I1
+p18
+F0.0047891146236678003
+sS'data scientist'
+p19
+F0.0031066617746741297
+sS'data processing'
+p20
+F0.010779233424423388
 sS'modeling'
-p54
-I1
+p21
+F0.002381658912086664
+sS'data'
+p22
+F0.0017390247488925648
+sS'a'
+F0.0054839938229150342
+sS'data visualization'
+p23
+F0.0057675472890897387
+sS'business strategy'
+p24
+F0.0089135933147197564
+sS'simulation'
+p25
+F0.015746837464365816
+sS'r'
+F0.0016275434211552528
+sS'spss'
+p26
+F0.0064702311755353821
+ssS'working-year'
+p27
+(dp28
+V(2, 5]
+p29
+F0.0036332681185663796
+ssS'major'
+p30
+(dp31
+VStatistics
+p32
+F0.0052830051902876254
+sVBusiness
+p33
+F0.0031721828362877248
+sVData Science
+p34
+F0.0030125776615984243
+sVEngineering
+p35
+F0.0066052167940373243
+sVComputer Science
+p36
+F0.0026550021887161222
+sVOperations Research
+p37
+F0.0094390876779681943
+ssS'education'
+p38
+(dp39
+VMaster
+p40
+F0.00213278793320873
+ssS'responsibility'
+p41
+(dp42
+S'data mining'
+p43
+F0.0062228132805927788
+sS'information'
+p44
+F0.0081355143667413178
+sS'processing'
+p45
+F0.0047891146236678003
+sS'business problem'
+p46
+F0.0083523476895326822
+sS'insight'
+p47
+F0.016142756797737409
+sS'simulation'
+p48
+F0.015746837464365816
+sS'understand'
+p49
+F0.018489851731181312
+sS'solve problem'
+p50
+F0.012061708126779125
+sS'recommendation'
+p51
+F0.0076604156739538748
+sS'modeling'
+p52
+F0.002381658912086664
 sS'model'
-p55
-I1
+p53
+F0.0045378617064564244
+sS'develop ... model'
+p54
+F0.0090906540386396992
 ss.

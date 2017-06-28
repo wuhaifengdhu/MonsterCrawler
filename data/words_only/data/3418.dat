@@ -2,130 +2,134 @@
 S'skills'
 p2
 (dp3
-S'calculus'
+S'unsupervised learning'
 p4
-I1
-sS'electrical engineering'
-p5
-I1
-sS'javascript'
-p6
-I1
-sS'java'
-p7
-I1
-sS'unsupervised learning'
-p8
-I1
-sS'classification'
-p9
-I1
-sS'scala'
-p10
-I1
+F0.034827353102655487
 sS'regression analysis'
-p11
-I1
+p5
+F0.026311784595342502
 sS'communication'
-p12
-I1
+p6
+F0.010994231660492059
 sS'decision support'
-p13
-I1
-sS'mapreduce'
-p14
-I1
-sS'analysis'
-p15
-I1
-sS'python'
-p16
-I1
+p7
+F0.030844041374810904
 sS'analytics'
-p17
-I1
-sS'probability'
-p18
-I1
-sS'github'
-p19
-I1
-sS'computer science'
-p20
-I1
+p8
+F0.0060398434859967121
+sS'engineering'
+p9
+F0.0085059359519003789
 sS'data mining'
-p21
-I1
-sS'linear algebra'
-p22
-I1
-sS'machine learning'
-p23
-I1
+p10
+F0.01473596756029262
 sS'regression'
+p11
+F0.016501165213068058
+sS'statistics'
+p12
+F0.0064757837139069758
+sS'java'
+p13
+F0.0086060206088075242
+sS'classification'
+p14
+F0.021912235426792215
+sS'scala'
+p15
+F0.016948377692351642
+sS'computer science'
+p16
+F0.0097637726610223657
+sS'calculus'
+p17
+F0.031478407696826416
+sS'python'
+p18
+F0.0036198021718976802
+sS'javascript'
+p19
+F0.015398920930707943
+sS'probability'
+p20
+F0.024200202348426958
+sS'a'
+F0.012986402038986294
+sS'github'
+p21
+F0.025894166840898101
+sS'science'
+p22
+F0.0048821797791256411
+sS'mapreduce'
+p23
+F0.018310427201082783
+sS'analysis'
 p24
-I1
-ssS'working-year'
+F0.0023792966788481243
+sS'machine learning'
 p25
-(dp26
-V[0]
+F0.0045522064016252726
+sS'r'
+F0.003854113240374591
+sS'linear algebra'
+p26
+F0.030573798674267794
+sS'electrical engineering'
 p27
-I1
-ssS'major'
+F0.027532118634575109
+ssS'working-year'
 p28
 (dp29
-S'information'
+S'[0]'
 p30
-I1
-sS'communication'
+F0.01525149118433599
+ssS'major'
 p31
-I1
-sS'data mining'
-p32
-I1
-sS'machine learning'
+(dp32
+VEngineering
 p33
-I1
-sS'analytics'
+F0.0085059359519003789
+sVElectrical and Electronics Engineering
 p34
-I1
-sS'computer science'
+F0.021851587467881815
+sVStatistics
 p35
-I1
-sS'statistic'
+F0.012510449790889444
+sVData Science
 p36
-I1
-sS'electrical engineering'
+F0.0071339512680907123
+sVComputer Science
 p37
-I1
-sS'phd'
-p38
-I1
+F0.0062871926830013729
 ssS'education'
-p39
-(dp40
-VDoctor
+p38
+(dp39
+VMaster
+p40
+F0.005050560314056784
+sVDoctor
 p41
-I1
+F0.0075637623040032496
 ssS'responsibility'
 p42
 (dp43
 S'information'
 p44
-I1
+F0.0096326749967319061
 sS'product'
 p45
-I1
+F0.0093402284077621286
 sS'analysis'
 p46
-I1
+F0.0023792966788481243
 sS'understand'
 p47
-I1
+F0.014594998704474133
 sS'data mining'
 p48
-I1
+F0.01473596756029262
 sS'model'
 p49
-I1
+F0.010745908624316949
 ss.

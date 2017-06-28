@@ -8,74 +8,74 @@ aS'analytics'
 p5
 aS'engineering'
 p6
-aS'statistical analysis'
+aS'hive'
 p7
 aS'data mining'
 p8
-aS'quantitative analysis'
+aS'sas'
 p9
-aS'management'
+aS'quantitative analysis'
 p10
-aS'matlab'
-p11
-aS'stata'
-p12
-aS'computer science'
-p13
-aS'distributed computing'
-p14
 aS'investment banking'
+p11
+aS'hadoop'
+p12
+aS'matlab'
+p13
+aS'stata'
+p14
+aS'computer science'
 p15
-aS'facebook'
+aS'distributed computing'
 p16
-aS'sql'
+aS'management'
 p17
-aS'data'
+aS'facebook'
 p18
-aS'science'
+aS'sql'
 p19
-aS'programming'
+aS'data'
 p20
-aS'analysis'
+aS'science'
 p21
-aS'spss'
+aS'programming'
 p22
-aS'banking'
+aS'analysis'
 p23
+aS'spss'
+p24
+aS'banking'
+p25
 aS'r'
 aS'product launch'
-p24
-aS'dashboard'
-p25
-aS'product management'
 p26
-asS'working-year'
+aS'dashboard'
 p27
-(lp28
-V(2, 5]
+aS'product management'
+p28
+aS'physics'
 p29
-asS'major'
+aS'statistical analysis'
 p30
-(lp31
-S'management'
-p32
-aS'business'
+asS'working-year'
+p31
+(lp32
+V(2, 5]
 p33
-aS'computing'
+asS'major'
 p34
-aS'science'
-p35
-aS'analytics'
+(lp35
+VBusiness
 p36
-aS'engineering'
+aVData Science
 p37
-aS'computer science'
+aVEngineering
 p38
-aS'data mining'
+aVComputer Science
 p39
-aS'ee computer science'
+aVPhysics
 p40
-aVphysic
+aVManagement Science and Engineering
 p41
 asS'education'
 p42
@@ -85,7 +85,7 @@ p44
 asS'responsibility'
 p45
 (lp46
-S'data mining'
+S'development'
 p47
 aS'large data set'
 p48
@@ -97,24 +97,26 @@ aS'understand'
 p51
 aS'presentation'
 p52
-aVinsight
+aS'insight'
 p53
 aS'communicate'
 p54
 aS'analysis'
 p55
-aS'product launch'
+aS'drive ... decision'
 p56
-aS'solve problem'
+aS'product launch'
 p57
-aS'identify trend'
+aS'solve problem'
 p58
-aS'report'
+aS'data mining'
 p59
-aS'product decision'
+aS'report'
 p60
-aS'development'
+aS'product decision'
 p61
 aS'extract'
 p62
+aS'identify ... trend'
+p63
 as.

@@ -4,248 +4,242 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0047685824069604111
 sS'decision support'
 p5
-I1
-sS'security clearance'
+F0.013378138427628828
+sS'hadoop'
 p6
-I1
-sS'unix'
+F0.0038698991006010991
+sS'analytics'
 p7
-I1
-sS'defense'
+F0.0026196911505527911
+sS'unix'
 p8
-I1
-sS'dod'
+F0.0077773758698344879
+sS'defense'
 p9
-I1
-sS'machine learning'
+F0.010637464319060959
+sS'analysis'
 p10
-I1
-sS'oracle pl'
+F0.0030959523050071982
+sS'sas'
 p11
-I1
-sS'xml'
-p12
-I1
-sS'quantitative finance'
-p13
-I1
-sS'critical thinking'
-p14
-I1
-sS'agile'
-p15
-I1
-sS'predictive modeling'
-p16
-I1
-sS'integration'
-p17
-I1
-sS'research'
-p18
-I1
-sS'oracle sql'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'natural language processing'
-p21
-I1
-sS'intelligence'
-p22
-I1
-sS'mathematics'
-p23
-I1
-sS'unstructured data'
-p24
-I1
-sS'data management'
-p25
-I1
-sS'architecture'
-p26
-I1
-sS'text mining'
-p27
-I1
-sS'data analysis'
-p28
-I1
-sS'government'
-p29
-I1
-sS'processing'
-p30
-I1
-sS'data scientist'
-p31
-I1
-sS'management'
-p32
-I1
-sS'scripting'
-p33
-I1
-sS'data processing'
-p34
-I1
-sS'modeling'
-p35
-I1
-sS'data'
-p36
-I1
-sS'information technology'
-p37
-I1
-sS'software development'
-p38
-I1
-sS'fraud'
-p39
-I1
-sS'sql server'
-p40
-I1
-sS'programming'
-p41
-I1
-sS'engineering'
-p42
-I1
-sS'analysis'
-p43
-I1
-sS'simulation'
-p44
-I1
-sS'data integration'
-p45
-I1
-sS'command'
-p46
-I1
-sS'data analytics'
-p47
-I1
-sS'oracle'
-p48
-I1
-sS'security'
-p49
-I1
-sS'etl'
-p50
-I1
-ssS'working-year'
-p51
-(dp52
-V(5, 10]
-p53
-I1
-sV(10, 15]
-p54
-I1
-ssS'major'
-p55
-(dp56
-S'information'
-p57
-I1
-sS'management'
-p58
-I1
-sS'business'
-p59
-I1
-sS'communication'
-p60
-I1
-sS'natural language processing'
-p61
-I1
+F0.033379201365720888
 sS'machine learning'
-p62
-I1
-sS'engineering'
-p63
-I1
+p12
+F0.0019744509693796364
+sS'oracle pl'
+p13
+F0.018372772590815413
+sS'xml'
+p14
+F0.0099214244441433556
 sS'quantitative finance'
-p64
-I1
-sS'design'
-p65
-I1
-sS'data analytics'
-p66
-I1
-sS'statistic'
-p67
-I1
-sVphysic
-p68
-I1
-sS'mathematics'
-p69
-I1
-sS'law'
-p70
-I1
-sS'information technology'
-p71
-I1
+p15
+F0.012677478154673662
+sS'critical thinking'
+p16
+F0.01181098081027415
+sS'agile'
+p17
+F0.0065773791346370762
+sS'predictive modeling'
+p18
+F0.0062620659900270177
+sS'integration'
+p19
+F0.013893030856594052
+sS'research'
+p20
+F0.0051395201304923997
+sS'oracle sql'
+p21
+F0.01062785678323137
 sS'computer science'
-p72
-I1
-ssS'education'
-p73
-(dp74
-S'Bachelor'
-p75
-I1
-ssS'responsibility'
-p76
-(dp77
-S'development'
-p78
-I1
-sS'information'
-p79
-I1
-sS'product'
-p80
-I1
+p22
+F0.00423488934694946
+sS'natural language processing'
+p23
+F0.0075480666625310326
+sS'intelligence'
+p24
+F0.004729092198454154
+sS'mathematics'
+p25
+F0.0055057026568548374
+sS'unstructured data'
+p26
+F0.009604844679075783
+sS'data management'
+p27
+F0.0082828858572568404
+sS'architecture'
+p28
+F0.013174786281232882
+sS'text mining'
+p29
+F0.0098987497875018225
 sS'data analysis'
-p81
-I1
+p30
+F0.0044691626956797148
+sS'finance'
+p31
+F0.0079974278740472544
+sS'government'
+p32
+F0.0078527696253884501
 sS'processing'
-p82
-I1
-sS'analysis'
-p83
-I1
-sS'simulation'
-p84
-I1
-sS'design'
-p85
-I1
+p33
+F0.0049189400200925302
+sS'data scientist'
+p34
+F0.0031908785095297542
+sS'management'
+p35
+F0.0027290628530110008
+sS'scripting'
+p36
+F0.0073285674019477817
+sS'data processing'
+p37
+F0.011071441559422818
 sS'modeling'
-p86
-I1
+p38
+F0.0024462219548841944
+sS'data'
+p39
+F0.002143400383273607
+sS'information technology'
+p40
+F0.0093874972041016434
+sS'software development'
+p41
+F0.0063861343917869656
+sS'fraud'
+p42
+F0.023565398045833064
+sS'sql server'
+p43
+F0.0084271941845741622
+sS'science'
+p44
+F0.0021175719523918446
+sS'programming'
+p45
+F0.0033202266109484215
+sS'engineering'
+p46
+F0.0036893216176917308
+sS'dod'
+p47
+F0.012715605292998519
+sS'simulation'
+p48
+F0.0080868547821517228
+sS'data integration'
+p49
+F0.011658617953107176
+sS'pl'
+p50
+F0.011219507887156914
+sS'command'
+p51
+F0.01156552493157399
+sS'data analytics'
+p52
+F0.00615157434182469
+sS'oracle'
+p53
+F0.015813382521453746
+sS'security'
+p54
+F0.0065823819750596146
+sS'etl'
+p55
+F0.0085836285361903103
+sS'security clearance'
+p56
+F0.011005483353189367
+ssS'working-year'
+p57
+(dp58
+V(5, 10]
+p59
+F0.003631458619207406
+sV(10, 15]
+p60
+F0.0058958625186697564
+ssS'major'
+p61
+(dp62
+VBusiness
+p63
+F0.0032581757445003441
+sVData Science
+p64
+F0.0030942439235092248
+sVEconomics
+p65
+F0.004942082974471268
+sVEngineering
+p66
+F0.0036893216176917308
+sVInformation Science
+p67
+F0.0076284794835966684
+sVComputer Science
+p68
+F0.0027269751396150534
+sVMathematics
+p69
+F0.0051634714746459399
+sVManagement Science and Engineering
+p70
+F0.0038841702965930498
+ssS'education'
+p71
+(dp72
+VMaster
+p73
+F0.0021906044735667978
+ssS'responsibility'
+p74
+(dp75
+S'development'
+p76
+F0.0072949457976754142
+sS'information'
+p77
+F0.0041780277094258878
+sS'product'
+p78
+F0.0040511834057763456
+sS'data analysis'
+p79
+F0.0044691626956797148
+sS'processing'
+p80
+F0.0049189400200925302
+sS'analysis'
+p81
+F0.0030959523050071982
+sS'simulation'
+p82
+F0.0080868547821517228
+sS'design'
+p83
+F0.021994259187025265
+sS'modeling'
+p84
+F0.0024462219548841944
 sS'model'
-p87
-I1
+p85
+F0.0046608760298242199
 sS'implement'
-p88
-I1
+p86
+F0.012758211898310889
 sS'transformation'
-p89
-I1
+p87
+F0.0094712564317255016
 ss.

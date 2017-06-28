@@ -2,133 +2,124 @@
 S'skills'
 p2
 (dp3
-S'data analysis'
+S'training'
 p4
-I1
-sS'communication'
-p5
-I1
-sS'data science'
-p6
-I1
-sS'programming'
-p7
-I1
-sS'analysis'
-p8
-I1
-sS'machine learning'
-p9
-I1
-sS'analytics'
-p10
-I1
-sS'engineering'
-p11
-I1
-sS'science'
-p12
-I1
-sS'advanced analytics'
-p13
-I1
-sS'data'
-p14
-I1
-sS'predictive analytics'
-p15
-I1
-ssS'working-year'
-p16
-(dp17
-V(5, 10]
-p18
-I1
-sV(2, 5]
-p19
-I1
-ssS'major'
-p20
-(dp21
-S'business'
-p22
-I1
-sS'science'
-p23
-I1
-sS'data science'
-p24
-I1
-sS'statistic'
-p25
-I1
-sS'mba'
-p26
-I1
-sS'machine learning'
-p27
-I1
-sS'analytics'
-p28
-I1
-sS'engineering'
-p29
-I1
-sS'design'
-p30
-I1
-sS'communication'
-p31
-I1
-sS'advanced analytics'
-p32
-I1
-sS'general'
-p33
-I1
-sS'predictive analytics'
-p34
-I1
-ssS'education'
-p35
-(dp36
-VBachelor
-p37
-I1
-ssS'responsibility'
-p38
-(dp39
-S'large data set'
-p40
-I1
-sS'product'
-p41
-I1
+F0.0094890917379932618
 sS'data analysis'
-p42
-I1
+p5
+F0.0059829113506680047
+sS'communication'
+p6
+F0.0063837474157695823
+sS'data science'
+p7
+F0.0048501650228249963
+sS'programming'
+p8
+F0.0088896389906038386
 sS'analysis'
-p43
-I1
-sS'statistical method'
-p44
-I1
-sS'understand'
-p45
-I1
-sS'solve problem'
-p46
-I1
-sS'test model'
-p47
-I1
-sS'report'
-p48
-I1
+p9
+F0.0013815271038472982
+sS'machine learning'
+p10
+F0.0026432166202985455
+sS'analytics'
+p11
+F0.028056047160758924
+sS'engineering'
+p12
+F0.0049389305527163495
+sS'algorithms'
+p13
+F0.0072345632192147334
+sS'science'
+p14
+F0.0056696281305975193
+sS'advanced analytics'
+p15
+F0.011866171590072918
+sS'modeling'
+p16
+F0.003274781004119163
+sS'data'
+p17
+F0.0023911590297272765
+sS'predictive analytics'
+p18
+F0.0092842668279386701
+ssS'working-year'
+p19
+(dp20
+V(2, 5]
+p21
+F0.004995743663028772
+ssS'major'
+p22
+(dp23
+VEngineering
+p24
+F0.0090821730918013207
+sVEconomics
+p25
+F0.0066160143045341166
+sVData Science
+p26
+F0.0041422942846978334
+sVBusiness
+p27
+F0.0043617513998956215
+sVComputer Science
+p28
+F0.0036506280094846682
+ssS'education'
+p29
+(dp30
+VBachelor
+p31
+F0.003674914627701237
+sVMaster
+p32
+F0.0029325834081620037
+ssS'responsibility'
+p33
+(dp34
+S'large data set'
+p35
+F0.012679262642471234
+sS'product'
+p36
+F0.0054233584303134946
+sS'data analysis'
+p37
+F0.0059829113506680047
 sS'design'
-p49
-I1
+p38
+F0.01177757104853611
+sS'decision-making'
+p39
+F0.014806594539456141
+sS'analysis'
+p40
+F0.0013815271038472982
+sS'statistical method'
+p41
+F0.014176574310691577
+sS'understand'
+p42
+F0.016949030753582867
+sS'solve problem'
+p43
+F0.016584848674321296
+sS'report'
+p44
+F0.0083680500813404397
+sS'modeling'
+p45
+F0.003274781004119163
 sS'model'
-p50
-I1
+p46
+F0.0062395598463775839
+sS'test ... model'
+p47
+F0.018683189150588024
 ss.

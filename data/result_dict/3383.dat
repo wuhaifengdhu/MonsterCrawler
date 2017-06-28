@@ -2,25 +2,25 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'data science'
-p6
+p5
 aS'reinforcement learning'
-p7
+p6
 aS'information extraction'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'hive'
-p11
+p10
 aS'data mining'
+p11
+aS'sas'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'weka'
 p14
@@ -44,111 +44,87 @@ aS'processing'
 p23
 aS'data scientist'
 p24
-aS'organization'
+aS'management'
 p25
-aS'modeling'
+aS'organization'
 p26
-aS'spark'
+aS'modeling'
 p27
-aS'pig'
+aS'spark'
 p28
-aS'data'
+aS'pig'
 p29
-aS'science'
+aS'data'
 p30
-aS'analysis'
+aS'science'
 p31
-aS'machine learning'
+aS'analysis'
 p32
+aS'machine learning'
+p33
 aS'r'
 aS'architecture'
-p33
-aS'product management'
 p34
-aS'electrical engineering'
+aS'product management'
 p35
-aS'predictive analytics'
-p36
-asS'working-year'
-p37
-(lp38
-V(10, 15]
-p39
-asS'major'
-p40
-(lp41
-S'information'
-p42
-aS'management'
-p43
-aS'business'
-p44
-aS'big data'
-p45
-aS'computing'
-p46
-aS'science'
-p47
-aS'data science'
-p48
-aS'data mining'
-p49
-aS'communication'
-p50
-aS'reinforcement learning'
-p51
-aS'machine learning'
-p52
-aS'analytics'
-p53
-aS'engineering'
-p54
-aS'electrical'
-p55
-aS'computer science'
-p56
-aS'phd'
-p57
-aS'natural language processing'
-p58
 aS'electrical engineering'
-p59
-aS'machine learning data mining'
-p60
-aS'ee computer science'
-p61
+p36
 aS'predictive analytics'
-p62
+p37
+asS'working-year'
+p38
+(lp39
+V(10, 15]
+p40
+asS'major'
+p41
+(lp42
+VStatistics
+p43
+aVBusiness
+p44
+aVData Science
+p45
+aVElectrical and Electronics Engineering
+p46
+aVEngineering
+p47
+aVComputer Science
+p48
+aVManagement Science and Engineering
+p49
 asS'education'
-p63
-(lp64
+p50
+(lp51
 VDoctor
-p65
+p52
 asS'responsibility'
-p66
-(lp67
+p53
+(lp54
 S'development'
-p68
-aS'large data set'
-p69
-aS'product'
-p70
+p55
 aS'information'
-p71
+p56
+aS'product'
+p57
+aS'large data set'
+p58
 aS'processing'
-p72
+p59
 aS'recommendation'
-p73
+p60
 aS'analysis'
-p74
+p61
+aS'develop ... model'
+p62
 aS'cross-functionally'
-p75
+p63
 aS'data mining'
-p76
+p64
 aS'modeling'
-p77
+p65
 aS'model'
-p78
+p66
 aS'prototype'
-p79
+p67
 as.

@@ -4,234 +4,207 @@ p2
 (dp3
 S'parallel computing'
 p4
-I1
+F0.0065765931169940095
 sS'communication'
 p5
-I1
+F0.004841496511042374
 sS'energy'
 p6
-I1
-sS'linux'
+F0.0047178827309634318
+sS'simulations'
 p7
-I1
+F0.0042969014638270442
 sS'unix'
 p8
-I1
-sS'c++'
+F0.0039481479950841739
+sS'high performance computing'
 p9
-I1
+F0.0059531152931730355
 sS'data mining'
 p10
-I1
+F0.003244616710523146
 sS'laboratory'
 p11
-I1
+F0.02578123439187088
 sS'education'
 p12
-I1
+F0.0032089094033842035
 sS'management'
 p13
-I1
+F0.0041561874642185885
 sS'java'
 p14
-I1
+F0.0018949036202878953
 sS'big data'
 p15
-I1
+F0.0019460628843465866
 sS'integration'
 p16
-I1
+F0.0070527312605339829
 sS'research'
 p17
-I1
+F0.0026090530326047042
 sS'access'
 p18
-I1
+F0.0035465780200251602
 sS'computer science'
 p19
-I1
-sS'statistical learning'
+F0.0021498215033443741
+sS'algorithms'
 p20
-I1
-sS'data management'
+F0.002743381771200694
+sS'statistical learning'
 p21
-I1
-sS'matlab'
+F0.0082669962736899166
+sS'data management'
 p22
-I1
-sS'data analysis'
+F0.0042047677440508729
+sS'matlab'
 p23
-I1
-sS'python'
-p24
-I1
-sS'processing'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'information visualization'
-p27
-I1
-sS'computer security'
-p28
-I1
-sS'modeling'
-p29
-I1
-sS'data'
-p30
-I1
-sS'c'
-I1
-sS'national security'
-p31
-I1
-sS'science'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'programming'
-p34
-I1
-sS'engineering'
-p35
-I1
-sS'high performance computing'
-p36
-I1
-sS'simulation'
-p37
-I1
-sS'data integration'
-p38
-I1
-sS'r'
-I1
-sS'architecture'
-p39
-I1
-sS'organization'
-p40
-I1
-sS'security'
-p41
-I1
-sS'analysis'
-p42
-I1
-sS'data analytics'
-p43
-I1
-sS'statistical analysis'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-sS'major'
-p47
-(dp48
-S'information'
-p49
-I1
-sS'management'
-p50
-I1
-sS'big data'
-p51
-I1
-sS'science'
-p52
-I1
-sS'applied science technology'
-p53
-I1
-sS'computer science computer engineering'
-p54
-I1
-sS'computer engineering'
-p55
-I1
-sS'high performance computing'
-p56
-I1
-sS'machine learning'
-p57
-I1
-sS'engineering'
-p58
-I1
-sS'design'
-p59
-I1
-sS'computer science'
-p60
-I1
-sS'computer security'
-p61
-I1
-sS'data mining'
-p62
-I1
-sS'communication'
-p63
-I1
-sS'ee computer science'
-p64
-I1
-sS'data analytics'
-p65
-I1
-ssS'education'
-p66
-(dp67
-VBachelor
-p68
-I1
-ssS'responsibility'
-p69
-(dp70
-S'development'
-p71
-I1
-sS'information'
-p72
-I1
+F0.0019516837731468879
 sS'data analysis'
-p73
-I1
+p24
+F0.0022687492583572861
+sS'python'
+p25
+F0.00079702066170224157
 sS'processing'
-p74
-I1
-sS'decision-making'
-p75
-I1
-sS'construct'
-p76
-I1
-sS'simulation'
-p77
-I1
-sS'design'
-p78
-I1
-sS'analysis'
-p79
-I1
-sS'data mining'
-p80
-I1
+p26
+F0.002497076585123425
+sS'data scientist'
+p27
+F0.0016198343504034837
+sS'information visualization'
+p28
+F0.00866498109026205
+sS'architectures'
+p29
+F0.0073401888354981066
+sS'computer security'
+p30
+F0.0086242040969790636
 sS'modeling'
-p81
-I1
+p31
+F0.0012418129801552791
+sS'data'
+p32
+F0.0016321305670799026
+sS'linux'
+p33
+F0.0028227492932709928
+sS'c'
+F0.001912265938682106
+sS'national security'
+p34
+F0.0064260752718839171
+sS'science'
+p35
+F0.0075248275494780529
+sS'machine learning'
+p36
+F0.0010023206755872161
+sS'programming'
+p37
+F0.0050564919029122751
+sS'engineering'
+p38
+F0.0093643331580554635
+sS'analysis'
+p39
+F0.0031432910252672474
+sS'simulation'
+p40
+F0.016421013991892181
+sS'data integration'
+p41
+F0.005918442141332695
+sS'r'
+F0.00084861208962376327
+sS'testing'
+p42
+F0.0031305474233945152
+sS'architecture'
+p43
+F0.0066881178063751016
+sS'organization'
+p44
+F0.0026959997542533353
+sS'security'
+p45
+F0.0066830300174917185
+sS'data analytics'
+p46
+F0.0031228175557886807
+sS'statistical analysis'
+p47
+F0.003936850387481052
+ssS'working-year'
+p48
+(dp49
+sS'major'
+p50
+(dp51
+VData Science
+p52
+F0.0015707782608640102
+sVManagement Science and Engineering
+p53
+F0.0019717806398606916
+sVEngineering
+p54
+F0.0093643331580554635
+sVComputer Science
+p55
+F0.0013843360035966327
+ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0013935456080579613
+ssS'responsibility'
+p59
+(dp60
+S'development'
+p61
+F0.0018516223278503344
+sS'information'
+p62
+F0.0063628678877495166
+sS'data analysis'
+p63
+F0.0022687492583572861
+sS'processing'
+p64
+F0.002497076585123425
+sS'construct'
+p65
+F0.0081154818466725506
+sS'simulation'
+p66
+F0.016421013991892181
+sS'design'
+p67
+F0.0066991688532957692
+sS'analysis'
+p68
+F0.0031432910252672474
+sS'data mining'
+p69
+F0.003244616710523146
+sS'modeling'
+p70
+F0.0012418129801552791
 sS'implement'
-p82
-I1
+p71
+F0.0032383228977364031
+sS'evaluation'
+p72
+F0.0051734605257288645
 sS'model'
-p83
-I1
+p73
+F0.0023660716237028146
+sS'decision-making'
+p74
+F0.0056147330975307684
 ss.

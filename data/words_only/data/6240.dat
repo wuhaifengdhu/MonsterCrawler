@@ -4,203 +4,187 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.0044478431406345768
 sS'outlook'
 p5
-I1
+F0.011671367021615312
 sS'communication'
 p6
-I1
+F0.0018625521871892428
 sS'data science'
 p7
-I1
+F0.0014151069713654106
 sS'operations management'
 p8
-I1
+F0.0059001633491557529
 sS'health insurance'
 p9
-I1
+F0.0060596276441236465
 sS'defense'
 p10
-I1
+F0.0041548684163861625
 sS'geospatial data'
 p11
-I1
+F0.0066355640934403614
 sS'communication skills'
 p12
-I1
+F0.0043330892377177925
 sS'writing'
 p13
-I1
+F0.0052872007672529241
 sS'ic'
 p14
-I1
+F0.019987710434518278
 sS'research'
 p15
-I1
+F0.0030111541470414292
 sS'insurance'
 p16
-I1
+F0.0074192268554110295
 sS'visualization'
 p17
-I1
-sS'excel'
+F0.0022050532610987873
+sS'management'
 p18
-I1
-sS'strategy'
+F0.0010659398437642966
+sS'excel'
 p19
-I1
-sS'access'
+F0.0019022990903600769
+sS'integration'
 p20
-I1
-sS'urban planning'
+F0.0027132272025818969
+sS'strategy'
 p21
-I1
-sS'intelligence'
+F0.0037059092499454934
+sS'access'
 p22
-I1
-sS'unstructured data'
-p23
-I1
-sS'collaboration'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'leadership'
-p26
-I1
-sS'algorithm design'
-p27
-I1
-sS'data'
-p28
-I1
-sS'data collection'
-p29
-I1
-sS'word'
-p30
-I1
-sS'national security'
-p31
-I1
-sS'data visualization'
-p32
-I1
-sS'science'
-p33
-I1
-sS'documentation'
-p34
-I1
-sS'programming'
-p35
-I1
-sS'analysis'
-p36
-I1
-sS'customer support'
-p37
-I1
-sS'security'
-p38
-I1
-sS'validation'
-p39
-I1
-sS'microsoft office'
-p40
-I1
-sS'powerpoint'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(15, 20]
-p44
-I1
-sV(5, 10]
-p45
-I1
-sV(0, 2]
-p46
-I1
-sV(2, 5]
-p47
-I1
-sV(20, 30)
-p48
-I1
-sV(10, 15]
-p49
-I1
-ssS'major'
-p50
-(dp51
-S'science'
-p52
-I1
-sS'data science'
-p53
-I1
-sS'operations management'
-p54
-I1
-sS'general'
-p55
-I1
+F0.032745346236655835
 sS'urban planning'
-p56
-I1
-sS'design'
-p57
-I1
-sS'communication'
-p58
-I1
-ssS'education'
-p59
-(dp60
-VBachelor
-p61
-I1
-sVMaster
-p62
-I1
-sVDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'product'
-p66
-I1
+p23
+F0.0077291332801402842
+sS'intelligence'
+p24
+F0.0092356388816869361
+sS'unstructured data'
+p25
+F0.0037515393334743054
+sS'collaboration'
+p26
+F0.0030090228471452399
+sS'data scientist'
+p27
+F0.0012463196060751509
+sS'leadership'
+p28
+F0.0019440101425927316
+sS'algorithm design'
+p29
+F0.0049590962624363397
+sS'data'
+p30
+F0.0025115609196947205
+sS'a'
+F0.013200295719628424
 sS'data collection'
-p67
-I1
+p31
+F0.008530234228144102
+sS'word'
+p32
+F0.0065615733192896852
+sS'national security'
+p33
+F0.0049442979150730367
+sS'data visualization'
+p34
+F0.0023138042653877656
+sS'science'
+p35
+F0.0066167895359443988
 sS'documentation'
-p68
-I1
-sS'mapping'
-p69
-I1
+p36
+F0.010233321031567167
+sS'programming'
+p37
+F0.0025936829054938257
 sS'analysis'
-p70
-I1
+p38
+F0.0012092425473675175
+sS'options'
+p39
+F0.0053430874056909919
+sS'customer support'
+p40
+F0.0059683832123923371
+sS'security'
+p41
+F0.0025710009596703431
+sS'validation'
+p42
+F0.003719955653029525
+sS'microsoft office'
+p43
+F0.0022592969939915571
+sS'powerpoint'
+p44
+F0.0057577044869041227
+ssS'working-year'
+p45
+(dp46
+V(2, 5]
+p47
+F0.0014575816805072182
+ssS'major'
+p48
+(dp49
+VData Science
+p50
+F0.0012085752736530147
+sVOperations Research
+p51
+F0.0037867398802201809
+sVManagement Science and Engineering
+p52
+F0.0015171112217281086
+ssS'education'
+p53
+(dp54
+VBachelor
+p55
+F0.0010722103854940079
+sVMaster
+p56
+F0.00085562433555785508
+sVDoctor
+p57
+F0.001281390319737021
+ssS'responsibility'
+p58
+(dp59
+S'product'
+p60
+F0.0047470337319449885
+sS'data collection'
+p61
+F0.008530234228144102
+sS'documentation'
+p62
+F0.010233321031567167
+sS'mapping'
+p63
+F0.0050280937751596743
+sS'analysis'
+p64
+F0.0012092425473675175
 sS'design'
-p71
-I1
+p65
+F0.0034362795529846528
 sS'report'
-p72
-I1
+p66
+F0.0024415016707910928
 sS'model'
-p73
-I1
+p67
+F0.0091024167170684744
 sS'presentation'
-p74
-I1
+p68
+F0.0057961278642578978
 ss.

@@ -4,104 +4,94 @@ p2
 (lp3
 S'intelligence'
 p4
-aS'data science'
-p5
 aS'sql'
-p6
+p5
 aS'hardware'
-p7
+p6
 aS'unix'
-p8
-aS'r programming'
-p9
+p7
 aS'access'
+p8
+aS'communication'
+p9
+aS'data analysis'
 p10
-aS'communication'
-p11
-aS'data analysis'
-p12
 aS'python'
-p13
+p11
 aS'data scientist'
-p14
+p12
 aS'aws'
-p15
+p13
 aS'scalability'
-p16
+p14
 aS'algorithm design'
-p17
+p15
 aS'data'
-p18
+p16
 aS'economics'
-p19
+p17
 aS'programming'
+p18
+aS'engineering'
+p19
+aS'analysis'
 p20
-aS'engineering'
+aS'machine learning'
 p21
-aS'analysis'
-p22
-aS'machine learning'
-p23
 aS'e-commerce'
-p24
+p22
 aS'exploratory data analysis'
+p23
+aS'optimization'
+p24
+aS'organization'
 p25
-aS'optimization'
-p26
 asS'working-year'
-p27
-(lp28
+p26
+(lp27
 V(2, 5]
-p29
+p28
 asS'major'
-p30
-(lp31
-S'business'
+p29
+(lp30
+VEngineering
+p31
+aVEconomics
 p32
-aS'communication'
+aVComputer Science
 p33
-aS'data science'
+aVBusiness
 p34
-aS'economics'
-p35
-aS'machine learning'
-p36
-aS'engineering'
-p37
-aS'design'
-p38
-aS'statistic'
-p39
 asS'education'
-p40
-(lp41
+p35
+(lp36
 S'Bachelor'
-p42
+p37
 asS'responsibility'
-p43
-(lp44
+p38
+(lp39
 S'product'
-p45
+p40
 aS'data analysis'
-p46
+p41
 aS'identify opportunity'
-p47
+p42
 aS'business problem'
-p48
-aVinsight
-p49
+p43
+aS'insight'
+p44
 aS'communicate'
-p50
+p45
 aS'analysis'
-p51
+p46
 aS'optimization'
-p52
+p47
 aS'design'
-p53
+p48
 aS'recommendation'
-p54
+p49
 aS'model'
-p55
+p50
 aS'extract'
-p56
+p51
 as.

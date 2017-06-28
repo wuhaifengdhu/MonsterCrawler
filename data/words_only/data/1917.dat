@@ -2,295 +2,289 @@
 S'skills'
 p2
 (dp3
-S'consulting'
+S'soa'
 p4
-I1
-sS'data scientist'
+F0.0066531968966611595
+sS'consulting'
 p5
-I1
-sS'problem solving'
+F0.0034496407551314057
+sS'data scientist'
 p6
-I1
-sS'nosql'
+F0.0016173613208608829
+sS'problem solving'
 p7
-I1
-sS'communication'
+F0.003747499030462979
+sS'nosql'
 p8
-I1
-sS'data science'
+F0.0041783921591855297
+sS'eclipse'
 p9
-I1
-sS'sql'
-p10
-I1
-sS'strategic planning'
-p11
-I1
-sS'analytics'
-p12
-I1
-sS'unix'
-p13
-I1
-sS'data warehousing'
-p14
-I1
-sS'virtualization'
-p15
-I1
-sS'system design'
-p16
-I1
-sS'it management'
-p17
-I1
-sS'research'
-p18
-I1
-sS'content management'
-p19
-I1
-sS'cassandra'
-p20
-I1
-sS'xml'
-p21
-I1
-sS'business intelligence'
-p22
-I1
-sS'tableau'
-p23
-I1
-sS'rdbms'
-p24
-I1
-sS'big data'
-p25
-I1
-sS'agile'
-p26
-I1
-sS'power bi'
-p27
-I1
-sS'integration'
-p28
-I1
-sS'governance'
-p29
-I1
-sS'strategy'
-p30
-I1
-sS'computer science'
-p31
-I1
-sS'microstrategy'
-p32
-I1
-sS'master data management'
-p33
-I1
-sS'data management'
-p34
-I1
-sS'business objects'
-p35
-I1
-sS'distributed computing'
-p36
-I1
-sS'web services'
-p37
-I1
-sS'spotfire'
-p38
-I1
-sS'quality management'
-p39
-I1
-sS'aws'
-p40
-I1
-sS'data quality'
-p41
-I1
-sS'hive'
-p42
-I1
-sS'business process'
-p43
-I1
-sS'leadership'
-p44
-I1
-sS'uml'
-p45
-I1
-sS'modeling'
-p46
-I1
-sS'db2'
-p47
-I1
-sS'data'
-p48
-I1
-sS'project management'
-p49
-I1
-sS'data modeling'
-p50
-I1
-sS'risk analysis'
-p51
-I1
-sS'business strategy'
-p52
-I1
-sS'organization'
-p53
-I1
-sS'pig'
-p54
-I1
-sS'solution architecture'
-p55
-I1
-sS'programming'
-p56
-I1
-sS'thought leadership'
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'machine learning'
-p59
-I1
-sS'data architecture'
-p60
-I1
-sS'olap'
-p61
-I1
-sS'architecture'
-p62
-I1
-sS'oracle'
-p63
-I1
-sS'investment management'
-p64
-I1
-sS'hadoop'
-p65
-I1
-sS'data integration'
-p66
-I1
-sS'troubleshooting'
-p67
-I1
-ssS'working-year'
-p68
-(dp69
-V(5, 10]
-p70
-I1
-sV(2, 5]
-p71
-I1
-sV(10, 15]
-p72
-I1
-ssS'major'
-p73
-(dp74
-S'information'
-p75
-I1
-sS'business'
-p76
-I1
-sS'big data'
-p77
-I1
-sS'computing'
-p78
-I1
-sS'communication'
-p79
-I1
-sS'machine learning data science'
-p80
-I1
-sS'machine learning'
-p81
-I1
-sS'analytics'
-p82
-I1
-sS'information system'
-p83
-I1
-sS'design'
-p84
-I1
-sS'computer science'
-p85
-I1
-sS'ee computer science'
-p86
-I1
+F0.006262105190120798
 sS'data science'
-p87
-I1
-sS'project management'
-p88
-I1
-ssS'education'
-p89
-(dp90
-VMaster
-p91
-I1
-ssS'responsibility'
-p92
-(dp93
-S'development'
-p94
-I1
-sS'large data set'
-p95
-I1
-sS'product'
-p96
-I1
-sS'explore opportunity'
-p97
-I1
-sS'information'
-p98
-I1
-sS'analysis'
-p99
-I1
-sS'design'
-p100
-I1
-sS'recommendation'
-p101
-I1
+p10
+F0.0018363983597871744
+sS'sql'
+p11
+F0.0020822713246810599
+sS'strategic planning'
+p12
+F0.0052699903318697682
+sS'analytics'
+p13
+F0.0013278434534099643
+sS'business intelligence'
+p14
+F0.0031191500897319404
+sS'data warehousing'
+p15
+F0.0046434965827241116
+sS'virtualization'
+p16
+F0.00772261181408118
+sS'system design'
+p17
+F0.0070886911859283286
+sS'it management'
+p18
+F0.00763534763096556
+sS'tableau'
+p19
+F0.0030672154001889951
+sS'research'
+p20
+F0.0039076046182980381
+sS'content management'
+p21
+F0.0081321728690375347
+sS'cassandra'
+p22
+F0.0057471855306269869
+sS'xml'
+p23
+F0.0050288746800848765
+sS'management'
+p24
+F0.0013832807132819116
+sS'java'
+p25
+F0.0018920106376615015
+sS'rdbms'
+p26
+F0.0068302327424330711
+sS'big data'
+p27
+F0.0019430917959735383
+sS'agile'
+p28
+F0.0033338776682435255
+sS'power bi'
+p29
+F0.0077914975466857068
+sS'integration'
+p30
+F0.0070419637318919464
+sS'governance'
+p31
+F0.0055030778944974027
+sS'strategy'
+p32
+F0.0024045976049264653
+sS'unix'
+p33
+F0.0039421202882214505
+sS'computer science'
+p34
+F0.0021465393331102606
+sS'microstrategy'
+p35
+F0.0069744920022842835
+sS'communication'
+p36
+F0.002417052456657796
+sS'intelligence'
+p37
+F0.0023970360456286701
+sS'master data management'
+p38
+F0.0076567005294387635
+sS'data management'
+p39
+F0.0041983482513118639
+sS'business objects'
+p40
+F0.0065665525168153924
+sS'distributed computing'
+p41
+F0.0054616739884874995
+sS'web services'
+p42
+F0.0044901361345957031
+sS'spotfire'
+p43
+F0.0065560597140465115
+sS'quality management'
+p44
+F0.008611037373166883
+sS'aws'
+p45
+F0.015960160908590596
+sS'data quality'
+p46
+F0.0053966993331087381
+sS'hive'
+p47
+F0.0031843576328091702
+sS'business process'
+p48
+F0.0046645540908698572
+sS'leadership'
+p49
+F0.0025227612537462932
+sS'uml'
+p50
+F0.0067569370808446463
 sS'modeling'
-p102
-I1
+p51
+F0.0012399170824756527
+sS'db2'
+p52
+F0.0075730244033381799
+sS'data'
+p53
+F0.0025349936339581999
+sS'project management'
+p54
+F0.0029029821730145742
+sS'data modeling'
+p55
+F0.0039880942668981244
+sS'risk analysis'
+p56
+F0.008019031497657465
+sS'j2ee'
+p57
+F0.007552802825818692
+sS'business strategy'
+p58
+F0.0046405119394189879
+sS'organization'
+p59
+F0.0026918837240941696
+sS'pig'
+p60
+F0.004120043015444109
+sS'science'
+p61
+F0.001073334180448996
+sS'solution architecture'
+p62
+F0.006947228749687135
+sS'programming'
+p63
+F0.0016829240226486654
+sS'thought leadership'
+p64
+F0.006262105190120798
+sS'analysis'
+p65
+F0.00052308201794523657
+sS'machine learning'
+p66
+F0.0010007904150138006
+sS'data architecture'
+p67
+F0.0061946161142218369
+sS'windows'
+p68
+F0.0051446771714255103
+sS'olap'
+p69
+F0.0078636389274887031
+sS'architecture'
+p70
+F0.01001686040924271
+sS'oracle'
+p71
+F0.0040076664100172849
+sS'investment management'
+p72
+F0.0093126114506117807
+sS'hadoop'
+p73
+F0.0019615366433581144
+sS'data integration'
+p74
+F0.0059094063518039426
+sS'troubleshooting'
+p75
+F0.0057410419324186194
+ssS'working-year'
+p76
+(dp77
+V(5, 10]
+p78
+F0.0018406782619494026
+sV(2, 5]
+p79
+F0.0018915182113452449
+sV(10, 15]
+p80
+F0.0029884371850356626
+ssS'major'
+p81
+(dp82
+VData Science
+p83
+F0.0015683801261145993
+sVComputer Science
+p84
+F0.0013822225135148058
+sVBusiness
+p85
+F0.0016514722857620065
+sVManagement Science and Engineering
+p86
+F0.0019687702877387672
+ssS'education'
+p87
+(dp88
+VMaster
+p89
+F0.0011103521911819494
+ssS'responsibility'
+p90
+(dp91
+S'development'
+p92
+F0.0073951816941320225
+sS'information'
+p93
+F0.0021177178618769382
+sS'product'
+p94
+F0.0041068485212755624
+sS'explore opportunity'
+p95
+F0.010248647243983706
+sS'large data set'
+p96
+F0.0048006979165387273
+sS'analysis'
+p97
+F0.00052308201794523657
+sS'design'
+p98
+F0.0044592940763922978
+sS'recommendation'
+p99
+F0.0039880942668981244
+sS'modeling'
+p100
+F0.0012399170824756527
 sS'prototype'
-p103
-I1
+p101
+F0.0048140021580911265
 sS'presentation'
-p104
-I1
+p102
+F0.0037608463241368042
 ss.

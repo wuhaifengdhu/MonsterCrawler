@@ -2,67 +2,70 @@
 S'skills'
 p2
 (dp3
-S'manufacturing'
+S'retail'
 p4
-I1
-sS'energy'
+F0.028716345703471018
+sS'manufacturing'
 p5
-I1
-sS'data scientist'
+F0.031105488100265078
+sS'energy'
 p6
-I1
-sS'analytics'
+F0.025712460883750701
+sS'data scientist'
 p7
-I1
-sS'business intelligence'
+F0.0088280972096989856
+sS'analytics'
 p8
-I1
-sS'healthcare'
+F0.0072478121831960549
+sS'business intelligence'
 p9
-I1
-sS'retail'
+F0.017025360906453509
+sS'healthcare'
 p10
-I1
-sS'data'
+F0.022477002860918034
+sS'oracle'
 p11
-I1
-sS'information technology'
+F0.021875179154677682
+sS'sap'
 p12
-I1
-ssS'working-year'
+F0.033459499489823824
+sS'data'
 p13
-(dp14
-V(2, 5]
+F0.00098834573228727429
+sS'telecommunications'
+p14
+F0.037701939492285806
+sS'information technology'
 p15
-I1
-ssS'major'
+F0.025972075598014541
+ssS'working-year'
 p16
 (dp17
-S'information technology'
+V(2, 5]
 p18
-I1
-sS'information'
+F0.010324536903592797
+ssS'major'
 p19
-I1
-sS'telecommunication'
-p20
-I1
-sS'business'
+(dp20
+VData Science
 p21
-I1
-sS'analytics'
+F0.0085607415217088551
+sVInformation Science
 p22
-I1
-ssS'education'
+F0.021105459904617447
+sVBusiness
 p23
-(dp24
+F0.0090142862264509516
+ssS'education'
+p24
+(dp25
 S'Bachelor'
-p25
-I1
-ssS'responsibility'
 p26
-(dp27
+F0.0075948235639158894
+ssS'responsibility'
+p27
+(dp28
 S'information'
-p28
-I1
+p29
+F0.023118419992156577
 ss.

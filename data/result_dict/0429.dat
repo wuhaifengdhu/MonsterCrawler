@@ -2,72 +2,70 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'integration'
 p4
-aS'big data'
+aS'statistics'
 p5
-aS'apis'
+aS'big data'
 p6
-aS'science'
+aS'apis'
 p7
-aS'integration'
+aS'science'
 p8
-aS'machine learning'
+aS'management'
 p9
-aS'access'
+aS'physics'
 p10
-aS'engineering'
+aS'governance'
 p11
-aS'data governance'
+aS'machine learning'
 p12
-aS'devops'
+aS'access'
 p13
-aS'computer science'
+aS'engineering'
 p14
-aS'knowledge management'
+aS'data governance'
 p15
-aS'mathematics'
+aS'devops'
 p16
-aS'data'
+aS'computer science'
 p17
-aS'data integration'
+aS'knowledge management'
 p18
-asS'working-year'
+aS'mathematics'
 p19
-(lp20
-V[0]
+aS'data'
+p20
+aS'data integration'
 p21
-asS'major'
+asS'working-year'
 p22
 (lp23
-S'management'
+S'[0]'
 p24
-aS'big data'
+asS'major'
 p25
-aS'knowledge management'
-p26
-aS'machine learning'
+(lp26
+VStatistics
 p27
-aS'engineering'
+aVEngineering
 p28
-aS'computer science'
+aVComputer Science
 p29
-aS'statistic'
+aVMathematics
 p30
-aS'mathematics'
+aVPhysics
 p31
-aS'computer science mathematics'
+aVManagement Science and Engineering
 p32
-aVphysic
-p33
-aS'science'
-p34
 asS'education'
+p33
+(lp34
+VBachelor
 p35
-(lp36
-S'Bachelor'
-p37
 asS'responsibility'
+p36
+(lp37
+S'develop ... system'
 p38
-(lp39
-s.
+as.

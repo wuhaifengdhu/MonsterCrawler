@@ -4,98 +4,107 @@ p2
 (lp3
 S'consulting'
 p4
-aS'go'
+aS'qualtrics'
 p5
-aS'research'
+aS'presentations'
 p6
-aS'quantitative analysis'
+aS'go'
 p7
-aS'visualization'
-p8
-aS'management'
-p9
-aS'excel'
-p10
 aS'time management'
+p8
+aS'quantitative analysis'
+p9
+aS'research'
+p10
+aS'visualization'
 p11
-aS'market research'
-p12
-aS'innovation'
-p13
-aS'mathematics'
-p14
-aS'survey research'
-p15
-aS'marketing'
-p16
-aS'data scientist'
-p17
-aS'modeling'
-p18
-aS'data'
-p19
-aS'customer experience'
-p20
-aS'word'
-p21
-aS'data visualization'
-p22
-aS'science'
-p23
-aS'documentation'
-p24
-aS'education'
-p25
-aS'analysis'
-p26
-aS'spss'
-p27
-aS'organization'
-p28
-aS'powerpoint'
-p29
-asS'working-year'
-p30
-(lp31
-V[0]
-p32
-asS'major'
-p33
-(lp34
-S'marketing'
-p35
-aS'mathematics'
-p36
 aS'management'
-p37
-aS'business'
-p38
+p12
+aS'excel'
+p13
+aS'writing'
+p14
+aS'market research'
+p15
+aS'innovation'
+p16
+aS'mathematics'
+p17
+aS'survey research'
+p18
+aS'marketing'
+p19
+aS'data scientist'
+p20
+aS'modeling'
+p21
+aS'data'
+p22
+aS'project management'
+p23
+aS'customer experience'
+p24
+aS'a'
+aS'word'
+p25
+aS'data visualization'
+p26
 aS'science'
+p27
+aS'documentation'
+p28
+aS'education'
+p29
+aS'analysis'
+p30
+aS'spss'
+p31
+aS'organization'
+p32
+aS'powerpoint'
+p33
+asS'working-year'
+p34
+(lp35
+S'[0]'
+p36
+asS'major'
+p37
+(lp38
+VMathematics
 p39
-asS'education'
+aVEconomics
 p40
-(lp41
-VBachelor
+aVBusiness
+p41
+aVManagement Science and Engineering
 p42
-asS'responsibility'
+asS'education'
 p43
 (lp44
-S'product'
+VBachelor
 p45
-aS'documentation'
+aVMaster
 p46
-aS'presentation'
+asS'responsibility'
 p47
-aVinsight
-p48
-aS'analysis'
+(lp48
+S'product'
 p49
-aS'recommendation'
+aS'documentation'
 p50
-aS'report'
+aS'presentation'
 p51
-aS'modeling'
+aS'insight'
 p52
-aS'quantitative analysis'
+aS'analysis'
 p53
+aS'recommendation'
+p54
+aS'report'
+p55
+aS'modeling'
+p56
+aS'quantitative analysis'
+p57
 as.

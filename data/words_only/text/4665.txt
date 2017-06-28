@@ -1,5 +1,5 @@
-skills: {'search': 1, 'management': 1, 'java': 1, 'excel': 1, 'data scientist': 1, 'strategy': 1, 'analytics': 1, 'engineering': 1, 'customer support': 1, 'sql': 1, 'data': 1}
-working-year: {u'(2, 5]': 1}
-major: {'management': 1, 'business': 1, 'statistic': 1, 'analytics': 1, 'engineering': 1, 'design': 1, 'applied math': 1}
-education: {u'Master': 1}
-responsibility: {u'insight': 1, 'communicate': 1, 'design': 1, 'recommendation': 1, 'report': 1, 'implement': 1, 'model': 1}
+skills: {'a': 0.010218808161825282, 'search': 0.016950763812293813, 'management': 0.009902173412018057, 'java': 0.006771950642996085, 'data scientist': 0.005788916203081302, 'marketing': 0.010411008319549447, 'excel': 0.00883581544702768, 'strategy': 0.00860661984276959, 'analytics': 0.009505327453371876, 'engineering': 0.006693195503134725, 'algorithms': 0.009804216821668054, 'customer support': 0.027721998527505395, 'sql': 0.003726469173951077, 'db2': 0.0271056337933689, 'data': 0.0012961911243111793}
+working-year: {}
+major: {u'Business': 0.005911007361607181, u'Data Science': 0.005613600997841872, u'Economics': 0.008965964740570825, u'Engineering': 0.006693195503134725, u'Mathematics': 0.009367609451270228, u'Management Science and Engineering': 0.007046691467043128}
+education: {u'Master': 0.003974211394667633}
+responsibility: {'decision-making': 0.020065767463306683, 'insight': 0.010026739650325056, 'communicate': 0.010963075859462252, 'design': 0.007980430655838675, 'recommendation': 0.014274326474416782, 'report': 0.011340308306953165, 'implement': 0.023146045629722486, 'design ... experiment': 0.02453733093604456, 'model': 0.00845579695028219}

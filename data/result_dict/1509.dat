@@ -2,15 +2,15 @@
 S'skills'
 p2
 (lp3
-S'field work'
+S'leadership development'
 p4
-aS'leadership development'
-p5
-aS'word'
-p6
-aS'microsoft office'
-p7
 aS'data scientist'
+p5
+aS'microsoft office'
+p6
+aS'management'
+p7
+aS'communication'
 p8
 aS'human resources'
 p9
@@ -24,54 +24,46 @@ aS'leadership'
 p13
 aS'troubleshooting'
 p14
-aS'automotive'
-p15
-aS'communication'
-p16
-aS'management'
-p17
 aS'problem solving'
-p18
+p15
+aS'automotive'
+p16
+aS'word'
+p17
 aS'strategy'
-p19
+p18
 aS'data'
-p20
+p19
 aS'powerpoint'
+p20
+aS'project management'
 p21
-aS'project management'
-p22
 aS'performance management'
-p23
+p22
 asS'working-year'
-p24
-(lp25
-V[0]
-p26
+p23
+(lp24
+S'[0]'
+p25
 asS'major'
-p27
-(lp28
-S'information'
+p26
+(lp27
+VBusiness
+p28
+aVManagement Science and Engineering
 p29
-aS'management'
-p30
-aS'business'
-p31
-aS'project management'
-p32
-aS'communication'
-p33
 asS'education'
+p30
+(lp31
+VBachelor
+p32
+aVMaster
+p33
+asS'responsibility'
 p34
 (lp35
-VBachelor
-p36
-aVMaster
-p37
-asS'responsibility'
-p38
-(lp39
 S'development'
-p40
+p36
 aS'information'
-p41
+p37
 as.

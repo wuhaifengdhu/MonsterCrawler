@@ -6,7 +6,7 @@ S'analytics'
 p4
 aS'engineering'
 p5
-aS'mathematical modeling'
+aS'sas'
 p6
 aS'research'
 p7
@@ -16,109 +16,112 @@ aS'experimentation'
 p9
 aS'visualization'
 p10
-aS'management'
+aS'statistics'
 p11
 aS'psychology'
 p12
-aS'strategy'
+aS'mathematical modeling'
 p13
-aS'mathematics'
+aS'strategy'
 p14
-aS'customer satisfaction'
+aS'mathematics'
 p15
-aS'python'
+aS'customer satisfaction'
 p16
-aS'business process'
+aS'python'
 p17
-aS'sql'
+aS'marketing'
 p18
-aS'modeling'
+aS'business process'
 p19
-aS'data'
+aS'management'
 p20
-aS'training'
+aS'sql'
 p21
-aS'data visualization'
+aS'modeling'
 p22
-aS'quantitative research'
+aS'data'
 p23
-aS'analysis'
+aS'a'
+aS'training'
 p24
-aS'machine learning'
+aS'data visualization'
 p25
+aS'quantitative research'
+p26
+aS'analysis'
+p27
+aS'machine learning'
+p28
 aS'r'
 aS'data analytics'
-p26
-aS'validation'
-p27
-aS'scripting'
-p28
-aS'predictive analytics'
 p29
-asS'working-year'
+aS'validation'
 p30
-(lp31
-V(2, 5]
+aS'scripting'
+p31
+aS'predictive analytics'
 p32
-asS'major'
+asS'working-year'
 p33
 (lp34
-S'management'
+V(2, 5]
 p35
-aS'psychology'
+asS'major'
 p36
-aS'business'
-p37
-aS'machine learning'
+(lp37
+VStatistics
 p38
-aS'analytics'
+aVPsychology
 p39
-aS'engineering'
+aVBusiness
 p40
-aS'design'
+aVData Science
 p41
-aS'statistic'
+aVEconomics
 p42
-aS'mathematics'
+aVEngineering
 p43
-aS'phd'
+aVComputer Science
 p44
-aS'econometrics'
+aVMathematics
 p45
-aS'data analytics'
+aVManagement Science and Engineering
 p46
-aS'predictive analytics'
-p47
 asS'education'
-p48
-(lp49
-VDoctor
+p47
+(lp48
+VMaster
+p49
+aVDoctor
 p50
 asS'responsibility'
 p51
 (lp52
-Vtest hypothesis
+S'product'
 p53
-aS'presentation'
+aVtest hypothesis
 p54
-aVinsight
+aS'design ... experiment'
 p55
-aS'analysis'
+aS'presentation'
 p56
-aS'improvement'
+aS'insight'
 p57
-aS'design'
+aS'analysis'
 p58
-aS'design experiment'
+aS'improvement'
 p59
-aS'recommendation'
+aS'design'
 p60
-aS'understand'
+aS'recommendation'
 p61
-aS'modeling'
+aS'understand'
 p62
-aS'prototype'
+aS'modeling'
 p63
-aS'extract'
+aS'prototype'
 p64
+aS'extract'
+p65
 as.

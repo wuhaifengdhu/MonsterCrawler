@@ -2,153 +2,168 @@
 S'skills'
 p2
 (dp3
-S'data scientist'
+S'nosql'
 p4
-I1
+F0.0088285382718274914
 sS'data science'
 p5
-I1
+F0.0038801320182599974
 sS'analytics'
 p6
-I1
-sS'management'
+F0.014028023580379462
+sS'statistics'
 p7
-I1
+F0.0030081059832342085
 sS'big data'
 p8
-I1
-sS'hadoop'
+F0.0041055649237505404
+sS'industrial engineering'
 p9
-I1
-sS'customer service'
+F0.014885106133303653
+sS'hadoop'
 p10
-I1
-sS'advanced analytics'
+F0.0082890742025778386
+sS'computer science'
 p11
-I1
-sS'unstructured data'
+F0.0045354298812490985
+sS'customer service'
 p12
-I1
-sS'pyspark'
-p13
-I1
-sS'python'
-p14
-I1
-sS'marketing'
-p15
-I1
-sS'aws'
-p16
-I1
-sS'apache spark'
-p17
-I1
-sS'sql'
-p18
-I1
-sS'apache'
-p19
-I1
-sS'spark'
-p20
-I1
-sS'credit risk'
-p21
-I1
-sS'customer experience'
-p22
-I1
-sS'fraud'
-p23
-I1
-sS'science'
-p24
-I1
-sS'hive'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'credit'
-p27
-I1
-sS'h2o'
-p28
-I1
-sS'r'
-I1
-sS'financial services'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'management'
-p35
-I1
-sS'business'
-p36
-I1
-sS'big data'
-p37
-I1
-sS'marketing'
-p38
-I1
-sS'data science'
-p39
-I1
-sS'machine learning'
-p40
-I1
-sS'analytics'
-p41
-I1
-sS'design'
-p42
-I1
-sS'machine learning big data'
-p43
-I1
-sS'science'
-p44
-I1
+F0.011059741105121425
 sS'advanced analytics'
+p13
+F0.0094929372720583341
+sS'unstructured data'
+p14
+F0.010286478817590839
+sS'teradata'
+p15
+F0.011809892563979444
+sS'pyspark'
+p16
+F0.018110497053213312
+sS'python'
+p17
+F0.001681456492752471
+sS'marketing'
+p18
+F0.006145853298314673
+sS'aws'
+p19
+F0.0084305688670377743
+sS'apache spark'
+p20
+F0.0084761461044836773
+sS'management'
+p21
+F0.0087682148438676024
+sS'sql'
+p22
+F0.002199818899461442
+sS'apache'
+p23
+F0.0073003282856194465
+sS'modeling'
+p24
+F0.0026198248032953306
+sS'spark'
+p25
+F0.0054391471719859958
+sS'credit risk'
+p26
+F0.014458170490180073
+sS'data'
+p27
+F0.0015303417790254569
+sS'customer experience'
+p28
+F0.012358375488665307
+sS'fraud'
+p29
+F0.025237781132956699
+sS'science'
+p30
+F0.0022678512522390079
+sS'economics'
+p31
+F0.0077306187882563264
+sS'hive'
+p32
+F0.0067282395144838917
+sS'machine learning'
+p33
+F0.0021145732962388366
+sS'credit'
+p34
+F0.020500224672500945
+sS'h2o'
+p35
+F0.014511934572555805
+sS'r'
+F0.0017902977632707779
+sS'financial services'
+p36
+F0.013638615038387841
+sS'oracle'
+p37
+F0.0084678112856816836
+sS'organization'
+p38
+F0.0056876898041344553
+ssS'working-year'
+p39
+(dp40
+V(2, 5]
+p41
+F0.0039965949304230182
+ssS'major'
+p42
+(dp43
+VStatistics
+p44
+F0.0058113057093163879
+sVBusiness
 p45
-I1
-ssS'education'
+F0.0034894011199164974
+sVIndustrial Engineering
 p46
-(dp47
-VMaster
+F0.012935393748690779
+sVEconomics
+p47
+F0.0052928114436272935
+sVComputer Science
 p48
-I1
-sVDoctor
+F0.0029205024075877346
+sVData Science
 p49
-I1
-ssS'responsibility'
+F0.0033138354277582665
+sVManagement Science and Engineering
 p50
-(dp51
-S'development'
-p52
-I1
-sS'analytic'
+F0.0041598210918351369
+ssS'education'
+p51
+(dp52
+VMaster
 p53
-I1
-sVinsight
+F0.0023460667265296029
+sVDoctor
 p54
-I1
-sS'design'
+F0.0035134895863757035
+ssS'responsibility'
 p55
-I1
-sS'business problem'
-p56
-I1
+(dp56
+S'development'
+p57
+F0.0039063258142390924
+sS'analytic'
+p58
+F0.0072829870074182027
+sS'insight'
+p59
+F0.0059190108258370486
+sS'design'
+p60
+F0.0047110284194144441
+sS'modeling'
+p61
+F0.0026198248032953306
 ss.

@@ -10,15 +10,15 @@ aS'unix'
 p6
 aS'trading'
 p7
-aS'business objects'
-p8
 aS'analysis'
+p8
+aS'sas'
 p9
 aS'education'
 p10
 aS'quantitative analysis'
 p11
-aS'management'
+aS'statistics'
 p12
 aS'java'
 p13
@@ -30,83 +30,70 @@ aS'mathematical statistics'
 p16
 aS'matlab'
 p17
-aS'computer science'
-p18
 aS'finance'
-p19
+p18
 aS'risk analysis'
+p19
+aS'management'
 p20
 aS'sql'
 p21
 aS'data'
 p22
-aS'science'
-p23
+aS'c'
 aS'engineering'
+p23
+aS'business objects'
 p24
-aS'c++'
-p25
 aS'r'
 aS'financial engineering'
-p26
+p25
 aS'security'
-p27
+p26
 asS'working-year'
-p28
-(lp29
+p27
+(lp28
 V(5, 10]
-p30
+p29
 asS'major'
-p31
-(lp32
-S'management'
+p30
+(lp31
+VStatistics
+p32
+aVBusiness
 p33
-aS'finance'
+aVEconomics
 p34
-aS'business'
+aVEngineering
 p35
-aS'science'
+aVComputer Science
 p36
-aS'computer sciences'
+aVManagement Science and Engineering
 p37
-aS'phd'
-p38
-aS'mathematical statistics'
-p39
-aS'financial engineering'
-p40
-aS'statistic'
-p41
-aS'law'
-p42
-aS'engineering'
-p43
-aS'computer science'
-p44
 asS'education'
-p45
-(lp46
+p38
+(lp39
 VBachelor
-p47
+p40
 aVMaster
-p48
+p41
 aVDoctor
-p49
+p42
 asS'responsibility'
-p50
-(lp51
+p43
+(lp44
 S'development'
-p52
+p45
 aS'pattern'
-p53
+p46
 aS'analysis'
-p54
+p47
 aS'recommendation'
-p55
+p48
 aS'report'
-p56
+p49
 aS'model'
-p57
+p50
 aS'quantitative analysis'
-p58
+p51
 as.

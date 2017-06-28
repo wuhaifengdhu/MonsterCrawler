@@ -4,187 +4,168 @@ p2
 (dp3
 S'scientific programming'
 p4
-I1
+F0.018047444691182742
 sS'data science'
 p5
-I1
+F0.0038307035849063672
 sS'testing'
 p6
-I1
+F0.0065203121493630986
 sS'engineering'
 p7
-I1
+F0.0039008113919543142
 sS'security clearance'
 p8
-I1
-sS'system design'
-p9
-I1
+F0.011636370933945445
 sS'education'
+p9
+F0.0066835246809339782
+sS'statistics'
 p10
-I1
-sS'management'
-p11
-I1
+F0.0029697861617917344
 sS'dna'
-p12
-I1
-sS'molecular biology'
-p13
-I1
-sS'research'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'matlab'
-p17
-I1
+p11
+F0.030022120186133944
 sS'computational biology'
-p18
-I1
+p12
+F0.013267005781953238
+sS'research'
+p13
+F0.0027170711517889756
+sS'computer science'
+p14
+F0.0044776537044179006
+sS'mathematics'
+p15
+F0.0058213161849547963
+sS'matlab'
+p16
+F0.0040649719351530727
+sS'molecular biology'
+p17
+F0.013172498454639867
 sS'python'
-p19
-I1
+p18
+F0.0016600366648193185
 sS'data scientist'
+p19
+F0.0033737951119868735
+sS'management'
 p20
-I1
+F0.0028855059464957078
 sS'statistical modeling'
 p21
-I1
+F0.0057049857330904348
 sS'bioinformatics'
 p22
-I1
+F0.03113940086228938
 sS'sequencing'
 p23
-I1
+F0.12570735956225831
 sS'modeling'
 p24
-I1
+F0.0025864512389221416
 sS'data'
 p25
-I1
+F0.00075542348964632432
+sS'a'
+F0.0059555474318918047
 sS'dna sequencing'
 p26
-I1
-sS'programming'
+F0.017720521824431842
+sS'science'
 p27
-I1
-sS'analysis'
+F0.002238961427369721
+sS'programming'
 p28
-I1
-sS'machine learning'
-p29
-I1
-sS'r'
-I1
-sS'security'
-p30
-I1
-sS'chemistry'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(2, 5]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'information'
-p37
-I1
-sS'management'
-p38
-I1
-sS'molecular biology'
-p39
-I1
-sS'computational biology'
-p40
-I1
-sS'data science'
-p41
-I1
-sS'bioinformatics'
-p42
-I1
-sS'bioinformatics computational biology'
-p43
-I1
-sS'machine learning'
-p44
-I1
-sS'statistics computer science'
-p45
-I1
-sS'engineering'
-p46
-I1
-sS'design'
-p47
-I1
-sS'computer science'
-p48
-I1
-sS'statistic'
-p49
-I1
-sS'mathematics'
-p50
-I1
-sS'computational biolog'
-p51
-I1
-sS'electrical'
-p52
-I1
-sVphysic
-p53
-I1
-sS'chemistry'
-p54
-I1
-ssS'education'
-p55
-(dp56
-VBachelor
-p57
-I1
-sVMaster
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
-sS'information'
-p62
-I1
+F0.003510558072722535
 sS'analysis'
-p63
-I1
-sS'statistical model'
-p64
-I1
-sS'understand'
-p65
-I1
-sS'modeling'
-p66
-I1
-sS'report'
-p67
-I1
+p29
+F0.0065468545558113999
+sS'machine learning'
+p30
+F0.0020876360567963037
+sS'r'
+F0.0017674914223373924
+sS'security'
+p31
+F0.0069597159736299111
+sS'chemistry'
+p32
+F0.025475896489645714
+sS'physics'
+p33
+F0.0077486763612951062
+ssS'working-year'
+p34
+(dp35
+V(2, 5]
+p36
+F0.0039456828930927888
+ssS'major'
+p37
+(dp38
+VStatistics
+p39
+F0.0057372763372231855
+sVData Science
+p40
+F0.0032716209637103908
+sVEngineering
+p41
+F0.0039008113919543142
+sVChemical Engineering
+p42
+F0.011975740336733107
+sVBiological Engineering
+p43
+F0.0083764196830467853
+sVMathematics
+p44
+F0.0054594666547211849
+sVManagement Science and Engineering
+p45
+F0.004106829740346791
+sVPhysics
+p46
+F0.0083558347171977417
+sVComputer Science
+p47
+F0.0028832985552617765
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0029024803428977924
+sVMaster
+p51
+F0.0023161805261916464
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.003856563701955792
+sS'information'
+p55
+F0.0044175324825776897
 sS'design'
-p68
-I1
+p56
+F0.0093020306370603673
+sS'analysis'
+p57
+F0.0065468545558113999
+sS'understand'
+p58
+F0.0066932478135168011
+sS'report'
+p59
+F0.013218321147595089
+sS'modeling'
+p60
+F0.0025864512389221416
+sS'design ... experiment'
+p61
+F0.014300418985019601
 ss.

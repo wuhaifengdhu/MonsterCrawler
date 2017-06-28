@@ -16,7 +16,7 @@ aS'data mining'
 p9
 aS'education'
 p10
-aS'management'
+aS'statistics'
 p11
 aS'big data'
 p12
@@ -48,98 +48,79 @@ aS'semantic analysis'
 p25
 aS'data scientist'
 p26
-aS'mathematics'
+aS'management'
 p27
-aS'software engineering'
+aS'mathematics'
 p28
-aS'data'
+aS'software engineering'
 p29
-aS'parallel programming'
+aS'data'
 p30
-aS'collaborative filtering'
+aS'a'
+aS'parallel programming'
 p31
-aS'science'
+aS'collaborative filtering'
 p32
-aS'aws'
+aS'science'
 p33
-aS'programming'
+aS'aws'
 p34
-aS'mapreduce'
+aS'programming'
 p35
-aS'analysis'
+aS'mapreduce'
 p36
-aS'machine learning'
+aS'analysis'
 p37
-aS'financial services'
+aS'machine learning'
 p38
-asS'working-year'
+aS'financial services'
 p39
-(lp40
-V(2, 5]
-p41
-asS'major'
+asS'working-year'
+p40
+(lp41
+sS'major'
 p42
 (lp43
-S'information'
+VStatistics
 p44
-aS'management'
+aVBusiness
 p45
-aS'business'
+aVData Science
 p46
-aS'big data'
+aVEconomics
 p47
-aS'computing'
+aVEngineering
 p48
-aS'ee computer science'
+aVComputer Science
 p49
-aS'marketing'
+aVMathematics
 p50
-aS'statistic'
+aVManagement Science and Engineering
 p51
-aS'mathematics'
-p52
-aS'machine learning'
-p53
-aS'analytics'
-p54
-aS'engineering'
-p55
-aS'computer science'
-p56
-aS'data mining'
-p57
-aS'software engineering'
-p58
-aS'phd'
-p59
-aS'information retrieval'
-p60
-aS'science'
-p61
 asS'education'
-p62
-(lp63
+p52
+(lp53
 VMaster
-p64
+p54
 aVDoctor
-p65
+p55
 asS'responsibility'
-p66
-(lp67
+p56
+(lp57
 S'development'
-p68
+p58
 aS'information'
-p69
+p59
 aS'product'
-p70
+p60
 aS'analysis'
-p71
+p61
 aS'analytic'
-p72
+p62
 aS'understand'
-p73
+p63
 aS'data mining'
-p74
+p64
 aS'model'
-p75
+p65
 as.

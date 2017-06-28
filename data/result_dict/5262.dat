@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'statistics'
 p4
 aS'science'
 p5
@@ -14,66 +14,64 @@ aS'analysis'
 p8
 aS'strategy'
 p9
-aS'it management'
-p10
 aS'managed care'
+p10
+aS'management'
 p11
 aS'statistical software'
 p12
 aS'organization'
 p13
-aS'mathematics'
+aS'sas'
 p14
-aS'education'
-p15
-aS'data'
-p16
-asS'working-year'
-p17
-(lp18
-V(5, 10]
-p19
-asS'major'
-p20
-(lp21
-S'information'
-p22
-aS'management'
-p23
-aS'business'
-p24
-aS'science'
-p25
-aS'pharmacy'
-p26
-aS'design'
-p27
-aS'statistic'
-p28
 aS'mathematics'
-p29
+p15
+aS'education'
+p16
+aS'data'
+p17
+asS'working-year'
+p18
+(lp19
+V(5, 10]
+p20
+asS'major'
+p21
+(lp22
+VMathematics
+p23
+aVStatistics
+p24
+aVChemical Engineering
+p25
+aVBusiness
+p26
+aVManagement Science and Engineering
+p27
 asS'education'
-p30
-(lp31
+p28
+(lp29
 VMaster
-p32
+p30
 asS'responsibility'
-p33
-(lp34
+p31
+(lp32
 S'information'
-p35
+p33
 aS'product'
-p36
+p34
 aS'predict'
-p37
+p35
 aS'analysis'
-p38
+p36
+aS'develop ... model'
+p37
 aS'design'
-p39
+p38
 aS'collect data'
-p40
+p39
 aS'report'
-p41
+p40
 aS'model'
-p42
+p41
 as.

@@ -4,197 +4,194 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0081453775722217913
 sS'communication'
 p5
-I1
+F0.0047118135687823108
 sS'data science'
 p6
-I1
+F0.0035798837073232116
 sS'intelligence analysis'
 p7
-I1
+F0.014461247731321505
 sS'pig'
 p8
-I1
-sS'business intelligence'
+F0.0080316314735591997
+sS'analytics'
 p9
-I1
-sS'analysis'
+F0.0025885043511414481
+sS'business intelligence'
 p10
-I1
-sS'data mining'
-p11
-I1
-sS'mapreduce'
-p12
-I1
-sS'data modeling'
-p13
-I1
-sS'amazon web services'
-p14
-I1
-sS'recruiting'
-p15
-I1
-sS'hadoop'
-p16
-I1
-sS'vertica'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'web services'
-p19
-I1
-sS'intelligence'
-p20
-I1
-sS'amazon web services aws'
-p21
-I1
-sS'innovation'
-p22
-I1
-sS'teradata'
-p23
-I1
-sS'distributed computing'
-p24
-I1
-sS'python'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'processing'
-p27
-I1
-sS'aws'
-p28
-I1
-sS'data quality'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'data'
-p32
-I1
-sS'etl'
-p33
-I1
-sS'architecture'
-p34
-I1
-sS'documentation'
-p35
-I1
-sS'programming'
-p36
-I1
-sS'engineering'
-p37
-I1
-sS'hive'
-p38
-I1
-sS'data architecture'
-p39
-I1
-sS'data integration'
-p40
-I1
-sS'data analytics'
-p41
-I1
-sS'netezza'
-p42
-I1
-sS'organization'
-p43
-I1
-sS'scripting'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-V[0]
-p47
-I1
-ssS'major'
-p48
-(dp49
-S'information'
-p50
-I1
-sS'business'
-p51
-I1
-sS'computing'
-p52
-I1
-sS'communication'
-p53
-I1
-sS'data science'
-p54
-I1
-sS'data science analytics'
-p55
-I1
-sS'engineering'
-p56
-I1
-sS'computer science'
-p57
-I1
-sS'data mining'
-p58
-I1
-sS'data analytics'
-p59
-I1
-ssS'education'
-p60
-(dp61
-S'Bachelor'
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'information'
-p65
-I1
-sS'product'
-p66
-I1
-sS'processing'
-p67
-I1
-sS'documentation'
-p68
-I1
+F0.00608048603801911
 sS'analysis'
-p69
-I1
+p11
+F0.0010196985766491961
 sS'data mining'
-p70
-I1
+p12
+F0.0063154146686968376
+sS'mapreduce'
+p13
+F0.0078473259433211925
+sS'data modeling'
+p14
+F0.0077744099548162828
+sS'amazon web services'
+p15
+F0.0098638961450847624
+sS'recruiting'
+p16
+F0.010264578126837473
+sS'hadoop'
+p17
+F0.0038238288732129907
+sS'vertica'
+p18
+F0.015281795385814072
+sS'computer science'
+p19
+F0.0041844739975810136
+sS'web services'
+p20
+F0.0087530927623815039
+sS'intelligence'
+p21
+F0.0046727934818058901
+sS'amazon web services aws'
+p22
+F0.010362455622811904
+sS'innovation'
+p23
+F0.0057613829527819157
+sS'teradata'
+p24
+F0.010896031829861985
+sS'distributed computing'
+p25
+F0.010647013281128905
+sS'python'
+p26
+F0.0015513437879561486
+sS'data scientist'
+p27
+F0.0031528918606067804
+sS'processing'
+p28
+F0.0048603812103295233
+sS'aws'
+p29
+F0.0077782034189931848
+sS'data quality'
+p30
+F0.010520351378530426
+sS'sql'
+p31
+F0.0020295948179554972
 sS'modeling'
-p71
-I1
+p32
+F0.0024171002649450964
+sS'data'
+p33
+F0.002117883712044159
+sS'etl'
+p34
+F0.016962884964376087
+sS'architecture'
+p35
+F0.0065089717937043398
+sS'science'
+p36
+F0.0020923627624824179
+sS'documentation'
+p37
+F0.0086292885682858044
+sS'programming'
+p38
+F0.0065614002073504513
+sS'engineering'
+p39
+F0.0036454011222430195
+sS'hive'
+p40
+F0.0062076019330059712
+sS'data architecture'
+p41
+F0.012075814151236019
+sS'data integration'
+p42
+F0.011519824882236851
+sS'data analytics'
+p43
+F0.0060783413139458243
+sS'netezza'
+p44
+F0.015234925553988841
+sS'organization'
+p45
+F0.0052475709502430986
+sS'scripting'
+p46
+F0.0072413225519245925
+ssS'working-year'
+p47
+(dp48
+S'[0]'
+p49
+F0.0065363533647154245
+ssS'major'
+p50
+(dp51
+VData Science
+p52
+F0.0030574076863245912
+sVEngineering
+p53
+F0.0067035087106152606
+sVBusiness
+p54
+F0.0032193879380181967
+sVComputer Science
+p55
+F0.0026945111498577314
+ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0027124369871128176
+sVMaster
+p59
+F0.0021645258488814786
+sVDoctor
+p60
+F0.0032416124160013927
+ssS'responsibility'
+p61
+(dp62
+S'information'
+p63
+F0.0041282892843136744
+sS'product'
+p64
+F0.0040029550318980553
+sS'processing'
+p65
+F0.0048603812103295233
+sS'documentation'
+p66
+F0.0086292885682858044
+sS'analysis'
+p67
+F0.0010196985766491961
+sS'design'
+p68
+F0.004346484553626421
+sS'data mining'
+p69
+F0.0063154146686968376
+sS'modeling'
+p70
+F0.0024171002649450964
 sS'presentation'
-p72
-I1
+p71
+F0.0073314117330643049
 ss.

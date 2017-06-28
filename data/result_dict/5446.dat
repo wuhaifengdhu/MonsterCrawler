@@ -4,100 +4,86 @@ p2
 (lp3
 S'insurance'
 p4
-aS'consulting'
+aS'life sciences'
 p5
-aS'science'
+aS'consulting'
 p6
-aS'data scientist'
+aS'statistics'
 p7
-aS'life sciences'
-p8
-aS'analysis'
-p9
-aS'information retrieval'
-p10
-aS'business analytics'
-p11
-aS'analytics'
-p12
-aS'computer science'
-p13
-aS'problem solving'
-p14
-aS'data mining'
-p15
-aS'information security'
-p16
-aS'mathematics'
-p17
-aS'security'
-p18
-aS'data'
-p19
-aS'statistical learning'
-p20
-aS'application development'
-p21
-asS'working-year'
-p22
-(lp23
-V(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
-aS'mathematics physics'
-p28
-aS'business'
-p29
 aS'science'
-p30
-aS'statistic'
-p31
-aS'life sciences'
-p32
-aS'phd'
-p33
-aS'business analytics'
-p34
-aS'analytics'
-p35
-aS'physics computer science'
-p36
-aS'computer science'
-p37
-aS'data mining'
-p38
-aS'mathematics'
-p39
-aS'information retrieval'
-p40
-aVphysic
-p41
-asS'education'
-p42
-(lp43
-VMaster
-p44
-aVDoctor
-p45
-asS'responsibility'
-p46
-(lp47
-S'development'
-p48
-aS'information'
-p49
-aS'business problem'
-p50
-aS'communicate'
-p51
+p8
+aS'data scientist'
+p9
+aS'physics'
+p10
 aS'analysis'
-p52
-aS'statistical method'
-p53
+p11
+aS'information retrieval'
+p12
+aS'business analytics'
+p13
+aS'analytics'
+p14
+aS'computer science'
+p15
+aS'problem solving'
+p16
 aS'data mining'
-p54
+p17
+aS'information security'
+p18
+aS'mathematics'
+p19
+aS'security'
+p20
+aS'data'
+p21
+aS'statistical learning'
+p22
+aS'application development'
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VStatistics
+p29
+aVBusiness
+p30
+aVData Science
+p31
+aVComputer Science
+p32
+aVMathematics
+p33
+aVPhysics
+p34
+asS'education'
+p35
+(lp36
+VMaster
+p37
+aVDoctor
+p38
+asS'responsibility'
+p39
+(lp40
+S'development'
+p41
+aS'information'
+p42
+aS'business problem'
+p43
+aS'communicate'
+p44
+aS'analysis'
+p45
+aS'statistical method'
+p46
+aS'data mining'
+p47
 as.

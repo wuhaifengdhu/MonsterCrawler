@@ -4,164 +4,148 @@ p2
 (dp3
 S'hardware'
 p4
-I1
+F0.013191176115646411
 sS'analytics'
 p5
-I1
-sS'engineering'
-p6
-I1
+F0.0046344802592372643
 sS'go'
+p6
+F0.0058240021226067988
+sS'statistics'
 p7
-I1
-sS'management'
+F0.0016563283389033831
+sS'big data'
 p8
-I1
-sS'big data'
-p9
-I1
+F0.0022606130130775623
 sS'integration'
-p10
-I1
+p9
+F0.00819269315166825
 sS'governance'
-p11
-I1
+p10
+F0.03201168757456304
 sS'strategy'
-p12
-I1
+p11
+F0.013987668128124643
 sS'risk management'
+p12
+F0.0056123575950057488
+sS'computer science'
 p13
-I1
-sS'computer science'
-p14
-I1
+F0.0024973059736895574
 sS'innovation'
-p15
-I1
+p14
+F0.0068768194391997288
 sS'policy'
+p15
+F0.0048484160355963578
+sS'operations research'
 p16
-I1
-sS'operations research'
-p17
-I1
+F0.0051171199210513496
 sS'systems engineering'
-p18
-I1
+p17
+F0.0076273874115461195
 sS'collaboration'
-p19
-I1
+p18
+F0.0045429296981766504
 sS'data scientist'
-p20
-I1
+p19
+F0.001881654822671187
 sS'information security'
-p21
-I1
+p20
+F0.0083536592818153742
 sS'leadership'
-p22
-I1
-sS'information technology'
-p23
-I1
-sS'risk assessment'
-p24
-I1
-sS'advanced analytics'
-p25
-I1
-sS'data center'
-p26
-I1
-sS'architecture'
-p27
-I1
+p21
+F0.0058700128639567395
 sS'organization'
-p28
-I1
-sS'security'
-p29
-I1
-sS'data analytics'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V[0]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'systems engineering'
-p36
-I1
-sS'information'
-p37
-I1
-sS'management'
-p38
-I1
-sS'business'
-p39
-I1
-sS'big data'
-p40
-I1
-sS'applied math'
-p41
-I1
-sS'mba'
-p42
-I1
-sS'data analyst'
-p43
-I1
-sS'data analytics'
-p44
-I1
-sS'analytics'
-p45
-I1
-sS'engineering'
-p46
-I1
-sS'information system'
-p47
-I1
-sS'statistics operations research'
-p48
-I1
-sS'statistic'
-p49
-I1
-sS'advanced analytics'
-p50
-I1
-sS'operations research'
-p51
-I1
+p22
+F0.0031317652562729685
+sS'data'
+p23
+F0.00063197950910021095
 sS'information technology'
-p52
-I1
-sS'computer science'
-p53
-I1
+p24
+F0.0055357887597899565
+sS'a'
+F0.0033215664184973832
+sS'risk assessment'
+p25
+F0.0089845661424923142
+sS'science'
+p26
+F0.0012487280429735212
+sS'advanced analytics'
+p27
+F0.0052270169704051218
+sS'data center'
+p28
+F0.0076642643405442877
+sS'architecture'
+p29
+F0.0077691457288975429
+sS'management'
+p30
+F0.0048279690969786088
+sS'security'
+p31
+F0.011644853369732462
+sS'data analytics'
+p32
+F0.0036275713703122509
+ssS'working-year'
+p33
+(dp34
+S'[0]'
+p35
+F0.0039009142638443744
+ssS'major'
+p36
+(dp37
+VStatistics
+p38
+F0.0031998308523766969
+sVBusiness
+p39
+F0.0019213398706467394
+sVData Science
+p40
+F0.0018246695961013546
+sVInformation Science
+p41
+F0.0044984994468101136
+sVComputer Science
+p42
+F0.0016080919118156266
+sVMathematics
+p43
+F0.003044889040110927
+sVOperations Research
+p44
+F0.0057171028386983199
+sVManagement Science and Engineering
+p45
+F0.0022904876349358659
 ssS'education'
-p54
-(dp55
-S'Bachelor'
-p56
-I1
+p46
+(dp47
+VBachelor
+p48
+F0.001618790102433227
+sVMaster
+p49
+F0.0012917951780180763
 ssS'responsibility'
-p57
-(dp58
+p50
+(dp51
 S'development'
-p59
-I1
+p52
+F0.0064527229258301176
 sS'information'
-p60
-I1
+p53
+F0.01724642343997471
 sS'model'
-p61
-I1
+p54
+F0.0027485094882800016
+sS'decision-making'
+p55
+F0.0065222654454442676
 ss.

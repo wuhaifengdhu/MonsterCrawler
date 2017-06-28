@@ -4,163 +4,161 @@ p2
 (lp3
 S'communication'
 p4
-aS'analytics'
-p5
-aS'analysis'
-p6
-aS'data mining'
-p7
-aS'hbase'
-p8
-aS'spss'
-p9
-aS'big data'
-p10
-aS'simulation'
-p11
-aS'hadoop'
-p12
-aS'research'
-p13
-aS'mahout'
-p14
-aS'computer science'
-p15
-aS'mathematics'
-p16
-aS'unstructured data'
-p17
-aS'operations research'
-p18
-aS'matlab'
-p19
-aS'segmentation'
-p20
-aS'data modeling'
-p21
-aS'python'
-p22
-aS'marketing'
-p23
-aS'data scientist'
-p24
-aS'data quality'
-p25
 aS'hive'
-p26
-aS'survey design'
-p27
-aS'sql'
-p28
-aS'modeling'
-p29
-aS'data'
-p30
-aS'customer experience'
-p31
-aS'science'
-p32
-aS'programming'
-p33
-aS'communication skills'
-p34
-aS'machine learning'
-p35
+p5
+aS'analytics'
+p6
+aS'analysis'
+p7
+aS'data mining'
+p8
+aS'sas'
+p9
+aS'hbase'
+p10
+aS'spss'
+p11
+aS'statistics'
+p12
+aS'big data'
+p13
 aS'online marketing'
+p14
+aS'simulation'
+p15
+aS'hadoop'
+p16
+aS'research'
+p17
+aS'mahout'
+p18
+aS'computer science'
+p19
+aS'mathematics'
+p20
+aS'unstructured data'
+p21
+aS'operations research'
+p22
+aS'matlab'
+p23
+aS'segmentation'
+p24
+aS'data modeling'
+p25
+aS'python'
+p26
+aS'marketing'
+p27
+aS'data scientist'
+p28
+aS'data quality'
+p29
+aS'metrics'
+p30
+aS'survey design'
+p31
+aS'sql'
+p32
+aS'modeling'
+p33
+aS'data'
+p34
+aS'customer experience'
+p35
+aS'science'
 p36
+aS'economics'
+p37
+aS'programming'
+p38
+aS'communication skills'
+p39
+aS'machine learning'
+p40
+aS'e-commerce'
+p41
 aS'r'
 aS'architecture'
-p37
-aS'predictive analytics'
-p38
-asS'working-year'
-p39
-(lp40
-V(5, 10]
-p41
-aV(2, 5]
 p42
-asS'major'
+aS'retail'
 p43
-(lp44
-S'science'
-p45
-aS'information'
-p46
-aS'business'
-p47
-aS'big data'
-p48
-aS'marketing'
-p49
-aS'statistic'
-p50
-aVapplied statistic
-p51
-aS'machine learning'
-p52
-aS'analytics'
-p53
-aS'design'
-p54
-aS'computer science'
-p55
-aS'applied statistics'
-p56
-aS'data mining'
-p57
-aS'communication'
-p58
-aS'mathematics'
-p59
-aS'operations research'
-p60
 aS'predictive analytics'
-p61
+p44
+asS'working-year'
+p45
+(lp46
+V(5, 10]
+p47
+aV(2, 5]
+p48
+asS'major'
+p49
+(lp50
+VStatistics
+p51
+aVBusiness
+p52
+aVData Science
+p53
+aVEconomics
+p54
+aVComputer Science
+p55
+aVMathematics
+p56
+aVOperations Research
+p57
 asS'education'
+p58
+(lp59
+VBachelor
+p60
+aVMaster
+p61
+asS'responsibility'
 p62
 (lp63
-VBachelor
+S'data mining'
 p64
-aVMaster
-p65
-asS'responsibility'
-p66
-(lp67
-S'development'
-p68
 aS'information'
-p69
+p65
 aVtest hypothesis
-p70
+p66
+aS'development'
+p67
 aS'business problem'
-p71
-aS'pattern'
-p72
-aVinsight
-p73
-aS'communicate'
-p74
-aS'analysis'
-p75
-aS'simulation'
-p76
-aS'statistical method'
-p77
-aS'design'
-p78
-aS'data mining'
-p79
-aS'interface'
-p80
-aS'modeling'
-p81
-aS'model'
-p82
-aS'statistical model'
-p83
+p68
 aS'evaluation'
-p84
+p69
+aS'insight'
+p70
+aS'communicate'
+p71
+aS'analysis'
+p72
+aS'simulation'
+p73
+aS'statistical method'
+p74
+aS'model'
+p75
+aS'design'
+p76
+aS'pattern'
+p77
+aS'interface'
+p78
+aS'understand'
+p79
+aS'modeling'
+p80
+aS'statistical model'
+p81
+aS'extract'
+p82
 aS'data gathering'
-p85
+p83
+aS'decision making'
+p84
 as.

@@ -2,141 +2,144 @@
 S'skills'
 p2
 (dp3
-S'web analytics'
+S'strategic planning'
 p4
-I1
-sS'pattern recognition'
-p5
-I1
-sS'big data'
-p6
-I1
-sS'sql'
-p7
-I1
-sS'python'
-p8
-I1
-sS'predictive modeling'
-p9
-I1
-sS'data scientist'
-p10
-I1
-sS'mapreduce'
-p11
-I1
-sS'machine learning'
-p12
-I1
-sS'strategic planning'
-p13
-I1
-sS'optimization'
-p14
-I1
+F0.020425110457838448
 sS'statistical analysis'
+p5
+F0.015234912150370461
+sS'data mining'
+p6
+F0.012556090702261168
+sS'simulation'
+p7
+F0.015886602293931192
+sS'web analytics'
+p8
+F0.022593186623837417
+sS'big data'
+p9
+F0.0075309179074714051
+sS'predictive modeling'
+p10
+F0.01230181011058562
+sS'research'
+p11
+F0.005048286045335729
+sS'optimization'
+p12
+F0.011834371937210309
+sS'policy'
+p13
+F0.016151823834560649
+sS'python'
+p14
+F0.003084328477829976
+sS'data scientist'
 p15
-I1
+F0.006268471391502238
 sS'statistical modeling'
 p16
-I1
-sS'data mining'
+F0.010599795977457967
+sS'sql'
 p17
-I1
+F0.0040351707623257228
 sS'modeling'
 p18
-I1
+F0.0096111915860538754
 sS'spark'
 p19
-I1
-sS'r'
-I1
-sS'research'
+F0.0099771338657731277
+sS'data'
 p20
-I1
+F0.0028071358076798324
 sS'project management'
 p21
-I1
-sS'simulation'
+F0.011251203096594947
+sS'pattern recognition'
 p22
-I1
-ssS'working-year'
+F0.018895584076223024
+sS'mapreduce'
 p23
-(dp24
-V[0]
+F0.01560178412399953
+sS'analysis'
+p24
+F0.0020273297145214789
+sS'machine learning'
 p25
-I1
-ssS'major'
+F0.0038788030877753804
+sS'r'
+F0.0032839781456446221
+ssS'working-year'
 p26
 (dp27
-S'big data'
+S'[0]'
 p28
-I1
-sS'machine learning'
+F0.012995353435173862
+ssS'major'
 p29
-I1
-sS'data mining'
-p30
-I1
-sS'phd'
+(dp30
+VData Science
 p31
-I1
-sS'machine learning data mining'
+F0.0060786330331660506
+sVComputer Science
 p32
-I1
-sS'project management'
+F0.0053571345937999861
+sVManagement Science and Engineering
 p33
-I1
+F0.0076304410560289488
 ssS'education'
 p34
 (dp35
-VMaster
+VBachelor
 p36
-I1
-sVDoctor
+F0.0053927741282243005
+sVMaster
 p37
-I1
-ssS'responsibility'
+F0.00430343600724365
+sVDoctor
 p38
-(dp39
+F0.0064448625548903429
+ssS'responsibility'
+p39
+(dp40
 S'development'
-p40
-I1
-sS'large data set'
 p41
-I1
+F0.0071654497184267373
 sS'product'
 p42
-I1
+F0.0079585378148979095
 sS'build model'
 p43
-I1
+F0.031294870344299668
 sS'pattern'
 p44
-I1
-sS'statistical model'
+F0.015494621748959443
+sS'analysis'
 p45
-I1
-sS'optimization'
-p46
-I1
-sS'data mining'
-p47
-I1
-sS'report'
-p48
-I1
-sS'modeling'
-p49
-I1
-sS'model'
-p50
-I1
+F0.0020273297145214789
 sS'simulation'
+p46
+F0.015886602293931192
+sS'develop ... model'
+p47
+F0.018342680634178328
+sS'optimization'
+p48
+F0.011834371937210309
+sS'data mining'
+p49
+F0.012556090702261168
+sS'report'
+p50
+F0.012279742131197804
+sS'modeling'
 p51
-I1
-sS'data gathering'
+F0.0096111915860538754
+sS'statistical model'
 p52
-I1
+F0.021247717784727192
+sS'data gathering'
+p53
+F0.028142201832801458
 ss.

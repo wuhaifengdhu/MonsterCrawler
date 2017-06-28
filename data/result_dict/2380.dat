@@ -6,156 +6,138 @@ S'nosql'
 p4
 aS'data science'
 p5
-aS'integration'
+aS'sales'
 p6
-aS'analytics'
+aS'integration'
 p7
-aS'data governance'
+aS'analytics'
 p8
-aS'education'
+aS'data governance'
 p9
-aS'data analytics'
+aS'education'
 p10
-aS'finance'
+aS'data analytics'
 p11
-aS'qlikview'
+aS'finance'
 p12
-aS'hdfs'
+aS'qlikview'
 p13
-aS'management'
+aS'hdfs'
 p14
-aS'rdbms'
+aS'statistics'
 p15
-aS'big data'
+aS'rdbms'
 p16
-aS'hadoop'
+aS'big data'
 p17
-aS'governance'
+aS'hadoop'
 p18
-aS'strategy'
+aS'governance'
 p19
-aS'computer science'
+aS'strategy'
 p20
-aS'automotive'
+aS'computer science'
 p21
-aS'master data management'
+aS'automotive'
 p22
-aS'energy'
+aS'master data management'
 p23
-aS'data management'
+aS'energy'
 p24
-aS'data modeling'
+aS'data management'
 p25
-aS'product development'
+aS'data modeling'
 p26
-aS'marketing'
+aS'product development'
 p27
-aS'data scientist'
+aS'marketing'
 p28
 aS'data quality'
 p29
-aS'aerospace'
-p30
-aS'modeling'
-p31
-aS'spark'
-p32
-aS'manufacturing'
-p33
-aS'data'
-p34
-aS'database management'
-p35
-aS'science'
-p36
-aS'mapreduce'
-p37
-aS'hive'
-p38
-aS'data architecture'
-p39
-aS'command'
-p40
-aS'architecture'
-p41
-aS'organization'
-p42
-aS'data integration'
-p43
-asS'working-year'
-p44
-(lp45
-V(0, 2]
-p46
-aV(2, 5]
-p47
-asS'major'
-p48
-(lp49
-S'information'
-p50
 aS'management'
-p51
-aS'finance'
-p52
-aS'big data'
-p53
-aS'statistics computer science'
-p54
-aS'marketing'
-p55
-aS'data science'
-p56
-aS'data analyst'
-p57
-aS'general'
-p58
-aS'business'
-p59
-aS'analytics'
-p60
-aS'design'
-p61
-aS'computer science'
-p62
-aS'statistic'
-p63
-aS'data analytics'
-p64
-aS'science'
-p65
-asS'education'
-p66
-(lp67
-VBachelor
-p68
-aVMaster
-p69
-asS'responsibility'
-p70
-(lp71
-S'development'
-p72
-aS'information'
-p73
-aS'product'
-p74
-aS'business problem'
-p75
-aVinsight
-p76
-aS'mapping'
-p77
-aS'analytic'
-p78
-aS'understand'
-p79
+p30
+aS'aerospace'
+p31
 aS'modeling'
-p80
+p32
+aS'spark'
+p33
+aS'manufacturing'
+p34
+aS'data'
+p35
+aS'database management'
+p36
+aS'science'
+p37
+aS'mapreduce'
+p38
+aS'hive'
+p39
+aS'data architecture'
+p40
+aS'command'
+p41
+aS'architecture'
+p42
+aS'organization'
+p43
+aS'data integration'
+p44
+asS'working-year'
+p45
+(lp46
+V(0, 2]
+p47
+aV(2, 5]
+p48
+asS'major'
+p49
+(lp50
+VStatistics
+p51
+aVBusiness
+p52
+aVData Science
+p53
+aVEconomics
+p54
+aVComputer Science
+p55
+aVManagement Science and Engineering
+p56
+asS'education'
+p57
+(lp58
+VBachelor
+p59
+aVMaster
+p60
+asS'responsibility'
+p61
+(lp62
+S'development'
+p63
+aS'information'
+p64
+aS'product'
+p65
+aS'business problem'
+p66
+aS'insight'
+p67
+aS'mapping'
+p68
+aS'analytic'
+p69
+aS'understand'
+p70
+aS'modeling'
+p71
 aS'design'
-p81
+p72
 aS'implement'
-p82
+p73
 aS'model'
-p83
+p74
 as.

@@ -4,191 +4,176 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.013156915725308204
 sS'data science'
 p5
-I1
+F0.0033598908538005567
 sS'analytics'
 p6
-I1
-sS'engineering'
-p7
-I1
+F0.0048588685027012666
 sS'defense'
-p8
-I1
+p7
+F0.039459644177969141
 sS'dod'
-p9
-I1
+p8
+F0.011792125578981866
 sS'mysql'
-p10
-I1
+p9
+F0.0066317260521989441
 sS'ic'
-p11
-I1
+p10
+F0.011864213595908196
 sS'visualization'
-p12
-I1
+p11
+F0.0052354616534468421
 sS'open source'
+p12
+F0.0089327367036818282
+sS'rapid prototyping'
 p13
-I1
+F0.014478975232900348
 sS'big data'
 p14
-I1
+F0.0035550981183314736
 sS'counterterrorism'
 p15
-I1
+F0.017038437151258985
 sS'critical thinking'
 p16
-I1
-sS'agile'
+F0.010953200081036363
+sS'deep learning'
 p17
-I1
+F0.0086998371030543326
 sS'recruiting'
 p18
-I1
+F0.019267587992275927
 sS'hadoop'
 p19
-I1
+F0.0035888449759764384
 sS'research'
 p20
-I1
+F0.0023831294459825091
 sS'user interface'
 p21
-I1
-sS'web development'
+F0.012661705889226268
+sS'html'
 p22
-I1
-sS'mongodb'
+F0.0071510745621471911
+sS'css'
 p23
-I1
-sS'processing'
+F0.0085846385301200263
+sS'mongodb'
 p24
-I1
-sS'data scientist'
+F0.0082600440330206013
+sS'processing'
 p25
-I1
+F0.0045616985661193297
 sS'data wrangling'
 p26
-I1
+F0.027939400549063922
 sS'spark'
 p27
-I1
+F0.0047098760427811692
 sS'data'
 p28
-I1
+F0.00165644536137532
 sS'national security'
 p29
-I1
-sS'rapid prototyping'
+F0.011739254826290731
+sS'science'
 p30
-I1
+F0.0019637818105980235
 sS'cloud computing'
 p31
-I1
+F0.0090435660187649335
 sS'scala'
 p32
-I1
+F0.006817224546644237
 sS'mapreduce'
 p33
-I1
+F0.0073650880361897228
 sS'hive'
 p34
-I1
+F0.0058261291885195717
 sS'machine learning'
 p35
-I1
+F0.0018310550889218977
 sS'data engineering'
 p36
-I1
+F0.011186678089573852
 sS'command'
 p37
-I1
-sS'deep learning'
-p38
-I1
-sS'organization'
-p39
-I1
-sS'security'
-p40
-I1
-sS'impala'
-p41
-I1
-sS'data analytics'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(5, 10]
-p45
-I1
-sV(2, 5]
-p46
-I1
-ssS'major'
-p47
-(dp48
-S'big data'
-p49
-I1
-sS'computing'
-p50
-I1
-sS'data science'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'analytics'
-p53
-I1
-sS'engineering'
-p54
-I1
-sS'design'
-p55
-I1
-sS'data analytics'
-p56
-I1
-sS'law'
-p57
-I1
+F0.010725570606934538
 sS'web development'
-p58
-I1
+p38
+F0.010216304525854911
+sS'agile'
+p39
+F0.0060996923818422049
+sS'organization'
+p40
+F0.0049250945231331875
+sS'security'
+p41
+F0.018312995662456356
+sS'impala'
+p42
+F0.012710711818561659
+sS'options'
+p43
+F0.012686101382227217
+sS'data analytics'
+p44
+F0.005704811959457534
+ssS'working-year'
+p45
+(dp46
+V(5, 10]
+p47
+F0.0033677214010526782
+sV(2, 5]
+p48
+F0.0034607386269026132
+ssS'major'
+p49
+(dp50
+VData Science
+p51
+F0.0028695222977795048
+sVEngineering
+p52
+F0.0062915612479517531
+sVComputer Science
+p53
+F0.0025289266657882621
 ssS'education'
-p59
-(dp60
+p54
+(dp55
 VBachelor
-p61
-I1
+p56
+F0.0025457509152790694
 ssS'responsibility'
-p62
-(dp63
+p57
+(dp58
 S'development'
-p64
-I1
+p59
+F0.0033825726324416723
 sS'processing'
-p65
-I1
+p60
+F0.0045616985661193297
 sS'analytic'
-p66
-I1
+p61
+F0.0063064971293286115
 sS'design'
-p67
-I1
+p62
+F0.0040793821508896023
 sS'data wrangling'
-p68
-I1
+p63
+F0.027939400549063922
 sS'interface'
-p69
-I1
+p64
+F0.017639984349441782
 sS'prototype'
-p70
-I1
+p65
+F0.0088077413786304126
 ss.

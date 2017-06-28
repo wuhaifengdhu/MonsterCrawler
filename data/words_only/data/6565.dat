@@ -4,209 +4,222 @@ p2
 (dp3
 S'ip'
 p4
-I1
+F0.0037868136918504046
 sS'energy'
 p5
-I1
+F0.0076881112276995451
 sS'testing'
 p6
-I1
+F0.0017004800788206088
 sS'hadoop'
 p7
-I1
+F0.0021342300687700413
 sS'database administration'
 p8
-I1
+F0.0040662731980254411
 sS'engineering'
 p9
-I1
+F0.0010173212434166567
 sS'enterprise software'
 p10
-I1
+F0.003365517275460317
 sS'data warehousing'
 p11
-I1
+F0.0025261547023955927
 sS'modeling'
 p12
-I1
+F0.00067453960882188748
 sS'go'
 p13
-I1
-sS'big data'
+F0.0054466996595143313
+sS'management'
 p14
-I1
-sS'user experience'
+F0.00075253228172728591
+sS'java'
 p15
-I1
-sS'redis'
-p16
-I1
-sS'integration'
-p17
-I1
-sS'music'
-p18
-I1
-sS'application development'
-p19
-I1
-sS'communication'
-p20
-I1
-sS'database development'
-p21
-I1
-sS'master data management'
-p22
-I1
-sS'data management'
-p23
-I1
-sS'innovation'
-p24
-I1
-sS'data analysis'
-p25
-I1
-sS'data modeling'
-p26
-I1
-sS'database design'
-p27
-I1
-sS'data scientist'
-p28
-I1
-sS'collaboration'
-p29
-I1
-sS'scrum'
-p30
-I1
-sS'aws'
-p31
-I1
-sS'sql'
-p32
-I1
-sS'performance improvement'
-p33
-I1
-sS't-sql'
-p34
-I1
-sS'data'
-p35
-I1
-sS'architecture'
-p36
-I1
-sS'software development'
-p37
-I1
-sS'training'
-p38
-I1
-sS'postgresql'
-p39
-I1
-sS'sql server'
-p40
-I1
-sS'programming'
-p41
-I1
-sS'analysis'
-p42
-I1
-sS'scripting'
-p43
-I1
-sS'process improvement'
-p44
-I1
-sS'retail'
-p45
-I1
-sS'etl'
-p46
-I1
-ssS'working-year'
-p47
-(dp48
-V(5, 10]
-p49
-I1
-sV(2, 5]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'business'
-p53
-I1
+F0.0010292915013856176
 sS'big data'
-p54
-I1
-sS'communication'
-p55
-I1
-sS'management technology'
-p56
-I1
-sS'engineering'
-p57
-I1
-sS'design'
-p58
-I1
+p16
+F0.0010570806697364349
+sS'user experience'
+p17
+F0.0028033330274973883
+sS'redis'
+p18
+F0.0040559555680222473
+sS'integration'
+p19
+F0.0038309686415192901
+sS'strategy'
+p20
+F0.0013081490292581686
 sS'music'
-p59
-I1
-sVphysic
-p60
-I1
-ssS'education'
-p61
-(dp62
-VMaster
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'development'
-p66
-I1
-sS'product'
-p67
-I1
+p21
+F0.0039684475328180899
+sS'application development'
+p22
+F0.0031819737553872469
+sS'communication'
+p23
+F0.001314924716869482
+sS'database development'
+p24
+F0.0046214649940794009
+sS'master data management'
+p25
+F0.0041653977132744104
+sS'data management'
+p26
+F0.0022839851367186634
+sS'innovation'
+p27
+F0.0016078278007763485
+sS'software development'
+p28
+F0.0017609606462402597
 sS'data analysis'
-p68
-I1
-sS'business problem'
-p69
-I1
-sS'communicate'
-p70
-I1
-sS'design'
-p71
-I1
+p29
+F0.0012323604775462335
+sS'data modeling'
+p30
+F0.0021696027780882653
+sS'database design'
+p31
+F0.0030873378400236634
+sS'data scientist'
+p32
+F0.00087987679830886902
+sS'collaboration'
+p33
+F0.0063729304486880075
+sS'scrum'
+p34
+F0.0084650645290602084
+sS'aws'
+p35
+F0.0043413228385078238
+sS'training'
+p36
+F0.0058636912400888601
+sS'sql'
+p37
+F0.002831992769240229
+sS'performance improvement'
+p38
+F0.0045080306301628209
+sS't-sql'
+p39
+F0.0039966047348544299
+sS'data'
+p40
+F0.0018716181641320476
+sS'architecture'
+p41
+F0.0036329144895093993
+sS'a'
+F0.0031063818830797786
+sS'c'
+F0.0010387225281545658
+sS'postgresql'
+p42
+F0.005652682114507597
+sS'sql server'
+p43
+F0.0023237777984041709
+sS'programming'
+p44
+F0.0018310884299582656
 sS'analysis'
+p45
+F0.00028456704464628732
+sS'optimization'
+p46
+F0.001661136924741314
+sS'scripting'
+p47
+F0.0020208342005370956
+sS'process improvement'
+p48
+F0.0026792048541772972
+sS'retail'
+p49
+F0.0028620942561599022
+sS'physics'
+p50
+F0.0020208342005370956
+sS'pl'
+p51
+F0.0030937513442990824
+sS'etl'
+p52
+F0.0047338283621514666
+ssS'working-year'
+p53
+(dp54
+V(5, 10]
+p55
+F0.0010013656657615105
+sV(2, 5]
+p56
+F0.0010290236116537671
+ssS'major'
+p57
+(dp58
+VEngineering
+p59
+F0.0010173212434166567
+sVPhysics
+p60
+F0.0021791794860465869
+sVBusiness
+p61
+F0.00089843384316786899
+sVManagement Science and Engineering
+p62
+F0.0010710502811203425
+ssS'education'
+p63
+(dp64
+VMaster
+p65
+F0.00060405372526924994
+ssS'responsibility'
+p66
+(dp67
+S'development'
+p68
+F0.01508672345200314
+sS'product'
+p69
+F0.01005393356848814
+sS'data analysis'
+p70
+F0.0012323604775462335
+sS'develop ... system'
+p71
+F0.0038892869526411691
+sS'design'
 p72
-I1
-sS'improvement'
+F0.0072778346014209846
+sS'communicate'
 p73
-I1
-sS'understand'
+F0.0016663146862803922
+sS'analysis'
 p74
-I1
-sS'modeling'
+F0.00028456704464628732
+sS'improvement'
 p75
-I1
-sS'model'
+F0.0022310685185540765
+sS'optimization'
 p76
-I1
+F0.001661136924741314
+sS'understand'
+p77
+F0.0052367437212066659
+sS'modeling'
+p78
+F0.00067453960882188748
+sS'model'
+p79
+F0.0064261247587277448
 ss.

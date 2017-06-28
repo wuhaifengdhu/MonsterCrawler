@@ -20,7 +20,7 @@ aS'data mining'
 p11
 aS'hbase'
 p12
-aS'regression'
+aS'd3'
 p13
 aS'cassandra'
 p14
@@ -44,75 +44,71 @@ aS'mongodb'
 p23
 aS'processing'
 p24
-aS'ggplot'
+aS'data scientist'
 p25
-aS'svm'
+aS'ggplot'
 p26
-aS'sql'
+aS'svm'
 p27
-aS'data'
+aS'facebook'
 p28
-aS'data collection'
+aS'sql'
 p29
-aS'science'
+aS'regression'
 p30
-aS'programming'
+aS'data'
 p31
-aS'analysis'
+aS'data collection'
 p32
-aS'machine learning'
+aS'science'
 p33
+aS'programming'
+p34
+aS'analysis'
+p35
+aS'machine learning'
+p36
 aS'r'
 aS'scripting'
-p34
-asS'working-year'
-p35
-(lp36
-V[0]
 p37
-asS'major'
+asS'working-year'
 p38
 (lp39
-S'information'
+S'[0]'
 p40
-aS'science'
+asS'major'
 p41
-aS'data science'
-p42
-aS'statistic'
+(lp42
+VEngineering
 p43
-aVapplied statistic
+aVData Science
 p44
-aS'machine learning'
+aVStatistics
 p45
-aS'engineering'
+aVComputer Science
 p46
-aS'data mining'
-p47
-aS'communication'
-p48
 asS'education'
-p49
-(lp50
+p47
+(lp48
 S'Bachelor'
-p51
+p49
 asS'responsibility'
-p52
-(lp53
+p50
+(lp51
 S'information'
-p54
+p52
 aS'product'
-p55
+p53
 aS'data collection'
-p56
+p54
 aS'processing'
-p57
+p55
 aS'analysis'
-p58
+p56
 aS'analytic'
-p59
+p57
 aS'data mining'
-p60
+p58
 aS'report'
-p61
+p59
 as.

@@ -2,97 +2,95 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'consulting'
 p4
-aS'consulting'
-p5
-aS'programming'
-p6
 aS'classification'
-p7
-aS'python'
-p8
-aS'marketing'
-p9
+p5
 aS'data science'
-p10
+p6
+aS'analytics'
+p7
 aS'email marketing'
+p8
+aS'visualization'
+p9
+aS'big data'
+p10
+aS'big data analytics'
 p11
-aS'data scientist'
+aS'natural language processing'
 p12
 aS'segmentation'
 p13
-aS'machine learning'
+aS'python'
 p14
-aS'big data analytics'
+aS'marketing'
 p15
-aS'analytics'
+aS'processing'
 p16
-aS'r'
-aS'search'
+aS'data scientist'
 p17
-aS'data analytics'
-p18
-aS'natural language processing'
-p19
-aS'organization'
-p20
-aS'big data'
-p21
 aS'data'
+p18
+aS'search'
+p19
+aS'science'
+p20
+aS'programming'
+p21
+aS'presentations'
 p22
-aS'application development'
+aS'machine learning'
 p23
-asS'working-year'
+aS'r'
+aS'data analytics'
 p24
-(lp25
-V(2, 5]
+aS'organization'
+p25
+aS'application development'
 p26
-asS'major'
+asS'working-year'
 p27
 (lp28
-S'information'
+V(2, 5]
 p29
-aS'business'
+asS'major'
 p30
-aS'big data'
-p31
-aS'marketing'
+(lp31
+VData Science
 p32
-aS'data science'
+aVEconomics
 p33
-aS'machine learning'
+aVComputer Science
 p34
-aS'big data analytics'
+aVBusiness
 p35
-aS'analytics'
-p36
-aS'natural language processing'
-p37
-aS'data analytics'
-p38
 asS'education'
+p36
+(lp37
+S'Bachelor'
+p38
+asS'responsibility'
 p39
 (lp40
-S'Bachelor'
-p41
-asS'responsibility'
-p42
-(lp43
 S'development'
-p44
+p41
 aS'information'
-p45
+p42
 aS'business problem'
-p46
+p43
 aS'predict'
-p47
+p44
+aS'processing'
+p45
 aS'communicate'
-p48
+p46
 aS'understand'
-p49
+p47
 aS'recommendation'
-p50
+p48
 aS'model'
-p51
+p49
+aS'evaluate ... metric'
+p50
 as.

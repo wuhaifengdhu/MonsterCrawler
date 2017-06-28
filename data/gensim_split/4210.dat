@@ -1,151 +1,291 @@
-direct_hire
-senior
-data_scientist
-agreeya
-solution
-menlo_park
-ca
-role
-senior
-data_scientist
-job
-location
-menlo_park
-ca
-duration_full
-time
-job_description
-expertise
-statistical_analysis
-tool
-r_stata
-weka_matlab
--
-must
-math_statistic
-c
-background
-emphasis_machine
-learning
--
-must
-phd_degree
-area
-must
-good
-publication
-track_record
-high_quality
-conference_journal
-area
-example
-exhaustive_list
-usenixusenix
-s
-ieee
-p
-sigmodkddsigcomm
--
-strongly_preferred
-domain_expertise
-security
-fraudis
-strongly_preferred
-ability
-code
-java_scala
-python
-ideally
-5+_year
-worked
-concrete
-project
-use_case
-previous_experience
-code
-development
-process
-tool
-version_control
-system
-etc
-added_plus
-data
-science
-working
-experience
-spark_mllib
-specifically
-added_plus
-experience
-working
-large_datasets
-preferably
-using
-tool_like
-sql
-hadoop_mapreduce
-pig_hive
-preferred
-experience
-graph
-mining
-graph_algorithm
-added_plus
-even
-knowledge
-graphx
--
-preferred
-company_description
-agreeya
-global
-provider
-software
-solution
-service
-focused
-deploying
-business-driven
-technology-enabled
-solution
-create_next-generation
-competitive_advantage
-customer_headquartered
-folsom
-calif
-agreeya
-employ_1
-400
-professional
-across
-15
-office
-eight
-country
-agreeya
-provides
-content
-management
-collaboration
-sharepoint
-cloud
-infrastructure
-enterprise
-mobility
-business_intelligence
-big_data
-analytics
-product
-engineering
-application
-development
-management
-independent
-software
-testing
-staffing
-risk_compliance
-solution
-fortune
-customer
+(lp1
+Vdirect hire
+p2
+aVsenior
+p3
+aVdata scientist
+p4
+aVagreeya
+p5
+aVsolution
+p6
+aVmenlo park
+p7
+aVca
+p8
+aVrole
+p9
+aVsenior
+p10
+aVdata scientist
+p11
+aVjob
+p12
+aVlocation
+p13
+aVmenlo park
+p14
+aVca
+p15
+aVduration full
+p16
+aVtime
+p17
+aVjob description
+p18
+aVexpertise
+p19
+aVstatistical analysis
+p20
+aVtool r
+p21
+aVstata
+p22
+aVweka matlab
+p23
+aV-
+aVmust
+p24
+aVmath statistic
+p25
+aVc
+aVbackground
+p26
+aVemphasis machine
+p27
+aVlearning
+p28
+aV-
+aVmust
+p29
+aVphd degree
+p30
+aVarea
+p31
+aVmust
+p32
+aVgood
+p33
+aVpublication track
+p34
+aVrecord
+p35
+aVhigh quality
+p36
+aVconference journal
+p37
+aVarea
+p38
+aVexample
+p39
+aVexhaustive list
+p40
+aVusenixusenix
+p41
+aVs
+aVieee
+p42
+aVp
+aVsigmodkddsigcomm
+p43
+aV...
+p44
+aV-
+aVstrongly preferred
+p45
+aVdomain expertise
+p46
+aVsecurity
+p47
+aVfraudis
+p48
+aVstrongly preferred
+p49
+aVability
+p50
+aVcode
+p51
+aVjava scala
+p52
+aVpython
+p53
+aVideally
+p54
+aV5+ year
+p55
+aVworked
+p56
+aVconcrete
+p57
+aVproject
+p58
+aVuse case
+p59
+aVprevious experience
+p60
+aVcode
+p61
+aVdevelopment
+p62
+aVprocess
+p63
+aVtool
+p64
+aVversion control
+p65
+aVsystem
+p66
+aVetc
+p67
+aVadded plus
+p68
+aVdata science
+p69
+aVworking
+p70
+aVexperience
+p71
+aVspark mllib
+p72
+aVspecifically
+p73
+aVadded plus
+p74
+aVexperience working
+p75
+aVlarge datasets
+p76
+aVpreferably
+p77
+aVusing
+p78
+aVtool like
+p79
+aVsql
+p80
+aVhadoop mapreduce
+p81
+aVpig hive
+p82
+aVpreferred
+p83
+aVexperience
+p84
+aVgraph
+p85
+aVmining
+p86
+aVgraph algorithm
+p87
+aVadded plus
+p88
+aVeven
+p89
+aVknowledge
+p90
+aVgraphx
+p91
+aV-
+aVpreferred
+p92
+aVcompany description
+p93
+aVagreeya
+p94
+aVglobal
+p95
+aVprovider
+p96
+aVsoftware
+p97
+aVsolution
+p98
+aVservice
+p99
+aVfocused
+p100
+aVdeploying
+p101
+aVbusiness-driven
+p102
+aVtechnology-enabled
+p103
+aVsolution
+p104
+aVcreate next-generation
+p105
+aVcompetitive advantage
+p106
+aVcustomer headquartered
+p107
+aVfolsom
+p108
+aVcalif
+p109
+aVagreeya
+p110
+aVemploy 1
+p111
+aV400
+p112
+aVprofessional
+p113
+aVacross
+p114
+aV15
+p115
+aVoffice
+p116
+aVeight
+p117
+aVcountry
+p118
+aVagreeya
+p119
+aVprovides
+p120
+aVcontent
+p121
+aVmanagement
+p122
+aVcollaboration
+p123
+aVsharepoint
+p124
+aVcloud infrastructure
+p125
+aVenterprise
+p126
+aVmobility
+p127
+aVbusiness intelligence
+p128
+aVbig data
+p129
+aVanalytics
+p130
+aVproduct
+p131
+aVengineering
+p132
+aVapplication development
+p133
+aVmanagement
+p134
+aVindependent
+p135
+aVsoftware
+p136
+aVtesting
+p137
+aVstaffing
+p138
+aVrisk compliance
+p139
+aVsolution
+p140
+aVfortune
+p141
+aVcustomer
+p142
+a.

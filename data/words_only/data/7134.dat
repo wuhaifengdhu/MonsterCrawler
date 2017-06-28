@@ -4,109 +4,106 @@ p2
 (dp3
 S'training'
 p4
-I1
-sS'big data'
+F0.010143511857854868
+sS'consulting'
 p5
-I1
+F0.0097392874767718556
 sS'data visualization'
 p6
-I1
-sS'government'
+F0.0084773001102569009
+sS'big data'
 p7
-I1
-sS'python'
+F0.0054858841653563258
+sS'government'
 p8
-I1
-sS'science'
+F0.022475168238180736
+sS'python'
 p9
-I1
-sS'greenplum'
+F0.0044935475237350515
+sS'science'
 p10
-I1
-sS'processing'
-p11
-I1
-sS'consulting'
-p12
-I1
-sS'hadoop'
-p13
-I1
-sS'information technology'
-p14
-I1
-sS'banking'
-p15
-I1
-sS'r'
-I1
-sS'computer science'
-p16
-I1
-sS'mathematics'
-p17
-I1
-sS'data'
-p18
-I1
+F0.0090909554507856774
 sS'data science'
+p11
+F0.0051846591623301687
+sS'processing'
+p12
+F0.014078345574747587
+sS'data scientist'
+p13
+F0.0045662571774305093
+sS'hadoop'
+p14
+F0.01107591811551349
+sS'information technology'
+p15
+F0.013433832205869592
+sS'banking'
+p16
+F0.014803016890337738
+sS'r'
+F0.0047844164363270792
+sS'computer science'
+p17
+F0.0060602726861518135
+sS'sql'
+p18
+F0.0029394131846252028
+sS'mathematics'
 p19
-I1
+F0.0078788503537750246
 sS'etl'
 p20
-I1
-ssS'working-year'
+F0.012283468422479236
+sS'data'
 p21
-(dp22
-V[0]
+F0.0020448532392150502
+sS'greenplum'
+p22
+F0.046431003183322939
+sS'pl'
 p23
-I1
-ssS'major'
+F0.016055502666103859
+ssS'working-year'
 p24
 (dp25
-S'information'
+S'[0]'
 p26
-I1
-sS'big data'
+F0.0094664428040706142
+ssS'major'
 p27
-I1
-sS'science'
-p28
-I1
-sS'data science'
+(dp28
+VMathematics
 p29
-I1
-sS'information system'
+F0.0073891057309588446
+sVData Science
 p30
-I1
-sS'computer science'
+F0.0044279697526080283
+sVInformation Science
 p31
-I1
-sS'statistic'
+F0.010916617192043508
+sVComputer Science
 p32
-I1
-sS'mathematics'
+F0.0039023954584146451
+sVBusiness
 p33
-I1
-sS'information technology'
-p34
-I1
+F0.0046625618412677334
 ssS'education'
-p35
-(dp36
+p34
+(dp35
 VBachelor
-p37
-I1
+p36
+F0.0039283570158185638
 sVMaster
-p38
-I1
+p37
+F0.0031348305397593829
 ssS'responsibility'
-p39
-(dp40
+p38
+(dp39
 S'information'
-p41
-I1
+p40
+F0.005978901722109459
 sS'processing'
-p42
-I1
+p41
+F0.014078345574747587
 ss.

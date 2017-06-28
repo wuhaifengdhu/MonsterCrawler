@@ -2,72 +2,73 @@
 S'skills'
 p2
 (lp3
-S'linux'
+S'venture capital'
 p4
-aS'visualization'
-p5
-aS'training'
-p6
-aS'financial analysis'
-p7
-aS'theory'
-p8
-aS'programming'
-p9
 aS'testing'
-p10
-aS'excel'
-p11
-aS'venture capital'
-p12
-aS'algorithm design'
-p13
-aS'strategy'
-p14
-aS'b testing'
-p15
-aS'matlab'
-p16
+p5
 aS'problem solving'
-p17
-aS'sql'
-p18
-aS'mathematics'
-p19
-aS'r'
+p6
+aS'linux'
+p7
+aS'sports'
+p8
+aS'visualization'
+p9
+aS'excel'
+p10
+aS'strategy'
+p11
 aS'optimization'
+p12
+aS'matlab'
+p13
+aS'mathematics'
+p14
+aS'theory'
+p15
+aS'b testing'
+p16
+aS'algorithm design'
+p17
+aS'a'
+aS'training'
+p18
+aS'financial analysis'
+p19
+aS'programming'
 p20
-aS'game theory'
+aS'analysis'
 p21
-aS'analysis'
+aS'r'
+aS'sql'
 p22
-asS'working-year'
+aS'game theory'
 p23
-(lp24
+asS'working-year'
+p24
+(lp25
 V(5, 10]
-p25
-asS'major'
 p26
-(lp27
-S'mathematics'
-p28
-aS'design'
+asS'major'
+p27
+(lp28
+VMathematics
 p29
-aS'business'
+aVBusiness
 p30
-aS'history'
-p31
 asS'education'
-p32
-(lp33
+p31
+(lp32
 S'Bachelor'
-p34
+p33
 asS'responsibility'
-p35
-(lp36
+p34
+(lp35
 S'product'
-p37
+p36
 aS'analysis'
+p37
+aS'forecast'
 p38
 aS'optimization'
 p39

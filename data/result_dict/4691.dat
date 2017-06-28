@@ -2,90 +2,94 @@
 S'skills'
 p2
 (lp3
-S'processing'
+S'scikit-learn'
 p4
-aS'java'
+aS'communication'
 p5
-aS'big data'
+aS'engineering'
 p6
-aS'python'
+aS'statistics'
 p7
-aS'programming'
+aS'java'
 p8
-aS'natural language processing'
-p9
-aS'data scientist'
-p10
-aS'hive'
-p11
-aS'machine learning'
-p12
-aS'engineering'
-p13
-aS'computer science'
-p14
-aS'sql'
-p15
-aS'communication'
-p16
-aS'modeling'
-p17
-aS'spark'
-p18
-aS'data'
-p19
-aS'statistical programming'
-p20
-aS'science'
-p21
-asS'working-year'
-p22
-(lp23
-V(0, 2]
-p24
-aV(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'business'
-p28
 aS'big data'
-p29
-aS'science'
-p30
-aS'statistic'
-p31
-aS'communication'
-p32
-aS'phd'
-p33
-aS'engineering'
-p34
-aS'computer science engineering'
-p35
+p9
+aS'deep learning'
+p10
 aS'computer science'
-p36
+p11
 aS'natural language processing'
-p37
-aS'machine learning'
-p38
-asS'education'
-p39
-(lp40
-VMaster
-p41
-aVDoctor
-p42
-asS'responsibility'
-p43
-(lp44
-S'modeling'
-p45
-aS'product'
-p46
+p12
+aS'numpy'
+p13
+aS'pandas'
+p14
+aS'python'
+p15
 aS'processing'
+p16
+aS'data scientist'
+p17
+aS'sql'
+p18
+aS'modeling'
+p19
+aS'spark'
+p20
+aS'db2'
+p21
+aS'data'
+p22
+aS'statistical programming'
+p23
+aS'fraud'
+p24
+aS'science'
+p25
+aS'programming'
+p26
+aS'hive'
+p27
+aS'machine learning'
+p28
+aS'optimization'
+p29
+asS'working-year'
+p30
+(lp31
+V(0, 2]
+p32
+aV(2, 5]
+p33
+asS'major'
+p34
+(lp35
+VEngineering
+p36
+aVStatistics
+p37
+aVComputer Science
+p38
+aVBusiness
+p39
+asS'education'
+p40
+(lp41
+VMaster
+p42
+aVDoctor
+p43
+asS'responsibility'
+p44
+(lp45
+S'modeling'
+p46
+aS'product'
 p47
-aS'ownership'
+aS'processing'
 p48
+aS'optimization'
+p49
+aS'ownership'
+p50
 as.

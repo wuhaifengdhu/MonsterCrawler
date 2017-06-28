@@ -4,128 +4,140 @@ p2
 (lp3
 S'communication'
 p4
-aS'analytics'
+aS'command'
 p5
-aS'statistical analysis'
+aS'analytics'
 p6
-aS'problem solving'
+aS'engineering'
 p7
-aS'data mining'
+aS'statistical analysis'
 p8
-aS'accounting'
+aS'problem solving'
 p9
-aS'creative problem solving'
+aS'data mining'
 p10
-aS'sap'
+aS'sas'
 p11
-aS'visualization'
+aS'accounting'
 p12
-aS'management'
+aS'creative problem solving'
 p13
-aS'java'
+aS'sap'
 p14
-aS'time management'
+aS'visualization'
 p15
-aS'matlab'
+aS'management'
 p16
-aS'scheme'
+aS'java'
 p17
-aS'unstructured data'
+aS'hadoop'
 p18
-aS'python'
+aS'time management'
 p19
-aS'vba'
+aS'matlab'
 p20
-aS'cissp'
+aS'mathematics'
 p21
-aS'data scientist'
+aS'scheme'
 p22
+aS'unstructured data'
+p23
+aS'python'
+p24
+aS'vba'
+p25
+aS'cissp'
+p26
+aS'data scientist'
+p27
 aS'c'
 aS'visual basic applications vba'
-p23
-aS'sql'
-p24
-aS'modeling'
-p25
-aS'data'
-p26
-aS'security'
-p27
-aS'information technology'
 p28
-aS'search'
+aS'sql'
 p29
-aS'fraud'
-p30
-aS'pattern recognition'
-p31
-aS'risk modeling'
-p32
-aS'programming'
-p33
-aS'analysis'
-p34
-aS'r'
-aS'command'
-p35
-aS'organization'
-p36
-aS'visual basic'
-p37
-aS'data analytics'
-p38
-asS'working-year'
-p39
-(lp40
-V(0, 2]
-p41
-asS'major'
-p42
-(lp43
-S'information'
-p44
-aS'management'
-p45
-aS'communication'
-p46
-aS'analytics'
-p47
-aS'information technology'
-p48
-aS'data mining'
-p49
-aS'accounting'
-p50
-aS'data analytics'
-p51
-asS'education'
-p52
-(lp53
-VBachelor
-p54
-aVMaster
-p55
-asS'responsibility'
-p56
-(lp57
-S'development'
-p58
-aS'information'
-p59
-aS'pattern'
-p60
-aVinsight
-p61
-aS'recommendation'
-p62
-aS'analysis'
-p63
-aS'data mining'
-p64
-aS'report'
-p65
 aS'modeling'
+p30
+aS'data'
+p31
+aS'visual basic'
+p32
+aS'information technology'
+p33
+aS'search'
+p34
+aS'fraud'
+p35
+aS'pattern recognition'
+p36
+aS'science'
+p37
+aS'risk modeling'
+p38
+aS'programming'
+p39
+aS'mapreduce'
+p40
+aS'analysis'
+p41
+aS'r'
+aS'algorithms'
+p42
+aS'organization'
+p43
+aS'security'
+p44
+aS'data analytics'
+p45
+asS'working-year'
+p46
+(lp47
+V(0, 2]
+p48
+asS'major'
+p49
+(lp50
+VData Science
+p51
+aVEconomics
+p52
+aVEngineering
+p53
+aVInformation Science
+p54
+aVComputer Science
+p55
+aVMathematics
+p56
+aVManagement Science and Engineering
+p57
+asS'education'
+p58
+(lp59
+VBachelor
+p60
+aVMaster
+p61
+asS'responsibility'
+p62
+(lp63
+S'development'
+p64
+aS'information'
+p65
+aS'pattern'
 p66
-aS'model'
+aS'insight'
 p67
+aS'recommendation'
+p68
+aS'analysis'
+p69
+aS'data mining'
+p70
+aS'report'
+p71
+aS'modeling'
+p72
+aS'model'
+p73
 as.

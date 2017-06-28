@@ -4,265 +4,250 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0047024860210764987
 sS'communication'
 p5
-I1
+F0.0027202222665134988
 sS'data science'
 p6
-I1
+F0.0020667369856711324
 sS'engineering'
 p7
-I1
+F0.0021045614726351454
 sS'hadoop'
 p8
-I1
-sS'business intelligence'
+F0.0022075713082466749
+sS'analytics'
 p9
-I1
-sS'data warehousing'
+F0.0014943942645765061
+sS'business intelligence'
 p10
-I1
-sS'research'
+F0.0035103836920522698
+sS'data warehousing'
 p11
-I1
-sS'management'
+F0.0052259282846809163
+sS'research'
 p12
-I1
-sS'big data'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'integration'
-p15
-I1
-sS'strategy'
-p16
-I1
-sS'access'
-p17
-I1
-sS'enterprise architecture'
-p18
-I1
-sS'coaching'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'intelligence'
-p21
-I1
-sS'master data management'
-p22
-I1
-sS'collaboration'
-p23
-I1
-sS'healthcare information technology'
-p24
-I1
-sS'architecture'
-p25
-I1
-sS'text mining'
-p26
-I1
-sS'data analysis'
-p27
-I1
-sS'data modeling'
-p28
-I1
-sS'database design'
-p29
-I1
-sS'mongodb'
-p30
-I1
-sS'quality management'
-p31
-I1
-sS'data scientist'
-p32
-I1
-sS'scalability'
-p33
-I1
-sS'data quality'
-p34
-I1
-sS'business process'
-p35
-I1
-sS'leadership'
-p36
-I1
-sS'sql'
-p37
-I1
-sS'modeling'
-p38
-I1
-sS'data'
-p39
-I1
-sS'etl'
-p40
-I1
-sS'information technology'
-p41
-I1
-sS'data collection'
-p42
-I1
-sS'data visualization'
-p43
-I1
-sS'documentation'
-p44
-I1
-sS'thought leadership'
-p45
-I1
-sS'analysis'
-p46
-I1
-sS'data architecture'
-p47
-I1
-sS'data integration'
-p48
-I1
-sS'r'
-I1
-sS'data management'
-p49
-I1
-sS'business process design'
-p50
-I1
-sS'healthcare'
-p51
-I1
-sS'oracle'
-p52
-I1
-sS'security'
-p53
-I1
-sS'application development'
-p54
-I1
-ssS'working-year'
-p55
-(dp56
-V(5, 10]
-p57
-I1
-sV(10, 15]
-p58
-I1
-ssS'major'
-p59
-(dp60
-S'information'
-p61
-I1
+F0.0014659112399686223
 sS'management'
-p62
-I1
-sS'business'
-p63
-I1
+p13
+F0.0031135699903768114
 sS'big data'
-p64
-I1
-sS'communication'
-p65
-I1
-sS'data science'
-p66
-I1
-sS'general'
-p67
-I1
-sS'engineering'
-p68
-I1
-sS'design'
-p69
-I1
+p14
+F0.0021868129318946177
+sS'agile'
+p15
+F0.0037520444548101535
+sS'predictive modeling'
+p16
+F0.0035721751008401543
+sS'integration'
+p17
+F0.011887851145333054
+sS'strategy'
+p18
+F0.0027062052082935306
+sS'access'
+p19
+F0.0039853299400282732
+sS'enterprise architecture'
+p20
+F0.0073091851793938307
+sS'coaching'
+p21
+F0.0066352795818457018
 sS'computer science'
-p70
-I1
-sS'analytics predictive modeling'
-p71
-I1
-sS'information technology'
-p72
-I1
-ssS'education'
-p73
-(dp74
-VBachelor
-p75
-I1
-sVMaster
-p76
-I1
-ssS'responsibility'
-p77
-(dp78
-S'development'
-p79
-I1
-sS'information'
-p80
-I1
-sS'design'
-p81
-I1
+p22
+F0.0024157788027271833
+sS'intelligence'
+p23
+F0.0026976952059910293
+sS'master data management'
+p24
+F0.0086170770563271312
+sS'collaboration'
+p25
+F0.0043946209966897838
+sS'healthcare information technology'
+p26
+F0.0092542892942705512
+sS'architecture'
+p27
+F0.011273270735487929
+sS'text mining'
+p28
+F0.0056467095007742352
 sS'data analysis'
-p82
-I1
-sS'pattern'
-p83
-I1
-sS'documentation'
-p84
-I1
-sS'mapping'
-p85
-I1
-sS'analysis'
-p86
-I1
-sS'statistical method'
-p87
-I1
-sS'data collection'
-p88
-I1
-sS'understand'
-p89
-I1
-sS'ownership'
-p90
-I1
-sS'report'
-p91
-I1
+p29
+F0.0025494192697004558
+sS'data modeling'
+p30
+F0.0044883191491722875
+sS'database design'
+p31
+F0.006386863847746547
+sS'mongodb'
+p32
+F0.0050809205563941157
+sS'quality management'
+p33
+F0.0096911159440280208
+sS'innovation'
+p34
+F0.0033261592304720338
+sS'scalability'
+p35
+F0.0069348500665448688
+sS'data quality'
+p36
+F0.0060736049195639578
+sS'business process'
+p37
+F0.005249627026666248
+sS'leadership'
+p38
+F0.0028391900707969448
+sS'sql'
+p39
+F0.001171724843355751
 sS'modeling'
-p92
-I1
-sS'model'
-p93
-I1
+p40
+F0.0055817573128629037
+sS'data'
+p41
+F0.003871869879063549
+sS'etl'
+p42
+F0.004896502876314747
+sS'information technology'
+p43
+F0.005355067133611246
+sS'data collection'
+p44
+F0.012458245865846197
+sS'data visualization'
+p45
+F0.0033792673979030942
+sS'science'
+p46
+F0.0012079620072063444
+sS'documentation'
+p47
+F0.0049818573177732488
+sS'programming'
+p48
+F0.0018940124309877592
+sS'thought leadership'
+p49
+F0.007047558246613613
+sS'analysis'
+p50
+F0.00058869196177685555
+sS'data architecture'
+p51
+F0.0069716040460744031
+sS'data integration'
+p52
+F0.006650620550569729
+sS'r'
+F0.00095359502854629066
+sS'data management'
+p53
+F0.0047249451969231457
+sS'business process design'
+p54
+F0.011177362303190637
+sS'healthcare'
+p55
+F0.013903300738712186
+sS'oracle'
+p56
+F0.0045103462174593155
+sS'security'
+p57
+F0.003754898308796893
+sS'pl'
+p58
+F0.0064001316469692359
+sS'application development'
+p59
+F0.0065826398650966414
+ssS'working-year'
+p60
+(dp61
+sS'major'
+p62
+(dp63
+VBusiness
+p64
+F0.0018586157167940105
+sVData Science
+p65
+F0.0017651013446822381
+sVEngineering
+p66
+F0.0021045614726351454
+sVInformation Science
+p67
+F0.0043516412174468963
+sVComputer Science
+p68
+F0.0015555940658972468
+sVManagement Science and Engineering
+p69
+F0.0022157122654104678
+ssS'education'
+p70
+(dp71
+VBachelor
+p72
+F0.0015659430028692556
+sVMaster
+p73
+F0.0012496231704882763
+ssS'responsibility'
+p74
+(dp75
+S'development'
+p76
+F0.0062420670227531887
+sS'information'
+p77
+F0.0023833422672326367
+sS'design'
+p78
+F0.0025093106701348411
+sS'data analysis'
+p79
+F0.0025494192697004558
+sS'pattern'
+p80
+F0.0089985947614231818
+sS'documentation'
+p81
+F0.0049818573177732488
+sS'mapping'
+p82
+F0.014686871851840973
+sS'analysis'
+p83
+F0.00058869196177685555
+sS'data collection'
+p84
+F0.012458245865846197
+sS'understand'
+p85
+F0.0036111337000760742
+sS'ownership'
+p86
+F0.01354052731988793
+sS'modeling'
+p87
+F0.0055817573128629037
+sS'extract'
+p88
+F0.0053156503963966142
 sS'transformation'
-p94
-I1
+p89
+F0.005402847311568499
 ss.

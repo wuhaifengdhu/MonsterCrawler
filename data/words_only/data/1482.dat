@@ -4,131 +4,116 @@ p2
 (dp3
 S'teradata'
 p4
-I1
+F0.01165944807271856
 sS'data analysis'
 p5
-I1
+F0.0047253567355594432
 sS'theory'
 p6
-I1
+F0.0093327269123354636
 sS'probability'
 p7
-I1
-sS'communication'
-p8
-I1
+F0.011098181968705358
 sS'sql'
-p9
-I1
+p8
+F0.0021717957287676658
 sS'communication skills'
-p10
-I1
+p9
+F0.011729700165796574
 sS'analytics'
-p11
-I1
+p10
+F0.0027698645286099574
 sS'engineering'
-p12
-I1
+p11
+F0.011702434175862942
 sS'statistical tools'
-p13
-I1
+p12
+F0.01850980629140225
 sS'statistical modeling'
-p14
-I1
+p13
+F0.0057049857330904348
 sS'healthcare'
+p14
+F0.0085899373990769561
+sS'sas'
 p15
-I1
+F0.0044115823461064229
 sS'modeling'
 p16
-I1
+F0.0025864512389221416
 sS'analysis'
 p17
-I1
+F0.0010911424259685666
 sS'data'
 p18
-I1
-sS'statistical analysis'
+F0.00075542348964632432
+sS'project management'
 p19
-I1
-ssS'working-year'
+F0.006055583832243778
+sS'statistical analysis'
 p20
-(dp21
+F0.0081996820172376052
+ssS'working-year'
+p21
+(dp22
 V(5, 10]
-p22
-I1
-sV(0, 2]
 p23
-I1
-sV(2, 5]
+F0.0038396314062957289
+sV(0, 2]
 p24
-I1
-ssS'major'
+F0.0072534400130259665
+sV(2, 5]
 p25
-(dp26
-S'business'
-p27
-I1
-sS'communication'
+F0.0039456828930927888
+ssS'major'
+p26
+(dp27
+VData Science
 p28
-I1
-sS'general'
+F0.0032716209637103908
+sVEngineering
 p29
-I1
-sS'analytics'
+F0.011702434175862942
+sVBusiness
 p30
-I1
-sS'engineering'
+F0.0034449501502360328
+sVManagement Science and Engineering
 p31
-I1
-sS'design'
-p32
-I1
-sVphysic
-p33
-I1
+F0.004106829740346791
 ssS'education'
-p34
-(dp35
+p32
+(dp33
 VBachelor
-p36
-I1
+p34
+F0.0029024803428977924
 sVMaster
-p37
-I1
+p35
+F0.0023161805261916464
 ssS'responsibility'
-p38
-(dp39
+p36
+(dp37
 S'product'
-p40
-I1
+p38
+F0.0042834168494195754
 sS'data analysis'
-p41
-I1
-sS'business problem'
-p42
-I1
+p39
+F0.0047253567355594432
 sS'pattern'
-p43
-I1
-sS'collect data'
-p44
-I1
-sS'statistical model'
-p45
-I1
-sS'design'
-p46
-I1
+p40
+F0.0083394620241214849
 sS'construct'
-p47
-I1
+p41
+F0.016902946266636458
+sS'collect data'
+p42
+F0.016902946266636458
 sS'modeling'
-p48
-I1
+p43
+F0.0025864512389221416
 sS'model'
-p49
-I1
+p44
+F0.0098561200121123627
 sS'analysis'
-p50
-I1
+p45
+F0.0010911424259685666
 ss.

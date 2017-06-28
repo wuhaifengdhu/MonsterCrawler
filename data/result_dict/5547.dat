@@ -4,11 +4,11 @@ p2
 (lp3
 S'excel'
 p4
-aS'communication'
-p5
 aS'analysis'
-p6
+p5
 aS'data mining'
+p6
+aS'sas'
 p7
 aS'spss'
 p8
@@ -18,81 +18,77 @@ aS'management'
 p10
 aS'recruiting'
 p11
-aS'statistical software'
+aS'access'
 p12
-aS'natural language processing'
+aS'statistical software'
 p13
-aS'government'
+aS'communication'
 p14
-aS'data scientist'
+aS'government'
 p15
-aS'data'
+aS'processing'
 p16
-aS'word'
+aS'data scientist'
 p17
-aS'data visualization'
+aS'data'
 p18
-aS'data cleaning'
+aS'natural language processing'
 p19
-aS'science'
+aS'word'
 p20
-aS'security clearance'
+aS'data visualization'
 p21
-aS'machine learning'
+aS'data cleaning'
 p22
+aS'science'
+p23
+aS'security clearance'
+p24
+aS'machine learning'
+p25
 aS'r'
 aS'military'
-p23
-aS'security'
-p24
-aS'microsoft office'
-p25
-aS'statistical analysis'
 p26
-asS'working-year'
+aS'security'
 p27
-(lp28
-sS'major'
+aS'microsoft office'
+p28
+aS'statistical analysis'
 p29
-(lp30
-S'management'
-p31
-aS'health services'
+asS'working-year'
+p30
+(lp31
+sS'major'
 p32
-aS'science'
-p33
-aS'data mining'
+(lp33
+VData Science
 p34
-aS'communication'
+aVComputer Science
 p35
-aS'data analyst'
+aVManagement Science and Engineering
 p36
-aS'machine learning'
-p37
-aS'natural language processing'
-p38
-aS'data mining machine learning'
-p39
 asS'education'
+p37
+(lp38
+VBachelor
+p39
+asS'responsibility'
 p40
 (lp41
-VBachelor
+S'data mining'
 p42
-asS'responsibility'
+aS'processing'
 p43
-(lp44
-S'identify opportunity'
-p45
 aS'analysis'
-p46
+p44
 aS'analytic'
-p47
-aS'data mining'
-p48
+p45
+aS'identify opportunity'
+p46
 aS'report'
-p49
+p47
 aS'presentation'
-p50
+p48
 aS'data gathering'
-p51
+p49
 as.

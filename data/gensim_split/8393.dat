@@ -1,203 +1,362 @@
-job
-overall_purpose
-responsible
-development
-high_performance
-distributed_computing
-task
-using
-big_data
-technology
-hadoop_nosql
-text_mining
-distributed
-environment
-technology
-familiarity_jvm-based
-function
-language
-including
-scala_clojure
-hadoop
-query_language
-including
-pig_hive
-scalding_cascalog
-pycascading_along
-alternative_hdfs-based
-computing_framework
-including
-spark_storm
-desirable
-key_role
-responsibility
-us
-big_data
-programming_language
-technology_writes
-code_completes
-programming
-documentation_performs
-testing_debugging
-application
-analyzes
-design
-program_debugs
-modifies_software
-enhancement
-new
-product
-used_distributed
-large_scale
-analytics
-visualization
-solution
-interacts
-data_scientist
-industry
-expert
-understand
-data
-need_converted
-loaded_presented
-work
-highly
-agile_environment
-job_contribution
-seasoned_technical
-professional_contributes
-proven
-technical_expertise
-significant_dept
-functional
-impact
-knowledge
-subject_matter
-expert_sme
-within
-discipline_specialty
-area
-basic
-knowledge
-discipline_specialty
-area
-deep
-technical
-knowledge
-applies_depth
-knowledge
-discipline_specialty
-area
-standard
-process_integrates
-industry
-experience
-deep
-professional
-technical
-knowledge
-technical
-leader
-recognized_sme
-select
-technology
-system
-procedure
-analysis
-problem_solving
-solves_unique
-problem_evaluative
-judgment_precedent
-independently_applies
-sophisticated
-analysis
-evaluating_issue
-develops
-new
-concept
-method
-technique
-cross_functional
-initiative_recognizes
-pursues_alternative
-method
-independence_guided
-department
-goal_objective
-exercise_latitude
-determining_objective
-approach
-project
-lead
-multiple_project
-small_medium
-size
-technical_breadth
-contribution
-technology
-key_contributor
-complex
-project
-initiative
-impact
-current_future
-business
-opportunity
-application
-specialized
-technical
-industry
-knowledge
-develops
-method
-technique
-based
-strategic
-project
-objective
-communication
-mentor
-provides
-technical_guidance
-explains_advanced
-concept
-others
-work
-area
-coordinate
-across_multiple
-department_promotes
-active_listening
-open
-communication
-provides
-leadership_guidance
-others
-senior_level
-education
-bachelor
-science
-computer_science
-math_scientific
-computing
-preferred
-experience
-typically_requires
-5-8_year
-experience
-supervisory
-principal
-level_education
-education
-master
-science
-computer_science
-math_scientific
-computing
-preferred
-experience
-typically_requires
-8-10_year
-experience
-supervisory
-report
+(lp1
+Vjob
+p2
+aVoverall purpose
+p3
+aVresponsible
+p4
+aVdevelopment
+p5
+aVhigh performance
+p6
+aVdistributed computing
+p7
+aVtask
+p8
+aVusing big
+p9
+aVdata
+p10
+aVtechnology
+p11
+aVhadoop nosql
+p12
+aVtext mining
+p13
+aVdistributed
+p14
+aVenvironment
+p15
+aVtechnology
+p16
+aVfamiliarity jvm-based
+p17
+aVfunction
+p18
+aVlanguage
+p19
+aVincluding
+p20
+aVscala clojure
+p21
+aVhadoop query
+p22
+aVlanguage
+p23
+aVincluding
+p24
+aVpig hive
+p25
+aVscalding cascalog
+p26
+aVpycascading along
+p27
+aValternative hdfs-based
+p28
+aVcomputing framework
+p29
+aVincluding
+p30
+aVspark storm
+p31
+aVdesirable
+p32
+aVkey role
+p33
+aVresponsibility us
+p34
+aVbig data
+p35
+aVprogramming language
+p36
+aVtechnology writes
+p37
+aVcode completes
+p38
+aVprogramming documentation
+p39
+aVperforms testing
+p40
+aVdebugging application
+p41
+aVanalyzes design
+p42
+aVprogram debugs
+p43
+aVmodifies software
+p44
+aVenhancement new
+p45
+aVproduct
+p46
+aVused distributed
+p47
+aVlarge scale
+p48
+aVanalytics
+p49
+aVvisualization
+p50
+aVsolution interacts
+p51
+aVdata scientist
+p52
+aVindustry
+p53
+aVexpert understand
+p54
+aVdata
+p55
+aVneed converted
+p56
+aVloaded presented
+p57
+aVwork
+p58
+aVhighly
+p59
+aVagile environment
+p60
+aVjob contribution
+p61
+aVseasoned technical
+p62
+aVprofessional contributes
+p63
+aVproven
+p64
+aVtechnical expertise
+p65
+aVsignificant dept
+p66
+aVfunctional
+p67
+aVimpact
+p68
+aVknowledge
+p69
+aVsubject matter
+p70
+aVexpert sme
+p71
+aVwithin
+p72
+aVdiscipline specialty
+p73
+aVarea
+p74
+aVbasic knowledge
+p75
+aVdiscipline specialty
+p76
+aVarea
+p77
+aVdeep technical
+p78
+aVknowledge
+p79
+aVapplies depth
+p80
+aVknowledge
+p81
+aVdiscipline specialty
+p82
+aVarea
+p83
+aVstandard process
+p84
+aVintegrates industry
+p85
+aVexperience
+p86
+aVdeep
+p87
+aVprofessional
+p88
+aVtechnical
+p89
+aVknowledge
+p90
+aVtechnical
+p91
+aVleader
+p92
+aVrecognized sme
+p93
+aVselect
+p94
+aVtechnology
+p95
+aVsystem
+p96
+aVprocedure
+p97
+aVanalysis
+p98
+aVproblem solving
+p99
+aVsolves unique
+p100
+aVproblem evaluative
+p101
+aVjudgment precedent
+p102
+aVindependently applies
+p103
+aVsophisticated
+p104
+aVanalysis
+p105
+aVevaluating issue
+p106
+aVdevelops new
+p107
+aVconcept
+p108
+aVmethod
+p109
+aVtechnique
+p110
+aVcross functional
+p111
+aVinitiative recognizes
+p112
+aVpursues alternative
+p113
+aVmethod
+p114
+aVindependence guided
+p115
+aVdepartment goal
+p116
+aVobjective exercise
+p117
+aVlatitude determining
+p118
+aVobjective approach
+p119
+aVproject
+p120
+aVlead
+p121
+aVmultiple project
+p122
+aVsmall medium
+p123
+aVsize
+p124
+aVtechnical breadth
+p125
+aVcontribution
+p126
+aVtechnology
+p127
+aVkey contributor
+p128
+aVcomplex project
+p129
+aVinitiative
+p130
+aVimpact
+p131
+aVcurrent future
+p132
+aVbusiness
+p133
+aVopportunity
+p134
+aVapplication
+p135
+aVspecialized technical
+p136
+aVindustry
+p137
+aVknowledge
+p138
+aVdevelops
+p139
+aVmethod
+p140
+aVtechnique
+p141
+aVbased
+p142
+aVstrategic
+p143
+aVproject objective
+p144
+aVcommunication mentor
+p145
+aVprovides technical
+p146
+aVguidance explains
+p147
+aVadvanced
+p148
+aVconcept others
+p149
+aVwork
+p150
+aVarea
+p151
+aVcoordinate
+p152
+aVacross multiple
+p153
+aVdepartment promotes
+p154
+aVactive listening
+p155
+aVopen communication
+p156
+aVprovides leadership
+p157
+aVguidance others
+p158
+aVsenior level
+p159
+aVeducation bachelor
+p160
+aVscience
+p161
+aVcomputer science
+p162
+aVmath scientific
+p163
+aVcomputing preferred
+p164
+aVexperience
+p165
+aVtypically requires
+p166
+aV5-8 year
+p167
+aVexperience supervisory
+p168
+aVprincipal level
+p169
+aVeducation
+p170
+aVeducation
+p171
+aVmaster
+p172
+aVscience
+p173
+aVcomputer science
+p174
+aVmath scientific
+p175
+aVcomputing preferred
+p176
+aVexperience
+p177
+aVtypically requires
+p178
+aV8-10 year
+p179
+aVexperience supervisory
+p180
+aVreport
+p181
+a.

@@ -2,165 +2,168 @@
 S'skills'
 p2
 (dp3
-S'linear programming'
+S'data science'
 p4
-I1
-sS'testing'
+F0.0032075758017615979
+sS'decision support'
 p5
-I1
-sS'project planning'
+F0.011844111887927387
+sS'sas'
 p6
-I1
-sS'r programming'
+F0.0036939649511397777
+sS'sports'
 p7
-I1
-sS'research'
+F0.014531133307898642
+sS'statistics'
 p8
-I1
-sS'optimization'
+F0.0024867009461402786
+sS'research'
 p9
-I1
+F0.018200753955450417
+sS'r'
+F0.0014799794843038431
 sS'computer science'
 p10
-I1
-sS'data science'
+F0.0037492887018325885
+sS'mathematics'
 p11
-I1
-sS'operations research'
+F0.0048743820855354824
+sS'project planning'
 p12
-I1
-sS'matlab'
+F0.01110890617475551
+sS'operations research'
 p13
-I1
-sS'decision support'
+F0.0076825027081384254
+sS'matlab'
 p14
-I1
-sS'theory'
+F0.0034037365003681728
+sS'testing'
 p15
-I1
-sS'cplex'
+F0.0054596747064000343
+sS'theory'
 p16
-I1
-sS'facebook'
+F0.0078146033345955612
+sS'cplex'
 p17
-I1
-sS'sql'
+F0.013609149048211035
+sS'facebook'
 p18
-I1
-sS'modeling'
+F0.011397012557028595
+sS'sql'
 p19
-I1
-sS'data'
+F0.0018185169568881254
+sS'modeling'
 p20
-I1
-sS'software development'
+F0.0043314436747816133
+sS'data'
 p21
-I1
-sS'training'
+F0.001265082537327711
+sS'software development'
 p22
-I1
-sS'programming'
+F0.0056538576481953932
+sS'training'
 p23
-I1
-sS'analysis'
+F0.0062754526693928779
+sS'science'
 p24
-I1
-sS'simulation'
+F0.0018747570351842463
+sS'programming'
 p25
-I1
-sS'r'
-I1
-sS'validation'
+F0.01175802917157201
+sS'analysis'
 p26
-I1
-sS'application development'
+F0.0036545996987107192
+sS'simulation'
 p27
-I1
-ssS'working-year'
+F0.0071595621004649909
+sS'optimization'
 p28
-(dp29
-V(0, 2]
+F0.0053333569530361119
+sS'validation'
+p29
+F0.016863798960400515
+sS'root'
 p30
-I1
-sV(2, 5]
+F0.010444106217192438
+sS'application development'
 p31
-I1
-ssS'major'
+F0.010216257070629987
+ssS'working-year'
 p32
 (dp33
-S'information'
+V(0, 2]
 p34
-I1
-sS'business'
+F0.0060735471042404092
+sV(2, 5]
 p35
-I1
-sS'data science'
+F0.0033038518091496947
+ssS'major'
 p36
-I1
-sS'mathematics statistics'
-p37
-I1
-sS'design'
+(dp37
+VStatistics
 p38
-I1
-sS'computer science'
+F0.0048040127197015474
+sVBusiness
 p39
-I1
-sS'statistic'
+F0.0028845715924643044
+sVData Science
 p40
-I1
-sS'development practice'
+F0.0027394372869468334
+sVComputer Science
 p41
-I1
-sS'computer science mathematics'
+F0.0024142819902725271
+sVMathematics
 p42
-I1
-sS'operations research'
+F0.0045713934122198719
+sVOperations Research
 p43
-I1
+F0.008583277061832411
 ssS'education'
 p44
 (dp45
 VMaster
 p46
-I1
+F0.0019394151605978049
 sVDoctor
 p47
-I1
+F0.0029044847247372478
 ssS'responsibility'
 p48
 (dp49
 S'development'
 p50
-I1
+F0.0064584586795419655
 sS'information'
 p51
-I1
+F0.0036989471987450523
 sS'business problem'
 p52
-I1
-sS'analysis'
-p53
-I1
+F0.0075950681656817192
 sS'simulation'
+p53
+F0.0071595621004649909
+sS'analysis'
 p54
-I1
-sS'optimization'
+F0.0036545996987107192
+sS'develop ... model'
 p55
-I1
-sS'design'
+F0.0082664347391363663
+sS'optimization'
 p56
-I1
-sS'test model'
+F0.0053333569530361119
+sS'design'
 p57
-I1
+F0.0077889003200985471
 sS'modeling'
 p58
-I1
-sS'model'
-p59
-I1
+F0.0043314436747816133
 sS'prototype'
+p59
+F0.0084084571027991679
+sS'validate ... model'
 p60
-I1
+F0.013959376392909763
+sS'test ... model'
+p61
+F0.012355815758255548
 ss.

@@ -1,5 +1,5 @@
-skills: {'java': 1, 'cancer': 1, 'laboratory': 1, 'data scientist': 1, 'processing': 1, 'programming': 1, 'engineering': 1, 'machine learning': 1, 'access': 1, 'computer vision': 1, 'computer science': 1, 'natural language processing': 1, 'policy': 1, 'pattern recognition': 1, 'research': 1, 'data': 1, 'insurance': 1, 'artificial intelligence': 1}
-working-year: {u'(2, 5]': 1}
-major: {'machine learning engineer': 1, 'artificial intelligence machine learning': 1, 'engineering': 1, 'computer science': 1, 'natural language processing': 1, 'machine learning': 1, 'artificial intelligence': 1}
-education: {u'Master': 1, u'Doctor': 1}
-responsibility: {'report': 1, 'pattern': 1, 'processing': 1, 'recommendation': 1}
+skills: {'cancer': 0.05203382208416699, 'intelligence': 0.008870387626478977, 'engineering': 0.0069200834862918345, 'laboratory': 0.04762973811379535, 'insurance': 0.017814527760167728, 'java': 0.007001508291911206, 'research': 0.004820114924642589, 'access': 0.026208610453067285, 'computer vision': 0.019970836515176404, 'computer science': 0.007943408266594468, 'natural language processing': 0.01415795554779832, 'policy': 0.015421797898535308, 'artificial intelligence': 0.01563625175183483, 'python': 0.0029449238008659095, 'processing': 0.0092264863653713, 'data scientist': 0.00598515065064338, 'data': 0.0006700649032456097, 'c': 0.0070656605869949, 'pattern recognition': 0.018041546377862663, 'science': 0.003971942871153065, 'programming': 0.006227769688332632, 'machine learning': 0.003703489953864629}
+working-year: {u'(2, 5]': 0.006999686036334099}
+major: {u'Engineering': 0.012725304670998461, u'Computer Science': 0.005115004216679083}
+education: {u'Bachelor': 0.005149032924688738, u'Master': 0.00410893042499535, u'Doctor': 0.006153569332070441}
+responsibility: {'report': 0.011724725537697338, 'pattern': 0.014794299862000825, 'processing': 0.0092264863653713, 'recommendation': 0.014758201948125826}

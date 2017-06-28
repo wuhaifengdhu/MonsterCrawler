@@ -2,91 +2,80 @@
 S'skills'
 p2
 (lp3
-S'clustering'
+S'classification'
 p4
-aS'calculus'
+aS'data science'
 p5
-aS'classification'
+aS'analytics'
 p6
-aS'analytics'
-p7
-aS'python'
-p8
-aS'science'
-p9
-aS'data science'
-p10
-aS'algebra'
-p11
-aS'data scientist'
-p12
-aS'machine learning'
-p13
-aS'access'
-p14
-aS'credit'
-p15
-aS'linear algebra'
-p16
-aS'r'
-aS'computer science'
-p17
 aS'problem solving'
-p18
-aS'sql'
-p19
-aS'mathematics'
-p20
-aS'data'
-p21
-aS'data analytics'
-p22
-asS'working-year'
-p23
-(lp24
-V(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
-aS'computer science mathematics'
-p29
-aS'science'
-p30
-aS'data science'
-p31
-aS'machine learning'
-p32
-aS'analytics'
-p33
+p7
+aS'clustering'
+p8
+aS'statistics'
+p9
+aS'access'
+p10
 aS'computer science'
-p34
-aS'statistic'
-p35
+p11
 aS'mathematics'
-p36
-aS'law'
-p37
+p12
+aS'calculus'
+p13
+aS'algebra'
+p14
+aS'python'
+p15
+aS'data scientist'
+p16
+aS'sql'
+p17
+aS'data'
+p18
+aS'a'
+aS'science'
+p19
+aS'machine learning'
+p20
+aS'credit'
+p21
+aS'r'
+aS'linear algebra'
+p22
 aS'data analytics'
-p38
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VMathematics
+p29
+aVData Science
+p30
+aVStatistics
+p31
+aVComputer Science
+p32
 asS'education'
-p39
-(lp40
+p33
+(lp34
 VMaster
-p41
+p35
 aVDoctor
-p42
+p36
 asS'responsibility'
-p43
-(lp44
+p37
+(lp38
 S'report'
-p45
+p39
 aS'information'
-p46
+p40
 aS'understand'
-p47
+p41
 aS'recommendation'
-p48
+p42
 as.

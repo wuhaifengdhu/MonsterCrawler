@@ -44,60 +44,50 @@ aS'science'
 p23
 aS'architecture'
 p24
-aS'retail'
+aS'databases'
 p25
-aS'root'
+aS'retail'
 p26
-asS'working-year'
+aS'root'
 p27
-(lp28
+asS'working-year'
+p28
+(lp29
 V(5, 10]
-p29
-aV(2, 5]
 p30
-asS'major'
+aV(2, 5]
 p31
-(lp32
-S'information'
-p33
-aS'information systems'
+asS'major'
+p32
+(lp33
+VEngineering
 p34
-aS'science'
+aVInformation Science
 p35
-aS'computer science computer engineering'
+aVComputer Science
 p36
-aS'engineering'
-p37
-aS'computer engineering'
-p38
-aS'information system'
-p39
-aS'design'
-p40
-aS'computer science'
-p41
 asS'education'
-p42
-(lp43
+p37
+(lp38
 VBachelor
-p44
+p39
 asS'responsibility'
-p45
-(lp46
+p40
+(lp41
 S'development'
-p47
+p42
 aS'information'
-p48
+p43
 aS'product'
-p49
+p44
 aS'analytic'
-p50
+p45
 aS'design'
-p51
+p46
 aS'interface'
-p52
+p47
 aS'understand'
-p53
+p48
 aS'implement'
-p54
+p49
 as.

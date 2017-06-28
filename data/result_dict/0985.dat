@@ -18,27 +18,27 @@ aS'engineering'
 p10
 aS'devops'
 p11
-aS'sap'
+aS'linux'
 p12
-aS'git'
+aS'sap'
 p13
-aS'java'
+aS'git'
 p14
-aS'big data'
+aS'java'
 p15
-aS'agile'
+aS'big data'
 p16
-aS'recruiting'
+aS'agile'
 p17
-aS'hadoop'
+aS'recruiting'
 p18
-aS'writing'
+aS'hadoop'
 p19
-aS'computer science'
+aS'writing'
 p20
-aS'mac os'
+aS'computer science'
 p21
-aS'r programming'
+aS'mac os'
 p22
 aS'flume'
 p23
@@ -89,55 +89,41 @@ p45
 asS'working-year'
 p46
 (lp47
-V[0]
+S'[0]'
 p48
 asS'major'
 p49
 (lp50
-S'management'
+VData Science
 p51
-aS'business'
+aVEngineering
 p52
-aS'big data'
+aVComputer Science
 p53
-aS'science'
+aVBusiness
 p54
-aS'software engineering'
+aVManagement Science and Engineering
 p55
-aS'analytics'
-p56
-aS'engineering'
-p57
-aS'computer science software engineering'
-p58
-aS'computer science'
-p59
-aS'english'
-p60
-aS'communication'
-p61
-aS'design'
-p62
-aS'ee computer science'
-p63
 asS'education'
-p64
-(lp65
-S'Bachelor'
-p66
+p56
+(lp57
+VBachelor
+p58
+aVMaster
+p59
 asS'responsibility'
-p67
-(lp68
+p60
+(lp61
 S'development'
-p69
+p62
 aS'product'
-p70
-aVinsight
-p71
+p63
+aS'insight'
+p64
 aS'design'
-p72
+p65
 aS'ownership'
-p73
+p66
 aS'model'
-p74
+p67
 as.

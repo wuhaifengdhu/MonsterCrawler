@@ -2,251 +2,239 @@
 S'skills'
 p2
 (dp3
-S'data science'
+S'communication'
 p4
-I1
-sS'testing'
-p5
-I1
-sS'integration'
-p6
-I1
-sS'analytics'
-p7
-I1
-sS'unix'
-p8
-I1
-sS'process improvement'
-p9
-I1
-sVpanda
-p10
-I1
-sS'management'
-p11
-I1
-sS'genetics'
-p12
-I1
-sS'psychology'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'tableau'
-p15
-I1
-sS'research'
-p16
-I1
-sS'market research'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'microstrategy'
-p19
-I1
-sS'innovation'
-p20
-I1
-sS'mathematics'
-p21
-I1
-sS'survey research'
-p22
-I1
-sS'numpy'
-p23
-I1
-sS'data analysis'
-p24
-I1
-sS'performance management'
-p25
-I1
-sS'python'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'spotfire'
-p28
-I1
-sS'performance measurement'
-p29
-I1
-sS'automation'
-p30
-I1
-sS'sql'
-p31
-I1
-sS'modeling'
-p32
-I1
-sS'experimental design'
-p33
-I1
-sS'data'
-p34
-I1
-sS'c'
-I1
-sS'data collection'
-p35
-I1
-sS'data visualization'
-p36
-I1
-sS'science'
-p37
-I1
-sS'documentation'
-p38
-I1
-sS'programming'
-p39
-I1
-sS'engineering'
-p40
-I1
-sS'analysis'
-p41
-I1
-sS'machine learning'
-p42
-I1
-sS'r'
-I1
-sS'advertising'
-p43
-I1
-sS'organization'
-p44
-I1
-sS'retail'
-p45
-I1
-sS'data integration'
-p46
-I1
-sS'trend analysis'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(2, 5]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'information'
-p53
-I1
-sS'management'
-p54
-I1
-sS'genetics'
-p55
-I1
-sS'psychology'
-p56
-I1
-sS'big data'
-p57
-I1
-sS'science'
-p58
-I1
+F0.00273431668240217
 sS'data science'
-p59
-I1
-sS'automation'
-p60
-I1
-sS'business leadership'
-p61
-I1
+p5
+F0.0020774454674621747
+sS'testing'
+p6
+F0.0035360587476684158
+sS'tableau'
+p7
+F0.0034698205304383276
 sS'analytics'
-p62
-I1
-sS'engineering'
-p63
-I1
-sS'machine learning'
-p64
-I1
-sS'design'
-p65
-I1
+p8
+F0.0045064117201218997
+sS'unix'
+p9
+F0.004459566129162435
+sS'process improvement'
+p10
+F0.0055712653617089221
+sS'sas'
+p11
+F0.0047849286931862401
+sS'writing'
+p12
+F0.0038809332056692447
+sS'statistics'
+p13
+F0.0016105576076038074
+sS'genetics'
+p14
+F0.0067084716841431732
+sS'psychology'
+p15
+F0.0076986910403636678
+sS'big data'
+p16
+F0.0021981435688474397
+sS'integration'
+p17
+F0.0039831487429958764
+sS'research'
+p18
+F0.0058940265399774665
+sS'market research'
+p19
+F0.005535074474090582
 sS'computer science'
-p66
-I1
-sS'statistic'
-p67
-I1
+p20
+F0.0024282957913423497
+sS'microstrategy'
+p21
+F0.0078899693635513038
+sS'innovation'
+p22
+F0.0033433932161221476
 sS'mathematics'
-p68
-I1
-sS'mathematics computer science'
-p69
-I1
-sS'business'
-p70
-I1
+p23
+F0.0063139664320407797
+sS'survey research'
+p24
+F0.0084773257671066828
+sS'numpy'
+p25
+F0.0061959936115846097
+sS'pandas'
+p26
+F0.0071037002957369273
+sS'data analysis'
+p27
+F0.0025626286959683337
+sS'performance management'
+p28
+F0.0081955462644453161
+sS'python'
+p29
+F0.0036010467202298164
+sS'spotfire'
+p30
+F0.0074166133207261911
+sS'data scientist'
+p31
+F0.0018296574527873544
+sS'performance measurement'
+p32
+F0.0093378507132870561
+sS'automation'
+p33
+F0.011520028758078787
+sS'leadership'
+p34
+F0.0028539009001793125
+sS'sql'
+p35
+F0.0011777959565337601
+sS'modeling'
+p36
+F0.0014026695838023357
+sS'experimental design'
+p37
+F0.0059822329344390258
+sS'data'
+p38
+F0.0030725774060744275
+sS'c'
+F0.0021599687804803062
+sS'data collection'
+p39
+F0.012522796362560425
+sS'data visualization'
+p40
+F0.0033967765554051826
+sS'science'
+p41
+F0.0084995461439700288
+sS'documentation'
+p42
+F0.00500767004998969
+sS'programming'
+p43
+F0.0019038259668996129
+sS'engineering'
+p44
+F0.0021154659362239286
+sS'analysis'
+p45
+F0.00414219525436772
+sS'machine learning'
+p46
+F0.0011321549599897052
+sS'r'
+F0.00095853593542995013
+sS'advertising'
+p47
+F0.005684623979845059
+sS'databases'
+p48
+F0.0039766807829512783
+sS'organization'
+p49
+F0.0060904450406966534
+sS'retail'
+p50
+F0.0059515742390613509
+sS'data integration'
+p51
+F0.0066850797244068774
+sS'trend analysis'
+p52
+F0.010038133291019526
+ssS'working-year'
+p53
+(dp54
+V(2, 5]
+p55
+F0.0021398003945270042
+ssS'major'
+p56
+(dp57
+VStatistics
+p58
+F0.0031114072018792404
+sVPsychology
+p59
+F0.0080530241990023864
+sVBusiness
+p60
+F0.0018682458500416479
+sVData Science
+p61
+F0.0017742469475044258
+sVEngineering
+p62
+F0.0021154659362239286
+sVComputer Science
+p63
+F0.0015636541387775435
+sVBiological Engineering
+p64
+F0.0045426524705987747
+sVMathematics
+p65
+F0.0029607470286398133
+sVManagement Science and Engineering
+p66
+F0.0022271926398426465
 ssS'education'
+p67
+(dp68
+VBachelor
+p69
+F0.0015740566971846402
+sVMaster
+p70
+F0.0012560979019415836
+ssS'responsibility'
 p71
 (dp72
-VBachelor
-p73
-I1
-sVMaster
-p74
-I1
-ssS'responsibility'
-p75
-(dp76
 S'product leadership'
-p77
-I1
+p73
+F0.011031851488343873
 sS'information'
-p78
-I1
+p74
+F0.007187073572691164
 sS'product'
-p79
-I1
+p75
+F0.0046459167209594006
 sS'data analysis'
-p80
-I1
+p76
+F0.0025626286959683337
 sS'documentation'
-p81
-I1
+p77
+F0.00500767004998969
 sS'analysis'
-p82
-I1
+p78
+F0.00414219525436772
 sS'improvement'
-p83
-I1
+p79
+F0.0046393894582713435
 sS'data collection'
-p84
-I1
+p80
+F0.012522796362560425
 sS'design'
-p85
-I1
+p81
+F0.0025223122798246592
 sS'modeling'
-p86
-I1
+p82
+F0.0014026695838023357
 sS'implement'
-p87
-I1
+p83
+F0.0036577947756815327
 sS'data aggregation'
-p88
-I1
+p84
+F0.0096527398479912038
 ss.

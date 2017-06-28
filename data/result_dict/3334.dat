@@ -4,17 +4,17 @@ p2
 (lp3
 S'scientific programming'
 p4
-aS'r d'
-p5
 aS'cancer'
-p6
+p5
 aS'characterization'
-p7
+p6
 aS'regression analysis'
-p8
+p7
 aS'data science'
-p9
+p8
 aS'testing'
+p9
+aS'hardware'
 p10
 aS'analytics'
 p11
@@ -54,6 +54,7 @@ aS'numpy'
 p28
 aS'computer science'
 p29
+aS'a'
 aS'processing'
 p30
 aS'signal processing'
@@ -66,6 +67,7 @@ aS'innovation'
 p34
 aS'data scientist'
 p35
+aS'c'
 aS'matplotlib'
 p36
 aS'statistical modeling'
@@ -108,75 +110,51 @@ p54
 asS'working-year'
 p55
 (lp56
-V[0]
+S'[0]'
 p57
 asS'major'
 p58
 (lp59
-S'information'
+VData Science
 p60
-aS'chemistry'
+aVElectrical and Electronics Engineering
 p61
-aS'software engineering'
+aVEngineering
 p62
-aS'computing'
+aVComputer Science
 p63
-aS'biochemistry'
+aVBiological Engineering
 p64
-aS'science'
+aVMathematics
 p65
-aS'data science'
+aVChemical Engineering
 p66
-aS'applied math'
-p67
-aS'statistic'
-p68
-aS'machine learning'
-p69
-aS'analytics'
-p70
-aS'engineering'
-p71
-aS'electrical'
-p72
-aS'natural language processing'
-p73
-aS'bioinformatics'
-p74
-aS'electrical engineering'
-p75
-aS'phd'
-p76
-aVphysic
-p77
-aS'computer science'
-p78
 asS'education'
-p79
-(lp80
+p67
+(lp68
 VDoctor
-p81
+p69
 asS'responsibility'
-p82
-(lp83
+p70
+(lp71
 S'development'
-p84
+p72
 aS'information'
-p85
+p73
 aS'data analysis'
-p86
+p74
 aS'processing'
-p87
+p75
 aS'analysis'
-p88
+p76
 aS'statistical model'
-p89
+p77
 aS'statistical method'
-p90
+p78
 aS'modeling'
-p91
+p79
 aS'model'
-p92
+p80
 aS'simulation'
-p93
+p81
 as.

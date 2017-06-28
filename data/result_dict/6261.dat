@@ -24,7 +24,7 @@ aS'visualization'
 p13
 aS'education'
 p14
-aS'r programming'
+aS'integration'
 p15
 aS'writing'
 p16
@@ -48,6 +48,7 @@ aS'data'
 p25
 aS'security'
 p26
+aS'a'
 aS'data collection'
 p27
 aS'national security'
@@ -71,55 +72,45 @@ p36
 asS'working-year'
 p37
 (lp38
-V(5, 10]
+V(2, 5]
 p39
-aV(2, 5]
-p40
 asS'major'
-p41
-(lp42
-S'information'
+p40
+(lp41
+VMathematics
+p42
+aVData Science
 p43
-aS'information systems'
+aVInformation Science
 p44
-aS'business'
+aVEngineering
 p45
-aS'science'
+aVBusiness
 p46
-aS'data science'
-p47
-aS'engineering'
-p48
-aS'information system'
-p49
-aS'communication'
-p50
-aS'mathematics'
-p51
-aS'law'
-p52
 asS'education'
-p53
-(lp54
+p47
+(lp48
 VBachelor
-p55
+p49
 asS'responsibility'
-p56
-(lp57
+p50
+(lp51
 S'information'
-p58
+p52
 aS'data collection'
-p59
+p53
 aS'documentation'
-p60
+p54
 aS'analysis'
-p61
+p55
 aS'statistical method'
-p62
+p56
 aS'modeling'
-p63
+p57
 aS'model'
-p64
+p58
 aS'presentation'
-p65
+p59
+aS'decision making'
+p60
 as.

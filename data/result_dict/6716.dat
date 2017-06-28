@@ -12,92 +12,97 @@ aS'hardware'
 p7
 aS'engineering'
 p8
-aS'troubleshooting'
+aS'virtualization'
 p9
 aS'vmware'
 p10
-aS'networking'
+aS'management'
 p11
-aS'vbscript'
+aS'networking'
 p12
-aS'storage'
+aS'vbscript'
 p13
-aS'research'
+aS'storage'
 p14
-aS'quality assurance'
+aS'research'
 p15
-aS'innovation'
+aS'quality assurance'
 p16
-aS'product development'
-p17
-aS'aws'
-p18
 aS'mac os'
+p17
+aS'product development'
+p18
+aS'aws'
 p19
-aS'data scientist'
+aS'innovation'
 p20
-aS'automation'
+aS'data scientist'
 p21
-aS'sql'
+aS'automation'
 p22
-aS'data'
+aS'performance tuning'
 p23
-aS'b2b'
+aS'data'
 p24
-aS'sql server'
+aS'b2b'
 p25
-aS'documentation'
+aS'a'
+aS'sql server'
 p26
-aS'analysis'
+aS'windows'
 p27
-aS'security'
+aS'documentation'
 p28
-aS'root'
+aS'analysis'
 p29
-aS'powershell'
+aS'sql'
 p30
-aS'scripting'
+aS'security'
 p31
-aS'virtualization'
+aS'root'
 p32
-asS'working-year'
+aS'powershell'
 p33
-(lp34
-V(5, 10]
+aS'scripting'
+p34
+aS'troubleshooting'
 p35
-asS'major'
+asS'working-year'
 p36
 (lp37
-S'engineering'
+V(5, 10]
 p38
-aS'computing'
+asS'major'
 p39
-aS'design'
-p40
-aS'business'
+(lp40
+VEngineering
 p41
-aS'automation'
+aVComputer Science
 p42
-asS'education'
+aVBusiness
 p43
-(lp44
-S'Bachelor'
+aVManagement Science and Engineering
+p44
+asS'education'
 p45
+(lp46
+S'Bachelor'
+p47
 asS'responsibility'
-p46
-(lp47
-S'development'
 p48
-aS'product'
-p49
-aS'documentation'
+(lp49
+S'development'
 p50
-aS'communicate'
+aS'product'
 p51
-aS'analysis'
+aS'documentation'
 p52
-aS'design'
+aS'communicate'
 p53
-aS'implement'
+aS'analysis'
 p54
+aS'design'
+p55
+aS'implement'
+p56
 as.

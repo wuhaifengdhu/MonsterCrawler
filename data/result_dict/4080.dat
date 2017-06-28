@@ -35,35 +35,31 @@ p18
 asS'working-year'
 p19
 (lp20
-V[0]
+S'[0]'
 p21
 asS'major'
 p22
 (lp23
-S'science'
+VData Science
 p24
-aS'data science'
+aVComputer Science
 p25
-aS'music'
-p26
-aS'machine learning'
-p27
 asS'education'
+p26
+(lp27
+VBachelor
 p28
-(lp29
-S'Bachelor'
-p30
 asS'responsibility'
-p31
-(lp32
+p29
+(lp30
 S'product'
-p33
-aVinsight
-p34
+p31
+aS'insight'
+p32
 aS'understand'
-p35
+p33
 aS'model'
-p36
+p34
 aS'collect data'
-p37
+p35
 as.

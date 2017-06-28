@@ -4,98 +4,88 @@ p2
 (lp3
 S'communication'
 p4
-aS'hadoop'
-p5
-aS'engineering'
-p6
-aS'education'
-p7
-aS'data analytics'
-p8
-aS'management'
-p9
-aS'big data'
-p10
 aS'integration'
-p11
-aS'information management'
-p12
-aS'oracle sql'
-p13
-aS'computer science'
-p14
-aS'mathematics'
-p15
-aS'toad'
-p16
-aS'informatica'
-p17
-aS'data scientist'
-p18
-aS'etl tools'
-p19
-aS'sql'
-p20
-aS'data'
-p21
-aS'software engineering'
-p22
-aS'sql server'
-p23
-aS'science'
-p24
-aS'communication skills'
-p25
-aS'etl'
-p26
-aS'oracle'
-p27
-aS'data integration'
-p28
-asS'working-year'
-p29
-(lp30
-V(5, 10]
-p31
-asS'major'
-p32
-(lp33
-S'information'
-p34
-aS'management'
-p35
-aS'software engineering'
-p36
-aS'big data'
-p37
-aS'science'
-p38
-aS'information management'
-p39
+p5
+aS'analytics'
+p6
 aS'engineering'
-p40
-aS'computer science'
-p41
-aS'communication'
-p42
-aS'mathematics'
-p43
-aS'computer science mathematics'
-p44
-aS'ee computer science'
-p45
+p7
+aS'education'
+p8
 aS'data analytics'
-p46
+p9
+aS'management'
+p10
+aS'big data'
+p11
+aS'excel'
+p12
+aS'hadoop'
+p13
+aS'information management'
+p14
+aS'oracle sql'
+p15
+aS'computer science'
+p16
+aS'mathematics'
+p17
+aS'toad'
+p18
+aS'informatica'
+p19
+aS'data scientist'
+p20
+aS'sql'
+p21
+aS'data'
+p22
+aS'software engineering'
+p23
+aS'sql server'
+p24
+aS'science'
+p25
+aS'communication skills'
+p26
+aS'etl'
+p27
+aS'oracle'
+p28
+aS'data integration'
+p29
+asS'working-year'
+p30
+(lp31
+V(5, 10]
+p32
+asS'major'
+p33
+(lp34
+VData Science
+p35
+aVEngineering
+p36
+aVInformation Science
+p37
+aVComputer Science
+p38
+aVMathematics
+p39
+aVManagement Science and Engineering
+p40
 asS'education'
-p47
-(lp48
+p41
+(lp42
 VBachelor
-p49
+p43
+aVMaster
+p44
 asS'responsibility'
-p50
-(lp51
+p45
+(lp46
 S'report'
-p52
+p47
 aS'information'
-p53
+p48
 as.

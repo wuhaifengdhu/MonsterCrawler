@@ -2,112 +2,105 @@
 S'skills'
 p2
 (lp3
-S'science'
+S'analytics'
 p4
-aS'word'
+aS'engineering'
 p5
-aS'finance'
-p6
-aS'optimization'
-p7
-aS'marketing'
-p8
-aS'email marketing'
-p9
-aS'data scientist'
-p10
-aS'engineering'
-p11
-aS'analysis'
-p12
-aS'machine learning'
-p13
-aS'analytics'
-p14
-aS'product design'
-p15
-aS'leadership'
-p16
 aS'product strategy'
-p17
-aS'computer science'
-p18
-aS'customer service'
-p19
-aS'modeling'
-p20
-aS'strategy'
-p21
-aS'data'
-p22
+p6
+aS'email marketing'
+p7
 aS'insurance'
-p23
+p8
 aS'lean startup'
-p24
-asS'working-year'
-p25
-(lp26
-V[0]
-p27
-asS'major'
-p28
-(lp29
-S'information'
-p30
-aS'finance'
-p31
-aS'business'
-p32
-aS'statistics computer science'
-p33
-aS'marketing'
-p34
-aS'machine learning'
-p35
-aS'analytics'
-p36
-aS'engineering'
-p37
-aS'design'
-p38
+p9
+aS'statistics'
+p10
+aS'strategy'
+p11
 aS'computer science'
-p39
-aS'statistic'
-p40
-aS'phd'
-p41
-aVphysic
-p42
-aS'science'
-p43
-asS'education'
-p44
-(lp45
-VMaster
-p46
-aVDoctor
-p47
-asS'responsibility'
-p48
-(lp49
-S'development'
-p50
-aS'information'
-p51
-aS'product'
-p52
-aVinsight
-p53
-aS'communicate'
-p54
-aS'analysis'
-p55
-aS'optimization'
-p56
-aS'design'
-p57
+p12
+aS'leadership'
+p13
+aS'customer service'
+p14
+aS'finance'
+p15
+aS'marketing'
+p16
+aS'data scientist'
+p17
+aS'product design'
+p18
 aS'modeling'
-p58
+p19
+aS'data'
+p20
+aS'a'
+aS'word'
+p21
+aS'science'
+p22
+aS'analysis'
+p23
+aS'machine learning'
+p24
+aS'optimization'
+p25
+aS'physics'
+p26
+asS'working-year'
+p27
+(lp28
+S'[0]'
+p29
+asS'major'
+p30
+(lp31
+VStatistics
+p32
+aVBusiness
+p33
+aVData Science
+p34
+aVEconomics
+p35
+aVEngineering
+p36
+aVComputer Science
+p37
+aVPhysics
+p38
+asS'education'
+p39
+(lp40
+VMaster
+p41
+aVDoctor
+p42
+asS'responsibility'
+p43
+(lp44
+S'development'
+p45
+aS'information'
+p46
+aS'product'
+p47
+aS'insight'
+p48
+aS'communicate'
+p49
+aS'analysis'
+p50
+aS'optimization'
+p51
+aS'design'
+p52
+aS'modeling'
+p53
 aS'model'
-p59
+p54
+aS'decision making'
+p55
 as.

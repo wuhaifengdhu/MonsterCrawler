@@ -20,29 +20,29 @@ aS'engineering'
 p11
 aS'management'
 p12
-aS'data mining'
+aS'algorithms'
 p13
-aS'laboratory'
-p14
-aS'modeling'
-p15
-aS'data'
-p16
-asS'working-year'
-p17
-(lp18
-V[0]
-p19
-asS'major'
-p20
-(lp21
-S'engineering'
-p22
-aS'management'
-p23
-aS'design'
-p24
 aS'data mining'
+p14
+aS'laboratory'
+p15
+aS'modeling'
+p16
+aS'data'
+p17
+asS'working-year'
+p18
+(lp19
+S'[0]'
+p20
+asS'major'
+p21
+(lp22
+VEngineering
+p23
+aVComputer Science
+p24
+aVManagement Science and Engineering
 p25
 asS'education'
 p26
@@ -58,12 +58,16 @@ aS'pattern'
 p32
 aS'analysis'
 p33
-aS'design'
+aS'develop ... model'
 p34
-aS'data mining'
+aS'design'
 p35
-aS'report'
+aS'data mining'
 p36
-aS'modeling'
+aS'report'
 p37
+aS'modeling'
+p38
+aS'forecast'
+p39
 as.

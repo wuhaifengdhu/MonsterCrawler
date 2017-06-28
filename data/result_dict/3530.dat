@@ -16,60 +16,66 @@ aS'personalization'
 p9
 aS'data scientist'
 p10
-aS'machine learning'
+aS'engineering'
 p11
-aS'b2b'
+aS'machine learning'
 p12
-aS'optimization'
+aS'go'
 p13
-aS'science'
+aS'b2b'
 p14
-aS'intelligence'
+aS'optimization'
 p15
-aS'modeling'
+aS'budgets'
 p16
-aS'data'
+aS'science'
 p17
-aS'unstructured data'
+aS'intelligence'
 p18
-asS'working-year'
+aS'modeling'
 p19
-(lp20
-V(0, 2]
+aS'data'
+p20
+aS'unstructured data'
 p21
-asS'major'
+asS'working-year'
 p22
 (lp23
-S'big data'
+V(0, 2]
 p24
-aS'business'
+asS'major'
 p25
-aS'science'
-p26
-aS'data science'
+(lp26
+VEngineering
 p27
-aS'machine learning'
+aVData Science
 p28
-aS'marketing'
+aVEconomics
 p29
-asS'education'
+aVComputer Science
 p30
-(lp31
-S'Bachelor'
+aVBusiness
+p31
+asS'education'
 p32
+(lp33
+S'Bachelor'
+p34
 asS'responsibility'
-p33
-(lp34
-S'product'
 p35
-aS'predict'
-p36
-aS'communicate'
+(lp36
+S'product'
 p37
-aS'optimization'
+aS'predict'
 p38
-aS'modeling'
+aS'decision-making'
 p39
-aS'model'
+aS'communicate'
 p40
+aS'optimization'
+p41
+aS'modeling'
+p42
+aS'model'
+p43
 as.

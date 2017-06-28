@@ -2,192 +2,188 @@
 S'skills'
 p2
 (dp3
-S'intellectual property'
+S'economics'
 p4
-I1
-sS'communication'
+F0.0064421823235469395
+sS'intellectual property'
 p5
-I1
-sS'direct marketing'
-p6
-I1
-sS'regression'
-p7
-I1
-sS'hadoop'
-p8
-I1
-sS'strategy'
-p9
-I1
-sS'community development'
-p10
-I1
-sS'computer science'
-p11
-I1
-sS'innovation'
-p12
-I1
-sS'advanced analytics'
-p13
-I1
-sS'mathematics'
-p14
-I1
-sS'operations research'
-p15
-I1
-sS'python'
-p16
-I1
-sS'marketing'
-p17
-I1
-sS'random forest'
-p18
-I1
-sS'experimental design'
-p19
-I1
-sS'fraud'
-p20
-I1
-sS'statistical modeling'
-p21
-I1
-sS'modeling'
-p22
-I1
-sS'credit risk'
-p23
-I1
-sS'data'
-p24
-I1
-sS'decision trees'
-p25
-I1
-sS'solver'
-p26
-I1
-sS'marketing analytics'
-p27
-I1
-sS'business strategy'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'credit'
-p30
-I1
-sS'r'
-I1
-sS'logistic regression'
-p31
-I1
-sS'data analytics'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'business'
-p38
-I1
+F0.014533912803745178
 sS'communication'
-p39
-I1
-sS'marketing analytics'
-p40
-I1
-sS'statistic'
-p41
-I1
-sS'machine learning'
-p42
-I1
-sS'data analytics'
-p43
-I1
-sS'design'
-p44
-I1
+p6
+F0.0042558316105130549
+sS'sas'
+p7
+F0.0037237549910683248
+sS'direct marketing'
+p8
+F0.012455459433725351
+sS'regression'
+p9
+F0.0063875478244134433
+sS'statistics'
+p10
+F0.002506754986028507
+sS'hadoop'
+p11
+F0.0034537809177407662
+sS'strategy'
+p12
+F0.0042339016968463306
+sS'community development'
+p13
+F0.017487163603378902
 sS'computer science'
-p45
-I1
-sS'marketing'
-p46
-I1
+p14
+F0.0037795249010409162
+sS'innovation'
+p15
+F0.0052038297638030209
 sS'advanced analytics'
-p47
-I1
+p16
+F0.0079107810600486123
 sS'mathematics'
-p48
-I1
-sS'phd'
-p49
-I1
-sS'computer science economics'
-p50
-I1
+p17
+F0.0049136916184833491
 sS'operations research'
-p51
-I1
-sS'history'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VBachelor
-p55
-I1
-sVMaster
-p56
-I1
-sVDoctor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'predict'
-p61
-I1
-sVinsight
-p62
-I1
-sS'communicate'
-p63
-I1
-sS'statistical model'
-p64
-I1
-sS'analytic'
-p65
-I1
-sS'design'
-p66
-I1
+p18
+F0.0077444583751395428
+sS'python'
+p19
+F0.0014012137439603925
+sS'marketing'
+p20
+F0.010243088830524456
+sS'random forest'
+p21
+F0.012208667459240171
+sS'experimental design'
+p22
+F0.0093110560995704195
+sS'fraud'
+p23
+F0.010515742138731958
+sS'statistical modeling'
+p24
+F0.0048154987101892378
+sS'sql'
+p25
+F0.0018331824162178686
 sS'modeling'
-p67
-I1
+p26
+F0.0021831873360794425
+sS'credit risk'
+p27
+F0.012048475408483394
+sS'data'
+p28
+F0.0015941060198181843
+sS'a'
+F0.005026994337672115
+sS'decision trees'
+p29
+F0.01121473665729922
+sS'solver'
+p30
+F0.011599410816468909
+sS'science'
+p31
+F0.0018898760435325066
+sS'marketing analytics'
+p32
+F0.010369081217848868
+sS'business strategy'
+p33
+F0.0081707938718264452
+sS'machine learning'
+p34
+F0.0017621444135323639
+sS'credit'
+p35
+F0.051250561681252367
+sS'r'
+F0.0014919148027256483
+sS'logistic regression'
+p36
+F0.0088009754752998506
+sS'data analytics'
+p37
+F0.0054901147351768742
+ssS'working-year'
+p38
+(dp39
+V(5, 10]
+p40
+F0.0032409791977872551
+ssS'major'
+p41
+(dp42
+VStatistics
+p43
+F0.0048427547577636568
+sVBusiness
+p44
+F0.0029078342665970814
+sVData Science
+p45
+F0.0027615295231318889
+sVEconomics
+p46
+F0.004410676203022745
+sVComputer Science
+p47
+F0.0024337520063231126
+sVMathematics
+p48
+F0.0046082594881248712
+sVOperations Research
+p49
+F0.0086524970381375108
+ssS'education'
+p50
+(dp51
+VBachelor
+p52
+F0.002449943085134158
+sVMaster
+p53
+F0.0019550556054413358
+sVDoctor
+p54
+F0.0029279079886464195
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.0065105430237318209
+sS'product'
+p58
+F0.0036155722868756635
+sS'predict'
+p59
+F0.01121473665729922
+sS'insight'
+p60
+F0.0049325090215308742
+sS'communicate'
+p61
+F0.0053931260276386889
+sS'develop ... model'
+p62
+F0.008333099535419726
+sS'analytic'
+p63
+F0.0060691558395151689
+sS'design'
+p64
+F0.0039258570161787038
+sS'modeling'
+p65
+F0.0021831873360794425
 sS'model'
-p68
-I1
+p66
+F0.0083194131285034452
 sS'understand'
-p69
-I1
+p67
+F0.0056496769178609558
 ss.

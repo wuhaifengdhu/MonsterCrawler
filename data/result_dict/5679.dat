@@ -36,6 +36,7 @@ aS'search'
 p19
 aS'data'
 p20
+aS'a'
 aS'training'
 p21
 aS'word'
@@ -55,53 +56,43 @@ p28
 asS'working-year'
 p29
 (lp30
-V[0]
+S'[0]'
 p31
 asS'major'
 p32
 (lp33
-S'mathematics economics'
+VMathematics
 p34
-aS'business'
+aVData Science
 p35
-aS'information'
+aVEconomics
 p36
-aS'marketing'
+aVBusiness
 p37
-aS'economics'
-p38
-aS'analytics'
-p39
-aS'data analytics'
-p40
-aS'statistic'
-p41
-aS'mathematics'
-p42
-aS'web development'
-p43
 asS'education'
-p44
-(lp45
+p38
+(lp39
 VBachelor
-p46
+p40
+aVMaster
+p41
 asS'responsibility'
-p47
-(lp48
+p42
+(lp43
 S'development'
-p49
+p44
 aS'information'
-p50
+p45
 aS'product'
-p51
+p46
 aS'optimization'
-p52
+p47
 aS'understand'
-p53
+p48
 aS'solve problem'
-p54
+p49
 aS'report'
-p55
+p50
 aS'complex data set'
-p56
+p51
 as.

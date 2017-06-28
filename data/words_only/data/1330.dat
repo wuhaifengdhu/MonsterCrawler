@@ -2,135 +2,122 @@
 S'skills'
 p2
 (dp3
-S'training'
+S'data science'
 p4
-I1
-sS'organization'
-p5
-I1
-sS'finance'
-p6
-I1
-sS'team building'
-p7
-I1
-sS'data science'
-p8
-I1
-sS'healthcare'
-p9
-I1
-sS'data scientist'
-p10
-I1
+F0.0058962790473558787
 sS'healthcare analytics'
-p11
-I1
-sS'information management'
-p12
-I1
-sS'r'
-I1
+p5
+F0.025660618369319418
 sS'analytics'
-p13
-I1
-sS'leadership'
-p14
-I1
-sS'computer science'
-p15
-I1
+p6
+F0.012790256793875392
 sS'problem solving'
+p7
+F0.012032411102712016
+sS'team building'
+p8
+F0.019631523314056074
+sS'information management'
+p9
+F0.02364447465534877
+sS'strategy'
+p10
+F0.0077206442707197787
+sS'computer science'
+p11
+F0.0068920748195451988
+sS'advanced analytics'
+p12
+F0.014425541933029822
+sS'mathematics'
+p13
+F0.0089602611866461072
+sS'finance'
+p14
+F0.039046265502701301
+sS'python'
+p15
+F0.0025551544742807154
+sS'leadership'
 p16
-I1
+F0.0081000422608030493
 sS'sql'
 p17
-I1
-sS'advanced analytics'
-p18
-I1
-sS'mathematics'
-p19
-I1
+F0.0033428620531031719
 sS'modeling'
-p20
-I1
-sS'strategy'
-p21
-I1
+p18
+F0.0039811063187331006
 sS'data'
+p19
+F0.0017441395275657782
+sS'a'
+F0.0091668720275197377
+sS'training'
+p20
+F0.011535758583442791
+sS'science'
+p21
+F0.0068924890999420823
+sS'r'
+F0.0027205505226173586
+sS'healthcare'
 p22
-I1
-sS'python'
+F0.013221766388775315
+sS'organization'
 p23
-I1
+F0.0086430580356945154
 ssS'working-year'
 p24
 (dp25
-V(2, 5]
+sS'major'
 p26
-I1
-ssS'major'
-p27
-(dp28
-S'information'
+(dp27
+VBusiness
+p28
+F0.0053025213096770307
+sVData Science
 p29
-I1
-sS'finance'
+F0.0050357303068875618
+sVEconomics
 p30
-I1
-sS'business'
+F0.0080429977819826519
+sVInformation Science
 p31
-I1
-sS'data science'
+F0.012414976414480852
+sVComputer Science
 p32
-I1
-sS'information management'
+F0.0044380183644715573
+sVMathematics
 p33
-I1
-sS'analytics'
+F0.0084032967136394698
+sVManagement Science and Engineering
 p34
-I1
-sS'design'
-p35
-I1
-sS'computer science'
-p36
-I1
-sS'statistic'
-p37
-I1
-sS'advanced analytics'
-p38
-I1
-sS'mathematics'
-p39
-I1
+F0.0063212967572004531
 ssS'education'
-p40
-(dp41
+p35
+(dp36
 VMaster
-p42
-I1
+p37
+F0.0035651013981577297
 ssS'responsibility'
-p43
-(dp44
+p38
+(dp39
 S'information'
-p45
-I1
+p40
+F0.0067995352918107576
 sS'improvement'
-p46
-I1
+p41
+F0.013167678903623078
 sS'design'
-p47
-I1
+p42
+F0.0071589157353846942
 sS'identify opportunity'
-p48
-I1
+p43
+F0.020304066376153871
 sS'modeling'
-p49
-I1
+p44
+F0.0039811063187331006
 sS'presentation'
-p50
-I1
+p45
+F0.01207526638387062
 ss.

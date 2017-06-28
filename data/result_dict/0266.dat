@@ -8,231 +8,209 @@ aS'classification'
 p5
 aS'bioinformatics'
 p6
-aS'information retrieval'
+aS'command'
 p7
-aS'analytics'
+aS'information retrieval'
 p8
-aS'engineering'
+aS'analytics'
 p9
-aS'hive'
+aS'engineering'
 p10
-aS'data mining'
+aS'hive'
 p11
-aS'statistical analysis'
+aS'data mining'
 p12
-aS'regression'
+aS'sas'
 p13
-aS'visualization'
+aS'statistical analysis'
 p14
-aS'management'
+aS'regression'
 p15
-aS'java'
+aS'visualization'
 p16
-aS'big data'
+aS'statistics'
 p17
-aS'ruby'
+aS'java'
 p18
-aS'hadoop'
+aS'big data'
 p19
-aS'research'
+aS'ruby'
 p20
-aS'risk management'
+aS'hadoop'
 p21
-aS'optimization'
+aS'research'
 p22
-aS'matlab'
+aS'risk management'
 p23
-aS'policy'
+aS'optimization'
 p24
-aS'mathematics'
+aS'matlab'
 p25
-aS'operations research'
+aS'policy'
 p26
-aS'computer science'
+aS'mathematics'
 p27
-aS'econometrics'
+aS'operations research'
 p28
-aS'data analysis'
+aS'computer science'
 p29
-aS'sentiment analysis'
+aS'econometrics'
 p30
-aS'product development'
+aS'data analysis'
 p31
-aS'python'
+aS'sentiment analysis'
 p32
-aS'marketing'
+aS'product development'
 p33
-aS'processing'
+aS'python'
 p34
-aS'data scientist'
+aS'marketing'
 p35
-aS'public policy'
+aS'processing'
 p36
-aS'business analytics'
+aS'data scientist'
 p37
-aS'business process'
+aS'public policy'
 p38
-aS'statistical modeling'
+aS'business analytics'
 p39
-aS'sql'
+aS'business process'
 p40
-aS'data analytics'
+aS'management'
 p41
-aS'modeling'
+aS'statistical modeling'
 p42
-aS'spark'
+aS'sql'
 p43
-aS'pig'
+aS'data analytics'
 p44
-aS'data'
+aS'modeling'
 p45
-aS'linux'
+aS'spark'
 p46
-aS'organization'
+aS'pig'
 p47
-aS'data visualization'
+aS'data'
 p48
-aS'collaborative filtering'
+aS'linux'
 p49
-aS'cluster'
+aS'organization'
 p50
-aS'amazon ec2'
+aS'data visualization'
 p51
-aS'science'
+aS'collaborative filtering'
 p52
-aS'programming'
+aS'cluster'
 p53
-aS'mapreduce'
+aS'amazon ec2'
 p54
-aS'analysis'
+aS'science'
 p55
-aS'machine learning'
+aS'programming'
 p56
+aS'mapreduce'
+p57
+aS'analysis'
+p58
+aS'machine learning'
+p59
 aS'r'
 aS'solr'
-p57
-aS'financial services'
-p58
-aS'statistical inference'
-p59
-aS'validation'
 p60
-aS'ec2'
+aS'financial services'
 p61
-aS'scripting'
+aS'statistical inference'
 p62
-aS'marketing research'
+aS'validation'
 p63
-asS'working-year'
+aS'physics'
 p64
-(lp65
-V(0, 2]
+aS'ec2'
+p65
+aS'scripting'
 p66
-aV(2, 5]
+aS'marketing research'
 p67
-asS'major'
+asS'working-year'
 p68
 (lp69
-S'statistic'
+V(0, 2]
 p70
-aS'information retrieval'
+aV(2, 5]
 p71
-aS'analytics'
+asS'major'
 p72
-aS'engineering'
-p73
-aS'marketing research'
+(lp73
+VStatistics
 p74
-aS'data mining'
+aVBusiness
 p75
-aS'public policy'
+aVData Science
 p76
-aS'econometrics'
+aVEconomics
 p77
-aS'information'
+aVEngineering
 p78
-aS'management'
+aVSociology
 p79
-aS'big data'
+aVComputer Science
 p80
-aS'computer science statistics'
+aVBiological Engineering
 p81
-aS'computer science'
+aVMathematics
 p82
-aS'mathematics'
+aVPhysics
 p83
-aS'operations research'
+aVOperations Research
 p84
-aS'business'
+aVManagement Science and Engineering
 p85
-aS'marketing'
-p86
-aS'phd'
-p87
-aS'business analytics'
-p88
-aS'bioinformatics'
-p89
-aS'law'
-p90
-aVphysic
-p91
-aS'science'
-p92
-aS'machine learning'
-p93
-aS'data analytics'
-p94
-aS'history'
-p95
 asS'education'
-p96
-(lp97
+p86
+(lp87
 VMaster
-p98
+p88
 aVDoctor
-p99
+p89
 asS'responsibility'
-p100
-(lp101
+p90
+(lp91
 S'data mining'
-p102
-aS'development'
-p103
-aS'product'
-p104
-aS'data analysis'
-p105
-aS'data infrastructure'
-p106
+p92
 aS'information'
-p107
+p93
+aS'product'
+p94
+aS'data analysis'
+p95
+aS'development'
+p96
+aS'data infrastructure'
+p97
 aS'pattern'
-p108
+p98
 aS'processing'
-p109
+p99
 aS'communicate'
-p110
+p100
 aS'analysis'
-p111
-aS'statistical model'
-p112
+p101
 aS'statistical method'
-p113
+p102
 aS'optimization'
-p114
+p103
 aS'understand'
-p115
+p104
 aS'recommendation'
-p116
+p105
 aS'report'
-p117
+p106
 aS'modeling'
-p118
+p107
 aS'implement'
-p119
+p108
 aS'presentation'
-p120
+p109
 aS'model'
-p121
+p110
 as.

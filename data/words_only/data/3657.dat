@@ -4,218 +4,195 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0029758822539677752
 sS'cluster'
 p5
-I1
+F0.0066027270724050308
 sS'engineering'
 p6
-I1
+F0.0023023586035219069
 sS'data mining'
 p7
-I1
-sS'education'
+F0.0039886829486506341
+sS'go'
 p8
-I1
-sS'experimentation'
-p9
-I1
+F0.006163370667345164
 sS'sap'
+p9
+F0.09056706628824493
+sS'experimentation'
 p10
-I1
-sS'big data'
+F0.0067689578557742075
+sS'statistics'
 p11
-I1
-sS'agile'
-p12
-I1
-sS'recruiting'
-p13
-I1
-sS'hadoop'
-p14
-I1
-sS'research'
-p15
-I1
-sS'computer vision'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'innovation'
-p18
-I1
-sS'processing'
-p19
-I1
-sS'collaboration'
-p20
-I1
-sS'natural language processing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'scalability'
-p23
-I1
-sS'business process'
-p24
-I1
-sS'statistical modeling'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'spark'
-p27
-I1
-sS'data'
-p28
-I1
-sS'software engineering'
-p29
-I1
-sS'applied mathematics'
-p30
-I1
-sS'thought leadership'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'deep learning'
-p34
-I1
-sS'organization'
-p35
-I1
-sS'visual c'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(2, 5]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'natural language processing'
-p42
-I1
-sS'computer science applied math'
-p43
-I1
-sS'business'
-p44
-I1
+F0.0035056874240699419
 sS'big data'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'applied mathematics'
-p47
-I1
-sS'data mining'
-p48
-I1
-sS'statistic'
-p49
-I1
-sS'machine learning data mining'
-p50
-I1
-sS'mathematics statistics'
-p51
-I1
-sS'engineering'
-p52
-I1
-sS'machine learning'
-p53
-I1
-sS'applied mathematics statistics'
-p54
-I1
+p12
+F0.0023923404630877207
+sS'agile'
+p13
+F0.0041046802118411829
+sS'recruiting'
+p14
+F0.0064828914485289303
+sS'hadoop'
+p15
+F0.002415049814660836
+sS'research'
+p16
+F0.0016036848527476281
+sS'computer vision'
+p17
+F0.0066444324495981638
 sS'computer science'
-p55
-I1
-sS'applied math'
-p56
-I1
-sS'software engineering'
-p57
-I1
-sS'phd'
-p58
-I1
-sS'ee computer science'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VMaster
-p62
-I1
-sVDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'development'
-p66
-I1
-sS'product'
-p67
-I1
-sVinsight
-p68
-I1
+p18
+F0.0026428256826827455
+sS'innovation'
+p19
+F0.010916304542113103
+sS'mathematics'
+p20
+F0.003435889627962041
 sS'processing'
-p69
-I1
-sS'communicate'
-p70
-I1
-sS'analysis'
-p71
-I1
-sS'statistical model'
-p72
-I1
-sS'understand'
-p73
-I1
-sS'data mining'
-p74
-I1
+p21
+F0.0030697144486291727
+sS'collaboration'
+p22
+F0.0048076492858523572
+sS'natural language processing'
+p23
+F0.004710447616466734
+sS'data scientist'
+p24
+F0.001991300122488493
+sS'scalability'
+p25
+F0.0075866216893404389
+sS'business process'
+p26
+F0.0057430130254130752
+sS'statistical modeling'
+p27
+F0.0033672284214105192
+sS'tensorflow'
+p28
+F0.0081108662100120941
 sS'modeling'
-p75
-I1
+p29
+F0.0015265896410179558
+sS'spark'
+p30
+F0.0031694278633752977
+sS'data'
+p31
+F0.0020064161482523614
+sS'c'
+F0.0023507930900340175
+sS'software engineering'
+p32
+F0.0048910958434473899
+sS'science'
+p33
+F0.001321492271041527
+sS'applied mathematics'
+p34
+F0.0056806592948189967
+sS'education'
+p35
+F0.0039447871237091522
+sS'thought leadership'
+p36
+F0.0077099227434757941
+sS'analysis'
+p37
+F0.00064402015367317654
+sS'machine learning'
+p38
+F0.0012321761688609762
+sS'r'
+F0.0010432186214547766
+sS'algorithms'
+p39
+F0.0033725031548219055
+sS'deep learning'
+p40
+F0.0058544016595741552
+sS'organization'
+p41
+F0.0033142553369956414
+ssS'working-year'
+p42
+(dp43
+V(2, 5]
+p44
+F0.0023288429105848408
+ssS'major'
+p45
+(dp46
+VMathematics
+p47
+F0.0032223167849294207
+sVEngineering
+p48
+F0.0042337949751254274
+sVStatistics
+p49
+F0.0033862871614437594
+sVComputer Science
+p50
+F0.0017017965156996197
+sVBusiness
+p51
+F0.0020332976450641244
+ssS'education'
+p52
+(dp53
+VMaster
+p54
+F0.0013670689571883023
+sVDoctor
+p55
+F0.0020473341574745638
+ssS'responsibility'
+p56
+(dp57
+S'development'
+p58
+F0.0068287274572224731
+sS'product'
+p59
+F0.0050563642508185958
+sS'insight'
+p60
+F0.0068980953233439288
+sS'processing'
+p61
+F0.0030697144486291727
+sS'communicate'
+p62
+F0.0037711332373714136
+sS'analysis'
+p63
+F0.00064402015367317654
+sS'understand'
+p64
+F0.011851577895362455
+sS'data mining'
+p65
+F0.0039886829486506341
+sS'modeling'
+p66
+F0.0015265896410179558
 sS'implement'
-p76
-I1
+p67
+F0.011942837453681996
 sS'prototype'
-p77
-I1
+p68
+F0.005927013935243774
 sS'evaluation'
-p78
-I1
+p69
+F0.0063598556086967616
 sS'model'
-p79
-I1
+p70
+F0.0029086669960557156
 ss.

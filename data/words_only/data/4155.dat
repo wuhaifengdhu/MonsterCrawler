@@ -4,187 +4,192 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.018170899039991296
 sS'forecasting'
 p5
-I1
+F0.0077572195921436988
 sS'data science'
 p6
-I1
+F0.003182118850953966
 sS'personalization'
 p7
-I1
+F0.023416898348958961
 sS'engineering'
 p8
-I1
+F0.0064807131062098126
 sS'pricing'
 p9
-I1
+F0.020003527352060266
 sS'data mining'
 p10
-I1
-sS'quantitative analysis'
-p11
-I1
-sS'java'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'scala'
-p14
-I1
-sS'user experience'
-p15
-I1
-sS'hadoop'
-p16
-I1
+F0.0056137019277305222
 sS'research'
-p17
-I1
-sS'r'
-I1
-sS'computer science'
-p18
-I1
-sS'natural language processing'
-p19
-I1
-sS'scheme'
-p20
-I1
-sS'data analysis'
-p21
-I1
-sS'python'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'e-commerce'
-p24
-I1
-sS'data processing'
-p25
-I1
-sS'sql'
-p26
-I1
-sS'spark'
-p27
-I1
-sS'search'
-p28
-I1
-sS'performance metrics'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'time series analysis'
-p31
-I1
-sS'optimization'
-p32
-I1
-sS'retail'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(2, 5]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'business'
-p39
-I1
-sS'big data'
-p40
-I1
-sS'data science'
-p41
-I1
-sS'data mining'
-p42
-I1
-sVapplied statistic
-p43
-I1
-sS'computer science statistics'
-p44
-I1
-sS'statistic'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'engineering'
-p47
-I1
-sS'computer science'
-p48
-I1
-sS'natural language processing'
-p49
-I1
-sS'applied math'
-p50
-I1
-sS'data science engineering'
-p51
-I1
-ssS'education'
-p52
-(dp53
-S'Bachelor'
-p54
-I1
-ssS'responsibility'
-p55
-(dp56
-S'forecasting'
-p57
-I1
-sS'data analysis'
-p58
-I1
-sS'processing'
-p59
-I1
-sS'communicate'
-p60
-I1
-sS'product'
-p61
-I1
-sS'statistical model'
-p62
-I1
-sS'analytic'
-p63
-I1
-sS'optimization'
-p64
-I1
-sS'recommendation'
-p65
-I1
-sS'data mining'
-p66
-I1
-sS'model'
-p67
-I1
+p11
+F0.0045140758818081389
 sS'quantitative analysis'
+p12
+F0.02017990657153667
+sS'statistics'
+p13
+F0.0024669652243455146
+sS'java'
+p14
+F0.0032784840414504853
+sS'big data'
+p15
+F0.0033669976887901257
+sS'scala'
+p16
+F0.0064565248351815784
+sS'user experience'
+p17
+F0.0089291348283250145
+sS'hadoop'
+p18
+F0.0033989589984115471
+sS'sports'
+p19
+F0.043247420559222149
+sS'r'
+F0.0029364672307615933
+sS'computer science'
+p20
+F0.0037195324422942344
+sS'natural language processing'
+p21
+F0.0066295188676198484
+sS'scheme'
+p22
+F0.014473951861655416
+sS'data analysis'
+p23
+F0.0039252963358880032
+sS'python'
+p24
+F0.0013789722559610211
+sS'processing'
+p25
+F0.0043203388536262434
+sS'e-commerce'
+p26
+F0.019938872162034011
+sS'data processing'
+p27
+F0.0097241232744136909
+sS'sql'
+p28
+F0.0018040842826271086
+sS'spark'
+p29
+F0.004460676252157827
+sS'data'
+p30
+F0.000313760549932468
+sS'a'
+F0.0098944015535133677
+sS'search'
+p31
+F0.0082063221630946231
+sS'performance metrics'
+p32
+F0.014473951861655416
+sS'science'
+p33
+F0.0037197560221909651
+sS'.net'
+p34
+F0.0099694360810170055
+sS'hive'
+p35
+F0.0055178683848941968
+sS'machine learning'
+p36
+F0.0017341738672858183
+sS'time series analysis'
+p37
+F0.0076127272814803292
+sS'optimization'
+p38
+F0.0052910287232501114
+sS'retail'
+p39
+F0.0091163002233241325
+ssS'working-year'
+p40
+(dp41
+V(2, 5]
+p42
+F0.0032776307630453319
+ssS'major'
+p43
+(dp44
+VStatistics
+p45
+F0.00476588563462455
+sVBusiness
+p46
+F0.0028616781671272858
+sVData Science
+p47
+F0.0027176957211774142
+sVEngineering
+p48
+F0.0059586744094357871
+sVComputer Science
+p49
+F0.002395121022095761
+sVMathematics
+p50
+F0.0045351125121228884
+ssS'education'
+p51
+(dp52
+VBachelor
+p53
+F0.0024110550996558379
+sVMaster
+p54
+F0.0019240229767835367
+sVDoctor
+p55
+F0.0028814332586679045
+ssS'responsibility'
+p56
+(dp57
+S'forecasting'
+p58
+F0.0077572195921436988
+sS'data analysis'
+p59
+F0.0039252963358880032
+sS'processing'
+p60
+F0.0043203388536262434
+sS'communicate'
+p61
+F0.0053075208525968044
+sS'product'
+p62
+F0.017790911252880244
+sS'statistical model'
+p63
+F0.0094996410201558072
+sS'analytic'
+p64
+F0.0059728200325387375
+sS'optimization'
+p65
+F0.0052910287232501114
+sS'recommendation'
+p66
+F0.020731759879510089
+sS'data mining'
+p67
+F0.0056137019277305222
+sS'model'
 p68
-I1
+F0.0040936794759302668
+sS'quantitative analysis'
+p69
+F0.02017990657153667
 ss.

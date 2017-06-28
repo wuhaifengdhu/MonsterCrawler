@@ -4,63 +4,71 @@ p2
 (lp3
 S'data modeling'
 p4
-aS'data collection'
+aS'mathematics'
 p5
-aS'word'
+aS'data collection'
 p6
-aS'r d'
+aS'word'
 p7
 aS'database management'
 p8
 aS'data scientist'
 p9
-aS'management'
+aS'analysis'
 p10
-aS'analytics'
+aS'management'
 p11
+aS'analytics'
+p12
+aS'engineering'
+p13
 aS'r'
 aS'problem solving'
-p12
-aS'mathematics'
-p13
-aS'modeling'
 p14
-aS'data'
+aS'sql'
 p15
-asS'working-year'
-p16
-(lp17
-V(0, 2]
-p18
-asS'major'
-p19
-(lp20
-S'information'
-p21
-aS'management'
-p22
-aS'mathematics'
-p23
-aS'analytics'
-p24
-asS'education'
-p25
-(lp26
-VBachelor
-p27
-aVMaster
-p28
-aVDoctor
-p29
-asS'responsibility'
-p30
-(lp31
-S'report'
-p32
 aS'modeling'
-p33
-aS'data collection'
+p16
+aS'data'
+p17
+asS'working-year'
+p18
+(lp19
+V(0, 2]
+p20
+asS'major'
+p21
+(lp22
+VMathematics
+p23
+aVData Science
+p24
+aVEngineering
+p25
+aVManagement Science and Engineering
+p26
+asS'education'
+p27
+(lp28
+VBachelor
+p29
+aVMaster
+p30
+aVDoctor
+p31
+asS'responsibility'
+p32
+(lp33
+S'development'
 p34
 aS'information'
 p35
+aS'data collection'
+p36
+aS'analysis'
+p37
+aS'report'
+p38
+aS'modeling'
+p39
 as.

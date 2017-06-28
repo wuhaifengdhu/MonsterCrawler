@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'a'
+aS'management'
 p4
 aS'performance metrics'
 p5
@@ -20,36 +21,36 @@ aS'analysis'
 p11
 aS'strategy'
 p12
-aS'analytics'
+aS'metrics'
 p13
-aS'engineering'
+aS'analytics'
 p14
+aS'engineering'
+p15
 aS'r'
 aS'organization'
-p15
-aS'modeling'
 p16
-aS'data'
+aS'modeling'
 p17
-aS'unstructured data'
+aS'data'
 p18
-asS'working-year'
+aS'unstructured data'
 p19
-(lp20
-V[0]
-p21
-asS'major'
+asS'working-year'
+p20
+(lp21
+S'[0]'
 p22
-(lp23
-S'analytics'
-p24
-aS'engineering'
+asS'major'
+p23
+(lp24
+VData Science
 p25
-aS'management'
+aVEngineering
 p26
-aS'business'
+aVBusiness
 p27
-aS'statistic'
+aVManagement Science and Engineering
 p28
 asS'education'
 p29
@@ -61,18 +62,22 @@ p32
 (lp33
 S'development'
 p34
-aS'pattern'
+aS'information'
 p35
-aS'analysis'
+aS'pattern'
 p36
-aS'improvement'
+aS'analysis'
 p37
-aS'modeling'
+aS'develop ... model'
 p38
-aS'model'
+aS'modeling'
 p39
-aS'presentation'
+aS'model'
 p40
-aS'transformation'
+aS'improvement'
 p41
+aS'presentation'
+p42
+aS'transformation'
+p43
 as.

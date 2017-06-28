@@ -2,94 +2,91 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'deep learning'
 p4
-I1
-sS'deep learning'
+F0.015972008630222825
+sS'data science'
 p5
-I1
-sS'data science'
-p6
-I1
+F0.0061684150033876886
 sS'data scientist'
-p7
-I1
+p6
+F0.0054326752059686064
 sS'communication skills'
+p7
+F0.01888782488235961
+sS'machine learning'
 p8
-I1
-sS'machine learning'
+F0.0033616293427386631
+sS'engineering'
 p9
-I1
-sS'computer science'
+F0.0062813065490956652
+sS'leadership'
 p10
-I1
-sS'communication'
-p11
-I1
-sS'product management'
-p12
-I1
-sS'research'
-p13
-I1
-sS'data'
-p14
-I1
-sS'energy'
-p15
-I1
-ssS'working-year'
-p16
-(dp17
-V(2, 5]
-p18
-I1
-ssS'major'
-p19
-(dp20
-S'management'
-p21
-I1
-sS'communication'
-p22
-I1
-sS'data science'
-p23
-I1
-sS'phd'
-p24
-I1
-sS'computer science engineering'
-p25
-I1
+F0.0084738903651478056
 sS'computer science'
+p11
+F0.0072101705804472858
+sS'communication'
+p12
+F0.0081188172262095203
+sS'product management'
+p13
+F0.016015374456546366
+sS'research'
+p14
+F0.0043751812392909652
+sS'data'
+p15
+F0.0012164255166612606
+sS'energy'
+p16
+F0.015823052851538892
+sS'science'
+p17
+F0.0036053019907389353
+ssS'working-year'
+p18
+(dp19
+V(2, 5]
+p20
+F0.0063535611714417208
+ssS'major'
+p21
+(dp22
+VData Science
+p23
+F0.0052681486287439105
+sVManagement Science and Engineering
+p24
+F0.0066130489152250891
+sVEngineering
+p25
+F0.0062813065490956652
+sVComputer Science
 p26
-I1
-sS'machine learning'
-p27
-I1
-sS'machine learning engineer'
-p28
-I1
+F0.0046428499812933219
 ssS'education'
+p27
+(dp28
+VMaster
 p29
-(dp30
-VDoctor
-p31
-I1
+F0.0037296445396111633
+sVDoctor
+p30
+F0.005585547547571631
 ssS'responsibility'
-p32
-(dp33
+p31
+(dp32
 S'product'
+p33
+F0.02758959775831275
+sS'insight'
 p34
-I1
-sVinsight
-p35
-I1
+F0.009409709517997359
 sS'communicate'
-p36
-I1
+p35
+F0.010288425037341498
 sS'identify opportunity'
-p37
-I1
+p36
+F0.021241177131976357
 ss.

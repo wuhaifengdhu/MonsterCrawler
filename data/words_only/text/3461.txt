@@ -1,5 +1,5 @@
-skills: {'search': 1, 'data analysis': 1, 'python': 1, 'data scientist': 1, 'data science': 1, 'programming': 1, 'analysis': 1, 'analytics': 1, 'health insurance': 1, 'computer science': 1, 'communication': 1, 'mathematics': 1, 'insurance': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'communication': 1, 'data science': 1, 'phd': 1, 'analytics': 1, 'design': 1, 'computer science': 1, 'statistic': 1, 'mathematics': 1}
-education: {u'Doctor': 1}
-responsibility: {'information': 1, 'data analysis': 1, u'insight': 1, 'analysis': 1, 'evaluate experiment': 1, 'statistical method': 1, 'design': 1}
+skills: {'a': 0.020894322833676277, 'search': 0.06931820732178252, 'statistics': 0.005209569021243601, 'python': 0.0029120196243199218, 'programming': 0.0061581856694685804, 'data science': 0.006719781707601113, 'data scientist': 0.00591827745901608, 'analytics': 0.004858868502701267, 'health insurance': 0.028774768142486595, 'data analysis': 0.008289173267964611, 'computer science': 0.007854655101604584, 'communication': 0.008844521559278527, 'mathematics': 0.010211694313272658, 'insurance': 0.017615482757260825, 'science': 0.003927563621196047}
+working-year: {u'(2, 5]': 0.0069214772538052265}
+major: {u'Mathematics': 0.009576941506047218, u'Data Science': 0.00573904459555901, u'Statistics': 0.010064272457475308, u'Computer Science': 0.005057853331576524}
+education: {u'Doctor': 0.006084814367466302}
+responsibility: {'information': 0.007749191058823434, 'evaluate ... experiment': 0.040214364766560935, 'insight': 0.010250800871561369, 'data analysis': 0.008289173267964611, 'design': 0.008158764301779205, 'design ... experiment': 0.025085651180425446}

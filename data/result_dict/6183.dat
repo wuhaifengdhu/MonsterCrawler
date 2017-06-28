@@ -2,33 +2,33 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'characterization'
 p4
-aS'characterization'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'engineering'
-p9
+p8
 aS'education'
-p10
+p9
 aS'quantitative analysis'
-p11
+p10
 aS'critical thinking'
-p12
-aS'government'
-p13
-aS'research'
-p14
+p11
 aS'optimization'
-p15
+p12
+aS'research'
+p13
+aS'materials'
+p14
 aS'innovation'
-p16
+p15
 aS'metabolomics'
+p16
+aS'gmp'
 p17
 aS'materials science'
 p18
@@ -38,9 +38,9 @@ aS'environmental science'
 p20
 aS'marketing'
 p21
-aS'process modeling'
+aS'government'
 p22
-aS'life sciences'
+aS'process modeling'
 p23
 aS'experimental design'
 p24
@@ -58,16 +58,15 @@ aS'manufacturing'
 p30
 aS'data'
 p31
-aS'c'
-aS'science'
+aS'life sciences'
 p32
-aS'programming'
+aS'science'
 p33
-aS'analysis'
+aS'programming'
 p34
-aS'biochemistry'
+aS'analysis'
 p35
-aS'product design'
+aS'biochemistry'
 p36
 aS'r'
 aS'organization'
@@ -82,72 +81,52 @@ p41
 asS'major'
 p42
 (lp43
-S'materials science'
+VBusiness
 p44
-aS'life sciences'
+aVData Science
 p45
-aS'business'
+aVEconomics
 p46
-aS'environmental science'
+aVEngineering
 p47
-aS'biochemistry'
+aVChemical Engineering
 p48
-aS'marketing'
+aVBiological Engineering
 p49
-aS'data science'
+aVEnvironmental Engineering
 p50
-aS'communication'
-p51
-aS'phd'
-p52
-aS'chemistry biochemistry'
-p53
-aS'analytics'
-p54
-aS'engineering'
-p55
-aS'design'
-p56
-aS'chemical engineering'
-p57
-aS'science'
-p58
-aS'biotechnology'
-p59
-aS'chemistry'
-p60
-aS'history'
-p61
 asS'education'
-p62
-(lp63
+p51
+(lp52
 VDoctor
-p64
+p53
 asS'responsibility'
-p65
-(lp66
+p54
+(lp55
 S'development'
-p67
+p56
 aS'product'
-p68
+p57
 aS'analytical method'
-p69
+p58
 aS'quantitative analysis'
-p70
+p59
+aS'communicate'
+p60
 aS'analysis'
-p71
+p61
 aS'statistical method'
-p72
+p62
 aS'optimization'
-p73
-aS'understand'
-p74
-aS'recommendation'
-p75
+p63
 aS'design'
-p76
+p64
+aS'recommendation'
+p65
+aS'understand'
+p66
 aS'modeling'
-p77
+p67
 aS'presentation'
-p78
+p68
 as.

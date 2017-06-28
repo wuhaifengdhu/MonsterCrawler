@@ -2,8 +2,10 @@
 S'skills'
 p2
 (lp3
-S'nlp'
+S'a'
+aS'nlp'
 p4
+aS'c'
 aS'financial markets'
 p5
 aS'open source'
@@ -14,15 +16,15 @@ aS'probability'
 p8
 aS'java'
 p9
-aS'programming'
+aS'swift'
 p10
 aS'processing'
 p11
-aS'data scientist'
+aS'programming'
 p12
 aS'social media'
 p13
-aS'c++'
+aS'analysis'
 p14
 aS'information extraction'
 p15
@@ -30,9 +32,9 @@ aS'sentiment analysis'
 p16
 aS'engineering'
 p17
-aS'swift'
+aS'statistics'
 p18
-aS'analysis'
+aS'pricing'
 p19
 aS'natural language processing'
 p20
@@ -40,46 +42,38 @@ aS'word'
 p21
 aS'data'
 p22
-aS'pricing'
-p23
 asS'working-year'
-p24
-(lp25
+p23
+(lp24
 V(5, 10]
-p26
+p25
 aV(2, 5]
-p27
+p26
 asS'major'
-p28
-(lp29
-S'information'
+p27
+(lp28
+VEngineering
+p29
+aVStatistics
 p30
-aS'software engineering'
+aVComputer Science
 p31
-aS'natural language processing'
-p32
-aS'engineering'
-p33
-aS'statistic'
-p34
-aS'probability statistics'
-p35
 asS'education'
-p36
-(lp37
-S'Bachelor'
-p38
+p32
+(lp33
+VMaster
+p34
 asS'responsibility'
-p39
-(lp40
+p35
+(lp36
 S'information'
-p41
+p37
 aS'model'
-p42
+p38
 aS'processing'
-p43
+p39
 aS'extract'
-p44
+p40
 aS'analysis'
-p45
+p41
 as.

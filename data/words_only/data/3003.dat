@@ -4,197 +4,179 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.011322538052068119
 sS'data science'
 p5
-I1
+F0.002891444532837979
 sS'operational planning'
 p6
-I1
+F0.014207978288192572
 sS'intelligence analysis'
 p7
-I1
-sS'business intelligence'
+F0.011680238552221217
+sS'analytics'
 p8
-I1
-sS'troubleshooting'
+F0.0020907150528450161
+sS'business intelligence'
 p9
-I1
-sS'data mining'
+F0.0049111617999385128
+sS'troubleshooting'
 p10
-I1
-sS'user experience design'
+F0.0090393809272456636
+sS'data mining'
 p11
-I1
-sS'writing'
-p12
-I1
-sS'management'
-p13
-I1
-sS'open source'
-p14
-I1
-sS'big data'
-p15
-I1
-sS'program management'
-p16
-I1
-sS'user experience'
-p17
-I1
-sS'agile'
-p18
-I1
-sS'integration'
-p19
-I1
-sS'governance'
-p20
-I1
-sS'research'
-p21
-I1
-sS'computer science'
-p22
-I1
-sS'project planning'
-p23
-I1
-sS'data analysis'
-p24
-I1
-sS'business analysis'
-p25
-I1
-sS'collaboration'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'technical documentation'
-p28
-I1
-sS'project management'
-p29
-I1
-sS'data visualization'
-p30
-I1
-sS'documentation'
-p31
-I1
-sS'budgeting'
-p32
-I1
-sS'engineering'
-p33
-I1
+F0.0051009118477936006
 sS'analysis'
+p12
+F0.00082360269652435088
+sS'writing'
+p13
+F0.010803174644627369
+sS'management'
+p14
+F0.0065340062538436459
+sS'open source'
+p15
+F0.0076873070671108048
+sS'big data'
+p16
+F0.0030594353999102587
+sS'program management'
+p17
+F0.0080295944917401271
+sS'user experience'
+p18
+F0.0081134927045837888
+sS'agile'
+p19
+F0.0052492545016815132
+sS'integration'
+p20
+F0.01108770731824333
+sS'governance'
+p21
+F0.0086647019733072095
+sS'research'
+p22
+F0.0020508662059176403
+sS'computer science'
+p23
+F0.0033797674595846651
+sS'project planning'
+p24
+F0.010014038018108934
+sS'data analysis'
+p25
+F0.0035667356128982336
+sS'business analysis'
+p26
+F0.0064147408660510915
+sS'collaboration'
+p27
+F0.0061482437982534957
+sS'data scientist'
+p28
+F0.0025465665027977844
+sS'technical documentation'
+p29
+F0.012583572469570099
+sS'data'
+p30
+F0.0011403989218699319
+sS'project management'
+p31
+F0.0045708012579916977
+sS'data visualization'
+p32
+F0.004727725061489425
+sS'science'
+p33
+F0.006759941232635504
+sS'documentation'
 p34
-I1
-sS'data engineering'
+F0.020909429992384838
+sS'budgeting'
 p35
-I1
-sS'interaction design'
+F0.01250067345725916
+sS'engineering'
 p36
-I1
-sS'security'
+F0.014721812224442965
+sS'presentations'
 p37
-I1
-sS'data analytics'
+F0.010194408364875035
+sS'data engineering'
 p38
-I1
-ssS'working-year'
+F0.0096269970097774982
+sS'interaction design'
 p39
-(dp40
-V[0]
+F0.012804262570239389
+sS'security'
+p40
+F0.005253247153172577
+sS'data analytics'
 p41
-I1
-ssS'major'
+F0.0049094295228023967
+ssS'working-year'
 p42
 (dp43
-S'information'
+S'[0]'
 p44
-I1
-sS'management'
+F0.0052793623330393818
+ssS'major'
 p45
-I1
-sS'business analysis'
-p46
-I1
-sS'big data'
+(dp46
+VData Science
 p47
-I1
-sS'data science'
+F0.0024694446697237082
+sVManagement Science and Engineering
 p48
-I1
-sS'data mining'
+F0.0030998666790117606
+sVEngineering
 p49
-I1
-sS'data science analytics'
+F0.014721812224442965
+sVBusiness
 p50
-I1
-sS'general'
+F0.0026002748730146975
+sVComputer Science
 p51
-I1
-sS'engineering'
-p52
-I1
-sS'business management'
-p53
-I1
-sS'data analytics'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'computer science engineering'
-p56
-I1
-sS'project management'
-p57
-I1
-sS'computer science'
-p58
-I1
+F0.0021763359287312448
 ssS'education'
-p59
-(dp60
+p52
+(dp53
 VBachelor
-p61
-I1
+p54
+F0.0021908144895911221
 sVMaster
-p62
-I1
+p55
+F0.001748270877942733
 ssS'responsibility'
-p63
-(dp64
+p56
+(dp57
 S'development'
-p65
-I1
+p58
+F0.0029109639481108623
 sS'information'
-p66
-I1
+p59
+F0.0033343874988687374
 sS'product'
-p67
-I1
+p60
+F0.0032331559873022757
 sS'data analysis'
-p68
-I1
+p61
+F0.0035667356128982336
 sS'documentation'
-p69
-I1
+p62
+F0.020909429992384838
 sS'communicate'
-p70
-I1
+p63
+F0.004822699236253827
 sS'analysis'
-p71
-I1
+p64
+F0.00082360269652435088
+sS'design'
+p65
+F0.0035106221394674945
 sS'data mining'
-p72
-I1
+p66
+F0.0051009118477936006
 ss.

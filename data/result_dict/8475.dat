@@ -4,114 +4,111 @@ p2
 (lp3
 S'ip'
 p4
-aS'hardware'
+aS'servers'
 p5
-aS'engineering'
-p6
-aS'strategy'
-p7
-aS'research'
-p8
-aS'education'
-p9
-aS'writing'
-p10
-aS'computer science'
-p11
-aS'communication'
-p12
-aS'gps'
-p13
-aS'collaboration'
-p14
-aS'javascript'
-p15
-aS'automation'
-p16
-aS'process automation'
-p17
-aS'construction'
-p18
-aS'sql'
-p19
-aS'data'
-p20
 aS'database administration'
-p21
-aS'postgresql'
-p22
-aS'sql server'
-p23
-aS'science'
-p24
-aS'microsoft sql server'
-p25
-aS'arcgis'
-p26
-aS'security'
-p27
-aS'scripting'
-p28
-asS'working-year'
-p29
-(lp30
-V(5, 10]
-p31
-aV(0, 2]
-p32
-aV(2, 5]
-p33
-asS'major'
-p34
-(lp35
-S'information'
-p36
-aS'computational science engineering'
-p37
-aS'computing'
-p38
-aS'general'
-p39
-aS'computational science'
-p40
-aS'communication'
-p41
-aS'automation'
-p42
+p6
 aS'engineering'
-p43
-aS'information science'
-p44
-aS'design'
-p45
+p7
+aS'linux'
+p8
+aS'research'
+p9
+aS'microsoft sql server'
+p10
+aS'education'
+p11
+aS'writing'
+p12
+aS'strategy'
+p13
+aS'optimization'
+p14
 aS'computer science'
-p46
+p15
+aS'communication'
+p16
+aS'gps'
+p17
+aS'jquery'
+p18
+aS'collaboration'
+p19
+aS'javascript'
+p20
+aS'automation'
+p21
+aS'process automation'
+p22
+aS'construction'
+p23
+aS'sql'
+p24
+aS'data'
+p25
+aS'a'
+aS'hardware'
+p26
+aS'postgresql'
+p27
+aS'sql server'
+p28
+aS'windows'
+p29
 aS'science'
-p47
-aS'phd'
-p48
+p30
+aS'arcgis'
+p31
+aS'materials'
+p32
+aS'databases'
+p33
+aS'security'
+p34
+aS'scripting'
+p35
+asS'working-year'
+p36
+(lp37
+V(5, 10]
+p38
+aV(0, 2]
+p39
+aV(2, 5]
+p40
+asS'major'
+p41
+(lp42
+VEngineering
+p43
+aVInformation Science
+p44
+aVComputer Science
+p45
 asS'education'
-p49
-(lp50
+p46
+(lp47
 VBachelor
-p51
+p48
 aVMaster
-p52
+p49
 aVDoctor
-p53
+p50
 asS'responsibility'
-p54
-(lp55
+p51
+(lp52
 S'development'
-p56
+p53
 aS'information'
-p57
+p54
 aS'interface'
-p58
-aS'design'
-p59
+p55
+aS'optimization'
+p56
 aS'report'
-p60
+p57
 aS'implement'
-p61
+p58
+aS'presentation'
+p59
 as.

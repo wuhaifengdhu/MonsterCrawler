@@ -1,320 +1,593 @@
-data_scientist
-job_number
-037110
-description
-grant_thornton
-seeking
-manager
-join
-advisory_service
-line_take
-active_role
-engagement_execution
-project_management
-key
-business
-development
-activity
-grant_thornton
-global_public
-sector
-help
-executive
-manager
-level
-government_maximize
-performance
-efficiency_face
-ever_tightening
-budget_increased
-demand
-service
-public_sector
-team_member
-find
-solution
-help
-government
-leader
-issue
-including
-acquisition_financial
-management
-human_capital
-information
-technology
-performance
-management
-federal_state
-local_international
-government
-grant_thornton
-professional
-staff_applies
-traditional_cutting-edge
-approach
-method
-variety
-analysis
-part_team
-manager
-utilize_various
-methodology
-model
-execute
-client
-project
-essential_duty
-lead
-design_implementation
-advanced_analytic
-solution
-guide
-lead
-team
-application
-advanced_analytic
-technical
-thought_leadership
-lead
-meeting
-client
-stakeholder
-query_mine
-large
-data_set
-discover_pattern
-examine
-data
-filter_targeted
-information
-using_traditional
-exploratory_well
-advanced_analytic
-technique
-use
-advanced
-business
-analysis
-appropriate_analytic
-tool
-support
-advanced_analytic
-development
-presentation
-result
-visualization_scenario
-generator
-work
-within
-cross-functional_team
-identify
-appropriate
-business
-solution
-client
-challenge
-help_establish
-standard
-advanced_analytics
-ensure_consistency
-quality
-across
-project
-team
-identify
-relevant
-work
-process
-identify
-develop
-new
-service_offering
-solution_brought
-market
-supervise_train
-senior_associate
-associate
-throughout
-engagement
-lifecycle_ass
-staff
-performance
-provide
-coaching_mentorship
-field
-advanced_analytics
-including
-use_certain
-technique
-method
-application
-quality_assurance
-including
-code_review
-needed
-maintain
-good
-working_relationship
-client
-enhance
-customer_satisfaction
-work
-client
-management
-staff
-perform
-engagement
-service
-assist
-lead
-business
-development
-activity_proposal
-capture_whitepapers
-thought_leadership
-material
-qualification
-master_educational
-background
-quantitative_field
-preferred
-least_6
-year_experience
-manipulating_large
-datasets_applying
-advanced_analytic
-technique
-example_applied
-math_econometrics
-text_mining
-experience
-building_deploying
-advanced_analytic
-application
-matlab_sa
-r_spss
-sql_python
-hadoop_2x
-elastic_search
-14x_sqoop
-pig
-qlik_tableau
-microsoft_power
-bi
-knowledge
-one_package-based
-prescriptive_analytics
-platform
-experience
-managing
-advanced_analytic
-project_supervising
-team
-excellent_problem-solving
-communication_presentation
-skill
-strong
-customer
-focus
-ability
-work
-technical
-team
-business
-user
-ability
-work_independently
-member
-project
-team
-ability_obtain
-maintain_certain
-job-related_certification
-job-related_advanced
-degree
-u_citizenship
-may_required
-ability
-work_united
-state_indefinitely
-required
-travel_may
-required
-ability
-work_overtime
-required_occasion
-ability_obtain
-maintain
-security_clearance
-ability_communicate
-clearly_writing
-verbally
-grant_thornton
-llp_u
-member
-firm_grant
-thornton_international
-one
-six_global
-accounting_tax
-business
-advisory_organization
-grant_thornton
-global_public
-sector
-based_alexandria
-va_global
-management
-consulting
-business
-mission
-providing_responsive
-innovative
-financial
-performance
-management
-system
-solution
-government_international
-organization
-visit_grant
-thornton_global
-public_sector
-wwwgrantthorntoncom_publicsector
-grant_thornton
-policy_promote
-equal_employment
-opportunity
-personnel_decision
-including_limited
-recruiting_hiring
-training_promotion
-compensation_benefit
-termination_made
-without_regard
-race_creed
-color_religion
-national_origin
-sex_age
-marital_status
-sexual_orientation
-gender_identity
-citizenship_status
-veteran_status
-disability
-characteristic_protected
-applicable_federal
-state_local
-law
-primary_location
--us-district_columbia-washington
-work
-location
--
-district_columbia
-951
-suite_4001250
-connecticut_ave
-nw
-washington20036
+(lp1
+Vdata scientist
+p2
+aVjob number
+p3
+aV037110
+p4
+aVdescription
+p5
+aVgrant thornton
+p6
+aVseeking
+p7
+aVmanager
+p8
+aVjoin advisory
+p9
+aVservice line
+p10
+aVtake active
+p11
+aVrole
+p12
+aVengagement execution
+p13
+aVproject management
+p14
+aVkey
+p15
+aVbusiness
+p16
+aVdevelopment activity
+p17
+aVgrant thornton
+p18
+aVglobal public
+p19
+aVsector
+p20
+aVhelp
+p21
+aVexecutive manager
+p22
+aVlevel
+p23
+aVgovernment maximize
+p24
+aVperformance efficiency
+p25
+aVface ever
+p26
+aVtightening budget
+p27
+aVincreased demand
+p28
+aVservice
+p29
+aVpublic sector
+p30
+aVteam member
+p31
+aVfind solution
+p32
+aVhelp
+p33
+aVgovernment
+p34
+aVleader
+p35
+aVissue
+p36
+aVincluding
+p37
+aVacquisition financial
+p38
+aVmanagement
+p39
+aVhuman capital
+p40
+aVinformation technology
+p41
+aVperformance
+p42
+aVmanagement
+p43
+aVfederal state
+p44
+aVlocal international
+p45
+aVgovernment
+p46
+aVgrant thornton
+p47
+aVprofessional staff
+p48
+aVapplies traditional
+p49
+aVcutting-edge approach
+p50
+aVmethod
+p51
+aVvariety
+p52
+aVanalysis
+p53
+aVpart team
+p54
+aVmanager
+p55
+aVutilize various
+p56
+aVmethodology
+p57
+aVmodel
+p58
+aVexecute
+p59
+aVclient
+p60
+aVproject
+p61
+aVessential duty
+p62
+aVlead
+p63
+aVdesign implementation
+p64
+aVadvanced analytic
+p65
+aVsolution
+p66
+aVguide lead
+p67
+aVteam
+p68
+aVapplication
+p69
+aVadvanced analytic
+p70
+aVtechnical
+p71
+aVthought leadership
+p72
+aVlead meeting
+p73
+aVclient
+p74
+aVstakeholder
+p75
+aVquery mine
+p76
+aVlarge
+p77
+aVdata set
+p78
+aVdiscover pattern
+p79
+aVexamine data
+p80
+aVfilter targeted
+p81
+aVinformation
+p82
+aVusing traditional
+p83
+aVexploratory well
+p84
+aVadvanced analytic
+p85
+aVtechnique
+p86
+aVuse advanced
+p87
+aVbusiness
+p88
+aVanalysis
+p89
+aVappropriate analytic
+p90
+aVtool
+p91
+aVsupport
+p92
+aVadvanced analytic
+p93
+aVdevelopment
+p94
+aVpresentation
+p95
+aVresult
+p96
+aVvisualization scenario
+p97
+aVgenerator
+p98
+aVwork
+p99
+aVwithin cross-functional
+p100
+aVteam
+p101
+aVidentify appropriate
+p102
+aVbusiness
+p103
+aVsolution
+p104
+aVclient
+p105
+aVchallenge
+p106
+aVhelp establish
+p107
+aVstandard
+p108
+aVadvanced analytics
+p109
+aVensure consistency
+p110
+aVquality
+p111
+aVacross
+p112
+aVproject
+p113
+aVteam
+p114
+aVidentify
+p115
+aVrelevant
+p116
+aVwork
+p117
+aVprocess
+p118
+aVidentify
+p119
+aVdevelop new
+p120
+aVservice offering
+p121
+aVsolution brought
+p122
+aVmarket
+p123
+aVsupervise train
+p124
+aVsenior associate
+p125
+aVassociate
+p126
+aVthroughout engagement
+p127
+aVlifecycle as
+p128
+aVstaff
+p129
+aVperformance
+p130
+aVprovide coaching
+p131
+aVmentorship field
+p132
+aVadvanced analytics
+p133
+aVincluding
+p134
+aVuse certain
+p135
+aVtechnique
+p136
+aVmethod
+p137
+aVapplication
+p138
+aVquality assurance
+p139
+aVincluding
+p140
+aVcode review
+p141
+aVneeded
+p142
+aVmaintain good
+p143
+aVworking relationship
+p144
+aVclient
+p145
+aVenhance customer
+p146
+aVsatisfaction
+p147
+aVwork
+p148
+aVclient
+p149
+aVmanagement
+p150
+aVstaff
+p151
+aVperform engagement
+p152
+aVservice
+p153
+aVassist
+p154
+aVlead
+p155
+aVbusiness
+p156
+aVdevelopment activity
+p157
+aVproposal capture
+p158
+aVwhitepapers thought
+p159
+aVleadership material
+p160
+aVqualification
+p161
+aVmaster educational
+p162
+aVbackground quantitative
+p163
+aVfield preferred
+p164
+aVleast 6
+p165
+aVyear experience
+p166
+aVmanipulating large
+p167
+aVdatasets applying
+p168
+aVadvanced analytic
+p169
+aVtechnique example
+p170
+aVapplied math
+p171
+aVeconometrics text
+p172
+aVmining
+p173
+aVexperience building
+p174
+aVdeploying advanced
+p175
+aVanalytic
+p176
+aVapplication
+p177
+aVmatlab sa
+p178
+aVr spss
+p179
+aVsql python
+p180
+aVhadoop 2.x
+p181
+aVelastic search
+p182
+aV1.4x sqoop
+p183
+aVpig
+p184
+aVqlik tableau
+p185
+aVmicrosoft power
+p186
+aVbi
+p187
+aVknowledge
+p188
+aVone package-based
+p189
+aVprescriptive analytics
+p190
+aVplatform
+p191
+aVexperience managing
+p192
+aVadvanced analytic
+p193
+aVproject supervising
+p194
+aVteam
+p195
+aVexcellent problem-solving
+p196
+aVcommunication presentation
+p197
+aVskill
+p198
+aVstrong
+p199
+aVcustomer focus
+p200
+aVability work
+p201
+aVtechnical
+p202
+aVteam
+p203
+aVbusiness
+p204
+aVuser
+p205
+aVability work
+p206
+aVindependently
+p207
+aVmember
+p208
+aVproject
+p209
+aVteam
+p210
+aVability obtain
+p211
+aVmaintain certain
+p212
+aVjob-related certification
+p213
+aVjob-related advanced
+p214
+aVdegree
+p215
+aVu.s. citizenship
+p216
+aVmay required
+p217
+aVability work
+p218
+aVunited state
+p219
+aVindefinitely required
+p220
+aVtravel may
+p221
+aVrequired
+p222
+aVability work
+p223
+aVovertime required
+p224
+aVoccasion
+p225
+aVability obtain
+p226
+aVmaintain
+p227
+aVsecurity clearance
+p228
+aVability communicate
+p229
+aVclearly writing
+p230
+aVverbally
+p231
+aVgrant thornton
+p232
+aVllp u.s.
+p233
+aVmember
+p234
+aVfirm grant
+p235
+aVthornton international
+p236
+aVone six
+p237
+aVglobal accounting
+p238
+aVtax
+p239
+aVbusiness
+p240
+aVadvisory organization
+p241
+aVgrant thornton
+p242
+aVglobal public
+p243
+aVsector based
+p244
+aValexandria va
+p245
+aVglobal
+p246
+aVmanagement consulting
+p247
+aVbusiness
+p248
+aVmission
+p249
+aVproviding responsive
+p250
+aVinnovative
+p251
+aVfinancial
+p252
+aVperformance
+p253
+aVmanagement
+p254
+aVsystem
+p255
+aVsolution
+p256
+aVgovernment international
+p257
+aVorganization
+p258
+aVvisit grant
+p259
+aVthornton global
+p260
+aVpublic sector
+p261
+aVwww.grantthornton.com publicsector
+p262
+aVgrant thornton
+p263
+aVpolicy promote
+p264
+aVequal employment
+p265
+aVopportunity personnel
+p266
+aVdecision
+p267
+aVincluding limited
+p268
+aVrecruiting hiring
+p269
+aVtraining promotion
+p270
+aVcompensation benefit
+p271
+aVtermination made
+p272
+aVwithout regard
+p273
+aVrace creed
+p274
+aVcolor religion
+p275
+aVnational origin
+p276
+aVsex age
+p277
+aVmarital status
+p278
+aVsexual orientation
+p279
+aVgender identity
+p280
+aVcitizenship status
+p281
+aVveteran status
+p282
+aVdisability characteristic
+p283
+aVprotected applicable
+p284
+aVfederal state
+p285
+aVlocal law
+p286
+aVprimary location
+p287
+aVus-district columbia-washington
+p288
+aVwork
+p289
+aVlocation
+p290
+aV-
+aVdistrict columbia
+p291
+aV951
+p292
+aVsuite 4001250
+p293
+aVconnecticut ave
+p294
+aVnw
+p295
+aVwashington20036
+p296
+a.

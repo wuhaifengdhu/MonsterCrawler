@@ -2,107 +2,99 @@
 S'skills'
 p2
 (lp3
-S'science'
+S'intelligence'
 p4
-aS'marketing analytics'
+aS'data science'
 p5
-aS'web analytics'
+aS'analytics'
 p6
-aS'organization'
+aS'engineering'
 p7
-aS'industrial engineering'
+aS'data mining'
 p8
-aS'marketing'
+aS'web analytics'
 p9
-aS'data science'
+aS'dna'
 p10
-aS'data mining'
-p11
-aS'machine learning'
-p12
-aS'analytics'
-p13
-aS'engineering'
-p14
-aS'r'
-aS'statistical software'
-p15
-aS'computer science'
-p16
-aS'sql'
-p17
-aS'intelligence'
-p18
-aS'mathematics'
-p19
-aS'manufacturing'
-p20
-aS'data'
-p21
-aS'collaboration'
-p22
-aS'customer experience'
-p23
-asS'working-year'
-p24
-(lp25
-sS'major'
-p26
-(lp27
-S'information'
-p28
-aS'information systems'
-p29
-aS'business'
-p30
-aS'analytics'
-p31
-aS'marketing'
-p32
-aS'data science'
-p33
-aS'data mining'
-p34
-aS'statistic'
-p35
-aS'machine learning'
-p36
-aS'engineering physics'
-p37
-aS'engineering'
-p38
-aS'information system'
-p39
-aS'marketing analytics'
-p40
-aS'computer science'
-p41
-aS'statistics analytics'
-p42
-aS'mathematics'
-p43
-aS'phd'
-p44
 aS'industrial engineering'
-p45
-aVphysic
-p46
+p11
+aS'statistical software'
+p12
+aS'computer science'
+p13
+aS'mathematics'
+p14
+aS'marketing'
+p15
+aS'collaboration'
+p16
+aS'statistics'
+p17
+aS'sql'
+p18
+aS'manufacturing'
+p19
+aS'data'
+p20
+aS'customer experience'
+p21
 aS'science'
-p47
+p22
+aS'marketing analytics'
+p23
+aS'analysis'
+p24
+aS'machine learning'
+p25
+aS'r'
+aS'organization'
+p26
+aS'physics'
+p27
+asS'working-year'
+p28
+(lp29
+sS'major'
+p30
+(lp31
+VStatistics
+p32
+aVBusiness
+p33
+aVData Science
+p34
+aVEconomics
+p35
+aVEngineering
+p36
+aVInformation Science
+p37
+aVComputer Science
+p38
+aVMathematics
+p39
+aVPhysics
+p40
+aVIndustrial Engineering
+p41
 asS'education'
-p48
-(lp49
-VDoctor
-p50
+p42
+(lp43
+VMaster
+p44
+aVDoctor
+p45
 asS'responsibility'
-p51
-(lp52
-S'information'
-p53
+p46
+(lp47
+S'pattern'
+p48
+aS'information'
+p49
 aS'extract'
-p54
-aS'pattern'
-p55
+p50
+aS'analysis'
+p51
 aS'data mining'
-p56
+p52
 as.

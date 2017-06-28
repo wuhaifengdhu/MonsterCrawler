@@ -4,208 +4,225 @@ p2
 (dp3
 S'nlp'
 p4
-I1
-sS'text analytics'
+F0.01122320234822992
+sS'photoshop'
 p5
-I1
+F0.013189812871663771
 sS'excel'
 p6
-I1
+F0.005284164139889103
 sS'data science'
 p7
-I1
+F0.0039308526982372522
 sS'intelligence analysis'
 p8
-I1
+F0.015879017116745182
 sS'julia'
 p9
-I1
+F0.01638934263654376
 sS'hardware'
 p10
-I1
-sS'business intelligence'
+F0.012135019858021127
+sS'analytics'
 p11
-I1
-sS'defense'
+F0.0028422792875278649
+sS'business intelligence'
 p12
-I1
-sS'gephi'
+F0.006676612120177847
+sS'defense'
 p13
-I1
-sS'security clearance'
+F0.01154130115662823
+sS'gephi'
 p14
-I1
-sS'problem solving'
+F0.018795603727562504
+sS'security clearance'
 p15
-I1
-sS'visualization'
+F0.01194058978189173
+sS'problem solving'
 p16
-I1
-sS'characterization'
+F0.0080216074018080105
+sS'sas'
 p17
-I1
-sS'air force'
+F0.0045269178322791398
+sS'visualization'
 p18
-I1
-sS'tableau'
+F0.012250295894993265
+sS'statistics'
 p19
-I1
-sS'writing'
+F0.0030474276300738712
+sS'text analytics'
 p20
-I1
-sS'photoshop'
+F0.013966927153221318
+sS'air force'
 p21
-I1
-sS'matlab'
+F0.0216952812618657
+sS'tableau'
 p22
-I1
-sS'intelligence'
+F0.0065654447291627182
+sS'writing'
 p23
-I1
-sS'advanced analytics'
+F0.0073433343989623952
+sS'matlab'
 p24
-I1
-sS'operations research'
+F0.0041712457112355059
+sS'intelligence'
 p25
-I1
-sS'visual analytics'
-p26
-I1
-sS'government'
-p27
-I1
-sS'python'
-p28
-I1
-sS'adobe creative suite'
-p29
-I1
-sS'jmp'
-p30
-I1
-sS'spotfire'
-p31
-I1
-sS'automation'
-p32
-I1
-sS'html5'
-p33
-I1
-sS'algorithm design'
-p34
-I1
-sS'modeling'
-p35
-I1
-sS'word'
-p36
-I1
-sS'spatial analysis'
-p37
-I1
-sS'engineering'
-p38
-I1
-sS'analysis'
-p39
-I1
-sS'simulation'
-p40
-I1
-sS'arcgis'
-p41
-I1
-sS'r'
-I1
-sS'architecture'
-p42
-I1
-sS'security'
-p43
-I1
-sVbayesian statistic
-p44
-I1
-sS'powerpoint'
-p45
-I1
-sS'data analytics'
-p46
-I1
-sS'trend analysis'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(5, 10]
-p50
-I1
-sV(2, 5]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'business'
-p54
-I1
-sS'data science'
-p55
-I1
-sS'automation'
-p56
-I1
-sS'engineering'
-p57
-I1
-sS'design'
-p58
-I1
-sS'operations research'
-p59
-I1
-sS'statistic'
-p60
-I1
+F0.025654552449130379
 sS'advanced analytics'
-p61
-I1
+p26
+F0.0096170279553532152
+sS'operations research'
+p27
+F0.0094148317501696402
+sS'characterization'
+p28
+F0.015437725737306349
+sS'visual analytics'
+p29
+F0.018608812136419604
+sS'government'
+p30
+F0.0085199984170881218
+sS'python'
+p31
+F0.0017034363161871438
+sS'adobe creative suite'
+p32
+F0.016578842256645382
+sS'jmp'
+p33
+F0.013613855606318028
+sS'semantic analysis'
+p34
+F0.018893162125191779
+sS'spotfire'
+p35
+F0.014033395793138774
+sS'automation'
+p36
+F0.010898850736809835
+sS'management'
+p37
+F0.0029609440104563798
+sS'html5'
+p38
+F0.013385768546682131
+sS'algorithm design'
+p39
+F0.0137752673956565
+sS'modeling'
+p40
+F0.0026540708791554005
+sS'data'
+p41
+F0.00077517312336256809
+sS'a'
+F0.0061112480183464924
+sS'word'
+p42
+F0.018226592553582461
+sS'science'
+p43
+F0.0022974963666473609
+sS'engineering'
+p44
+F0.0080055867782591814
+sS'analysis'
+p45
+F0.0055983451267014699
+sS'simulation'
+p46
+F0.0087739731623345477
+sS'arcgis'
+p47
+F0.013516877499205614
+sS'r'
+F0.0018137003484115725
+sS'architecture'
+p48
+F0.0071471062832831967
+sS'security'
+p49
+F0.007141669332417621
+sVbayesian statistic
+p50
+F0.012708368719546604
+sS'powerpoint'
+p51
+F0.0079968117873668379
 sS'data analytics'
+p52
+F0.0066742571290385527
+sS'trend analysis'
+p53
+F0.018993722795752635
+ssS'working-year'
+p54
+(dp55
+V(5, 10]
+p56
+F0.003940013926721761
+sV(2, 5]
+p57
+F0.0040488380014089397
+ssS'major'
+p58
+(dp59
+VStatistics
+p60
+F0.0058872704898303273
+sVBusiness
+p61
+F0.0035350142064513538
+sVData Science
 p62
-I1
-ssS'education'
+F0.0033571535379250412
+sVEngineering
 p63
-(dp64
-VDoctor
+F0.0080055867782591814
+sVOperations Research
+p64
+F0.010518721889500504
+sVManagement Science and Engineering
 p65
-I1
-ssS'responsibility'
+F0.0042141978381336357
+ssS'education'
 p66
 (dp67
-S'development'
+VMaster
 p68
-I1
-sS'analysis'
+F0.0023767342654384864
+sVDoctor
 p69
-I1
-sS'simulation'
+F0.0035594175548250592
+ssS'responsibility'
 p70
-I1
-sS'analytic'
-p71
-I1
-sS'design'
+(dp71
+S'development'
 p72
-I1
-sS'report'
+F0.0079147777935563313
+sS'analysis'
 p73
-I1
-sS'modeling'
+F0.0055983451267014699
+sS'simulation'
 p74
-I1
-sS'data aggregation'
+F0.0087739731623345477
+sS'analytic'
 p75
-I1
+F0.0073781894519596176
+sS'design'
+p76
+F0.0047726104902564631
+sS'report'
+p77
+F0.006781949085530814
+sS'modeling'
+p78
+F0.0026540708791554005
+sS'evaluation'
+p79
+F0.011057003868714632
+sS'data aggregation'
+p80
+F0.018264497947669631
 ss.

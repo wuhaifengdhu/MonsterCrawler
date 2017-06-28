@@ -41,58 +41,54 @@ aS'data'
 p21
 aS'simulation'
 p22
-aS'r d'
-p23
 asS'working-year'
-p24
-(lp25
-V[0]
-p26
+p23
+(lp24
+S'[0]'
+p25
 asS'major'
-p27
-(lp28
-S'management'
+p26
+(lp27
+VData Science
+p28
+aVEconomics
 p29
-aS'business'
+aVComputer Science
 p30
-aS'marketing'
+aVBusiness
 p31
-aS'marketing analytics'
+aVManagement Science and Engineering
 p32
-aS'machine learning'
-p33
-aS'analytics'
-p34
-aS'quantitative marketing'
-p35
 asS'education'
+p33
+(lp34
+S'Bachelor'
+p35
+asS'responsibility'
 p36
 (lp37
-S'Bachelor'
-p38
-asS'responsibility'
-p39
-(lp40
 S'development'
-p41
+p38
 aS'business problem'
-p42
-aVinsight
-p43
+p39
+aS'insight'
+p40
 aS'analysis'
-p44
-aS'simulation'
-p45
+p41
+aS'develop ... model'
+p42
 aS'analytic'
-p46
+p43
 aS'optimization'
-p47
+p44
 aS'modeling'
-p48
-aS'test model'
-p49
+p45
 aS'model'
-p50
+p46
+aS'simulation'
+p47
 aS'evaluation'
-p51
+p48
+aS'test ... model'
+p49
 as.

@@ -4,184 +4,168 @@ p2
 (dp3
 S'oncology'
 p4
-I1
+F0.019583188888404837
 sS'communication'
 p5
-I1
-sS'c++'
+F0.005777990361718454
+sS'analytics'
 p6
-I1
-sS'data mining'
-p7
-I1
-sS'mathematical modeling'
-p8
-I1
-sS'modeling'
-p9
-I1
-sS'technical leadership'
-p10
-I1
-sS'java'
-p11
-I1
-sS'r programming'
-p12
-I1
-sS'hadoop'
-p13
-I1
-sS'social network analysis'
-p14
-I1
-sS'computer vision'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'information security'
-p17
-I1
-sS'artificial intelligence'
-p18
-I1
-sS'data analysis'
-p19
-I1
-sS'python'
-p20
-I1
-sS'leadership'
-p21
-I1
-sS'neuroscience'
-p22
-I1
-sS'software development'
-p23
-I1
-sS'programming'
-p24
-I1
-sS'mapreduce'
-p25
-I1
-sS'analysis'
-p26
-I1
-sS'machine learning'
-p27
-I1
-sS'r'
-I1
-sS'command'
-p28
-I1
-sS'scripting'
-p29
-I1
-sS'healthcare'
-p30
-I1
-sS'security'
-p31
-I1
-sS'rapid prototyping'
-p32
-I1
-sS'data analytics'
-p33
-I1
+F0.0031742243138084911
 sS'statistical analysis'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'communication'
-p41
-I1
+p7
+F0.0093967158883671818
 sS'data mining'
-p42
-I1
-sS'computer science statistics'
-p43
-I1
-sS'machine learning'
-p44
-I1
-sS'data analytics'
-p45
-I1
-sS'machine learning artificial intelligence'
-p46
-I1
-sS'statistic'
-p47
-I1
-sS'neuroscience'
-p48
-I1
-sS'phd'
-p49
-I1
-sS'artificial intelligence'
-p50
-I1
-sS'computer science'
-p51
-I1
-ssS'education'
-p52
-(dp53
-VMaster
-p54
-I1
-sVDoctor
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
-S'development'
-p58
-I1
-sS'large data set'
-p59
-I1
-sS'product'
-p60
-I1
-sS'data analysis'
-p61
-I1
-sS'information'
-p62
-I1
-sS'analysis'
-p63
-I1
-sS'solve problem'
-p64
-I1
-sS'data mining'
-p65
-I1
+p8
+F0.0077444501046793337
+sS'mathematical modeling'
+p9
+F0.0086868601472362868
 sS'modeling'
-p66
-I1
+p10
+F0.0029640353613925273
+sS'technical leadership'
+p11
+F0.016418612107636128
+sS'statistics'
+p12
+F0.0034033315868708196
+sS'java'
+p13
+F0.0045228721447747571
+sS'hadoop'
+p14
+F0.0046890748226261492
+sS'social network analysis'
+p15
+F0.01663986746345944
+sS'computer vision'
+p16
+F0.01290086884374534
+sS'computer science'
+p17
+F0.0051313257780555496
+sS'information security'
+p18
+F0.017164635677598742
+sS'artificial intelligence'
+p19
+F0.010100790365236369
+sS'data analysis'
+p20
+F0.0054151898356411135
+sS'python'
+p21
+F0.0019023777837710437
+sS'leadership'
+p22
+F0.0060306883985540944
+sS'neuroscience'
+p23
+F0.015384057748433901
+sS'data'
+p24
+F0.0008657042910545468
+sS'software development'
+p25
+F0.0077379438615812861
+sS'c'
+F0.0045643135908689679
+sS'science'
+p26
+F0.0025658171101974173
+sS'programming'
+p27
+F0.004023048302317065
+sS'mapreduce'
+p28
+F0.0096229982370654044
+sS'analysis'
+p29
+F0.002500866582146934
+sS'machine learning'
+p30
+F0.0023924004446497786
+sS'r'
+F0.0020255193672041646
+sS'command'
+p31
+F0.014013701741907169
+sS'scripting'
+p32
+F0.0088798699906812526
+sS'healthcare'
+p33
+F0.0098439428587962195
+sS'security'
+p34
+F0.0079757329040868307
+sS'rapid prototyping'
+p35
+F0.018917785158315052
+sS'data analytics'
+p36
+F0.0074537324141817412
+ssS'working-year'
+p37
+(dp38
+V(2, 5]
+p39
+F0.0045216949942742174
+ssS'major'
+p40
+(dp41
+VData Science
+p42
+F0.0037492298635221264
+sVCognitive Science
+p43
+F0.015722672437534682
+sVStatistics
+p44
+F0.0065748349265988323
+sVComputer Science
+p45
+F0.0033042180523802835
+ssS'education'
+p46
+(dp47
+VMaster
+p48
+F0.0026543090701612294
+sVDoctor
+p49
+F0.003975115955388569
+ssS'responsibility'
+p50
+(dp51
+S'development'
+p52
+F0.0088391314044826176
+sS'information'
+p53
+F0.0050624277355087394
+sS'product'
+p54
+F0.0049087331778019947
+sS'data analysis'
+p55
+F0.0054151898356411135
+sS'large data set'
+p56
+F0.011476120931871775
+sS'analysis'
+p57
+F0.002500866582146934
+sS'solve problem'
+p58
+F0.015011103909604676
+sS'data mining'
+p59
+F0.0077444501046793337
+sS'modeling'
+p60
+F0.0029640353613925273
 sS'implement'
-p67
-I1
+p61
+F0.0077294276464219252
 ss.

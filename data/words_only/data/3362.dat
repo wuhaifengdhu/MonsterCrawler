@@ -4,175 +4,180 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.0074234449640036828
 sS'data science'
 p5
-I1
-sS'segmentation'
+F0.0028435955689375867
+sS'sales'
 p6
-I1
+F0.0078595856742104103
 sS'business insights'
 p7
-I1
+F0.013892712788859543
 sS'data warehousing'
 p8
-I1
+F0.0071902843065822534
 sS'business development'
 p9
-I1
-sS'geography'
+F0.0082239959315418033
+sS'go'
 p10
-I1
-sS'visualization'
-p11
-I1
-sS'management'
-p12
-I1
-sS'open source'
-p13
-I1
-sS'teradata'
-p14
-I1
-sS'data analysis'
-p15
-I1
-sS'competitive intelligence'
-p16
-I1
-sS'python'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'leadership'
-p19
-I1
-sS'sql'
-p20
-I1
-sS'java'
-p21
-I1
-sS'data'
-p22
-I1
-sS'data visualization'
-p23
-I1
-sS'solver'
-p24
-I1
-sS'science'
-p25
-I1
-sS'market data'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'r'
-I1
-sS'go-to-market strategy'
-p29
-I1
-sS'logistic regression'
-p30
-I1
-sS'organization'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(0, 2]
-p34
-I1
-sV(2, 5]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'information'
-p38
-I1
-sS'management'
-p39
-I1
-sS'business'
-p40
-I1
-sS'science'
-p41
-I1
-sS'data science'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'general'
-p44
-I1
+F0.0077515678369447462
 sS'geography'
+p11
+F0.011823056024308373
+sS'visualization'
+p12
+F0.0044309580896784145
+sS'management'
+p13
+F0.0021419594969258916
+sS'open source'
+p14
+F0.0075600939477969134
+sS'segmentation'
+p15
+F0.0068464570026714909
+sS'data analysis'
+p16
+F0.0035077116193041728
+sS'competitive intelligence'
+p17
+F0.012459773151284603
+sS'python'
+p18
+F0.001232273079794955
+sS'data scientist'
+p19
+F0.0025044247403401376
+sS'leadership'
+p20
+F0.0078128067196398202
+sS'sql'
+p21
+F0.0016121604227731609
+sS'java'
+p22
+F0.0029297091434238379
+sS'data'
+p23
+F0.0028038176802475867
+sS'a'
+F0.0044209028217825691
+sS'data visualization'
+p24
+F0.0046494884765475196
+sS'solver'
+p25
+F0.01020090029249748
+sS'science'
+p26
+F0.0033240372964259686
+sS'programming'
+p27
+F0.0026059461816427326
+sS'analysis'
+p28
+F0.0032398933499208503
+sS'machine learning'
+p29
+F0.0015496872856596675
+sS'r'
+F0.0013120385499147545
+sS'go-to-market strategy'
+p30
+F0.028462023543392792
+sS'logistic regression'
+p31
+F0.0077398649570012855
+sS'teradata'
+p32
+F0.060585028046892177
+sS'organization'
+p33
+F0.004168283307994518
+sS'scripting'
+p34
+F0.0057519725235145704
+ssS'working-year'
+p35
+(dp36
+V(0, 2]
+p37
+F0.0053843502697166748
+sV(2, 5]
+p38
+F0.0029289466393171053
+ssS'major'
+p39
+(dp40
+VData Science
+p41
+F0.0024285791550947107
+sVGeography
+p42
+F0.011603715411713404
+sVComputer Science
+p43
+F0.0021403209133621696
+sVBusiness
+p44
+F0.0025572443195605535
+sVManagement Science and Engineering
 p45
-I1
+F0.0030485686488626296
 ssS'education'
 p46
 (dp47
 S'Bachelor'
 p48
-I1
+F0.0021545598762881956
 ssS'responsibility'
 p49
 (dp50
 S'development'
 p51
-I1
+F0.0028627919678820769
 sS'information'
 p52
-I1
+F0.0032792085095257554
 sS'data analysis'
 p53
-I1
+F0.0035077116193041728
 sVtest hypothesis
 p54
-I1
+F0.011403009053643378
 sS'business problem'
 p55
-I1
-sVinsight
+F0.0067332164589376945
+sS'insight'
 p56
-I1
+F0.021689046761341431
 sS'analysis'
 p57
-I1
-sS'analytic'
+F0.0032398933499208503
+sS'develop ... model'
 p58
-I1
-sS'understand'
+F0.0073283995914329497
+sS'analytic'
 p59
-I1
-sS'go-to-market strategy'
+F0.0053374136460984465
+sS'understand'
 p60
-I1
-sS'recommendation'
+F0.01490553059180337
+sS'go-to-market strategy'
 p61
-I1
-sS'report'
+F0.028462023543392792
+sS'recommendation'
 p62
-I1
-sS'model'
+F0.0061754178364498138
+sS'report'
 p63
-I1
-sS'presentation'
+F0.0049060908278308014
+sS'model'
 p64
-I1
+F0.0182909082967097
+sS'presentation'
+p65
+F0.0058235327241361861
 ss.

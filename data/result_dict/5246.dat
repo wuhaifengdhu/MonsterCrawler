@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'global health'
+S'jira'
 p4
 aS'data science'
 p5
@@ -34,91 +34,76 @@ aS'medicine'
 p18
 aS'clinical research'
 p19
+aS'a'
 aS'pyspark'
 p20
-aS'apache spark'
+aS'python'
 p21
-aS'advanced analytics'
+aS'data scientist'
 p22
-aS'sql'
+aS'apache spark'
 p23
-aS'apache'
+aS'advanced analytics'
 p24
-aS'spark'
+aS'sql'
 p25
-aS'data'
+aS'apache'
 p26
-aS'information technology'
+aS'spark'
 p27
-aS'software development'
+aS'data'
 p28
-aS'training'
+aS'information technology'
 p29
-aS'science'
+aS'software development'
 p30
-aS'hive'
+aS'training'
 p31
-aS'machine learning'
+aS'science'
 p32
+aS'hive'
+p33
+aS'machine learning'
+p34
 aS'r'
 aS'healthcare'
-p33
+p35
 asS'working-year'
-p34
-(lp35
-V(0, 2]
 p36
+(lp37
+V(0, 2]
+p38
 asS'major'
-p37
-(lp38
-S'information'
 p39
-aS'business'
-p40
-aS'big data'
+(lp40
+VData Science
 p41
-aS'analytics'
+aVInformation Science
 p42
-aS'science'
+aVComputer Science
 p43
-aS'data science'
+aVBusiness
 p44
-aS'machine learning'
+aVGeography
 p45
-aS'advanced analytics'
-p46
-aS'design'
-p47
-aS'computer science'
-p48
-aS'medicine'
-p49
-aS'ee computer science'
-p50
-aS'information technology'
-p51
-aS'geography'
-p52
 asS'education'
-p53
-(lp54
+p46
+(lp47
 VBachelor
-p55
+p48
 aVMaster
-p56
+p49
 asS'responsibility'
-p57
-(lp58
+p50
+(lp51
 S'development'
-p59
+p52
 aS'information'
-p60
+p53
 aS'product'
-p61
-aVinsight
-p62
-aS'statistical method'
-p63
+p54
+aS'insight'
+p55
 aS'design'
-p64
+p56
 as.

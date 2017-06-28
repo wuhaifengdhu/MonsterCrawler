@@ -2,40 +2,46 @@
 S'skills'
 p2
 (lp3
-S'mathematics'
+S'training'
 p4
-aS'training'
+aS'statistics'
 p5
-aS'data'
+aS'science'
 p6
 aS'data science'
 p7
-aS'statistical analysis'
+aS'analysis'
 p8
-asS'working-year'
+aS'statistical analysis'
 p9
-(lp10
-V[0]
+aS'mathematics'
+p10
+aS'data'
 p11
-asS'major'
+asS'working-year'
 p12
 (lp13
-S'mathematics statistics'
+S'[0]'
 p14
-aS'data science'
+asS'major'
 p15
-aS'mathematics'
-p16
-aS'statistic'
+(lp16
+VMathematics
 p17
-asS'education'
+aVData Science
 p18
-(lp19
-VBachelor
+aVStatistics
+p19
+asS'education'
 p20
-aVMaster
-p21
-asS'responsibility'
+(lp21
+VBachelor
 p22
-(lp23
-s.
+aVMaster
+p23
+asS'responsibility'
+p24
+(lp25
+S'analysis'
+p26
+as.

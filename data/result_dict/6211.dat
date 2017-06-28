@@ -4,21 +4,21 @@ p2
 (lp3
 S'logistics'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'testing'
-p8
+p7
 aS'integration'
-p9
+p8
 aS'analytics'
-p10
+p9
 aS'problem solving'
-p11
+p10
 aS'mysql'
+p11
+aS'sas'
 p12
 aS'neo4j'
 p13
@@ -26,129 +26,117 @@ aS'hbase'
 p14
 aS'genomics'
 p15
-aS'management'
+aS'statistics'
 p16
 aS'genetics'
 p17
-aS'hadoop'
+aS'shiny'
 p18
-aS'oracle sql'
+aS'management'
 p19
-aS'project management'
+aS'hadoop'
 p20
-aS'data management'
+aS'oracle sql'
 p21
-aS'data analysis'
+aS'project management'
 p22
-aS'product development'
+aS'data management'
 p23
-aS'visualization'
+aS'data analysis'
 p24
-aS'python'
+aS'product development'
 p25
-aS'spotfire'
+aS'visualization'
 p26
-aS'data scientist'
+aS'python'
 p27
-aS'search'
+aS'data scientist'
 p28
-aS'experimental design'
+aS'spotfire'
 p29
-aS'leadership'
+aS'search'
 p30
-aS'sql'
+aS'experimental design'
 p31
-aS'java'
+aS'leadership'
 p32
-aS'data'
+aS'sql'
 p33
-aS'information technology'
+aS'java'
 p34
-aS'training'
+aS'data'
 p35
-aS'database management'
+aS'information technology'
 p36
-aS'science'
+aS'training'
 p37
-aS'programming'
+aS'database management'
 p38
-aS'analysis'
+aS'science'
 p39
+aS'programming'
+p40
+aS'analysis'
+p41
 aS'r'
 aS'oracle'
-p40
-aS'organization'
-p41
-aS'shiny'
 p42
-aS'oracle database'
+aS'organization'
 p43
-asS'working-year'
+aS'cms'
 p44
-(lp45
-V(0, 2]
+aS'oracle database'
+p45
+asS'working-year'
 p46
-aV(2, 5]
-p47
-asS'major'
+(lp47
+V(0, 2]
 p48
-(lp49
-S'information'
+aV(2, 5]
+p49
+asS'major'
 p50
-aS'management'
-p51
-aS'genetics'
+(lp51
+VBiological Engineering
 p52
-aS'science'
+aVData Science
 p53
-aS'data science'
+aVInformation Science
 p54
-aS'communication'
+aVStatistics
 p55
-aS'phd'
+aVManagement Science and Engineering
 p56
-aS'analytics'
-p57
-aS'design'
-p58
-aS'project management'
-p59
-aS'statistic'
-p60
-aS'information technology'
-p61
-aS'history'
-p62
 asS'education'
-p63
-(lp64
+p57
+(lp58
 VMaster
-p65
+p59
 aVDoctor
-p66
+p60
 asS'responsibility'
-p67
-(lp68
+p61
+(lp62
 S'development'
-p69
+p63
 aS'information'
-p70
+p64
 aS'product'
-p71
+p65
 aS'data analysis'
-p72
+p66
 aS'analysis'
-p73
+p67
 aS'improvement'
-p74
+p68
 aS'design'
-p75
+p69
 aS'report'
-p76
+p70
 aS'understand'
-p77
+p71
 aS'implement'
-p78
+p72
 aS'prototype'
-p79
+p73
 as.

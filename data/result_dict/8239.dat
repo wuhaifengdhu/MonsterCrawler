@@ -2,94 +2,80 @@
 S'skills'
 p2
 (lp3
-S'big data analytics'
+S'consulting'
 p4
-aS'consulting'
-p5
-aS'management'
-p6
 aS'sentiment analysis'
+p5
+aS'data mining'
+p6
+aS'management'
 p7
-aS'big data'
+aS'java'
 p8
-aS'sustainability'
+aS'big data'
 p9
-aS'cloud computing'
-p10
 aS'outsourcing'
-p11
+p10
 aS'strategic consulting'
+p11
+aS'big data analytics'
 p12
-aS'machine learning'
+aS'application development'
 p13
-aS'data architecture'
+aS'metrics'
 p14
-aS'analytics'
+aS'sustainability'
 p15
 aS'leadership'
 p16
-aS'architecture'
-p17
-aS'data mining'
-p18
-aS'java'
-p19
-aS'analysis'
-p20
 aS'data'
+p17
+aS'training'
+p18
+aS'analytics'
+p19
+aS'cloud computing'
+p20
+aS'analysis'
 p21
-aS'data analytics'
+aS'machine learning'
 p22
-aS'application development'
+aS'data architecture'
 p23
-asS'working-year'
+aS'architecture'
 p24
-(lp25
-V(5, 10]
+aS'data analytics'
+p25
+asS'working-year'
 p26
-aV(2, 5]
-p27
-asS'major'
+(lp27
+sS'major'
 p28
 (lp29
-S'information'
+VData Science
 p30
-aS'management'
+aVComputer Science
 p31
-aS'business'
+aVBusiness
 p32
-aS'big data'
+aVManagement Science and Engineering
 p33
-aS'analytics'
-p34
-aS'machine learning'
-p35
-aS'big data analytics'
-p36
-aS'sustainability'
-p37
-aS'data mining'
-p38
-aS'data analytics'
-p39
-aS'data mining machine learning'
-p40
 asS'education'
-p41
-(lp42
+p34
+(lp35
 S'Bachelor'
-p43
+p36
 asS'responsibility'
-p44
-(lp45
+p37
+(lp38
 S'development'
-p46
+p39
 aS'information'
-p47
+p40
 aS'model'
-p48
+p41
 aS'analysis'
-p49
+p42
 aS'data mining'
-p50
+p43
 as.

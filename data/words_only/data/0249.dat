@@ -2,214 +2,199 @@
 S'skills'
 p2
 (dp3
-S'insurance'
+S'consulting'
 p4
-I1
-sS'consulting'
-p5
-I1
+F0.01036474630555537
 sS'knowledge management'
-p6
-I1
+p5
+F0.01170511672724573
 sS'management consulting'
-p7
-I1
+p6
+F0.0087968256173334147
 sS'strategic planning'
+p7
+F0.0079170726315933443
+sS'analytics'
 p8
-I1
+F0.0019948106926227678
 sS'business intelligence'
 p9
-I1
+F0.0046858791485651866
 sS'statistical analysis'
 p10
-I1
-sS'regression'
+F0.0059052755812215784
+sS'insurance'
 p11
-I1
+F0.0072320445264901102
 sS'visualization'
 p12
-I1
-sS'governance'
+F0.0085976847336420616
+sS'statistics'
 p13
-I1
-sS'strategy'
+F0.0021387909513821209
+sS'governance'
 p14
-I1
-sS'access'
+F0.0082672385800362357
+sS'strategy'
 p15
-I1
-sS'coaching'
+F0.0036124115395110893
+sS'access'
 p16
-I1
-sS'computer science'
+F0.0053198670300377403
+sS'coaching'
 p17
-I1
-sS'advanced analytics'
-p18
-I1
-sS'data management'
-p19
-I1
-sS'architecture'
-p20
-I1
-sS'systems engineering'
-p21
-I1
-sS'government'
-p22
-I1
-sS'marketing'
-p23
-I1
-sS'risk analysis'
-p24
-I1
-sS'leadership'
-p25
-I1
-sS'manufacturing'
-p26
-I1
-sS'information technology'
-p27
-I1
-sS'science'
-p28
-I1
-sS'economics'
-p29
-I1
-sS'engineering'
-p30
-I1
-sS'analysis'
-p31
-I1
-sS'simulation'
-p32
-I1
-sS'pricing analysis'
-p33
-I1
-sS'operations research'
-p34
-I1
-sS'financial services'
-p35
-I1
-sS'healthcare'
-p36
-I1
-sS'organization'
-p37
-I1
-sS'security'
-p38
-I1
-sS'data analytics'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V[0]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'business intelligence analytics'
-p45
-I1
-sS'information'
-p46
-I1
-sS'economics statistics'
-p47
-I1
-sS'business'
-p48
-I1
-sS'systems engineering'
-p49
-I1
-sS'marketing'
-p50
-I1
-sS'economics'
-p51
-I1
-sS'knowledge management'
-p52
-I1
-sS'science'
-p53
-I1
-sS'data analytics'
-p54
-I1
-sS'engineering'
-p55
-I1
-sS'information systems'
-p56
-I1
-sS'statistics operations research'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'advanced analytics'
-p59
-I1
-sS'information system'
-p60
-I1
-sS'operations research'
-p61
-I1
-sS'information technology'
-p62
-I1
+F0.017714370259789902
 sS'computer science'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VBachelor
-p66
-I1
-ssS'responsibility'
-p67
-(dp68
-S'information'
-p69
-I1
-sS'product'
-p70
-I1
-sVinsight
-p71
-I1
+p18
+F0.0032247322550165614
+sS'intelligence'
+p19
+F0.0036010518575384843
+sS'advanced analytics'
+p20
+F0.0067495654916011096
+sS'operations research'
+p21
+F0.006607657145761261
+sS'data management'
+p22
+F0.0063071516160763093
+sS'architecture'
+p23
+F0.0050160883547813269
+sS'systems engineering'
+p24
+F0.0098491264052762966
+sS'government'
+p25
+F0.011959263833160393
+sS'marketing'
+p26
+F0.0043697580790769469
+sS'risk analysis'
+p27
+F0.012046939520563394
+sS'management'
+p28
+F0.0020780937321092942
+sS'regression'
+p29
+F0.0054499261254169745
+sS'manufacturing'
+p30
+F0.0085611435138344249
+sS'data'
+p31
+F0.00027202176117998379
+sS'information technology'
+p32
+F0.0071482776875269388
+sS'science'
+p33
+F0.0016124630463167258
+sS'economics'
+p34
+F0.0054965408815583977
+sS'engineering'
+p35
+F0.0028092999474166394
 sS'analysis'
-p72
-I1
+p36
+F0.0023574682689504354
 sS'simulation'
-p73
-I1
+p37
+F0.0061578802469595684
+sS'pricing analysis'
+p38
+F0.013330456824541986
+sS'leadership'
+p39
+F0.0037899280302839955
+sS'financial services'
+p40
+F0.0096971804172023644
+sS'healthcare'
+p41
+F0.0061863310626379918
+sS'organization'
+p42
+F0.0080879992627600067
+sS'security'
+p43
+F0.0050122725131187887
+sS'data analytics'
+p44
+F0.004684226333683021
+ssS'working-year'
+p45
+(dp46
+S'[0]'
+p47
+F0.0050371897489550066
+ssS'major'
+p48
+(dp49
+VStatistics
+p50
+F0.0041318916740552296
+sVBusiness
+p51
+F0.0024809962091149411
+sVData Science
+p52
+F0.0023561673912960153
+sVEconomics
+p53
+F0.0037632374943221583
+sVEngineering
+p54
+F0.0028092999474166394
+sVInformation Science
+p55
+F0.0058088421755827842
+sVComputer Science
+p56
+F0.0020765040053949491
+sVOperations Research
+p57
+F0.007382405729787051
+sVManagement Science and Engineering
+p58
+F0.0029576709597910378
+ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0020903184120869421
+ssS'responsibility'
+p62
+(dp63
+S'information'
+p64
+F0.015907169719373792
+sS'product'
+p65
+F0.0030848460796278595
+sS'insight'
+p66
+F0.0042084710000217553
+sS'analysis'
+p67
+F0.0023574682689504354
+sS'simulation'
+p68
+F0.0061578802469595684
 sS'analytic'
-p74
-I1
+p69
+F0.0051782705786689058
 sS'complex data set'
-p75
-I1
+p70
+F0.011470533711656978
 sS'implement'
-p76
-I1
+p71
+F0.0048574843466046048
 sS'model'
-p77
-I1
+p72
+F0.0035491074355542222
 ss.

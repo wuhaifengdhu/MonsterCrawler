@@ -4,202 +4,202 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0068470142260941532
 sS'nosql'
 p5
-I1
+F0.0082934753462621889
 sS'communication'
 p6
-I1
+F0.0047974829063965347
 sS'data science'
 p7
-I1
+F0.0036449725020018158
 sS'presentation skills'
 p8
-I1
+F0.014040699725290396
 sS'hive'
 p9
-I1
+F0.0063204674226969891
 sS'problem solving'
 p10
-I1
-sS'analysis'
+F0.0074382177725856096
+sS'sas'
 p11
-I1
-sS'hbase'
-p12
-I1
-sS'research'
-p13
-I1
-sS'visualization'
-p14
-I1
-sS'management'
-p15
-I1
-sS'high performance computing'
-p16
-I1
-sS'tableau'
-p17
-I1
-sS'strategy'
-p18
-I1
-sS'social network analysis'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'natural language processing'
-p21
-I1
-sS'advanced analytics'
-p22
-I1
-sS'text mining'
-p23
-I1
-sS'government'
-p24
-I1
-sS'python'
-p25
-I1
-sS'mongodb'
-p26
-I1
-sS'collaboration'
-p27
-I1
-sS'visio'
-p28
-I1
-sS'experimental design'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'sql'
-p31
-I1
-sS'data'
-p32
-I1
-sS'information technology'
-p33
-I1
-sS'analytical skills'
-p34
-I1
-sS'training'
-p35
-I1
-sS'data visualization'
-p36
-I1
-sS'communication skills'
-p37
-I1
-sS'simulation'
-p38
-I1
-sS'r'
-I1
-sS'powerpoint'
-p39
-I1
-sS'scripting'
-p40
-I1
-sS'troubleshooting'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
-sS'management'
-p48
-I1
-sS'business'
-p49
-I1
-sS'communication'
-p50
-I1
-sS'data science'
-p51
-I1
-sS'high performance computing'
-p52
-I1
-sS'machine learning'
-p53
-I1
-sS'design'
-p54
-I1
-sS'computer science'
-p55
-I1
-sS'natural language processing'
-p56
-I1
-sS'advanced analytics'
-p57
-I1
-sS'mathematics computer science'
-p58
-I1
-sS'information technology'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VBachelor
-p62
-I1
-sVMaster
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
-S'development'
-p66
-I1
-sS'large data set'
-p67
-I1
-sS'information'
-p68
-I1
-sS'communicate'
-p69
-I1
+F0.0041976874444770206
 sS'analysis'
-p70
-I1
+p12
+F0.0010382385507700907
+sS'hbase'
+p13
+F0.010146236635879003
+sS'research'
+p14
+F0.002585334368671934
+sS'visualization'
+p15
+F0.0056796826422241499
+sS'management'
+p16
+F0.0027456026278777339
+sS'java'
+p17
+F0.0037553544474796469
+sS'high performance computing'
+p18
+F0.011797992126470197
+sS'tableau'
+p19
+F0.0060879578397690657
+sS'strategy'
+p20
+F0.0047727619128085904
+sS'social network analysis'
+p21
+F0.013816132378751173
+sS'computer science'
+p22
+F0.0042605553429915779
+sS'natural language processing'
+p23
+F0.0075938125210918269
+sS'advanced analytics'
+p24
+F0.0089176077404184359
+sS'mathematics'
+p25
+F0.005539070551744866
+sS'text mining'
+p26
+F0.0099587422104563776
+sS'visio'
+p27
+F0.013161670142299738
+sS'government'
+p28
+F0.0079003621685726222
+sS'python'
+p29
+F0.0031591000772925211
+sS'mongodb'
+p30
+F0.0089608962540041678
+sS'collaboration'
+p31
+F0.0077505133941619814
+sS'processing'
+p32
+F0.004948751777790061
+sS'data scientist'
+p33
+F0.0032102171671632676
+sS'experimental design'
+p34
+F0.010496099603152108
+sS'machine learning'
+p35
+F0.0019864173388910284
+sS'sql'
+p36
+F0.0020664965419183246
+sS'data'
+p37
+F0.0010781953443133902
+sS'information technology'
+p38
+F0.0094443911265507437
+sS'analytical skills'
+p39
+F0.012679021583821701
+sS'training'
+p40
+F0.0071311962152191795
+sS'data visualization'
+p41
+F0.0059597988653927302
+sS'science'
+p42
+F0.0021304057218002798
+sS'communication skills'
+p43
+F0.011160987430485223
 sS'simulation'
-p71
-I1
+p44
+F0.008135866023255672
+sS'r'
+F0.0033635897370541887
+sS'powerpoint'
+p45
+F0.0074152254755583402
+sS'scripting'
+p46
+F0.0073729829619595859
+sS'troubleshooting'
+p47
+F0.011395098381012714
+ssS'working-year'
+p48
+(dp49
+V(2, 5]
+p50
+F0.0037543770558519257
+ssS'major'
+p51
+(dp52
+VBusiness
+p53
+F0.0032779222641639823
+sVData Science
+p54
+F0.0031129969169850381
+sVInformation Science
+p55
+F0.0076747126925881632
+sVComputer Science
+p56
+F0.0027435022616733263
+sVMathematics
+p57
+F0.0051947652411589449
+sVManagement Science and Engineering
+p58
+F0.0039077107226330073
+ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0027617540232421417
+sVMaster
+p62
+F0.0022038808643156877
+ssS'responsibility'
+p63
+(dp64
+S'development'
+p65
+F0.0073391575903885981
+sS'information'
+p66
+F0.0042033490894830142
+sS'processing'
+p67
+F0.004948751777790061
+sS'communicate'
+p68
+F0.012159047771403588
+sS'analysis'
+p69
+F0.0010382385507700907
+sS'simulation'
+p70
+F0.008135866023255672
 sS'design'
+p71
+F0.0044255115455105378
+sS'manipulate ... data set'
 p72
-I1
+F0.017519113970632376
 sS'presentation'
 p73
-I1
+F0.0074647101282109291
 ss.

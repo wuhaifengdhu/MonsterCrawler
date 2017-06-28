@@ -4,9 +4,9 @@ p2
 (lp3
 S'bootstrap'
 p4
-aS'saas'
-p5
 aS'communication'
+p5
+aS'scrum'
 p6
 aS'pricing'
 p7
@@ -18,93 +18,95 @@ aS'management'
 p10
 aS'asp.net'
 p11
-aS'excel'
+aS'agile'
 p12
-aS'research'
+aS'excel'
 p13
-aS'subversion'
+aS'research'
 p14
-aS'json'
+aS'subversion'
 p15
-aS'computer science'
+aS'json'
 p16
-aS'innovation'
+aS'computer science'
 p17
-aS'mathematics'
+aS'innovation'
 p18
-aS'css3'
+aS'mathematics'
 p19
-aS'.net'
+aS'css3'
 p20
-aS'product development'
+aS'.net'
 p21
-aS'data scientist'
+aS'asp'
 p22
-aS'linq'
+aS'product development'
 p23
-aS'sql'
+aS'javascript'
 p24
-aS'data'
+aS'data scientist'
 p25
-aS'b2b'
+aS'linq'
 p26
+aS'sql'
+p27
+aS'data'
+p28
+aS'b2b'
+p29
+aS'jquery'
+p30
 aS'c'
 aS'github'
-p27
-aS'sql server'
-p28
-aS'science'
-p29
-aS'documentation'
-p30
-aS'analysis'
 p31
-asS'working-year'
+aS'saas'
 p32
-(lp33
-V(2, 5]
-p34
-asS'major'
-p35
-(lp36
-S'information'
-p37
-aS'management'
-p38
-aS'business analysis'
-p39
-aS'business'
-p40
+aS'sql server'
+p33
 aS'science'
-p41
-aS'computer science'
+p34
+aS'documentation'
+p35
+aS'analysis'
+p36
+aS'mvc'
+p37
+asS'working-year'
+p38
+(lp39
+sS'major'
+p40
+(lp41
+VMathematics
 p42
-aS'communication'
+aVComputer Science
 p43
-aS'mathematics'
+aVBusiness
 p44
-aS'mathematics computer science'
+aVManagement Science and Engineering
 p45
 asS'education'
 p46
 (lp47
-S'Bachelor'
+VBachelor
 p48
-asS'responsibility'
+aVMaster
 p49
-(lp50
+asS'responsibility'
+p50
+(lp51
 S'development'
-p51
-aS'information'
 p52
-aS'product'
+aS'information'
 p53
-aS'documentation'
+aS'product'
 p54
-aS'analysis'
+aS'documentation'
 p55
-aS'recommendation'
+aS'analysis'
 p56
-aS'extract'
+aS'recommendation'
 p57
+aS'extract'
+p58
 as.

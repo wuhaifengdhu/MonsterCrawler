@@ -4,205 +4,196 @@ p2
 (dp3
 S'debugging'
 p4
-I1
-sS'communication'
+F0.012776228206929099
+sS'data science'
 p5
-I1
-sS'data science'
+F0.0034966305978505791
+sS'information retrieval'
 p6
-I1
-sS'information retrieval'
-p7
-I1
+F0.010202095938904573
 sS'unix'
-p8
-I1
+p7
+F0.0075060720604216563
 sS'communication skills'
+p8
+F0.010706761197849197
+sS'product development'
 p9
-I1
-sS'java'
+F0.0075973149673886917
+sS'statistics'
 p10
-I1
-sS'deep learning'
+F0.0027107931825657108
+sS'java'
 p11
-I1
-sS'hadoop'
+F0.003602520254849661
+sS'deep learning'
 p12
-I1
-sS'research'
+F0.0090539002409693332
+sS'hadoop'
 p13
-I1
-sS'computer science'
+F0.0037349026203475724
+sS'research'
 p14
-I1
-sS'natural language processing'
-p15
-I1
-sS'text classification'
-p16
-I1
-sS'tensorflow'
-p17
-I1
-sS'operating systems'
-p18
-I1
-sS'statistical data analysis'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'finance'
-p21
-I1
-sS'python'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'theano'
-p25
-I1
-sS'mentoring'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'spark'
-p28
-I1
-sS'data visualization'
-p29
-I1
-sS'software engineering'
-p30
-I1
-sS'data cleaning'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'e-commerce'
-p34
-I1
-sS'r'
-I1
-sS'oracle'
-p35
-I1
-sS'organization'
-p36
-I1
-sS'retail'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V(5, 10]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'information'
-p43
-I1
-sS'finance'
-p44
-I1
-sS'business'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'natural language processing'
-p48
-I1
-sS'computer science statistics'
-p49
-I1
-sS'machine learning'
-p50
-I1
-sS'design'
-p51
-I1
+F0.0024801172722724949
 sS'computer science'
-p52
-I1
-sS'statistic'
-p53
-I1
+p15
+F0.00408716064880006
+sS'natural language processing'
+p16
+F0.0072847620115125081
+sS'text classification'
+p17
+F0.016553187539954647
+sS'tensorflow'
+p18
+F0.012543548906181494
+sS'operating systems'
+p19
+F0.013763157242650261
+sS'statistical data analysis'
+p20
+F0.0089933387520431084
+sS'data analysis'
+p21
+F0.0043132616714118173
+sS'finance'
+p22
+F0.0077184478319293265
+sS'python'
+p23
+F0.0015152660254455406
+sS'processing'
+p24
+F0.0047473490891590696
+sS'data scientist'
+p25
+F0.0030795687940810413
+sS'theano'
+p26
+F0.014231956193089042
+sS'mentoring'
+p27
+F0.0100003305275551
+sS'sql'
+p28
+F0.0019823949384681601
+sS'spark'
+p29
+F0.0049015570445222634
+sS'data'
+p30
+F0.00034477176707695616
+sS'data visualization'
+p31
+F0.0057172489115686074
 sS'software engineering'
-p54
-I1
-sS'information retrieval'
-p55
-I1
-sS'ee computer science'
-p56
-I1
+p32
+F0.0075641365950988712
+sS'data cleaning'
+p33
+F0.014419566814495664
+sS'science'
+p34
+F0.0040874063267098398
+sS'engineering'
+p35
+F0.0035606243519582985
+sS'analysis'
+p36
+F0.00099598465626200556
+sS'machine learning'
+p37
+F0.0019055747727733702
+sS'e-commerce'
+p38
+F0.01095478732158264
+sS'r'
+F0.0016133497285288987
+sS'oracle'
+p39
+F0.022892629347918504
+sS'organization'
+p40
+F0.005125534416516515
+sS'retail'
+p41
+F0.010017329896559657
+ssS'working-year'
+p42
+(dp43
+V(5, 10]
+p44
+F0.0035047798301652872
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0052369324706048838
+sVBusiness
+p48
+F0.0031445184510875412
+sVData Science
+p49
+F0.0029863051819914613
+sVEconomics
+p50
+F0.0047696847311757586
+sVEngineering
+p51
+F0.0065476131592056034
+sVComputer Science
+p52
+F0.00263184809986104
 ssS'education'
+p53
+(dp54
+VBachelor
+p55
+F0.0026493570571799615
+sVMaster
+p56
+F0.0021141880384423746
+ssS'responsibility'
 p57
 (dp58
-VMaster
-p59
-I1
-ssS'responsibility'
-p60
-(dp61
 S'development'
-p62
-I1
+p59
+F0.0035202354721340658
 sS'information'
-p63
-I1
+p60
+F0.004032282556771496
 sS'product'
-p64
-I1
+p61
+F0.0078197261088241085
 sS'data analysis'
-p65
-I1
+p62
+F0.0043132616714118173
 sS'processing'
-p66
-I1
+p63
+F0.0047473490891590696
 sS'analysis'
-p67
-I1
+p64
+F0.00099598465626200556
 sS'design'
-p68
-I1
+p65
+F0.0042454035174955742
 sS'solve problem'
-p69
-I1
+p66
+F0.011956518811720003
 sS'ownership'
-p70
-I1
+p67
+F0.011454341424672639
 sS'prototype'
-p71
-I1
+p68
+F0.0091661959696211857
 sS'model'
-p72
-I1
+p69
+F0.0089965746622188425
 sS'build solution'
-p73
-I1
+p70
+F0.017181741185721248
 sS'evaluation'
-p74
-I1
+p71
+F0.0098355906506589451
 ss.

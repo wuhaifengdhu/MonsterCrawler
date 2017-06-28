@@ -4,205 +4,178 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.011924652494994289
 sS'forecasting'
 p5
-I1
-sS'communication'
+F0.010181350714688606
+sS'economics'
 p6
-I1
-sS'data science'
+F0.01664230433582959
+sS'communication'
 p7
-I1
-sS'analytics'
+F0.0054971158302460294
+sS'data science'
 p8
-I1
-sS'statistical analysis'
+F0.0041765309918770799
+sS'analytics'
 p9
-I1
-sS'digital analytics'
+F0.0060398434859967121
+sS'statistical analysis'
 p10
-I1
-sS'machine learning'
+F0.0089399310882382222
+sS'sas'
 p11
-I1
-sS'arm'
+F0.0048098501967965852
+sS'digital analytics'
 p12
-I1
-sS'clustering'
+F0.018300291815949259
+sS'machine learning'
 p13
-I1
-sS'anomaly detection'
+F0.0022761032008126363
+sS'arm'
 p14
-I1
-sS'deep learning'
+F0.019320291155804161
+sS'clustering'
 p15
-I1
-sS'research'
+F0.011192404724153506
+sS'anomaly detection'
 p16
-I1
-sS'omniture'
+F0.015260494802720868
+sS'deep learning'
 p17
-I1
-sS'innovation'
+F0.010814380843380036
+sS'research'
 p18
-I1
-sS'mathematics'
+F0.0088870868923097736
+sS'omniture'
 p19
-I1
-sS'marketing'
+F0.017940777517020837
+sS'innovation'
 p20
-I1
-sS'collaboration'
+F0.0067216134449122342
+sS'mathematics'
 p21
-I1
-sS'data scientist'
+F0.01269370334774865
+sS'finance'
 p22
-I1
-sS'leadership'
+F0.0092192571325822505
+sS'marketing'
 p23
-I1
-sS'modeling'
+F0.013230656406094088
+sS'collaboration'
 p24
-I1
-sS'spark'
+F0.0088807965974772706
+sS'data scientist'
 p25
-I1
-sS'data'
+F0.0036783738373745772
+sS'leadership'
 p26
-I1
-sS'science'
+F0.0057375299347354929
+sS'modeling'
 p27
-I1
-sS'market data'
+F0.0084598509273078378
+sS'spark'
 p28
-I1
-sS'analysis'
+F0.0058546375809571472
+sS'data'
 p29
-I1
-sS'spss'
+F0.0016472428871454571
+sS'science'
 p30
-I1
-sS'google analytics'
+F0.0024410898895628206
+sS'market data'
 p31
-I1
-sS'r'
-I1
-sS'validation'
+F0.021327500073244104
+sS'analysis'
 p32
-I1
-sS'data analytics'
+F0.0011896483394240622
+sS'spss'
 p33
-I1
-ssS'working-year'
+F0.0076609334404776561
+sS'google analytics'
 p34
-(dp35
-V(2, 5]
+F0.013393396573054786
+sS'r'
+F0.0019270566201872955
+sS'validation'
+p35
+F0.010979035781510752
+sS'data analytics'
 p36
-I1
-ssS'major'
+F0.0070913981996034619
+ssS'working-year'
 p37
 (dp38
-S'information'
+V(2, 5]
 p39
-I1
-sS'business'
+F0.0043018903764969977
+ssS'major'
 p40
-I1
-sS'economics math'
-p41
-I1
-sS'mathematics finance'
+(dp41
+VMathematics
 p42
-I1
-sS'marketing'
+F0.0059523351721612909
+sVData Science
 p43
-I1
-sS'data science'
+F0.0035669756340453562
+sVEconomics
 p44
-I1
-sS'statistic'
+F0.0056971234289043774
+sVComputer Science
 p45
-I1
-sS'communication'
+F0.0031435963415006865
+sVBusiness
 p46
-I1
-sS'machine learning'
-p47
-I1
-sS'analytics'
-p48
-I1
-sS'economics mathematics'
-p49
-I1
-sS'applied math'
-p50
-I1
-sS'mathematics'
-p51
-I1
-sS'mechanical'
-p52
-I1
-sS'phd'
-p53
-I1
-sS'data analytics'
-p54
-I1
-sS'science'
-p55
-I1
+F0.0037559525943545629
 ssS'education'
-p56
-(dp57
+p47
+(dp48
 VBachelor
-p58
-I1
+p49
+F0.003164509818298287
 sVMaster
-p59
-I1
+p50
+F0.002525280157028392
 sVDoctor
-p60
-I1
+p51
+F0.0037818811520016248
 ssS'responsibility'
-p61
-(dp62
+p52
+(dp53
 S'information'
-p63
-I1
+p54
+F0.0048163374983659531
 sS'forecasting'
-p64
-I1
+p55
+F0.010181350714688606
 sS'pattern'
-p65
-I1
+p56
+F0.0090923301235213399
 sS'product'
-p66
-I1
+p57
+F0.0093402284077621286
 sS'analysis'
-p67
-I1
+p58
+F0.0011896483394240622
 sS'statistical model'
-p68
-I1
+p59
+F0.012468278838954497
 sS'analytic'
-p69
-I1
+p60
+F0.0078393262927070918
 sS'statistical method'
-p70
-I1
+p61
+F0.012207605656428857
 sS'solve problem'
-p71
-I1
+p62
+F0.014281397469554449
 sS'modeling'
-p72
-I1
+p63
+F0.0084598509273078378
 sS'model'
-p73
-I1
+p64
+F0.0053729543121584745
 sS'transformation'
-p74
-I1
+p65
+F0.010918253942128007
 ss.

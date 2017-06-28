@@ -4,205 +4,193 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.0083301960392906781
 sS'higher education'
 p5
-I1
+F0.012339065758406004
 sS'communication'
 p6
-I1
+F0.0044976402247467514
 sS'project planning'
 p7
-I1
+F0.01183477220321965
 sS'decision support'
 p8
-I1
+F0.012618016926059007
 sS'analytics'
 p9
-I1
+F0.009883380249812803
 sS'business intelligence'
 p10
-I1
+F0.005804100309018242
 sS'data mining'
 p11
-I1
-sS'education'
+F0.0060283503655742549
+sS'sas'
 p12
-I1
-sS'random forest'
+F0.0078706639583944124
+sS'education'
 p13
-I1
-sS'qlikview'
+F0.0059620078119695151
+sS'random forest'
 p14
-I1
-sS'visualization'
+F0.012902341746696999
+sS'qlikview'
 p15
-I1
-sS'tableau'
+F0.011451152770176221
+sS'visualization'
 p16
-I1
-sS'research'
+F0.0053247024770851402
+sS'tableau'
 p17
-I1
-sS'computer science'
+F0.0057074604747834991
+sS'research'
 p18
-I1
-sS'intelligence'
+F0.0048475019412598771
+sS'computer science'
 p19
-I1
-sS'visual analytics'
+F0.0039942706340546042
+sS'intelligence'
 p20
-I1
-sS'python'
+F0.0044603937780874408
+sS'mathematics'
 p21
-I1
-sS'jmp'
+F0.005192878642260812
+sS'visual analytics'
 p22
-I1
-sS'data scientist'
+F0.016176978732228404
+sS'python'
 p23
-I1
-sS'business process'
+F0.0014808281612308694
+sS'jmp'
 p24
-I1
-sS'sql'
+F0.01183477220321965
+sS'data scientist'
 p25
-I1
-sS'regression'
+F0.0030095785942155632
+sS'business process'
 p26
-I1
-sS'data'
+F0.0086797810497720347
+sS'sql'
 p27
-I1
-sS'data collection'
+F0.0019373405080484294
+sS'regression'
 p28
-I1
-sS'data visualization'
+F0.0067504766780732972
+sS'data'
 p29
-I1
-sS'programming'
+F0.0023585523156855409
+sS'data collection'
 p30
-I1
-sS'analysis'
+F0.020598576971370703
+sS'data visualization'
 p31
-I1
-sS'machine learning'
+F0.0055873114363056845
+sS'science'
 p32
-I1
-sS'r'
-I1
-sS'dashboard'
+F0.0019972553641877627
+sS'programming'
 p33
-I1
-ssS'working-year'
+F0.0031315773716899887
+sS'analysis'
 p34
-(dp35
-V(2, 5]
+F0.0009733486413469601
+sS'machine learning'
+p35
+F0.001862266255210339
+sS'r'
+F0.0015766826892441512
+sS'dashboard'
 p36
-I1
-ssS'major'
+F0.0099613663895441636
+ssS'working-year'
 p37
 (dp38
-S'information'
+V(2, 5]
 p39
-I1
-sS'business'
+F0.0035197284898611804
+ssS'major'
 p40
-I1
-sS'communication'
-p41
-I1
-sS'data mining'
+(dp41
+VMathematics
 p42
-I1
-sS'machine learning'
+F0.0048700924135865109
+sVData Science
 p43
-I1
-sS'analytics'
+F0.0029184346096734733
+sVComputer Science
 p44
-I1
-sS'design'
+F0.0025720333703187436
+sVBusiness
 p45
-I1
-sS'computer science'
-p46
-I1
-sS'statistic'
-p47
-I1
-sS'mathematics computer science'
-p48
-I1
+F0.0030730521226537337
 ssS'education'
+p46
+(dp47
+VMaster
+p48
+F0.0020661383102959572
+ssS'responsibility'
 p49
 (dp50
-VMaster
-p51
-I1
-ssS'responsibility'
-p52
-(dp53
 S'development'
+p51
+F0.010320690361483965
+sS'information'
+p52
+F0.0039406397713903259
+sS'forecasting'
+p53
+F0.0083301960392906781
+sS'data collection'
 p54
-I1
+F0.020598576971370703
 sS'large data set'
 p55
-I1
-sS'forecasting'
-p56
-I1
-sVinsight
-p57
-I1
-sS'information'
-p58
-I1
+F0.0089331168617410982
 sS'manage data'
-p59
-I1
-sS'decision-making'
-p60
-I1
+p56
+F0.01502509400053024
+sS'insight'
+p57
+F0.0052127652159360376
 sS'communicate'
-p61
-I1
+p58
+F0.0056995536428454318
 sS'product'
-p62
-I1
+p59
+F0.0076420050608962883
 sS'analysis'
-p63
-I1
+p60
+F0.0009733486413469601
 sS'improvement'
-p64
-I1
+p61
+F0.0076312684555088295
 sS'analytic'
-p65
-I1
-sS'business problem'
-p66
-I1
-sS'data collection'
-p67
-I1
+p62
+F0.025655976957950487
 sS'design'
-p68
-I1
+p63
+F0.008297834147832259
 sS'data mining'
-p69
-I1
+p64
+F0.0060283503655742549
 sS'report'
-p70
-I1
+p65
+F0.011791343296434257
 sS'implement'
-p71
-I1
+p66
+F0.012033313494997771
 sS'statistical model'
-p72
-I1
+p67
+F0.01020131905005368
 sS'extract'
-p73
-I1
+p68
+F0.008788944689496675
 sS'model'
-p74
-I1
+p69
+F0.013188160584388983
+sS'decision-making'
+p70
+F0.010431918880071372
 ss.

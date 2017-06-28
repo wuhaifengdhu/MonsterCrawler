@@ -4,205 +4,199 @@ p2
 (dp3
 S'logistics'
 p4
-I1
-sS'r d'
-p5
-I1
+F0.0080086839207804857
 sS'communication'
-p6
-I1
+p5
+F0.0082600140475349044
 sS'data science'
-p7
-I1
+p6
+F0.0020918972620184335
 sS'testing'
-p8
-I1
+p7
+F0.0035606574172174139
 sS'hadoop'
-p9
-I1
+p8
+F0.0022344460893905477
 sS'analytics'
-p10
-I1
+p9
+F0.0015125868904061334
 sS'problem solving'
-p11
-I1
+p10
+F0.0042688901999186979
 sS'mysql'
+p11
+F0.0041289703072821251
+sS'sas'
 p12
-I1
+F0.0048182151536605797
 sS'neo4j'
 p13
-I1
+F0.0081438286799651611
 sS'hbase'
 p14
-I1
+F0.0058230575475479501
 sS'genomics'
 p15
-I1
-sS'genetics'
+F0.0073867625518871903
+sS'statistics'
 p16
-I1
-sS'integration'
+F0.0016217614866132254
+sS'genetics'
 p17
-I1
-sS'oracle sql'
+F0.027020557253001027
+sS'integration'
 p18
-I1
-sS'information technology'
-p19
-I1
-sS'data management'
-p20
-I1
-sS'data analysis'
-p21
-I1
-sS'product development'
-p22
-I1
-sS'visualization'
-p23
-I1
-sS'python'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'spotfire'
-p26
-I1
-sS'training'
-p27
-I1
-sS'experimental design'
-p28
-I1
-sS'leadership'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'java'
-p31
-I1
-sS'data'
-p32
-I1
-sS'project management'
-p33
-I1
-sS'search'
-p34
-I1
-sS'database management'
-p35
-I1
-sS'programming'
-p36
-I1
-sS'analysis'
-p37
-I1
+F0.0040108576038167176
 sS'r'
-I1
-sS'organization'
+F0.0048260200575125324
+sS'oracle sql'
+p19
+F0.0061364320904918517
+sS'information technology'
+p20
+F0.005420259255237818
+sS'data management'
+p21
+F0.004782466268885688
+sS'cms'
+p22
+F0.0097198893425859256
+sS'data analysis'
+p23
+F0.0025804556782011569
+sS'product development'
+p24
+F0.0045451762587508
+sS'visualization'
+p25
+F0.0032596439511895121
+sS'python'
+p26
+F0.00090652437000567998
+sS'spotfire'
+p27
+F0.0074682071525225477
+sS'data scientist'
+p28
+F0.0018423855046328318
+sS'training'
+p29
+F0.0040926865235170942
+sS'experimental design'
+p30
+F0.0060238484678959928
+sS'management'
+p31
+F0.0015757371603472212
+sS'sql'
+p32
+F0.0023719786394192943
+sS'java'
+p33
+F0.0021552469002926668
+sS'data'
+p34
+F0.00226889802890296
+sS'project management'
+p35
+F0.0033068753449122541
+sS'search'
+p36
+F0.010789529661390497
+sS'database management'
+p37
+F0.0084295706785252125
+sS'science'
 p38
-I1
-sS'shiny'
+F0.0012226676316418998
+sS'programming'
 p39
-I1
-sS'oracle database'
+F0.0057512099208776139
+sS'analysis'
 p40
-I1
-ssS'working-year'
+F0.00059585864652892165
+sS'leadership'
 p41
-(dp42
-V(0, 2]
+F0.0028737541238327341
+sS'organization'
+p42
+F0.0061328133540232395
+sS'shiny'
 p43
-I1
-sV(2, 5]
+F0.0081438286799651611
+sS'oracle database'
 p44
-I1
-ssS'major'
+F0.0097639201504280473
+ssS'working-year'
 p45
 (dp46
-S'information'
+V(0, 2]
 p47
-I1
-sS'genetics'
+F0.0039610089810263541
+sV(2, 5]
 p48
-I1
-sS'communication'
+F0.0021546859624889314
+ssS'major'
 p49
-I1
-sS'data science'
-p50
-I1
-sS'phd'
+(dp50
+VBiological Engineering
 p51
-I1
-sS'analytics'
+F0.0045742535312638093
+sVData Science
 p52
-I1
-sS'design'
+F0.0017865895349653265
+sVInformation Science
 p53
-I1
-sS'information technology'
+F0.0044046177192245111
+sVStatistics
 p54
-I1
-sS'statistic'
+F0.0031330517737184005
+sVManagement Science and Engineering
 p55
-I1
-sS'project management'
-p56
-I1
-sS'history'
-p57
-I1
+F0.0022426861538589432
 ssS'education'
-p58
-(dp59
+p56
+(dp57
 VMaster
-p60
-I1
+p58
+F0.0012648359743029163
 sVDoctor
-p61
-I1
+p59
+F0.0018942291683069011
 ssS'responsibility'
-p62
-(dp63
+p60
+(dp61
 S'development'
-p64
-I1
+p62
+F0.0021060191346332501
 sS'information'
-p65
-I1
+p63
+F0.0024123568687467734
 sS'product'
-p66
-I1
+p64
+F0.0046782361416269451
 sS'data analysis'
-p67
-I1
+p65
+F0.0025804556782011569
 sS'analysis'
-p68
-I1
+p66
+F0.00059585864652892165
 sS'improvement'
-p69
-I1
+p67
+F0.0046716634718941006
 sS'design'
-p70
-I1
+p68
+F0.002539858800032135
 sS'report'
-p71
-I1
+p69
+F0.0036091763829085724
 sS'understand'
-p72
-I1
+p70
+F0.0036550953277291747
 sS'implement'
-p73
-I1
+p71
+F0.0036832403045558393
 sS'prototype'
-p74
-I1
+p72
+F0.0054837763713907611
 ss.

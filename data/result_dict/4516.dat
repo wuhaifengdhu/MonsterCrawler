@@ -6,7 +6,7 @@ S'research design'
 p4
 aS'classification'
 p5
-aS'analysis'
+aS'hive'
 p6
 aS'personalization'
 p7
@@ -34,14 +34,16 @@ aS'python'
 p18
 aS'processing'
 p19
-aS'hive'
-p20
 aS'statistical modeling'
-p21
+p20
 aS'sql'
+p21
+aS'modeling'
 p22
 aS'data'
 p23
+aS'a'
+aS'c'
 aS'fraud'
 p24
 aS'collaborative filtering'
@@ -50,7 +52,7 @@ aS'science'
 p26
 aS'scikit-learn'
 p27
-aS'c++'
+aS'analysis'
 p28
 aS'machine learning'
 p29
@@ -60,41 +62,31 @@ p30
 asS'working-year'
 p31
 (lp32
-V[0]
+S'[0]'
 p33
 asS'major'
 p34
 (lp35
-S'big data'
+VComputer Science
 p36
-aS'science'
-p37
-aS'machine learning'
-p38
-aS'design'
-p39
-aS'computer science'
-p40
-aS'natural language processing'
-p41
 asS'education'
-p42
-(lp43
-S'Bachelor'
-p44
+p37
+(lp38
+VBachelor
+p39
 asS'responsibility'
-p45
-(lp46
+p40
+(lp41
 S'data analysis'
-p47
+p42
 aS'processing'
-p48
+p43
 aS'analysis'
-p49
-aS'statistical model'
-p50
+p44
 aS'design'
-p51
+p45
+aS'modeling'
+p46
 aS'implement'
-p52
+p47
 as.

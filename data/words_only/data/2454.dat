@@ -4,213 +4,215 @@ p2
 (dp3
 S'customer insight'
 p4
-I1
+F0.012292388057356564
 sS'd3'
 p5
-I1
-sS'business intelligence'
+F0.0087541834556095488
+sS'dashboards'
 p6
-I1
-sS'data warehousing'
+F0.014377770968656545
+sS'analytics'
 p7
-I1
-sS'pricing'
+F0.0050419563013537781
+sS'business intelligence'
 p8
-I1
-sS'problem solving'
+F0.0059218646631142638
+sS'data warehousing'
 p9
-I1
-sS'data mining'
+F0.0088159138019834587
+sS'pricing'
 p10
-I1
-sS'insurance'
+F0.010958454114606929
+sS'problem solving'
 p11
-I1
-sS'java'
-p12
-I1
-sS'predictive modeling'
-p13
-I1
-sS'tableau'
-p14
-I1
-sS'strategy'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'mathematics'
-p17
-I1
-sS'risk analytics'
-p18
-I1
-sS'distributed computing'
-p19
-I1
-sS'javascript'
-p20
-I1
-sS'business analytics'
-p21
-I1
-sS'business process'
-p22
-I1
-sS'leadership'
-p23
-I1
-sS'pentaho'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'data'
-p27
-I1
-sS'software development'
-p28
-I1
-sS'c'
-I1
-sS'data visualization'
-p29
-I1
-sS'programming'
-p30
-I1
-sS'r'
-I1
-sS'architecture'
-p31
-I1
-sS'microsoft office'
-p32
-I1
-sS'etl'
-p33
-I1
-sS'predictive analytics'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(0, 2]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'information systems'
-p41
-I1
-sS'computing'
-p42
-I1
+F0.0071148169998644963
 sS'data mining'
-p43
-I1
-sS'business analytics'
-p44
-I1
-sS'mathematics statistics'
-p45
-I1
-sS'information system'
-p46
-I1
-sS'design'
-p47
-I1
+p12
+F0.0061506647208177901
+sS'sas'
+p13
+F0.0040151792947171498
+sS'insurance'
+p14
+F0.0091396272856512691
+sS'statistics'
+p15
+F0.0027029358110220426
+sS'java'
+p16
+F0.0035920781671544451
+sS'predictive modeling'
+p17
+F0.006026104083156434
+sS'tableau'
+p18
+F0.0058232640206486719
+sS'strategy'
+p19
+F0.0045652505252951735
+sS'html'
+p20
+F0.0074205353427498387
 sS'computer science'
-p48
-I1
-sS'business analytics predictive analytics'
-p49
-I1
-sS'statistic'
-p50
-I1
+p21
+F0.0040753138063397698
 sS'mathematics'
-p51
-I1
-sS'ee computer science'
-p52
-I1
+p22
+F0.0052982413973211764
+sS'software development'
+p23
+F0.0061454974436906448
+sS'distributed computing'
+p24
+F0.010369265108577717
+sS'python'
+p25
+F0.0015108739500094665
+sS'javascript'
+p26
+F0.0064273756928172289
+sS'business analytics'
+p27
+F0.0088045918656785901
+sS'business process'
+p28
+F0.0088558925493326269
+sS'leadership'
+p29
+F0.0047895902063878901
+sS'pentaho'
+p30
+F0.015073275820926985
+sS'sql'
+p31
+F0.001976648866182745
+sS'modeling'
+p32
+F0.0023540454754247897
+sS'data'
+p33
+F0.001031317285864982
+sS'a'
+F0.005420411285837758
+sS'c'
+F0.0036249910837626012
+sS'data visualization'
+p34
+F0.0057006771755930457
+sS'science'
+p35
+F0.0020377793860698332
+sS'programming'
+p36
+F0.0031951166227097852
+sS'spss'
+p37
+F0.0063952140024856963
+sS'r'
+F0.0016086733525041772
+sS'architecture'
+p38
+F0.006339172529520749
+sS'organization'
+p39
+F0.015332033385058098
+sS'microsoft office'
+p40
+F0.0055663838982400685
+sS'etl'
+p41
+F0.0082601874609135734
 sS'predictive analytics'
+p42
+F0.0066739077487791027
+ssS'working-year'
+p43
+(dp44
+V(0, 2]
+p45
+F0.0066016816350439227
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0052217529561973336
+sVBusiness
+p49
+F0.0031354039048525051
+sVData Science
+p50
+F0.0029776492249422104
+sVInformation Science
+p51
+F0.0073410295320408513
+sVComputer Science
+p52
+F0.0026242195546440513
+sVMathematics
 p53
-I1
+F0.0049689058828476865
 ssS'education'
 p54
 (dp55
 VBachelor
 p56
-I1
+F0.0026416777613620488
 sVMaster
 p57
-I1
+F0.0021080599571715272
 ssS'responsibility'
 p58
 (dp59
-S'information'
+S'development'
 p60
-I1
-sS'product'
+F0.0035100318910554163
+sS'information'
 p61
-I1
-sVinsight
+F0.0040205947812446217
+sS'product'
 p62
-I1
+F0.0077970602360449082
 sS'build model'
 p63
-I1
+F0.015329950980251143
 sS'large data set'
 p64
-I1
+F0.0091143685082112069
 sS'understand'
 p65
-I1
+F0.0060918255462152912
 sS'pattern'
 p66
-I1
-sS'business problem'
+F0.0075901190596352058
+sS'insight'
 p67
-I1
+F0.010637062933388319
 sS'communicate'
 p68
-I1
+F0.0058151967602364987
 sS'recommendation'
 p69
-I1
+F0.0075715992603428151
 sS'analytic'
 p70
-I1
+F0.013088266506084885
 sS'design'
 p71
-I1
+F0.0042330980000535581
 sS'data mining'
 p72
-I1
+F0.0061506647208177901
 sS'modeling'
 p73
-I1
+F0.0023540454754247897
 sS'implement'
 p74
-I1
+F0.0061387338409263983
 sS'extract'
 p75
-I1
+F0.017934542206972926
 sS'model'
 p76
-I1
+F0.0044852488171062055
 ss.

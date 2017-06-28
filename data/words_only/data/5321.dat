@@ -4,188 +4,182 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.010799685278485394
 sS'communication'
 p5
-I1
+F0.0049785199972039512
 sS'data science'
 p6
-I1
+F0.0037825186341528278
 sS'software design'
 p7
-I1
-sS'engineering'
+F0.012642561830761727
+sS'analytics'
 p8
-I1
-sS'mysql'
+F0.0027350234653570021
+sS'engineering'
 p9
-I1
-sS'access'
+F0.0038517445819926249
+sS'mysql'
 p10
-I1
-sS'technical leadership'
+F0.0074659054298340313
+sS'access'
 p11
-I1
-sS'big data'
+F0.0072939057392970279
+sS'technical leadership'
 p12
-I1
-sS'power bi'
+F0.014146854457522956
+sS'big data'
 p13
-I1
+F0.0040022802715807158
 sS'integration'
 p14
-I1
+F0.0072523368622472092
 sS'github'
 p15
-I1
+F0.011725660456255746
 sS'big data analytics'
 p16
-I1
+F0.010422229889146166
 sS'python'
 p17
-I1
+F0.0016391557004819686
 sS'html'
 p18
-I1
+F0.0080505807963795421
 sS'teamwork'
 p19
-I1
+F0.0090075790827106889
 sS'matlab'
 p20
-I1
-sS'computer science'
+F0.0040138402126983167
+sS'css'
 p21
-I1
-sS'data analysis'
-p22
-I1
-sS'database design'
-p23
-I1
-sS'windows server'
-p24
-I1
-sS'javascript'
-p25
-I1
-sS'agile project management'
-p26
-I1
-sS'leadership'
-p27
-I1
-sS'scripting'
-p28
-I1
-sS'splunk'
-p29
-I1
-sS'project management'
-p30
-I1
-sS'software development'
-p31
-I1
-sS'data collection'
-p32
-I1
-sS'pattern recognition'
-p33
-I1
-sS'database management'
-p34
-I1
-sS'hive'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'3d visualization'
-p37
-I1
-sS'data analytics'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(5, 10]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'information'
-p44
-I1
-sS'big data'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'machine learning'
-p48
-I1
-sS'big data analytics'
-p49
-I1
-sS'engineering'
-p50
-I1
-sS'design'
-p51
-I1
-sS'project management'
-p52
-I1
-sS'law'
-p53
-I1
-sS'data analytics'
-p54
-I1
+F0.0096644672760470753
 sS'computer science'
-p55
-I1
+p22
+F0.0044213310163120148
+sS'data analysis'
+p23
+F0.0046659182860555514
+sS'database design'
+p24
+F0.011689165910026701
+sS'windows server'
+p25
+F0.017820432808274785
+sS'javascript'
+p26
+F0.006973096270509258
+sS'agile project management'
+p27
+F0.015095860057911201
+sS'ajax'
+p28
+F0.015060327159234187
+sS'leadership'
+p29
+F0.0051962535257981824
+sS'scripting'
+p30
+F0.0076512087341090041
+sS'splunk'
+p31
+F0.014922079519225908
+sS'project management'
+p32
+F0.0059794129664293904
+sS'software development'
+p33
+F0.0066672849624945683
+sS'data collection'
+p34
+F0.022800940546926059
+sS'pattern recognition'
+p35
+F0.010041992795225444
+sS'database management'
+p36
+F0.015242148239471688
+sS'windows'
+p37
+F0.010596740714728646
+sS'science'
+p38
+F0.0022107983905474606
+sS'hive'
+p39
+F0.0065589756273270652
+sS'machine learning'
+p40
+F0.0020613764837548406
+sS'3d visualization'
+p41
+F0.020456681951122491
+sS'data analytics'
+p42
+F0.0064223983694521921
+ssS'working-year'
+p43
+(dp44
+V(5, 10]
+p45
+F0.003791334155902072
+ssS'major'
+p46
+(dp47
+VData Science
+p48
+F0.003230468498758059
+sVManagement Science and Engineering
+p49
+F0.0040551715046191587
+sVEngineering
+p50
+F0.0038517445819926249
+sVComputer Science
+p51
+F0.0028470306489062824
 ssS'education'
+p52
+(dp53
+VBachelor
+p54
+F0.0028659711561946754
+sVMaster
+p55
+F0.0022870461799502418
+ssS'responsibility'
 p56
 (dp57
-S'Bachelor'
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
 S'development'
-p61
-I1
+p58
+F0.0076161069334221305
 sS'information'
-p62
-I1
+p59
+F0.017447864145023834
 sS'product'
-p63
-I1
-sS'decision-making'
-p64
-I1
-sS'pattern'
-p65
-I1
-sVinsight
-p66
-I1
+p60
+F0.0042295373921941723
 sS'data collection'
-p67
-I1
-sS'design'
-p68
-I1
+p61
+F0.022800940546926059
+sS'pattern'
+p62
+F0.016469126261472618
+sS'insight'
+p63
+F0.028850524465557942
+sS'drive ... decision'
+p64
+F0.012692084084053817
 sS'data analysis'
-p69
-I1
+p65
+F0.0046659182860555514
+sS'design'
+p66
+F0.0091850239623803634
+sS'decision-making'
+p67
+F0.011547281276053846
 ss.

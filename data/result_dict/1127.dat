@@ -2,88 +2,86 @@
 S'skills'
 p2
 (lp3
-S'information assurance'
+S'communication'
 p4
-aS'training'
+aS'engineering'
 p5
-aS'management'
-p6
-aS'communication'
-p7
-aS'information security'
-p8
-aS'technical writing'
-p9
-aS'integration'
-p10
-aS'governance'
-p11
-aS'asset management'
-p12
-aS'access'
-p13
-aS'risk management'
-p14
-aS'engineering'
-p15
 aS'defense'
-p16
+p6
 aS'process improvement'
-p17
-aS'architecture'
-p18
-aS'science'
-p19
-aS'policy'
-p20
-aS'security'
-p21
-aS'application architecture'
-p22
-aS'project management'
-p23
+p7
 aS'troubleshooting'
-p24
-asS'working-year'
-p25
-(lp26
-V(0, 2]
-p27
-aV(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'engineering science'
-p31
-aS'information'
-p32
+p8
+aS'writing'
+p9
 aS'management'
-p33
-aS'science'
-p34
-aS'engineering'
-p35
-aS'communication'
-p36
+p10
+aS'asset management'
+p11
+aS'integration'
+p12
+aS'governance'
+p13
+aS'application architecture'
+p14
+aS'access'
+p15
+aS'risk management'
+p16
+aS'policy'
+p17
+aS'automation'
+p18
+aS'information security'
+p19
+aS'technical writing'
+p20
 aS'project management'
-p37
+p21
+aS'training'
+p22
+aS'science'
+p23
+aS'documentation'
+p24
+aS'information assurance'
+p25
+aS'architecture'
+p26
+aS'security'
+p27
+asS'working-year'
+p28
+(lp29
+V(0, 2]
+p30
+aV(2, 5]
+p31
+asS'major'
+p32
+(lp33
+VEngineering
+p34
+aVElectrical and Electronics Engineering
+p35
+aVManagement Science and Engineering
+p36
 asS'education'
-p38
-(lp39
+p37
+(lp38
 VBachelor
-p40
+p39
 asS'responsibility'
-p41
-(lp42
+p40
+(lp41
 S'information'
+p42
+aS'product'
 p43
-aS'implement'
+aS'documentation'
 p44
 aS'evaluation'
 p45
-aS'product'
-p46
 aS'improvement'
-p47
+p46
 as.

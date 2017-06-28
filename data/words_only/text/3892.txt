@@ -1,5 +1,5 @@
-skills: {'java': 1, 'feature extraction': 1, 'data scientist': 1, 'hadoop': 1, 'c++': 1, 'hardware': 1, 'analytics': 1, 'engineering': 1, 'r': 1, 'analysis': 1, 'leadership': 1, 'modeling': 1, 'spark': 1, 'data': 1, 'hbase': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'design': 1, 'engineering': 1, 'electrical': 1, 'analytics': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'product': 1, 'provide leadership': 1, 'collect data': 1, 'design': 1, 'analysis': 1, 'modeling': 1, 'model': 1, 'prototype': 1}
+skills: {'a': 0.007824443069514755, 'c': 0.0026163638575274002, 'java': 0.005185217437942608, 'python': 0.0010904843363039036, 'data': 0.00570676615295581, '.net': 0.007883779997122234, 'data scientist': 0.002216258713731963, 'hadoop': 0.005375759420081861, 'analysis': 0.005734204548186275, 'hardware': 0.01553688734960027, 'analytics': 0.0036390688785921613, 'engineering': 0.005124915385245416, 'r': 0.0011610717711588727, 'leadership': 0.003456921801681636, 'modeling': 0.0033980991172449892, 'organization': 0.003688669119836153, 'spark': 0.007054960767011123, 'physics': 0.00509013468085076, 'hbase': 0.014009448074644649}
+working-year: {u'(5, 10]': 0.0025222683296587003, u'(2, 5]': 0.0025919339506927518}
+major: {u'Data Science': 0.0021491401309729342, u'Physics': 0.005488979291213578, u'Engineering': 0.004712089804951312}
+education: {'Bachelor': 0.001906650267091855}
+responsibility: {'development': 0.010133564873758313, 'product': 0.005627585316810655, 'predict': 0.00872778668727052, 'provide leadership': 0.010879247192928472, 'analysis': 0.005734204548186275, 'design': 0.0061105389540522075, 'collect data': 0.011103609053815579, 'modeling': 0.0033980991172449892, 'model': 0.00647452235105289, 'prototype': 0.01319318583075183}

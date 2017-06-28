@@ -4,118 +4,124 @@ p2
 (lp3
 S'communication'
 p4
-aS'scientific computing'
+aS'testing'
 p5
-aS'analytics'
+aS'tableau'
 p6
-aS'engineering'
-p7
-aS'analysis'
-p8
-aS'd3'
-p9
-aS'visualization'
-p10
-aS'java'
-p11
-aS'hadoop'
-p12
-aS'research'
-p13
-aS'computer science'
-p14
-aS'data analysis'
-p15
-aS'python'
-p16
-aS'processing'
-p17
-aS'data scientist'
-p18
-aS'awk'
-p19
-aS'data'
-p20
-aS'software development'
-p21
-aS'data visualization'
-p22
-aS'science'
-p23
-aS'programming'
-p24
-aS'hive'
-p25
-aS'system architecture'
-p26
-aS'command'
-p27
-aS'architecture'
-p28
-aS'scripting'
-p29
-asS'working-year'
-p30
-(lp31
-V(0, 2]
-p32
-aV(2, 5]
-p33
-asS'major'
-p34
-(lp35
-S'business'
-p36
-aS'computing'
-p37
-aS'science'
-p38
-aS'communication'
-p39
-aS'scientific computing'
-p40
-aS'computer science statistics'
-p41
 aS'analytics'
-p42
-aS'engineering'
-p43
-aS'design'
-p44
+p7
+aS'unix'
+p8
+aS'hive'
+p9
+aS'linux'
+p10
+aS'd3'
+p11
+aS'visualization'
+p12
+aS'statistics'
+p13
+aS'java'
+p14
+aS'scala'
+p15
+aS'hadoop'
+p16
+aS'research'
+p17
 aS'computer science'
-p45
-aS'statistic'
-p46
-asS'education'
-p47
-(lp48
-VBachelor
-p49
-aVMaster
-p50
-asS'responsibility'
-p51
-(lp52
-S'development'
-p53
-aS'large data set'
-p54
-aS'product'
-p55
+p18
+aS'command'
+p19
 aS'data analysis'
-p56
+p20
+aS'scientific computing'
+p21
+aS'python'
+p22
 aS'processing'
-p57
-aS'communicate'
-p58
+p23
+aS'data scientist'
+p24
+aS'awk'
+p25
+aS'sql'
+p26
+aS'data'
+p27
+aS'software development'
+p28
+aS'data visualization'
+p29
+aS'mysql'
+p30
+aS'science'
+p31
+aS'programming'
+p32
+aS'engineering'
+p33
 aS'analysis'
+p34
+aS'system architecture'
+p35
+aS'algorithms'
+p36
+aS'architecture'
+p37
+aS'scripting'
+p38
+asS'working-year'
+p39
+(lp40
+V(0, 2]
+p41
+aV(2, 5]
+p42
+asS'major'
+p43
+(lp44
+VEngineering
+p45
+aVData Science
+p46
+aVStatistics
+p47
+aVComputer Science
+p48
+aVBusiness
+p49
+asS'education'
+p50
+(lp51
+VBachelor
+p52
+aVMaster
+p53
+asS'responsibility'
+p54
+(lp55
+S'development'
+p56
+aS'large data set'
+p57
+aS'product'
+p58
+aS'data analysis'
 p59
-aS'design'
+aS'processing'
 p60
-aS'recommendation'
+aS'communicate'
 p61
-aS'model'
+aS'analysis'
 p62
-aS'presentation'
+aS'design'
 p63
+aS'recommendation'
+p64
+aS'model'
+p65
+aS'presentation'
+p66
 as.

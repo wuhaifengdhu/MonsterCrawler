@@ -2,240 +2,228 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'root'
 p4
-I1
-sS'data wrangling'
-p5
-I1
-sS'operations management'
-p6
-I1
-sS'problem solving'
-p7
-I1
-sS'user experience design'
-p8
-I1
-sS'education'
-p9
-I1
-sS'amazon web services'
-p10
-I1
-sS'management'
-p11
-I1
-sS'genetics'
-p12
-I1
-sS'user experience'
-p13
-I1
-sS'excel'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'web services'
-p16
-I1
-sS'policy'
-p17
-I1
-sS'mathematics'
-p18
-I1
-sS'military'
-p19
-I1
-sS'root cause analysis'
-p20
-I1
-sS'dashboard'
-p21
-I1
-sS'customer satisfaction'
-p22
-I1
-sS'python'
-p23
-I1
-sS'healthcare'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'mentoring'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'open source'
-p28
-I1
-sS'manufacturing'
-p29
-I1
-sS'data'
-p30
-I1
-sS'software development'
-p31
-I1
-sS'customer support'
-p32
-I1
-sS'word'
-p33
-I1
-sS'data visualization'
-p34
-I1
-sS'root'
-p35
-I1
-sS'documentation'
-p36
-I1
-sS'analysis'
-p37
-I1
-sS'r'
-I1
-sS'command'
-p38
-I1
-sS'operations research'
-p39
-I1
-sS'english'
-p40
-I1
-sS'organization'
-p41
-I1
-sS'retail'
-p42
-I1
-sS'microsoft office'
-p43
-I1
-sS'powerpoint'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-V[0]
-p47
-I1
-ssS'major'
-p48
-(dp49
-S'computer science operations research'
-p50
-I1
-sS'management'
-p51
-I1
-sS'genetics'
-p52
-I1
-sS'business'
-p53
-I1
-sS'mathematics statistics'
-p54
-I1
+F0.0072260882499025165
 sS'communication'
-p55
-I1
-sS'english'
-p56
-I1
-sS'operations management'
-p57
-I1
-sS'statistics computer science'
-p58
-I1
-sS'design'
-p59
-I1
-sVphysic
-p60
-I1
-sS'statistic'
-p61
-I1
-sS'mathematics'
-p62
-I1
-sS'law'
-p63
-I1
-sS'ee computer science'
-p64
-I1
-sS'operations research'
-p65
-I1
-sS'computer science'
-p66
-I1
-ssS'education'
-p67
-(dp68
-S'Bachelor'
-p69
-I1
-ssS'responsibility'
-p70
-(dp71
-S'development'
-p72
-I1
-sS'product'
-p73
-I1
-sS'documentation'
-p74
-I1
-sS'identify trend'
-p75
-I1
-sVinsight
-p76
-I1
-sS'communicate'
-p77
-I1
-sS'analysis'
-p78
-I1
-sS'improvement'
-p79
-I1
-sS'recommendation'
-p80
-I1
+p5
+F0.0087629300319789095
 sS'data wrangling'
-p81
-I1
-sS'report'
-p82
-I1
+p6
+F0.018454438001042222
+sS'operations management'
+p7
+F0.009253023702550536
+sS'problem solving'
+p8
+F0.0045288041788805371
+sS'user experience design'
+p9
+F0.010723393312731191
+sS'education'
+p10
+F0.0038720050734562159
+sS'amazon web services'
+p11
+F0.0061148876471374177
+sS'statistics'
+p12
+F0.0017205034221450268
+sS'genetics'
+p13
+F0.0071664300832451986
+sS'user experience'
+p14
+F0.0062273301939240874
+sS'excel'
+p15
+F0.0029833103815610062
+sS'research'
+p16
+F0.0015740965713316203
+sS'computer science'
+p17
+F0.0025940650612310346
+sS'web services'
+p18
+F0.0054262715279708214
+sS'policy'
+p19
+F0.0050362697934331173
+sS'mathematics'
+p20
+F0.0033724968303981656
+sS'military'
+p21
+F0.0068868239336380239
+sS'root cause analysis'
+p22
+F0.0098999884786400844
+sS'dashboard'
+p23
+F0.0064693744817703788
+sS'customer satisfaction'
+p24
+F0.0083472928765208412
+sS'python'
+p25
+F0.00096171865821635791
+sS'healthcare'
+p26
+F0.0049764581979892322
+sS'data scientist'
+p27
+F0.0019545602678300335
+sS'experimental design'
+p28
+F0.0063906141495206565
+sS'management'
+p29
+F0.0050150306302563768
+sS'mentoring'
+p30
+F0.0063470732499611706
+sS'sql'
+p31
+F0.0012581990015369871
+sS'open source'
+p32
+F0.0059002209223581077
+sS'manufacturing'
+p33
+F0.0068868239336380239
+sS'data'
+p34
+F0.00087528773339094399
+sS'science'
+p35
+F0.0012971104948230486
+sS'software development'
+p36
+F0.0039118018783639713
+sS'customer support'
+p37
+F0.0093600105729400133
+sS'word'
+p38
+F0.0051451451304393298
+sS'data visualization'
+p39
+F0.0036286598257926216
+sS'physics'
+p40
+F0.0044890855672447662
+sS'documentation'
+p41
+F0.0053495220644723812
+sS'analysis'
+p42
+F0.0012642757260299998
+sS'r'
+F0.0010239710454131756
+sS'command'
+p43
+F0.0070844174857611891
+sS'operations research'
+p44
+F0.0053153847150404238
+sS'english'
+p45
+F0.0062323779547112683
+sS'organization'
+p46
+F0.0097593201436255404
+sS'retail'
+p47
+F0.0063578625173736567
+sS'microsoft office'
+p48
+F0.0035431779426066856
+sS'powerpoint'
+p49
+F0.0045148051788454838
+ssS'working-year'
+p50
+(dp51
+S'[0]'
+p52
+F0.0040520566984213703
+ssS'major'
+p53
+(dp54
+VStatistics
+p55
+F0.0033238095385388932
+sVBusiness
+p56
+F0.0019957829283655244
+sVComputer Science
+p57
+F0.0016703980560003647
+sVBiological Engineering
+p58
+F0.0048527597425769191
+sVMathematics
+p59
+F0.0031628644457240809
+sVPhysics
+p60
+F0.0048408341350555176
+sVOperations Research
+p61
+F0.0059386142032973321
+sVManagement Science and Engineering
+p62
+F0.0023792334658097646
+ssS'education'
+p63
+(dp64
+S'Bachelor'
+p65
+F0.0016815107521584995
+ssS'responsibility'
+p66
+(dp67
+S'development'
+p68
+F0.002234245391907968
+sS'product'
+p69
+F0.0024815366987412297
+sS'insight'
+p70
+F0.0033854120959584595
+sS'documentation'
+p71
+F0.0053495220644723812
+sS'communicate'
+p72
+F0.003701555133360871
+sS'recommendation'
+p73
+F0.0096391208295877173
+sS'analysis'
+p74
+F0.0012642757260299998
+sS'improvement'
+p75
+F0.0049561005467511215
 sS'design'
-p83
-I1
+p76
+F0.002694499649480586
+sS'data wrangling'
+p77
+F0.018454438001042222
+sS'report'
+p78
+F0.011486769853352927
+sS'identify ... trend'
+p79
+F0.0079229134920672777
 sS'implement'
-p84
-I1
+p80
+F0.0039074966330620063
 sS'presentation'
-p85
-I1
+p81
+F0.0045449342109033335
 ss.

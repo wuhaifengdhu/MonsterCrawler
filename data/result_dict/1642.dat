@@ -2,90 +2,88 @@
 S'skills'
 p2
 (lp3
-S'dna'
+S'a'
+aS'statistics'
 p4
-aS'mechanical engineering'
+aS'dna'
 p5
-aS'biostatistics'
+aS'mechanical engineering'
 p6
-aS'scala'
+aS'biostatistics'
 p7
-aS'communication'
+aS'scala'
 p8
-aS'data science'
+aS'python'
 p9
-aS'data scientist'
+aS'communication'
 p10
-aS'quantitative models'
+aS'data science'
 p11
-aS'research'
+aS'data scientist'
 p12
-aS'engineering'
+aS'physics'
 p13
-aS'statistical software'
+aS'research'
 p14
-aS'computer science'
+aS'engineering'
 p15
-aS'science'
+aS'r'
+aS'statistical software'
 p16
-aS'organization'
+aS'computer science'
 p17
-aS'data'
+aS'science'
 p18
-asS'working-year'
+aS'organization'
 p19
-(lp20
-V(2, 5]
+aS'data'
+p20
+aS'quantitative models'
 p21
-asS'major'
+asS'working-year'
 p22
 (lp23
-S'information'
+V(2, 5]
 p24
-aS'mechanical engineering'
+asS'major'
 p25
-aS'biostatistics'
-p26
-aS'science'
+(lp26
+VStatistics
 p27
-aS'data science'
+aVData Science
 p28
-aS'mechanical'
+aVEngineering
 p29
-aS'statistic'
+aVComputer Science
 p30
-aS'phd'
+aVBiological Engineering
 p31
-aS'statistics computer science'
+aVMathematics
 p32
-aS'engineering'
+aVPhysics
 p33
-aS'computer science'
-p34
-aS'applied math'
-p35
-aS'communication'
-p36
-aVphysic
-p37
 asS'education'
-p38
-(lp39
-VMaster
-p40
+p34
+(lp35
+VBachelor
+p36
+aVMaster
+p37
 aVDoctor
-p41
+p38
 asS'responsibility'
-p42
-(lp43
+p39
+(lp40
 S'development'
-p44
+p41
 aS'information'
-p45
+p42
 aS'product'
-p46
+p43
 aS'communicate'
-p47
+p44
+aS'develop ... model'
+p45
 aS'model'
-p48
+p46
 as.

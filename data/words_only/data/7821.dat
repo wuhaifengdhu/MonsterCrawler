@@ -2,124 +2,129 @@
 S'skills'
 p2
 (dp3
-S'data collection'
+S'intelligence'
 p4
-I1
-sS'national security'
+F0.016186171235946175
+sS'data science'
 p5
-I1
-sS'data visualization'
-p6
-I1
-sS'government'
-p7
-I1
-sS'data scientist'
-p8
-I1
-sS'data science'
-p9
-I1
-sS'documentation'
-p10
-I1
-sS'programming'
-p11
-I1
-sS'security clearance'
-p12
-I1
-sS'writing'
-p13
-I1
+F0.0041334739713422648
 sS'defense'
-p14
-I1
-sS'innovation'
-p15
-I1
-sS'intelligence'
-p16
-I1
-sS'unstructured data'
-p17
-I1
-sS'security'
-p18
-I1
-sS'continuous improvement'
-p19
-I1
-sS'data'
-p20
-I1
+p6
+F0.012136213587382262
+sS'security clearance'
+p7
+F0.012556084100545943
+sS'ic'
+p8
+F0.014595836657509052
+sS'writing'
+p9
+F0.0077218567906614877
 sS'research'
-p21
-I1
-sS'validation'
-p22
-I1
-sS'science'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(5, 10]
-p26
-I1
-sV(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'information'
-p30
-I1
-sS'data science'
-p31
-I1
-sS'science'
-p32
-I1
-ssS'education'
-p33
-(dp34
-VBachelor
-p35
-I1
-sVMaster
-p36
-I1
-ssS'responsibility'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'product'
-p40
-I1
+p10
+F0.0029318224799372446
+sS'integration'
+p11
+F0.0079252340968887017
+sS'continuous improvement'
+p12
+F0.013779972721972995
+sS'innovation'
+p13
+F0.0066523184609440676
+sS'unstructured data'
+p14
+F0.010958104582313263
+sS'government'
+p15
+F0.0089591735932266839
+sS'data scientist'
+p16
+F0.003640452457607829
+sS'data'
+p17
+F0.001630261001710968
+sS'a'
+F0.012852521605594684
 sS'data collection'
-p41
-I1
+p18
+F0.024916491731692393
+sS'national security'
+p19
+F0.014442107312069009
+sS'data visualization'
+p20
+F0.0067585347958061884
+sS'science'
+p21
+F0.0024159240144126888
 sS'documentation'
+p22
+F0.0099637146355464976
+sS'programming'
+p23
+F0.0037880248619755184
+sS'dod'
+p24
+F0.014507151055929582
+sS'security'
+p25
+F0.007509796617593786
+sS'validation'
+p26
+F0.010865849845618889
+ssS'working-year'
+p27
+(dp28
+V(5, 10]
+p29
+F0.0041431074280991707
+sV(2, 5]
+p30
+F0.0042575409911722872
+ssS'major'
+p31
+(dp32
+VData Science
+p33
+F0.0035302026893644762
+ssS'education'
+p34
+(dp35
+VBachelor
+p36
+F0.0031318860057385112
+sVMaster
+p37
+F0.0024992463409765527
+ssS'responsibility'
+p38
+(dp39
+S'information'
+p40
+F0.0047666845344652735
+sS'product'
+p41
+F0.004621968696624559
+sS'data collection'
 p42
-I1
-sS'improvement'
+F0.024916491731692393
+sS'documentation'
 p43
-I1
-sS'report'
+F0.0099637146355464976
+sS'improvement'
 p44
-I1
-sS'model'
+F0.0092309501592409207
+sS'report'
 p45
-I1
-sS'presentation'
+F0.0071315340899396184
+sS'model'
 p46
-I1
-sS'transformation'
+F0.010635126061179662
+sS'presentation'
 p47
-I1
+F0.0084651351969402284
+sS'transformation'
+p48
+F0.010805694623136998
 ss.

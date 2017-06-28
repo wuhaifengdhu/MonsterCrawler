@@ -2,206 +2,185 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-I1
-sS'nosql'
-p5
-I1
+F0.0052031309206587873
 sS'redis'
-p6
-I1
+p5
+F0.009283974342012901
 sS'data science'
-p7
-I1
+p6
+F0.0022867698206475271
 sS'communication'
-p8
-I1
+p7
+F0.0030098276789179779
 sS'data acquisition'
-p9
-I1
+p8
+F0.0087547400274691611
 sS'database administration'
+p9
+F0.0093075911224764843
+sS'analytics'
 p10
-I1
+F0.0016534932737329404
 sS'business intelligence'
 p11
-I1
+F0.0038841127543239942
 sS'data warehousing'
 p12
-I1
+F0.0057823008777267938
 sS'go'
 p13
-I1
+F0.0062336752757179235
 sS'transportation'
 p14
-I1
+F0.0084289674371482264
 sS'open source'
 p15
-I1
+F0.0060796953230382025
 sS'big data'
 p16
-I1
+F0.0024196295177997484
 sS'agile'
 p17
-I1
+F0.0041515016591245424
 sS'recruiting'
 p18
-I1
+F0.0065568407806414278
 sS'hadoop'
 p19
-I1
+F0.002442597911406017
 sS'governance'
 p20
-I1
-sS'intelligence'
+F0.0068526920549349781
+sS'strategy'
 p21
-I1
-sS'data modeling'
+F0.0029943183103171766
+sS'intelligence'
 p22
-I1
-sS'it strategy'
+F0.002984902300164979
+sS'css'
 p23
-I1
-sS'government'
+F0.0058427767942642005
+sS'data modeling'
 p24
-I1
-sS'database design'
-p25
-I1
-sS'processing'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'html5'
-p28
-I1
-sS'data processing'
-p29
-I1
-sS'modeling'
-p30
-I1
-sS'data'
-p31
-I1
-sS'node.js'
-p32
-I1
-sS'c'
-I1
-sS'cloudera'
-p33
-I1
-sS'.net'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'data integration'
-p36
-I1
-sS'r'
-I1
-sS'architecture'
-p37
-I1
-sS'healthcare'
-p38
-I1
-sS'etl'
-p39
-I1
-sS'predictive analytics'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(5, 10]
-p43
-I1
-sV(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
-sS'transportation'
-p48
-I1
+F0.0049661630129624931
 sS'it strategy'
-p49
-I1
-sS'big data'
-p50
-I1
-sS'computing'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'data science'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'business'
-p55
-I1
-sS'design'
-p56
-I1
-sS'history'
-p57
-I1
-sS'predictive analytics'
-p58
-I1
-ssS'education'
-p59
-(dp60
-S'Bachelor'
-p61
-I1
-ssS'responsibility'
-p62
-(dp63
-S'development'
-p64
-I1
-sS'large data set'
-p65
-I1
-sS'product'
-p66
-I1
-sS'formulate'
-p67
-I1
-sS'information'
-p68
-I1
-sS'pattern'
-p69
-I1
+p25
+F0.0086342667202230858
+sS'government'
+p26
+F0.0049565009802832035
+sS'database design'
+p27
+F0.007066834143324127
 sS'processing'
-p70
-I1
-sS'design'
-p71
-I1
-sS'report'
-p72
-I1
+p28
+F0.0031047302027960456
+sS'data scientist'
+p29
+F0.0020140145725549017
+sS'html5'
+p30
+F0.0077871581279177413
+sS'data processing'
+p31
+F0.0069880581705862648
 sS'modeling'
-p73
-I1
+p32
+F0.0015440032110675902
+sS'data'
+p33
+F0.0036076498212767429
+sS'node.js'
+p34
+F0.0084289674371482264
+sS'c'
+F0.0023776082203385879
+sS'cloudera'
+p35
+F0.008651016789059076
+sS'science'
+p36
+F0.0013365663273651946
+sS'machine learning'
+p37
+F0.0012462314103308732
+sS'data integration'
+p38
+F0.007358671407664605
+sS'r'
+F0.0010551184536386714
+sS'architecture'
+p39
+F0.0041578222864727347
+sS'healthcare'
+p40
+F0.0051278333523006921
+sS'etl'
+p41
+F0.0054178035627665067
+sS'predictive analytics'
+p42
+F0.0043773729530965592
+ssS'working-year'
+p43
+(dp44
+V(5, 10]
+p45
+F0.0022920993566099977
+sV(2, 5]
+p46
+F0.0023554076586143262
+ssS'major'
+p47
+(dp48
+VData Science
+p49
+F0.0019530208794773054
+sVComputer Science
+p50
+F0.0017212086432551287
+sVBusiness
+p51
+F0.002056491154323411
+ssS'education'
+p52
+(dp53
+S'Bachelor'
+p54
+F0.0017326593681937391
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.0023022072289241801
+sS'information'
+p58
+F0.0026370821283828796
+sS'product'
+p59
+F0.0076710621143597718
+sS'formulate'
+p60
+F0.0085687043586763958
+sS'large data set'
+p61
+F0.0059780553903666656
+sS'pattern'
+p62
+F0.0049783100296086425
+sS'processing'
+p63
+F0.0031047302027960456
+sS'design'
+p64
+F0.013882308080023551
+sS'report'
+p65
+F0.0039453924337878874
+sS'modeling'
+p66
+F0.0015440032110675902
 ss.

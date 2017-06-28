@@ -12,13 +12,13 @@ aS'analytics'
 p7
 aS'unix'
 p8
-aS'analysis'
+aS'hive'
 p9
 aS'hbase'
 p10
 aS'data analytics'
 p11
-aS'geography'
+aS'cassandra'
 p12
 aS'visualization'
 p13
@@ -32,114 +32,103 @@ aS'big data'
 p17
 aS'hadoop'
 p18
-aS'computer science'
+aS'perl'
 p19
-aS'innovation'
-p20
-aS'cassandra'
-p21
-aS'data modeling'
-p22
-aS'mongodb'
-p23
-aS'collaboration'
-p24
-aS'data scientist'
-p25
-aS'data quality'
-p26
-aS'hive'
-p27
-aS'informatics'
-p28
-aS'modeling'
-p29
-aS'spark'
-p30
-aS'data'
-p31
-aS'training'
-p32
-aS'science'
-p33
-aS'mapreduce'
-p34
-aS'c++'
-p35
-aS'machine learning'
-p36
-aS'data architecture'
-p37
 aS'etl'
+p20
+aS'computer science'
+p21
+aS'innovation'
+p22
+aS'geography'
+p23
+aS'data modeling'
+p24
+aS'python'
+p25
+aS'mongodb'
+p26
+aS'collaboration'
+p27
+aS'data scientist'
+p28
+aS'c'
+aS'data quality'
+p29
+aS'scripting'
+p30
+aS'informatics'
+p31
+aS'modeling'
+p32
+aS'spark'
+p33
+aS'data'
+p34
+aS'training'
+p35
+aS'science'
+p36
+aS'mapreduce'
+p37
+aS'analysis'
 p38
-aS'security'
+aS'machine learning'
 p39
-aS'data integration'
+aS'data architecture'
 p40
-asS'working-year'
+aS'architecture'
 p41
-(lp42
-V(2, 5]
+aS'security'
+p42
+aS'data integration'
 p43
-asS'major'
+asS'working-year'
 p44
 (lp45
-S'information'
+V(2, 5]
 p46
-aS'management'
+asS'major'
 p47
-aS'business'
-p48
-aS'big data'
+(lp48
+VBusiness
 p49
-aS'computing'
+aVData Science
 p50
-aS'computational science'
+aVInformation Science
 p51
-aS'communication'
+aVComputer Science
 p52
-aS'machine learning'
+aVGeography
 p53
-aS'analytics'
+aVManagement Science and Engineering
 p54
-aS'design'
-p55
-aS'computer science'
-p56
-aS'science'
-p57
-aS'informatics'
-p58
-aS'data analytics'
-p59
-aS'geography'
-p60
 asS'education'
-p61
-(lp62
+p55
+(lp56
 VBachelor
-p63
+p57
 aVMaster
-p64
+p58
 asS'responsibility'
-p65
-(lp66
+p59
+(lp60
 S'development'
-p67
+p61
 aS'information'
-p68
+p62
 aS'data infrastructure'
-p69
-aVinsight
-p70
+p63
+aS'insight'
+p64
 aS'analysis'
-p71
+p65
 aS'design'
-p72
+p66
 aS'report'
-p73
+p67
 aS'modeling'
-p74
+p68
 aS'implement'
-p75
+p69
 as.

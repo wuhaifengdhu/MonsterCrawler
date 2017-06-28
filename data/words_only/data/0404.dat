@@ -4,192 +4,174 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
+F0.0092707068338419851
 sS'communication'
 p5
-I1
+F0.0075749730100997913
 sS'data science'
 p6
-I1
+F0.0028776098700014335
 sS'thought leadership'
 p7
-I1
-sS'hive'
+F0.0098126289462419202
+sS'analysis'
 p8
-I1
+F0.00081966201376586104
 sS'problem solving'
 p9
-I1
+F0.0058722771888833755
 sS'mysql'
 p10
-I1
+F0.0056798036523617746
 sS'management'
 p11
-I1
+F0.0021675810220087373
 sS'java'
 p12
-I1
+F0.0029647535111681422
 sS'big data'
 p13
-I1
+F0.0030447969530207355
 sS'hadoop'
 p14
-I1
+F0.0030736997641137914
 sS'perl'
 p15
-I1
-sS'r'
-I1
-sS'gurobi'
+F0.013713161455929991
+sS'optimization'
 p16
-I1
-sS'matlab'
+F0.0047847101851400528
+sS'gurobi'
 p17
-I1
-sS'innovation'
+F0.014223947833072279
+sS'matlab'
 p18
-I1
-sS'distributed computing'
+F0.0030535913579858008
+sS'innovation'
 p19
-I1
-sS'python'
+F0.0092623190054292991
+sS'distributed computing'
 p20
-I1
-sS'marketing'
+F0.0085583647427256281
+sS'python'
 p21
-I1
-sS'data scientist'
+F0.0024940263768098848
+sS'marketing'
 p22
-I1
-sS'c++'
+F0.0045579294796113607
+sS'data scientist'
 p23
-I1
+F0.0025343819740762637
 sS'aerospace'
 p24
-I1
+F0.011653350489908313
 sS'aviation'
 p25
-I1
+F0.014310951542870603
 sS'spark'
 p26
-I1
+F0.0040338172806594699
 sS'data'
 p27
-I1
+F0.0008512068507737291
 sS'information technology'
 p28
-I1
+F0.0074560982578032176
 sS'c'
-I1
+F0.0029919184782251133
 sS'solver'
 p29
-I1
-sS'programming'
+F0.010322920630924482
+sS'science'
 p30
-I1
-sS'analysis'
+F0.0016818992540528525
+sS'programming'
 p31
-I1
-sS'machine learning'
+F0.002637117786686306
+sS'hive'
 p32
-I1
-sS'optimization'
+F0.0049898427021292024
+sS'machine learning'
 p33
-I1
+F0.0015682242149139697
+sS'r'
+F0.0026554655818848858
 sS'internet things'
 p34
-I1
+F0.011931481984748537
 sS'statistical analysis'
 p35
-I1
+F0.0061595697450062391
 ssS'working-year'
 p36
 (dp37
 V(2, 5]
 p38
-I1
+F0.0029639818861988887
 ssS'major'
 p39
 (dp40
-S'information'
+VBusiness
 p41
-I1
-sS'management'
+F0.002587833366445249
+sVData Science
 p42
-I1
-sS'business'
+F0.0024576291449881879
+sVEconomics
 p43
-I1
-sS'big data'
+F0.0039252907835513415
+sVInformation Science
 p44
-I1
-sS'computing'
+F0.0060589837046748649
+sVComputer Science
 p45
-I1
-sS'marketing'
+F0.0021659228381631524
+sVManagement Science and Engineering
 p46
-I1
-sS'data science'
-p47
-I1
-sS'statistic'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'communication'
-p50
-I1
-sS'information technology'
-p51
-I1
-sS'history'
-p52
-I1
+F0.003085034781026058
 ssS'education'
-p53
-(dp54
-S'Bachelor'
-p55
-I1
+p47
+(dp48
+VBachelor
+p49
+F0.0021803321236122169
 ssS'responsibility'
-p56
-(dp57
-S'large data set'
-p58
-I1
+p50
+(dp51
+S'information'
+p52
+F0.0033184334916971162
 sS'product'
-p59
-I1
-sS'develop model'
-p60
-I1
-sS'information'
-p61
-I1
-sVinsight
-p62
-I1
+p53
+F0.0096530590242900477
+sS'large data set'
+p54
+F0.0075226247256767135
+sS'insight'
+p55
+F0.013169091071838409
 sS'analysis'
-p63
-I1
+p56
+F0.00081966201376586104
+sS'develop ... model'
+p57
+F0.0074160598736271238
 sS'optimization'
-p64
-I1
+p58
+F0.0047847101851400528
 sS'ownership'
-p65
-I1
-sS'identify trend'
-p66
-I1
+p59
+F0.0094265393542760471
+sS'identify ... trend'
+p60
+F0.010273251465790586
 sS'implement'
-p67
-I1
+p61
+F0.0050666583136832711
 sS'engineering design'
-p68
-I1
+p62
+F0.01398044923526255
 sS'model'
-p69
-I1
+p63
+F0.00370193981316182
 ss.

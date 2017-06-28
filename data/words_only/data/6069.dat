@@ -2,115 +2,117 @@
 S'skills'
 p2
 (dp3
-S'software development'
+S'communication'
 p4
-I1
-sS'processing'
-p5
-I1
-sS'signal processing'
-p6
-I1
-sS'anomaly detection'
-p7
-I1
-sS'python'
-p8
-I1
-sS'agile'
-p9
-I1
-sS'government'
-p10
-I1
+F0.0070677203531734657
 sS'human resources'
-p11
-I1
-sS'integration'
-p12
-I1
-sS'data'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'communication'
-p16
-I1
-sS'electrical engineering'
-p17
-I1
+p5
+F0.022144334750832623
+sS'analytics'
+p6
+F0.0038827565267121724
+sS'engineering'
+p7
+F0.0054681016833645294
 sS'image processing'
-p18
-I1
+p8
+F0.014807334889605499
+sS'anomaly detection'
+p9
+F0.01962063617492683
+sS'agile'
+p10
+F0.0097486155031228094
+sS'integration'
+p11
+F0.010295728224083091
+sS'computer science'
+p12
+F0.0062767109963715205
 sS'unstructured data'
+p13
+F0.014235751935058749
+sS'signal processing'
+p14
+F0.013989598265895981
+sS'government'
+p15
+F0.01163892640905788
+sS'python'
+p16
+F0.0069810470458026687
+sS'processing'
+p17
+F0.0072905718154942858
+sS'data scientist'
+p18
+F0.0047293377909101708
+sS'data'
 p19
-I1
-sS'data analytics'
+F0.0010589418560220795
+sS'software development'
 p20
-I1
-sS'predictive analytics'
+F0.009465163473541394
+sS'c'
+F0.0055831335888307911
+sS'science'
 p21
-I1
-ssS'working-year'
+F0.0031385441437236268
+sS'machine learning'
 p22
-(dp23
-V(5, 10]
+F0.0029264184010448181
+sS'electrical engineering'
+p23
+F0.017699219122226856
+sS'data analytics'
 p24
-I1
-sV(2, 5]
+F0.0091175119709187361
+sS'predictive analytics'
 p25
-I1
-ssS'major'
+F0.01027900970236067
+ssS'working-year'
 p26
 (dp27
-S'communication'
+V(5, 10]
 p28
-I1
-sS'phd'
+F0.0053823404534681192
+sV(2, 5]
 p29
-I1
-sS'computer science'
+F0.0055310019126389972
+ssS'major'
 p30
-I1
-sS'electrical engineering'
-p31
-I1
-sS'machine learning'
+(dp31
+VEngineering
 p32
-I1
-sS'ee computer science'
+F0.0054681016833645294
+sVElectrical and Electronics Engineering
 p33
-I1
-sS'data analytics'
+F0.014047449086495453
+sVData Science
 p34
-I1
-sS'predictive analytics'
+F0.0045861115294868861
+sVComputer Science
 p35
-I1
+F0.0040417667247865966
 ssS'education'
 p36
 (dp37
 VBachelor
 p38
-I1
+F0.0040686554806692267
 sVMaster
 p39
-I1
+F0.0032467887733222179
 sVDoctor
 p40
-I1
+F0.004862418624002089
 ssS'responsibility'
 p41
 (dp42
 S'development'
 p43
-I1
+F0.0054060759036344578
 sS'processing'
 p44
-I1
+F0.0072905718154942858
 ss.

@@ -4,215 +4,205 @@ p2
 (dp3
 S'cognos'
 p4
-I1
+F0.0099418111672361972
 sS'supply chain'
 p5
-I1
+F0.0082450116096722346
 sS'communication'
 p6
-I1
+F0.0033684454449167157
 sS'data science'
 p7
-I1
+F0.0025592360120438281
 sS'information technology'
 p8
-I1
+F0.0066311682377909473
 sS'analytics'
 p9
-I1
+F0.018505052382628225
 sS'business intelligence'
 p10
-I1
+F0.0043469006569668532
 sS'ssrs'
 p11
-I1
+F0.020238434509546582
 sS'sap'
 p12
-I1
-sS'rdbms'
+F0.017085701867144081
+sS'management'
 p13
-I1
-sS'big data'
+F0.0019277635472333026
+sS'rdbms'
 p14
-I1
-sS'sharepoint'
+F0.009518728609135451
+sS'big data'
 p15
-I1
-sS'hadoop'
+F0.0027079258007716329
+sS'sharepoint'
 p16
-I1
-sS'strategy'
+F0.0098583636369060229
+sS'hadoop'
 p17
-I1
-sS'ssis'
+F0.0027336308540416273
+sS'strategy'
 p18
-I1
-sS'computer science'
+F0.010053264454639371
+sS'ssis'
 p19
-I1
-sS'intelligence'
+F0.0099631946616595048
+sS'computer science'
 p20
-I1
-sS'advanced analytics'
+F0.0029914537514621718
+sS'intelligence'
 p21
-I1
-sS'data management'
+F0.010021650701404972
+sS'advanced analytics'
 p22
-I1
+F0.0062612990517831564
 sS'dashboarding'
 p23
-I1
+F0.013366131240518673
 sS'database design'
 p24
-I1
+F0.0079088399135925341
 sS'marketing'
 p25
-I1
-sS'leadership'
+F0.0040536479201649976
+sS'metrics'
 p26
-I1
-sS'sql'
+F0.0092875955615551262
+sS'leadership'
 p27
-I1
-sS'data'
+F0.0070315260476758387
+sS'sql'
 p28
-I1
-sS'project management'
+F0.0014509443804958449
+sS'data'
 p29
-I1
-sS'sap bi'
+F0.0020187487297782625
+sS'project management'
 p30
-I1
-sS'data visualization'
+F0.0040456453687756303
+sS'a'
+F0.0039788125396043117
+sS'sap bi'
 p31
-I1
-sS'sql server'
+F0.013366131240518673
+sS'data visualization'
 p32
-I1
-sS'business objects'
+F0.0041845396288927679
+sS'sql server'
 p33
-I1
-sS'data integration'
+F0.0059528265303800459
+sS'science'
 p34
-I1
-sS'olap'
+F0.001495816783391686
+sS'engineering'
 p35
-I1
-sS'data governance'
+F0.0026060739937737334
+sS'business objects'
 p36
-I1
-sS'architecture'
+F0.0091512593585406001
+sS'data integration'
 p37
-I1
-sS'organization'
+F0.0082354492775140054
+sS'olap'
 p38
-I1
-sS'etl'
+F0.01095890105852149
+sS'data governance'
 p39
-I1
-sS'predictive analytics'
+F0.009303297718626171
+sS'architecture'
 p40
-I1
-ssS'working-year'
+F0.0046532223886907621
+sS'oracle'
 p41
-(dp42
-V(10, 15]
+F0.0055851521245985575
+sS'organization'
+p42
+F0.0075029099543901332
+sS'etl'
 p43
-I1
-sV(2, 5]
+F0.012126658187298651
+sS'predictive analytics'
 p44
-I1
-ssS'major'
+F0.0048989322836782779
+ssS'working-year'
 p45
 (dp46
-S'information'
+V(10, 15]
 p47
-I1
-sS'analytics analytics'
+F0.0041647369280816146
+sV(2, 5]
 p48
-I1
-sS'business'
+F0.0026360519753853948
+ssS'major'
 p49
-I1
-sS'big data'
-p50
-I1
-sS'marketing'
+(dp50
+VBusiness
 p51
-I1
-sS'data science'
+F0.0023015198876044983
+sVData Science
 p52
-I1
-sS'data science analytics'
+F0.0021857212395852395
+sVEconomics
 p53
-I1
-sS'mba'
+F0.0034910032926052359
+sVEngineering
 p54
-I1
-sS'information technology'
+F0.0026060739937737334
+sVInformation Science
 p55
-I1
-sS'analytics'
+F0.0053886280607533914
+sVComputer Science
 p56
-I1
-sS'design'
+F0.0019262888220259527
+sVManagement Science and Engineering
 p57
-I1
-sS'computer science'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'advanced analytics'
-p60
-I1
-sS'project management'
-p61
-I1
-sS'predictive analytics'
-p62
-I1
+F0.0027437117839763667
 ssS'education'
-p63
-(dp64
+p58
+(dp59
 VBachelor
-p65
-I1
+p60
+F0.0019391038886593761
 sVMaster
-p66
-I1
+p61
+F0.0015474057132429295
 ssS'responsibility'
-p67
-(dp68
+p62
+(dp63
 S'development'
-p69
-I1
+p64
+F0.0077295383132816083
 sS'information'
-p70
-I1
+p65
+F0.0029512876585731799
 sS'product'
-p71
-I1
+p66
+F0.0028616870015271204
 sS'manage decision'
-p72
-I1
+p67
+F0.017402553359253819
 sS'understand'
-p73
-I1
+p68
+F0.0044716591775410116
 sS'ownership'
-p74
-I1
+p69
+F0.0083836030852923148
 sS'design'
-p75
-I1
+p70
+F0.0031072740638691016
 sS'model'
-p76
-I1
+p71
+F0.006584726986815493
 sS'presentation'
-p77
-I1
+p72
+F0.0052411794517225677
 sS'transformation'
-p78
-I1
+p73
+F0.01338066866099092
+sS'decision making'
+p74
+F0.0069501767019776884
 ss.

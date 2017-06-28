@@ -2,189 +2,182 @@
 S'skills'
 p2
 (dp3
-S'statistical modeling'
+S'forecasting'
 p4
-I1
-sS'classification'
+F0.012116648784422803
+sS'statistical modeling'
 p5
-I1
-sS'communication'
+F0.0074023368602908948
+sS'classification'
 p6
-I1
-sS'hive'
-p7
-I1
-sS'linux'
-p8
-I1
-sS'regression'
-p9
-I1
-sS'clustering'
-p10
-I1
-sS'java'
-p11
-I1
-sS'shell scripting'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'nosql'
-p14
-I1
-sS'hadoop'
-p15
-I1
-sS'random forest'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'hypothesis testing'
-p18
-I1
-sS'matlab'
-p19
-I1
-sS'python'
-p20
-I1
-sS'collaboration'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'c++'
-p23
-I1
-sS'bayesian inference'
-p24
-I1
-sS'decision trees'
-p25
-I1
-sS'computational linguistics'
-p26
-I1
-sS'octave'
-p27
-I1
-sS'sql'
-p28
-I1
-sS'modeling'
-p29
-I1
-sS'svm'
-p30
-I1
-sS'economics'
-p31
-I1
-sS'programming'
-p32
-I1
-sS'analysis'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'r'
-I1
-sS'logistic regression'
-p35
-I1
-sS'scripting'
-p36
-I1
-sS'statistical analysis'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V(10, 15]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'business'
-p43
-I1
-sS'big data'
-p44
-I1
-sS'statistics economics'
-p45
-I1
+F0.013038685543215203
 sS'communication'
-p46
-I1
-sS'economics'
-p47
-I1
-sS'computer science statistics'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'computing'
-p50
-I1
+p7
+F0.0065420221450861842
+sS'analysis'
+p8
+F0.0014157798419592146
+sS'linux'
+p9
+F0.0076284216437984692
+sS'sas'
+p10
+F0.0057241192424686638
+sS'regression'
+p11
+F0.01963775033621323
+sS'clustering'
+p12
+F0.026639773227737275
+sS'statistics'
+p13
+F0.0038533589041429943
+sS'java'
+p14
+F0.0051209378829267915
+sS'shell scripting'
+p15
+F0.0139246427573707
+sS'big data'
+p16
+F0.0052591947370358161
+sS'nosql'
+p17
+F0.011309284563084804
+sS'hadoop'
+p18
+F0.0053091177743783673
+sS'random forest'
+p19
+F0.018767042540650182
 sS'computer science'
-p51
-I1
-sS'statistic'
-p52
-I1
-sS'design'
-p53
-I1
-sS'phd'
-p54
-I1
-sVphysic
-p55
-I1
+p20
+F0.0058098481949885152
+sS'hypothesis testing'
+p21
+F0.018589668254100411
+sS'matlab'
+p22
+F0.0052743850728845651
+sS'python'
+p23
+F0.0021539318708812642
+sS'collaboration'
+p24
+F0.010568881901129975
+sS'bayesian inference'
+p25
+F0.021088557409417927
+sS'decision trees'
+p26
+F0.017239181969071527
 sS'computational linguistics'
-p56
-I1
+p27
+F0.02060892342820202
+sS'octave'
+p28
+F0.017214214113774037
+sS'sql'
+p29
+F0.0028179498298886245
+sS'modeling'
+p30
+F0.0067119478431533269
+sS'data'
+p31
+F0.00049008879286972285
+sS'c'
+F0.0051678591896615594
+sS'svm'
+p32
+F0.018453054665821679
+sS'science'
+p33
+F0.0058101974230916733
+sS'economics'
+p34
+F0.0099028587783448821
+sS'programming'
+p35
+F0.0091100432630981491
+sS'hive'
+p36
+F0.008618819212768622
+sS'machine learning'
+p37
+F0.0027087509166695842
+sS'r'
+F0.0022933566389005833
+sS'logistic regression'
+p38
+F0.013528772218229521
+sS'physics'
+p39
+F0.010054067675399436
+sS'scripting'
+p40
+F0.010054067675399436
+sS'statistical analysis'
+p41
+F0.010639256832283504
+ssS'working-year'
+p42
+(dp43
+V(10, 15]
+p44
+F0.0080885386619766898
+ssS'major'
+p45
+(dp46
+VLinguistics
+p47
+F0.02163126507165769
+sVStatistics
+p48
+F0.0074442345863143808
+sVBusiness
+p49
+F0.0044698939965872484
+sVEconomics
+p50
+F0.0067800477170432269
+sVComputer Science
+p51
+F0.0037411394477363542
+sVPhysics
+p52
+F0.010841868186777234
 ssS'education'
+p53
+(dp54
+VMaster
+p55
+F0.0030052920877032103
+sVDoctor
+p56
+F0.004500751123043256
+ssS'responsibility'
 p57
 (dp58
-VMaster
-p59
-I1
-sVDoctor
-p60
-I1
-ssS'responsibility'
-p61
-(dp62
 S'large data set'
-p63
-I1
-sVinsight
-p64
-I1
+p59
+F0.012993624526168869
+sS'forecasting'
+p60
+F0.012116648784422803
+sS'insight'
+p61
+F0.0075822039504524182
 sS'analysis'
-p65
-I1
-sS'statistical model'
-p66
-I1
+p62
+F0.0014157798419592146
 sS'design'
-p67
-I1
+p63
+F0.006034788471150734
 sS'modeling'
-p68
-I1
+p64
+F0.0067119478431533269
+sS'decision making'
+p65
+F0.013498277065824437
 ss.

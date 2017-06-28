@@ -4,35 +4,35 @@ p2
 (lp3
 S'consulting'
 p4
-aS'r d'
-p5
 aS'classification'
-p6
+p5
 aS'search'
-p7
+p6
 aS'management consulting'
-p8
+p7
 aS'data mining'
-p9
+p8
 aS'tableau'
-p10
+p9
 aS'report writing'
-p11
+p10
 aS'analytics'
-p12
+p11
 aS'engineering'
+p12
+aS'statistical analysis'
 p13
-aS'analysis'
-p14
 aS'problem solving'
-p15
+p14
 aS'performance improvement'
+p15
+aS'sas'
 p16
-aS'account management'
-p17
 aS'perl'
-p18
+p17
 aS'research'
+p18
+aS'account management'
 p19
 aS'visualization'
 p20
@@ -42,6 +42,7 @@ aS'healthcare industry'
 p22
 aS'big data'
 p23
+aS'c'
 aS'excel'
 p24
 aS'hadoop'
@@ -76,44 +77,44 @@ aS'statistical modeling'
 p39
 aS'sql'
 p40
-aS'modeling'
+aS'regression'
 p41
-aS'php'
+aS'modeling'
 p42
-aS'data'
+aS'php'
 p43
-aS'project management'
+aS'data'
 p44
-aS'training'
+aS'project management'
 p45
-aS'data visualization'
+aS'training'
 p46
-aS'sql server'
+aS'data visualization'
 p47
-aS'economics'
+aS'sql server'
 p48
-aS'programming'
+aS'economics'
 p49
-aS'c++'
+aS'programming'
 p50
-aS'spss'
+aS'analysis'
 p51
-aS'credit'
+aS'spss'
 p52
-aS'olap'
+aS'credit'
 p53
+aS'olap'
+p54
 aS'r'
 aS'dashboard'
-p54
-aS'healthcare'
 p55
-aS'product management'
+aS'healthcare'
 p56
-aS'organization'
+aS'product management'
 p57
-aS'validation'
+aS'organization'
 p58
-aS'statistical analysis'
+aS'validation'
 p59
 asS'working-year'
 p60
@@ -125,70 +126,64 @@ p63
 asS'major'
 p64
 (lp65
-S'information'
+VBusiness
 p66
-aS'management'
+aVData Science
 p67
-aS'business'
+aVEconomics
 p68
-aS'big data'
+aVEngineering
 p69
-aS'knowledge management'
+aVComputer Science
 p70
-aS'economics'
+aVMathematics
 p71
-aS'analytics'
+aVManagement Science and Engineering
 p72
-aS'engineering'
-p73
-aS'data mining'
-p74
-aS'mathematics'
-p75
-aS'project management'
-p76
 asS'education'
+p73
+(lp74
+VBachelor
+p75
+aVMaster
+p76
+asS'responsibility'
 p77
 (lp78
-VBachelor
+S'modeling'
 p79
-aVMaster
+aS'information'
 p80
-asS'responsibility'
-p81
-(lp82
-S'information'
-p83
-aS'statistical model'
-p84
-aS'data analysis'
-p85
-aS'data infrastructure'
-p86
-aVinsight
-p87
 aS'product'
-p88
+p81
+aS'data analysis'
+p82
+aS'data infrastructure'
+p83
+aS'insight'
+p84
 aS'analysis'
-p89
+p85
 aS'improvement'
-p90
+p86
 aS'analytic'
-p91
+p87
 aS'statistical method'
-p92
+p88
 aS'understand'
-p93
+p89
 aS'data mining'
-p94
+p90
 aS'report'
-p95
-aS'modeling'
-p96
-aS'implement'
-p97
+p91
 aS'prototype'
-p98
+p92
+aS'implement'
+p93
+aS'develop ... model'
+p94
 aS'model'
-p99
+p95
+aS'test ... model'
+p96
 as.

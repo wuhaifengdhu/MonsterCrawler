@@ -2,87 +2,87 @@
 S'skills'
 p2
 (lp3
-S'hdfs'
+S'data science'
 p4
-aS'cloudera'
+aS'sales'
 p5
-aS'big data'
-p6
-aS'management'
-p7
-aS'python'
-p8
-aS'science'
-p9
-aS'data science'
-p10
-aS'aws'
-p11
-aS'data scientist'
-p12
-aS'hadoop'
-p13
-aS'writing'
-p14
 aS'engineering'
-p15
-aS'r'
+p6
+aS'hdfs'
+p7
+aS'management'
+p8
+aS'java'
+p9
+aS'big data'
+p10
+aS'scala'
+p11
+aS'hadoop'
+p12
+aS'writing'
+p13
 aS'computer science'
-p16
-aS'product management'
-p17
+p14
 aS'mathematics'
+p15
+aS'python'
+p16
+aS'aws'
+p17
+aS'data scientist'
 p18
-aS'spark'
+aS'leadership'
 p19
-aS'rstudio'
+aS'spark'
 p20
 aS'data'
 p21
-aS'pre-sales'
+aS'a'
+aS'c'
+aS'cloudera'
 p22
-asS'working-year'
-p23
-(lp24
-V(0, 2]
-p25
-asS'major'
-p26
-(lp27
-S'management'
-p28
-aS'big data'
-p29
 aS'science'
+p23
+aS'r'
+aS'product management'
+p24
+aS'rstudio'
+p25
+aS'pre-sales'
+p26
+asS'working-year'
+p27
+(lp28
+V(0, 2]
+p29
+asS'major'
 p30
-aS'data science'
-p31
-aS'engineering'
+(lp31
+VMathematics
 p32
-aS'design'
+aVData Science
 p33
-aS'computer science'
+aVManagement Science and Engineering
 p34
-aS'statistic'
+aVEngineering
 p35
-aS'mathematics'
+aVComputer Science
 p36
-aS'computer science mathematics'
-p37
 asS'education'
-p38
-(lp39
-S'Bachelor'
-p40
+p37
+(lp38
+VBachelor
+p39
 asS'responsibility'
-p41
-(lp42
+p40
+(lp41
 S'development'
-p43
+p42
 aS'product'
-p44
+p43
 aS'prototype'
-p45
+p44
 aS'design'
-p46
+p45
 as.

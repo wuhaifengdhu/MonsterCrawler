@@ -4,76 +4,76 @@ p2
 (lp3
 S'statistical analysis'
 p4
-aS'education'
+aS'sas'
 p5
-aS'quantitative analysis'
-p6
-aS'regression'
-p7
-aS'clustering'
-p8
-aS'excel'
-p9
-aS'research'
-p10
-aS'coaching'
-p11
-aS'matlab'
-p12
-aS'data analysis'
-p13
-aS'data scientist'
-p14
 aS'machine learning'
+p6
+aS'quantitative analysis'
+p7
+aS'regression'
+p8
+aS'clustering'
+p9
+aS'statistics'
+p10
+aS'excel'
+p11
+aS'research'
+p12
+aS'coaching'
+p13
+aS'matlab'
+p14
+aS'education'
 p15
-aS'mentoring'
+aS'data analysis'
 p16
-aS'sql'
+aS'data scientist'
 p17
-aS'data'
+aS'mentoring'
 p18
-aS'word'
+aS'sql'
 p19
-aS'programming'
+aS'data'
 p20
-aS'analysis'
+aS'word'
 p21
-aS'linear regression'
+aS'programming'
 p22
+aS'analysis'
+p23
+aS'linear regression'
+p24
 aS'r'
 aS'root'
-p23
-aS'scripting'
-p24
-asS'working-year'
 p25
-(lp26
-V(2, 5]
+aS'scripting'
+p26
+asS'working-year'
 p27
+(lp28
+V(2, 5]
+p29
 asS'major'
-p28
-(lp29
-S'phd'
 p30
-aS'general'
-p31
-aS'business'
+(lp31
+VStatistics
 p32
-aS'machine learning'
+aVComputer Science
 p33
-asS'education'
+aVBusiness
 p34
-(lp35
+asS'education'
+p35
+(lp36
 VMaster
-p36
-aVDoctor
 p37
-asS'responsibility'
+aVDoctor
 p38
-(lp39
+asS'responsibility'
+p39
+(lp40
 S'data analysis'
-p40
-aS'develop model'
 p41
 aS'business problem'
 p42
@@ -81,10 +81,12 @@ aS'communicate'
 p43
 aS'analysis'
 p44
-aS'understand'
+aS'develop ... model'
 p45
-aS'model'
+aS'understand'
 p46
-aS'quantitative analysis'
+aS'model'
 p47
+aS'quantitative analysis'
+p48
 as.

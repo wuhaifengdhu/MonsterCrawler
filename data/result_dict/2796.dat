@@ -2,109 +2,104 @@
 S'skills'
 p2
 (lp3
-S'intelligence'
+S'continuous improvement'
 p4
-aS'data science'
+aS'intelligence'
 p5
-aS'engineering'
+aS'data science'
 p6
-aS'defense'
+aS'engineering'
 p7
-aS'analysis'
+aS'defense'
 p8
-aS'continuous improvement'
+aS'analysis'
 p9
-aS'research'
+aS'sas'
 p10
-aS'big data'
+aS'research'
 p11
-aS'writing'
+aS'big data'
 p12
-aS'innovation'
+aS'writing'
 p13
-aS'mathematics'
+aS'innovation'
 p14
-aS'government'
+aS'mathematics'
 p15
-aS'processing'
+aS'government'
 p16
-aS'data'
+aS'processing'
 p17
-aS'national security'
+aS'data'
 p18
-aS'science'
+aS'a'
+aS'national security'
 p19
-aS'programming'
+aS'science'
 p20
-aS'security clearance'
+aS'programming'
 p21
-aS'spss'
+aS'security clearance'
 p22
+aS'spss'
+p23
 aS'r'
 aS'organization'
-p23
-aS'security'
 p24
-asS'working-year'
+aS'security'
 p25
-(lp26
+asS'working-year'
+p26
+(lp27
 V(5, 10]
-p27
-aV(10, 15]
 p28
-asS'major'
+aV(10, 15]
 p29
-(lp30
-S'engineering science'
-p31
-aS'information'
+asS'major'
+p30
+(lp31
+VMathematics
 p32
-aS'big data'
+aVData Science
 p33
-aS'science'
+aVElectrical and Electronics Engineering
 p34
-aS'data science'
+aVEngineering
 p35
-aS'phd'
-p36
-aS'engineering'
-p37
-aS'statistic'
-p38
-aS'mathematics'
-p39
 asS'education'
-p40
-(lp41
+p36
+(lp37
 VBachelor
-p42
+p38
 aVMaster
-p43
+p39
 aVDoctor
-p44
+p40
 asS'responsibility'
-p45
-(lp46
+p41
+(lp42
 S'information'
-p47
+p43
 aS'pattern'
-p48
+p44
 aS'processing'
-p49
+p45
 aS'analysis'
-p50
+p46
 aS'improvement'
-p51
+p47
 aS'model'
-p52
-aS'solve problem'
-p53
+p48
+aS'validate ... model'
+p49
 aS'report'
-p54
+p50
 aS'implement'
-p55
+p51
+aS'develop ... model'
+p52
 aS'extract'
-p56
+p53
 aS'transformation'
-p57
+p54
 as.

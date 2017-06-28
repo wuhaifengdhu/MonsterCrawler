@@ -91,79 +91,47 @@ p45
 asS'working-year'
 p46
 (lp47
-V[0]
+S'[0]'
 p48
 asS'major'
 p49
 (lp50
-S'business analysis'
+VBusiness
 p51
-aS'computing'
+aVData Science
 p52
-aS'general'
+aVEconomics
 p53
-aS'analytics'
+aVComputer Science
 p54
-aS'data mining'
+aVMathematics
 p55
-aS'accounting'
+aVManagement Science and Engineering
 p56
-aS'applied mathematics computer science'
-p57
-aS'accounting finance'
-p58
-aS'information'
-p59
-aS'management'
-p60
-aS'computer science'
-p61
-aS'natural language processing'
-p62
-aS'mathematics'
-p63
-aS'finance'
-p64
-aS'business'
-p65
-aS'marketing'
-p66
-aS'business analytics'
-p67
-aS'science'
-p68
-aS'applied mathematics'
-p69
-aS'machine learning'
-p70
-aS'applied math'
-p71
-aS'mathematics computer science'
-p72
 asS'education'
-p73
-(lp74
+p57
+(lp58
 S'Bachelor'
-p75
+p59
 asS'responsibility'
-p76
-(lp77
+p60
+(lp61
 S'development'
-p78
+p62
 aS'information'
-p79
+p63
 aS'processing'
-p80
+p64
 aS'recommendation'
-p81
+p65
 aS'analysis'
-p82
+p66
 aS'analytic'
-p83
+p67
 aS'statistical method'
-p84
+p68
 aS'optimization'
-p85
+p69
 aS'data mining'
-p86
+p70
 as.

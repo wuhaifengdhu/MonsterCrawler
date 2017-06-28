@@ -4,7 +4,7 @@ p2
 (lp3
 S'training'
 p4
-aS'management'
+aS'statistics'
 p5
 aS'product development'
 p6
@@ -24,76 +24,68 @@ aS'collaboration'
 p13
 aS'analytics'
 p14
-aS'education'
-p15
-aS'innovation'
-p16
-aS'security'
-p17
-aS'research'
-p18
-aS'data'
-p19
-aS'translation'
-p20
-aS'clinical research'
-p21
-asS'working-year'
-p22
-(lp23
-V(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
 aS'management'
+p15
+aS'education'
+p16
+aS'innovation'
+p17
+aS'security'
+p18
+aS'research'
+p19
+aS'data'
+p20
+aS'translation'
+p21
+aS'clinical research'
+p22
+asS'working-year'
+p23
+(lp24
+V(2, 5]
+p25
+asS'major'
+p26
+(lp27
+VData Science
 p28
-aS'science'
+aVStatistics
 p29
-aS'machine learning data science'
+aVComputer Science
 p30
-aS'data science analytics'
+aVManagement Science and Engineering
 p31
-aS'machine learning'
-p32
-aS'analytics'
-p33
-aS'analytics data science'
-p34
-aS'data science'
-p35
 asS'education'
+p32
+(lp33
+VBachelor
+p34
+aVMaster
+p35
+asS'responsibility'
 p36
 (lp37
-VBachelor
-p38
-aVMaster
-p39
-asS'responsibility'
-p40
-(lp41
 S'development'
-p42
-aS'large data set'
-p43
-aS'product'
-p44
+p38
 aS'information'
-p45
+p39
+aS'product'
+p40
+aS'large data set'
+p41
 aS'presentation'
-p46
+p42
 aS'documentation'
-p47
+p43
 aS'interface'
-p48
+p44
 aS'identify opportunity'
-p49
+p45
 aS'report'
-p50
+p46
 aS'model'
-p51
+p47
 aS'extract'
-p52
+p48
 as.

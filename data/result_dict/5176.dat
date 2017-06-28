@@ -4,96 +4,86 @@ p2
 (lp3
 S'consulting'
 p4
-aS'excel'
-p5
-aS'hardware'
-p6
-aS'process improvement'
-p7
-aS'strategy'
-p8
-aS'management'
-p9
 aS'saas'
-p10
-aS'research'
-p11
-aS'computer science'
-p12
-aS'innovation'
-p13
+p5
 aS'product development'
-p14
+p6
 aS'processing'
-p15
+p7
+aS'management'
+p8
+aS'excel'
+p9
+aS'innovation'
+p10
 aS'data scientist'
-p16
-aS'business process'
-p17
+p11
+aS'research'
+p12
+aS'hardware'
+p13
 aS'talent management'
-p18
+p14
 aS'leadership'
-p19
+p15
+aS'process improvement'
+p16
+aS'computer science'
+p17
 aS'data processing'
-p20
-aS'data'
-p21
-aS'b2b'
-p22
+p18
 aS'science'
+p19
+aS'organization'
+p20
+aS'strategy'
+p21
+aS'data'
+p22
+aS'b2b'
 p23
 aS'education'
 p24
-aS'organization'
-p25
 asS'working-year'
-p26
-(lp27
+p25
+(lp26
 V(10, 15]
-p28
+p27
 asS'major'
-p29
-(lp30
-S'information'
+p28
+(lp29
+VComputer Science
+p30
+aVBusiness
 p31
-aS'management'
+aVManagement Science and Engineering
 p32
-aS'business'
-p33
-aS'science'
-p34
-aS'human resource management'
-p35
-aS'design'
-p36
-aS'computer science'
-p37
-aS'ee computer science'
-p38
 asS'education'
-p39
-(lp40
+p33
+(lp34
 VBachelor
-p41
+p35
 aVMaster
-p42
+p36
 asS'responsibility'
-p43
-(lp44
+p37
+(lp38
 S'development'
-p45
+p39
 aS'information'
-p46
+p40
 aS'product'
-p47
+p41
 aS'processing'
-p48
+p42
 aS'improvement'
-p49
-aS'design'
-p50
+p43
+aS'track ... activity'
+p44
 aS'report'
-p51
+p45
+aS'design'
+p46
 aS'model'
-p52
+p47
 as.

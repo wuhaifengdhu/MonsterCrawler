@@ -2,83 +2,76 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'a'
+aS'training'
 p4
-aS'java'
+aS'statistics'
 p5
-aS'big data'
+aS'java'
 p6
-aS'python'
-p7
-aS'data scientist'
-p8
-aS'data science'
-p9
-aS'aws'
-p10
-aS'recruiting'
-p11
-aS'analysis'
-p12
-aS'machine learning'
-p13
 aS'oop'
+p7
+aS'big data'
+p8
+aS'python'
+p9
+aS'data scientist'
+p10
+aS'data science'
+p11
+aS'aws'
+p12
+aS'recruiting'
+p13
+aS'analysis'
 p14
+aS'machine learning'
+p15
+aS'sas'
+p16
 aS'r'
 aS'computer science'
-p15
-aS'communication'
-p16
-aS'policy'
 p17
-aS'data'
+aS'data analysis'
 p18
-aS'science'
+aS'communication'
 p19
-asS'working-year'
+aS'policy'
 p20
-(lp21
-V(0, 2]
+aS'data'
+p21
+aS'science'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'information'
+V(0, 2]
 p25
-aS'big data'
+asS'major'
 p26
-aS'science'
-p27
-aS'data science'
+(lp27
+VData Science
 p28
-aS'machine learning'
+aVStatistics
 p29
-aS'computer science'
+aVComputer Science
 p30
-aS'machine learning big data'
-p31
-aS'communication'
-p32
-aS'law'
-p33
-aS'phd'
-p34
 asS'education'
+p31
+(lp32
+VMaster
+p33
+aVDoctor
+p34
+asS'responsibility'
 p35
 (lp36
-VMaster
-p37
-aVDoctor
-p38
-asS'responsibility'
-p39
-(lp40
 S'report'
-p41
+p37
 aS'information'
-p42
+p38
 aS'data analysis'
-p43
+p39
 aS'analysis'
-p44
+p40
 as.

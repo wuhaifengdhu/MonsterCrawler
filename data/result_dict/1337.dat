@@ -4,115 +4,107 @@ p2
 (lp3
 S'analytics'
 p4
-aS'education'
+aS'go'
 p5
-aS'management'
+aS'education'
 p6
-aS'integration'
+aS'statistics'
 p7
-aS'access'
+aS'integration'
 p8
-aS'computer science'
+aS'access'
 p9
-aS'innovation'
+aS'computer science'
 p10
-aS'data management'
+aS'innovation'
 p11
-aS'pyspark'
+aS'data management'
 p12
-aS'python'
+aS'pyspark'
 p13
-aS'data scientist'
+aS'python'
 p14
-aS'data quality'
+aS'data scientist'
 p15
-aS'sql'
+aS'data quality'
 p16
-aS'modeling'
+aS'management'
 p17
-aS'data'
+aS'sql'
 p18
-aS'information technology'
+aS'modeling'
 p19
-aS'training'
+aS'data'
 p20
-aS'data collection'
+aS'information technology'
 p21
-aS'science'
+aS'training'
 p22
-aS'economics'
+aS'data collection'
 p23
-aS'programming'
+aS'science'
 p24
-aS'analysis'
+aS'economics'
 p25
+aS'programming'
+p26
+aS'analysis'
+p27
 aS'r'
 aS'architecture'
-p26
-asS'working-year'
-p27
-(lp28
-V(2, 5]
+p28
+aS'databases'
 p29
-asS'major'
+asS'working-year'
 p30
 (lp31
-S'information'
+V(2, 5]
 p32
-aS'management'
+asS'major'
 p33
-aS'business'
-p34
-aS'statistics economics'
+(lp34
+VStatistics
 p35
-aS'science'
+aVBusiness
 p36
-aS'economics'
+aVData Science
 p37
-aS'computer science statistics'
+aVEconomics
 p38
-aS'analytics'
+aVInformation Science
 p39
-aS'design'
+aVComputer Science
 p40
-aS'computer science'
+aVManagement Science and Engineering
 p41
-aS'statistic'
-p42
-aS'ee computer science'
-p43
-aS'information technology'
-p44
 asS'education'
-p45
-(lp46
+p42
+(lp43
 VBachelor
-p47
+p44
 aVMaster
-p48
+p45
 asS'responsibility'
-p49
-(lp50
+p46
+(lp47
 S'information'
-p51
+p48
 aS'data collection'
-p52
-aVinsight
-p53
+p49
+aS'insight'
+p50
 aS'analysis'
-p54
-aS'statistical method'
-p55
+p51
 aS'model'
-p56
+p52
 aS'design'
-p57
+p53
 aS'report'
-p58
+p54
 aS'modeling'
-p59
+p55
 aS'implement'
-p60
+p56
 aS'data gathering'
-p61
+p57
 as.

@@ -2,194 +2,193 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'intelligence'
 p4
-I1
+F0.0069625658975023463
 sS'decision support'
 p5
-I1
-sS'quantitative analysis'
+F0.0098482083325338587
+sS'engineering'
 p6
-I1
-sS'clustering'
+F0.0027158642507176377
+sS'sas'
 p7
-I1
-sS'java'
-p8
-I1
-sS'excel'
-p9
-I1
-sS'scientific computing'
-p10
-I1
+F0.0061429572358200294
 sS'writing'
-p11
-I1
-sS'commodity markets'
-p12
-I1
-sS'r'
-I1
-sS'computer science'
-p13
-I1
-sS'marketing'
-p14
-I1
-sS'intelligence'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'operations research'
-p17
-I1
-sS'customer satisfaction'
-p18
-I1
-sS'data analysis'
-p19
-I1
-sS'product development'
-p20
-I1
-sS'automotive'
-p21
-I1
-sS'processing'
-p22
-I1
-sS'data processing'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'data'
-p26
-I1
-sS'c'
-I1
-sS'econometric modeling'
-p27
-I1
-sS'commodity'
-p28
-I1
-sS'programming'
-p29
-I1
-sS'communication skills'
-p30
-I1
-sS'linear regression'
-p31
-I1
-sS'optimization'
-p32
-I1
-sS'military'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'mathematics physics'
-p40
-I1
-sS'business'
-p41
-I1
-sS'marketing'
-p42
-I1
-sS'physics economics'
-p43
-I1
-sS'scientific computing'
-p44
-I1
-sS'general'
-p45
-I1
-sS'computer science engineering'
-p46
-I1
-sVphysic
-p47
-I1
-sS'communication'
-p48
-I1
-sS'mathematics'
-p49
-I1
-sS'law'
-p50
-I1
-sS'operations research'
-p51
-I1
-sS'computer science'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VMaster
-p55
-I1
-sVDoctor
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
-S'development'
-p59
-I1
-sS'information'
-p60
-I1
-sS'product'
-p61
-I1
-sS'processing'
-p62
-I1
-sS'pattern'
-p63
-I1
-sVinsight
-p64
-I1
-sS'optimization'
-p65
-I1
-sS'data analysis'
-p66
-I1
-sS'modeling'
-p67
-I1
-sS'model'
-p68
-I1
+p8
+F0.0099647908030265752
 sS'quantitative analysis'
-p69
-I1
+p9
+F0.016913535884791265
+sS'clustering'
+p10
+F0.0071472562318319515
+sS'java'
+p11
+F0.0027478203274241319
+sS'excel'
+p12
+F0.0035852643609890589
+sS'scientific computing'
+p13
+F0.0071576901655215465
+sS'research'
+p14
+F0.0018917080746380006
+sS'commodity markets'
+p15
+F0.014884398990708045
+sS'r'
+F0.0049223264444695448
+sS'computer science'
+p16
+F0.0031174795192621301
+sS'marketing'
+p17
+F0.012673267333553539
+sS'mathematics'
+p18
+F0.0040529784524962432
+sS'operations research'
+p19
+F0.0063878902783856091
+sS'customer satisfaction'
+p20
+F0.010031558179765624
+sS'data analysis'
+p21
+F0.0032899379489260867
+sS'product development'
+p22
+F0.0057948477800037921
+sS'automotive'
+p23
+F0.0094177127878827798
+sS'processing'
+p24
+F0.0036210378861878494
+sS'data processing'
+p25
+F0.0081501521013932939
+sS'sql'
+p26
+F0.0045362119212841272
+sS'modeling'
+p27
+F0.0090038324725227551
+sS'data'
+p28
+F0.00026297447422277809
+sS'a'
+F0.0041464343539113673
+sS'c'
+F0.011091990455858956
+sS'econometric modeling'
+p29
+F0.011897547129540855
+sS'commodity'
+p30
+F0.012565183221799071
+sS'science'
+p31
+F0.0015588334549758145
+sS'economics'
+p32
+F0.0053137291005753021
+sS'programming'
+p33
+F0.0073324738459082653
+sS'communication skills'
+p34
+F0.0081665761686477243
+sS'linear regression'
+p35
+F0.0084195024336971066
+sS'optimization'
+p36
+F0.0044346094398859028
+sS'testing'
+p37
+F0.0045396408312638869
+sS'military'
+p38
+F0.0082764048160350531
+sS'physics'
+p39
+F0.0053948655819216484
+ssS'working-year'
+p40
+(dp41
+V(5, 10]
+p42
+F0.0026732688726759618
+ssS'major'
+p43
+(dp44
+VBusiness
+p45
+F0.0023984797054858406
+sVEconomics
+p46
+F0.0036380743847549022
+sVEngineering
+p47
+F0.0049941883076867572
+sVComputer Science
+p48
+F0.0020074406792731656
+sVMathematics
+p49
+F0.0038010477374333745
+sVPhysics
+p50
+F0.0058175878075390035
+sVOperations Research
+p51
+F0.0071368711711466831
+ssS'education'
+p52
+(dp53
+VMaster
+p54
+F0.0016125957543773324
+sVDoctor
+p55
+F0.0024150371879744304
+ssS'responsibility'
+p56
+(dp57
+S'development'
+p58
+F0.0053701153100404377
+sS'information'
+p59
+F0.003075621284987571
+sS'product'
+p60
+F0.0059644917548458834
+sS'insight'
+p61
+F0.0081369993614611308
+sS'pattern'
+p62
+F0.0058061886376366868
+sS'processing'
+p63
+F0.0036210378861878494
+sS'optimization'
+p64
+F0.0044346094398859028
+sS'data analysis'
+p65
+F0.0032899379489260867
+sS'modeling'
+p66
+F0.0090038324725227551
+sS'model'
+p67
+F0.010293198504888964
+sS'quantitative analysis'
+p68
+F0.016913535884791265
 ss.

@@ -2,202 +2,190 @@
 S'skills'
 p2
 (dp3
-S'marketing analytics'
+S'economics'
 p4
-I1
+F0.0039351261483734998
 sS'intelligence'
 p5
-I1
+F0.0025780929554791118
 sS'energy'
 p6
-I1
+F0.0050664947554188572
 sS'engineering'
 p7
-I1
-sS'analytics'
+F0.0020112557915823556
+sS'sales'
 p8
-I1
-sS'business intelligence'
-p9
-I1
-sS'geography'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'predictive modeling'
-p12
-I1
-sS'strategy'
-p13
-I1
-sS'big data analytics'
-p14
-I1
-sS'community development'
-p15
-I1
-sS'coaching'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'performance management'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'leadership'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'data'
-p22
-I1
-sS'project management'
-p23
-I1
-sS'quantitative analytics'
-p24
-I1
-sS'economics'
-p25
-I1
-sS'thought leadership'
-p26
-I1
-sS'data architecture'
-p27
-I1
-sS'credit'
-p28
-I1
-sS'credit scoring'
-p29
-I1
-sS'optimization'
-p30
-I1
-sS'financial services'
-p31
-I1
-sS'data security'
-p32
-I1
-sS'organization'
-p33
-I1
-sS'security'
-p34
-I1
-sS'data analytics'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(15, 20]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-I1
-sS'marketing analytics'
-p42
-I1
-sS'business'
-p43
-I1
-sS'big data'
-p44
-I1
-sS'statistics economics'
-p45
-I1
-sS'data analytics business'
-p46
-I1
-sS'economics'
-p47
-I1
-sS'big data analytics'
-p48
-I1
+F0.0054591210840574779
 sS'analytics'
-p49
-I1
-sS'engineering'
-p50
-I1
-sS'data analytics'
-p51
-I1
-sS'statistic'
-p52
-I1
-sS'history'
-p53
-I1
-sS'project management'
-p54
-I1
+p9
+F0.012853262984978226
+sS'business intelligence'
+p10
+F0.0033547509175277847
 sS'geography'
-p55
-I1
+p11
+F0.0082120733961944855
+sS'statistics'
+p12
+F0.0015312197944213539
+sS'big data'
+p13
+F0.0020898606344214575
+sS'predictive modeling'
+p14
+F0.0034138028057290144
+sS'strategy'
+p15
+F0.0025862256670391376
+sS'big data analytics'
+p16
+F0.0054421495972881455
+sS'community development'
+p17
+F0.010681814220783171
+sS'coaching'
+p18
+F0.0063411046250151041
+sS'innovation'
+p19
+F0.0031786940429141602
+sS'performance management'
+p20
+F0.0077918247735859411
+sS'marketing'
+p21
+F0.0031284310713917056
+sS'data scientist'
+p22
+F0.0017395265437830513
+sS'leadership'
+p23
+F0.0054266292978779043
+sS'modeling'
+p24
+F0.002667145119939417
+sS'solver'
+p25
+F0.0070853543903553924
+sS'data'
+p26
+F0.0027264709856200668
+sS'project management'
+p27
+F0.0031222550465099278
+sS'quantitative analytics'
+p28
+F0.0053598278518271272
+sS'marketing analytics'
+p29
+F0.0063338230099175344
+sS'thought leadership'
+p30
+F0.006735104925335177
+sS'data architecture'
+p31
+F0.00666251815240608
+sS'credit'
+p32
+F0.020870507876766153
+sS'credit scoring'
+p33
+F0.0098226235548767027
+sS'optimization'
+p34
+F0.0098522603812243453
+sS'algorithms'
+p35
+F0.0029460947099593658
+sS'financial services'
+p36
+F0.0069424805614125293
+sS'data security'
+p37
+F0.0086543251937494046
+sS'organization'
+p38
+F0.011580846235019253
+sS'security'
+p39
+F0.0035884249847615629
+sS'data analytics'
+p40
+F0.0033535676214873516
+ssS'working-year'
+p41
+(dp42
+V(15, 20]
+p43
+F0.0045891065134441664
+ssS'major'
+p44
+(dp45
+VStatistics
+p46
+F0.0029581359111462728
+sVBusiness
+p47
+F0.0017762140347686603
+sVData Science
+p48
+F0.0016868456200411536
+sVEconomics
+p49
+F0.0026942061535705432
+sVEngineering
+p50
+F0.0020112557915823556
+sVGeography
+p51
+F0.0080597235125694083
+sVManagement Science and Engineering
+p52
+F0.0021174787166976885
 ssS'education'
+p53
+(dp54
+S'Bachelor'
+p55
+F0.0014965169584070718
+ssS'responsibility'
 p56
 (dp57
-S'Bachelor'
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
 S'development'
-p61
-I1
+p58
+F0.0039768834233632798
 sS'information'
-p62
-I1
+p59
+F0.0022776768465178894
 sS'data infrastructure'
-p63
-I1
+p60
+F0.0071084817350735999
 sS'business problem'
-p64
-I1
-sVinsight
-p65
-I1
+p61
+F0.0046767661118729794
+sS'insight'
+p62
+F0.0030129611757134401
 sS'communicate'
-p66
-I1
+p63
+F0.003294323287818706
 sS'analytic'
-p67
-I1
-sS'statistical method'
-p68
-I1
+p64
+F0.018536338032016774
 sS'optimization'
-p69
-I1
+p65
+F0.0098522603812243453
 sS'understand'
-p70
-I1
+p66
+F0.0034510341764273813
 sS'report'
-p71
-I1
+p67
+F0.0034076788508578472
 sS'modeling'
-p72
-I1
+p68
+F0.002667145119939417
 sS'model'
-p73
-I1
+p69
+F0.010163618009206178
 ss.

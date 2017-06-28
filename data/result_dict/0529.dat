@@ -2,11 +2,11 @@
 S'skills'
 p2
 (lp3
-S'customer insight'
+S'data science'
 p4
-aS'data science'
-p5
 aS'testing'
+p5
+aS'pig'
 p6
 aS'analytics'
 p7
@@ -14,103 +14,93 @@ aS'engineering'
 p8
 aS'statistical analysis'
 p9
-aS'education'
+aS'sas'
 p10
-aS'management'
+aS'education'
 p11
-aS'big data'
+aS'management'
 p12
-aS'predictive modeling'
+aS'big data'
 p13
-aS'hadoop'
+aS'predictive modeling'
 p14
-aS'innovation'
+aS'hadoop'
 p15
-aS'advanced analytics'
+aS'innovation'
 p16
-aS'mathematics'
+aS'advanced analytics'
 p17
-aS'python'
+aS'mathematics'
 p18
-aS'data scientist'
+aS'python'
 p19
-aS'mathematical analysis'
+aS'data scientist'
 p20
-aS'sql'
+aS'mathematical analysis'
 p21
-aS'modeling'
+aS'sql'
 p22
-aS'data'
+aS'modeling'
 p23
-aS'science'
+aS'data'
 p24
-aS'programming'
+aS'science'
 p25
-aS'analysis'
+aS'programming'
 p26
-aS'machine learning'
+aS'analysis'
 p27
+aS'machine learning'
+p28
 aS'r'
 aS'healthcare'
-p28
-aS'data analytics'
 p29
-asS'working-year'
+aS'organization'
 p30
-(lp31
-V(2, 5]
-p32
-asS'major'
-p33
-(lp34
-S'information'
-p35
-aS'management'
-p36
-aS'health services'
-p37
-aS'big data'
-p38
-aS'science'
-p39
-aS'data science'
-p40
-aS'machine learning'
-p41
-aS'business'
-p42
-aS'analytics'
-p43
-aS'engineering'
-p44
-aS'statistic'
-p45
-aS'advanced analytics'
-p46
-aS'mathematics'
-p47
 aS'data analytics'
-p48
+p31
+asS'working-year'
+p32
+(lp33
+V(2, 5]
+p34
+asS'major'
+p35
+(lp36
+VBusiness
+p37
+aVData Science
+p38
+aVEngineering
+p39
+aVComputer Science
+p40
+aVMathematics
+p41
+aVManagement Science and Engineering
+p42
 asS'education'
-p49
-(lp50
+p43
+(lp44
 VMaster
-p51
+p45
 asS'responsibility'
-p52
-(lp53
-S'large data set'
-p54
-aS'business problem'
-p55
-aVinsight
-p56
+p46
+(lp47
+S'information'
+p48
+aS'large data set'
+p49
+aS'insight'
+p50
 aS'analysis'
-p57
+p51
 aS'analytic'
-p58
+p52
+aS'drive ... decision'
+p53
 aS'modeling'
-p59
-aS'information'
-p60
+p54
+aS'decision making'
+p55
 as.

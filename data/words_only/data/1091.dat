@@ -4,306 +4,318 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
+F0.0074379183426985596
 sS'nosql'
 p5
-I1
+F0.0052530649985921734
 sS'ip'
 p6
-I1
+F0.008751101122817441
 sS'forecasting'
 p7
-I1
+F0.0056280787060082882
 sS'julia'
 p8
-I1
-sS'analytics'
-p9
-I1
-sS'business intelligence'
-p10
-I1
-sS'agent-based modeling'
-p11
-I1
-sS'data mining'
-p12
-I1
-sS'neo4j'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'clustering'
-p15
-I1
-sS'management'
-p16
-I1
-sS'java'
-p17
-I1
-sS'scala'
-p18
-I1
-sS'data'
-p19
-I1
-sS'excel'
-p20
-I1
+F0.0096259862702157192
 sS'hadoop'
-p21
-I1
-sS'demand forecasting'
-p22
-I1
-sS'perl'
-p23
-I1
-sS'market research'
-p24
-I1
-sS'r'
-I1
-sS'matlab'
-p25
-I1
-sS'intelligence'
-p26
-I1
-sS'policy'
-p27
-I1
-sS'statistical learning'
-p28
-I1
-sS'operations research'
-p29
-I1
-sS'computer science'
-p30
-I1
-sS'segmentation'
-p31
-I1
-sS'processing'
-p32
-I1
-sS'python'
-p33
-I1
-sS'mongodb'
-p34
-I1
-sS'natural language processing'
-p35
-I1
-sS'data scientist'
-p36
-I1
-sS'apache spark'
-p37
-I1
-sS'statistical modeling'
-p38
-I1
-sS'sql'
-p39
-I1
-sS'apache'
-p40
-I1
-sS'modeling'
-p41
-I1
-sS'spark'
-p42
-I1
-sS'ruby'
-p43
-I1
-sS'information technology'
-p44
-I1
-sS'software development'
-p45
-I1
-sS'c'
-I1
-sS'retail'
-p46
-I1
-sS'pattern recognition'
-p47
-I1
-sS'parallel programming'
-p48
-I1
-sS'statistical analysis'
-p49
-I1
-sS'economics'
-p50
-I1
-sS'programming'
-p51
-I1
-sS'analysis'
-p52
-I1
-sS'simulation'
-p53
-I1
-sS'procurement'
-p54
-I1
-sS'optimization'
-p55
-I1
-sS'consulting'
-p56
-I1
-sS'clojure'
-p57
-I1
-sS'crm'
-p58
-I1
-ssS'working-year'
-p59
-(dp60
-V(5, 10]
-p61
-I1
-sV(2, 5]
-p62
-I1
-ssS'major'
-p63
-(dp64
-S'information'
-p65
-I1
-sS'natural language processing'
-p66
-I1
-sS'management'
-p67
-I1
-sS'business'
-p68
-I1
-sS'computing'
-p69
-I1
-sS'economics'
-p70
-I1
-sS'statistic'
-p71
-I1
-sS'engineering physics'
-p72
-I1
-sS'machine learning'
-p73
-I1
+p9
+F0.002466039350095134
 sS'analytics'
-p74
-I1
-sS'computer science engineering'
-p75
-I1
-sS'information technology'
-p76
-I1
-sS'phd'
-p77
-I1
+p10
+F0.013354893850034957
+sS'business intelligence'
+p11
+F0.0039213883085881399
+sS'demand forecasting'
+p12
+F0.01050125490154654
 sS'data mining'
-p78
-I1
-sVphysic
-p79
-I1
-sS'applied math'
-p80
-I1
+p13
+F0.0040728969840348132
+sS'sas'
+p14
+F0.0026588039475574218
+sS'neo4j'
+p15
+F0.0089879107312475382
+sS'machine learning'
+p16
+F0.0012581914046718606
+sS'qlikview'
+p17
+F0.0077366713533628204
+sS'statistics'
+p18
+F0.0017898519286038475
+sS'java'
+p19
+F0.0023786314158700259
+sS'scala'
+p20
+F0.0046843884600741587
+sS'data'
+p21
+F0.0011382100563768992
+sS'excel'
+p22
+F0.0031035589765951352
+sS'tableau'
+p23
+F0.0038560961365139957
+sS'agent-based modeling'
+p24
+F0.011279496179822624
+sS'perl'
+p25
+F0.005501057090766542
+sS'market research'
+p26
+F0.0061512631871371345
+sS'r'
+F0.001065244350506605
+sS'matlab'
+p27
+F0.0024499063102458056
+sS'intelligence'
+p28
+F0.0030135481955600365
+sS'policy'
+p29
+F0.0052392672323238951
+sS'statistical learning'
+p30
+F0.010377381118988878
 sS'operations research'
-p81
-I1
+p31
+F0.0055296324674700761
 sS'computer science'
-p82
-I1
-ssS'education'
-p83
-(dp84
-VBachelor
-p85
-I1
-sVDoctor
-p86
-I1
-ssS'responsibility'
-p87
-(dp88
-S'development'
-p89
-I1
-sS'information'
-p90
-I1
-sS'forecasting'
-p91
-I1
-sVinsight
-p92
-I1
-sS'business problem'
-p93
-I1
-sS'pattern'
-p94
-I1
+p32
+F0.0026986243055416902
+sS'clustering'
+p33
+F0.0061869722851366797
+sS'segmentation'
+p34
+F0.0055586397545682167
 sS'processing'
-p95
-I1
-sS'communicate'
-p96
-I1
-sS'product'
-p97
-I1
-sS'analysis'
-p98
-I1
-sS'simulation'
-p99
-I1
-sS'prototype'
-p100
-I1
-sS'analytic'
-p101
-I1
-sS'optimization'
-p102
-I1
-sS'understand'
-p103
-I1
-sS'data mining'
-p104
-I1
+p35
+F0.0031345260780628022
+sS'python'
+p36
+F0.0040019310000250748
+sS'data scientist'
+p37
+F0.0020333429273778855
+sS'natural language processing'
+p38
+F0.0048099004452213101
+sS'spotfire'
+p39
+F0.0082422631721697989
+sS'apache spark'
+p40
+F0.0050433882771399995
+sS'sales'
+p41
+F0.012762398234898288
+sS'mongodb'
+p42
+F0.0056758076081024475
+sS'statistical modeling'
+p43
+F0.0034383215358740815
+sS'sql'
+p44
+F0.0013089133566853112
+sS'apache'
+p45
+F0.0043437653906756787
 sS'modeling'
+p46
+F0.0015588209002333061
+sS'spark'
+p47
+F0.0064726895328816062
+sS'ruby'
+p48
+F0.006520753482398267
+sS'information technology'
+p49
+F0.0059820519611549806
+sS'software development'
+p50
+F0.0040694752746128068
+sS'c'
+F0.0048008519151558435
+sS'retail'
+p51
+F0.01322825905726112
+sS'pattern recognition'
+p52
+F0.0061292777521721516
+sS'parallel programming'
+p53
+F0.010047535791441768
+sS'statistical analysis'
+p54
+F0.004941842904822664
+sS'science'
+p55
+F0.0013493932594896207
+sS'economics'
+p56
+F0.0045997923692120178
+sS'programming'
+p57
+F0.0021157682050573431
+sS'engineering'
+p58
+F0.002350968861945594
+sS'analysis'
+p59
+F0.00065761750816531656
+sS'simulation'
+p60
+F0.0051532356769181794
+sS'procurement'
+p61
+F0.010081507928916775
+sS'optimization'
+p62
+F0.019193942969179867
+sS'inventory management'
+p63
+F0.010983622451508615
+sS'consulting'
+p64
+F0.013010641235764323
+sS'clojure'
+p65
+F0.010047535791441768
+sS'physics'
+p66
+F0.0046700275958669159
+sS'education'
+p67
+F0.0080561487516824151
+sS'crm'
+p68
+F0.006312644848746253
+ssS'working-year'
+p69
+(dp70
+V(5, 10]
+p71
+F0.0023140964713567348
+sV(2, 5]
+p72
+F0.0023780123386394156
+ssS'major'
+p73
+(dp74
+VStatistics
+p75
+F0.0034577826677314395
+sVBusiness
+p76
+F0.0020762271538850561
+sVData Science
+p77
+F0.0019717638821594293
+sVEconomics
+p78
+F0.0031492736036937826
+sVEngineering
+p79
+F0.002350968861945594
+sVInformation Science
+p80
+F0.0048611423964569937
+sVComputer Science
+p81
+F0.0017377269603689016
+sVMathematics
+p82
+F0.0032903503446880073
+sVPhysics
+p83
+F0.0050359541289828986
+sVOperations Research
+p84
+F0.0061779825301097003
+sVManagement Science and Engineering
+p85
+F0.0024751334711495053
+ssS'education'
+p86
+(dp87
+VBachelor
+p88
+F0.0017492875771015484
+sVMaster
+p89
+F0.0013959322173208769
+sVDoctor
+p90
+F0.0020905600226035852
+ssS'responsibility'
+p91
+(dp92
+S'development'
+p93
+F0.0023243013482036824
+sS'information'
+p94
+F0.010649560073162338
+sS'forecasting'
+p95
+F0.0056280787060082882
+sS'insight'
+p96
+F0.0035218682456995875
+sS'business problem'
+p97
+F0.0054666997353755176
+sS'pattern'
+p98
+F0.0050260865174167864
+sS'processing'
+p99
+F0.0031345260780628022
+sS'communicate'
+p100
+F0.007701508185342004
+sS'product'
+p101
+F0.0051631205017955723
+sS'analysis'
+p102
+F0.00065761750816531656
+sS'simulation'
+p103
+F0.0051532356769181794
+sS'analytic'
+p104
+F0.0086668943274458461
+sS'optimization'
 p105
-I1
-sS'model'
+F0.019193942969179867
+sS'understand'
 p106
-I1
-sS'statistical model'
+F0.0040339343828105093
+sS'data mining'
 p107
-I1
+F0.0040728969840348132
+sS'modeling'
+p108
+F0.0015588209002333061
+sS'model'
+p109
+F0.011880313565463653
+sS'prototype'
+p110
+F0.0060521524252393237
+sS'test ... model'
+p111
+F0.0088933414766714583
 ss.

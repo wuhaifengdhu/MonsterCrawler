@@ -2,225 +2,194 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'decision support'
 p4
-I1
-sS'decision support'
+F0.016634988606639589
+sS'hadoop'
 p5
-I1
+F0.0048120093685376959
 sS'engineering'
 p6
-I1
+F0.013762413225546681
 sS'process improvement'
 p7
-I1
+F0.012081508031571033
 sS'data mining'
 p8
-I1
+F0.0079474881224050106
 sS'education'
 p9
-I1
+F0.0078600252801995091
 sS'image processing'
 p10
-I1
+F0.012422633015998621
 sS'random forest'
 p11
-I1
-sS'management'
+F0.017009828819615519
+sS'statistics'
 p12
-I1
+F0.0034925575086239874
 sS'java'
 p13
-I1
+F0.0046414493171096759
 sS'big data'
 p14
-I1
+F0.0047667607728938861
 sS'deep learning'
 p15
-I1
+F0.011664950123196445
 sS'tableau'
 p16
-I1
-sS'computer science'
+F0.0075244422738718793
+sS'research'
 p17
-I1
-sS'advanced analytics'
-p18
-I1
-sS'operations research'
-p19
-I1
-sS'systems engineering'
-p20
-I1
-sS'transportation'
-p21
-I1
-sS'python'
-p22
-I1
-sS'automotive'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'spotfire'
-p25
-I1
-sS'experimental design'
-p26
-I1
-sS'business process'
-p27
-I1
-sS'sql'
-p28
-I1
-sS'software development'
-p29
-I1
-sS'data visualization'
-p30
-I1
-sS'parallel programming'
-p31
-I1
-sS'science'
-p32
-I1
-sS'applied mathematics'
-p33
-I1
-sS'programming'
-p34
-I1
-sS'mapreduce'
-p35
-I1
-sS'c++'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'olap'
-p38
-I1
-sS'r'
-I1
-ssS'working-year'
-p39
-(dp40
-V(0, 2]
-p41
-I1
-sV(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'mathematical sciences'
-p45
-I1
-sS'information'
-p46
-I1
-sS'management'
-p47
-I1
-sS'transportation'
-p48
-I1
-sS'business'
-p49
-I1
-sS'big data'
-p50
-I1
-sS'systems engineering'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'applied mathematics'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'science'
-p55
-I1
-sS'machine learning'
-p56
-I1
-sS'engineering'
-p57
-I1
-sS'information science'
-p58
-I1
-sS'design'
-p59
-I1
+F0.0031953570848754242
 sS'computer science'
-p60
-I1
-sS'data mining'
-p61
-I1
+p18
+F0.0052658549183041969
 sS'advanced analytics'
-p62
-I1
-sS'applied math'
-p63
-I1
+p19
+F0.011021762375798065
 sS'operations research'
-p64
-I1
-sS'data mining machine learning'
-p65
-I1
-ssS'education'
-p66
-(dp67
-VMaster
-p68
-I1
-sVDoctor
-p69
-I1
-ssS'responsibility'
-p70
-(dp71
-S'development'
-p72
-I1
-sS'information'
-p73
-I1
-sS'data mining'
-p74
-I1
-sS'identify opportunity'
-p75
-I1
+p20
+F0.010790031893452845
+sS'systems engineering'
+p21
+F0.016083217650563541
+sS'transportation'
+p22
+F0.033210763085692638
+sS'python'
+p23
+F0.0019522528567538051
+sS'automotive'
+p24
+F0.015907821975037956
 sS'processing'
-p76
-I1
+p25
+F0.0061164347815382773
+sS'spotfire'
+p26
+F0.016083217650563541
+sS'experimental design'
+p27
+F0.012972707374682382
+sS'business process'
+p28
+F0.011443007226665754
+sS'management'
+p29
+F0.0033934414501859632
+sS'sql'
+p30
+F0.0025540968495619742
+sS'software development'
+p31
+F0.0079408113036452156
+sS'c'
+F0.0046839772430640348
+sS'data visualization'
+p32
+F0.0073660435414966323
+sS'parallel programming'
+p33
+F0.019605865720378882
+sS'science'
+p34
+F0.0026330857235733799
+sS'applied mathematics'
+p35
+F0.011318766834620624
+sS'programming'
+p36
+F0.0041285214787823068
+sS'mapreduce'
+p37
+F0.0098752865803592542
+sS'communication skills'
+p38
+F0.013794478846667131
+sS'machine learning'
+p39
+F0.0024551225536855407
+sS'olap'
+p40
+F0.019290949428858051
+sS'r'
+F0.002078622871213263
+ssS'working-year'
+p41
+(dp42
+V(0, 2]
+p43
+F0.0085302627868545072
+sV(2, 5]
+p44
+F0.0046402413049855262
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0067472088759853192
+sVBusiness
+p48
+F0.0040513645961577308
+sVData Science
+p49
+F0.0038475242794197102
+sVEngineering
+p50
+F0.013762413225546681
+sVComputer Science
+p51
+F0.0033908454919557968
+sVMathematics
+p52
+F0.0064204963654773484
+sVOperations Research
+p53
+F0.012055164412685971
+sVManagement Science and Engineering
+p54
+F0.0048297548257261892
+ssS'education'
+p55
+(dp56
+VMaster
+p57
+F0.0027238976974688273
+sVDoctor
+p58
+F0.0040793324785635505
+ssS'responsibility'
+p59
+(dp60
+S'development'
+p61
+F0.0045354344659704815
+sS'information'
+p62
+F0.0051951505600351857
+sS'data mining'
+p63
+F0.0079474881224050106
+sS'identify opportunity'
+p64
+F0.015513219253690598
+sS'processing'
+p65
+F0.0061164347815382773
 sS'improvement'
-p77
-I1
+p66
+F0.010060698488161452
 sS'design'
-p78
-I1
+p67
+F0.0054697333708557212
 sS'recommendation'
-p79
-I1
+p68
+F0.0097835271341508295
 sS'model'
-p80
-I1
+p69
+F0.0057955462243507146
 ss.

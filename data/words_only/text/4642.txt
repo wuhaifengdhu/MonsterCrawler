@@ -1,5 +1,5 @@
-skills: {'logistics': 1, 'search': 1, 'networking': 1, 'recruiting': 1, 'energy': 1, 'data scientist': 1, 'research': 1, 'go': 1, 'strategy': 1, 'data': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'business': 1}
-education: {u'Bachelor': 1}
-responsibility: {'product leadership': 1, 'report': 1, 'product': 1, 'communicate': 1}
+skills: {'a': 0.005194560815594519, 'logistics': 0.012791647929024387, 'search': 0.025849914813748064, 'networking': 0.020179953570226596, 'energy': 0.008570820294583567, 'documentation': 0.008054002663733418, 'recruiting': 0.05748163751028985, 'research': 0.002369889837949273, 'go': 0.009108092208410077, 'organization': 0.004897732886893559, 'strategy': 0.004375031753407875, 'data': 0.0009883457322872743}
+working-year: {u'(5, 10]': 0.003349011837713497, u'(2, 5]': 0.003441512301197599}
+major: {u'Business': 0.003004762075483651}
+education: {u'Bachelor': 0.00253160785463863, u'Master': 0.0020202241256227138}
+responsibility: {'product leadership': 0.017742894477086397, 'report': 0.011529313445402383, 'product': 0.0037360913631048517, 'documentation': 0.008054002663733418, 'communicate': 0.0055728968952266445}

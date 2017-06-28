@@ -2,67 +2,73 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'education'
 p4
-aS'shell scripting'
+aS'management'
 p5
-aS'python'
+aS'shell scripting'
 p6
-aS'science'
+aS'python'
 p7
-aS'data analysis'
+aS'science'
 p8
-aS'data scientist'
+aS'data analysis'
 p9
-aS'analysis'
+aS'data scientist'
 p10
-aS'research'
+aS'analysis'
 p11
+aS'writing'
+p12
 aS'r'
 aS'ggplot2'
-p12
-aS'scripting'
 p13
-aS'stata'
+aS'scripting'
 p14
-aS'teamwork'
+aS'stata'
 p15
-aS'education'
+aS'mysql'
 p16
-aS'data'
+aS'teamwork'
 p17
-aS'data management'
+aS'research'
 p18
-aS'customer experience'
+aS'data'
 p19
-asS'working-year'
+aS'crm'
 p20
-(lp21
-V(2, 5]
+aS'data management'
+p21
+aS'customer experience'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'information'
+V(2, 5]
 p25
-aS'management'
+asS'major'
 p26
-aS'science'
-p27
-asS'education'
+(lp27
+VManagement Science and Engineering
 p28
-(lp29
+asS'education'
+p29
+(lp30
 VMaster
-p30
-asS'responsibility'
 p31
-(lp32
+asS'responsibility'
+p32
+(lp33
 S'information'
-p33
-aS'data analysis'
 p34
-aS'analysis'
+aS'data analysis'
 p35
 aS'data infrastructure'
 p36
+aS'analysis'
+p37
+aS'report'
+p38
+aS'decision making'
+p39
 as.

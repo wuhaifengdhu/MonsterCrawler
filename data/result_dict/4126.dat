@@ -2,19 +2,19 @@
 S'skills'
 p2
 (lp3
-S'forecasting'
+S'nlp'
 p4
-aS'problem solving'
+aS'forecasting'
 p5
-aS'communication'
+aS'problem solving'
 p6
-aS'data science'
+aS'communication'
 p7
-aS'analytics'
+aS'data science'
 p8
-aS'health insurance'
+aS'analytics'
 p9
-aS'statistical analysis'
+aS'health insurance'
 p10
 aS'intelligence'
 p11
@@ -24,108 +24,101 @@ aS'insurance'
 p13
 aS'qlikview'
 p14
-aS'management'
+aS'visualization'
 p15
-aS'big data'
+aS'management'
 p16
-aS'tableau'
+aS'big data'
 p17
-aS'regression'
+aS'tableau'
 p18
-aS'oracle sql'
+aS'regression'
 p19
-aS'natural language processing'
+aS'oracle sql'
 p20
-aS'policy'
+aS'natural language processing'
 p21
-aS'master data management'
+aS'policy'
 p22
-aS'data management'
+aS'master data management'
 p23
-aS'clustering'
+aS'data management'
 p24
-aS'segmentation'
+aS'clustering'
 p25
-aS'product development'
+aS'segmentation'
 p26
-aS'customer service'
+aS'product development'
 p27
-aS'processing'
+aS'customer service'
 p28
-aS'data scientist'
+aS'processing'
 p29
-aS'leadership'
+aS'data scientist'
 p30
-aS'sql'
+aS'search'
 p31
-aS'data'
+aS'leadership'
 p32
-aS'training'
+aS'sql'
 p33
-aS'data visualization'
+aS'data'
 p34
-aS'science'
+aS'a'
+aS'training'
 p35
-aS'analysis'
+aS'data visualization'
 p36
-aS'linear regression'
+aS'science'
 p37
-aS'google analytics'
+aS'analysis'
 p38
-aS'artificial intelligence'
+aS'linear regression'
 p39
-aS'oracle'
+aS'google analytics'
 p40
-aS'validation'
+aS'artificial intelligence'
 p41
-asS'working-year'
+aS'healthcare'
 p42
-(lp43
-V(2, 5]
+aS'oracle'
+p43
+aS'validation'
 p44
-asS'major'
+asS'working-year'
 p45
 (lp46
-S'information'
+sS'major'
 p47
-aS'management'
-p48
-aS'big data'
+(lp48
+VData Science
 p49
-aS'science'
+aVManagement Science and Engineering
 p50
-aS'data science'
-p51
-aS'communication'
-p52
-aS'analytics'
-p53
-aS'natural language processing'
-p54
-aS'artificial intelligence'
-p55
 asS'education'
-p56
-(lp57
-VMaster
-p58
+p51
+(lp52
+VBachelor
+p53
+aVMaster
+p54
 asS'responsibility'
-p59
-(lp60
-S'information'
-p61
+p55
+(lp56
+S'development'
+p57
+aS'information'
+p58
 aS'forecasting'
-p62
+p59
 aS'processing'
-p63
+p60
 aS'product'
-p64
+p61
 aS'analysis'
-p65
-aS'solve problem'
-p66
+p62
 aS'recommendation'
-p67
+p63
 aS'report'
-p68
+p64
 as.

@@ -4,172 +4,169 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.014931738776340676
 sS'nosql'
 p5
-I1
+F0.01189933419246314
 sS'pig'
 p6
-I1
+F0.011733165978764745
 sS'business intelligence'
 p7
-I1
+F0.0088827969946713957
 sS'analysis'
 p8
-I1
+F0.001489646616322304
 sS'data mining'
 p9
-I1
+F0.0092259970812266848
 sS'education'
 p10
-I1
-sS'classification'
+F0.0091244641296229102
+sS'spark'
 p11
-I1
-sS'agile'
+F0.0073310244491985154
+sS'classification'
 p12
-I1
-sS'hadoop'
+F0.013718964788948169
+sS'agile'
 p13
-I1
-sS'research'
+F0.0094943037943456925
+sS'hadoop'
 p14
-I1
-sS'natural language processing'
+F0.011172230446952739
+sS'research'
 p15
-I1
-sS'dimensional modeling'
-p16
-I1
-sS'data analysis'
-p17
-I1
-sS'distributed computing'
-p18
-I1
-sS'python'
-p19
-I1
-sS'mongodb'
-p20
-I1
-sS'processing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'data quality'
-p23
-I1
-sS'modeling'
-p24
-I1
-sS'translation'
-p25
-I1
-sS'data'
-p26
-I1
-sS'software development'
-p27
-I1
-sS'search'
-p28
-I1
-sS'cloudera'
-p29
-I1
-sS'hypothesis testing'
-p30
-I1
-sS'programming'
-p31
-I1
-sS'mapreduce'
-p32
-I1
-sS'hive'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'r'
-I1
-sS'elasticsearch'
-p35
-I1
-sS'healthcare'
-p36
-I1
-sS'scripting'
-p37
-I1
-sS'statistical analysis'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(10, 15]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'business'
-p44
-I1
+F0.0037093927898336448
 sS'natural language processing'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'design'
-p47
-I1
-sS'data mining'
-p48
-I1
-sS'phd'
-p49
-I1
-ssS'education'
-p50
-(dp51
-VMaster
-p52
-I1
-sVDoctor
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-I1
+p16
+F0.010895470138957839
+sS'dimensional modeling'
+p17
+F0.025136120044820368
 sS'data analysis'
-p57
-I1
+p18
+F0.0064511391955028924
+sS'distributed computing'
+p19
+F0.015553897662866576
+sS'python'
+p20
+F0.0022663109250141999
+sS'mongodb'
+p21
+F0.012856938103571197
 sS'processing'
-p58
-I1
-sS'analysis'
-p59
-I1
-sS'design'
-p60
-I1
-sS'data mining'
-p61
-I1
+p22
+F0.0071003829855248697
+sS'data scientist'
+p23
+F0.0046059637615820798
+sS'data quality'
+p24
+F0.015368861144287928
+sS'sql'
+p25
+F0.0029649732992741177
 sS'modeling'
-p62
-I1
+p26
+F0.0035310682131371846
+sS'translation'
+p27
+F0.022122450062709534
+sS'data'
+p28
+F0.002062634571729964
+sS'software development'
+p29
+F0.009218246165535968
+sS'search'
+p30
+F0.013486912076738121
+sS'cloudera'
+p31
+F0.019784499265413365
+sS'hypothesis testing'
+p32
+F0.019559563989096956
+sS'programming'
+p33
+F0.0047926749340646783
+sS'mapreduce'
+p34
+F0.011463919638938785
+sS'hive'
+p35
+F0.018136993473826146
+sS'machine learning'
+p36
+F0.0028500770514523449
+sS'r'
+F0.0024130100287562662
+sS'elasticsearch'
+p37
+F0.01798332397720399
+sS'healthcare'
+p38
+F0.023454263854870993
+sS'scripting'
+p39
+F0.010578627728028971
+sS'statistical analysis'
+p40
+F0.011194348493098296
+ssS'working-year'
+p41
+(dp42
+V(10, 15]
+p43
+F0.0085105493747754737
+ssS'major'
+p44
+(dp45
+VComputer Science
+p46
+F0.0039363293319660767
+sVBusiness
+p47
+F0.0047031058572787575
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0039625166420430725
+sVMaster
+p51
+F0.003162089935757291
+sVDoctor
+p52
+F0.0047355729207672519
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+F0.005265047836583125
+sS'data analysis'
+p56
+F0.0064511391955028924
+sS'processing'
+p57
+F0.0071003829855248697
+sS'analysis'
+p58
+F0.001489646616322304
+sS'design'
+p59
+F0.0063496470000803376
+sS'data mining'
+p60
+F0.0092259970812266848
+sS'modeling'
+p61
+F0.0035310682131371846
 sS'extract'
-p63
-I1
+p62
+F0.013450906655229694
 ss.

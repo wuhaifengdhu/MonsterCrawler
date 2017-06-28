@@ -20,7 +20,7 @@ aS'strategy'
 p11
 aS'genomics'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'genetics'
 p14
@@ -58,9 +58,9 @@ aS'innovation'
 p30
 aS'data scientist'
 p31
-aS'life sciences'
-p32
 aS'medical imaging'
+p32
+aS'management'
 p33
 aS'facebook'
 p34
@@ -74,121 +74,97 @@ aS'neuroscience'
 p38
 aS'biomedical engineering'
 p39
+aS'a'
 aS'java'
 p40
-aS'c'
-aS'data visualization'
-p41
-aS'solver'
-p42
-aS'non-profits'
-p43
-aS'science'
-p44
-aS'programming'
-p45
-aS'security clearance'
-p46
-aS'machine learning'
-p47
-aS'data cleaning'
-p48
-aS'financial services'
-p49
-aS'organization'
-p50
-aS'security'
-p51
-aS'root'
-p52
-aS'statistical analysis'
-p53
-asS'working-year'
-p54
-(lp55
-V(0, 2]
-p56
-asS'major'
-p57
-(lp58
-S'ee'
-p59
-aS'data science'
-p60
-aS'statistic'
-p61
-aS'analytics'
-p62
-aS'engineering'
-p63
-aS'management technology'
-p64
-aS'data mining'
-p65
-aS'management'
-p66
-aS'genetics'
-p67
-aS'natural language processing'
-p68
-aS'advanced analytics'
-p69
-aS'mathematics'
-p70
-aS'ee cs'
-p71
-aS'operations research'
-p72
-aS'data mining machine learning'
-p73
-aS'biology'
-p74
-aS'business'
-p75
-aS'phd'
-p76
-aS'medical imaging'
-p77
-aS'bioinformatics'
-p78
-aS'neuroscience'
-p79
-aS'biomedical engineering'
-p80
 aS'life sciences'
-p81
+p41
+aS'data visualization'
+p42
+aS'solver'
+p43
+aS'non-profits'
+p44
 aS'science'
-p82
+p45
+aS'.net'
+p46
+aS'programming'
+p47
+aS'security clearance'
+p48
 aS'machine learning'
-p83
-aS'history'
-p84
+p49
+aS'data cleaning'
+p50
+aS'financial services'
+p51
+aS'organization'
+p52
+aS'security'
+p53
+aS'root'
+p54
+aS'statistical analysis'
+p55
+asS'working-year'
+p56
+(lp57
+V(0, 2]
+p58
+asS'major'
+p59
+(lp60
+VStatistics
+p61
+aVBusiness
+p62
+aVData Science
+p63
+aVEngineering
+p64
+aVCognitive Science
+p65
+aVComputer Science
+p66
+aVBiological Engineering
+p67
+aVMathematics
+p68
+aVOperations Research
+p69
+aVManagement Science and Engineering
+p70
 asS'education'
-p85
-(lp86
+p71
+(lp72
 VBachelor
-p87
+p73
+aVMaster
+p74
 aVDoctor
-p88
+p75
 asS'responsibility'
-p89
-(lp90
+p76
+(lp77
 S'development'
-p91
+p78
+aS'information'
+p79
 aS'data analysis'
-p92
+p80
 aS'business problem'
-p93
+p81
 aS'processing'
-p94
+p82
 aS'analysis'
-p95
+p83
 aS'analytic'
-p96
+p84
 aS'data mining'
-p97
+p85
 aS'model'
-p98
+p86
 aS'data gathering'
-p99
+p87
 as.

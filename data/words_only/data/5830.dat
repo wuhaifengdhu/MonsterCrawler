@@ -2,154 +2,147 @@
 S'skills'
 p2
 (dp3
-S'data visualization'
+S'forecasting'
 p4
-I1
-sS'testing'
-p5
-I1
-sS'economics'
-p6
-I1
-sS'finance'
-p7
-I1
-sS'classification'
-p8
-I1
-sS'anomaly detection'
-p9
-I1
-sS'real estate'
-p10
-I1
-sS'data science'
-p11
-I1
+F0.016851890838105277
 sS'documentation'
-p12
-I1
-sS'business process'
-p13
-I1
-sS'research'
-p14
-I1
-sS'applied mathematics'
-p15
-I1
+p5
+F0.033326907574069316
+sS'classification'
+p6
+F0.018134263801483211
+sS'data science'
+p7
+F0.0069128788831068922
+sS'testing'
+p8
+F0.011766540315517316
 sS'cluster'
-p16
-I1
-sS'analysis'
-p17
-I1
-sS'mathematical analysis'
-p18
-I1
+p9
+F0.020187648290341819
 sS'data mining'
-p19
-I1
-sS'mathematics'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'automation'
-p22
-I1
+p10
+F0.012195283498173204
 sS'random forest'
+p11
+F0.026101289050789331
+sS'anomaly detection'
+p12
+F0.025258750018296611
+sS'research'
+p13
+F0.0049032203543778064
+sS'finance'
+p14
+F0.015259460081515451
+sS'mathematical analysis'
+p15
+F0.027788326298733741
+sS'business process'
+p16
+F0.017559097296090554
+sS'modeling'
+p17
+F0.0093350079197879587
+sS'automation'
+p18
+F0.019166944399217293
+sS'data'
+p19
+F0.0013632354928100334
+sS'data visualization'
+p20
+F0.011303066813675867
+sS'science'
+p21
+F0.0040404246447936342
+sS'applied mathematics'
+p22
+F0.017368452556573023
+sS'economics'
 p23
-I1
-ssS'working-year'
+F0.013772941519307249
+sS'analysis'
 p24
-(dp25
-V[0]
+F0.007876292454117929
+sS'r'
+F0.0031896109575513861
+sS'algorithms'
+p25
+F0.010311331484857781
+sS'real estate'
 p26
-I1
-ssS'major'
+F0.031317097646333281
+ssS'working-year'
 p27
 (dp28
-S'data mining'
+S'[0]'
 p29
-I1
-sS'finance'
+F0.01262192373876082
+ssS'major'
 p30
-I1
-sS'business'
-p31
-I1
-sS'applied mathematics'
+(dp31
+VMathematics
 p32
-I1
-sS'economics'
+F0.0098521409746117929
+sVData Science
 p33
-I1
-sS'automation'
+F0.0059039596701440378
+sVEconomics
 p34
-I1
-sS'design'
+F0.0094297215374969014
+sVComputer Science
 p35
-I1
-sS'statistic'
+F0.0052031939445528605
+sVBusiness
 p36
-I1
-sS'mathematics'
-p37
-I1
-sS'applied math'
-p38
-I1
-sS'data science'
-p39
-I1
+F0.0062167491216903112
 ssS'education'
+p37
+(dp38
+S'Bachelor'
+p39
+F0.0052378093544247512
+ssS'responsibility'
 p40
 (dp41
-S'Bachelor'
-p42
-I1
-ssS'responsibility'
-p43
-(dp44
 S'development'
-p45
-I1
-sS'large data set'
-p46
-I1
-sS'design'
-p47
-I1
+p42
+F0.013919091981771478
 sS'cost-benefit'
-p48
-I1
+p43
+F0.040693036500191758
+sS'forecasting'
+p44
+F0.016851890838105277
+sS'large data set'
+p45
+F0.018071592731798081
 sS'documentation'
-p49
-I1
+p46
+F0.033326907574069316
 sS'mapping'
-p50
-I1
+p47
+F0.02456252706256163
 sS'analysis'
-p51
-I1
-sS'complex data set'
-p52
-I1
+p48
+F0.007876292454117929
+sS'design'
+p49
+F0.016786423103660662
 sS'data mining'
-p53
-I1
+p50
+F0.012195283498173204
 sS'modeling'
-p54
-I1
+p51
+F0.0093350079197879587
 sS'implement'
-p55
-I1
+p52
+F0.012171627443216135
 sS'prototype'
-p56
-I1
+p53
+F0.05436502437154634
 sS'model'
-p57
-I1
+p54
+F0.053358994548332442
 ss.

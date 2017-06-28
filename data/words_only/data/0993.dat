@@ -4,238 +4,247 @@ p2
 (dp3
 S'insurance'
 p4
-I1
+F0.027089101490976701
 sS'programming'
 p5
-I1
+F0.0018940124309877592
 sS'probability'
 p6
-I1
+F0.0059876789315695565
 sS'communication'
 p7
-I1
+F0.0027202222665134988
 sS'energy'
 p8
-I1
-sS'problem solving'
-p9
-I1
-sS'hbase'
-p10
-I1
-sS'd3.js'
-p11
-I1
-sVpanda
-p12
-I1
-sS'visualization'
-p13
-I1
-sS'nosql'
-p14
-I1
-sS'critical thinking'
-p15
-I1
-sS'research'
-p16
-I1
-sS'python'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'natural language processing'
-p19
-I1
-sS'advanced analytics'
-p20
-I1
-sS'algorithm development'
-p21
-I1
-sS'numpy'
-p22
-I1
-sS'data analysis'
-p23
-I1
-sS'database design'
-p24
-I1
-sS'processing'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'matplotlib'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'scipy'
-p29
-I1
-sS'facebook'
-p30
-I1
+F0.0053015383265465361
 sS'sql'
-p31
-I1
-sS'spark'
-p32
-I1
-sS'data'
-p33
-I1
-sS'organization'
-p34
-I1
-sVbayesian method
-p35
-I1
-sS'applied mathematics'
-p36
-I1
-sS'scikit-learn'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'django'
-p39
-I1
-sS'flask'
-p40
-I1
-sS'r'
-I1
-sS'electrical engineering'
-p41
-I1
-sS'military'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(5, 10]
-p45
-I1
-sV(10, 15]
-p46
-I1
-ssS'major'
-p47
-(dp48
-S'information'
-p49
-I1
-sS'business'
-p50
-I1
-sS'applied math computer science'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'applied mathematics'
-p53
-I1
-sS'natural language processing'
-p54
-I1
-sS'computer science statistics'
-p55
-I1
-sS'machine learning'
-p56
-I1
-sS'engineering physics'
-p57
-I1
-sS'electrical engineering physics'
-p58
-I1
-sS'history'
-p59
-I1
-sS'design'
-p60
-I1
+p9
+F0.001171724843355751
+sS'problem solving'
+p10
+F0.0042175461597134898
+sS'hbase'
+p11
+F0.005753020772921085
+sS'd3.js'
+p12
+F0.0059513966821996495
+sS'd3'
+p13
+F0.0051893355535829796
+sS'visualization'
+p14
+F0.0096613158347111823
+sS'statistics'
+p15
+F0.0016022557642656435
+sS'nosql'
+p16
+F0.0047024860210764987
+sS'critical thinking'
+p17
+F0.0067375354450361132
+sS'hadoop'
+p18
+F0.0022075713082466749
+sS'research'
+p19
+F0.0043977337199058676
+sS'python'
+p20
+F0.00089562115593344669
+sS'html'
+p21
+F0.0043987709505991313
 sS'computer science'
-p61
-I1
-sS'statistic'
-p62
-I1
+p22
+F0.0024157788027271833
+sS'natural language processing'
+p23
+F0.0043057699861860869
 sS'advanced analytics'
-p63
-I1
-sS'electrical engineering'
-p64
-I1
-sS'applied math'
-p65
-I1
-sVphysic
-p66
-I1
-sS'statistics applied mathematics'
-p67
-I1
-ssS'education'
-p68
-(dp69
-VMaster
-p70
-I1
-sVDoctor
-p71
-I1
-ssS'responsibility'
-p72
-(dp73
-S'development'
-p74
-I1
-sS'information'
-p75
-I1
-sS'product'
-p76
-I1
+p24
+F0.0050563755229176693
+sS'mathematics'
+p25
+F0.00314071010665946
+sS'numpy'
+p26
+F0.0061640555001846887
+sS'css'
+p27
+F0.005280585212685515
 sS'data analysis'
-p77
-I1
+p28
+F0.0025494192697004558
+sS'apis'
+p29
+F0.0063220195294444144
+sS'database design'
+p30
+F0.006386863847746547
 sS'processing'
-p78
-I1
+p31
+F0.0028059932760665291
+sS'data scientist'
+p32
+F0.0018202262288039145
+sS'matplotlib'
+p33
+F0.0077735957716053199
+sS'machine learning'
+p34
+F0.00112631910968048
+sS'scipy'
+p35
+F0.0069439651159536736
+sS'facebook'
+p36
+F0.0073434359259204867
+sS'algorithm development'
+p37
+F0.0072318260263774152
+sS'spark'
+p38
+F0.0028971402462468362
+sS'data'
+p39
+F0.00061134787564161297
+sS'organization'
+p40
+F0.0060590509940951246
+sVbayesian method
+p41
+F0.008433628211606134
+sS'science'
+p42
+F0.0024159240144126888
+sS'applied mathematics'
+p43
+F0.0051926301457795639
+sS'scikit-learn'
+p44
+F0.0061640555001846887
 sS'analysis'
-p79
-I1
-sS'design'
-p80
-I1
-sS'ownership'
-p81
-I1
-sS'report'
-p82
-I1
-sS'model'
-p83
-I1
-sS'prototype'
-p84
-I1
+p45
+F0.00058869196177685555
+sS'django'
+p46
+F0.0075129723844575601
+sVpanda
+p47
+F0.0075646512183755368
+sS'flask'
+p48
+F0.0091855519271507226
+sS'r'
+F0.00095359502854629066
+sS'electrical engineering'
+p49
+F0.0068120705899979653
+sS'javascript'
+p50
+F0.0038100422921339243
+sS'military'
+p51
+F0.012827005402171165
+sS'physics'
+p52
+F0.0041805573495647137
+ssS'working-year'
+p53
+(dp54
+V(5, 10]
+p55
+F0.0020715537140495854
+sV(10, 15]
+p56
+F0.0033632755261140189
+ssS'major'
+p57
+(dp58
+VStatistics
+p59
+F0.0030953690204262546
+sVBusiness
+p60
+F0.0018586157167940105
+sVData Science
+p61
+F0.0017651013446822381
+sVElectrical and Electronics Engineering
+p62
+F0.0054065783425686969
+sVEngineering
+p63
+F0.0038700668844789134
+sVComputer Science
+p64
+F0.0015555940658972468
+sVMathematics
+p65
+F0.0029454854460179585
+sVPhysics
+p66
+F0.0045081307580757566
+ssS'education'
+p67
+(dp68
+VMaster
+p69
+F0.0012496231704882763
+sVDoctor
+p70
+F0.0018714463432585361
+ssS'responsibility'
+p71
+(dp72
+S'development'
+p73
+F0.0020806890075843964
+sS'information'
+p74
+F0.0071500268016979097
+sS'product'
+p75
+F0.0023109843483122795
+sS'data analysis'
+p76
+F0.0025494192697004558
+sS'develop ... system'
+p77
+F0.0080458788504810443
 sS'presentation'
+p78
+F0.0084651351969402284
+sS'processing'
+p79
+F0.0028059932760665291
+sS'analysis'
+p80
+F0.00058869196177685555
+sS'develop ... model'
+p81
+F0.0053263110432579686
+sS'design'
+p82
+F0.0025093106701348411
+sS'ownership'
+p83
+F0.0067702636599439652
+sS'report'
+p84
+F0.0035657670449698092
+sS'model'
 p85
-I1
+F0.0026587815152949155
+sS'prototype'
+p86
+F0.0054178202981953394
+sS'design ... experiment'
+p87
+F0.0077153463252511252
+sS'decision making'
+p88
+F0.0056126856527998516
 ss.

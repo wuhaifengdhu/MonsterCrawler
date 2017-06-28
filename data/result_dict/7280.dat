@@ -2,116 +2,122 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
-p5
 aS'intelligence'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'testing'
-p8
+p7
 aS'intelligence analysis'
-p9
+p8
 aS'integration'
-p10
+p9
 aS'analytics'
+p10
+aS'unix'
 p11
 aS'defense'
 p12
 aS'hive'
 p13
-aS'hbase'
+aS'linux'
 p14
-aS'research'
+aS'hbase'
 p15
-aS'hdfs'
+aS'research'
 p16
-aS'java'
+aS'insurance'
 p17
-aS'big data'
+aS'hdfs'
 p18
-aS'hadoop'
+aS'education'
 p19
-aS'writing'
+aS'java'
 p20
-aS'json'
-p21
-aS'operating systems'
-p22
-aS'linguistics'
-p23
-aS'automation'
-p24
-aS'construction'
-p25
-aS'technical writing'
-p26
-aS'pig'
-p27
-aS'data'
-p28
-aS'software development'
-p29
-aS'c'
-aS'national security'
-p30
-aS'science'
-p31
-aS'programming'
-p32
-aS'analysis'
-p33
-aS'r'
-aS'artificial intelligence'
-p34
-aS'security'
-p35
-asS'working-year'
-p36
-(lp37
-V(2, 5]
-p38
-asS'major'
-p39
-(lp40
-S'linguistics'
-p41
 aS'big data'
-p42
-aS'science'
-p43
-aS'data science'
-p44
+p21
+aS'hadoop'
+p22
+aS'writing'
+p23
+aS'json'
+p24
+aS'operating systems'
+p25
+aS'linguistics'
+p26
+aS'c'
+aS'scalability'
+p27
 aS'automation'
-p45
-aS'analytics'
-p46
-aS'design'
-p47
-aS'statistic'
-p48
+p28
+aS'construction'
+p29
+aS'technical writing'
+p30
+aS'pig'
+p31
+aS'data'
+p32
+aS'software development'
+p33
+aS'training'
+p34
+aS'national security'
+p35
+aS'windows'
+p36
+aS'science'
+p37
+aS'.net'
+p38
+aS'programming'
+p39
+aS'engineering'
+p40
+aS'analysis'
+p41
+aS'r'
+aS'algorithms'
+p42
 aS'artificial intelligence'
-p49
-asS'education'
+p43
+aS'security'
+p44
+asS'working-year'
+p45
+(lp46
+V(2, 5]
+p47
+asS'major'
+p48
+(lp49
+VLinguistics
 p50
-(lp51
-S'Bachelor'
+aVData Science
+p51
+aVEngineering
 p52
-asS'responsibility'
+asS'education'
 p53
 (lp54
-S'development'
+S'Bachelor'
 p55
-aS'analysis'
+asS'responsibility'
 p56
-aS'analytic'
-p57
-aS'design'
+(lp57
+S'development'
 p58
-aS'interface'
+aS'analysis'
 p59
-aS'model'
+aS'analytic'
 p60
+aS'design'
+p61
+aS'interface'
+p62
+aS'model'
+p63
 as.

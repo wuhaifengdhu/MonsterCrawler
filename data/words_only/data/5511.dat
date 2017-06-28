@@ -2,160 +2,151 @@
 S'skills'
 p2
 (dp3
-S'text analytics'
+S'nlp'
 p4
-I1
-sS'communication'
+F0.0097565338595407818
+sS'text analytics'
 p5
-I1
-sS'strategic planning'
-p6
-I1
-sS'data warehousing'
-p7
-I1
-sS'education'
-p8
-I1
-sS'management'
-p9
-I1
-sS'big data'
-p10
-I1
-sS'agile'
-p11
-I1
-sS'hadoop'
-p12
-I1
-sS'information management'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'advanced analytics'
-p15
-I1
-sS'master data management'
-p16
-I1
-sS'data management'
-p17
-I1
-sS'data modeling'
-p18
-I1
-sS'six sigma'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'data'
-p22
-I1
-sS'training'
-p23
-I1
-sS'data visualization'
-p24
-I1
-sS'cloud computing'
-p25
-I1
-sS'budgeting'
-p26
-I1
-sS'data architecture'
-p27
-I1
-sS'architecture'
-p28
-I1
-sS'healthcare'
-p29
-I1
-sS'etl'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(5, 10]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'information'
-p36
-I1
-sS'management'
-p37
-I1
-sS'big data'
-p38
-I1
-sS'computing'
-p39
-I1
+F0.012141703718425351
 sS'communication'
-p40
-I1
-sS'business administration'
-p41
-I1
+p6
+F0.0089952804494935028
+sS'strategic planning'
+p7
+F0.0098063740550417555
+sS'analytics'
+p8
+F0.0024708450624532008
+sS'data warehousing'
+p9
+F0.0086405973343303792
+sS'education'
+p10
+F0.0059620078119695151
+sS'management'
+p11
+F0.0077220073909061255
+sS'big data'
+p12
+F0.003615696381712124
+sS'agile'
+p13
+F0.0062036644110781518
+sS'hadoop'
+p14
+F0.0036500184698851274
 sS'information management'
-p42
-I1
-sS'design'
-p43
-I1
+p15
+F0.013703047811622583
 sS'computer science'
-p44
-I1
+p16
+F0.0039942706340546042
 sS'advanced analytics'
-p45
-I1
-ssS'education'
-p46
-(dp47
-VBachelor
-p48
-I1
-sVMaster
-p49
-I1
-ssS'responsibility'
-p50
-(dp51
-S'development'
-p52
-I1
-sS'information'
-p53
-I1
-sS'communicate'
-p54
-I1
-sS'mapping'
-p55
-I1
-sS'design'
-p56
-I1
+p17
+F0.0083602572566422832
+sS'master data management'
+p18
+F0.014247553541995427
+sS'data management'
+p19
+F0.007812267342639974
+sS'data modeling'
+p20
+F0.0074210276841428164
+sS'six sigma'
+p21
+F0.012047937158488679
 sS'modeling'
-p57
-I1
+p22
+F0.0023072320710839562
+sS'data'
+p23
+F0.0020216162705876065
+sS'training'
+p24
+F0.0066854964517679806
+sS'data visualization'
+p25
+F0.0055873114363056845
+sS'science'
+p26
+F0.0019972553641877627
+sS'cloud computing'
+p27
+F0.0091977177122666096
+sS'budgeting'
+p28
+F0.014773523176760825
+sS'data architecture'
+p29
+F0.01152691350799802
+sS'architecture'
+p30
+F0.018639328318335154
+sS'healthcare'
+p31
+F0.022987843835029807
+sS'etl'
+p32
+F0.0080959223693613143
+ssS'working-year'
+p33
+(dp34
+V(5, 10]
+p35
+F0.0034251257431160763
+ssS'major'
+p36
+(dp37
+VData Science
+p38
+F0.0029184346096734733
+sVInformation Science
+p39
+F0.0071950431493014028
+sVComputer Science
+p40
+F0.0025720333703187436
+sVBusiness
+p41
+F0.0030730521226537337
+sVManagement Science and Engineering
+p42
+F0.0036634788024684445
+ssS'education'
+p43
+(dp44
+VBachelor
+p45
+F0.0025891443967895078
+sVMaster
+p46
+F0.0020661383102959572
+ssS'responsibility'
+p47
+(dp48
+S'development'
+p49
+F0.010320690361483965
+sS'information'
+p50
+F0.011821919314170976
+sS'communicate'
+p51
+F0.0056995536428454318
+sS'mapping'
+p52
+F0.012141703718425351
+sS'design'
+p53
+F0.0041489170739161295
+sS'modeling'
+p54
+F0.0023072320710839562
 sS'implement'
-p58
-I1
+p55
+F0.0060166567474988853
 sS'evaluation'
-p59
-I1
+p56
+F0.0096120544995076055
 ss.

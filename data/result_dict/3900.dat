@@ -32,35 +32,31 @@ p16
 asS'working-year'
 p17
 (lp18
-V[0]
+S'[0]'
 p19
 asS'major'
 p20
 (lp21
-S'science'
+VData Science
 p22
-aS'data science'
+aVComputer Science
 p23
-aS'berkeley'
-p24
-aS'machine learning'
-p25
-aS'statistic'
-p26
-aS'phd'
-p27
 asS'education'
-p28
-(lp29
-VDoctor
-p30
+p24
+(lp25
+S'Bachelor'
+p26
 asS'responsibility'
-p31
-(lp32
+p27
+(lp28
 S'predict'
-p33
-aS'model'
-p34
+p29
 aS'understand'
-p35
+p30
+aS'model'
+p31
+aS'design'
+p32
+aS'test ... model'
+p33
 as.

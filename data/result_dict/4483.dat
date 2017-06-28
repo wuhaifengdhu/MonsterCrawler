@@ -14,7 +14,7 @@ aS'engineering'
 p8
 aS'defense'
 p9
-aS'dod'
+aS'security clearance'
 p10
 aS'data mining'
 p11
@@ -40,94 +40,76 @@ aS'python'
 p21
 aS'processing'
 p22
-aS'military'
+aS'architectures'
 p23
-aS'business development'
+aS'military'
 p24
-aS'data'
+aS'business development'
 p25
-aS'software development'
+aS'data'
 p26
+aS'software development'
+p27
 aS'c'
 aS'radar'
-p27
-aS'science'
 p28
-aS'c++'
-p29
-aS'machine learning'
-p30
-aS'r'
-aS'cuda'
-p31
-aS'electrical engineering'
-p32
-aS'security'
-p33
-aS'data analytics'
-p34
-aS'security clearance'
-p35
-asS'working-year'
-p36
-(lp37
-V(5, 10]
-p38
-aV(2, 5]
-p39
-asS'major'
-p40
-(lp41
-S'information'
-p42
-aS'business'
-p43
-aS'big data'
-p44
 aS'science'
-p45
-aS'data science'
-p46
-aS'statistic'
-p47
-aS'communication'
-p48
+p29
+aS'dod'
+p30
 aS'machine learning'
-p49
-aS'big data analytics'
-p50
-aS'analytics'
-p51
-aS'engineering'
-p52
-aS'electrical'
-p53
-aVphysic
-p54
-aS'data mining'
-p55
+p31
+aS'r'
+aS'algorithms'
+p32
+aS'cuda'
+p33
 aS'electrical engineering'
-p56
-aS'phd'
-p57
+p34
+aS'security'
+p35
 aS'data analytics'
-p58
+p36
+asS'working-year'
+p37
+(lp38
+V(5, 10]
+p39
+aV(2, 5]
+p40
+asS'major'
+p41
+(lp42
+VEngineering
+p43
+aVData Science
+p44
+aVElectrical and Electronics Engineering
+p45
+aVComputer Science
+p46
+aVBusiness
+p47
 asS'education'
-p59
-(lp60
-VDoctor
-p61
+p48
+(lp49
+VBachelor
+p50
+aVMaster
+p51
+aVDoctor
+p52
 asS'responsibility'
-p62
-(lp63
+p53
+(lp54
 S'development'
-p64
+p55
 aS'information'
-p65
+p56
 aS'processing'
-p66
+p57
 aS'extract'
-p67
+p58
 aS'data mining'
-p68
+p59
 as.

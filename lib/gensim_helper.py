@@ -23,7 +23,7 @@ class GensimHelper(object):
     def generate_sentence_stream():
         sentence_stream = []
         for i in range(8535):
-            text_file = "../data/clean_post_without_header/%04d.dat" % i
+            text_file = "../data/clean_post_lemmatize/%04d.dat" % i
             if StoreHelper.is_file_exist(text_file):
                 print ("Working on %s" % text_file)
                 file_content = StoreHelper.read_file(text_file)
@@ -34,20 +34,17 @@ class GensimHelper(object):
 
     @staticmethod
     def generate_phrase_dict():
-        phase_dict = {}
         sentence_stream = StoreHelper.load_data('sentence_stream.dat', [])
-        phrases = Phrases(sentence_stream, min_count=2, threshold=4)
+        phrases = Phrases(sentence_stream, min_count=2, threshold=2)
         bi_gram = Phraser(phrases)
         for i in range(8535):
-            text_file = "../data/clean_post_without_header/%04d.dat" % i
+            text_file = "../data/clean_post_lemmatize/%04d.dat" % i
             output_file = "../data/gensim_split/%04d.dat" % i
             if StoreHelper.is_file_exist(text_file):
                 print ("Working on %s" % text_file)
                 phrase_list = GensimHelper.phrase_detection(bi_gram, text_file)
-                DictHelper.increase_dic_key(phase_dict, phrase_list)
-                StoreHelper.save_file(phrase_list, output_file)
-        StoreHelper.store_data(phase_dict, 'phase_dict.dat')
-        StoreHelper.save_file(DictHelper.get_sorted_list(phase_dict), 'phase_dict.txt')
+                phrase_list = [phrase.replace('_', ' ') for phrase in phrase_list]
+                StoreHelper.store_data(phrase_list, output_file)
 
     @staticmethod
     def split_dict():
@@ -65,10 +62,10 @@ class GensimHelper(object):
 
 if __name__ == '__main__':
     # Step 1, generate sentence stream
-    # GensimHelper.generate_sentence_stream()
+    GensimHelper.generate_sentence_stream()
 
     # Step 2, generate phrase dict
-    # GensimHelper.generate_phrase_dict()
+    GensimHelper.generate_phrase_dict()
 
     # Step 3, split dict
-    GensimHelper.split_dict()
+    # GensimHelper.split_dict()

@@ -4,141 +4,133 @@ p2
 (lp3
 S'communication'
 p4
-aS'analytics'
-p5
-aS'statistical analysis'
-p6
-aS'education'
-p7
-aS'business transformation'
-p8
-aS'visualization'
-p9
-aS'management'
-p10
-aS'big data'
-p11
-aS'hadoop'
-p12
-aS'research'
-p13
-aS'natural language processing'
-p14
-aS'advanced analytics'
-p15
-aS'mathematics'
-p16
-aS'unstructured data'
-p17
-aS'python'
-p18
-aS'marketing'
-p19
-aS'processing'
-p20
-aS'data scientist'
-p21
-aS'leadership'
-p22
-aS'sql'
-p23
-aS'modeling'
-p24
-aS'spark'
-p25
-aS'manufacturing'
-p26
-aS'data'
-p27
-aS'search'
-p28
-aS'aws'
-p29
-aS'programming'
-p30
-aS'analysis'
-p31
-aS'machine learning'
-p32
-aS'decision modeling'
-p33
-aS'r'
 aS'command'
-p34
-aS'customer support'
-p35
-asS'working-year'
-p36
-(lp37
-V(0, 2]
-p38
-aV(2, 5]
-p39
-asS'major'
-p40
-(lp41
-S'information'
-p42
-aS'management'
-p43
-aS'business'
-p44
-aS'big data'
-p45
-aS'marketing'
-p46
-aS'statistic'
-p47
-aS'communication'
-p48
-aS'machine learning'
-p49
+p5
 aS'analytics'
-p50
+p6
+aS'statistical analysis'
+p7
+aS'sas'
+p8
+aS'education'
+p9
+aS'business transformation'
+p10
+aS'visualization'
+p11
+aS'management'
+p12
+aS'big data'
+p13
+aS'hadoop'
+p14
+aS'research'
+p15
 aS'natural language processing'
-p51
+p16
 aS'advanced analytics'
-p52
+p17
 aS'mathematics'
-p53
-asS'education'
-p54
-(lp55
-VMaster
-p56
-asS'responsibility'
-p57
-(lp58
-S'development'
-p59
-aS'information'
-p60
-aS'product'
-p61
+p18
+aS'unstructured data'
+p19
+aS'python'
+p20
+aS'marketing'
+p21
 aS'processing'
-p62
-aS'data infrastructure'
-p63
-aS'manage data'
-p64
-aVinsight
-p65
-aS'communicate'
-p66
-aS'analysis'
-p67
-aS'analytic'
-p68
-aS'model'
-p69
-aS'analytical method'
-p70
-aS'pattern'
-p71
+p22
+aS'data scientist'
+p23
+aS'leadership'
+p24
+aS'sql'
+p25
 aS'modeling'
-p72
+p26
+aS'spark'
+p27
+aS'manufacturing'
+p28
+aS'data'
+p29
+aS'search'
+p30
+aS'aws'
+p31
+aS'programming'
+p32
+aS'analysis'
+p33
+aS'machine learning'
+p34
+aS'decision modeling'
+p35
+aS'r'
+aS'algorithms'
+p36
+aS'customer support'
+p37
+asS'working-year'
+p38
+(lp39
+V(0, 2]
+p40
+aV(2, 5]
+p41
+asS'major'
+p42
+(lp43
+VBusiness
+p44
+aVData Science
+p45
+aVEconomics
+p46
+aVComputer Science
+p47
+aVMathematics
+p48
+aVManagement Science and Engineering
+p49
+asS'education'
+p50
+(lp51
+VMaster
+p52
+asS'responsibility'
+p53
+(lp54
+S'development'
+p55
+aS'information'
+p56
+aS'product'
+p57
+aS'processing'
+p58
+aS'communicate'
+p59
+aS'data infrastructure'
+p60
+aS'pattern'
+p61
+aS'insight'
+p62
+aS'manage data'
+p63
+aS'analysis'
+p64
+aS'develop ... model'
+p65
+aS'analytic'
+p66
+aS'model'
+p67
+aS'modeling'
+p68
 aS'implement'
-p73
+p69
 aS'transformation'
-p74
+p70
 as.

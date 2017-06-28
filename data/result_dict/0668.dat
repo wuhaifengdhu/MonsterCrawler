@@ -4,23 +4,23 @@ p2
 (lp3
 S'nlp'
 p4
-aS'r d'
-p5
 aS'intellectual property'
-p6
+p5
 aS'communication'
-p7
+p6
 aS'information retrieval'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'cognitive science'
-p11
+p10
 aS'intelligence'
-p12
+p11
 aS'linguistics'
+p12
+aS'statistics'
 p13
 aS'deep learning'
 p14
@@ -65,98 +65,68 @@ p33
 aS'r'
 aS'advanced analytics'
 p34
-aS'data analytics'
+aS'physics'
 p35
-asS'working-year'
-p36
-(lp37
-V(2, 5]
-p38
-asS'major'
-p39
-(lp40
-S'communication'
-p41
-aS'information retrieval'
-p42
-aS'analytics'
-p43
-aS'engineering'
-p44
-aS'cognitive science'
-p45
-aS'design'
-p46
-aS'applied statistics'
-p47
-aS'statistic'
-p48
-aS'information'
-p49
-aS'mathematics physics'
-p50
-aVapplied statistic
-p51
-aS'computer science'
-p52
-aS'natural language processing'
-p53
-aS'advanced analytics'
-p54
-aS'mathematics'
-p55
-aS'artificial intelligence'
-p56
-aS'business'
-p57
-aS'linguistics'
-p58
-aS'marketing'
-p59
-aS'automation'
-p60
-aS'artificial intelligence machine learning'
-p61
-aS'law'
-p62
-aVphysic
-p63
-aS'science'
-p64
-aS'machine learning'
-p65
 aS'data analytics'
-p66
-aS'history'
-p67
+p36
+asS'working-year'
+p37
+(lp38
+V(2, 5]
+p39
+asS'major'
+p40
+(lp41
+VLinguistics
+p42
+aVStatistics
+p43
+aVBusiness
+p44
+aVData Science
+p45
+aVEconomics
+p46
+aVEngineering
+p47
+aVCognitive Science
+p48
+aVComputer Science
+p49
+aVMathematics
+p50
+aVPhysics
+p51
 asS'education'
-p68
-(lp69
+p52
+(lp53
 VMaster
-p70
+p54
 aVDoctor
-p71
+p55
 asS'responsibility'
-p72
-(lp73
+p56
+(lp57
 S'development'
-p74
+p58
 aS'information'
-p75
+p59
 aS'product'
-p76
+p60
 aS'processing'
-p77
+p61
 aS'model'
-p78
+p62
 aS'optimization'
-p79
+p63
 aS'design'
-p80
+p64
 aS'implement'
-p81
+p65
 aS'prototype'
-p82
+p66
 aS'transformation'
-p83
+p67
+aS'decision making'
+p68
 as.

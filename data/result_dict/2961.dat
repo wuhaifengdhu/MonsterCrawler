@@ -6,23 +6,23 @@ S'intelligence'
 p4
 aS'analytics'
 p5
-aS'ec2'
+aS'engineering'
 p6
-aS'visualization'
+aS'analysis'
 p7
-aS'management'
+aS'visualization'
 p8
-aS'publishing'
+aS'management'
 p9
-aS'big data'
+aS'publishing'
 p10
-aS'storage'
+aS'big data'
 p11
-aS'hadoop'
+aS'storage'
 p12
-aS'computer science'
+aS'hadoop'
 p13
-aS'web services'
+aS'computer science'
 p14
 aS'soap'
 p15
@@ -30,69 +30,70 @@ aS'data management'
 p16
 aS'data analysis'
 p17
-aS'data scientist'
-p18
 aS'amazon s3'
-p19
+p18
 aS'data'
-p20
+p19
 aS'software development'
-p21
+p20
 aS'search'
-p22
+p21
 aS'cloudera'
-p23
+p22
 aS'amazon ec2'
-p24
+p23
 aS'science'
+p24
+aS'documentation'
 p25
 aS'security clearance'
 p26
-aS'r'
-aS'security'
+aS'databases'
 p27
-asS'working-year'
+aS'security'
 p28
-(lp29
-V(0, 2]
+aS'ec2'
+p29
+asS'working-year'
 p30
+(lp31
+V(0, 2]
+p32
 asS'major'
-p31
-(lp32
-S'information'
 p33
-aS'management'
-p34
-aS'big data'
+(lp34
+VData Science
 p35
-aS'science'
+aVInformation Science
 p36
-aS'analytics'
+aVEngineering
 p37
-aS'information science'
+aVManagement Science and Engineering
 p38
-aS'computer science'
+aVComputer Science
 p39
-aS'ee computer science'
-p40
 asS'education'
-p41
-(lp42
+p40
+(lp41
 VBachelor
-p43
+p42
 asS'responsibility'
-p44
-(lp45
+p43
+(lp44
 S'development'
-p46
+p45
 aS'information'
-p47
+p46
 aS'data analysis'
+p47
+aS'documentation'
 p48
-aS'interface'
+aS'analysis'
 p49
-aS'model'
+aS'interface'
 p50
-aS'prototype'
+aS'model'
 p51
+aS'prototype'
+p52
 as.

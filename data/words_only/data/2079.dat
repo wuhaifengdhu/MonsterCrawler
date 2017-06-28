@@ -4,196 +4,169 @@ p2
 (dp3
 S'higher education'
 p4
-I1
+F0.0094626386643985056
 sS'pmp'
 p5
-I1
-sS'r d'
-p6
-I1
+F0.011404719275253076
 sS'cancer'
-p7
-I1
+p6
+F0.090293985381348599
 sS'proteomics'
-p8
-I1
+p7
+F0.01266248186383509
 sS'data science'
-p9
-I1
+p8
+F0.0026205684654915019
 sS'information technology'
-p10
-I1
+p9
+F0.0067900851236639337
 sS'thought leadership'
+p10
+F0.0089361196068172624
+sS'modeling'
 p11
-I1
+F0.0017693805861036004
 sS'laboratory'
 p12
-I1
+F0.01836702319420867
 sS'education'
 p13
-I1
+F0.0045721715682206301
 sS'genomics'
 p14
-I1
+F0.01850713929122063
 sS'management'
 p15
-I1
-sS'open source'
+F0.0039479253472751736
+sS'genetics'
 p16
-I1
+F0.0084623204904551164
 sS'agile'
 p17
-I1
+F0.0047574942760337897
 sS'integration'
 p18
-I1
+F0.0050244948195961063
 sS'research'
 p19
-I1
+F0.01301115989462346
 sS'computer science'
 p20
-I1
+F0.0030631443642423111
 sS'communication'
 p21
-I1
+F0.0034491707170171168
 sS'drug discovery'
 p22
-I1
-sS'computational biology'
+F0.011968685329156382
+sS'biology'
 p23
-I1
-sS'cancer research'
+F0.0074015524277331098
+sS'computational biology'
 p24
-I1
-sS'business process'
+F0.0090759037375453527
+sS'cancer research'
 p25
-I1
+F0.012018771221857173
 sS'leadership'
 p26
-I1
+F0.0036000187825791334
 sS'biomedical informatics'
 p27
-I1
+F0.013580156018190809
 sS'bioinformatics'
 p28
-I1
+F0.014201556820274316
 sS'informatics'
 p29
-I1
-sS'genetics'
+F0.028725637275709873
+sS'open source'
 p30
-I1
+F0.0069671454028716667
 sS'nanotechnology'
 p31
-I1
+F0.010314871658979716
 sS'infectious diseases'
 p32
-I1
-sS'project management'
+F0.014172603181823425
+sS'data'
 p33
-I1
-sS'software development'
-p34
-I1
-sS'open source software'
-p35
-I1
-sS'manufacturing'
-p36
-I1
-sS'procurement'
-p37
-I1
-sS'r'
-I1
-sS'organization'
-p38
-I1
-sS'risk assessment'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(0, 2]
-p42
-I1
-sV(2, 5]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'information'
-p46
-I1
-sS'management'
-p47
-I1
-sS'genetics genomics'
-p48
-I1
-sS'business'
-p49
-I1
-sS'computational biology'
-p50
-I1
-sS'communication'
-p51
-I1
-sS'data science'
-p52
-I1
-sS'information technology'
-p53
-I1
-sS'information systems'
-p54
-I1
+F0.00025839104112085603
 sS'project management'
-p55
-I1
-sS'biomedical informatics'
-p56
-I1
-sS'bioinformatics'
-p57
-I1
-sS'informatics'
-p58
-I1
-sS'genetics'
-p59
-I1
-sS'computational biolog'
-p60
-I1
-sS'medical informatics'
-p61
-I1
-sS'information system'
-p62
-I1
-sS'computer science'
-p63
-I1
+p34
+F0.0041425998329510808
+sS'software development'
+p35
+F0.0046191647452576744
+sS'open source software'
+p36
+F0.012731650937559361
+sS'manufacturing'
+p37
+F0.016264307503406579
+sS'science'
+p38
+F0.003063328488863148
+sS'procurement'
+p39
+F0.011443280241755208
+sS'r'
+F0.001209133565607715
+sS'organization'
+p40
+F0.0038413591269753408
+sS'risk assessment'
+p41
+F0.011020284832730225
+ssS'working-year'
+p42
+(dp43
+V(0, 2]
+p44
+F0.0049620482877781123
+sV(2, 5]
+p45
+F0.0026992253342726265
+ssS'major'
+p46
+(dp47
+VBusiness
+p48
+F0.0023566761376342359
+sVData Science
+p49
+F0.0022381023586166946
+sVInformation Science
+p50
+F0.0055177672953248234
+sVComputer Science
+p51
+F0.0019724526064318036
+sVBiological Engineering
+p52
+F0.0057302740315396308
+sVManagement Science and Engineering
+p53
+F0.0028094652254224239
 ssS'education'
-p64
-(dp65
+p54
+(dp55
 VMaster
-p66
-I1
+p56
+F0.0015844895102923246
 ssS'responsibility'
-p67
-(dp68
+p57
+(dp58
 S'development'
-p69
-I1
-sS'information'
-p70
-I1
+p59
+F0.023744333380668992
+sS'modeling'
+p60
+F0.0017693805861036004
 sS'product'
-p71
-I1
+p61
+F0.005860535471537023
+sS'information'
+p62
+F0.018132094111495356
 ss.

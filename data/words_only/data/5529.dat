@@ -4,179 +4,176 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.015638554697761698
 sS'intelligence'
 p5
-I1
+F0.012560468879094233
 sS'data science'
 p6
-I1
+F0.0032075758017615979
 sS'decision support'
 p7
-I1
+F0.011844111887927387
 sS'sas base'
 p8
-I1
+F0.013959376392909763
 sS'business intelligence'
 p9
-I1
+F0.0054481154900651229
 sS'statistical analysis'
 p10
-I1
+F0.0068658670757669547
 sS'problem solving'
 p11
-I1
-sS'insurance'
+F0.0065456316398753364
+sS'sas'
 p12
-I1
-sS'management'
+F0.0073879299022795554
+sS'insurance'
 p13
-I1
-sS'predictive modeling'
+F0.058859199719594177
+sS'management'
 p14
-I1
-sS'tableau'
+F0.0072483909375972173
+sS'predictive modeling'
 p15
-I1
-sS'communication'
+F0.0055440157565039196
+sS'tableau'
 p16
-I1
-sS'policy'
-p17
-I1
-sS'unstructured data'
-p18
-I1
-sS'data management'
-p19
-I1
-sS'finance'
-p20
-I1
-sS'collaboration'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'presentation skills'
-p23
-I1
-sS'business analytics'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'data'
-p26
-I1
-sS'science'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'optimization'
-p29
-I1
-sS'logistic regression'
-p30
-I1
-sS'validation'
-p31
-I1
-sS'predictive analytics'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'management'
-p38
-I1
-sS'finance'
-p39
-I1
-sS'business'
-p40
-I1
-sS'science'
-p41
-I1
-sS'data science'
-p42
-I1
-sS'business analytics'
-p43
-I1
+F0.0053574028989967779
 sS'communication'
-p44
-I1
-sS'predictive analytics'
-p45
-I1
-ssS'education'
-p46
-(dp47
-VBachelor
-p48
-I1
-sVMaster
-p49
-I1
-ssS'responsibility'
-p50
-(dp51
-S'development'
-p52
-I1
-sS'forecasting'
-p53
-I1
-sS'exploratory analysis'
-p54
-I1
-sS'presentation'
-p55
-I1
-sS'ensure accuracy'
-p56
-I1
-sS'communicate'
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'statistical model'
-p59
-I1
-sS'analytic'
-p60
-I1
-sS'optimization'
-p61
-I1
-sS'ownership'
-p62
-I1
-sS'report'
-p63
-I1
+p17
+F0.0042217849576289502
+sS'policy'
+p18
+F0.0072790886081086654
+sS'unstructured data'
+p19
+F0.0085034891558750936
+sS'data management'
+p20
+F0.0073331149456247217
+sS'finance'
+p21
+F0.0070803894778231685
+sS'collaboration'
+p22
+F0.0068204517868625438
+sS'data scientist'
+p23
+F0.0028249911071036751
+sS'presentation skills'
+p24
+F0.012355815758255548
+sS'business analytics'
+p25
+F0.0081002245164243022
 sS'modeling'
-p64
-I1
+p26
+F0.0043314436747816133
+sS'data'
+p27
+F0.001265082537327711
+sS'science'
+p28
+F0.0037495140703684925
+sS'analysis'
+p29
+F0.0009136499246776798
+sS'securities'
+p30
+F0.015951940653119764
+sS'optimization'
+p31
+F0.016000070859108338
+sS'logistic regression'
+p32
+F0.0087305676714974495
+sS'validation'
+p33
+F0.0084318994802002577
+sS'predictive analytics'
+p34
+F0.0061399951288767744
+ssS'working-year'
+p35
+(dp36
+sS'major'
+p37
+(dp38
+VData Science
+p39
+F0.0027394372869468334
+sVEconomics
+p40
+F0.004375390793398562
+sVComputer Science
+p41
+F0.0024142819902725271
+sVBusiness
+p42
+F0.0028845715924643044
+sVManagement Science and Engineering
+p43
+F0.0034387854359170461
+ssS'education'
+p44
+(dp45
+VBachelor
+p46
+F0.0024303435404530844
+sVMaster
+p47
+F0.0019394151605978049
+ssS'responsibility'
+p48
+(dp49
+S'development'
+p50
+F0.0032292293397709827
+sS'forecasting'
+p51
+F0.015638554697761698
+sS'exploratory analysis'
+p52
+F0.014308783347794469
+sS'presentation'
+p53
+F0.0065689449128256173
+sS'ensure accuracy'
+p54
+F0.016498057840506442
+sS'communicate'
+p55
+F0.0053499810194175788
+sS'analysis'
+p56
+F0.0009136499246776798
+sS'improvement'
+p57
+F0.0071632173235709543
+sS'analytic'
+p58
+F0.012041205185598095
+sS'optimization'
+p59
+F0.016000070859108338
+sS'ownership'
+p60
+F0.010507449200233034
+sS'report'
+p61
+F0.005534070453793144
+sS'modeling'
+p62
+F0.0043314436747816133
 sS'model'
-p65
-I1
+p63
+F0.0082528578234754169
 sS'evaluation'
-p66
-I1
+p64
+F0.0090225151568711394
+sS'decision making'
+p65
+F0.0087108881331453697
 ss.

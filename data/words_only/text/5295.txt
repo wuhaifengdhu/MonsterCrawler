@@ -1,5 +1,5 @@
-skills: {'economics': 1, 'rdbms': 1, 'government': 1, 'olap': 1, 'intelligence': 1, 'decision support': 1, 'data scientist': 1, 'engineering': 1, 'analysis': 1, 'information technology': 1, 'data integration': 1, 'business intelligence': 1, 'data warehousing': 1, 'computer science': 1, 'modeling': 1, 'education': 1, 'data': 1, 'operations research': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'computer science operations research': 1, 'information': 1, 'business': 1, 'economics': 1, 'engineering': 1, 'design': 1, 'operations research': 1, 'mathematics computer science': 1, 'information technology': 1, 'computer science': 1}
-education: {u'Bachelor': 1}
-responsibility: {'modeling': 1, 'design': 1, 'analysis': 1, 'information': 1}
+skills: {'a': 0.009444656028353671, 'economics': 0.012103494062421522, 'rdbms': 0.02259496184996799, 'government': 0.013167270280954371, 'olap': 0.02601355301770253, 'intelligence': 0.03171835575528847, 'decision support': 0.02243203009077157, 'data scientist': 0.005350361945272113, 'engineering': 0.01855840571323719, 'analysis': 0.0017303975846168181, 'information technology': 0.015740651877584572, 'data integration': 0.019548793739553448, 'business intelligence': 0.010318400549365763, 'data warehousing': 0.015361061927698453, 'computer science': 0.00710092557165263, 'modeling': 0.004101745904149255, 'mathematics': 0.009231784252908111, 'education': 0.010599124999056915, 'data': 0.000598997413507439, 'operations research': 0.014550194522989444, 'science': 0.003550676203000467}
+working-year: {u'(0, 2]': 0.011502930121667443, u'(2, 5]': 0.006257295093086543}
+major: {u'Business': 0.005463203773606638, u'Economics': 0.008286724987497277, u'Engineering': 0.011375651145286504, u'Information Science': 0.012791187820980272, u'Computer Science': 0.004572503769455545, u'Mathematics': 0.008657942068598243, u'Operations Research': 0.016256206556500778}
+education: {u'Bachelor': 0.004602923372070237}
+responsibility: {'modeling': 0.004101745904149255, 'design': 0.007375852575850898, 'analysis': 0.0017303975846168181, 'information': 0.014011163631610047}

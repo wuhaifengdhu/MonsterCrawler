@@ -2,126 +2,127 @@
 S'skills'
 p2
 (dp3
-S'training'
+S'systems engineering'
 p4
-I1
-sS'networking'
+F0.01213056246525555
+sS'training'
 p5
-I1
-sS'big data'
+F0.013295450570747623
+sS'statistics'
 p6
-I1
-sS'classification'
+F0.00263421710396216
+sS'networking'
 p7
-I1
-sS'human resources'
+F0.010260993340793183
+sS'classification'
 p8
-I1
-sS'recruiting'
-p9
-I1
-sS'c'
-I1
-sS'integration'
-p10
-I1
-sS'business analytics'
-p11
-I1
-sS'engineering'
-p12
-I1
-sS'computer science'
-p13
-I1
-sS'innovation'
-p14
-I1
-sS'mathematics'
-p15
-I1
-sS'modeling'
-p16
-I1
-sS'data analytics'
-p17
-I1
-ssS'working-year'
-p18
-(dp19
-V[0]
-p20
-I1
-ssS'major'
-p21
-(dp22
-S'information'
-p23
-I1
-sS'ece'
-p24
-I1
-sS'information systems'
-p25
-I1
+F0.0089134516990341216
 sS'big data'
-p26
-I1
-sS'computer information systems'
-p27
-I1
-sS'management information systems'
-p28
-I1
-sS'computer engineering'
-p29
-I1
-sS'general'
-p30
-I1
+p9
+F0.0035952687185386088
+sS'data scientist'
+p10
+F0.0029925753253216901
+sS'human resources'
+p11
+F0.014012234418605956
+sS'recruiting'
+p12
+F0.0097426504254728569
+sS'integration'
+p13
+F0.0065148110796457983
 sS'business analytics'
-p31
-I1
+p14
+F0.0085807463097715073
 sS'engineering'
-p32
-I1
-sS'information system'
-p33
-I1
+p15
+F0.0069200834862918345
+sS'management'
+p16
+F0.0025594600768351758
 sS'computer science'
-p34
-I1
-sS'statistic'
-p35
-I1
+p17
+F0.0039717041332972339
+sS'innovation'
+p18
+F0.0054684312772167332
+sS'policy'
+p19
+F0.0077108989492676539
 sS'mathematics'
-p36
-I1
-sS'electrical computer engineering'
-p37
-I1
+p20
+F0.0051635403448469092
+sS'modeling'
+p21
+F0.0022941968616428036
+sS'software engineering'
+p22
+F0.0073504604200960782
 sS'data analytics'
+p23
+F0.0057692731115417993
+sS'science'
+p24
+F0.0019859714355765323
+ssS'working-year'
+p25
+(dp26
+S'[0]'
+p27
+F0.0062039964139671824
+ssS'major'
+p28
+(dp29
+VStatistics
+p30
+F0.0050889965251075713
+sVBusiness
+p31
+F0.0030556902462545599
+sVData Science
+p32
+F0.0029019462785453746
+sVElectrical and Electronics Engineering
+p33
+F0.0088887813428671792
+sVEngineering
+p34
+F0.0069200834862918345
+sVInformation Science
+p35
+F0.0071543931880059149
+sVComputer Science
+p36
+F0.0025575021083395415
+sVMathematics
+p37
+F0.0048425777671820677
+sVManagement Science and Engineering
 p38
-I1
+F0.0036427811821155153
 ssS'education'
 p39
 (dp40
-VMaster
+VBachelor
 p41
-I1
-sVDoctor
+F0.0025745164623443692
+sVMaster
 p42
-I1
-ssS'responsibility'
+F0.0020544652124976749
+sVDoctor
 p43
-(dp44
+F0.0030767846660352204
+ssS'responsibility'
+p44
+(dp45
 S'development'
-p45
-I1
-sS'modeling'
 p46
-I1
-sS'information'
+F0.0034207937921302786
+sS'modeling'
 p47
-I1
+F0.0022941968616428036
+sS'information'
+p48
+F0.0078367525397140935
 ss.

@@ -2,107 +2,109 @@
 S'skills'
 p2
 (lp3
-S'nosql'
+S'aws'
 p4
-aS'engineering'
-p5
-aS'education'
-p6
-aS'd3'
-p7
-aS'clustering'
-p8
-aS'visualization'
-p9
-aS'management'
-p10
 aS'classification'
-p11
-aS'scala'
-p12
-aS'innovation'
-p13
-aS'web development'
-p14
-aS'javascript'
-p15
-aS'apis'
-p16
-aS'python'
-p17
-aS'gas'
-p18
-aS'processing'
-p19
-aS'data scientist'
-p20
-aS'sql'
-p21
-aS'data'
-p22
-aS'c'
-aS'science'
-p23
-aS'aws'
-p24
-aS'programming'
-p25
-aS'machine learning'
-p26
-aS'product innovation'
-p27
-aS'english'
-p28
-aS'organization'
-p29
-asS'working-year'
-p30
-(lp31
-V(5, 10]
-p32
-asS'major'
-p33
-(lp34
-S'information'
-p35
-aS'management'
-p36
-aS'business'
-p37
-aS'science'
-p38
-aS'machine learning'
-p39
+p5
+aS'data science'
+p6
 aS'engineering'
-p40
-aS'english'
-p41
+p7
+aS'education'
+p8
+aS'd3'
+p9
+aS'clustering'
+p10
+aS'visualization'
+p11
+aS'management'
+p12
+aS'nosql'
+p13
+aS'opengl'
+p14
+aS'computer science'
+p15
+aS'innovation'
+p16
 aS'web development'
-p42
-asS'education'
-p43
-(lp44
-VBachelor
-p45
-asS'responsibility'
-p46
-(lp47
-S'development'
-p48
-aS'information'
-p49
-aS'product'
-p50
-aS'business problem'
-p51
+p17
 aS'processing'
+p18
+aS'apis'
+p19
+aS'python'
+p20
+aS'gas'
+p21
+aS'javascript'
+p22
+aS'data scientist'
+p23
+aS'sql'
+p24
+aS'data'
+p25
+aS'c'
+aS'data visualization'
+p26
+aS'science'
+p27
+aS'scala'
+p28
+aS'programming'
+p29
+aS'machine learning'
+p30
+aS'product innovation'
+p31
+aS'english'
+p32
+aS'organization'
+p33
+asS'working-year'
+p34
+(lp35
+V(5, 10]
+p36
+asS'major'
+p37
+(lp38
+VData Science
+p39
+aVEngineering
+p40
+aVComputer Science
+p41
+aVBusiness
+p42
+aVManagement Science and Engineering
+p43
+asS'education'
+p44
+(lp45
+VBachelor
+p46
+asS'responsibility'
+p47
+(lp48
+S'development'
+p49
+aS'information'
+p50
+aS'product'
+p51
+aS'business problem'
 p52
-aS'report'
+aS'processing'
 p53
-aS'implement'
+aS'report'
 p54
-aS'prototype'
+aS'implement'
 p55
-aS'evaluation'
+aS'prototype'
 p56
+aS'evaluation'
+p57
 as.

@@ -18,81 +18,77 @@ aS'data'
 p10
 aS'redis'
 p11
-aS'html'
+aS'strategy'
 p12
-aS'policy'
+aS'html'
 p13
-aS'product development'
+aS'policy'
 p14
-aS'government'
+aS'css'
 p15
-aS'ruby rails'
+aS'product development'
 p16
-aS'collaboration'
+aS'government'
 p17
-aS'javascript'
+aS'ruby rails'
 p18
-aS'data scientist'
+aS'collaboration'
 p19
-aS'mentoring'
+aS'javascript'
 p20
-aS'sql'
+aS'data scientist'
 p21
-aS'ruby'
+aS'mentoring'
 p22
-aS'bash'
+aS'sql'
 p23
-aS'software development'
+aS'ruby'
 p24
-aS'engineering'
+aS'bash'
 p25
+aS'software development'
+p26
+aS'engineering'
+p27
 aS'r'
 aS'elasticsearch'
-p26
-aS'architecture'
-p27
-aS'organization'
 p28
-asS'working-year'
+aS'architecture'
 p29
-(lp30
-V(5, 10]
+aS'organization'
+p30
+asS'working-year'
 p31
+(lp32
+V(5, 10]
+p33
 asS'major'
-p32
-(lp33
-S'information'
 p34
-aS'management'
-p35
-aS'general'
+(lp35
+VData Science
 p36
-aS'analytics'
+aVEngineering
 p37
-aS'engineering'
+aVManagement Science and Engineering
 p38
-aS'design'
-p39
-aS'law'
-p40
 asS'education'
+p39
+(lp40
+VBachelor
 p41
-(lp42
-S'Bachelor'
-p43
 asS'responsibility'
-p44
-(lp45
+p42
+(lp43
 S'development'
-p46
+p44
 aS'information'
-p47
+p45
 aS'product'
-p48
+p46
 aS'decision-making'
-p49
+p47
 aS'design'
-p50
+p48
 aS'implement'
-p51
+p49
 as.

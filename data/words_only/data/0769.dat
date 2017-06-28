@@ -4,181 +4,186 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
+F0.0075395708745972113
 sS'communication'
 p5
-I1
+F0.003237565151555944
 sS'microsoft excel'
 p6
-I1
-sS'digital imaging'
+F0.0042062062476533957
+sS'sales'
 p7
-I1
-sS'analytics'
-p8
-I1
-sS'business intelligence'
-p9
-I1
-sS'problem solving'
-p10
-I1
-sS'sap'
-p11
-I1
-sS'visualization'
-p12
-I1
-sS'excel'
-p13
-I1
+F0.01359756539955421
 sS'tableau'
+p8
+F0.0082168756119582499
+sS'analytics'
+p9
+F0.0071144168669409142
+sS'business intelligence'
+p10
+F0.0041780026764303094
+sS'problem solving'
+p11
+F0.0050196561655485713
+sS'sap'
+p12
+F0.016421840240404332
+sS'visualization'
+p13
+F0.0038329146665316352
+sS'management'
 p14
-I1
-sS'intelligence'
+F0.0018528606691199433
+sS'excel'
 p15
-I1
-sS'advanced analytics'
+F0.0033066548605441017
+sS'digital imaging'
 p16
-I1
-sS'user acceptance testing'
+F0.013576188274296328
+sS'intelligence'
 p17
-I1
-sS'data management'
+F0.0032107538034494461
+sS'advanced analytics'
 p18
-I1
-sS'customer satisfaction'
+F0.0060180174935339139
+sS'user acceptance testing'
 p19
-I1
-sS'python'
+F0.012560981638229657
+sS'data management'
 p20
-I1
-sS'marketing'
+F0.0056235544061539284
+sS'customer satisfaction'
 p21
-I1
-sS'collaboration'
+F0.0092520096913584812
+sS'python'
 p22
-I1
-sS'philosophy'
+F0.00213190802762072
+sS'marketing'
 p23
-I1
-sS'data scientist'
+F0.003896144217745499
+sS'collaboration'
 p24
-I1
-sS'business analytics'
+F0.0052304078120111539
+sS'philosophy'
 p25
-I1
-sS'construction'
+F0.010143826143530692
+sS'data scientist'
 p26
-I1
-sS'business development'
+F0.0021664042232390152
+sS'business analytics'
 p27
-I1
-sS'data'
+F0.0062118286168898031
+sS'construction'
 p28
-I1
-sS'training'
+F0.010374490246489751
+sS'sql'
 p29
-I1
-sS'data visualization'
+F0.0013945682184724891
+sS'business development'
 p30
-I1
-sS'business objects'
+F0.0071140087505975119
+sS'data'
 p31
-I1
-sS'r'
-I1
-sS'dashboard'
+F0.00097015532003658837
+sS'a'
+F0.0038242165513579281
+sS'training'
 p32
-I1
-sS'product marketing'
+F0.0096249274070442925
+sS'data visualization'
 p33
-I1
-ssS'working-year'
+F0.0040219501545595117
+sS'business objects'
 p34
-(dp35
-V(0, 2]
+F0.0087956889540165284
+sS'r'
+F0.002269907184515097
+sS'dashboard'
+p35
+F0.0071705541290788249
+sS'powerpoint'
 p36
-I1
-sV(2, 5]
+F0.0050041398914810889
+sS'product marketing'
 p37
-I1
-ssS'major'
+F0.0093237703169486447
+ssS'working-year'
 p38
 (dp39
-S'business'
+V(0, 2]
 p40
-I1
-sS'marketing'
+F0.0046576281474236267
+sV(2, 5]
 p41
-I1
-sS'philosophy'
+F0.0025336286879982322
+ssS'major'
 p42
-I1
-sS'business analytics'
-p43
-I1
-sS'analytics'
+(dp43
+VData Science
 p44
-I1
-sS'design'
+F0.0021007954654500261
+sVEconomics
 p45
-I1
-sS'communication'
+F0.0033553610378823334
+sVBusiness
 p46
-I1
-sS'advanced analytics'
+F0.0022120947794971664
+sVManagement Science and Engineering
 p47
-I1
-sS'business management'
-p48
-I1
+F0.0026371053956419071
 ssS'education'
-p49
-(dp50
+p48
+(dp49
 VBachelor
-p51
-I1
+p50
+F0.0018637603837830406
 sVMaster
-p52
-I1
+p51
+F0.0014872815648756174
 sVDoctor
-p53
-I1
+p52
+F0.0022273655864549452
 ssS'responsibility'
-p54
-(dp55
+p53
+(dp54
 S'development'
-p56
-I1
+p55
+F0.0049528057358450665
 sS'large data set'
-p57
-I1
+p56
+F0.0064303826898422633
 sS'product'
+p57
+F0.0055009934180684939
+sS'evaluation'
 p58
-I1
-sS'pattern'
+F0.0069191067153919787
+sS'insight'
 p59
-I1
-sVinsight
-p60
-I1
+F0.015009352605394563
 sS'communicate'
-p61
-I1
+p60
+F0.0041027461805349533
 sS'presentation'
-p62
-I1
+p61
+F0.010075068884701869
 sS'analytic'
-p63
-I1
-sS'design'
-p64
-I1
+p62
+F0.0092340530564402577
 sS'understand'
+p63
+F0.0042979137289248992
+sS'pattern'
+p64
+F0.0053549919745892564
+sS'design'
 p65
-I1
-sS'extract'
+F0.0029865415337801183
+sS'manipulate ... data set'
 p66
-I1
+F0.011822714949506513
+sS'extract'
+p67
+F0.0063266023122757259
 ss.

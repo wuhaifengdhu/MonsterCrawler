@@ -4,33 +4,33 @@ p2
 (lp3
 S'unix'
 p4
-aS'analysis'
+aS'hive'
 p5
-aS'random forest'
+aS'statistics'
 p6
-aS'management'
-p7
 aS'java'
-p8
+p7
 aS'big data'
-p9
+p8
 aS'scala'
-p10
+p9
 aS'time series analysis'
-p11
+p10
 aS'hadoop'
-p12
+p11
 aS'large-scale data analysis'
-p13
+p12
 aS'data analysis'
-p14
+p13
 aS'python'
+p14
+aS'marketing'
 p15
 aS'data scientist'
 p16
 aS'random forests'
 p17
-aS'hive'
+aS'management'
 p18
 aS'sql'
 p19
@@ -40,13 +40,14 @@ aS'spark'
 p21
 aS'data'
 p22
+aS'c'
 aS'collaborative filtering'
 p23
 aS'programming'
 p24
 aS'engineering'
 p25
-aS'c++'
+aS'analysis'
 p26
 aS'machine learning'
 p27
@@ -67,22 +68,22 @@ p34
 asS'major'
 p35
 (lp36
-S'management'
+VEngineering
 p37
-aS'big data'
+aVEconomics
 p38
-aS'machine learning'
+aVStatistics
 p39
-aS'engineering'
+aVComputer Science
 p40
-aS'machine learning big data'
+aVManagement Science and Engineering
 p41
-aS'statistic'
-p42
 asS'education'
-p43
-(lp44
-S'Bachelor'
+p42
+(lp43
+VMaster
+p44
+aVDoctor
 p45
 asS'responsibility'
 p46

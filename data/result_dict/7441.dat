@@ -2,119 +2,113 @@
 S'skills'
 p2
 (lp3
-S'analytics'
+S'ip'
 p4
-aS'security clearance'
+aS'tcp'
 p5
-aS'data mining'
+aS'analytics'
 p6
-aS'laboratory'
+aS'security clearance'
 p7
-aS'ic'
+aS'data mining'
 p8
-aS'education'
+aS'laboratory'
 p9
-aS'quantitative analysis'
+aS'ic'
 p10
-aS'visualization'
+aS'education'
 p11
-aS'java'
+aS'quantitative analysis'
 p12
-aS'research'
+aS'visualization'
 p13
-aS'access'
+aS'java'
 p14
-aS'computer science'
+aS'research'
 p15
-aS'government'
+aS'access'
 p16
-aS'data scientist'
+aS'computer science'
 p17
-aS'statistical modeling'
+aS'government'
 p18
-aS'sql'
+aS'data scientist'
 p19
-aS'modeling'
+aS'statistical modeling'
 p20
-aS'data'
+aS'sql'
 p21
-aS'information technology'
+aS'modeling'
 p22
-aS'software development'
+aS'data'
 p23
+aS'information technology'
+p24
+aS'software development'
+p25
 aS'c'
 aS'science'
-p24
-aS'programming'
-p25
-aS'dod'
 p26
-aS'machine learning'
+aS'programming'
 p27
-aS'organization'
+aS'dod'
 p28
-aS'security'
+aS'machine learning'
 p29
-aS'analysis'
+aS'organization'
 p30
-asS'working-year'
+aS'security'
 p31
-(lp32
-V(2, 5]
+aS'analysis'
+p32
+aS'physics'
 p33
-asS'major'
+asS'working-year'
 p34
 (lp35
-S'information'
+V(2, 5]
 p36
-aS'business'
+asS'major'
 p37
-aS'science'
-p38
-aS'machine learning'
+(lp38
+VData Science
 p39
-aS'analytics'
+aVInformation Science
 p40
-aS'information technology'
+aVPhysics
 p41
-aS'data mining'
+aVComputer Science
 p42
-aS'applied physics'
+aVBusiness
 p43
-aVphysic
-p44
-aS'computer science'
-p45
 asS'education'
-p46
-(lp47
+p44
+(lp45
 VBachelor
-p48
+p46
 aVMaster
-p49
+p47
 asS'responsibility'
-p50
-(lp51
+p48
+(lp49
 S'development'
-p52
+p50
 aS'information'
-p53
+p51
 aS'product'
-p54
-aVinsight
-p55
+p52
+aS'insight'
+p53
 aS'analysis'
-p56
-aS'statistical model'
-p57
+p54
 aS'data mining'
-p58
+p55
 aS'modeling'
-p59
+p56
 aS'implement'
-p60
+p57
 aS'prototype'
-p61
+p58
 aS'quantitative analysis'
-p62
+p59
 as.

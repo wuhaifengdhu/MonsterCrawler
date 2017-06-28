@@ -2,174 +2,186 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'intelligence'
 p4
-I1
-sS'communication'
+F0.0051141974263413
+sS'data science'
 p5
-I1
-sS'energy'
-p6
-I1
+F0.0039180486177869686
 sS'engineering'
-p7
-I1
+p6
+F0.0039897549741812859
 sS'communication skills'
-p8
-I1
+p7
+F0.011997152612573694
 sS'education'
-p9
-I1
+p8
+F0.013671835503669506
 sS'visualization'
-p10
-I1
+p9
+F0.0061051963255178161
 sS'big data'
+p10
+F0.0041456844506927281
+sS'scala'
 p11
-I1
+F0.0079497276472268296
 sS'deep learning'
 p12
-I1
+F0.010145086914962381
 sS'storage'
 p13
-I1
-sS'research'
+F0.012184044177675763
+sS'hadoop'
 p14
-I1
-sS'fraud detection'
+F0.0041850374638422311
+sS'research'
 p15
-I1
-sS'computer science'
+F0.0027790239142076166
+sS'music'
 p16
-I1
-sS'innovation'
-p17
-I1
-sS'intelligence'
-p18
-I1
-sS'data science'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'data modeling'
-p21
-I1
-sS'collaboration'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'fraud'
-p25
-I1
-sS'data processing'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'data'
-p28
-I1
-sS'project management'
-p29
-I1
-sS'search'
-p30
-I1
-sS'data collection'
-p31
-I1
-sS'programming'
-p32
-I1
-sS'analysis'
-p33
-I1
-sS'r'
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-sV(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'big data'
-p40
-I1
-sS'business'
-p41
-I1
-sS'communication'
-p42
-I1
-sS'data science'
-p43
-I1
-sS'general'
-p44
-I1
-sS'engineering'
-p45
-I1
+F0.015563553190596028
 sS'computer science'
-p46
-I1
-sS'project management'
-p47
-I1
-ssS'education'
-p48
-(dp49
-VMaster
-p50
-I1
-ssS'responsibility'
-p51
-(dp52
-S'product'
-p53
-I1
+p17
+F0.0045797500429551165
+sS'innovation'
+p18
+F0.0063056178245430739
+sS'fraud detection'
+p19
+F0.015387439985719032
+sS'energy'
+p20
+F0.010050473309609396
 sS'data analysis'
-p54
-I1
+p21
+F0.0048331010259467927
+sS'data modeling'
+p22
+F0.0085088004717207531
+sS'python'
+p23
+F0.0016978876636914201
+sS'collaboration'
+p24
+F0.0083311707494249324
 sS'processing'
-p55
-I1
-sS'decision-making'
-p56
-I1
-sS'analysis'
-p57
-I1
-sS'analytic'
-p58
-I1
-sS'data collection'
-p59
-I1
-sS'recommendation'
-p60
-I1
+p25
+F0.0053195051683085342
+sS'data scientist'
+p26
+F0.0034507220363644243
+sS'fraud'
+p27
+F0.012742202200678465
+sS'data processing'
+p28
+F0.011973024748300897
 sS'modeling'
+p29
+F0.0052908513942772151
+sS'spark'
+p30
+F0.0054922984472822759
+sS'data'
+p31
+F0.0015452962589507873
+sS'project management'
+p32
+F0.0061936590336304437
+sS'search'
+p33
+F0.030312603690388608
+sS'data collection'
+p34
+F0.023617912358053703
+sS'science'
+p35
+F0.002290012665127337
+sS'programming'
+p36
+F0.0035906033707976417
+sS'analysis'
+p37
+F0.0011160218949645927
+sS'r'
+F0.0036155850593742097
+sS'algorithms'
+p38
+F0.0058442074213851921
+ssS'working-year'
+p39
+(dp40
+V(5, 10]
+p41
+F0.0039271800051363477
+sV(2, 5]
+p42
+F0.0040356496040102139
+ssS'major'
+p43
+(dp44
+VData Science
+p45
+F0.0033462181843813116
+sVComputer Science
+p46
+F0.0029490415190625333
+sVEngineering
+p47
+F0.0073367391751359206
+sVBusiness
+p48
+F0.0035234995021958117
+sVManagement Science and Engineering
+p49
+F0.0042004708093449266
+ssS'education'
+p50
+(dp51
+VMaster
+p52
+F0.0023689924600136057
+ssS'responsibility'
+p53
+(dp54
+S'model'
+p55
+F0.005040426195119351
+sS'product'
+p56
+F0.0043810843345854942
+sS'data analysis'
+p57
+F0.0048331010259467927
+sS'processing'
+p58
+F0.0053195051683085342
+sS'analysis'
+p59
+F0.0011160218949645927
+sS'develop ... model'
+p60
+F0.010097436570606312
+sS'analytic'
 p61
-I1
-sS'implement'
+F0.0073541562615623548
+sS'data collection'
 p62
-I1
-sS'model'
+F0.023617912358053703
+sS'recommendation'
 p63
-I1
+F0.017017600943441506
+sS'modeling'
+p64
+F0.0052908513942772151
+sS'implement'
+p65
+F0.0068985771176534446
+sS'validate ... model'
+p66
+F0.017051355528798572
+sS'decision-making'
+p67
+F0.011961027510700726
 ss.

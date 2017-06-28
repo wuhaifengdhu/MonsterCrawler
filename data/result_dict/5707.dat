@@ -37,45 +37,39 @@ p19
 asS'working-year'
 p20
 (lp21
-V[0]
+S'[0]'
 p22
 asS'major'
 p23
 (lp24
-S'information'
+VData Science
 p25
-aS'law'
+aVBusiness
 p26
-aS'management'
+aVManagement Science and Engineering
 p27
-aS'business'
-p28
-aS'analytics'
-p29
 asS'education'
-p30
-(lp31
+p28
+(lp29
 S'Bachelor'
-p32
+p30
 asS'responsibility'
-p33
-(lp34
+p31
+(lp32
 S'development'
-p35
-aS'financial model'
-p36
-aS'business problem'
-p37
-aVinsight
-p38
+p33
 aS'information'
-p39
+p34
+aS'financial model'
+p35
+aS'insight'
+p36
 aS'recommendation'
-p40
+p37
 aS'implement'
-p41
+p38
 aS'presentation'
-p42
+p39
 aS'model'
-p43
+p40
 as.

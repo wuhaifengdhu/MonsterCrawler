@@ -2,21 +2,22 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'a'
+aS'management'
 p4
 aS'web services'
 p5
 aS'apis'
 p6
-aS'user experience'
-p7
 aS'data scientist'
-p8
+p7
 aS'javascript'
-p9
+p8
 aS'programming'
-p10
+p9
 aS'engineering'
+p10
+aS'amazon web services'
 p11
 aS'talent management'
 p12
@@ -32,54 +33,46 @@ aS'teaching'
 p17
 aS'data'
 p18
-aS'amazon web services'
+aS'options'
 p19
-asS'working-year'
+aS'css'
 p20
-(lp21
+asS'working-year'
+p21
+(lp22
 V(2, 5]
-p22
-asS'major'
 p23
-(lp24
-S'information'
-p25
-aS'management'
+asS'major'
+p24
+(lp25
+VEngineering
 p26
-aS'business'
+aVComputer Science
 p27
-aS'science'
+aVBusiness
 p28
-aS'engineering'
+aVManagement Science and Engineering
 p29
-aS'design'
-p30
-aS'computer science'
-p31
-aS'ee computer science'
-p32
-aS'history'
-p33
 asS'education'
-p34
-(lp35
+p30
+(lp31
 S'Bachelor'
-p36
+p32
 asS'responsibility'
-p37
-(lp38
+p33
+(lp34
 S'development'
-p39
+p35
 aS'information'
-p40
+p36
 aS'product'
-p41
+p37
 aS'collect data'
-p42
+p38
 aS'understand'
-p43
+p39
 aS'design'
-p44
+p40
 aS'implement'
-p45
+p41
 as.

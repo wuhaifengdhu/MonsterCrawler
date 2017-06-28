@@ -16,25 +16,25 @@ aS'evolutionary biology'
 p9
 aS'research'
 p10
-aVpanda
-p11
 aS'management'
-p12
+p11
 aS'flask'
-p13
+p12
 aS'storage'
-p14
+p13
 aS'devops'
-p15
+p14
 aS'writing'
-p16
+p15
 aS'fortran'
-p17
+p16
 aS'large-scale data analysis'
-p18
+p17
 aS'matlab'
-p19
+p18
 aS'numpy'
+p19
+aS'pandas'
 p20
 aS'data management'
 p21
@@ -44,77 +44,79 @@ aS'data analysis'
 p23
 aS'python'
 p24
-aS'scipy'
+aS'javascript'
 p25
-aS'neuroscience'
+aS'scipy'
 p26
-aS'data'
+aS'neuroscience'
 p27
+aS'data'
+p28
+aS'information technology'
+p29
 aS'c'
 aS'software engineering'
-p28
-aS'database management'
-p29
-aS'science'
 p30
-aS'programming'
+aS'database management'
 p31
-aS'analysis'
+aS'science'
 p32
-aS'web development'
+aS'programming'
 p33
-asS'working-year'
+aS'analysis'
 p34
-(lp35
-V(2, 5]
+aS'web development'
+p35
+aS'databases'
 p36
-asS'major'
+asS'working-year'
 p37
 (lp38
-S'information'
+V(2, 5]
 p39
-aS'biology'
+asS'major'
 p40
-aS'management'
-p41
-aS'software engineering'
+(lp41
+VCognitive Science
 p42
-aS'business'
+aVBusiness
 p43
-aS'computing'
+aVData Science
 p44
-aS'science'
+aVEngineering
 p45
-aS'data science'
+aVInformation Science
 p46
-aS'engineering'
+aVComputer Science
 p47
-aS'neuroscience'
+aVBiological Engineering
 p48
-aS'web development'
+aVManagement Science and Engineering
 p49
 asS'education'
 p50
 (lp51
 VMaster
 p52
-asS'responsibility'
+aVDoctor
 p53
-(lp54
+asS'responsibility'
+p54
+(lp55
 S'development'
-p55
-aS'large data set'
 p56
-aS'data analysis'
-p57
 aS'information'
+p57
+aS'data analysis'
 p58
-aS'analysis'
+aS'large data set'
 p59
-aS'analytical method'
+aS'analysis'
 p60
-aS'model'
+aS'analytical method'
 p61
-aS'extract'
+aS'model'
 p62
+aS'extract'
+p63
 as.

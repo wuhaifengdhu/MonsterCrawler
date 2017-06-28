@@ -2,210 +2,198 @@
 S'skills'
 p2
 (lp3
-S'integration'
+S'soa'
 p4
-aS'consulting'
+aS'integration'
 p5
-aS'aws'
+aS'consulting'
 p6
-aS'problem solving'
+aS'aws'
 p7
-aS'nosql'
-p8
 aS'programming'
+p8
+aS'nosql'
 p9
-aS'data science'
+aS'eclipse'
 p10
-aS'distributed computing'
-p11
-aS'strategic planning'
-p12
-aS'analytics'
-p13
-aS'unix'
-p14
-aS'investment management'
-p15
-aS'data warehousing'
-p16
-aS'virtualization'
-p17
-aS'system design'
-p18
-aS'it management'
-p19
-aS'analysis'
-p20
-aS'strategy'
-p21
-aS'content management'
-p22
-aS'cassandra'
-p23
-aS'xml'
-p24
-aS'management'
-p25
-aS'tableau'
-p26
-aS'rdbms'
-p27
-aS'big data'
-p28
-aS'master data management'
-p29
-aS'agile'
-p30
-aS'power bi'
-p31
-aS'hadoop'
-p32
-aS'governance'
-p33
-aS'research'
-p34
-aS'hive'
-p35
-aS'computer science'
-p36
-aS'microstrategy'
-p37
-aS'communication'
-p38
-aS'uml'
-p39
-aS'quality management'
-p40
-aS'data management'
-p41
-aS'data modeling'
-p42
-aS'web services'
-p43
-aS'spotfire'
-p44
-aS'thought leadership'
-p45
-aS'data scientist'
-p46
-aS'data quality'
-p47
-aS'risk analysis'
-p48
-aS'business process'
-p49
-aS'leadership'
-p50
-aS'sql'
-p51
-aS'modeling'
-p52
-aS'db2'
-p53
-aS'data'
-p54
-aS'project management'
-p55
-aS'pig'
-p56
-aS'science'
-p57
-aS'solution architecture'
-p58
-aS'business strategy'
-p59
-aS'business intelligence'
-p60
-aS'business objects'
-p61
-aS'machine learning'
-p62
-aS'data architecture'
-p63
-aS'olap'
-p64
-aS'architecture'
-p65
-aS'oracle'
-p66
-aS'organization'
-p67
-aS'data integration'
-p68
-aS'troubleshooting'
-p69
-asS'working-year'
-p70
-(lp71
-V(5, 10]
-p72
-aV(10, 15]
-p73
-aV(2, 5]
-p74
-asS'major'
-p75
-(lp76
-S'information'
-p77
-aS'management'
-p78
-aS'business'
-p79
-aS'big data'
-p80
-aS'computing'
-p81
-aS'science'
-p82
-aS'machine learning data science'
-p83
-aS'machine learning'
-p84
-aS'analytics'
-p85
-aS'information system'
-p86
-aS'design'
-p87
-aS'computer science'
-p88
-aS'communication'
-p89
-aS'ee computer science'
-p90
 aS'data science'
-p91
-aS'project management'
-p92
-asS'education'
-p93
-(lp94
-VMaster
-p95
-asS'responsibility'
-p96
-(lp97
-S'development'
-p98
-aS'large data set'
-p99
-aS'product'
-p100
-aS'explore opportunity'
-p101
-aS'information'
-p102
+p11
+aS'distributed computing'
+p12
+aS'strategic planning'
+p13
+aS'analytics'
+p14
+aS'business intelligence'
+p15
+aS'investment management'
+p16
+aS'data warehousing'
+p17
+aS'virtualization'
+p18
+aS'system design'
+p19
+aS'it management'
+p20
 aS'analysis'
-p103
-aS'design'
-p104
-aS'recommendation'
-p105
+p21
+aS'tableau'
+p22
+aS'strategy'
+p23
+aS'content management'
+p24
+aS'cassandra'
+p25
+aS'xml'
+p26
+aS'management'
+p27
+aS'java'
+p28
+aS'rdbms'
+p29
+aS'big data'
+p30
+aS'master data management'
+p31
+aS'agile'
+p32
+aS'power bi'
+p33
+aS'hadoop'
+p34
+aS'governance'
+p35
+aS'research'
+p36
+aS'hive'
+p37
+aS'computer science'
+p38
+aS'microstrategy'
+p39
+aS'communication'
+p40
+aS'intelligence'
+p41
+aS'uml'
+p42
+aS'quality management'
+p43
+aS'data management'
+p44
+aS'data modeling'
+p45
+aS'web services'
+p46
+aS'spotfire'
+p47
+aS'thought leadership'
+p48
+aS'data scientist'
+p49
+aS'data quality'
+p50
+aS'risk analysis'
+p51
+aS'business process'
+p52
+aS'leadership'
+p53
+aS'sql'
+p54
 aS'modeling'
-p106
+p55
+aS'problem solving'
+p56
+aS'db2'
+p57
+aS'data'
+p58
+aS'project management'
+p59
+aS'j2ee'
+p60
+aS'pig'
+p61
+aS'windows'
+p62
+aS'science'
+p63
+aS'solution architecture'
+p64
+aS'business strategy'
+p65
+aS'unix'
+p66
+aS'business objects'
+p67
+aS'machine learning'
+p68
+aS'data architecture'
+p69
+aS'olap'
+p70
+aS'architecture'
+p71
+aS'oracle'
+p72
+aS'organization'
+p73
+aS'data integration'
+p74
+aS'troubleshooting'
+p75
+asS'working-year'
+p76
+(lp77
+V(5, 10]
+p78
+aV(10, 15]
+p79
+aV(2, 5]
+p80
+asS'major'
+p81
+(lp82
+VData Science
+p83
+aVComputer Science
+p84
+aVBusiness
+p85
+aVManagement Science and Engineering
+p86
+asS'education'
+p87
+(lp88
+VMaster
+p89
+asS'responsibility'
+p90
+(lp91
+S'development'
+p92
+aS'information'
+p93
+aS'product'
+p94
+aS'explore opportunity'
+p95
+aS'large data set'
+p96
+aS'analysis'
+p97
+aS'design'
+p98
+aS'recommendation'
+p99
+aS'modeling'
+p100
 aS'prototype'
-p107
+p101
 aS'presentation'
-p108
+p102
 as.

@@ -2,107 +2,94 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'classification'
 p4
 aS'human resources'
 p5
-aS'networking'
+aS'analytics'
 p6
-aS'big data'
+aS'engineering'
 p7
-aS'classification'
+aS'statistics'
 p8
-aS'science'
+aS'networking'
 p9
-aS'innovation'
+aS'big data'
 p10
 aS'recruiting'
 p11
-aS'c'
 aS'integration'
 p12
-aS'business analytics'
+aS'computer science'
 p13
-aS'analytics'
+aS'innovation'
 p14
-aS'engineering'
+aS'policy'
 p15
-aS'management'
+aS'mathematics'
 p16
-aS'computer science'
+aS'systems engineering'
 p17
-aS'mathematics'
+aS'data scientist'
 p18
-aS'modeling'
-p19
-aS'data'
-p20
-aS'data analytics'
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
-aS'ece'
-p28
-aS'management'
-p29
-aS'general'
-p30
-aS'business'
-p31
-aS'big data'
-p32
-aS'mathematics'
-p33
-aS'science'
-p34
-aS'statistic'
-p35
-aS'engineering'
-p36
-aS'information systems'
-p37
 aS'business analytics'
-p38
-aS'analytics'
-p39
-aS'computer engineering'
-p40
-aS'information system'
-p41
-aS'electrical'
-p42
-aS'computer science'
-p43
-aS'management information systems'
-p44
-aS'computer information systems'
-p45
-aS'electrical computer engineering'
-p46
-aS'data analytics'
-p47
-asS'education'
-p48
-(lp49
-VMaster
-p50
-aVDoctor
-p51
-asS'responsibility'
-p52
-(lp53
-S'development'
-p54
+p19
+aS'management'
+p20
 aS'modeling'
-p55
+p21
+aS'data'
+p22
+aS'training'
+p23
+aS'software engineering'
+p24
+aS'science'
+p25
+aS'data analytics'
+p26
+asS'working-year'
+p27
+(lp28
+S'[0]'
+p29
+asS'major'
+p30
+(lp31
+VStatistics
+p32
+aVBusiness
+p33
+aVData Science
+p34
+aVElectrical and Electronics Engineering
+p35
+aVEngineering
+p36
+aVInformation Science
+p37
+aVComputer Science
+p38
+aVMathematics
+p39
+aVManagement Science and Engineering
+p40
+asS'education'
+p41
+(lp42
+VBachelor
+p43
+aVMaster
+p44
+aVDoctor
+p45
+asS'responsibility'
+p46
+(lp47
+S'development'
+p48
+aS'modeling'
+p49
 aS'information'
-p56
+p50
 as.

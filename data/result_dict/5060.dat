@@ -16,7 +16,7 @@ aS'analytics'
 p9
 aS'engineering'
 p10
-aS'analysis'
+aS'unit testing'
 p11
 aS'data'
 p12
@@ -53,74 +53,58 @@ p27
 aS'software development'
 p28
 aS'c'
-aS'clojure'
+aS'software engineering'
 p29
-aS'software engineering'
-p30
 aS'lisp'
+p30
+aS'science'
 p31
-aS'science'
-p32
 aS'functional programming'
-p33
+p32
 aS'programming'
-p34
-aS'c++'
-p35
-aS'machine learning'
-p36
-aS'unit testing'
-p37
-aS'data analytics'
-p38
-asS'working-year'
-p39
-(lp40
-V(2, 5]
-p41
-asS'major'
-p42
-(lp43
-S'management'
-p44
-aS'business'
-p45
-aS'big data'
-p46
-aS'computing'
-p47
-aS'science'
-p48
-aS'machine learning'
-p49
-aS'analytics'
-p50
-aS'engineering'
-p51
-aS'design'
-p52
-aS'computer science'
-p53
-aS'software engineering'
-p54
-aS'data analytics'
-p55
-asS'education'
-p56
-(lp57
-VBachelor
-p58
-asS'responsibility'
-p59
-(lp60
-S'development'
-p61
-aS'analytic'
-p62
-aS'processing'
-p63
-aS'design'
-p64
+p33
 aS'analysis'
-p65
+p34
+aS'machine learning'
+p35
+aS'clojure'
+p36
+aS'data analytics'
+p37
+asS'working-year'
+p38
+(lp39
+V(2, 5]
+p40
+asS'major'
+p41
+(lp42
+VData Science
+p43
+aVEngineering
+p44
+aVComputer Science
+p45
+aVBusiness
+p46
+aVManagement Science and Engineering
+p47
+asS'education'
+p48
+(lp49
+VBachelor
+p50
+asS'responsibility'
+p51
+(lp52
+S'development'
+p53
+aS'analytic'
+p54
+aS'processing'
+p55
+aS'design'
+p56
+aS'analysis'
+p57
 as.

@@ -4,173 +4,157 @@ p2
 (dp3
 S'unsupervised learning'
 p4
-I1
+F0.01071610864697092
 sS'communication'
 p5
-I1
+F0.0033828405109206337
 sS'business intelligence'
 p6
-I1
+F0.0043654771555008999
 sS'problem solving'
 p7
-I1
+F0.0052448971473360072
 sS'quantitative analysis'
 p8
-I1
-sS'big data'
+F0.01629915530777962
+sS'statistics'
 p9
-I1
-sS'user experience'
+F0.0019925488350483007
+sS'big data'
 p10
-I1
-sS'predictive modeling'
+F0.0027194981332535634
+sS'user experience'
 p11
-I1
-sS'recruiting'
+F0.0072119935151855894
+sS'predictive modeling'
 p12
-I1
-sS'strategy'
+F0.0044423203177114748
+sS'recruiting'
 p13
-I1
-sS'computer science'
+F0.0073694407064474176
+sS'strategy'
 p14
-I1
-sS'mathematics'
+F0.003365409041082981
+sS'computer science'
 p15
-I1
-sS'data analysis'
+F0.0030042377418530359
+sS'intelligence'
 p16
-I1
-sS'data scientist'
+F0.0033548260895016647
+sS'mathematics'
 p17
-I1
-sS'leadership'
+F0.0039057548762303548
+sS'data analysis'
 p18
-I1
-sS'modeling'
+F0.0031704316559095411
+sS'data scientist'
 p19
-I1
-sS'cloud computing'
+F0.0022636146691535864
+sS'leadership'
 p20
-I1
-sS'engineering'
+F0.0035307876521449193
+sS'modeling'
 p21
-I1
-sS'analysis'
+F0.0017353540363708388
+sS'data'
 p22
-I1
-sS'machine learning'
+F0.00025342198263776265
+sS'a'
+F0.0079916320239915677
+sS'science'
 p23
-I1
-sS'architecture'
+F0.00150220916280789
+sS'cloud computing'
 p24
-I1
-sS'windows azure'
+F0.0069179415271748857
+sS'engineering'
 p25
-I1
-sS'application development'
+F0.0052344221242463882
+sS'machine learning'
 p26
-I1
-ssS'working-year'
+F0.0014006788928077765
+sS'architecture'
 p27
-(dp28
-V(5, 10]
+F0.0046731079544543985
+sS'windows azure'
+p28
+F0.012108755626135431
+sS'application development'
 p29
-I1
-ssS'major'
+F0.0081861034219791566
+ssS'working-year'
 p30
 (dp31
-S'information'
+V(5, 10]
 p32
-I1
-sS'law'
+F0.0025761629520873052
+ssS'major'
 p33
-I1
-sS'business'
-p34
-I1
-sS'big data'
+(dp34
+VMathematics
 p35
-I1
-sS'computing'
+F0.0036629754905607948
+sVEngineering
 p36
-I1
-sS'communication'
+F0.0048127754845442901
+sVStatistics
 p37
-I1
-sVapplied statistic
+F0.003849369166427522
+sVComputer Science
 p38
-I1
-sS'machine learning'
+F0.0019345208255388843
+sVBusiness
 p39
-I1
-sS'engineering'
-p40
-I1
-sS'design'
-p41
-I1
-sS'computer science'
-p42
-I1
-sS'statistic'
-p43
-I1
-sS'mathematics'
-p44
-I1
-sS'development practice'
-p45
-I1
-sS'mathematics computer science'
-p46
-I1
+F0.0023113554426797316
 ssS'education'
-p47
-(dp48
-S'Bachelor'
-p49
-I1
+p40
+(dp41
+VMaster
+p42
+F0.0015540185581713183
+sVDoctor
+p43
+F0.0023273114781548463
 ssS'responsibility'
-p50
-(dp51
+p44
+(dp45
 S'development'
-p52
-I1
+p46
+F0.0051750470188637555
 sS'information'
-p53
-I1
+p47
+F0.0029638999989944331
 sS'product'
-p54
-I1
+p48
+F0.011495665732630314
 sS'data analysis'
-p55
-I1
-sS'presentation'
-p56
-I1
-sVinsight
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'design'
-p59
-I1
-sS'solve problem'
-p60
-I1
-sS'modeling'
-p61
-I1
-sS'model'
-p62
-I1
-sS'prototype'
-p63
-I1
+p49
+F0.0031704316559095411
 sS'quantitative analysis'
-p64
-I1
+p50
+F0.01629915530777962
+sS'insight'
+p51
+F0.0078414245983311343
+sS'design'
+p52
+F0.0031205530128599951
+sS'solve problem'
+p53
+F0.0087885522889565842
+sS'modeling'
+p54
+F0.0017353540363708388
+sS'model'
+p55
+F0.0033064334228667543
+sS'prototype'
+p56
+F0.0067375457554480515
+sS'presentation'
+p57
+F0.0052635776545077069
+sS'decision making'
+p58
+F0.0069798783118152005
 ss.

@@ -1,210 +1,398 @@
-job_requisition
-number
-122049
-category
-information
-system
--
-hardware
-primary_location
-arlington_va
-u
-security_clearance
-t_sci
-clearance
-status
-must_current
-schedule_full
-time
-type_travel
-local
-percent_travel
-required
-10
-description
-caci_seeking
-candidate
-strong_problem-solving
-skill
-excellent_communication
-skill
-ability
-work_pressure
-key
-business
-highly
-technical
-dynamic_environment
-within
-defense
-advanced
-research
-project
-agency_darpa
-devops_engineer
-responsible_driving
-continuous
-process_improvement
-collaborate_effectively
-cross-functional
-operational
-development
-team
-solve_problem
-implement
-new
-solution
-specifically
-candidate
-help
-define
-guide
-platform
-initiative
-maintain
-consistency_across
-deployment
-model
-area
-operational_excellence
-launch
-readiness
-adoption
-best_practice
-perform
-system
-software
-installs_well
-provide
-support
-maintenance
-system
-utilized
-team
-software_developer
-data_scientist
-responsible_creating
-contingency_plan
-responding
-service_outage
-system_malfunction
-must_willing
-troubleshoot_resolve
-computer
-hardware_software
-problem
-support
-multi-contractor_team
-environment
-required_qualification
-4+_year
-hands-on
-linux
-system_administration
-installing_configuring
-software_patch
-upgrade
-troubleshooting_issue
-working
-developer
-team_member
-knowledge
-shell_scripting
-troubleshooting_automation
-routine_task
-overall
-understanding
-network_topology
-network
-concept
-hardware
-must_able
-provide
-communication
-written_verbal
-team_member
-project
-partner
-customer
-communication
-take
-form
-documentation
-incident
-report
-project
-status
-etc
-typically_requires
-bachelor's_degree
-equivalent_five
-seven_year
-related
-work
-experience
-desired_qualification
-experience
-working
-dynamic
-research
-environment
-experience
-using
-atlassian_product
-jira_confluence
-capability_configure
-troubleshoot
-network_equipment
-identify_resolve
-hardware_software
-network_malfunction
-puppet
-shell_scripting
-system
-vulnerability_scanning
-tool_nagios
-clearance
-requirement
-position_requires
-ability_obtain
-maintain
-top_secret
-sci
-u_government
-security_clearance
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_client
-member_fortune
-1000_largest
-company_russell
-2000_index
-caci_provides
-dynamic_career
-approximately_15
-000_employee
-working_120
-office_worldwide
-caci_equal
-opportunity_employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV122049
+p4
+aVcategory information
+p5
+aVsystem
+p6
+aV-
+aVhardware
+p7
+aVprimary location
+p8
+aVarlington va
+p9
+aVu
+aVsecurity clearance
+p10
+aVt sci
+p11
+aVclearance status
+p12
+aVmust current
+p13
+aVschedule full
+p14
+aVtime
+p15
+aVtype travel
+p16
+aVlocal
+p17
+aVpercent travel
+p18
+aVrequired
+p19
+aV10
+p20
+aVdescription
+p21
+aVcaci seeking
+p22
+aVcandidate
+p23
+aVstrong problem-solving
+p24
+aVskill
+p25
+aVexcellent communication
+p26
+aVskill ability
+p27
+aVwork pressure
+p28
+aVkey
+p29
+aVbusiness
+p30
+aVhighly technical
+p31
+aVdynamic environment
+p32
+aVwithin
+p33
+aVdefense
+p34
+aVadvanced
+p35
+aVresearch
+p36
+aVproject
+p37
+aVagency darpa
+p38
+aVdevops engineer
+p39
+aVresponsible driving
+p40
+aVcontinuous
+p41
+aVprocess improvement
+p42
+aVcollaborate effectively
+p43
+aVcross-functional
+p44
+aVoperational
+p45
+aVdevelopment
+p46
+aVteam
+p47
+aVsolve problem
+p48
+aVimplement
+p49
+aVnew
+p50
+aVsolution
+p51
+aVspecifically
+p52
+aVcandidate
+p53
+aVhelp define
+p54
+aVguide
+p55
+aVplatform
+p56
+aVinitiative
+p57
+aVmaintain consistency
+p58
+aVacross
+p59
+aVdeployment
+p60
+aVmodel
+p61
+aVarea
+p62
+aVoperational excellence
+p63
+aVlaunch
+p64
+aVreadiness
+p65
+aVadoption
+p66
+aVbest practice
+p67
+aVperform
+p68
+aVsystem
+p69
+aVsoftware
+p70
+aVinstalls well
+p71
+aVprovide
+p72
+aVsupport maintenance
+p73
+aVsystem utilized
+p74
+aVteam
+p75
+aVsoftware developer
+p76
+aVdata scientist
+p77
+aVresponsible creating
+p78
+aVcontingency plan
+p79
+aVresponding service
+p80
+aVoutage
+p81
+aVsystem malfunction
+p82
+aVmust willing
+p83
+aVtroubleshoot resolve
+p84
+aVcomputer
+p85
+aVhardware software
+p86
+aVproblem
+p87
+aVsupport
+p88
+aVmulti-contractor team
+p89
+aVenvironment
+p90
+aVrequired qualification
+p91
+aV4+ year
+p92
+aVhands-on linux
+p93
+aVsystem administration
+p94
+aVinstalling configuring
+p95
+aVsoftware patch
+p96
+aVupgrade
+p97
+aVtroubleshooting issue
+p98
+aVworking
+p99
+aVdeveloper
+p100
+aVteam member
+p101
+aVknowledge
+p102
+aVshell scripting
+p103
+aVtroubleshooting automation
+p104
+aVroutine task
+p105
+aVoverall understanding
+p106
+aVnetwork topology
+p107
+aVnetwork
+p108
+aVconcept
+p109
+aVhardware
+p110
+aVmust able
+p111
+aVprovide
+p112
+aVcommunication written
+p113
+aVverbal
+p114
+aVteam member
+p115
+aVproject
+p116
+aVpartner
+p117
+aVcustomer
+p118
+aVcommunication
+p119
+aVtake
+p120
+aVform
+p121
+aVdocumentation
+p122
+aVincident
+p123
+aVreport
+p124
+aVproject
+p125
+aVstatus
+p126
+aVetc
+p127
+aVtypically requires
+p128
+aVbachelor's degree
+p129
+aVequivalent five
+p130
+aVseven year
+p131
+aVrelated
+p132
+aVwork
+p133
+aVexperience
+p134
+aVdesired qualification
+p135
+aVexperience working
+p136
+aVdynamic
+p137
+aVresearch
+p138
+aVenvironment
+p139
+aVexperience
+p140
+aVusing
+p141
+aVatlassian product
+p142
+aVjira confluence
+p143
+aVcapability configure
+p144
+aVtroubleshoot network
+p145
+aVequipment identify
+p146
+aVresolve hardware
+p147
+aVsoftware
+p148
+aVnetwork malfunction
+p149
+aVpuppet
+p150
+aVshell scripting
+p151
+aVsystem
+p152
+aVvulnerability scanning
+p153
+aVtool nagios
+p154
+aVclearance requirement
+p155
+aVposition requires
+p156
+aVability obtain
+p157
+aVmaintain
+p158
+aVtop secret
+p159
+aVsci u.s.
+p160
+aVgovernment security
+p161
+aVclearance
+p162
+aVcompany description
+p163
+aVcaci employ
+p164
+aVdiverse range
+p165
+aVtalent create
+p166
+aVenvironment fuel
+p167
+aVinnovation foster
+p168
+aVcontinuous improvement
+p169
+aVsuccess join
+p170
+aVcaci opportunity
+p171
+aVmake immediate
+p172
+aVimpact providing
+p173
+aVinformation
+p174
+aVsolution
+p175
+aVservice
+p176
+aVsupport
+p177
+aVnational security
+p178
+aVmission government
+p179
+aVtransformation intelligence
+p180
+aVdefense federal
+p181
+aVcivilian client
+p182
+aVmember fortune
+p183
+aV1000 largest
+p184
+aVcompany russell
+p185
+aV2000 index
+p186
+aVcaci provides
+p187
+aVdynamic career
+p188
+aVapproximately 15
+p189
+aV000 employee
+p190
+aVworking 120
+p191
+aVoffice worldwide
+p192
+aVcaci equal
+p193
+aVopportunity employer
+p194
+aV- female
+p195
+aVminority protected
+p196
+aVveteran individual
+p197
+aVdisability
+p198
+a.

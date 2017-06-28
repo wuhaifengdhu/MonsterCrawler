@@ -22,7 +22,7 @@ aS'clustering'
 p12
 aS'visualization'
 p13
-aS'management'
+aS'statistics'
 p14
 aS'unsupervised learning'
 p15
@@ -36,100 +36,83 @@ aS'computer science'
 p19
 aS'calculus'
 p20
-aS'javascript'
+aS'processing'
 p21
 aS'algebra'
 p22
 aS'python'
 p23
-aS'processing'
+aS'javascript'
 p24
 aS'data scientist'
 p25
-aS'data processing'
+aS'management'
 p26
-aS'data'
+aS'data processing'
 p27
-aS'science'
+aS'sensors'
 p28
-aS'analysis'
+aS'data'
 p29
-aS'machine learning'
-p30
-aS'linear algebra'
-p31
-aS'electrical engineering'
-p32
-aS'security'
-p33
-aS'data analytics'
-p34
-aS'predictive analytics'
-p35
-asS'working-year'
-p36
-(lp37
-V(5, 10]
-p38
-aV(2, 5]
-p39
-asS'major'
-p40
-(lp41
-S'management'
-p42
-aS'big data'
-p43
-aS'ee computer science'
-p44
 aS'science'
-p45
-aS'statistic'
-p46
-aS'machine learning'
-p47
-aS'analytics'
-p48
-aS'engineering'
-p49
-aS'electrical'
-p50
-aS'computer science'
-p51
-aS'phd'
-p52
-aS'data mining'
-p53
-aS'electrical engineering'
-p54
-aS'data mining predictive analytics'
-p55
-aS'machine learning data mining'
-p56
-aS'data analytics'
-p57
-aS'predictive analytics'
-p58
-asS'education'
-p59
-(lp60
-VMaster
-p61
-aVDoctor
-p62
-asS'responsibility'
-p63
-(lp64
-S'data analysis'
-p65
-aS'processing'
-p66
+p30
 aS'analysis'
-p67
+p31
+aS'machine learning'
+p32
+aS'r'
+aS'linear algebra'
+p33
+aS'electrical engineering'
+p34
+aS'security'
+p35
+aS'data analytics'
+p36
+aS'predictive analytics'
+p37
+asS'working-year'
+p38
+(lp39
+V(5, 10]
+p40
+aV(2, 5]
+p41
+asS'major'
+p42
+(lp43
+VStatistics
+p44
+aVData Science
+p45
+aVElectrical and Electronics Engineering
+p46
+aVEngineering
+p47
+aVComputer Science
+p48
+aVManagement Science and Engineering
+p49
+asS'education'
+p50
+(lp51
+VMaster
+p52
+aVDoctor
+p53
+asS'responsibility'
+p54
+(lp55
+S'data analysis'
+p56
+aS'processing'
+p57
+aS'analysis'
+p58
 aS'data mining'
-p68
+p59
 aS'model'
-p69
+p60
 aS'implement'
-p70
+p61
 as.

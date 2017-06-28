@@ -4,128 +4,116 @@ p2
 (lp3
 S'soa'
 p4
-aS'nosql'
+aS'databases'
 p5
-aS'data science'
+aS'nosql'
 p6
-aS'testing'
+aS'communication'
 p7
-aS'informatics'
-p8
-aS'engineering'
-p9
-aS'cancer'
-p10
-aS'git'
-p11
-aS'open source'
-p12
-aS'publishing'
-p13
-aS'big data'
-p14
-aS'storage'
-p15
-aS'integration'
-p16
-aS'research'
-p17
-aS'computer science'
-p18
-aS'data management'
-p19
-aS'distributed computing'
-p20
-aS'apis'
-p21
-aS'cancer research'
-p22
-aS'processing'
-p23
-aS'aws'
-p24
-aS'maven'
-p25
-aS'management'
-p26
-aS'biomedical informatics'
-p27
-aS'sql'
-p28
-aS'apache'
-p29
-aS'java'
-p30
-aS'data'
-p31
-aS'project management'
-p32
-aS'open source software'
-p33
-aS'science'
-p34
-aS'cloud computing'
-p35
-aS'data engineering'
-p36
-aS'architecture'
-p37
-asS'working-year'
-p38
-(lp39
-V[0]
-p40
-asS'major'
-p41
-(lp42
-S'management'
-p43
-aS'big data'
-p44
-aS'computing'
-p45
-aS'science'
-p46
 aS'data science'
-p47
-aS'computer science computer engineering'
-p48
-aS'engineering'
-p49
-aS'phd'
-p50
-aS'computer engineering'
-p51
-aS'design'
-p52
-aS'computer science'
-p53
-aS'biomedical informatics'
-p54
+p8
+aS'testing'
+p9
+aS'integration'
+p10
 aS'informatics'
-p55
-aS'medical informatics'
-p56
-aS'project management'
-p57
-asS'education'
-p58
-(lp59
-VDoctor
-p60
-asS'responsibility'
-p61
-(lp62
-S'development'
-p63
-aS'mine data'
-p64
+p11
+aS'engineering'
+p12
+aS'git'
+p13
+aS'open source'
+p14
+aS'cancer'
+p15
+aS'big data'
+p16
+aS'storage'
+p17
+aS'hadoop'
+p18
+aS'research'
+p19
+aS'computer science'
+p20
+aS'data management'
+p21
+aS'distributed computing'
+p22
+aS'apis'
+p23
+aS'cancer research'
+p24
 aS'processing'
-p65
-aS'manage data'
-p66
+p25
+aS'aws'
+p26
+aS'maven'
+p27
+aS'management'
+p28
+aS'biomedical informatics'
+p29
+aS'sql'
+p30
+aS'apache'
+p31
+aS'java'
+p32
+aS'data'
+p33
+aS'project management'
+p34
+aS'publishing'
+p35
+aS'open source software'
+p36
+aS'science'
+p37
+aS'cloud computing'
+p38
+aS'data engineering'
+p39
+aS'architecture'
+p40
+aS'healthcare'
+p41
+asS'working-year'
+p42
+(lp43
+S'[0]'
+p44
+asS'major'
+p45
+(lp46
+VData Science
+p47
+aVEngineering
+p48
+aVInformation Science
+p49
+aVComputer Science
+p50
+aVBiological Engineering
+p51
+aVManagement Science and Engineering
+p52
+asS'education'
+p53
+(lp54
+VDoctor
+p55
+asS'responsibility'
+p56
+(lp57
+S'development'
+p58
 aS'design'
-p67
+p59
 aS'implement'
-p68
+p60
+aS'processing'
+p61
+aS'manage data'
+p62
 as.

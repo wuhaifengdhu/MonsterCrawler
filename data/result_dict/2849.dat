@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'big data'
 p5
@@ -23,58 +24,46 @@ aS'leadership'
 p12
 aS'sql'
 p13
-aS'mathematics'
+aS'sas'
 p14
-aS'data'
-p15
-aS'information technology'
-p16
-aS'science'
-p17
-asS'working-year'
-p18
-(lp19
-V(0, 2]
-p20
-asS'major'
-p21
-(lp22
-S'information'
-p23
-aS'big data'
-p24
-aS'business'
-p25
-aS'science'
-p26
-aS'data science'
-p27
-aS'communication'
-p28
-aS'computer science'
-p29
-aS'data mining'
-p30
 aS'mathematics'
-p31
-aS'computer science mathematics'
-p32
-aS'ee computer science'
-p33
+p15
+aS'data'
+p16
 aS'information technology'
-p34
+p17
+aS'science'
+p18
+asS'working-year'
+p19
+(lp20
+V(0, 2]
+p21
+asS'major'
+p22
+(lp23
+VMathematics
+p24
+aVData Science
+p25
+aVInformation Science
+p26
+aVComputer Science
+p27
+aVBusiness
+p28
 asS'education'
-p35
-(lp36
+p29
+(lp30
 VBachelor
-p37
+p31
 asS'responsibility'
-p38
-(lp39
+p32
+(lp33
 S'development'
-p40
+p34
 aS'information'
-p41
+p35
 aS'data mining'
-p42
+p36
 as.

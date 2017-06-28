@@ -6,13 +6,13 @@ S'debugging'
 p4
 aS'testing'
 p5
-aS'engineering'
+aS'rest'
 p6
-aS'problem solving'
+aS'engineering'
 p7
-aS'go'
+aS'problem solving'
 p8
-aS'strategy'
+aS'go'
 p9
 aS'research'
 p10
@@ -20,90 +20,91 @@ aS'management'
 p11
 aS'java'
 p12
-aS'saas'
+aS'agile'
 p13
-aS'time management'
+aS'saas'
 p14
-aS'json'
+aS'time management'
 p15
-aS'computer science'
+aS'strategy'
 p16
-aS'innovation'
+aS'json'
 p17
-aS'jenkins'
-p18
 aS'uml'
+p18
+aS'computer science'
 p19
-aS'product development'
+aS'innovation'
 p20
-aS'apis'
+aS'jenkins'
 p21
-aS'data scientist'
+aS'a'
+aS'product development'
 p22
-aS'ajax'
+aS'apis'
 p23
-aS'docker'
+aS'python'
 p24
-aS'performance tuning'
+aS'data scientist'
 p25
-aS'networking'
+aS'ajax'
 p26
-aS'data'
+aS'docker'
 p27
-aS'b2b'
+aS'performance tuning'
 p28
-aS'software development'
+aS'networking'
 p29
+aS'data'
+p30
+aS'b2b'
+p31
+aS'software development'
+p32
 aS'c'
 aS'science'
-p30
-aS'programming'
-p31
-aS'architecture'
-p32
-aS'security'
 p33
-asS'working-year'
+aS'documentation'
 p34
-(lp35
-V(2, 5]
+aS'programming'
+p35
+aS'architecture'
 p36
-asS'major'
+aS'security'
 p37
-(lp38
-S'information'
-p39
-aS'management'
+asS'working-year'
+p38
+(lp39
+V(2, 5]
 p40
-aS'business'
+asS'major'
 p41
-aS'science'
-p42
-aS'engineering'
+(lp42
+VEngineering
 p43
-aS'design'
+aVComputer Science
 p44
-aS'computer science'
+aVBusiness
 p45
-aS'computer science engineering'
+aVManagement Science and Engineering
 p46
-aS'development practice'
-p47
-aS'ee computer science'
-p48
 asS'education'
-p49
-(lp50
+p47
+(lp48
 S'Bachelor'
-p51
+p49
 asS'responsibility'
-p52
-(lp53
+p50
+(lp51
 S'development'
-p54
+p52
 aS'information'
-p55
+p53
 aS'product'
+p54
+aS'documentation'
+p55
+aS'develop ... model'
 p56
 aS'design'
 p57

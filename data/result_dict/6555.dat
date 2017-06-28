@@ -4,148 +4,139 @@ p2
 (lp3
 S'cognos'
 p4
-aS'intelligence'
+aS'databases'
 p5
-aS'data science'
+aS'intelligence'
 p6
-aS'analytics'
+aS'data science'
 p7
-aS'health insurance'
+aS'dashboards'
 p8
-aS'statistical analysis'
+aS'analytics'
 p9
-aS'relational databases'
-p10
-aS'research'
-p11
-aS'insurance'
-p12
-aS'management'
-p13
-aS'excel'
-p14
-aS'writing'
-p15
-aS'access'
-p16
-aS'statistical software'
-p17
-aS'education'
-p18
-aS'policy'
-p19
-aS'mathematics'
-p20
-aS'data analysis'
-p21
-aS'theory'
-p22
-aS'toad'
-p23
-aS'processing'
-p24
-aS'business analytics'
-p25
-aS'medicaid'
-p26
-aS'sql'
-p27
-aS'data'
-p28
-aS'microsoft access'
-p29
-aS'program evaluation'
-p30
-aS'quantitative research'
-p31
-aS'economics'
-p32
-aS'programming'
-p33
 aS'business intelligence'
+p10
+aS'statistical analysis'
+p11
+aS'sas'
+p12
+aS'relational databases'
+p13
+aS'research'
+p14
+aS'insurance'
+p15
+aS'management'
+p16
+aS'excel'
+p17
+aS'tableau'
+p18
+aS'writing'
+p19
+aS'access'
+p20
+aS'statistical software'
+p21
+aS'education'
+p22
+aS'policy'
+p23
+aS'mathematics'
+p24
+aS'data analysis'
+p25
+aS'theory'
+p26
+aS'toad'
+p27
+aS'processing'
+p28
+aS'business analytics'
+p29
+aS'medicaid'
+p30
+aS'sql'
+p31
+aS'data'
+p32
+aS'microsoft access'
+p33
+aS'a'
+aS'program evaluation'
 p34
-aS'analysis'
+aS'quantitative research'
 p35
-aS'spss'
+aS'economics'
 p36
-aS'credit'
+aS'programming'
 p37
-aS'science'
+aS'health insurance'
 p38
-aS'security'
+aS'analysis'
 p39
-asS'working-year'
+aS'spss'
 p40
-(lp41
-V(0, 2]
+aS'credit'
+p41
+aS'science'
 p42
-aV(2, 5]
+aS'security'
 p43
-asS'major'
+asS'working-year'
 p44
 (lp45
-S'information'
+V(0, 2]
 p46
-aS'management'
+aV(2, 5]
 p47
-aS'business'
+asS'major'
 p48
-aS'mathematics economics'
-p49
-aS'science'
+(lp49
+VBusiness
 p50
-aS'data science'
+aVData Science
 p51
-aS'economics'
+aVEconomics
 p52
-aS'data analyst'
+aVChemical Engineering
 p53
-aS'pharmacy'
+aVMathematics
 p54
-aS'business analytics'
+aVManagement Science and Engineering
 p55
-aS'analytics'
-p56
-aS'information system'
-p57
-aS'statistic'
-p58
-aS'mathematics'
-p59
-aS'general'
-p60
 asS'education'
+p56
+(lp57
+VBachelor
+p58
+aVMaster
+p59
+aVDoctor
+p60
+asS'responsibility'
 p61
 (lp62
-VBachelor
-p63
-aVMaster
-p64
-aVDoctor
-p65
-asS'responsibility'
-p66
-(lp67
 S'development'
-p68
+p63
 aS'information'
-p69
+p64
 aS'product'
-p70
+p65
 aS'data analysis'
-p71
+p66
 aS'extract'
-p72
+p67
 aS'processing'
-p73
+p68
 aS'analysis'
-p74
+p69
 aS'improvement'
-p75
+p70
 aS'report'
-p76
+p71
 aS'model'
-p77
+p72
 aS'evaluation'
-p78
+p73
 as.

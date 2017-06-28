@@ -4,131 +4,113 @@ p2
 (dp3
 S'nlp'
 p4
-I1
-sS'natural language processing'
+F0.023362584479988811
+sS'processing'
 p5
-I1
-sS'processing'
-p6
-I1
-sS'science'
-p7
-I1
-sS'data science'
-p8
-I1
-sS'robotics'
-p9
-I1
-sS'communication'
-p10
-I1
-sS'analysis'
-p11
-I1
-sS'machine learning'
-p12
-I1
-sS'computer vision'
-p13
-I1
-sS'product strategy'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'marketing'
-p16
-I1
+F0.011109442766467482
 sS'organization'
-p17
-I1
-sS'strategy'
-p18
-I1
-sS'data'
-p19
-I1
-sS'applied mathematics'
-p20
-I1
-sS'artificial intelligence'
-p21
-I1
-sS'advertising'
-p22
-I1
-ssS'working-year'
-p23
-(dp24
-V(0, 2]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'natural language processing'
-p28
-I1
-sS'business'
-p29
-I1
-sS'marketing'
-p30
-I1
-sS'applied mathematics'
-p31
-I1
-sS'robotics'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'computer science'
-p34
-I1
+p6
+F0.011994447886269939
+sS'physics'
+p7
+F0.016551594404399069
 sS'communication'
-p35
-I1
-sS'applied math'
-p36
-I1
-sS'ee computer science'
-p37
-I1
+p8
+F0.010769859585788138
 sS'data science'
-p38
-I1
-sS'artificial intelligence'
-p39
-I1
-sS'science'
-p40
-I1
-ssS'education'
-p41
-(dp42
-S'Bachelor'
-p43
-I1
-ssS'responsibility'
-p44
-(dp45
-S'report'
-p46
-I1
-sS'cross-functionally'
-p47
-I1
-sS'product'
-p48
-I1
-sS'processing'
-p49
-I1
+p9
+F0.0081825913310244833
+sS'robotics'
+p10
+F0.032972810477224467
+sS'advertising'
+p11
+F0.022390457716532579
+sS'data'
+p12
+F0.0024204385280504675
+sS'strategy'
+p13
+F0.010714363477733571
+sS'computer vision'
+p14
+F0.024046517436640977
+sS'product strategy'
+p15
+F0.032280416919141755
+sS'computer science'
+p16
+F0.0095645119944708888
+sS'natural language processing'
+p17
+F0.017047334231022466
 sS'analysis'
-p50
-I1
+p18
+F0.0023307396037695913
+sS'machine learning'
+p19
+F0.0044593042301635331
+sS'marketing'
+p20
+F0.012960643010051351
+sS'applied mathematics'
+p21
+F0.020558576495535417
+sS'artificial intelligence'
+p22
+F0.01882732353792357
+sS'science'
+p23
+F0.014347630371308007
+ssS'working-year'
+p24
+(dp25
+V(0, 2]
+p26
+F0.015493742612858186
+ssS'major'
+p27
+(dp28
+VBusiness
+p29
+F0.0073586010011844503
+sVData Science
+p30
+F0.0069883604258847796
+sVEconomics
+p31
+F0.011161711207649394
+sVComputer Science
+p32
+F0.0061588826282462424
+sVMathematics
+p33
+F0.011661717888315999
+sVPhysics
+p34
+F0.017848517695238712
+ssS'education'
+p35
+(dp36
+S'Bachelor'
+p37
+F0.0061998559705435828
+ssS'responsibility'
+p38
+(dp39
+S'report'
+p40
+F0.014117526667839652
+sS'cross-functionally'
+p41
+F0.034613357240974099
+sS'product'
+p42
+F0.073196892011850159
+sS'processing'
+p43
+F0.011109442766467482
+sS'analysis'
+p44
+F0.0023307396037695913
 ss.

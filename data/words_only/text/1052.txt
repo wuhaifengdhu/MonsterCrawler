@@ -1,5 +1,5 @@
-skills: {'negotiation': 1, 'healthcare industry': 1, 'communication': 1, 'data scientist': 1, 'analysis': 1, 'health insurance': 1, 'pricing': 1, 'healthcare': 1, 'data': 1, 'insurance': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'business': 1, 'communication': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'analysis': 1, 'understand': 1, 'model': 1, 'presentation': 1}
+skills: {'negotiation': 0.016846095433721453, 'healthcare industry': 0.018782194245764564, 'communication': 0.00608911291965714, 'analysis': 0.0026355286288779227, 'health insurance': 0.019810321144250385, 'pricing': 0.029082051304149162, 'healthcare': 0.062244007922542255, 'data': 0.0009123191374959456, 'insurance': 0.012127582359806491}
+working-year: {u'(2, 5]': 0.004765170878581291}
+major: {u'Business': 0.004160439796823516}
+education: {'Bachelor': 0.0035053031833457956}
+responsibility: {'development': 0.00931508463395476, 'information': 0.005335019998189979, 'product': 0.010346099159367282, 'analysis': 0.0026355286288779227, 'forecast': 0.0174677857493744, 'understand': 0.008083383897862598, 'model': 0.005951580161160157, 'presentation': 0.009474439778113873}

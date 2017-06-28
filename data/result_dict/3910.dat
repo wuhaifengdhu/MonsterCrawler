@@ -16,115 +16,109 @@ aS'engineering'
 p9
 aS'management'
 p10
-aS'big data'
+aS'java'
 p11
-aS'excel'
+aS'big data'
 p12
-aS'hadoop'
+aS'scala'
 p13
-aS'research'
+aS'excel'
 p14
-aS'computer science'
+aS'hadoop'
 p15
-aS'energy'
+aS'research'
 p16
-aS'python'
+aS'computer science'
 p17
-aS'marketing'
+aS'energy'
 p18
-aS'data scientist'
+aS'python'
 p19
-aS'mentoring'
+aS'marketing'
 p20
-aS'sql'
+aS'data scientist'
 p21
-aS'spark'
+aS'mentoring'
 p22
-aS'data'
+aS'sql'
 p23
-aS'project management'
+aS'spark'
 p24
-aS'word'
+aS'data'
 p25
-aS'solver'
+aS'project management'
 p26
-aS'science'
+aS'a'
+aS'c'
+aS'word'
 p27
-aS'aws'
+aS'solver'
 p28
-aS'programming'
+aS'science'
 p29
-aS'mapreduce'
+aS'aws'
 p30
-aS'hive'
+aS'programming'
 p31
-aS'machine learning'
+aS'mapreduce'
 p32
-aS'r'
-aS'organization'
+aS'hive'
 p33
-aS'docker'
+aS'machine learning'
 p34
-aS'powerpoint'
+aS'r'
+aS'databases'
 p35
-aS'scripting'
+aS'organization'
 p36
-asS'working-year'
+aS'docker'
 p37
-(lp38
-V[0]
+aS'powerpoint'
+p38
+aS'scripting'
 p39
-asS'major'
+asS'working-year'
 p40
 (lp41
-S'information'
+S'[0]'
 p42
-aS'management'
+asS'major'
 p43
-aS'business'
-p44
-aS'big data'
+(lp44
+VBusiness
 p45
-aS'marketing'
+aVData Science
 p46
-aS'data science'
+aVEconomics
 p47
-aS'communication'
+aVEngineering
 p48
-aS'machine learning'
+aVComputer Science
 p49
-aS'analytics'
+aVManagement Science and Engineering
 p50
-aS'engineering'
-p51
-aS'design'
-p52
-aS'computer science'
-p53
-aS'science'
-p54
-aS'project management'
-p55
 asS'education'
-p56
-(lp57
+p51
+(lp52
 VMaster
-p58
+p53
 asS'responsibility'
-p59
-(lp60
+p54
+(lp55
 S'information'
-p61
-aS'validate model'
-p62
-aVinsight
-p63
+p56
+aS'insight'
+p57
 aS'communicate'
-p64
+p58
+aS'validate ... model'
+p59
+aS'drive ... decision'
+p60
 aS'design'
-p65
+p61
 aS'implement'
-p66
+p62
 aS'model'
-p67
+p63
 as.

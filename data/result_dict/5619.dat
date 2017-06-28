@@ -2,90 +2,98 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'communication'
 p4
-aS'big data'
+aS'sales'
 p5
-aS'government'
-p6
-aS'marketing'
-p7
-aS'data scientist'
-p8
-aS'machine learning'
-p9
 aS'analytics'
-p10
+p6
 aS'engineering'
+p7
+aS'translation'
+p8
+aS'statistics'
+p9
+aS'big data'
+p10
+aS'hadoop'
 p11
-aS'leadership'
+aS'strategy'
 p12
-aS'financial services'
+aS'leadership'
 p13
 aS'mathematics'
 p14
-aS'translation'
+aS'government'
 p15
-aS'strategy'
+aS'python'
 p16
-aS'data'
-p17
-aS'project management'
-p18
-asS'working-year'
-p19
-(lp20
-V(2, 5]
-p21
-asS'major'
-p22
-(lp23
-S'management'
-p24
-aS'business'
-p25
-aS'big data'
-p26
 aS'marketing'
-p27
-aS'machine learning'
-p28
-aS'analytics'
-p29
-aS'engineering'
-p30
-aS'design'
-p31
-aS'statistic'
-p32
-aS'mathematics'
-p33
+p17
+aS'data scientist'
+p18
+aS'management'
+p19
+aS'spark'
+p20
+aS'data'
+p21
 aS'project management'
+p22
+aS'a'
+aS'machine learning'
+p23
+aS'r'
+aS'financial services'
+p24
+asS'working-year'
+p25
+(lp26
+V(2, 5]
+p27
+asS'major'
+p28
+(lp29
+VStatistics
+p30
+aVBusiness
+p31
+aVData Science
+p32
+aVEconomics
+p33
+aVEngineering
 p34
-asS'education'
+aVComputer Science
 p35
-(lp36
-VMaster
+aVMathematics
+p36
+aVManagement Science and Engineering
 p37
-asS'responsibility'
+asS'education'
 p38
 (lp39
-S'identify opportunity'
+VBachelor
 p40
-aS'pattern'
+aVMaster
 p41
-aVinsight
+asS'responsibility'
 p42
-aS'analytic'
-p43
-aS'design'
+(lp43
+S'identify opportunity'
 p44
-aS'recommendation'
+aS'pattern'
 p45
-aS'analytical method'
+aS'insight'
 p46
-aS'implement'
+aS'analytic'
 p47
-aS'presentation'
+aS'design'
 p48
+aS'recommendation'
+p49
+aS'implement'
+p50
+aS'presentation'
+p51
 as.

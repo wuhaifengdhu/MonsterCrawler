@@ -2,101 +2,107 @@
 S'skills'
 p2
 (lp3
-S'unsupervised learning'
+S'debugging'
 p4
-aS'data science'
+aS'unsupervised learning'
 p5
-aS'enterprise software'
+aS'data science'
 p6
-aS'problem solving'
+aS'enterprise software'
 p7
-aS'creative problem solving'
+aS'troubleshooting'
 p8
-aS'random forest'
+aS'problem solving'
 p9
-aS'management'
+aS'creative problem solving'
 p10
-aS'dna'
+aS'random forest'
 p11
-aS'classification'
+aS'statistics'
 p12
-aS'storage'
+aS'dna'
 p13
-aS'research'
+aS'classification'
 p14
-aS'matlab'
+aS'storage'
 p15
-aS'tensorflow'
+aS'research'
 p16
-aS'computer science'
+aS'matlab'
 p17
-aS'pyspark'
+aS'tensorflow'
 p18
-aS'python'
+aS'computer science'
 p19
-aS'aws'
+aS'pyspark'
 p20
-aS'processing'
+aS'python'
 p21
-aS'data scientist'
+aS'aws'
 p22
-aS'computer security'
+aS'processing'
 p23
-aS'spark'
+aS'data scientist'
 p24
-aS'data'
+aS'management'
 p25
-aS'svm'
+aS'computer security'
 p26
-aS'science'
+aS'spark'
 p27
-aS'cloud computing'
+aS'data'
 p28
-aS'programming'
+aS'svm'
 p29
+aS'science'
+p30
+aS'cloud computing'
+p31
+aS'programming'
+p32
 aS'r'
 aS'security'
-p30
-aS'scripting'
-p31
-asS'working-year'
-p32
-(lp33
-V[0]
+p33
+aS'physics'
 p34
-asS'major'
+aS'scripting'
 p35
-(lp36
-S'management'
-p37
-aS'computing'
+asS'working-year'
+p36
+(lp37
+S'[0]'
 p38
-aS'science'
+asS'major'
 p39
-aS'data science'
-p40
-aS'design'
+(lp40
+VData Science
 p41
-aS'computer science'
+aVStatistics
 p42
-aS'computer security'
+aVPhysics
 p43
-asS'education'
+aVComputer Science
 p44
-(lp45
-VBachelor
+aVManagement Science and Engineering
+p45
+asS'education'
 p46
-aVMaster
-p47
-asS'responsibility'
+(lp47
+VBachelor
 p48
-(lp49
-S'product'
+aVMaster
+p49
+asS'responsibility'
 p50
-aS'processing'
-p51
-aS'design'
+(lp51
+S'product'
 p52
-aS'model'
+aS'processing'
 p53
+aS'design'
+p54
+aS'model'
+p55
+aS'develop ... model'
+p56
 as.

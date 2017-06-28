@@ -2,80 +2,86 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'analytics'
 p4
-aS'big data'
+aS'engineering'
 p5
-aS'programming'
+aS'data management'
 p6
-aS'javascript'
+aS'ic'
 p7
-aS'data scientist'
+aS'management'
 p8
-aS'research'
+aS'big data'
 p9
-aS'analytics'
+aS'research'
 p10
 aS'user interface'
 p11
 aS'html'
 p12
-aS'architecture'
-p13
-aS'leadership'
-p14
-aS'innovation'
-p15
-aS'product design'
-p16
-aS'organization'
-p17
-aS'ic'
-p18
-aS'information architecture'
-p19
-aS'data'
-p20
-aS'data management'
-p21
 aS'computer science'
+p13
+aS'innovation'
+p14
+aS'css'
+p15
+aS'javascript'
+p16
+aS'data scientist'
+p17
+aS'leadership'
+p18
+aS'data'
+p19
+aS'science'
+p20
+aS'programming'
+p21
+aS'product design'
 p22
-asS'working-year'
+aS'architecture'
 p23
-(lp24
-V[0]
+aS'organization'
+p24
+aS'information architecture'
 p25
-asS'major'
+asS'working-year'
 p26
 (lp27
-S'information'
+S'[0]'
 p28
-aS'management'
+asS'major'
 p29
-aS'big data'
-p30
-aS'analytics'
+(lp30
+VData Science
 p31
-aS'design'
+aVManagement Science and Engineering
 p32
-aS'computer science'
+aVEngineering
 p33
-asS'education'
+aVComputer Science
 p34
-(lp35
+asS'education'
+p35
+(lp36
 S'Bachelor'
-p36
-asS'responsibility'
 p37
-(lp38
-S'report'
-p39
-aS'information'
+asS'responsibility'
+p38
+(lp39
+S'development'
 p40
-aS'implement'
+aS'information'
 p41
-aS'design'
-p42
 aS'product'
+p42
+aS'interface'
 p43
+aS'design'
+p44
+aS'report'
+p45
+aS'implement'
+p46
 as.

@@ -2,81 +2,93 @@
 S'skills'
 p2
 (dp3
-S'healthcare industry'
+S'statistics'
 p4
-I1
-sS'python'
+F0.0045267614310806042
+sS'healthcare industry'
 p5
-I1
-sS'programming'
+F0.023705682057761097
+sS'analytics'
 p6
-I1
-sS'research'
+F0.0042220265144831386
+sS'python'
 p7
-I1
-sS'business process'
+F0.0025303471492876986
+sS'science'
 p8
-I1
-sS'r'
-I1
-sS'computer science'
+F0.0034127858650198658
+sS'data science'
 p9
-I1
-sS'healthcare'
+F0.0058390336197116461
+sS'programming'
 p10
-I1
-sS'data'
+F0.0053510448292955134
+sS'research'
 p11
-I1
-sS'predictive analytics'
+F0.0082831101132207589
+sS'business process'
 p12
-I1
-ssS'working-year'
+F0.014831470531649302
+sS'r'
+F0.002694137410747287
+sS'data'
 p13
-(dp14
-V[0]
+F0.00057573537803142188
+sS'healthcare'
+p14
+F0.013093399724806621
+sS'physics'
 p15
-I1
-ssS'major'
-p16
-(dp17
-S'business'
-p18
-I1
-sS'physics computer science'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'statistic'
-p21
-I1
-sVphysic
-p22
-I1
+F0.011811089210906131
 sS'predictive analytics'
+p16
+F0.011177175598683448
+ssS'working-year'
+p17
+(dp18
+S'[0]'
+p19
+F0.010661236556040692
+ssS'major'
+p20
+(dp21
+VData Science
+p22
+F0.0049868397213837989
+sVStatistics
 p23
-I1
-ssS'education'
+F0.0087451687858644666
+sVPhysics
 p24
-(dp25
-VMaster
+F0.01273656359805869
+sVComputer Science
+p25
+F0.00439493080753494
+sVBusiness
 p26
-I1
-ssS'responsibility'
+F0.0052510405202626899
+ssS'education'
 p27
 (dp28
-S'product'
+VBachelor
 p29
-I1
-sS'problem statement'
+F0.0044241690663587704
+sVMaster
 p30
-I1
-sS'understand'
+F0.0035304887632241592
+ssS'responsibility'
 p31
-I1
+(dp32
+S'product'
+p33
+F0.006529091702513333
+sS'problem statement'
+p34
+F0.030744538271631459
+sS'understand'
+p35
+F0.010202329191477065
 sS'business problem'
-p32
-I1
+p36
+F0.013825973602575944
 ss.

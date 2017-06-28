@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'organization'
+S'a'
+aS'statistics'
 p4
 aS'biostatistics'
 p5
@@ -10,15 +11,15 @@ aS'management'
 p6
 aS'communication'
 p7
-aS'data science'
-p8
 aS'private equity'
-p9
+p8
 aS'integration'
-p10
+p9
 aS'analysis'
-p11
+p10
 aS'research'
+p11
+aS'cro'
 p12
 aS'leadership'
 p13
@@ -26,13 +27,13 @@ aS'process improvement'
 p14
 aS'statistical analysis'
 p15
-aS'science'
+aS'organization'
 p16
 aS'operational excellence'
 p17
 aS'data'
 p18
-aS'cro'
+aS'options'
 p19
 asS'working-year'
 p20
@@ -42,28 +43,24 @@ p22
 asS'major'
 p23
 (lp24
-S'management'
+VBiological Engineering
 p25
-aS'biostatistics'
+aVStatistics
 p26
-aS'science'
+aVManagement Science and Engineering
 p27
-aS'data science'
-p28
-aS'phd'
-p29
-aS'communication'
-p30
 asS'education'
+p28
+(lp29
+VDoctor
+p30
+asS'responsibility'
 p31
 (lp32
-VDoctor
-p33
-asS'responsibility'
-p34
-(lp35
 S'report'
-p36
+p33
 aS'analysis'
-p37
+p34
+aS'improvement'
+p35
 as.

@@ -34,103 +34,87 @@ aS'python'
 p18
 aS'marketing'
 p19
-aS'apache spark'
+aS'data scientist'
 p20
-aS'business analytics'
+aS'apache spark'
 p21
-aS'advanced analytics'
+aS'business analytics'
 p22
-aS'construction'
+aS'advanced analytics'
 p23
-aS'apache'
+aS'construction'
 p24
-aS'spark'
+aS'apache'
 p25
-aS'data'
+aS'spark'
 p26
-aS'information technology'
+aS'data'
 p27
-aS'customer experience'
+aS'information technology'
 p28
-aS'training'
+aS'customer experience'
 p29
-aS'remote sensing'
+aS'training'
 p30
-aS'science'
+aS'remote sensing'
 p31
-aS'marketing analytics'
+aS'science'
 p32
-aS'analysis'
+aS'marketing analytics'
 p33
+aS'analysis'
+p34
 aS'r'
 aS'elasticsearch'
-p34
-asS'working-year'
 p35
-(lp36
+asS'working-year'
+p36
+(lp37
 V(5, 10]
-p37
-aV(20, 30)
 p38
-asS'major'
+aV(20, 30)
 p39
-(lp40
-S'information'
-p41
-aS'marketing analytics'
+asS'major'
+p40
+(lp41
+VBusiness
 p42
-aS'business'
+aVData Science
 p43
-aS'marketing'
+aVEconomics
 p44
-aS'statistic'
+aVInformation Science
 p45
-aS'communication'
+aVComputer Science
 p46
-aS'business analytics'
+aVMathematics
 p47
-aS'analytics'
-p48
-aS'design'
-p49
-aS'data mining'
-p50
-aS'advanced analytics'
-p51
-aS'mathematics'
-p52
-aS'law'
-p53
-aS'information technology'
-p54
-aS'science'
-p55
 asS'education'
-p56
-(lp57
+p48
+(lp49
 VBachelor
-p58
+p50
 asS'responsibility'
-p59
-(lp60
+p51
+(lp52
 S'information'
-p61
+p53
 aS'product'
-p62
+p54
 aS'quantitative information'
-p63
-aVinsight
-p64
+p55
+aS'insight'
+p56
 aS'communicate'
-p65
+p57
 aS'analysis'
-p66
+p58
 aS'design'
-p67
+p59
 aS'ownership'
-p68
+p60
 aS'data mining'
-p69
+p61
 aS'understand'
-p70
+p62
 as.

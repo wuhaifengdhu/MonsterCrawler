@@ -1,5 +1,5 @@
-skills: {'insurance': 1, 'marketing': 1, 'data science': 1, 'data scientist': 1, 'automation': 1, 'marketing automation': 1, 'communication': 1, 'strategy': 1, 'marketing strategy': 1, 'email marketing': 1, 'go': 1, 'seo': 1, 'education': 1, 'collaboration': 1, 'data analytics': 1, 'science': 1}
-working-year: {u'(2, 5]': 1}
-major: {'business': 1, 'marketing': 1, 'data science': 1, 'automation': 1, 'marketing strategy': 1, 'communication': 1, 'data analytics': 1, 'science': 1}
-education: {u'Bachelor': 1}
-responsibility: {'product': 1, u'insight': 1}
+skills: {'insurance': 0.009884549885735698, 'seo': 0.01412896079204948, 'marketing': 0.02388983727244575, 'data science': 0.0037706612089673953, 'data scientist': 0.0033209143108585523, 'automation': 0.010454696945027615, 'marketing automation': 0.018638276470922296, 'communication': 0.00496291335144469, 'strategy': 0.01481201972940597, 'marketing strategy': 0.011688902899966542, 'email marketing': 0.016096185735528304, 'go': 0.010278724749302907, 'sem': 0.015634355704153256, 'education': 0.0065787672407939465, 'collaboration': 0.008017772476719292, 'data analytics': 0.006402265459203125, 'science': 0.0022038679880692553}
+working-year: {u'(2, 5]': 0.003883838333639923}
+major: {u'Data Science': 0.0032203416382603845, u'Economics': 0.00514348447499831, u'Business': 0.0033909540663765335}
+education: {u'Bachelor': 0.002856986920595319}
+responsibility: {'product': 0.01686511461715043, 'insight': 0.005752016789998386}

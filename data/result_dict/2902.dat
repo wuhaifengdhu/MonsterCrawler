@@ -12,7 +12,7 @@ aS'analytics'
 p7
 aS'engineering'
 p8
-aS'analysis'
+aS'hive'
 p9
 aS'data mining'
 p10
@@ -20,7 +20,7 @@ aS'education'
 p11
 aS'xml'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'java'
 p14
@@ -32,7 +32,7 @@ aS'agile'
 p17
 aS'government'
 p18
-aS'r programming'
+aS'management'
 p19
 aS'hadoop'
 p20
@@ -40,125 +40,106 @@ aS'access'
 p21
 aS'test automation'
 p22
-aS'optimization'
+aS'json'
 p23
-aS'computer science'
+aS'optimization'
 p24
-aS'mathematics'
+aS'computer science'
 p25
-aS'rdf'
+aS'mathematics'
 p26
-aS'python'
+aS'rdf'
 p27
-aS'aws'
+aS'python'
 p28
-aS'javascript'
+aS'aws'
 p29
-aS'data scientist'
+aS'javascript'
 p30
-aS'automation'
+aS'data scientist'
 p31
-aS'leadership'
+aS'c'
+aS'automation'
 p32
-aS'sql'
+aS'leadership'
 p33
-aS'spark'
+aS'sql'
 p34
-aS'data'
+aS'spark'
 p35
-aS'search'
+aS'data'
 p36
-aS'software engineering'
+aS'search'
 p37
-aS'science'
+aS'software engineering'
 p38
-aS'programming'
+aS'science'
 p39
-aS'mapreduce'
+aS'programming'
 p40
-aS'c++'
+aS'mapreduce'
 p41
-aS'machine learning'
+aS'analysis'
 p42
-aS'h2o'
+aS'machine learning'
 p43
+aS'h2o'
+p44
 aS'r'
 aS'solr'
-p44
-aS'electrical engineering'
 p45
-aS'security'
-p46
-aS'scripting'
-p47
-asS'working-year'
-p48
-(lp49
-V(0, 2]
-p50
-asS'major'
-p51
-(lp52
-S'information'
-p53
-aS'management'
-p54
-aS'business'
-p55
-aS'big data'
-p56
-aS'mathematics'
-p57
-aS'science'
-p58
-aS'statistic'
-p59
-aS'software engineering'
-p60
-aS'engineering'
-p61
-aS'automation'
-p62
-aS'analytics'
-p63
-aS'computer engineering'
-p64
-aS'information science'
-p65
-aS'electrical'
-p66
-aS'computer science'
-p67
-aS'data mining'
-p68
-aS'communication'
-p69
 aS'electrical engineering'
-p70
-aS'machine learning'
-p71
-aS'ee computer science'
-p72
+p46
+aS'security'
+p47
+aS'scripting'
+p48
+asS'working-year'
+p49
+(lp50
+V(0, 2]
+p51
+asS'major'
+p52
+(lp53
+VStatistics
+p54
+aVBusiness
+p55
+aVData Science
+p56
+aVElectrical and Electronics Engineering
+p57
+aVEngineering
+p58
+aVInformation Science
+p59
+aVComputer Science
+p60
+aVMathematics
+p61
+aVManagement Science and Engineering
+p62
 asS'education'
-p73
-(lp74
+p63
+(lp64
 VBachelor
-p75
+p65
 aVMaster
-p76
+p66
 asS'responsibility'
-p77
-(lp78
+p67
+(lp68
 S'development'
-p79
+p69
 aS'information'
-p80
+p70
 aS'analysis'
-p81
+p71
 aS'optimization'
-p82
+p72
 aS'data mining'
-p83
+p73
 aS'report'
-p84
+p74
 as.

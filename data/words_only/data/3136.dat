@@ -4,235 +4,214 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
+F0.013309928367068723
 sS'consulting'
 p5
-I1
+F0.0081570927603287751
 sS'hedge funds'
 p6
-I1
+F0.019444030213954733
 sS'data science'
 p7
-I1
+F0.00434238601321516
 sS'human resources'
 p8
-I1
+F0.017907332072875481
 sS'rest'
 p9
-I1
+F0.012914788673138312
 sS'pig'
 p10
-I1
+F0.009742339982367839
 sS'analytics'
 p11
-I1
+F0.018839078598921154
 sS'hive'
 p12
-I1
+F0.0075297987346209629
 sS'data mining'
 p13
-I1
-sS'insurance'
+F0.0076605751937983309
+sS'sas'
 p14
-I1
-sS'quantitative finance'
+F0.0050008550782578223
+sS'insurance'
 p15
-I1
-sS'java'
-p16
-I1
-sS'psychology'
-p17
-I1
-sS'big data'
-p18
-I1
-sS'high performance computing'
-p19
-I1
-sS'predictive modeling'
-p20
-I1
-sS'recruiting'
-p21
-I1
-sS'hadoop'
-p22
-I1
-sS'risk management'
-p23
-I1
-sS'json'
-p24
-I1
-sS'html'
-p25
-I1
-sS'computer science'
-p26
-I1
-sS'marketing'
-p27
-I1
-sS'web development'
-p28
-I1
-sS'matlab'
-p29
-I1
-sS'data analysis'
-p30
-I1
-sS'finance'
-p31
-I1
-sS'python'
-p32
-I1
-sS'customer service'
-p33
-I1
-sS'javascript'
-p34
-I1
-sS'data scientist'
-p35
-I1
-sS'ruby rails'
-p36
-I1
-sS'management'
-p37
-I1
-sS'html5'
-p38
-I1
-sS'sql'
-p39
-I1
-sS'modeling'
-p40
-I1
-sS'architecture'
-p41
-I1
-sS'software development'
-p42
-I1
-sS'fraud'
-p43
-I1
-sS'programming'
-p44
-I1
-sS'analysis'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'data architecture'
-p47
-I1
-sS'r'
-I1
-sS'advertising'
-p48
-I1
-sS'start-ups'
-p49
-I1
-sS'artificial intelligence'
-p50
-I1
-ssS'working-year'
-p51
-(dp52
-V[0]
-p53
-I1
-ssS'major'
-p54
-(dp55
-S'management'
-p56
-I1
-sS'psychology'
-p57
-I1
-sS'big data'
-p58
-I1
-sS'marketing'
-p59
-I1
-sS'data science'
-p60
-I1
-sS'high performance computing'
-p61
-I1
-sS'machine learning'
-p62
-I1
-sS'business'
-p63
-I1
-sS'analytics'
-p64
-I1
+F0.011383290301623421
 sS'quantitative finance'
-p65
-I1
+p16
+F0.015194666957948215
+sS'java'
+p17
+F0.0044738879699216015
+sS'psychology'
+p18
+F0.016092209791951494
+sS'big data'
+p19
+F0.0045946755464356228
+sS'data'
+p20
+F0.00085632843230666372
+sS'predictive modeling'
+p21
+F0.0075054364934619856
+sS'recruiting'
+p22
+F0.037352688634845387
+sS'hadoop'
+p23
+F0.0046382906187709926
+sS'risk management'
+p24
+F0.011407066158802298
+sS'json'
+p25
+F0.014173190168712619
+sS'html'
+p26
+F0.0092421830081180299
 sS'computer science'
-p66
-I1
-sS'machine learning artificial intelligence'
-p67
-I1
-sS'data mining'
-p68
-I1
-sS'finance'
-p69
-I1
-sS'decision sciences'
-p70
-I1
-sS'artificial intelligence'
-p71
-I1
+p27
+F0.0050757518526614465
+sS'marketing'
+p28
+F0.020634092301200887
 sS'web development'
-p72
-I1
-ssS'education'
-p73
-(dp74
-S'Bachelor'
-p75
-I1
-ssS'responsibility'
-p76
-(dp77
-S'development'
-p78
-I1
+p29
+F0.013203743755437033
+sS'matlab'
+p30
+F0.0046079465257691868
 sS'data analysis'
-p79
-I1
-sS'analysis'
-p80
-I1
-sS'analytic'
-p81
-I1
-sS'data mining'
-p82
-I1
+p31
+F0.0053565415702731597
+sS'finance'
+p32
+F0.0095853648165476115
+sS'python'
+p33
+F0.005645323242815155
+sS'customer service'
+p34
+F0.012377327590569105
+sS'javascript'
+p35
+F0.0080052152130756105
+sS'data scientist'
+p36
+F0.0038244464446349396
+sS'ruby rails'
+p37
+F0.016150911358460873
+sS'management'
+p38
+F0.0032709345386269031
+sS'html5'
+p39
+F0.014787166697778815
+sS'sql'
+p40
+F0.0024618911871229139
 sS'modeling'
-p83
-I1
+p41
+F0.002931933895384666
+sS'advertising'
+p42
+F0.01188230066545231
+sS'architecture'
+p43
+F0.0078953592876702464
+sS'software development'
+p44
+F0.0076541394154269766
+sS'fraud'
+p45
+F0.014122224099668911
+sS'science'
+p46
+F0.0025380284772349906
+sS'programming'
+p47
+F0.0039794773820753648
+sS'analysis'
+p48
+F0.0012368906922531767
+sS'machine learning'
+p49
+F0.0023664899705199975
+sS'data architecture'
+p50
+F0.014647918970452358
+sS'r'
+F0.0020035823343463582
+sS'css'
+p51
+F0.011094947991996281
+sS'high performance computing'
+p52
+F0.014055369681354388
+sS'start-ups'
+p53
+F0.013447208009155579
+sS'artificial intelligence'
+p54
+F0.009991395523735614
+ssS'working-year'
+p55
+(dp56
+S'[0]'
+p57
+F0.0079285730344562551
+ssS'major'
+p58
+(dp59
+VPsychology
+p60
+F0.016832855636181886
+sVBusiness
+p61
+F0.0039051059464769466
+sVData Science
+p62
+F0.0037086244859388545
+sVEconomics
+p63
+F0.0059233629874529273
+sVComputer Science
+p64
+F0.0032684322973003531
+sVManagement Science and Engineering
+p65
+F0.0046553954457360736
+ssS'education'
+p66
+(dp67
+S'Bachelor'
+p68
+F0.0032901762731765588
+ssS'responsibility'
+p69
+(dp70
+S'development'
+p71
+F0.0043717003697260606
+sS'data analysis'
+p72
+F0.0053565415702731597
+sS'analysis'
+p73
+F0.0012368906922531767
+sS'analytic'
+p74
+F0.016301270558120164
+sS'data mining'
+p75
+F0.0076605751937983309
+sS'modeling'
+p76
+F0.002931933895384666
 sS'model'
-p84
-I1
+p77
+F0.00558632072888679
 ss.

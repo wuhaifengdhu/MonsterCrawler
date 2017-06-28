@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'access'
+S'a'
+aS'visualization'
 p4
 aS'management'
 p5
@@ -14,7 +15,7 @@ aS'data scientist'
 p8
 aS'research'
 p9
-aS'software design'
+aS'access'
 p10
 aS'statistical modeling'
 p11
@@ -29,37 +30,29 @@ p15
 asS'working-year'
 p16
 (lp17
-V[0]
+S'[0]'
 p18
 asS'major'
 p19
 (lp20
-S'management'
+VBusiness
 p21
-aS'design'
+aVManagement Science and Engineering
 p22
-aS'business'
-p23
-aS'statistic'
-p24
 asS'education'
-p25
-(lp26
+p23
+(lp24
 S'Bachelor'
-p27
+p25
 asS'responsibility'
+p26
+(lp27
+S'modeling'
 p28
-(lp29
-S'statistical model'
-p30
-aS'complex data set'
-p31
-aS'modeling'
-p32
-aS'design'
-p33
 aS'implement'
-p34
+p29
 aS'prototype'
-p35
+p30
+aS'design'
+p31
 as.

@@ -4,152 +4,142 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.030213782274706943
 sS'nosql'
 p5
-I1
-sS'data science'
+F0.0080259438834795367
+sS'intelligence'
 p6
-I1
-sS'rest'
+F0.0092085548966966517
+sS'data science'
 p7
-I1
-sS'software design'
+F0.003527392743872725
+sS'rest'
 p8
-I1
-sS'sentiment analysis'
+F0.010490898716889479
+sS'software design'
 p9
-I1
-sS'go'
+F0.011789837719009469
+sS'sentiment analysis'
 p10
-I1
-sS'social media'
+F0.012324496269243642
+sS'go'
 p11
-I1
-sS'java'
+F0.019231162434179633
+sS'insurance'
 p12
-I1
-sS'big data'
+F0.009246836989881782
+sS'social media'
 p13
-I1
-sS'deep learning'
+F0.0098899839997825967
+sS'java'
 p14
-I1
-sS'computer science'
+F0.0036342139814319165
+sS'big data'
 p15
-I1
-sS'natural language processing'
+F0.0037323317488641276
+sS'deep learning'
 p16
-I1
-sS'tensorflow'
+F0.0091335533222681835
+sS'computer science'
 p17
-I1
-sS'unstructured data'
+F0.0041231180738628172
+sS'natural language processing'
 p18
-I1
-sS'artificial intelligence'
+F0.0073488508268630577
+sS'tensorflow'
 p19
-I1
-sS'python'
+F0.025307805417750347
+sS'unstructured data'
 p20
-I1
-sS'processing'
+F0.0093513443796280349
+sS'artificial intelligence'
 p21
-I1
-sS'data scientist'
+F0.0081161775955271697
+sS'python'
 p22
-I1
-sS'automation'
+F0.0015285968115931554
+sS'processing'
 p23
-I1
-sS'data'
+F0.0047891146236678003
+sS'data scientist'
 p24
-I1
-sS'programming'
+F0.0031066617746741297
+sS'automation'
 p25
-I1
-sS'analysis'
+F0.0097802003679290598
+sS'data'
 p26
-I1
-sS'machine learning'
+F0.0020868296986710777
+sS'a'
+F0.0054839938229150342
+sS'science'
 p27
-I1
-sS'elasticsearch'
+F0.0020616829565809161
+sS'programming'
 p28
-I1
-sS'agile'
+F0.003232595996583214
+sS'analysis'
 p29
-I1
-sS'clojure'
+F0.0010047469846162168
+sS'machine learning'
 p30
-I1
-ssS'working-year'
+F0.001922339360217124
+sS'elasticsearch'
 p31
-(dp32
-V[0]
+F0.012129514706032017
+sS'agile'
+p32
+F0.0064037826178871245
+sS'clojure'
 p33
-I1
-ssS'major'
+F0.01535122037343449
+ssS'working-year'
 p34
 (dp35
-S'computer science/artificial intelligence'
+S'[0]'
 p36
-I1
-sS'big data'
+F0.0064405124062885122
+ssS'major'
 p37
-I1
-sS'data science'
-p38
-I1
-sS'automation'
+(dp38
+VData Science
 p39
-I1
-sS'machine learning'
+F0.0030125776615984243
+sVComputer Science
 p40
-I1
-sS'design'
-p41
-I1
-sS'computer science'
-p42
-I1
-sS'phd'
-p43
-I1
-sS'natural language processing'
-p44
-I1
-sS'general'
-p45
-I1
-sS'artificial intelligence'
-p46
-I1
+F0.0026550021887161222
 ssS'education'
-p47
-(dp48
-VDoctor
-p49
-I1
+p41
+(dp42
+VBachelor
+p43
+F0.0026726651837827176
+sVDoctor
+p44
+F0.0031940814421597304
 ssS'responsibility'
-p50
-(dp51
+p45
+(dp46
 S'development'
-p52
-I1
+p47
+F0.0035512052856719024
 sS'product'
-p53
-I1
-sVinsight
-p54
-I1
+p48
+F0.015777042706366529
+sS'insight'
+p49
+F0.0053809189325791356
 sS'processing'
-p55
-I1
+p50
+F0.0047891146236678003
 sS'analysis'
-p56
-I1
+p51
+F0.0010047469846162168
 sS'design'
-p57
-I1
+p52
+F0.0042827531085585851
+sS'ownership'
+p53
+F0.011555112756854509
 ss.

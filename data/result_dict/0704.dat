@@ -93,57 +93,47 @@ p47
 asS'working-year'
 p48
 (lp49
-V[0]
+S'[0]'
 p50
 asS'major'
 p51
 (lp52
-S'information'
+VData Science
 p53
-aS'business'
+aVEngineering
 p54
-aS'computing'
+aVComputer Science
 p55
-aS'science'
+aVBusiness
 p56
-aS'data science'
-p57
-aS'data science analytics'
-p58
-aS'analytics'
-p59
-aS'engineering'
-p60
-aS'computer science'
-p61
-aS'data mining'
-p62
-aS'communication'
-p63
-aS'data analytics'
-p64
 asS'education'
-p65
-(lp66
-S'Bachelor'
-p67
+p57
+(lp58
+VBachelor
+p59
+aVMaster
+p60
+aVDoctor
+p61
 asS'responsibility'
-p68
-(lp69
+p62
+(lp63
 S'information'
-p70
+p64
 aS'product'
-p71
+p65
 aS'documentation'
-p72
+p66
 aS'processing'
-p73
+p67
 aS'analysis'
-p74
+p68
+aS'design'
+p69
 aS'data mining'
-p75
+p70
 aS'modeling'
-p76
+p71
 aS'presentation'
-p77
+p72
 as.

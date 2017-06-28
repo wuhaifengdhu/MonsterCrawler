@@ -1,326 +1,625 @@
-job_description
-position_summary
-federal
-railroad
-administration
-fra
-owns
-fleet
-geometry
-car
-operating_maintaining
-managing
-car
-contract
-automated
-track
-inspection
-program
-atip
-30_year
-data_collected
-car
-september
-21
-1998_present
-stored
-fra's
-track
-data
-management
-system
-tdms
-tdms_web
-made_available
-approximately_130
-fra
-state
-track
-inspector
-25
-fra
-headquarters
-employee
-50
-railroad
-management
-employee
-employee
-maintain
-fra
-tdms
-application
-provide
-data
-dissemination
-data
-analysis
-service
-additionally
-employee
-assist
-maintenance_update
-support
-atip
-portion
-fra
-public
-website
-presently
-tdms
-consists
-sql_server
-relational_database
-containing
-following
-data_collected
-atip
-september
-1998_present
-time
-1
-track
-geometry
-exception
-2
-ride
-quality
-exception
-3
-rail_profile
-exception
-4
-track
-attribute
-switch
-milepost
-bridge
-grade
-crossing
-5
-one
-1
-foot
-geometry
-rail_profile
-measurement
-6
-right
-way
-image
-7
-atip
-supporting
-information
-ie
-railroad
-fra
-region
-state
-county
-test
-dev
-production
-atip
-database
-tdms_web
-application
-instance
-hosted
-within
-u
-department
-transportation's
-azure_cloud
-environment
-user_acceptance
-testing
-new_tdms
-web_application
-completed
-expected
-legacy
-tdms_web
-application
-remain
-production
-system
-operated
-maintained
-parallel
-new_tdms
-web_application
-development
-responsibilties
-design_implement
-maintains
-moderately_complex
-database
-access
-method
-access
-time
-device
-allocation
-validation
-check
-organization
-protection
-security
-documentation
-statistical_method
-develops_maintains
-expertise
-use
-automated
-tool
-database
-design_implementation
-participates
-design
-maintenance
-logical_physical
-data
-model
-relational_dimensional
-data_dictionary
-database
-volumetrics
-consults
-application
-development
-staff
-user
-database
-solution
-business_problem
-data
-architecture
-data
-base
-management
-system
-facility
-capability
-operation
-tuning
-database
-work
-define
-file
-organization
-indexing
-method
-security
-procedure
-specific
-user
-application
-maintains
-database
-dictionary
-monitor
-standard_procedure
-integration
-system
-database
-design
-maintains
-accurate
-up-to-date_knowledge
-database
-information
-requirement
-maximizing
-database
-potential
-provides_assistance
-various
-client
-required
-database
-design_implementation
-troubleshooting
-maintains
-standard
-documentation
-assist
-senior
-database
-analyst
-staff
-identification_resolution
-production
-application
-assist
-analysis
-design
-activity
-associated
-development
-maintenance
-database
-provides_advice
-guidance_le
-experienced
-staffeducation
-experience
-typically_requires
-bachelor's_degree
-equivalent
-two_four
-year
-related
-experience
-physical_demand
-normal_demand
-associated_office
-environment
-ability
-work
-computer_long
-period_communicate
-individual_telephone
-email_face
-face_travel
-may_required
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob description
+p2
+aVposition summary
+p3
+aVfederal
+p4
+aVrailroad
+p5
+aVadministration
+p6
+aVfra
+p7
+aVowns
+p8
+aVfleet
+p9
+aVgeometry
+p10
+aVcar
+p11
+aVoperating maintaining
+p12
+aVmanaging
+p13
+aVcar
+p14
+aVcontract
+p15
+aVautomated
+p16
+aVtrack
+p17
+aVinspection
+p18
+aVprogram
+p19
+aVatip
+p20
+aV30 year
+p21
+aVdata collected
+p22
+aVcar
+p23
+aVseptember
+p24
+aV21
+p25
+aV1998 present
+p26
+aVstored
+p27
+aVfra's
+p28
+aVtrack
+p29
+aVdata
+p30
+aVmanagement
+p31
+aVsystem
+p32
+aVtdms
+p33
+aVtdms web
+p34
+aVmade available
+p35
+aVapproximately 130
+p36
+aVfra
+p37
+aVstate
+p38
+aVtrack
+p39
+aVinspector
+p40
+aV25
+p41
+aVfra
+p42
+aVheadquarters
+p43
+aVemployee
+p44
+aV50
+p45
+aVrailroad
+p46
+aVmanagement
+p47
+aVemployee
+p48
+aVemployee
+p49
+aVmaintain
+p50
+aVfra
+p51
+aVtdms
+p52
+aVapplication
+p53
+aVprovide
+p54
+aVdata
+p55
+aVdissemination
+p56
+aVdata
+p57
+aVanalysis
+p58
+aVservice
+p59
+aVadditionally
+p60
+aVemployee
+p61
+aVassist maintenance
+p62
+aVupdate
+p63
+aVsupport
+p64
+aVatip
+p65
+aVportion
+p66
+aVfra
+p67
+aVpublic
+p68
+aVwebsite
+p69
+aVpresently
+p70
+aVtdms
+p71
+aVconsists
+p72
+aVsql server
+p73
+aVrelational database
+p74
+aVcontaining
+p75
+aVfollowing
+p76
+aVdata collected
+p77
+aVatip
+p78
+aVseptember
+p79
+aV1998 present
+p80
+aVtime
+p81
+aV1
+aVtrack
+p82
+aVgeometry
+p83
+aVexception
+p84
+aV2
+aVride
+p85
+aVquality
+p86
+aVexception
+p87
+aV3
+aVrail profile
+p88
+aVexception
+p89
+aV4
+aVtrack
+p90
+aVattribute
+p91
+aVswitch
+p92
+aVmilepost
+p93
+aVbridge
+p94
+aVgrade
+p95
+aVcrossing
+p96
+aV5
+aVone
+p97
+aV1
+aVfoot
+p98
+aVgeometry
+p99
+aVrail profile
+p100
+aVmeasurement
+p101
+aV6
+aVright
+p102
+aVway
+p103
+aVimage
+p104
+aV7
+aVatip
+p105
+aVsupporting
+p106
+aVinformation
+p107
+aVi.e.
+p108
+aVrailroad
+p109
+aVfra
+p110
+aVregion
+p111
+aVstate
+p112
+aVcounty
+p113
+aVtest
+p114
+aVdev
+p115
+aVproduction
+p116
+aVatip
+p117
+aVdatabase
+p118
+aVtdms web
+p119
+aVapplication instance
+p120
+aVhosted
+p121
+aVwithin
+p122
+aVu
+aVdepartment
+p123
+aVtransportation's
+p124
+aVazure cloud
+p125
+aVenvironment
+p126
+aVuser acceptance
+p127
+aVtesting
+p128
+aVnew tdms
+p129
+aVweb application
+p130
+aVcompleted
+p131
+aVexpected
+p132
+aVlegacy
+p133
+aVtdms web
+p134
+aVapplication
+p135
+aVremain
+p136
+aVproduction system
+p137
+aVoperated
+p138
+aVmaintained
+p139
+aVparallel
+p140
+aVnew tdms
+p141
+aVweb application
+p142
+aVdevelopment
+p143
+aVresponsibilties
+p144
+aVdesign implement
+p145
+aVmaintains
+p146
+aVmoderately complex
+p147
+aVdatabase
+p148
+aVaccess
+p149
+aVmethod
+p150
+aVaccess
+p151
+aVtime
+p152
+aVdevice
+p153
+aVallocation
+p154
+aVvalidation
+p155
+aVcheck
+p156
+aVorganization
+p157
+aVprotection
+p158
+aVsecurity
+p159
+aVdocumentation
+p160
+aVstatistical method
+p161
+aVdevelops maintains
+p162
+aVexpertise
+p163
+aVuse
+p164
+aVautomated
+p165
+aVtool
+p166
+aVdatabase
+p167
+aVdesign implementation
+p168
+aVparticipates
+p169
+aVdesign
+p170
+aVmaintenance
+p171
+aVlogical physical
+p172
+aVdata
+p173
+aVmodel
+p174
+aVrelational dimensional
+p175
+aVdata dictionary
+p176
+aVdatabase
+p177
+aVvolumetrics
+p178
+aVconsults
+p179
+aVapplication development
+p180
+aVstaff
+p181
+aVuser
+p182
+aVdatabase
+p183
+aVsolution
+p184
+aVbusiness problem
+p185
+aVdata
+p186
+aVarchitecture
+p187
+aVdata
+p188
+aVbase
+p189
+aVmanagement
+p190
+aVsystem
+p191
+aVfacility
+p192
+aVcapability
+p193
+aVoperation
+p194
+aVtuning database
+p195
+aVwork
+p196
+aVdefine
+p197
+aVfile
+p198
+aVorganization
+p199
+aVindexing
+p200
+aVmethod
+p201
+aVsecurity
+p202
+aVprocedure
+p203
+aVspecific
+p204
+aVuser
+p205
+aVapplication
+p206
+aVmaintains
+p207
+aVdatabase
+p208
+aVdictionary
+p209
+aVmonitor
+p210
+aVstandard procedure
+p211
+aVintegration
+p212
+aVsystem
+p213
+aVdatabase
+p214
+aVdesign
+p215
+aVmaintains accurate
+p216
+aVup-to-date knowledge
+p217
+aVdatabase
+p218
+aVinformation
+p219
+aVrequirement
+p220
+aVmaximizing
+p221
+aVdatabase
+p222
+aVpotential
+p223
+aVprovides assistance
+p224
+aVvarious
+p225
+aVclient
+p226
+aVrequired
+p227
+aVdatabase
+p228
+aVdesign implementation
+p229
+aVtroubleshooting
+p230
+aVmaintains
+p231
+aVstandard
+p232
+aVdocumentation assist
+p233
+aVsenior
+p234
+aVdatabase
+p235
+aVanalyst
+p236
+aVstaff
+p237
+aVidentification resolution
+p238
+aVproduction
+p239
+aVapplication
+p240
+aVassist
+p241
+aVanalysis
+p242
+aVdesign
+p243
+aVactivity
+p244
+aVassociated
+p245
+aVdevelopment maintenance
+p246
+aVdatabase
+p247
+aVprovides advice
+p248
+aVguidance le
+p249
+aVexperienced
+p250
+aVstaff.education
+p251
+aVexperience
+p252
+aVtypically requires
+p253
+aVbachelor's degree
+p254
+aVequivalent
+p255
+aVtwo four
+p256
+aVyear related
+p257
+aVexperience
+p258
+aVphysical demand
+p259
+aVnormal demand
+p260
+aVassociated office
+p261
+aVenvironment
+p262
+aVability work
+p263
+aVcomputer long
+p264
+aVperiod communicate
+p265
+aVindividual telephone
+p266
+aVemail face
+p267
+aVface travel
+p268
+aVmay required
+p269
+aVcaci employ
+p270
+aVdiverse range
+p271
+aVtalent create
+p272
+aVenvironment fuel
+p273
+aVinnovation foster
+p274
+aVcontinuous improvement
+p275
+aVsuccess join
+p276
+aVcaci opportunity
+p277
+aVmake immediate
+p278
+aVimpact providing
+p279
+aVinformation
+p280
+aVsolution
+p281
+aVservice
+p282
+aVsupport
+p283
+aVnational security
+p284
+aVmission government
+p285
+aVtransformation intelligence
+p286
+aVdefense federal
+p287
+aVcivilian customer
+p288
+aVfortune magazine
+p289
+aVworld's admired
+p290
+aVcompany
+p291
+aVservice
+p292
+aVindustry caci
+p293
+aVmember fortune
+p294
+aV1000 largest
+p295
+aVcompany russell
+p296
+aV2000 index
+p297
+aVp smallcap600
+p298
+aVindex caci
+p299
+aVprovides dynamic
+p300
+aVcareer 20
+p301
+aV000 employee
+p302
+aVworldwide caci
+p303
+aVequal opportunity
+p304
+aVemployer -
+p305
+aVfemale minority
+p306
+aVprotected veteran
+p307
+aVindividual disability
+p308
+a.

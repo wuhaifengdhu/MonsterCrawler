@@ -16,7 +16,7 @@ aS'analytics'
 p9
 aS'objective-c'
 p10
-aS'analysis'
+aS'pricing'
 p11
 aS'linux'
 p12
@@ -32,46 +32,47 @@ aS'scala'
 p17
 aS'data'
 p18
-aS'predictive analytics'
-p19
 aS'hadoop'
-p20
+p19
 aS'writing'
-p21
+p20
 aS'json'
-p22
+p21
 aS'swift'
-p23
+p22
 aS'computer science'
-p24
+p23
 aS'model selection'
-p25
+p24
 aS'jenkins'
-p26
+p25
 aS'data analysis'
-p27
+p26
 aS'python'
-p28
+p27
 aS'javascript'
-p29
+p28
 aS'data scientist'
-p30
-aS'b testing'
-p31
-aS'sql'
-p32
-aS'spark'
-p33
-aS'php'
-p34
-aS'ruby'
-p35
-aS'bash'
-p36
-aS'c'
+p29
 aS'github'
-p37
+p30
+aS'sql'
+p31
+aS'spark'
+p32
+aS'php'
+p33
+aS'ruby'
+p34
+aS'bash'
+p35
+aS'a'
+aS'c'
+aS'b testing'
+p36
 aS'software engineering'
+p37
+aS'windows'
 p38
 aS'science'
 p39
@@ -79,76 +80,58 @@ aS'documentation'
 p40
 aS'unix'
 p41
-aS'c++'
+aS'analysis'
 p42
 aS'machine learning'
 p43
 aS'e-commerce'
 p44
-aS'unit testing'
+aS'algorithms'
 p45
-aS'scripting'
+aS'unit testing'
 p46
-aS'pricing'
+aS'scripting'
 p47
-asS'working-year'
+aS'predictive analytics'
 p48
-(lp49
-V(2, 5]
-p50
-asS'major'
+asS'working-year'
+p49
+(lp50
+sS'major'
 p51
 (lp52
-S'business'
+VData Science
 p53
-aS'big data'
+aVEngineering
 p54
-aS'science'
+aVComputer Science
 p55
-aS'data science'
+aVBusiness
 p56
-aS'communication'
-p57
-aS'machine learning'
-p58
-aS'analytics'
-p59
-aS'engineering'
-p60
-aS'design'
-p61
-aS'computer science'
-p62
-aS'phd'
-p63
-aS'statistic'
-p64
-aS'software engineering'
-p65
-aS'law'
-p66
-aS'predictive analytics'
-p67
 asS'education'
-p68
-(lp69
-VDoctor
-p70
+p57
+(lp58
+VBachelor
+p59
+aVMaster
+p60
 asS'responsibility'
-p71
-(lp72
+p61
+(lp62
 S'product'
-p73
+p63
 aS'data analysis'
-p74
+p64
 aS'documentation'
-p75
+p65
 aS'analysis'
-p76
+p66
+aS'improvement'
+p67
 aS'design'
-p77
+p68
 aS'interface'
-p78
+p69
 aS'model'
-p79
+p70
 as.

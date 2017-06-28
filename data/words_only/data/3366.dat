@@ -4,181 +4,177 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0090925144992243263
 sS'intelligence'
 p5
-I1
+F0.0052161415610856446
 sS'data science'
 p6
-I1
-sS'pig'
+F0.0039961492546863762
+sS'information retrieval'
 p7
-I1
+F0.011659538215890941
 sS'engineering'
 p8
-I1
+F0.0081385699473332535
 sS'enterprise software'
 p9
-I1
-sS'c++'
-p10
-I1
-sS'visualization'
-p11
-I1
-sS'java'
-p12
-I1
-sS'scala'
-p13
-I1
-sS'agile'
-p14
-I1
-sS'hadoop'
-p15
-I1
-sS'writing'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'matlab'
-p18
-I1
-sS'data analysis'
-p19
-I1
-sS'theory'
-p20
-I1
-sS'apis'
-p21
-I1
-sS'python'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'scipy'
-p25
-I1
-sS'embedded c'
-p26
-I1
-sS'spark'
-p27
-I1
-sS'data'
-p28
-I1
-sS'software engineering'
-p29
-I1
-sS'object oriented design'
-p30
-I1
-sS'cloud computing'
-p31
-I1
-sS'programming'
-p32
-I1
+F0.013462069101841268
 sS'analysis'
+p10
+F0.0011382681785851493
+sS'go'
+p11
+F0.010893399319028663
+sS'visualization'
+p12
+F0.0062268945911427556
+sS'statistics'
+p13
+F0.0030980493515036698
+sS'java'
+p14
+F0.0041171660055424704
+sS'scala'
+p15
+F0.0081081939790652383
+sS'agile'
+p16
+F0.0072547836302309281
+sS'hadoop'
+p17
+F0.0042684601375400826
+sS'writing'
+p18
+F0.014930633395896963
+sS'computer science'
+p19
+F0.0046710407414857829
+sS'natural language processing'
+p20
+F0.0083254422988714386
+sS'matlab'
+p21
+F0.0042405355071032051
+sS'data analysis'
+p22
+F0.0049294419101849341
+sS'theory'
+p23
+F0.009735801496589154
+sS'apis'
+p24
+F0.012223971316068602
+sS'python'
+p25
+F0.0017317326005091894
+sS'processing'
+p26
+F0.0054255418161817939
+sS'data scientist'
+p27
+F0.0035195071932354761
+sS'scipy'
+p28
+F0.01342653720094697
+sS'spark'
+p29
+F0.01120355895890803
+sS'pig'
+p30
+F0.0089655421100195733
+sS'data'
+p31
+F0.0011820746299781354
+sS'c'
+F0.0041548901126182633
+sS'software engineering'
+p32
+F0.0086447275372558523
+sS'science'
 p33
-I1
-sS'machine learning'
+F0.0023356607581199083
+sS'cloud computing'
 p34
-I1
-sS'r'
-I1
-sS'architecture'
+F0.010756134999062613
+sS'programming'
 p35
-I1
-sS'crm'
+F0.0036621768599165313
+sS'hive'
 p36
-I1
-ssS'working-year'
+F0.00692941611126248
+sS'machine learning'
 p37
-(dp38
-V(5, 10]
+F0.0021777997403124231
+sS'r'
+F0.0018438282611758844
+sS'architecture'
+p38
+F0.0072658289790187985
+sS'object oriented design'
 p39
-I1
-sV(2, 5]
+F0.01491804505414005
+sS'crm'
 p40
-I1
-ssS'major'
+F0.010926538093677071
+ssS'working-year'
 p41
 (dp42
-S'information'
+V(5, 10]
 p43
-I1
-sS'software engineering'
+F0.0040054626630460421
+sV(2, 5]
 p44
-I1
-sS'business'
+F0.0041160944466150685
+ssS'major'
 p45
-I1
-sS'computing'
-p46
-I1
-sS'data science'
+(dp46
+VEngineering
 p47
-I1
-sS'computer science statistics'
+F0.0074829864676635473
+sVStatistics
 p48
-I1
-sS'machine learning'
+F0.0059850656806912962
+sVData Science
 p49
-I1
-sS'engineering'
+F0.0034129202079902412
+sVBusiness
 p50
-I1
-sS'design'
+F0.003593735372671476
+sVComputer Science
 p51
-I1
-sS'computer science'
-p52
-I1
-sS'statistic'
-p53
-I1
+F0.0030078263998411887
 ssS'education'
-p54
-(dp55
+p52
+(dp53
 S'Bachelor'
-p56
-I1
+p54
+F0.0030278366367770988
 ssS'responsibility'
-p57
-(dp58
+p55
+(dp56
 S'information'
-p59
-I1
+p57
+F0.0046083229220245667
 sS'product'
-p60
-I1
+p58
+F0.013405244757984184
 sS'data analysis'
-p61
-I1
+p59
+F0.0049294419101849341
 sS'processing'
-p62
-I1
+p60
+F0.0054255418161817939
 sS'analysis'
-p63
-I1
+p61
+F0.0011382681785851493
 sS'design'
-p64
-I1
+p62
+F0.004851889734280657
 sS'recommendation'
-p65
-I1
+p63
+F0.0086784111123530613
 sS'model'
-p66
-I1
+p64
+F0.010281799613964391
 ss.

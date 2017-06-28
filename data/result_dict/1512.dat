@@ -6,15 +6,15 @@ S'sip'
 p4
 aS'theory'
 p5
-aS'management'
-p6
 aS'communication'
-p7
+p6
 aS'applied mathematics'
-p8
+p7
 aS'economics'
+p8
+aS'management'
 p9
-aS'data scientist'
+aS'physics'
 p10
 aS'engineering'
 p11
@@ -35,53 +35,37 @@ p18
 asS'working-year'
 p19
 (lp20
-V[0]
+S'[0]'
 p21
 asS'major'
 p22
 (lp23
-S'mathematics physics'
+VBusiness
 p24
-aS'management'
+aVEconomics
 p25
-aS'economics'
+aVEngineering
 p26
-aS'finance'
+aVMathematics
 p27
-aS'business'
+aVPhysics
 p28
-aS'communication'
+aVManagement Science and Engineering
 p29
-aS'applied mathematics'
-p30
-aS'philosophy'
-p31
-aS'engineering'
-p32
-aS'design'
-p33
-aS'finance economics'
-p34
-aS'applied math'
-p35
-aS'mathematics'
-p36
-aVphysic
-p37
 asS'education'
-p38
-(lp39
+p30
+(lp31
 VDoctor
-p40
+p32
 asS'responsibility'
-p41
-(lp42
+p33
+(lp34
 S'development'
-p43
+p35
 aS'product'
-p44
+p36
 aS'prototype'
-p45
+p37
 aS'design'
-p46
+p38
 as.

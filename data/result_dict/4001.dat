@@ -36,6 +36,7 @@ aS'weka'
 p19
 aS'data'
 p20
+aS'a'
 aVbayesian network
 p21
 aS'science'
@@ -54,30 +55,24 @@ p28
 asS'major'
 p29
 (lp30
-S'science'
+VComputer Science
 p31
-aS'statistic'
-p32
-aS'computer science'
-p33
-aS'machine learning'
-p34
 asS'education'
+p32
+(lp33
+S'Bachelor'
+p34
+asS'responsibility'
 p35
 (lp36
-S'Bachelor'
-p37
-asS'responsibility'
-p38
-(lp39
 S'prototype'
-p40
+p37
 aS'implement'
-p41
+p38
 aS'data analysis'
-p42
+p39
 aS'product'
-p43
+p40
 aS'analysis'
-p44
+p41
 as.

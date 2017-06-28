@@ -2,142 +2,130 @@
 S'skills'
 p2
 (dp3
-S'customer satisfaction'
+S'consulting'
 p4
-I1
-sS'consulting'
+F0.019148429615348055
+sS'classification'
 p5
-I1
-sS'management'
-p6
-I1
-sS'user experience'
-p7
-I1
+F0.0044567258495170608
 sS'communication'
-p8
-I1
+p6
+F0.0022361149139983848
 sS'management consulting'
-p9
-I1
-sS'data scientist'
-p10
-I1
-sS'market risk'
-p11
-I1
-sS'strategy'
-p12
-I1
-sS'thought leadership'
-p13
-I1
-sS'optimization'
-p14
-I1
-sS'leadership'
-p15
-I1
-sS'user experience design'
-p16
-I1
-sS'oracle'
-p17
-I1
-sS'accounting'
-p18
-I1
+p7
+F0.0054172541937250965
 sS'strategic leadership'
-p19
-I1
+p8
+F0.0085024265246152197
+sS'thought leadership'
+p9
+F0.005793331778995936
+sS'user experience design'
+p10
+F0.0082091513778252898
+sS'accounting'
+p11
+F0.0062292228649235256
 sS'education'
+p12
+F0.0029641620760074423
+sS'market risk'
+p13
+F0.0080040927020217246
+sS'management'
+p14
+F0.0038391901152527632
+sS'user experience'
+p15
+F0.0047672499507158978
+sS'strategy'
+p16
+F0.0044491848339741095
+sS'customer satisfaction'
+p17
+F0.006390159235980645
+sS'collaboration'
+p18
+F0.0036125274294822795
+sS'data scientist'
+p19
+F0.001496287662660845
+sS'leadership'
 p20
-I1
+F0.0023339104819263025
 sS'data'
 p21
-I1
-sS'collaboration'
+F0.00016751622581140241
+sS'information technology'
 p22
-I1
-sS'information technology'
-p23
-I1
+F0.0044020467115278884
 sS'customer experience'
-p24
-I1
-ssS'working-year'
-p25
-(dp26
-V(5, 10]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'information technology management'
-p30
-I1
-sS'information'
-p31
-I1
-sS'management'
-p32
-I1
-sS'business'
-p33
-I1
-sS'communication'
-p34
-I1
-sS'technology management'
-p35
-I1
-sS'design'
-p36
-I1
-sS'accounting'
-p37
-I1
-sS'information technology'
-p38
-I1
-ssS'education'
-p39
-(dp40
-VBachelor
-p41
-I1
-ssS'responsibility'
-p42
-(dp43
-S'development'
-p44
-I1
-sS'information'
-p45
-I1
-sS'business problem'
-p46
-I1
-sS'evaluation'
-p47
-I1
+p23
+F0.0054111531094438491
 sS'optimization'
-p48
-I1
+p24
+F0.002824871267497941
+sS'oracle'
+p25
+F0.0037076574838436748
+ssS'working-year'
+p26
+(dp27
+V(5, 10]
+p28
+F0.0017028873751085576
+ssS'major'
+p29
+(dp30
+VInformation Science
+p31
+F0.0035771965940029574
+sVBusiness
+p32
+F0.00152784512312728
+sVEconomics
+p33
+F0.0023174739371814418
+sVManagement Science and Engineering
+p34
+F0.0018213905910577576
+ssS'education'
+p35
+(dp36
+VBachelor
+p37
+F0.0012872582311721846
+ssS'responsibility'
+p38
+(dp39
+S'development'
+p40
+F0.0051311906881954181
+sS'information'
+p41
+F0.0019591881349285234
+sS'business problem'
+p42
+F0.0040228115284331135
+sS'evaluation'
+p43
+F0.0095577491068550204
+sS'optimization'
+p44
+F0.002824871267497941
 sS'understand'
-p49
-I1
+p45
+F0.0029684743127744002
 sS'ownership'
-p50
-I1
+p46
+F0.0055653862289369886
 sS'design'
-p51
-I1
+p47
+F0.0041254768644589761
 sS'presentation'
-p52
-I1
+p48
+F0.017396570214050895
 sS'transformation'
-p53
-I1
+p49
+F0.0044413236374758001
 ss.

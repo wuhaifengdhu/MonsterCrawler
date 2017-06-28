@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'problem solving'
+S'a'
+aS'problem solving'
 p4
 aS'python'
 p5
@@ -18,74 +19,62 @@ aS'engineering'
 p10
 aS'optimization'
 p11
-aS'computer science'
+aS'algorithms'
 p12
-aS'statistical modeling'
+aS'computer science'
 p13
-aS'science'
+aS'statistical modeling'
 p14
-aS'modeling'
+aS'science'
 p15
-aS'machine learning'
+aS'modeling'
 p16
-aS'data'
+aS'machine learning'
 p17
-aVpanda
+aS'data'
 p18
-aS'research'
+aVpanda
 p19
-asS'working-year'
+aS'research'
 p20
-(lp21
-V(2, 5]
-p22
-asS'major'
+asS'working-year'
+p21
+(lp22
+sS'major'
 p23
 (lp24
-S'computing'
+VData Science
 p25
-aS'science'
+aVEngineering
 p26
-aS'phd'
+aVComputer Science
 p27
-aS'analytics'
-p28
-aS'engineering'
-p29
-aS'design'
-p30
-aS'computer science'
-p31
-aS'communication'
-p32
-aS'machine learning'
-p33
 asS'education'
-p34
-(lp35
-VMaster
-p36
+p28
+(lp29
+VBachelor
+p30
+aVMaster
+p31
 aVDoctor
-p37
+p32
 asS'responsibility'
-p38
-(lp39
+p33
+(lp34
 S'communicate'
-p40
+p35
 aS'construct'
-p41
-aS'statistical model'
-p42
+p36
 aS'analytic'
-p43
+p37
 aS'optimization'
-p44
+p38
 aS'design'
-p45
+p39
 aS'report'
-p46
+p40
 aS'modeling'
-p47
+p41
 aS'prototype'
-p48
+p42
 as.

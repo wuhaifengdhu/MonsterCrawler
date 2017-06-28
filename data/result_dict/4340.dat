@@ -12,115 +12,105 @@ aS'unix'
 p7
 aS'pricing'
 p8
-aVpanda
+aS'go'
 p9
-aS'git'
+aVpanda
 p10
-aS'big data'
+aS'git'
 p11
-aS'hadoop'
-p12
-aS'optimization'
-p13
-aS'matlab'
-p14
-aS'model selection'
-p15
-aS'mathematics'
-p16
-aS'numpy'
-p17
-aS'python'
-p18
-aS'processing'
-p19
-aS'data scientist'
-p20
-aS'data processing'
-p21
-aS'sql'
-p22
-aS'spark'
-p23
-aS'data'
-p24
-aS'bash'
-p25
-aS'github'
-p26
-aS'software engineering'
-p27
-aS'science'
-p28
-aS'programming'
-p29
-aS'engineering'
-p30
-aS'machine learning'
-p31
-aS'e-commerce'
-p32
-aS'r'
-aS'scripting'
-p33
-aS'predictive analytics'
-p34
-asS'working-year'
-p35
-(lp36
-V(2, 5]
-p37
-asS'major'
-p38
-(lp39
-S'mathematics'
-p40
-aS'business'
-p41
 aS'big data'
-p42
-aS'science'
-p43
-aS'data science'
-p44
-aS'communication'
-p45
-aS'machine learning'
-p46
-aS'analytics'
-p47
-aS'engineering'
-p48
-aS'design'
-p49
-aS'statistic'
-p50
-aS'software engineering'
-p51
-aS'phd'
-p52
-aS'predictive analytics'
-p53
-asS'education'
-p54
-(lp55
-VDoctor
-p56
-asS'responsibility'
-p57
-(lp58
-S'product'
-p59
-aS'business problem'
-p60
-aS'processing'
-p61
-aS'statistical method'
-p62
+p12
+aS'hadoop'
+p13
 aS'optimization'
-p63
+p14
+aS'matlab'
+p15
+aS'model selection'
+p16
+aS'mathematics'
+p17
+aS'numpy'
+p18
+aS'python'
+p19
+aS'processing'
+p20
+aS'data scientist'
+p21
+aS'data processing'
+p22
+aS'sql'
+p23
+aS'spark'
+p24
+aS'data'
+p25
+aS'bash'
+p26
+aS'github'
+p27
+aS'software engineering'
+p28
+aS'science'
+p29
+aS'programming'
+p30
+aS'engineering'
+p31
+aS'machine learning'
+p32
+aS'e-commerce'
+p33
+aS'r'
+aS'algorithms'
+p34
+aS'scripting'
+p35
+aS'predictive analytics'
+p36
+asS'working-year'
+p37
+(lp38
+sS'major'
+p39
+(lp40
+VMathematics
+p41
+aVData Science
+p42
+aVEngineering
+p43
+aVComputer Science
+p44
+aVBusiness
+p45
+asS'education'
+p46
+(lp47
+VBachelor
+p48
+aVMaster
+p49
+aVDoctor
+p50
+asS'responsibility'
+p51
+(lp52
+S'product'
+p53
+aS'business problem'
+p54
+aS'processing'
+p55
+aS'improvement'
+p56
+aS'statistical method'
+p57
+aS'optimization'
+p58
 aS'design'
-p64
+p59
 aS'model'
-p65
+p60
 as.

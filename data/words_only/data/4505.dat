@@ -4,242 +4,220 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0085794572547539874
 sS'saas'
 p5
-I1
+F0.0048394079877753307
 sS'data warehousing'
 p6
-I1
+F0.0047672261154926227
 sS'problem solving'
 p7
-I1
-sS'neuroscience'
-p8
-I1
+F0.0038473540203029012
 sS'research'
-p9
-I1
+p8
+F0.0013372419148303108
 sS'data architecture'
+p9
+F0.0063596764182058041
+sS'management'
 p10
-I1
-sS'management'
+F0.0042604178708447599
+sS'big data'
 p11
-I1
-sS'big data'
-p12
-I1
+F0.0019948669692204822
 sS'team building'
-p13
-I1
+p12
+F0.0062771641944630707
 sS'deep learning'
-p14
-I1
+p13
+F0.0048817267756950632
 sS'storage'
-p15
-I1
+p14
+F0.023451420454836735
 sS'integration'
-p16
-I1
+p15
+F0.0036148011319664772
 sS'governance'
-p17
-I1
+p16
+F0.0056497116314981168
 sS'strategy'
-p18
-I1
+p17
+F0.0024686699549009948
 sS'access'
+p18
+F0.0072710408310233694
+sS'computer science'
 p19
-I1
-sS'computer science'
-p20
-I1
+F0.0022037355222370228
 sS'tensorflow'
-p21
-I1
+p20
+F0.0067632928271574196
 sS'dimensional modeling'
-p22
-I1
+p21
+F0.0090616106744650215
 sS'unstructured data'
-p23
-I1
+p22
+F0.0049981323408356737
 sS'data management'
-p24
-I1
+p23
+F0.004310216464904813
 sS'architecture'
-p25
-I1
+p24
+F0.010283767348046983
 sS'data modeling'
-p26
-I1
+p25
+F0.0040943601015960363
 sS'product development'
-p27
-I1
+p26
+F0.0040963579134509565
 sS'database design'
-p28
-I1
+p27
+F0.0058262613783518656
 sS'data scientist'
-p29
-I1
+p28
+F0.0016604571554292762
 sS'aws'
-p30
-I1
+p29
+F0.0040963579134509565
 sS'scalability'
-p31
-I1
+p30
+F0.0063261484933058209
 sS'amazon s3'
-p32
-I1
+p31
+F0.0095607531350324695
 sS'leadership'
+p32
+F0.0025899821648962726
+sS'application architecture'
 p33
-I1
-sS'modeling'
+F0.0088404850774675674
+sS'electrical engineering'
 p34
-I1
-sS'data quality'
-p35
-I1
-sS'data'
-p36
-I1
-sS'computational neuroscience'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'machine learning'
-p39
-I1
-sS'erwin'
-p40
-I1
-sS'data integration'
-p41
-I1
-sS'artificial intelligence'
-p42
-I1
-sS'science'
-p43
-I1
-sS'electrical engineering'
-p44
-I1
-sS'security'
-p45
-I1
-sS'high availability'
-p46
-I1
-sS'etl'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(5, 10]
-p50
-I1
-sV(2, 5]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'information'
-p54
-I1
-sS'management'
-p55
-I1
-sS'business'
-p56
-I1
-sS'big data'
-p57
-I1
-sS'computing'
-p58
-I1
-sS'computational neuroscience'
-p59
-I1
-sS'applied math'
-p60
-I1
-sS'electrical'
-p61
-I1
-sS'general'
-p62
-I1
-sS'neuroscience'
-p63
-I1
-sS'design'
-p64
-I1
-sS'computer science'
-p65
-I1
-sS'phd'
-p66
-I1
-sS'statistic'
-p67
-I1
-sS'electrical engineering'
-p68
-I1
-sS'machine learning'
-p69
-I1
-sS'artificial intelligence'
-p70
-I1
-sS'science'
-p71
-I1
-ssS'education'
-p72
-(dp73
-VMaster
-p74
-I1
-sVDoctor
-p75
-I1
-ssS'responsibility'
-p76
-(dp77
-S'development'
-p78
-I1
-sS'information'
-p79
-I1
-sS'ensure data integrity'
-p80
-I1
-sVinsight
-p81
-I1
-sS'product'
-p82
-I1
-sS'analysis'
-p83
-I1
-sS'design'
-p84
-I1
+F0.0062141458987128775
 sS'modeling'
-p85
-I1
+p35
+F0.0025459112508512617
+sS'data quality'
+p36
+F0.0055404985316398489
+sS'data'
+p37
+F0.0068781427137233507
+sS'science'
+p38
+F0.0011019339940346276
+sS'a'
+F0.0029311001467304493
+sS'computational neuroscience'
+p39
+F0.0089252296453673947
+sS'analysis'
+p40
+F0.0010740398801069903
+sS'machine learning'
+p41
+F0.0010274572442539802
+sS'erwin'
+p42
+F0.010783570286084438
+sS'data integration'
+p43
+F0.0060668670226200344
+sS'algorithms'
+p44
+F0.002812181314052122
+sS'artificial intelligence'
+p45
+F0.0043379569907127978
+sS'databases'
+p46
+F0.0036089313061579784
+sS'organization'
+p47
+F0.0027636110333568672
+sS'security'
+p48
+F0.0034253147581814916
+sS'high availability'
+p49
+F0.0085073179917179251
+sS'etl'
+p50
+F0.013400147369977349
+ssS'working-year'
+p51
+(dp52
+V(5, 10]
+p53
+F0.0018897245479261109
+sV(2, 5]
+p54
+F0.0019419191668199616
+ssS'major'
+p55
+(dp56
+VBusiness
+p57
+F0.0016954770331882667
+sVElectrical and Electronics Engineering
+p58
+F0.0049320197419670557
+sVCognitive Science
+p59
+F0.0067523702944898159
+sVComputer Science
+p60
+F0.0014190528939689619
+sVMathematics
+p61
+F0.0026869475385304887
+sVManagement Science and Engineering
+p62
+F0.0020212296841205209
+ssS'education'
+p63
+(dp64
+VMaster
+p65
+F0.0011399383780943211
+sVDoctor
+p66
+F0.0017071814604646834
+ssS'responsibility'
+p67
+(dp68
+S'development'
+p69
+F0.0075922319900571696
+sS'information'
+p70
+F0.0065224382423012288
+sS'ensure data integrity'
+p71
+F0.011492010332858276
+sS'insight'
+p72
+F0.0028760083949991929
+sS'product'
+p73
+F0.0063244179814314107
+sS'analysis'
+p74
+F0.0010740398801069903
+sS'develop ... model'
+p75
+F0.0048587978482384601
+sS'design'
+p76
+F0.01373434617572236
+sS'modeling'
+p77
+F0.0025459112508512617
 sS'model'
-p86
-I1
+p78
+F0.007276226529318061
 sS'transformation'
-p87
-I1
+p79
+F0.0049286161995812953
 ss.

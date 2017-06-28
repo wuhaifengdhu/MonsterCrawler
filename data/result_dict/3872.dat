@@ -2,17 +2,18 @@
 S'skills'
 p2
 (lp3
-S'testing'
+S'a'
+aS'sociology'
 p4
 aS'word'
 p5
-aS'data scientist'
+aS'teamwork'
 p6
-aS'economics'
-p7
-aS'recruiting'
-p8
 aS'excel'
+p7
+aS'economics'
+p8
+aS'recruiting'
 p9
 aS'machine learning'
 p10
@@ -22,7 +23,7 @@ aS'analytics'
 p12
 aS'b testing'
 p13
-aS'teamwork'
+aS'testing'
 p14
 aS'problem solving'
 p15
@@ -45,36 +46,30 @@ p23
 asS'major'
 p24
 (lp25
-S'information'
+VData Science
 p26
-aS'business'
+aVEconomics
 p27
-aS'communication'
+aVSociology
 p28
-aS'economics'
+aVComputer Science
 p29
-aS'machine learning'
+aVBusiness
 p30
-aS'analytics'
-p31
-aS'design'
-p32
-aS'law'
-p33
-aVphysic
-p34
 asS'education'
-p35
-(lp36
-S'Bachelor'
-p37
+p31
+(lp32
+VBachelor
+p33
 asS'responsibility'
-p38
-(lp39
-S'information'
-p40
+p34
+(lp35
+S'manipulate ... dataset'
+p36
 aS'product'
-p41
+p37
 aS'design'
-p42
+p38
+aS'information'
+p39
 as.

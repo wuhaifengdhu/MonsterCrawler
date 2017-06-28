@@ -27,33 +27,29 @@ p14
 asS'working-year'
 p15
 (lp16
-V[0]
+S'[0]'
 p17
 asS'major'
 p18
 (lp19
-S'engineering'
+VEngineering
 p20
-aS'phd'
+aVComputer Science
 p21
-aS'software engineering'
-p22
-aS'big data'
-p23
-aS'machine learning'
-p24
 asS'education'
+p22
+(lp23
+VMaster
+p24
+aVDoctor
 p25
-(lp26
-VDoctor
-p27
 asS'responsibility'
-p28
-(lp29
+p26
+(lp27
 S'development'
-p30
+p28
 aS'model'
-p31
-aVinsight
-p32
+p29
+aS'insight'
+p30
 as.

@@ -16,45 +16,45 @@ aS'analytics'
 p9
 aS'unix'
 p10
-aS'security clearance'
+aS'analysis'
 p11
 aS'linux'
 p12
-aS'analysis'
-p13
 aS'hbase'
-p14
+p13
 aS'strategy'
-p15
+p14
 aS'hdfs'
+p15
+aS'statistics'
 p16
-aS'management'
-p17
 aS'open source'
-p18
+p17
 aS'centos'
-p19
+p18
 aS'big data'
-p20
+p19
 aS'hadoop'
-p21
+p20
 aS'research'
-p22
+p21
 aS'access'
-p23
+p22
 aS'json'
-p24
+p23
 aS'computer science'
-p25
+p24
 aS'innovation'
-p26
+p25
 aS'mathematics'
-p27
+p26
 aS'government'
-p28
+p27
 aS'data scientist'
-p29
+p28
 aS'apache spark'
+p29
+aS'management'
 p30
 aS'ubuntu'
 p31
@@ -81,64 +81,62 @@ aS'programming'
 p41
 aS'mapreduce'
 p42
-aS'c++'
+aS'security clearance'
 p43
 aS'security'
 p44
-asS'working-year'
+aS'physics'
 p45
-(lp46
+asS'working-year'
+p46
+(lp47
 V(2, 5]
-p47
-asS'major'
 p48
-(lp49
-S'mathematics'
-p50
-aS'management'
+asS'major'
+p49
+(lp50
+VStatistics
 p51
-aS'big data'
+aVData Science
 p52
-aS'science'
+aVEngineering
 p53
-aS'phd'
+aVComputer Science
 p54
-aS'analytics'
+aVMathematics
 p55
-aS'engineering'
+aVPhysics
 p56
-aS'management technology'
+aVManagement Science and Engineering
 p57
-aS'computer science'
-p58
-aS'statistic'
-p59
-aS'design'
-p60
-aS'ee cs'
-p61
-aVphysic
-p62
 asS'education'
+p58
+(lp59
+VBachelor
+p60
+aVMaster
+p61
+aVDoctor
+p62
+asS'responsibility'
 p63
 (lp64
-VDoctor
-p65
-asS'responsibility'
-p66
-(lp67
 S'development'
-p68
+p65
+aS'information'
+p66
 aS'large data set'
-p69
+p67
 aS'analysis'
-p70
+p68
 aS'analytic'
-p71
+p69
 aS'statistical method'
-p72
+p70
 aS'design'
-p73
+p71
+aS'model'
+p72
 aS'evaluation'
-p74
+p73
 as.

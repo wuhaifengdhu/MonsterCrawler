@@ -2,43 +2,46 @@
 S'skills'
 p2
 (dp3
-S'credit risk'
+S'data'
 p4
-I1
-sS'management'
+F0.0034882790551315564
+sS'credit risk'
 p5
-I1
-sS'credit analysis'
+F0.13182449564575949
+sS'management'
 p6
-I1
-sS'analysis'
+F0.026648496094107417
+sS'credit analysis'
 p7
-I1
-ssS'working-year'
+F0.1913301429546162
+sS'analysis'
 p8
-(dp9
-V[0]
-p10
-I1
-ssS'major'
+F0.010077021228062645
+ssS'working-year'
+p9
+(dp10
+S'[0]'
 p11
-(dp12
-S'management'
-p13
-I1
-sS'data analyst'
+F0.064594550898364189
+ssS'major'
+p12
+(dp13
+VData Science
 p14
-I1
-ssS'education'
+F0.030214381841325372
+sVManagement Science and Engineering
 p15
-(dp16
+F0.03792778054320272
+ssS'education'
+p16
+(dp17
 S'Bachelor'
-p17
-I1
-ssS'responsibility'
 p18
-(dp19
+F0.026805259637350198
+ssS'responsibility'
+p19
+(dp20
 S'analysis'
-p20
-I1
+p21
+F0.010077021228062645
 ss.

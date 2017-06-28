@@ -16,9 +16,9 @@ aS'data engineering'
 p9
 aS'intelligence'
 p10
-aS'aws'
+aS'databases'
 p11
-aS'data scientist'
+aS'aws'
 p12
 aS'hadoop'
 p13
@@ -43,39 +43,35 @@ p22
 asS'working-year'
 p23
 (lp24
-V[0]
+S'[0]'
 p25
 asS'major'
 p26
 (lp27
-S'business analysis'
+VData Science
 p28
-aS'business'
+aVEngineering
 p29
-aS'data analyst'
+aVBusiness
 p30
-aS'analytics'
-p31
-aS'engineering'
-p32
-aS'big data'
-p33
 asS'education'
+p31
+(lp32
+VBachelor
+p33
+asS'responsibility'
 p34
 (lp35
-S'Bachelor'
+S'development'
 p36
-asS'responsibility'
-p37
-(lp38
-S'report'
-p39
-aS'analytic'
-p40
-aS'development'
-p41
 aS'analysis'
-p42
+p37
+aS'analytic'
+p38
+aS'design'
+p39
+aS'report'
+p40
 aS'modeling'
-p43
+p41
 as.

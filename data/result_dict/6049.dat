@@ -2,79 +2,86 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'scikit-learn'
 p4
-aS'open source'
-p5
-aS'programming'
-p6
-aS'data visualization'
-p7
-aS'optimization'
-p8
-aS'data scientist'
-p9
 aS'data science'
-p10
-aS'network science'
-p11
-aS'scikit-learn'
-p12
-aS'ggplot'
-p13
+p5
+aS'testing'
+p6
 aS'causal inference'
-p14
-aS'd3'
-p15
-aS'crowdsourcing'
-p16
+p7
 aS'engineering'
+p8
+aS'network science'
+p9
+aS'd3'
+p10
+aS'visualization'
+p11
+aS'open source'
+p12
+aS'crowdsourcing'
+p13
+aS'optimization'
+p14
+aS'pandas'
+p15
+aS'python'
+p16
+aS'data scientist'
 p17
-aS'r'
-aS'leadership'
+aS'ggplot'
 p18
-aS'science'
+aS'leadership'
 p19
-aS'machine learning'
+aS'spark'
 p20
 aS'data'
 p21
-aVpanda
+aS'a'
+aS'b testing'
 p22
-asS'working-year'
+aS'data visualization'
 p23
-(lp24
-V[0]
-p25
-asS'major'
-p26
-(lp27
-S'business'
-p28
 aS'science'
-p29
-aS'data science'
-p30
-aS'phd'
-p31
-aS'engineering'
-p32
-aS'design'
-p33
+p24
+aS'programming'
+p25
 aS'machine learning'
+p26
+aS'r'
+aS'algorithms'
+p27
+asS'working-year'
+p28
+(lp29
+S'[0]'
+p30
+asS'major'
+p31
+(lp32
+VData Science
+p33
+aVEngineering
 p34
-asS'education'
+aVComputer Science
 p35
-(lp36
-VDoctor
+aVBusiness
+p36
+asS'education'
 p37
-asS'responsibility'
-p38
-(lp39
-S'understand'
+(lp38
+VMaster
+p39
+aVDoctor
 p40
-aS'optimization'
+asS'responsibility'
 p41
+(lp42
+S'understand'
+p43
+aS'optimization'
+p44
 aS'design'
-p42
+p45
 as.

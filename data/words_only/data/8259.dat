@@ -2,133 +2,115 @@
 S'skills'
 p2
 (dp3
-S'data architecture'
+S'consulting'
 p4
-I1
-sS'consulting'
-p5
-I1
-sS'java'
-p6
-I1
-sS'big data'
-p7
-I1
-sS'scala'
-p8
-I1
-sS'python'
-p9
-I1
-sS'root'
-p10
-I1
-sS'sql'
-p11
-I1
-sS'hadoop'
-p12
-I1
-sS'analysis'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'big data analytics'
-p15
-I1
+F0.01269390277871388
 sS'sentiment analysis'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'data mining'
-p18
-I1
+p5
+F0.023610411392202706
 sS'hive'
-p19
-I1
-sS'spark'
-p20
-I1
-sS'architecture'
-p21
-I1
+p6
+F0.011717720502752845
+sS'data mining'
+p7
+F0.011921232183607513
+sS'java'
+p8
+F0.0069621739756645139
+sS'big data'
+p9
+F0.0071501411593408283
+sS'scala'
+p10
+F0.013711047121902454
+sS'hadoop'
+p11
+F0.0072180140528065439
+sS'big data analytics'
+p12
+F0.018619489352519551
 sS'etl'
+p13
+F0.016009913898961701
+sS'computer science'
+p14
+F0.0078987823774562954
+sS'python'
+p15
+F0.0058567585702614154
+sS'data scientist'
+p16
+F0.0059515262087858328
+sS'sql'
+p17
+F0.0038311452743429609
+sS'spark'
+p18
+F0.018945344082198411
+sS'analytics'
+p19
+F0.0048861655167613859
+sS'science'
+p20
+F0.0039496285853600696
+sS'analysis'
+p21
+F0.0057744728385527517
+sS'machine learning'
 p22
-I1
-sS'data analytics'
+F0.0036826838305283106
+sS'data architecture'
 p23
-I1
+F0.022794795251771364
 sS'dashboard'
 p24
-I1
-ssS'working-year'
+F0.019698881848986209
+sS'root'
 p25
-(dp26
-V(5, 10]
+F0.022003032760939123
+sS'data analytics'
+p26
+F0.011473722929695489
+ssS'working-year'
 p27
-I1
-sV(2, 5]
-p28
-I1
-ssS'major'
+(dp28
+sS'major'
 p29
 (dp30
-S'information'
+VData Science
 p31
-I1
-sS'big data'
+F0.0057712864191295649
+sVComputer Science
 p32
-I1
-sS'machine learning'
-p33
-I1
-sS'big data analytics'
-p34
-I1
-sS'computer science'
-p35
-I1
-sS'data mining'
-p36
-I1
-sS'ee computer science'
-p37
-I1
-sS'data analytics'
-p38
-I1
-sS'data mining machine learning'
-p39
-I1
+F0.005086268237933695
 ssS'education'
-p40
-(dp41
+p33
+(dp34
 VBachelor
-p42
-I1
+p35
+F0.0051201057734264425
 ssS'responsibility'
-p43
-(dp44
+p36
+(dp37
 S'information'
-p45
-I1
+p38
+F0.015585451680105557
 sS'exploratory analysis'
-p46
-I1
+p39
+F0.030144908738331044
+sS'data infrastructure'
+p40
+F0.024320592003706867
 sS'analysis'
-p47
-I1
+p41
+F0.0057744728385527517
 sS'data mining'
-p48
-I1
+p42
+F0.011921232183607513
 sS'report'
-p49
-I1
+p43
+F0.011658856293103533
 sS'model'
-p50
-I1
+p44
+F0.0086933193365260723
 ss.

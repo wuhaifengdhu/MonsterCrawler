@@ -2,195 +2,180 @@
 S'skills'
 p2
 (dp3
-S'human resources'
+S'intelligence'
 p4
-I1
-sS'analytics'
+F0.010129410386366316
+sS'human resources'
 p5
-I1
-sS'business intelligence'
+F0.016001067690924221
+sS'analytics'
 p6
-I1
-sS'data modeling'
+F0.0056112094321517847
+sS'business intelligence'
 p7
-I1
-sS'research'
+F0.0065904622863691004
+sS'data modeling'
 p8
-I1
-sS'quantitative analysis'
+F0.0084264572413492618
+sS'research'
 p9
-I1
-sS'visualization'
+F0.0027521301343927042
+sS'quantitative analysis'
 p10
-I1
-sS'management'
+F0.024606466722712456
+sS'visualization'
 p11
-I1
-sS'strategy'
+F0.018138341341296479
+sS'statistics'
 p12
-I1
-sS'computer science'
+F0.0030081059832342085
+sS'strategy'
 p13
-I1
-sS'natural language processing'
+F0.0050806820362155961
+sS'computer science'
 p14
-I1
-sS'advanced analytics'
+F0.0045354298812490985
+sS'natural language processing'
 p15
-I1
-sS'artificial intelligence'
+F0.0080837359095493645
+sS'advanced analytics'
 p16
-I1
-sS'text mining'
+F0.0094929372720583341
+sS'artificial intelligence'
 p17
-I1
-sS'data analysis'
+F0.0089277953550798879
+sS'text mining'
 p18
-I1
-sS'distributed computing'
+F0.010601241707905176
+sS'data analysis'
 p19
-I1
-sS'theory'
+F0.0047863290805344036
+sS'distributed computing'
 p20
-I1
-sS'python'
+F0.011539988588578427
+sS'theory'
 p21
-I1
-sS'processing'
+F0.0094531491950752763
+sS'python'
 p22
-I1
-sS'data scientist'
+F0.001681456492752471
+sS'processing'
 p23
-I1
-sS'machine learning'
+F0.0052680260860345808
+sS'data scientist'
 p24
-I1
-sS'sql'
+F0.0034173279521415426
+sS'management'
 p25
-I1
-sS'modeling'
+F0.0087682148438676024
+sS'sql'
 p26
-I1
-sS'data'
+F0.002199818899461442
+sS'modeling'
 p27
-I1
-sS'project management'
+F0.0026198248032953306
+sS'data'
 p28
-I1
-sS'data visualization'
+F0.0015303417790254569
+sS'project management'
 p29
-I1
-sS'data cleaning'
+F0.0061337203978211168
+sS'data visualization'
 p30
-I1
-sS'spss'
+F0.0063443020179987123
+sS'data cleaning'
 p31
-I1
-sS'r'
-I1
-sS'financial services'
+F0.016001067690924221
+sS'science'
 p32
-I1
-ssS'working-year'
+F0.0022678512522390079
+sS'machine learning'
 p33
-(dp34
-V(5, 10]
+F0.0021145732962388366
+sS'spss'
+p34
+F0.0071172542930889203
+sS'r'
+F0.0017902977632707779
+sS'financial services'
 p35
-I1
-ssS'major'
+F0.013638615038387841
+ssS'working-year'
 p36
 (dp37
-S'management'
+V(5, 10]
 p38
-I1
-sS'business'
+F0.0038891750373447058
+ssS'major'
 p39
-I1
-sS'analytics'
-p40
-I1
-sS'computing'
+(dp40
+VData Science
 p41
-I1
-sVapplied statistic
+F0.0033138354277582665
+sVStatistics
 p42
-I1
-sS'machine learning'
+F0.0058113057093163879
+sVComputer Science
 p43
-I1
-sS'statistics computer science'
+F0.0029205024075877346
+sVBusiness
 p44
-I1
-sS'project management'
+F0.0034894011199164974
+sVManagement Science and Engineering
 p45
-I1
-sS'natural language processing'
-p46
-I1
-sS'machine learning artificial intelligence'
-p47
-I1
-sS'statistic'
-p48
-I1
-sS'advanced analytics'
-p49
-I1
-sS'artificial intelligence'
-p50
-I1
-sS'computer science'
-p51
-I1
+F0.0041598210918351369
 ssS'education'
-p52
-(dp53
+p46
+(dp47
 VMaster
-p54
-I1
+p48
+F0.0023460667265296029
+sVDoctor
+p49
+F0.0035134895863757035
 ssS'responsibility'
-p55
-(dp56
+p50
+(dp51
 S'development'
+p52
+F0.011718977442717278
+sS'processing'
+p53
+F0.0052680260860345808
+sS'business problem'
+p54
+F0.0091875824584859503
+sS'insight'
+p55
+F0.017757032477511148
+sS'analytic'
+p56
+F0.0072829870074182027
+sS'interface'
 p57
-I1
+F0.010185668382419608
 sS'data analysis'
 p58
-I1
-sS'processing'
-p59
-I1
-sS'business problem'
-p60
-I1
-sVinsight
-p61
-I1
-sS'analytic'
-p62
-I1
-sS'report'
-p63
-I1
+F0.0047863290805344036
 sS'solve problem'
-p64
-I1
+p59
+F0.013267878939457037
 sS'recommendation'
-p65
-I1
-sS'interface'
-p66
-I1
+p60
+F0.025279371724047789
+sS'report'
+p61
+F0.0066944400650723514
 sS'modeling'
-p67
-I1
+p62
+F0.0026198248032953306
 sS'model'
-p68
-I1
+p63
+F0.0049916478771020673
 sS'quantitative analysis'
-p69
-I1
+p64
+F0.024606466722712456
 sS'decision-making'
-p70
-I1
+p65
+F0.011845275631564912
 ss.

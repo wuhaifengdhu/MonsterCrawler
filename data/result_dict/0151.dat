@@ -52,55 +52,41 @@ p26
 asS'working-year'
 p27
 (lp28
-V[0]
+S'[0]'
 p29
 asS'major'
 p30
 (lp31
-S'business'
+VData Science
 p32
-aS'science'
+aVEconomics
 p33
-aS'data science'
+aVSociology
 p34
-aS'economics'
+aVComputer Science
 p35
-aS'communication'
+aVBusiness
 p36
-aS'machine learning'
-p37
-aS'analytics'
-p38
-aS'political science'
-p39
-aS'statistic'
-p40
-aS'law'
-p41
-aVphysic
-p42
-aS'predictive analytics'
-p43
 asS'education'
-p44
-(lp45
+p37
+(lp38
 VBachelor
-p46
+p39
 asS'responsibility'
-p47
-(lp48
+p40
+(lp41
 S'development'
-p49
+p42
 aS'large data set'
-p50
+p43
 aS'pattern'
-p51
-aVinsight
-p52
+p44
+aS'insight'
+p45
 aS'communicate'
-p53
+p46
 aS'model'
-p54
+p47
 aS'presentation'
-p55
+p48
 as.

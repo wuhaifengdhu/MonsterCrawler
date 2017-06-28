@@ -32,7 +32,7 @@ aS'cassandra'
 p17
 aS'big data analytics'
 p18
-aS'management'
+aS'statistics'
 p19
 aS'open source'
 p20
@@ -62,149 +62,129 @@ aS'matlab'
 p32
 aS'factor analysis'
 p33
-aS'product development'
+aS'management'
 p34
-aS'python'
+aS'product development'
 p35
-aS'mongodb'
+aS'python'
 p36
-aS'processing'
+aS'mongodb'
 p37
-aS'data scientist'
-p38
-aS'automation'
-p39
-aS'java'
-p40
-aS'advanced analytics'
-p41
-aS'leadership'
-p42
-aS'statistical modeling'
-p43
-aS'sql'
-p44
-aS'modeling'
-p45
-aS'spark'
-p46
-aS'discrete event simulation'
-p47
-aS'data'
-p48
-aS'node.js'
-p49
-aS'genetic algorithms'
-p50
-aS'solver'
-p51
-aS'science'
-p52
-aS'documentation'
-p53
-aS'programming'
-p54
-aS'analysis'
-p55
-aS'machine learning'
-p56
-aS'data architecture'
-p57
-aS'cluster'
-p58
-aS'hidden markov models'
-p59
-aS'r'
-aS'architecture'
-p60
-aS'healthcare'
-p61
-aS'organization'
-p62
-aS'retail'
-p63
-aS'scripting'
-p64
-aS'ec2'
-p65
-asS'working-year'
-p66
-(lp67
-V(5, 10]
-p68
-asS'major'
-p69
-(lp70
-S'management'
-p71
-aS'big data'
-p72
-aS'statistics computer science'
-p73
-aS'science'
-p74
-aS'computing'
-p75
-aS'automation'
-p76
-aS'big data analytics'
-p77
-aS'analytics'
-p78
-aS'engineering'
-p79
-aS'machine learning'
-p80
-aS'design'
-p81
-aS'artificial intelligence'
-p82
-aS'machine learning artificial intelligence'
-p83
-aS'statistic'
-p84
-aS'advanced analytics'
-p85
-aS'computer science engineering'
-p86
-aS'law'
-p87
-aS'data analytics'
-p88
-aS'computer science'
-p89
-asS'education'
-p90
-(lp91
-S'Bachelor'
-p92
-asS'responsibility'
-p93
-(lp94
-S'development'
-p95
-aS'product'
-p96
 aS'processing'
-p97
-aVinsight
-p98
-aS'communicate'
-p99
-aS'analysis'
-p100
-aS'simulation'
-p101
-aS'design'
-p102
-aS'interface'
-p103
+p38
+aS'data scientist'
+p39
+aS'automation'
+p40
+aS'java'
+p41
+aS'advanced analytics'
+p42
+aS'leadership'
+p43
+aS'statistical modeling'
+p44
+aS'sql'
+p45
 aS'modeling'
-p104
-aS'model'
-p105
-aS'statistical model'
-p106
+p46
+aS'spark'
+p47
+aS'discrete event simulation'
+p48
+aS'data'
+p49
+aS'node.js'
+p50
+aS'genetic algorithms'
+p51
+aS'solver'
+p52
+aS'science'
+p53
 aS'documentation'
-p107
+p54
+aS'programming'
+p55
+aS'analysis'
+p56
+aS'machine learning'
+p57
+aS'data architecture'
+p58
+aS'cluster'
+p59
+aS'hidden markov models'
+p60
+aS'r'
+aS'algorithms'
+p61
+aS'architecture'
+p62
+aS'healthcare'
+p63
+aS'organization'
+p64
+aS'retail'
+p65
+aS'scripting'
+p66
+aS'ec2'
+p67
+asS'working-year'
+p68
+(lp69
+V(5, 10]
+p70
+asS'major'
+p71
+(lp72
+VStatistics
+p73
+aVBusiness
+p74
+aVData Science
+p75
+aVEngineering
+p76
+aVComputer Science
+p77
+aVManagement Science and Engineering
+p78
+asS'education'
+p79
+(lp80
+VMaster
+p81
+aVDoctor
+p82
+asS'responsibility'
+p83
+(lp84
+S'development'
+p85
+aS'product'
+p86
+aS'processing'
+p87
+aS'insight'
+p88
+aS'communicate'
+p89
+aS'analysis'
+p90
+aS'simulation'
+p91
+aS'design'
+p92
+aS'interface'
+p93
+aS'modeling'
+p94
+aS'model'
+p95
+aS'statistical model'
+p96
+aS'documentation'
+p97
 as.

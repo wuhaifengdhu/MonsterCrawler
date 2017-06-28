@@ -2,168 +2,146 @@
 S'skills'
 p2
 (lp3
-S'scientific programming'
+S'integration'
 p4
-aS'aws'
+aS'scientific programming'
 p5
-aS'nosql'
+aS'aws'
 p6
-aS'communication'
+aS'nosql'
 p7
-aS'data science'
+aS'communication'
 p8
-aS'integration'
+aS'data science'
 p9
-aS'analytics'
+aS'testing'
 p10
-aS'analysis'
-p11
-aS'go'
-p12
-aS'strategy'
-p13
-aS'amazon web services'
-p14
-aS'genomics'
-p15
-aS'git'
-p16
-aS'open source'
-p17
-aS'scala'
-p18
 aS'hadoop'
+p11
+aS'analytics'
+p12
+aS'analysis'
+p13
+aS'go'
+p14
+aS'strategy'
+p15
+aS'amazon web services'
+p16
+aS'genomics'
+p17
+aS'git'
+p18
+aS'open source'
 p19
-aS'research'
+aS'scala'
 p20
-aS'web services'
-p21
-aS'mongodb'
-p22
-aS'biology'
-p23
-aS'data analysis'
-p24
-aS'computational biology'
-p25
 aS'apis'
+p21
+aS'microbiology'
+p22
+aS'research'
+p23
+aS'web services'
+p24
+aS'mongodb'
+p25
+aS'biology'
 p26
-aS'python'
+aS'data analysis'
 p27
-aS'spotfire'
+aS'computational biology'
 p28
-aS'collaboration'
+aS'visualization'
 p29
-aS'data scientist'
+aS'python'
 p30
-aS'automation'
+aS'spotfire'
 p31
-aS'bioinformatics'
+aS'collaboration'
 p32
-aS'java'
+aS'data scientist'
 p33
-aS'editing'
+aS'automation'
 p34
-aS'data'
+aS'bioinformatics'
 p35
-aS'software development'
+aS'java'
 p36
+aS'editing'
+p37
+aS'data'
+p38
+aS'software development'
+p39
 aS'c'
 aS'github'
-p37
-aS'data visualization'
-p38
-aS'bioconductor'
-p39
-aS'science'
 p40
-aS'documentation'
+aS'data visualization'
 p41
-aS'programming'
+aS'bioconductor'
 p42
-aS'high performance computing'
+aS'science'
 p43
-aS'machine learning'
+aS'documentation'
 p44
-aS'sequence analysis'
+aS'programming'
 p45
+aS'high performance computing'
+p46
+aS'machine learning'
+p47
+aS'sequence analysis'
+p48
 aS'r'
 aS'data analytics'
-p46
-aS'biotechnology'
-p47
-aS'clojure'
-p48
-aS'shiny'
 p49
-aS'data integration'
+aS'biotechnology'
 p50
-aS'predictive analytics'
+aS'clojure'
 p51
-asS'working-year'
+aS'shiny'
 p52
-(lp53
-V(2, 5]
+aS'data integration'
+p53
+aS'predictive analytics'
 p54
-asS'major'
+asS'working-year'
 p55
 (lp56
-S'biology'
+V(2, 5]
 p57
-aS'computational biology'
+asS'major'
 p58
-aS'computing'
-p59
-aS'science'
+(lp59
+VBiological Engineering
 p60
-aS'data science'
+aVData Science
 p61
-aS'statistic'
+aVComputer Science
 p62
-aS'communication'
-p63
-aS'high performance computing'
-p64
-aS'machine learning'
-p65
-aS'analytics'
-p66
-aS'bioinformatics'
-p67
-aS'biotechnology'
-p68
-aS'computational biolog'
-p69
-aS'automation'
-p70
-aS'development practice'
-p71
-aS'data analytics'
-p72
-aS'predictive analytics'
-p73
 asS'education'
-p74
-(lp75
+p63
+(lp64
 VMaster
-p76
+p65
 aVDoctor
-p77
+p66
 asS'responsibility'
-p78
-(lp79
+p67
+(lp68
 S'development'
-p80
+p69
 aS'data analysis'
-p81
+p70
 aS'documentation'
-p82
+p71
 aS'analysis'
-p83
+p72
 aS'understand'
-p84
+p73
 aS'report'
-p85
+p74
 aS'implement'
-p86
+p75
 as.

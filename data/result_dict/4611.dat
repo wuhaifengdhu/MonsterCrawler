@@ -4,23 +4,23 @@ p2
 (lp3
 S'soa'
 p4
-aS'reporting analysis'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'testing'
-p8
+p7
 aS'hardware'
-p9
+p8
 aS'analytics'
-p10
+p9
 aS'business intelligence'
-p11
+p10
 aS'haskell'
-p12
+p11
 aS'data warehousing'
+p12
+aS'validation'
 p13
 aS'cassandra'
 p14
@@ -54,120 +54,107 @@ aS'quality assurance'
 p28
 aS'flume'
 p29
-aS'data modeling'
+aS'groovy'
 p30
-aS'python'
+aS'data modeling'
 p31
-aS'data scientist'
+aS'python'
 p32
-aS'apache spark'
+aS'ios'
 p33
-aS'data quality'
+aS'data scientist'
 p34
-aS'data collection'
+aS'apache spark'
 p35
-aS'embedded c'
+aS'data quality'
 p36
-aS'apache'
-p37
-aS'modeling'
-p38
-aS'spark'
-p39
-aS'data'
-p40
-aS'customer experience'
-p41
-aS'software development'
-p42
-aS'software quality assurance'
-p43
-aS'cloudera'
-p44
-aS'software engineering'
-p45
-aS'science'
-p46
-aS'engineering'
-p47
-aS'analysis'
-p48
-aS'machine learning'
-p49
-aS'optimization'
-p50
-aS'architecture'
-p51
-aS'organization'
-p52
-aS'docker'
-p53
-aS'validation'
-p54
-asS'working-year'
-p55
-(lp56
-V[0]
-p57
-asS'major'
-p58
-(lp59
-S'management'
-p60
-aS'business'
-p61
-aS'big data'
-p62
-aS'science'
-p63
-aS'data science'
-p64
-aS'data analyst'
-p65
-aS'machine learning'
-p66
-aS'analytics'
-p67
-aS'engineering'
-p68
-aS'computer science'
-p69
-aS'communication'
-p70
-aS'analytics data science'
-p71
-aS'software engineering'
-p72
-asS'education'
-p73
-(lp74
-S'Bachelor'
-p75
-asS'responsibility'
-p76
-(lp77
-S'development'
-p78
-aS'product'
-p79
 aS'data collection'
-p80
-aVinsight
-p81
-aS'analysis'
-p82
-aS'transformation'
-p83
-aS'optimization'
-p84
-aS'ownership'
-p85
-aS'identify opportunity'
-p86
+p37
+aS'a'
+aS'apache'
+p38
 aS'modeling'
-p87
+p39
+aS'spark'
+p40
+aS'data'
+p41
+aS'customer experience'
+p42
+aS'software development'
+p43
+aS'software quality assurance'
+p44
+aS'cloudera'
+p45
+aS'software engineering'
+p46
+aS'science'
+p47
+aS'engineering'
+p48
+aS'analysis'
+p49
+aS'machine learning'
+p50
+aS'optimization'
+p51
+aS'architecture'
+p52
+aS'organization'
+p53
+aS'docker'
+p54
+aS'clojure'
+p55
+asS'working-year'
+p56
+(lp57
+S'[0]'
+p58
+asS'major'
+p59
+(lp60
+VData Science
+p61
+aVEngineering
+p62
+aVComputer Science
+p63
+aVBusiness
+p64
+aVManagement Science and Engineering
+p65
+asS'education'
+p66
+(lp67
+VBachelor
+p68
+asS'responsibility'
+p69
+(lp70
+S'development'
+p71
+aS'product'
+p72
+aS'data collection'
+p73
+aS'insight'
+p74
+aS'analysis'
+p75
+aS'transformation'
+p76
+aS'optimization'
+p77
+aS'ownership'
+p78
+aS'identify opportunity'
+p79
+aS'modeling'
+p80
 aS'improvement'
-p88
+p81
 aS'data gathering'
-p89
+p82
 as.

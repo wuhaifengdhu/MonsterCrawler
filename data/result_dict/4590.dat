@@ -4,55 +4,57 @@ p2
 (lp3
 S'software development'
 p4
+aS'a'
 aS'numerical analysis'
 p5
-aS'algebra'
+aS'processing'
 p6
-aS'user experience'
+aS'algebra'
 p7
-aS'search'
+aS'user experience'
 p8
-aS'data science'
+aS'search'
 p9
-aS'documentation'
+aS'data science'
 p10
-aS'simulink'
+aS'documentation'
 p11
-aS'c++'
+aS'simulink'
 p12
-aS'writing'
-p13
-aS'engineering'
-p14
-aS'matlab'
-p15
-aS'innovation'
-p16
-aS'mathematics'
-p17
 aS'analysis'
+p13
+aS'writing'
+p14
+aS'engineering'
+p15
+aS'matlab'
+p16
+aS'c'
+aS'science'
+p17
+aS'mathematics'
 p18
 aS'data'
 p19
 aS'linear algebra'
 p20
-asS'working-year'
+aS'innovation'
 p21
-(lp22
-V[0]
-p23
-asS'major'
+asS'working-year'
+p22
+(lp23
+S'[0]'
 p24
-(lp25
-S'mathematics'
-p26
-aS'data science'
+asS'major'
+p25
+(lp26
+VMathematics
 p27
-aS'computing'
+aVData Science
 p28
-aS'engineering'
+aVEngineering
 p29
-aS'phd'
+aVComputer Science
 p30
 asS'education'
 p31
@@ -70,8 +72,10 @@ aS'product'
 p38
 aS'documentation'
 p39
-aS'communicate'
+aS'processing'
 p40
-aS'analysis'
+aS'communicate'
 p41
+aS'analysis'
+p42
 as.

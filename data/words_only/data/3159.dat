@@ -4,232 +4,223 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.0050123572749236215
 sS'economics'
 p5
-I1
+F0.0040965672211272846
 sS'model validation'
 p6
-I1
+F0.0091722970178169678
 sS'communication'
 p7
-I1
+F0.0027062724087365069
 sS'testing'
 p8
-I1
-sS'actuarial science'
-p9
-I1
+F0.013999165913846243
 sS'analytics'
-p10
-I1
+p9
+F0.0014867307042453447
 sS'quality control'
-p11
-I1
+p10
+F0.0082254907705380052
 sS'statistical analysis'
+p11
+F0.0044011968434403553
+sS'sas'
 p12
-I1
-sS'mathematical modeling'
-p13
-I1
+F0.002367926250730627
 sS'machine learning'
+p13
+F0.0011205431142462211
+sS'theory'
 p14
-I1
+F0.0050093611119202313
 sS'quantitative finance'
 p15
-I1
-sS'credit'
+F0.0071947397390626586
+sS'big data'
 p16
-I1
-sS'governance'
+F0.0021755985066028503
+sS'credit'
 p17
-I1
-sS'risk management'
+F0.0054316834602352931
+sS'mathematical modeling'
 p18
-I1
-sS'fraud detection'
+F0.0040687174022952868
+sS'governance'
 p19
-I1
-sS'matlab'
+F0.006161565847685126
+sS'risk management'
 p20
-I1
-sS'basel ii'
+F0.0054012945743388656
+sS'fraud detection'
 p21
-I1
-sS'policy'
+F0.0080751180779756286
+sS'matlab'
 p22
-I1
-sS'mathematics'
+F0.0021818823720308801
+sS'basel ii'
 p23
-I1
-sS'theory'
+F0.011120042496507609
+sS'policy'
 p24
-I1
-sS'processing'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'data quality'
-p27
-I1
-sS'financial risk'
-p28
-I1
-sS'management'
-p29
-I1
-sS'statistical modeling'
-p30
-I1
-sS'sql'
-p31
-I1
-sS'modeling'
-p32
-I1
-sS'credit risk'
-p33
-I1
-sS'data'
-p34
-I1
-sS'fraud'
-p35
-I1
-sS'documentation'
-p36
-I1
-sS'excel vba'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'spss'
-p39
-I1
-sS'banking'
-p40
-I1
-sS'r'
-I1
-sS'financial engineering'
-p41
-I1
-sS'validation'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(2, 5]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'management'
-p48
-I1
-sS'business'
-p49
-I1
-sS'economics math'
-p50
-I1
-sS'mathematics statistics'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'economics'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'actuarial science'
-p55
-I1
-sS'machine learning'
-p56
-I1
-sS'analytics'
-p57
-I1
-sS'quantitative finance'
-p58
-I1
-sS'design'
-p59
-I1
-sS'financial engineering'
-p60
-I1
-sS'economics mathematics'
-p61
-I1
+F0.0046660824410952985
 sS'mathematics'
-p62
-I1
-ssS'education'
-p63
-(dp64
-VMaster
-p65
-I1
-sVDoctor
-p66
-I1
-ssS'responsibility'
-p67
-(dp68
-S'development'
-p69
-I1
-sS'financial model'
-p70
-I1
-sS'forecasting'
-p71
-I1
+p25
+F0.0031246039009842834
+sS'finance'
+p26
+F0.0045387112037328006
 sS'processing'
-p72
-I1
-sS'documentation'
-p73
-I1
-sS'communicate'
-p74
-I1
-sS'analysis'
-p75
-I1
-sS'statistical model'
-p76
-I1
-sS'design'
-p77
-I1
-sS'recommendation'
-p78
-I1
-sS'report'
-p79
-I1
-sS'understand'
-p80
-I1
+p27
+F0.0027916035669584959
+sS'data scientist'
+p28
+F0.0018108917353228688
+sS'data quality'
+p29
+F0.0060424582276687585
+sS'financial risk'
+p30
+F0.0081866393788657624
+sS'statistics'
+p31
+F0.0015940390680386403
+sS'statistical modeling'
+p32
+F0.0030621632823767458
+sS'sql'
+p33
+F0.0011657159980052087
 sS'modeling'
-p81
-I1
+p34
+F0.0013882832290966708
+sS'credit risk'
+p35
+F0.0076615946187279021
+sS'data'
+p36
+F0.00020273758611021012
+sS'training'
+p37
+F0.0040227260701236394
+sS'fraud'
+p38
+F0.0066869334625782708
+sS'organization'
+p39
+F0.0030139894688575746
+sS'documentation'
+p40
+F0.0099126186630565157
+sS'excel vba'
+p41
+F0.0099894491971619578
+sS'analysis'
+p42
+F0.0017570190859186152
+sS'spss'
+p43
+F0.0037715364630043851
+sS'banking'
+p44
+F0.011741196302763608
+sS'r'
+F0.00094870479763066863
+sS'financial engineering'
+p45
+F0.0093908146428765445
+sS'management'
+p46
+F0.0077440074119628395
+sS'validation'
+p47
+F0.032430382616154836
+ssS'working-year'
+p48
+(dp49
+V(2, 5]
+p50
+F0.0021178537238139067
+ssS'major'
+p51
+(dp52
+VStatistics
+p53
+F0.0030794953331420172
+sVBusiness
+p54
+F0.001849084354143785
+sVData Science
+p55
+F0.0017560495429146371
+sVEconomics
+p56
+F0.0028047376880760014
+sVComputer Science
+p57
+F0.0015476166604311073
+sVMathematics
+p58
+F0.0029303803924486359
+sVManagement Science and Engineering
+p59
+F0.002204349638408363
+ssS'education'
+p60
+(dp61
+VMaster
+p62
+F0.0012432148465370545
+sVDoctor
+p63
+F0.0018618491825238769
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+F0.0062100564226365059
+sS'financial model'
+p67
+F0.0095970155324720113
+sS'forecasting'
+p68
+F0.0050123572749236215
+sS'processing'
+p69
+F0.0027916035669584959
+sS'documentation'
+p70
+F0.0099126186630565157
+sS'communicate'
+p71
+F0.0034294750124471661
+sS'analysis'
+p72
+F0.0017570190859186152
+sS'drive ... decision'
+p73
+F0.0068992867328702802
+sS'design'
+p74
+F0.0099857696411519842
+sS'recommendation'
+p75
+F0.0089306042557889612
+sS'report'
+p76
+F0.0070949621202476207
+sS'understand'
+p77
+F0.0071852301314334196
+sS'modeling'
+p78
+F0.0013882832290966708
 sS'presentation'
-p82
-I1
+p79
+F0.0042108621236061653
 sS'model'
-p83
-I1
+p80
+F0.10580586953173614
 ss.

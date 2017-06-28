@@ -2,64 +2,71 @@
 S'skills'
 p2
 (lp3
-S'b testing'
+S'a'
+aS'b testing'
 p4
-aS'product development'
+aS'ios'
 p5
-aS'solver'
+aS'product development'
 p6
-aS'communication'
+aS'solver'
 p7
-aS'testing'
+aS'pig'
 p8
-aS'data scientist'
-p9
-aS'writing'
-p10
-aS'analytics'
-p11
-aS'management'
-p12
-aS'product launch'
-p13
-aS'product management'
-p14
-aS'android'
-p15
-aS'strategy'
-p16
-aS'data'
-p17
-asS'working-year'
-p18
-(lp19
-V(5, 10]
-p20
-asS'major'
-p21
-(lp22
-S'analytics'
-p23
-aS'management'
-p24
-aS'design'
-p25
-aS'business'
-p26
 aS'communication'
+p9
+aS'testing'
+p10
+aS'data scientist'
+p11
+aS'hive'
+p12
+aS'writing'
+p13
+aS'analytics'
+p14
+aS'management'
+p15
+aS'product launch'
+p16
+aS'sql'
+p17
+aS'product management'
+p18
+aS'android'
+p19
+aS'strategy'
+p20
+aS'data'
+p21
+asS'working-year'
+p22
+(lp23
+V(5, 10]
+p24
+asS'major'
+p25
+(lp26
+VData Science
 p27
-asS'education'
+aVBusiness
 p28
-(lp29
-S'Bachelor'
+aVManagement Science and Engineering
+p29
+asS'education'
 p30
+(lp31
+S'Bachelor'
+p32
 asS'responsibility'
-p31
-(lp32
-S'product launch'
 p33
-aS'product'
-p34
-aS'design'
+(lp34
+S'development'
 p35
+aS'product launch'
+p36
+aS'product'
+p37
+aS'design'
+p38
 as.

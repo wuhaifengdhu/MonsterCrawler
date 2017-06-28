@@ -12,7 +12,7 @@ aS'biology'
 p7
 aS'engineering'
 p8
-aS'analysis'
+aS'hive'
 p9
 aS'data mining'
 p10
@@ -52,32 +52,32 @@ aS'data scientist'
 p27
 aS'linux'
 p28
-aS'hive'
-p29
 aS'leadership'
-p30
+p29
 aS'bioinformatics'
-p31
+p30
 aS'modeling'
-p32
+p31
 aS'spark'
-p33
+p32
 aS'data'
-p34
+p33
 aS'software development'
-p35
+p34
 aS'c'
 aS'organization'
-p36
+p35
 aS'science'
-p37
+p36
 aS'economics'
-p38
+p37
 aS'programming'
+p38
+aS'analysis'
 p39
-aS'c++'
-p40
 aS'machine learning'
+p40
+aS'optimization'
 p41
 aS'electrical engineering'
 p42
@@ -95,88 +95,60 @@ p48
 asS'major'
 p49
 (lp50
-S'data science'
+VEconomics
 p51
-aS'statistic'
+aVBusiness
 p52
-aS'machine learning data mining'
+aVIndustrial Engineering
 p53
-aS'engineering'
+aVElectrical and Electronics Engineering
 p54
-aS'design'
+aVEngineering
 p55
-aS'data mining'
+aVComputer Science
 p56
-aS'computational biolog'
+aVBiological Engineering
 p57
-aS'computer science mathematics'
+aVMathematics
 p58
-aS'management'
+aVData Science
 p59
-aS'business'
+aVManagement Science and Engineering
 p60
-aS'big data'
-p61
-aS'industrial engineering'
-p62
-aS'electrical'
-p63
-aS'computer science'
-p64
-aS'mathematics'
-p65
-aS'biology'
-p66
-aS'computational biology'
-p67
-aS'bioinformatics'
-p68
-aVphysic
-p69
-aS'science'
-p70
-aS'economics'
-p71
-aS'machine learning'
-p72
-aS'economics computation'
-p73
-aS'electrical engineering'
-p74
 asS'education'
-p75
-(lp76
-S'Bachelor'
-p77
+p61
+(lp62
+VMaster
+p63
 asS'responsibility'
-p78
-(lp79
+p64
+(lp65
 S'development'
-p80
+p66
 aS'data analysis'
-p81
-aS'understand'
-p82
+p67
 aS'modeling'
-p83
+p68
 aS'communicate'
-p84
+p69
 aS'analysis'
-p85
+p70
 aS'analytic'
-p86
+p71
+aS'optimization'
+p72
 aS'design'
-p87
+p73
 aS'data mining'
-p88
-aS'complex data set'
-p89
+p74
+aS'understand'
+p75
 aS'implement'
-p90
+p76
 aS'prototype'
-p91
+p77
 aS'evaluation'
-p92
+p78
 aS'model'
-p93
+p79
 as.

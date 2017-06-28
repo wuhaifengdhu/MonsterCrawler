@@ -4,189 +4,176 @@ p2
 (dp3
 S'nlp'
 p4
-I1
-sS'r d'
-p5
-I1
+F0.0057429764524387214
 sS'communication'
-p6
-I1
+p5
+F0.0026474403998509306
 sS'energy'
-p7
-I1
+p6
+F0.0051596911472409435
 sS'healthcare analytics'
-p8
-I1
+p7
+F0.008753789544048764
 sS'analytics'
+p8
+F0.0043632314146330765
+sS'engineering'
 p9
-I1
+F0.0020482521355746734
 sS'problem solving'
 p10
-I1
-sS'education'
+F0.0041047021153064397
+sS'time management'
 p11
-I1
+F0.0072040338593386335
 sS'regression'
 p12
-I1
-sS'management'
+F0.003973524733581606
+sS'statistics'
 p13
-I1
+F0.0046781581344612268
 sS'java'
 p14
-I1
-sS'hadoop'
+F0.002072352788742949
+sS'education'
 p15
-I1
-sS'research'
+F0.007018818561248392
+sS'hadoop'
 p16
-I1
-sS'access'
-p17
-I1
-sS'computer science'
-p18
-I1
+F0.0021485058551832187
 sS'spring'
+p17
+F0.014161877788483154
+sS'research'
+p18
+F0.0071334476727570083
+sS'access'
 p19
-I1
-sS'algorithm development'
-p20
-I1
-sS'data science'
-p21
-I1
-sS'python'
-p22
-I1
-sS'time management'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'electrical engineering'
-p25
-I1
-sS'data'
-p26
-I1
-sS'c'
-I1
-sS'software engineering'
-p27
-I1
-sS'c++'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'r'
-I1
-sS'healthcare'
-p30
-I1
-sS'organization'
-p31
-I1
-sS'data analytics'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-sV(2, 5]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'management'
-p40
-I1
-sS'software engineering'
-p41
-I1
-sS'business'
-p42
-I1
-sS'communication'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'statistic'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'analytics'
-p47
-I1
-sS'information systems'
-p48
-I1
+F0.0077573980772456677
 sS'computer science'
-p49
-I1
-sS'machine learning statistics'
-p50
-I1
+p20
+F0.0023511425805806366
+sS'innovation'
+p21
+F0.0032371650035697718
+sS'algorithm development'
+p22
+F0.0070383323534308623
+sS'data science'
+p23
+F0.0020114396750177243
+sS'python'
+p24
+F0.00087165804808238452
+sS'leadership'
+p25
+F0.0027632251190699364
+sS'organization'
+p26
+F0.0029484679586650187
+sS'data'
+p27
+F0.0007933209891269091
+sS'a'
+F0.0031271603572140911
+sS'c'
+F0.0020913410098630388
+sS'software engineering'
+p28
+F0.004351275900859551
+sS'science'
+p29
+F0.0023512839070036536
+sS'machine learning'
+p30
+F0.001096183481327825
+sS'r'
+F0.00092808078029087149
+sS'healthcare'
+p31
+F0.00451043535670596
 sS'electrical engineering'
-p51
-I1
-sS'applied math'
-p52
-I1
+p32
+F0.0066298078317371502
 sS'data analytics'
-p53
-I1
-sS'information system'
-p54
-I1
-sS'history'
-p55
-I1
+p33
+F0.0034152553202103629
+ssS'working-year'
+p34
+(dp35
+V(5, 10]
+p36
+F0.0020161275277204996
+sV(2, 5]
+p37
+F0.0020718134254701262
+ssS'major'
+p38
+(dp39
+VStatistics
+p40
+F0.0030125497824215388
+sVBusiness
+p41
+F0.0018088868681841374
+sVData Science
+p42
+F0.0017178745528512753
+sVElectrical and Electronics Engineering
+p43
+F0.0052619207280518087
+sVEngineering
+p44
+F0.0020482521355746734
+sVInformation Science
+p45
+F0.0042352093454081832
+sVComputer Science
+p46
+F0.0015139728199869526
+sVMathematics
+p47
+F0.0028666764708736654
+sVManagement Science and Engineering
+p48
+F0.0021564289940951375
 ssS'education'
-p56
-(dp57
+p49
+(dp50
 VBachelor
-p58
-I1
+p51
+F0.0015240448623242587
 sVMaster
-p59
-I1
+p52
+F0.0012161884368297271
 sVDoctor
-p60
-I1
+p53
+F0.0018213742002950971
 ssS'responsibility'
-p61
-(dp62
+p54
+(dp55
 S'development'
-p63
-I1
+p56
+F0.014175128790800719
 sS'information'
-p64
-I1
+p57
+F0.0069587217367695379
 sS'product'
-p65
-I1
-sVinsight
-p66
-I1
+p58
+F0.0044983039823336011
+sS'insight'
+p59
+F0.0030683835384773999
+sS'develop ... model'
+p60
+F0.005183801048789528
 sS'understand'
-p67
-I1
+p61
+F0.0035145147382011294
 sS'model'
-p68
-I1
+p62
+F0.0077629306449915093
+sS'test ... model'
+p63
+F0.0077482122229863386
 ss.

@@ -4,35 +4,36 @@ p2
 (lp3
 S'data science'
 p4
-aS'data warehousing'
+aS'engineering'
 p5
-aS'data mining'
+aS'data warehousing'
 p6
-aS'image processing'
+aS'data mining'
 p7
-aS'management'
+aS'image processing'
 p8
-aS'data'
+aS'management'
 p9
-aS'recruiting'
+aS'data'
 p10
-aS'integration'
+aS'recruiting'
 p11
-aS'research'
+aS'integration'
 p12
-aS'computer science'
+aS'research'
 p13
-aS'natural language processing'
+aS'computer science'
 p14
-aS'medicine'
+aS'natural language processing'
 p15
-aS'clinical research'
+aS'medicine'
 p16
-aS'signal processing'
+aS'clinical research'
 p17
-aS'processing'
+aS'a'
+aS'signal processing'
 p18
-aS'health informatics'
+aS'processing'
 p19
 aS'leadership'
 p20
@@ -70,68 +71,40 @@ p36
 asS'major'
 p37
 (lp38
-S'data mining'
+VData Science
 p39
-aS'information'
+aVEngineering
 p40
-aS'management'
+aVInformation Science
 p41
-aS'imaging science'
+aVComputer Science
 p42
-aS'biomedical engineering'
+aVBiological Engineering
 p43
-aS'data science'
+aVManagement Science and Engineering
 p44
-aS'natural language processing'
-p45
-aS'computing'
-p46
-aS'machine learning'
-p47
-aS'medicine'
-p48
-aS'information system'
-p49
-aS'design'
-p50
-aS'computer science'
-p51
-aS'biomedical informatics'
-p52
-aS'bioinformatics'
-p53
-aS'informatics'
-p54
-aS'health informatics'
-p55
-aS'phd'
-p56
-aS'medical informatics'
-p57
-aS'science'
-p58
 asS'education'
-p59
-(lp60
+p45
+(lp46
 VDoctor
-p61
+p47
 asS'responsibility'
-p62
-(lp63
+p48
+(lp49
 S'development'
-p64
+p50
 aS'information'
-p65
+p51
 aS'provide leadership'
-p66
+p52
 aS'processing'
-p67
+p53
 aS'analysis'
-p68
+p54
 aS'design'
-p69
+p55
 aS'data mining'
-p70
+p56
 aS'interface'
-p71
+p57
 as.

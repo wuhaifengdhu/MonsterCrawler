@@ -4,145 +4,136 @@ p2
 (dp3
 S'data science'
 p4
-I1
+F0.0048895972587829238
 sS'engineering'
 p5
-I1
+F0.0099581689192980057
 sS'defense'
 p6
-I1
-sS'image processing'
+F0.014356252658244872
+sS'sas'
 p7
-I1
-sS'research'
+F0.0056310441328350277
+sS'image processing'
 p8
-I1
-sS'geospatial intelligence'
+F0.013483101688096067
+sS'research'
 p9
-I1
-sS'mathematics'
+F0.0069362629403393362
+sS'geospatial intelligence'
 p10
-I1
-sS'energy'
+F0.024470398290356001
+sS'mathematics'
 p11
-I1
-sS'javascript'
+F0.014860920992486228
+sS'energy'
 p12
-I1
-sS'government'
+F0.012542663845732051
+sS'javascript'
 p13
-I1
-sS'python'
+F0.0090140024960241628
+sS'government'
 p14
-I1
-sS'processing'
+F0.02119609362299972
+sS'python'
 p15
-I1
-sS'data'
+F0.0021189085884279106
+sS'processing'
 p16
-I1
-sS'remote sensing'
+F0.0066385694580110574
+sS'data'
 p17
-I1
-sS'programming'
+F0.0028927192164505591
+sS'remote sensing'
 p18
-I1
-sS'analysis'
+F0.019901597278140778
+sS'science'
 p19
-I1
-sS'spss'
+F0.0057157226682446544
+sS'programming'
 p20
-I1
-sS'arcgis'
+F0.0044809562391661629
+sS'analysis'
 p21
-I1
-sS'r'
-I1
-sS'data analytics'
+F0.0013927590315208536
+sS'spss'
 p22
-I1
-sS'organization'
+F0.0089688976864128675
+sS'arcgis'
 p23
-I1
+F0.016813676889255766
+sS'r'
+F0.0022560662870485418
 sS'scripting'
 p24
-I1
-ssS'working-year'
+F0.00989058690018969
+sS'organization'
 p25
-(dp26
-V(5, 10]
-p27
-I1
-sV(0, 2]
-p28
-I1
-ssS'major'
-p29
-(dp30
-S'engineering science'
-p31
-I1
-sS'information'
-p32
-I1
-sS'information systems'
-p33
-I1
-sS'data science'
-p34
-I1
-sS'general'
-p35
-I1
-sS'engineering'
-p36
-I1
-sS'information system'
-p37
-I1
+F0.007167413980819843
 sS'data analytics'
-p38
-I1
-sS'statistic'
-p39
-I1
-sS'mathematics'
-p40
-I1
-sVphysic
-p41
-I1
+p26
+F0.0083021247214869805
+ssS'working-year'
+p27
+(dp28
+V(5, 10]
+p29
+F0.0049009929332392635
+sV(0, 2]
+p30
+F0.0092584559515859911
+ssS'major'
+p31
+(dp32
+VMathematics
+p33
+F0.0069685875186278542
+sVData Science
+p34
+F0.0041759714740043198
+sVElectrical and Electronics Engineering
+p35
+F0.01279117315193082
+sVEngineering
+p36
+F0.0091560118974257226
+sVInformation Science
+p37
+F0.010295346294935342
 ssS'education'
-p42
-(dp43
+p38
+(dp39
 VBachelor
-p44
-I1
+p40
+F0.0037047919823979952
 ssS'responsibility'
-p45
-(dp46
+p41
+(dp42
 S'information'
-p47
-I1
+p43
+F0.022554556089908858
 sS'processing'
-p48
-I1
+p44
+F0.0066385694580110574
 sS'analysis'
-p49
-I1
-sS'solve problem'
-p50
-I1
-sS'report'
-p51
-I1
-sS'implement'
-p52
-I1
-sS'extract'
-p53
-I1
+p45
+F0.0013927590315208536
+sS'develop ... model'
+p46
+F0.012601272468195684
 sS'model'
-p54
-I1
+p47
+F0.0062902879752099227
+sS'report'
+p48
+F0.0084360830088310128
+sS'implement'
+p49
+F0.017218399797720389
+sS'extract'
+p50
+F0.025152101875632764
+sS'validate ... model'
+p51
+F0.021279537184313666
 ss.

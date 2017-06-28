@@ -10,11 +10,11 @@ aS'engineering'
 p6
 aS'pricing'
 p7
-aS'analysis'
-p8
 aS'xml'
-p9
+p8
 aS'management'
+p9
+aS'user experience'
 p10
 aS'unit testing'
 p11
@@ -22,60 +22,61 @@ aS'integration'
 p12
 aS'strategy'
 p13
-aS'quality assurance'
+aS'test automation'
 p14
 aS'computer science'
 p15
-aS'data scientist'
+aS'quality assurance'
 p16
-aS'data quality'
+aS'a'
+aS'data scientist'
 p17
 aS'automation'
 p18
-aS'data'
+aS'sql'
 p19
-aS'software development'
+aS'data quality'
 p20
-aS'erp'
+aS'data'
 p21
-aS'science'
+aS'software development'
 p22
-aS'test automation'
+aS'erp'
 p23
-aS'architecture'
-p24
-aS'security'
-p25
-aS'root'
-p26
-asS'working-year'
-p27
-(lp28
-V(2, 5]
-p29
-asS'major'
-p30
-(lp31
-S'information'
-p32
-aS'management'
-p33
 aS'science'
+p24
+aS'analysis'
+p25
+aS'architecture'
+p26
+aS'security'
+p27
+aS'validation'
+p28
+aS'root'
+p29
+aS'etl'
+p30
+asS'working-year'
+p31
+(lp32
+V(2, 5]
+p33
+asS'major'
 p34
-aS'automation'
-p35
-aS'engineering'
+(lp35
+VEngineering
 p36
-aS'design'
+aVComputer Science
 p37
-aS'computer science'
+aVManagement Science and Engineering
 p38
-aS'communication'
-p39
 asS'education'
-p40
-(lp41
-S'Bachelor'
+p39
+(lp40
+VBachelor
+p41
+aVMaster
 p42
 asS'responsibility'
 p43
@@ -96,8 +97,6 @@ aS'interface'
 p51
 aS'implement'
 p52
-aS'automate report'
-p53
 aS'model'
-p54
+p53
 as.

@@ -2,228 +2,219 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'data science'
 p4
-I1
-sS'data science'
+F0.0024547773993073454
+sS'pig'
 p5
-I1
+F0.0055074044390120234
 sS'analytics'
 p6
-I1
+F0.0053249232366338363
 sS'engineering'
 p7
-I1
+F0.0024997036266809279
 sS'communication skills'
 p8
-I1
-sS'education'
+F0.0075165833715512735
+sS'sas'
 p9
-I1
-sS'visualization'
+F0.002827013993219218
+sS'education'
 p10
-I1
-sS'big data'
+F0.0085658234686255899
+sS'visualization'
 p11
-I1
-sS'credit'
+F0.0038250923917019786
+sS'statistics'
 p12
-I1
-sS'hadoop'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'innovation'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'unstructured data'
-p17
-I1
-sS'data modeling'
-p18
-I1
-sS'python'
-p19
-I1
-sS'processing'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'mathematical analysis'
-p22
-I1
-sS'business analytics'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'data'
-p26
-I1
-sS'data visualization'
-p27
-I1
-sS'economics'
-p28
-I1
-sS'programming'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'machine learning'
-p31
-I1
-sS'data engineering'
-p32
-I1
-sS'r'
-I1
-sS'healthcare'
-p33
-I1
-sS'security'
-p34
-I1
-sS'statistical analysis'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(2, 5]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-I1
-sS'health services'
-p42
-I1
+F0.001903087458780826
 sS'big data'
-p43
-I1
-sS'mathematics statistics'
-p44
-I1
-sS'communication'
-p45
-I1
-sS'data science'
-p46
-I1
-sS'economics'
-p47
-I1
-sS'machine learning'
-p48
-I1
-sS'business analytics'
-p49
-I1
-sS'analytics'
-p50
-I1
-sS'engineering'
-p51
-I1
+p13
+F0.0025973982170666688
+sS'credit'
+p14
+F0.0064847649474237693
+sS'hadoop'
+p15
+F0.002622054084488908
 sS'computer science'
-p52
-I1
-sS'statistic'
-p53
-I1
+p16
+F0.002869353598341267
+sS'innovation'
+p17
+F0.0039506625961933141
 sS'mathematics'
-p54
-I1
-sS'pharmacy'
-p55
-I1
-sS'business'
-p56
-I1
-sVphysic
-p57
-I1
-sS'statistics computer science'
-p58
-I1
-ssS'education'
-p59
-(dp60
-VBachelor
-p61
-I1
-sVMaster
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'large data set'
-p65
-I1
-sS'product'
-p66
-I1
+p18
+F0.0037303944532159307
+sS'unstructured data'
+p19
+F0.0065077723131697143
+sS'data modeling'
+p20
+F0.0053310239690168805
+sS'python'
+p21
+F0.0010637785974556449
 sS'processing'
-p67
-I1
-sS'business problem'
-p68
-I1
-sS'information'
-p69
-I1
-sS'pattern'
-p70
-I1
-sVinsight
-p71
-I1
-sS'communicate'
-p72
-I1
-sS'analysis'
-p73
-I1
-sS'analytic'
-p74
-I1
-sS'understand'
-p75
-I1
-sS'solve problem'
-p76
-I1
-sS'identify trend'
-p77
-I1
+p22
+F0.0033328328299402454
+sS'data scientist'
+p23
+F0.0021619829901303642
+sS'mathematical analysis'
+p24
+F0.0098676913795503508
+sS'business analytics'
+p25
+F0.0061991514156308448
+sS'sql'
+p26
+F0.0013917221608837696
 sS'modeling'
-p78
-I1
+p27
+F0.001657440181676638
+sS'data'
+p28
+F0.0033886139392706547
+sS'metrics'
+p29
+F0.0089085100284304278
+sS'data visualization'
+p30
+F0.0040137420930195936
+sS'science'
+p31
+F0.001434763037130801
+sS'economics'
+p32
+F0.0048907996415499212
+sS'programming'
+p33
+F0.0022496229282344409
+sS'analysis'
+p34
+F0.00069922188113087744
+sS'machine learning'
+p35
+F0.00133779126904906
+sS'data engineering'
+p36
+F0.0081731239919743664
+sS'r'
+F0.0011326373604366147
+sS'healthcare'
+p37
+F0.0055045721292044172
+sS'organization'
+p38
+F0.0035983343658809825
+sS'security'
+p39
+F0.0044598996239179432
+sS'physics'
+p40
+F0.0049654783213197214
+sS'statistical analysis'
+p41
+F0.0052544901090053227
+ssS'working-year'
+p42
+(dp43
+V(2, 5]
+p44
+F0.0025284580172063994
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0036765403467103682
+sVBusiness
+p48
+F0.0022075803003553354
+sVData Science
+p49
+F0.002096508127765434
+sVEconomics
+p50
+F0.0033485133622948183
+sVEngineering
+p51
+F0.0024997036266809279
+sVChemical Engineering
+p52
+F0.0076742499300697879
+sVMathematics
+p53
+F0.0034985153664948
+sVPhysics
+p54
+F0.005354555308571614
+sVComputer Science
+p55
+F0.0018476647884738732
+ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0018599567911630752
+sVMaster
+p59
+F0.0014842462963758714
+ssS'responsibility'
+p60
+(dp61
+S'information'
+p62
+F0.016984961626890546
+sS'product'
+p63
+F0.0054897669008887621
+sS'processing'
+p64
+F0.0033328328299402454
+sS'large data set'
+p65
+F0.006417259459862993
+sS'pattern'
+p66
+F0.0053440634195390741
+sS'insight'
+p67
+F0.011234040955160113
+sS'communicate'
+p68
+F0.0040943732291461067
+sS'analysis'
+p69
+F0.00069922188113087744
+sS'analytic'
+p70
+F0.0092152080502026241
+sS'drive ... decision'
+p71
+F0.0082369035484267644
+sS'understand'
+p72
+F0.0042891424764168887
+sS'identify ... trend'
+p73
+F0.0087637124748989083
+sS'modeling'
+p74
+F0.001657440181676638
 sS'model'
-p79
-I1
+p75
+F0.0031579813100033488
 sS'extract'
-p80
-I1
+p76
+F0.0063136908789853674
 sS'data gathering'
-p81
-I1
+p77
+F0.0097061879790682586
+sS'decision making'
+p78
+F0.0066664960202643146
 ss.

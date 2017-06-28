@@ -42,6 +42,7 @@ aS'modeling'
 p22
 aS'data'
 p23
+aS'a'
 aS'employee engagement'
 p24
 aS'software engineering'
@@ -63,81 +64,53 @@ p32
 asS'working-year'
 p33
 (lp34
-V[0]
+S'[0]'
 p35
 asS'major'
 p36
 (lp37
-S'information'
+VData Science
 p38
-aS'psychology'
+aVEngineering
 p39
-aS'software engineering'
+aVPsychology
 p40
-aS'science'
+aVComputer Science
 p41
-aS'data science'
-p42
-aS'statistic'
-p43
-aS'organizational psychology'
-p44
-aS'industrial/organizational psychology'
-p45
-aS'machine learning'
-p46
-aS'analytics'
-p47
-aS'engineering'
-p48
-aS'design'
-p49
-aS'computer science'
-p50
-aS'natural language processing'
-p51
-aS'general'
-p52
-aS'artificial intelligence'
-p53
-aS'predictive analytics'
-p54
 asS'education'
-p55
-(lp56
+p42
+(lp43
 VMaster
-p57
+p44
 aVDoctor
-p58
+p45
 asS'responsibility'
-p59
-(lp60
+p46
+(lp47
 S'information'
-p61
+p48
 aS'product'
-p62
-aVinsight
-p63
+p49
 aS'processing'
-p64
+p50
 aS'predict'
-p65
-aS'decision-making'
-p66
+p51
+aS'insight'
+p52
 aS'communicate'
-p67
+p53
 aS'analysis'
-p68
-aS'statistical model'
-p69
-aS'design'
-p70
-aS'modeling'
-p71
+p54
 aS'understand'
-p72
+p55
+aS'modeling'
+p56
+aS'design'
+p57
 aS'model'
-p73
+p58
 aS'prototype'
-p74
+p59
+aS'decision-making'
+p60
 as.

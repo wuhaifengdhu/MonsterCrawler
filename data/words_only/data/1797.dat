@@ -4,236 +4,206 @@ p2
 (dp3
 S'data scientist'
 p4
-I1
+F0.0033845740101082372
 sS'communication'
 p5
-I1
+F0.0050580490706417141
 sS'data science'
 p6
-I1
+F0.0038429422545067063
 sS'linux'
 p7
-I1
+F0.0058980129003170269
 sS'healthcare analytics'
 p8
-I1
+F0.016724492483518087
 sS'engineering'
 p9
-I1
+F0.0039132740481586407
 sS'data mining'
 p10
-I1
+F0.0067794866731058709
 sS'education'
 p11
-I1
+F0.0067048777949305716
 sS'quantitative analysis'
 p12
-I1
+F0.024370621993740769
 sS'regression'
 p13
-I1
-sS'management'
-p14
-I1
+F0.0075915903855648583
 sS'ehr'
-p15
-I1
+p14
+F0.019488052716136472
 sS'predictive modeling'
-p16
-I1
+p15
+F0.006642191401562204
 sS'research'
-p17
-I1
+p16
+F0.0027257518902930934
 sS'computer science'
-p18
-I1
+p17
+F0.0044919593073074141
 sS'intelligence'
-p19
-I1
+p18
+F0.0050161616929290066
 sS'algorithm development'
-p20
-I1
+p19
+F0.013447037531474937
 sS'data analysis'
-p21
-I1
+p20
+F0.0047404537219350321
 sS'product development'
-p22
-I1
+p21
+F0.0083497646925933221
 sS'python'
-p23
-I1
+p22
+F0.0016653402963363129
 sS'marketing'
-p24
-I1
+p23
+F0.012173894712316604
 sS'innovation'
-p25
-I1
+p24
+F0.0061847433614527908
 sS'aws'
-p26
-I1
+p25
+F0.0083497646925933221
 sS'reinforcement learning'
-p27
-I1
+p26
+F0.016560617039547362
 sS'machine learning'
-p28
-I1
+p27
+F0.0020943058205560362
 sS'leadership'
-p29
-I1
+p28
+F0.0052792607706192395
 sS'statistical modeling'
+p29
+F0.0057232125245699561
+sS'mathematics'
 p30
-I1
-sS'sql'
-p31
-I1
+F0.0058399146392198262
 sS'modeling'
-p32
-I1
+p31
+F0.0025947146614107106
 sS'spark'
-p33
-I1
+p32
+F0.0053870147709765446
 sS'data'
-p34
-I1
+p33
+F0.0026524294412821419
 sS'science'
-p35
-I1
+p34
+F0.0044922293175341365
 sS'cloud computing'
-p36
-I1
+p35
+F0.010343759216350945
 sS'economics'
-p37
-I1
+p36
+F0.0076565234005094608
 sS'programming'
-p38
-I1
+p37
+F0.0035217739132104662
 sS'sas programming'
+p38
+F0.0099844195682669314
+sS'sql'
 p39
-I1
+F0.002178734373268521
 sS'healthcare'
 p40
-I1
+F0.01723476257706175
 sS'product management'
 p41
-I1
+F0.0099776294537589176
 sS'organization'
 p42
-I1
+F0.0056331752053727828
 sS'data analytics'
 p43
-I1
+F0.0065249925926063801
 ssS'working-year'
 p44
 (dp45
 V(5, 10]
 p46
-I1
+F0.0038518985992870886
 sV(2, 5]
 p47
-I1
+F0.0039582889087256727
 ssS'major'
 p48
 (dp49
-S'data mining'
+VStatistics
 p50
-I1
-sS'management'
+F0.0057556062935721405
+sVBusiness
 p51
-I1
-sS'computing'
+F0.0034559563807479684
+sVData Science
 p52
-I1
-sS'marketing'
+F0.003282073426853235
+sVEconomics
 p53
-I1
-sS'data science'
+F0.0052420816214838999
+sVEngineering
 p54
-I1
-sS'economics'
+F0.0039132740481586407
+sVComputer Science
 p55
-I1
-sVapplied statistic
+F0.0028925103717322609
+sVMathematics
 p56
-I1
-sS'reinforcement learning'
+F0.0054769090401995263
+sVManagement Science and Engineering
 p57
-I1
-sS'machine learning data mining'
-p58
-I1
-sS'engineering'
-p59
-I1
-sS'machine learning'
-p60
-I1
-sS'computer science'
-p61
-I1
-sS'phd'
-p62
-I1
-sS'statistic'
-p63
-I1
-sS'communication'
-p64
-I1
-sS'mathematics computer science'
-p65
-I1
-sS'data analytics'
-p66
-I1
-sS'science'
-p67
-I1
+F0.0041199506021370362
 ssS'education'
-p68
-(dp69
-VDoctor
-p70
-I1
+p58
+(dp59
+VMaster
+p60
+F0.002323580463975006
+sVDoctor
+p61
+F0.0034798139673369584
 ssS'responsibility'
-p71
-(dp72
+p62
+(dp63
 S'development'
-p73
-I1
+p64
+F0.003868884991738398
 sS'mine data'
-p74
-I1
+p65
+F0.021210083278373495
 sS'data analysis'
-p75
-I1
+p66
+F0.0047404537219350321
 sS'business problem'
-p76
-I1
+p67
+F0.009099522562717715
 sS'communicate'
-p77
-I1
+p68
+F0.0064097216686312842
 sS'product'
-p78
-I1
-sS'statistical model'
-p79
-I1
+p69
+F0.0042971018872771452
 sS'analytic'
-p80
-I1
+p70
+F0.014426364040253308
 sS'statistical method'
-p81
-I1
+p71
+F0.011232557281314733
 sS'data mining'
-p82
-I1
+p72
+F0.0067794866731058709
 sS'modeling'
-p83
-I1
+p73
+F0.0025947146614107106
 sS'model'
-p84
-I1
+p74
+F0.0049438046067145072
 sS'quantitative analysis'
-p85
-I1
+p75
+F0.024370621993740769
 ss.

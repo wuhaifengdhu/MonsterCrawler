@@ -38,69 +38,65 @@ aS'processing'
 p20
 aS'data scientist'
 p21
-aS'facebook'
+aS'statistics'
 p22
-aS'neuroscience'
+aS'facebook'
 p23
-aS'data'
+aS'neuroscience'
 p24
-aS'science'
+aS'data'
 p25
-aS'eye tracking'
+aS'science'
 p26
-aS'analysis'
+aS'eye tracking'
 p27
-aS'spss'
+aS'analysis'
 p28
+aS'spss'
+p29
 aS'r'
 aS'advertising'
-p29
-aS'eeg'
 p30
-aS'advertising research'
+aS'eeg'
 p31
-asS'working-year'
+aS'advertising research'
 p32
-(lp33
+asS'working-year'
+p33
+(lp34
 V(5, 10]
-p34
-aV(2, 5]
 p35
 asS'major'
 p36
 (lp37
-S'business'
+VStatistics
 p38
-aS'marketing'
+aVBusiness
 p39
-aS'data science'
+aVData Science
 p40
-aS'communication'
+aVEconomics
 p41
-aS'phd'
+aVEngineering
 p42
-aS'engineering'
+aVCognitive Science
 p43
-aS'science'
-p44
-aS'neuroscience'
-p45
 asS'education'
-p46
-(lp47
+p44
+(lp45
 VDoctor
-p48
+p46
 asS'responsibility'
+p47
+(lp48
+S'development'
 p49
-(lp50
-S'product'
-p51
+aS'product'
+p50
 aS'data analysis'
-p52
-aS'complex data set'
-p53
+p51
 aS'analysis'
-p54
+p52
 aS'processing'
-p55
+p53
 as.

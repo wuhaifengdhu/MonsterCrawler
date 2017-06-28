@@ -4,265 +4,267 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.0064984937874889874
 sS'consulting'
 p5
-I1
-sS'r d'
+F0.006704791378667866
+sS'agile'
 p6
-I1
+F0.0032398959535601029
 sS'communication'
 p7
-I1
+F0.0046978319261449745
 sS'data science'
 p8
-I1
-sS'agile'
-p9
-I1
+F0.0017846304535023727
 sS'hadoop'
-p10
-I1
+p9
+F0.0038124821999987089
 sS'analytics'
-p11
-I1
+p10
+F0.020646586634623779
 sS'unix'
+p11
+F0.0076619845364541538
+sS'communication skills'
 p12
-I1
+F0.0054645784155194716
 sS'linux'
 p13
-I1
-sS'technical leadership'
+F0.0027389881866457409
+sS'sas'
 p14
-I1
-sS'management'
-p15
-I1
-sS'open source'
-p16
-I1
-sS'big data'
-p17
-I1
-sS'deep learning'
-p18
-I1
-sS'saas'
-p19
-I1
-sS'integration'
-p20
-I1
+F0.0041104951236718597
 sS'research'
-p21
-I1
-sS'big data analytics'
-p22
-I1
-sS'enterprise architecture'
-p23
-I1
-sS'computer science'
-p24
-I1
-sS'innovation'
-p25
-I1
-sS'advanced analytics'
-p26
-I1
-sS'algorithm development'
-p27
-I1
-sS'operating systems'
-p28
-I1
-sS'teradata'
-p29
-I1
-sS'apis'
-p30
-I1
-sS'python'
-p31
-I1
-sS'marketing'
-p32
-I1
-sS'collaboration'
-p33
-I1
-sS'processing'
-p34
-I1
-sS'data scientist'
-p35
-I1
-sS'apache spark'
-p36
-I1
-sS'scalability'
-p37
-I1
-sS'product management'
-p38
-I1
-sS'leadership'
-p39
-I1
-sS'sql'
-p40
-I1
-sS'apache'
-p41
-I1
-sS'spark'
-p42
-I1
-sS'data'
-p43
-I1
-sS'semantics'
-p44
-I1
-sS'software development'
-p45
-I1
-sS'solver'
-p46
-I1
-sS'technical documentation'
-p47
-I1
-sS'documentation'
-p48
-I1
-sS'engineering'
-p49
-I1
-sS'communication skills'
-p50
-I1
-sS'machine learning'
-p51
-I1
-sS'r'
-I1
-sS'architecture'
-p52
-I1
-sS'healthcare'
-p53
-I1
-sS'oracle'
-p54
-I1
-sS'organization'
-p55
-I1
-sS'data analytics'
-p56
-I1
-ssS'working-year'
-p57
-(dp58
-V(20, 30)
-p59
-I1
-ssS'major'
-p60
-(dp61
-S'management'
-p62
-I1
-sS'business'
-p63
-I1
+p15
+F0.002531633061310796
+sS'technical leadership'
+p16
+F0.0066746286609678041
+sS'management'
+p17
+F0.0026885723062304218
+sS'open source'
+p18
+F0.0047446880414215055
 sS'big data'
-p64
-I1
-sS'marketing'
-p65
-I1
-sS'data science'
-p66
-I1
-sS'machine learning'
-p67
-I1
+p19
+F0.001888316211220575
+sS'scala'
+p20
+F0.003621018379374832
+sS'deep learning'
+p21
+F0.0046209817253612031
+sS'saas'
+p22
+F0.0045809232881315453
+sS'integration'
+p23
+F0.0034217257005854785
+sS'strategy'
+p24
+F0.0023368122125027222
 sS'big data analytics'
-p68
-I1
-sS'analytics'
-p69
-I1
-sS'engineering'
-p70
-I1
-sS'design'
-p71
-I1
-sS'computer science'
-p72
-I1
-sS'communication'
-p73
-I1
+p25
+F0.0049173132117929976
+sS'enterprise architecture'
+p26
+F0.0063114922468949699
+sS'matlab'
+p27
+F0.0018937703080683455
+sS'innovation'
+p28
+F0.0028721434304669492
 sS'advanced analytics'
-p74
-I1
-sS'physics computer science'
-p75
-I1
+p29
+F0.0043661877660802432
+sS'algorithm development'
+p30
+F0.0062446925034891033
+sS'operating systems'
+p31
+F0.0070245194235485009
+sS'computer science'
+p32
+F0.0020860285803964698
+sS'software development'
+p33
+F0.0031456923116814132
+sS'teradata'
+p34
+F0.06518219634718625
+sS'apis'
+p35
+F0.016377219730578558
+sS'python'
+p36
+F0.00077337019696330266
+sS'marketing'
+p37
+F0.0028267277781566006
+sS'collaboration'
+p38
+F0.0037947617508508223
+sS'processing'
+p39
+F0.0048459587141564398
+sS'data scientist'
+p40
+F0.0015717680492045672
+sS'apache spark'
+p41
+F0.0038985241726853708
+sS'scalability'
+p42
+F0.0059882533215565486
+sS'product management'
+p43
+F0.0046335282181402693
+sS'leadership'
+p44
+F0.0049032896771626765
+sS'sql'
+p45
+F0.0010117861407018503
+sS'apache'
+p46
+F0.0033577177574807544
+sS'java'
+p47
+F0.0018386750262140705
+sS'spark'
+p48
+F0.0025016849010618082
+sS'data'
+p49
+F0.0012317661945420036
+sS'semantics'
+p50
+F0.0093966986408843926
+sS'a'
+F0.0027745428688635411
+sS'healthcare'
+p51
+F0.0040018402719735379
+sS'solver'
+p52
+F0.0064020486998908515
+sS'technical documentation'
+p53
+F0.0077667153521382218
+sS'science'
+p54
+F0.0010430769854511757
+sS'documentation'
+p55
+F0.0043018411853769003
+sS'engineering'
+p56
+F0.016355627587036931
+sS'presentations'
+p57
+F0.0062920977444926038
+sS'machine learning'
+p58
+F0.0009725782223056964
+sS'windows'
+p59
+F0.0049996491799461562
+sS'r'
+F0.0032937228879165647
+sS'algorithms'
+p60
+F0.002661975783924709
+sS'architecture'
+p61
+F0.0097344860060148003
+sS'databases'
+p62
+F0.0034161693966302531
+sS'oracle'
+p63
+F0.0038946906506844539
+sS'organization'
+p64
+F0.020927998092364168
+sS'physics'
+p65
+F0.0036099174739564737
 sS'data analytics'
+p66
+F0.0030301523464180968
+ssS'working-year'
+p67
+(dp68
+V(20, 30)
+p69
+F0.0080848293627032511
+ssS'major'
+p70
+(dp71
+VBusiness
+p72
+F0.0016049174290417125
+sVData Science
+p73
+F0.0015241676299778378
+sVEconomics
+p74
+F0.0024343791506297638
+sVEngineering
+p75
+F0.016355627587036931
+sVComputer Science
 p76
-I1
-sVphysic
+F0.0013432577839053378
+sVPhysics
 p77
-I1
-sS'data science engineering'
+F0.003892777598219719
+sVManagement Science and Engineering
 p78
-I1
+F0.0019132708285888613
 ssS'education'
 p79
 (dp80
-S'Bachelor'
+VDoctor
 p81
-I1
+F0.0016159966940303681
 ssS'responsibility'
 p82
 (dp83
 S'development'
 p84
-I1
+F0.014373424360998442
 sS'product'
 p85
-I1
+F0.0099776920676390695
 sS'processing'
 p86
-I1
+F0.0048459587141564398
 sS'documentation'
 p87
-I1
+F0.0043018411853769003
 sS'communicate'
 p88
-I1
+F0.0029766214870646768
 sS'analytic'
 p89
-I1
+F0.010049225395992475
 sS'design'
 p90
-I1
+F0.0086671739466971966
 sS'report'
 p91
-I1
+F0.0030790451337869866
 sS'understand'
 p92
-I1
+F0.003118219307780824
 sS'model'
 p93
-I1
+F0.0022958617832368558
 sS'presentation'
 p94
-I1
+F0.0073096568021056582
 ss.

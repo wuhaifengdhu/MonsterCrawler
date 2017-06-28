@@ -10,11 +10,11 @@ aS'data science'
 p6
 aS'data warehousing'
 p7
-aS'hive'
-p8
 aS'data mining'
-p9
+p8
 aS'clustering'
+p9
+aS'statistics'
 p10
 aS'java'
 p11
@@ -36,92 +36,75 @@ aS'python'
 p19
 aS'data scientist'
 p20
-aS'modeling'
+aS'sql'
 p21
-aS'spark'
-p22
-aS'data'
-p23
-aS'customer experience'
-p24
-aS'fraud'
-p25
-aS'science'
-p26
-aS'applied mathematics'
-p27
-aS'programming'
-p28
-aS'communication skills'
-p29
-aS'machine learning'
-p30
-aS'security'
-p31
-asS'working-year'
-p32
-(lp33
-V[0]
-p34
-asS'major'
-p35
-(lp36
-S'mathematics'
-p37
-aS'computer science applied math'
-p38
-aS'big data'
-p39
-aS'science'
-p40
-aS'applied mathematics'
-p41
-aS'data mining'
-p42
-aS'statistic'
-p43
-aS'machine learning'
-p44
-aS'business'
-p45
-aS'mathematics statistics'
-p46
-aS'music'
-p47
-aS'computer science'
-p48
-aS'applied math'
-p49
-aS'communication'
-p50
-aS'applied mathematics statistics'
-p51
-aS'data science'
-p52
-aS'data mining machine learning'
-p53
-asS'education'
-p54
-(lp55
-VMaster
-p56
-aVDoctor
-p57
-asS'responsibility'
-p58
-(lp59
-S'pattern'
-p60
-aVinsight
-p61
-aS'communicate'
-p62
-aS'understand'
-p63
-aS'key decision'
-p64
-aS'data mining'
-p65
 aS'modeling'
-p66
+p22
+aS'spark'
+p23
+aS'data'
+p24
+aS'customer experience'
+p25
+aS'a'
+aS'fraud'
+p26
+aS'science'
+p27
+aS'applied mathematics'
+p28
+aS'programming'
+p29
+aS'hive'
+p30
+aS'machine learning'
+p31
+aS'optimization'
+p32
+aS'security'
+p33
+asS'working-year'
+p34
+(lp35
+S'[0]'
+p36
+asS'major'
+p37
+(lp38
+VMathematics
+p39
+aVData Science
+p40
+aVStatistics
+p41
+aVComputer Science
+p42
+aVBusiness
+p43
+asS'education'
+p44
+(lp45
+VMaster
+p46
+aVDoctor
+p47
+asS'responsibility'
+p48
+(lp49
+S'pattern'
+p50
+aS'insight'
+p51
+aS'communicate'
+p52
+aS'optimization'
+p53
+aS'understand'
+p54
+aS'key decision'
+p55
+aS'data mining'
+p56
+aS'modeling'
+p57
 as.

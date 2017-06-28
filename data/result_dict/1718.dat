@@ -2,100 +2,95 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'communication'
 p4
-aS'data modeling'
-p5
-aS'programming'
-p6
-aS'r programming'
-p7
 aS'data science'
-p8
-aS'data scientist'
-p9
-aS'analysis'
-p10
-aS'machine learning'
-p11
-aS'exploratory data analysis'
-p12
-aS'leadership'
-p13
-aS'computer science'
-p14
+p5
+aS'analytics'
+p6
 aS'performance improvement'
+p7
+aS'sas'
+p8
+aS'simulation'
+p9
+aS'computer science'
+p10
+aS'mathematics'
+p11
+aS'data analysis'
+p12
+aS'data modeling'
+p13
+aS'python'
+p14
+aS'data scientist'
 p15
-aS'communication'
+aS'leadership'
 p16
 aS'modeling'
 p17
-aS'simulation'
-p18
 aS'data'
-p19
+p18
 aS'science'
+p19
+aS'programming'
 p20
-asS'working-year'
+aS'analysis'
 p21
-(lp22
-V(5, 10]
+aS'machine learning'
+p22
+aS'exploratory data analysis'
 p23
-aV(2, 5]
+aS'r'
+aS'organization'
 p24
-asS'major'
+asS'working-year'
 p25
 (lp26
-S'business'
+V(5, 10]
 p27
-aS'science'
+aV(2, 5]
 p28
-aS'data science'
+asS'major'
 p29
-aS'statistic'
-p30
-aS'communication'
+(lp30
+VMathematics
 p31
-aS'machine learning'
+aVData Science
 p32
-aS'design'
+aVComputer Science
 p33
-aS'computer science'
+aVBusiness
 p34
-aS'applied math'
-p35
 asS'education'
-p36
-(lp37
+p35
+(lp36
 VMaster
-p38
+p37
 asS'responsibility'
-p39
-(lp40
-S'product'
-p41
-aS'data analysis'
-p42
+p38
+(lp39
+S'data analysis'
+p40
 aS'predict'
-p43
+p41
 aS'pattern'
-p44
-aVinsight
-p45
+p42
+aS'insight'
+p43
 aS'analysis'
-p46
+p44
 aS'simulation'
-p47
+p45
 aS'analytic'
-p48
-aS'design'
-p49
+p46
 aS'modeling'
-p50
+p47
 aS'implement'
-p51
+p48
 aS'improvement'
-p52
+p49
 aS'model'
-p53
+p50
 as.

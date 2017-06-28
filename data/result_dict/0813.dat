@@ -8,46 +8,63 @@ aS'search'
 p5
 aS'nosql'
 p6
-aS'science'
+aS'python'
 p7
-aS'data science'
+aS'science'
 p8
-aS'programming'
-p9
-aS'machine learning'
-p10
-aS'mysql'
-p11
-aS'oracle'
-p12
-aS'statistical inference'
-p13
-aS'data'
-p14
-asS'working-year'
-p15
-(lp16
-V(2, 5]
-p17
-asS'major'
-p18
-(lp19
-S'science'
-p20
 aS'data science'
-p21
+p9
+aS'splunk'
+p10
+aS'programming'
+p11
+aS'hadoop'
+p12
 aS'machine learning'
+p13
+aS'oracle'
+p14
+aS'mongodb'
+p15
+aS'r'
+aS'algorithms'
+p16
+aS'matlab'
+p17
+aS'solr'
+p18
+aS'mysql'
+p19
+aS'sas'
+p20
+aS'statistical inference'
+p21
+aS'data'
 p22
-asS'education'
+aS'cassandra'
 p23
-(lp24
-S'Bachelor'
-p25
-asS'responsibility'
+asS'working-year'
+p24
+(lp25
+V(2, 5]
 p26
-(lp27
-S'development'
-p28
-aS'ownership'
+asS'major'
+p27
+(lp28
+VData Science
 p29
+aVComputer Science
+p30
+asS'education'
+p31
+(lp32
+S'Bachelor'
+p33
+asS'responsibility'
+p34
+(lp35
+S'development'
+p36
+aS'ownership'
+p37
 as.

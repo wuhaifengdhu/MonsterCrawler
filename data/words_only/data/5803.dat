@@ -4,217 +4,192 @@ p2
 (dp3
 S'quality improvement'
 p4
-I1
-sS'biostatistics'
+F0.0094524804359685435
+sS'probability'
 p5
-I1
+F0.0055402689001168241
 sS'engineering'
 p6
-I1
-sS'education'
+F0.0038946097840179801
+sS'problem solving'
 p7
-I1
-sS'research'
+F0.0039024036008795727
+sS'sas'
 p8
-I1
-sS'publishing'
+F0.0088091374033540011
+sS'education'
 p9
-I1
-sS'strategy'
+F0.0066728990455111898
+sS'research'
 p10
-I1
-sS'computer science'
+F0.0054255029676422151
+sS'statistics'
 p11
-I1
-sS'mathematics'
+F0.0044475970817294333
+sS'biostatistics'
 p12
-I1
-sS'factor analysis'
+F0.018770257732738421
+sS'strategy'
 p13
-I1
-sS'data analysis'
+F0.0050079854728993164
+sS'computer science'
 p14
-I1
-sS'theory'
+F0.0022352675090416864
+sS'mathematics'
 p15
-I1
-sS'public health'
+F0.0087180919653854008
+sS'factor analysis'
 p16
-I1
-sS'team leadership'
+F0.0078237051692487593
+sS'data analysis'
 p17
-I1
-sS'data scientist'
+F0.0023589221223619481
+sS'theory'
 p18
-I1
-sS'automation'
+F0.0046589447543296273
+sS'public health'
 p19
-I1
-sS'epidemiology'
+F0.0076870727758023396
+sS'team leadership'
 p20
-I1
-sS'probability'
+F0.005289674766961852
+sS'automation'
 p21
-I1
-sS'leadership'
+F0.0053021436016912711
+sS'epidemiology'
 p22
-I1
-sS'medicaid'
+F0.021788357368026416
+sS'leadership'
 p23
-I1
-sS'data'
+F0.0026270407332334217
+sS'medicaid'
 p24
-I1
-sS'statistical programming'
+F0.028897958342316357
+sS'sql'
 p25
-I1
-sS'fraud'
+F0.0010841714766821099
+sS'data'
 p26
-I1
-sS'science'
+F0.0032054456182289979
+sS'statistical programming'
 p27
-I1
-sS'economics'
+F0.0066914511086671796
+sS'publishing'
 p28
-I1
-sS'programming'
+F0.0080418294725328673
+sS'a'
+F0.0059460791529857768
+sS'fraud'
 p29
-I1
-sS'analysis'
+F0.012438334103682952
+sS'science'
 p30
-I1
-sS'r'
-I1
-sS'medicare'
+F0.0022354018702514865
+sS'economics'
 p31
-I1
-sS'healthcare'
+F0.011430008701237494
+sS'programming'
 p32
-I1
-sS'statistical inference'
+F0.003504976899315981
+sS'analysis'
 p33
-I1
-ssS'working-year'
+F0.0016341115504966452
+sS'r'
+F0.00088234071003806232
+sS'medicare'
 p34
-(dp35
-V(0, 2]
+F0.02631136402622786
+sS'healthcare'
+p35
+F0.034305123603308924
+sS'statistical inference'
 p36
-I1
-sV(2, 5]
+F0.007234395597845905
+sS'cms'
 p37
-I1
-ssS'major'
+F0.0088854314340014433
+ssS'working-year'
 p38
 (dp39
-S'information'
+V(0, 2]
 p40
-I1
-sS'law'
+F0.00362095415594619
+sV(2, 5]
 p41
-I1
-sS'biostatistics'
+F0.0019697049736584031
+ssS'major'
 p42
-I1
-sS'economics math'
-p43
-I1
-sS'economics mathematics'
+(dp43
+VStatistics
 p44
-I1
-sS'public health'
+F0.0028640775355931324
+sVBusiness
 p45
-I1
-sS'economics'
+F0.0017197366409763342
+sVData Science
 p46
-I1
-sS'data analyst'
+F0.0016332098292608311
+sVEconomics
 p47
-I1
-sS'general'
+F0.0026085398211835626
+sVEngineering
 p48
-I1
-sS'business'
+F0.0038946097840179801
+sVComputer Science
 p49
-I1
-sS'epidemiology'
+F0.0014393573073961808
+sVBiological Engineering
 p50
-I1
-sS'engineering'
+F0.0041815513203127038
+sVMathematics
 p51
-I1
-sS'design'
-p52
-I1
-sS'computer science'
-p53
-I1
-sS'automation'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'mathematics'
-p56
-I1
-sS'mathematics computer science'
-p57
-I1
-sS'biostatistics epidemiology'
-p58
-I1
-sS'science'
-p59
-I1
+F0.0027253935287479365
 ssS'education'
-p60
-(dp61
+p52
+(dp53
 VBachelor
-p62
-I1
+p54
+F0.0014489329533702812
 sVMaster
-p63
-I1
+p55
+F0.0011562491021052097
 sVDoctor
-p64
-I1
+p56
+F0.0017316085401851639
 ssS'responsibility'
-p65
-(dp66
+p57
+(dp58
 S'development'
-p67
-I1
-sS'large data set'
-p68
-I1
-sS'data analysis'
-p69
-I1
+p59
+F0.0038504324401084857
 sS'information'
-p70
-I1
+p60
+F0.011026273446179607
+sS'data analysis'
+p61
+F0.0023589221223619481
+sS'large data set'
+p62
+F0.0049991369401158449
 sS'collect data'
-p71
-I1
+p63
+F0.0084380367690363237
 sS'improvement'
-p72
-I1
+p64
+F0.00854119712667443
 sS'analytic'
-p73
-I1
+p65
+F0.014357557852461959
 sS'design'
-p74
-I1
-sS'solve problem'
-p75
-I1
-sS'report'
-p76
-I1
+p66
+F0.0069654315263202428
 sS'analysis'
-p77
-I1
+p67
+F0.0016341115504966452
+sS'report'
+p68
+F0.0098979797464503767
 sS'presentation'
-p78
-I1
+p69
+F0.011748907832955197
 ss.

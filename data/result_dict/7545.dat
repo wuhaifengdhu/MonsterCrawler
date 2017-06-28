@@ -2,131 +2,119 @@
 S'skills'
 p2
 (lp3
-S'intelligence'
+S'probability'
 p4
-aS'security clearance'
+aS'scikit-learn'
 p5
-aS'defense'
+aS'analytics'
 p6
-aS'c++'
+aS'defense'
 p7
-aS'laboratory'
+aS'analysis'
 p8
-aS'education'
+aS'laboratory'
 p9
-aS'quantitative analysis'
+aS'education'
 p10
-aS'research'
+aS'quantitative analysis'
 p11
-aS'access'
+aS'research'
 p12
-aS'computer vision'
+aS'access'
 p13
-aS'computer science'
+aS'computer vision'
 p14
-aS'innovation'
+aS'computer science'
 p15
-aS'mathematics'
+aS'intelligence'
 p16
-aS'artificial intelligence'
+aS'mathematics'
 p17
-aS'data analysis'
+aS'artificial intelligence'
 p18
-aS'government'
+aS'data analysis'
 p19
-aS'data scientist'
+aS'government'
 p20
-aS'statistical modeling'
+aS'python'
 p21
-aS'tensorflow'
+aS'innovation'
 p22
-aS'modeling'
+aS'data scientist'
 p23
-aS'data'
+aS'statistical modeling'
 p24
-aS'software development'
+aS'tensorflow'
 p25
+aS'modeling'
+p26
+aS'data'
+p27
+aS'software development'
+p28
 aS'c'
 aS'national security'
-p26
-aS'analytics'
-p27
-aS'science'
-p28
-aS'programming'
 p29
-aS'analysis'
+aS'science'
 p30
-aS'machine learning'
+aS'programming'
 p31
-aS'organization'
+aS'security clearance'
 p32
-aS'security'
+aS'machine learning'
 p33
-aS'data analytics'
+aS'organization'
 p34
-asS'working-year'
+aS'security'
 p35
-(lp36
-V(2, 5]
+aS'physics'
+p36
+aS'data analytics'
 p37
-asS'major'
+asS'working-year'
 p38
 (lp39
-S'information'
+V(2, 5]
 p40
-aS'artificial intelligence'
+asS'major'
 p41
-aS'business'
-p42
-aS'science'
+(lp42
+VMathematics
 p43
-aS'computer science mathematics'
+aVData Science
 p44
-aS'machine learning'
+aVPhysics
 p45
-aS'analytics'
+aVComputer Science
 p46
-aVphysic
+aVBusiness
 p47
-aS'machine learning artificial intelligence'
-p48
-aS'statistic'
-p49
-aS'mathematics'
-p50
-aS'applied physics'
-p51
-aS'ee computer science'
-p52
-aS'data analytics'
-p53
-aS'computer science'
-p54
 asS'education'
-p55
-(lp56
+p48
+(lp49
 VBachelor
-p57
+p50
+aVMaster
+p51
+aVDoctor
+p52
 asS'responsibility'
-p58
-(lp59
+p53
+(lp54
 S'development'
-p60
+p55
 aS'information'
-p61
+p56
 aS'product'
-p62
+p57
 aS'data analysis'
-p63
+p58
 aS'analysis'
-p64
-aS'statistical model'
-p65
+p59
 aS'modeling'
-p66
+p60
 aS'prototype'
-p67
+p61
 aS'quantitative analysis'
-p68
+p62
 as.

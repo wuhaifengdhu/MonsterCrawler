@@ -4,180 +4,171 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0067576465784358573
 sS'communication'
 p5
-I1
+F0.0039090601459527315
 sS'data science'
 p6
-I1
+F0.0029699775942237014
 sS'engineering'
 p7
-I1
+F0.0060486655657958251
 sS'data mining'
 p8
-I1
-sS'quickbooks'
+F0.0052394551325484874
+sS'sas'
 p9
-I1
-sS'lean startup'
+F0.0034203379177220163
+sS'quickbooks'
 p10
-I1
-sS'visualization'
+F0.031825186825263148
+sS'lean startup'
 p11
-I1
-sS'java'
+F0.014960342220013982
+sS'visualization'
 p12
-I1
-sS'big data'
+F0.0046278895603307883
+sS'statistics'
 p13
-I1
-sS'saas'
+F0.0046050017521116274
+sS'java'
 p14
-I1
-sS'hadoop'
-p15
-I1
-sS'large-scale data analysis'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'computational physics'
-p18
-I1
-sS'mathematics'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'distributed computing'
-p21
-I1
-sS'python'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'sql'
-p24
-I1
-sS'customer experience'
-p25
-I1
-sS'c'
-I1
-sS'programming'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'r'
-I1
-sS'healthcare'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(0, 2]
-p32
-I1
-sV(2, 5]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'business'
-p36
-I1
+F0.0091797553160613589
 sS'big data'
-p37
-I1
-sS'computing'
-p38
-I1
-sS'communication'
-p39
-I1
-sS'data science'
-p40
-I1
-sS'data mining'
-p41
-I1
-sS'machine learning'
-p42
-I1
-sS'mathematics statistics'
-p43
-I1
-sS'engineering'
-p44
-I1
-sS'design'
-p45
-I1
-sS'statistic'
-p46
-I1
+p15
+F0.0031425311762041173
+sS'saas'
+p16
+F0.015247122450373636
+sS'hadoop'
+p17
+F0.0031723617318507773
+sS'large-scale data analysis'
+p18
+F0.012840197921530395
+sS'innovation'
+p19
+F0.014339442015812769
 sS'computational physics'
-p47
-I1
+p20
+F0.012453609956239104
 sS'mathematics'
-p48
-I1
-sS'phd'
-p49
-I1
-sVphysic
-p50
-I1
+p21
+F0.0090266334917323745
+sS'data analysis'
+p22
+F0.0036636099134954693
+sS'distributed computing'
+p23
+F0.0088330776850847215
+sS'python'
+p24
+F0.0038611223166908591
+sS'data scientist'
+p25
+F0.002615732506577477
+sS'sql'
+p26
+F0.0016838119971186347
+sS'data'
+p27
+F0.00029284317993697015
+sS'customer experience'
+p28
+F0.0094594972876203588
+sS'c'
+F0.0030879553676496229
+sS'science'
+p29
+F0.0017358861436891171
+sS'programming'
+p30
+F0.0081652980358138966
+sS'analysis'
+p31
+F0.00084597215247933315
+sS'machine learning'
+p32
+F0.0016185622761334304
+sS'r'
+F0.0041110541230662311
+sS'healthcare'
+p33
+F0.0066598526995312697
+sS'physics'
+p34
+F0.0060076157467818846
+ssS'working-year'
+p35
+(dp36
+sS'major'
+p37
+(dp38
+VStatistics
+p39
+F0.0044481599256495806
+sVBusiness
+p40
+F0.0026708996226521339
+sVData Science
+p41
+F0.0025365160064322535
+sVEngineering
+p42
+F0.0055614294488067345
+sVComputer Science
+p43
+F0.0022354462872893771
+sVMathematics
+p44
+F0.0042327716779813626
+sVPhysics
+p45
+F0.0064783508671607173
 ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0022503180930121152
+sVMaster
+p49
+F0.001795754778331301
+sVDoctor
+p50
+F0.0026893377080900445
+ssS'responsibility'
 p51
 (dp52
-VDoctor
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
 S'development'
-p56
-I1
+p53
+F0.0059800543329092274
 sS'product'
-p57
-I1
+p54
+F0.0099629103016129379
 sS'data analysis'
-p58
-I1
+p55
+F0.0036636099134954693
 sS'pattern'
-p59
-I1
-sVinsight
-p60
-I1
+p56
+F0.006465656976726286
+sS'insight'
+p57
+F0.0045306008790357653
 sS'analysis'
-p61
-I1
-sS'understand'
-p62
-I1
-sS'data mining'
-p63
-I1
+p58
+F0.00084597215247933315
 sS'design'
-p64
-I1
+p59
+F0.0036059723704159941
+sS'data mining'
+p60
+F0.0052394551325484874
+sS'understand'
+p61
+F0.010378665745403829
 sS'presentation'
-p65
-I1
+p62
+F0.0060823564007644612
 ss.

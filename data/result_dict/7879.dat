@@ -53,65 +53,49 @@ p27
 asS'working-year'
 p28
 (lp29
-V[0]
+S'[0]'
 p30
 asS'major'
 p31
 (lp32
-S'economics'
+VBusiness
 p33
-aS'business'
+aVData Science
 p34
-aS'analytics'
+aVEconomics
 p35
-aS'science'
+aVEngineering
 p36
-aS'public health'
+aVComputer Science
 p37
-aS'data mining'
+aVMathematics
 p38
-aS'statistic'
-p39
-aS'automation'
-p40
-aS'analytics data science'
-p41
-aS'engineering'
-p42
-aS'computer science'
-p43
-aS'applied math'
-p44
-aS'medicine'
-p45
-aS'data science'
-p46
-aS'computer science operation research'
-p47
 asS'education'
-p48
-(lp49
+p39
+(lp40
 VBachelor
-p50
+p41
 asS'responsibility'
-p51
-(lp52
+p42
+(lp43
 S'development'
-p53
-aS'develop model'
-p54
-aVinsight
-p55
+p44
+aS'cross functionally'
+p45
+aS'insight'
+p46
+aS'develop ... model'
+p47
 aS'data mining'
-p56
+p48
 aS'report'
-p57
+p49
 aS'model'
-p58
+p50
 aS'presentation'
-p59
+p51
 aS'transformation'
-p60
+p52
 aS'normalization'
-p61
+p53
 as.

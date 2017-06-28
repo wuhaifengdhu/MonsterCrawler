@@ -2,162 +2,159 @@
 S'skills'
 p2
 (dp3
-S'analytics'
+S'ip'
 p4
-I1
-sS'dod'
+F0.014292550736639143
+sS'tcp'
 p5
-I1
-sS'data mining'
-p6
-I1
-sS'laboratory'
-p7
-I1
-sS'ic'
-p8
-I1
-sS'education'
-p9
-I1
-sS'quantitative analysis'
-p10
-I1
-sS'visualization'
-p11
-I1
-sS'java'
-p12
-I1
-sS'research'
-p13
-I1
-sS'access'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'government'
-p16
-I1
-sS'data scientist'
-p17
-I1
-sS'statistical modeling'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'modeling'
-p20
-I1
-sS'information technology'
-p21
-I1
-sS'software development'
-p22
-I1
-sS'c'
-I1
-sS'programming'
-p23
-I1
-sS'security clearance'
-p24
-I1
-sS'machine learning'
-p25
-I1
-sS'organization'
-p26
-I1
-sS'security'
-p27
-I1
-sS'analysis'
-p28
-I1
-ssS'working-year'
-p29
-(dp30
-V(2, 5]
-p31
-I1
-ssS'major'
-p32
-(dp33
-S'information'
-p34
-I1
-sS'business'
-p35
-I1
-sS'machine learning'
-p36
-I1
+F0.016758593171165268
 sS'analytics'
-p37
-I1
-sVphysic
-p38
-I1
+p6
+F0.0027264497240862902
+sS'dod'
+p7
+F0.052935184417247746
 sS'data mining'
-p39
-I1
-sS'applied physics'
-p40
-I1
-sS'information technology'
-p41
-I1
+p8
+F0.0066519728171853844
+sS'laboratory'
+p9
+F0.013213892862291188
+sS'ic'
+p10
+F0.053258789559061243
+sS'education'
+p11
+F0.0065787672407939465
+sS'quantitative analysis'
+p12
+F0.023912240388842824
+sS'visualization'
+p13
+F0.0058755337678180856
+sS'java'
+p14
+F0.0038848494284272209
+sS'research'
+p15
+F0.0080234514889818646
+sS'access'
+p16
+F0.014542081662046739
 sS'computer science'
+p17
+F0.0044074710444740456
+sS'government'
+p18
+F0.0081727884502475392
+sS'data scientist'
+p19
+F0.0033209143108585523
+sS'statistical modeling'
+p20
+F0.0056155658940137817
+sS'sql'
+p21
+F0.0021377550433637838
+sS'modeling'
+p22
+F0.0025459112508512617
+sS'information technology'
+p23
+F0.0097700597860869744
+sS'software development'
+p24
+F0.0066463843826748354
+sS'c'
+F0.0039204449025018722
+sS'science'
+p25
+F0.0022038679880692553
+sS'programming'
+p26
+F0.003455533651519987
+sS'security clearance'
+p27
+F0.011453982674792694
+sS'machine learning'
+p28
+F0.0020549144885079603
+sS'organization'
+p29
+F0.0055272220667137344
+sS'security'
+p30
+F0.0068506295163629832
+sS'analysis'
+p31
+F0.0032221196403209714
+sS'physics'
+p32
+F0.0076272237537512956
+ssS'working-year'
+p33
+(dp34
+V(2, 5]
+p35
+F0.0038838383336399231
+ssS'major'
+p36
+(dp37
+VData Science
+p38
+F0.0032203416382603845
+sVInformation Science
+p39
+F0.0079393579578498231
+sVPhysics
+p40
+F0.0082248655210034188
+sVComputer Science
+p41
+F0.0028381057879379237
+sVBusiness
 p42
-I1
+F0.0033909540663765335
 ssS'education'
 p43
 (dp44
 VBachelor
 p45
-I1
+F0.0028569869205953189
 sVMaster
 p46
-I1
+F0.0022798767561886422
 ssS'responsibility'
 p47
 (dp48
 S'development'
 p49
-I1
+F0.0037961159950285848
 sS'information'
 p50
-I1
+F0.008696584323068305
 sS'product'
 p51
-I1
-sVinsight
+F0.0042162786542876071
+sS'insight'
 p52
-I1
+F0.0057520167899983857
 sS'analysis'
 p53
-I1
-sS'statistical model'
-p54
-I1
+F0.0032221196403209714
 sS'data mining'
-p55
-I1
+p54
+F0.0066519728171853844
 sS'modeling'
-p56
-I1
+p55
+F0.0025459112508512617
 sS'implement'
-p57
-I1
+p56
+F0.0066390695144815277
 sS'prototype'
-p58
-I1
+p57
+F0.0098845498857356977
 sS'quantitative analysis'
-p59
-I1
+p58
+F0.023912240388842824
 ss.

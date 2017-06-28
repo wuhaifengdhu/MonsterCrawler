@@ -4,7 +4,7 @@ p2
 (lp3
 S'visualization'
 p4
-aS'data analysis'
+aS'statistics'
 p5
 aS'analytics'
 p6
@@ -14,82 +14,78 @@ aS'economics'
 p8
 aS'data scientist'
 p9
-aS'analysis'
+aS'dashboards'
 p10
-aS'hardware'
+aS'analysis'
 p11
-aS'credit'
+aS'machine learning'
 p12
-aS'sql'
+aS'hardware'
 p13
-aS'policy'
+aS'credit'
 p14
-aS'mathematics'
+aS'data analysis'
 p15
-aS'security'
+aS'sql'
 p16
-aS'education'
+aS'policy'
 p17
-aS'data'
+aS'mathematics'
 p18
-aS'insurance'
+aS'security'
 p19
-asS'working-year'
+aS'education'
 p20
-(lp21
-V(5, 10]
+aS'data'
+p21
+aS'insurance'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'information'
+sS'major'
 p25
-aS'business'
-p26
-aS'statistics economics'
+(lp26
+VStatistics
 p27
-aS'communication'
+aVBusiness
 p28
-aS'economics'
+aVData Science
 p29
-aS'quantitative methods'
+aVEconomics
 p30
-aS'analytics'
+aVComputer Science
 p31
-aS'statistic'
+aVMathematics
 p32
-aS'mathematics'
-p33
-aS'general'
-p34
 asS'education'
-p35
-(lp36
+p33
+(lp34
 VBachelor
-p37
+p35
 asS'responsibility'
-p38
-(lp39
+p36
+(lp37
 S'information'
-p40
+p38
 aS'product'
-p41
+p39
 aS'data analysis'
-p42
+p40
 aS'exploratory analysis'
-p43
-aVinsight
-p44
+p41
+aS'insight'
+p42
 aS'communicate'
-p45
+p43
 aS'analysis'
-p46
+p44
 aS'understand'
-p47
+p45
 aS'model'
-p48
+p46
 aS'extract'
-p49
+p47
 aS'transformation'
-p50
+p48
 as.

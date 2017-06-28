@@ -4,164 +4,158 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
-sS'management'
-p5
-I1
-sS'organization'
-p6
-I1
-sS'team leadership'
-p7
-I1
-sS'healthcare'
-p8
-I1
-sS'collaboration'
-p9
-I1
-sS'predictive modeling'
-p10
-I1
-sS'data scientist'
-p11
-I1
-sS'analysis'
-p12
-I1
-sS'research'
-p13
-I1
+F0.0090123144295629169
 sS'analytics'
-p14
-I1
-sS'leadership'
-p15
-I1
-sS'data analysis'
-p16
-I1
-sS'computer science'
-p17
-I1
+p5
+F0.0053687497653304109
+sS'analysis'
+p6
+F0.0014099535874655554
 sS'problem solving'
-p18
-I1
+p7
+F0.0050506416974346732
+sS'management'
+p8
+F0.0037285961613154413
+sS'predictive modeling'
+p9
+F0.0042777899355740121
+sS'research'
+p10
+F0.0017554739540364987
+sS'computer science'
+p11
+F0.0028929696773399606
 sS'innovation'
+p12
+F0.0039831783377257688
+sS'mathematics'
+p13
+F0.0075221945764436457
+sS'data management'
+p14
+F0.0056582677049573475
+sS'data analysis'
+p15
+F0.003053008261246225
+sS'collaboration'
+p16
+F0.0052626942799865314
+sS'team leadership'
+p17
+F0.0068461017045658547
+sS'data scientist'
+p18
+F0.0021797770888145646
+sS'leadership'
 p19
-I1
+F0.0034000177391025148
 sS'modeling'
 p20
-I1
-sS'validation'
-p21
-I1
+F0.0016710816646534003
 sS'data'
+p21
+F0.0036605397492121268
+sS'science'
 p22
-I1
-sS'etl'
+F0.0014465717864075977
+sS'presentations'
 p23
-I1
-sS'data management'
+F0.0087260779419506482
+sS'healthcare'
 p24
-I1
-ssS'working-year'
+F0.016649631748828171
+sS'organization'
 p25
-(dp26
-V(5, 10]
+F0.0036279502865878216
+sS'validation'
+p26
+F0.019518285833796892
+sS'etl'
 p27
-I1
-ssS'major'
+F0.0058637133210188951
+sS'statistics'
 p28
-(dp29
-S'information'
-p30
-I1
-sS'management'
+F0.0038375014600930232
+ssS'working-year'
+p29
+(dp30
+V(5, 10]
 p31
-I1
-sS'health services'
+F0.0024807495094174049
+ssS'major'
 p32
-I1
-sS'business'
-p33
-I1
-sS'mathematics statistics'
+(dp33
+VStatistics
 p34
-I1
-sS'data analyst'
+F0.0037067999380413176
+sVBusiness
 p35
-I1
-sS'analytics'
+F0.0022257496855434449
+sVData Science
 p36
-I1
-sS'information systems'
+F0.0021137633386935448
+sVInformation Science
 p37
-I1
-sS'design'
+F0.0052112246678067782
+sVComputer Science
 p38
-I1
-sS'computer science'
+F0.0018628719060744812
+sVMathematics
 p39
-I1
-sS'statistic'
+F0.0035273097316511361
+sVManagement Science and Engineering
 p40
-I1
-sS'computer science mathematics'
-p41
-I1
-sS'information system'
-p42
-I1
+F0.0026533838240100668
 ssS'education'
-p43
-(dp44
+p41
+(dp42
 VBachelor
-p45
-I1
+p43
+F0.0018752650775100963
 sVMaster
-p46
-I1
+p44
+F0.0014964623152760842
 ssS'responsibility'
-p47
-(dp48
+p45
+(dp46
 S'development'
-p49
-I1
+p47
+F0.0099667572215153804
 sS'information'
-p50
-I1
+p48
+F0.019978881474703215
 sS'data analysis'
-p51
-I1
+p49
+F0.003053008261246225
 sS'understand'
-p52
-I1
-sVinsight
-p53
-I1
+p50
+F0.0043244440605849288
+sS'insight'
+p51
+F0.0037755007325298053
 sS'analysis'
-p54
-I1
+p52
+F0.0014099535874655554
 sS'transformation'
-p55
-I1
+p53
+F0.0064700764101499313
 sS'analytic'
-p56
-I1
+p54
+F0.0092910533839491473
 sS'design'
-p57
-I1
+p55
+F0.0060099539506933237
 sS'report'
-p58
-I1
+p56
+F0.017080464363559089
 sS'modeling'
-p59
-I1
+p57
+F0.0016710816646534003
 sS'model'
-p60
-I1
+p58
+F0.003183972925723541
 sS'implement'
-p61
-I1
+p59
+F0.0043577431586823206
 ss.

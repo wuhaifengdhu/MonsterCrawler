@@ -2,18 +2,19 @@
 S'skills'
 p2
 (lp3
-S'git'
+S'training'
 p4
-aS'java'
+aS'git'
 p5
-aS'python'
+aS'java'
 p6
-aS'data scientist'
+aS'python'
 p7
-aS'recruiting'
+aS'data scientist'
 p8
-aS'c++'
+aS'recruiting'
 p9
+aS'c'
 aS'machine learning'
 p10
 aS'engineering'
@@ -35,26 +36,22 @@ p18
 asS'major'
 p19
 (lp20
-S'information'
+VEngineering
 p21
-aS'engineering'
+aVComputer Science
 p22
-aS'law'
-p23
-aS'machine learning'
-p24
 asS'education'
-p25
-(lp26
+p23
+(lp24
 S'Bachelor'
-p27
+p25
 asS'responsibility'
-p28
-(lp29
+p26
+(lp27
 S'report'
-p30
-aS'development'
-p31
+p28
 aS'information'
-p32
+p29
+aS'development'
+p30
 as.

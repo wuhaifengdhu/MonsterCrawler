@@ -2,88 +2,96 @@
 S'skills'
 p2
 (dp3
-S'b testing'
+S'a'
+F0.0082019381298860817
+sS'b testing'
 p4
-I1
-sS'product development'
-p5
-I1
-sS'solver'
-p6
-I1
-sS'communication'
-p7
-I1
-sS'testing'
-p8
-I1
+F0.017498085808586614
 sS'data scientist'
+p5
+F0.0046463669524731497
+sS'product development'
+p6
+F0.011462615564832062
+sS'solver'
+p7
+F0.018925354490028218
+sS'communication'
+p8
+F0.0069437252592581423
+sS'testing'
 p9
-I1
-sS'writing'
+F0.0089797281355263724
+sS'ios'
 p10
-I1
-sS'analytics'
+F0.021005193143142416
+sS'hive'
 p11
-I1
-sS'management'
+F0.009148044953903537
+sS'pig'
 p12
-I1
-sS'product launch'
+F0.011836088487350399
+sS'analytics'
 p13
-I1
-sS'product management'
-p14
-I1
-sS'android'
-p15
-I1
+F0.0038146379911558185
 sS'strategy'
+p14
+F0.0069079448738019068
+sS'product launch'
+p15
+F0.048597775392698161
+sS'sql'
 p16
-I1
-sS'data'
+F0.0029909818369870484
+sS'product management'
 p17
-I1
-ssS'working-year'
+F0.013697359732572549
+sS'android'
 p18
-(dp19
-V(5, 10]
+F0.017891806906721638
+sS'writing'
+p19
+F0.0098555277459758447
+sS'data'
 p20
-I1
-ssS'major'
+F0.00052018196436172327
+ssS'working-year'
 p21
 (dp22
-S'analytics'
+V(5, 10]
 p23
-I1
-sS'management'
+F0.0052879134279686787
+ssS'major'
 p24
-I1
-sS'design'
-p25
-I1
-sS'business'
+(dp25
+VData Science
 p26
-I1
-sS'communication'
+F0.0045056534324783449
+sVBusiness
 p27
-I1
-ssS'education'
+F0.0047443611718162903
+sVManagement Science and Engineering
 p28
-(dp29
+F0.0056558970985477732
+ssS'education'
+p29
+(dp30
 S'Bachelor'
-p30
-I1
-ssS'responsibility'
 p31
-(dp32
-S'design'
-p33
-I1
-sS'product'
+F0.0039972755599557309
+ssS'responsibility'
+p32
+(dp33
+S'development'
 p34
-I1
-sS'product launch'
+F0.0053112324667285906
+sS'design'
 p35
-I1
+F0.0064053456579757787
+sS'product'
+p36
+F0.029495458129775144
+sS'product launch'
+p37
+F0.048597775392698161
 ss.

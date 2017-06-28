@@ -4,63 +4,64 @@ p2
 (lp3
 S'consulting'
 p4
-aS'management'
+aS'communication'
 p5
-aS'powerpoint'
-p6
 aS'analytics'
+p6
+aS'sas'
 p7
-aS'business strategy'
+aS'strategy'
 p8
-aS'documentation'
+aS'insurance'
 p9
-aS'data scientist'
+aS'management'
 p10
-aS'research'
+aS'excel'
 p11
-aS'credit'
+aS'research'
 p12
 aS'statistical software'
 p13
 aS'education'
 p14
-aS'sql'
+aS'innovation'
 p15
-aS'communication'
-p16
-aS'modeling'
-p17
 aS'advanced analytics'
+p16
+aS'data scientist'
+p17
+aS'sql'
 p18
-aS'strategy'
+aS'modeling'
 p19
 aS'data'
 p20
-aS'insurance'
-p21
 aS'customer experience'
+p21
+aS'a'
+aS'vba'
 p22
-asS'working-year'
+aS'documentation'
 p23
-(lp24
-V(15, 20]
+aS'business strategy'
+p24
+aS'credit'
 p25
-aV(2, 5]
+aS'powerpoint'
 p26
-asS'major'
+asS'working-year'
 p27
 (lp28
-S'management'
+V(15, 20]
 p29
-aS'business'
+asS'major'
 p30
-aS'communication'
-p31
-aS'analytics'
+(lp31
+VData Science
 p32
-aS'design'
+aVBusiness
 p33
-aS'advanced analytics'
+aVManagement Science and Engineering
 p34
 asS'education'
 p35
@@ -76,7 +77,7 @@ aS'decision-making'
 p41
 aS'understand'
 p42
-aVinsight
+aS'insight'
 p43
 aS'improvement'
 p44

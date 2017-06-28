@@ -4,214 +4,205 @@ p2
 (dp3
 S'survival analysis'
 p4
-I1
+F0.013751467292019138
 sS'forecasting'
 p5
-I1
+F0.0089125501696970168
 sS'data science'
 p6
-I1
+F0.0036560514457768972
 sS'hadoop'
 p7
-I1
+F0.0039051869343451821
 sS'analytics'
 p8
-I1
+F0.0052871578236080644
 sS'engineering'
 p9
-I1
-sS'education'
+F0.0037229628482481902
+sS'sas'
 p10
-I1
-sS'd3'
+F0.004210446372879686
+sS'education'
 p11
-I1
-sS'visualization'
+F0.0063788047106786297
+sS'd3'
 p12
-I1
-sS'big data'
+F0.0091799188212318972
+sS'visualization'
 p13
-I1
-sS'anomaly detection'
+F0.0056969461153008188
+sS'big data'
 p14
-I1
-sS'tableau'
+F0.0038684654296737616
+sS'anomaly detection'
 p15
-I1
-sS'regression'
+F0.013358731012716141
+sS'tableau'
 p16
-I1
-sS'oracle sql'
+F0.0061064622708929843
+sS'regression'
 p17
-I1
-sS'google cloud platform'
+F0.0072223945005525855
+sS'oracle sql'
 p18
-I1
-sS'advanced analytics'
+F0.010724767331406732
+sS'google cloud platform'
 p19
-I1
-sS'operations research'
+F0.018804777173829532
+sS'advanced analytics'
 p20
-I1
-sS'teradata'
+F0.0089447129311187954
+sS'operations research'
 p21
-I1
-sS'data analysis'
+F0.0087566520229541318
+sS'teradata'
 p22
-I1
-sS'python'
+F0.011127862294327134
+sS'data analysis'
 p23
-I1
-sS'aws'
+F0.0045099149391053649
+sS'python'
 p24
-I1
-sS'data scientist'
+F0.0031687022051870273
+sS'aws'
 p25
-I1
-sS'automation'
+F0.0079436971087589979
+sS'data scientist'
 p26
-I1
-sS'sql'
+F0.0032199746661516057
+sS'automation'
 p27
-I1
-sS'modeling'
+F0.010136925001409754
+sS'sql'
 p28
-I1
-sS'spark'
+F0.0020727776864226354
+sS'modeling'
 p29
-I1
-sS'pig'
+F0.0024685279301566946
+sS'spark'
 p30
-I1
-sS'data'
+F0.005125032289713248
+sS'pig'
 p31
-I1
-sS'data visualization'
+F0.0082025172495923757
+sS'data'
 p32
-I1
-sS'analysis'
+F0.0021629450676195669
+sS'data visualization'
 p33
-I1
-sS'machine learning'
+F0.0059779137555610968
+sS'science'
 p34
-I1
-sS'exploratory data analysis'
+F0.00213688111913098
+sS'analysis'
 p35
-I1
-sS'r'
-I1
-sS'oracle'
+F0.0010413942910459876
+sS'machine learning'
 p36
-I1
-sS'organization'
+F0.0019924550815624297
+sS'exploratory data analysis'
 p37
-I1
-sS'retail'
+F0.013573371517108954
+sS'r'
+F0.0016869067070332559
+sS'algorithms'
 p38
-I1
-sS'cluster analysis'
+F0.005453409356733295
+sS'oracle'
 p39
-I1
-sS'etl'
+F0.0079787887494265092
+sS'organization'
 p40
-I1
-ssS'working-year'
+F0.0053592213959929519
+sS'retail'
 p41
-(dp42
-V(5, 10]
+F0.010474047065095811
+sS'cluster analysis'
+p42
+F0.01194748992710765
+sS'etl'
 p43
-I1
-ssS'major'
+F0.0086618987052133212
+ssS'working-year'
 p44
 (dp45
-S'business'
+V(5, 10]
 p46
-I1
-sS'big data'
+F0.0036645722236378687
+ssS'major'
 p47
-I1
-sS'computing'
-p48
-I1
-sS'data science'
+(dp48
+VData Science
 p49
-I1
-sS'automation'
+F0.0031224589136931995
+sVBusiness
 p50
-I1
-sS'analytics'
+F0.003287885553720712
+sVEngineering
 p51
-I1
-sS'engineering'
+F0.0068461365555219679
+sVOperations Research
 p52
-I1
-sS'machine learning'
+F0.0097833705112071543
+sVComputer Science
 p53
-I1
-sS'advanced analytics'
-p54
-I1
-sS'phd'
-p55
-I1
-sS'operations research'
-p56
-I1
-sS'history'
-p57
-I1
+F0.0027518411743227894
 ssS'education'
+p54
+(dp55
+VMaster
+p56
+F0.0022105795903470424
+sVDoctor
+p57
+F0.0033105828929375926
+ssS'responsibility'
 p58
 (dp59
-VDoctor
-p60
-I1
-ssS'responsibility'
-p61
-(dp62
 S'forecasting'
-p63
-I1
+p60
+F0.0089125501696970168
 sS'data analysis'
-p64
-I1
+p61
+F0.0045099149391053649
 sS'presentation'
-p65
-I1
-sVinsight
-p66
-I1
+p62
+F0.01497479843349305
+sS'insight'
+p63
+F0.011154366905832736
 sS'communicate'
-p67
-I1
+p64
+F0.0060980026817069669
 sS'provide mentorship'
-p68
-I1
+p65
+F0.021201300695595355
 sS'analysis'
-p69
-I1
+p66
+F0.0010413942910459876
 sS'improvement'
-p70
-I1
+p67
+F0.0081647613870489601
 sS'product'
-p71
-I1
+p68
+F0.0081762485757917724
 sS'analytic'
-p72
-I1
-sS'design experiment'
-p73
-I1
+p69
+F0.01372477794711029
+sS'design'
+p70
+F0.0044389629483844303
 sS'report'
-p74
-I1
+p71
+F0.0063078310643538875
 sS'modeling'
-p75
-I1
+p72
+F0.0024685279301566946
 sS'model'
-p76
-I1
-sS'extract'
-p77
-I1
+p73
+F0.0047033764191539238
+sS'design ... experiment'
+p74
+F0.013648424198468555
 ss.

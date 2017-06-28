@@ -2,137 +2,132 @@
 S'skills'
 p2
 (lp3
-S'customer insight'
+S'data science'
 p4
-aS'data science'
-p5
 aS'testing'
-p6
+p5
 aS'sentiment analysis'
-p7
+p6
 aS'pricing'
+p7
+aS'go'
 p8
 aS'personalization'
 p9
-aS'experimentation'
+aS'sas'
 p10
-aS'pricing optimization'
+aS'experimentation'
 p11
-aS'management'
+aS'pricing optimization'
 p12
-aS'big data'
+aS'statistics'
 p13
-aS'hadoop'
+aS'big data'
 p14
-aS'research'
+aS'hadoop'
 p15
-aS'optimization'
+aS'research'
 p16
-aS'computer science'
+aS'optimization'
 p17
-aS'advanced analytics'
+aS'computer science'
 p18
-aS'hypothesis testing'
+aS'advanced analytics'
 p19
-aS'operations research'
+aS'hypothesis testing'
 p20
-aS'text mining'
+aS'operations research'
 p21
-aS'segmentation'
+aS'text mining'
 p22
-aS'python'
+aS'segmentation'
 p23
-aS'marketing'
+aS'python'
 p24
-aS'data scientist'
+aS'marketing'
 p25
-aS'statistical modeling'
+aS'data scientist'
 p26
-aS'sql'
+aS'hive'
 p27
-aS'spark'
+aS'management'
 p28
-aS'data'
+aS'statistical modeling'
 p29
-aS'b testing'
+aS'sql'
 p30
-aS'analytics'
+aS'modeling'
 p31
-aS'science'
+aS'spark'
 p32
-aS'marketing analytics'
+aS'data'
 p33
-aS'analysis'
+aS'a'
+aS'b testing'
 p34
-aS'machine learning'
+aS'analytics'
 p35
+aS'science'
+p36
+aS'marketing analytics'
+p37
+aS'analysis'
+p38
+aS'machine learning'
+p39
 aS'r'
 aS'statistical analysis'
-p36
-asS'working-year'
-p37
-(lp38
-V(5, 10]
-p39
-asS'major'
 p40
-(lp41
-S'computer science operations research'
-p42
-aS'management'
+asS'working-year'
+p41
+(lp42
+V(5, 10]
 p43
-aS'business'
+asS'major'
 p44
-aS'big data'
-p45
-aS'marketing'
+(lp45
+VStatistics
 p46
-aS'data science'
+aVBusiness
 p47
-aS'marketing analytics'
+aVData Science
 p48
-aS'machine learning'
+aVEconomics
 p49
-aS'analytics'
+aVComputer Science
 p50
-aS'computer science'
+aVOperations Research
 p51
-aS'statistic'
+aVManagement Science and Engineering
 p52
-aS'advanced analytics'
-p53
-aS'operations research'
-p54
-aS'science'
-p55
 asS'education'
-p56
-(lp57
+p53
+(lp54
 VMaster
-p58
+p55
+aVDoctor
+p56
 asS'responsibility'
-p59
-(lp60
+p57
+(lp58
 S'product'
-p61
+p59
 aS'predict'
-p62
-aVinsight
-p63
+p60
+aS'insight'
+p61
 aS'analysis'
-p64
-aS'statistical model'
-p65
-aS'statistical method'
-p66
+p62
 aS'optimization'
-p67
+p63
 aS'understand'
-p68
+p64
 aS'recommendation'
-p69
+p65
 aS'report'
-p70
+p66
+aS'modeling'
+p67
 aS'model'
-p71
+p68
 as.

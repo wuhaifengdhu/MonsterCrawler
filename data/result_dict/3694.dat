@@ -4,100 +4,100 @@ p2
 (lp3
 S'forecasting'
 p4
-aS'engineering'
+aS'analytics'
 p5
-aS'data mining'
+aS'engineering'
 p6
-aS'strategy'
+aS'ggplot2'
 p7
-aVpanda
+aS'data mining'
 p8
-aS'management'
+aS'strategy'
 p9
-aS'hadoop'
+aVpanda
 p10
-aS'research'
+aS'statistics'
 p11
+aS'management'
+p12
+aS'hadoop'
+p13
+aS'research'
+p14
 aS'r'
 aS'computer science'
-p12
-aS'mathematics'
-p13
-aS'numpy'
-p14
-aS'operations research'
 p15
-aS'python'
-p16
-aS'scipy'
-p17
-aS'facebook'
-p18
-aS'sql'
-p19
-aS'php'
-p20
-aS'data'
-p21
-aS'science'
-p22
-aS'scikit-learn'
-p23
-aS'analysis'
-p24
-aS'optimization'
-p25
-aS'scripting'
-p26
-asS'working-year'
-p27
-(lp28
-V(5, 10]
-p29
-asS'major'
-p30
-(lp31
-S'management'
-p32
-aS'business'
-p33
-aS'mathematics statistics'
-p34
-aS'science'
-p35
-aS'statistic'
-p36
-aS'management science'
-p37
-aS'engineering'
-p38
-aS'computer science engineering'
-p39
-aS'statistics operations research'
-p40
-aS'data mining'
-p41
 aS'mathematics'
-p42
+p16
+aS'numpy'
+p17
 aS'operations research'
+p18
+aS'python'
+p19
+aS'scipy'
+p20
+aS'facebook'
+p21
+aS'sql'
+p22
+aS'php'
+p23
+aS'data'
+p24
+aS'science'
+p25
+aS'scikit-learn'
+p26
+aS'analysis'
+p27
+aS'optimization'
+p28
+aS'organization'
+p29
+aS'scripting'
+p30
+asS'working-year'
+p31
+(lp32
+V(5, 10]
+p33
+asS'major'
+p34
+(lp35
+VStatistics
+p36
+aVBusiness
+p37
+aVData Science
+p38
+aVEngineering
+p39
+aVComputer Science
+p40
+aVMathematics
+p41
+aVOperations Research
+p42
+aVManagement Science and Engineering
 p43
-aS'computer science'
-p44
 asS'education'
-p45
-(lp46
+p44
+(lp45
 VMaster
-p47
+p46
 asS'responsibility'
-p48
-(lp49
+p47
+(lp48
 S'data mining'
-p50
+p49
 aS'forecasting'
-p51
+p50
 aS'data infrastructure'
+p51
+aS'cross functionally'
 p52
-aVinsight
+aS'insight'
 p53
 aS'communicate'
 p54
@@ -105,16 +105,20 @@ aS'product'
 p55
 aS'collect data'
 p56
-aS'problem statement'
+aS'drive ... decision'
 p57
-aS'analysis'
+aS'problem statement'
 p58
-aS'recommendation'
+aS'analysis'
 p59
-aS'model'
+aS'recommendation'
 p60
-aS'presentation'
+aS'model'
 p61
-aS'optimization'
+aS'presentation'
 p62
+aS'optimization'
+p63
+aS'decision making'
+p64
 as.

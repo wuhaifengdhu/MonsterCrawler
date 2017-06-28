@@ -1,5 +1,5 @@
-skills: {'science': 1, 'visualization': 1, 'numpy': 1, 'data visualization': 1, 'python': 1, 'scikit-learn': 1, 'data scientist': 1, 'analysis': 1, 'machine learning': 1, 'computer vision': 1, 'command': 1, 'computer science': 1, 'sql': 1, 'research': 1, 'data': 1, u'panda': 1, 'statistical analysis': 1}
-working-year: {u'[0]': 1}
-major: {'business': 1, 'science': 1, 'machine learning': 1, 'computer science engineering': 1, 'computer science': 1, 'statistic': 1, 'ee computer science': 1}
-education: {u'Bachelor': 1}
-responsibility: {'product': 1, 'communicate': 1, 'analysis': 1, 'understand': 1, 'report': 1, 'model': 1}
+skills: {'a': 0.014220850902007807, 'visualization': 0.00712659799214437, 'numpy': 0.013640609509914407, 'data visualization': 0.007478074621975668, 'python': 0.0019819449154116577, 'data scientist': 0.004028029145109803, 'scikit-learn': 0.013640609509914407, 'computer vision': 0.01344044890945332, 'analysis': 0.0026054655646701895, 'machine learning': 0.0024924628206617464, 'metrics': 0.016597604235478743, 'engineering': 0.004657242498378915, 'command': 0.014599826149363363, 'computer science': 0.005345943966491334, 'sql': 0.002592942429022993, 'intelligence': 0.005969804600329958, 'science': 0.010692530618921557, 'research': 0.003243955671717636, 'data': 0.002254781138297964, u'panda': 0.016740026650549668, 'statistical analysis': 0.009789734423622083}
+working-year: {'[0]': 0.008350626351879782}
+major: {u'Engineering': 0.008564178428770827, u'Computer Science': 0.0034424172865102575, u'Business': 0.004112982308646822}
+education: {u'Bachelor': 0.003465318736387478}
+responsibility: {'product': 0.010228082819146363, 'communicate': 0.007628299932629628, 'analysis': 0.0026054655646701895, 'understand': 0.007991177997886978, 'report': 0.01578156973515155, 'model': 0.00588369141407468}

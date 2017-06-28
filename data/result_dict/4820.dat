@@ -6,102 +6,108 @@ S'nosql'
 p4
 aS'rest'
 p5
-aS'engineering'
+aS'node.js'
 p6
-aS'amazon web services'
+aS'unix'
 p7
-aS'management'
+aS'linux'
 p8
-aS'java'
+aS'amazon web services'
 p9
-aS'scala'
+aS'management'
 p10
-aS'data'
+aS'java'
 p11
-aS'storage'
+aS'scala'
 p12
-aS'perl'
+aS'data'
 p13
-aS'access'
+aS'storage'
 p14
-aS'computer science'
+aS'perl'
 p15
-aS'web services'
+aS'access'
 p16
-aS'web development'
+aS'computer science'
 p17
-aS'architecture'
+aS'web services'
 p18
-aS'google cloud platform'
+aS'web development'
 p19
-aS'python'
+aS'architecture'
 p20
-aS'html5'
+aS'google cloud platform'
 p21
-aS'sql'
+aS'python'
 p22
-aS'ruby'
+aS'javascript'
 p23
-aS'software development'
+aS'html5'
 p24
+aS'sql'
+p25
+aS'ruby'
+p26
+aS'software development'
+p27
 aS'c'
 aS'database management'
-p25
-aS'programming'
-p26
-aS'analysis'
-p27
-aS'technical analysis'
 p28
+aS'windows'
+p29
+aS'science'
+p30
+aS'programming'
+p31
+aS'engineering'
+p32
+aS'analysis'
+p33
+aS'technical analysis'
+p34
 aS'r'
 aS'microsoft azure'
-p29
+p35
 aS'product management'
-p30
-aS'organization'
-p31
-aS'security'
-p32
-aS'application development'
-p33
-asS'working-year'
-p34
-(lp35
-V[0]
 p36
-asS'major'
+aS'organization'
 p37
-(lp38
-S'management'
+aS'security'
+p38
+aS'application development'
 p39
-aS'engineering'
+asS'working-year'
 p40
-aS'computer engineering'
-p41
-aS'design'
+(lp41
+S'[0]'
 p42
-aS'computer science'
+asS'major'
 p43
-aS'electrical computer engineering'
-p44
-aS'web development'
+(lp44
+VEngineering
 p45
-asS'education'
+aVElectrical and Electronics Engineering
 p46
-(lp47
-S'Bachelor'
+aVComputer Science
+p47
+aVManagement Science and Engineering
 p48
-asS'responsibility'
+asS'education'
 p49
 (lp50
-S'development'
+VBachelor
 p51
-aS'communicate'
+asS'responsibility'
 p52
-aS'product'
-p53
-aS'design'
+(lp53
+S'development'
 p54
-aS'analysis'
+aS'communicate'
 p55
+aS'product'
+p56
+aS'design'
+p57
+aS'analysis'
+p58
 as.

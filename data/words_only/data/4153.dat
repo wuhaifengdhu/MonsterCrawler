@@ -4,229 +4,212 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.0062103072668324684
 sS'communication'
 p5
-I1
+F0.0028628740671082396
 sS'mysql'
 p6
-I1
-sS'c++'
-p7
-I1
+F0.0042932331404832219
 sS'information retrieval'
+p7
+F0.0063463309276368413
+sS'analysis'
 p8
-I1
-sS'hive'
-p9
-I1
+F0.0006195636921412838
 sS'problem solving'
-p10
-I1
+p9
+F0.0044387194664615749
 sS'data mining'
-p11
-I1
+p10
+F0.0038372139759170658
 sS'go'
+p11
+F0.0059293186166864869
+sS'data modeling'
 p12
-I1
-sS'distributed computing'
-p13
-I1
+F0.0047236921244453367
 sS'hbase'
+p13
+F0.0060547162564919916
+sS'perl'
 p14
-I1
+F0.0051827319064907205
 sS'research'
 p15
-I1
-sS'open source'
-p16
-I1
-sS'big data'
-p17
-I1
-sS'hadoop'
-p18
-I1
-sS'writing'
-p19
-I1
-sS'r'
-I1
-sS'gurobi'
-p20
-I1
-sS'matlab'
-p21
-I1
-sS'policy'
-p22
-I1
-sS'computer science'
-p23
-I1
-sS'data analysis'
-p24
-I1
-sS'data modeling'
-p25
-I1
-sS'python'
-p26
-I1
-sS'data scientist'
-p27
-I1
+F0.0015427854279597437
 sS'training'
+p16
+F0.0042555058788830546
+sS'open source'
+p17
+F0.0057828566725462828
+sS'big data'
+p18
+F0.0023014920910717314
+sS'hadoop'
+p19
+F0.0046466781244107226
+sS'writing'
+p20
+F0.0040634002279972747
+sS'r'
+F0.0020072054488750133
+sS'gurobi'
+p21
+F0.010751555504926244
+sS'matlab'
+p22
+F0.0023081395798156684
+sS'policy'
+p23
+F0.0049360908282834529
+sS'computer science'
+p24
+F0.0025424652137201096
+sS'data analysis'
+p25
+F0.0026831139511133183
+sS'distributed computing'
+p26
+F0.0064690713606859176
+sS'python'
+p27
+F0.00094258863065690046
+sS'data scientist'
 p28
-I1
-sS'modeling'
-p29
-I1
-sS'spark'
-p30
-I1
-sS'data'
-p31
-I1
+F0.0019156811304952589
 sS'search'
+p29
+F0.028046923848551248
+sS'modeling'
+p30
+F0.0029372357649965729
+sS'spark'
+p31
+F0.0060981396864942441
+sS'data'
 p32
-I1
+F0.0049327924432420924
+sS'a'
+F0.0033816309106944422
+sS'c'
+F0.0022615224663618395
 sS'java'
 p33
-I1
-sS'scikit-learn'
+F0.0044819781832487644
+sS'science'
 p34
-I1
-sS'mapreduce'
+F0.0012713090202424817
+sS'scikit-learn'
 p35
-I1
-sS'analysis'
+F0.0064873061502847898
+sS'mapreduce'
 p36
-I1
-sS'machine learning'
+F0.0047679955098660406
+sS'hive'
 p37
-I1
-sS'e-commerce'
-p38
-I1
-sS'weka'
-p39
-I1
-sS'optimization'
-p40
-I1
-sS'scripting'
-p41
-I1
-sS'statistical analysis'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(2, 5]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'information'
-p48
-I1
-sS'business'
-p49
-I1
-sS'big data'
-p50
-I1
-sS'computing'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'data mining'
-p53
-I1
-sS'machine learning data mining'
-p54
-I1
-sS'computer science'
-p55
-I1
-sS'phd'
-p56
-I1
-sS'statistic'
-p57
-I1
+F0.0037717075035985652
 sS'machine learning'
-p58
-I1
-sS'information retrieval'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VDoctor
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'development'
-p65
-I1
-sS'large data set'
-p66
-I1
-sS'product'
-p67
-I1
-sS'data analysis'
-p68
-I1
-sS'develop model'
-p69
-I1
-sS'information'
-p70
-I1
-sS'identify trend'
-p71
-I1
-sS'recommendation'
-p72
-I1
-sS'analysis'
-p73
-I1
-sS'improvement'
-p74
-I1
+p38
+F0.0011853846687776479
+sS'e-commerce'
+p39
+F0.013629102490504261
+sS'weka'
+p40
+F0.0070321172299841958
 sS'optimization'
-p75
-I1
-sS'complex data set'
-p76
-I1
+p41
+F0.0072333050900128103
+sS'scripting'
+p42
+F0.0043997909176250695
+sS'statistical analysis'
+p43
+F0.0046558773117768674
+ssS'working-year'
+p44
+(dp45
+V(2, 5]
+p46
+F0.0022404058380309862
+ssS'major'
+p47
+(dp48
+VComputer Science
+p49
+F0.0016371713315591278
+sVBusiness
+p50
+F0.0019560838104414361
+ssS'education'
+p51
+(dp52
+VMaster
+p53
+F0.0013151549461558351
+sVDoctor
+p54
+F0.0019695872907350234
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.0021898028976747174
+sS'large data set'
+p58
+F0.0056861792682330308
+sS'product'
+p59
+F0.0048643504185090294
+sS'data analysis'
+p60
+F0.0026831139511133183
+sS'information'
+p61
+F0.0025083276664184351
+sS'improvement'
+p62
+F0.0048575162682443183
 sS'data mining'
-p77
-I1
-sS'validate model'
-p78
-I1
-sS'modeling'
-p79
-I1
-sS'implement'
-p80
-I1
-sS'prototype'
-p81
-I1
+p63
+F0.0038372139759170658
 sS'model'
-p82
-I1
+p64
+F0.0083946338620342186
+sS'analysis'
+p65
+F0.0006195636921412838
+sS'develop ... model'
+p66
+F0.0056056293438989831
+sS'identify ... trend'
+p67
+F0.0077653148511762473
+sS'optimization'
+p68
+F0.0072333050900128103
+sS'complex data set'
+p69
+F0.0090436757654293702
+sS'recommendation'
+p70
+F0.0047236921244453367
+sS'modeling'
+p71
+F0.0029372357649965729
+sS'implement'
+p72
+F0.0038297706602524548
+sS'prototype'
+p73
+F0.0057019374566902124
+sS'validate ... model'
+p74
+F0.0094661232320816645
+sS'normalization'
+p75
+F0.010956489329304996
 ss.

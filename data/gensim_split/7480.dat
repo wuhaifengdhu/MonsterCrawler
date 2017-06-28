@@ -1,174 +1,318 @@
-job_requisition
-number
-120236
-category
-engineering
--
-engineer
-primary_location
-reston_va
-u
-security_clearance
-t_sci
-polygraph_clearance
-status
-must_current
-schedule_full
-time
-type_travel
-continental_u
-percent_travel
-required
-10
-description
-duty_responsibility
-apply
-data
-science_tradecraft
-multi-int_big
-data_set
-osint_geoint
-sigint_accomplish
-trend_pattern
-analysis
-data
-support
-predictive
-analysis
-work
-organization
-software_developer
-tailoring_formatting
-data
-meet
-mission
-requirement
-utilize
-statistical_technique
-analyze_extract
-relevant
-information
-large_amount
-data
-automate_optimize
-data
-extraction_cleaning
-processing
-analysis
-function
-develop_validate
-implement
-data
-model
-solve_problem
-answer_question
-develop_implement
-novel
-statistical
-approach
-address_complex
-issue
-perform
-data
-science_engineering
-little_guidance
-independently_write
-report_detailing
-method
-result
-impact
-assigned
-issue
-required_qualification
-typically_requires
-bachelor's_degree
-equivalent_12-15
-year
-related
-experience
-master's_degree
-preferred
-proficiency
-statistic
-package_spss
-sa_s-plus
-r
-programming
-skill
-sufficient_extract
-transform_clean
-multi-terabyte_database
-phd_degree
-mathematics_statistic
-operation_research
-engineering
-science
-equivalent
-experience
-preferred
-10_year
-experience
-performing
-data
-science_engineering
-work
-writing
-report
-based_upon
-resulting
-work
-accomplishment
-published
-data
-science
-report_authored
-new
-procedure
-method
-create
-innovative
-statistical
-approach
-solve_complex
-issue
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV120236
+p4
+aVcategory engineering
+p5
+aV-
+aVengineer
+p6
+aVprimary location
+p7
+aVreston va
+p8
+aVu
+aVsecurity clearance
+p9
+aVt sci
+p10
+aVpolygraph clearance
+p11
+aVstatus
+p12
+aVmust current
+p13
+aVschedule full
+p14
+aVtime
+p15
+aVtype travel
+p16
+aVcontinental u
+p17
+aVpercent travel
+p18
+aVrequired
+p19
+aV10
+p20
+aVdescription duty
+p21
+aVresponsibility
+p22
+aVapply
+p23
+aVdata science
+p24
+aVtradecraft multi-int
+p25
+aVbig data
+p26
+aVset osint
+p27
+aVgeoint sigint
+p28
+aVaccomplish trend
+p29
+aVpattern
+p30
+aVanalysis
+p31
+aVdata
+p32
+aVsupport
+p33
+aVpredictive
+p34
+aVanalysis
+p35
+aVwork
+p36
+aVorganization
+p37
+aVsoftware developer
+p38
+aVtailoring formatting
+p39
+aVdata
+p40
+aVmeet
+p41
+aVmission
+p42
+aVrequirement
+p43
+aVutilize statistical
+p44
+aVtechnique
+p45
+aVanalyze extract
+p46
+aVrelevant information
+p47
+aVlarge amount
+p48
+aVdata
+p49
+aVautomate optimize
+p50
+aVdata extraction
+p51
+aVcleaning processing
+p52
+aVanalysis
+p53
+aVfunction
+p54
+aVdevelop validate
+p55
+aVimplement
+p56
+aVdata
+p57
+aVmodel
+p58
+aVsolve problem
+p59
+aVanswer question
+p60
+aVdevelop implement
+p61
+aVnovel
+p62
+aVstatistical
+p63
+aVapproach address
+p64
+aVcomplex issue
+p65
+aVperform
+p66
+aVdata science
+p67
+aVengineering little
+p68
+aVguidance independently
+p69
+aVwrite report
+p70
+aVdetailing method
+p71
+aVresult
+p72
+aVimpact assigned
+p73
+aVissue
+p74
+aVrequired qualification
+p75
+aVtypically requires
+p76
+aVbachelor's degree
+p77
+aVequivalent 12-15
+p78
+aVyear related
+p79
+aVexperience
+p80
+aVmaster's degree
+p81
+aVpreferred
+p82
+aVproficiency
+p83
+aVstatistic package
+p84
+aVspss sa
+p85
+aVs-plus r
+p86
+aVprogramming skill
+p87
+aVsufficient extract
+p88
+aVtransform clean
+p89
+aVmulti-terabyte database
+p90
+aVphd degree
+p91
+aVmathematics statistic
+p92
+aVoperation research
+p93
+aVengineering
+p94
+aVscience equivalent
+p95
+aVexperience
+p96
+aVpreferred
+p97
+aV10 year
+p98
+aVexperience performing
+p99
+aVdata science
+p100
+aVengineering
+p101
+aVwork
+p102
+aVwriting
+p103
+aVreport
+p104
+aVbased upon
+p105
+aVresulting
+p106
+aVwork accomplishment
+p107
+aVpublished
+p108
+aVdata science
+p109
+aVreport authored
+p110
+aVnew
+p111
+aVprocedure
+p112
+aVmethod
+p113
+aVcreate
+p114
+aVinnovative
+p115
+aVstatistical
+p116
+aVapproach solve
+p117
+aVcomplex issue
+p118
+aVcompany description
+p119
+aVcaci employ
+p120
+aVdiverse range
+p121
+aVtalent create
+p122
+aVenvironment fuel
+p123
+aVinnovation foster
+p124
+aVcontinuous improvement
+p125
+aVsuccess join
+p126
+aVcaci opportunity
+p127
+aVmake immediate
+p128
+aVimpact providing
+p129
+aVinformation
+p130
+aVsolution
+p131
+aVservice
+p132
+aVsupport
+p133
+aVnational security
+p134
+aVmission government
+p135
+aVtransformation intelligence
+p136
+aVdefense federal
+p137
+aVcivilian customer
+p138
+aVfortune magazine
+p139
+aVworld's admired
+p140
+aVcompany
+p141
+aVservice
+p142
+aVindustry caci
+p143
+aVmember fortune
+p144
+aV1000 largest
+p145
+aVcompany russell
+p146
+aV2000 index
+p147
+aVp smallcap600
+p148
+aVindex caci
+p149
+aVprovides dynamic
+p150
+aVcareer 20
+p151
+aV000 employee
+p152
+aVworldwide caci
+p153
+aVequal opportunity
+p154
+aVemployer -
+p155
+aVfemale minority
+p156
+aVprotected veteran
+p157
+aVindividual disability
+p158
+a.

@@ -2,135 +2,140 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-I1
-sS'nosql'
+F0.0080732945848569979
+sS'data science'
 p5
-I1
-sS'data science'
-p6
-I1
+F0.0035482033205327407
 sS'decision support'
-p7
-I1
+p6
+F0.013101893681335606
 sS'pig'
+p7
+F0.0079605550888374368
+sS'analytics'
 p8
-I1
-sS'hbase'
+F0.002565597232989754
+sS'engineering'
 p9
-I1
-sS'cassandra'
+F0.00722628187064103
+sS'hbase'
 p10
-I1
-sS'dna'
+F0.009876867521652127
+sS'cassandra'
 p11
-I1
-sS'scala'
+F0.011104444019353028
+sS'dna'
 p12
-I1
-sS'agile'
+F0.013904049761719849
+sS'scala'
 p13
-I1
-sS'research'
+F0.0071993108781670699
+sS'agile'
 p14
-I1
-sS'pyspark'
+F0.0064415630463112369
+sS'research'
 p15
-I1
-sS'python'
+F0.010066788692173903
+sS'pyspark'
 p16
-I1
-sS'mongodb'
+F0.016561221494088868
+sS'python'
 p17
-I1
-sS'data scientist'
+F0.0015376150818680412
+sS'mongodb'
 p18
-I1
-sS'sql'
+F0.008722996353455385
+sS'data scientist'
 p19
-I1
-sS'data'
+F0.0031249901627253044
+sS'sql'
 p20
-I1
-sS'organization'
+F0.0020116338018673955
+sS'data'
 p21
-I1
-sS'applied mathematics'
+F0.0024489982746941311
+sS'a'
+F0.01103269553754588
+sS'organization'
 p22
-I1
-sS'hive'
+F0.010402264538534992
+sS'science'
 p23
-I1
-sS'machine learning'
-p24
-I1
-sS'r'
-I1
-sS'electrical engineering'
-p25
-I1
-sS'data analytics'
-p26
-I1
-ssS'working-year'
-p27
-(dp28
-V(0, 2]
-p29
-I1
-ssS'major'
-p30
-(dp31
-S'business'
-p32
-I1
+F0.0020738462778586795
 sS'applied mathematics'
-p33
-I1
-sS'statistic'
-p34
-I1
+p24
+F0.0089147809582410219
+sS'hive'
+p25
+F0.0061526674026253876
 sS'machine learning'
-p35
-I1
-sS'applied math'
-p36
-I1
+p26
+F0.001933680595380647
+sS'r'
+F0.003274290894477529
 sS'electrical engineering'
-p37
-I1
-sS'data science'
-p38
-I1
+p27
+F0.011695059243005358
 sS'data analytics'
+p28
+F0.0060245506828489588
+ssS'working-year'
+p29
+(dp30
+V(0, 2]
+p31
+F0.0067185255577880626
+ssS'major'
+p32
+(dp33
+VBusiness
+p34
+F0.0031908977792746733
+sVData Science
+p35
+F0.0030303509811358781
+sVElectrical and Electronics Engineering
+p36
+F0.009282090251843603
+sVEngineering
+p37
+F0.0066441856246806123
+sVComputer Science
+p38
+F0.0026706659184430612
+sVMathematics
 p39
-I1
-sS'data science engineering'
-p40
-I1
+F0.0050568511197122473
 ssS'education'
-p41
-(dp42
-VMaster
+p40
+(dp41
+VBachelor
+p42
+F0.0026884331199702265
+sVMaster
 p43
-I1
+F0.0021453707528736781
 ssS'responsibility'
 p44
 (dp45
 S'development'
 p46
-I1
+F0.010716469047912553
 sS'product'
 p47
-I1
-sVinsight
-p48
-I1
-sS'model'
-p49
-I1
+F0.015870122604339194
 sS'data infrastructure'
+p48
+F0.01277010435592868
+sS'insight'
+p49
+F0.010825329533979263
+sS'drive ... model'
 p50
-I1
+F0.018387290891886669
+sS'model'
+p51
+F0.013693901255766732
 ss.

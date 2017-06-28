@@ -16,79 +16,82 @@ aS'hbase'
 p9
 aS'visualization'
 p10
-aS'open source'
+aS'statistics'
 p11
-aS'rdbms'
+aS'open source'
 p12
-aS'scala'
+aS'rdbms'
 p13
-aS'data'
+aS'scala'
 p14
-aS'hadoop'
+aS'data'
 p15
-aS'writing'
+aS'hadoop'
 p16
-aS'mahout'
+aS'writing'
 p17
-aS'theory'
+aS'mahout'
 p18
-aS'algebra'
+aS'theory'
 p19
-aS'data scientist'
+aS'algebra'
 p20
-aS'c'
-aS'algorithm design'
+aS'data scientist'
 p21
-aS'java'
+aS'algorithm design'
 p22
-aS'solr'
+aS'java'
 p23
-aS'groovy'
+aS'solr'
 p24
-aS'search'
+aS'groovy'
 p25
-aS'data visualization'
+aS'search'
 p26
-aS'analysis'
+aS'data visualization'
 p27
-aS'machine learning'
+aS'analysis'
 p28
-aS'weka'
+aS'machine learning'
 p29
-aS'elasticsearch'
+aS'lucene'
 p30
-asS'working-year'
+aS'weka'
 p31
-(lp32
-V[0]
+aS'elasticsearch'
+p32
+aS'physics'
 p33
-asS'major'
+asS'working-year'
 p34
 (lp35
-S'statistic'
+S'[0]'
 p36
-aS'machine learning'
+asS'major'
 p37
-aS'analytics'
-p38
-aS'design'
+(lp38
+VData Science
 p39
-aS'data mining'
+aVStatistics
 p40
-aVphysic
+aVPhysics
 p41
-asS'education'
+aVComputer Science
 p42
-(lp43
-S'Bachelor'
-p44
-asS'responsibility'
+asS'education'
+p43
+(lp44
+VBachelor
 p45
-(lp46
-S'design'
+aVMaster
+p46
+asS'responsibility'
 p47
-aS'analysis'
-p48
-aS'data mining'
+(lp48
+S'design'
 p49
+aS'analysis'
+p50
+aS'data mining'
+p51
 as.

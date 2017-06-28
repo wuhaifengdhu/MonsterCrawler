@@ -18,133 +18,131 @@ aS'hive'
 p10
 aS'problem solving'
 p11
-aS'strategy'
+aS'sas'
 p12
-aS'regression'
+aS'research'
 p13
-aS'visualization'
+aS'regression'
 p14
-aS'management'
+aS'visualization'
 p15
-aS'java'
+aS'management'
 p16
-aS'predictive modeling'
+aS'java'
 p17
-aS'hadoop'
+aS'predictive modeling'
 p18
-aS'writing'
+aS'education'
 p19
-aS'quality assurance'
+aS'hadoop'
 p20
-aS'natural language processing'
+aS'writing'
 p21
-aS'mathematics'
+aS'strategy'
 p22
-aS'data analysis'
+aS'quality assurance'
 p23
-aS'data modeling'
+aS'natural language processing'
 p24
-aS'business analysis'
+aS'mathematics'
 p25
-aS'python'
+aS'data analysis'
 p26
-aS'processing'
+aS'data modeling'
 p27
-aS'modeling'
+aS'business analysis'
 p28
-aS'data'
+aS'python'
 p29
-aS'engineering'
+aS'processing'
 p30
-aS'svm'
+aS'modeling'
 p31
-aS'data visualization'
+aS'data'
 p32
-aS'science'
+aS'engineering'
 p33
-aS'economics'
+aS'svm'
 p34
-aS'programming'
+aS'data visualization'
 p35
-aS'mapreduce'
+aS'science'
 p36
-aS'analysis'
+aS'economics'
 p37
-aS'machine learning'
+aS'programming'
 p38
-aS'r'
-aS'logistic regression'
+aS'mapreduce'
 p39
-aS'statistical analysis'
+aS'analysis'
 p40
-asS'working-year'
+aS'machine learning'
 p41
-(lp42
-V(5, 10]
+aS'r'
+aS'algorithms'
+p42
+aS'logistic regression'
 p43
-aV(2, 5]
+aS'statistical analysis'
 p44
-asS'major'
+asS'working-year'
 p45
 (lp46
-S'management'
+V(5, 10]
 p47
-aS'business analysis'
+aV(2, 5]
 p48
-aS'business'
+asS'major'
 p49
-aS'analytics'
-p50
-aS'science'
+(lp50
+VBusiness
 p51
-aS'data science'
+aVData Science
 p52
-aS'economics'
+aVEconomics
 p53
-aS'statistic'
+aVEngineering
 p54
-aS'machine learning'
+aVComputer Science
 p55
-aS'management science'
+aVMathematics
 p56
-aS'engineering'
+aVManagement Science and Engineering
 p57
-aS'natural language processing'
-p58
-aS'communication'
-p59
-aS'mathematics'
-p60
 asS'education'
+p58
+(lp59
+VBachelor
+p60
+aVMaster
 p61
-(lp62
-VMaster
-p63
 asS'responsibility'
-p64
-(lp65
+p62
+(lp63
 S'development'
-p66
+p64
 aS'product'
-p67
+p65
 aS'data analysis'
-p68
+p66
 aS'processing'
-p69
+p67
 aS'presentation'
-p70
-aVinsight
-p71
+p68
+aS'insight'
+p69
 aS'analysis'
-p72
+p70
 aS'analytic'
-p73
+p71
 aS'report'
-p74
+p72
 aS'modeling'
-p75
+p73
 aS'model'
-p76
+p74
 aS'extract'
-p77
+p75
+aS'validate ... model'
+p76
 as.

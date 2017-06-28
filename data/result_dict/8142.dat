@@ -10,100 +10,97 @@ aS'testing'
 p6
 aS'analytics'
 p7
-aS'integrated marketing'
+aS'sas'
 p8
-aS'insurance'
+aS'strategy'
 p9
-aS'direct mail'
+aS'insurance'
 p10
-aS'predictive modeling'
+aS'direct mail'
 p11
-aS'excel'
+aS'integrated marketing'
 p12
-aS'research'
+aS'predictive modeling'
 p13
-aS'mathematics'
+aS'excel'
 p14
-aS'segmentation'
+aS'research'
 p15
-aS'marketing'
+aS'mathematics'
 p16
-aS'data scientist'
+aS'segmentation'
 p17
-aS'statistical modeling'
+aS'marketing'
 p18
-aS'sql'
+aS'data scientist'
 p19
-aS'modeling'
+aS'statistical modeling'
 p20
-aS'data'
+aS'sql'
 p21
-aS'word'
+aS'modeling'
 p22
-aS'economics'
+aS'data'
 p23
-aS'analysis'
+aS'a'
+aS'word'
 p24
-aS'optimization'
+aS'economics'
 p25
-aS'healthcare'
+aS'analysis'
 p26
-aS'powerpoint'
+aS'optimization'
 p27
-asS'working-year'
+aS'healthcare'
 p28
-(lp29
-V(5, 10]
+aS'retail'
+p29
+aS'powerpoint'
 p30
-asS'major'
+asS'working-year'
 p31
 (lp32
-S'mathematics economics'
+V(5, 10]
 p33
-aS'business'
+asS'major'
 p34
-aS'information'
-p35
-aS'marketing'
+(lp35
+VMathematics
 p36
-aS'economics'
+aVData Science
 p37
-aS'mba'
+aVEconomics
 p38
-aS'analytics'
+aVBusiness
 p39
-aS'statistic'
-p40
-aS'mathematics'
-p41
 asS'education'
+p40
+(lp41
+VBachelor
 p42
-(lp43
-VMaster
-p44
+aVMaster
+p43
 asS'responsibility'
-p45
-(lp46
+p44
+(lp45
 S'information'
-p47
+p46
 aS'product'
-p48
+p47
 aS'pattern'
+p48
+aS'insight'
 p49
-aVinsight
-p50
 aS'analysis'
-p51
-aS'statistical model'
-p52
+p50
 aS'analytic'
-p53
+p51
 aS'optimization'
-p54
+p52
 aS'understand'
-p55
+p53
 aS'recommendation'
-p56
+p54
 aS'modeling'
-p57
+p55
 as.

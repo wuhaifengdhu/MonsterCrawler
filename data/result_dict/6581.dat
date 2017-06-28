@@ -4,82 +4,85 @@ p2
 (lp3
 S'outlook'
 p4
-aS'validation'
-p5
-aS'data scientist'
-p6
-aS'programming'
-p7
 aS'classification'
+p5
+aS'communication'
+p6
+aS'sales'
+p7
+aS'troubleshooting'
 p8
-aS'customer service'
+aS'problem solving'
 p9
 aS'linux'
 p10
 aS'excel'
 p11
-aS'analysis'
+aS'strategy'
 p12
 aS'access'
 p13
-aS'business development'
-p14
-aS'troubleshooting'
-p15
-aS'problem solving'
-p16
-aS'marketing'
-p17
-aS'communication'
-p18
-aS'word'
-p19
-aS'new business development'
-p20
-aS'data'
-p21
-aS'powerpoint'
-p22
-aS'data entry'
-p23
 aS'quality assurance'
-p24
-asS'working-year'
-p25
-(lp26
-V(0, 2]
-p27
-aV(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'marketing'
-p31
-aS'communication'
-p32
-aS'business'
-p33
-aS'information'
-p34
-asS'education'
-p35
-(lp36
-VMaster
-p37
-asS'responsibility'
-p38
-(lp39
-S'development'
-p40
-aS'information'
-p41
-aS'product'
-p42
+p14
+aS'marketing'
+p15
+aS'data entry'
+p16
+aS'customer service'
+p17
+aS'data scientist'
+p18
+aS'business development'
+p19
+aS'data'
+p20
+aS'a'
+aS'word'
+p21
+aS'programming'
+p22
 aS'analysis'
+p23
+aS'new business development'
+p24
+aS'validation'
+p25
+aS'powerpoint'
+p26
+aS'crm'
+p27
+asS'working-year'
+p28
+(lp29
+V(0, 2]
+p30
+aV(2, 5]
+p31
+asS'major'
+p32
+(lp33
+VEconomics
+p34
+aVBusiness
+p35
+asS'education'
+p36
+(lp37
+VMaster
+p38
+asS'responsibility'
+p39
+(lp40
+S'development'
+p41
+aS'information'
+p42
+aS'product'
 p43
-aS'report'
+aS'analysis'
 p44
-aS'model'
+aS'report'
 p45
+aS'model'
+p46
 as.

@@ -2,11 +2,12 @@
 S'skills'
 p2
 (lp3
-S'education'
+S'c'
+aS'statistics'
 p4
 aS'java'
 p5
-aS'epidemiology'
+aS'management'
 p6
 aS'python'
 p7
@@ -25,52 +26,62 @@ p13
 aS'regression analysis'
 p14
 aS'r'
-aS'healthcare'
+aS'education'
 p15
-aS'multivariate analysis'
+aS'healthcare'
 p16
-aS'writing'
+aS'multivariate analysis'
 p17
-aS'cluster analysis'
+aS'epidemiology'
 p18
-aS'regression'
+aS'writing'
 p19
-aS'scripting'
+aS'cluster analysis'
 p20
-asS'working-year'
+aS'regression'
 p21
-(lp22
-V[0]
+aS'scripting'
+p22
+asS'working-year'
 p23
+(lp24
+S'[0]'
+p25
 asS'major'
-p24
-(lp25
-S'epidemiology'
 p26
-aS'statistic'
-p27
-aS'machine learning'
+(lp27
+VBiological Engineering
 p28
-asS'education'
+aVStatistics
 p29
-(lp30
-VBachelor
+aVComputer Science
+p30
+aVManagement Science and Engineering
 p31
-aVMaster
+asS'education'
 p32
-asS'responsibility'
-p33
-(lp34
-Vtest hypothesis
+(lp33
+VBachelor
+p34
+aVMaster
 p35
-aVinsight
+asS'responsibility'
 p36
-aS'analysis'
-p37
-aS'model'
+(lp37
+Vtest hypothesis
 p38
-aS'prototype'
+aS'insight'
 p39
-aS'presentation'
+aS'analysis'
 p40
+aS'develop ... model'
+p41
+aS'model'
+p42
+aS'prototype'
+p43
+aS'presentation'
+p44
+aS'test ... model'
+p45
 as.

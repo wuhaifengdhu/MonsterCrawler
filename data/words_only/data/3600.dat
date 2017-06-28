@@ -2,138 +2,132 @@
 S'skills'
 p2
 (dp3
-S'clustering'
+S'classification'
 p4
-I1
-sS'data visualization'
-p5
-I1
-sS'search'
-p6
-I1
-sS'product development'
-p7
-I1
-sS'classification'
-p8
-I1
-sS'data cleaning'
-p9
-I1
+F0.011032733921182094
 sS'communication'
-p10
-I1
-sS'sql'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'analysis'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'r'
-I1
+p5
+F0.011071114399376619
 sS'statistical analysis'
-p15
-I1
+p6
+F0.0090024480888552718
 sS'data mining'
-p16
-I1
-sS'programming'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'matlab'
-p19
-I1
-sS'data'
-p20
-I1
+p7
+F0.0074195081422452364
 sS'random forest'
-p21
-I1
+p8
+F0.015879805226704
+sS'clustering'
+p9
+F0.011270673288658077
+sS'statistics'
+p10
+F0.0032605344573517644
 sS'data munging'
+p11
+F0.019208484496792931
+sS'computer science'
+p12
+F0.0049160253957595129
+sS'mathematics'
+p13
+F0.0063912352520133072
+sS'matlab'
+p14
+F0.0044629412155177094
+sS'product development'
+p15
+F0.0091380291915444407
+sS'data scientist'
+p16
+F0.0037040967313422316
+sS'sql'
+p17
+F0.0023844190868288358
+sS'data'
+p18
+F0.0029028336193052812
+sS'search'
+p19
+F0.010846118103670517
+sS'data visualization'
+p20
+F0.0068766909985300733
+sS'data cleaning'
+p21
+F0.017343814630022755
+sS'science'
 p22
-I1
-ssS'working-year'
+F0.0024581604482310925
+sS'programming'
 p23
-(dp24
-V(5, 10]
+F0.0038542490728492164
+sS'analysis'
+p24
+F0.0011979675585808739
+sS'machine learning'
 p25
-I1
-ssS'major'
+F0.002292020006412725
+sS'r'
+F0.0019405325406081858
+ssS'working-year'
 p26
 (dp27
-S'communication'
+V(5, 10]
 p28
-I1
-sS'data mining'
+F0.0042155393761428624
+ssS'major'
 p29
-I1
-sS'machine learning'
-p30
-I1
-sS'mathematics statistics'
+(dp30
+VMathematics
 p31
-I1
-sS'design'
+F0.0059939598936449368
+sVStatistics
 p32
-I1
-sS'computer science'
+F0.0062989677268813996
+sVComputer Science
 p33
-I1
-sS'statistic'
-p34
-I1
-sS'computer science mathematics'
-p35
-I1
-sS'ee computer science'
-p36
-I1
+F0.0031655795326999922
 ssS'education'
-p37
-(dp38
+p34
+(dp35
 VMaster
-p39
-I1
+p36
+F0.0025429394588257935
 sVDoctor
-p40
-I1
+p37
+F0.0038083278733442938
 ssS'responsibility'
-p41
-(dp42
+p38
+(dp39
 S'development'
-p43
-I1
+p40
+F0.0042341293790703451
 sS'product'
-p44
-I1
+p41
+F0.014108317035500839
+sS'evaluate ... experiment'
+p42
+F0.025169130395854569
 sS'pattern'
-p45
-I1
-sVinsight
-p46
-I1
+p43
+F0.0091559128516578523
+sS'insight'
+p44
+F0.0128314220699964
 sS'analysis'
-p47
-I1
-sS'evaluate experiment'
-p48
-I1
+p45
+F0.0011979675585808739
 sS'design'
-p49
-I1
+p46
+F0.0051063594755890824
 sS'data mining'
-p50
-I1
+p47
+F0.0074195081422452364
 sS'extract'
-p51
-I1
+p48
+F0.010817162694765138
+sS'design ... experiment'
+p49
+F0.01570046000453201
 ss.

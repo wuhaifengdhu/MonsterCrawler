@@ -6,9 +6,9 @@ S'consulting'
 p4
 aS'intellectual property'
 p5
-aS'excel'
-p6
 aS'communication'
+p6
+aS'sales'
 p7
 aS'analytics'
 p8
@@ -20,7 +20,7 @@ aS'finance'
 p11
 aS'management'
 p12
-aS'saas'
+aS'excel'
 p13
 aS'marketing'
 p14
@@ -32,84 +32,82 @@ aS'innovation'
 p17
 aS'data scientist'
 p18
-aS'leadership'
-p19
-aS'sql'
-p20
-aS'data'
-p21
-aS'customer relations'
-p22
-aS'customer experience'
-p23
 aS'vba'
+p19
+aS'metrics'
+p20
+aS'leadership'
+p21
+aS'sql'
+p22
+aS'data'
+p23
+aS'customer experience'
 p24
-aS'erp'
+aS'training'
 p25
-aS'performance metrics'
+aS'saas'
 p26
-aS'excel vba'
+aS'erp'
 p27
-aS'analysis'
+aS'performance metrics'
 p28
-aS'optimization'
+aS'excel vba'
 p29
-aS'command'
-p30
-aS'organization'
-p31
-aS'crm'
-p32
-asS'working-year'
-p33
-(lp34
-V(5, 10]
-p35
-aV(2, 5]
-p36
-asS'major'
-p37
-(lp38
-S'management'
-p39
-aS'finance'
-p40
-aS'business'
-p41
-aS'marketing'
-p42
-aS'general'
-p43
-aS'analytics'
-p44
-aS'design'
-p45
-aS'communication'
-p46
-asS'education'
-p47
-(lp48
-VMaster
-p49
-asS'responsibility'
-p50
-(lp51
-S'development'
-p52
-aS'product'
-p53
-aVinsight
-p54
 aS'analysis'
-p55
+p30
 aS'optimization'
-p56
+p31
+aS'command'
+p32
+aS'organization'
+p33
+aS'crm'
+p34
+asS'working-year'
+p35
+(lp36
+V(5, 10]
+p37
+aV(2, 5]
+p38
+asS'major'
+p39
+(lp40
+VData Science
+p41
+aVEconomics
+p42
+aVBusiness
+p43
+aVManagement Science and Engineering
+p44
+asS'education'
+p45
+(lp46
+VMaster
+p47
+asS'responsibility'
+p48
+(lp49
+S'development'
+p50
+aS'product'
+p51
+aS'insight'
+p52
+aS'analysis'
+p53
+aS'optimization'
+p54
 aS'design'
-p57
+p55
 aS'ownership'
-p58
+p56
 aS'report'
-p59
+p57
 aS'model'
-p60
+p58
+aS'monitor ... metric'
+p59
 as.

@@ -4,223 +4,207 @@ p2
 (dp3
 S'programming'
 p4
-I1
+F0.0020188923714924466
 sS'communication'
 p5
-I1
+F0.0028995775807891143
 sS'linux'
 p6
-I1
+F0.0033810953073245961
 sS'rest'
 p7
-I1
+F0.0065520081730024039
 sS'integration'
 p8
-I1
+F0.0042238885021879348
 sS'quality control'
 p9
-I1
+F0.008813025825576434
 sS'mysql'
 p10
-I1
+F0.0043482745910022377
 sS'laboratory'
 p11
-I1
+F0.030880819216636549
 sS'time management'
 p12
-I1
+F0.0078901323221327885
 sS'research'
 p13
-I1
+F0.0062502589132728079
 sS'visualization'
 p14
-I1
+F0.0034327752233222881
 sS'management'
 p15
-I1
+F0.0099565809582379365
 sS'java'
 p16
-I1
+F0.002269719721004182
 sS'agile'
 p17
-I1
+F0.0039994320012811529
 sS'r programming'
 p18
-I1
+F0.0057790511015715735
 sS'information management'
 p19
-I1
+F0.0088341993217786619
 sS'strategy'
 p20
-I1
+F0.0057692726418565382
 sS'database design'
 p21
-I1
-sS'assay development'
+F0.0068079757497957706
+sS'lamp'
 p22
-I1
-sS'innovation'
+F0.011698611743133887
+sS'assay development'
 p23
-I1
-sS'data management'
+F0.011331083681666514
+sS'innovation'
 p24
-I1
-sS'molecular biology'
+F0.0070909328649623573
+sS'data management'
 p25
-I1
-sS'apis'
-p26
-I1
-sS'python'
-p27
-I1
-sS'spotfire'
-p28
-I1
-sS'collaboration'
-p29
-I1
-sS'processing'
-p30
-I1
-sS'aws'
-p31
-I1
-sS'data quality'
-p32
-I1
-sS'perl'
-p33
-I1
-sS'data processing'
-p34
-I1
-sS'informatics'
-p35
-I1
-sS'php'
-p36
-I1
-sS'data'
-p37
-I1
-sS'project management'
-p38
-I1
-sS'software engineering'
-p39
-I1
-sS'drug development'
-p40
-I1
-sS'cloud computing'
-p41
-I1
-sS'education'
-p42
-I1
-sS'r'
-I1
-sS'science'
-p43
-I1
-sS'data integration'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-V(5, 10]
-p47
-I1
-sV(10, 15]
-p48
-I1
-ssS'major'
-p49
-(dp50
-S'information'
-p51
-I1
-sS'management'
-p52
-I1
-sS'business'
-p53
-I1
+F0.0050364800450719239
 sS'molecular biology'
-p54
-I1
-sS'science'
-p55
-I1
-sS'information management'
-p56
-I1
-sS'phd'
-p57
-I1
-sS'design'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'informatics'
-p60
-I1
-sS'software engineering'
-p61
-I1
-sS'computational biolog'
-p62
-I1
-sS'law'
-p63
-I1
-sS'project management'
-p64
-I1
-ssS'education'
-p65
-(dp66
-VBachelor
-p67
-I1
-sVMaster
-p68
-I1
-sVDoctor
-p69
-I1
-ssS'responsibility'
-p70
-(dp71
-S'development'
-p72
-I1
-sS'information'
-p73
-I1
-sS'ensure data integrity'
-p74
-I1
+p26
+F0.0075753928841701791
+sS'apis'
+p27
+F0.0067388559819352547
+sS'python'
+p28
+F0.00095467310028070687
+sS'spotfire'
+p29
+F0.0078648701697810706
+sS'collaboration'
+p30
+F0.004684376227240758
 sS'processing'
-p75
-I1
+p31
+F0.0059820076434824914
+sS'aws'
+p32
+F0.0047865867193804213
+sS'data quality'
+p33
+F0.006474062386787955
+sS'perl'
+p34
+F0.0052491771873431651
+sS'data processing'
+p35
+F0.0067320853438248632
+sS'informatics'
+p36
+F0.0080494917640725472
+sS'php'
+p37
+F0.0059427927541779862
+sS'data'
+p38
+F0.0043443768452187887
+sS'project management'
+p39
+F0.0034825152441841502
+sS'c'
+F0.0022905163441357093
+sS'software engineering'
+p40
+F0.004765683129512842
+sS'windows'
+p41
+F0.0061717281085782224
+sS'drug development'
+p42
+F0.011331083681666514
+sS'cloud computing'
+p43
+F0.0059296641661499014
+sS'education'
+p44
+F0.0038436387359217384
+sS'r'
+F0.0010164694260328593
+sS'science'
+p45
+F0.0025752157076706682
+sS'shiny'
+p46
+F0.0085763763571061677
+sS'data integration'
+p47
+F0.0070891230044534473
+ssS'working-year'
+p48
+(dp49
+V(5, 10]
+p50
+F0.00220813967321769
+sV(10, 15]
+p51
+F0.0035850299564072507
+ssS'major'
+p52
+(dp53
+VBiological Engineering
+p54
+F0.004817208389151448
+sVInformation Science
+p55
+F0.004638562616399439
+sVComputer Science
+p56
+F0.0016581607076047577
+sVBusiness
+p57
+F0.0019811618080111983
+sVManagement Science and Engineering
+p58
+F0.0023618031840089604
+ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0016691919920694262
+sVMaster
+p62
+F0.0013320159070039869
+sVDoctor
+p63
+F0.001994838409847011
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+F0.0044357545875975046
+sS'information'
+p67
+F0.0025404857134237995
+sS'ensure data integrity'
+p68
+F0.013428393026306922
+sS'processing'
+p69
+F0.0059820076434824914
 sS'design'
-p76
-I1
+p70
+F0.0026747597253085672
 sS'interface'
-p77
-I1
+p71
+F0.011566143584432522
 sS'understand'
-p78
-I1
+p72
+F0.0038492304275536179
 sS'implement'
-p79
-I1
+p73
+F0.0038788702841018453
 sS'presentation'
-p80
-I1
+p74
+F0.0045116379895780339
 ss.

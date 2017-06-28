@@ -4,175 +4,181 @@ p2
 (dp3
 S'survival analysis'
 p4
-I1
+F0.011453753769808346
 sS'forecasting'
 p5
-I1
+F0.0074233645717223249
 sS'nosql'
 p6
-I1
+F0.0069287262386494236
 sS'communication'
 p7
-I1
-sS'statistical analysis'
+F0.0040080236939515354
+sS'analytics'
 p8
-I1
-sS'system administration'
+F0.0022018669923633588
+sS'statistical analysis'
 p9
-I1
-sS'writing'
+F0.0065182282364876151
+sS'system administration'
 p10
-I1
-sS'research'
+F0.011658210770756402
+sS'writing'
 p11
-I1
-sS'clustering'
+F0.0056887603191961844
+sS'd3'
 p12
-I1
-sS'visualization'
+F0.0076460589675577065
+sS'clustering'
 p13
-I1
-sS'genetics'
+F0.0081605381279904049
+sS'visualization'
 p14
-I1
-sS'anomaly detection'
-p15
-I1
-sS'time series analysis'
-p16
-I1
-sS'deep learning'
-p17
-I1
-sS'hadoop'
-p18
-I1
-sS'd3.js'
-p19
-I1
-sS'r'
-I1
-sS'intelligence'
-p20
-I1
-sS'advanced analytics'
-p21
-I1
-sS'tensorflow'
-p22
-I1
-sS'graph theory'
-p23
-I1
-sS'python'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'experimental design'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'spark'
-p29
-I1
-sS'data'
-p30
-I1
-sS'bash'
-p31
-I1
-sS'collaborative filtering'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'optimization'
-p36
-I1
-sS'scripting'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V[0]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'graph theory'
-p43
-I1
+F0.0047450513213518212
 sS'genetics'
-p44
-I1
-sS'communication'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'design'
-p47
-I1
+p15
+F0.0098334306458706267
+sS'anomaly detection'
+p16
+F0.011126639248566102
+sS'time series analysis'
+p17
+F0.0072850909174672525
+sS'deep learning'
+p18
+F0.0078849156528948122
+sS'hadoop'
+p19
+F0.0032526746870875059
+sS'research'
+p20
+F0.0021598995991436412
+sS'r'
+F0.0014050438142125094
+sS'intelligence'
+p21
+F0.0039748319237639974
 sS'advanced analytics'
+p22
+F0.0074501533021217306
+sS'tensorflow'
+p23
+F0.010924002085383378
+sS'graph theory'
+p24
+F0.012491174336249716
+sS'theory'
+p25
+F0.0074189272163881909
+sS'python'
+p26
+F0.0013196240829196606
+sS'data scientist'
+p27
+F0.0026819535826933627
+sS'experimental design'
+p28
+F0.0087688933393422677
+sS'sql'
+p29
+F0.0017264401489444231
+sS'modeling'
+p30
+F0.0020560650354976011
+sS'spark'
+p31
+F0.0042686977805459709
+sS'data'
+p32
+F0.00090077079398333856
+sS'bash'
+p33
+F0.0094896368483725606
+sS'collaborative filtering'
+p34
+F0.011611327578811358
+sS'solver'
+p35
+F0.010924002085383378
+sS'programming'
+p36
+F0.0027906714805946225
+sS'analysis'
+p37
+F0.0008673891689977973
+sS'machine learning'
+p38
+F0.0016595385362887071
+sS'optimization'
+p39
+F0.015189940689026902
+sS'd3.js'
+p40
+F0.0087688933393422677
+sS'scripting'
+p41
+F0.0061597072846750972
+ssS'working-year'
+p42
+(dp43
+S'[0]'
+p44
+F0.0055600372925174247
+ssS'major'
+p45
+(dp46
+VBiological Engineering
+p47
+F0.0066587234948776971
+sVData Science
 p48
-I1
-sS'machine learning engineer'
+F0.0026007316015318042
+sVComputer Science
 p49
-I1
+F0.0022920398641827792
 ssS'education'
 p50
 (dp51
-S'Bachelor'
+VBachelor
 p52
-I1
+F0.0023072881713162197
 ssS'responsibility'
 p53
 (dp54
 S'development'
 p55
-I1
+F0.0030657240567446044
 sS'forecasting'
 p56
-I1
+F0.0074233645717223249
 sS'analysis'
 p57
-I1
-sS'analytic'
+F0.0008673891689977973
+sS'forecast'
 p58
-I1
-sS'optimization'
+F0.011497783024904668
+sS'analytic'
 p59
-I1
-sS'design'
+F0.011431523910377939
+sS'optimization'
 p60
-I1
-sS'modeling'
+F0.015189940689026902
+sS'design'
 p61
-I1
-sS'implement'
+F0.0036972628101733613
+sS'modeling'
 p62
-I1
-sS'presentation'
+F0.0020560650354976011
+sS'implement'
 p63
-I1
-sS'model'
+F0.0053616789243534366
+sS'develop ... model'
 p64
-I1
+F0.007847881081458577
+sS'presentation'
+p65
+F0.0062363401071129287
+sS'model'
+p66
+F0.0039174958022826353
 ss.

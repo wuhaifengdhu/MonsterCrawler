@@ -2,98 +2,113 @@
 S'skills'
 p2
 (lp3
-S'intelligence'
+S'probability'
 p4
-aS'communication'
+aS'intelligence'
 p5
-aS'engineering'
-p6
-aS'statistical analysis'
-p7
-aS'mysql'
-p8
-aS'go'
-p9
-aS'simulation'
-p10
-aS'regression'
-p11
-aS'experimentation'
-p12
-aS'clustering'
-p13
-aS'research'
-p14
-aS'innovation'
-p15
-aS'python'
-p16
-aS'customer service'
-p17
-aS'risk analysis'
-p18
-aS'sql'
-p19
-aS'modeling'
-p20
-aS'data'
-p21
-aS'software engineering'
-p22
-aS'programming'
-p23
-aS'analysis'
-p24
-aS'machine learning'
-p25
-aS'amazon redshift'
-p26
-asS'working-year'
-p27
-(lp28
-V(5, 10]
-p29
-asS'major'
-p30
-(lp31
-S'software engineering'
-p32
-aS'business'
-p33
 aS'communication'
-p34
-aS'machine learning'
-p35
+p6
+aS'analytics'
+p7
 aS'engineering'
-p36
-aS'design'
-p37
-aS'statistic'
-p38
-aS'law'
-p39
-asS'education'
-p40
-(lp41
-VMaster
-p42
-asS'responsibility'
-p43
-(lp44
-S'analysis'
-p45
+p8
+aS'statistical analysis'
+p9
+aS'mysql'
+p10
+aS'go'
+p11
 aS'simulation'
-p46
-aS'understand'
-p47
+p12
+aS'regression'
+p13
+aS'experimentation'
+p14
+aS'clustering'
+p15
+aS'statistics'
+p16
+aS'bayesian statistics'
+p17
+aS'research'
+p18
+aS'innovation'
+p19
+aS'python'
+p20
+aS'customer service'
+p21
+aS'automation'
+p22
+aS'risk analysis'
+p23
+aS'sql'
+p24
 aS'modeling'
+p25
+aS'data'
+p26
+aS'a'
+aS'github'
+p27
+aS'software engineering'
+p28
+aS'programming'
+p29
+aS'analysis'
+p30
+aS'machine learning'
+p31
+aS'credit'
+p32
+aS'amazon redshift'
+p33
+aS'predictive analytics'
+p34
+asS'working-year'
+p35
+(lp36
+V(5, 10]
+p37
+asS'major'
+p38
+(lp39
+VEngineering
+p40
+aVData Science
+p41
+aVStatistics
+p42
+aVComputer Science
+p43
+aVBusiness
+p44
+asS'education'
+p45
+(lp46
+VMaster
+p47
+asS'responsibility'
 p48
-aS'report'
-p49
-aS'design'
+(lp49
+S'information'
 p50
-aS'implement'
+aS'analysis'
 p51
-aS'model'
+aS'simulation'
 p52
+aS'understand'
+p53
+aS'modeling'
+p54
+aS'report'
+p55
+aS'design'
+p56
+aS'implement'
+p57
+aS'design ... experiment'
+p58
+aS'model'
+p59
 as.

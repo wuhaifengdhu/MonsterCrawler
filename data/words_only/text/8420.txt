@@ -1,5 +1,5 @@
-skills: {'intelligence': 1, 'scientific computing': 1, 'analytics': 1, 'engineering': 1, 'hbase': 1, 'education': 1, 'regression': 1, 'monetization': 1, 'clustering': 1, 'big data': 1, 'hadoop': 1, 'research': 1, 'computer science': 1, 'data scientist': 1, 'octave': 1, 'pig': 1, 'data': 1, 'knime': 1, 'machine learning': 1, 'r': 1, 'organization': 1, 'data analytics': 1}
-working-year: {u'(5, 10]': 1}
-major: {'business': 1, 'big data': 1, 'scientific computing': 1, 'machine learning': 1, 'analytics': 1, 'engineering': 1, 'design': 1, 'computer science': 1, 'data analytics': 1}
-education: {u'Master': 1}
-responsibility: {'implement': 1, u'insight': 1, 'design': 1, 'product': 1}
+skills: {'intelligence': 0.007169217396743283, 'pig': 0.012322503082720964, 'analytics': 0.007942807871995677, 'engineering': 0.005592944187550934, 'sas': 0.006325282450581811, 'hbase': 0.015288849725297128, 'education': 0.009582770547092553, 'regression': 0.010850081235989956, 'monetization': 0.04956775231704143, 'clustering': 0.01471877881532516, 'visualization': 0.008558425899241868, 'big data': 0.005811530257363778, 'scientific computing': 0.014740266048631129, 'research': 0.003895709322656339, 'matlab': 0.005828315925287967, 'innovation': 0.008839382064542116, 'computer science': 0.006420014900398267, 'octave': 0.01902209961430738, 'organization': 0.008051067759277082, 'data': 0.0054155930536289, 'knime': 0.02441091882009918, 'science': 0.0032102004027127506, 'hive': 0.009523992006803683, 'machine learning': 0.0029932316065481245, 'r': 0.0025342114457257586, 'hadoop': 0.005866696353422671, 'data analytics': 0.009325674344684004}
+working-year: {u'(5, 10]': 0.005505224938707118}
+major: {u'Data Science': 0.004690817272169236, u'Engineering': 0.01028483528203985, u'Business': 0.004939334918603261, u'Computer Science': 0.004134044503891314}
+education: {u'Master': 0.0033209163708866523}
+responsibility: {'implement': 0.009670608105568983, 'insight': 0.008378508474929155, 'design': 0.006668579041180262, 'product': 0.006141520048939482, 'decision making': 0.014915904337577687}

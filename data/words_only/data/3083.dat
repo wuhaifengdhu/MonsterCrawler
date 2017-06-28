@@ -2,139 +2,123 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'engineering'
 p4
-I1
-sS'data scientist'
+F0.0020279052600557196
+sS'personalization'
 p5
-I1
+F0.021982419476588959
 sS'big data'
 p6
-I1
-sS'solver'
-p7
-I1
+F0.0021071608052362044
 sS'agile'
-p8
-I1
-sS'collaboration'
-p9
-I1
-sS'innovation'
-p10
-I1
+p7
+F0.010846141751818755
 sS'recruiting'
-p11
-I1
+p8
+F0.011420192882839044
 sS'research'
-p12
-I1
+p9
+F0.0014125171219565203
 sS'access'
-p13
-I1
-sS'banking'
-p14
-I1
+p10
+F0.0038401689157226073
 sS'teamwork'
-p15
-I1
+p11
+F0.0094848018155695331
 sS'computer science'
-p16
-I1
-sS'personalization'
-p17
-I1
-sS'product management'
-p18
-I1
+p12
+F0.0023277868595814911
+sS'innovation'
+p13
+F0.0064100154706447799
+sS'collaboration'
+p14
+F0.0084691040399783243
+sS'data scientist'
+p15
+F0.0017539265979534409
 sS'facebook'
+p16
+F0.007075959782923383
+sS'data'
+p17
+F0.00039272015852474476
+sS'customer experience'
+p18
+F0.0063428748368977569
+sS'a'
+F0.0030960958503543487
+sS'solver'
 p19
-I1
-sS'military experience'
+F0.0071440079863020426
+sS'science'
 p20
-I1
+F0.0011639633910498219
 sS'machine learning'
 p21
-I1
-sS'data'
+F0.0010852942414470851
+sS'banking'
 p22
-I1
-sS'customer experience'
+F0.022743708069922885
+sS'product management'
 p23
-I1
-ssS'working-year'
+F0.005170526521567121
+sS'military experience'
 p24
-(dp25
+F0.0073535462880343879
+ssS'working-year'
+p25
+(dp26
 V(0, 2]
-p26
-I1
-sV(2, 5]
 p27
-I1
-ssS'major'
+F0.0037708280862419757
+sV(2, 5]
 p28
-(dp29
-S'information'
-p30
-I1
-sS'management'
+F0.0020512324974025424
+ssS'major'
+p29
+(dp30
+VEngineering
 p31
-I1
-sS'business'
+F0.0020279052600557196
+sVEconomics
 p32
-I1
-sS'big data'
+F0.0027165091846431473
+sVComputer Science
 p33
-I1
-sS'mba'
+F0.0014989333548877447
+sVBusiness
 p34
-I1
-sS'machine learning'
+F0.0017909177933346262
+sVManagement Science and Engineering
 p35
-I1
-sS'design'
-p36
-I1
-sS'computer science'
-p37
-I1
-sS'computer science engineering'
-p38
-I1
-sS'law'
-p39
-I1
-sS'ee computer science'
-p40
-I1
-sS'history'
-p41
-I1
+F0.002135007514021345
 ssS'education'
-p42
-(dp43
+p36
+(dp37
 VBachelor
-p44
-I1
+p38
+F0.0015089053438243488
 sVMaster
-p45
-I1
+p39
+F0.0012041070947420146
 ssS'responsibility'
-p46
-(dp47
+p40
+(dp41
 S'information'
-p48
-I1
+p42
+F0.009186127149201289
 sS'product'
-p49
-I1
-sVinsight
-p50
-I1
+p43
+F0.013360856530308742
+sS'insight'
+p44
+F0.003037902907300472
 sS'design'
-p51
-I1
+p45
+F0.0048358238742333692
 sS'identify opportunity'
-p52
-I1
+p46
+F0.0068576648025420357
 ss.

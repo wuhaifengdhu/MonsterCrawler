@@ -18,7 +18,7 @@ aS'web analytics'
 p10
 aS'team building'
 p11
-aS'education'
+aS'management'
 p12
 aS'time management'
 p13
@@ -26,6 +26,7 @@ aS'computer science'
 p14
 aS'innovation'
 p15
+aS'a'
 aS'marketing'
 p16
 aS'data scientist'
@@ -42,76 +43,72 @@ aS'training'
 p22
 aS'b testing'
 p23
-aS'science'
+aS'solver'
 p24
-aS'analysis'
-p25
-aS'google analytics'
-p26
-aS'optimization'
-p27
-aS'management'
-p28
-asS'working-year'
-p29
-(lp30
-V(2, 5]
-p31
-asS'major'
-p32
-(lp33
-S'management'
-p34
-aS'business'
-p35
-aS'marketing'
-p36
-aS'journalism'
-p37
-aS'analytics'
-p38
-aS'engineering'
-p39
-aS'design'
-p40
-aS'computer science'
-p41
 aS'science'
-p42
-aS'communication'
-p43
-asS'education'
-p44
-(lp45
-S'Bachelor'
-p46
-asS'responsibility'
-p47
-(lp48
-S'development'
-p49
-aS'product'
-p50
-aS'evaluation'
-p51
-aVinsight
-p52
-aS'communicate'
-p53
+p25
+aS'education'
+p26
 aS'analysis'
-p54
-aS'improvement'
-p55
-aS'analytic'
-p56
+p27
+aS'google analytics'
+p28
 aS'optimization'
-p57
+p29
+aS'organization'
+p30
+asS'working-year'
+p31
+(lp32
+V(2, 5]
+p33
+asS'major'
+p34
+(lp35
+VBusiness
+p36
+aVData Science
+p37
+aVEconomics
+p38
+aVEngineering
+p39
+aVComputer Science
+p40
+aVManagement Science and Engineering
+p41
+asS'education'
+p42
+(lp43
+VBachelor
+p44
+asS'responsibility'
+p45
+(lp46
+S'development'
+p47
+aS'product'
+p48
+aS'evaluation'
+p49
+aS'insight'
+p50
+aS'communicate'
+p51
+aS'analysis'
+p52
+aS'improvement'
+p53
+aS'analytic'
+p54
+aS'optimization'
+p55
 aS'design'
-p58
+p56
 aS'recommendation'
-p59
+p57
 aS'model'
-p60
+p58
 aS'presentation'
-p61
+p59
 as.

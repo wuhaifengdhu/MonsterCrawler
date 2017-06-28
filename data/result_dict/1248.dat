@@ -2,49 +2,49 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
-p5
 aS'redis'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'data acquisition'
-p8
+p7
 aS'integration'
-p9
+p8
 aS'database administration'
-p10
+p9
 aS'analytics'
-p11
+p10
 aS'business intelligence'
-p12
+p11
 aS'data warehousing'
-p13
+p12
 aS'go'
-p14
+p13
 aS'transportation'
-p15
+p14
 aS'open source'
-p16
+p15
 aS'big data'
-p17
+p16
 aS'agile'
-p18
+p17
 aS'recruiting'
-p19
+p18
 aS'hadoop'
-p20
+p19
 aS'governance'
-p21
+p20
 aS'strategy'
-p22
+p21
 aS'etl'
-p23
+p22
 aS'communication'
-p24
+p23
 aS'intelligence'
+p24
+aS'css'
 p25
 aS'data modeling'
 p26
@@ -73,83 +73,59 @@ aS'cloudera'
 p37
 aS'science'
 p38
-aS'.net'
-p39
 aS'machine learning'
-p40
+p39
 aS'r'
 aS'architecture'
-p41
+p40
 aS'healthcare'
-p42
+p41
 aS'data integration'
+p42
+aS'predictive analytics'
 p43
-aS'predictive analytics'
-p44
 asS'working-year'
-p45
-(lp46
+p44
+(lp45
 V(5, 10]
-p47
+p46
 aV(2, 5]
-p48
+p47
 asS'major'
-p49
-(lp50
-S'information'
+p48
+(lp49
+VData Science
+p50
+aVComputer Science
 p51
-aS'transportation'
+aVBusiness
 p52
-aS'it strategy'
-p53
-aS'big data'
-p54
-aS'computing'
-p55
-aS'science'
-p56
-aS'data science'
-p57
-aS'machine learning'
-p58
-aS'business'
-p59
-aS'analytics'
-p60
-aS'design'
-p61
-aS'communication'
-p62
-aS'predictive analytics'
-p63
-aS'history'
-p64
 asS'education'
-p65
-(lp66
+p53
+(lp54
 S'Bachelor'
-p67
+p55
 asS'responsibility'
-p68
-(lp69
+p56
+(lp57
 S'development'
-p70
-aS'large data set'
-p71
-aS'product'
-p72
-aS'formulate'
-p73
+p58
 aS'information'
-p74
+p59
+aS'product'
+p60
+aS'formulate'
+p61
+aS'large data set'
+p62
 aS'pattern'
-p75
+p63
 aS'processing'
-p76
+p64
 aS'design'
-p77
+p65
 aS'report'
-p78
+p66
 aS'modeling'
-p79
+p67
 as.

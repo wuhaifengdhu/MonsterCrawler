@@ -2,84 +2,87 @@
 S'skills'
 p2
 (dp3
-S'structural equation modeling'
+S'clustering'
 p4
-I1
-sS'data visualization'
+F0.04241332316521329
+sS'structural equation modeling'
 p5
-I1
-sS'python'
+F0.079722876304021875
+sS'data visualization'
 p6
-I1
-sS'predictive modeling'
+F0.025878074020784219
+sS'python'
 p7
-I1
-sS'data scientist'
+F0.0068585725362271836
+sS'predictive modeling'
 p8
-I1
-sS'factor analysis'
+F0.027355340903802233
+sS'data scientist'
 p9
-I1
-sS'analysis'
+F0.013939100857419451
+sS'segmentation'
 p10
-I1
-sS'tableau'
+F0.038105938317500539
+sS'analysis'
 p11
-I1
-sS'r'
-I1
-sS'dashboard'
+F0.0045081410757122362
+sS'tableau'
 p12
-I1
-sS'statistical modeling'
+F0.026434553777944625
+sS'r'
+F0.0073025303501834359
+sS'dashboard'
 p13
-I1
-sS'sql'
+F0.046136854856836121
+sS'statistical modeling'
 p14
-I1
-sS'modeling'
+F0.023570598949873636
+sS'sql'
 p15
-I1
-sS'pca'
+F0.0089729455109611462
+sS'factor analysis'
 p16
-I1
-sS'data'
+F0.064751454624440388
+sS'modeling'
 p17
-I1
-sS'regression'
+F0.010686127487125691
+sS'pca'
 p18
-I1
-ssS'working-year'
+F0.076069836977745844
+sS'data'
 p19
-(dp20
-V(5, 10]
+F0.0015605458930851698
+sS'regression'
+p20
+F0.031265365666865795
+ssS'working-year'
 p21
-I1
+(dp22
+V(5, 10]
+p23
+F0.015863740283906035
 ssS'major'
-p22
-(dp23
-sS'education'
 p24
 (dp25
-S'Bachelor'
+sS'education'
 p26
-I1
+(dp27
+VDoctor
+p28
+F0.014331339102321946
 ssS'responsibility'
-p27
-(dp28
-S'modeling'
 p29
-I1
-sS'implement'
-p30
-I1
-sS'mapping'
+(dp30
+S'modeling'
 p31
-I1
-sS'analysis'
+F0.010686127487125691
+sS'implement'
 p32
-I1
-sS'statistical model'
+F0.027866620725257991
+sS'mapping'
 p33
-I1
+F0.11247051865488746
+sS'analysis'
+p34
+F0.0045081410757122362
 ss.

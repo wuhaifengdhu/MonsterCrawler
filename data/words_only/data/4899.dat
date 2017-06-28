@@ -2,134 +2,137 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-I1
-sS'nosql'
-p5
-I1
+F0.0094700583538633986
 sS'cluster'
+p5
+F0.012154501046780196
+sS'engineering'
 p6
-I1
+F0.0084765036475685437
 sS'pricing'
 p7
-I1
+F0.013081891590101698
 sS'hbase'
 p8
-I1
+F0.011585668130934503
 sS'management'
 p9
-I1
+F0.0062702343750840979
 sS'java'
 p10
-I1
+F0.0042881209953919844
 sS'hadoop'
 p11
-I1
+F0.022228486183383477
 sS'computer science'
 p12
-I1
+F0.0048649939902671996
 sS'business requirements'
 p13
-I1
-sS'data management'
+F0.01793589319508071
+sS'mathematics'
 p14
-I1
-sS'apis'
+F0.0063248902493972525
+sS'data management'
 p15
-I1
-sS'data scientist'
+F0.0095152875592016285
+sS'apis'
 p16
-I1
-sS'statistical modeling'
+F0.012731541059296364
+sS'python'
 p17
-I1
-sS'modeling'
+F0.0018036384524334464
+sS'data scientist'
 p18
-I1
-sS'spark'
+F0.0036656459002210322
+sS'statistical modeling'
 p19
-I1
-sS'data'
+F0.0061984966096553509
+sS'modeling'
 p20
-I1
-sS'c'
-I1
-sS'machine learning'
+F0.0028101926955763062
+sS'spark'
 p21
-I1
-sS'r'
-I1
-sS'advertising'
+F0.0058343793194313449
+sS'data'
 p22
-I1
-sS'scripting'
+F0.0028727003983436347
+sS'c'
+F0.0043274115013774992
+sS'science'
 p23
-I1
-ssS'working-year'
+F0.0024326432117442644
+sS'machine learning'
 p24
-(dp25
-V(2, 5]
+F0.0022682274111904474
+sS'r'
+F0.0057611658126014648
+sS'advertising'
+p25
+F0.011388917938859133
+sS'scripting'
 p26
-I1
-ssS'major'
+F0.0084189770845905301
+ssS'working-year'
 p27
 (dp28
-S'management'
+V(2, 5]
 p29
-I1
-sS'business'
+F0.0042870049426682894
+ssS'major'
 p30
-I1
-sS'computer science computer engineering'
-p31
-I1
-sS'machine learning'
+(dp31
+VMathematics
 p32
-I1
-sS'computer engineering'
+F0.0059317388566866849
+sVEngineering
 p33
-I1
-sS'design'
+F0.0084765036475685437
+sVComputer Science
 p34
-I1
-sS'computer science'
+F0.0031327188455093349
+sVBusiness
 p35
-I1
-ssS'education'
+F0.0037429562185955509
+sVManagement Science and Engineering
 p36
-(dp37
-S'Bachelor'
-p38
-I1
-ssS'responsibility'
+F0.0044620918286120848
+ssS'education'
+p37
+(dp38
+VBachelor
 p39
-(dp40
-S'large data set'
+F0.0031535599573353176
+sVMaster
+p40
+F0.0025165421634054564
+ssS'responsibility'
 p41
-I1
-sS'product'
-p42
-I1
-sS'statistical model'
+(dp42
+S'large data set'
 p43
-I1
-sS'design'
+F0.010880474516722721
+sS'product'
 p44
-I1
-sS'ownership'
+F0.0046539546391617531
+sS'design'
 p45
-I1
-sS'interface'
+F0.0050533522838009607
+sS'ownership'
 p46
-I1
-sS'modeling'
+F0.013634233391305841
+sS'interface'
 p47
-I1
-sS'implement'
+F0.010925803455190584
+sS'modeling'
 p48
-I1
-sS'model'
+F0.0028101926955763062
+sS'implement'
 p49
-I1
+F0.0073282462806906834
+sS'model'
+p50
+F0.010708725549492324
 ss.

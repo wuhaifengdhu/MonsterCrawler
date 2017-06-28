@@ -4,7 +4,7 @@ p2
 (lp3
 S'search'
 p4
-aS'project management'
+aS'statistics'
 p5
 aS'software engineering'
 p6
@@ -24,73 +24,59 @@ aS'personalization'
 p13
 aS'machine learning'
 p14
-aS'engineering'
+aS'project management'
 p15
+aS'engineering'
+p16
 aS'r'
 aS'statistical software'
-p16
-aS'computer science'
 p17
-aS'sql'
-p18
-aS'modeling'
-p19
-aS'data'
-p20
-aS'scripting'
-p21
-aS'science'
-p22
-asS'working-year'
-p23
-(lp24
-V(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'management'
-p28
-aS'software engineering'
-p29
-aVapplied statistic
-p30
-aS'data science'
-p31
-aS'statistic'
-p32
-aS'coursera'
-p33
-aS'machine learning'
-p34
-aS'applied math computer science'
-p35
-aS'engineering'
-p36
 aS'computer science'
-p37
-aS'applied math'
-p38
-aS'communication'
-p39
-aS'project management'
-p40
-aS'science'
-p41
-asS'education'
-p42
-(lp43
-S'Bachelor'
-p44
-asS'responsibility'
-p45
-(lp46
-S'cross-functionally'
-p47
+p18
+aS'sql'
+p19
 aS'modeling'
-p48
+p20
+aS'data'
+p21
+aS'scripting'
+p22
+aS'science'
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VStatistics
+p29
+aVData Science
+p30
+aVEngineering
+p31
+aVComputer Science
+p32
+aVMathematics
+p33
+aVManagement Science and Engineering
+p34
+asS'education'
+p35
+(lp36
+S'Bachelor'
+p37
+asS'responsibility'
+p38
+(lp39
+S'cross-functionally'
+p40
+aS'modeling'
+p41
 aS'product'
-p49
+p42
 aS'recommendation'
-p50
+p43
 as.

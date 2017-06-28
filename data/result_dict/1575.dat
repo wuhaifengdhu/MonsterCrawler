@@ -18,88 +18,83 @@ aS'management'
 p10
 aS'recruiting'
 p11
-aS'research'
+aS'hadoop'
 p12
-aS'access'
+aS'research'
 p13
-aS'coaching'
+aS'access'
 p14
-aS'computer science'
+aS'coaching'
 p15
-aS'collaboration'
-p16
-aS'data scientist'
-p17
-aS'search'
-p18
-aS'talent management'
-p19
-aS'data'
-p20
-aS'project management'
-p21
-aS'training'
-p22
-aS'science'
-p23
-aS'data architecture'
-p24
-aS'architecture'
-p25
-aS'organization'
-p26
-aS'predictive analytics'
-p27
-asS'working-year'
-p28
-(lp29
-V(5, 10]
-p30
-aV(2, 5]
-p31
-asS'major'
-p32
-(lp33
-S'management'
-p34
-aS'business'
-p35
-aS'science'
-p36
-aS'statistic'
-p37
-aS'analytics'
-p38
 aS'computer science'
-p39
-aS'applied math'
-p40
-aS'ee computer science'
-p41
+p16
+aS'collaboration'
+p17
+aS'data scientist'
+p18
+aS'search'
+p19
+aS'talent management'
+p20
+aS'spark'
+p21
+aS'data'
+p22
 aS'project management'
-p42
+p23
+aS'a'
+aS'training'
+p24
+aS'science'
+p25
+aS'data architecture'
+p26
+aS'architecture'
+p27
+aS'organization'
+p28
 aS'predictive analytics'
-p43
+p29
+asS'working-year'
+p30
+(lp31
+V(5, 10]
+p32
+aV(2, 5]
+p33
+asS'major'
+p34
+(lp35
+VMathematics
+p36
+aVData Science
+p37
+aVComputer Science
+p38
+aVBusiness
+p39
+aVManagement Science and Engineering
+p40
 asS'education'
-p44
-(lp45
+p41
+(lp42
 VBachelor
-p46
+p43
 aVMaster
-p47
+p44
 asS'responsibility'
-p48
-(lp49
+p45
+(lp46
 S'development'
-p50
-aVinsight
-p51
+p47
+aS'insight'
+p48
 aS'analytic'
-p52
+p49
 aS'complex data set'
-p53
+p50
 aS'interface'
-p54
+p51
 aS'understand'
-p55
+p52
 as.

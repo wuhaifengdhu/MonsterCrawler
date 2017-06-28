@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'intelligence'
 p4
 aS'analytics'
 p5
@@ -10,11 +10,11 @@ aS'business intelligence'
 p6
 aS'data warehousing'
 p7
-aS'dod'
+aS'analysis'
 p8
-aS'ic'
+aS'sas'
 p9
-aS'data analytics'
+aS'ic'
 p10
 aS'management'
 p11
@@ -28,7 +28,7 @@ aS'weblogic'
 p15
 aS'matlab'
 p16
-aS'intelligence'
+aS'communication'
 p17
 aS'advanced analytics'
 p18
@@ -54,12 +54,12 @@ aS'quantitative research'
 p28
 aS'programming'
 p29
-aS'analysis'
+aS'dod'
 p30
 aS'spss'
 p31
 aS'r'
-aS'customer support'
+aS'data analytics'
 p32
 aS'oracle'
 p33
@@ -70,69 +70,53 @@ p35
 asS'working-year'
 p36
 (lp37
-V(0, 2]
+V(2, 5]
 p38
-aV(2, 5]
-p39
 asS'major'
-p40
-(lp41
-S'information'
+p39
+(lp40
+VData Science
+p41
+aVInformation Science
 p42
-aS'management'
+aVBusiness
 p43
-aS'business'
+aVManagement Science and Engineering
 p44
-aS'big data'
-p45
-aS'communication'
-p46
-aS'analytics'
-p47
-aS'project management'
-p48
-aS'design'
-p49
-aS'information technology'
-p50
-aS'advanced analytics'
-p51
-aS'data analytics'
-p52
 asS'education'
-p53
-(lp54
+p45
+(lp46
 VMaster
-p55
+p47
 aVDoctor
-p56
+p48
 asS'responsibility'
-p57
-(lp58
+p49
+(lp50
 S'development'
-p59
+p51
 aS'information'
-p60
+p52
 aS'data analysis'
-p61
+p53
 aS'communicate'
-p62
+p54
 aS'analysis'
-p63
+p55
 aS'analytic'
-p64
-aS'statistical method'
-p65
+p56
 aS'design'
-p66
+p57
+aS'cost benefit'
+p58
 aS'recommendation'
-p67
+p59
 aS'report'
-p68
+p60
 aS'implement'
-p69
+p61
 aS'interface'
-p70
+p62
 aS'transformation'
-p71
+p63
 as.

@@ -2,120 +2,127 @@
 S'skills'
 p2
 (lp3
-S'numerical analysis'
+S'insurance'
 p4
-aS'scikit-learn'
+aS'numerical analysis'
 p5
-aS'pig'
+aS'scikit-learn'
 p6
-aS'hive'
+aS'pig'
 p7
-aS'problem solving'
+aS'hive'
 p8
-aS'modeling'
+aS'problem solving'
 p9
-aS'go'
+aS'modeling'
 p10
-aS'creative problem solving'
+aS'go'
 p11
-aS'research'
+aS'creative problem solving'
 p12
-aS'd3'
+aS'research'
 p13
-aS'management'
+aS'd3'
 p14
-aS'open source'
+aS'management'
 p15
-aS'big data'
+aS'genetics'
 p16
-aS'deep learning'
-p17
-aS'hadoop'
-p18
-aVpanda
-p19
-aS'mathematics'
-p20
-aS'numpy'
-p21
-aS'data analysis'
-p22
-aS'ggplot'
-p23
-aS'matplotlib'
-p24
-aS'scipy'
-p25
-aS'statistical modeling'
-p26
-aS'tensorflow'
-p27
-aS'java'
-p28
-aS'spark'
-p29
-aS'data'
-p30
-aS'programming'
-p31
-aS'mapreduce'
-p32
-aS'analysis'
-p33
-aS'machine learning'
-p34
-aS'optimization'
-p35
-aS'theano'
-p36
-aS'shiny'
-p37
-asS'working-year'
-p38
-(lp39
-V[0]
-p40
-asS'major'
-p41
-(lp42
-S'management'
-p43
 aS'big data'
-p44
-aS'computing'
-p45
-aS'phd'
-p46
-aS'statistic'
-p47
+p17
+aS'deep learning'
+p18
+aS'hadoop'
+p19
+aVpanda
+p20
+aS'optimization'
+p21
+aS'teamwork'
+p22
 aS'mathematics'
-p48
+p23
+aS'numpy'
+p24
+aS'data analysis'
+p25
+aS'python'
+p26
+aS'ggplot'
+p27
+aS'matplotlib'
+p28
+aS'scipy'
+p29
+aS'statistical modeling'
+p30
+aS'tensorflow'
+p31
+aS'open source'
+p32
+aS'spark'
+p33
+aS'data'
+p34
+aS'java'
+p35
+aS'programming'
+p36
+aS'mapreduce'
+p37
+aS'analysis'
+p38
 aS'machine learning'
-p49
-asS'education'
+p39
+aS'r'
+aS'advertising'
+p40
+aS'theano'
+p41
+aS'shiny'
+p42
+aS'options'
+p43
+aS'scripting'
+p44
+asS'working-year'
+p45
+(lp46
+S'[0]'
+p47
+asS'major'
+p48
+(lp49
+VBiological Engineering
 p50
-(lp51
-VMaster
+aVMathematics
+p51
+aVComputer Science
 p52
-aVDoctor
+aVManagement Science and Engineering
 p53
-asS'responsibility'
+asS'education'
 p54
 (lp55
-S'product'
+VMaster
 p56
-aS'data analysis'
+aVDoctor
 p57
-aS'communicate'
+asS'responsibility'
 p58
-aS'analysis'
-p59
-aS'statistical model'
+(lp59
+S'product'
 p60
-aS'optimization'
+aS'data analysis'
 p61
-aS'recommendation'
+aS'communicate'
 p62
-aS'modeling'
+aS'analysis'
 p63
+aS'optimization'
+p64
+aS'recommendation'
+p65
+aS'modeling'
+p66
 as.

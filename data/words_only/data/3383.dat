@@ -2,207 +2,186 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-I1
-sS'communication'
-p5
-I1
+F0.0048267358509477328
 sS'data science'
-p6
-I1
+p5
+F0.0036671979440871926
 sS'reinforcement learning'
-p7
-I1
+p6
+F0.015803271748104648
 sS'information extraction'
+p7
+F0.015959652888235247
+sS'analytics'
 p8
-I1
+F0.0026516386036083131
 sS'engineering'
 p9
-I1
+F0.0074686266894735042
 sS'analysis'
 p10
-I1
+F0.0010445692736406401
 sS'data mining'
 p11
-I1
-sS'management'
+F0.0064694491728113949
+sS'sas'
 p12
-I1
-sS'weka'
+F0.0042232830996262703
+sS'statistics'
 p13
-I1
-sS'big data'
+F0.0028430269963494043
+sS'weka'
 p14
-I1
-sS'hadoop'
+F0.011855978134698965
+sS'big data'
 p15
-I1
-sS'research'
+F0.0038802595315934989
+sS'hadoop'
 p16
-I1
-sS'computer science'
+F0.0039170929920718444
+sS'research'
 p17
-I1
-sS'natural language processing'
+F0.0026010986026272511
+sS'computer science'
 p18
-I1
-sS'unstructured data'
+F0.004286534338985429
+sS'natural language processing'
 p19
-I1
-sS'text mining'
+F0.0076401162559765331
+sS'unstructured data'
 p20
-I1
-sS'distributed computing'
+F0.0097219769312596339
+sS'text mining'
 p21
-I1
-sS'processing'
+F0.010019466248325015
+sS'distributed computing'
 p22
-I1
-sS'data scientist'
+F0.010906696531888149
+sS'processing'
 p23
-I1
-sS'electrical engineering'
+F0.0049789270935082933
+sS'data scientist'
 p24
-I1
-sS'modeling'
+F0.003229791662084995
+sS'management'
 p25
-I1
-sS'spark'
+F0.0027623441073160128
+sS'electrical engineering'
 p26
-I1
-sS'pig'
+F0.012087271595667123
+sS'modeling'
 p27
-I1
-sS'data'
+F0.0049521078598875152
+sS'spark'
 p28
-I1
-sS'hive'
+F0.0051406573881574956
+sS'pig'
 p29
-I1
-sS'machine learning'
+F0.0082275249241338163
+sS'data'
 p30
-I1
-sS'r'
-I1
-sS'architecture'
+F0.0018079495102815992
+sS'science'
 p31
-I1
-sS'product management'
+F0.0021433960005917451
+sS'hive'
 p32
-I1
-sS'organization'
+F0.0063590068582012396
+sS'machine learning'
 p33
-I1
-sS'predictive analytics'
+F0.0019985296397379247
+sS'r'
+F0.003384099430572812
+sS'architecture'
 p34
-I1
-ssS'working-year'
+F0.0066677272033068852
+sS'product management'
 p35
-(dp36
-V(10, 15]
+F0.0095213354238614066
+sS'organization'
+p36
+F0.0053755604856148822
+sS'predictive analytics'
 p37
-I1
-ssS'major'
+F0.0070198115040511905
+ssS'working-year'
 p38
 (dp39
-S'information'
+V(10, 15]
 p40
-I1
-sS'management'
+F0.0059677632810925581
+ssS'major'
 p41
-I1
-sS'business'
-p42
-I1
-sS'big data'
+(dp42
+VStatistics
 p43
-I1
-sS'computing'
+F0.0054923925911221959
+sVBusiness
 p44
-I1
-sS'ee computer science'
+F0.0032979095950430313
+sVData Science
 p45
-I1
-sS'communication'
+F0.0031319786055032397
+sVElectrical and Electronics Engineering
 p46
-I1
-sS'data science'
+F0.0095933798639481153
+sVEngineering
 p47
-I1
-sS'natural language processing'
+F0.0074686266894735042
+sVComputer Science
 p48
-I1
-sS'reinforcement learning'
+F0.0027602309340006028
+sVManagement Science and Engineering
 p49
-I1
-sS'machine learning'
-p50
-I1
-sS'engineering'
-p51
-I1
-sS'computer science'
-p52
-I1
-sS'data mining'
-p53
-I1
-sS'electrical engineering'
-p54
-I1
-sS'phd'
-p55
-I1
-sS'machine learning data mining'
-p56
-I1
-sS'predictive analytics'
-p57
-I1
+F0.0039315382270393058
 ssS'education'
-p58
-(dp59
+p50
+(dp51
 VDoctor
-p60
-I1
+p52
+F0.0033206761334648414
 ssS'responsibility'
-p61
-(dp62
+p53
+(dp54
 S'development'
-p63
-I1
-sS'large data set'
-p64
-I1
-sS'product'
-p65
-I1
-sS'data mining'
-p66
-I1
+p55
+F0.0036919542756528008
 sS'information'
-p67
-I1
+p56
+F0.0042289792668579107
+sS'product'
+p57
+F0.0041005880814565451
+sS'data mining'
+p58
+F0.0064694491728113949
+sS'large data set'
+p59
+F0.0095867595589416658
 sS'processing'
-p68
-I1
+p60
+F0.0049789270935082933
 sS'analysis'
-p69
-I1
+p61
+F0.0010445692736406401
+sS'develop ... model'
+p62
+F0.009450954351146762
 sS'cross-functionally'
-p70
-I1
+p63
+F0.031025387283068251
 sS'recommendation'
-p71
-I1
+p64
+F0.0079640297098118023
 sS'modeling'
-p72
-I1
+p65
+F0.0049521078598875152
 sS'model'
-p73
-I1
+p66
+F0.0094354319628148827
 sS'prototype'
-p74
-I1
+p67
+F0.0096133274803344142
 ss.

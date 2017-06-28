@@ -2,123 +2,117 @@
 S'skills'
 p2
 (dp3
-S'networking'
+S'scikit-learn'
 p4
-I1
-sS'data scientist'
-p5
-I1
-sS'big data'
-p6
-I1
-sS'anomaly detection'
-p7
-I1
-sS'python'
-p8
-I1
-sS'science'
-p9
-I1
+F0.026573928156351772
 sS'data mining'
+p5
+F0.015718365397645463
+sS'statistics'
+p6
+F0.0069075026281674419
+sS'networking'
+p7
+F0.053813209520604255
+sS'big data'
+p8
+F0.0094275935286123533
+sS'anomaly detection'
+p9
+F0.032555722245804525
+sS'deep learning'
 p10
-I1
-sS'programming'
+F0.02307067913254408
+sS'hadoop'
 p11
-I1
+F0.0095170851955523328
 sS'perl'
 p12
-I1
-sS'computer science'
-p13
-I1
-sS'r'
-I1
+F0.021230005513254581
 sS'matlab'
+p13
+F0.0094548236121338135
+sS'communication'
 p14
-I1
-sS'deep learning'
+F0.011727180437858196
+sS'pandas'
 p15
-I1
-sS'communication'
-p16
-I1
-sS'electrical engineering'
-p17
-I1
-sS'machine learning'
-p18
-I1
-sS'scripting'
-p19
-I1
-sS'predictive analytics'
-p20
-I1
-ssS'working-year'
-p21
-(dp22
-V[0]
-p23
-I1
-ssS'major'
-p24
-(dp25
-S'data mining'
-p26
-I1
-sS'data mining machine learning'
-p27
-I1
-sS'telecommunication'
-p28
-I1
-sS'big data'
-p29
-I1
-sS'science'
-p30
-I1
-sS'machine learning statistics'
-p31
-I1
-sS'communication'
-p32
-I1
-sS'machine learning'
-p33
-I1
+F0.030466981268382827
 sS'computer science'
-p34
-I1
-sS'statistic'
-p35
-I1
+p16
+F0.010414690838423857
+sS'python'
+p17
+F0.0038611223166908591
+sS'data scientist'
+p18
+F0.0078471975197324326
+sS'spark'
+p19
+F0.012489893506041915
+sS'data'
+p20
+F0.0026355886194327316
+sS'science'
+p21
+F0.010415316862134703
+sS'programming'
+p22
+F0.024495894107441688
+sS'hive'
+p23
+F0.015450031477703753
+sS'machine learning'
+p24
+F0.0048556868284002916
+sS'r'
+F0.0041110541230662311
 sS'electrical engineering'
-p36
-I1
-sS'phd'
-p37
-I1
+p25
+F0.029367593210213455
+sS'scripting'
+p26
+F0.018022847240345655
 sS'predictive analytics'
-p38
-I1
+p27
+F0.017055542024657706
+ssS'working-year'
+p28
+(dp29
+S'[0]'
+p30
+F0.016268257263291723
+ssS'major'
+p31
+(dp32
+VData Science
+p33
+F0.0076095480192967602
+sVElectrical and Electronics Engineering
+p34
+F0.023308359965740606
+sVStatistics
+p35
+F0.013344479776948743
+sVComputer Science
+p36
+F0.0067063388618681316
 ssS'education'
-p39
-(dp40
+p37
+(dp38
 VDoctor
-p41
-I1
+p39
+F0.008068013124270133
 ssS'responsibility'
-p42
-(dp43
+p40
+(dp41
 S'model'
-p44
-I1
-sVinsight
-p45
-I1
+p42
+F0.011462302532604747
+sS'insight'
+p43
+F0.013591802637107298
 sS'data mining'
-p46
-I1
+p44
+F0.015718365397645463
 ss.

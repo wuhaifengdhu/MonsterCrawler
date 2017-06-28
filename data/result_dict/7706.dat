@@ -2,63 +2,63 @@
 S'skills'
 p2
 (lp3
-S'access'
+S'nosql'
 p4
-aS'documentation'
-p5
-aS'data modeling'
-p6
-aS'nosql'
-p7
-aS'government'
-p8
 aS'intelligence'
-p9
+p5
 aS'testing'
-p10
-aS'data scientist'
-p11
-aS'integration'
-p12
-aS'data quality'
-p13
+p6
 aS'database administration'
-p14
-aS'etl'
-p15
+p7
 aS'engineering'
-p16
+p8
 aS'defense'
+p9
+aS'agile'
+p10
+aS'integration'
+p11
+aS'access'
+p12
+aS'data modeling'
+p13
+aS'government'
+p14
+aS'scrum'
+p15
+aS'data scientist'
+p16
+aS'data quality'
 p17
-aS'application development'
+aS'architectures'
 p18
 aS'modeling'
 p19
-aS'security'
-p20
 aS'data'
-p21
+p20
 aS'information technology'
+p21
+aS'documentation'
 p22
-asS'working-year'
+aS'application development'
 p23
-(lp24
-V[0]
+aS'security'
+p24
+aS'etl'
 p25
-asS'major'
+asS'working-year'
 p26
 (lp27
-S'information'
+S'[0]'
 p28
-aS'information systems'
+asS'major'
 p29
-aS'business'
-p30
-aS'engineering'
+(lp30
+VEngineering
 p31
-aS'information system'
+aVInformation Science
 p32
-aS'information technology'
+aVBusiness
 p33
 asS'education'
 p34
@@ -76,10 +76,12 @@ aS'documentation'
 p41
 aS'mapping'
 p42
-aS'modeling'
+aS'improvement'
 p43
-aS'extract'
+aS'modeling'
 p44
-aS'transformation'
+aS'extract'
 p45
+aS'transformation'
+p46
 as.

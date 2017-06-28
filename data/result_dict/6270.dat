@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'bootstrap'
+S'documentation'
 p4
 aS'network security'
 p5
@@ -14,11 +14,11 @@ aS'communication'
 p8
 aS'data science'
 p9
-aS'mllib'
+aS'hadoop'
 p10
 aS'node.js'
 p11
-aS'engineering'
+aS'unix'
 p12
 aS'troubleshooting'
 p13
@@ -44,12 +44,13 @@ aS'scala'
 p23
 aS'asset management'
 p24
-aS'hadoop'
+aS'mllib'
 p25
 aS'writing'
 p26
 aS'tensorflow'
 p27
+aS'a'
 aS'government'
 p28
 aS'python'
@@ -58,90 +59,90 @@ aS'mongodb'
 p30
 aS'processing'
 p31
+aS'c'
 aS'management'
 p32
 aS'html5'
 p33
 aS'splunk'
 p34
-aS'data'
+aS'spark'
 p35
-aS'software development'
+aS'pig'
 p36
-aS'training'
+aS'data'
 p37
-aS'data visualization'
+aS'software development'
 p38
-aS'science'
+aS'training'
 p39
-aS'documentation'
+aS'data visualization'
 p40
-aS'programming'
-p41
-aS'banking'
-p42
-aS'h2o'
-p43
-aS'elasticsearch'
-p44
-aS'architecture'
-p45
-aS'organization'
-p46
-aS'security'
-p47
-asS'working-year'
-p48
-(lp49
-V(2, 5]
-p50
-asS'major'
-p51
-(lp52
-S'information'
-p53
-aS'management'
-p54
-aS'network security'
-p55
-aS'business'
-p56
-aS'big data'
-p57
 aS'science'
-p58
-aS'data science'
-p59
+p41
+aS'bootstrap'
+p42
+aS'programming'
+p43
 aS'engineering'
+p44
+aS'hive'
+p45
+aS'banking'
+p46
+aS'h2o'
+p47
+aS'r'
+aS'elasticsearch'
+p48
+aS'architecture'
+p49
+aS'organization'
+p50
+aS'security'
+p51
+aS'impala'
+p52
+asS'working-year'
+p53
+(lp54
+V(2, 5]
+p55
+asS'major'
+p56
+(lp57
+VData Science
+p58
+aVEngineering
+p59
+aVBusiness
 p60
-aS'design'
+aVManagement Science and Engineering
 p61
-aS'communication'
-p62
 asS'education'
-p63
-(lp64
+p62
+(lp63
 S'Bachelor'
-p65
+p64
 asS'responsibility'
-p66
-(lp67
+p65
+(lp66
 S'development'
-p68
-aS'large data set'
-p69
-aS'product'
-p70
-aS'documentation'
-p71
-aS'data infrastructure'
-p72
+p67
 aS'information'
-p73
+p68
+aS'product'
+p69
+aS'documentation'
+p70
+aS'data infrastructure'
+p71
+aS'large data set'
+p72
 aS'processing'
-p74
+p73
 aS'design'
-p75
+p74
 aS'presentation'
-p76
+p75
 as.

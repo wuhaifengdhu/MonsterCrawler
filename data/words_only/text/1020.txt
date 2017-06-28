@@ -1,5 +1,5 @@
-skills: {'data': 1, 'nlp': 1, 'search': 1, 'financial markets': 1, 'open source': 1, 'software engineering': 1, 'probability': 1, 'data scientist': 1, 'processing': 1, 'programming': 1, 'c++': 1, 'machine learning': 1, 'sentiment analysis': 1, 'engineering': 1, 'analysis': 1, 'bloomberg': 1, 'natural language processing': 1, 'java': 1, 'information extraction': 1, 'swift': 1, 'pricing': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'software engineering': 1, 'statistic': 1, 'machine learning': 1, 'engineering': 1, 'natural language processing': 1, 'probability statistics': 1}
-education: {'Bachelor': 1}
-responsibility: {'information': 1, 'model': 1, 'processing': 1, 'extract': 1, 'analysis': 1}
+skills: {'nlp': 0.07407313549831747, 'financial markets': 0.010444261233763893, 'probability': 0.013665996620288164, 'information extraction': 0.010264247347727767, 'analytics': 0.0017053675725167189, 'engineering': 0.007205028100433263, 'pricing': 0.014826143802115258, 'statistics': 0.0036569131560886454, 'open source': 0.006270430862584499, 'swift': 0.02483676425080816, 'natural language processing': 0.004913643396000594, 'processing': 0.01601066751637961, 'data scientist': 0.002077199343458585, 'search': 0.012164665794704972, 'bloomberg': 0.036968414660572775, 'java': 0.004859870461444249, 'data': 0.0011627596850438521, 'a': 0.014666995244031582, 'c': 0.002452199850780583, 'software engineering': 0.005102084291596101, 'sentiment analysis': 0.008240496525121729, 'science': 0.0013784978199884164, '.net': 0.007389111448283192, 'programming': 0.0043228048424897095, 'analysis': 0.002015404245612529, 'machine learning': 0.0012853288663412536}
+working-year: {u'(5, 10]': 0.0023640083560330562, u'(2, 5]': 0.0024293028008453635}
+major: {u'Engineering': 0.004416429268170054, u'Statistics': 0.0035323622938981964, u'Data Science': 0.002014292122755025, u'Computer Science': 0.001775207345788623}
+education: {'Bachelor': 0.0017870173091566798}
+responsibility: {'information': 0.013599070583621515, 'model': 0.0060682778113789835, 'processing': 0.01601066751637961, 'extract': 0.024264380632963368, 'analysis': 0.002015404245612529}

@@ -4,138 +4,130 @@ p2
 (lp3
 S'debugging'
 p4
-aS'nosql'
-p5
-aS'communication'
-p6
-aS'data science'
-p7
-aS'testing'
-p8
-aS'unix'
-p9
-aS'ansible'
-p10
-aS'angularjs'
-p11
-aS'linux'
-p12
-aS'laboratory'
-p13
-aS'amazon web services'
-p14
-aS'cassandra'
-p15
-aS'git'
-p16
-aS'genetics'
-p17
-aS'flask'
-p18
-aS'research'
-p19
-aS'computer science'
-p20
-aS'web services'
-p21
-aS'innovation'
-p22
-aS'css3'
-p23
-aS'python'
-p24
 aS'aws'
-p25
-aS'javascript'
-p26
-aS'data scientist'
-p27
-aS'automation'
-p28
-aS'management'
-p29
-aS'awk'
-p30
-aS'html5'
-p31
-aS'data'
-p32
-aS'engineering'
-p33
-aS'github'
-p34
-aS'software engineering'
-p35
-aS'remote sensing'
-p36
-aS'science'
-p37
-aS'documentation'
-p38
-aS'programming'
-p39
-aS'image analysis'
-p40
-aS'analysis'
-p41
-aS'django'
-p42
-aS'english'
-p43
-aS'biotechnology'
-p44
-aS'docker'
-p45
-asS'working-year'
-p46
-(lp47
-V(2, 5]
-p48
-asS'major'
-p49
-(lp50
-S'management'
-p51
-aS'genetics'
-p52
-aS'software engineering'
-p53
-aS'imaging science'
-p54
-aS'science'
-p55
-aS'data science'
-p56
+p5
+aS'nosql'
+p6
 aS'communication'
-p57
-aS'automation'
-p58
-aS'engineering'
-p59
-aS'design'
-p60
+p7
+aS'data science'
+p8
+aS'testing'
+p9
+aS'unix'
+p10
+aS'ansible'
+p11
+aS'angularjs'
+p12
+aS'linux'
+p13
+aS'laboratory'
+p14
+aS'amazon web services'
+p15
+aS'cassandra'
+p16
+aS'git'
+p17
+aS'genetics'
+p18
+aS'flask'
+p19
+aS'research'
+p20
+aS'opencv'
+p21
 aS'computer science'
-p61
-aS'english'
-p62
-aS'biotechnology'
-p63
-aS'ee computer science'
-p64
-aS'history'
-p65
-asS'education'
-p66
-(lp67
-VBachelor
-p68
-asS'responsibility'
-p69
-(lp70
-S'documentation'
-p71
-aS'design'
-p72
+p22
+aS'web services'
+p23
+aS'innovation'
+p24
+aS'css3'
+p25
+aS'python'
+p26
+aS'mongodb'
+p27
+aS'javascript'
+p28
+aS'data scientist'
+p29
+aS'automation'
+p30
+aS'management'
+p31
+aS'awk'
+p32
+aS'html5'
+p33
+aS'data'
+p34
+aS'engineering'
+p35
+aS'a'
+aS'c'
+aS'github'
+p36
+aS'software engineering'
+p37
+aS'remote sensing'
+p38
+aS'windows'
+p39
+aS'science'
+p40
+aS'documentation'
+p41
+aS'programming'
+p42
+aS'image analysis'
+p43
 aS'analysis'
-p73
+p44
+aS'django'
+p45
+aS'english'
+p46
+aS'biotechnology'
+p47
+aS'docker'
+p48
+aS'scripting'
+p49
+asS'working-year'
+p50
+(lp51
+V(2, 5]
+p52
+asS'major'
+p53
+(lp54
+VBiological Engineering
+p55
+aVData Science
+p56
+aVEngineering
+p57
+aVComputer Science
+p58
+aVManagement Science and Engineering
+p59
+asS'education'
+p60
+(lp61
+VBachelor
+p62
+asS'responsibility'
+p63
+(lp64
+S'development'
+p65
+aS'documentation'
+p66
+aS'design'
+p67
+aS'analysis'
+p68
 as.

@@ -8,25 +8,25 @@ aS'testing'
 p5
 aS'engineering'
 p6
-aS'analysis'
-p7
 aS'linux'
-p8
+p7
 aS'education'
-p9
+p8
 aS'genomics'
-p10
+p9
 aS'git'
-p11
+p10
 aS'java'
-p12
+p11
 aS'agile'
-p13
+p12
 aS'recruiting'
-p14
+p13
 aS'integration'
-p15
+p14
 aS'research'
+p15
+aS'fortran'
 p16
 aS'data management'
 p17
@@ -59,83 +59,71 @@ aS'software engineering'
 p30
 aS'science'
 p31
-aS'programming'
+aS'cloud computing'
 p32
-aS'c++'
+aS'programming'
 p33
-aS'machine learning'
+aS'analysis'
 p34
-aS'exploratory data analysis'
+aS'machine learning'
 p35
+aS'exploratory data analysis'
+p36
 aS'r'
 aS'scripting'
-p36
-aS'sql'
 p37
-aS'docker'
+aS'sql'
 p38
-aS'application development'
+aS'databases'
 p39
-asS'working-year'
+aS'docker'
 p40
-(lp41
-V(0, 2]
+aS'application development'
+p41
+asS'working-year'
 p42
-aV(2, 5]
-p43
-asS'major'
+(lp43
+V(0, 2]
 p44
-(lp45
-S'information'
+aV(2, 5]
+p45
+asS'major'
 p46
-aS'biology'
-p47
-aS'management'
+(lp47
+VBiological Engineering
 p48
-aS'software engineering'
+aVData Science
 p49
-aS'computational biology'
+aVEngineering
 p50
-aS'computing'
+aVComputer Science
 p51
-aS'science'
+aVManagement Science and Engineering
 p52
-aS'data science'
-p53
-aS'machine learning'
-p54
-aS'engineering'
-p55
-aS'design'
-p56
-aS'bioinformatics'
-p57
-aS'computational biolog'
-p58
 asS'education'
-p59
-(lp60
+p53
+(lp54
 VBachelor
-p61
+p55
 asS'responsibility'
-p62
-(lp63
+p56
+(lp57
 S'development'
-p64
+p58
 aS'information'
-p65
+p59
 aS'data analysis'
-p66
+p60
 aS'analysis'
-p67
+p61
 aS'statistical method'
-p68
+p62
 aS'design'
-p69
+p63
 aS'ownership'
-p70
+p64
 aS'model'
-p71
+p65
 aS'evaluation'
-p72
+p66
 as.

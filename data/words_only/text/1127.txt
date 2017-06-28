@@ -1,5 +1,5 @@
-skills: {'access': 1, 'training': 1, 'management': 1, 'risk management': 1, 'communication': 1, 'troubleshooting': 1, 'integration': 1, 'governance': 1, 'application architecture': 1, 'information assurance': 1, 'information security': 1, 'engineering': 1, 'defense': 1, 'process improvement': 1, 'architecture': 1, 'policy': 1, 'asset management': 1, 'technical writing': 1, 'security': 1, 'project management': 1, 'science': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'engineering science': 1, 'information': 1, 'management': 1, 'communication': 1, 'engineering': 1, 'science': 1, 'project management': 1}
-education: {u'Bachelor': 1}
-responsibility: {'information': 1, 'implement': 1, 'evaluation': 1, 'product': 1, 'improvement': 1}
+skills: {'communication': 0.007915846795554283, 'engineering': 0.006124273885368273, 'defense': 0.017658190769641192, 'process improvement': 0.01612881322214733, 'troubleshooting': 0.01880191232867098, 'management': 0.013590733007994783, 'asset management': 0.023726106435569192, 'integration': 0.011531215610973063, 'governance': 0.018022580104478995, 'application architecture': 0.02820114739712154, 'access': 0.011597310125482275, 'risk management': 0.01579878662994118, 'information security': 0.02351555087831028, 'automation': 0.016675241627319048, 'policy': 0.013648291140203748, 'technical writing': 0.021269728872036046, 'project management': 0.00950726661662273, 'training': 0.011766473755111646, 'science': 0.0035151694409704622, 'documentation': 0.014497204794720154, 'information assurance': 0.032848816440596215, 'architecture': 0.021870145226846584, 'security': 0.08741403262879167}
+working-year: {u'(0, 2]': 0.011387900820450768, u'(2, 5]': 0.006194722142155678}
+major: {u'Engineering': 0.006124273885368273, u'Electrical and Electronics Engineering': 0.01573314297687491, u'Management Science and Engineering': 0.0064477226923444625}
+education: {u'Bachelor': 0.004556894138349534}
+responsibility: {'information': 0.013871051995293947, 'product': 0.006724964453588733, 'documentation': 0.014497204794720154, 'evaluation': 0.016917215919133387, 'improvement': 0.01343103248169554}

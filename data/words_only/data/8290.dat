@@ -4,259 +4,250 @@ p2
 (dp3
 S'supply chain optimization'
 p4
-I1
+F0.015751557359406324
 sS'supply chain'
 p5
-I1
-sS'communication'
-p6
-I1
+F0.010445162955649461
 sS'forecasting'
+p6
+F0.0079035822259577327
+sS'analytics'
 p7
-I1
+F0.0046886116548977182
 sS'troubleshooting'
 p8
-I1
+F0.010135801794431794
 sS'problem solving'
 p9
-I1
+F0.0066162044877446126
 sS'data mining'
 p10
-I1
-sS'modeling'
+F0.0057196208320273254
+sS'sas'
 p11
-I1
-sS'machine learning'
+F0.0037337920665159482
+sS'modeling'
 p12
-I1
-sS'regression'
-p13
-I1
-sS'clustering'
-p14
-I1
-sS'management'
-p15
-I1
-sS'big data'
-p16
-I1
-sS'critical thinking'
-p17
-I1
-sS'deep learning'
-p18
-I1
-sS'predictive modeling'
-p19
-I1
-sS'hadoop'
-p20
-I1
-sS'demand forecasting'
-p21
-I1
-sS'econometrics'
-p22
-I1
-sS'pricing'
-p23
-I1
-sS'r'
-I1
-sS'advanced analytics'
-p24
-I1
-sS'unstructured data'
-p25
-I1
-sS'operations research'
-p26
-I1
-sS'data analysis'
-p27
-I1
-sS'python'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'data quality'
-p30
-I1
-sS'leadership'
-p31
-I1
-sS'sql'
-p32
-I1
-sS'performance improvement'
-p33
-I1
-sS'spark'
-p34
-I1
-sS'mathematical analysis'
-p35
-I1
-sS'data'
-p36
-I1
-sS'data visualization'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'simulation'
-p39
-I1
-sS'organizational leadership'
-p40
-I1
-sS'optimization'
-p41
-I1
-sS'predictive analytics'
-p42
-I1
-sS'communication skills'
-p43
-I1
-sS'data analytics'
-p44
-I1
-sS'statistical analysis'
-p45
-I1
-ssS'working-year'
-p46
-(dp47
-V(2, 5]
-p48
-I1
-ssS'major'
-p49
-(dp50
-S'econometrics'
-p51
-I1
-sS'management'
-p52
-I1
-sS'business'
-p53
-I1
-sS'big data'
-p54
-I1
-sS'predictive analytics'
-p55
-I1
-sS'communication'
-p56
-I1
-sS'data mining'
-p57
-I1
+F0.002189071938063484
 sS'machine learning'
-p58
-I1
-sS'operations research'
-p59
-I1
-sS'statistic'
-p60
-I1
+p13
+F0.0017668941289327206
+sS'regression'
+p14
+F0.0064047649344522927
+sS'clustering'
+p15
+F0.0086884435594507016
+sS'statistics'
+p16
+F0.0075405352140372342
+sS'big data'
+p17
+F0.003430525947069185
+sS'critical thinking'
+p18
+F0.010569395226444792
+sS'deep learning'
+p19
+F0.0083949910590119976
+sS'predictive modeling'
+p20
+F0.0056037895112910239
+sS'hadoop'
+p21
+F0.003463090300268369
+sS'demand forecasting'
+p22
+F0.014747045293007407
+sS'research'
+p23
+F0.0045992471248611231
+sS'pricing'
+p24
+F0.010190476198219382
+sS'r'
+F0.0014959361364257175
 sS'advanced analytics'
-p61
-I1
-sS'phd'
-p62
-I1
-sVphysic
-p63
-I1
+p25
+F0.0079321039200487432
+sS'unstructured data'
+p26
+F0.0085951709796581142
+sS'operations research'
+p27
+F0.0077653329260159295
+sS'data analysis'
+p28
+F0.0039993585309047583
+sS'python'
+p29
+F0.001404990600413116
+sS'data scientist'
+p30
+F0.0028554492322476503
+sS'data quality'
+p31
+F0.0095278653994237839
+sS'leadership'
+p32
+F0.0044539315935412998
+sS'sql'
+p33
+F0.0018381236087144127
+sS'performance improvement'
+p34
+F0.014629835252603873
+sS'spark'
+p35
+F0.0045448399550287299
+sS'mathematical analysis'
+p36
+F0.013032799935255178
+sS'data'
+p37
+F0.0015984028015427617
+sS'econometrics'
+p38
+F0.016535086575419088
+sS'data visualization'
+p39
+F0.0053011688021013499
+sS'analysis'
+p40
+F0.0036940023908801074
+sS'simulation'
+p41
+F0.0072367541446748561
+sS'organizational leadership'
+p42
+F0.014869584880949978
+sS'optimization'
+p43
+F0.010781718907754945
+sS'management'
+p44
+F0.0024421802350394939
+sS'predictive analytics'
+p45
+F0.0062061945372743682
+sS'physics'
+p46
+F0.006558178914950575
+sS'communication skills'
+p47
+F0.0099275629435582862
 sS'data analytics'
-p64
-I1
-sS'statistics operations research'
-p65
-I1
-sS'data mining machine learning'
-p66
-I1
+p48
+F0.0055049128881018792
+sS'statistical analysis'
+p49
+F0.0069398925967994827
+ssS'working-year'
+p50
+(dp51
+V(2, 5]
+p52
+F0.0033394728529141122
+ssS'major'
+p53
+(dp54
+VStatistics
+p55
+F0.0048558080050891649
+sVBusiness
+p56
+F0.0029156720948089331
+sVData Science
+p57
+F0.0027689729989354788
+sVComputer Science
+p58
+F0.0024403119847768136
+sVPhysics
+p59
+F0.0070720541811323196
+sVOperations Research
+p60
+F0.008675819132579931
+sVManagement Science and Engineering
+p61
+F0.0034758612896735644
 ssS'education'
-p67
-(dp68
-VDoctor
-p69
-I1
+p62
+(dp63
+VMaster
+p64
+F0.0019603252971002075
+sVDoctor
+p65
+F0.0029357999239257898
 ssS'responsibility'
+p66
+(dp67
+S'forecasting'
+p68
+F0.0079035822259577327
+sS'predict'
+p69
+F0.011244965057992747
+sS'insight'
 p70
-(dp71
-S'development'
+F0.0049458041940956474
+sS'data mining'
+p71
+F0.0057196208320273254
+sS'improvement'
 p72
-I1
+F0.007240448777194361
 sS'large data set'
 p73
-I1
-sS'forecasting'
-p74
-I1
-sS'data analysis'
-p75
-I1
-sS'business problem'
-p76
-I1
-sS'predict'
-p77
-I1
+F0.0084756257017058398
 sS'pattern'
-p78
-I1
-sVinsight
-p79
-I1
-sS'communicate'
-p80
-I1
-sS'analysis'
-p81
-I1
-sS'improvement'
-p82
-I1
+p74
+F0.0070581969692025499
+sS'forecast'
+p75
+F0.01224157491869904
 sS'analytic'
-p83
-I1
-sS'optimization'
-p84
-I1
+p76
+F0.018256544250401425
+sS'presentation'
+p77
+F0.0066397691167374845
+sS'development'
+p78
+F0.0065280916572189691
+sS'data analysis'
+p79
+F0.0039993585309047583
+sS'business problem'
+p80
+F0.0076769556930745145
+sS'communicate'
+p81
+F0.010815325510951979
 sS'understand'
-p85
-I1
-sS'data mining'
-p86
-I1
+p82
+F0.0056649051575317399
 sS'report'
+p83
+F0.0055937369815968439
+sS'modeling'
+p84
+F0.002189071938063484
+sS'analysis'
+p85
+F0.0036940023908801074
+sS'simulation'
+p86
+F0.0072367541446748561
+sS'optimization'
 p87
-I1
+F0.010781718907754945
 sS'analytical method'
 p88
-I1
-sS'modeling'
-p89
-I1
-sS'simulation'
-p90
-I1
-sS'presentation'
-p91
-I1
+F0.01446305594453619
 sS'model'
-p92
-I1
+p89
+F0.01668367484530071
 ss.

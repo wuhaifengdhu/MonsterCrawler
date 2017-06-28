@@ -10,119 +10,129 @@ aS'rest'
 p6
 aS'pig'
 p7
-aS'unix'
+aS'analytics'
 p8
-aS'hive'
+aS'unix'
 p9
-aS'data mining'
+aS'hive'
 p10
-aS'web crawling'
+aS'data mining'
 p11
-aS'java'
+aS'sas'
 p12
-aS'critical thinking'
+aS'web crawling'
 p13
-aS'hadoop'
+aS'statistics'
 p14
-aS'access'
+aS'java'
 p15
-aS'teamwork'
+aS'critical thinking'
 p16
-aS'computer science'
+aS'predictive modeling'
 p17
-aS'unstructured data'
+aS'hadoop'
 p18
-aS'distributed computing'
+aS'access'
 p19
-aS'apis'
+aS'teamwork'
 p20
-aS'python'
+aS'computer science'
 p21
-aS'processing'
+aS'unstructured data'
 p22
-aS'apache spark'
+aS'distributed computing'
 p23
-aS'business process'
+aS'apis'
 p24
-aS'sql'
+aS'python'
 p25
-aS'apache'
+aS'processing'
 p26
-aS'modeling'
+aS'apache spark'
 p27
-aS'spark'
+aS'business process'
 p28
-aS'data'
+aS'sql'
 p29
-aS'engineering'
+aS'apache'
 p30
+aS'modeling'
+p31
+aS'spark'
+p32
+aS'data'
+p33
+aS'engineering'
+p34
+aS'linux'
+p35
 aS'c'
 aS'solver'
-p31
-aS'science'
-p32
-aS'mapreduce'
-p33
-aS'analysis'
-p34
-aS'security'
-p35
-aS'scripting'
 p36
-asS'working-year'
+aS'data cleaning'
 p37
-(lp38
-V(2, 5]
-p39
-asS'major'
-p40
-(lp41
-S'information'
-p42
-aS'business'
-p43
-aS'computing'
-p44
 aS'science'
-p45
-aS'statistic'
-p46
-aS'general'
-p47
-aS'engineering'
-p48
-aS'computer science'
-p49
-aS'data mining'
-p50
-aS'history'
-p51
-asS'education'
-p52
-(lp53
-S'Bachelor'
-p54
-asS'responsibility'
-p55
-(lp56
-S'large data set'
-p57
-aS'processing'
-p58
-aS'business problem'
-p59
-aVinsight
-p60
+p38
+aS'mapreduce'
+p39
 aS'analysis'
+p40
+aS'english'
+p41
+aS'security'
+p42
+aS'scripting'
+p43
+asS'working-year'
+p44
+(lp45
+V(2, 5]
+p46
+asS'major'
+p47
+(lp48
+VEngineering
+p49
+aVData Science
+p50
+aVStatistics
+p51
+aVComputer Science
+p52
+aVBusiness
+p53
+asS'education'
+p54
+(lp55
+VBachelor
+p56
+aVMaster
+p57
+asS'responsibility'
+p58
+(lp59
+S'information'
+p60
+aS'processing'
 p61
-aS'analytic'
+aS'manipulate ... dataset'
 p62
-aS'data mining'
+aS'large data set'
 p63
-aS'modeling'
+aS'business problem'
 p64
-aS'information'
+aS'insight'
 p65
-aS'extract'
+aS'analysis'
 p66
+aS'analytic'
+p67
+aS'data mining'
+p68
+aS'modeling'
+p69
+aS'extract'
+p70
+aS'transformation'
+p71
 as.

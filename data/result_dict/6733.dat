@@ -4,93 +4,85 @@ p2
 (lp3
 S'negotiation'
 p4
-aS'visualization'
-p5
-aS'tableau'
-p6
 aS'nosql'
-p7
-aS'python'
-p8
-aS'science'
-p9
+p5
 aS'data science'
-p10
-aS'spotfire'
-p11
+p6
 aS'hadoop'
-p12
+p7
+aS'engineering'
+p8
+aS'sas'
+p9
+aS'd3'
+p10
 aS'qlikview'
+p11
+aS'visualization'
+p12
+aS'tableau'
 p13
-aS'collaboration'
-p14
-aS'business process'
-p15
-aS'engineering'
-p16
-aS'r'
-aS'computer science'
-p17
-aS'mathematics'
-p18
-aS'modeling'
-p19
 aS'd3.js'
-p20
-aS'data'
-p21
-aS'applied mathematics'
-p22
-aS'spss'
-p23
-asS'working-year'
-p24
-(lp25
-V(2, 5]
-p26
-asS'major'
-p27
-(lp28
-S'business'
-p29
-aS'science'
-p30
-aS'applied mathematics'
-p31
-aS'mathematics'
-p32
-aS'engineering'
-p33
-aS'computer science engineering'
-p34
+p14
 aS'computer science'
+p15
+aS'mathematics'
+p16
+aS'python'
+p17
+aS'collaboration'
+p18
+aS'spotfire'
+p19
+aS'business process'
+p20
+aS'modeling'
+p21
+aS'data'
+p22
+aS'science'
+p23
+aS'applied mathematics'
+p24
+aS'spss'
+p25
+aS'r'
+asS'working-year'
+p26
+(lp27
+V(2, 5]
+p28
+asS'major'
+p29
+(lp30
+VMathematics
+p31
+aVData Science
+p32
+aVEngineering
+p33
+aVComputer Science
+p34
+aVBusiness
 p35
-aS'applied math'
-p36
-aS'design'
-p37
-aS'ee computer science'
-p38
-aS'data science'
-p39
 asS'education'
+p36
+(lp37
+VBachelor
+p38
+aVMaster
+p39
+asS'responsibility'
 p40
 (lp41
-VBachelor
-p42
-aVMaster
-p43
-asS'responsibility'
-p44
-(lp45
 S'development'
-p46
+p42
 aS'modeling'
-p47
+p43
 aS'model'
-p48
+p44
 aS'prototype'
-p49
+p45
 aS'design'
-p50
+p46
 as.

@@ -4,144 +4,132 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.049251264753462871
 sS'forecasting'
 p5
-I1
-sS'data collection'
-p6
-I1
-sS'programming'
-p7
-I1
+F0.015680369015135392
 sS'probability'
-p8
-I1
-sS'python'
-p9
-I1
-sS'c'
-I1
-sS'applied mathematics'
-p10
-I1
-sS'sql'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'multivariate testing'
-p13
-I1
-sS'analysis'
-p14
-I1
+p6
+F0.018635449936756587
 sS'analytics'
-p15
-I1
-sS'optimization'
-p16
-I1
+p7
+F0.0046510024705001419
 sS'statistical analysis'
-p17
-I1
+p8
+F0.013768450018249239
 sS'problem solving'
-p18
-I1
+p9
+F0.013126266657504016
 sS'data mining'
-p19
-I1
-sS'mathematics'
-p20
-I1
+p10
+F0.01134748304108095
+sS'statistics'
+p11
+F0.0049866997583026982
 sS'r'
-I1
-sS'data'
-p21
-I1
+F0.0029678732974007548
 sS'computer science'
+p12
+F0.0075186270758674902
+sS'mathematics'
+p13
+F0.0097748303854321168
+sS'python'
+p14
+F0.0027874412446698715
+sS'data scientist'
+p15
+F0.0056650891185234132
+sS'multivariate testing'
+p16
+F0.02937768217156566
+sS'sql'
+p17
+F0.0036467586033852783
+sS'data'
+p18
+F0.0012684651109569295
+sS'c'
+F0.0066878177748561354
+sS'data collection'
+p19
+F0.038773791946109554
+sS'science'
+p20
+F0.0037595395090593174
+sS'applied mathematics'
+p21
+F0.016161020025902171
+sS'programming'
 p22
-I1
-ssS'working-year'
+F0.011789467752244662
+sS'analysis'
 p23
-(dp24
-V(2, 5]
+F0.0036643713556591437
+sS'optimization'
+p24
+F0.010695234531489529
+sS'physics'
 p25
-I1
-ssS'major'
+F0.013011146403458091
+ssS'working-year'
 p26
 (dp27
-S'physics mathematics'
+V(2, 5]
 p28
-I1
-sS'applied mathematics'
+F0.0066253712750328096
+ssS'major'
 p29
-I1
-sS'data mining'
-p30
-I1
-sS'computer science statistics'
+(dp30
+VMathematics
 p31
-I1
-sS'analytics'
+F0.0091672327785157857
+sVData Science
 p32
-I1
-sS'design'
+F0.0054935239711500676
+sVStatistics
 p33
-I1
-sS'computer science'
+F0.0096337153469950813
+sVPhysics
 p34
-I1
-sS'statistic'
+F0.014030652947594065
+sVComputer Science
 p35
-I1
-sS'mathematics'
-p36
-I1
-sS'applied math'
-p37
-I1
-sS'ee computer science'
-p38
-I1
-sVphysic
-p39
-I1
+F0.0048414745794235171
 ssS'education'
-p40
-(dp41
+p36
+(dp37
 S'Bachelor'
-p42
-I1
+p38
+F0.0048736835704273089
 ssS'responsibility'
-p43
-(dp44
+p39
+(dp40
 S'forecasting'
-p45
-I1
+p41
+F0.015680369015135392
 sS'data collection'
-p46
-I1
-sS'data mining'
-p47
-I1
+p42
+F0.038773791946109554
 sS'analysis'
-p48
-I1
+p43
+F0.0036643713556591437
 sS'optimization'
-p49
-I1
+p44
+F0.010695234531489529
 sS'design'
-p50
-I1
-sS'identify trend'
-p51
-I1
+p45
+F0.0078097262567833024
+sS'data mining'
+p46
+F0.01134748304108095
+sS'identify ... trend'
+p47
+F0.022963738570590721
 sS'implement'
-p52
-I1
+p48
+F0.011325471524703782
 sS'model'
-p53
-I1
+p49
+F0.016549848576488137
 ss.

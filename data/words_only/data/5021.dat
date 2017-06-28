@@ -2,109 +2,118 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'database administration'
 p4
-I1
-sS'data scientist'
+F0.027198849613459058
+sS'engineering'
 p5
-I1
-sS'saas'
-p6
-I1
-sS'programming'
-p7
-I1
-sS'architecture'
-p8
-I1
-sS'analysis'
-p9
-I1
-sS'hardware'
-p10
-I1
-sS'scripting'
-p11
-I1
-sS'information technology'
-p12
-I1
-sS'innovation'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'security'
-p15
-I1
-sS'data'
-p16
-I1
-sS'b2b'
-p17
-I1
-sS'web development'
-p18
-I1
+F0.0068047487615203036
 sS'troubleshooting'
-p19
-I1
-ssS'working-year'
-p20
-(dp21
-V[0]
-p22
-I1
-ssS'major'
-p23
-(dp24
-S'information'
-p25
-I1
-sS'management'
-p26
-I1
-sS'computer science computer engineering'
-p27
-I1
-sS'information systems'
-p28
-I1
-sS'computer engineering'
-p29
-I1
-sS'information system'
-p30
-I1
+p6
+F0.020891013698523309
+sS'saas'
+p7
+F0.01715301275667034
+sS'user interface'
+p8
+F0.025182726157461133
 sS'information technology'
-p31
-I1
+p9
+F0.01731471706534303
+sS'innovation'
+p10
+F0.010754581511859576
+sS'information security'
+p11
+F0.026128389864789197
 sS'web development'
-p32
-I1
-sS'computer science'
-p33
-I1
-ssS'education'
-p34
-(dp35
-VBachelor
-p36
-I1
-sVMaster
-p37
-I1
-ssS'responsibility'
-p38
-(dp39
-S'development'
-p40
-I1
-sS'information'
-p41
-I1
+p12
+F0.020319094556978102
+sS'architecture'
+p13
+F0.012150080681581434
+sS'data analysis'
+p14
+F0.0082431223053648067
+sS'data scientist'
+p15
+F0.005885398139799324
+sS'b2b'
+p16
+F0.019309581397767634
+sS'project management'
+p17
+F0.010563629574025256
+sS'hardware'
+p18
+F0.020629533758635916
+sS'science'
+p19
+F0.0039057438233005134
+sS'programming'
+p20
+F0.006123973526860422
 sS'analysis'
+p21
+F0.0019034373430784996
+sS'application development'
+p22
+F0.021283868897145806
+sS'computer science'
+p23
+F0.0078110181288178933
+sS'security'
+p24
+F0.012140837865109956
+sS'scripting'
+p25
+F0.013517135430259241
+ssS'working-year'
+p26
+(dp27
+S'[0]'
+p28
+F0.012201192947468792
+ssS'major'
+p29
+(dp30
+VEngineering
+p31
+F0.0068047487615203036
+sVInformation Science
+p32
+F0.014070306603078299
+sVComputer Science
+p33
+F0.0050297541464010987
+sVManagement Science and Engineering
+p34
+F0.0071641363248271805
+ssS'education'
+p35
+(dp36
+VBachelor
+p37
+F0.0050632157092772596
+sVMaster
+p38
+F0.0040404482512454275
+ssS'responsibility'
+p39
+(dp40
+S'interface'
+p41
+F0.017541984436389328
+sS'information'
 p42
-I1
+F0.0077061399973855256
+sS'data analysis'
+p43
+F0.0082431223053648067
+sS'development'
+p44
+F0.0067275611245228815
+sS'analysis'
+p45
+F0.0019034373430784996
 ss.

@@ -2,154 +2,169 @@
 S'skills'
 p2
 (dp3
-S'validation'
+S'data processing'
 p4
-I1
-sS'data analysis'
+F0.019144367696501956
+sS'data science'
 p5
-I1
-sS'data modeling'
+F0.0062647964878156208
+sS'engineering'
 p6
-I1
-sS'statistical modeling'
-p7
-I1
-sS'data science'
-p8
-I1
-sS'processing'
-p9
-I1
-sS'business strategy'
-p10
-I1
-sS'logistic regression'
-p11
-I1
-sS'analysis'
-p12
-I1
-sS'research'
-p13
-I1
-sS'engineering'
-p14
-I1
+F0.0063794519639252846
 sS'statistical analysis'
-p15
-I1
-sS'data processing'
-p16
-I1
-sS'sql'
-p17
-I1
-sS'mathematics'
-p18
-I1
-sS'modeling'
-p19
-I1
+p7
+F0.013409896632357332
+sS'sas'
+p8
+F0.0072147752951948786
 sS'education'
-p20
-I1
-sS'data'
-p21
-I1
+p9
+F0.010930347655277443
 sS'regression'
-p22
-I1
-sS'data quality'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V[0]
-p26
-I1
-ssS'major'
-p27
-(dp28
-S'engineering science'
-p29
-I1
-sS'mathematics economics'
-p30
-I1
-sS'business'
-p31
-I1
-sS'data science'
-p32
-I1
-sS'engineering'
-p33
-I1
-sS'design'
-p34
-I1
-sS'economics finance'
-p35
-I1
-sS'statistic'
-p36
-I1
+p10
+F0.012375873909801044
+sS'statistics'
+p11
+F0.0048568377854302323
+sS'research'
+p12
+F0.0088870868923097736
 sS'mathematics'
+p13
+F0.0095202775108114875
+sS'data analysis'
+p14
+F0.0077279271612795061
+sS'data modeling'
+p15
+F0.013605217420928496
+sS'finance'
+p16
+F0.013828885698873377
+sS'processing'
+p17
+F0.0085056671180766662
+sS'data quality'
+p18
+F0.018410614912428246
+sS'statistical modeling'
+p19
+F0.009330028750991648
+sS'sql'
+p20
+F0.00355179093142212
+sS'modeling'
+p21
+F0.0042299254636539189
+sS'data'
+p22
+F0.0024708643307181856
+sS'science'
+p23
+F0.0073232696686884625
+sS'economics'
+p24
+F0.012481728251872194
+sS'business strategy'
+p25
+F0.015830913126663734
+sS'analysis'
+p26
+F0.0017844725091360934
+sS'logistic regression'
+p27
+F0.017051889983393458
+sS'validation'
+p28
+F0.016468553672266129
+ssS'working-year'
+p29
+(dp30
+S'[0]'
+p31
+F0.011438618388251992
+ssS'major'
+p32
+(dp33
+VStatistics
+p34
+F0.0093828373431670831
+sVBusiness
+p35
+F0.0056339288915318447
+sVData Science
+p36
+F0.0053504634510680342
+sVEconomics
 p37
-I1
-ssS'education'
+F0.008545685143356567
+sVElectrical and Electronics Engineering
 p38
-(dp39
-VMaster
+F0.01638869060091136
+sVEngineering
+p39
+F0.011731140243576705
+sVMathematics
 p40
-I1
-ssS'responsibility'
+F0.0089285027582419359
+ssS'education'
 p41
 (dp42
-S'development'
+VMaster
 p43
-I1
-sS'product'
+F0.0037879202355425878
+ssS'responsibility'
 p44
-I1
-sS'data analysis'
-p45
-I1
-sS'business problem'
+(dp45
+S'development'
 p46
-I1
-sS'processing'
-p47
-I1
-sS'analysis'
-p48
-I1
-sS'statistical model'
-p49
-I1
-sS'statistical method'
-p50
-I1
-sS'design'
-p51
-I1
-sS'identify opportunity'
-p52
-I1
-sS'report'
-p53
-I1
-sS'modeling'
-p54
-I1
-sS'implement'
-p55
-I1
-sS'presentation'
-p56
-I1
+F0.0063070885542402012
 sS'model'
+p47
+F0.0080594314682377113
+sS'product'
+p48
+F0.0070051713058215965
+sS'data analysis'
+p49
+F0.0077279271612795061
+sS'business problem'
+p50
+F0.014834117511097106
+sS'processing'
+p51
+F0.0085056671180766662
+sS'analysis'
+p52
+F0.0017844725091360934
+sS'statistical model'
+p53
+F0.018702418258431747
+sS'statistical method'
+p54
+F0.018311408484643285
+sS'design'
+p55
+F0.015212695937692474
+sS'identify opportunity'
+p56
+F0.021573070524663486
+sS'report'
 p57
-I1
+F0.010808731355064733
+sS'modeling'
+p58
+F0.0042299254636539189
+sS'implement'
+p59
+F0.011030537370414623
+sS'presentation'
+p60
+F0.02565994106572507
+sS'validate ... model'
+p61
+F0.027264407017401879
+sS'identify ... trend'
+p62
+F0.022365724545314922
 ss.

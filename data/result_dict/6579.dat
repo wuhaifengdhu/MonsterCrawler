@@ -2,193 +2,177 @@
 S'skills'
 p2
 (lp3
-S'nlp'
+S'elasticsearch'
 p4
-aS'consulting'
+aS'nlp'
 p5
-aS'nosql'
+aS'consulting'
 p6
-aS'renewable energy'
+aS'nosql'
 p7
-aS'data science'
+aS'renewable energy'
 p8
-aS'sql'
+aS'data science'
 p9
-aS'economic development'
+aS'sql'
 p10
-aS'hadoop'
+aS'economic development'
 p11
-aS'engineering'
+aS'hadoop'
 p12
-aS'high performance computing'
+aS'engineering'
 p13
-aS'seo'
+aS'high performance computing'
 p14
-aS'analysis'
+aS'seo'
 p15
-aS'strategy'
+aS'analysis'
 p16
-aS'd3'
+aS'research'
 p17
-aS'esri'
+aS'd3'
 p18
-aS'visualization'
+aS'esri'
 p19
-aS'management'
+aS'visualization'
 p20
-aS'big data'
+aS'management'
 p21
-aS'agile'
+aS'big data'
 p22
-aS'monte carlo simulation'
+aS'agile'
 p23
-aS'perl'
-p24
-aS'opencv'
-p25
-aS'rdf'
-p26
-aS'matlab'
-p27
-aS'communication'
-p28
-aS'algorithm development'
-p29
-aS'energy'
-p30
-aS'simulation'
-p31
-aS'css3'
-p32
-aS'business analysis'
-p33
 aS'government'
+p24
+aS'monte carlo simulation'
+p25
+aS'perl'
+p26
+aS'opencv'
+p27
+aS'strategy'
+p28
+aS'matlab'
+p29
+aS'communication'
+p30
+aS'algorithm development'
+p31
+aS'energy'
+p32
+aS'simulation'
+p33
+aS'css3'
 p34
-aS'python'
+aS'business analysis'
 p35
-aS'customer service'
+aS'rdf'
 p36
-aS'informatica'
+aS'python'
 p37
-aS'javascript'
+aS'customer service'
 p38
-aS'data scientist'
+aS'informatica'
 p39
-aS'leadership'
+aS'javascript'
 p40
-aS'html5'
+aS'data scientist'
 p41
-aS'octave'
+aS'leadership'
 p42
-aS'data wrangling'
+aS'html5'
 p43
-aS'etl'
+aS'octave'
 p44
-aS'php'
+aS'data wrangling'
 p45
-aS'data'
+aS'etl'
 p46
-aS'fuzzy logic'
+aS'php'
 p47
-aS'information technology'
+aS'data'
 p48
-aS'jquery'
+aS'fuzzy logic'
 p49
-aS'search'
+aS'information technology'
 p50
-aS'science'
+aS'jquery'
 p51
-aS'postgis'
+aS'search'
 p52
-aS'machine learning'
+aS'science'
 p53
+aS'postgis'
+p54
+aS'machine learning'
+p55
 aS'r'
 aS'solr'
-p54
-aS'elasticsearch'
-p55
-aS'organization'
 p56
-aS'lingo'
+aS'architecture'
 p57
-asS'working-year'
+aS'organization'
 p58
-(lp59
-V(0, 2]
+aS'lingo'
+p59
+asS'working-year'
 p60
-aV(2, 5]
-p61
-asS'major'
+(lp61
+V(0, 2]
 p62
-(lp63
-S'information'
+aV(2, 5]
+p63
+asS'major'
 p64
-aS'management'
-p65
-aS'business analysis'
+(lp65
+VBusiness
 p66
-aS'big data'
+aVData Science
 p67
-aS'computing'
+aVEngineering
 p68
-aS'science'
+aVInformation Science
 p69
-aS'data science'
+aVComputer Science
 p70
-aS'economic development'
+aVManagement Science and Engineering
 p71
-aS'data analyst'
-p72
-aS'machine learning'
-p73
-aS'business'
-p74
-aS'engineering'
-p75
-aS'design'
-p76
-aS'high performance computing'
-p77
-aS'communication'
-p78
-aS'information technology'
-p79
 asS'education'
-p80
-(lp81
+p72
+(lp73
 S'Bachelor'
-p82
+p74
 asS'responsibility'
-p83
-(lp84
+p75
+(lp76
 S'development'
-p85
+p77
 aS'information'
-p86
+p78
 aS'product'
-p87
+p79
 aS'pattern'
-p88
+p80
 aS'communicate'
-p89
+p81
 aS'analysis'
-p90
+p82
 aS'simulation'
-p91
+p83
 aS'model'
-p92
+p84
 aS'design'
-p93
+p85
 aS'data wrangling'
-p94
+p86
 aS'interface'
-p95
+p87
 aS'understand'
-p96
+p88
 aS'implement'
-p97
+p89
 aS'prototype'
-p98
+p90
 aS'transformation'
-p99
+p91
 as.

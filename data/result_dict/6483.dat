@@ -28,88 +28,84 @@ aS'strategy'
 p15
 aS'automotive'
 p16
-aS'product development'
+aS'architecture'
 p17
-aS'marketing'
+aS'product development'
 p18
-aS'data scientist'
+aS'marketing'
 p19
-aS'product management'
+aS'data scientist'
 p20
-aS'leadership'
-p21
-aS'mentoring'
-p22
-aS'manufacturing'
-p23
-aS'data'
-p24
-aS'arena'
-p25
-aS'search'
-p26
-aS'software engineering'
-p27
-aS'data visualization'
-p28
-aS'advertising'
-p29
 aS'oracle'
+p21
+aS'leadership'
+p22
+aS'mentoring'
+p23
+aS'manufacturing'
+p24
+aS'data'
+p25
+aS'arena'
+p26
+aS'search'
+p27
+aS'software engineering'
+p28
+aS'data visualization'
+p29
+aS'advertising'
 p30
-aS'security'
+aS'product management'
 p31
-aS'retail'
+aS'security'
 p32
-asS'working-year'
+aS'retail'
 p33
-(lp34
+asS'working-year'
+p34
+(lp35
 V(5, 10]
-p35
-aV(2, 5]
 p36
 asS'major'
 p37
 (lp38
-S'information'
+VBusiness
 p39
-aS'management'
+aVData Science
 p40
-aS'software engineering'
+aVEconomics
 p41
-aS'business'
+aVEngineering
 p42
-aS'marketing'
+aVComputer Science
 p43
-aS'mba'
+aVManagement Science and Engineering
 p44
-aS'analytics'
-p45
-aS'engineering'
-p46
-aS'design'
-p47
 asS'education'
-p48
-(lp49
+p45
+(lp46
 VBachelor
-p50
+p47
+aVMaster
+p48
 asS'responsibility'
-p51
-(lp52
+p49
+(lp50
 S'development'
-p53
+p51
 aS'information'
-p54
+p52
 aS'product'
-p55
+p53
 aS'communicate'
-p56
+p54
 aS'design'
-p57
+p55
 aS'understand'
-p58
+p56
 aS'implement'
-p59
+p57
 aS'presentation'
-p60
+p58
 as.

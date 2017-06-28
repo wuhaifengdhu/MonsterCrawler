@@ -4,9 +4,9 @@ p2
 (lp3
 S'nosql'
 p4
-aS'storage'
-p5
 aS'data science'
+p5
+aS'analytics'
 p6
 aS'engineering'
 p7
@@ -18,7 +18,7 @@ aS'java'
 p10
 aS'big data'
 p11
-aS'r programming'
+aS'storage'
 p12
 aS'access'
 p13
@@ -36,73 +36,61 @@ aS'data scientist'
 p19
 aS'apache spark'
 p20
-aS'apache'
+aS'sql'
 p21
-aS'data'
+aS'apache'
 p22
-aS'data collection'
+aS'spark'
 p23
-aS'science'
+aS'data'
 p24
-aS'programming'
+aS'data collection'
 p25
-aS'mapreduce'
+aS'science'
 p26
-aS'machine learning'
+aS'programming'
 p27
+aS'mapreduce'
+p28
+aS'machine learning'
+p29
 aS'r'
 asS'working-year'
-p28
-(lp29
-V(0, 2]
 p30
-aV(2, 5]
-p31
-asS'major'
+(lp31
+V(0, 2]
 p32
-(lp33
-S'management'
+aV(2, 5]
+p33
+asS'major'
 p34
-aS'big data'
-p35
-aS'science'
+(lp35
+VMathematics
 p36
-aS'data science'
+aVData Science
 p37
-aS'machine learning'
+aVEngineering
 p38
-aS'engineering'
+aVComputer Science
 p39
-aS'design'
+aVManagement Science and Engineering
 p40
-aS'computer science'
-p41
-aS'statistic'
-p42
-aS'mathematics'
-p43
-aS'computer science mathematics'
-p44
-aS'ee computer science'
-p45
-aS'data science engineering'
-p46
 asS'education'
-p47
-(lp48
+p41
+(lp42
 VBachelor
-p49
+p43
 asS'responsibility'
-p50
-(lp51
+p44
+(lp45
 S'data collection'
-p52
-aVinsight
-p53
+p46
+aS'insight'
+p47
 aS'design'
-p54
+p48
 aS'data infrastructure'
-p55
+p49
 aS'processing'
-p56
+p50
 as.

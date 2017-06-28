@@ -2,119 +2,110 @@
 S'skills'
 p2
 (dp3
-S'software development'
+S'testing'
 p4
-I1
-sS'clustering'
-p5
-I1
-sS'c'
-I1
-sS'java'
-p6
-I1
-sS'analytics'
-p7
-I1
-sS'testing'
-p8
-I1
-sS'neo4j'
-p9
-I1
-sS'hadoop'
-p10
-I1
+F0.012716633632919335
 sS'rest'
-p11
-I1
-sS'machine learning'
-p12
-I1
-sS'credit'
-p13
-I1
-sS'json'
-p14
-I1
-sS'r'
-I1
-sS'api development'
-p15
-I1
-sS'c++'
-p16
-I1
-sS'data mining'
-p17
-I1
-sS'mathematics'
-p18
-I1
-sS'spark'
-p19
-I1
-sS'virtualization'
-p20
-I1
-sS'computer science'
-p21
-I1
-ssS'working-year'
-p22
-(dp23
-V(2, 5]
-p24
-I1
-ssS'major'
-p25
-(dp26
-S'statistic'
-p27
-I1
-sVapplied statistic
-p28
-I1
-sS'machine learning'
-p29
-I1
+p5
+F0.022219853804095108
 sS'analytics'
-p30
-I1
-sS'computer science'
-p31
-I1
+p6
+F0.010804192074329522
+sS'api development'
+p7
+F0.036500729873835944
+sS'virtualization'
+p8
+F0.03141807911939859
 sS'data mining'
-p32
-I1
+p9
+F0.013179995830323836
+sS'neo4j'
+p10
+F0.029085102428447002
+sS'clustering'
+p11
+F0.020021196028299441
+sS'java'
+p12
+F0.0076973103581880952
+sS'agile'
+p13
+F0.013563291134779561
+sS'hadoop'
+p14
+F0.0079801646049662417
+sS'json'
+p15
+F0.024384929669151522
+sS'computer science'
+p16
+F0.0087328152992995067
 sS'mathematics'
-p33
-I1
-sS'development practice'
-p34
-I1
-sS'mathematics computer science'
-p35
-I1
-sS'data mining machine learning'
-p36
-I1
+p17
+F0.022706748845662181
+sS'spark'
+p18
+F0.010472892070283592
+sS'software development'
+p19
+F0.01316892309362281
+sS'c'
+F0.0077678380366341445
+sS'science'
+p20
+F0.0043666701130067849
+sS'mapreduce'
+p21
+F0.016377028055626835
+sS'machine learning'
+p22
+F0.0040715386449319208
+sS'credit'
+p23
+F0.019736241144333207
+sS'r'
+F0.0034471571839375225
+ssS'working-year'
+p24
+(dp25
+V(2, 5]
+p26
+F0.0076953070088890399
+ssS'major'
+p27
+(dp28
+VMathematics
+p29
+F0.010647655463245042
+sVData Science
+p30
+F0.0063806769105904503
+sVStatistics
+p31
+F0.011189470620422857
+sVComputer Science
+p32
+F0.0056233276170943956
 ssS'education'
+p33
+(dp34
+VMaster
+p35
+F0.004517271336796129
+sVDoctor
+p36
+F0.0067651041725246457
+ssS'responsibility'
 p37
 (dp38
-S'Bachelor'
-p39
-I1
-ssS'responsibility'
-p40
-(dp41
 S'development'
-p42
-I1
+p39
+F0.015042993818808926
 sS'product'
-p43
-I1
+p40
+F0.0083539931100481152
 sS'data mining'
-p44
-I1
+p41
+F0.013179995830323836
 ss.

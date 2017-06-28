@@ -4,88 +4,84 @@ p2
 (lp3
 S'consulting'
 p4
-aS'aws'
+aS'communication'
 p5
-aS'finance'
-p6
-aS'corporate finance'
-p7
-aS'healthcare'
-p8
-aS'data scientist'
-p9
 aS'data science'
+p6
+aS'rest'
+p7
+aS'engineering'
+p8
+aS'accounting'
+p9
+aS'education'
 p10
-aS'innovation'
+aS'amazon web services'
 p11
-aS'recruiting'
+aS'corporate finance'
 p12
-aS'strategy'
+aS'recruiting'
 p13
-aS'financial services'
+aS'strategy'
 p14
 aS'web services'
 p15
-aS'communication'
+aS'innovation'
 p16
-aS'accounting'
-p17
 aS'amazon web services aws'
-p18
-aS'retail'
-p19
-aS'data'
-p20
-aS'amazon web services'
-p21
-aS'education'
-p22
-aS'science'
-p23
-asS'working-year'
-p24
-(lp25
-V[0]
-p26
-asS'major'
-p27
-(lp28
-S'information'
-p29
+p17
 aS'finance'
-p30
-aS'corporate finance'
-p31
+p18
+aS'aws'
+p19
+aS'data scientist'
+p20
+aS'data'
+p21
 aS'science'
-p32
-aS'data science'
+p22
+aS'financial services'
+p23
+aS'healthcare'
+p24
+aS'organization'
+p25
+aS'retail'
+p26
+aS'options'
+p27
+asS'working-year'
+p28
+(lp29
+S'[0]'
+p30
+asS'major'
+p31
+(lp32
+VData Science
 p33
-aS'general'
+aVEconomics
 p34
-aS'business'
+aVEngineering
 p35
-aS'design'
+aVBusiness
 p36
-aS'communication'
-p37
-aS'accounting'
-p38
-aS'data science engineering'
-p39
 asS'education'
-p40
-(lp41
+p37
+(lp38
 VBachelor
-p42
+p39
+aVMaster
+p40
 asS'responsibility'
-p43
-(lp44
+p41
+(lp42
 S'report'
-p45
+p43
 aS'information'
-p46
+p44
 aS'product'
-p47
+p45
 aS'design'
-p48
+p46
 as.

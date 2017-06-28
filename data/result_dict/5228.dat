@@ -4,86 +4,76 @@ p2
 (lp3
 S'software development'
 p4
-aS'training'
+aS'debugging'
 p5
-aS'software engineering'
+aS'training'
 p6
-aS'parallel programming'
+aS'management'
 p7
-aS'science'
+aS'software engineering'
 p8
-aS'data science'
+aS'parallel programming'
 p9
-aS'programming'
-p10
-aS'scientific computing'
-p11
-aS'high performance computing'
-p12
-aS'research'
-p13
-aS'hardware'
-p14
-aS'engineering'
-p15
-aS'optimization'
-p16
-aS'analysis'
-p17
-aS'automation'
-p18
-aS'data'
-p19
-aS'scripting'
-p20
-asS'working-year'
-p21
-(lp22
-V(0, 2]
-p23
-aV(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'software engineering'
-p27
-aS'computing'
-p28
 aS'science'
-p29
+p10
 aS'data science'
-p30
+p11
+aS'programming'
+p12
 aS'scientific computing'
-p31
+p13
 aS'high performance computing'
-p32
-aS'automation'
-p33
+p14
+aS'research'
+p15
+aS'hardware'
+p16
 aS'engineering'
-p34
-aS'electrical'
-p35
-aS'mechanical'
-p36
-aS'design'
-p37
-aVphysic
-p38
-asS'education'
-p39
-(lp40
-S'Bachelor'
-p41
-asS'responsibility'
-p42
-(lp43
-S'development'
-p44
+p17
 aS'optimization'
-p45
-aS'design'
-p46
+p18
 aS'analysis'
-p47
+p19
+aS'automation'
+p20
+aS'data'
+p21
+aS'scripting'
+p22
+asS'working-year'
+p23
+(lp24
+V(0, 2]
+p25
+aV(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VData Science
+p29
+aVEngineering
+p30
+aVComputer Science
+p31
+aVManagement Science and Engineering
+p32
+asS'education'
+p33
+(lp34
+VBachelor
+p35
+aVMaster
+p36
+asS'responsibility'
+p37
+(lp38
+S'development'
+p39
+aS'optimization'
+p40
+aS'design'
+p41
+aS'analysis'
+p42
 as.

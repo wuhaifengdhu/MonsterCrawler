@@ -4,39 +4,40 @@ p2
 (lp3
 S'programming'
 p4
+aS'a'
 aS'training'
 p5
-aS'theory'
+aS'management'
 p6
-aS'data scientist'
+aS'theory'
 p7
-aS'recruiting'
+aS'data scientist'
 p8
-aS'analysis'
+aS'recruiting'
 p9
-aS'strategy'
+aS'analysis'
 p10
-aS'policy'
+aS'strategy'
 p11
-aS'education'
+aS'policy'
 p12
-aS'data'
+aS'education'
 p13
-asS'working-year'
+aS'data'
 p14
-(lp15
+asS'working-year'
+p15
+(lp16
 V(5, 10]
-p16
-aV(2, 5]
 p17
-asS'major'
+aV(2, 5]
 p18
-(lp19
-S'information'
-p20
-aS'data analyst'
+asS'major'
+p19
+(lp20
+VData Science
 p21
-aS'general'
+aVManagement Science and Engineering
 p22
 asS'education'
 p23
@@ -54,4 +55,6 @@ aS'information'
 p30
 aS'analysis'
 p31
+aS'decision making'
+p32
 as.

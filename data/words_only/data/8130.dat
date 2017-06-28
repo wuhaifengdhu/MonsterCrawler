@@ -4,208 +4,196 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
-sS'reporting analysis'
-p5
-I1
+F0.0095267445934832974
 sS'intellectual property'
-p6
-I1
+p5
+F0.013970582850111643
 sS'communication'
+p6
+F0.0040908768969272775
+sS'analytics'
 p7
-I1
+F0.0022473836226964512
 sS'engineering'
 p8
-I1
-sS'random forest'
+F0.003164999423962932
+sS'sas'
 p9
-I1
-sS'management'
-p10
-I1
-sS'strategy'
-p11
-I1
-sS'access'
-p12
-I1
-sS'community development'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'innovation'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'operations research'
-p17
-I1
-sS'python'
-p18
-I1
-sS'marketing'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'experimental design'
-p21
-I1
+F0.0035794234022672269
 sS'fraud'
+p10
+F0.13140601804368929
+sS'random forest'
+p11
+F0.011735463294153342
+sS'statistics'
+p12
+F0.0024095939400584098
+sS'strategy'
+p13
+F0.016279187919657209
+sS'access'
+p14
+F0.0059934419253138372
+sS'community development'
+p15
+F0.016809366564488247
+sS'computer science'
+p16
+F0.0036330316878222758
+sS'innovation'
+p17
+F0.0050021309357486405
+sS'mathematics'
+p18
+F0.0047232384549762427
+sS'operations research'
+p19
+F0.0074442855699015757
+sS'python'
+p20
+F0.0013469031337293696
+sS'marketing'
+p21
+F0.0049230349418024517
+sS'experimental design'
 p22
-I1
-sS'statistical modeling'
+F0.0089501624523002487
+sS'management'
 p23
-I1
-sS'sql'
+F0.004682423086303112
+sS'statistical modeling'
 p24
-I1
-sS'modeling'
+F0.0046288514733601981
+sS'sql'
 p25
-I1
-sS'credit risk'
+F0.0017621288341939203
+sS'modeling'
 p26
-I1
-sS'data'
+F0.0020985676718903168
+sS'credit risk'
 p27
-I1
-sS'customer experience'
+F0.011581480237611946
+sS'data'
 p28
-I1
-sS'decision trees'
+F0.0012258551718291775
+sS'customer experience'
 p29
-I1
-sS'mobile devices'
+F0.0098994739056492125
+sS'decision trees'
 p30
-I1
-sS'analysis'
+F0.010780056941900025
+sS'science'
 p31
-I1
-sS'machine learning'
+F0.0018166250340932622
+sS'economics'
 p32
-I1
-sS'credit'
+F0.0061924853342621745
+sS'mobile devices'
 p33
-I1
-sS'r'
-I1
-sS'logistic regression'
+F0.012618528433846993
+sS'analysis'
 p34
-I1
-sS'organization'
+F0.00088531969445511621
+sS'machine learning'
 p35
-I1
-sS'data analytics'
+F0.0016938442424652179
+sS'credit'
 p36
-I1
-ssS'working-year'
+F0.041053421501778375
+sS'r'
+F0.0014340886475812434
+sS'logistic regression'
 p37
-(dp38
-V(2, 5]
+F0.008459852394861871
+sS'organization'
+p38
+F0.0045560305924591251
+sS'data analytics'
 p39
-I1
-ssS'major'
+F0.0052773195904025766
+ssS'working-year'
 p40
 (dp41
-S'management'
+V(2, 5]
 p42
-I1
-sS'business'
+F0.0032014067918117199
+ssS'major'
 p43
-I1
-sS'communication'
-p44
-I1
-sS'statistic'
+(dp44
+VStatistics
 p45
-I1
-sS'machine learning'
+F0.0046550510849821198
+sVBusiness
 p46
-I1
-sS'engineering'
+F0.0027951275120778147
+sVData Science
 p47
-I1
-sS'design'
+F0.0026544934951035211
+sVEconomics
 p48
-I1
-sS'computer science'
+F0.0042397197610451187
+sVEngineering
 p49
-I1
-sS'marketing'
+F0.003164999423962932
+sVComputer Science
 p50
-I1
-sS'data analytics'
+F0.0023394205332098131
+sVMathematics
 p51
-I1
-sS'mathematics'
+F0.0044296447792828214
+sVOperations Research
 p52
-I1
-sS'phd'
+F0.0083171289358841185
+sVManagement Science and Engineering
 p53
-I1
-sS'computer science economics'
-p54
-I1
-sS'operations research'
-p55
-I1
-sS'history'
-p56
-I1
+F0.0033321564301521766
 ssS'education'
-p57
-(dp58
+p54
+(dp55
 VBachelor
-p59
-I1
+p56
+F0.0023549840508266325
 sVMaster
-p60
-I1
+p57
+F0.001879278256393222
 sVDoctor
-p61
-I1
+p58
+F0.0028144231828849302
 ssS'responsibility'
-p62
-(dp63
+p59
+(dp60
 S'development'
-p64
-I1
+p61
+F0.012516392789810012
 sS'product'
-p65
-I1
+p62
+F0.010426301478432144
 sS'predict'
-p66
-I1
-sVinsight
-p67
-I1
+p63
+F0.010780056941900025
+sS'insight'
+p64
+F0.0047413265013164993
 sS'communicate'
-p68
-I1
+p65
+F0.0051840901350945533
 sS'analysis'
-p69
-I1
-sS'statistical model'
-p70
-I1
-sS'design'
-p71
-I1
-sS'modeling'
-p72
-I1
-sS'implement'
-p73
-I1
+p66
+F0.00088531969445511621
 sS'improvement'
-p74
-I1
+p67
+F0.006941102057723793
+sS'design'
+p68
+F0.007547384031103244
+sS'modeling'
+p69
+F0.0020985676718903168
+sS'implement'
+p70
+F0.010945029328783502
 sS'model'
-p75
-I1
+p71
+F0.0079969552553056378
 ss.

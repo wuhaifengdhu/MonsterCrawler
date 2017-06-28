@@ -2,63 +2,64 @@
 S'skills'
 p2
 (lp3
-S'continuous improvement'
+S'intelligence'
 p4
-aS'data analysis'
+aS'defense'
 p5
-aS'data modeling'
+aS'analysis'
 p6
-aS'theory'
+aS'simulation'
 p7
-aS'government'
+aS'education'
 p8
-aS'intelligence'
+aS'continuous improvement'
 p9
 aS'innovation'
 p10
-aS'programming'
+aS'mathematics'
 p11
-aS'analysis'
+aS'data analysis'
 p12
-aS'machine learning'
+aS'data modeling'
 p13
-aS'exploratory data analysis'
+aS'theory'
 p14
-aS'defense'
+aS'government'
 p15
-aS'education'
+aS'data scientist'
 p16
-aS'mathematics'
-p17
 aS'modeling'
-p18
-aS'security'
-p19
-aS'simulation'
-p20
+p17
 aS'data'
-p21
+p18
+aS'a'
 aS'national security'
-p22
-asS'working-year'
-p23
-(lp24
-V(5, 10]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
-aS'business'
-p29
+p19
+aS'programming'
+p20
+aS'security clearance'
+p21
 aS'machine learning'
+p22
+aS'exploratory data analysis'
+p23
+aS'security'
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+asS'major'
+p28
+(lp29
+VMathematics
 p30
-aS'design'
+aVInformation Science
 p31
-aS'statistic'
+aVComputer Science
 p32
-aS'mathematics'
+aVBusiness
 p33
 asS'education'
 p34
@@ -84,20 +85,22 @@ aS'communicate'
 p45
 aS'analysis'
 p46
-aS'simulation'
-p47
-aS'model'
-p48
-aS'design'
-p49
-aS'identify opportunity'
-p50
-aS'prototype'
-p51
-aS'modeling'
-p52
 aS'improvement'
+p47
+aS'develop ... model'
+p48
+aS'model'
+p49
+aS'design'
+p50
+aS'identify opportunity'
+p51
+aS'prototype'
+p52
+aS'modeling'
 p53
-aS'transformation'
+aS'simulation'
 p54
+aS'transformation'
+p55
 as.

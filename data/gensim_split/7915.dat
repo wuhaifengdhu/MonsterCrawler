@@ -1,195 +1,368 @@
-job_requisition
-number
-112995
-category_consultant
--
-analyst
-primary_location
-washington_dc
-u
-security_clearance
-t_sci
-clearance
-status
-must_current
-schedule_full
-time
-type_travel
-none
-percent_travel
-required_none
-description
-caci_immediate
-opportunity
-data_scientist
-provide
-cutting_edge
-service
-data_scientist
-responsible
-data
-analytics
-support
-understanding_evaluating
-customer
-requirement
-development
-advanced
-data
-analytics
-need
-keep_current
-industry
-direction_trend
-future
-capability_respect
-data
-analysis
-provide
-expertise
-support
-user
-requirement
-complex
-highly_complex
-software_hardware
-application
-respect
-data
-analysis
-architecture
-direct
-participate_phase
-risk_management
-assessment
-software_hardware
-development
-emphasis
-analysis
-user
-requirement
-test
-design
-test
-tool
-selection
-data_scientist
-work
-project_manager
-data
-architect
-ensure
-quality_deliverable
-meet
-customer_expectation
-clearance
-requirement
-position_requires
-active_top
-secret_clearance
-ability_obtain
-maintain_dhs
-eod
-sci
-u_government
-security_clearance
-experience
-building
-conceptual_logical
-physical
-data
-model
-decomposing
-packaging
-data
-element
-attribute
-optimized
-fashion
-ie
-shared
-data
-repository
-either
-financial
-cyber_security
-data
-entity
-minimum
-network
-data
-element
-working
-seta
-provide_feedback
-data
-model
-implementing
-data
-model
-operational
-system
-enterprise
-working
-development
-team
-implement
-developed
-data
-model
-independent
-platform
-education
-requirement
-master's_degree
-computer_science
-similar
-technical_discipline
-required
-desired
-requirement
-phd_computer
-science
-similar
-technical_discipline
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV112995
+p4
+aVcategory consultant
+p5
+aV-
+aVanalyst
+p6
+aVprimary location
+p7
+aVwashington dc
+p8
+aVu
+aVsecurity clearance
+p9
+aVt sci
+p10
+aVclearance status
+p11
+aVmust current
+p12
+aVschedule full
+p13
+aVtime
+p14
+aVtype travel
+p15
+aVnone
+p16
+aVpercent travel
+p17
+aVrequired none
+p18
+aVdescription
+p19
+aVcaci immediate
+p20
+aVopportunity
+p21
+aVdata scientist
+p22
+aVprovide cutting
+p23
+aVedge
+p24
+aVservice
+p25
+aVdata scientist
+p26
+aVresponsible
+p27
+aVdata
+p28
+aVanalytics
+p29
+aVsupport
+p30
+aVunderstanding evaluating
+p31
+aVcustomer
+p32
+aVrequirement
+p33
+aVdevelopment
+p34
+aVadvanced
+p35
+aVdata
+p36
+aVanalytics
+p37
+aVneed keep
+p38
+aVcurrent industry
+p39
+aVdirection trend
+p40
+aVfuture capability
+p41
+aVrespect
+p42
+aVdata
+p43
+aVanalysis
+p44
+aVprovide expertise
+p45
+aVsupport
+p46
+aVuser
+p47
+aVrequirement
+p48
+aVcomplex
+p49
+aVhighly complex
+p50
+aVsoftware hardware
+p51
+aVapplication
+p52
+aVrespect
+p53
+aVdata
+p54
+aVanalysis
+p55
+aVarchitecture
+p56
+aVdirect participate
+p57
+aVphase risk
+p58
+aVmanagement
+p59
+aVassessment
+p60
+aVsoftware hardware
+p61
+aVdevelopment emphasis
+p62
+aVanalysis
+p63
+aVuser
+p64
+aVrequirement
+p65
+aVtest
+p66
+aVdesign
+p67
+aVtest
+p68
+aVtool
+p69
+aVselection
+p70
+aVdata scientist
+p71
+aVwork
+p72
+aVproject manager
+p73
+aVdata
+p74
+aVarchitect
+p75
+aVensure quality
+p76
+aVdeliverable meet
+p77
+aVcustomer expectation
+p78
+aVclearance requirement
+p79
+aVposition requires
+p80
+aVactive top
+p81
+aVsecret clearance
+p82
+aVability obtain
+p83
+aVmaintain dhs
+p84
+aVeod
+p85
+aVsci u.s.
+p86
+aVgovernment security
+p87
+aVclearance
+p88
+aVexperience building
+p89
+aVconceptual logical
+p90
+aVphysical
+p91
+aVdata
+p92
+aVmodel
+p93
+aVdecomposing
+p94
+aVpackaging
+p95
+aVdata
+p96
+aVelement
+p97
+aVattribute
+p98
+aVoptimized
+p99
+aVfashion
+p100
+aVi.e.
+p101
+aVshared
+p102
+aVdata repository
+p103
+aVeither
+p104
+aVfinancial
+p105
+aVcyber security
+p106
+aVdata
+p107
+aVentity
+p108
+aVminimum
+p109
+aVnetwork
+p110
+aVdata
+p111
+aVelement
+p112
+aVworking
+p113
+aVseta
+p114
+aVprovide feedback
+p115
+aVdata
+p116
+aVmodel
+p117
+aVimplementing
+p118
+aVdata
+p119
+aVmodel
+p120
+aVoperational
+p121
+aVsystem
+p122
+aVenterprise
+p123
+aVworking
+p124
+aVdevelopment
+p125
+aVteam
+p126
+aVimplement
+p127
+aVdeveloped
+p128
+aVdata
+p129
+aVmodel
+p130
+aVindependent
+p131
+aVplatform
+p132
+aVeducation requirement
+p133
+aVmaster's degree
+p134
+aVcomputer science
+p135
+aVsimilar technical
+p136
+aVdiscipline
+p137
+aVrequired
+p138
+aVdesired
+p139
+aVrequirement
+p140
+aVphd computer
+p141
+aVscience similar
+p142
+aVtechnical discipline
+p143
+aVcompany description
+p144
+aVcaci employ
+p145
+aVdiverse range
+p146
+aVtalent create
+p147
+aVenvironment fuel
+p148
+aVinnovation foster
+p149
+aVcontinuous improvement
+p150
+aVsuccess join
+p151
+aVcaci opportunity
+p152
+aVmake immediate
+p153
+aVimpact providing
+p154
+aVinformation
+p155
+aVsolution
+p156
+aVservice
+p157
+aVsupport
+p158
+aVnational security
+p159
+aVmission government
+p160
+aVtransformation intelligence
+p161
+aVdefense federal
+p162
+aVcivilian customer
+p163
+aVfortune magazine
+p164
+aVworld's admired
+p165
+aVcompany
+p166
+aVservice
+p167
+aVindustry caci
+p168
+aVmember fortune
+p169
+aV1000 largest
+p170
+aVcompany russell
+p171
+aV2000 index
+p172
+aVp smallcap600
+p173
+aVindex caci
+p174
+aVprovides dynamic
+p175
+aVcareer 20
+p176
+aV000 employee
+p177
+aVworldwide caci
+p178
+aVequal opportunity
+p179
+aVemployer -
+p180
+aVfemale minority
+p181
+aVprotected veteran
+p182
+aVindividual disability
+p183
+a.

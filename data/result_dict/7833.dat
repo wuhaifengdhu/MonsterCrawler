@@ -2,88 +2,92 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'testing'
 p4
-aS'programming'
+aS'sales'
 p5
-aS'big data'
+aS'analytics'
 p6
-aS'business process'
+aS'go'
 p7
-aS'marketing'
+aS'management'
 p8
-aS'testing'
+aS'big data'
 p9
-aS'data scientist'
+aS'programming languages'
 p10
 aS'integration'
 p11
-aS'machine learning'
+aS'html'
 p12
-aS'analytics'
+aS'css'
 p13
-aS'b2b'
+aS'marketing'
 p14
-aS'product design'
+aS'data scientist'
 p15
-aS'data analytics'
+aS'business process'
 p16
-aS'healthcare'
+aS'product design'
 p17
-aS'product management'
-p18
-aS'validation'
-p19
 aS'data'
+p18
+aS'b2b'
+p19
+aS'programming'
 p20
-aS'programming languages'
+aS'machine learning'
 p21
 aS'etl'
 p22
-asS'working-year'
+aS'healthcare'
 p23
-(lp24
-V[0]
+aS'product management'
+p24
+aS'validation'
 p25
-asS'major'
-p26
-(lp27
-S'management'
-p28
-aS'business'
-p29
-aS'big data'
-p30
-aS'marketing'
-p31
-aS'machine learning'
-p32
-aS'analytics'
-p33
-aS'design'
-p34
 aS'data analytics'
+p26
+asS'working-year'
+p27
+(lp28
+S'[0]'
+p29
+asS'major'
+p30
+(lp31
+VData Science
+p32
+aVEconomics
+p33
+aVComputer Science
+p34
+aVBusiness
 p35
-asS'education'
+aVManagement Science and Engineering
 p36
-(lp37
+asS'education'
+p37
+(lp38
 S'Bachelor'
-p38
-asS'responsibility'
 p39
-(lp40
+asS'responsibility'
+p40
+(lp41
 S'development'
-p41
-aS'product'
 p42
-aVinsight
+aS'product'
 p43
-aS'design'
+aS'insight'
 p44
-aS'report'
-p45
 aS'understand'
+p45
+aS'report'
 p46
-aS'prototype'
+aS'design'
 p47
+aS'prototype'
+p48
+aS'monitor ... metric'
+p49
 as.

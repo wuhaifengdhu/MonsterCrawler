@@ -2,192 +2,191 @@
 S'skills'
 p2
 (dp3
-S'human resources'
+S'testing'
 p4
-I1
+F0.005986485423684248
 sS'analytics'
 p5
-I1
-sS'weka'
+F0.007629275982311637
+sS'engineering'
 p6
-I1
-sVpanda
+F0.0035814467165896334
+sS'modeling'
 p7
-I1
-sS'management'
+F0.002374694997139042
+sS'statistics'
 p8
-I1
+F0.0027266457742766213
 sS'java'
 p9
-I1
+F0.0036235876247610625
 sS'scala'
 p10
-I1
+F0.0071361590283585867
 sS'agile'
 p11
-I1
-sS'r programming'
+F0.0063850581073085066
+sS'hadoop'
 p12
-I1
+F0.0037567441561390785
+sS'r'
+F0.0016227845222629858
 sS'matlab'
 p13
-I1
+F0.0037321672153159788
 sS'numpy'
 p14
-I1
-sS'operations research'
+F0.010489708482770435
+sS'pandas'
 p15
-I1
-sS'computer science'
-p16
-I1
-sS'testing'
-p17
-I1
-sS'distributed computing'
-p18
-I1
-sS'finance'
-p19
-I1
-sS'computational biology'
-p20
-I1
-sS'government'
-p21
-I1
-sS'python'
-p22
-I1
-sS'scipy'
-p23
-I1
-sS'statistical modeling'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'search'
-p26
-I1
-sS'programming'
-p27
-I1
-sS'c++'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'r'
-I1
-sS'organization'
-p30
-I1
-sS'validation'
-p31
-I1
-sS'data analytics'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V[0]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'management'
-p38
-I1
-sS'finance'
-p39
-I1
-sS'computational biology'
-p40
-I1
-sS'computing'
-p41
-I1
-sS'applied math'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'business'
-p44
-I1
-sS'analytics'
-p45
-I1
+F0.01202643997436164
 sS'operations research'
-p46
-I1
-sS'statistic'
-p47
-I1
-sVphysic
-p48
-I1
-sS'computer science applied math'
-p49
-I1
-sS'computational biolog'
-p50
-I1
-sS'data analytics'
-p51
-I1
-sS'statistics operations research'
-p52
-I1
+p16
+F0.0084237968290991512
 sS'computer science'
+p17
+F0.0041110621730620486
+sS'human resources'
+p18
+F0.014503891766627216
+sS'distributed computing'
+p19
+F0.010460223574442434
+sS'finance'
+p20
+F0.0077635849537534742
+sS'computational biology'
+p21
+F0.012180818174074024
+sS'government'
+p22
+F0.007623156478447266
+sS'python'
+p23
+F0.0015241272302727075
+sS'search'
+p24
+F0.0090701455486835308
+sS'management'
+p25
+F0.0052985313871324689
+sS'statistical modeling'
+p26
+F0.0052379108777496968
+sS'weka'
+p27
+F0.011370645696436433
+sS'spark'
+p28
+F0.0049302211208060191
+sS'c'
+F0.0036567892511640272
+sS'science'
+p29
+F0.0020556546438423753
+sS'programming'
+p30
+F0.0064462879230109699
+sS'machine learning'
+p31
+F0.0019167184848948517
+sS'scipy'
+p32
+F0.011816923092061515
+sS'elasticsearch'
+p33
+F0.012094048288762918
+sS'organization'
+p34
+F0.01031101660398644
+sS'validation'
+p35
+F0.0092455038160090541
+sS'physics'
+p36
+F0.0071142818053995995
+sS'data analytics'
+p37
+F0.0059717037470344942
+ssS'working-year'
+p38
+(dp39
+S'[0]'
+p40
+F0.0064216804986677849
+ssS'major'
+p41
+(dp42
+VStatistics
+p43
+F0.0052675578066902927
+sVBusiness
+p44
+F0.0031629074478775267
+sVData Science
+p45
+F0.0030037689549855633
+sVEconomics
+p46
+F0.0047975776243405288
+sVEngineering
+p47
+F0.0035814467165896334
+sVComputer Science
+p48
+F0.0026472390244216305
+sVBiological Engineering
+p49
+F0.0076906309370663459
+sVMathematics
+p50
+F0.0050124927765568764
+sVPhysics
+p51
+F0.0076717312900587437
+sVOperations Research
+p52
+F0.0094114880063951873
+sVManagement Science and Engineering
 p53
-I1
+F0.0037705980656985156
 ssS'education'
 p54
 (dp55
 S'Bachelor'
 p56
-I1
+F0.0026648503733038209
 ssS'responsibility'
 p57
 (dp58
 S'development'
 p59
-I1
+F0.010622464933457181
 sS'product'
 p60
-I1
+F0.011798183251910057
 sS'formulate'
 p61
-I1
-sVinsight
+F0.013178767522408723
+sS'insight'
 p62
-I1
+F0.005365185251489722
 sS'communicate'
 p63
-I1
-sS'statistical model'
-p64
-I1
+F0.0058662072581333099
 sS'complex data set'
-p65
-I1
+p64
+F0.014623253503749829
 sS'solve problem'
-p66
-I1
+p65
+F0.01202643997436164
 sS'modeling'
-p67
-I1
+p66
+F0.002374694997139042
 sS'implement'
-p68
-I1
+p67
+F0.006192582383390665
 sS'model'
-p69
-I1
+p68
+F0.0045245931049755573
 ss.

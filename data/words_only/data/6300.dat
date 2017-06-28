@@ -2,174 +2,171 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'nosql'
 p4
-I1
-sS'nosql'
-p5
-I1
+F0.0098447728930450441
 sS'data science'
-p6
-I1
+p5
+F0.0043267659196424436
 sS'hadoop'
-p7
-I1
-sS'analytics'
-p8
-I1
+p6
+F0.00462160612014232
 sS'data warehousing'
-p9
-I1
+p7
+F0.010940612452101775
 sS'mysql'
-p10
-I1
+p8
+F0.0085401364269324532
 sS'quantitative analysis'
-p11
-I1
+p9
+F0.027438865769931157
 sS'cassandra'
-p12
-I1
+p10
+F0.013541030656693083
+sS'statistics'
+p11
+F0.0033543627870597291
 sS'java'
-p13
-I1
+p12
+F0.0044577948477276383
 sS'big data'
-p14
-I1
+p13
+F0.0045781479365563579
 sS'information management'
-p15
-I1
+p14
+F0.017350621689536508
 sS'computer science'
+p15
+F0.0050574937524720167
+sS'military'
 p16
-I1
+F0.013426829395797877
 sS'data analysis'
 p17
-I1
+F0.0053372734351282919
 sS'python'
 p18
-I1
+F0.0037500108831170216
 sS'leadership development'
 p19
-I1
+F0.01636847061527005
 sS'leadership'
 p20
-I1
+F0.0059439159036108712
 sS'military experience'
 p21
-I1
+F0.015976769632995578
 sS'sql'
 p22
-I1
+F0.0024530354634282269
 sS'modeling'
 p23
-I1
+F0.0029213873705811241
 sS'spark'
 p24
-I1
+F0.0060652360550922978
 sS'data'
 p25
-I1
+F0.0017064962284096823
 sS'statistical programming'
 p26
-I1
-sS'postgresql'
+F0.015140009882559913
+sS'training'
 p27
-I1
-sS'programming'
+F0.0084650890324544214
+sS'postgresql'
 p28
-I1
-sS'hive'
+F0.012240700118466093
+sS'science'
 p29
-I1
-sS'machine learning'
+F0.002528898878396016
+sS'programming'
 p30
-I1
-sS'data center'
+F0.0039651627152333668
+sS'hive'
 p31
-I1
-sS'r'
-I1
-sS'oracle'
+F0.0075027131276618943
+sS'machine learning'
 p32
-I1
-sS'military'
+F0.0023579774166692063
+sS'data center'
 p33
-I1
+F0.015521513754411635
+sS'r'
+F0.0039927504072945407
 sS'application development'
 p34
-I1
-ssS'working-year'
+F0.013780922307504479
+sS'oracle'
 p35
-(dp36
-V(2, 5]
+F0.009442523376119864
+sS'management'
+p36
+F0.0032591685870491088
+sS'data analytics'
 p37
-I1
-ssS'major'
+F0.0073464844657762486
+ssS'working-year'
 p38
 (dp39
-S'information'
+V(2, 5]
 p40
-I1
-sS'big data'
+F0.0044566346346443728
+ssS'major'
 p41
-I1
-sS'data science'
-p42
-I1
-sS'information management'
+(dp42
+VData Science
 p43
-I1
-sS'machine learning'
+F0.0036952841100901536
+sVInformation Science
 p44
-I1
-sS'analytics'
+F0.0091102704624247983
+sVStatistics
 p45
-I1
-sS'design'
+F0.0064802329852089221
+sVComputer Science
 p46
-I1
-sS'computer science'
+F0.0032566753465906395
+sVManagement Science and Engineering
 p47
-I1
-sS'statistic'
-p48
-I1
+F0.0046386494189528506
 ssS'education'
-p49
-(dp50
+p48
+(dp49
 VBachelor
-p51
-I1
+p50
+F0.0032783411067262833
 ssS'responsibility'
-p52
-(dp53
+p51
+(dp52
 S'development'
-p54
-I1
+p53
+F0.0087119496576555308
 sS'information'
-p55
-I1
+p54
+F0.0049895870486668875
 sS'product'
-p56
-I1
+p55
+F0.0048381039234451318
 sS'data analysis'
-p57
-I1
+p56
+F0.0053372734351282919
 sS'analytic'
-p58
-I1
+p57
+F0.0081213164471210172
 sS'design'
-p59
-I1
+p58
+F0.010506610144017825
 sS'modeling'
-p60
-I1
+p59
+F0.0029213873705811241
 sS'implement'
-p61
-I1
+p60
+F0.0076182128601424738
 sS'quantitative analysis'
-p62
-I1
+p61
+F0.027438865769931157
 sS'model'
-p63
-I1
+p62
+F0.0055662260500059027
 ss.

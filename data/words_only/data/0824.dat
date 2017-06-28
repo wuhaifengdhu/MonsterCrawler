@@ -4,68 +4,71 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.022300648821807503
 sS'software engineering'
 p5
-I1
+F0.01689651291372735
 sS'big data'
 p6
-I1
+F0.0082644488724848541
 sS'deep learning'
 p7
-I1
+F0.020224296642165265
 sS'data scientist'
 p8
-I1
+F0.0068790367867784304
 sS'hadoop'
 p9
-I1
+F0.0083428993597374351
 sS'machine learning'
 p10
-I1
-sS'spark'
+F0.0042566085833379182
+sS'engineering'
 p11
-I1
-sS'research'
+F0.0079536024485302257
+sS'spark'
 p12
-I1
-ssS'working-year'
+F0.010948932618932849
+sS'research'
 p13
-(dp14
-V[0]
+F0.0055400022185827166
+sS'data'
+p14
+F0.00077013953165242161
+ssS'working-year'
 p15
-I1
+(dp16
+S'[0]'
+p17
+F0.014261134613924564
 ssS'major'
-p16
-(dp17
-S'machine learning'
 p18
-I1
-sS'big data'
-p19
-I1
-sS'software engineering'
+(dp19
+VEngineering
 p20
-I1
-sS'phd'
+F0.014625837186796933
+sVComputer Science
 p21
-I1
+F0.0058789334178714139
 ssS'education'
 p22
 (dp23
-VDoctor
+VMaster
 p24
-I1
-ssS'responsibility'
+F0.0047226018521050453
+sVDoctor
 p25
-(dp26
+F0.0070726089076394031
+ssS'responsibility'
+p26
+(dp27
 S'development'
-p27
-I1
-sS'model'
 p28
-I1
-sVinsight
+F0.0078633831325592117
+sS'model'
 p29
-I1
+F0.020096244700021311
+sS'insight'
+p30
+F0.011914891922139514
 ss.

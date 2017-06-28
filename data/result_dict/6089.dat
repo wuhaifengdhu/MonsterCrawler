@@ -2,103 +2,97 @@
 S'skills'
 p2
 (lp3
-S'clustering'
+S'classification'
 p4
-aS'management'
-p5
-aS'distributed computing'
-p6
-aS'classification'
-p7
-aS'python'
-p8
 aS'communication'
-p9
+p5
 aS'data science'
-p10
-aS'mysql'
-p11
-aS'game design'
-p12
-aS'hadoop'
-p13
-aS'machine learning'
-p14
-aS'regression'
-p15
-aS'go'
-p16
-aS'r'
-aS'matlab'
-p17
+p6
 aS'data mining'
-p18
-aS'oracle'
-p19
-aS'mpi'
-p20
-aS'data'
-p21
+p7
+aS'game design'
+p8
+aS'mysql'
+p9
+aS'go'
+p10
+aS'regression'
+p11
+aS'clustering'
+p12
+aS'statistics'
+p13
+aS'hadoop'
+p14
 aS'research'
+p15
+aS'matlab'
+p16
+aS'distributed computing'
+p17
+aS'python'
+p18
+aS'mpi'
+p19
+aS'metrics'
+p20
+aS'management'
+p21
+aS'data'
 p22
 aS'science'
 p23
-asS'working-year'
+aS'presentations'
 p24
-(lp25
-V[0]
+aS'machine learning'
+p25
+aS'r'
+aS'oracle'
 p26
-asS'major'
+asS'working-year'
 p27
 (lp28
-S'management'
+S'[0]'
 p29
-aS'business'
+asS'major'
 p30
-aS'computing'
-p31
-aS'science'
+(lp31
+VData Science
 p32
-aS'data science'
+aVStatistics
 p33
-aS'machine learning statistics'
+aVComputer Science
 p34
-aS'statistic'
+aVBusiness
 p35
-aS'machine learning'
+aVManagement Science and Engineering
 p36
-aS'design'
-p37
-aS'data mining'
-p38
-aS'communication'
-p39
-aS'phd'
-p40
-aS'data mining machine learning'
-p41
 asS'education'
+p37
+(lp38
+VBachelor
+p39
+aVMaster
+p40
+aVDoctor
+p41
+asS'responsibility'
 p42
 (lp43
-VMaster
-p44
-aVDoctor
-p45
-asS'responsibility'
-p46
-(lp47
 S'development'
-p48
+p44
 aS'product'
-p49
+p45
 aS'construct'
-p50
+p46
 aS'statistical model'
-p51
+p47
 aS'design'
-p52
+p48
 aS'data mining'
-p53
+p49
 aS'model'
-p54
+p50
+aS'forecast'
+p51
 as.

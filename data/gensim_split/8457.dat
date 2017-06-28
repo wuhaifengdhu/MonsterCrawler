@@ -1,103 +1,204 @@
-job
-data_scientist
-spout
-analytics
-plano_tx
-msc
-it+2
-bscs
-it+5
-exp
-must
-include
-big_data
-analytics
-hadoop_map
-reduce
-scala
-job
-loc
-plano_tx
-available
-employment
-various
-work
-site
-u
-send_resume
-spout
-analytics
-2817
-regal
-rd
-suite
-109
-plano_tx
-75075
-dallas
-morning
-news-04
-09
-2017
-'span
-trackingjobbody
-a'
-function
-v
-v_attr
-'href'
-var
-href_v
-attr_'href'
-tolowercase
-hrefmatch
-http
-switch
-true
-case
-facebook
-test_href
-v_attr
-'mns_rt'
-'nonjob-facebook'
-break_case
-linkedin
-test_href
-v_attr
-'mns_rt'
-'nonjob-linkedin'
-break_case
-twittercom
-test_href
-v_attr
-'mns_rt'
-'nonjob-twitter'
-break_case
-plusgooglecom
-test_href
-v_attr
-'mns_rt'
-'nonjob-googleplus'
-break_case
-youtube
-test_href
-v_attr
-'data-track'
-'client-social-youtube'
-break_case
-http
-a-z0-9-
-1
-a-z
-2
-test_href
-v_attr
-'data-track'
-'client-link-homepage'
-break
-default
-v_attr
-'mns_rt'
-'jobcustomapplyonline'
-break
-report
+(lp1
+Vjob
+p2
+aVdata scientist
+p3
+aVspout
+p4
+aVanalytics
+p5
+aVplano tx
+p6
+aVmsc
+p7
+aVit+2
+p8
+aVbscs
+p9
+aVit+5
+p10
+aVexp
+p11
+aVmust
+p12
+aVinclude
+p13
+aVbig data
+p14
+aVanalytics
+p15
+aVhadoop map
+p16
+aVreduce
+p17
+aVscala
+p18
+aVjob
+p19
+aVloc
+p20
+aVplano tx
+p21
+aVavailable
+p22
+aVemployment
+p23
+aVvarious
+p24
+aVwork
+p25
+aVsite
+p26
+aVu
+aVsend resume
+p27
+aVspout
+p28
+aVanalytics
+p29
+aV2817
+p30
+aVregal
+p31
+aVrd
+p32
+aVsuite
+p33
+aV109
+p34
+aVplano tx
+p35
+aV75075
+p36
+aVdallas
+p37
+aVmorning
+p38
+aVnews-04
+p39
+aV09
+p40
+aV2017
+p41
+aV'span
+p42
+aVtrackingjobbody
+p43
+aVa'
+p44
+aV.each function
+p45
+aVv
+aVv .attr
+p46
+aV'href'
+p47
+aVvar
+p48
+aVhref v
+p49
+aV.attr 'href'
+p50
+aV.tolowercase
+p51
+aVhref.match
+p52
+aVhttp
+p53
+aVswitch
+p54
+aVtrue
+p55
+aVcase
+p56
+aVfacebook
+p57
+aV.test href
+p58
+aVv .attr
+p59
+aV'mns rt'
+p60
+aV'nonjob-facebook'
+p61
+aVbreak case
+p62
+aVlinkedin
+p63
+aV.test href
+p64
+aVv .attr
+p65
+aV'mns rt'
+p66
+aV'nonjob-linkedin'
+p67
+aVbreak case
+p68
+aVtwitter.com
+p69
+aV.test href
+p70
+aVv .attr
+p71
+aV'mns rt'
+p72
+aV'nonjob-twitter'
+p73
+aVbreak case
+p74
+aVplus.google.com
+p75
+aV.test href
+p76
+aVv .attr
+p77
+aV'mns rt'
+p78
+aV'nonjob-googleplus'
+p79
+aVbreak case
+p80
+aVyoutube
+p81
+aV.test href
+p82
+aVv .attr
+p83
+aV'data-track'
+p84
+aV'client-social-youtube'
+p85
+aVbreak case
+p86
+aVhttp
+p87
+aVa-z0-9-
+p88
+aV1
+aVa-z
+p89
+aV2
+aV.test href
+p90
+aVv .attr
+p91
+aV'data-track'
+p92
+aV'client-link-homepage'
+p93
+aVbreak
+p94
+aVdefault
+p95
+aVv .attr
+p96
+aV'mns rt'
+p97
+aV'jobcustomapplyonline'
+p98
+aVbreak
+p99
+aVreport
+p100
+a.

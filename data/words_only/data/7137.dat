@@ -2,183 +2,175 @@
 S'skills'
 p2
 (dp3
-S'higher education'
+S'insurance'
 p4
-I1
-sS'data science'
+F0.006448203299692614
+sS'higher education'
 p5
-I1
-sS'hadoop'
+F0.0088821086849875542
+sS'data science'
 p6
-I1
-sS'data warehousing'
+F0.0024597973939889557
+sS'hadoop'
 p7
-I1
-sS'system administration'
+F0.0026274161582813191
+sS'analytics'
 p8
-I1
-sS'education'
+F0.0017786042167352285
+sS'data warehousing'
 p9
-I1
-sS'random forest'
+F0.0062198164860619506
+sS'system administration'
 p10
-I1
-sS'management'
+F0.009417164119527156
+sS'education'
 p11
-I1
-sS'agile'
+F0.025750021470101463
+sS'random forest'
 p12
-I1
-sS'statistical computing'
+F0.0092875752450661438
+sS'management'
 p13
-I1
-sS'devops'
+F0.0018528606691199433
+sS'agile'
 p14
-I1
-sS'insurance'
+F0.0044656234615531891
+sS'statistical computing'
 p15
-I1
-sS'python'
+F0.0099864427482592773
+sS'devops'
 p16
-I1
-sS'innovation'
+F0.0084464901593456904
+sS'research'
 p17
-I1
-sS'policy'
+F0.001744704175177379
+sS'python'
 p18
-I1
-sS'linux system administration'
+F0.00213190802762072
+sS'innovation'
 p19
-I1
-sS'philosophy'
+F0.0039587416608072058
+sS'policy'
 p20
-I1
-sS'database design'
+F0.0055821231657275051
+sS'linux system administration'
 p21
-I1
-sS'processing'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'data processing'
-p24
-I1
-sS'data'
-p25
-I1
+F0.011761666136266108
 sS'software development'
+p22
+F0.0043357804050578172
+sS'philosophy'
+p23
+F0.010143826143530692
+sS'database design'
+p24
+F0.0076015434752320877
+sS'processing'
+p25
+F0.0033396484389994277
+sS'data scientist'
 p26
-I1
-sS'data visualization'
+F0.0021664042232390152
+sS'data processing'
 p27
-I1
-sS'quantitative research'
+F0.0075168069483197873
+sS'sql'
 p28
-I1
-sS'programming'
+F0.0013945682184724891
+sS'data'
 p29
-I1
-sS'analysis'
+F0.0014552329800548824
+sS'a'
+F0.0038242165513579281
+sS'c'
+F0.0025575090468263752
+sS'data visualization'
 p30
-I1
-sS'machine learning'
+F0.0040219501545595117
+sS'science'
 p31
-I1
-sS'r'
-I1
-sS'organization'
+F0.0014376971128713548
+sS'programming'
 p32
-I1
-sS'data analytics'
+F0.0022542233841204009
+sS'analysis'
 p33
-I1
-ssS'working-year'
+F0.0007006517827282822
+sS'machine learning'
 p34
-(dp35
-V(2, 5]
+F0.0013405270385154181
+sS'r'
+F0.002269907184515097
+sS'organization'
+p35
+F0.0036056929228664241
+sS'data analytics'
 p36
-I1
-ssS'major'
+F0.0041765290009934501
+ssS'working-year'
 p37
 (dp38
-S'information'
+V(2, 5]
 p39
-I1
-sS'management'
+F0.0025336286879982322
+ssS'major'
 p40
-I1
-sS'statistical computing'
-p41
-I1
-sS'philosophy'
+(dp41
+VData Science
 p42
-I1
-sS'machine learning'
+F0.0021007954654500261
+sVComputer Science
 p43
-I1
-sS'design'
+F0.0018514432440740242
+sVManagement Science and Engineering
 p44
-I1
-sS'statistic'
-p45
-I1
-sS'phd'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'data analytics'
-p48
-I1
+F0.0026371053956419071
 ssS'education'
-p49
-(dp50
+p45
+(dp46
 VBachelor
-p51
-I1
+p47
+F0.0018637603837830406
 sVMaster
-p52
-I1
+p48
+F0.0014872815648756174
 sVDoctor
-p53
-I1
+p49
+F0.0022273655864549452
 ssS'responsibility'
-p54
-(dp55
+p50
+(dp51
 S'development'
-p56
-I1
+p52
+F0.0024764028679225333
 sS'information'
-p57
-I1
+p53
+F0.0028366159499578626
 sS'product'
-p58
-I1
+p54
+F0.002750496709034247
 sS'communicate'
-p59
-I1
+p55
+F0.0082054923610699066
 sS'processing'
-p60
-I1
+p56
+F0.0033396484389994277
 sS'manage data'
-p61
-I1
+p57
+F0.010815609587293752
 sS'analysis'
-p62
-I1
+p58
+F0.0007006517827282822
 sS'statistical model'
-p63
-I1
+p59
+F0.0073432807885866992
 sS'design'
-p64
-I1
+p60
+F0.0029865415337801183
 sS'model'
-p65
-I1
+p61
+F0.0031644393494921082
 sS'transformation'
-p66
-I1
+p62
+F0.0064303826898422633
 ss.

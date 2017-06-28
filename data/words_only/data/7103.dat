@@ -2,85 +2,79 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'data analysis'
 p4
-I1
-sS'risk management'
-p5
-I1
+F0.011870096119725322
 sS'government'
-p6
-I1
+p5
+F0.020856956125031724
 sS'data scientist'
-p7
-I1
+p6
+F0.0084749733213110266
 sS'security clearance'
+p7
+F0.029230563786070956
+sS'hardware'
 p8
-I1
-sS'analytics'
+F0.02970652861243572
+sS'risk management'
 p9
-I1
-sS'data analysis'
+F0.025278058607905891
+sS'architecture'
 p10
-I1
+F0.017496116181477266
 sS'analysis'
 p11
-I1
+F0.0027409497740330394
 sS'security'
 p12
-I1
+F0.017482806525758336
 sS'data'
 p13
-I1
+F0.0028464357089873502
 sS'data analytics'
 p14
-I1
+F0.016338581451886377
 ssS'working-year'
 p15
 (dp16
-V[0]
+S'[0]'
 p17
-I1
+F0.01756971784435506
 ssS'major'
 p18
 (dp19
-S'information'
+VData Science
 p20
-I1
-sS'management'
+F0.008218311860840502
+sVInformation Science
 p21
-I1
-sS'design'
+F0.02026124150843275
+sVManagement Science and Engineering
 p22
-I1
-sS'data analytics'
-p23
-I1
-sS'analytics'
-p24
-I1
+F0.010316356307751139
 ssS'education'
-p25
-(dp26
+p23
+(dp24
 S'Bachelor'
-p27
-I1
+p25
+F0.0072910306213592544
 ssS'responsibility'
-p28
-(dp29
+p26
+(dp27
 S'development'
-p30
-I1
+p28
+F0.019375376038625897
 sS'information'
-p31
-I1
+p29
+F0.011096841596235156
 sS'data analysis'
-p32
-I1
+p30
+F0.011870096119725322
 sS'design'
-p33
-I1
+p31
+F0.011683350480147821
 sS'analysis'
-p34
-I1
+p32
+F0.0027409497740330394
 ss.

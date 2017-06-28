@@ -6,150 +6,137 @@ S'automotive'
 p4
 aS'communication'
 p5
-aS'decision support'
+aS'testing'
 p6
 aS'engineering'
 p7
-aS'analysis'
-p8
-aS'research'
-p9
-aS'quantitative analysis'
-p10
-aS'regression'
-p11
-aS'clustering'
-p12
-aS'java'
-p13
-aS'excel'
-p14
-aS'scientific computing'
-p15
-aS'writing'
-p16
-aS'commodity markets'
-p17
-aS'optimization'
-p18
-aS'computer science'
-p19
-aS'intelligence'
-p20
-aS'mathematics'
-p21
-aS'operations research'
-p22
-aS'customer satisfaction'
-p23
 aS'data analysis'
+p8
+aS'analysis'
+p9
+aS'sas'
+p10
+aS'research'
+p11
+aS'quantitative analysis'
+p12
+aS'regression'
+p13
+aS'clustering'
+p14
+aS'java'
+p15
+aS'excel'
+p16
+aS'scientific computing'
+p17
+aS'writing'
+p18
+aS'commodity markets'
+p19
+aS'optimization'
+p20
+aS'computer science'
+p21
+aS'intelligence'
+p22
+aS'mathematics'
+p23
+aS'operations research'
 p24
-aS'product development'
+aS'customer satisfaction'
 p25
-aS'marketing'
+aS'decision support'
 p26
-aS'processing'
+aS'product development'
 p27
-aS'data processing'
+aS'marketing'
 p28
-aS'sql'
+aS'processing'
 p29
-aS'modeling'
+aS'data processing'
 p30
-aS'data'
+aS'sql'
 p31
+aS'modeling'
+p32
+aS'data'
+p33
+aS'a'
 aS'c'
 aS'econometric modeling'
-p32
-aS'commodity'
-p33
-aS'science'
 p34
-aS'economics'
+aS'commodity'
 p35
-aS'programming'
+aS'science'
 p36
-aS'communication skills'
+aS'economics'
 p37
-aS'linear regression'
+aS'programming'
 p38
+aS'communication skills'
+p39
+aS'linear regression'
+p40
 aS'r'
 aS'military'
-p39
-asS'working-year'
-p40
-(lp41
-V(5, 10]
+p41
+aS'physics'
 p42
-asS'major'
+asS'working-year'
 p43
 (lp44
-S'information'
+V(5, 10]
 p45
-aS'mathematics physics'
+asS'major'
 p46
-aS'business'
-p47
-aS'marketing'
+(lp47
+VBusiness
 p48
-aS'economics'
+aVEconomics
 p49
-aS'physics economics'
+aVEngineering
 p50
-aS'scientific computing'
+aVComputer Science
 p51
-aS'general'
+aVMathematics
 p52
-aS'engineering'
+aVPhysics
 p53
-aS'computer science engineering'
+aVOperations Research
 p54
-aS'operations research'
-p55
-aS'science'
-p56
-aS'communication'
-p57
-aS'mathematics'
-p58
-aS'law'
-p59
-aVphysic
-p60
-aS'computer science'
-p61
 asS'education'
-p62
-(lp63
+p55
+(lp56
 VMaster
-p64
+p57
 aVDoctor
-p65
+p58
 asS'responsibility'
-p66
-(lp67
+p59
+(lp60
 S'development'
-p68
+p61
 aS'information'
-p69
+p62
 aS'product'
-p70
-aVinsight
-p71
-aS'pattern'
-p72
+p63
 aS'processing'
-p73
+p64
+aS'pattern'
+p65
+aS'insight'
+p66
 aS'analysis'
-p74
+p67
 aS'optimization'
-p75
+p68
 aS'data analysis'
-p76
+p69
 aS'modeling'
-p77
+p70
 aS'model'
-p78
+p71
 aS'quantitative analysis'
-p79
+p72
 as.

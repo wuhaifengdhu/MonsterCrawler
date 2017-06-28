@@ -42,25 +42,25 @@ aS'mathematics'
 p22
 aS'electronics'
 p23
-aS'unstructured data'
-p24
 aS'data management'
-p25
+p24
 aS'data analysis'
-p26
+p25
 aS'product development'
-p27
+p26
 aS'python'
-p28
+p27
 aS'marketing'
-p29
+p28
 aS'philosophy'
-p30
+p29
 aS'data quality'
-p31
+p30
 aS'leadership'
-p32
+p31
 aS'sql'
+p32
+aS'modeling'
 p33
 aS'spark'
 p34
@@ -68,6 +68,7 @@ aS'data'
 p35
 aS'statistical programming'
 p36
+aS'a'
 aS'glm'
 p37
 aS'science'
@@ -78,117 +79,87 @@ aS'programming'
 p40
 aS'analysis'
 p41
-aS'machine learning'
-p42
 aS'r'
 aS'product management'
-p43
+p42
 aS'organization'
-p44
+p43
 aS'security'
-p45
+p44
 aS'retail'
-p46
+p45
 aS'impala'
-p47
+p46
 asS'working-year'
-p48
-(lp49
+p47
+(lp48
 V(5, 10]
-p50
+p49
 aV(2, 5]
-p51
+p50
 asS'major'
-p52
-(lp53
-S'communication'
+p51
+(lp52
+VStatistics
+p53
+aVBusiness
 p54
-aS'data mining'
+aVData Science
 p55
-aS'mba'
+aVEconomics
 p56
-aS'general'
+aVEngineering
 p57
-aS'analytics'
+aVComputer Science
 p58
-aS'engineering'
+aVMathematics
 p59
-aS'design'
+aVManagement Science and Engineering
 p60
-aS'statistic'
-p61
-aS'information'
-p62
-aS'management'
-p63
-aS'big data'
-p64
-aVapplied statistic
-p65
-aS'computer science'
-p66
-aS'mathematics'
-p67
-aS'electronics'
-p68
-aS'business'
-p69
-aS'marketing'
-p70
-aS'philosophy'
-p71
-aS'phd'
-p72
-aS'information system'
-p73
-aS'data management analysis'
-p74
-aS'science'
-p75
-aS'economics'
-p76
-aS'machine learning'
-p77
-aS'computer science engineering'
-p78
-aS'mathematics computer science'
-p79
 asS'education'
-p80
-(lp81
-VDoctor
-p82
+p61
+(lp62
+VBachelor
+p63
+aVMaster
+p64
+aVDoctor
+p65
 asS'responsibility'
-p83
-(lp84
+p66
+(lp67
 S'development'
-p85
+p68
 aS'information'
-p86
+p69
 aS'product'
-p87
+p70
 aS'data analysis'
-p88
+p71
 aS'formulate'
-p89
-aVinsight
-p90
+p72
+aS'insight'
+p73
 aS'communicate'
-p91
+p74
 aS'analysis'
-p92
-aS'analytic'
-p93
-aS'statistical method'
-p94
-aS'design'
-p95
-aS'data mining'
-p96
-aS'interface'
-p97
-aS'quantitative analysis'
-p98
+p75
 aS'decision-making'
-p99
+p76
+aS'analytic'
+p77
+aS'statistical method'
+p78
+aS'design'
+p79
+aS'data mining'
+p80
+aS'interface'
+p81
+aS'modeling'
+p82
+aS'quantitative analysis'
+p83
+aS'decision making'
+p84
 as.

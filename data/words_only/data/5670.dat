@@ -4,148 +4,141 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.015698317917701887
 sS'data science'
 p5
-I1
+F0.0059842832122417866
 sS'engineering'
 p6
-I1
-sS'clustering'
+F0.012187609722125917
+sS'sas'
 p7
-I1
-sS'java'
+F0.0068917256551115254
+sS'clustering'
 p8
-I1
-sS'big data'
+F0.016036878410727411
+sS'visualization'
 p9
-I1
-sS'scala'
+F0.0093248520991739761
+sS'java'
 p10
-I1
-sS'matlab'
-p11
-I1
-sS'computer science'
-p12
-I1
-sS'transportation'
-p13
-I1
-sS'python'
-p14
-I1
-sS'marketing'
-p15
-I1
-sS'processing'
-p16
-I1
-sS'data scientist'
-p17
-I1
-sS'data processing'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'manufacturing'
-p20
-I1
-sS'data'
-p21
-I1
-sS'pattern recognition'
-p22
-I1
-sS'science'
-p23
-I1
-sS'c++'
-p24
-I1
-sS'machine learning'
-p25
-I1
-sS'r'
-I1
-sS'logistic regression'
-p26
-I1
-ssS'working-year'
-p27
-(dp28
-V(5, 10]
-p29
-I1
-sV(10, 15]
-p30
-I1
-ssS'major'
-p31
-(dp32
-S'transportation'
-p33
-I1
+F0.006165507301832256
 sS'big data'
-p34
-I1
-sS'marketing'
-p35
-I1
-sS'data science'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'engineering'
-p38
-I1
-sS'computer science engineering'
-p39
-I1
+p11
+F0.0063319658027993411
+sS'scala'
+p12
+F0.012142121331834014
+sS'optimization'
+p13
+F0.0099502928228285686
+sS'matlab'
+p14
+F0.0063502546648659935
 sS'computer science'
-p40
-I1
+p15
+F0.0069949416078966204
+sS'transportation'
+p16
+F0.022057894885273467
+sS'python'
+p17
+F0.0025932911082252037
+sS'marketing'
+p18
+F0.0094786792163062128
+sS'processing'
+p19
+F0.0081248163515956224
+sS'data scientist'
+p20
+F0.005270505796835215
+sS'data processing'
+p21
+F0.018287157202628735
+sS'sql'
+p22
+F0.0033927555165823237
+sS'manufacturing'
+p23
+F0.018570440656874673
+sS'data'
+p24
+F0.0064906286896477712
+sS'c'
+F0.0062219996213835685
+sS'pattern recognition'
+p25
+F0.015887331884983539
 sS'science'
-p41
-I1
-sS'phd'
-p42
-I1
+p26
+F0.0034976810357915046
+sS'machine learning'
+p27
+F0.0032612821981793001
+sS'r'
+F0.0027611557542982145
+sS'logistic regression'
+p28
+F0.016288372521450465
+ssS'working-year'
+p29
+(dp30
+V(5, 10]
+p31
+F0.0059982301570987995
+sV(10, 15]
+p32
+F0.0097384395830764116
+ssS'major'
+p33
+(dp34
+VEngineering
+p35
+F0.011205865307297152
+sVEconomics
+p36
+F0.008163042524997317
+sVData Science
+p37
+F0.0051108904607217046
+sVComputer Science
+p38
+F0.004504257444538297
 ssS'education'
-p43
-(dp44
+p39
+(dp40
 VBachelor
-p45
-I1
+p41
+F0.004534223023233367
 sVMaster
-p46
-I1
+p42
+F0.0036183118667869494
 sVDoctor
-p47
-I1
+p43
+F0.0054188147849575522
 ssS'responsibility'
-p48
-(dp49
+p44
+(dp45
 S'processing'
-p50
-I1
+p46
+F0.0081248163515956224
 sS'pattern'
-p51
-I1
-sVinsight
-p52
-I1
+p47
+F0.013027816296388786
+sS'insight'
+p48
+F0.018257645333427712
 sS'construct'
-p53
-I1
+p49
+F0.026405597650367402
 sS'statistical method'
-p54
-I1
+p50
+F0.017491494671898065
+sS'optimization'
+p51
+F0.0099502928228285686
 sS'understand'
-p55
-I1
+p52
+F0.010456118474847141
 ss.

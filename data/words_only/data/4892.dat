@@ -4,182 +4,170 @@ p2
 (dp3
 S'project planning'
 p4
-I1
+F0.00951104980715369
 sS'testing'
 p5
-I1
+F0.014023137088356253
 sS'information technology'
 p6
-I1
+F0.0071156371501409701
 sS'engineering'
 p7
-I1
+F0.0027964720937754669
 sS'angularjs'
 p8
-I1
+F0.020658596982074413
 sS'it strategy'
 p9
-I1
-sS'java'
+F0.010369005239354665
+sS'management'
 p10
-I1
-sS'agile'
+F0.0020686047196339088
+sS'java'
 p11
-I1
-sS'saas'
+F0.014146883192560312
+sS'agile'
 p12
-I1
-sS'integration'
+F0.0099711866333310924
+sS'saas'
 p13
-I1
-sS'research'
+F0.0070491833246590441
+sS'integration'
 p14
-I1
-sS'mvc'
+F0.010530790512304166
+sS'research'
 p15
-I1
-sS'business planning'
+F0.003895709322656339
+sS'mvc'
 p16
-I1
-sS'computer science'
+F0.010600668325988711
+sS'business planning'
 p17
-I1
-sS'sdlc'
-p18
-I1
-sS'innovation'
-p19
-I1
-sS'junit'
-p20
-I1
-sS'quality assurance'
-p21
-I1
-sS'software development'
-p22
-I1
-sS'software development life cycle sdlc'
-p23
-I1
-sS'product development'
-p24
-I1
-sS'apis'
-p25
-I1
-sS'scrum'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'business process'
-p28
-I1
-sS'construction'
-p29
-I1
-sS'data'
-p30
-I1
-sS'b2b'
-p31
-I1
-sS'project management'
-p32
-I1
-sS'jquery'
-p33
-I1
-sS'training'
-p34
-I1
-sS'unit testing'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'procurement'
-p37
-I1
-sS'product design'
-p38
-I1
-sS'security'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(0, 2]
-p42
-I1
-sV(2, 5]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'information'
-p46
-I1
-sS'information systems'
-p47
-I1
-sS'it strategy'
-p48
-I1
-sS'business'
-p49
-I1
-sS'machine learning'
-p50
-I1
-sS'engineering'
-p51
-I1
-sS'information system'
-p52
-I1
-sS'design'
-p53
-I1
-sS'information technology'
-p54
-I1
-sS'ee computer science'
-p55
-I1
-sS'project management'
-p56
-I1
+F0.011012495044956961
 sS'computer science'
-p57
-I1
+p18
+F0.0032100074501991336
+sS'sdlc'
+p19
+F0.016733833756342974
+sS'innovation'
+p20
+F0.0088393820645421162
+sS'junit'
+p21
+F0.012343871148386313
+sS'quality assurance'
+p22
+F0.0089099403422215739
+sS'software development'
+p23
+F0.0048406315481124944
+sS'software development life cycle sdlc'
+p24
+F0.011911813922612341
+sS'product development'
+p25
+F0.0059668409789536761
+sS'apis'
+p26
+F0.008400491703508331
+sS'scrum'
+p27
+F0.0077564213797477102
+sS'data scientist'
+p28
+F0.0024186567697805439
+sS'business process'
+p29
+F0.0069755318025565213
+sS'construction'
+p30
+F0.011582478836834446
+sS'data'
+p31
+F0.00054155930536288997
+sS'b2b'
+p32
+F0.0079354444100414936
+sS'project management'
+p33
+F0.004341217633161064
+sS'jquery'
+p34
+F0.017434924837573165
+sS'training'
+p35
+F0.0053728190662610253
+sS'science'
+p36
+F0.0016051002013563753
+sS'bootstrap'
+p37
+F0.012074961388553981
+sS'unit testing'
+p38
+F0.011324956584900703
+sS'machine learning'
+p39
+F0.0014966158032740623
+sS'procurement'
+p40
+F0.011991930664305112
+sS'product design'
+p41
+F0.010513683229335111
+sS'security'
+p42
+F0.0049893854240177895
+ssS'working-year'
+p43
+(dp44
+V(0, 2]
+p45
+F0.0051999547125345961
+sV(2, 5]
+p46
+F0.0028286402475596701
+ssS'major'
+p47
+(dp48
+VEngineering
+p49
+F0.0027964720937754669
+sVInformation Science
+p50
+F0.0057823177820869719
+sVComputer Science
+p51
+F0.002067022251945657
+sVBusiness
+p52
+F0.0024696674593016306
+sVManagement Science and Engineering
+p53
+F0.0029441656129426765
 ssS'education'
-p58
-(dp59
+p54
+(dp55
 VBachelor
-p60
-I1
+p56
+F0.0020807735791550379
 ssS'responsibility'
-p61
-(dp62
+p57
+(dp58
 S'development'
-p63
-I1
+p59
+F0.013823755735320988
 sS'information'
-p64
-I1
+p60
+F0.0063338136964812535
 sS'implement'
-p65
-I1
+p61
+F0.0048353040527844915
 sS'design'
-p66
-I1
+p62
+F0.016671447602950657
 sS'product'
-p67
-I1
+p63
+F0.0061415200489394819
 ss.

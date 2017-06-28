@@ -4,116 +4,104 @@ p2
 (dp3
 S'genomics'
 p4
-I1
+F0.022007194131270124
 sS'training'
 p5
-I1
-sS'open source'
-p6
-I1
-sS'finance'
-p7
-I1
-sS'big data'
-p8
-I1
-sS'communication'
-p9
-I1
-sS'energy'
-p10
-I1
-sS'medicine'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'business analytics'
-p13
-I1
-sS'community development'
-p14
-I1
-sS'engineering'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'problem solving'
-p17
-I1
-sS'bioinformatics'
-p18
-I1
+F0.012193237051929167
 sS'apache'
-p19
-I1
-sS'software engineering'
-p20
-I1
-sS'distributed computing'
-p21
-I1
-sS'science'
-p22
-I1
-ssS'working-year'
-p23
-(dp24
-V[0]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'finance'
-p28
-I1
+p6
+F0.011725915899181495
+sS'open source'
+p7
+F0.016569532331181837
+sS'finance'
+p8
+F0.027514466882732524
 sS'big data'
-p29
-I1
-sS'computing'
-p30
-I1
-sS'science'
-p31
-I1
-sS'bioinformatics'
-p32
-I1
-sS'business analytics'
-p33
-I1
-sS'engineering'
-p34
-I1
-sS'computer science'
-p35
-I1
+p9
+F0.0065944307065423195
+sS'analytics'
+p10
+F0.0045064117201218997
 sS'communication'
-p36
-I1
+p11
+F0.01640590009441302
+sS'energy'
+p12
+F0.015987022311140332
+sS'distributed computing'
+p13
+F0.018535732966110427
+sS'data scientist'
+p14
+F0.0054889723583620639
+sS'business analytics'
+p15
+F0.015738778205487636
+sS'community development'
+p16
+F0.033705828292523062
+sS'engineering'
+p17
+F0.012692795617343572
+sS'computer science'
+p18
+F0.0072848873740270501
+sS'problem solving'
+p19
+F0.012718196191467622
+sS'bioinformatics'
+p20
+F0.016887343472813239
 sS'medicine'
-p37
-I1
+p21
+F0.10095545087630416
 sS'software engineering'
-p38
-I1
-sS'business'
-p39
-I1
+p22
+F0.013482191651367936
+sS'data'
+p23
+F0.00061451548121488559
+sS'science'
+p24
+F0.0072853252662600249
+ssS'working-year'
+p25
+(dp26
+S'[0]'
+p27
+F0.011379350935463124
+ssS'major'
+p28
+(dp29
+VBusiness
+p30
+F0.0056047375501249441
+sVData Science
+p31
+F0.0053227408425132782
+sVEconomics
+p32
+F0.0085014069819920254
+sVEngineering
+p33
+F0.012692795617343572
+sVComputer Science
+p34
+F0.0046909624163326306
+sVBiological Engineering
+p35
+F0.013627957411796324
 ssS'education'
-p40
-(dp41
+p36
+(dp37
 VBachelor
-p42
-I1
+p38
+F0.0047221700915539211
 ssS'responsibility'
-p43
-(dp44
+p39
+(dp40
 S'development'
-p45
-I1
+p41
+F0.0062744093389332572
 ss.

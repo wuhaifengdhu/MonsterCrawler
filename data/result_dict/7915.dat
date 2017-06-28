@@ -2,96 +2,89 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'intelligence'
 p4
-aS'national security'
+aS'hardware'
 p5
 aS'analytics'
 p6
-aS'science'
-p7
-aS'government'
-p8
-aS'innovation'
-p9
-aS'data scientist'
-p10
-aS'security clearance'
-p11
-aS'continuous improvement'
-p12
-aS'risk management'
-p13
 aS'defense'
-p14
-aS'computer science'
-p15
-aS'data analysis'
-p16
-aS'intelligence'
-p17
+p7
 aS'analysis'
-p18
-aS'security'
-p19
+p8
 aS'education'
-p20
-aS'data'
-p21
-aS'data analytics'
-p22
-asS'working-year'
-p23
-(lp24
-V[0]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
+p9
 aS'management'
-p29
-aS'science'
-p30
-aS'phd'
-p31
-aS'analytics'
-p32
-aS'design'
-p33
+p10
+aS'continuous improvement'
+p11
+aS'risk management'
+p12
 aS'computer science'
-p34
-aS'ee computer science'
-p35
+p13
+aS'innovation'
+p14
+aS'data analysis'
+p15
+aS'government'
+p16
+aS'data scientist'
+p17
+aS'data'
+p18
+aS'a'
+aS'national security'
+p19
+aS'science'
+p20
+aS'security clearance'
+p21
+aS'architecture'
+p22
+aS'security'
+p23
 aS'data analytics'
-p36
+p24
+asS'working-year'
+p25
+(lp26
+S'[0]'
+p27
+asS'major'
+p28
+(lp29
+VData Science
+p30
+aVComputer Science
+p31
+aVManagement Science and Engineering
+p32
 asS'education'
+p33
+(lp34
+VMaster
+p35
+aVDoctor
+p36
+asS'responsibility'
 p37
 (lp38
-VMaster
-p39
-aVDoctor
-p40
-asS'responsibility'
-p41
-(lp42
 S'development'
-p43
+p39
 aS'information'
-p44
+p40
 aS'data analysis'
-p45
+p41
 aS'analysis'
-p46
+p42
 aS'improvement'
-p47
+p43
 aS'model'
-p48
+p44
 aS'design'
-p49
+p45
 aS'implement'
-p50
+p46
 aS'transformation'
-p51
+p47
 as.

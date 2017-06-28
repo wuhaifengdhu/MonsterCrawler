@@ -4,178 +4,160 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
-sS'global health'
-p5
-I1
+F0.0077984813984848895
 sS'factor analysis'
+p5
+F0.013088059977280504
+sS'machine learning'
 p6
-I1
-sS'machine learning'
-p7
-I1
+F0.0017433981963671259
 sS'regression'
-p8
-I1
+p7
+F0.0063195951879835123
 sS'experimentation'
-p9
-I1
+p8
+F0.0095773552640209536
 sS'java'
-p10
-I1
-sS'user experience'
-p11
-I1
-sS'data'
-p12
-I1
-sS'mathematica'
-p13
-I1
-sS'matlab'
-p14
-I1
-sS'innovation'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'structural equation modeling'
-p17
-I1
-sS'data analysis'
-p18
-I1
-sS'theory'
-p19
-I1
-sS'python'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'modeling'
-p22
-I1
-sS'ruby'
-p23
-I1
-sS'decision analysis'
-p24
-I1
-sS'c'
-I1
-sS'data visualization'
-p25
-I1
-sS'applied mathematics'
-p26
-I1
-sS'programming'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'simulation'
-p29
-I1
+p9
+F0.0032959227863518176
 sS'time series analysis'
-p30
-I1
-sS'logistic regression'
-p31
-I1
-sS'healthcare'
-p32
-I1
-sS'cluster analysis'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'business'
-p40
-I1
-sS'applied mathematics'
-p41
-I1
-sS'applied math'
-p42
-I1
-sS'phd'
-p43
-I1
-sS'design'
-p44
-I1
-sS'statistic'
-p45
-I1
+p10
+F0.0076532205117009694
+sS'data'
+p11
+F0.0015771474451392676
+sS'mathematica'
+p12
+F0.0083744808013994036
+sS'matlab'
+p13
+F0.0033946840096757041
+sS'innovation'
+p14
+F0.0051484698726987329
 sS'mathematics'
-p46
-I1
-sS'machine learning'
-p47
-I1
-ssS'education'
-p48
-(dp49
-VMaster
-p50
-I1
-sVDoctor
-p51
-I1
-ssS'responsibility'
-p52
-(dp53
-S'information'
-p54
-I1
-sS'forecasting'
-p55
-I1
+p15
+F0.0048614183033931007
+sS'structural equation modeling'
+p16
+F0.016114198401876764
 sS'data analysis'
-p56
-I1
-sS'manage data'
-p57
-I1
-sS'product'
-p58
-I1
-sS'analysis'
-p59
-I1
-sS'simulation'
-p60
-I1
-sS'analytic'
-p61
-I1
-sS'design'
-p62
-I1
-sS'recommendation'
-p63
-I1
+p17
+F0.0039461755717171941
+sS'theory'
+p18
+F0.0077938198150886576
+sS'python'
+p19
+F0.0013863072147693243
+sS'data scientist'
+p20
+F0.0028174778328826549
 sS'modeling'
-p64
-I1
+p21
+F0.0043199238777742151
+sS'ruby'
+p22
+F0.0090354057561954707
+sS'a'
+F0.0049735156745053894
+sS'decision analysis'
+p23
+F0.014270728072933314
+sS'data visualization'
+p24
+F0.0052306745361159592
+sS'applied mathematics'
+p25
+F0.0080375285767119841
+sS'programming'
+p26
+F0.0029316894543480743
+sS'analysis'
+p27
+F0.00091122000466523914
+sS'simulation'
+p28
+F0.0071405207118999245
+sS'logistic regression'
+p29
+F0.0087073480766264467
+sS'healthcare'
+p30
+F0.0071735115513568192
+sS'cluster analysis'
+p31
+F0.010454053686219194
+ssS'working-year'
+p32
+(dp33
+V(5, 10]
+p34
+F0.0032065006956831349
+ssS'major'
+p35
+(dp36
+VMathematics
+p37
+F0.0045592354510171594
+sVComputer Science
+p38
+F0.0024078610275324406
+sVBusiness
+p39
+F0.002876899859505623
+ssS'education'
+p40
+(dp41
+VBachelor
+p42
+F0.0024238798608242199
+sVMaster
+p43
+F0.0019342571415536618
+sVDoctor
+p44
+F0.0028967600313203937
+ssS'responsibility'
+p45
+(dp46
+S'information'
+p47
+F0.003689109573216475
+sS'forecasting'
+p48
+F0.0077984813984848895
+sS'data analysis'
+p49
+F0.0039461755717171941
+sS'pattern'
+p50
+F0.0069643379669525156
+sS'manage data'
+p51
+F0.014066045447304904
+sS'product'
+p52
+F0.0035771087519089004
+sS'analysis'
+p53
+F0.00091122000466523914
+sS'simulation'
+p54
+F0.0071405207118999245
+sS'analytic'
+p55
+F0.012009180703721504
+sS'recommendation'
+p56
+F0.0069473450660060406
+sS'modeling'
+p57
+F0.0043199238777742151
 sS'implement'
-p65
-I1
+p58
+F0.0056326148274457649
+sS'design ... experiment'
+p59
+F0.011942371173659986
 ss.

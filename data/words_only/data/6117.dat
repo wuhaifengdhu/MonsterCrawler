@@ -4,205 +4,214 @@ p2
 (dp3
 S'consulting'
 p4
-I1
-sS'biostatistics'
-p5
-I1
-sS'intelligence'
-p6
-I1
-sS'tableau'
-p7
-I1
-sS'information technology'
-p8
-I1
-sS'business intelligence'
-p9
-I1
-sS'data warehousing'
-p10
-I1
-sS'sap'
-p11
-I1
-sS'big data'
-p12
-I1
-sS'power bi'
-p13
-I1
-sS'devops'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'information security'
-p16
-I1
-sS'android'
-p17
-I1
-sS'unstructured data'
-p18
-I1
-sS'microsoft crm'
-p19
-I1
-sS'python'
-p20
-I1
-sS'aws'
-p21
-I1
-sS'processing'
-p22
-I1
+F0.0043959429856246512
 sS'data scientist'
-p23
-I1
-sS'automation'
-p24
-I1
-sS'business process'
-p25
-I1
-sS'sql'
-p26
-I1
-sS'erp'
-p27
-I1
-sS'spark'
-p28
-I1
-sS'pig'
-p29
-I1
-sS'data'
-p30
-I1
-sS'project management'
-p31
-I1
-sS'word'
-p32
-I1
-sS'data visualization'
-p33
-I1
-sS'documentation'
-p34
-I1
-sS'hive'
-p35
-I1
-sS'credit'
-p36
-I1
-sS'r'
-I1
-sS'data integration'
-p37
-I1
-sS'oracle'
-p38
-I1
-sS'organization'
-p39
-I1
-sS'security'
-p40
-I1
-sS'etl'
-p41
-I1
-sS'crm'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(2, 5]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'information'
-p48
-I1
-sS'big data'
-p49
-I1
-sS'business'
-p50
-I1
+p5
+F0.0020610343680231096
 sS'biostatistics'
-p51
-I1
-sS'data analyst'
-p52
-I1
-sS'automation'
-p53
-I1
-sS'statistics computer science'
-p54
-I1
-sS'design'
-p55
-I1
-sS'information technology'
-p56
-I1
-sS'law'
-p57
-I1
-sS'project management'
-p58
-I1
+p6
+F0.0076566096717849983
+sS'intelligence'
+p7
+F0.0061091774703765723
+sS'tableau'
+p8
+F0.003908611064443175
+sS'graphic design'
+p9
+F0.010439287461912307
+sS'business intelligence'
+p10
+F0.0039747924295222203
+sS'data warehousing'
+p11
+F0.0059172962289577693
+sS'sas'
+p12
+F0.002695013339839332
+sS'education'
+p13
+F0.0040829314198701731
+sS'sap'
+p14
+F0.0078115563011261846
+sS'big data'
+p15
+F0.0024761189228845672
+sS'agile'
+p16
+F0.0042484238768472947
+sS'power bi'
+p17
+F0.0099288538775858717
+sS'devops'
+p18
+F0.0080356686535409377
+sS'access'
+p19
+F0.0045125720332615856
+sS'r'
+F0.0010797515692878234
 sS'computer science'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VMaster
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'information'
-p65
-I1
+p20
+F0.0027353759984187175
+sS'information security'
+p21
+F0.0091500197970078891
+sS'android'
+p22
+F0.0079364435306080415
 sS'processing'
-p66
-I1
+p23
+F0.0063544283528043583
+sS'microsoft crm'
+p24
+F0.013775463717963746
+sS'python'
+p25
+F0.001014108001465498
+sS'ios'
+p26
+F0.0093174786704989711
+sS'scrum'
+p27
+F0.0066095575181507726
+sS'aws'
+p28
+F0.0050845843361511872
+sS'automation'
+p29
+F0.0064884208666611074
+sS'business process'
+p30
+F0.0059441302130734562
+sS'sql'
+p31
+F0.0013267390249670178
+sS'erp'
+p32
+F0.008995839594949772
+sS'spark'
+p33
+F0.0032804195006141219
+sS'pig'
+p34
+F0.0052502493679297494
+sS'data'
+p35
+F0.0050763282747828872
+sS'project management'
+p36
+F0.0036993255317598174
+sS'organization'
+p37
+F0.0034303187534663057
+sS'word'
+p38
+F0.0054254254099185151
+sS'data visualization'
+p39
+F0.0038263300108552548
+sS'science'
+p40
+F0.0013677702104943432
 sS'documentation'
+p41
+F0.0056409357177899426
+sS'hive'
+p42
+F0.0040578876449221916
+sS'credit'
+p43
+F0.0061819743662211027
+sS'optimization'
+p44
+F0.0038910678159310161
+sS'data integration'
+p45
+F0.0075304691837190319
+sS'oracle'
+p46
+F0.0051070457170453729
+sS'information technology'
+p47
+F0.0060635195948672083
+sS'security'
+p48
+F0.0042516552835015408
+sS'etl'
+p49
+F0.038810024743397432
+sS'crm'
+p50
+F0.0063986147202272333
+ssS'working-year'
+p51
+(dp52
+V(2, 5]
+p53
+F0.0024103977206831428
+ssS'major'
+p54
+(dp55
+VBusiness
+p56
+F0.0021045026209613117
+sVData Science
+p57
+F0.0019986166976752192
+sVInformation Science
+p58
+F0.0049273447248134117
+sVComputer Science
+p59
+F0.0017613925026307349
+sVBiological Engineering
+p60
+F0.0051171124133787748
+sVManagement Science and Engineering
+p61
+F0.0025088415145309191
+ssS'education'
+p62
+(dp63
+VMaster
+p64
+F0.0014149429673622118
+ssS'responsibility'
+p65
+(dp66
+S'information'
 p67
-I1
-sS'analytic'
+F0.0026986482481116628
+sS'processing'
 p68
-I1
-sS'design'
+F0.0063544283528043583
+sS'documentation'
 p69
-I1
-sS'report'
+F0.0056409357177899426
+sS'analytic'
 p70
-I1
-sS'understand'
+F0.0043924629811277101
+sS'optimization'
 p71
-I1
-sS'implement'
+F0.0038910678159310161
+sS'design'
 p72
-I1
-sS'extract'
+F0.0056825634631069172
+sS'report'
 p73
-I1
-sS'model'
+F0.0080750055259627591
+sS'understand'
 p74
-I1
+F0.0040888712323818585
+sS'implement'
+p75
+F0.0041203563718280305
+sS'extract'
+p76
+F0.0060188881920288512
+sS'model'
+p77
+F0.0030105269297697294
 ss.

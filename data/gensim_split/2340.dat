@@ -1,270 +1,501 @@
-job
-179038
-job_description
-experienced
-data_scientist
--
-advanced
-looking
-position
-leading
-company_bartech
-help
-leading_staffing
-firm
-client
-include_nation's
-biggest_company
-client
-need
-data_scientist
--
-advanced
-contract
-position_however
-uncommon_assignment
-transition_permanent
-position
-client
-company
-background
-looking_interested
-opportunity
-get_foot
-door_leading
-company
-want_talk
-data_scientist
--
-advanced
-job
-responsibility
-specific_duty
-data_scientist
--
-advanced
-include
-advanced
-operational
-analytics
-aoa
-part
-newly_established
-global
-data
-insight
-analytics_gdia
-organization
-collaborate
-business_partner
-product
-development
-manufacturing_purchasing
-warranty
-skill
-team
-define
-problem
-identify
-data
-establish
-predictive_prescriptive
-model
-deliver_optimal
-solution
-position
-support
-development
-delivery
-model
-using
-skill
-data
-acquisition
-management
-algorithm
-design
-model
-development_refinement
-typical
-project_involve
-understanding_essence
-business_problem
-translating
-appropriate
-mathematical_representation
-encoding_abstraction
-prototype
-computer
-program
-model
-interpreting_communicating
-result
-technical_non-technical
-audience
-data_scientist
--
-advanced
-job
-requirement
-data_scientist
--
-advanced
-must_represent
-company
-well
-responsible_punctual
-motivated_go
-beyond_call
-duty
-must
-also
-highly_detail-oriented
-organized_excellent
-analytic_problem-solving
-ability
-also
-important_display
-excellent_verbal
-written_communication
-interpersonal_skill
-data
-discovery
-access
-transformation
-management
-problem_formulation
-algorithm
-development
-model
-development
-using
-appropriate
-analytics
-tool
-solution
-testing
-monitoring
-model
-algorithm
-improvement
-interpret
-communicate_result
-colleague
-work
-partner
-experience
-using
-optimization
-application
-eg_cplex
-statistic_applied
-mathematics
-programming_language
-eg_r
-experience
-etl
-big
-complicated
-data
-preferred
-operation_research
-eg_linear
-non-linear_programming
-optimization
-machine_learning
-eg_neural
-network_clustering
-statistical_modeling
-e_g
-decision_tree
-regression
-modeling
-database
-development
-management
-big_data
-framework_eg
-hadoop
-scheduling_sequencing
-clustering_decision
-theory_discrete
-event_simulation
-data
-visualization_technique
-software
-tool
-manufacturing
-data
-retrieving_cleansing
-consolidation
-experience
-working
-manufacturing
-environment
-plus
-education
-required
-m_phd
-operation_research
-industrial_engineering
-computer_science
-mathematics_statistic
-related_field
-phd_preferred
-data_scientist
--
-advanced
-benefit
-data_scientist
--
-advanced
-bartech_working
-established_respected
-staffing_organization
-39_year
-serving_trusted
-partner
-client
-company
-dedicated_providing
-talent_personal
-responsive_attention
-assign_employee
-care_representative
-answer_question
-concern_might
-depending_upon
-client
-assignment
-performance
-find_potential
-opportunity
-direct
-employment
-hard_work
-professional_dedication
-rewarded_competitive
-compensation
-including
-benefit
-available
-benefit
-data_scientist
--
-advanced
-position
-include_limited
-exceptional_medical
-dental_vision
-401_k
-paid_time
-including
-holiday
-make
-experience
-apply
-applicant_must
-eligible_work
-u
-immediate_opening
+(lp1
+Vjob
+p2
+aV179038
+p3
+aVjob description
+p4
+aVexperienced
+p5
+aVdata scientist
+p6
+aV-
+aVadvanced
+p7
+aVlooking
+p8
+aVposition
+p9
+aVleading
+p10
+aVcompany bartech
+p11
+aVhelp
+p12
+aVleading staffing
+p13
+aVfirm
+p14
+aVclient
+p15
+aVinclude nation's
+p16
+aVbiggest company
+p17
+aVclient
+p18
+aVneed
+p19
+aVdata scientist
+p20
+aV-
+aVadvanced
+p21
+aVcontract position
+p22
+aVhowever uncommon
+p23
+aVassignment transition
+p24
+aVpermanent position
+p25
+aVclient
+p26
+aVcompany
+p27
+aVbackground
+p28
+aVlooking interested
+p29
+aVopportunity get
+p30
+aVfoot door
+p31
+aVleading
+p32
+aVcompany
+p33
+aVwant talk
+p34
+aVdata scientist
+p35
+aV-
+aVadvanced
+p36
+aVjob responsibility
+p37
+aVspecific duty
+p38
+aVdata scientist
+p39
+aV-
+aVadvanced
+p40
+aVinclude
+p41
+aVadvanced
+p42
+aVoperational
+p43
+aVanalytics
+p44
+aVaoa
+p45
+aVpart newly
+p46
+aVestablished
+p47
+aVglobal
+p48
+aVdata
+p49
+aVinsight
+p50
+aVanalytics gdia
+p51
+aVorganization
+p52
+aVcollaborate
+p53
+aVbusiness partner
+p54
+aVproduct development
+p55
+aVmanufacturing purchasing
+p56
+aVwarranty
+p57
+aVskill
+p58
+aVteam
+p59
+aVdefine problem
+p60
+aVidentify
+p61
+aVdata
+p62
+aVestablish
+p63
+aVpredictive prescriptive
+p64
+aVmodel
+p65
+aVdeliver optimal
+p66
+aVsolution
+p67
+aVposition
+p68
+aVsupport
+p69
+aVdevelopment delivery
+p70
+aVmodel
+p71
+aVusing
+p72
+aVskill
+p73
+aVdata acquisition
+p74
+aVmanagement
+p75
+aValgorithm
+p76
+aVdesign
+p77
+aVmodel
+p78
+aVdevelopment refinement
+p79
+aVtypical
+p80
+aVproject involve
+p81
+aVunderstanding essence
+p82
+aVbusiness problem
+p83
+aVtranslating appropriate
+p84
+aVmathematical representation
+p85
+aVencoding abstraction
+p86
+aVprototype
+p87
+aVcomputer
+p88
+aVprogram
+p89
+aVmodel
+p90
+aVinterpreting communicating
+p91
+aVresult
+p92
+aVtechnical non-technical
+p93
+aVaudience
+p94
+aVdata scientist
+p95
+aV-
+aVadvanced
+p96
+aVjob requirement
+p97
+aVdata scientist
+p98
+aV-
+aVadvanced
+p99
+aVmust represent
+p100
+aVcompany
+p101
+aVwell
+p102
+aVresponsible punctual
+p103
+aVmotivated go
+p104
+aVbeyond call
+p105
+aVduty
+p106
+aVmust
+p107
+aValso
+p108
+aVhighly detail-oriented
+p109
+aVorganized excellent
+p110
+aVanalytic problem-solving
+p111
+aVability
+p112
+aValso important
+p113
+aVdisplay excellent
+p114
+aVverbal written
+p115
+aVcommunication interpersonal
+p116
+aVskill
+p117
+aVdata
+p118
+aVdiscovery access
+p119
+aVtransformation
+p120
+aVmanagement
+p121
+aVproblem formulation
+p122
+aValgorithm
+p123
+aVdevelopment
+p124
+aVmodel
+p125
+aVdevelopment
+p126
+aVusing appropriate
+p127
+aVanalytics
+p128
+aVtool
+p129
+aVsolution
+p130
+aVtesting
+p131
+aVmonitoring
+p132
+aVmodel algorithm
+p133
+aVimprovement
+p134
+aVinterpret communicate
+p135
+aVresult
+p136
+aVcolleague
+p137
+aVwork
+p138
+aVpartner
+p139
+aVexperience
+p140
+aVusing
+p141
+aVoptimization
+p142
+aVapplication
+p143
+aVe.g. cplex
+p144
+aVstatistic applied
+p145
+aVmathematics
+p146
+aVprogramming language
+p147
+aVe.g. r
+p148
+aVexperience
+p149
+aVetl
+p150
+aVbig
+p151
+aVcomplicated
+p152
+aVdata
+p153
+aVpreferred
+p154
+aVoperation research
+p155
+aVe.g. linear
+p156
+aVnon-linear programming
+p157
+aVoptimization
+p158
+aVmachine learning
+p159
+aVe.g. neural
+p160
+aVnetwork clustering
+p161
+aVstatistical modeling
+p162
+aVe g
+p163
+aVdecision tree
+p164
+aVregression
+p165
+aVmodeling
+p166
+aVdatabase
+p167
+aVdevelopment
+p168
+aVmanagement
+p169
+aVbig data
+p170
+aVframework e.g.
+p171
+aVhadoop
+p172
+aVscheduling sequencing
+p173
+aVclustering decision
+p174
+aVtheory discrete
+p175
+aVevent simulation
+p176
+aVdata visualization
+p177
+aVtechnique
+p178
+aVsoftware
+p179
+aVtool
+p180
+aVmanufacturing
+p181
+aVdata
+p182
+aVretrieving cleansing
+p183
+aVconsolidation
+p184
+aVexperience working
+p185
+aVmanufacturing environment
+p186
+aVplus
+p187
+aVeducation required
+p188
+aVm phd
+p189
+aVoperation research
+p190
+aVindustrial engineering
+p191
+aVcomputer science
+p192
+aVmathematics statistic
+p193
+aVrelated field
+p194
+aVphd preferred
+p195
+aVdata scientist
+p196
+aV-
+aVadvanced
+p197
+aVbenefit
+p198
+aVdata scientist
+p199
+aV-
+aVadvanced
+p200
+aVbartech working
+p201
+aVestablished respected
+p202
+aVstaffing organization
+p203
+aV39 year
+p204
+aVserving trusted
+p205
+aVpartner
+p206
+aVclient
+p207
+aVcompany
+p208
+aVdedicated providing
+p209
+aVtalent personal
+p210
+aVresponsive attention
+p211
+aVassign employee
+p212
+aVcare representative
+p213
+aVanswer question
+p214
+aVconcern might
+p215
+aVdepending upon
+p216
+aVclient assignment
+p217
+aVperformance
+p218
+aVfind potential
+p219
+aVopportunity
+p220
+aVdirect
+p221
+aVemployment hard
+p222
+aVwork
+p223
+aVprofessional dedication
+p224
+aVrewarded competitive
+p225
+aVcompensation
+p226
+aVincluding
+p227
+aVbenefit
+p228
+aVavailable
+p229
+aVbenefit
+p230
+aVdata scientist
+p231
+aV-
+aVadvanced
+p232
+aVposition
+p233
+aVinclude limited
+p234
+aVexceptional medical
+p235
+aVdental vision
+p236
+aV401 k
+p237
+aVpaid time
+p238
+aVincluding holiday
+p239
+aVmake
+p240
+aVexperience
+p241
+aVapply
+p242
+aVapplicant must
+p243
+aVeligible work
+p244
+aVu immediate
+p245
+aVopening
+p246
+a.

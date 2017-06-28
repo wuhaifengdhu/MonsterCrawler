@@ -2,66 +2,63 @@
 S'skills'
 p2
 (dp3
-S'word'
+S'statistics'
 p4
-I1
-sS'data science'
+F0.0066608061057328895
+sS'word'
 p5
-I1
-sS'data scientist'
+F0.019919061862129404
+sS'data science'
 p6
-I1
-sS'r'
-I1
-sS'computer science'
+F0.0085917208975757088
+sS'data scientist'
 p7
-I1
-sS'healthcare'
+F0.0075669404654562728
+sS'research'
 p8
-I1
-sS'organization'
+F0.0060940024404409878
+sS'engineering'
 p9
-I1
-sS'data'
+F0.0087489626933832474
+sS'r'
+F0.0039642307615281513
+sS'computer science'
 p10
-I1
-ssS'working-year'
+F0.010042737594194433
+sS'healthcare'
 p11
-(dp12
-V(15, 20]
+F0.057798007356646378
+sS'organization'
+p12
+F0.012594170280583437
+sS'data'
 p13
-I1
-ssS'major'
+F0.0016943069696353273
+ssS'working-year'
 p14
 (dp15
-S'telecommunication'
+sS'major'
 p16
-I1
-sS'data science'
-p17
-I1
-sVapplied statistic
+(dp17
+VEngineering
 p18
-I1
-sS'computer science engineering'
+F0.016088420905476623
+sVStatistics
 p19
-I1
-sS'computer science'
+F0.012867891213486287
+sVData Science
 p20
-I1
-sS'applied statistics'
+F0.0073377784471790183
+sVComputer Science
 p21
-I1
-sS'statistic'
-p22
-I1
+F0.006466826759658555
 ssS'education'
-p23
-(dp24
-S'Bachelor'
-p25
-I1
+p22
+(dp23
+VMaster
+p24
+F0.0051948620373155488
 ssS'responsibility'
-p26
-(dp27
+p25
+(dp26
 s.

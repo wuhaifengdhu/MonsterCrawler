@@ -4,307 +4,282 @@ p2
 (dp3
 S'cognos'
 p4
-I1
+F0.0084191914389207447
 sS'consulting'
 p5
-I1
+F0.012213592943843625
 sS'neural networks'
 p6
-I1
-sS'communication'
+F0.0058637893670843051
+sS'classification'
 p7
-I1
-sS'data science'
-p8
-I1
-sS'reinforcement learning'
-p9
-I1
+F0.0056853367593839264
 sS'mllib'
+p8
+F0.009011085942851247
+sS'communication'
+p9
+F0.0057051148076066897
+sS'data science'
 p10
-I1
-sS'analysis'
+F0.0021672809471362147
+sS'reinforcement learning'
 p11
-I1
-sS'problem solving'
-p12
-I1
+F0.009339591231312297
 sS'tableau'
+p12
+F0.0036198668236464716
+sS'analysis'
 p13
-I1
-sS'sap'
+F0.00061733103018762154
+sS'problem solving'
 p14
-I1
-sS'random forest'
+F0.0044227240809968493
+sS'sas'
 p15
-I1
-sS'information design'
+F0.0024959222642836339
+sS'sap'
 p16
-I1
-sS'cassandra'
+F0.014468972752356247
+sS'telecommunications'
 p17
-I1
-sS'qlikview'
+F0.0081517707010347693
+sS'cassandra'
 p18
-I1
-sS'visualization'
+F0.0067827144550642827
+sS'qlikview'
 p19
-I1
-sS'management'
+F0.0072627131082919454
+sS'visualization'
 p20
-I1
-sS'big data'
+F0.0033771085980792244
+sS'statistics'
 p21
-I1
-sS'business objects'
+F0.001680203341986675
+sS'big data'
 p22
-I1
-sS'deep learning'
+F0.0022931984258786802
+sS'business objects'
 p23
-I1
-sS'predictive analytics'
+F0.0077497151324578059
+sS'deep learning'
 p24
-I1
-sS'recruiting'
+F0.0056117868160242357
+sS'predictive analytics'
 p25
-I1
-sS'hadoop'
+F0.0041486453573491722
+sS'recruiting'
 p26
-I1
-sS'sap hana'
+F0.0062142310821934974
+sS'hadoop'
 p27
-I1
-sS'research'
+F0.0046299333383768102
+sS'sap hana'
 p28
-I1
-sS'big data analytics'
+F0.010917006484875069
+sS'research'
 p29
-I1
-sS'matlab'
+F0.0030744516816639217
+sS'big data analytics'
 p30
-I1
-sS'microstrategy'
+F0.0059716560445918568
+sS'matlab'
 p31
-I1
-sS'unstructured data'
+F0.0022998219597082249
+sS'microstrategy'
 p32
-I1
-sS'artificial intelligence'
+F0.0082311572279210911
+sS'unstructured data'
 p33
-I1
-sS'architecture'
+F0.0057456007809966849
+sS'artificial intelligence'
 p34
-I1
-sS'clustering'
+F0.0049866965046392164
+sS'architecture'
 p35
-I1
-sS'segmentation'
+F0.0039405667075399246
+sS'clustering'
 p36
-I1
-sS'pyspark'
+F0.005807950559560739
+sS'segmentation'
 p37
-I1
-sS'python'
+F0.0052181104723063804
+sS'pyspark'
 p38
-I1
-sS'gas'
+F0.010115773128821851
+sS'python'
 p39
-I1
-sS'random forests'
+F0.001878383829741499
+sS'gas'
 p40
-I1
-sS'experimental design'
+F0.0084555923765214959
+sS'random forests'
 p41
-I1
-sS'statistical modeling'
+F0.010115773128821851
+sS'experimental design'
 p42
-I1
-sS'sql'
+F0.0062409240883607138
+sS'management'
 p43
-I1
-sS'modeling'
+F0.0016325204814408147
+sS'a'
+F0.0033694448533586065
+sS'statistical modeling'
 p44
-I1
-sS'spark'
+F0.0032276856219646782
+sS'sql'
 p45
-I1
-sS'manufacturing'
+F0.0024574553471461156
+sS'modeling'
 p46
-I1
-sS'data'
+F0.001463325565804599
+sS'spark'
 p47
-I1
-sS'teradata'
+F0.0060761644083447159
+sS'manufacturing'
 p48
-I1
-sVbayesian network
+F0.0067255109405978545
+sS'data'
 p49
-I1
-sS'glm'
+F0.0012821782472915992
+sS'teradata'
 p50
-I1
-sS'sql server'
+F0.0065965165672677972
+sS'econometrics'
 p51
-I1
-sS'science'
+F0.005526591999531965
+sS'training'
 p52
-I1
-sS'documentation'
+F0.004240170722562755
+sS'glm'
 p53
-I1
-sS'programming'
+F0.0098984262451941966
+sS'sql server'
 p54
-I1
-sS'high performance computing'
+F0.0050411323770785978
+sS'science'
 p55
-I1
-sS'machine learning'
+F0.0063336386323792106
+sS'documentation'
 p56
-I1
-sS'data center'
+F0.010448435888086596
+sS'programming'
 p57
-I1
-sS'r'
-I1
-sS'financial services'
+F0.0039723071525581116
+sS'high performance computing'
 p58
-I1
-sS'logistic regression'
+F0.0070150223454687665
+sS'machine learning'
 p59
-I1
-sS'healthcare'
+F0.0011811130123135843
+sS'data center'
 p60
-I1
-sS'oracle'
+F0.0077747402229305122
+sS'r'
+F0.0029999584141294118
+sS'financial services'
 p61
-I1
-sS'organization'
+F0.0076179651565769927
+sS'logistic regression'
 p62
-I1
-sS'spss'
+F0.00589903221047125
+sS'healthcare'
 p63
-I1
-sS'retail'
+F0.0048598925104687647
+sS'oracle'
 p64
-I1
-sS'shiny'
+F0.0047297684658762556
+sS'organization'
 p65
-I1
-sS'powerpoint'
+F0.0031769078185255517
+sS'spss'
 p66
-I1
-sS'data analytics'
+F0.0039754032988424601
+sS'retail'
 p67
-I1
-sS'statistical analysis'
+F0.0062089396115613009
+sS'shiny'
 p68
-I1
-ssS'working-year'
+F0.0084372999837476897
+sS'powerpoint'
 p69
-(dp70
-V(5, 10]
+F0.0044090529854671212
+sS'data analytics'
+p70
+F0.0036798606873617965
+sS'statistical analysis'
 p71
-I1
-ssS'major'
+F0.0046390993755182127
+ssS'working-year'
 p72
 (dp73
-S'information'
+V(5, 10]
 p74
-I1
-sS'management'
+F0.0021723320028411868
+ssS'major'
 p75
-I1
-sS'telecommunication'
-p76
-I1
-sS'big data'
+(dp76
+VData Science
 p77
-I1
-sS'computational science'
+F0.0018509711398289417
+sVStatistics
 p78
-I1
-sS'data science'
+F0.0032459545403388831
+sVComputer Science
 p79
-I1
-sS'predictive analytics'
+F0.0016312716150490049
+sVBusiness
 p80
-I1
-sS'reinforcement learning'
+F0.0019490348597731787
+sVManagement Science and Engineering
 p81
-I1
-sS'high performance computing'
-p82
-I1
-sS'machine learning'
-p83
-I1
-sS'big data analytics'
-p84
-I1
-sS'design'
-p85
-I1
-sS'data analytics'
-p86
-I1
-sS'communication'
-p87
-I1
-sS'general'
-p88
-I1
-sS'business'
-p89
-I1
-sS'artificial intelligence'
-p90
-I1
-sS'science'
-p91
-I1
+F0.0023235036729169233
 ssS'education'
-p92
-(dp93
+p82
+(dp83
 VMaster
-p94
-I1
+p84
+F0.0013104156490525709
+sVDoctor
+p85
+F0.0019624896788765188
 ssS'responsibility'
-p95
-(dp96
+p86
+(dp87
 S'information'
-p97
-I1
+p88
+F0.0049985772956014224
 sS'documentation'
-p98
-I1
+p89
+F0.010448435888086596
 sS'understand'
-p99
-I1
-sVinsight
-p100
-I1
+p90
+F0.00378681047467437
+sS'insight'
+p91
+F0.013224456619888181
 sS'analysis'
-p101
-I1
+p92
+F0.00061733103018762154
 sS'statistical method'
-p102
-I1
+p93
+F0.0063347575298225425
 sS'design'
-p103
-I1
+p94
+F0.0026313852432765365
 sS'report'
-p104
-I1
+p95
+F0.0074784735862069513
 sS'modeling'
-p105
-I1
+p96
+F0.001463325565804599
 sS'implement'
-p106
-I1
+p97
+F0.0038159696849001936
 sS'presentation'
-p107
-I1
+p98
+F0.0044384762924497417
 sS'model'
-p108
-I1
+p99
+F0.0027881276430660193
 ss.

@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'a'
+aS'management'
 p4
 aS'finance'
 p5
@@ -12,48 +13,44 @@ aS'collaboration'
 p7
 aS'data scientist'
 p8
-aS'data'
+aS'strategy'
 p9
-aS'marketing'
-p10
 aS'microsoft office'
-p11
-asS'working-year'
-p12
-(lp13
-V(2, 5]
-p14
-asS'major'
-p15
-(lp16
-S'information'
-p17
-aS'management'
-p18
-aS'finance'
-p19
-aS'business'
-p20
+p10
 aS'marketing'
+p11
+aS'data'
+p12
+aS'project management'
+p13
+asS'working-year'
+p14
+(lp15
+V(2, 5]
+p16
+asS'major'
+p17
+(lp18
+VEconomics
+p19
+aVBusiness
+p20
+aVManagement Science and Engineering
 p21
-aS'business communications'
-p22
-aS'communication'
-p23
 asS'education'
+p22
+(lp23
+VBachelor
 p24
-(lp25
-S'Bachelor'
-p26
 asS'responsibility'
-p27
-(lp28
+p25
+(lp26
 S'report'
-p29
+p27
 aS'understand'
-p30
+p28
 aS'communicate'
-p31
+p29
 aS'information'
-p32
+p30
 as.

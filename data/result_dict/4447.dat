@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'statistical data analysis'
+S'a'
+aS'statistical data analysis'
 p4
 aS'github'
 p5
@@ -10,39 +11,39 @@ aS'probability'
 p6
 aS'programming'
 p7
-aS'data scientist'
-p8
-aS'training'
-p9
-aS'analysis'
-p10
-aS'machine learning'
-p11
-aS'sentiment analysis'
-p12
 aS'data analysis'
-p13
-aS'ec2'
-p14
-aS'web services'
-p15
-aS'data'
-p16
-aS'amazon web services'
-p17
-asS'working-year'
-p18
-(lp19
-V[0]
-p20
-asS'major'
-p21
-(lp22
-S'statistic'
-p23
-aS'statistics probability'
-p24
+p8
+aS'data scientist'
+p9
+aS'training'
+p10
+aS'analysis'
+p11
 aS'machine learning'
+p12
+aS'sentiment analysis'
+p13
+aS'statistics'
+p14
+aS'ec2'
+p15
+aS'web services'
+p16
+aS'data'
+p17
+aS'amazon web services'
+p18
+asS'working-year'
+p19
+(lp20
+S'[0]'
+p21
+asS'major'
+p22
+(lp23
+VStatistics
+p24
+aVComputer Science
 p25
 asS'education'
 p26

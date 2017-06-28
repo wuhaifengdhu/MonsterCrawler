@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'consulting'
 p4
 aS'probability'
 p5
@@ -36,169 +36,156 @@ aS'visualization'
 p19
 aS'management'
 p20
-aS'big data'
+aS'gis'
 p21
-aS'storage'
+aS'big data'
 p22
-aS'writing'
-p23
-aS'access'
-p24
-aS'strategy'
-p25
-aS'statistical software'
-p26
-aS'geospatial intelligence'
-p27
-aS'mathematics'
-p28
-aS'hypothesis testing'
-p29
-aS'unstructured data'
-p30
-aS'data management'
-p31
-aS'quality assurance'
-p32
-aS'graph theory'
-p33
-aS'data modeling'
-p34
-aS'theory'
-p35
-aS'python'
-p36
-aS'processing'
-p37
-aS'data scientist'
-p38
-aS'search'
-p39
-aS'mathematical analysis'
-p40
-aS'process automation'
-p41
-aS'database design'
-p42
-aS'data analysis'
-p43
-aS'regression'
-p44
-aS'modeling'
-p45
 aS'editing'
+p23
+aS'storage'
+p24
+aS'writing'
+p25
+aS'access'
+p26
+aS'strategy'
+p27
+aS'statistical software'
+p28
+aS'geospatial intelligence'
+p29
+aS'mathematics'
+p30
+aS'hypothesis testing'
+p31
+aS'unstructured data'
+p32
+aS'data management'
+p33
+aS'quality assurance'
+p34
+aS'graph theory'
+p35
+aS'data modeling'
+p36
+aS'theory'
+p37
+aS'python'
+p38
+aS'processing'
+p39
+aS'data scientist'
+p40
+aS'search'
+p41
+aS'automation'
+p42
+aS'process automation'
+p43
+aS'database design'
+p44
+aS'data analysis'
+p45
+aS'regression'
 p46
-aS'data'
+aS'modeling'
 p47
-aS'training'
+aS'mathematical analysis'
 p48
-aS'data visualization'
+aS'data'
 p49
-aS'science'
+aS'a'
+aS'training'
 p50
-aS'applied mathematics'
+aS'data visualization'
 p51
-aS'programming'
+aS'science'
 p52
-aS'analysis'
+aS'applied mathematics'
 p53
+aS'programming'
+p54
+aS'analysis'
+p55
 aS'r'
 aS'customer support'
-p54
-aS'scientific analysis'
-p55
-aS'military'
 p56
-aS'visual basic'
+aS'scientific analysis'
 p57
-aS'validation'
+aS'military'
 p58
-aS'trend analysis'
+aS'visual basic'
 p59
-asS'working-year'
+aS'validation'
 p60
-(lp61
-V(5, 10]
+aS'trend analysis'
+p61
+asS'working-year'
 p62
-aV(0, 2]
-p63
-aV(2, 5]
+(lp63
+V(5, 10]
 p64
-aV(10, 15]
+aV(0, 2]
 p65
-asS'major'
+aV(2, 5]
 p66
-(lp67
-S'information'
-p68
-aS'graph theory'
+asS'major'
+p67
+(lp68
+VMathematics
 p69
-aS'management'
+aVData Science
 p70
-aS'big data'
+aVComputer Science
 p71
-aS'science'
+aVManagement Science and Engineering
 p72
-aS'applied mathematics'
-p73
-aS'statistic'
-p74
-aS'general'
-p75
-aS'information system'
-p76
-aS'design'
-p77
-aS'data mining'
-p78
-aS'mathematics'
-p79
-aS'data science'
-p80
 asS'education'
-p81
-(lp82
+p73
+(lp74
 VBachelor
-p83
+p75
 aVMaster
-p84
+p76
 asS'responsibility'
-p85
-(lp86
-S'data mining'
-p87
-aS'development'
-p88
-aS'product'
-p89
-aS'data analysis'
-p90
+p77
+(lp78
+S'development'
+p79
 aS'information'
-p91
+p80
+aS'product'
+p81
+aS'data analysis'
+p82
 aS'pattern'
-p92
+p83
 aS'processing'
-p93
+p84
 aS'analysis'
-p94
+p85
 aS'improvement'
-p95
-aS'design'
-p96
-aS'solve problem'
-p97
-aS'identify trend'
-p98
-aS'report'
-p99
-aS'understand'
-p100
-aS'modeling'
-p101
-aS'evaluation'
-p102
-aS'model'
-p103
+p86
 aS'normalization'
-p104
+p87
+aS'design'
+p88
+aS'solve problem'
+p89
+aS'data mining'
+p90
+aS'report'
+p91
+aS'understand'
+p92
+aS'modeling'
+p93
+aS'develop ... model'
+p94
+aS'evaluation'
+p95
+aS'model'
+p96
+aS'identify ... trend'
+p97
 as.

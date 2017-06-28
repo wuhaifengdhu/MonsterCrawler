@@ -2,66 +2,60 @@
 S'skills'
 p2
 (lp3
-S'data scientist'
+S'product development'
 p4
-aS'product development'
-p5
 aS'python'
+p5
+aS'data scientist'
 p6
-aS'r programming'
+aS'data science'
 p7
-aS'data science'
-p8
 aS'healthcare'
-p9
+p8
 aS'programming'
-p10
+p9
 aS'communication skills'
-p11
+p10
 aS'insurance'
-p12
+p11
 aS'problem solving'
+p12
+aS'communication'
 p13
-aS'communication'
-p14
 aS'teaching'
-p15
+p14
 aS'research'
-p16
+p15
 aS'data'
-p17
+p16
 aS'energy'
-p18
+p17
 aS'science'
-p19
+p18
 asS'working-year'
-p20
-(lp21
-V[0]
-p22
+p19
+(lp20
+S'[0]'
+p21
 asS'major'
-p23
-(lp24
-S'science'
-p25
-aS'data science'
-p26
-aS'communication'
-p27
+p22
+(lp23
+VData Science
+p24
 asS'education'
+p25
+(lp26
+S'Bachelor'
+p27
+asS'responsibility'
 p28
 (lp29
-S'Bachelor'
-p30
-asS'responsibility'
-p31
-(lp32
 S'development'
-p33
+p30
 aS'product'
-p34
+p31
 aS'communicate'
-p35
+p32
 aS'improvement'
-p36
+p33
 as.

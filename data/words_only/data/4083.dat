@@ -2,198 +2,176 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'business development'
 p4
-I1
-sS'analytics'
-p5
-I1
-sS'engineering'
-p6
-I1
-sS'statistical analysis'
-p7
-I1
-sS'data mining'
-p8
-I1
-sS'go'
-p9
-I1
-sS'modeling'
-p10
-I1
-sS'scala'
-p11
-I1
-sS'user experience'
-p12
-I1
-sS'lead generation'
-p13
-I1
-sS'hadoop'
-p14
-I1
-sS'access'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'natural language processing'
-p17
-I1
-sS'advertising'
-p18
-I1
-sS'distributed computing'
-p19
-I1
-sS'python'
-p20
-I1
-sS'processing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'sql'
-p23
-I1
-sS'business development'
-p24
-I1
-sS'spark'
-p25
-I1
-sS'data'
-p26
-I1
-sS'applied mathematics'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'r'
-I1
-sS'architecture'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(2, 5]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'statistics applied mathematics'
-p36
-I1
-sS'mathematics physics'
-p37
-I1
-sS'mathematics computer science'
-p38
-I1
-sS'business'
-p39
-I1
-sS'computing'
-p40
-I1
+F0.0079971270782578912
 sS'communication'
-p41
-I1
-sS'applied mathematics'
-p42
-I1
-sS'data mining'
-p43
-I1
-sS'computer science statistics'
-p44
-I1
-sS'phd'
-p45
-I1
+p5
+F0.00363946979105944
 sS'analytics'
-p46
-I1
+p6
+F0.0079975858573197844
 sS'engineering'
-p47
-I1
-sS'applied math'
-p48
-I1
-sS'design'
-p49
-I1
-sS'computer science'
-p50
-I1
-sS'statistic'
-p51
-I1
-sVphysic
-p52
-I1
-sS'natural language processing'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'applied mathematics computer science'
-p55
-I1
-sS'data mining machine learning'
-p56
-I1
-ssS'education'
-p57
-(dp58
-VDoctor
-p59
-I1
-ssS'responsibility'
-p60
-(dp61
-S'development'
-p62
-I1
-sS'product'
-p63
-I1
-sVinsight
-p64
-I1
-sS'processing'
-p65
-I1
-sS'analysis'
-p66
-I1
-sS'design'
-p67
-I1
+p7
+F0.0056315162164305961
+sS'statistical analysis'
+p8
+F0.0059188509273853055
 sS'data mining'
-p68
-I1
+p9
+F0.0048781133992692816
+sS'go'
+p10
+F0.0075377314828221319
+sS'statistics'
+p11
+F0.004287415424379791
+sS'scala'
+p12
+F0.0056104974429853722
+sS'user experience'
+p13
+F0.007759110264613461
+sS'lead generation'
+p14
+F0.012477399721186291
+sS'hadoop'
+p15
+F0.0059071563282738614
+sS'access'
+p16
+F0.0053320966094171371
+sS'computer science'
+p17
+F0.0032321454326143004
+sS'natural language processing'
+p18
+F0.0057608232918627648
+sS'mathematics'
+p19
+F0.0042020535220133465
+sS'android'
+p20
+F0.009377774654557549
+sS'advertising'
+p21
+F0.0075664305386903205
+sS'distributed computing'
+p22
+F0.0082238999136995689
+sS'python'
+p23
+F0.0011982793396626804
+sS'processing'
+p24
+F0.0037542254865993562
+sS'data scientist'
+p25
+F0.002435337161296272
+sS'sql'
+p26
+F0.0015676870318001082
 sS'modeling'
-p69
-I1
+p27
+F0.001867001583957592
+sS'spark'
+p28
+F0.0038761738467026634
+sS'data'
+p29
+F0.00081794129568602014
+sS'a'
+F0.0042989468818713256
+sS'science'
+p30
+F0.0016161698579174539
+sS'applied mathematics'
+p31
+F0.00694738102262921
+sS'analysis'
+p32
+F0.00078762924541179297
+sS'machine learning'
+p33
+F0.0015069372915725043
+sS'r'
+F0.0012758443830205544
+sS'architecture'
+p34
+F0.0050276195923785244
+sS'physics'
+p35
+F0.011186594838835233
+ssS'working-year'
+p36
+(dp37
+V(2, 5]
+p38
+F0.0028481481113359435
+ssS'major'
+p39
+(dp40
+VStatistics
+p41
+F0.0041413902756047821
+sVBusiness
+p42
+F0.0024866996486761247
+sVData Science
+p43
+F0.0023615838680576154
+sVEngineering
+p44
+F0.0051778825902683394
+sVComputer Science
+p45
+F0.0020812775778211441
+sVMathematics
+p46
+F0.0039408563898447168
+sVPhysics
+p47
+F0.0060315680487358402
+ssS'education'
+p48
+(dp49
+VMaster
+p50
+F0.0016719096212050044
+sVDoctor
+p51
+F0.002503866142014869
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.0027838183963542957
+sS'product'
+p55
+F0.0061838753596218238
+sS'insight'
+p56
+F0.0042181456459988165
+sS'processing'
+p57
+F0.0037542254865993562
+sS'analysis'
+p58
+F0.00078762924541179297
+sS'design'
+p59
+F0.0033572846207321322
+sS'data mining'
+p60
+F0.0048781133992692816
+sS'modeling'
+p61
+F0.001867001583957592
 sS'model'
-p70
-I1
+p62
+F0.01422906521288865
 sS'prototype'
-p71
-I1
+p63
+F0.0072486699162061788
 ss.

@@ -1,5 +1,5 @@
-skills: {'management': 1, 'banking': 1, 'agile': 1, 'collaboration': 1, 'testing': 1, 'data scientist': 1, 'engineering': 1, 'strategy': 1, 'data engineering': 1, 'teamwork': 1, 'product design': 1, 'military experience': 1, 'leadership': 1, 'innovation': 1, 'product management': 1, 'modeling': 1, 'military': 1, 'data': 1, 'insurance': 1, 'etl': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'engineering': 1, 'management': 1, 'design': 1, 'general': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'product': 1, 'decision-making': 1, 'communicate': 1, 'improvement': 1, 'design': 1, 'modeling': 1, 'understand': 1}
+skills: {'banking': 0.0064676081328782584, 'data scientist': 0.0019950502168811267, 'collaboration': 0.004816703239309706, 'testing': 0.0038557024762712108, 'ios': 0.009019178976716518, 'innovation': 0.0036456208514778223, 'strategy': 0.0029661232226494065, 'data engineering': 0.007542054154552616, 'teamwork': 0.005394369394165723, 'product design': 0.008672303680694498, 'military experience': 0.00836448579655889, 'leadership': 0.003111880642568403, 'agile': 0.004112410306402089, 'product management': 0.005881352201556575, 'modeling': 0.0015294645744285357, 'engineering': 0.0023066944954306112, 'military': 0.007029488836218096, 'data': 0.00022335496774853654, 'insurance': 0.005938175920055909, 'etl': 0.005366788463305429}
+working-year: {u'(0, 2]': 0.00428922818096074, u'(2, 5]': 0.002333228678778033}
+major: {u'Engineering': 0.0023066944954306112, u'Management Science and Engineering': 0.00242852078807701}
+education: {u'Bachelor': 0.0017163443082295795}
+responsibility: {'development': 0.002280529194753519, 'information': 0.0026122508465713646, 'product': 0.01773060307914167, 'decision-making': 0.006915320990179138, 'communicate': 0.0037782351832045045, 'improvement': 0.005058769296307171, 'design': 0.005500635819278635, 'modeling': 0.0015294645744285357, 'understand': 0.003957965750365867}

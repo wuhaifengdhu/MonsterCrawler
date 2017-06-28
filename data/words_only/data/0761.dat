@@ -4,211 +4,199 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.012874727604621486
 sS'economics'
 p5
-I1
-sS'r d'
+F0.0068276120352121408
+sS'data processing'
 p6
-I1
+F0.010472132757060899
 sS'nosql'
 p7
-I1
+F0.0077972845135798356
 sS'communication'
 p8
-I1
+F0.0045104540145608444
 sS'data science'
 p9
-I1
+F0.0034268972241042715
 sS'forecasting'
 p10
-I1
+F0.016707857583078738
 sS'analytics'
 p11
-I1
+F0.009911538028302299
 sS'engineering'
 p12
-I1
+F0.0034896147494975919
 sS'problem solving'
 p13
-I1
-sS'spss'
+F0.006993196196448009
+sS'sas'
 p14
-I1
-sS'econometrics'
+F0.0039465437512177116
+sS'spss'
 p15
-I1
-sS'management'
+F0.0062858941050073086
+sS'econometrics'
 p16
-I1
-sS'marketing mix modeling'
+F0.0087386283753283205
+sS'statistics'
 p17
-I1
-sS'microsoft powerpoint'
+F0.0026567317800644005
+sS'marketing mix modeling'
 p18
-I1
-sS'predictive modeling'
+F0.017758665562249521
+sS'big data'
 p19
-I1
-sS'excel'
+F0.0036259975110047508
+sS'microsoft powerpoint'
 p20
-I1
-sS'research'
+F0.016939060382405165
+sS'predictive modeling'
 p21
-I1
-sS'r'
-I1
-sS'statistical software'
+F0.0059230937569486322
+sS'excel'
 p22
-I1
-sS'innovation'
+F0.0046067071988776798
+sS'research'
 p23
-I1
-sS'business planning'
+F0.0072919687321516095
+sS'r'
+F0.0031623493254355622
+sS'statistical software'
 p24
-I1
-sS'data management'
+F0.011212243223069769
+sS'innovation'
 p25
-I1
-sS'segmentation'
+F0.011030340012163667
+sS'business planning'
 p26
-I1
-sS'data modeling'
+F0.013742087833877918
+sS'data management'
 p27
-I1
-sS'python'
+F0.0078345245145563271
+sS'segmentation'
 p28
-I1
-sS'marketing'
+F0.0082508584391169267
+sS'data modeling'
 p29
-I1
-sS'processing'
+F0.0074421702131574688
+sS'python'
 p30
-I1
-sS'data scientist'
+F0.0014850470448810997
+sS'marketing'
 p31
-I1
-sS'statistical modeling'
+F0.037995731217500973
+sS'processing'
 p32
-I1
-sS'sql'
+F0.0046526726115974932
+sS'data scientist'
 p33
-I1
-sS'modeling'
+F0.0030181528922047815
+sS'management'
 p34
-I1
-sS'pricing strategy'
+F0.0025813358039876132
+sS'statistical modeling'
 p35
-I1
-sS'training'
+F0.0051036054706279105
+sS'sql'
 p36
-I1
-sS'data processing'
+F0.0019428599966753478
+sS'modeling'
 p37
-I1
-sS'science'
+F0.002313805381827785
+sS'data'
 p38
-I1
-sS'marketing analytics'
+F0.00033789597685035018
+sS'pricing strategy'
 p39
-I1
-sS'simulation'
+F0.017150193673582836
+sS'training'
 p40
-I1
-sS'optimization'
+F0.0067045434502060663
+sS'science'
 p41
-I1
-sS'operations research'
+F0.0020029455504105196
+sS'marketing analytics'
 p42
-I1
-sS'organization'
+F0.010989453598403929
+sS'simulation'
 p43
-I1
-sS'powerpoint'
+F0.0076491048081890932
+sS'optimization'
 p44
-I1
-ssS'working-year'
+F0.0056980309327308897
+sS'operations research'
 p45
-(dp46
-V[0]
+F0.00820780203860943
+sS'organization'
+p46
+F0.0050233157814292915
+sS'powerpoint'
 p47
-I1
-ssS'major'
+F0.0069715795069351921
+ssS'working-year'
 p48
 (dp49
-S'management'
+S'[0]'
 p50
-I1
-sS'business'
+F0.0062570220243429705
+ssS'major'
 p51
-I1
-sS'statistics economics'
-p52
-I1
-sS'marketing'
+(dp52
+VStatistics
 p53
-I1
-sS'data science'
+F0.0051324922219033627
+sVBusiness
 p54
-I1
-sS'economics'
+F0.0030818072569063085
+sVData Science
 p55
-I1
-sS'statistic'
+F0.0029267492381910617
+sVEconomics
 p56
-I1
-sS'marketing analytics'
+F0.0046745628134600026
+sVEngineering
 p57
-I1
-sS'analytics'
+F0.0034896147494975919
+sVOperations Research
 p58
-I1
-sS'engineering'
+F0.0091701678011030033
+sVManagement Science and Engineering
 p59
-I1
-sS'communication'
-p60
-I1
-sS'econometrics'
-p61
-I1
-sS'operations research'
-p62
-I1
-sS'science'
-p63
-I1
+F0.0036739160640139384
 ssS'education'
-p64
-(dp65
+p60
+(dp61
 VMaster
-p66
-I1
+p62
+F0.0020720247442284241
 ssS'responsibility'
-p67
-(dp68
+p63
+(dp64
 S'development'
-p69
-I1
+p65
+F0.0034500313459091699
 sS'forecasting'
-p70
-I1
+p66
+F0.016707857583078738
 sS'processing'
-p71
-I1
-sS'statistical model'
-p72
-I1
-sS'analytic'
-p73
-I1
-sS'optimization'
-p74
-I1
-sS'modeling'
-p75
-I1
+p67
+F0.0046526726115974932
 sS'simulation'
-p76
-I1
+p68
+F0.0076491048081890932
+sS'analytic'
+p69
+F0.077187212728192928
+sS'drive ... model'
+p70
+F0.017758665562249521
+sS'optimization'
+p71
+F0.0056980309327308897
+sS'modeling'
+p72
+F0.002313805381827785
 ss.

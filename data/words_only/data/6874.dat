@@ -4,169 +4,157 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.011149159717986001
 sS'classification'
 p5
-I1
+F0.011997573769802582
 sS'reinforcement learning'
 p6
-I1
+F0.019709023320830132
 sS'analytics'
 p7
-I1
+F0.0066139730949317617
 sS'statistical analysis'
 p8
-I1
+F0.0097897344236220832
 sS'mysql'
 p9
-I1
+F0.0090272164512822124
 sS'teradata sql'
 p10
-I1
+F0.02097572620088381
 sS'clustering'
 p11
-I1
-sS'java'
+F0.012256321523027415
+sS'statistics'
 p12
-I1
-sS'critical thinking'
+F0.003545676254002299
+sS'java'
 p13
-I1
-sS'deep learning'
+F0.0047120417021607732
+sS'critical thinking'
 p14
-I1
-sS'hadoop'
+F0.014909679197760524
+sS'deep learning'
 p15
-I1
-sS'access'
+F0.011842363813283083
+sS'hadoop'
 p16
-I1
-sS'rf'
+F0.0048851958228120339
+sS'access'
 p17
-I1
-sS'computer science'
+F0.0088192472437127554
+sS'rf'
 p18
-I1
-sS'matlab'
+F0.023354828977544876
+sS'computer science'
 p19
-I1
-sS'text mining'
+F0.0053459439664913337
+sS'matlab'
 p20
-I1
-sS'teradata'
+F0.0048532364548975844
+sS'text mining'
 p21
-I1
-sS'python'
+F0.012495760188025114
+sS'teradata'
 p22
-I1
-sS'data scientist'
+F0.013920405683778052
+sS'python'
 p23
-I1
-sS'wireless'
+F0.0019819449154116577
+sS'data scientist'
 p24
-I1
-sS'sql'
+F0.0040280291451098033
+sS'wireless'
 p25
-I1
-sS'modeling'
+F0.10527109280587375
+sS'sql'
 p26
-I1
-sS'spark'
+F0.0025929424290229929
+sS'modeling'
 p27
-I1
-sS'vba'
+F0.0030880064221351805
+sS'spark'
 p28
-I1
-sS'data visualization'
+F0.0064111620658390059
+sS'data'
 p29
-I1
-sS'excel vba'
+F0.00045095622765959286
+sS'vba'
 p30
-I1
-sS'analysis'
+F0.011747503747148525
+sS'data visualization'
 p31
-I1
-sS'machine learning'
+F0.0074780746219756684
+sS'science'
 p32
-I1
-sS'r'
-I1
-sS'healthcare'
+F0.0026731326547303892
+sS'excel vba'
 p33
-I1
-sS'electrical engineering'
+F0.022219877491786107
+sS'analysis'
 p34
-I1
-sS'data analytics'
+F0.0013027327823350947
+sS'machine learning'
 p35
-I1
-ssS'working-year'
+F0.0024924628206617464
+sS'r'
+F0.0021102369072773428
+sS'healthcare'
 p36
-(dp37
-V(5, 10]
+F0.010255666704601384
+sS'electrical engineering'
+p37
+F0.015074620088892836
+sS'data analytics'
 p38
-I1
-ssS'major'
+F0.0077654854809345898
+ssS'working-year'
 p39
 (dp40
-S'information'
+sS'major'
 p41
-I1
-sS'telecommunication'
-p42
-I1
-sS'reinforcement learning'
+(dp42
+VData Science
 p43
-I1
-sS'electrical engineering computer science'
+F0.0039060417589546108
+sVElectrical and Electronics Engineering
 p44
-I1
-sS'analytics'
+F0.011964367282794607
+sVStatistics
 p45
-I1
-sS'machine learning'
+F0.0068498280223881379
+sVComputer Science
 p46
-I1
-sS'computer science'
-p47
-I1
-sS'statistic'
-p48
-I1
-sS'electrical engineering'
-p49
-I1
-sS'phd'
-p50
-I1
-sS'data analytics'
-p51
-I1
+F0.0034424172865102575
 ssS'education'
+p47
+(dp48
+VBachelor
+p49
+F0.0034653187363874781
+sVMaster
+p50
+F0.0027653257993314711
+sVDoctor
+p51
+F0.0041413755580854295
+ssS'responsibility'
 p52
 (dp53
-VBachelor
-p54
-I1
-sVMaster
-p55
-I1
-sVDoctor
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
 S'modeling'
-p59
-I1
+p54
+F0.0030880064221351805
 sS'forecasting'
-p60
-I1
+p55
+F0.011149159717986001
+sS'transformation'
+p56
+F0.011956110780733331
 sS'analysis'
-p61
-I1
+p57
+F0.0013027327823350947
 sS'information'
-p62
-I1
+p58
+F0.0052741642567657593
 ss.

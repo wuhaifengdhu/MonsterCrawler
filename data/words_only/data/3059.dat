@@ -4,289 +4,275 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.004661734487718114
 sS'consulting'
 p5
-I1
+F0.002786084703589483
 sS'probability'
 p6
-I1
-sS'r programming'
+F0.0042969533146405446
+sS'intelligence'
 p7
-I1
+F0.0038719077925691223
 sS'data science'
 p8
-I1
+F0.0014831577381758314
 sS'hadoop'
 p9
-I1
-sS'health insurance'
-p10
-I1
-sS'analysis'
-p11
-I1
-sS'problem solving'
-p12
-I1
+F0.001584225032551868
 sS'go'
-p13
-I1
-sS'ic'
-p14
-I1
-sS'perl'
-p15
-I1
-sS'insurance'
-p16
-I1
-sS'visualization'
-p17
-I1
-sS'management'
-p18
-I1
-sS'genetics'
-p19
-I1
-sS'nosql'
-p20
-I1
-sS'critical thinking'
-p21
-I1
-sS'agile'
-p22
-I1
-sS'recruiting'
-p23
-I1
-sS'tableau'
-p24
-I1
-sS'research'
-p25
-I1
-sS'teamwork'
-p26
-I1
-sS'matlab'
-p27
-I1
-sS'stata'
-p28
-I1
-sS'intelligence'
-p29
-I1
-sS'policy'
-p30
-I1
-sS'data management'
-p31
-I1
-sS'computer science'
-p32
-I1
-sS'data analysis'
-p33
-I1
-sS'product development'
-p34
-I1
-sS'government'
-p35
-I1
-sS'python'
-p36
-I1
-sS'innovation'
-p37
-I1
-sS'data scientist'
-p38
-I1
-sS'training'
-p39
-I1
-sS'mapreduce'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'sql'
-p42
-I1
-sS'foreign policy'
-p43
-I1
-sS'modeling'
-p44
-I1
-sS'pig'
-p45
-I1
-sS'data'
-p46
-I1
-sS'project management'
-p47
-I1
-sS'hbase'
-p48
-I1
-sS'national security'
-p49
-I1
-sS'spatial analysis'
-p50
-I1
-sS'java'
-p51
-I1
-sS'applied mathematics'
-p52
-I1
-sS'programming'
-p53
-I1
-sS'engineering'
-p54
-I1
-sS'hive'
-p55
-I1
-sS'spss'
-p56
-I1
-sS'r'
-I1
-sS'scientific computing'
-p57
-I1
-sS'statistical tools'
-p58
-I1
-sS'healthcare'
-p59
-I1
-sS'security'
-p60
-I1
-ssS'working-year'
-p61
-(dp62
-V(10, 15]
-p63
-I1
-ssS'major'
-p64
-(dp65
-S'information'
-p66
-I1
-sS'computer science machine learning'
-p67
-I1
-sS'management'
-p68
-I1
-sS'genetics'
-p69
-I1
-sS'business'
-p70
-I1
-sS'data science'
-p71
-I1
-sS'history'
-p72
-I1
-sS'scientific computing'
-p73
-I1
-sS'phd'
-p74
-I1
-sS'engineering'
-p75
-I1
-sS'machine learning'
-p76
-I1
-sS'design'
-p77
-I1
-sS'computer science'
-p78
-I1
-sS'statistic'
-p79
-I1
-sS'mathematics computer science'
-p80
-I1
-sS'law'
-p81
-I1
-sS'applied mathematics'
-p82
-I1
-sS'project management'
-p83
-I1
-sS'computational social science'
-p84
-I1
-ssS'education'
-p85
-(dp86
-VMaster
-p87
-I1
-sVDoctor
-p88
-I1
-ssS'responsibility'
-p89
-(dp90
-S'development'
-p91
-I1
-sS'large data set'
-p92
-I1
-sS'product'
-p93
-I1
-sS'data analysis'
-p94
-I1
-sS'information'
-p95
-I1
-sS'pattern'
-p96
-I1
-sVinsight
-p97
-I1
-sS'communicate'
-p98
-I1
+p10
+F0.00404304956230287
+sS'health insurance'
+p11
+F0.0063510277404501851
 sS'analysis'
-p99
-I1
-sS'analytic'
-p100
-I1
-sS'design'
-p101
-I1
+p12
+F0.0012673935453297038
+sS'problem solving'
+p13
+F0.0030266484154787316
 sS'modeling'
-p102
-I1
+p14
+F0.0010014126868329871
+sS'sas'
+p15
+F0.0017080602425122277
+sS'hbase'
+p16
+F0.0041285549813071167
+sS'perl'
+p17
+F0.0035339713246478033
+sS'insurance'
+p18
+F0.0038880042090625004
+sS'statistical tools'
+p19
+F0.0071665587860669615
+sS'visualization'
+p20
+F0.0023110915806830697
+sS'statistics'
+p21
+F0.001149830893714679
+sS'gis'
+p22
+F0.0048350747583366434
+sS'nosql'
+p23
+F0.0033746570459513223
+sS'critical thinking'
+p24
+F0.0048350747583366434
+sS'agile'
+p25
+F0.0026925892388403321
+sS'recruiting'
+p26
+F0.0042526488910202111
+sS'tableau'
+p27
+F0.002477220822594071
+sS'research'
+p28
+F0.0010519856247370386
+sS'mahout'
+p29
+F0.0053467111602398245
+sS'teamwork'
+p30
+F0.0035319483949469779
+sS'matlab'
+p31
+F0.0015738608972109306
+sS'stata'
+p32
+F0.003752711507643244
+sS'innovation'
+p33
+F0.0023869601382672302
+sS'policy'
+p34
+F0.01009737938856011
+sS'mathematics'
+p35
+F0.0022538758102044463
+sS'ic'
+p36
+F0.010474447515006495
+sS'computer science'
+p37
+F0.0017336415082456482
+sS'data analysis'
+p38
+F0.0018295462576641988
+sS'product development'
+p39
+F0.0032225355718640074
+sS'government'
+p40
+F0.0096440919197125722
+sS'python'
+p41
+F0.0006427268961199334
+sS'data scientist'
+p42
+F0.0013062535945300596
+sS'training'
+p43
+F0.014508598958214113
+sS'mapreduce'
+p44
+F0.0032511732638174115
+sS'machine learning'
+p45
+F0.00080828325750189809
+sS'management'
+p46
+F0.0033515987689259636
+sS'sql'
+p47
+F0.00084086789005307901
+sS'foreign policy'
+p48
+F0.00747094771776284
+sS'genetics'
+p49
+F0.0047894021024893927
+sS'pig'
+p50
+F0.003327531658589262
+sS'data'
+p51
+F0.00043872313640372227
+sS'project management'
+p52
+F0.0023445786970709569
+sS'a'
+F0.002305846971164028
+sS'c'
+F0.0015420738889002433
+sS'national security'
+p53
+F0.0051820631662294475
+sS'java'
+p54
+F0.0015280727098252571
+sS'science'
+p55
+F0.0043343642921953906
+sS'applied mathematics'
+p56
+F0.0037264004252080228
+sS'programming'
+p57
+F0.0040776149254064462
+sS'engineering'
+p58
+F0.0060412072851968174
+sS'hive'
+p59
+F0.0025718301473366297
+sS'spss'
+p60
+F0.0027205287680117942
+sS'r'
+F0.00068433083429585845
+sS'scientific computing'
+p61
+F0.0039804170957462607
+sS'data management'
+p62
+F0.0033907744816390516
+sS'healthcare'
+p63
+F0.0033258203986561829
+sS'security'
+p64
+F0.0026946372573610259
+ssS'working-year'
+p65
+(dp66
+V(10, 15]
+p67
+F0.0024135960002445857
+ssS'major'
+p68
+(dp69
+VStatistics
+p70
+F0.002221337570762121
+sVBusiness
+p71
+F0.0013338031407818917
+sVData Science
+p72
+F0.001266694183236822
+sVEngineering
+p73
+F0.0060412072851968174
+sVComputer Science
+p74
+F0.0011163449400150404
+sVBiological Engineering
+p75
+F0.0032431513939293346
+sVMathematics
+p76
+F0.0021137762386959952
+sVManagement Science and Engineering
+p77
+F0.0015900672484203359
+ssS'education'
+p78
+(dp79
+VMaster
+p80
+F0.00089677026538122922
+sVDoctor
+p81
+F0.0013430108160005772
+ssS'responsibility'
+p82
+(dp83
+S'development'
+p84
+F0.0014931701632726494
+sS'information'
+p85
+F0.0017103639944875395
+sS'product'
+p86
+F0.0016584375964460501
+sS'data analysis'
+p87
+F0.0018295462576641988
+sS'large data set'
+p88
+F0.0038772591064523631
+sS'pattern'
+p89
+F0.0032288422633466657
+sS'insight'
+p90
+F0.0022625072207268621
+sS'communicate'
+p91
+F0.0024737890040463528
+sS'analysis'
+p92
+F0.0012673935453297038
+sS'analytic'
+p93
+F0.0027838791273731723
+sS'design'
+p94
+F0.0018007630209845593
+sS'identify ... trend'
+p95
+F0.0052949680797786253
+sS'modeling'
+p96
+F0.0010014126868329871
 ss.

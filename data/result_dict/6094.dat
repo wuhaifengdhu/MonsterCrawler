@@ -2,89 +2,76 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'data analysis'
 p5
-aS'science'
-p6
-aS'collaboration'
-p7
-aS'programming'
-p8
-aS'analysis'
-p9
-aS'writing'
-p10
 aS'arcgis'
+p6
+aS'science'
+p7
+aS'collaboration'
+p8
+aS'programming'
+p9
+aS'analysis'
+p10
+aS'writing'
 p11
-aS'envi'
+aS'sas'
 p12
+aS'envi'
+p13
 aS'r'
 aS'statistical software'
-p13
-aS'matlab'
 p14
-aS'statistical modeling'
+aS'matlab'
 p15
-aS'medicine'
+aS'statistical modeling'
 p16
-aS'modeling'
-p17
-aS'research'
-p18
-aS'data'
-p19
-aS'grant writing'
-p20
-asS'working-year'
-p21
-(lp22
-V[0]
-p23
-asS'major'
-p24
-(lp25
-S'information'
-p26
-aS'health sciences'
-p27
-aS'science'
-p28
-aS'information system'
-p29
-aS'statistic'
-p30
 aS'medicine'
-p31
-aS'environmental health sciences'
-p32
-aS'environmental health'
-p33
-asS'education'
-p34
-(lp35
-S'Bachelor'
-p36
-asS'responsibility'
-p37
-(lp38
-S'development'
-p39
-aS'large data set'
-p40
-aS'data analysis'
-p41
-aS'information'
-p42
-aS'analysis'
-p43
-aS'statistical model'
-p44
+p17
 aS'modeling'
-p45
+p18
+aS'research'
+p19
+aS'data'
+p20
+aS'grant writing'
+p21
+asS'working-year'
+p22
+(lp23
+S'[0]'
+p24
+asS'major'
+p25
+(lp26
+VEnvironmental Engineering
+p27
+asS'education'
+p28
+(lp29
+VDoctor
+p30
+asS'responsibility'
+p31
+(lp32
+S'development'
+p33
+aS'information'
+p34
+aS'data analysis'
+p35
+aS'large data set'
+p36
+aS'analysis'
+p37
+aS'modeling'
+p38
 aS'model'
-p46
+p39
 aS'presentation'
-p47
+p40
 as.

@@ -4,184 +4,196 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
-sS'principal component analysis'
-p5
-I1
-sS'analytics'
-p6
-I1
-sS'health insurance'
-p7
-I1
-sS'statistical analysis'
-p8
-I1
+F0.0072941020045530309
 sS'mysql'
+p5
+F0.0059058654892716958
+sS'hadoop'
+p6
+F0.0031960360731332457
+sS'analytics'
+p7
+F0.0021635260248346433
+sS'health insurance'
+p8
+F0.012812645516181841
+sS'statistical analysis'
 p9
-I1
-sS'machine learning'
+F0.006404726749782607
+sS'principal component analysis'
 p10
-I1
-sS'regression'
-p11
-I1
-sS'qlikview'
-p12
-I1
-sS'management'
-p13
-I1
-sS'java'
-p14
-I1
-sS'tableau'
-p15
-I1
-sS'insurance'
-p16
-I1
-sS'r'
-I1
-sS'oracle sql'
-p17
-I1
-sS'natural language processing'
-p18
-I1
-sS'policy'
-p19
-I1
-sS'master data management'
-p20
-I1
-sS'data management'
-p21
-I1
-sS'clustering'
-p22
-I1
-sS'segmentation'
-p23
-I1
-sS'data analysis'
-p24
-I1
-sS'data modeling'
-p25
-I1
-sS'python'
-p26
-I1
-sS'customer service'
-p27
-I1
-sS'processing'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'customer analysis'
-p30
-I1
-sS'leadership'
-p31
-I1
-sS'sql'
-p32
-I1
-sS'modeling'
-p33
-I1
-sS'data'
-p34
-I1
-sS'data visualization'
-p35
-I1
-sS'aws'
-p36
-I1
-sS'programming'
-p37
-I1
-sS'linear regression'
-p38
-I1
-sS'google analytics'
-p39
-I1
-sS'optimization'
-p40
-I1
-sS'oracle'
-p41
-I1
-sS'probability theory'
-p42
-I1
-sS'validation'
-p43
-I1
-sS'etl'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-V[0]
-p47
-I1
-ssS'major'
-p48
-(dp49
-S'analytics'
-p50
-I1
+F0.013555161667815898
 sS'machine learning'
-p51
-I1
-sS'management'
-p52
-I1
+p11
+F0.0016306410990896501
+sS'regression'
+p12
+F0.0059108651509497531
+sS'qlikview'
+p13
+F0.010026880037567238
+sS'statistics'
+p14
+F0.0023196837184144394
+sS'java'
+p15
+F0.003082753650916128
+sS'tableau'
+p16
+F0.0049975773311537108
+sS'insurance'
+p17
+F0.054905969887681129
+sS'r'
+F0.0013805778771491073
+sS'oracle sql'
+p18
+F0.0087772349553055084
 sS'natural language processing'
-p53
-I1
-sS'information'
+p19
+F0.0062337266964186634
+sS'policy'
+p20
+F0.0067901945971162924
+sS'master data management'
+p21
+F0.012475469768115399
+sS'data management'
+p22
+F0.0068405923000230615
+sS'clustering'
+p23
+F0.0080184392053637057
+sS'segmentation'
+p24
+F0.0072041077416170173
+sS'data analysis'
+p25
+F0.0036909502859842416
+sS'data modeling'
+p26
+F0.0064980142905927147
+sS'python'
+p27
+F0.0012966455541126019
+sS'customer service'
+p28
+F0.0085286560760886605
+sS'processing'
+p29
+F0.0040624081757978112
+sS'data scientist'
+p30
+F0.0026352528984176075
+sS'customer analysis'
+p31
+F0.012027783024825052
+sS'leadership'
+p32
+F0.0041104692069746816
+sS'sql'
+p33
+F0.0016963777582911618
+sS'modeling'
+p34
+F0.0020202629080138122
+sS'data'
+p35
+F0.0029502857680217143
+sS'search'
+p36
+F0.0077163924817158398
+sS'data visualization'
+p37
+F0.0048923722029343307
+sS'aws'
+p38
+F0.0065011849472181842
+sS'programming'
+p39
+F0.0027420776985942188
+sS'linear regression'
+p40
+F0.009445760193028346
+sS'google analytics'
+p41
+F0.0095952691866661166
+sS'optimization'
+p42
+F0.0049751464114142843
+sS'healthcare'
+p43
+F0.0067095530928113533
+sS'oracle'
+p44
+F0.00652990422527692
+sS'management'
+p45
+F0.0022538529034817219
+sS'probability theory'
+p46
+F0.012117165434780287
+sS'validation'
+p47
+F0.0078655778733211362
+sS'etl'
+p48
+F0.0070889668507840365
+ssS'working-year'
+p49
+(dp50
+S'[0]'
+p51
+F0.0054632207227472201
+ssS'major'
+p52
+(dp53
+VData Science
 p54
-I1
-ssS'education'
+F0.0025554452303608523
+sVStatistics
 p55
-(dp56
-VMaster
+F0.0044813551489753236
+sVComputer Science
+p56
+F0.0022521287222691485
+sVManagement Science and Engineering
 p57
-I1
-ssS'responsibility'
+F0.0032078222349972447
+ssS'education'
 p58
 (dp59
-S'information'
+VMaster
 p60
-I1
-sS'forecasting'
+F0.0018091559333934747
+ssS'responsibility'
 p61
-I1
-sS'processing'
-p62
-I1
-sVinsight
+(dp62
+S'development'
 p63
-I1
-sS'product'
+F0.0060246816040503415
+sS'information'
 p64
-I1
-sS'optimization'
+F0.0034505104465905336
+sS'forecasting'
 p65
-I1
-sS'data analysis'
+F0.0072941020045530309
+sS'insight'
 p66
-I1
-sS'modeling'
+F0.004564411333356928
+sS'processing'
 p67
-I1
+F0.0040624081757978112
+sS'product'
+p68
+F0.010037260378490646
+sS'optimization'
+p69
+F0.0049751464114142843
+sS'data analysis'
+p70
+F0.0036909502859842416
+sS'modeling'
+p71
+F0.0020202629080138122
 ss.

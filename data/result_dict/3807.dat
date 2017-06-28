@@ -6,23 +6,23 @@ S'programming'
 p4
 aS'business strategy'
 p5
-aS'feature extraction'
+aS'testing'
 p6
 aS'presentation skills'
 p7
-aS'mllib'
+aS'julia'
 p8
-aS'analytics'
+aS'hadoop'
 p9
-aS'engineering'
+aS'analytics'
 p10
-aS'data analysis'
+aS'engineering'
 p11
-aS'communication skills'
+aS'data analysis'
 p12
-aS'data mining'
-p13
 aS'analysis'
+p13
+aS'data mining'
 p14
 aS'hbase'
 p15
@@ -36,149 +36,136 @@ aS'experimentation'
 p19
 aS'visualization'
 p20
-aS'open source'
+aS'statistics'
 p21
-aS'big data'
+aS'open source'
 p22
-aS'scala'
-p23
-aS'deep learning'
-p24
-aS'predictive modeling'
-p25
-aS'hadoop'
-p26
-aS'writing'
-p27
-aS'mahout'
-p28
-aS'statistical software'
-p29
-aS'computer science'
-p30
-aS'communication'
-p31
-aS'intelligence'
-p32
-aS'mathematics'
-p33
-aS'unstructured data'
-p34
-aS'matlab'
-p35
-aS'testing'
-p36
-aS'signal processing'
-p37
-aS'python'
-p38
-aS'processing'
-p39
-aS'octave'
-p40
-aS'modeling'
-p41
-aS'spark'
-p42
-aS'data'
-p43
-aS'software engineering'
-p44
-aS'data visualization'
-p45
-aS'java'
-p46
-aS'science'
-p47
-aS'scikit-learn'
-p48
-aS'c++'
-p49
-aS'machine learning'
-p50
-aS'weka'
-p51
-aS'r'
-aS'statistical inference'
-p52
-aS'unit testing'
-p53
-aS'scripting'
-p54
-asS'working-year'
-p55
-(lp56
-V(0, 2]
-p57
-asS'major'
-p58
-(lp59
-S'mathematics'
-p60
-aS'computer science mathematics'
-p61
-aS'business'
-p62
 aS'big data'
-p63
-aS'science'
-p64
-aS'berkeley'
-p65
-aS'statistic'
-p66
-aS'computer science statistics'
-p67
-aS'machine learning'
-p68
-aS'analytics'
-p69
-aS'engineering'
-p70
+p23
+aS'scala'
+p24
+aS'deep learning'
+p25
+aS'predictive modeling'
+p26
+aS'mllib'
+p27
+aS'writing'
+p28
+aS'mahout'
+p29
+aS'strategy'
+p30
+aS'statistical software'
+p31
 aS'computer science'
-p71
-aS'phd'
-p72
-aS'data mining'
-p73
+p32
 aS'communication'
-p74
-aS'software engineering'
-p75
-aS'machine learning data mining'
-p76
-aS'ee computer science'
-p77
-asS'education'
-p78
-(lp79
-VMaster
-p80
-aVDoctor
-p81
-asS'responsibility'
-p82
-(lp83
-Vinsight
-p84
-aS'business problem'
-p85
-aS'presentation'
-p86
+p33
+aS'intelligence'
+p34
+aS'mathematics'
+p35
+aS'unstructured data'
+p36
+aS'matlab'
+p37
+aS'feature extraction'
+p38
+aS'signal processing'
+p39
+aS'python'
+p40
 aS'processing'
-p87
-aS'analysis'
-p88
-aS'data analysis'
-p89
-aS'pattern'
-p90
-aS'data mining'
-p91
+p41
+aS'octave'
+p42
+aS'sql'
+p43
 aS'modeling'
-p92
+p44
+aS'spark'
+p45
+aS'data'
+p46
+aS'c'
+aS'software engineering'
+p47
+aS'data visualization'
+p48
+aS'java'
+p49
+aS'science'
+p50
+aS'scikit-learn'
+p51
+aS'communication skills'
+p52
+aS'machine learning'
+p53
+aS'lucene'
+p54
+aS'weka'
+p55
+aS'r'
+aS'solr'
+p56
+aS'statistical inference'
+p57
+aS'unit testing'
+p58
+aS'scripting'
+p59
+asS'working-year'
+p60
+(lp61
+V(0, 2]
+p62
+asS'major'
+p63
+(lp64
+VStatistics
+p65
+aVBusiness
+p66
+aVData Science
+p67
+aVEngineering
+p68
+aVComputer Science
+p69
+aVMathematics
+p70
+asS'education'
+p71
+(lp72
+VMaster
+p73
+aVDoctor
+p74
+asS'responsibility'
+p75
+(lp76
+S'data mining'
+p77
+aS'insight'
+p78
+aS'business problem'
+p79
+aS'presentation'
+p80
+aS'processing'
+p81
+aS'analysis'
+p82
+aS'data analysis'
+p83
+aS'pattern'
+p84
+aS'modeling'
+p85
 aS'model'
-p93
+p86
 aS'extract'
-p94
+p87
 as.

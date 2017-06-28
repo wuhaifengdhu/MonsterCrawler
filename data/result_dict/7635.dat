@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'science'
+S'a'
+aS'science'
 p4
 aS'data science'
 p5
@@ -21,29 +22,21 @@ p11
 asS'working-year'
 p12
 (lp13
-V[0]
+S'[0]'
 p14
 asS'major'
 p15
 (lp16
-S'science'
+VData Science
 p17
-aS'information'
-p18
-aS'data science'
-p19
-aS'law'
-p20
-aS'history'
-p21
 asS'education'
-p22
-(lp23
+p18
+(lp19
 S'Bachelor'
-p24
+p20
 asS'responsibility'
-p25
-(lp26
+p21
+(lp22
 S'information'
-p27
+p23
 as.

@@ -4,211 +4,192 @@ p2
 (dp3
 S'debugging'
 p4
-I1
+F0.018622976708405129
 sS'communication'
 p5
-I1
+F0.0067083447419951543
 sS'data science'
 p6
-I1
+F0.0050967835833076233
 sS'information retrieval'
 p7
-I1
+F0.014870851707555819
 sS'analytics'
 p8
-I1
+F0.0073706564574875138
 sS'business intelligence'
 p9
-I1
+F0.0086569631727729714
 sS'asp'
 p10
-I1
+F0.038791033928319257
 sS'data warehousing'
 p11
-I1
+F0.012887670600357176
 sS'data mining'
 p12
-I1
+F0.0089914378333988878
 sS'web analytics'
 p13
-I1
+F0.016179019234866625
 sS'publishing'
 p14
-I1
+F0.021433520077216835
 sS'big data'
 p15
-I1
+F0.005392903077807913
 sS'perl'
 p16
-I1
+F0.012144282814785459
 sS'html'
 p17
-I1
+F0.010847816496816501
 sS'online advertising'
 p18
-I1
+F0.018922200123427314
 sS'natural language processing'
 p19
-I1
+F0.01061846666084874
 sS'intelligence'
 p20
-I1
-sS'computer science'
+F0.0066527907198592334
+sS'energy'
 p21
-I1
-sS'text mining'
-p22
-I1
-sS'javascript'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'search'
-p26
-I1
-sS'data processing'
-p27
-I1
-sS'php'
-p28
-I1
-sS'data'
-p29
-I1
-sS'project management'
-p30
-I1
-sS'c'
-I1
-sS'.net'
-p31
-I1
-sS'engineering'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'web mining'
-p34
-I1
-sS'advertising'
-p35
-I1
-sS'trading'
-p36
-I1
-sS'etl'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V(2, 5]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'information'
-p43
-I1
-sS'natural language processing'
-p44
-I1
-sS'business'
-p45
-I1
-sS'big data'
-p46
-I1
-sS'communication'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'data mining'
-p49
-I1
-sS'computer science statistics'
-p50
-I1
-sS'machine learning'
-p51
-I1
-sS'analytics'
-p52
-I1
-sS'engineering'
-p53
-I1
-sS'design'
-p54
-I1
+F0.013074132652754594
 sS'computer science'
-p55
-I1
-sS'statistic'
-p56
-I1
-sS'information retrieval'
-p57
-I1
-sS'project management'
-p58
-I1
-sS'data mining machine learning'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VBachelor
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'development'
-p65
-I1
-sS'information'
-p66
-I1
-sVinsight
-p67
-I1
-sS'business problem'
-p68
-I1
+p22
+F0.0059575561999458499
+sS'text mining'
+p23
+F0.013925359870553411
+sS'javascript'
+p24
+F0.0093959517543302715
 sS'processing'
-p69
-I1
+p25
+F0.0069198647740284745
+sS'data scientist'
+p26
+F0.0044888629879825349
+sS'search'
+p27
+F0.013144024481566813
+sS'metrics'
+p28
+F0.018496482686147921
+sS'statistics'
+p29
+F0.0039513256559432402
+sS'data processing'
+p30
+F0.015575078803933794
+sS'sql'
+p31
+F0.0028895926221739286
+sS'php'
+p32
+F0.013749003575343985
+sS'data'
+p33
+F0.0045229380969078661
+sS'project management'
+p34
+F0.0080570056073073978
+sS'a'
+F0.0079239063288729945
+sS'c'
+F0.0052992454402461748
+sS'fraud'
+p35
+F0.016575661337323255
+sS'science'
+p36
+F0.0059579143067295965
+sS'engineering'
+p37
+F0.015570187844156628
+sS'machine learning'
+p38
+F0.002777617465398472
+sS'web mining'
+p39
+F0.02683633425405119
+sS'advertising'
+p40
+F0.01394659866241648
+sS'trading'
+p41
+F0.035668836841963182
+sS'etl'
+p42
+F0.012075274042437216
+ssS'working-year'
+p43
+(dp44
+V(2, 5]
+p45
+F0.0052497645272505744
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0076334947876613565
+sVBusiness
+p49
+F0.0045835353693818399
+sVData Science
+p50
+F0.0043529194178180616
+sVEngineering
+p51
+F0.015570187844156628
+sVComputer Science
+p52
+F0.0038362531625093124
+sVManagement Science and Engineering
+p53
+F0.0054641717731732731
+ssS'education'
+p54
+(dp55
+VBachelor
+p56
+F0.0038617746935165542
+ssS'responsibility'
+p57
+(dp58
+S'development'
+p59
+F0.010262381376390836
+sS'information'
+p60
+F0.0058775644047855706
+sS'insight'
+p61
+F0.0077749718474978179
+sS'business problem'
+p62
+F0.012068434585299341
+sS'processing'
+p63
+F0.0069198647740284745
 sS'complex data set'
-p70
-I1
+p64
+F0.021191324992722211
 sS'ownership'
-p71
-I1
+p65
+F0.016696158686810965
 sS'data mining'
-p72
-I1
+p66
+F0.0089914378333988878
 sS'report'
-p73
-I1
+p67
+F0.008793544153273004
 sS'design'
-p74
-I1
+p68
+F0.0061882152966884641
 sS'model'
-p75
-I1
-sS'build solution'
-p76
-I1
+p69
+F0.0065568256012781389
 ss.

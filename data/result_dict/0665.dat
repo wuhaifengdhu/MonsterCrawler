@@ -4,7 +4,7 @@ p2
 (lp3
 S'jira'
 p4
-aS'hadoop'
+aS'tableau'
 p5
 aS'analytics'
 p6
@@ -14,21 +14,21 @@ aS'hbase'
 p8
 aS'quantitative analysis'
 p9
-aVpanda
-p10
 aS'git'
-p11
+p10
 aS'big data'
-p12
+p11
 aS'agile'
-p13
+p12
 aS'excel'
+p13
+aS'hadoop'
 p14
-aS'tableau'
-p15
 aS'computer science'
-p16
+p15
 aS'mathematics'
+p16
+aS'pandas'
 p17
 aS'data analysis'
 p18
@@ -46,83 +46,73 @@ aS'leadership'
 p24
 aS'sql'
 p25
-aS'php'
+aS'statistics'
 p26
-aS'data'
+aS'php'
 p27
-aS'science'
+aS'data'
 p28
-aS'economics'
+aS'science'
 p29
-aS'analysis'
+aS'economics'
 p30
-aS'google analytics'
+aS'analysis'
 p31
+aS'google analytics'
+p32
 aS'r'
 aS'command'
-p32
-aS'root'
 p33
-asS'working-year'
+aS'root'
 p34
-(lp35
-V[0]
-p36
-asS'major'
+asS'working-year'
+p35
+(lp36
+S'[0]'
 p37
-(lp38
-S'mathematics economics'
-p39
-aS'economics statistics'
+asS'major'
+p38
+(lp39
+VStatistics
 p40
-aS'business'
+aVBusiness
 p41
-aS'big data'
+aVData Science
 p42
-aS'statistics computer science'
+aVEconomics
 p43
-aS'science'
+aVComputer Science
 p44
-aS'economics'
+aVMathematics
 p45
-aS'analytics'
-p46
-aS'design'
-p47
-aS'computer science'
-p48
-aS'statistic'
-p49
-aS'mathematics'
-p50
-aS'mathematics economics statistics'
-p51
 asS'education'
-p52
-(lp53
+p46
+(lp47
 VDoctor
-p54
+p48
 asS'responsibility'
-p55
-(lp56
+p49
+(lp50
 S'development'
-p57
+p51
 aS'product'
-p58
-aS'data analysis'
-p59
-aVinsight
-p60
+p52
+aS'insight'
+p53
+aS'design ... experiment'
+p54
+aS'evaluate ... experiment'
+p55
 aS'communicate'
-p61
+p56
 aS'analysis'
-p62
-aS'evaluate experiment'
-p63
-aS'understand'
-p64
+p57
+aS'data analysis'
+p58
 aS'design'
-p65
+p59
+aS'understand'
+p60
 aS'quantitative analysis'
-p66
+p61
 as.

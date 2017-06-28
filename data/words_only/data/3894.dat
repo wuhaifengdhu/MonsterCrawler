@@ -4,152 +4,142 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.011080351677192398
 sS'data science'
 p5
-I1
+F0.0048698013184639644
 sS'engineering'
 p6
-I1
+F0.0049589262229702618
 sS'go'
 p7
-I1
+F0.013274952206589585
 sS'education'
 p8
-I1
+F0.0084964645741427893
 sS'big data'
 p9
-I1
+F0.0051527333051120143
 sS'scala'
 p10
-I1
+F0.009880835577727275
 sS'hadoop'
 p11
-I1
+F0.0052016457546541087
 sS'research'
 p12
-I1
+F0.0034540904520718148
 sS'big data analytics'
 p13
-I1
+F0.013418093541491824
 sS'computer science'
 p14
-I1
+F0.005692239931932068
 sS'policy'
 p15
-I1
+F0.011051247886804654
+sS'a'
+F0.007571019812202537
 sS'distributed computing'
 p16
-I1
+F0.014483386487689523
 sS'finance'
 p17
-I1
+F0.010749579166735581
 sS'python'
 p18
-I1
+F0.0021103300111468258
 sS'aws'
 p19
-I1
+F0.010580875905998826
 sS'processing'
 p20
-I1
+F0.0066116926585859112
 sS'data scientist'
 p21
-I1
+F0.0042889541099752158
 sS'data processing'
 p22
-I1
-sS'spark'
+F0.014881451812665487
+sS'apache'
 p23
-I1
-sS'apache kafka'
+F0.0091623553382268359
+sS'spark'
 p24
-I1
-sS'mapreduce'
+F0.013652920026847438
+sS'data'
 p25
-I1
-sS'analysis'
+F0.00096033593420625845
+sS'apache kafka'
 p26
-I1
-sS'machine learning'
+F0.020788191294062869
+sS'science'
 p27
-I1
-sS'healthcare'
+F0.0028462910453202124
+sS'mapreduce'
 p28
-I1
-sS'oracle'
+F0.010674904926947048
+sS'analysis'
 p29
-I1
-sS'data analytics'
+F0.0027742406619767606
+sS'machine learning'
 p30
-I1
-ssS'working-year'
+F0.0026539179021621024
+sS'healthcare'
 p31
-(dp32
-V(2, 5]
+F0.010920001389919692
+sS'oracle'
+p32
+F0.010627617403082275
+sS'data analytics'
 p33
-I1
-ssS'major'
+F0.0082685128805092996
+ssS'working-year'
 p34
 (dp35
-S'finance'
+V(2, 5]
 p36
-I1
-sS'big data'
+F0.0050159693458750425
+ssS'major'
 p37
-I1
-sS'computing'
-p38
-I1
-sS'data science'
+(dp38
+VEngineering
 p39
-I1
-sS'machine learning'
+F0.0091189430233470752
+sVEconomics
 p40
-I1
-sS'big data analytics'
+F0.0066427997875484245
+sVData Science
 p41
-I1
-sS'engineering'
+F0.0041590647069030878
+sVComputer Science
 p42
-I1
-sS'design'
-p43
-I1
-sS'computer science'
-p44
-I1
-sS'ee computer science'
-p45
-I1
-sS'data analytics'
-p46
-I1
+F0.0036654078799684118
 ssS'education'
-p47
-(dp48
+p43
+(dp44
 VMaster
-p49
-I1
+p45
+F0.0029444562154824975
 ssS'responsibility'
-p50
-(dp51
+p46
+(dp47
 S'product'
-p52
-I1
+p48
+F0.0054453153470354117
 sS'processing'
-p53
-I1
+p49
+F0.0066116926585859112
 sS'analysis'
-p54
-I1
+p50
+F0.0027742406619767606
 sS'design'
-p55
-I1
+p51
+F0.0059126267612084112
 sS'report'
-p56
-I1
+p52
+F0.0084019288266090238
 sS'understand'
-p57
-I1
+p53
+F0.0085088251556448401
 ss.

@@ -8,72 +8,74 @@ aS'word'
 p5
 aS'banking'
 p6
-aS'excel'
+aS'communication'
 p7
 aS'project planning'
 p8
 aS'government'
 p9
-aS'data scientist'
+aS'excel'
 p10
-aS'machine learning'
+aS'sales'
 p11
-aS'credit'
-p12
-aS'leadership'
-p13
-aS'trading'
-p14
-aS'communication'
-p15
-aS'management'
-p16
-aS'security'
-p17
-aS'fixed income'
-p18
-aS'data'
-p19
-aS'powerpoint'
-p20
-aS'project management'
-p21
-asS'working-year'
-p22
-(lp23
-V(5, 10]
-p24
-aV(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'communication'
-p28
-aS'management'
-p29
-aS'business'
-p30
-aS'project management'
-p31
 aS'machine learning'
-p32
+p12
+aS'credit'
+p13
+aS'leadership'
+p14
+aS'trading'
+p15
+aS'equities'
+p16
+aS'management'
+p17
+aS'security'
+p18
+aS'fixed income'
+p19
+aS'data'
+p20
+aS'powerpoint'
+p21
+aS'project management'
+p22
+asS'working-year'
+p23
+(lp24
+V(5, 10]
+p25
+aV(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VComputer Science
+p29
+aVBusiness
+p30
+aVManagement Science and Engineering
+p31
 asS'education'
-p33
-(lp34
-S'Bachelor'
+p32
+(lp33
+VBachelor
+p34
+aVMaster
 p35
 asS'responsibility'
 p36
 (lp37
-S'report'
+S'development'
 p38
-aS'development'
-p39
 aS'product'
+p39
+aS'communicate'
 p40
-aS'identify opportunity'
-p41
 aS'improvement'
+p41
+aS'identify opportunity'
 p42
+aS'report'
+p43
 as.

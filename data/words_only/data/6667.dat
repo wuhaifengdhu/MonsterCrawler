@@ -4,217 +4,215 @@ p2
 (dp3
 S'speech recognition'
 p4
-I1
-sS'r d'
-p5
-I1
+F0.011619100486129548
 sS'communication'
-p6
-I1
+p5
+F0.0063966438751953793
 sS'data science'
-p7
-I1
+p6
+F0.0024299816680012107
 sS'human resources'
+p7
+F0.01002087067512426
+sS'sales'
 p8
-I1
+F0.0067163732125070791
 sS'analytics'
 p9
-I1
-sS'cognitive science'
+F0.0017570453777444983
+sS'engineering'
 p10
-I1
-sS'education'
-p11
-I1
-sS'java'
-p12
-I1
-sS'user experience'
-p13
-I1
-sS'perl'
-p14
-I1
-sS'r'
-I1
-sS'statistical software'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'natural language processing'
-p17
-I1
-sS'text classification'
-p18
-I1
-sS'mathematics'
-p19
-I1
-sS'professional services'
-p20
-I1
-sS'human computer interaction'
-p21
-I1
-sS'statistical data analysis'
-p22
-I1
-sS'data analysis'
-p23
-I1
-sS'signal processing'
-p24
-I1
-sS'apis'
-p25
-I1
-sS'python'
-p26
-I1
-sS'customer service'
-p27
-I1
-sS'processing'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'automation'
-p30
-I1
-sS'computational linguistics'
-p31
-I1
-sS'sql'
-p32
-I1
-sS'pattern recognition'
-p33
-I1
-sS'programming'
-p34
-I1
-sS'analysis'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'optimization'
-p37
-I1
-sS'command'
-p38
-I1
-sS'application development'
-p39
-I1
-sS'scripting'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V[0]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'law'
-p46
-I1
-sS'business'
-p47
-I1
-sS'physics mathematics'
-p48
-I1
-sS'communication'
-p49
-I1
-sS'data science'
-p50
-I1
-sS'natural language processing'
-p51
-I1
-sS'computer science engineering'
-p52
-I1
-sS'machine learning'
-p53
-I1
-sS'analytics'
-p54
-I1
+F0.0024744540950982922
 sS'cognitive science'
-p55
-I1
-sS'design'
-p56
-I1
+p11
+F0.011341927447466923
+sS'education'
+p12
+F0.0042396499996227655
+sS'linguistics'
+p13
+F0.010218809572168025
+sS'java'
+p14
+F0.0025035696316530981
+sS'user experience'
+p15
+F0.0068186120507209205
+sS'perl'
+p16
+F0.011580003007229771
+sS'r'
+F0.0022423931580361259
+sS'statistical software'
+p17
+F0.0079504997399949279
 sS'computer science'
-p57
-I1
-sS'statistic'
-p58
-I1
+p18
+F0.0028403702286610519
+sS'natural language processing'
+p19
+F0.005062541680727884
+sS'text classification'
+p20
+F0.011503629320695754
 sS'mathematics'
-p59
-I1
+p21
+F0.003692713701163244
+sS'professional services'
+p22
+F0.011679409313754918
+sS'human computer interaction'
+p23
+F0.010341282800283335
+sS'statistical data analysis'
+p24
+F0.00624991622364208
+sS'data analysis'
+p25
+F0.0029974990201326571
+sS'signal processing'
+p26
+F0.0063306464880014141
+sS'apis'
+p27
+F0.0074331623558316143
+sS'python'
+p28
+F0.0021060667181950141
+sS'customer service'
+p29
+F0.0069263025102780642
+sS'processing'
+p30
+F0.0032991678518600404
+sS'data scientist'
+p31
+F0.0021401447781088448
 sS'automation'
-p60
-I1
-sVphysic
-p61
-I1
+p32
+F0.0067374713645733516
 sS'computational linguistics'
-p62
-I1
+p33
+F0.010075473676009876
+sS'sql'
+p34
+F0.0013776643612788829
+sS'data'
+p35
+F0.0002395989654029756
+sS'a'
+F0.0037778624113414677
+sS'c'
+F0.0025265089371678735
+sS'pattern recognition'
+p36
+F0.0064512196139024066
+sS'science'
+p37
+F0.0014202704812001866
+sS'programming'
+p38
+F0.0044537989286257615
+sS'analysis'
+p39
+F0.0006921590338467272
+sS'machine learning'
+p40
+F0.0013242782259273523
+sS'optimization'
+p41
+F0.0080808438682365338
+sS'command'
+p42
+F0.0077570793480455846
+sS'application development'
+p43
+F0.0077395886898712022
+sS'physics'
+p44
+F0.0049153219746397234
+sS'scripting'
+p45
+F0.0049153219746397234
+ssS'working-year'
+p46
+(dp47
+S'[0]'
+p48
+F0.0044367974354431973
+ssS'major'
+p49
+(dp50
+VLinguistics
+p51
+F0.010575285146143761
+sVBusiness
+p52
+F0.002185281509442655
+sVData Science
+p53
+F0.0020753312779900257
+sVEngineering
+p54
+F0.0045502604581146014
+sVCognitive Science
+p55
+F0.0087030550462313186
+sVComputer Science
+p56
+F0.0018290015077822176
+sVMathematics
+p57
+F0.0034631768274392969
+sVPhysics
+p58
+F0.005300468891313314
 ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0018411693488280944
+sVMaster
+p62
+F0.0014692539095437916
+ssS'responsibility'
 p63
 (dp64
-S'Bachelor'
-p65
-I1
-ssS'responsibility'
-p66
-(dp67
 S'development'
-p68
-I1
+p65
+F0.004892771726925732
+sS'information'
+p66
+F0.0028022327263220095
 sS'product'
-p69
-I1
+p67
+F0.0054343147099706933
 sS'data analysis'
-p70
-I1
+p68
+F0.0029974990201326571
 sS'pattern'
-p71
-I1
+p69
+F0.0052900829809578703
 sS'processing'
-p72
-I1
+p70
+F0.0032991678518600404
 sS'analysis'
-p73
-I1
+p71
+F0.0006921590338467272
 sS'optimization'
-p74
-I1
+p72
+F0.0080808438682365338
 sS'design'
-p75
-I1
+p73
+F0.014751705151701796
 sS'solve problem'
-p76
-I1
+p74
+F0.008309176709558953
 sS'recommendation'
-p77
-I1
+p75
+F0.0052771752420571133
 sS'model'
-p78
-I1
+p76
+F0.0062521650177844073
 ss.

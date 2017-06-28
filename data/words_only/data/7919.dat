@@ -4,188 +4,167 @@ p2
 (dp3
 S'communication'
 p4
-I1
-sS'algorithm design'
-p5
-I1
+F0.0035737457316272151
 sS'hardware'
-p6
-I1
+p5
+F0.0083822033330800561
 sS'analytics'
-p7
-I1
-sS'engineering'
-p8
-I1
+p6
+F0.0039265799638082462
 sS'dod'
-p9
-I1
+p7
+F0.02858858436078222
 sS'laboratory'
-p10
-I1
+p8
+F0.019030391977746676
 sS'ic'
-p11
-I1
+p9
+F0.0095877843506436428
 sS'education'
-p12
-I1
+p10
+F0.004737306432987063
 sS'hadoop'
-p13
-I1
+p11
+F0.0029002404094798304
 sS'research'
-p14
-I1
+p12
+F0.0038517396914751162
 sS'access'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'algorithm development'
-p18
-I1
-sS'operations research'
-p19
-I1
-sS'government'
-p20
-I1
-sS'data scientist'
-p21
-I1
+p13
+F0.010471611851451262
 sS'mathematics'
+p14
+F0.0041261699369657011
+sS'computer science'
+p15
+F0.0031737771178041098
+sS'innovation'
+p16
+F0.0043698073863086308
+sS'algorithm development'
+p17
+F0.0095009542829608464
+sS'operations research'
+p18
+F0.0065032472134354613
+sS'government'
+p19
+F0.011770291266947924
+sS'data scientist'
+p20
+F0.0023913581606408085
+sS'leadership'
+p21
+F0.0037300420343201399
+sS'architectures'
 p22
-I1
-sS'spark'
+F0.010836305865498332
+sS'algorithm design'
 p23
-I1
-sS'data'
+F0.009515195988873338
+sS'spark'
 p24
-I1
-sS'software development'
+F0.0038061752219315089
+sS'data'
 p25
-I1
-sS'national security'
+F0.0021417875914126034
+sS'software development'
 p26
-I1
-sS'software engineering'
+F0.0047859968805265742
+sS'national security'
 p27
-I1
-sS'security clearance'
+F0.0094868018686502971
+sS'software engineering'
 p28
-I1
-sS'machine learning'
+F0.0058737313514988969
+sS'science'
 p29
-I1
-sS'data architecture'
+F0.0015869839462620595
+sS'security clearance'
 p30
-I1
-sS'system architecture'
+F0.0082479017455053486
+sS'machine learning'
 p31
-I1
-sS'architecture'
+F0.0014797239770520075
+sS'data architecture'
 p32
-I1
-sS'organization'
+F0.0091590825165130986
+sS'algorithms'
 p33
-I1
-sS'security'
+F0.0040500489353617469
+sS'architecture'
 p34
-I1
-ssS'working-year'
+F0.0049368273649766543
+sS'organization'
 p35
-(dp36
-V(5, 10]
+F0.0039800989600037948
+sS'security'
+p36
+F0.0098661436375611367
+sS'physics'
 p37
-I1
-ssS'major'
+F0.016476869373227968
+ssS'working-year'
 p38
 (dp39
-S'information'
+V(5, 10]
 p40
-I1
-sS'mathematics physics'
+F0.0027215446085256403
+ssS'major'
 p41
-I1
-sS'applied physics'
-p42
-I1
-sS'software engineering'
+(dp42
+VData Science
 p43
-I1
-sS'communication'
+F0.0023189367553161683
+sVEngineering
 p44
-I1
-sS'information science'
+F0.0050843768098571725
+sVInformation Science
 p45
-I1
-sS'general'
+F0.0057170546017022428
+sVComputer Science
 p46
-I1
-sS'analytics'
+F0.0020436924296889339
+sVMathematics
 p47
-I1
-sS'engineering'
+F0.0038696896830303653
+sVPhysics
 p48
-I1
-sS'information system'
+F0.0059226458266367727
+sVOperations Research
 p49
-I1
-sS'design'
-p50
-I1
-sVphysic
-p51
-I1
-sS'statistic'
-p52
-I1
-sS'mathematics'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'operations research'
-p55
-I1
-sS'computer science'
-p56
-I1
+F0.0072657537205127621
 ssS'education'
-p57
-(dp58
+p50
+(dp51
 VBachelor
-p59
-I1
+p52
+F0.0020572885500449362
 sVMaster
-p60
-I1
+p53
+F0.0016417171224022049
 sVDoctor
-p61
-I1
+p54
+F0.0024586495976895439
 ssS'responsibility'
-p62
-(dp63
+p55
+(dp56
 S'development'
-p64
-I1
+p57
+F0.0027335462808445112
 sS'information'
-p65
-I1
+p58
+F0.012524651914486632
 sS'analytic'
-p66
-I1
+p59
+F0.0050964468900669135
 sS'statistical method'
-p67
-I1
+p60
+F0.0079363215102742912
 sS'design'
-p68
-I1
+p61
+F0.0065933129120473027
 sS'implement'
-p69
-I1
+p62
+F0.0047807295149426806
 ss.

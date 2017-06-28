@@ -18,7 +18,7 @@ aS'data mining'
 p10
 aS'insurance'
 p11
-aS'management'
+aS'statistics'
 p12
 aS'hadoop'
 p13
@@ -35,37 +35,38 @@ aS'unstructured data'
 p18
 aS'operations research'
 p19
-aS'philosophy'
-p20
-aS'python'
-p21
-aS'processing'
-p22
-aS'experimental design'
-p23
-aS'leadership'
-p24
-aS'sql'
-p25
-aS'modeling'
-p26
-aS'data'
-p27
-aS'project management'
-p28
 aS'econometrics'
+p20
+aS'philosophy'
+p21
+aS'python'
+p22
+aS'processing'
+p23
+aS'experimental design'
+p24
+aS'leadership'
+p25
+aS'sql'
+p26
+aS'modeling'
+p27
+aS'data'
+p28
+aS'project management'
 p29
-aS'property casualty insurance'
-p30
+aS'a'
 aS'science'
-p31
+p30
 aS'programming'
-p32
+p31
 aS'machine learning'
-p33
+p32
 aS'optimization'
-p34
+p33
 aS'financial services'
+p34
+aS'management'
 p35
 aS'predictive analytics'
 p36
@@ -79,68 +80,48 @@ p40
 asS'major'
 p41
 (lp42
-S'mathematics'
+VStatistics
 p43
-aS'management'
+aVBusiness
 p44
-aS'business'
+aVData Science
 p45
-aS'science'
+aVComputer Science
 p46
-aS'data science'
+aVMathematics
 p47
-aS'philosophy'
+aVOperations Research
 p48
-aS'statistic'
+aVManagement Science and Engineering
 p49
-aS'machine learning'
-p50
-aS'analytics'
-p51
-aS'operations research'
-p52
-aS'project management'
-p53
-aS'data mining'
-p54
-aS'communication'
-p55
-aS'computer science'
-p56
-aS'data mining machine learning'
-p57
-aS'econometrics'
-p58
-aS'statistics operations research'
-p59
-aS'predictive analytics'
-p60
 asS'education'
-p61
-(lp62
+p50
+(lp51
 VBachelor
-p63
+p52
 aVMaster
-p64
+p53
 aVDoctor
-p65
+p54
 asS'responsibility'
-p66
-(lp67
+p55
+(lp56
 S'product'
-p68
+p57
 aS'processing'
-p69
+p58
 aS'optimization'
-p70
+p59
 aS'understand'
-p71
+p60
 aS'data mining'
-p72
+p61
+aS'design'
+p62
 aS'modeling'
-p73
-aS'model'
-p74
+p63
 aS'evaluation'
-p75
+p64
+aS'model'
+p65
 as.

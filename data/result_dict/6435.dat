@@ -4,11 +4,11 @@ p2
 (lp3
 S'supply chain'
 p4
-aS'r d'
-p5
 aS'text analytics'
-p6
+p5
 aS'data science'
+p6
+aS'sales'
 p7
 aS'analytics'
 p8
@@ -16,77 +16,80 @@ aS'management'
 p9
 aS'networking'
 p10
-aS'coaching'
+aS'storage'
 p11
-aS'innovation'
+aS'hadoop'
 p12
-aS'collaboration'
+aS'coaching'
 p13
-aS'processing'
+aS'innovation'
 p14
-aS'talent management'
+aS'marketing'
 p15
-aS'leadership'
+aS'collaboration'
 p16
-aS'staff development'
+aS'processing'
 p17
-aS'manufacturing'
+aS'talent management'
 p18
-aS'data'
+aS'leadership'
 p19
-aS'project management'
+aS'staff development'
 p20
-aS'training'
+aS'spark'
 p21
-aS'science'
+aS'manufacturing'
 p22
-aS'machine learning'
+aS'data'
 p23
+aS'project management'
+p24
+aS'a'
+aS'training'
+p25
+aS'science'
+p26
+aS'machine learning'
+p27
 aS'r'
 aS'product innovation'
-p24
-aS'organization'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
 p28
-asS'major'
+aS'organization'
 p29
-(lp30
-S'management'
-p31
-aS'business'
+asS'working-year'
+p30
+(lp31
+V(5, 10]
 p32
-aS'science'
+asS'major'
 p33
-aS'data science'
-p34
-aS'machine learning'
+(lp34
+VData Science
 p35
-aS'business leadership'
+aVEconomics
 p36
-aS'analytics'
+aVComputer Science
 p37
-aS'project management'
+aVBusiness
 p38
-asS'education'
+aVManagement Science and Engineering
 p39
-(lp40
+asS'education'
+p40
+(lp41
 S'Bachelor'
-p41
-asS'responsibility'
 p42
-(lp43
+asS'responsibility'
+p43
+(lp44
 S'report'
-p44
-aS'development'
 p45
-aS'statistical method'
+aS'development'
 p46
-aS'processing'
+aS'statistical method'
 p47
-aS'product'
+aS'processing'
 p48
+aS'product'
+p49
 as.

@@ -8,7 +8,7 @@ aS'data science'
 p5
 aS'avro'
 p6
-aS'mllib'
+aS'hadoop'
 p7
 aS'ec2'
 p8
@@ -28,7 +28,7 @@ aS'scala'
 p15
 aS'recruiting'
 p16
-aS'hadoop'
+aS'mllib'
 p17
 aS'writing'
 p18
@@ -36,88 +36,77 @@ aS'teamwork'
 p19
 aS'innovation'
 p20
-aS'hdfs'
+aS'android'
 p21
-aS'python'
+aS'hdfs'
 p22
-aS'mongodb'
+aS'python'
 p23
-aS'collaboration'
+aS'mongodb'
 p24
-aS'aws'
+aS'collaboration'
 p25
-aS'military experience'
+aS'aws'
 p26
-aS'military'
+aS'military experience'
 p27
-aS'spark'
+aS'military'
 p28
-aS'data'
+aS'spark'
 p29
-aS'customer experience'
+aS'data'
 p30
-aS'search'
+aS'customer experience'
 p31
-aS'github'
+aS'a'
+aS'search'
 p32
-aS'science'
+aS'github'
 p33
-aS'scikit-learn'
-p34
-aS'machine learning'
-p35
-aS'banking'
-p36
-aS'architecture'
-p37
-aS'emr'
-p38
-aS'theano'
-p39
-asS'working-year'
-p40
-(lp41
-V(0, 2]
-p42
-aV(2, 5]
-p43
-asS'major'
-p44
-(lp45
-S'information'
-p46
-aS'business'
-p47
-aS'big data'
-p48
 aS'science'
-p49
-aS'data science'
-p50
+p34
+aS'scikit-learn'
+p35
 aS'machine learning'
-p51
-aS'law'
-p52
-aS'machine learning engineer'
-p53
-aS'history'
-p54
+p36
+aS'banking'
+p37
+aS'architecture'
+p38
+aS'emr'
+p39
+aS'theano'
+p40
+asS'working-year'
+p41
+(lp42
+V(0, 2]
+p43
+aV(2, 5]
+p44
+asS'major'
+p45
+(lp46
+VData Science
+p47
+aVComputer Science
+p48
+aVBusiness
+p49
 asS'education'
-p55
-(lp56
+p50
+(lp51
 VBachelor
-p57
+p52
 aVMaster
-p58
+p53
 asS'responsibility'
-p59
-(lp60
-S'information'
-p61
+p54
+(lp55
+S'pattern'
+p56
 aS'product'
-p62
-aS'pattern'
-p63
-aS'business problem'
-p64
+p57
+aS'information'
+p58
 as.

@@ -2,107 +2,103 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'data science'
 p4
-aS'management'
+aS'analytics'
 p5
-aS'python'
+aS'engineering'
 p6
-aS'spotfire'
+aS'statistical analysis'
 p7
-aS'data science'
+aS'sas'
 p8
-aS'data scientist'
+aS'visualization'
 p9
-aS'tableau'
+aS'statistics'
 p10
-aS'analysis'
+aS'tableau'
 p11
 aS'research'
 p12
-aS'analytics'
-p13
-aS'engineering'
-p14
-aS'r'
 aS'computer science'
-p15
-aS'sql'
-p16
+p13
 aS'advanced analytics'
-p17
+p14
 aS'mathematics'
-p18
-aS'statistical analysis'
-p19
-aS'data'
-p20
+p15
 aS'unstructured data'
-p21
+p16
 aS'operations research'
+p17
+aS'python'
+p18
+aS'data scientist'
+p19
+aS'spotfire'
+p20
+aS'management'
+p21
+aS'sql'
 p22
-aS'science'
+aS'data'
 p23
-asS'working-year'
+aS'science'
 p24
-(lp25
-V[0]
+aS'analysis'
+p25
+aS'r'
+aS'options'
 p26
-asS'major'
+asS'working-year'
 p27
 (lp28
-S'management science engineering'
+S'[0]'
 p29
-aS'management'
+asS'major'
 p30
-aS'business'
-p31
-aS'analytics'
+(lp31
+VStatistics
 p32
-aS'science'
+aVBusiness
 p33
-aS'data science'
+aVData Science
 p34
-aS'management science'
+aVEngineering
 p35
-aS'engineering'
+aVComputer Science
 p36
-aS'computer science'
+aVMathematics
 p37
-aS'statistic'
+aVOperations Research
 p38
-aS'advanced analytics'
+aVManagement Science and Engineering
 p39
-aS'mathematics'
-p40
-aS'computer science mathematics'
-p41
-aS'ee computer science'
-p42
-aS'operations research'
-p43
 asS'education'
+p40
+(lp41
+VBachelor
+p42
+aVMaster
+p43
+asS'responsibility'
 p44
 (lp45
-VMaster
-p46
-asS'responsibility'
-p47
-(lp48
 S'development'
-p49
+p46
 aS'business problem'
-p50
+p47
 aS'pattern'
-p51
+p48
 aS'discover pattern'
-p52
+p49
 aS'analysis'
-p53
+p50
+aS'develop ... model'
+p51
 aS'analytic'
-p54
+p52
 aS'report'
-p55
+p53
 aS'model'
-p56
+p54
 as.

@@ -4,124 +4,136 @@ p2
 (dp3
 S'energy'
 p4
-I1
+F0.017835232982948462
 sS'analytics'
 p5
-I1
+F0.0050273841733151827
 sS'business intelligence'
 p6
-I1
-sS'image processing'
+F0.011809498894649832
+sS'sap'
 p7
-I1
-sS'computer graphics'
+F0.023208901380224616
+sS'image processing'
 p8
-I1
-sS'java'
+F0.01917250297844874
+sS'computer graphics'
 p9
-I1
-sS'computer vision'
+F0.036609103375468674
+sS'java'
 p10
-I1
-sS'opencv'
+F0.0071633928766952799
+sS'computer vision'
 p11
-I1
-sS'user interface'
+F0.020432589960614006
+sS'opencv'
 p12
-I1
-sS'matlab'
+F0.027948952462310238
+sS'user interface'
 p13
-I1
-sS'tensorflow'
+F0.026201680395046265
+sS'matlab'
 p14
-I1
-sS'numpy'
+F0.0073780415470408364
+sS'tensorflow'
 p15
-I1
-sS'artificial intelligence'
+F0.024942085686279963
+sS'numpy'
 p16
-I1
-sS'python'
-p17
-I1
-sS'processing'
-p18
-I1
-sS'scipy'
-p19
-I1
-sS'manufacturing'
-p20
-I1
-sS'data'
-p21
-I1
-sS'information technology'
-p22
-I1
-sS'c'
-I1
-sS'machine learning'
-p23
-I1
-sS'healthcare'
-p24
-I1
-sS'management'
-p25
-I1
-sS'retail'
-p26
-I1
-ssS'working-year'
-p27
-(dp28
-V(2, 5]
-p29
-I1
-ssS'major'
-p30
-(dp31
-S'information'
-p32
-I1
-sS'management'
-p33
-I1
-sS'business'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'analytics'
-p36
-I1
-sS'information technology'
-p37
-I1
+F0.020736880353222478
 sS'artificial intelligence'
-p38
-I1
-ssS'education'
-p39
-(dp40
-S'Bachelor'
-p41
-I1
-ssS'responsibility'
-p42
-(dp43
-S'interface'
-p44
-I1
-sS'development'
-p45
-I1
+p17
+F0.015997783584247197
+sS'python'
+p18
+F0.0030130145245853522
 sS'processing'
+p19
+F0.0094398155298885539
+sS'data scientist'
+p20
+F0.0061235356367854233
+sS'scipy'
+p21
+F0.023360622528815246
+sS'manufacturing'
+p22
+F0.021576061110010456
+sS'data'
+p23
+F0.0006855577333784561
+sS'information technology'
+p24
+F0.018015312553536098
+sS'c'
+F0.0072290284618387124
+sS'analysis'
+p25
+F0.0019804550390412133
+sS'machine learning'
+p26
+F0.0037891197793875103
+sS'healthcare'
+p27
+F0.015590984643411352
+sS'oracle'
+p28
+F0.015173534673764866
+sS'management'
+p29
+F0.0052372766890153299
+sS'retail'
+p30
+F0.01991885251107816
+ssS'working-year'
+p31
+(dp32
+V(2, 5]
+p33
+F0.0071615284880412449
+ssS'major'
+p34
+(dp35
+VData Science
+p36
+F0.0059380866046535412
+sVInformation Science
+p37
+F0.014639625367364703
+sVComputer Science
+p38
+F0.0052332702101283105
+sVBusiness
+p39
+F0.0062526840877116423
+sVManagement Science and Engineering
+p40
+F0.0074540146732305912
+ssS'education'
+p41
+(dp42
+S'Bachelor'
+p43
+F0.0052680857090746051
+ssS'responsibility'
+p44
+(dp45
+S'development'
 p46
-I1
+F0.0069997745804284313
 sS'information'
 p47
-I1
+F0.016035898260455428
+sS'processing'
+p48
+F0.0094398155298885539
+sS'analysis'
+p49
+F0.0019804550390412133
+sS'design'
+p50
+F0.0084417272255403325
+sS'interface'
+p51
+F0.018251775714162304
 ss.

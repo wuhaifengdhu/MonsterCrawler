@@ -4,188 +4,175 @@ p2
 (dp3
 S'consulting'
 p4
-I1
-sS'communication'
+F0.005094734373418423
+sS'classification'
 p5
-I1
-sS'data science'
-p6
-I1
-sS'data acquisition'
-p7
-I1
-sS'analytics'
-p8
-I1
-sS'business intelligence'
-p9
-I1
-sS'problem solving'
-p10
-I1
-sS'research'
-p11
-I1
-sS'management'
-p12
-I1
-sS'hipaa'
-p13
-I1
-sS'strategy'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'intelligence'
-p16
-I1
-sS'policy'
-p17
-I1
-sS'data management'
-p18
-I1
-sS'customer service'
-p19
-I1
-sS'collaboration'
-p20
-I1
-sS'data security'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'data quality'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'data'
-p25
-I1
-sS'search'
-p26
-I1
-sS'data collection'
-p27
-I1
-sS'performance metrics'
-p28
-I1
-sS'budgeting'
-p29
-I1
-sS'dashboard'
-p30
-I1
-sS'healthcare'
-p31
-I1
-sS'organization'
-p32
-I1
-sS'security'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'management'
-p40
-I1
-sS'business'
-p41
-I1
+F0.0035573414898061768
 sS'communication'
-p42
-I1
+p6
+F0.001784858352999838
 sS'data science'
-p43
-I1
-sS'data science analytics'
-p44
-I1
-sS'computer science statistics'
-p45
-I1
-sS'general'
-p46
-I1
+p7
+F0.0013560777064944747
+sS'data acquisition'
+p8
+F0.0051916496667968196
 sS'analytics'
-p47
-I1
-sS'business management'
-p48
-I1
+p9
+F0.0039221531543789248
+sS'business intelligence'
+p10
+F0.002303318273702842
+sS'problem solving'
+p11
+F0.0027673189007364723
+sS'research'
+p12
+F0.00096184931416204986
+sS'statistics'
+p13
+F0.0021026219950453316
+sS'data'
+p14
+F0.006016986419787239
+sS'strategy'
+p15
+F0.012429627980369609
 sS'computer science'
-p49
-I1
-sS'statistic'
-p50
-I1
-sS'ee computer science'
-p51
-I1
+p16
+F0.0015850995075391439
+sS'intelligence'
+p17
+F0.0017700773504924227
+sS'policy'
+p18
+F0.0030774049921541706
+sS'data management'
+p19
+F0.0031002458902021088
+sS'architecture'
+p20
+F0.0024656308034776303
+sS'customer service'
+p21
+F0.0038652984696591224
+sS'collaboration'
+p22
+F0.0028835055468697337
+sS'data security'
+p23
+F0.0059419211307704476
+sS'data scientist'
+p24
+F0.0011943310768476644
+sS'search'
+p25
+F0.0069943399721528023
+sS'data quality'
+p26
+F0.003985161288823251
+sS'management'
+p27
+F0.0091932805014620853
+sS'hipaa'
+p28
+F0.019354455345781247
+sS'c'
+F0.0014099457992086779
+sS'data collection'
+p29
+F0.0081744070957412481
+sS'performance metrics'
+p30
+F0.0061681553593074942
+sS'science'
+p31
+F0.0015851947873598475
+sS'budgeting'
+p32
+F0.0058627735718374402
+sS'leadership'
+p33
+F0.0055887552013658016
+sS'dashboard'
+p34
+F0.0039531014307999379
+sS'healthcare'
+p35
+F0.0060817144155809787
+sS'organization'
+p36
+F0.0099390295337186078
+sS'security'
+p37
+F0.0073912654421187992
+ssS'working-year'
+p38
+(dp39
+V(5, 10]
+p40
+F0.001359238175396684
+ssS'major'
+p41
+(dp42
+VData Science
+p43
+F0.0011581611979763953
+sVStatistics
+p44
+F0.0020310087597385346
+sVComputer Science
+p45
+F0.0010206941897995465
+sVBusiness
+p46
+F0.0012195201208276372
+sVManagement Science and Engineering
+p47
+F0.0014538269881272743
 ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0010274845858736265
+sVMaster
+p51
+F0.00081993312877584764
+ssS'responsibility'
 p52
 (dp53
-VBachelor
-p54
-I1
-sVMaster
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
 S'development'
-p58
-I1
+p54
+F0.0054609289849565663
 sS'information'
-p59
-I1
+p55
+F0.0015638164594468935
 sS'mine data'
-p60
-I1
+p56
+F0.0074845051478364191
 sS'data collection'
-p61
-I1
+p57
+F0.0081744070957412481
 sS'provide leadership'
-p62
-I1
+p58
+F0.0058627735718374402
 sS'decision-making'
-p63
-I1
+p59
+F0.0041398370301974326
 sS'manage data'
-p64
-I1
+p60
+F0.0059626077657121126
 sS'understand'
-p65
-I1
+p61
+F0.0094776992714510726
 sS'recommendation'
-p66
-I1
-sS'report'
-p67
-I1
+p62
+F0.0029449850561649054
 sS'implement'
-p68
-I1
+p63
+F0.0023876698704843376
 sS'model'
-p69
-I1
+p64
+F0.00348908870778273
 ss.

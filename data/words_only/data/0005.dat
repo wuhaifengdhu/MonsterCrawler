@@ -2,130 +2,118 @@
 S'skills'
 p2
 (dp3
-S'training'
+S'communication'
 p4
-I1
-sS'management'
-p5
-I1
-sS'data scientist'
-p6
-I1
-sS'programming'
-p7
-I1
-sS'government'
-p8
-I1
-sS'communication'
-p9
-I1
+F0.0032112968744642117
 sS'data science'
-p10
-I1
-sS'recruiting'
-p11
-I1
-sS'research'
-p12
-I1
-sS'medicine'
-p13
-I1
-sS'leadership'
-p14
-I1
+p5
+F0.0024398396058024326
 sS'process improvement'
-p15
-I1
-sS'biomedical informatics'
-p16
-I1
-sS'healthcare'
-p17
-I1
-sS'policy'
-p18
-I1
-sS'organization'
-p19
-I1
+p6
+F0.0065431290962058132
 sS'education'
-p20
-I1
+p7
+F0.004256849391101966
+sS'management'
+p8
+F0.0055134819505049826
+sS'recruiting'
+p9
+F0.0069957368166681357
+sS'research'
+p10
+F0.022497128684792287
+sS'medicine'
+p11
+F0.0098805284072650615
+sS'government'
+p12
+F0.0052882748795719378
 sS'public health'
-p21
-I1
+p13
+F0.009807644576023674
+sS'data scientist'
+p14
+F0.0021488269070261221
+sS'policy'
+p15
+F0.011073664211118659
+sS'leadership'
+p16
+F0.013406966500639529
+sS'biomedical informatics'
+p17
+F0.01264359353417765
+sS'informatics'
+p18
+F0.0089148529476340971
+sS'data'
+p19
+F0.00024057096931941768
 sS'project management'
+p20
+F0.003856903292747558
+sS'training'
+p21
+F0.0047734173448728788
+sS'science'
 p22
-I1
-ssS'working-year'
+F0.0014260322275742238
+sS'programming'
 p23
-(dp24
-V(5, 10]
+F0.0022359335392188153
+sS'healthcare'
+p24
+F0.027355378735397201
+sS'organization'
 p25
-I1
-ssS'major'
+F0.0071528756157471854
+ssS'working-year'
 p26
 (dp27
-S'information'
+V(5, 10]
 p28
-I1
-sS'management'
+F0.0024455258855514378
+ssS'major'
 p29
-I1
-sS'communication'
-p30
-I1
-sS'public health'
+(dp30
+VBiological Engineering
 p31
-I1
-sS'general'
+F0.005335082719019656
+sVData Science
 p32
-I1
-sS'business management'
+F0.0020837504718155429
+sVInformation Science
 p33
-I1
-sS'biomedical informatics'
+F0.0051372316197851797
+sVBusiness
 p34
-I1
-sS'biological sciences'
+F0.0021941467488318747
+sVManagement Science and Engineering
 p35
-I1
-sS'medicine'
-p36
-I1
-sS'medical informatics'
-p37
-I1
-sS'data science'
-p38
-I1
-sS'project management'
-p39
-I1
+F0.0026157090029794976
 ssS'education'
-p40
-(dp41
+p36
+(dp37
 VBachelor
-p42
-I1
+p38
+F0.0018486385956793239
 ssS'responsibility'
-p43
-(dp44
+p39
+(dp40
 S'development'
-p45
-I1
+p41
+F0.0024563103497243785
 sS'information'
-p46
-I1
+p42
+F0.0028136008104044513
 sS'model'
-p47
-I1
-sS'develop model'
-p48
-I1
+p43
+F0.0031387643851960257
 sS'improvement'
-p49
-I1
+p44
+F0.005448694718740584
+sS'develop ... model'
+p45
+F0.0062878560388968307
 ss.

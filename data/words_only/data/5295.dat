@@ -2,121 +2,120 @@
 S'skills'
 p2
 (dp3
-S'economics'
+S'a'
+F0.009444656028353671
+sS'economics'
 p4
-I1
+F0.012103494062421522
 sS'rdbms'
 p5
-I1
+F0.022594961849967989
 sS'government'
 p6
-I1
+F0.013167270280954371
 sS'olap'
 p7
-I1
+F0.026013553017702529
 sS'intelligence'
 p8
-I1
+F0.031718355755288467
 sS'decision support'
 p9
-I1
+F0.022432030090771569
 sS'data scientist'
 p10
-I1
+F0.0053503619452721128
 sS'engineering'
 p11
-I1
+F0.018558405713237192
 sS'analysis'
 p12
-I1
+F0.0017303975846168181
 sS'information technology'
 p13
-I1
+F0.015740651877584572
 sS'data integration'
 p14
-I1
+F0.019548793739553448
 sS'business intelligence'
 p15
-I1
+F0.010318400549365763
 sS'data warehousing'
 p16
-I1
+F0.015361061927698453
 sS'computer science'
 p17
-I1
+F0.0071009255716526299
 sS'modeling'
 p18
-I1
-sS'education'
+F0.004101745904149255
+sS'mathematics'
 p19
-I1
-sS'data'
+F0.0092317842529081109
+sS'education'
 p20
-I1
-sS'operations research'
+F0.010599124999056915
+sS'data'
 p21
-I1
-ssS'working-year'
-p22
-(dp23
-V(0, 2]
-p24
-I1
-sV(2, 5]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'computer science operations research'
-p28
-I1
-sS'information'
-p29
-I1
-sS'business'
-p30
-I1
-sS'economics'
-p31
-I1
-sS'engineering'
-p32
-I1
-sS'design'
-p33
-I1
+F0.00059899741350743899
 sS'operations research'
+p22
+F0.014550194522989444
+sS'science'
+p23
+F0.0035506762030004671
+ssS'working-year'
+p24
+(dp25
+V(0, 2]
+p26
+F0.011502930121667443
+sV(2, 5]
+p27
+F0.0062572950930865432
+ssS'major'
+p28
+(dp29
+VBusiness
+p30
+F0.0054632037736066378
+sVEconomics
+p31
+F0.0082867249874972772
+sVEngineering
+p32
+F0.011375651145286504
+sVInformation Science
+p33
+F0.012791187820980272
+sVComputer Science
 p34
-I1
-sS'mathematics computer science'
+F0.0045725037694555448
+sVMathematics
 p35
-I1
-sS'information technology'
+F0.0086579420685982435
+sVOperations Research
 p36
-I1
-sS'computer science'
-p37
-I1
+F0.016256206556500778
 ssS'education'
-p38
-(dp39
+p37
+(dp38
 VBachelor
-p40
-I1
+p39
+F0.0046029233720702367
 ssS'responsibility'
-p41
-(dp42
+p40
+(dp41
 S'modeling'
-p43
-I1
+p42
+F0.004101745904149255
 sS'design'
-p44
-I1
+p43
+F0.0073758525758508978
 sS'analysis'
-p45
-I1
+p44
+F0.0017303975846168181
 sS'information'
-p46
-I1
+p45
+F0.014011163631610047
 ss.

@@ -18,7 +18,7 @@ aS'research'
 p10
 aS'visualization'
 p11
-aS'management'
+aS'statistics'
 p12
 aS'strategy'
 p13
@@ -56,76 +56,60 @@ aS'security clearance'
 p29
 aS'machine learning'
 p30
-aS'security'
-p31
-aS'data analytics'
-p32
-aS'predictive analytics'
-p33
-asS'working-year'
-p34
-(lp35
-V(10, 15]
-p36
-asS'major'
-p37
-(lp38
-S'science'
-p39
 aS'management'
-p40
-aS'business'
-p41
-aS'analytics'
-p42
-aS'data mining machine learning'
-p43
-aS'data science'
-p44
-aS'statistic'
-p45
-aS'computing'
-p46
-aS'machine learning data mining'
-p47
-aS'analytics data science'
-p48
-aS'engineering'
-p49
-aS'management technology'
-p50
-aS'operations research'
-p51
-aS'data mining'
-p52
-aS'advanced analytics'
-p53
-aS'machine learning'
-p54
+p31
+aS'security'
+p32
 aS'data analytics'
-p55
+p33
 aS'predictive analytics'
-p56
+p34
+asS'working-year'
+p35
+(lp36
+V(10, 15]
+p37
+asS'major'
+p38
+(lp39
+VStatistics
+p40
+aVBusiness
+p41
+aVData Science
+p42
+aVEngineering
+p43
+aVComputer Science
+p44
+aVOperations Research
+p45
+aVManagement Science and Engineering
+p46
 asS'education'
-p57
-(lp58
+p47
+(lp48
 VBachelor
-p59
+p49
+aVMaster
+p50
 asS'responsibility'
-p60
-(lp61
+p51
+(lp52
 S'development'
-p62
+p53
+aS'information'
+p54
 aS'product'
-p63
+p55
 aS'business problem'
-p64
+p56
 aS'analysis'
-p65
-aS'solve problem'
-p66
+p57
 aS'data mining'
-p67
+p58
 aS'model'
-p68
+p59
+aS'decision making'
+p60
 as.

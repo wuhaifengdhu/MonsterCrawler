@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'aws'
+S'a'
+aS'aws'
 p4
 aS'scala'
 p5
@@ -35,31 +36,25 @@ p18
 asS'working-year'
 p19
 (lp20
-V[0]
+S'[0]'
 p21
 asS'major'
 p22
 (lp23
-S'science'
+VData Science
 p24
-aS'analytics'
+aVComputer Science
 p25
-aS'data science'
-p26
-aS'statistic'
-p27
-aS'machine learning'
-p28
 asS'education'
+p26
+(lp27
+VBachelor
+p28
+asS'responsibility'
 p29
 (lp30
-S'Bachelor'
-p31
-asS'responsibility'
-p32
-(lp33
 S'report'
-p34
+p31
 aS'data infrastructure'
-p35
+p32
 as.

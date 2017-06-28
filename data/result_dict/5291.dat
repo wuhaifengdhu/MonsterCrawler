@@ -4,23 +4,23 @@ p2
 (lp3
 S'classification'
 p4
-aS'r programming'
-p5
 aS'data science'
-p6
+p5
 aS'data acquisition'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'engineering'
-p9
+p8
 aS'statistical analysis'
+p9
+aS'sas'
 p10
 aS'regression'
 p11
-aS'visualization'
+aS'clustering'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'open source'
 p14
@@ -40,115 +40,111 @@ aS'advanced analytics'
 p21
 aS'mathematics'
 p22
-aS'operations research'
-p23
-aS'text mining'
-p24
-aS'customer satisfaction'
-p25
-aS'data analysis'
-p26
-aS'python'
-p27
 aS'collaboration'
+p23
+aS'operations research'
+p24
+aS'text mining'
+p25
+aS'customer satisfaction'
+p26
+aS'data analysis'
+p27
+aS'python'
 p28
-aS'data scientist'
+aS'jmp'
 p29
-aS'modeling'
+aS'data scientist'
 p30
-aS'data'
+aS'management'
 p31
-aS'customer experience'
+aS'sql'
 p32
-aS'java'
+aS'modeling'
 p33
-aS'science'
+aS'data'
 p34
-aS'applied mathematics'
+aS'customer experience'
 p35
-aS'programming'
+aS'java'
 p36
-aS'analysis'
+aS'science'
 p37
-aS'machine learning'
+aS'applied mathematics'
 p38
+aS'economics'
+p39
+aS'programming'
+p40
+aS'analysis'
+p41
+aS'machine learning'
+p42
 aS'r'
 aS'dashboard'
-p39
-aS'scripting'
-p40
-asS'working-year'
-p41
-(lp42
-V(5, 10]
 p43
-asS'major'
+aS'powerpoint'
 p44
-(lp45
-S'mathematics'
+aS'scripting'
+p45
+asS'working-year'
 p46
-aS'management'
-p47
-aS'business'
+(lp47
+V(5, 10]
 p48
-aS'science'
+asS'major'
 p49
-aS'applied mathematics'
-p50
-aS'statistic'
+(lp50
+VStatistics
 p51
-aS'engineering'
+aVBusiness
 p52
-aS'machine learning'
+aVData Science
 p53
-aS'analytics'
+aVEconomics
 p54
-aS'statistics applied mathematics'
+aVEngineering
 p55
-aS'design'
+aVComputer Science
 p56
-aS'computer science'
+aVMathematics
 p57
-aS'applied math'
+aVOperations Research
 p58
-aS'advanced analytics'
+aVManagement Science and Engineering
 p59
-aS'computer science engineering'
-p60
-aS'data science'
-p61
-aS'operations research'
-p62
 asS'education'
+p60
+(lp61
+VBachelor
+p62
+aVMaster
 p63
-(lp64
-S'Bachelor'
-p65
 asS'responsibility'
-p66
-(lp67
+p64
+(lp65
 S'development'
-p68
+p66
 aS'product'
-p69
+p67
 aS'data analysis'
-p70
+p68
 aS'business problem'
-p71
-aVinsight
-p72
+p69
+aS'insight'
+p70
 aS'communicate'
-p73
+p71
 aS'analysis'
-p74
+p72
 aS'improvement'
-p75
+p73
 aS'design'
-p76
+p74
 aS'modeling'
-p77
+p75
 aS'report'
-p78
+p76
 aS'understand'
-p79
+p77
 as.

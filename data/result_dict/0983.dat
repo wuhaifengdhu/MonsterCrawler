@@ -20,9 +20,9 @@ aS'analytics'
 p11
 aS'engineering'
 p12
-aS'statistical analysis'
-p13
 aS'data mining'
+p13
+aS'sas'
 p14
 aS'strategy'
 p15
@@ -30,7 +30,7 @@ aS'regression'
 p16
 aS'validation'
 p17
-aS'management'
+aS'statistics'
 p18
 aS'team building'
 p19
@@ -56,105 +56,101 @@ aS'processing'
 p29
 aS'data quality'
 p30
-aS'modeling'
+aS'management'
 p31
-aS'data'
+aS'modeling'
 p32
-aS'econometrics'
+aS'data'
 p33
-aS'data collection'
+aS'econometrics'
 p34
-aS'science'
+aS'data collection'
 p35
-aS'documentation'
+aS'science'
 p36
-aS'analysis'
+aS'documentation'
 p37
-aS'spss'
+aS'analysis'
 p38
-aS'banking'
+aS'spss'
 p39
+aS'banking'
+p40
 aS'r'
 aS'logistic regression'
-p40
-aS'chemistry'
 p41
-asS'working-year'
-p42
-(lp43
-V[0]
-p44
-asS'major'
-p45
-(lp46
-S'information'
-p47
-aS'mathematics physics'
-p48
-aS'management'
-p49
-aS'business'
-p50
-aS'marketing'
-p51
-aS'data science'
-p52
-aS'statistic'
-p53
-aS'communication'
-p54
-aS'biology'
-p55
-aS'analytics'
-p56
-aS'engineering'
-p57
-aS'data mining'
-p58
-aS'mathematics'
-p59
 aS'chemistry'
-p60
-aS'econometrics'
-p61
-aVphysic
-p62
-aS'science'
-p63
+p42
+aS'physics'
+p43
+asS'working-year'
+p44
+(lp45
+S'[0]'
+p46
+asS'major'
+p47
+(lp48
+VStatistics
+p49
+aVBusiness
+p50
+aVData Science
+p51
+aVEconomics
+p52
+aVChemical Engineering
+p53
+aVEngineering
+p54
+aVComputer Science
+p55
+aVBiological Engineering
+p56
+aVMathematics
+p57
+aVPhysics
+p58
+aVManagement Science and Engineering
+p59
 asS'education'
-p64
-(lp65
+p60
+(lp61
 VBachelor
-p66
+p62
 aVMaster
-p67
+p63
+aVDoctor
+p64
 asS'responsibility'
-p68
-(lp69
+p65
+(lp66
 S'development'
-p70
+p67
 aS'information'
-p71
+p68
 aS'forecasting'
-p72
-aS'data collection'
-p73
+p69
 aS'processing'
-p74
+p70
 aS'pattern'
-p75
-aVinsight
-p76
+p71
+aS'insight'
+p72
 aS'product'
-p77
+p73
 aS'analysis'
-p78
+p74
+aS'develop ... model'
+p75
+aS'data collection'
+p76
 aS'data mining'
-p79
+p77
 aS'modeling'
-p80
+p78
 aS'model'
-p81
+p79
 aS'documentation'
-p82
+p80
 as.

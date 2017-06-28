@@ -8,151 +8,146 @@ aS'sql'
 p5
 aS'julia'
 p6
-aS'analytics'
-p7
-aS'unix'
-p8
-aS'data governance'
-p9
-aS'hive'
-p10
-aS'education'
-p11
-aS'management'
-p12
-aS'java'
-p13
-aS'scala'
-p14
-aS'storage'
-p15
 aS'integration'
+p7
+aS'analytics'
+p8
+aS'unix'
+p9
+aS'data governance'
+p10
+aS'hive'
+p11
+aS'go'
+p12
+aS'sas'
+p13
+aS'education'
+p14
+aS'statistics'
+p15
+aS'java'
 p16
-aS'governance'
+aS'scala'
 p17
-aS'strategy'
+aS'storage'
 p18
-aS'access'
+aS'hadoop'
 p19
-aS'computer science'
+aS'governance'
 p20
-aS'natural language processing'
+aS'strategy'
 p21
-aS'data management'
+aS'access'
 p22
-aS'processing'
+aS'computer science'
 p23
-aS'pyspark'
+aS'natural language processing'
 p24
-aS'python'
+aS'data management'
 p25
-aS'collaboration'
+aS'processing'
 p26
-aS'innovation'
+aS'pyspark'
 p27
-aS'data scientist'
+aS'python'
 p28
-aS'data quality'
+aS'collaboration'
 p29
-aS'data wrangling'
+aS'innovation'
 p30
-aS'modeling'
+aS'data scientist'
 p31
-aS'spark'
+aS'data quality'
 p32
-aS'data'
+aS'management'
 p33
-aS'information technology'
+aS'data wrangling'
 p34
-aS'training'
+aS'modeling'
 p35
-aS'data collection'
+aS'spark'
 p36
-aS'lisp'
+aS'data'
 p37
-aS'science'
+aS'information technology'
 p38
-aS'economics'
+aS'a'
+aS'training'
 p39
-aS'programming'
+aS'data collection'
 p40
-aS'analysis'
+aS'lisp'
 p41
+aS'science'
+p42
+aS'economics'
+p43
+aS'programming'
+p44
+aS'analysis'
+p45
 aS'r'
 aS'architecture'
-p42
-aS'organization'
-p43
-aS'data integration'
-p44
-asS'working-year'
-p45
-(lp46
-V(2, 5]
+p46
+aS'databases'
 p47
-asS'major'
+aS'organization'
 p48
-(lp49
-S'information'
+aS'data integration'
+p49
+asS'working-year'
 p50
-aS'management'
-p51
-aS'business'
+(lp51
+V(2, 5]
 p52
-aS'statistics economics'
+asS'major'
 p53
-aS'science'
-p54
-aS'economics'
+(lp54
+VStatistics
 p55
-aS'statistic'
+aVBusiness
 p56
-aS'computer science statistics'
+aVData Science
 p57
-aS'analytics'
+aVEconomics
 p58
-aS'design'
+aVInformation Science
 p59
-aS'computer science'
+aVComputer Science
 p60
-aS'natural language processing'
+aVManagement Science and Engineering
 p61
-aS'communication'
-p62
-aS'ee computer science'
-p63
-aS'information technology'
-p64
 asS'education'
-p65
-(lp66
+p62
+(lp63
 VBachelor
-p67
+p64
 aVMaster
-p68
+p65
 asS'responsibility'
-p69
-(lp70
+p66
+(lp67
 S'information'
-p71
+p68
 aS'processing'
-p72
-aVinsight
-p73
+p69
+aS'insight'
+p70
 aS'analysis'
-p74
+p71
 aS'data collection'
-p75
+p72
 aS'design'
-p76
+p73
 aS'data wrangling'
-p77
+p74
 aS'report'
-p78
+p75
 aS'modeling'
-p79
+p76
 aS'model'
-p80
+p77
 aS'data gathering'
-p81
+p78
 as.

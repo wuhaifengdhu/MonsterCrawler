@@ -4,209 +4,196 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
-sS'model validation'
+F0.010760473415891078
+sS'economics'
 p5
-I1
-sS'communication'
+F0.0043972327052467178
+sS'model validation'
 p6
-I1
-sS'data mining'
-p7
-I1
-sS'quantitative analysis'
-p8
-I1
-sS'econometrics'
-p9
-I1
-sS'banking'
-p10
-I1
-sS'industrial engineering'
-p11
-I1
-sS'recruiting'
-p12
-I1
-sS'strategy'
-p13
-I1
-sS'teamwork'
-p14
-I1
-sS'innovation'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'operations research'
-p17
-I1
-sS'financial services'
-p18
-I1
-sS'collaboration'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'business process'
-p21
-I1
-sS'statistical modeling'
-p22
-I1
-sS'modeling'
-p23
-I1
-sS'credit risk'
-p24
-I1
-sS'retail'
-p25
-I1
-sS'risk modeling'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'credit'
-p28
-I1
-sS'financial engineering'
-p29
-I1
-sS'validation'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(5, 10]
-p33
-I1
-sV(2, 5]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'data mining'
-p37
-I1
-sS'information'
-p38
-I1
-sS'business'
-p39
-I1
-sS'mathematics economics'
-p40
-I1
+F0.0098454931292163792
 sS'communication'
-p41
-I1
-sS'industrial engineering'
-p42
-I1
-sS'industrial engineering operations research'
-p43
-I1
-sS'engineering physics'
-p44
-I1
-sS'operations research financial engineering'
-p45
-I1
-sS'design'
-p46
-I1
-sS'financial engineering'
-p47
-I1
-sS'statistic'
-p48
-I1
-sVphysic
-p49
-I1
-sS'mathematics'
-p50
-I1
-sS'law'
-p51
-I1
-sS'econometrics'
-p52
-I1
-sS'operations research'
-p53
-I1
-sS'history'
-p54
-I1
-ssS'education'
-p55
-(dp56
-VMaster
-p57
-I1
-sVDoctor
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
-sS'information'
-p62
-I1
-sS'forecasting'
-p63
-I1
-sS'understand'
-p64
-I1
-sS'presentation'
-p65
-I1
-sS'communicate'
-p66
-I1
-sS'product'
-p67
-I1
-sS'analysis'
-p68
-I1
-sS'statistical model'
-p69
-I1
-sS'design'
-p70
-I1
+p7
+F0.0058097958132508499
 sS'data mining'
-p71
-I1
-sS'report'
-p72
-I1
-sS'modeling'
-p73
-I1
-sS'implement'
-p74
-I1
+p8
+F0.0038935400526277754
 sS'quantitative analysis'
-p75
-I1
+p9
+F0.013996338869799747
+sS'econometrics'
+p10
+F0.011255994714643086
+sS'statistics'
+p11
+F0.0051330982833170894
+sS'banking'
+p12
+F0.0063014677404740465
+sS'industrial engineering'
+p13
+F0.0084667576171085016
+sS'recruiting'
+p14
+F0.012656507341715197
+sS'strategy'
+p15
+F0.0028899292316088713
+sS'teamwork'
+p16
+F0.0052557984372513748
+sS'innovation'
+p17
+F0.0035519718754765573
+sS'mathematics'
+p18
+F0.0067078652553240583
+sS'operations research'
+p19
+F0.0052861257166090091
+sS'financial services'
+p20
+F0.0077577443337618918
+sS'collaboration'
+p21
+F0.004692971412978815
+sS'data scientist'
+p22
+F0.0019438012204841804
+sS'business process'
+p23
+F0.0056060237238894613
+sS'statistical modeling'
+p24
+F0.0032869092113585259
+sS'modeling'
+p25
+F0.001490175576186335
+sS'credit risk'
+p26
+F0.0082239134898271973
+sS'a'
+F0.0034312695295670216
+sS'retail'
+p27
+F0.012645730218042283
+sS'risk modeling'
+p28
+F0.010301383644947022
+sS'analysis'
+p29
+F0.00062865820505344952
+sS'credit'
+p30
+F0.0058303391270415538
+sS'financial engineering'
+p31
+F0.010080048745106016
+sS'validation'
+p32
+F0.023207062789541995
+sS'physics'
+p33
+F0.0044643750044892905
+ssS'working-year'
+p34
+(dp35
+V(5, 10]
+p36
+F0.0022121913056456126
+sV(2, 5]
+p37
+F0.0022732925292314413
+ssS'major'
+p38
+(dp39
+VStatistics
+p40
+F0.0033055133392441839
+sVBusiness
+p41
+F0.0019847969672919527
+sVIndustrial Engineering
+p42
+F0.0073577469029250308
+sVEconomics
+p43
+F0.0030105899954577264
+sVEngineering
+p44
+F0.0041328053702141794
+sVComputer Science
+p45
+F0.0016612032043159593
+sVMathematics
+p46
+F0.0031454541827200953
+sVPhysics
+p47
+F0.0048141873416515423
+sVOperations Research
+p48
+F0.0059059245838296408
+ssS'education'
+p49
+(dp50
+VMaster
+p51
+F0.001334459972888398
+sVDoctor
+p52
+F0.001998498663810033
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+F0.0022219467934204012
+sS'information'
+p56
+F0.0076354414652994203
+sS'forecasting'
+p57
+F0.010760473415891078
+sS'understand'
+p58
+F0.011568879707032709
+sS'presentation'
+p59
+F0.0045199162244212972
+sS'communicate'
+p60
+F0.003681179600516683
+sS'product'
+p61
+F0.0049357537274045751
+sS'analysis'
+p62
+F0.00062865820505344952
+sS'develop ... model'
+p63
+F0.0056879138113323634
+sS'design'
+p64
+F0.0026796675413183076
+sS'data mining'
+p65
+F0.0038935400526277754
+sS'report'
+p66
+F0.0038078466425182185
+sS'modeling'
+p67
+F0.001490175576186335
+sS'implement'
+p68
+F0.003885987477283684
+sS'quantitative analysis'
+p69
+F0.013996338869799747
 sS'model'
-p76
-I1
+p70
+F0.025553573535990401
+sS'test ... model'
+p71
+F0.0085017080905428078
 ss.

@@ -4,229 +4,208 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0025330709745773703
 sS'data science'
 p5
-I1
+F0.0019245454810569588
 sS'analytics'
 p6
-I1
+F0.0013915799391736427
 sS'engineering'
 p7
-I1
+F0.013718373503224931
 sS'quality control'
 p8
-I1
+F0.007699059361223573
 sS'process improvement'
 p9
-I1
+F0.0051612202310871453
 sS'communication skills'
 p10
-I1
+F0.005893001363296198
 sS'go'
 p11
-I1
+F0.0052462611120442041
 sS'experimentation'
 p12
-I1
+F0.0057617369268350063
 sS'genomics'
 p13
-I1
+F0.0067958215477362145
 sS'technical leadership'
 p14
-I1
-sS'management'
+F0.0071979195479876801
+sS'statistics'
 p15
-I1
+F0.0014920205676841674
 sS'dna'
 p16
-I1
+F0.0075415565907568467
 sS'team building'
 p17
-I1
+F0.006407729209707903
 sS'recruiting'
 p18
-I1
+F0.011036474401975652
 sS'research'
 p19
-I1
+F0.0013650565466587813
 sS'computer science'
 p20
-I1
-sS'computational biology'
+F0.0022495732210995531
+sS'innovation'
 p21
-I1
-sS'processing'
+F0.0030973194754155579
+sS'biology'
 p22
-I1
-sS'data scientist'
-p23
-I1
-sS'automation'
-p24
-I1
-sS'leadership'
-p25
-I1
-sS'bioinformatics'
-p26
-I1
-sS'genetics'
-p27
-I1
-sS'data'
-p28
-I1
-sS'analytical skills'
-p29
-I1
-sS'c'
-I1
-sS'data collection'
-p30
-I1
-sS'software engineering'
-p31
-I1
-sS'science'
-p32
-I1
-sS'analysis'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'data engineering'
-p35
-I1
-sS'product management'
-p36
-I1
-sS'organization'
-p37
-I1
-sS'community outreach'
-p38
-I1
-sS'statistical analysis'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(5, 10]
-p42
-I1
-sV(2, 5]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'management'
-p46
-I1
-sS'genetics'
-p47
-I1
-sS'software engineering'
-p48
-I1
+F0.0054357001029271962
 sS'computational biology'
-p49
-I1
-sS'computational biology bioinformatics'
-p50
-I1
-sS'science'
-p51
-I1
-sS'data science'
-p52
-I1
-sS'bioinformatics'
-p53
-I1
-sS'communication'
-p54
-I1
-sS'general'
-p55
-I1
-sS'computer science computational biology'
-p56
-I1
-sS'analytics'
-p57
-I1
-sS'engineering'
-p58
-I1
-sS'design'
-p59
-I1
-sS'computer science'
-p60
-I1
-sS'automation'
-p61
-I1
-sS'statistic'
-p62
-I1
-sS'computational biolog'
-p63
-I1
-sS'machine learning'
-p64
-I1
-sS'history'
-p65
-I1
-ssS'education'
-p66
-(dp67
-VDoctor
-p68
-I1
-ssS'responsibility'
-p69
-(dp70
-S'provide mentorship'
-p71
-I1
+p23
+F0.0066653437048533066
 sS'processing'
-p72
-I1
-sVinsight
-p73
-I1
-sS'communicate'
-p74
-I1
-sS'product'
-p75
-I1
-sS'analysis'
-p76
-I1
-sS'improvement'
-p77
-I1
+p24
+F0.002612940938673152
+sS'data scientist'
+p25
+F0.0016949946642622054
+sS'automation'
+p26
+F0.005336077320742095
+sS'leadership'
+p27
+F0.0026438537939261152
+sS'bioinformatics'
+p28
+F0.0052148116644047289
+sS'genetics'
+p29
+F0.006214728168190237
+sS'data'
+p30
+F0.0028464357089873502
+sS'a'
+F0.0029920670297824427
+sS'analytical skills'
+p31
+F0.006694523396257859
 sS'data collection'
-p78
-I1
+p32
+F0.01160111855027598
+sS'organization'
+p33
+F0.0028210941428506902
+sS'software engineering'
+p34
+F0.0041633007819424188
+sS'science'
+p35
+F0.0089988337688843827
+sS'analysis'
+p36
+F0.0016445698644198235
+sS'machine learning'
+p37
+F0.001048828354934463
+sS'data engineering'
+p38
+F0.006407729209707903
+sS'optimization'
+p39
+F0.0032000141718216677
+sS'healthcare'
+p40
+F0.0043155845492962629
+sS'product management'
+p41
+F0.0049967968304424661
+sS'management'
+p42
+F0.0014496781875194436
+sS'community outreach'
+p43
+F0.0076807735974652189
+sS'statistical analysis'
+p44
+F0.0041195202454601728
+ssS'working-year'
+p45
+(dp46
+V(5, 10]
+p47
+F0.0019290308185229742
+sV(2, 5]
+p48
+F0.0019823110854898171
+ssS'major'
+p49
+(dp50
+VStatistics
+p51
+F0.0028824076318209285
+sVData Science
+p52
+F0.0016436623721681003
+sVEngineering
+p53
+F0.013718373503224931
+sVComputer Science
+p54
+F0.0014485691941635165
+sVBiological Engineering
+p55
+F0.0042083132487627049
+sVManagement Science and Engineering
+p56
+F0.0020632712615502279
+ssS'education'
+p57
+(dp58
+VDoctor
+p59
+F0.001742690834842349
+ssS'responsibility'
+p60
+(dp61
+S'provide mentorship'
+p62
+F0.011160364686161396
+sS'processing'
+p63
+F0.002612940938673152
+sS'insight'
+p64
+F0.0029358293696151762
+sS'communicate'
+p65
+F0.0032099886116505475
+sS'product'
+p66
+F0.0043039772502967899
+sS'analysis'
+p67
+F0.0016445698644198235
+sS'improvement'
+p68
+F0.0042979303941425729
+sS'drive ... decision'
+p69
+F0.0064577323819665824
+sS'data collection'
+p70
+F0.01160111855027598
 sS'design'
-p79
-I1
+p71
+F0.011683350480147821
 sS'understand'
-p80
-I1
+p72
+F0.0067253754030216816
 sS'model'
-p81
-I1
+p73
+F0.0049517146940852505
 sS'evaluation'
-p82
-I1
+p74
+F0.005413509094122684
+sS'optimization'
+p75
+F0.0032000141718216677
 ss.

@@ -2,189 +2,150 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'renewable energy'
 p4
-aS'renewable energy'
-p5
 aS'data science'
-p6
+p5
 aS'data acquisition'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'engineering'
-p9
+p8
 aS'defense'
-p10
+p9
 aS'analysis'
-p11
+p10
 aS'intelligence'
-p12
+p11
 aS'laboratory'
-p13
+p12
 aS'strategy'
-p14
+p13
 aS'visualization'
-p15
+p14
 aS'management'
-p16
+p15
 aS'big data'
-p17
+p16
 aS'storage'
-p18
+p17
 aS'recruiting'
-p19
+p18
 aS'agent-based modeling'
-p20
+p19
 aS'research'
-p21
+p20
 aS'computer science'
-p22
+p21
 aS'communication'
-p23
+p22
 aS'policy'
-p24
+p23
 aS'energy'
-p25
+p24
 aS'artificial intelligence'
-p26
+p25
 aS'simulation'
-p27
+p26
 aS'processing'
-p28
+p27
 aS'transportation'
-p29
+p28
 aS'government'
-p30
+p29
 aS'automotive'
-p31
+p30
 aS'collaboration'
-p32
+p31
 aS'natural language processing'
-p33
+p32
 aS'data scientist'
-p34
+p33
 aS'sustainability'
-p35
+p34
 aS'leadership'
-p36
+p35
 aS'data analysis'
-p37
+p36
 aS'modeling'
-p38
+p37
 aS'manufacturing'
-p39
+p38
 aS'data'
-p40
+p39
+aS'a'
 aS'data collection'
-p41
+p40
 aS'national security'
-p42
+p41
 aS'science'
-p43
+p42
 aS'dod'
-p44
+p43
 aS'machine learning'
-p45
+p44
 aS'r'
 aS'organization'
-p46
+p45
 aS'security'
+p46
+aS'chemistry'
 p47
-aS'chemistry'
+aS'predictive analytics'
 p48
-aS'predictive analytics'
-p49
 asS'working-year'
-p50
-(lp51
+p49
+(lp50
 V(5, 10]
-p52
-aV(2, 5]
-p53
+p51
 aV(10, 15]
-p54
+p52
 asS'major'
+p53
+(lp54
+VData Science
 p55
-(lp56
-S'ee'
+aVEngineering
+p56
+aVComputer Science
 p57
-aS'communication'
+aVChemical Engineering
 p58
-aS'data science'
+aVManagement Science and Engineering
 p59
-aS'analytics'
-p60
-aS'engineering'
-p61
-aS'information'
-p62
-aS'management'
-p63
-aS'big data'
-p64
-aS'electrical'
-p65
-aS'computer science'
-p66
-aS'natural language processing'
-p67
-aS'artificial intelligence'
-p68
-aS'transportation'
-p69
-aS'phd'
-p70
-aS'artificial intelligence machine learning'
-p71
-aS'sustainability'
-p72
-aVphysic
-p73
-aS'science'
-p74
-aS'data science analytics'
-p75
-aS'machine learning'
-p76
-aS'mechanical'
-p77
-aS'chemistry'
-p78
-aS'predictive analytics'
-p79
 asS'education'
-p80
-(lp81
+p60
+(lp61
 VBachelor
-p82
+p62
 aVMaster
-p83
+p63
 aVDoctor
-p84
+p64
 asS'responsibility'
-p85
-(lp86
-Vinsight
-p87
-aS'development'
-p88
-aS'data collection'
-p89
+p65
+(lp66
+S'insight'
+p67
 aS'information'
-p90
+p68
+aS'data collection'
+p69
 aS'processing'
-p91
+p70
 aS'analysis'
-p92
+p71
 aS'simulation'
-p93
+p72
 aS'data analysis'
-p94
+p73
+aS'development'
+p74
 aS'modeling'
-p95
+p75
 aS'model'
-p96
+p76
 aS'evaluation'
-p97
+p77
 as.

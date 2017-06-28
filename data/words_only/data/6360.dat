@@ -2,216 +2,195 @@
 S'skills'
 p2
 (dp3
-S'neural networks'
+S'forecasting'
 p4
-I1
-sS'healthcare industry'
+F0.0083301960392906781
+sS'neural networks'
 p5
-I1
-sS'teamwork'
+F0.0092454633486698558
+sS'healthcare industry'
 p6
-I1
-sS'communication'
+F0.013873211658803369
+sS'teamwork'
 p7
-I1
-sS'data science'
-p8
-I1
-sS'testing'
-p9
-I1
-sS'analytics'
-p10
-I1
-sS'statistical analysis'
-p11
-I1
-sS'data mining'
-p12
-I1
-sS'modeling'
-p13
-I1
-sS'education'
-p14
-I1
-sS'regression'
-p15
-I1
-sS'predictive modeling'
-p16
-I1
-sS'tableau'
-p17
-I1
-sS'strategy'
-p18
-I1
-sS'business planning'
-p19
-I1
-sS'matlab'
-p20
-I1
-sS'innovation'
-p21
-I1
-sS'mathematics'
-p22
-I1
-sS'artificial intelligence'
-p23
-I1
-sS'python'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'real estate'
-p26
-I1
-sS'alteryx'
-p27
-I1
-sS'leadership'
-p28
-I1
-sS'business development'
-p29
-I1
-sS'data'
-p30
-I1
-sS'data collection'
-p31
-I1
-sS'data visualization'
-p32
-I1
-sS'economics'
-p33
-I1
-sS'programming'
-p34
-I1
-sS'analysis'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'r'
-I1
-sS'healthcare'
-p37
-I1
-sS'data analytics'
-p38
-I1
-sS'predictive analytics'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V[0]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'data mining'
-p45
-I1
-sS'information'
-p46
-I1
-sS'data mining predictive analytics'
-p47
-I1
-sS'business'
-p48
-I1
-sS'mathematics statistics'
-p49
-I1
-sVapplied statistic
-p50
-I1
-sS'data science'
-p51
-I1
-sS'economics'
-p52
-I1
-sS'physics economics'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'analytics'
-p55
-I1
-sS'data analytics'
-p56
-I1
-sS'statistic'
-p57
-I1
+F0.0081375288304034073
 sS'communication'
-p58
-I1
-sS'mathematics'
-p59
-I1
-sS'phd'
-p60
-I1
-sVphysic
-p61
-I1
-sS'artificial intelligence'
-p62
-I1
-sS'predictive analytics'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VMaster
-p66
-I1
-sVDoctor
-p67
-I1
-ssS'responsibility'
-p68
-(dp69
-S'development'
-p70
-I1
-sS'information'
-p71
-I1
-sS'data collection'
-p72
-I1
-sS'analysis'
-p73
-I1
-sS'analytic'
-p74
-I1
+p8
+F0.0089952804494935028
+sS'data science'
+p9
+F0.0034171617206267021
+sS'testing'
+p10
+F0.0058164148150568551
+sS'analytics'
+p11
+F0.014825070374719203
+sS'statistical analysis'
+p12
+F0.0073144890721949093
 sS'data mining'
-p75
-I1
+p13
+F0.0060283503655742549
 sS'modeling'
-p76
-I1
+p14
+F0.0023072320710839562
+sS'education'
+p15
+F0.0059620078119695151
+sS'regression'
+p16
+F0.0067504766780732972
+sS'statistics'
+p17
+F0.0026491842465983088
+sS'predictive modeling'
+p18
+F0.0059062667860482103
+sS'tableau'
+p19
+F0.0057074604747834991
+sS'strategy'
+p20
+F0.0044744642932580533
+sS'business planning'
+p21
+F0.013703047811622583
+sS'matlab'
+p22
+F0.0036261397376081386
+sS'innovation'
+p23
+F0.005499501909473647
+sS'mathematics'
+p24
+F0.005192878642260812
+sS'artificial intelligence'
+p25
+F0.0078625470456669469
+sS'python'
+p26
+F0.0014808281612308694
+sS'data scientist'
+p27
+F0.0030095785942155632
+sS'real estate'
+p28
+F0.015480610768357928
+sS'alteryx'
+p29
+F0.01394423755441696
+sS'leadership'
+p30
+F0.0046943426738744942
+sS'business development'
+p31
+F0.0098828132927334753
+sS'data'
+p32
+F0.0016846802254896721
+sS'data collection'
+p33
+F0.020598576971370703
+sS'data visualization'
+p34
+F0.0055873114363056845
+sS'science'
+p35
+F0.0019972553641877627
+sS'economics'
+p36
+F0.006808215410112106
+sS'programming'
+p37
+F0.0031315773716899887
+sS'analysis'
+p38
+F0.0009733486413469601
+sS'machine learning'
+p39
+F0.001862266255210339
+sS'r'
+F0.0015766826892441512
+sS'healthcare'
+p40
+F0.0076626146116766033
+sS'physics'
+p41
+F0.0069121715268371121
+sS'data analytics'
+p42
+F0.0058020530724028326
+sS'predictive analytics'
+p43
+F0.0065411879924113367
+ssS'working-year'
+p44
+(dp45
+S'[0]'
+p46
+F0.0062392463935919962
+ssS'major'
+p47
+(dp48
+VStatistics
+p49
+F0.0051179112780911371
+sVBusiness
+p50
+F0.0030730521226537337
+sVData Science
+p51
+F0.0029184346096734733
+sVEconomics
+p52
+F0.0046612828054672182
+sVComputer Science
+p53
+F0.0025720333703187436
+sVMathematics
+p54
+F0.0048700924135865109
+sVPhysics
+p55
+F0.0074537843784093479
+ssS'education'
+p56
+(dp57
+VMaster
+p58
+F0.0020661383102959572
+sVDoctor
+p59
+F0.0030942663970922389
+ssS'responsibility'
+p60
+(dp61
+S'development'
+p62
+F0.0034402301204946553
+sS'information'
+p63
+F0.019703198856951626
+sS'forecasting'
+p64
+F0.0083301960392906781
+sS'data collection'
+p65
+F0.020598576971370703
+sS'analysis'
+p66
+F0.0009733486413469601
+sS'analytic'
+p67
+F0.0064139942394876217
+sS'data mining'
+p68
+F0.0060283503655742549
+sS'modeling'
+p69
+F0.0023072320710839562
 sS'model'
-p77
-I1
+p70
+F0.017584214112518644
 ss.

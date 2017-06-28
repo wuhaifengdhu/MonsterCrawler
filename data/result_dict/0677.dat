@@ -2,76 +2,74 @@
 S'skills'
 p2
 (lp3
-S'transportation'
+S'logistics'
 p4
-aS'programming languages'
+aS'java'
 p5
-aS'python'
+aS'organization'
 p6
-aS'data scientist'
+aS'transportation'
 p7
-aS'data science'
+aS'programming languages'
 p8
-aS'predictive modeling'
+aS'python'
 p9
 aS'programming'
 p10
-aS'machine learning'
-p11
-aS'analytics'
-p12
-aS'science'
-p13
-aS'advanced analytics'
-p14
-aS'java'
-p15
-aS'data'
-p16
-asS'working-year'
-p17
-(lp18
-V[0]
-p19
-asS'major'
-p20
-(lp21
-S'transportation'
-p22
-aS'business'
-p23
-aS'analytics'
-p24
-aS'science'
-p25
 aS'data science'
-p26
+p11
+aS'predictive modeling'
+p12
+aS'data scientist'
+p13
 aS'machine learning'
-p27
-aS'analytics data science'
-p28
+p14
+aS'analytics'
+p15
+aS'science'
+p16
 aS'advanced analytics'
-p29
-aS'phd'
-p30
-aS'analytics predictive modeling'
-p31
+p17
+aS'modeling'
+p18
+aS'data'
+p19
+aS'options'
+p20
+asS'working-year'
+p21
+(lp22
+S'[0]'
+p23
+asS'major'
+p24
+(lp25
+VData Science
+p26
+aVComputer Science
+p27
+aVBusiness
+p28
 asS'education'
-p32
-(lp33
+p29
+(lp30
 VMaster
-p34
+p31
 aVDoctor
-p35
+p32
 asS'responsibility'
+p33
+(lp34
+S'decision-making'
+p35
+aS'develop ... model'
 p36
-(lp37
-S'implement'
+aS'recommendation'
+p37
+aS'modeling'
 p38
-aS'decision-making'
+aS'implement'
 p39
 aS'model'
 p40
-aS'recommendation'
-p41
 as.

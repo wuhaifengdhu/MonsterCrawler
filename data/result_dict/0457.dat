@@ -6,7 +6,7 @@ S'nlp'
 p4
 aS'neural networks'
 p5
-aS'classification'
+aS'nosql'
 p6
 aS'communication'
 p7
@@ -30,7 +30,7 @@ aS'management'
 p16
 aS'java'
 p17
-aS'nosql'
+aS'classification'
 p18
 aS'scala'
 p19
@@ -46,7 +46,7 @@ aS'monetization'
 p24
 aS'numpy'
 p25
-aS'computer science'
+aS'matlab'
 p26
 aS'python'
 p27
@@ -54,93 +54,80 @@ aS'marketing'
 p28
 aS'processing'
 p29
-aS'data scientist'
-p30
 aS'svm'
-p31
+p30
 aS'sql'
-p32
+p31
 aS'weka'
-p33
+p32
 aS'data'
-p34
+p33
+aS'a'
 aS'data collection'
-p35
+p34
 aS'science'
-p36
+p35
 aS'programming'
-p37
+p36
 aS'analysis'
-p38
+p37
 aS'machine learning'
-p39
+p38
 aS'r'
 aS'advertising'
-p40
-asS'working-year'
-p41
-(lp42
-V[0]
-p43
-asS'major'
-p44
-(lp45
-S'information'
-p46
-aS'mathematics physics'
-p47
-aS'management'
-p48
-aS'business'
-p49
-aS'marketing'
-p50
-aS'data science'
-p51
-aS'statistic'
-p52
-aS'communication'
-p53
-aS'machine learning'
-p54
-aS'engineering'
-p55
+p39
 aS'computer science'
-p56
-aS'data mining'
-p57
-aS'mathematics'
-p58
-aS'phd'
-p59
-aVphysic
-p60
-aS'science'
-p61
+p40
+aS'physics'
+p41
+asS'working-year'
+p42
+(lp43
+S'[0]'
+p44
+asS'major'
+p45
+(lp46
+VBusiness
+p47
+aVData Science
+p48
+aVEconomics
+p49
+aVEngineering
+p50
+aVComputer Science
+p51
+aVMathematics
+p52
+aVPhysics
+p53
+aVManagement Science and Engineering
+p54
 asS'education'
-p62
-(lp63
+p55
+(lp56
 VMaster
-p64
+p57
 aVDoctor
-p65
+p58
 asS'responsibility'
-p66
-(lp67
+p59
+(lp60
 S'development'
-p68
+p61
 aS'information'
-p69
+p62
 aS'product'
-p70
+p63
 aS'data collection'
-p71
+p64
 aS'processing'
-p72
+p65
 aS'analysis'
-p73
+p66
 aS'analytic'
-p74
+p67
 aS'data mining'
-p75
+p68
 as.

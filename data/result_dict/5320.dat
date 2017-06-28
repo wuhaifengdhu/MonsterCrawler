@@ -6,7 +6,7 @@ S'data mining'
 p4
 aS'segmentation'
 p5
-aS'validation'
+aS'statistics'
 p6
 aS'analytics'
 p7
@@ -18,9 +18,9 @@ aS'industrial engineering'
 p10
 aS'testing'
 p11
-aS'data scientist'
-p12
 aS'analysis'
+p12
+aS'validation'
 p13
 aS'credit'
 p14
@@ -28,54 +28,54 @@ aS'engineering'
 p15
 aS'sql'
 p16
-aS'credit risk'
+aS'sas'
 p17
-aS'data'
+aS'credit risk'
 p18
-aS'econometrics'
+aS'data'
 p19
-asS'working-year'
-p20
-(lp21
-V(5, 10]
-p22
-asS'major'
-p23
-(lp24
-S'business'
-p25
-aS'industrial engineering'
-p26
-aS'data mining'
-p27
-aS'phd'
-p28
-aS'analytics'
-p29
-aS'engineering'
-p30
-aS'statistic'
-p31
 aS'econometrics'
-p32
+p20
+asS'working-year'
+p21
+(lp22
+V(5, 10]
+p23
+asS'major'
+p24
+(lp25
+VStatistics
+p26
+aVBusiness
+p27
+aVData Science
+p28
+aVEngineering
+p29
+aVComputer Science
+p30
+aVIndustrial Engineering
+p31
 asS'education'
-p33
-(lp34
+p32
+(lp33
 VMaster
-p35
+p34
 aVDoctor
-p36
+p35
 asS'responsibility'
-p37
-(lp38
-S'statistical model'
-p39
-aS'business problem'
-p40
-aS'model'
-p41
+p36
+(lp37
+S'business problem'
+p38
 aS'analysis'
-p42
+p39
+aS'statistical model'
+p40
 aS'data mining'
+p41
+aS'model'
+p42
+aS'forecast'
 p43
 as.

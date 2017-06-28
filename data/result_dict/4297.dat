@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'a'
+aS'visualization'
 p4
 aS'data visualization'
 p5
@@ -18,68 +19,62 @@ aS'data'
 p10
 aS'machine learning'
 p11
-aS'computer vision'
+aS'metrics'
 p12
-aS'command'
+aS'computer vision'
 p13
-aS'computer science'
+aS'command'
 p14
-aS'sql'
-p15
-aS'statistical analysis'
-p16
-aS'analysis'
-p17
-aS'research'
-p18
-aS'numpy'
-p19
-aVpanda
-p20
-aS'science'
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'business'
-p27
-aS'science'
-p28
-aS'machine learning'
-p29
-aS'engineering'
-p30
-aS'computer science engineering'
-p31
 aS'computer science'
-p32
-aS'statistic'
-p33
-aS'ee computer science'
-p34
+p15
+aS'sql'
+p16
+aS'intelligence'
+p17
+aS'analysis'
+p18
+aS'statistical analysis'
+p19
+aS'research'
+p20
+aS'numpy'
+p21
+aVpanda
+p22
+aS'science'
+p23
+asS'working-year'
+p24
+(lp25
+S'[0]'
+p26
+asS'major'
+p27
+(lp28
+VEngineering
+p29
+aVComputer Science
+p30
+aVBusiness
+p31
 asS'education'
+p32
+(lp33
+VBachelor
+p34
+asS'responsibility'
 p35
 (lp36
-VBachelor
-p37
-asS'responsibility'
-p38
-(lp39
 S'product'
-p40
+p37
 aS'communicate'
-p41
+p38
 aS'analysis'
-p42
+p39
 aS'understand'
-p43
+p40
 aS'report'
-p44
+p41
 aS'model'
-p45
+p42
 as.

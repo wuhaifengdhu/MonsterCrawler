@@ -4,182 +4,160 @@ p2
 (dp3
 S'data science'
 p4
-I1
-sS'engineering'
+F0.0033505318263526442
+sS'analytics'
 p5
-I1
-sS'enterprise software'
-p6
-I1
-sS'statistical analysis'
-p7
-I1
-sVpanda
-p8
-I1
-sS'insurance'
-p9
-I1
-sS'computer science'
-p10
-I1
-sS'natural language processing'
-p11
-I1
-sS'numpy'
-p12
-I1
-sS'artificial intelligence'
-p13
-I1
-sS'python'
-p14
-I1
-sS'processing'
-p15
-I1
-sS'data scientist'
-p16
-I1
-sS'product design'
-p17
-I1
-sS'statistical modeling'
-p18
-I1
-sS'modeling'
-p19
-I1
-sS'data'
-p20
-I1
-sS'employee engagement'
-p21
-I1
-sS'software engineering'
-p22
-I1
+F0.0024226670250237512
 sS'health insurance'
+p6
+F0.014347307792493316
+sS'enterprise software'
+p7
+F0.011287138717699782
+sS'statistical analysis'
+p8
+F0.0071718667225977939
+sVpanda
+p9
+F0.012263584983550313
+sS'psychology'
+p10
+F0.012416551845043353
+sS'insurance'
+p11
+F0.0087832072800826961
+sS'computer science'
+p12
+F0.0039163879197415619
+sS'natural language processing'
+p13
+F0.0069803847686916512
+sS'numpy'
+p14
+F0.0099929813401322815
+sS'artificial intelligence'
+p15
+F0.007709238328899067
+sS'python'
+p16
+F0.0014519540745216322
+sS'processing'
+p17
+F0.0045489918848766577
+sS'data scientist'
+p18
+F0.0029508960032420006
+sS'product design'
+p19
+F0.012827279260303005
+sS'statistical modeling'
+p20
+F0.0049898761008089036
+sS'modeling'
+p21
+F0.0022622442591129594
+sS'data'
+p22
+F0.0009910987844663475
+sS'a'
+F0.0052090303443287651
+sS'employee engagement'
 p23
-I1
-sS'analysis'
+F0.016768016655787119
+sS'software engineering'
 p24
-I1
-sS'machine learning'
+F0.0072480863195376367
+sS'science'
 p25
-I1
-sS'organization'
+F0.0019583116662788089
+sS'engineering'
 p26
-I1
-sS'nltk'
+F0.0034118517467232718
+sS'analysis'
 p27
-I1
-sS'predictive analytics'
+F0.0019087393969589412
+sS'machine learning'
 p28
-I1
-ssS'working-year'
+F0.0018259546569193296
+sS'organization'
 p29
-(dp30
-V[0]
+F0.004911375596884906
+sS'nltk'
+p30
+F0.013930787460396775
+sS'predictive analytics'
 p31
-I1
-ssS'major'
+F0.0064136439368489987
+ssS'working-year'
 p32
 (dp33
-S'information'
+S'[0]'
 p34
-I1
-sS'software engineering'
+F0.0061175897786751605
+ssS'major'
 p35
-I1
-sS'data science'
-p36
-I1
-sS'natural language processing'
+(dp36
+VData Science
 p37
-I1
-sS'organizational psychology'
+F0.0028615291994569989
+sVEngineering
 p38
-I1
-sS'industrial/organizational psychology'
+F0.0062740360077067616
+sVComputer Science
 p39
-I1
-sS'machine learning'
+F0.0025218823018167066
+sVPsychology
 p40
-I1
-sS'engineering'
-p41
-I1
-sS'design'
-p42
-I1
-sS'computer science'
-p43
-I1
-sS'statistic'
-p44
-I1
-sS'general'
-p45
-I1
-sS'artificial intelligence'
-p46
-I1
-sS'predictive analytics'
-p47
-I1
+F0.012988025100898
 ssS'education'
-p48
-(dp49
+p41
+(dp42
 VMaster
-p50
-I1
+p43
+F0.0020258514908751447
 sVDoctor
-p51
-I1
+p44
+F0.0030339325119121672
 ssS'responsibility'
-p52
-(dp53
+p45
+(dp46
 S'information'
-p54
-I1
+p47
+F0.0038638027842044418
 sS'product'
-p55
-I1
-sS'decision-making'
-p56
-I1
-sS'processing'
-p57
-I1
-sS'predict'
-p58
-I1
-sVinsight
-p59
-I1
-sS'communicate'
-p60
-I1
-sS'analysis'
-p61
-I1
-sS'statistical model'
-p62
-I1
+p48
+F0.011239494908504847
+sS'insight'
+p49
+F0.0051111235543439696
 sS'design'
-p63
-I1
-sS'modeling'
-p64
-I1
-sS'model'
-p65
-I1
-sS'prototype'
-p66
-I1
+p50
+F0.0040680189694108013
+sS'predict'
+p51
+F0.011620841327340694
+sS'processing'
+p52
+F0.0045489918848766577
+sS'communicate'
+p53
+F0.005588420284906942
+sS'analysis'
+p54
+F0.0019087393969589412
 sS'understand'
-p67
-I1
+p55
+F0.0058542613187862825
+sS'modeling'
+p56
+F0.0022622442591129594
+sS'model'
+p57
+F0.0086206732139367179
+sS'prototype'
+p58
+F0.0087832072800826961
+sS'decision-making'
+p59
+F0.010228510991044911
 ss.

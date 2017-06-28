@@ -2,102 +2,94 @@
 S'skills'
 p2
 (lp3
-S'validation'
+S'intelligence'
 p4
-aS'hardware'
+aS'strategic planning'
 p5
-aS'education'
+aS'hardware'
 p6
-aS'management'
+aS'analytics'
 p7
-aS'software engineering'
+aS'engineering'
 p8
-aS'translation'
+aS'education'
 p9
-aS'data scientist'
+aS'management'
 p10
 aS'integration'
 p11
-aS'strategic planning'
-p12
-aS'engineering management'
-p13
-aS'analytics'
-p14
-aS'engineering'
-p15
-aS'architecture'
-p16
-aS'intelligence'
-p17
-aS'data analytics'
-p18
-aS'organization'
-p19
-aS'security'
-p20
-aS'machine learning'
-p21
-aS'data'
-p22
 aS'research'
-p23
+p12
+aS'data scientist'
+p13
+aS'translation'
+p14
+aS'data'
+p15
 aS'information technology'
-p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-aV(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'information'
-p31
-aS'management'
-p32
+p16
 aS'software engineering'
-p33
+p17
+aS'analysis'
+p18
 aS'machine learning'
-p34
+p19
 aS'engineering management'
-p35
-aS'analytics'
-p36
-aS'engineering'
-p37
-aS'design'
-p38
-aS'information technology'
-p39
-aS'phd'
-p40
+p20
+aS'architecture'
+p21
+aS'organization'
+p22
+aS'security'
+p23
+aS'validation'
+p24
 aS'data analytics'
-p41
+p25
+asS'working-year'
+p26
+(lp27
+V(5, 10]
+p28
+aV(2, 5]
+p29
+asS'major'
+p30
+(lp31
+VEngineering
+p32
+aVData Science
+p33
+aVInformation Science
+p34
+aVComputer Science
+p35
+aVManagement Science and Engineering
+p36
 asS'education'
+p37
+(lp38
+VBachelor
+p39
+aVMaster
+p40
+aVDoctor
+p41
+asS'responsibility'
 p42
 (lp43
-VBachelor
-p44
-aVMaster
-p45
-aVDoctor
-p46
-asS'responsibility'
-p47
-(lp48
 S'development'
-p49
+p44
 aS'information'
-p50
+p45
 aS'product'
-p51
+p46
+aS'analysis'
+p47
 aS'design'
-p52
+p48
 aS'recommendation'
-p53
+p49
 aS'evaluation'
-p54
+p50
 as.

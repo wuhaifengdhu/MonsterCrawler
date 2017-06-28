@@ -4,11 +4,11 @@ p2
 (lp3
 S'consulting'
 p4
-aS'communication'
+aS'gis'
 p5
-aS'data scientist'
+aS'communication'
 p6
-aS'time management'
+aS'data scientist'
 p7
 aS'arcgis'
 p8
@@ -28,22 +28,16 @@ p15
 asS'major'
 p16
 (lp17
-S'science'
+VComputer Science
 p18
-aS'ee computer science'
-p19
-aS'computer science'
-p20
-aS'communication'
-p21
 asS'education'
+p19
+(lp20
+VBachelor
+p21
+asS'responsibility'
 p22
 (lp23
-VBachelor
-p24
-asS'responsibility'
-p25
-(lp26
 S'communicate'
-p27
+p24
 as.

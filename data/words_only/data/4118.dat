@@ -4,249 +4,219 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0041772278604508082
 sS'data science'
 p5
-I1
+F0.0031737227589989422
 sS'mapreduce'
 p6
-I1
+F0.0069569960869549355
 sS'web content'
 p7
-I1
+F0.017004222512178858
 sS'problem solving'
 p8
-I1
+F0.0064765484563410322
 sS'data mining'
 p9
-I1
+F0.0055988900492932384
 sS'econometrics'
 p10
-I1
+F0.0080930305006338809
 sS'electrical engineering'
 p11
-I1
-sS'management'
+F0.010460752198888697
+sS'statistics'
 p12
-I1
+F0.0024604560812733628
 sS'java'
 p13
-I1
+F0.0032698336877791121
 sS'big data'
 p14
-I1
+F0.0033581137898751122
 sS'deep learning'
 p15
-I1
+F0.0082177880815130621
 sS'hadoop'
 p16
-I1
+F0.0033899907688642872
 sS'anova'
 p17
-I1
+F0.013590193924815567
 sS'writing'
 p18
-I1
+F0.011857838132361439
 sS'access'
 p19
-I1
+F0.0061199525728138646
 sS'r'
-I1
+F0.0014643596480578922
 sS'computer science'
 p20
-I1
+F0.0037097183725256482
 sS'marketing'
 p21
-I1
+F0.0050269512466426082
 sS'mathematics'
 p22
-I1
+F0.0048229374197250813
 sS'operations research'
 p23
-I1
+F0.0076014208853612385
 sS'matlab'
 p24
-I1
+F0.0033678131599948935
 sS'python'
 p25
-I1
+F0.002750667613473699
 sS'combinatorial optimization'
 p26
-I1
+F0.0168534090019818
 sS'multivariate testing'
 p27
-I1
+F0.014495056902593083
 sS'experimental design'
 p28
-I1
+F0.0091390840871772971
 sS'mentoring'
 p29
-I1
+F0.0090768171542980336
 sS'statistical modeling'
 p30
-I1
+F0.004726558100766217
 sS'sql'
 p31
-I1
+F0.0017993241657864039
 sS'modeling'
 p32
-I1
+F0.010714323074162962
 sS'spark'
 p33
-I1
+F0.0044489066578249567
 sS'data'
 p34
-I1
+F0.0018775961141077508
 sS'software development'
 p35
-I1
+F0.005594186327370112
 sS'c'
-I1
+F0.0032997939944540825
 sS'online advertising'
 p36
-I1
+F0.011782689258915161
 sS'programming'
 p37
-I1
+F0.0029084834692213084
 sS'engineering'
 p38
-I1
+F0.0064636135993332696
 sS'machine learning'
 p39
-I1
+F0.0017295982106439033
 sS'optimization'
 p40
-I1
+F0.015831204675898752
 sS'advertising'
 p41
-I1
+F0.0086844255523226624
 sS'science'
 p42
-I1
+F0.0018549706812509034
 sS'product management'
 p43
-I1
+F0.0082401003140541978
 sS'statistical inference'
 p44
-I1
+F0.012006424356319455
 sS'validation'
 p45
-I1
+F0.0083429084566625233
 ssS'working-year'
 p46
 (dp47
-V[0]
+S'[0]'
 p48
-I1
+F0.0057947618220168407
 ssS'major'
 p49
 (dp50
-S'electrical engineering'
+VStatistics
 p51
-I1
-sS'management'
+F0.0047533107384909769
+sVBusiness
 p52
-I1
-sS'big data'
+F0.0028541275651032035
+sVData Science
 p53
-I1
-sS'ee computer science'
+F0.0027105250200661281
+sVEconomics
 p54
-I1
-sS'communication'
+F0.0043292125264497647
+sVElectrical and Electronics Engineering
 p55
-I1
-sS'data science'
+F0.0083024501197229063
+sVEngineering
 p56
-I1
-sS'applied math'
+F0.0064636135993332696
+sVComputer Science
 p57
-I1
-sVapplied statistic
+F0.0023888014415625269
+sVMathematics
 p58
-I1
-sS'computer science statistics'
+F0.004523146516048686
+sVOperations Research
 p59
-I1
-sS'machine learning data mining'
+F0.0084926883857180842
+sVManagement Science and Engineering
 p60
-I1
-sS'engineering'
-p61
-I1
-sS'machine learning'
-p62
-I1
-sS'design'
-p63
-I1
-sS'computer science'
-p64
-I1
-sS'data mining'
-p65
-I1
-sS'mathematics'
-p66
-I1
-sS'phd'
-p67
-I1
-sS'marketing'
-p68
-I1
-sS'econometrics'
-p69
-I1
-sS'operations research'
-p70
-I1
-sS'science'
-p71
-I1
+F0.0034024921859337528
 ssS'education'
-p72
-(dp73
-VDoctor
-p74
-I1
+p61
+(dp62
+VMaster
+p63
+F0.0019189463990083823
+sVDoctor
+p64
+F0.0028738305323917361
 ssS'responsibility'
-p75
-(dp76
+p65
+(dp66
 S'development'
-p77
-I1
+p67
+F0.0031951477636256429
 sS'product'
-p78
-I1
+p68
+F0.0035487939069069833
 sS'business problem'
-p79
-I1
+p69
+F0.0075149091349093521
 sS'understand'
-p80
-I1
-sS'statistical model'
-p81
-I1
+p70
+F0.0055453293230719666
+sS'develop ... model'
+p71
+F0.0081791900453196242
 sS'optimization'
-p82
-I1
+p72
+F0.015831204675898752
 sS'design'
-p83
-I1
+p73
+F0.0038533477836899146
 sS'data mining'
-p84
-I1
+p74
+F0.0055988900492932384
 sS'modeling'
-p85
-I1
+p75
+F0.010714323074162962
 sS'implement'
-p86
-I1
+p76
+F0.011176058971607427
 sS'evaluation'
-p87
-I1
+p77
+F0.0089272907224978281
 sS'model'
-p88
-I1
+p78
+F0.004082878210822271
 ss.

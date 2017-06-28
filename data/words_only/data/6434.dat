@@ -2,237 +2,230 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'insurance'
 p4
-I1
-sS'data science'
+F0.0065691071115618494
+sS'communication'
 p5
-I1
-sS'thought leadership'
+F0.0032982694981476177
+sS'data science'
 p6
-I1
-sS'process improvement'
+F0.0025059185951262484
+sS'linux'
 p7
-I1
-sS'problem solving'
+F0.0038459959120817279
+sS'sales'
 p8
-I1
-sS'data mining'
+F0.0069262598753979249
+sS'unix'
 p9
-I1
-sS'insurance'
+F0.0053793516433021868
+sS'process improvement'
 p10
-I1
-sS'big data'
+F0.0067203388425613872
+sS'problem solving'
 p11
-I1
-sS'hadoop'
+F0.0051137747186526068
+sS'data mining'
 p12
-I1
+F0.0044207902680877863
 sS'econometrics'
 p13
-I1
-sS'access'
+F0.0063901219994588346
+sS'statistics'
 p14
-I1
-sS'r'
-I1
-sS'computer science'
-p15
-I1
-sS'advanced analytics'
-p16
-I1
-sS'mathematics'
-p17
-I1
-sS'hypothesis testing'
-p18
-I1
-sS'unstructured data'
-p19
-I1
-sS'operations research'
-p20
-I1
-sS'python'
-p21
-I1
-sS'collaboration'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'experimental design'
-p25
-I1
-sS'leadership'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'data'
-p29
-I1
-sS'project management'
-p30
-I1
-sS'customer experience'
-p31
-I1
-sS'programming'
-p32
-I1
-sS'analysis'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'customer analytics'
-p35
-I1
-sS'optimization'
-p36
-I1
-sS'healthcare'
-p37
-I1
-sS'crm'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(0, 2]
-p41
-I1
-sV(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'business'
-p45
-I1
+F0.0019427351141720929
 sS'big data'
-p46
-I1
-sS'communication'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'data mining'
-p49
-I1
-sS'data analyst'
-p50
-I1
-sS'machine learning'
-p51
-I1
-sS'statistics operations research'
-p52
-I1
-sS'design'
-p53
-I1
-sS'project management'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'advanced analytics'
-p56
-I1
-sS'mathematics'
-p57
-I1
-sS'data mining machine learning'
-p58
-I1
-sS'econometrics'
-p59
-I1
-sS'operations research'
-p60
-I1
+p15
+F0.0026515106799222241
+sS'hadoop'
+p16
+F0.0026766802112490936
+sS'research'
+p17
+F0.0017774173784619546
+sS'access'
+p18
+F0.0048322125522842806
+sS'r'
+F0.0011562339721123774
 sS'computer science'
-p61
-I1
+p19
+F0.0029291317983067095
+sS'advanced analytics'
+p20
+F0.0061308553215376742
+sS'mathematics'
+p21
+F0.0038081110043245952
+sS'hypothesis testing'
+p22
+F0.0093722910781089581
+sS'unstructured data'
+p23
+F0.006643350903027416
+sS'operations research'
+p24
+F0.006001955240733145
+sS'business analysis'
+p25
+F0.0055594420839109454
+sS'python'
+p26
+F0.002171881303138608
+sS'collaboration'
+p27
+F0.0053284779584863622
+sS'processing'
+p28
+F0.0034022668472306668
+sS'data scientist'
+p29
+F0.0022070243024247464
+sS'experimental design'
+p30
+F0.0072160684771670749
+sS'management'
+p31
+F0.001887601806665942
+sS'sql'
+p32
+F0.001420716372568848
+sS'modeling'
+p33
+F0.0016919701854615677
+sS'data'
+p34
+F0.0022237778976463671
+sS'project management'
+p35
+F0.003961361090259471
+sS'customer experience'
+p36
+F0.0079814508364296766
+sS'a'
+F0.0038959206116958886
+sS'science'
+p37
+F0.0014646539337376924
+sS'programming'
+p38
+F0.0045929801451453159
+sS'thought leadership'
+p39
+F0.0085451643740190059
+sS'analysis'
+p40
+F0.00071378900365443737
+sS'machine learning'
+p41
+F0.001365661920487582
+sS'customer analytics'
+p42
+F0.011352447896795815
+sS'optimization'
+p43
+F0.0041666851195594629
+sS'healthcare'
+p44
+F0.0056192507152295085
+sS'crm'
+p45
+F0.0068518499295766623
+ssS'working-year'
+p46
+(dp47
+V(0, 2]
+p48
+F0.0047449586751878194
+sV(2, 5]
+p49
+F0.0025811342258981991
+ssS'major'
+p50
+(dp51
+VStatistics
+p52
+F0.0037531349372668336
+sVBusiness
+p53
+F0.0022535715566127379
+sVData Science
+p54
+F0.0021401853804272138
+sVComputer Science
+p55
+F0.001886157804900412
+sVMathematics
+p56
+F0.0035714011032967749
+sVOperations Research
+p57
+F0.0067056852045565708
+sVManagement Science and Engineering
+p58
+F0.0026865511218101923
 ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0018987058909789723
+ssS'responsibility'
 p62
 (dp63
-VBachelor
-p64
-I1
-ssS'responsibility'
-p65
-(dp66
 S'product'
-p67
-I1
-sVinsight
-p68
-I1
+p64
+F0.0084062055669859165
+sS'insight'
+p65
+F0.0076453889833728549
 sS'business problem'
-p69
-I1
+p66
+F0.0059336470044388427
 sS'understand'
-p70
-I1
+p67
+F0.0087569992226844799
 sS'pattern'
-p71
-I1
+p68
+F0.0054553980741128038
 sS'processing'
-p72
-I1
+p69
+F0.0034022668472306668
 sS'communicate'
-p73
-I1
+p70
+F0.0041796726714199836
 sS'recommendation'
-p74
-I1
+p71
+F0.0054420869683713983
 sS'analysis'
-p75
-I1
+p72
+F0.00071378900365443737
 sS'improvement'
-p76
-I1
+p73
+F0.0055962635340398078
 sS'optimization'
-p77
-I1
+p74
+F0.0041666851195594629
 sS'design'
-p78
-I1
+p75
+F0.0030425391875384951
 sS'data mining'
-p79
-I1
+p76
+F0.0044207902680877863
 sS'modeling'
-p80
-I1
+p77
+F0.0016919701854615677
 sS'model'
-p81
-I1
+p78
+F0.009671317761885255
 sS'evaluation'
-p82
-I1
+p79
+F0.021146519898916735
 sS'implement'
-p83
-I1
+p80
+F0.004412214948165849
 sS'transformation'
-p84
-I1
+p81
+F0.006550952365276805
 ss.

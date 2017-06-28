@@ -8,110 +8,104 @@ aS'tableau'
 p5
 aS'analytics'
 p6
-aS'management'
-p7
-aS'java'
-p8
-aS'rdbms'
-p9
-aS'scala'
-p10
-aS'excel'
-p11
-aS'hadoop'
-p12
-aS'access'
-p13
-aS'teamwork'
-p14
-aS'computer science'
-p15
-aS'advanced analytics'
-p16
-aS'unstructured data'
-p17
-aS'python'
-p18
 aS'gas'
+p7
+aS'statistics'
+p8
+aS'java'
+p9
+aS'rdbms'
+p10
+aS'scala'
+p11
+aS'excel'
+p12
+aS'hadoop'
+p13
+aS'access'
+p14
+aS'sas'
+p15
+aS'teamwork'
+p16
+aS'computer science'
+p17
+aS'advanced analytics'
+p18
+aS'unstructured data'
 p19
-aS'data scientist'
+aS'python'
 p20
-aS'sql'
+aS'data scientist'
 p21
 aS'spotfire'
 p22
-aS'data'
+aS'management'
 p23
-aS'project management'
+aS'sql'
 p24
+aS'data'
+p25
+aS'project management'
+p26
 aS'c'
 aS'erp'
-p25
-aS'science'
-p26
-aS'programming'
 p27
+aS'science'
+p28
+aS'programming'
+p29
 aS'r'
 aS'etl'
-p28
-aS'oracle'
-p29
-aS'validation'
 p30
-aS'application development'
+aS'oracle'
 p31
-asS'working-year'
+aS'validation'
 p32
-(lp33
-V(2, 5]
+aS'application development'
+p33
+asS'working-year'
 p34
+(lp35
+V(2, 5]
+p36
 asS'major'
-p35
-(lp36
-S'information'
 p37
-aS'management'
-p38
-aS'business'
+(lp38
+VData Science
 p39
-aS'science'
+aVStatistics
 p40
-aS'communication'
+aVComputer Science
 p41
-aS'analytics'
+aVBusiness
 p42
-aS'computer science'
+aVManagement Science and Engineering
 p43
-aS'statistic'
-p44
-aS'advanced analytics'
-p45
-aS'ee computer science'
-p46
-aS'project management'
-p47
 asS'education'
+p44
+(lp45
+VBachelor
+p46
+aVMaster
+p47
+asS'responsibility'
 p48
 (lp49
-S'Bachelor'
-p50
-asS'responsibility'
-p51
-(lp52
 S'development'
-p53
+p50
 aS'information'
-p54
+p51
 aS'product'
-p55
+p52
 aS'communicate'
-p56
+p53
 aS'report'
-p57
+p54
 aS'implement'
-p58
+p55
 aS'presentation'
-p59
+p56
 aS'model'
-p60
+p57
 as.

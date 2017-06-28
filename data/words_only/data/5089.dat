@@ -4,199 +4,187 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.011934563522527458
 sS'nosql'
 p5
-I1
+F0.014914696807991946
 sS'data science'
 p6
-I1
+F0.003277495710246864
 sS'hadoop'
 p7
-I1
+F0.0070016703073545765
 sS'analytics'
 p8
-I1
+F0.007109570533925285
 sS'business intelligence'
 p9
-I1
-sS'd3.js'
+F0.0055668755007477408
+sS'sas'
 p10
-I1
-sS'qlikview'
+F0.0075489746957897366
+sS'd3.js'
 p11
-I1
-sS'visualization'
+F0.0094379097249051649
+sS'd3'
 p12
-I1
-sS'tableau'
+F0.0082294095154912643
+sS'qlikview'
 p13
-I1
-sS'strategy'
+F0.010983122003002806
+sS'visualization'
 p14
-I1
-sS'computer science'
+F0.0051070715856511425
+sS'tableau'
 p15
-I1
-sS'unstructured data'
+F0.0054741855234980699
+sS'strategy'
 p16
-I1
-sS'data analysis'
-p17
-I1
-sS'data modeling'
-p18
-I1
-sS'python'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'collaboration'
-p21
-I1
-sS'spotfire'
-p22
-I1
-sS'business process'
-p23
-I1
-sS'machine learning'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'data'
-p26
-I1
-sS'search'
-p27
-I1
-sS'data visualization'
-p28
-I1
-sS'science'
-p29
-I1
-sS'applied mathematics'
-p30
-I1
-sS'engineering'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'spss'
-p33
-I1
-sS'data architecture'
-p34
-I1
-sS'r'
-I1
-sS'architecture'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(0, 2]
-p38
-I1
-sV(2, 5]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'business intelligence analytics'
-p42
-I1
-sS'business'
-p43
-I1
-sS'science'
-p44
-I1
-sS'applied mathematics'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'analytics'
-p47
-I1
-sS'engineering'
-p48
-I1
-sS'design'
-p49
-I1
+F0.012874752843816088
 sS'computer science'
+p17
+F0.0038310170659052335
+sS'mathematics'
+p18
+F0.0049806356459831218
+sS'unstructured data'
+p19
+F0.008688851317311062
+sS'data analysis'
+p20
+F0.0040429482696612128
+sS'data modeling'
+p21
+F0.0071177159259353442
+sS'python'
+p22
+F0.0028406076989278797
+sS'spotfire'
+p23
+F0.011700869516895
+sS'collaboration'
+p24
+F0.006969126485213771
+sS'data scientist'
+p25
+F0.0028865712947244637
+sS'business process'
+p26
+F0.0083250216063208617
+sS'machine learning'
+p27
+F0.0017861518306104614
+sS'architectures'
+p28
+F0.013080336507944854
+sS'modeling'
+p29
+F0.0088517241310250953
+sS'data'
+p30
+F0.0048474722564498468
+sS'search'
+p31
+F0.0084522882224789316
+sS'data visualization'
+p32
+F0.0053589472086637627
+sS'science'
+p33
+F0.0095781183677669263
+sS'applied mathematics'
+p34
+F0.0082346341821354398
+sS'engineering'
+p35
+F0.0066749579132079273
+sS'analysis'
+p36
+F0.00093356599933005428
+sS'spss'
+p37
+F0.012023699350722426
+sS'data architecture'
+p38
+F0.011055786252902733
+sS'r'
+F0.0030244812349533579
+sS'architecture'
+p39
+F0.017877502910228812
+sS'organization'
+p40
+F0.0048043156383697034
+ssS'working-year'
+p41
+(dp42
+V(0, 2]
+p43
+F0.0062059405016080468
+ssS'major'
+p44
+(dp45
+VMathematics
+p46
+F0.0046710423149385607
+sVData Science
+p47
+F0.0027991525411582086
+sVEngineering
+p48
+F0.0061372722800183306
+sVBusiness
+p49
+F0.0029474505372591667
+sVComputer Science
 p50
-I1
-sS'applied math'
-p51
-I1
-sS'computer science engineering'
-p52
-I1
-sS'ee computer science'
-p53
-I1
-sS'data science'
-p54
-I1
+F0.0024669093906054432
 ssS'education'
+p51
+(dp52
+VBachelor
+p53
+F0.0024833210563212716
+sVMaster
+p54
+F0.0019816912403928526
+ssS'responsibility'
 p55
 (dp56
-VBachelor
-p57
-I1
-sVMaster
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
 S'development'
-p61
-I1
+p57
+F0.0032996212599839744
 sS'product'
-p62
-I1
+p58
+F0.0036648307648984922
 sS'data analysis'
-p63
-I1
+p59
+F0.0040429482696612128
 sS'pattern'
-p64
-I1
+p60
+F0.0071351255465235582
 sS'communicate'
-p65
-I1
+p61
+F0.0054666018590779075
 sS'analysis'
-p66
-I1
+p62
+F0.00093356599933005428
 sS'design'
-p67
-I1
+p63
+F0.0039793428065898568
 sS'identify opportunity'
-p68
-I1
+p64
+F0.011286184034701333
 sS'report'
-p69
-I1
+p65
+F0.0056547041421592071
 sS'modeling'
-p70
-I1
+p66
+F0.0088517241310250953
 sS'model'
-p71
-I1
+p67
+F0.0042163783158082856
 sS'prototype'
-p72
-I1
+p68
+F0.0085917477208438363
 ss.

@@ -4,256 +4,240 @@ p2
 (dp3
 S'customer insight'
 p4
-I1
+F0.0083977700589861672
 sS'classification'
 p5
-I1
+F0.006248241389025899
 sS'communication'
 p6
-I1
+F0.0031349888299224879
 sS'data science'
 p7
-I1
+F0.0023818632191298992
 sS'competitive analysis'
 p8
-I1
+F0.0084236549988261564
 sS'information retrieval'
 p9
-I1
-sS'business intelligence'
+F0.0069495465405607394
+sS'analytics'
 p10
-I1
-sS'operational excellence'
+F0.0034445047999347592
+sS'business intelligence'
 p11
-I1
-sS'statistical analysis'
+F0.0040456303144047944
+sS'operational excellence'
 p12
-I1
-sS'data mining'
+F0.011448133881799376
+sS'statistical analysis'
 p13
-I1
-sS'laboratory'
+F0.005098416145371501
+sS'data mining'
 p14
-I1
-sS'education'
+F0.0042019392647171042
+sS'laboratory'
 p15
-I1
-sS'quantitative analysis'
+F0.0083469937090512661
+sS'education'
 p16
-I1
-sS'econometrics'
-p17
-I1
-sS'clustering'
-p18
-I1
-sS'agile'
-p19
-I1
-sS'power bi'
-p20
-I1
-sS'excel'
-p21
-I1
-sS'tableau'
-p22
-I1
-sS'research'
-p23
-I1
-sS'computer science'
-p24
-I1
-sS'natural language processing'
-p25
-I1
-sS'intelligence'
-p26
-I1
-sS'mathematics'
-p27
-I1
-sS'unstructured data'
-p28
-I1
-sS'healthcare information technology'
-p29
-I1
-sS'innovation'
-p30
-I1
-sS'data analysis'
-p31
-I1
-sS'business analysis'
-p32
-I1
-sS'python'
-p33
-I1
-sS'processing'
-p34
-I1
-sS'data scientist'
-p35
-I1
-sS'advanced analytics'
-p36
-I1
-sS'sql'
-p37
-I1
-sS'modeling'
-p38
-I1
-sS'data'
-p39
-I1
-sS'information technology'
-p40
-I1
-sS'software engineering'
-p41
-I1
-sS'sql server'
-p42
-I1
-sS'science'
-p43
-I1
-sS'machine learning'
-p44
-I1
-sS'exploratory data analysis'
-p45
-I1
-sS'r'
-I1
-sS'healthcare'
-p46
-I1
-sS'oracle'
-p47
-I1
-sS'predictive analytics'
-p48
-I1
-ssS'working-year'
-p49
-(dp50
-V(5, 10]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'information'
-p54
-I1
-sS'natural language processing'
-p55
-I1
-sS'business analysis'
-p56
-I1
-sS'business'
-p57
-I1
-sS'predictive analytics'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'data science'
-p60
-I1
-sS'statistic'
-p61
-I1
-sS'software engineering'
-p62
-I1
-sS'data analyst'
-p63
-I1
-sS'information retrieval'
-p64
-I1
-sS'information technology'
-p65
-I1
-sS'machine learning'
-p66
-I1
-sS'computer science'
-p67
-I1
-sS'data mining'
-p68
-I1
-sS'advanced analytics'
-p69
-I1
-sS'mathematics'
-p70
-I1
-sS'phd'
-p71
-I1
-sS'econometrics'
-p72
-I1
-sVphysic
-p73
-I1
-sS'science'
-p74
-I1
-ssS'education'
-p75
-(dp76
-VBachelor
-p77
-I1
-sVDoctor
-p78
-I1
-ssS'responsibility'
-p79
-(dp80
-S'information'
-p81
-I1
-sS'data analysis'
-p82
-I1
-sS'processing'
-p83
-I1
-sS'business problem'
-p84
-I1
-sVinsight
-p85
-I1
-sS'understand'
-p86
-I1
-sS'data mining'
-p87
-I1
-sS'modeling'
-p88
-I1
-sS'implement'
-p89
-I1
+F0.004155696534283701
 sS'quantitative analysis'
-p90
-I1
+p17
+F0.015104959770377943
+sS'econometrics'
+p18
+F0.018221337978654894
+sS'clustering'
+p19
+F0.0063829951694182379
+sS'visualization'
+p20
+F0.00371147578600786
+sS'statistics'
+p21
+F0.0018465601085200091
+sS'agile'
+p22
+F0.0043241383617812065
+sS'power bi'
+p23
+F0.010105803748671561
+sS'excel'
+p24
+F0.0032018895580318129
+sS'tableau'
+p25
+F0.0039782694794530532
+sS'research'
+p26
+F0.0033788528382643099
+sS'computer science'
+p27
+F0.0027841252736380607
+sS'natural language processing'
+p28
+F0.0049622933306144607
+sS'intelligence'
+p29
+F0.0031090269502708494
+sS'mathematics'
+p30
+F0.0036195906575758529
+sS'unstructured data'
+p31
+F0.0063144721454518014
+sS'healthcare information technology'
+p32
+F0.010665339345080122
+sS'innovation'
+p33
+F0.0038333161824449973
+sS'data analysis'
+p34
+F0.0029381426038924065
+sS'business analysis'
+p35
+F0.0052842221787668389
+sS'python'
+p36
+F0.0010321812133728039
+sS'processing'
+p37
+F0.0032338377953875647
+sS'data scientist'
+p38
+F0.0020977656735918383
+sS'advanced analytics'
+p39
+F0.0058273476323526408
+sS'sql'
+p40
+F0.0013503838788773209
+sS'modeling'
+p41
+F0.0016082092851911931
+sS'data'
+p42
+F0.0018788354514767988
+sS'information technology'
+p43
+F0.0061715823203202878
+sS'a'
+F0.0037030532546812409
+sS'software engineering'
+p44
+F0.0051525999776515083
+sS'sql server'
+p45
+F0.0055402543946111325
+sS'science'
+p46
+F0.0013921463132556286
+sS'engineering'
+p47
+F0.002425455004106247
+sS'machine learning'
+p48
+F0.00129805489472087
+sS'exploratory data analysis'
+p49
+F0.0088428499586709827
+sS'r'
+F0.0010989946665622597
+sS'healthcare'
+p50
+F0.053410699867528007
+sS'oracle'
+p51
+F0.0051980623733887564
+sS'organization'
+p52
+F0.0034914531470924379
+sS'physics'
+p53
+F0.0048179888662310162
+sS'predictive analytics'
+p54
+F0.0045594023234233477
+ssS'working-year'
+p55
+(dp56
+V(5, 10]
+p57
+F0.0023874143793601163
+ssS'major'
+p58
+(dp59
+VStatistics
+p60
+F0.0035673361779961985
+sVBusiness
+p61
+F0.0021420086082655728
+sVData Science
+p62
+F0.002034235609118936
+sVEngineering
+p63
+F0.0044601562906271836
+sVInformation Science
+p64
+F0.0050151587892160272
+sVComputer Science
+p65
+F0.0017927836561429657
+sVMathematics
+p66
+F0.003394599068480103
+sVPhysics
+p67
+F0.0051955091112873076
+ssS'education'
+p68
+(dp69
+VBachelor
+p70
+F0.0018047105498413996
+sVMaster
+p71
+F0.0014401597727211424
+sVDoctor
+p72
+F0.0021567955876761742
+ssS'responsibility'
+p73
+(dp74
+S'information'
+p75
+F0.002746742969365138
+sS'processing'
+p76
+F0.0032338377953875647
+sS'business problem'
+p77
+F0.0056399021032289996
+sS'insight'
+p78
+F0.010900356570353377
+sS'data analysis'
+p79
+F0.0029381426038924065
+sS'understand'
+p80
+F0.0041617422048401496
+sS'data mining'
+p81
+F0.0042019392647171042
+sS'modeling'
+p82
+F0.0016082092851911931
+sS'implement'
+p83
+F0.0041937884655833813
+sS'quantitative analysis'
+p84
+F0.015104959770377943
 sS'model'
-p91
-I1
+p85
+F0.0061283597699074883
 ss.

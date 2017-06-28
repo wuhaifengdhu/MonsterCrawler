@@ -2,228 +2,218 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'insurance'
 p4
-I1
-sS'data science'
-p5
-I1
-sS'thought leadership'
-p6
-I1
-sS'process improvement'
-p7
-I1
-sS'problem solving'
-p8
-I1
-sS'data mining'
-p9
-I1
-sS'insurance'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'hadoop'
-p12
-I1
-sS'econometrics'
-p13
-I1
-sS'access'
-p14
-I1
-sS'r'
-I1
-sS'computer science'
-p15
-I1
-sS'advanced analytics'
-p16
-I1
-sS'mathematics'
-p17
-I1
-sS'hypothesis testing'
-p18
-I1
-sS'unstructured data'
-p19
-I1
-sS'operations research'
-p20
-I1
-sS'python'
-p21
-I1
-sS'collaboration'
-p22
-I1
-sS'processing'
-p23
-I1
-sS'experimental design'
-p24
-I1
-sS'leadership'
-p25
-I1
-sS'sql'
-p26
-I1
-sS'modeling'
-p27
-I1
-sS'data'
-p28
-I1
-sS'customer relations'
-p29
-I1
-sS'project management'
-p30
-I1
-sS'customer experience'
-p31
-I1
-sS'programming'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'optimization'
-p34
-I1
-sS'healthcare'
-p35
-I1
-sS'crm'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(0, 2]
-p39
-I1
-sV(2, 5]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'business'
-p43
-I1
-sS'big data'
-p44
-I1
+F0.0067810137925799737
 sS'communication'
-p45
-I1
+p5
+F0.0034046652884104438
 sS'data science'
-p46
-I1
+p6
+F0.0025867546788399982
+sS'linux'
+p7
+F0.003970060296342429
+sS'sales'
+p8
+F0.0071496876133139873
+sS'analytics'
+p9
+F0.0018704031440505949
+sS'unix'
+p10
+F0.0055528791156667741
+sS'process improvement'
+p11
+F0.0069371239665149799
+sS'problem solving'
+p12
+F0.005278735193447852
 sS'data mining'
-p47
-I1
-sS'data analyst'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'statistics operations research'
-p50
-I1
-sS'design'
-p51
-I1
-sS'project management'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'advanced analytics'
-p54
-I1
-sS'mathematics'
-p55
-I1
-sS'data mining machine learning'
-p56
-I1
+p13
+F0.004563396405768038
 sS'econometrics'
-p57
-I1
-sS'operations research'
-p58
-I1
+p14
+F0.0065962549671833128
+sS'statistics'
+p15
+F0.0020054039888228055
+sS'big data'
+p16
+F0.0027370432825003601
+sS'hadoop'
+p17
+F0.0027630247341926127
+sS'research'
+p18
+F0.0018347534229284693
+sS'access'
+p19
+F0.0049880903765515154
+sS'r'
+F0.0011935318421805187
 sS'computer science'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VBachelor
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'product'
-p65
-I1
-sVinsight
-p66
-I1
-sS'business problem'
-p67
-I1
-sS'understand'
-p68
-I1
-sS'pattern'
-p69
-I1
+p20
+F0.0030236199208327325
+sS'advanced analytics'
+p21
+F0.0063286248480388897
+sS'mathematics'
+p22
+F0.0039309532947866795
+sS'hypothesis testing'
+p23
+F0.009674623048370537
+sS'unstructured data'
+p24
+F0.0068576525450605589
+sS'operations research'
+p25
+F0.0061955667001116332
+sS'python'
+p26
+F0.0022419419903366277
+sS'collaboration'
+p27
+F0.0055003643442439873
 sS'processing'
-p70
-I1
-sS'communicate'
-p71
-I1
-sS'recommendation'
-p72
-I1
-sS'improvement'
-p73
-I1
-sS'optimization'
-p74
-I1
-sS'design'
-p75
-I1
-sS'data mining'
-p76
-I1
+p28
+F0.0035120173906897207
+sS'experimental design'
+p29
+F0.0074488448796563352
+sS'management'
+p30
+F0.0019484921875261337
+sS'sql'
+p31
+F0.0014665459329742949
 sS'modeling'
-p77
-I1
+p32
+F0.0017465498688635538
+sS'data'
+p33
+F0.0022955126685381857
+sS'project management'
+p34
+F0.0040891469318807445
+sS'customer experience'
+p35
+F0.0082389169924435377
+sS'a'
+F0.004021595470137692
+sS'science'
+p36
+F0.0015119008348260052
+sS'programming'
+p37
+F0.0047411407949887133
+sS'thought leadership'
+p38
+F0.0088208148376970382
+sS'machine learning'
+p39
+F0.001409715530825891
+sS'optimization'
+p40
+F0.0043010943169646066
+sS'healthcare'
+p41
+F0.0058005168673336861
+sS'crm'
+p42
+F0.014145754693319561
+ssS'working-year'
+p43
+(dp44
+V(0, 2]
+p45
+F0.0048980218582583947
+sV(2, 5]
+p46
+F0.0026643966202820118
+ssS'major'
+p47
+(dp48
+VStatistics
+p49
+F0.003874203806210925
+sVBusiness
+p50
+F0.002326267413277665
+sVData Science
+p51
+F0.0022092236185055109
+sVComputer Science
+p52
+F0.0019470016050584897
+sVMathematics
+p53
+F0.0036866075904998965
+sVOperations Research
+p54
+F0.0069219976305100088
+sVManagement Science and Engineering
+p55
+F0.0027732140612234243
+ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0019599544681073262
+ssS'responsibility'
+p59
+(dp60
+S'product'
+p61
+F0.008677373488501592
+sS'insight'
+p62
+F0.0078920144344493976
+sS'business problem'
+p63
+F0.0061250549723239666
+sS'understand'
+p64
+F0.0090394830685775283
+sS'pattern'
+p65
+F0.0056313786571487012
+sS'processing'
+p66
+F0.0035120173906897207
+sS'communicate'
+p67
+F0.0043145008221109511
+sS'recommendation'
+p68
+F0.0056176381608995084
+sS'improvement'
+p69
+F0.0057767881641701243
+sS'optimization'
+p70
+F0.0043010943169646066
+sS'design'
+p71
+F0.0031406856129429627
+sS'data mining'
+p72
+F0.004563396405768038
+sS'modeling'
+p73
+F0.0017465498688635538
 sS'model'
-p78
-I1
+p74
+F0.0099832957542041346
 sS'evaluation'
-p79
-I1
+p75
+F0.021828665702107595
 sS'implement'
-p80
-I1
+p76
+F0.0045545444626228122
 sS'transformation'
-p81
-I1
+p77
+F0.0067622734093179919
 ss.

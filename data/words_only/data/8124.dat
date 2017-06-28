@@ -4,53 +4,65 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
-sS'big data'
+F0.040555414933033121
+sS'management'
 p5
-I1
-sS'data scientist'
+F0.0083893413629597419
+sS'big data'
 p6
-I1
-sS'product marketing'
+F0.01178449191076544
+sS'data scientist'
 p7
-I1
-sS'strategy'
+F0.0098089968996655386
+sS'recruiting'
 p8
-I1
-sS'advertising'
+F0.031934243061272141
+sS'sales'
 p9
-I1
-sS'account management'
+F0.030783377223990775
+sS'strategy'
 p10
-I1
-ssS'working-year'
+F0.014583439178026248
+sS'advertising'
 p11
-(dp12
-V(2, 5]
+F0.030475900780836011
+sS'account management'
+p12
+F0.04630696942854113
+sS'data'
 p13
-I1
-ssS'major'
+F0.0010981619247636381
+sS'product marketing'
 p14
-(dp15
-S'big data'
-p16
-I1
-sS'management marketing'
+F0.042215960046184137
+ssS'working-year'
+p15
+(dp16
+V(2, 5]
 p17
-I1
-sS'business'
+F0.011471707670658662
+ssS'major'
 p18
-I1
-ssS'education'
-p19
-(dp20
-S'Bachelor'
+(dp19
+VEconomics
+p20
+F0.015192329143745006
+sVBusiness
 p21
-I1
-ssS'responsibility'
+F0.010015873584945502
+sVManagement Science and Engineering
 p22
-(dp23
+F0.011940227208045299
+ssS'education'
+p23
+(dp24
+S'Bachelor'
+p25
+F0.0084386928487954326
+ssS'responsibility'
+p26
+(dp27
 S'product'
-p24
-I1
+p28
+F0.012453637877016172
 ss.

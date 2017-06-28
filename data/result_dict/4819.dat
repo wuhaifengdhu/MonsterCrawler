@@ -2,120 +2,114 @@
 S'skills'
 p2
 (lp3
-S'energy'
+S'classification'
 p4
-aS'tableau'
+aS'energy'
 p5
-aS'analytics'
+aS'hadoop'
 p6
-aS'education'
-p7
-aS'change management'
-p8
-aS'visualization'
-p9
-aS'management'
-p10
-aS'big data'
-p11
-aS'power bi'
-p12
-aS'predictive modeling'
-p13
-aS'integration'
-p14
-aS'research'
-p15
-aS'computer science'
-p16
-aS'innovation'
-p17
-aS'data modeling'
-p18
-aS'performance management'
-p19
-aS'python'
-p20
-aS'data scientist'
-p21
-aS'leadership'
-p22
-aS'modeling'
-p23
-aS'data'
-p24
-aS'pattern recognition'
-p25
-aS'science'
-p26
-aS'programming'
-p27
-aS'machine learning'
-p28
-aS'data integration'
-p29
-asS'working-year'
-p30
-(lp31
-V(5, 10]
-p32
-aV(2, 5]
-p33
-asS'major'
-p34
-(lp35
-S'information'
-p36
-aS'management'
-p37
-aS'business'
-p38
-aS'big data'
-p39
-aS'science'
-p40
-aS'machine learning'
-p41
 aS'analytics'
-p42
-aS'design'
-p43
+p7
+aS'tableau'
+p8
+aS'education'
+p9
+aS'change management'
+p10
+aS'visualization'
+p11
+aS'management'
+p12
+aS'big data'
+p13
+aS'power bi'
+p14
+aS'predictive modeling'
+p15
+aS'integration'
+p16
+aS'research'
+p17
 aS'computer science'
-p44
-aS'statistic'
-p45
-aS'general'
-p46
+p18
+aS'innovation'
+p19
+aS'data modeling'
+p20
+aS'performance management'
+p21
+aS'python'
+p22
+aS'data scientist'
+p23
+aS'leadership'
+p24
+aS'sql'
+p25
+aS'modeling'
+p26
+aS'data'
+p27
+aS'pattern recognition'
+p28
+aS'science'
+p29
+aS'programming'
+p30
+aS'machine learning'
+p31
+aS'data integration'
+p32
+asS'working-year'
+p33
+(lp34
+V(5, 10]
+p35
+aV(2, 5]
+p36
+asS'major'
+p37
+(lp38
+VData Science
+p39
+aVComputer Science
+p40
+aVBusiness
+p41
+aVManagement Science and Engineering
+p42
 asS'education'
+p43
+(lp44
+VBachelor
+p45
+aVMaster
+p46
+asS'responsibility'
 p47
 (lp48
-VBachelor
-p49
-aVMaster
-p50
-asS'responsibility'
-p51
-(lp52
 S'information'
-p53
+p49
 aS'build model'
-p54
+p50
 aVtest hypothesis
-p55
+p51
 aS'pattern'
-p56
-aVinsight
-p57
+p52
+aS'insight'
+p53
 aS'analytic'
-p58
+p54
 aS'model'
-p59
-aS'design'
-p60
+p55
 aS'modeling'
-p61
+p56
 aS'implement'
-p62
+p57
 aS'transformation'
-p63
+p58
+aS'decision making'
+p59
+aS'test ... model'
+p60
 as.

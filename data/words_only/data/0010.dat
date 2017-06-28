@@ -4,195 +4,183 @@ p2
 (dp3
 S'data science'
 p4
-I1
+F0.0029553831097312018
 sS'testing'
 p5
-I1
+F0.005030412813022145
 sS'engineering'
 p6
-I1
-sS'c++'
-p7
-I1
+F0.003009471196741166
 sS'linux'
-p8
-I1
+p7
+F0.0045358182746909814
 sS'education'
-p9
-I1
+p8
+F0.0051563310806222824
 sS'genomics'
-p10
-I1
+p9
+F0.093922595100776912
 sS'git'
-p11
-I1
+p10
+F0.0071073049569506169
 sS'java'
-p12
-I1
+p11
+F0.003044881984442957
 sS'agile'
-p13
-I1
+p12
+F0.0053653313825540771
 sS'recruiting'
-p14
-I1
+p13
+F0.008473951475718406
 sS'integration'
-p15
-I1
+p14
+F0.00566644501767718
 sS'research'
+p15
+F0.0083848682227197855
+sS'fortran'
 p16
-I1
+F0.0092001136298876535
 sS'data management'
 p17
-I1
+F0.0067565555395805174
 sS'biology'
 p18
-I1
+F0.016694410635525785
 sS'data analysis'
 p19
-I1
+F0.0036456069163775555
 sS'distributed computing'
 p20
-I1
+F0.0087896718979344288
 sS'computational biology'
 p21
-I1
+F0.010235478662244021
 sS'visualization'
 p22
-I1
+F0.009210296176579702
 sS'python'
 p23
-I1
+F0.0012807162475510221
 sS'data scientist'
 p24
-I1
+F0.0026028787841864331
 sS'management'
 p25
-I1
+F0.0022261642928738381
 sS'algorithm design'
 p26
-I1
+F0.01035683494612012
 sS'data'
 p27
-I1
+F0.0020398290297820895
 sS'bash'
 p28
-I1
+F0.0092098441157424122
 sS'c'
-I1
+F0.0030727811397987647
 sS'bioinformatics'
 p29
-I1
+F0.016016006340309363
 sS'software engineering'
 p30
-I1
-sS'programming'
+F0.0063932751565454827
+sS'science'
 p31
-I1
-sS'analysis'
+F0.0017273559906488757
+sS'cloud computing'
 p32
-I1
-sS'machine learning'
+F0.0079547828862846347
+sS'programming'
 p33
-I1
-sS'exploratory data analysis'
-p34
-I1
-sS'r'
-I1
-sS'application development'
-p35
-I1
-sS'sql'
-p36
-I1
-sS'docker'
-p37
-I1
-sS'scripting'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(0, 2]
-p41
-I1
-sV(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
-sS'biology'
-p46
-I1
-sS'management'
-p47
-I1
-sS'software engineering'
-p48
-I1
-sS'computational biology'
-p49
-I1
-sS'computing'
-p50
-I1
-sS'data science'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'engineering'
-p53
-I1
-sS'design'
-p54
-I1
-sS'bioinformatics'
-p55
-I1
-sS'computational biolog'
-p56
-I1
-ssS'education'
-p57
-(dp58
-VBachelor
-p59
-I1
-ssS'responsibility'
-p60
-(dp61
-S'development'
-p62
-I1
-sS'information'
-p63
-I1
-sS'data analysis'
-p64
-I1
+F0.0027083912403805302
 sS'analysis'
-p65
-I1
+p34
+F0.00084181504116493842
+sS'machine learning'
+p35
+F0.0016106086531548877
+sS'exploratory data analysis'
+p36
+F0.010972086558056133
+sS'r'
+F0.0013636174609679144
+sS'application development'
+p37
+F0.0094130132714649751
+sS'sql'
+p38
+F0.0016755377366905334
+sS'databases'
+p39
+F0.0056572436691125069
+sS'docker'
+p40
+F0.021034956499228253
+sS'scripting'
+p41
+F0.0059780942934807447
+ssS'working-year'
+p42
+(dp43
+V(0, 2]
+p44
+F0.0055960200591895657
+sV(2, 5]
+p45
+F0.0030440895047448048
+ssS'major'
+p46
+(dp47
+VBiological Engineering
+p48
+F0.0064623974950287237
+sVData Science
+p49
+F0.0025240515543121932
+sVManagement Science and Engineering
+p50
+F0.0031684140994321678
+sVEngineering
+p51
+F0.003009471196741166
+sVComputer Science
+p52
+F0.0022244612932486429
+ssS'education'
+p53
+(dp54
+VBachelor
+p55
+F0.0022392600188449797
+ssS'responsibility'
+p56
+(dp57
+S'development'
+p58
+F0.0059506683165312952
+sS'information'
+p59
+F0.003408120883364606
+sS'data analysis'
+p60
+F0.0036456069163775555
+sS'analysis'
+p61
+F0.00084181504116493842
 sS'statistical method'
-p66
-I1
+p62
+F0.0086383057224852858
 sS'design'
-p67
-I1
+p63
+F0.003588252604468004
 sS'ownership'
-p68
-I1
+p64
+F0.0096813106881754006
 sS'model'
-p69
-I1
+p65
+F0.0038019922405445718
 sS'evaluation'
-p70
-I1
+p66
+F0.0083131282157903608
 ss.

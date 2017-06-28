@@ -20,51 +20,52 @@ aS'research'
 p11
 aS'image processing'
 p12
-aS'education'
+aS'statistics'
 p13
-aS'big data'
-p14
 aS'deep learning'
-p15
+p14
 aS'excel'
-p16
+p15
 aS'data'
-p17
+p16
 aS'teamwork'
-p18
+p17
 aS'matlab'
-p19
+p18
 aS'medicine'
-p20
+p19
 aS'mathematics'
-p21
+p20
 aS'computer science'
-p22
+p21
 aS'signal processing'
-p23
+p22
 aS'quantitative analysis'
-p24
+p23
 aS'healthcare'
-p25
+p24
 aS'python'
-p26
+p25
 aS'processing'
-p27
+p26
 aS'data scientist'
-p28
+p27
 aS'biomarkers'
-p29
+p28
 aS'bioinformatics'
-p30
+p29
 aS'informatics'
-p31
+p30
 aS'biomedical engineering'
-p32
+p31
+aS'a'
 aS'search'
-p33
+p32
 aS'drug development'
-p34
+p33
 aS'applied mathematics'
+p34
+aS'education'
 p35
 aS'analysis'
 p36
@@ -80,85 +81,53 @@ p40
 asS'working-year'
 p41
 (lp42
-V[0]
+S'[0]'
 p43
 asS'major'
 p44
 (lp45
-S'communication'
+VStatistics
 p46
-aS'statistic'
+aVBusiness
 p47
-aS'machine learning data mining'
+aVData Science
 p48
-aS'analytics'
+aVElectrical and Electronics Engineering
 p49
-aS'engineering'
+aVEngineering
 p50
-aS'design'
+aVInformation Science
 p51
-aS'data mining'
+aVComputer Science
 p52
-aS'information'
+aVBiological Engineering
 p53
-aS'big data'
+aVMathematics
 p54
-aS'mathematics'
-p55
-aS'electrical'
-p56
-aS'computer science'
-p57
-aS'medicine'
-p58
-aS'computer science applied math'
-p59
-aS'business'
-p60
-aS'phd'
-p61
-aS'bioinformatics'
-p62
-aS'informatics'
-p63
-aS'biomedical engineering'
-p64
-aS'science'
-p65
-aS'applied mathematics'
-p66
-aS'machine learning'
-p67
-aS'applied math'
-p68
-aS'electrical engineering'
-p69
-aS'data analytics'
-p70
 asS'education'
-p71
-(lp72
+p55
+(lp56
 VMaster
-p73
+p57
 aVDoctor
-p74
+p58
 asS'responsibility'
-p75
-(lp76
+p59
+(lp60
 S'development'
-p77
+p61
 aS'information'
-p78
+p62
 aS'processing'
-p79
+p63
 aS'analysis'
-p80
+p64
 aS'design'
-p81
+p65
 aS'data mining'
-p82
+p66
 aS'implement'
-p83
+p67
 aS'quantitative analysis'
-p84
+p68
 as.

@@ -2,65 +2,61 @@
 S'skills'
 p2
 (lp3
-S'venture capital'
+S'science'
 p4
-aS'python'
+aS'venture capital'
 p5
-aS'data scientist'
+aS'python'
 p6
-aS'data science'
-p7
-aS'processing'
-p8
 aS'programming'
+p7
+aS'data science'
+p8
+aS'processing'
 p9
-aS'machine learning'
+aS'data scientist'
 p10
+aS'machine learning'
+p11
 aS'r'
 aS'computer science'
-p11
-aS'science'
 p12
-aS'intelligence'
+aS'natural language processing'
 p13
-aS'research'
+aS'intelligence'
 p14
-aS'data'
+aS'research'
 p15
-asS'working-year'
+aS'data'
 p16
-(lp17
-V[0]
+aS'matlab'
+p17
+asS'working-year'
 p18
+(lp19
+S'[0]'
+p20
 asS'major'
-p19
-(lp20
-S'science'
 p21
-aS'data science'
-p22
-aS'statistic'
+(lp22
+VData Science
 p23
-aS'computer science'
+aVComputer Science
 p24
-aS'machine learning'
-p25
 asS'education'
-p26
-(lp27
+p25
+(lp26
 VBachelor
-p28
+p27
 aVMaster
-p29
+p28
 asS'responsibility'
-p30
-(lp31
+p29
+(lp30
 S'report'
-p32
+p31
 aS'interface'
-p33
+p32
 aS'processing'
-p34
-aS'large data set'
-p35
+p33
 as.

@@ -4,196 +4,169 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.011964135030187945
 sS'communication'
 p5
-I1
+F0.0050100296174394191
 sS'data science'
 p6
-I1
+F0.0038064586255082251
 sS'actuarial science'
 p7
-I1
+F0.015739727566594568
 sS'data warehousing'
 p8
-I1
-sS'education'
+F0.0096249691825452312
+sS'sas'
 p9
-I1
-sS'teradata sql'
+F0.0043836609388525844
+sS'education'
 p10
-I1
-sS'visualization'
+F0.0066412238918141424
+sS'teradata sql'
 p11
-I1
-sS'predictive modeling'
+F0.017457645540608992
+sS'visualization'
 p12
-I1
-sS'research'
+F0.0059313141516897762
+sS'statistics'
 p13
-I1
-sS'advanced analytics'
+F0.0029509900468436853
+sS'predictive modeling'
 p14
-I1
-sS'mathematics'
+F0.0065791326224334491
+sS'research'
 p15
-I1
-sS'teradata'
-p16
-I1
-sS'data analysis'
-p17
-I1
-sS'python'
-p18
-I1
-sS'marketing'
-p19
-I1
-sS'data scientist'
-p20
-I1
-sS'strategic thinking'
-p21
-I1
-sS'modeling'
-p22
-I1
-sS'manufacturing'
-p23
-I1
-sS'data'
-p24
-I1
-sS'training'
-p25
-I1
-sS'sql server'
-p26
-I1
-sS'quantitative research'
-p27
-I1
-sS'applied mathematics'
-p28
-I1
-sS'economics'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'exploratory data analysis'
-p31
-I1
-sS'r'
-I1
-sS'financial services'
-p32
-I1
-sS'science'
-p33
-I1
-sS'oracle'
-p34
-I1
-sS'organization'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(5, 10]
-p38
-I1
-sV(15, 20]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'quantitative economics'
-p42
-I1
-sS'business'
-p43
-I1
-sS'marketing'
-p44
-I1
-sS'applied mathematics'
-p45
-I1
-sS'economics'
-p46
-I1
-sS'communication'
-p47
-I1
-sS'actuarial science'
-p48
-I1
+F0.0026998744989295514
 sS'advanced analytics'
-p49
-I1
-sS'statistics applied mathematics'
-p50
-I1
-sS'design'
-p51
-I1
-sS'statistic'
-p52
-I1
-sS'analytics data science'
-p53
-I1
-sS'mathematics'
-p54
-I1
-sS'applied math'
-p55
-I1
-sS'data science'
-p56
-I1
-sS'science'
-p57
-I1
-ssS'education'
-p58
-(dp59
-VBachelor
-p60
-I1
-ssS'responsibility'
-p61
-(dp62
-S'development'
-p63
-I1
+p16
+F0.0093126916276521626
+sS'teradata'
+p17
+F0.01158565409757477
 sS'data analysis'
-p64
-I1
-sS'ensure accuracy'
-p65
-I1
-sVinsight
-p66
-I1
-sS'communicate'
-p67
-I1
-sS'analysis'
-p68
-I1
-sS'design'
-p69
-I1
+p18
+F0.0046954494144483072
+sS'python'
+p19
+F0.0016495301036495759
+sS'marketing'
+p20
+F0.0060291598812580657
+sS'data scientist'
+p21
+F0.0033524419783667035
+sS'metrics'
+p22
+F0.013813828841553511
 sS'modeling'
-p70
-I1
+p23
+F0.0077102438831160051
+sS'manufacturing'
+p24
+F0.011812210670986738
+sS'data'
+p25
+F0.0022519269849583467
+sS'training'
+p26
+F0.0074471352880453451
+sS'sql server'
+p27
+F0.0088538875610082966
+sS'quantitative research'
+p28
+F0.011086362785372658
+sS'applied mathematics'
+p29
+F0.009563641597606665
+sS'economics'
+p30
+F0.0075838348872134852
+sS'analysis'
+p31
+F0.0010842364612472467
+sS'exploratory data analysis'
+p32
+F0.014131769712433058
+sS'r'
+F0.0017563047677656366
+sS'financial services'
+p33
+F0.01337965399335516
+sS'science'
+p34
+F0.0088991631416973725
+sS'oracle'
+p35
+F0.0083070300587383596
+sS'organization'
+p36
+F0.011159391387858741
+ssS'working-year'
+p37
+(dp38
+V(5, 10]
+p39
+F0.0038153299416989199
+sV(15, 20]
+p40
+F0.0088441957806566374
+ssS'major'
+p41
+(dp42
+VMathematics
+p43
+F0.0054249130682988986
+sVData Science
+p44
+F0.0032509145019147551
+sVEconomics
+p45
+F0.0051923150238115849
+sVStatistics
+p46
+F0.0057009644616711399
+sVBusiness
+p47
+F0.003423146668272513
+ssS'education'
+p48
+(dp49
+VBachelor
+p50
+F0.0028841102141452745
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+F0.003832155070930755
+sS'data analysis'
+p54
+F0.0046954494144483072
+sS'ensure accuracy'
+p55
+F0.019578391424651634
+sS'insight'
+p56
+F0.011613249088667628
+sS'communicate'
+p57
+F0.0063488698806379498
+sS'analysis'
+p58
+F0.0010842364612472467
+sS'develop ... model'
+p59
+F0.0098098513518232212
+sS'design'
+p60
+F0.004621578512716701
+sS'modeling'
+p61
+F0.0077102438831160051
 sS'model'
-p71
-I1
+p62
+F0.0097937395057065869
 ss.

@@ -4,196 +4,178 @@ p2
 (dp3
 S'survival analysis'
 p4
-I1
+F0.0069603580601143022
 sS'supply chain'
 p5
-I1
-sS'data science'
+F0.005961777625455307
+sS'intelligence'
 p6
-I1
-sS'hadoop'
+F0.0024154747844411985
+sS'data science'
 p7
-I1
-sS'analytics'
+F0.0018505245010163064
+sS'testing'
 p8
-I1
-sS'engineering'
+F0.0031498123306154045
+sS'hadoop'
 p9
-I1
-sS'defense'
+F0.0019766253867685613
+sS'analytics'
 p10
-I1
-sS'ec2'
+F0.013380576338208102
+sS'engineering'
 p11
-I1
-sS'problem solving'
+F0.003768783929457399
+sS'defense'
 p12
-I1
-sS'creative problem solving'
+F0.016299868402745717
+sS'ec2'
 p13
-I1
-sS'education'
+F0.0066601005794766502
+sS'problem solving'
 p14
-I1
-sS'random forest'
+F0.0037763259460819247
+sS'creative problem solving'
 p15
-I1
-sS'tableau'
+F0.0086772761221912426
+sS'education'
 p16
-I1
-sS'writing'
+F0.0064573130763485205
+sS'random forest'
 p17
-I1
-sS'computer science'
+F0.0069871142997497589
+sS'tableau'
 p18
-I1
-sS'policy'
+F0.0030908093648058335
+sS'writing'
 p19
-I1
-sS'mathematics'
+F0.0034570158862807583
+sS'computer science'
 p20
-I1
-sS'energy'
+F0.0021630511741341858
+sS'policy'
 p21
-I1
-sS'finance'
+F0.0083989483939715375
+sS'mathematics'
 p22
-I1
-sS'government'
+F0.0028121435108858549
+sS'energy'
 p23
-I1
-sS'python'
+F0.014240747566385006
+sS'finance'
 p24
-I1
-sS'automotive'
+F0.016339360333438083
+sS'government'
 p25
-I1
-sS'data scientist'
+F0.008021906201935278
+sS'python'
 p26
-I1
-sS'advanced analytics'
+F0.00080192540423579381
+sS'automotive'
 p27
-I1
-sS'aerospace'
+F0.01960333138770062
+sS'data scientist'
 p28
-I1
-sS'sql'
+F0.001629802561790582
+sS'advanced analytics'
 p29
-I1
-sS'modeling'
+F0.0045274008528278205
+sS'aerospace'
 p30
-I1
-sS'data'
+F0.02248200232976158
+sS'sql'
 p31
-I1
-sS'economics'
+F0.0010491443982046879
+sS'modeling'
 p32
-I1
-sS'analysis'
+F0.0024989098123740076
+sS'data'
 p33
-I1
-sS'machine learning'
+F0.0010947829649951347
+sS'science'
 p34
-I1
-sS'arcgis'
+F0.0010815905972216806
+sS'economics'
 p35
-I1
-sS'r'
-I1
-sVbayesian statistic
+F0.011060731497043669
+sS'analysis'
 p36
-I1
-ssS'working-year'
+F0.0010542114515511691
+sS'machine learning'
 p37
-(dp38
-V(2, 5]
+F0.001008488802821599
+sS'arcgis'
+p38
+F0.006363330022702951
+sS'r'
+F0.00085383431786760174
+sVbayesian statistic
 p39
-I1
-ssS'major'
+F0.0059827089664327088
+ssS'working-year'
 p40
 (dp41
-S'information'
+V(2, 5]
 p42
-I1
-sS'law'
+F0.0019060683514325162
+ssS'major'
 p43
-I1
-sS'finance'
-p44
-I1
-sS'business'
+(dp44
+VBusiness
 p45
-I1
-sS'mathematics economics'
+F0.0016641759187294065
+sVData Science
 p46
-I1
-sS'data science'
+F0.0015804445886231733
+sVEconomics
 p47
-I1
-sS'economics'
+F0.0025242639192684015
+sVEngineering
 p48
-I1
-sS'machine learning'
+F0.0034651983488718885
+sVComputer Science
 p49
-I1
-sS'analytics'
+F0.0013928549943879964
+sVMathematics
 p50
-I1
-sS'engineering'
-p51
-I1
-sS'computer science'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'advanced analytics'
-p54
-I1
-sS'mathematics'
-p55
-I1
-sS'computer science mathematics'
-p56
-I1
+F0.0026373423532037722
 ssS'education'
-p57
-(dp58
-S'Bachelor'
-p59
-I1
+p51
+(dp52
+VBachelor
+p53
+F0.001402121273338318
 ssS'responsibility'
-p60
-(dp61
+p54
+(dp55
 S'development'
-p62
-I1
+p56
+F0.0037260338535819036
 sS'information'
-p63
-I1
+p57
+F0.012804047995655951
 sS'product'
-p64
-I1
-sS'analytical method'
-p65
-I1
-sVinsight
-p66
-I1
+p58
+F0.0062076594956203693
+sS'insight'
+p59
+F0.01411456427699604
 sS'communicate'
-p67
-I1
+p60
+F0.0030865275112024492
 sS'analysis'
-p68
-I1
+p61
+F0.0010542114515511691
+sS'forecast'
+p62
+F0.0069871142997497589
 sS'analytic'
-p69
-I1
+p63
+F0.0034734245727686811
 sS'understand'
-p70
-I1
+p64
+F0.0064667071182900777
 sS'modeling'
-p71
-I1
+p65
+F0.0024989098123740076
 ss.

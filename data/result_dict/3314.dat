@@ -2,124 +2,112 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'nosql'
 p4
-aS'engineering'
+aS'communication'
 p5
-aS'analysis'
+aS'rest'
 p6
-aS'batch processing'
+aS'engineering'
 p7
-aS'hbase'
-p8
-aS'education'
-p9
-aS'management'
-p10
-aS'networking'
-p11
-aS'big data'
-p12
-aS'data'
-p13
-aS'storage'
-p14
-aS'hadoop'
-p15
-aS'research'
-p16
-aS'computer science'
-p17
-aS'python'
-p18
-aS'processing'
-p19
-aS'data scientist'
-p20
-aS'splunk'
-p21
-aS'spark'
-p22
-aS'solr'
-p23
-aS'software development'
-p24
-aS'english'
-p25
-aS'science'
-p26
 aS'hive'
+p8
+aS'batch processing'
+p9
+aS'hbase'
+p10
+aS'education'
+p11
+aS'management'
+p12
+aS'java'
+p13
+aS'big data'
+p14
+aS'data'
+p15
+aS'storage'
+p16
+aS'hadoop'
+p17
+aS'research'
+p18
+aS'json'
+p19
+aS'computer science'
+p20
+aS'python'
+p21
+aS'processing'
+p22
+aS'data scientist'
+p23
+aS'splunk'
+p24
+aS'networking'
+p25
+aS'spark'
+p26
+aS'solr'
 p27
-aS'engineering management'
+aS'software development'
 p28
-aS'credit'
+aS'english'
 p29
-aS'healthcare'
+aS'science'
 p30
-aS'security'
+aS'analysis'
 p31
-asS'working-year'
+aS'engineering management'
 p32
-(lp33
-V(0, 2]
+aS'credit'
+p33
+aS'healthcare'
 p34
-aV(2, 5]
+aS'security'
 p35
-asS'major'
+asS'working-year'
 p36
 (lp37
-S'information'
+V(0, 2]
 p38
-aS'management'
+aV(2, 5]
 p39
-aS'business'
+asS'major'
 p40
-aS'big data'
-p41
-aS'science'
+(lp41
+VEngineering
 p42
-aS'management information systems'
+aVInformation Science
 p43
-aS'communication'
+aVComputer Science
 p44
-aS'information systems'
+aVBusiness
 p45
-aS'engineering management'
+aVManagement Science and Engineering
 p46
-aS'engineering'
-p47
-aS'information system'
-p48
-aS'design'
-p49
-aS'computer science'
-p50
-aS'english'
-p51
-aS'ee computer science'
-p52
 asS'education'
-p53
-(lp54
+p47
+(lp48
 VBachelor
-p55
+p49
 asS'responsibility'
-p56
-(lp57
+p50
+(lp51
 S'development'
-p58
+p52
 aS'information'
-p59
+p53
 aS'product'
-p60
+p54
 aS'support platform'
-p61
+p55
 aS'data infrastructure'
-p62
+p56
 aS'processing'
-p63
+p57
 aS'analysis'
-p64
+p58
 aS'design'
-p65
+p59
 as.

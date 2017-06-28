@@ -4,247 +4,241 @@ p2
 (dp3
 S'scientific programming'
 p4
-I1
+F0.013365324606206087
 sS'communication'
 p5
-I1
+F0.0037338899979029632
 sS'decision support'
 p6
-I1
-sS'engineering'
+F0.010475334806539553
+sS'sales'
 p7
-I1
-sS'data-driven decision making'
-p8
-I1
-sS'problem solving'
-p9
-I1
-sS'analysis'
-p10
-I1
-sS'education'
-p11
-I1
-sS'd3'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'critical thinking'
-p14
-I1
-sS'tableau'
-p15
-I1
-sS'strategy'
-p16
-I1
-sS'access'
-p17
-I1
-sS'corporate development'
-p18
-I1
-sS'computer science'
-p19
-I1
-sS'unstructured data'
-p20
-I1
-sS'operations research'
-p21
-I1
-sS'data analysis'
-p22
-I1
-sS'theory'
-p23
-I1
-sS'python'
-p24
-I1
-sS'marketing'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'leadership'
-p27
-I1
-sS'mentoring'
-p28
-I1
-sS'modeling'
-p29
-I1
-sS'spark'
-p30
-I1
-sS'r'
-I1
-sS'data'
-p31
-I1
-sS'econometrics'
-p32
-I1
-sS'training'
-p33
-I1
-sS'postgresql'
-p34
-I1
-sS'data visualization'
-p35
-I1
-sS'sql server'
-p36
-I1
-sS'shiny'
-p37
-I1
-sS'programming'
-p38
-I1
-sS'hive'
-p39
-I1
-sS'machine learning'
-p40
-I1
-sS'optimization'
-p41
-I1
-sS'healthcare'
-p42
-I1
-sS'organization'
-p43
-I1
-sS'impala'
-p44
-I1
+F0.0078410489155448203
 sS'stochastic modeling'
-p45
-I1
-ssS'working-year'
-p46
-(dp47
-V[0]
-p48
-I1
-ssS'major'
-p49
-(dp50
-S'finance economics'
-p51
-I1
-sS'information'
-p52
-I1
-sS'big data'
-p53
-I1
-sS'business'
-p54
-I1
-sS'marketing'
-p55
-I1
-sS'applied math'
-p56
-I1
-sS'communication'
-p57
-I1
-sS'machine learning'
-p58
-I1
+p8
+F0.012655173951469164
 sS'engineering'
-p59
-I1
-sS'computer science engineering'
-p60
-I1
-sS'computational finance'
-p61
-I1
-sS'statistic'
-p62
-I1
-sS'general'
-p63
-I1
-sS'econometrics'
-p64
-I1
-sS'operations research'
-p65
-I1
-sS'computer science'
-p66
-I1
-ssS'education'
-p67
-(dp68
-VMaster
-p69
-I1
-sVDoctor
-p70
-I1
-ssS'responsibility'
-p71
-(dp72
-S'development'
-p73
-I1
-sS'information'
-p74
-I1
-sS'product'
-p75
-I1
-sS'data analysis'
-p76
-I1
-sS'business problem'
-p77
-I1
-sS'pattern'
-p78
-I1
-sS'provide leadership'
-p79
-I1
-sVinsight
-p80
-I1
-sS'communicate'
-p81
-I1
+p9
+F0.0057776168729889365
+sS'data-driven decision making'
+p10
+F0.012903664631381479
+sS'problem solving'
+p11
+F0.0057891789267765356
 sS'analysis'
-p82
-I1
-sS'analytic'
-p83
-I1
-sS'optimization'
-p84
-I1
-sS'understand'
-p85
-I1
+p12
+F0.00080806302300502337
+sS'education'
+p13
+F0.004949591391069031
+sS'd3'
+p14
+F0.0071230973872294665
+sS'theory'
+p15
+F0.0069115005907389986
+sS'big data'
+p16
+F0.0030017102036855366
+sS'shiny'
+p17
+F0.011044107290047093
+sS'critical thinking'
+p18
+F0.0092482208231391919
+sS'tableau'
+p19
+F0.0047382690734051689
+sS'strategy'
+p20
+F0.0074292992039001644
+sS'access'
+p21
+F0.0054704293044727705
+sS'corporate development'
+p22
+F0.016226221326702529
+sS'computer science'
+p23
+F0.0033159982622340107
+sS'unstructured data'
+p24
+F0.0075207746072008487
+sS'operations research'
+p25
+F0.0067946663102639374
+sS'data analysis'
+p26
+F0.0034994387145416629
+sS'finance'
+p27
+F0.012524273840489096
+sS'python'
+p28
+F0.0012293667753614764
+sS'marketing'
+p29
+F0.004493430477541388
+sS'data scientist'
+p30
+F0.0024985180782166939
+sS'leadership'
+p31
+F0.0038971901443486368
+sS'mentoring'
+p32
+F0.016226951422070542
 sS'modeling'
-p86
-I1
+p33
+F0.0019154379458055483
+sS'spark'
+p34
+F0.0039767349606501384
+sS'r'
+F0.0013089441193725028
+sS'data'
+p35
+F0.0013986024513499165
+sS'econometrics'
+p36
+F0.00723410037674585
+sS'training'
+p37
+F0.0055502234693922854
+sS'postgresql'
+p38
+F0.0080257420588055982
+sS'data visualization'
+p39
+F0.0046385227018386809
+sS'sql server'
+p40
+F0.0065986520501854287
+sS'science'
+p41
+F0.0016580987929105952
+sS'economics'
+p42
+F0.0056521033593383519
+sS'programming'
+p43
+F0.0025998000821577261
+sS'hive'
+p44
+F0.0049192317204952984
+sS'machine learning'
+p45
+F0.0015460323628161304
+sS'optimization'
+p46
+F0.0047170020221427881
+sS'healthcare'
+p47
+F0.0063614159040334059
+sS'organization'
+p48
+F0.0041584524511360408
+sS'impala'
+p49
+F0.010732157620389324
+sS'research'
+p50
+F0.002012170617126741
+ssS'working-year'
+p51
+(dp52
+S'[0]'
+p53
+F0.0051797517229820343
+ssS'major'
+p54
+(dp55
+VBusiness
+p56
+F0.0025512130829578165
+sVEconomics
+p57
+F0.0038697442158595772
+sVEngineering
+p58
+F0.0053122144499215271
+sVComputer Science
+p59
+F0.0021352729866797116
+sVMathematics
+p60
+F0.0040430955886378581
+sVOperations Research
+p61
+F0.0075913417410074383
+ssS'education'
+p62
+(dp63
+VMaster
+p64
+F0.0017152846349626813
+sVDoctor
+p65
+F0.0025688249334350662
+ssS'responsibility'
+p66
+(dp67
+S'development'
+p68
+F0.0028560401000332987
+sS'information'
+p69
+F0.0032714745271919684
+sS'product'
+p70
+F0.0063443060882912572
+sS'data analysis'
+p71
+F0.0034994387145416629
+sS'business problem'
+p72
+F0.0067173362314401994
+sS'pattern'
+p73
+F0.0061759223480522306
+sS'provide leadership'
+p74
+F0.012264811693914645
+sS'insight'
+p75
+F0.012982736009501073
+sS'communicate'
+p76
+F0.0047317049110414903
+sS'analysis'
+p77
+F0.00080806302300502337
+sS'develop ... model'
+p78
+F0.0073111156301324002
+sS'analytic'
+p79
+F0.0053248254063670815
+sS'drive ... decision'
+p80
+F0.0095190630630403623
+sS'optimization'
+p81
+F0.0047170020221427881
+sS'understand'
+p82
+F0.004956792012840272
+sS'modeling'
+p83
+F0.0019154379458055483
 sS'implement'
-p87
-I1
+p84
+F0.0049949603186783195
 sS'model'
-p88
-I1
+p85
+F0.0072991077448190597
+sS'decision making'
+p86
+F0.007704205306437532
 ss.

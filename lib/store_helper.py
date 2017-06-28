@@ -39,7 +39,7 @@ class StoreHelper(object):
         if type(data) == list:
             out.write('\n'.join([str(x) for x in data]))
         elif type(data) == dict:
-            out.write('\n'.join(["%s: %s" % (k, v) for k, v in data.items()]))
+            out.write('\n'.join(["%s: %s" % (k, str(v)) for k, v in data.items()]))
         elif type(data) != str:
             out.write(str(data))
         else:

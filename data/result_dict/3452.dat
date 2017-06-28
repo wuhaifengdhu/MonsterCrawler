@@ -2,84 +2,85 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'a'
+aS'consulting'
 p4
 aS'management'
 p5
 aS'finance'
 p6
-aS'python'
-p7
-aS'marketing'
-p8
-aS'data science'
-p9
-aS'data scientist'
-p10
-aS'training'
-p11
-aS'research'
-p12
 aS'policy'
-p13
-aS'engineering'
-p14
-aS'statistical analysis'
-p15
-aS'sql'
-p16
-aS'product management'
-p17
-aS'public policy'
-p18
-aS'education'
-p19
-aS'data'
-p20
-aS'science'
-p21
-asS'working-year'
-p22
-(lp23
-V(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'management'
-p27
-aS'finance'
-p28
-aS'business'
-p29
+p7
+aS'python'
+p8
 aS'marketing'
-p30
+p9
 aS'data science'
-p31
+p10
+aS'data scientist'
+p11
+aS'training'
+p12
+aS'analysis'
+p13
+aS'research'
+p14
+aS'analytics'
+p15
 aS'engineering'
-p32
-aS'design'
-p33
-aS'science'
-p34
+p16
+aS'statistical analysis'
+p17
+aS'sql'
+p18
+aS'product management'
+p19
 aS'public policy'
-p35
+p20
+aS'education'
+p21
+aS'data'
+p22
+aS'science'
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VSociology
+p29
+aVBusiness
+p30
+aVData Science
+p31
+aVEconomics
+p32
+aVEngineering
+p33
+aVManagement Science and Engineering
+p34
 asS'education'
-p36
-(lp37
+p35
+(lp36
 S'Bachelor'
-p38
+p37
 asS'responsibility'
-p39
-(lp40
-S'understand'
+p38
+(lp39
+S'product'
+p40
+aS'analysis'
 p41
-aS'implement'
+aS'understand'
 p42
-aS'engineering design'
-p43
 aS'design'
+p43
+aS'implement'
 p44
-aS'product'
+aS'engineering design'
 p45
 as.

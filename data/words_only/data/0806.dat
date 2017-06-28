@@ -4,199 +4,195 @@ p2
 (dp3
 S'debugging'
 p4
-I1
+F0.011814576621461318
 sS'nosql'
 p5
-I1
+F0.0073571152265229098
 sS'regression analysis'
 p6
-I1
+F0.010185206940132583
 sS'testing'
 p7
-I1
+F0.011007408682258135
 sS'unix'
 p8
-I1
+F0.0069410988945834678
 sS'trading'
 p9
-I1
+F0.067885850763736377
 sS'pricing'
 p10
-I1
+F0.010163082444998363
 sS'writing'
 p11
-I1
+F0.0060404847475335833
 sS'strategy'
 p12
-I1
+F0.01270170509053899
 sS'quantitative analysis'
 p13
-I1
+F0.020505388935593713
 sS'regression'
 p14
-I1
-sS'education'
+F0.0063875478244134433
+sS'statistics'
 p15
-I1
+F0.002506754986028507
 sS'java'
 p16
-I1
+F0.0033313628163125905
 sS'time series analysis'
 p17
-I1
+F0.0077355132053751746
 sS'excel'
 p18
-I1
+F0.0043466511473281332
 sS'integration'
 p19
-I1
+F0.0061995782854693884
 sS'trading systems'
 p20
-I1
+F0.014829612878581833
 sS'research'
 p21
-I1
+F0.0068803253359817603
 sS'matlab'
 p22
-I1
-sS'junit'
+F0.0034311859882743679
+sS'mathematics'
 p23
-I1
-sS'operations research'
+F0.0049136916184833491
+sS'junit'
 p24
-I1
-sS'electronic trading'
-p25
-I1
-sS'data analysis'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'data structures'
-p28
-I1
-sS'data'
-p29
-I1
-sS'software development'
-p30
-I1
-sS'data visualization'
-p31
-I1
-sS'quantitative research'
-p32
-I1
-sS'market data'
-p33
-I1
-sS'programming'
-p34
-I1
-sS'unit testing'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'r'
-I1
-sS'artificial intelligence'
-p37
-I1
-sS'object oriented design'
-p38
-I1
-sS'computer science'
-p39
-I1
-sS'analysis'
-p40
-I1
-sS'statistical analysis'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(0, 2]
-p44
-I1
-sV(2, 5]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'business'
-p48
-I1
-sS'phd'
-p49
-I1
-sS'design'
-p50
-I1
+F0.014533912803745178
 sS'operations research'
-p51
-I1
-sS'statistic'
-p52
-I1
-sS'financial mathematics'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'ee computer science'
-p55
-I1
-sS'artificial intelligence'
-p56
-I1
-sS'computer science'
-p57
-I1
-ssS'education'
-p58
-(dp59
-VBachelor
-p60
-I1
-sVMaster
-p61
-I1
-sVDoctor
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'development'
-p65
-I1
-sS'large data set'
-p66
-I1
+p25
+F0.0077444583751395428
+sS'electronic trading'
+p26
+F0.016631106694058914
 sS'data analysis'
-p67
-I1
-sS'communicate'
-p68
-I1
+p27
+F0.0039886075671120031
+sS'data scientist'
+p28
+F0.0028477732934512859
+sS'training'
+p29
+F0.0063260611586621754
+sS'data structures'
+p30
+F0.012004406529916254
+sS'data'
+p31
+F0.00031882120396363689
+sS'software development'
+p32
+F0.0056994532743905183
+sS'c'
+F0.0033618868921991866
+sS'data visualization'
+p33
+F0.0052869183483322604
+sS'quantitative research'
+p34
+F0.0094174479574670976
+sS'market data'
+p35
+F0.016511612959930921
+sS'programming'
+p36
+F0.01481606498433973
 sS'analysis'
-p69
-I1
+p37
+F0.0018420361384630644
+sS'machine learning'
+p38
+F0.0017621444135323639
+sS'r'
+F0.0014919148027256483
+sS'artificial intelligence'
+p39
+F0.0074398294625665738
+sS'object oriented design'
+p40
+F0.012070783766925148
+sS'computer science'
+p41
+F0.0037795249010409162
+sS'education'
+p42
+F0.0056414697575625523
+sS'statistical analysis'
+p43
+F0.0069212369715392691
+ssS'working-year'
+p44
+(dp45
+V(0, 2]
+p46
+F0.0061225273228229932
+sV(2, 5]
+p47
+F0.003330495775352515
+ssS'major'
+p48
+(dp49
+VStatistics
+p50
+F0.0048427547577636568
+sVBusiness
+p51
+F0.0029078342665970814
+sVEconomics
+p52
+F0.004410676203022745
+sVComputer Science
+p53
+F0.0024337520063231126
+sVMathematics
+p54
+F0.0046082594881248712
+sVOperations Research
+p55
+F0.0086524970381375108
+ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.002449943085134158
+sVMaster
+p59
+F0.0019550556054413358
+sVDoctor
+p60
+F0.0029279079886464195
+ssS'responsibility'
+p61
+(dp62
+S'development'
+p63
+F0.022786900583061372
+sS'large data set'
+p64
+F0.0084528417616474907
+sS'data analysis'
+p65
+F0.0039886075671120031
+sS'communicate'
+p66
+F0.0053931260276386889
+sS'analysis'
+p67
+F0.0018420361384630644
 sS'design'
-p70
-I1
+p68
+F0.0078517140323574076
 sS'report'
-p71
-I1
+p69
+F0.011157400108453921
 sS'quantitative analysis'
-p72
-I1
+p70
+F0.020505388935593713
 ss.

@@ -4,197 +4,182 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.018363258595167006
 sS'data science'
 p5
-I1
+F0.0035170787300017516
 sS'operational planning'
 p6
-I1
+F0.017282219204351197
 sS'intelligence analysis'
 p7
-I1
+F0.014207541630772005
 sS'information technology'
 p8
-I1
-sS'business intelligence'
+F0.0091130089817594885
+sS'analytics'
 p9
-I1
-sS'data mining'
+F0.002543091994103879
+sS'business intelligence'
 p10
-I1
-sS'user experience design'
-p11
-I1
-sS'writing'
-p12
-I1
-sS'management'
-p13
-I1
-sS'open source'
-p14
-I1
-sS'big data'
-p15
-I1
-sS'program management'
-p16
-I1
-sS'user experience'
-p17
-I1
-sS'agile'
-p18
-I1
-sS'education'
-p19
-I1
-sS'integration'
-p20
-I1
-sS'governance'
-p21
-I1
-sS'research'
-p22
-I1
-sS'computer science'
-p23
-I1
-sS'project planning'
-p24
-I1
-sS'data analysis'
-p25
-I1
-sS'business analysis'
-p26
-I1
-sS'collaboration'
-p27
-I1
-sS'data scientist'
-p28
-I1
-sS'technical documentation'
-p29
-I1
-sS'project management'
-p30
-I1
-sS'data visualization'
-p31
-I1
-sS'documentation'
-p32
-I1
-sS'budgeting'
-p33
-I1
-sS'engineering'
-p34
-I1
+F0.0059738108443696519
 sS'analysis'
+p11
+F0.0010018091279360524
+sS'data mining'
+p12
+F0.0062046179201232093
+sS'writing'
+p13
+F0.013140703661301127
+sS'management'
+p14
+F0.0079477970806987024
+sS'open source'
+p15
+F0.0093506425143803935
+sS'big data'
+p16
+F0.0037214184981364546
+sS'program management'
+p17
+F0.0097669921303037786
+sS'user experience'
+p18
+F0.0098690437576223842
+sS'agile'
+p19
+F0.0063850581073085066
+sS'education'
+p20
+F0.0061363355257697929
+sS'integration'
+p21
+F0.020230202826268529
+sS'governance'
+p22
+F0.010539520528935083
+sS'research'
+p23
+F0.0024946208820518659
+sS'computer science'
+p24
+F0.0041110621730620486
+sS'project planning'
+p25
+F0.012180818174074024
+sS'data analysis'
+p26
+F0.0043384854238762141
+sS'business analysis'
+p27
+F0.0078027257318048354
+sS'collaboration'
+p28
+F0.0074785655557703329
+sS'data scientist'
+p29
+F0.0030975779683154333
+sS'technical documentation'
+p30
+F0.01530633376415544
+sS'data'
+p31
+F0.0013871519049645953
+sS'project management'
+p32
+F0.0055598050389606603
+sS'data visualization'
+p33
+F0.0057506831157298271
+sS'science'
+p34
+F0.0082226185753695013
+sS'documentation'
 p35
-I1
-sS'data engineering'
+F0.025433692622316057
+sS'budgeting'
 p36
-I1
-sS'interaction design'
+F0.015205497538654415
+sS'engineering'
 p37
-I1
-sS'data analytics'
+F0.0214886802995378
+sS'presentations'
 p38
-I1
-ssS'working-year'
+F0.012400216022771972
+sS'data engineering'
 p39
-(dp40
-V[0]
+F0.011710031450489588
+sS'interaction design'
+p40
+F0.015574775524033874
+sS'data analytics'
 p41
-I1
-ssS'major'
+F0.0059717037470344942
+ssS'working-year'
 p42
 (dp43
-S'information'
+S'[0]'
 p44
-I1
-sS'management'
+F0.0064216804986677849
+ssS'major'
 p45
-I1
-sS'business analysis'
-p46
-I1
-sS'big data'
+(dp46
+VBusiness
 p47
-I1
-sS'data science'
+F0.0031629074478775267
+sVData Science
 p48
-I1
-sS'data mining'
+F0.0030037689549855633
+sVEngineering
 p49
-I1
-sS'data science analytics'
+F0.0214886802995378
+sVInformation Science
 p50
-I1
-sS'engineering'
+F0.0074054245279359466
+sVComputer Science
 p51
-I1
-sS'computer science engineering'
+F0.0026472390244216305
+sVManagement Science and Engineering
 p52
-I1
-sS'information technology'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'business management'
-p55
-I1
-sS'data analytics'
-p56
-I1
-sS'project management'
-p57
-I1
-sS'computer science'
-p58
-I1
+F0.0037705980656985156
 ssS'education'
-p59
-(dp60
+p53
+(dp54
 VBachelor
-p61
-I1
+p55
+F0.0026648503733038209
 sVMaster
-p62
-I1
+p56
+F0.0021265517111818035
 ssS'responsibility'
-p63
-(dp64
+p57
+(dp58
 S'development'
-p65
-I1
+p59
+F0.0035408216444857269
 sS'information'
-p66
-I1
+p60
+F0.0040558631565186971
 sS'product'
-p67
-I1
+p61
+F0.0039327277506366861
 sS'data analysis'
-p68
-I1
+p62
+F0.0043384854238762141
 sS'documentation'
-p69
-I1
+p63
+F0.025433692622316057
 sS'communicate'
-p70
-I1
+p64
+F0.0058662072581333099
 sS'analysis'
-p71
-I1
+p65
+F0.0010018091279360524
+sS'design'
+p66
+F0.0042702304386505194
 sS'data mining'
-p72
-I1
+p67
+F0.0062046179201232093
 ss.

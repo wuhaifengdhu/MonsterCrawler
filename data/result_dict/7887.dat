@@ -14,102 +14,90 @@ aS'intelligence analysis'
 p8
 aS'defense'
 p9
-aS'analysis'
+aS'communication skills'
 p10
 aS'education'
 p11
-aS'networking'
+aS'regression'
 p12
-aS'research'
+aS'networking'
 p13
-aS'intelligence'
+aS'research'
 p14
-aS'mathematics'
+aS'intelligence'
 p15
-aS'electronics'
-p16
-aS'hypothesis testing'
-p17
-aS'government'
-p18
-aS'python'
-p19
-aS'process automation'
-p20
-aS'modeling'
-p21
-aS'data'
-p22
-aS'visual basic'
-p23
-aS'information technology'
-p24
-aS'science'
-p25
-aS'applied mathematics'
-p26
-aS'programming'
-p27
-aS'communication skills'
-p28
-aS'command'
-p29
-aS'customer support'
-p30
-aS'security'
-p31
-asS'working-year'
-p32
-(lp33
-V(5, 10]
-p34
-aV(2, 5]
-p35
-asS'major'
-p36
-(lp37
-S'information'
-p38
-aS'computing'
-p39
-aS'science'
-p40
-aS'applied mathematics'
-p41
-aS'general'
-p42
-aS'information system'
-p43
-aS'communication'
-p44
 aS'mathematics'
-p45
+p16
 aS'electronics'
-p46
-aS'data science'
-p47
-aS'information technology'
-p48
-aS'history'
-p49
-asS'education'
-p50
-(lp51
-VBachelor
-p52
-asS'responsibility'
-p53
-(lp54
-S'information'
-p55
-aS'product'
-p56
-aS'pattern'
-p57
-aS'analysis'
-p58
+p17
+aS'hypothesis testing'
+p18
+aS'government'
+p19
+aS'python'
+p20
+aS'automation'
+p21
+aS'process automation'
+p22
 aS'modeling'
-p59
+p23
+aS'data'
+p24
+aS'visual basic'
+p25
+aS'information technology'
+p26
+aS'science'
+p27
+aS'applied mathematics'
+p28
+aS'programming'
+p29
+aS'analysis'
+p30
+aS'command'
+p31
+aS'customer support'
+p32
+aS'security'
+p33
+asS'working-year'
+p34
+(lp35
+V(5, 10]
+p36
+aV(2, 5]
+p37
+asS'major'
+p38
+(lp39
+VMathematics
+p40
+aVData Science
+p41
+aVInformation Science
+p42
+aVComputer Science
+p43
+asS'education'
+p44
+(lp45
+VBachelor
+p46
+asS'responsibility'
+p47
+(lp48
+S'information'
+p49
+aS'product'
+p50
+aS'pattern'
+p51
+aS'analysis'
+p52
+aS'modeling'
+p53
 aS'model'
-p60
+p54
 as.

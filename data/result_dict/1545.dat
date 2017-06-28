@@ -8,105 +8,108 @@ aS'pig'
 p5
 aS'engineering'
 p6
-aS'hive'
+aS'analysis'
 p7
 aS'data mining'
 p8
-aS'analysis'
+aS'sas'
 p9
 aS'regression'
 p10
 aS'clustering'
 p11
-aS'big data'
+aS'statistics'
 p12
-aS'hadoop'
+aS'gis'
 p13
-aS'econometrics'
+aS'big data'
 p14
-aS'six sigma'
+aS'hadoop'
 p15
+aS'econometrics'
+p16
+aS'six sigma'
+p17
 aS'r'
 aS'matlab'
-p16
-aS'mathematics'
-p17
-aS'data analysis'
 p18
-aS'python'
+aS'mathematics'
 p19
-aS'data scientist'
+aS'data analysis'
 p20
-aS'spark'
+aS'python'
 p21
-aS'data'
+aS'data scientist'
 p22
-aS'training'
+aS'hive'
 p23
-aS'data collection'
+aS'spark'
 p24
-aS'programming'
+aS'data'
 p25
-aS'communication skills'
+aS'a'
+aS'training'
 p26
-aS'optimization'
+aS'data collection'
 p27
-aS'organization'
+aS'programming'
 p28
-asS'working-year'
+aS'communication skills'
 p29
-(lp30
-V(0, 2]
+aS'optimization'
+p30
+aS'organization'
 p31
-asS'major'
+asS'working-year'
 p32
 (lp33
-S'big data'
+V(0, 2]
 p34
-aS'communication'
+asS'major'
 p35
-aS'data mining'
-p36
-aS'phd'
+(lp36
+VMathematics
 p37
-aS'engineering'
+aVEngineering
 p38
-aS'design'
+aVStatistics
 p39
-aS'statistic'
+aVComputer Science
 p40
-aS'mathematics'
-p41
-aS'econometrics'
-p42
 asS'education'
+p41
+(lp42
+VMaster
 p43
-(lp44
-VDoctor
-p45
+aVDoctor
+p44
 asS'responsibility'
-p46
-(lp47
+p45
+(lp46
 S'data analysis'
-p48
+p47
 aS'optimization'
-p49
+p48
 aS'analysis'
-p50
+p49
 aS'improvement'
-p51
+p50
 aS'analytic'
-p52
+p51
 aS'data collection'
-p53
+p52
 aS'design'
-p54
+p53
 aS'data mining'
-p55
+p54
 aS'model'
-p56
+p55
 aS'statistical model'
-p57
+p56
 aS'evaluation'
+p57
+aS'validate ... model'
 p58
+aS'test ... model'
+p59
 as.

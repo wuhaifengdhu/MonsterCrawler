@@ -4,157 +4,160 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.0047577533632932696
 sS'data science'
 p5
-I1
+F0.0036449725020018158
 sS'analytics'
 p6
-I1
+F0.007906704199850241
 sS'engineering'
 p7
-I1
-sS'linux'
+F0.018558405713237192
+sS'ec2'
 p8
-I1
-sS'd3'
+F0.013118379929272188
+sS'linux'
 p9
-I1
-sS'git'
+F0.005594175872118877
+sS'd3'
 p10
-I1
-sS'open source'
+F0.0091521008854099813
+sS'git'
 p11
-I1
-sS'scala'
+F0.0087656761135724275
+sS'open source'
 p12
-I1
-sS'hadoop'
+F0.0096906658785396796
+sS'scala'
 p13
-I1
-sS'computer science'
+F0.0073956557202988996
+sS'hadoop'
 p14
-I1
-sS'advanced analytics'
-p15
-I1
-sS'tensorflow'
-p16
-I1
-sS'distributed computing'
-p17
-I1
-sS'python'
-p18
-I1
-sS'aws'
-p19
-I1
-sS'processing'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'data processing'
-p22
-I1
-sS'algorithm development'
-p23
-I1
-sS'spark'
-p24
-I1
-sS'data'
-p25
-I1
-sS'data visualization'
-p26
-I1
-sS'cloud computing'
-p27
-I1
-sS'scikit-learn'
-p28
-I1
-sS'thought leadership'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'r'
-I1
-sS'organization'
-p31
-I1
-sS'security'
-p32
-I1
-sS'shiny'
-p33
-I1
-sS'etl'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'computing'
-p41
-I1
-sS'data science'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'analytics'
-p44
-I1
-sS'engineering'
-p45
-I1
+F0.0038933530345441358
 sS'computer science'
-p46
-I1
+p15
+F0.0042605553429915779
 sS'advanced analytics'
+p16
+F0.0089176077404184359
+sS'mathematics'
+p17
+F0.005539070551744866
+sS'distributed computing'
+p18
+F0.010840595340785795
+sS'python'
+p19
+F0.0015795500386462605
+sS'aws'
+p20
+F0.0079196252993385154
+sS'processing'
+p21
+F0.004948751777790061
+sS'data scientist'
+p22
+F0.0032102171671632676
+sS'statistics'
+p23
+F0.0028257965297048622
+sS'data processing'
+p24
+F0.011138541205237501
+sS'algorithm development'
+p25
+F0.012754311355611078
+sS'spark'
+p26
+F0.0051095018888353289
+sS'data'
+p27
+F0.0021563906886267804
+sS'tensorflow'
+p28
+F0.013075699465837679
+sS'data visualization'
+p29
+F0.0059597988653927302
+sS'science'
+p30
+F0.0021304057218002798
+sS'cloud computing'
+p31
+F0.0098108988930843827
+sS'scikit-learn'
+p32
+F0.010871152427598452
+sS'thought leadership'
+p33
+F0.0124293299985731
+sS'machine learning'
+p34
+F0.0019864173388910284
+sS'r'
+F0.0016817948685270943
+sS'organization'
+p35
+F0.0053429813311566101
+sS'security'
+p36
+F0.019866825597452651
+sS'shiny'
+p37
+F0.014190004518121115
+sS'etl'
+p38
+F0.0086356505273187355
+ssS'working-year'
+p39
+(dp40
+V(2, 5]
+p41
+F0.0037543770558519257
+ssS'major'
+p42
+(dp43
+VMathematics
+p44
+F0.0051947652411589449
+sVEngineering
+p45
+F0.0068253906871719016
+sVStatistics
+p46
+F0.0054591053632972123
+sVData Science
 p47
-I1
-sS'computer science mathematics'
+F0.0031129969169850381
+sVComputer Science
 p48
-I1
+F0.0027435022616733263
 ssS'education'
 p49
 (dp50
 VBachelor
 p51
-I1
+F0.0027617540232421417
 ssS'responsibility'
 p52
 (dp53
-S'information'
+S'development'
 p54
-I1
-sS'implement'
+F0.003669578795194299
+sS'information'
 p55
-I1
-sS'prototype'
-p56
-I1
+F0.0042033490894830142
 sS'product'
-p57
-I1
+p56
+F0.016302944129912081
 sS'processing'
+p57
+F0.004948751777790061
+sS'implement'
 p58
-I1
+F0.012835534394664288
+sS'prototype'
+p59
+F0.019110129779089016
 ss.

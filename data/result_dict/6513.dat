@@ -14,7 +14,7 @@ aS'go'
 p8
 aS'hbase'
 p9
-aS'regression'
+aS'd3'
 p10
 aS'cassandra'
 p11
@@ -28,56 +28,56 @@ aS'scala'
 p15
 aS'deep learning'
 p16
-aS'd3.js'
+aS'redis'
 p17
-aS'tensorflow'
+aS'd3.js'
 p18
-aS'numpy'
+aS'tensorflow'
 p19
-aS'apis'
+aS'numpy'
 p20
-aS'python'
+aS'apis'
 p21
-aS'ggplot'
+aS'python'
 p22
-aS'matplotlib'
+aS'ggplot'
 p23
-aS'sql'
+aS'matplotlib'
 p24
-aS'spark'
+aS'sql'
 p25
-aS'data'
+aS'regression'
 p26
-aS'data visualization'
+aS'spark'
 p27
-aS'science'
+aS'data'
 p28
-aS'programming'
+aS'data visualization'
 p29
-aS'hive'
+aS'science'
 p30
-aS'machine learning'
+aS'programming'
 p31
+aS'hive'
+p32
+aS'machine learning'
+p33
 aS'r'
 aS'theano'
-p32
-aS'scripting'
-p33
-asS'working-year'
 p34
-(lp35
-V[0]
+aS'scripting'
+p35
+asS'working-year'
 p36
+(lp37
+S'[0]'
+p38
 asS'major'
-p37
-(lp38
-S'science'
 p39
-aS'data science'
-p40
-aS'statistic'
+(lp40
+VData Science
 p41
-aS'machine learning'
+aVComputer Science
 p42
 asS'education'
 p43

@@ -2,121 +2,116 @@
 S'skills'
 p2
 (lp3
-S'classification'
+S'data scientist'
 p4
-aS'intelligence'
+aS'classification'
 p5
-aS'tableau'
+aS'intelligence'
 p6
-aS'analytics'
+aS'tableau'
 p7
-aS'engineering'
+aS'analytics'
 p8
-aS'digital analytics'
+aS'engineering'
 p9
-aS'spss'
+aS'sas'
 p10
-aS'regression'
+aS'digital analytics'
 p11
-aS'clustering'
+aS'spss'
 p12
-aS'visualization'
+aS'regression'
 p13
-aS'big data'
+aS'clustering'
 p14
-aS'hadoop'
+aS'visualization'
 p15
-aS'oracle sql'
+aS'big data'
 p16
-aS'data analysis'
+aS'hadoop'
 p17
-aS'python'
+aS'oracle sql'
 p18
-aS'marketing'
+aS'data analysis'
 p19
-aS'data scientist'
+aS'python'
 p20
-aS'business analytics'
+aS'marketing'
 p21
-aS'sql'
-p22
 aS'spotfire'
+p22
+aS'business analytics'
 p23
-aS'data'
+aS'sql'
 p24
-aS'statistical programming'
+aS'data'
 p25
-aS'pattern recognition'
+aS'statistical programming'
 p26
-aS'data visualization'
+aS'a'
+aS'pattern recognition'
 p27
-aS'consumer insights'
+aS'data visualization'
 p28
-aS'programming'
+aS'consumer insights'
 p29
-aS'analysis'
+aS'programming'
 p30
-aS'machine learning'
+aS'analysis'
 p31
+aS'machine learning'
+p32
 aS'r'
 aS'oracle'
-p32
-aS'scripting'
 p33
-asS'working-year'
+aS'scripting'
 p34
-(lp35
+asS'working-year'
+p35
+(lp36
 V(2, 5]
-p36
-asS'major'
 p37
-(lp38
-S'information'
-p39
-aS'business'
+asS'major'
+p38
+(lp39
+VEngineering
 p40
-aS'big data'
+aVData Science
 p41
-aS'marketing'
+aVEconomics
 p42
-aS'machine learning'
+aVComputer Science
 p43
-aS'business analytics'
+aVBusiness
 p44
-aS'analytics'
-p45
-aS'engineering'
-p46
-aS'general'
-p47
 asS'education'
+p45
+(lp46
+VBachelor
+p47
+asS'responsibility'
 p48
 (lp49
-VBachelor
-p50
-asS'responsibility'
-p51
-(lp52
 S'development'
-p53
-aS'large data set'
-p54
-aS'product'
-p55
-aS'data analysis'
-p56
+p50
 aS'information'
-p57
+p51
+aS'product'
+p52
+aS'data analysis'
+p53
+aS'cross functionally'
+p54
 aS'pattern'
-p58
-aVinsight
-p59
+p55
+aS'insight'
+p56
 aS'recommendation'
-p60
+p57
 aS'analysis'
-p61
+p58
 aS'identify opportunity'
-p62
+p59
 aS'model'
-p63
+p60
 as.

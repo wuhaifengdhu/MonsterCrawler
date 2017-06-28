@@ -2,129 +2,117 @@
 S'skills'
 p2
 (dp3
-S'management'
+S'statistics'
 p4
-I1
+F0.0027107931825657108
 sS'genetics'
 p5
-I1
+F0.011291293910229353
 sS'performance management'
 p6
-I1
+F0.013794247927656506
 sS'big data'
 p7
-I1
+F0.0036997823440775221
 sS'python'
 p8
-I1
+F0.0030305320508910811
 sS'communication'
 p9
-I1
+F0.0046022365090431869
 sS'data science'
 p10
-I1
+F0.0034966305978505791
 sS'performance measurement'
 p11
-I1
+F0.015716905706375597
 sS'analysis'
 p12
-I1
+F0.0019919693125240111
 sS'machine learning'
 p13
-I1
+F0.0019055747727733702
 sS'analytics'
 p14
-I1
+F0.0025283065755335077
 sS'r'
-I1
+F0.0032266994570577974
 sS'advertising'
 p15
-I1
+F0.0095680153614252604
 sS'algorithm design'
 p16
-I1
-sS'retail'
-p17
-I1
-sS'data'
-p18
-I1
-sS'research'
-p19
-I1
-sS'data quality'
-p20
-I1
-ssS'working-year'
-p21
-(dp22
-V(2, 5]
-p23
-I1
-ssS'major'
-p24
-(dp25
-S'information'
-p26
-I1
+F0.012253580881020026
 sS'management'
-p27
-I1
-sS'genetics'
+p17
+F0.0026338629860455003
+sS'retail'
+p18
+F0.010017329896559657
+sS'data'
+p19
+F0.0010343153012308684
+sS'research'
+p20
+F0.0074403518168174847
+sS'data quality'
+p21
+F0.010275692044145999
+sS'science'
+p22
+F0.0020437031633549199
+ssS'working-year'
+p23
+(dp24
+V(2, 5]
+p25
+F0.0036015826407881845
+ssS'major'
+p26
+(dp27
+VBiological Engineering
 p28
-I1
-sS'big data'
+F0.0076459179665020072
+sVData Science
 p29
-I1
-sS'communication'
+F0.0029863051819914613
+sVStatistics
 p30
-I1
-sS'data science'
+F0.0052369324706048838
+sVComputer Science
 p31
-I1
-sS'machine learning'
+F0.00263184809986104
+sVManagement Science and Engineering
 p32
-I1
-sS'analytics'
-p33
-I1
-sS'design'
-p34
-I1
-sS'statistic'
-p35
-I1
+F0.0037486759839211988
 ssS'education'
+p33
+(dp34
+VMaster
+p35
+F0.0021141880384423746
+ssS'responsibility'
 p36
 (dp37
-VMaster
-p38
-I1
-ssS'responsibility'
-p39
-(dp40
 S'information'
-p41
-I1
+p38
+F0.008064565113542992
 sS'analysis'
-p42
-I1
+p39
+F0.0019919693125240111
 sS'statistical method'
-p43
-I1
+p40
+F0.010220321014684626
 sS'understand'
-p44
-I1
-sS'design experiment'
-p45
-I1
-sS'design'
-p46
-I1
+p41
+F0.0061095343414077768
 sS'implement'
-p47
-I1
+p42
+F0.0061565789974407197
+sS'design ... experiment'
+p43
+F0.013053289422372542
 sS'model'
-p48
-I1
+p44
+F0.0089965746622188425
 ss.

@@ -4,165 +4,149 @@ p2
 (lp3
 S'characterization'
 p4
-aS'analytics'
+aS'biology'
 p5
-aS'engineering'
+aS'analytics'
 p6
-aS'statistical analysis'
+aS'engineering'
 p7
-aS'modeling'
+aS'statistical analysis'
 p8
-aS'simulation'
+aS'modeling'
 p9
-aS'clustering'
+aS'simulation'
 p10
-aS'education'
+aS'clustering'
 p11
-aS'genetics'
+aS'statistics'
 p12
-aS'big data'
+aS'genetics'
 p13
-aS'statistical computing'
+aS'big data'
 p14
-aS'anova'
+aS'statistical computing'
 p15
-aS'research'
+aS'education'
 p16
-aS'cell'
+aS'anova'
 p17
-aS'computer science'
+aS'research'
 p18
-aS'innovation'
+aS'cell'
 p19
-aS'medicine'
+aS'optimization'
 p20
-aS'mathematics'
+aS'computer science'
 p21
-aS'drug discovery'
+aS'innovation'
 p22
-aS'mixed model'
+aS'medicine'
 p23
-aS'statistical data analysis'
+aS'mathematics'
 p24
-aS'data analysis'
+aS'drug discovery'
 p25
-aS'theory'
+aS'statistical data analysis'
 p26
-aS'team leadership'
+aS'data analysis'
 p27
-aS'processing'
+aS'theory'
 p28
-aS'leadership'
+aS'team leadership'
 p29
-aS'bioinformatics'
+aS'python'
 p30
-aS'sequencing'
+aS'processing'
 p31
-aS'dna'
+aS'leadership'
 p32
-aS'manufacturing'
+aS'architectures'
 p33
-aS'data'
+aS'bioinformatics'
 p34
-aS'software development'
+aS'sequencing'
 p35
-aS'object oriented design'
+aS'dna'
 p36
-aS'cloud computing'
+aS'manufacturing'
 p37
-aS'analysis'
+aS'data'
 p38
-aS'machine learning'
+aS'software development'
 p39
+aS'object oriented design'
+p40
+aS'cloud computing'
+p41
+aS'analysis'
+p42
+aS'machine learning'
+p43
 aS'r'
 aS'science'
-p40
-aS'biotechnology'
-p41
-aS'validation'
-p42
-aVbayesian statistic
-p43
-aS'predictive analytics'
 p44
-asS'working-year'
+aS'biotechnology'
 p45
-(lp46
-V(5, 10]
+aS'validation'
+p46
+aS'predictive analytics'
 p47
-aV(0, 2]
+asS'working-year'
 p48
-aV(2, 5]
-p49
-asS'major'
+(lp49
+sS'major'
 p50
 (lp51
-S'mathematics'
+VStatistics
 p52
-aS'genetics'
+aVData Science
 p53
-aS'big data'
+aVEngineering
 p54
-aS'computing'
+aVComputer Science
 p55
-aS'science'
+aVBiological Engineering
 p56
-aS'statistical computing'
+aVMathematics
 p57
-aS'statistic'
-p58
-aS'machine learning'
-p59
-aS'analytics'
-p60
-aS'engineering'
-p61
-aS'design'
-p62
-aS'computer science'
-p63
-aS'bioinformatics'
-p64
-aS'medicine'
-p65
-aS'biotechnology'
-p66
-aS'phd'
-p67
-aVphysic
-p68
-aS'predictive analytics'
-p69
 asS'education'
-p70
-(lp71
-VDoctor
-p72
+p58
+(lp59
+VBachelor
+p60
+aVMaster
+p61
+aVDoctor
+p62
 asS'responsibility'
-p73
-(lp74
+p63
+(lp64
 S'development'
-p75
+p65
+aS'information'
+p66
 aS'data analysis'
-p76
+p67
 aS'processing'
-p77
-aVinsight
-p78
+p68
+aS'design ... experiment'
+p69
+aS'insight'
+p70
 aS'analysis'
-p79
+p71
 aS'simulation'
-p80
+p72
+aS'optimization'
+p73
 aS'design'
-p81
-aS'design experiment'
-p82
+p74
 aS'modeling'
-p83
+p75
 aS'report'
-p84
+p76
 aS'understand'
-p85
+p77
 aS'presentation'
-p86
+p78
 as.

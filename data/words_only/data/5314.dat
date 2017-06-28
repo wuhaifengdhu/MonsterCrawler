@@ -2,121 +2,120 @@
 S'skills'
 p2
 (dp3
-S'economics'
+S'a'
+F0.011835708187430549
+sS'economics'
 p4
-I1
+F0.01516766977442697
 sS'rdbms'
 p5
-I1
+F0.028315205356288998
 sS'government'
 p6
-I1
+F0.016500756428031425
 sS'olap'
 p7
-I1
+F0.032599262642437343
 sS'intelligence'
 p8
-I1
+F0.029811239428229983
 sS'decision support'
 p9
-I1
+F0.028111025050460571
 sS'data scientist'
 p10
-I1
+F0.0067048839567334069
 sS'engineering'
 p11
-I1
+F0.023256736273550405
 sS'analysis'
 p12
-I1
+F0.0021684729224944934
 sS'information technology'
 p13
-I1
+F0.019725627036466742
 sS'data integration'
 p14
-I1
+F0.024497855445769507
 sS'business intelligence'
 p15
-I1
+F0.012930653853002665
 sS'data warehousing'
 p16
-I1
+F0.019249938365090462
 sS'computer science'
 p17
-I1
+F0.0088986282480203842
 sS'modeling'
 p18
-I1
-sS'education'
+F0.0051401625887440034
+sS'mathematics'
 p19
-I1
-sS'data'
+F0.011568944823264593
+sS'education'
 p20
-I1
-sS'operations research'
+F0.013282447783628285
+sS'data'
 p21
-I1
-ssS'working-year'
-p22
-(dp23
-V(0, 2]
-p24
-I1
-sV(2, 5]
-p25
-I1
-ssS'major'
-p26
-(dp27
-S'computer science operations research'
-p28
-I1
-sS'information'
-p29
-I1
-sS'business'
-p30
-I1
-sS'economics'
-p31
-I1
-sS'engineering'
-p32
-I1
-sS'design'
-p33
-I1
+F0.00075064232831944882
 sS'operations research'
+p22
+F0.018233788073113353
+sS'science'
+p23
+F0.0044495815708486862
+ssS'working-year'
+p24
+(dp25
+V(0, 2]
+p26
+F0.014415064329684516
+sV(2, 5]
+p27
+F0.0078414204331084519
+ssS'major'
+p28
+(dp29
+VBusiness
+p30
+F0.006846293336545026
+sVEconomics
+p31
+F0.01038463004762317
+sVEngineering
+p32
+F0.014255562827637515
+sVInformation Science
+p33
+F0.016029463218696794
+sVComputer Science
 p34
-I1
-sS'mathematics computer science'
+F0.0057300996604569476
+sVMathematics
 p35
-I1
-sS'information technology'
+F0.010849826136597797
+sVOperations Research
 p36
-I1
-sS'computer science'
-p37
-I1
+F0.020371701887260469
 ssS'education'
-p38
-(dp39
+p37
+(dp38
 VBachelor
-p40
-I1
+p39
+F0.005768220428290549
 ssS'responsibility'
-p41
-(dp42
+p40
+(dp41
 S'modeling'
-p43
-I1
+p42
+F0.0051401625887440034
 sS'design'
-p44
-I1
+p43
+F0.009243157025433402
 sS'analysis'
-p45
-I1
+p44
+F0.0021684729224944934
 sS'information'
-p46
-I1
+p45
+F0.017558293664929045
 ss.

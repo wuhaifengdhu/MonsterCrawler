@@ -2,121 +2,121 @@
 S'skills'
 p2
 (dp3
-S'quality control'
+S'characterization'
 p4
-I1
-sS'national security'
-p5
-I1
-sS'characterization'
-p6
-I1
-sS'remote sensing'
-p7
-I1
+F0.027952331808377175
 sS'climate change'
-p8
-I1
+p5
+F0.01668706946575239
 sS'energy'
-p9
-I1
-sS'government'
-p10
-I1
-sS'analysis'
-p11
-I1
-sS'research'
-p12
-I1
-sS'applied mathematics'
-p13
-I1
-sS'fortran'
-p14
-I1
-sS'idl'
-p15
-I1
+p6
+F0.027386053012278855
+sS'analytics'
+p7
+F0.0025731877573477121
 sS'defense'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'science'
-p18
-I1
-sS'kalman filtering'
-p19
-I1
-sS'data quality'
-p20
-I1
-sS'data'
-p21
-I1
+p8
+F0.010448633591503663
 sS'insurance'
-p22
-I1
+p9
+F0.009328909507543455
+sS'research'
+p10
+F0.005048286045335729
+sS'fortran'
+p11
+F0.011078243335397262
+sS'html'
+p12
+F0.0075742150687831186
+sS'computer science'
+p13
+F0.0041597137964118954
+sS'mathematics'
+p14
+F0.0054079682901651055
+sS'government'
+p15
+F0.01542674269602938
+sS'data quality'
+p16
+F0.010458100778657466
+sS'data'
+p17
+F0.0024562438317198535
 sS'bash'
+p18
+F0.011089960222210538
+sS'national security'
+p19
+F0.012433885289384857
+sS'remote sensing'
+p20
+F0.014484594468706008
+sS'science'
+p21
+F0.0062399457532020036
+sS'applied mathematics'
+p22
+F0.0089411560498334503
+sS'analysis'
 p23
-I1
+F0.0010136648572607394
 sS'simulation'
 p24
-I1
-ssS'working-year'
+F0.0079433011469655958
+sS'idl'
 p25
-(dp26
-V[0]
+F0.014922224947564608
+sS'quality control'
+p26
+F0.014236426333623471
+sS'kalman filtering'
 p27
-I1
-ssS'major'
+F0.01924622739780163
+ssS'working-year'
 p28
 (dp29
-S'information'
+S'[0]'
 p30
-I1
-sS'business'
+F0.0064976767175869308
+ssS'major'
 p31
-I1
-sS'science'
-p32
-I1
-sS'applied mathematics'
+(dp32
+VMathematics
 p33
-I1
-sS'computer science'
+F0.0050718122176995617
+sVData Science
 p34
-I1
-sS'applied math'
+F0.0030393165165830253
+sVComputer Science
 p35
-I1
-sS'mathematics computer science'
+F0.0026785672968999931
+sVBusiness
 p36
-I1
+F0.0032003383052488584
 ssS'education'
 p37
 (dp38
 S'Bachelor'
 p39
-I1
+F0.0026963870641121502
 ssS'responsibility'
 p40
 (dp41
 S'development'
 p42
-I1
+F0.0035827248592133687
 sS'information'
 p43
-I1
+F0.012311584611207644
 sS'model'
 p44
-I1
+F0.0045781385855078131
 sS'analysis'
 p45
-I1
+F0.0010136648572607394
 sS'simulation'
 p46
-I1
+F0.0079433011469655958
 ss.

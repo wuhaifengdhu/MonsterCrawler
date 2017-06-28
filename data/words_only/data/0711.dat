@@ -4,146 +4,137 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.0074587107358041766
 sS'data science'
 p5
-I1
+F0.0028571043364859841
 sS'engineering'
 p6
-I1
-sS'investment banking'
+F0.0087281813093134531
+sS'neo4j'
 p7
-I1
-sS'java'
+F0.011122806391876409
+sS'investment banking'
 p8
-I1
-sS'big data'
+F0.011782258869801682
+sS'java'
 p9
-I1
-sS'army'
+F0.0029436270015873716
+sS'big data'
 p10
-I1
-sS'agile'
+F0.0030231000626191628
+sS'army'
 p11
-I1
-sS'research'
+F0.015172071286819721
+sS'agile'
 p12
-I1
-sS'computer science'
+F0.0051869118116377897
+sS'hadoop'
 p13
-I1
-sS'distributed computing'
+F0.0030517969154383964
+sS'research'
 p14
-I1
-sS'government'
+F0.0060795273752617934
+sS'computer science'
 p15
-I1
-sS'python'
+F0.0033396277035325907
+sS'government'
 p16
-I1
-sS'collaboration'
+F0.0061926829349856658
+sS'python'
 p17
-I1
-sS'processing'
+F0.0012381271086775916
+sS'collaboration'
 p18
-I1
-sS'data scientist'
+F0.0060752242757089172
+sS'processing'
 p19
-I1
-sS'spark'
+F0.0077581381789582904
+sS'data scientist'
 p20
-I1
-sS'data'
+F0.0025163222450448417
+sS'spark'
 p21
-I1
-sS'banking'
+F0.0040050727394671231
+sS'data'
 p22
-I1
-sS'machine learning'
+F0.0016902824875221795
+sS'banking'
 p23
-I1
-sS'credit'
+F0.057102373942775501
+sS'science'
 p24
-I1
-sS'asset management'
+F0.0016699142237389369
+sS'scala'
 p25
-I1
-sS'organization'
+F0.0057970698045098261
+sS'machine learning'
 p26
-I1
-ssS'working-year'
+F0.0015570492205084071
+sS'credit'
 p27
-(dp28
-V[0]
+F0.0075475886561464298
+sS'asset management'
+p28
+F0.011271309470579189
+sS'organization'
 p29
-I1
-ssS'major'
+F0.0041880851289351102
+ssS'working-year'
 p30
 (dp31
-S'information'
+S'[0]'
 p32
-I1
-sS'business'
+F0.0052166620678013838
+ssS'major'
 p33
-I1
-sS'big data'
-p34
-I1
-sS'computing'
+(dp34
+VData Science
 p35
-I1
-sS'data science'
+F0.0024401163482305525
+sVManagement Science and Engineering
 p36
-I1
-sS'machine learning'
+F0.0030630511602586521
+sVEngineering
 p37
-I1
-sS'engineering'
+F0.0087281813093134531
+sVBusiness
 p38
-I1
-sS'computer science engineering'
+F0.0025693927486321005
+sVComputer Science
 p39
-I1
-sS'computer science'
-p40
-I1
-sS'statistic'
-p41
-I1
-sS'machine learning engineer'
-p42
-I1
+F0.0021504887086750543
 ssS'education'
+p40
+(dp41
+VMaster
+p42
+F0.0017275075658531517
+ssS'responsibility'
 p43
 (dp44
-S'Bachelor'
-p45
-I1
-ssS'responsibility'
-p46
-(dp47
 S'development'
-p48
-I1
+p45
+F0.0028763919297247476
 sS'information'
-p49
-I1
+p46
+F0.003294786697219465
 sS'product'
-p50
-I1
+p47
+F0.0031947574601371657
 sS'pattern'
-p51
-I1
+p48
+F0.0062199312959005841
 sS'processing'
-p52
-I1
+p49
+F0.0077581381789582904
 sS'recommendation'
-p53
-I1
+p50
+F0.0062047547382856807
 sS'model'
-p54
-I1
+p51
+F0.0036755601945407147
 sS'transformation'
-p55
-I1
+p52
+F0.007469019323831037
 ss.

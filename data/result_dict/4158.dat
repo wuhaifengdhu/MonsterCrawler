@@ -2,64 +2,59 @@
 S'skills'
 p2
 (lp3
-S'banking'
+S'a'
+aS'energy'
 p4
-aS'science'
+aS'banking'
 p5
-aS'data science'
-p6
-aS'machine learning'
-p7
-aS'analytics'
-p8
-aS'engineering'
-p9
-aS'facebook'
-p10
-aS'financial services'
-p11
-aS'healthcare'
-p12
-aS'retail'
-p13
-aS'data'
-p14
-aS'predictive analytics'
-p15
-asS'working-year'
-p16
-(lp17
-V(2, 5]
-p18
-asS'major'
-p19
-(lp20
-S'telecommunication'
-p21
 aS'science'
-p22
+p6
 aS'data science'
-p23
-aS'data analyst'
-p24
+p7
 aS'machine learning'
-p25
+p8
 aS'analytics'
-p26
+p9
 aS'engineering'
-p27
+p10
+aS'facebook'
+p11
+aS'financial services'
+p12
+aS'healthcare'
+p13
+aS'retail'
+p14
+aS'data'
+p15
+aS'telecommunications'
+p16
 aS'predictive analytics'
-p28
+p17
+asS'working-year'
+p18
+(lp19
+V(2, 5]
+p20
+asS'major'
+p21
+(lp22
+VData Science
+p23
+aVEngineering
+p24
+aVComputer Science
+p25
 asS'education'
+p26
+(lp27
+S'Bachelor'
+p28
+asS'responsibility'
 p29
 (lp30
-S'Bachelor'
-p31
-asS'responsibility'
-p32
-(lp33
 S'product'
-p34
+p31
 aS'recommendation'
-p35
+p32
 as.

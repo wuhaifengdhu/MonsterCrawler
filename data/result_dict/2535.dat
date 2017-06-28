@@ -2,84 +2,88 @@
 S'skills'
 p2
 (lp3
-S'insurance'
+S'intelligence'
 p4
-aS'defense'
-p5
-aS'user experience'
-p6
-aS'adobe creative suite'
-p7
 aS'energy'
-p8
-aS'data scientist'
-p9
-aS'django'
-p10
+p5
+aS'adobe creative suite'
+p6
 aS'graphic design'
+p7
+aS'defense'
+p8
+aS'insurance'
+p9
+aS'user experience'
+p10
+aS'd3'
 p11
 aS'user interface'
 p12
 aS'html'
 p13
-aS'architecture'
+aS'geospatial intelligence'
 p14
 aS'visio'
 p15
-aS'interaction design'
+aS'css'
 p16
-aS'organization'
+aS'government'
 p17
-aS'information architecture'
+aS'javascript'
 p18
-aS'data'
+aS'data scientist'
 p19
-aS'd3'
+aS'data'
 p20
-aS'geospatial intelligence'
+aS'jquery'
 p21
-asS'working-year'
+aS'django'
 p22
-(lp23
-V(5, 10]
+aS'architecture'
+p23
+aS'interaction design'
 p24
-aV(2, 5]
+aS'organization'
 p25
-asS'major'
+aS'information architecture'
 p26
-(lp27
-S'information'
-p28
-aS'information system'
+asS'working-year'
+p27
+(lp28
+V(5, 10]
 p29
-aS'design'
+aV(2, 5]
 p30
-aS'business'
+asS'major'
 p31
-aS'information systems'
-p32
-asS'education'
+(lp32
+VInformation Science
 p33
-(lp34
-VBachelor
+aVBusiness
+p34
+asS'education'
 p35
+(lp36
+VBachelor
+p37
 asS'responsibility'
-p36
-(lp37
-S'development'
 p38
-aS'information'
-p39
-aS'product'
+(lp39
+S'development'
 p40
-aS'analytic'
+aS'information'
 p41
-aS'design'
+aS'product'
 p42
-aS'interface'
+aS'analytic'
 p43
-aS'model'
+aS'design'
 p44
-aS'prototype'
+aS'interface'
 p45
+aS'model'
+p46
+aS'prototype'
+p47
 as.

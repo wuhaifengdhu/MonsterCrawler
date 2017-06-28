@@ -2,117 +2,123 @@
 S'skills'
 p2
 (dp3
-S'data quality'
+S'model validation'
 p4
-I1
-sS'model validation'
-p5
-I1
+F0.043272530285668756
 sS'testing'
-p6
-I1
-sS'programming'
-p7
-I1
-sS'tableau'
-p8
-I1
-sS'analysis'
-p9
-I1
-sS'machine learning'
-p10
-I1
-sS'python'
-p11
-I1
-sS'r'
-I1
-sS'computer science'
-p12
-I1
-sS'sql'
-p13
-I1
+p5
+F0.016511113023387199
 sS'mysql'
-p14
-I1
-sS'oracle'
-p15
-I1
+p6
+F0.019146434892638887
+sS'sas'
+p7
+F0.011171264973204973
+sS'visualization'
+p8
+F0.015115284451080398
+sS'statistics'
+p9
+F0.0075202649580855211
+sS'tableau'
+p10
+F0.016201823283256384
 sS'writing'
+p11
+F0.018121454242600747
+sS'optimization'
+p12
+F0.016129103688617277
+sS'computer science'
+p13
+F0.011338574703122746
+sS'python'
+p14
+F0.0042036412318811767
+sS'data quality'
+p15
+F0.028506758574082448
+sS'sql'
 p16
-I1
+F0.0054995472486536051
 sS'data'
 p17
-I1
-sS'optimization'
+F0.0028693908356727318
+sS'science'
 p18
-I1
-sS'etl'
+F0.0056696281305975193
+sS'programming'
 p19
-I1
-ssS'working-year'
-p20
-(dp21
-V(2, 5]
-p22
-I1
-ssS'major'
-p23
-(dp24
-S'business'
-p25
-I1
-sVapplied statistic
-p26
-I1
-sS'machine learning'
-p27
-I1
-sS'computer science'
-p28
-I1
-sS'applied statistics'
-p29
-I1
-sS'statistic'
-p30
-I1
-sS'ee computer science'
-p31
-I1
-ssS'education'
-p32
-(dp33
-VBachelor
-p34
-I1
-ssS'responsibility'
-p35
-(dp36
-S'business problem'
-p37
-I1
+F0.017779277981207677
 sS'analysis'
+p20
+F0.0027630542076945964
+sS'machine learning'
+p21
+F0.005286433240597091
+sS'r'
+F0.0044757444081769448
+sS'oracle'
+p22
+F0.021169528214204206
+sS'validation'
+p23
+F0.025499696008670133
+sS'etl'
+p24
+F0.022981973177541797
+ssS'working-year'
+p25
+(dp26
+V(2, 5]
+p27
+F0.0099914873260575441
+ssS'major'
+p28
+(dp29
+VStatistics
+p30
+F0.014528264273290969
+sVComputer Science
+p31
+F0.0073012560189693364
+sVBusiness
+p32
+F0.0087235027997912429
+ssS'education'
+p33
+(dp34
+VBachelor
+p35
+F0.0073498292554024739
+ssS'responsibility'
+p36
+(dp37
+Vass ... improvement
 p38
-I1
-sS'statistical model'
+F0.059128246712609515
+sS'business problem'
 p39
-I1
-sS'optimization'
+F0.022968956146214876
+sS'analysis'
 p40
-I1
-sS'understand'
+F0.0027630542076945964
+sS'statistical model'
 p41
-I1
-sS'recommendation'
+F0.028958583109829801
+sS'optimization'
 p42
-I1
-sS'model'
+F0.016129103688617277
+sS'understand'
 p43
-I1
-sS'improvement'
+F0.016949030753582867
+sS'recommendation'
 p44
-I1
+F0.021066143103373156
+sS'model'
+p45
+F0.012479119692755168
+sS'improvement'
+p46
+F0.021662955615637965
 ss.

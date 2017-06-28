@@ -1,5 +1,5 @@
-skills: {'sip': 1, 'theory': 1, 'communication': 1, 'applied mathematics': 1, 'economics': 1, 'data scientist': 1, 'strategy': 1, 'engineering': 1, 'product design': 1, 'project management': 1, 'executive management': 1, 'mathematics': 1, 'data': 1, 'collaboration': 1, 'philosophy': 1, 'finance': 1}
-working-year: {u'(5, 10]': 1}
-major: {'mathematics physics': 1, 'philosophy': 1, 'finance': 1, 'business': 1, 'communication': 1, 'applied mathematics': 1, 'economics': 1, 'engineering': 1, 'design': 1, u'physic': 1, 'applied math': 1, 'mathematics': 1, 'project management': 1, 'finance economics': 1}
-education: {u'Doctor': 1}
-responsibility: {'development': 1, 'product': 1, 'prototype': 1, 'design': 1}
+skills: {'sip': 0.023668663968667448, 'theory': 0.010210718642764235, 'communication': 0.005516269543940266, 'applied mathematics': 0.010530002595274238, 'philosophy': 0.01728338322016205, 'strategy': 0.0054878447081074385, 'engineering': 0.004267786679699145, 'management': 0.003156964694075443, 'data': 0.0004132456023500798, 'economics': 0.01670029145895095, 'mathematics': 0.006368966139636954, 'executive management': 0.018911738253365982, 'physics': 0.008477645914448304, 'collaboration': 0.00891174013962876, 'project management': 0.006625272903569847, 'finance': 0.018502759959468214}
+working-year: {u'(5, 10]': 0.004200851085633654}
+major: {u'Business': 0.0037690395371920353, u'Economics': 0.005716974033186275, u'Engineering': 0.004267786679699145, u'Mathematics': 0.005973075015966731, u'Physics': 0.009141923697561291, u'Management Science and Engineering': 0.004493186545187778}
+education: {u'Doctor': 0.003795058438245533}
+responsibility: {'development': 0.004219376315031772, 'product': 0.004686386378807479, 'prototype': 0.02197331995505009, 'design': 0.010177134564588694}

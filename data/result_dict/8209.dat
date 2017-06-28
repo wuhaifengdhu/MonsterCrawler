@@ -4,99 +4,90 @@ p2
 (lp3
 S'testing'
 p4
-aS'big data'
-p5
-aS'optimization'
-p6
-aS'python'
-p7
-aS'programming'
-p8
-aS'economics'
-p9
-aS'data scientist'
-p10
-aS'engineering'
-p11
-aS'processing'
-p12
-aS'pricing'
-p13
 aS'health insurance'
-p14
+p5
+aS'pricing'
+p6
+aS'insurance'
+p7
+aS'big data'
+p8
+aS'scala'
+p9
 aS'r'
 aS'computer science'
-p15
-aS'leadership'
-p16
-aS'science'
-p17
-aS'modeling'
-p18
+p10
 aS'hypothesis testing'
-p19
-aS'data'
-p20
-aS'insurance'
-p21
-aS'advertising'
-p22
-asS'working-year'
-p23
-(lp24
-V(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'business'
-p28
-aS'big data'
-p29
-aS'science'
-p30
-aS'economics'
-p31
-aS'statistic'
-p32
-aS'applied math computer science'
-p33
-aS'engineering'
-p34
-aS'design'
-p35
-aS'computer science'
-p36
-aS'applied math'
-p37
-aS'behavioral economics'
-p38
-asS'education'
-p39
-(lp40
-VMaster
-p41
-aVDoctor
-p42
-asS'responsibility'
-p43
-(lp44
-S'product'
-p45
-aS'business problem'
-p46
+p11
+aS'python'
+p12
 aS'processing'
-p47
-aS'optimization'
-p48
-aS'design'
-p49
-aS'solve problem'
-p50
-aS'report'
-p51
+p13
+aS'data scientist'
+p14
+aS'leadership'
+p15
 aS'modeling'
-p52
+p16
+aS'data'
+p17
+aS'c'
+aS'science'
+p18
+aS'economics'
+p19
+aS'programming'
+p20
+aS'engineering'
+p21
+aS'optimization'
+p22
+aS'advertising'
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VMathematics
+p29
+aVEngineering
+p30
+aVEconomics
+p31
+aVComputer Science
+p32
+aVBusiness
+p33
+asS'education'
+p34
+(lp35
+VMaster
+p36
+aVDoctor
+p37
+asS'responsibility'
+p38
+(lp39
+S'product'
+p40
+aS'business problem'
+p41
+aS'processing'
+p42
+aS'optimization'
+p43
+aS'design'
+p44
+aS'solve problem'
+p45
+aS'report'
+p46
+aS'modeling'
+p47
 aS'model'
-p53
+p48
 as.

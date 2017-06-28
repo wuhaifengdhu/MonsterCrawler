@@ -4,256 +4,229 @@ p2
 (dp3
 S'consulting'
 p4
-I1
-sS'data scientist'
-p5
-I1
+F0.0037911320379380381
 sS'programming'
-p6
-I1
+p5
+F0.0018495222060987851
 sS'communication'
-p7
-I1
+p6
+F0.0079689732841150482
 sS'data acquisition'
-p8
-I1
+p7
+F0.0077264987490751318
 sS'analytics'
-p9
-I1
+p8
+F0.016052201479561733
 sS'engineering'
-p10
-I1
+p9
+F0.0082205018595547293
 sS'graph theory'
+p10
+F0.0082785467496957008
+sS'analysis'
 p11
-I1
+F0.0022994545084169793
 sS'problem solving'
 p12
-I1
+F0.0041184762834786089
 sS'neo4j'
 p13
-I1
-sS'time management'
-p14
-I1
-sS'visualization'
-p15
-I1
-sS'management'
-p16
-I1
-sS'excel'
-p17
-I1
+F0.0078568816962751135
 sS'perl'
+p14
+F0.0048088099736398795
+sS'theory'
+p15
+F0.0049169064605257308
+sS'visualization'
+p16
+F0.0062895814494428499
+sS'management'
+p17
+F0.0030404324402672892
+sS'excel'
 p18
-I1
-sS'access'
+F0.0027130104476611838
+sS'hadoop'
 p19
-I1
-sS'ssis'
+F0.0021557156063751089
+sS'time management'
 p20
-I1
-sS'oracle sql'
+F0.0072282084696048705
+sS'access'
 p21
-I1
-sS'computer science'
+F0.0038917148072088168
+sS'ssis'
 p22
-I1
-sS'advanced analytics'
+F0.0078568816962751135
+sS'oracle sql'
 p23
-I1
-sS'algorithm development'
+F0.0059202155235449907
+sS'computer science'
 p24
-I1
-sS'data management'
+F0.0023590323207839273
+sS'advanced analytics'
 p25
-I1
-sS'data analysis'
+F0.0049376016012383948
+sS'algorithm development'
 p26
-I1
-sS'business analysis'
+F0.0070619509183752604
+sS'data management'
 p27
-I1
-sS'python'
+F0.0046139565513578368
+sS'data analysis'
 p28
-I1
-sS'customer service'
+F0.0024895335821571562
+sS'business analysis'
 p29
-I1
-sS'alteryx'
+F0.0044774030205994193
+sS'python'
 p30
-I1
-sS'training'
+F0.00087458307508937239
+sS'customer service'
 p31
-I1
-sS'business analytics'
+F0.0057525499036705395
+sS'alteryx'
 p32
-I1
-sS'oracle sql developer'
+F0.0082355228509308227
+sS'training'
 p33
-I1
-sS'sql'
+F0.0078969622517527822
+sS'business analytics'
 p34
-I1
-sS'modeling'
+F0.0050966177745958279
+sS'oracle sql developer'
 p35
-I1
-sS'spark'
+F0.0092174942383939241
+sS'sql'
 p36
-I1
-sS'data'
+F0.0011442011054245756
+sS'modeling'
 p37
-I1
-sS'c'
-I1
-sS'postgresql'
+F0.0013626605520495848
+sS'spark'
 p38
-I1
-sS'data visualization'
+F0.0028290866163014406
+sS'data'
 p39
-I1
-sS'sql server'
+F0.0025869452053156844
+sS'c'
+F0.0020983589327149286
+sS'postgresql'
 p40
-I1
-sS'applied mathematics'
+F0.0057095883102912309
+sS'data visualization'
 p41
-I1
-sS'documentation'
+F0.0032998886335228201
+sS'sql server'
 p42
-I1
-sS'education'
+F0.0046943430692594325
+sS'science'
 p43
-I1
-sS'analysis'
+F0.0011795870607283429
+sS'applied mathematics'
 p44
-I1
-sS'data engineering'
+F0.0050706556121538696
+sS'documentation'
 p45
-I1
-sS'optimization'
+F0.0048648338237315949
+sS'education'
 p46
-I1
-sS'english'
+F0.0035211858218343441
+sS'hive'
 p47
-I1
-sS'oracle'
+F0.0034995876669295413
+sS'data engineering'
 p48
-I1
-sS'organization'
+F0.0067195146913883201
+sS'optimization'
 p49
-I1
-sS'scripting'
+F0.0067114391187534971
+sS'english'
 p50
-I1
-ssS'working-year'
+F0.0056676994151904489
+sS'oracle'
 p51
-(dp52
-V(2, 5]
+F0.004404398487518996
+sS'organization'
+p52
+F0.0059167242928915478
+sS'scripting'
 p53
-I1
-ssS'major'
+F0.004082356337997757
+ssS'working-year'
 p54
 (dp55
-S'information'
+V(2, 5]
 p56
-I1
-sS'management'
+F0.0020787658195153278
+ssS'major'
 p57
-I1
-sS'business analysis'
-p58
-I1
-sS'business'
+(dp58
+VBusiness
 p59
-I1
-sS'communication'
+F0.0018149569583458291
+sVData Science
 p60
-I1
-sS'applied mathematics'
+F0.0017236392325588299
+sVEngineering
 p61
-I1
-sS'english'
+F0.0082205018595547293
+sVComputer Science
 p62
-I1
-sS'business analytics'
+F0.001519053265691607
+sVMathematics
 p63
-I1
-sS'analytics'
+F0.0028762961905745839
+sVManagement Science and Engineering
 p64
-I1
-sS'engineering'
-p65
-I1
-sS'graph theory'
-p66
-I1
-sS'applied mathematics computer science'
-p67
-I1
-sS'computer science'
-p68
-I1
-sS'applied math'
-p69
-I1
-sS'advanced analytics'
-p70
-I1
-sS'mathematics computer science'
-p71
-I1
-sS'law'
-p72
-I1
-sS'computer application'
-p73
-I1
+F0.0021636653330014974
 ssS'education'
-p74
-(dp75
+p65
+(dp66
 S'Bachelor'
-p76
-I1
+p67
+F0.0015291591068287026
 ssS'responsibility'
-p77
-(dp78
+p68
+(dp69
 S'development'
-p79
-I1
-sS'large data set'
-p80
-I1
-sS'product'
-p81
-I1
-sS'data analysis'
-p82
-I1
-sS'business problem'
-p83
-I1
-sVinsight
-p84
-I1
-sS'analysis'
-p85
-I1
-sS'analytic'
-p86
-I1
-sS'optimization'
-p87
-I1
-sS'modeling'
-p88
-I1
+p70
+F0.0020318137624397961
 sS'information'
-p89
-I1
+p71
+F0.0046547154346623975
+sS'product'
+p72
+F0.0022566994810700445
+sS'data analysis'
+p73
+F0.0024895335821571562
+sS'large data set'
+p74
+F0.0052759347908269564
+sS'insight'
+p75
+F0.0061573602550653861
+sS'analysis'
+p76
+F0.0022994545084169793
+sS'analytic'
+p77
+F0.0037881308260061118
+sS'optimization'
+p78
+F0.0067114391187534971
+sS'modeling'
+p79
+F0.0013626605520495848
 sS'transformation'
-p90
-I1
+p80
+F0.0052759347908269564
+sS'decision making'
+p81
+F0.0054808440435058954
 sS'documentation'
-p91
-I1
+p82
+F0.0048648338237315949
 ss.

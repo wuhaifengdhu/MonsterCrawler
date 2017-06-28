@@ -1,183 +1,336 @@
-job
-overall_purpose
-responsible
-development
-high_performance
-distributed_computing
-task
-using
-big_data
-technology
-hadoop_nosql
-text_mining
-distributed
-environment
-technology
-familiarity_jvm-based
-function
-language
-including
-scala_clojure
-hadoop
-query_language
-including
-pig_hive
-scalding_cascalog
-pycascading_along
-alternative_hdfs-based
-computing_framework
-including
-spark_storm
-desirable
-key_role
-responsibility
-us
-big_data
-programming_language
-technology_writes
-code_completes
-programming
-documentation_performs
-testing_debugging
-application
-analyzes
-design
-program_debugs
-modifies_software
-enhancement
-new
-product
-used_distributed
-large_scale
-analytics
-visualization
-solution
-interacts
-data_scientist
-industry
-expert
-understand
-data
-need_converted
-loaded_presented
-work
-highly
-agile_environment
-job_contribution
-fully_functioning
-technical
-professional
-develops
-new
-concept
-method
-technique
-meaningful
-team_dept
-impact
-knowledge
-subject_matter
-expert
-within
-discipline_specialty
-area
-applies_specialized
-knowledge
-discipline_specialty
-area
-standard
-work
-process_integrates
-company
-experience
-deep
-technical
-knowledge
-advanced
-understanding
-select
-technology
-system
-procedure
-analysis
-problem_solving
-solves_non
-routine
-problem
-based
-analysis
-multiple_factor
-independently_identifies
-key
-issue
-pattern_deviation
-norm
-work
-problem_requiring
-judgment_depth
-evaluation
-multiple_factor
-analyzes_interprets
-research
-evaluate_recommend
-solution
-independence_guided
-team
-goal
-operational
-objective_applies
-judgment_determine
-appropriate
-process
-technical
-area
-standard
-provides
-technical
-direction
-others
-work
-area
-contribution
-technology
-key_contributor
-diverse
-project_moderate
-scope_recommends
-new
-procedure
-process
-drive
-desired
-result
-communication
-mentor_le
-experienced
-team_member
-work
-area_explaining
-advanced
-technical
-information
-providing_specialized
-technical_guidance
-build_productive
-internal_external
-relationship_collaborates
-others
-team
-across
-team
-education
-bachelor
-science
-computer_science
-math_scientific
-computing
-preferred
-experience
-typically_requires
-3-5_year
-experience
-supervisory
-report
+(lp1
+Vjob
+p2
+aVoverall purpose
+p3
+aVresponsible
+p4
+aVdevelopment
+p5
+aVhigh performance
+p6
+aVdistributed computing
+p7
+aVtask
+p8
+aVusing big
+p9
+aVdata
+p10
+aVtechnology
+p11
+aVhadoop nosql
+p12
+aVtext mining
+p13
+aVdistributed
+p14
+aVenvironment
+p15
+aVtechnology
+p16
+aVfamiliarity jvm-based
+p17
+aVfunction
+p18
+aVlanguage
+p19
+aVincluding
+p20
+aVscala clojure
+p21
+aVhadoop query
+p22
+aVlanguage
+p23
+aVincluding
+p24
+aVpig hive
+p25
+aVscalding cascalog
+p26
+aVpycascading along
+p27
+aValternative hdfs-based
+p28
+aVcomputing framework
+p29
+aVincluding
+p30
+aVspark storm
+p31
+aVdesirable
+p32
+aVkey role
+p33
+aVresponsibility us
+p34
+aVbig data
+p35
+aVprogramming language
+p36
+aVtechnology writes
+p37
+aVcode completes
+p38
+aVprogramming documentation
+p39
+aVperforms testing
+p40
+aVdebugging application
+p41
+aVanalyzes design
+p42
+aVprogram debugs
+p43
+aVmodifies software
+p44
+aVenhancement new
+p45
+aVproduct
+p46
+aVused distributed
+p47
+aVlarge scale
+p48
+aVanalytics
+p49
+aVvisualization
+p50
+aVsolution interacts
+p51
+aVdata scientist
+p52
+aVindustry
+p53
+aVexpert understand
+p54
+aVdata
+p55
+aVneed converted
+p56
+aVloaded presented
+p57
+aVwork
+p58
+aVhighly
+p59
+aVagile environment
+p60
+aVjob contribution
+p61
+aVfully functioning
+p62
+aVtechnical
+p63
+aVprofessional
+p64
+aVdevelops new
+p65
+aVconcept
+p66
+aVmethod
+p67
+aVtechnique
+p68
+aVmeaningful
+p69
+aVteam dept
+p70
+aVimpact
+p71
+aVknowledge
+p72
+aVsubject matter
+p73
+aVexpert
+p74
+aVwithin
+p75
+aVdiscipline specialty
+p76
+aVarea
+p77
+aVapplies specialized
+p78
+aVknowledge
+p79
+aVdiscipline specialty
+p80
+aVarea
+p81
+aVstandard
+p82
+aVwork
+p83
+aVprocess integrates
+p84
+aVcompany
+p85
+aVexperience
+p86
+aVdeep technical
+p87
+aVknowledge
+p88
+aVadvanced
+p89
+aVunderstanding
+p90
+aVselect
+p91
+aVtechnology
+p92
+aVsystem
+p93
+aVprocedure
+p94
+aVanalysis
+p95
+aVproblem solving
+p96
+aVsolves non
+p97
+aVroutine problem
+p98
+aVbased
+p99
+aVanalysis
+p100
+aVmultiple factor
+p101
+aVindependently identifies
+p102
+aVkey
+p103
+aVissue
+p104
+aVpattern deviation
+p105
+aVnorm work
+p106
+aVproblem requiring
+p107
+aVjudgment depth
+p108
+aVevaluation
+p109
+aVmultiple factor
+p110
+aVanalyzes interprets
+p111
+aVresearch
+p112
+aVevaluate recommend
+p113
+aVsolution
+p114
+aVindependence guided
+p115
+aVteam
+p116
+aVgoal
+p117
+aVoperational objective
+p118
+aVapplies judgment
+p119
+aVdetermine appropriate
+p120
+aVprocess
+p121
+aVtechnical
+p122
+aVarea
+p123
+aVstandard
+p124
+aVprovides technical
+p125
+aVdirection
+p126
+aVothers
+p127
+aVwork
+p128
+aVarea
+p129
+aVcontribution
+p130
+aVtechnology
+p131
+aVkey contributor
+p132
+aVdiverse
+p133
+aVproject moderate
+p134
+aVscope recommends
+p135
+aVnew
+p136
+aVprocedure
+p137
+aVprocess
+p138
+aVdrive
+p139
+aVdesired
+p140
+aVresult
+p141
+aVcommunication mentor
+p142
+aVle experienced
+p143
+aVteam member
+p144
+aVwork
+p145
+aVarea explaining
+p146
+aVadvanced
+p147
+aVtechnical
+p148
+aVinformation
+p149
+aVproviding specialized
+p150
+aVtechnical guidance
+p151
+aVbuild productive
+p152
+aVinternal external
+p153
+aVrelationship collaborates
+p154
+aVothers
+p155
+aVteam
+p156
+aVacross
+p157
+aVteam
+p158
+aVeducation bachelor
+p159
+aVscience
+p160
+aVcomputer science
+p161
+aVmath scientific
+p162
+aVcomputing preferred
+p163
+aVexperience
+p164
+aVtypically requires
+p165
+aV3-5 year
+p166
+aVexperience supervisory
+p167
+aVreport
+p168
+a.

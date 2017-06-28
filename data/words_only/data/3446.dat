@@ -2,142 +2,124 @@
 S'skills'
 p2
 (dp3
-S'data scientist'
+S'science'
 p4
-I1
-sS'deep learning'
+F0.0088991631416973725
+sS'data scientist'
 p5
-I1
-sS'data science'
-p6
-I1
-sS'processing'
-p7
-I1
-sS'programming'
-p8
-I1
-sS'reinforcement learning'
-p9
-I1
-sS'analysis'
-p10
-I1
-sS'machine learning'
-p11
-I1
-sS'computer science'
-p12
-I1
-sS'natural language processing'
-p13
-I1
-sS'mathematics'
-p14
-I1
-sS'research'
-p15
-I1
-sS'data'
-p16
-I1
-sS'applied mathematics'
-p17
-I1
-sS'artificial intelligence'
-p18
-I1
+F0.0067048839567334069
 sS'semantics'
+p6
+F0.040084651164278992
+sS'deep learning'
+p7
+F0.019712289132237028
+sS'data science'
+p8
+F0.0076129172510164501
+sS'processing'
+p9
+F0.010336000548548861
+sS'programming'
+p10
+F0.0069766787014865564
+sS'reinforcement learning'
+p11
+F0.032806791983407114
+sS'analysis'
+p12
+F0.0065054187674834802
+sS'machine learning'
+p13
+F0.0041488463407217679
+sS'presentations'
+p14
+F0.026840973922708952
+sS'natural language processing'
+p15
+F0.015860494506077866
+sS'intelligence'
+p16
+F0.0099370798094099936
+sS'mathematics'
+p17
+F0.011568944823264593
+sS'research'
+p18
+F0.016199246993577308
+sS'data'
 p19
-I1
-ssS'working-year'
+F0.0037532116415972443
+sS'applied mathematics'
 p20
-(dp21
-V[0]
+F0.01912728319521333
+sS'artificial intelligence'
+p21
+F0.017516560506802309
+sS'computer science'
 p22
-I1
-ssS'major'
+F0.0088986282480203842
+ssS'working-year'
 p23
 (dp24
-S'natural language processing'
+S'[0]'
 p25
-I1
-sS'applied mathematics'
+F0.013900093231293561
+ssS'major'
 p26
-I1
-sS'applied math'
-p27
-I1
-sS'reinforcement learning'
+(dp27
+VMathematics
 p28
-I1
-sS'machine learning'
+F0.010849826136597797
+sVData Science
 p29
-I1
-sS'artificial intelligence machine learning'
+F0.0065018290038295103
+sVComputer Science
 p30
-I1
-sS'computer science'
-p31
-I1
-sS'statistic'
-p32
-I1
-sS'mathematics'
-p33
-I1
-sS'data science'
-p34
-I1
-sS'artificial intelligence'
-p35
-I1
+F0.0057300996604569476
 ssS'education'
-p36
-(dp37
+p31
+(dp32
 S'Bachelor'
-p38
-I1
+p33
+F0.005768220428290549
 ssS'responsibility'
-p39
-(dp40
+p34
+(dp35
 S'processing'
-p41
-I1
+p36
+F0.010336000548548861
 sS'non-routine analysis problem'
-p42
-I1
-sS'understand'
-p43
-I1
-sVinsight
-p44
-I1
+p37
+F0.048534016721734595
+sS'insight'
+p38
+F0.011613249088667628
 sS'analysis'
-p45
-I1
+p39
+F0.0065054187674834802
 sS'ongoing deliverable'
-p46
-I1
-sS'analytical method'
-p47
-I1
+p40
+F0.048534016721734595
+sS'understand'
+p41
+F0.013301770971166299
 sS'report'
-p48
-I1
-sS'complex data set'
-p49
-I1
+p42
+F0.013134660887167271
+sS'analytical method'
+p43
+F0.033960719971031179
 sS'model'
-p50
-I1
+p44
+F0.019587479011413174
 sS'prototype'
-p51
-I1
+p45
+F0.019956781098415744
 sVrequirement specification
-p52
-I1
+p46
+F0.046404446787111267
 sS'data gathering'
-p53
-I1
+p47
+F0.030101469049009157
 ss.

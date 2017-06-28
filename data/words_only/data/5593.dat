@@ -4,263 +4,259 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0039433066223578898
 sS'communication'
 p5
-I1
+F0.002762948270699575
 sS'forecasting'
 p6
-I1
+F0.01023465621581263
 sS'analytics'
 p7
-I1
+F0.0015178664258002211
 sS'integrated marketing'
 p8
-I1
+F0.009710722256320416
 sS'marketing strategy'
 p9
-I1
+F0.0065074345987597331
 sS'data mining'
 p10
-I1
-sS'direct marketing'
+F0.003703279805727989
+sS'sas'
 p11
-I1
-sS'regression'
+F0.021757646963519634
+sS'direct marketing'
 p12
-I1
-sS'teradata sql'
+F0.0080862668574970854
+sS'research'
 p13
-I1
-sS'clustering'
+F0.0029778720476849505
+sS'teradata sql'
 p14
-I1
-sS'management'
+F0.0096276020782416084
+sS'clustering'
 p15
-I1
-sS'sas enterprise guide'
+F0.0056255018508834381
+sS'statistics'
 p16
-I1
-sS'customer analytics'
+F0.0032548441703406793
+sS'sas enterprise guide'
 p17
-I1
-sS'strategy'
+F0.010645306282985543
+sS'customer analytics'
 p18
-I1
-sS'marketing automation'
+F0.0095099039973158654
+sS'strategy'
 p19
-I1
-sS'teamwork'
+F0.0054974220985229841
+sS'marketing automation'
 p20
-I1
-sS'database marketing'
+F0.010376283061473321
+sS'teamwork'
 p21
-I1
-sS'mathematics'
+F0.0049989705904048849
+sS'database marketing'
 p22
-I1
-sS'operations research'
-p23
-I1
-sS'segmentation'
-p24
-I1
-sS'data analysis'
-p25
-I1
-sS'data modeling'
-p26
-I1
-sS'marketing'
-p27
-I1
-sS'processing'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'automation'
-p30
-I1
-sS'strategic thinking'
-p31
-I1
-sS'survey design'
-p32
-I1
-sS'leadership'
-p33
-I1
-sS'statistical modeling'
-p34
-I1
-sS'sql'
-p35
-I1
-sS'modeling'
-p36
-I1
-sS'data'
-p37
-I1
-sS'customer experience'
-p38
-I1
-sS'programming'
-p39
-I1
-sS'analysis'
-p40
-I1
-sS'sas programming'
-p41
-I1
-sS'olap'
-p42
-I1
-sS'teradata'
-p43
-I1
-sS'organization'
-p44
-I1
-sS'sas enterprise miner'
-p45
-I1
-sS'data integration'
-p46
-I1
-sS'crm'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(5, 10]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'information'
-p53
-I1
-sS'management'
-p54
-I1
-sS'business'
-p55
-I1
-sS'management science'
-p56
-I1
-sS'marketing'
-p57
-I1
-sS'data mining'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'automation'
-p60
-I1
-sS'analytics'
-p61
-I1
-sS'statistics operations research'
-p62
-I1
-sS'design'
-p63
-I1
-sS'marketing strategy'
-p64
-I1
-sS'statistic'
-p65
-I1
+F0.0082078711617138839
 sS'mathematics'
-p66
-I1
+p23
+F0.006380081263789898
 sS'operations research'
-p67
-I1
-ssS'education'
-p68
-(dp69
-VBachelor
-p70
-I1
-sVMaster
-p71
-I1
-ssS'responsibility'
-p72
-(dp73
-Vinsight
-p74
-I1
-sS'information'
-p75
-I1
-sS'forecasting'
-p76
-I1
+p24
+F0.0050278159084675561
+sS'segmentation'
+p25
+F0.015162572314816969
 sS'data analysis'
-p77
-I1
-sS'modeling'
-p78
-I1
-sS'business problem'
-p79
-I1
-sS'presentation'
-p80
-I1
+p26
+F0.0025894625043030805
+sS'data modeling'
+p27
+F0.0045588163085833709
+sS'marketing'
+p28
+F0.019949890287723024
 sS'processing'
-p81
-I1
-sS'recommendation'
-p82
-I1
-sS'product'
-p83
-I1
+p29
+F0.0028500664688843281
+sS'data scientist'
+p30
+F0.0018488161695704682
+sS'automation'
+p31
+F0.0058203286657309066
+sS'metrics'
+p32
+F0.007618097581031256
+sS'survey design'
+p33
+F0.0080043183134912502
+sS'leadership'
+p34
+F0.0028837846792387819
+sS'statistical modeling'
+p35
+F0.0031262923563532222
+sS'sql'
+p36
+F0.0011901288984869933
+sS'regression'
+p37
+F0.01244066906116126
+sS'modeling'
+p38
+F0.011338857787386422
+sS'data'
+p39
+F0.0022768173937507889
+sS'customer experience'
+p40
+F0.0066860321142866407
+sS'a'
+F0.0032635984181745665
+sS'strategic thinking'
+p41
+F0.0095482614375318464
+sS'organization'
+p42
+F0.0030771096671582568
+sS'programming'
+p43
+F0.0057712839520150574
 sS'analysis'
-p84
-I1
-sS'statistical model'
-p85
-I1
-sS'statistical method'
-p86
-I1
+p44
+F0.0011958768647613611
+sS'sas programming'
+p45
+F0.0054539674081458111
+sS'olap'
+p46
+F0.0089889764354364743
+sS'teradata'
+p47
+F0.006389296151542107
+sS'management'
+p48
+F0.0079061855776583964
+sS'sas enterprise miner'
+p49
+F0.0093643870077188933
+sS'data integration'
+p50
+F0.0067550805592174216
+sS'crm'
+p51
+F0.0057397695745144816
+ssS'working-year'
+p52
+(dp53
+V(5, 10]
+p54
+F0.0021040912069404168
+ssS'major'
+p55
+(dp56
+VStatistics
+p57
+F0.0031439873820036305
+sVBusiness
+p58
+F0.0018878086338117177
+sVData Science
+p59
+F0.0017928254495725351
+sVEconomics
+p60
+F0.0028634756501299493
+sVComputer Science
+p61
+F0.0015800274805448477
+sVMathematics
+p62
+F0.0029917496153271414
+sVOperations Research
+p63
+F0.0056173279200473891
+sVManagement Science and Engineering
+p64
+F0.0022505140287415225
+ssS'education'
+p65
+(dp66
+VBachelor
+p67
+F0.0015905389662651077
+sVMaster
+p68
+F0.0012692507595535372
+ssS'responsibility'
+p69
+(dp70
+S'forecasting'
+p71
+F0.01023465621581263
+sS'insight'
+p72
+F0.016011285829053097
 sS'design'
-p87
-I1
+p73
+F0.0025487239267338179
+sS'recommendation'
+p74
+F0.0045588163085833709
+sS'decision making'
+p75
+F0.0057008430190741951
 sS'data mining'
-p88
-I1
-sS'report'
-p89
-I1
-sS'understand'
-p90
-I1
-sS'model'
-p91
-I1
-sS'evaluation'
-p92
-I1
-sS'data gathering'
-p93
-I1
+p76
+F0.003703279805727989
+sS'information'
+p77
+F0.0072623308875884541
+sS'presentation'
+p78
+F0.0042990477178178124
 sS'transformation'
-p94
-I1
+p79
+F0.0054877087876664338
+sS'product'
+p80
+F0.0070418475953808726
+sS'data analysis'
+p81
+F0.0025894625043030805
+sS'business problem'
+p82
+F0.0049705943492681405
+sS'processing'
+p83
+F0.0028500664688843281
+sS'statistical model'
+p84
+F0.0062667788928776535
+sS'statistical method'
+p85
+F0.0061357599110846619
+sS'understand'
+p86
+F0.0036678530775641803
+sS'report'
+p87
+F0.003621773857194466
+sS'modeling'
+p88
+F0.011338857787386422
+sS'data gathering'
+p89
+F0.0083002305580164859
+sS'evaluation'
+p90
+F0.00590478740632928
+sS'analysis'
+p91
+F0.0011958768647613611
+sS'model'
+p92
+F0.016203254889022418
 ss.

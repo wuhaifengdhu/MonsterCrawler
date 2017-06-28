@@ -2,86 +2,88 @@
 S'skills'
 p2
 (lp3
-S'shell scripting'
+S'debugging'
 p4
-aS'communication'
+aS'shell scripting'
 p5
-aS'engineering'
-p6
-aS'problem solving'
-p7
-aS'linux'
-p8
-aS'java'
-p9
-aS'saas'
-p10
-aS'research'
-p11
-aS'quality assurance'
-p12
-aS'innovation'
-p13
-aS'product development'
-p14
-aS'visio'
-p15
-aS'data scientist'
-p16
-aS'data'
-p17
-aS'b2b'
-p18
-aS'tomcat'
-p19
-aS'documentation'
-p20
-aS'organization'
-p21
-aS'docker'
-p22
-aS'microsoft office'
-p23
-aS'powerpoint'
-p24
-aS'scripting'
-p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-asS'major'
-p29
-(lp30
-S'information'
-p31
-aS'engineering'
-p32
-aS'design'
-p33
-aS'business'
-p34
 aS'communication'
-p35
-asS'education'
-p36
-(lp37
-S'Bachelor'
-p38
-asS'responsibility'
-p39
-(lp40
-S'development'
-p41
-aS'information'
-p42
-aS'product'
-p43
+p6
+aS'servers'
+p7
+aS'hardware'
+p8
+aS'engineering'
+p9
+aS'problem solving'
+p10
+aS'linux'
+p11
+aS'java'
+p12
+aS'saas'
+p13
+aS'research'
+p14
+aS'quality assurance'
+p15
+aS'innovation'
+p16
+aS'systems engineering'
+p17
+aS'product development'
+p18
+aS'visio'
+p19
+aS'data scientist'
+p20
+aS'data'
+p21
+aS'b2b'
+p22
+aS'tomcat'
+p23
 aS'documentation'
+p24
+aS'organization'
+p25
+aS'docker'
+p26
+aS'microsoft office'
+p27
+aS'powerpoint'
+p28
+aS'scripting'
+p29
+asS'working-year'
+p30
+(lp31
+V(5, 10]
+p32
+asS'major'
+p33
+(lp34
+VEngineering
+p35
+aVBusiness
+p36
+asS'education'
+p37
+(lp38
+S'Bachelor'
+p39
+asS'responsibility'
+p40
+(lp41
+S'development'
+p42
+aS'information'
+p43
+aS'product'
 p44
-aS'design'
+aS'develop ... system'
 p45
-aS'develop system'
+aS'documentation'
 p46
+aS'design'
+p47
 as.

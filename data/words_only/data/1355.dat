@@ -4,232 +4,212 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0035576839530581045
 sS'data science'
 p5
-I1
+F0.0027030133160912346
 sS'hadoop'
 p6
-I1
+F0.0028872056211226181
 sS'analytics'
 p7
-I1
-sS'engineering'
+F0.0058633986201136632
+sS'unix'
 p8
-I1
+F0.0058024467163708994
 sS'statistical analysis'
 p9
-I1
+F0.0057858430413766475
 sS'problem solving'
 p10
-I1
-sS'creative problem solving'
+F0.0055159817189960707
+sS'linux'
 p11
-I1
-sS'research'
+F0.0041484899725825379
+sS'creative problem solving'
 p12
-I1
-sS'java'
+F0.012674672987470357
+sS'research'
 p13
-I1
-sS'big data'
+F0.0076688570037010189
+sS'java'
 p14
-I1
-sS'scala'
+F0.002784869590265806
+sS'big data'
 p15
-I1
-sS'critical thinking'
+F0.002860056463736332
+sS'scala'
 p16
-I1
-sS'scientific computing'
+F0.0054844188487609821
+sS'critical thinking'
 p17
-I1
-sS'strategy'
+F0.0088117879303618394
+sS'scientific computing'
 p18
-I1
-sS'information management'
+F0.0072541983475285796
+sS'strategy'
 p19
-I1
-sS'scientific visualization'
+F0.0035393515308468201
+sS'information management'
 p20
-I1
-sS'computer science'
+F0.010839264785822809
+sS'scientific visualization'
 p21
-I1
-sS'segmentation'
+F0.014232303110013667
+sS'computer science'
 p22
-I1
-sS'python'
+F0.0031595129509825186
+sS'mathematics'
 p23
-I1
-sS'data scientist'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'spark'
-p26
-I1
-sS'data'
-p27
-I1
-sS'customer relations'
-p28
-I1
-sS'project management'
-p29
-I1
+F0.0041076253529793395
 sS'software development'
-p30
-I1
-sS'latex'
-p31
-I1
+p24
+F0.0047644867821871294
+sS'segmentation'
+p25
+F0.0065079804766967212
+sS'python'
+p26
+F0.0011713517140522832
+sS'data scientist'
+p27
+F0.0023806104835143332
 sS'training'
+p28
+F0.0052883028112861337
+sS'sql'
+p29
+F0.0015324581097371846
+sS'spark'
+p30
+F0.0037890688164396824
+sS'data'
+p31
+F0.0013326009873536283
+sS'project management'
 p32
-I1
-sS'cluster'
+F0.0042729288164596547
+sS'a'
+F0.0084046826679282094
+sS'latex'
 p33
-I1
-sS'applied mathematics'
+F0.0046303282118450393
+sS'c'
+F0.0028103863458384211
+sS'cluster'
 p34
-I1
-sS'programming'
+F0.0078935973090325327
+sS'science'
 p35
-I1
-sS'analysis'
+F0.001579851434144028
+sS'applied mathematics'
 p36
-I1
-sS'machine learning'
+F0.0067912601007723743
+sS'programming'
 p37
-I1
-sS'credit'
+F0.0049542257745387687
+sS'engineering'
 p38
-I1
-sS'r'
-I1
-sS'financial services'
+F0.0027524826451093367
+sS'analysis'
 p39
-I1
-sS'organization'
+F0.0007699297118070336
+sS'machine learning'
 p40
-I1
-sS'shiny'
+F0.0014730735322113246
+sS'credit'
 p41
-I1
-ssS'working-year'
+F0.021421583084748182
+sS'r'
+F0.0012471737227279579
+sS'financial services'
 p42
-(dp43
-V(0, 2]
+F0.0095010576671915297
+sS'organization'
+p43
+F0.0039622108747902956
+sS'shiny'
 p44
-I1
-ssS'major'
+F0.010522924698831388
+ssS'working-year'
 p45
 (dp46
-S'information'
+V(0, 2]
 p47
-I1
-sS'business'
+F0.0051181576721127048
+ssS'major'
 p48
-I1
-sS'big data'
-p49
-I1
-sS'communication'
+(dp49
+VBusiness
 p50
-I1
-sS'data science'
+F0.0024308187576946388
+sVData Science
 p51
-I1
-sS'applied math'
+F0.0023085145676518264
+sVEconomics
 p52
-I1
-sS'information management'
+F0.0036871270730886763
+sVEngineering
 p53
-I1
-sS'scientific computing'
+F0.0027524826451093367
+sVInformation Science
 p54
-I1
-sS'analytics'
+F0.0056913599742788633
+sVComputer Science
 p55
-I1
-sS'engineering'
+F0.0020345072951734782
+sVMathematics
 p56
-I1
-sS'machine learning'
+F0.0038522978192864093
+sVManagement Science and Engineering
 p57
-I1
-sS'design'
-p58
-I1
-sS'computer science'
-p59
-I1
-sS'statistic'
-p60
-I1
-sS'analytics data science'
-p61
-I1
-sS'financial mathematics'
-p62
-I1
-sS'phd'
-p63
-I1
-sS'applied mathematics'
-p64
-I1
-sS'project management'
-p65
-I1
+F0.0028978528954357137
 ssS'education'
-p66
-(dp67
+p58
+(dp59
 VMaster
-p68
-I1
+p60
+F0.0016343386184812965
 sVDoctor
-p69
-I1
+p61
+F0.0024475994871381306
 ssS'responsibility'
-p70
-(dp71
+p62
+(dp63
 S'development'
-p72
-I1
+p64
+F0.0027212606795822894
 sS'information'
-p73
-I1
+p65
+F0.0062341806720422237
 sS'product'
-p74
-I1
+p66
+F0.0030224559341971839
 sS'presentation'
-p75
-I1
-sVinsight
-p76
-I1
+p67
+F0.011071255471054413
+sS'insight'
+p68
+F0.0041233558562010905
 sS'communicate'
-p77
-I1
+p69
+F0.0045084109714193087
 sS'analysis'
-p78
-I1
+p70
+F0.0007699297118070336
 sS'analytic'
-p79
-I1
+p71
+F0.025367707553928569
 sS'design'
-p80
-I1
+p72
+F0.0032818400225134332
 sS'recommendation'
-p81
-I1
+p73
+F0.0058701162804904979
 sS'model'
-p82
-I1
+p74
+F0.006954655469220858
 sS'evaluation'
-p83
-I1
+p75
+F0.0076032431097228705
 ss.

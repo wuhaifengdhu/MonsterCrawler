@@ -2,84 +2,81 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'a'
+aS'consulting'
 p4
 aS'management'
 p5
-aS'credit cards'
+aS'loans'
 p6
-aS'banking'
+aS'credit cards'
 p7
-aS'recruiting'
+aS'banking'
 p8
-aS'management consulting'
+aS'recruiting'
 p9
-aS'data scientist'
+aS'management consulting'
 p10
-aS'analysis'
+aS'data scientist'
 p11
-aS'strategy'
-p12
-aS'credit'
-p13
-aS'data analysis'
-p14
-aS'teamwork'
-p15
-aS'innovation'
-p16
-aS'organization'
-p17
-aS'retail'
-p18
-aS'data'
-p19
-aS'collaboration'
-p20
-asS'working-year'
-p21
-(lp22
-V(0, 2]
-p23
-aV(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
-aS'law'
-p28
-aS'management'
-p29
-aS'business'
-p30
-aS'history'
-p31
-asS'education'
-p32
-(lp33
-VBachelor
-p34
-asS'responsibility'
-p35
-(lp36
-S'development'
-p37
-aS'information'
-p38
-aS'product'
-p39
-aS'data analysis'
-p40
-aS'business problem'
-p41
-aS'communicate'
-p42
 aS'analysis'
-p43
+p12
+aS'strategy'
+p13
+aS'credit'
+p14
+aS'data analysis'
+p15
+aS'teamwork'
+p16
+aS'innovation'
+p17
+aS'organization'
+p18
+aS'retail'
+p19
+aS'data'
+p20
+aS'collaboration'
+p21
+asS'working-year'
+p22
+(lp23
+V(0, 2]
+p24
+aV(2, 5]
+p25
+asS'major'
+p26
+(lp27
+VBusiness
+p28
+aVManagement Science and Engineering
+p29
+asS'education'
+p30
+(lp31
+VBachelor
+p32
+asS'responsibility'
+p33
+(lp34
+S'development'
+p35
+aS'information'
+p36
+aS'product'
+p37
+aS'data analysis'
+p38
+aS'business problem'
+p39
+aS'communicate'
+p40
+aS'analysis'
+p41
 aS'recommendation'
-p44
+p42
 aS'model'
-p45
+p43
 as.

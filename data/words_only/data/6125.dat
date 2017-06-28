@@ -4,151 +4,148 @@ p2
 (dp3
 S'debugging'
 p4
-I1
-sS'recruiting'
+F0.011720060008489627
+sS'communication'
 p5
-I1
+F0.0042217849576289502
 sS'data science'
 p6
-I1
+F0.0032075758017615979
 sS'engineering'
 p7
-I1
+F0.0065325588110594912
 sS'quickbooks'
 p8
-I1
+F0.0171856008856421
 sS'marketing management'
 p9
-I1
+F0.012182112697323215
 sS'lead generation'
 p10
-I1
-sS'saas'
+F0.014473783676576098
+sS'recruiting'
 p11
-I1
-sS'microsoft sql server'
+F0.0091970620016463764
+sS'integration'
 p12
-I1
-sS'asp.net mvc'
+F0.0061499816591856328
+sS'microsoft sql server'
 p13
-I1
-sS'computer science'
+F0.0083736754964961052
+sS'asp.net mvc'
 p14
-I1
-sS'communication'
+F0.016498057840506442
+sS'computer science'
 p15
-I1
+F0.0037492887018325885
 sS'policy'
 p16
-I1
+F0.0072790886081086654
 sS'tensorflow'
 p17
-I1
-sS'apis'
+F0.011506615529937156
+sS'asp'
 p18
-I1
-sS'python'
+F0.012206245342777793
+sS'apis'
 p19
-I1
-sS'customer service'
+F0.0098117743096977298
+sS'python'
 p20
-I1
-sS'scipy'
+F0.0013900040340087093
+sS'customer service'
 p21
-I1
-sS'technical writing'
+F0.0091427193135670444
+sS'scipy'
 p22
-I1
-sS'customer experience'
+F0.010777033859960101
+sS'technical writing'
 p23
-I1
-sS'c'
-I1
-sS'sql server'
+F0.011343855398419225
+sS'data'
 p24
-I1
-sS'science'
+F0.00031627063433192776
+sS'customer experience'
 p25
-I1
-sS'.net'
+F0.010216257070629987
+sS'c'
+F0.0066699835941231855
+sS'saas'
 p26
-I1
-sS'machine learning'
+F0.0082334461232017632
+sS'sql server'
 p27
-I1
-sS'mvc'
+F0.0074608759180763247
+sS'science'
 p28
-I1
-sS'executive management'
+F0.0018747570351842463
+sS'.net'
 p29
-I1
-sS'start-ups'
+F0.030147574708995425
+sS'machine learning'
 p30
-I1
-sS'crm'
+F0.0017480472582241048
+sS'mvc'
 p31
-I1
-ssS'working-year'
+F0.012381580604754814
+sS'executive management'
 p32
-(dp33
-V(2, 5]
+F0.014473783676576098
+sS'start-ups'
+p33
+F0.0099330043160962538
+sS'crm'
 p34
-I1
-ssS'major'
+F0.0087703679098581275
+ssS'working-year'
 p35
 (dp36
-S'business'
+V(2, 5]
 p37
-I1
-sS'communication'
+F0.0033038518091496947
+ssS'major'
 p38
-I1
-sS'data science'
-p39
-I1
-sS'machine learning'
+(dp39
+VBusiness
 p40
-I1
-sS'engineering'
+F0.0028845715924643044
+sVData Science
 p41
-I1
-sS'computer science engineering'
+F0.0027394372869468334
+sVEconomics
 p42
-I1
-sS'computer science'
+F0.004375390793398562
+sVEngineering
 p43
-I1
-sS'science'
+F0.0065325588110594912
+sVComputer Science
 p44
-I1
-sS'phd'
+F0.0024142819902725271
+sVManagement Science and Engineering
 p45
-I1
-sS'marketing management'
-p46
-I1
+F0.0034387854359170461
 ssS'education'
-p47
-(dp48
+p46
+(dp47
 VBachelor
-p49
-I1
+p48
+F0.0024303435404530844
 sVMaster
-p50
-I1
+p49
+F0.0019394151605978049
 sVDoctor
-p51
-I1
+p50
+F0.0029044847247372478
 ssS'responsibility'
-p52
-(dp53
+p51
+(dp52
 S'product'
-p54
-I1
+p53
+F0.010759943125741973
 sS'communicate'
-p55
-I1
+p54
+F0.0053499810194175788
 sS'ownership'
-p56
-I1
+p55
+F0.010507449200233034
 ss.

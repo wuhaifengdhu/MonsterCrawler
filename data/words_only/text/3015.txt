@@ -1,5 +1,5 @@
-skills: {'software design': 1, 'engineering': 1, 'linux': 1, 'insurance': 1, 'management': 1, 'open source': 1, 'scala': 1, 'agile': 1, 'computer science': 1, 'performance management': 1, 'python': 1, 'mongodb': 1, 'data scientist': 1, 'training': 1, 'java': 1, 'data': 1, 'search': 1, 'github': 1, 'software engineering': 1, 'programming': 1, 'elasticsearch': 1, 'healthcare': 1, 'docker': 1, 'retail': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'software engineering': 1, 'general': 1, 'engineering': 1, 'design': 1, 'computer science': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'design': 1}
+skills: {'software design': 0.011653143948354287, 'engineering': 0.0035503037016627673, 'linux': 0.005350950834200665, 'insurance': 0.009139627285651269, 'management': 0.0026262286005787018, 'open source': 0.009269332579472737, 'scala': 0.014148210943180504, 'agile': 0.006329535862897129, 'computer science': 0.00407531380633977, 'performance management': 0.013754264600329967, 'python': 0.0015108739500094665, 'mongodb': 0.008571292069047465, 'training': 0.006821144205861824, 'java': 0.003592078167154445, 'data': 0.001031317285864982, 'search': 0.008991274717825414, 'github': 0.021616000145445374, 'software engineering': 0.007542211561489889, 'science': 0.002037779386069833, 'programming': 0.0031951166227097852, 'elasticsearch': 0.011988882651469327, 'architecture': 0.006339172529520749, 'healthcare': 0.007818087951623665, 'docker': 0.012407575790124492, 'retail': 0.00998829415772905}
+working-year: {u'(5, 10]': 0.003494621048048866, u'(2, 5]': 0.0035911432708148855}
+major: {u'Engineering': 0.0035503037016627673, u'Computer Science': 0.0026242195546440513, u'Business': 0.003135403904852505, u'Management Science and Engineering': 0.003737810256431572}
+education: {'Bachelor': 0.0026416777613620488}
+responsibility: {'development': 0.0035100318910554163, 'information': 0.004020594781244622, 'product': 0.007797060236044908, 'design': 0.004233098000053558}

@@ -44,7 +44,7 @@ aS'data quality'
 p23
 aS'data'
 p24
-aS'c'
+aS'a'
 aS'software engineering'
 p25
 aS'science'
@@ -63,53 +63,39 @@ p31
 asS'working-year'
 p32
 (lp33
-V[0]
+S'[0]'
 p34
 asS'major'
 p35
 (lp36
-S'software engineering'
+VEngineering
 p37
-aS'business'
+aVData Science
 p38
-aS'marketing'
+aVEconomics
 p39
-aS'data science'
+aVComputer Science
 p40
-aS'machine learning'
+aVBusiness
 p41
-aS'analytics'
-p42
-aS'engineering'
-p43
-aS'design'
-p44
-aS'statistic'
-p45
-aS'ee cs'
-p46
-aS'science'
-p47
 asS'education'
-p48
-(lp49
-S'Bachelor'
-p50
+p42
+(lp43
+VBachelor
+p44
 asS'responsibility'
-p51
-(lp52
+p45
+(lp46
 S'forecasting'
-p53
-aVinsight
-p54
+p47
 aS'product'
-p55
+p48
 aS'understand'
-p56
+p49
 aS'modeling'
-p57
+p50
 aS'design'
-p58
+p51
 aS'model'
-p59
+p52
 as.

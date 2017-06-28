@@ -4,230 +4,209 @@ p2
 (dp3
 S'cognos'
 p4
-I1
+F0.020494084423688653
 sS'sas base'
 p5
-I1
+F0.022959500646233161
 sS'information theory'
 p6
-I1
+F0.026236744495262771
 sS'biostatistics'
 p7
-I1
+F0.017260953382883724
 sS'communication'
 p8
-I1
+F0.0069437252592581423
 sS'teradata'
 p9
-I1
+F0.016057310065059768
 sS'grid computing'
 p10
-I1
+F0.025923328806526796
 sS'analytics'
 p11
-I1
+F0.0038146379911558185
 sS'business intelligence'
 p12
-I1
+F0.0089607162665544787
 sS'business objects'
 p13
-I1
+F0.018864438151377554
 sS'data mining'
 p14
-I1
-sS'econometrics'
+F0.009306926880184814
+sS'sas'
 p15
-I1
-sS'documentation'
+F0.030378001242925803
+sS'econometrics'
 p16
-I1
-sS'management'
+F0.013452888419913335
+sS'documentation'
 p17
-I1
-sS'big data'
+F0.012716846311158029
+sS'statistics'
 p18
-I1
-sS'strategy'
+F0.0040899686614149326
+sS'big data'
 p19
-I1
-sS'access'
+F0.0055821277472046819
+sS'strategy'
 p20
-I1
-sS'intelligence'
+F0.0069079448738019068
+sS'access'
 p21
-I1
-sS'mathematics'
+F0.01017307905744059
+sS'intelligence'
 p22
-I1
+F0.0068862219731876274
 sS'operations research'
 p23
-I1
+F0.012635695243648725
 sS'segmentation'
 p24
-I1
+F0.012701979439166846
 sS'theory'
 p25
-I1
+F0.012852966010847962
 sS'marketing'
 p26
-I1
+F0.0083562040459541614
 sS'innovation'
 p27
-I1
+F0.0084904590883101913
 sS'data quality'
 p28
-I1
-sS'sql'
-p29
-I1
-sS'data'
-p30
-I1
-sS'data collection'
-p31
-I1
-sS'data visualization'
-p32
-I1
-sS'applied mathematics'
-p33
-I1
-sS'marketing analytics'
-p34
-I1
-sS'analysis'
-p35
-I1
-sS'oracle'
-p36
-I1
-sS'retail'
-p37
-I1
-sS'microsoft office'
-p38
-I1
-sS'sas enterprise miner'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
+F0.01550367571572905
 sS'management'
-p46
-I1
-sS'big data'
-p47
-I1
-sS'biostatistics'
-p48
-I1
-sS'computing'
-p49
-I1
-sS'marketing'
-p50
-I1
-sS'applied mathematics'
-p51
-I1
-sS'marketing analytics'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'mba'
-p54
-I1
-sS'phd'
-p55
-I1
-sS'business'
-p56
-I1
-sS'analytics'
-p57
-I1
-sS'data mining'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'mathematics'
-p60
-I1
-sS'applied math'
-p61
-I1
-sS'econometrics'
-p62
-I1
-sS'operations research'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VMaster
-p66
-I1
-sVDoctor
-p67
-I1
-ssS'responsibility'
-p68
-(dp69
-S'information'
-p70
-I1
+p29
+F0.0039738985403493512
+sS'sql'
+p30
+F0.0059819636739740969
+sS'db2'
+p31
+F0.021755837649940823
+sS'data'
+p32
+F0.0046816376792555093
 sS'data collection'
-p71
-I1
-sS'pattern'
-p72
-I1
-sVinsight
-p73
-I1
+p33
+F0.031801311815449498
+sS'data visualization'
+p34
+F0.0086260246735947402
+sS'applied mathematics'
+p35
+F0.013254871687910992
+sS'marketing analytics'
+p36
+F0.016917974618595521
 sS'analysis'
-p74
-I1
+p37
+F0.0015027136919040787
+sS'oracle'
+p38
+F0.011513252186672464
+sS'retail'
+p39
+F0.015113866159721587
+sS'microsoft office'
+p40
+F0.0084228177407579975
+sS'sas enterprise miner'
+p41
+F0.023534183137819849
+ssS'working-year'
+p42
+(dp43
+V(2, 5]
+p44
+F0.0054339667913646294
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0079013367100354386
+sVBusiness
+p48
+F0.0047443611718162903
+sVData Science
+p49
+F0.0045056534324783449
+sVEconomics
+p50
+F0.0071963664365107928
+sVComputer Science
+p51
+F0.0039708585366324458
+sVBiological Engineering
+p52
+F0.011535946405599519
+sVMathematics
+p53
+F0.0075187391648353146
+sVOperations Research
+p54
+F0.01411723200959278
+sVManagement Science and Engineering
+p55
+F0.0056558970985477732
+ssS'education'
+p56
+(dp57
+VMaster
+p58
+F0.0031898275667727053
+sVDoctor
+p59
+F0.0047771130341073154
+ssS'responsibility'
+p60
+(dp61
+S'information'
+p62
+F0.018251384204334139
+sS'data collection'
+p63
+F0.031801311815449498
+sS'develop ... system'
+p64
+F0.020538164434122663
+sS'pattern'
+p65
+F0.011485048577079587
+sS'insight'
+p66
+F0.016095555754469165
+sS'analysis'
+p67
+F0.0015027136919040787
 sS'improvement'
-p75
-I1
+p68
+F0.011781607440083806
 sS'analytic'
-p76
-I1
-sS'complex data set'
-p77
-I1
-sS'data mining'
-p78
-I1
+p69
+F0.0099023068960510646
 sS'understand'
-p79
-I1
+p70
+F0.0092178939186152425
+sS'data mining'
+p71
+F0.009306926880184814
+sS'identify ... trend'
+p72
+F0.018834294353949406
 sS'implement'
-p80
-I1
+p73
+F0.0092888735750859975
 sS'presentation'
-p81
-I1
+p74
+F0.02160837142376848
 sS'data gathering'
-p82
-I1
+p75
+F0.020859789955015116
 sS'documentation'
-p83
-I1
+p76
+F0.012716846311158029
 ss.

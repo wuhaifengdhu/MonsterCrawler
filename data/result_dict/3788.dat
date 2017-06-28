@@ -4,90 +4,91 @@ p2
 (lp3
 S'communication'
 p4
-aS'hardware'
+aS'sales'
 p5
-aS'problem solving'
+aS'hardware'
 p6
-aS'linux'
+aS'analytics'
 p7
-aS'java'
+aS'problem solving'
 p8
-aS'big data'
+aS'linux'
 p9
-aS'predictive modeling'
+aS'sas'
 p10
-aS'big data analytics'
+aS'java'
 p11
-aS'computer science'
+aS'big data'
 p12
-aS'innovation'
+aS'predictive modeling'
 p13
-aS'teradata'
-p14
-aS'data modeling'
-p15
-aS'marketing'
-p16
-aS'data scientist'
-p17
-aS'sql'
-p18
-aS'modeling'
-p19
-aS'data'
-p20
-aS'training'
-p21
-aS'science'
-p22
-aS'programming'
-p23
-aS'analysis'
-p24
-aS'machine learning'
-p25
-aS'data center'
-p26
-aS'optimization'
-p27
-aS'data analytics'
-p28
-aS'organization'
-p29
-aS'scripting'
-p30
-asS'working-year'
-p31
-(lp32
-V(5, 10]
-p33
-aV(2, 5]
-p34
-asS'major'
-p35
-(lp36
-S'big data'
-p37
-aS'marketing'
-p38
-aS'communication'
-p39
-aS'machine learning'
-p40
 aS'big data analytics'
-p41
-aS'design'
-p42
+p14
+aS'optimization'
+p15
 aS'computer science'
-p43
+p16
+aS'innovation'
+p17
+aS'teradata'
+p18
+aS'data modeling'
+p19
+aS'marketing'
+p20
+aS'data scientist'
+p21
+aS'sql'
+p22
+aS'modeling'
+p23
+aS'data'
+p24
+aS'training'
+p25
 aS'science'
-p44
+p26
+aS'programming'
+p27
+aS'mapreduce'
+p28
+aS'analysis'
+p29
+aS'machine learning'
+p30
+aS'data center'
+p31
+aS'r'
 aS'data analytics'
-p45
+p32
+aS'databases'
+p33
+aS'organization'
+p34
+aS'scripting'
+p35
+asS'working-year'
+p36
+(lp37
+V(5, 10]
+p38
+aV(2, 5]
+p39
+asS'major'
+p40
+(lp41
+VData Science
+p42
+aVEconomics
+p43
+aVComputer Science
+p44
 asS'education'
-p46
-(lp47
-S'Bachelor'
+p45
+(lp46
+VBachelor
+p47
+aVMaster
 p48
 asS'responsibility'
 p49
@@ -104,6 +105,8 @@ aS'design'
 p55
 aS'modeling'
 p56
-aS'evaluation'
+aS'prototype'
 p57
+aS'evaluation'
+p58
 as.

@@ -1,308 +1,549 @@
-general
-responsibility
-identify_opportunity
-ensure
-enhance
-customer_satisfaction
-better_fleet
-car
-model
-choice
-customer
-work_collaboratively
-division
-business
-leader
-lead
-develop
-team
-1-3_full
-time
-data_scientist
-identify_opportunity
-ensure
-enhance
-customer_satisfaction
-better_fleet
-car
-model
-choice
-customer
-includes
-develop
-tool
-monitor
-customer
-preference_car
-class
-make
-model
-location_season
-determine_implication
-desired_fleet
-mix
-refine_replenishment
-logic
-based
-customer
-preference
-eg
-upgrade
-model
-put_pc
-v_five
-star_gold
-dtg_hle
-hertz_ap
-fleet_segregation
-guideline
-make
-model_mileage
-identify
-fleet_rebalancing
-opportunity
-within_pool
-across
-pool
-work_rvps
-oap_leadership
-fleet_vps
-coordinate
-develop
-car_assignment
-logic
-tool
-field
-use
-live
-assignment
-car_lot
-take
-account
-customer
-booking_next
-72_hour
-hour
-car_class
-loyalty
-status
-upgrade_entitlement
-ensuring_upgrade
-success
-variety
-car_class
-model
-choice
-customer
-gold_five
-star_pc
-platinum
-fleet
-needed_upsell
-based
-historical_upsell
-performance
-location
-day
-logic
-ensure_upsell
-lot
-multiple
-car_class
-offer
-whats_shelf
-fleet_availability
-work
-revenue_management
-optimize_cap
-develop
-performance
-management
-report
-upgrade_v
-potential
-given_fleet
-variety
-choice_v
-achievable_given
-fleet_booking
-upsell
-customer
-preference
-make
-model_trim
-run
-daily_weekly
-monthly
-performance
-report
-work
-upgrade
-field
-support
-team
-operator_field
-test_iterate
-tool_playbook
-airport_leadership
-mandatory
-requirement
-educational_background
-bachelor_degree
-minimum_mba
-preferred
-professional
-experience
-deep_understanding
-big_data
-analytics
-preferably
-good
-functional
-knowledge
-operation
-strategy
-revenue_management
-team
-management
-experience
-managerial
-position
-operation
-big_data
-analytics
-revenue
-function
-black_belt
-green_belt
-certification_plus
-knowledge
--
-best_practice
-process
-development
--
-existing
-area
-functional
-expertise
-eg
-operation
-strategy
-revenue
--
-lean_six
-sigma
-experience
-skill
--
-ability_influence
-others
-without_formal
-authority
--
-project_management
--
-change
-management
--
-business_case
-management
--
-requirement
-management
--
-planning
-control
--
-time
-management
--
-organization
-skill
--
-presentation_skill
--
-excellent_written
-skill
--
-excellent
-m_excel
-skill
-tested
-competency
--
-ability
-work
-comfortably_across
-functional_geographical
-boundary
--
-matrix_management
-capability
--
-contingency_planner
--
-execution
-discipline
--
-business_acumen
-commercial
-awareness
--
-ability
-coach
-provide_feedback
-team_member
--
-edge_courage
-make_tough
-yes
-decision
--
-excellent
-team
-builder
-ability
-identify_overcome
-obstacle_inhibit
-team
-effectiveness
--
-leadership
--
-teamwork
--
-continuous_improvement
--
-communication
--
-energy
--
-ability_energize
-others
-additional
-note
--
-must
-customer
-service
-orientation
--
-self_starter
-gravitas_work
-across
-level
-motivate_variety
-team
-without_actual
-reporting
-structure
--
-strong
-integrity
-flexibility
-creativity_innovation
-passion
--
-result_orientated
+(lp1
+Vgeneral
+p2
+aVresponsibility
+p3
+aVidentify opportunity
+p4
+aVensure
+p5
+aVenhance customer
+p6
+aVsatisfaction better
+p7
+aVfleet car
+p8
+aVmodel
+p9
+aVchoice
+p10
+aVcustomer
+p11
+aVwork collaboratively
+p12
+aVdivision
+p13
+aVbusiness leader
+p14
+aVlead
+p15
+aVdevelop
+p16
+aVteam
+p17
+aV1-3 full
+p18
+aVtime
+p19
+aVdata scientist
+p20
+aVidentify opportunity
+p21
+aVensure
+p22
+aVenhance customer
+p23
+aVsatisfaction better
+p24
+aVfleet car
+p25
+aVmodel
+p26
+aVchoice
+p27
+aVcustomer
+p28
+aVincludes
+p29
+aVdevelop
+p30
+aVtool
+p31
+aVmonitor
+p32
+aVcustomer preference
+p33
+aVcar class
+p34
+aVmake
+p35
+aVmodel
+p36
+aVlocation season
+p37
+aVdetermine implication
+p38
+aVdesired fleet
+p39
+aVmix
+p40
+aVrefine replenishment
+p41
+aVlogic
+p42
+aVbased
+p43
+aVcustomer preference
+p44
+aVe.g.
+p45
+aVupgrade
+p46
+aVmodel
+p47
+aVput pc
+p48
+aVv five
+p49
+aVstar gold
+p50
+aVdtg hle
+p51
+aVhertz ap
+p52
+aVfleet segregation
+p53
+aVguideline
+p54
+aVmake
+p55
+aVmodel mileage
+p56
+aVidentify
+p57
+aVfleet rebalancing
+p58
+aVopportunity
+p59
+aVwithin pool
+p60
+aVacross pool
+p61
+aVwork rvps
+p62
+aVoap leadership
+p63
+aVfleet vps
+p64
+aVcoordinate
+p65
+aVdevelop
+p66
+aVcar assignment
+p67
+aVlogic
+p68
+aVtool
+p69
+aVfield
+p70
+aVuse
+p71
+aVlive
+p72
+aVassignment car
+p73
+aVlot
+p74
+aVtake
+p75
+aVaccount
+p76
+aVcustomer
+p77
+aVbooking next
+p78
+aV72 hour
+p79
+aVhour car
+p80
+aVclass
+p81
+aVloyalty
+p82
+aVstatus
+p83
+aVupgrade entitlement
+p84
+aVensuring upgrade
+p85
+aVsuccess
+p86
+aVvariety
+p87
+aVcar class
+p88
+aVmodel
+p89
+aVchoice
+p90
+aVcustomer
+p91
+aVgold five
+p92
+aVstar pc
+p93
+aVplatinum
+p94
+aVfleet needed
+p95
+aVupsell based
+p96
+aVhistorical upsell
+p97
+aVperformance
+p98
+aVlocation
+p99
+aVday
+p100
+aVlogic
+p101
+aVensure upsell
+p102
+aVlot
+p103
+aVmultiple
+p104
+aVcar class
+p105
+aVoffer whats
+p106
+aVshelf
+p107
+aVfleet availability
+p108
+aVwork
+p109
+aVrevenue management
+p110
+aVoptimize cap
+p111
+aVdevelop
+p112
+aVperformance
+p113
+aVmanagement
+p114
+aVreport
+p115
+aVupgrade v
+p116
+aVpotential
+p117
+aVgiven fleet
+p118
+aVvariety
+p119
+aVchoice v
+p120
+aVachievable given
+p121
+aVfleet booking
+p122
+aVupsell
+p123
+aVcustomer preference
+p124
+aVmake
+p125
+aVmodel trim
+p126
+aVrun daily
+p127
+aVweekly monthly
+p128
+aVperformance
+p129
+aVreport
+p130
+aVwork
+p131
+aVupgrade
+p132
+aVfield
+p133
+aVsupport
+p134
+aVteam
+p135
+aVoperator field
+p136
+aVtest iterate
+p137
+aVtool playbook
+p138
+aVairport leadership
+p139
+aVmandatory
+p140
+aVrequirement
+p141
+aVeducational background
+p142
+aVbachelor degree
+p143
+aVminimum mba
+p144
+aVpreferred
+p145
+aVprofessional
+p146
+aVexperience
+p147
+aVdeep understanding
+p148
+aVbig data
+p149
+aVanalytics
+p150
+aVpreferably good
+p151
+aVfunctional
+p152
+aVknowledge
+p153
+aVoperation
+p154
+aVstrategy
+p155
+aVrevenue management
+p156
+aVteam
+p157
+aVmanagement
+p158
+aVexperience
+p159
+aVmanagerial position
+p160
+aVoperation
+p161
+aVbig data
+p162
+aVanalytics
+p163
+aVrevenue
+p164
+aVfunction
+p165
+aVblack belt
+p166
+aVgreen belt
+p167
+aVcertification plus
+p168
+aVknowledge
+p169
+aV-
+aVbest practice
+p170
+aVprocess
+p171
+aVdevelopment
+p172
+aV-
+aVexisting
+p173
+aVarea
+p174
+aVfunctional
+p175
+aVexpertise
+p176
+aVe.g.
+p177
+aVoperation
+p178
+aVstrategy
+p179
+aVrevenue
+p180
+aV-
+aVlean six
+p181
+aVsigma
+p182
+aVexperience
+p183
+aVskill
+p184
+aV-
+aVability influence
+p185
+aVothers
+p186
+aVwithout formal
+p187
+aVauthority
+p188
+aV-
+aVproject management
+p189
+aV-
+aVchange management
+p190
+aV-
+aVbusiness case
+p191
+aVmanagement
+p192
+aV-
+aVrequirement
+p193
+aVmanagement
+p194
+aV-
+aVplanning
+p195
+aVcontrol
+p196
+aV-
+aVtime
+p197
+aVmanagement
+p198
+aV-
+aVorganization
+p199
+aVskill
+p200
+aV-
+aVpresentation skill
+p201
+aV-
+aVexcellent written
+p202
+aVskill
+p203
+aV-
+aVexcellent
+p204
+aVm excel
+p205
+aVskill
+p206
+aVtested
+p207
+aVcompetency
+p208
+aV-
+aVability work
+p209
+aVcomfortably across
+p210
+aVfunctional geographical
+p211
+aVboundary
+p212
+aV-
+aVmatrix management
+p213
+aVcapability
+p214
+aV- contingency
+p215
+aVplanner
+p216
+aV-
+aVexecution
+p217
+aVdiscipline
+p218
+aV-
+aVbusiness acumen
+p219
+aVcommercial awareness
+p220
+aV-
+aVability coach
+p221
+aVprovide feedback
+p222
+aVteam member
+p223
+aV-
+aVedge courage
+p224
+aVmake tough
+p225
+aVyes
+p226
+aVdecision
+p227
+aV-
+aVexcellent
+p228
+aVteam builder
+p229
+aVability identify
+p230
+aVovercome obstacle
+p231
+aVinhibit team
+p232
+aVeffectiveness
+p233
+aV-
+aVleadership
+p234
+aV-
+aVteamwork
+p235
+aV-
+aVcontinuous improvement
+p236
+aV-
+aVcommunication
+p237
+aV-
+aVenergy
+p238
+aV-
+aVability energize
+p239
+aVothers
+p240
+aVadditional note
+p241
+aV-
+aVmust
+p242
+aVcustomer
+p243
+aVservice
+p244
+aVorientation
+p245
+aV-
+aVself starter
+p246
+aVgravitas work
+p247
+aVacross
+p248
+aVlevel
+p249
+aVmotivate variety
+p250
+aVteam
+p251
+aVwithout actual
+p252
+aVreporting
+p253
+aVstructure
+p254
+aV-
+aVstrong
+p255
+aVintegrity
+p256
+aVflexibility creativity
+p257
+aVinnovation passion
+p258
+aV-
+aVresult orientated
+p259
+a.

@@ -1,5 +1,5 @@
-skills: {'management': 1, 'python': 1, 'science': 1, 'data science': 1, 'processing': 1, 'data scientist': 1, 'machine learning': 1, 'sql': 1, 'natural language processing': 1, 'data': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'management': 1, 'business': 1, 'science': 1, 'data science': 1, 'statistic': 1, 'phd': 1, 'natural language processing': 1, 'machine learning': 1}
-education: {u'Doctor': 1}
-responsibility: {'development': 1, 'product': 1, 'processing': 1}
+skills: {'management': 0.0055246882146320255, 'python': 0.003178362882641866, 'science': 0.00857358400236698, 'data science': 0.007334395888174385, 'processing': 0.009957854187016587, 'machine learning': 0.0039970592794758494, 'sql': 0.004158194261177117, 'natural language processing': 0.015280232511953066, 'data': 0.0036158990205631984}
+working-year: {u'(5, 10]': 0.007351489399858895, u'(2, 5]': 0.007554539197750827}
+major: {u'Data Science': 0.006263957211006479, u'Computer Science': 0.005520461868001206, u'Business': 0.0065958191900860625, u'Management Science and Engineering': 0.007863076454078612}
+education: {u'Doctor': 0.006641352266929683}
+responsibility: {'development': 0.007383908551305602, 'product': 0.024603528488739267, 'processing': 0.009957854187016587}

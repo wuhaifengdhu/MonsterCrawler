@@ -20,117 +20,99 @@ aS'integration'
 p11
 aS'research'
 p12
-aS'biotechnology'
+aS'access'
 p13
-aS'computer science'
+aS'biotechnology'
 p14
-aS'innovation'
+aS'computer science'
 p15
-aS'mathematics'
+aS'innovation'
 p16
-aS'data analysis'
+aS'mathematics'
 p17
-aS'python'
+aS'data analysis'
 p18
-aS'aws'
+aS'python'
 p19
-aS'data scientist'
+aS'aws'
 p20
-aS'epidemiology'
+aS'data scientist'
 p21
-aS'sql'
+aS'epidemiology'
 p22
-aS'informatics'
+aS'sql'
 p23
-aS'data'
+aS'informatics'
 p24
-aS'training'
+aS'data'
 p25
-aS'cloudera'
+aS'training'
 p26
-aS'science'
+aS'cloudera'
 p27
-aS'cloud computing'
+aS'science'
 p28
-aS'analysis'
+aS'cloud computing'
 p29
-aS'machine learning'
+aS'analysis'
 p30
+aS'machine learning'
+p31
 aS'r'
 aS'healthcare'
-p31
-aS'organization'
 p32
-asS'working-year'
+aS'organization'
 p33
-(lp34
+asS'working-year'
+p34
+(lp35
 V(0, 2]
-p35
-aV(2, 5]
 p36
-asS'major'
+aV(2, 5]
 p37
-(lp38
-S'information'
-p39
-aS'biostatistics'
+asS'major'
+p38
+(lp39
+VBusiness
 p40
-aS'big data'
+aVData Science
 p41
-aS'epidemiology'
+aVInformation Science
 p42
-aS'science'
+aVComputer Science
 p43
-aS'data science'
+aVBiological Engineering
 p44
-aS'computing'
+aVMathematics
 p45
-aS'machine learning'
-p46
-aS'business'
-p47
-aS'analytics'
-p48
-aS'computer science'
-p49
-aS'phd'
-p50
-aS'mathematics'
-p51
-aS'informatics'
-p52
-aS'biotechnology'
-p53
-aS'law'
-p54
-aS'biostatistics epidemiology'
-p55
 asS'education'
-p56
-(lp57
+p46
+(lp47
 VMaster
-p58
+p48
 aVDoctor
-p59
+p49
 asS'responsibility'
-p60
-(lp61
+p50
+(lp51
 S'development'
-p62
+p52
 aS'information'
-p63
-aVinsight
-p64
-aS'decision-making'
-p65
-aS'analysis'
-p66
-aS'analytic'
-p67
+p53
 aS'data analysis'
-p68
+p54
+aS'insight'
+p55
+aS'analysis'
+p56
+aS'analytic'
+p57
+aS'drive ... decision'
+p58
 aS'understand'
-p69
+p59
 aS'prototype'
-p70
+p60
+aS'decision-making'
+p61
 as.

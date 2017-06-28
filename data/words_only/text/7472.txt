@@ -1,5 +1,5 @@
-skills: {'data scientist': 1, 'government': 1, 'communication': 1, 'data management': 1, 'aws': 1, 'devops': 1, 'dod': 1, 'strategy': 1, 'access': 1, 'system architecture': 1, 'project management': 1, 'policy': 1, 'analysis': 1, 'ic': 1, 'data': 1, 'security': 1, 'vmware': 1, 'architecture': 1}
-working-year: {u'(5, 10]': 1}
-major: {'communication': 1, 'project management': 1, 'design': 1, 'data analyst': 1, 'business': 1}
-education: {u'Bachelor': 1}
-responsibility: {'report': 1, 'analytic': 1, 'design': 1, 'analysis': 1, 'pattern': 1}
+skills: {'a': 0.005807583520540455, 'training': 0.007308368791994811, 'government': 0.024289933375425142, 'communication': 0.004916675028294585, 'aws': 0.008116386176340714, 'data scientist': 0.003289974115415771, 'devops': 0.012827123254410067, 'analysis': 0.0021280665947461487, 'strategy': 0.014674019545591629, 'access': 0.007203298214585263, 'system architecture': 0.01389379641706106, 'project management': 0.005905134544486167, 'data management': 0.008540118337295871, 'policy': 0.00847719946596506, 'organization': 0.00547572620894932, 'ic': 0.09233453189858987, 'dod': 0.013110499867315242, 'data': 0.0055249140314195455, 'security': 0.006786803775527303, 'vmware': 0.015801750044792524, 'architecture': 0.04754379397140561}
+working-year: {u'(5, 10]': 0.0037442368371952135}
+major: {u'Data Science': 0.003190338455295225, u'Business': 0.0033593613266276836, u'Management Science and Engineering': 0.004004796703319541}
+education: {u'Bachelor': 0.002830369030030766}
+responsibility: {'pattern': 0.008132270421037719, 'analysis': 0.0021280665947461487, 'analytic': 0.014023142685090948, 'design': 0.009070924285829052, 'report': 0.00644495782662245, 'decision making': 0.010144667856923955}

@@ -44,56 +44,46 @@ aS'b2b'
 p23
 aS'disaster recovery'
 p24
-aS'science'
+aS'windows'
 p25
-aS'excel'
-p26
-aS'oracle'
-p27
-asS'working-year'
-p28
-(lp29
-V(5, 10]
-p30
-asS'major'
-p31
-(lp32
-S'systems engineering'
-p33
-aS'information'
-p34
-aS'management'
-p35
-aS'business'
-p36
 aS'science'
+p26
+aS'excel'
+p27
+aS'oracle'
+p28
+asS'working-year'
+p29
+(lp30
+V(5, 10]
+p31
+asS'major'
+p32
+(lp33
+VEngineering
+p34
+aVInformation Science
+p35
+aVComputer Science
+p36
+aVBusiness
 p37
-aS'information systems'
+aVManagement Science and Engineering
 p38
-aS'engineering'
-p39
-aS'information system'
-p40
-aS'design'
-p41
-aS'computer science'
-p42
-aS'computer information systems'
-p43
 asS'education'
-p44
-(lp45
+p39
+(lp40
 VBachelor
-p46
+p41
 asS'responsibility'
-p47
-(lp48
+p42
+(lp43
 S'development'
-p49
+p44
 aS'information'
-p50
+p45
 aS'product'
-p51
+p46
 aS'design'
-p52
+p47
 as.

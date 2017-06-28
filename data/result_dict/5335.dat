@@ -56,6 +56,8 @@ aS'data'
 p29
 aS'project management'
 p30
+aS'a'
+aS'c'
 aS'data visualization'
 p31
 aS'analytics'
@@ -74,71 +76,53 @@ p37
 asS'working-year'
 p38
 (lp39
-V[0]
+S'[0]'
 p40
 asS'major'
 p41
 (lp42
-S'management'
+VBusiness
 p43
-aS'transportation'
+aVData Science
 p44
-aS'business'
+aVEngineering
 p45
-aS'big data'
+aVComputer Science
 p46
-aS'computing'
+aVMathematics
 p47
-aS'science'
+aVManagement Science and Engineering
 p48
-aS'data science'
-p49
-aS'communication'
-p50
-aS'actuarial science'
-p51
-aS'machine learning'
-p52
-aS'analytics'
-p53
-aS'engineering'
-p54
-aS'project management'
-p55
-aS'statistic'
-p56
-aS'advanced analytics'
-p57
-aS'phd'
-p58
-aS'data analytics'
-p59
 asS'education'
-p60
-(lp61
-VDoctor
-p62
+p49
+(lp50
+VMaster
+p51
+aVDoctor
+p52
 asS'responsibility'
-p63
-(lp64
+p53
+(lp54
 S'development'
-p65
+p55
+aS'insight'
+p56
 aS'analysis'
-p66
+p57
 aS'statistical model'
-p67
+p58
 aS'analytic'
-p68
+p59
 aS'optimization'
-p69
+p60
 aS'understand'
-p70
+p61
 aS'report'
-p71
+p62
 aS'model'
-p72
+p63
 aS'simulation'
-p73
+p64
 aS'presentation'
-p74
+p65
 as.

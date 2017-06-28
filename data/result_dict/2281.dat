@@ -8,69 +8,69 @@ aS'communication'
 p5
 aS'data science'
 p6
-aS'integration'
+aS'sales'
 p7
-aS'analytics'
+aS'integration'
 p8
-aS'data governance'
+aS'analytics'
 p9
-aS'process improvement'
+aS'data governance'
 p10
-aS'problem solving'
+aS'process improvement'
 p11
-aS'education'
+aS'problem solving'
 p12
-aS'data analytics'
+aS'education'
 p13
-aS'finance'
+aS'data analytics'
 p14
-aS'qlikview'
+aS'finance'
 p15
-aS'hdfs'
+aS'qlikview'
 p16
-aS'management'
+aS'hdfs'
 p17
-aS'rdbms'
+aS'statistics'
 p18
-aS'big data'
+aS'rdbms'
 p19
-aS'hadoop'
+aS'big data'
 p20
-aS'governance'
+aS'management'
 p21
-aS'strategy'
+aS'hadoop'
 p22
-aS'coaching'
+aS'governance'
 p23
-aS'computer science'
+aS'strategy'
 p24
-aS'master data management'
+aS'coaching'
 p25
-aS'data management'
+aS'computer science'
 p26
-aS'data modeling'
+aS'master data management'
 p27
-aS'product development'
+aS'data management'
 p28
-aS'marketing'
+aS'data modeling'
 p29
-aS'data scientist'
+aS'product development'
 p30
-aS'data quality'
+aS'marketing'
 p31
-aS'talent management'
+aS'data quality'
 p32
-aS'leadership'
+aS'talent management'
 p33
-aS'modeling'
+aS'leadership'
 p34
-aS'spark'
+aS'modeling'
 p35
-aS'manufacturing'
+aS'spark'
 p36
-aS'data'
+aS'manufacturing'
 p37
-aS'customer relations'
+aS'data'
 p38
 aS'database management'
 p39
@@ -90,94 +90,72 @@ aS'english'
 p46
 aS'organization'
 p47
-aS'data integration'
+aS'options'
 p48
-asS'working-year'
+aS'data integration'
 p49
-(lp50
+asS'working-year'
+p50
+(lp51
 V(0, 2]
-p51
-aV(2, 5]
 p52
-asS'major'
+aV(2, 5]
 p53
-(lp54
-S'information'
-p55
-aS'management'
+asS'major'
+p54
+(lp55
+VStatistics
 p56
-aS'finance'
+aVBusiness
 p57
-aS'big data'
+aVData Science
 p58
-aS'statistics computer science'
+aVEconomics
 p59
-aS'marketing'
+aVComputer Science
 p60
-aS'data science'
+aVManagement Science and Engineering
 p61
-aS'statistic'
-p62
-aS'communication'
-p63
-aS'data analyst'
-p64
-aS'general'
-p65
-aS'business'
-p66
-aS'analytics'
-p67
-aS'design'
-p68
-aS'computer science'
-p69
-aS'english'
-p70
-aS'data analytics'
-p71
-aS'science'
-p72
 asS'education'
-p73
-(lp74
+p62
+(lp63
 VBachelor
-p75
+p64
 aVMaster
-p76
+p65
 asS'responsibility'
-p77
-(lp78
+p66
+(lp67
 S'development'
-p79
+p68
 aS'information'
-p80
+p69
 aS'product'
-p81
+p70
 aS'decision-making'
-p82
+p71
 aS'business problem'
-p83
-aVinsight
-p84
+p72
+aS'insight'
+p73
 aS'communicate'
-p85
+p74
 aS'mapping'
-p86
+p75
 aS'improvement'
-p87
+p76
 aS'analytic'
-p88
+p77
 aS'design'
-p89
+p78
 aS'solve problem'
-p90
+p79
 aS'modeling'
-p91
+p80
 aS'understand'
-p92
+p81
 aS'implement'
-p93
+p82
 aS'model'
-p94
+p83
 as.

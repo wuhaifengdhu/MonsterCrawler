@@ -2,114 +2,104 @@
 S'skills'
 p2
 (dp3
-S'cloudera'
+S'communication'
 p4
-I1
-sS'open source'
+F0.0088942098826452608
+sS'data science'
 p5
-I1
-sS'software engineering'
+F0.0067575332902280851
+sS'analytics'
 p6
-I1
-sS'scala'
-p7
-I1
-sS'python'
-p8
-I1
-sS'communication'
-p9
-I1
-sS'data science'
-p10
-I1
-sS'data scientist'
-p11
-I1
-sS'hadoop'
-p12
-I1
-sS'writing'
-p13
-I1
-sS'advanced analytics'
-p14
-I1
-sS'engineering'
-p15
-I1
-sS'r'
-I1
+F0.0048861655167613859
 sS'angularjs'
-p16
-I1
-sS'science'
-p17
-I1
+p7
+F0.025417037859967958
 sS'go'
-p18
-I1
-sS'java'
-p19
-I1
-sS'spark'
-p20
-I1
-sS'machine learning'
-p21
-I1
-sS'data'
-p22
-I1
-sS'docker'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(2, 5]
-p26
-I1
-ssS'major'
-p27
-(dp28
-S'software engineering'
-p29
-I1
-sS'science'
-p30
-I1
-sS'data science'
-p31
-I1
-sS'machine learning'
-p32
-I1
-sS'engineering'
-p33
-I1
-sS'design'
-p34
-I1
-sS'communication'
-p35
-I1
+p8
+F0.018420860646222625
+sS'open source'
+p9
+F0.017965841235494912
+sS'scala'
+p10
+F0.013711047121902454
+sS'hadoop'
+p11
+F0.014436028105613088
+sS'writing'
+p12
+F0.012623934416193779
 sS'advanced analytics'
-p36
-I1
+p13
+F0.016532643563697099
+sS'python'
+p14
+F0.0029283792851307077
+sS'javascript'
+p15
+F0.012457554011359236
+sS'data scientist'
+p16
+F0.0059515262087858328
+sS'java'
+p17
+F0.0069621739756645139
+sS'spark'
+p18
+F0.0094726720410992053
+sS'data'
+p19
+F0.0073293054304449552
+sS'a'
+F0.010505853334910262
+sS'cloudera'
+p20
+F0.051128481247697456
+sS'software engineering'
+p21
+F0.014618331397269728
+sS'science'
+p22
+F0.023697771512160418
+sS'machine learning'
+p23
+F0.0036826838305283106
+sS'r'
+F0.0031179343068198943
+sS'docker'
+p24
+F0.024048391278612077
+ssS'working-year'
+p25
+(dp26
+V(2, 5]
+p27
+F0.0069603619574782893
+ssS'major'
+p28
+(dp29
+VData Science
+p30
+F0.0057712864191295649
+sVEngineering
+p31
+F0.012653814195318695
+sVComputer Science
+p32
+F0.005086268237933695
 ssS'education'
-p37
-(dp38
+p33
+(dp34
 S'Bachelor'
-p39
-I1
+p35
+F0.0051201057734264425
 ssS'responsibility'
-p40
-(dp41
+p36
+(dp37
 S'design'
-p42
-I1
+p38
+F0.0082046000562835814
 sS'ownership'
-p43
-I1
+p39
+F0.022136480056670717
 ss.

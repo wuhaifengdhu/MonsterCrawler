@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'digital marketing'
+S'a'
+aS'digital marketing'
 p4
 aS'consulting'
 p5
@@ -10,62 +11,68 @@ aS'organization'
 p6
 aS'marketing'
 p7
-aS'data scientist'
+aS'bootstrap'
 p8
-aS'oracle'
+aS'communication'
 p9
-aS'strategy'
+aS'data'
 p10
 aS'analytics'
 p11
 aS'user interface'
 p12
-aS'advertising'
+aS'management'
 p13
-aS'adobe creative suite'
+aS'advertising'
 p14
-aS'agile'
+aS'adobe creative suite'
 p15
-aS'communication'
+aS'agile'
 p16
-aS'accounting'
+aS'oracle'
 p17
-aS'data'
+aS'accounting'
 p18
-asS'working-year'
+aS'strategy'
 p19
-(lp20
-V(2, 5]
+aS'cms'
+p20
+aS'css'
 p21
-asS'major'
+asS'working-year'
 p22
 (lp23
-S'business'
+V(2, 5]
 p24
-aS'marketing'
+asS'major'
 p25
-aS'analytics'
-p26
-aS'design'
+(lp26
+VData Science
 p27
-aS'communication'
+aVEconomics
 p28
-aS'accounting'
+aVBusiness
 p29
-asS'education'
+aVManagement Science and Engineering
 p30
-(lp31
-S'Bachelor'
-p32
-asS'responsibility'
+asS'education'
+p31
+(lp32
+VBachelor
 p33
-(lp34
-S'interface'
-p35
-aS'development'
+asS'responsibility'
+p34
+(lp35
+S'development'
 p36
-aS'implement'
+aS'product'
 p37
-aS'design'
+aS'drive ... decision'
 p38
+aS'design'
+p39
+aS'interface'
+p40
+aS'implement'
+p41
 as.

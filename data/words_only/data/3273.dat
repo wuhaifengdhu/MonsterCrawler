@@ -2,195 +2,192 @@
 S'skills'
 p2
 (dp3
-S'customer insight'
+S'programming'
 p4
-I1
-sS'programming'
-p5
-I1
+F0.00272850305652197
 sS'data science'
-p6
-I1
+p5
+F0.0029773290239123742
 sS'testing'
-p7
-I1
+p6
+F0.0050677673636138933
 sS'hadoop'
+p7
+F0.0031802141123751606
+sS'analytics'
 p8
-I1
+F0.0043056309999184488
 sS'statistical analysis'
 p9
-I1
+F0.0063730201817143763
 sS'problem solving'
 p10
-I1
-sS'education'
+F0.0060757719429535917
+sS'sas'
 p11
-I1
-sS'insurance'
+F0.0034288041006866748
+sS'education'
 p12
-I1
-sS'visualization'
+F0.0051946206678546263
+sS'insurance'
 p13
-I1
-sS'management'
+F0.0078048797365091287
+sS'visualization'
 p14
-I1
-sS'big data'
-p15
-I1
-sS'programming languages'
-p16
-I1
-sS'predictive modeling'
-p17
-I1
-sS'tableau'
-p18
-I1
-sS'strategy'
-p19
-I1
-sS'advanced analytics'
-p20
-I1
-sS'unstructured data'
-p21
-I1
-sS'python'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'mathematical analysis'
-p24
-I1
-sS'leadership'
-p25
-I1
-sS'mentoring'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'data'
-p29
-I1
-sS'business strategy'
-p30
-I1
-sS'analysis'
-p31
-I1
-sS'machine learning'
-p32
-I1
-sS'r'
-I1
-sS'healthcare'
-p33
-I1
-sS'organization'
-p34
-I1
-sS'data analytics'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V(0, 2]
-p38
-I1
-sV[0]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'information'
-p42
-I1
+F0.0046393447325098255
 sS'management'
-p43
-I1
-sS'health services'
-p44
-I1
+p15
+F0.0044853904316814464
 sS'big data'
-p45
-I1
-sS'data science'
-p46
-I1
-sS'machine learning'
-p47
-I1
-sS'business'
-p48
-I1
+p16
+F0.0031503097187194741
+sS'programming languages'
+p17
+F0.011799408630695594
+sS'predictive modeling'
+p18
+F0.0051460542294281429
+sS'tableau'
+p19
+F0.0049728368493163165
+sS'strategy'
+p20
+F0.0038985431466010763
 sS'advanced analytics'
-p49
-I1
-sS'data analytics'
-p50
-I1
-ssS'education'
-p51
-(dp52
-VMaster
-p53
-I1
-sVDoctor
-p54
-I1
-ssS'responsibility'
-p55
-(dp56
-S'large data set'
-p57
-I1
-sS'product'
-p58
-I1
-sS'business problem'
-p59
-I1
-sVinsight
-p60
-I1
-sS'communicate'
-p61
-I1
-sS'analysis'
-p62
-I1
-sS'statistical model'
-p63
-I1
-sS'analytic'
-p64
-I1
-sS'statistical method'
-p65
-I1
-sS'understand'
-p66
-I1
+p21
+F0.0072841845404408015
+sS'unstructured data'
+p22
+F0.0078930901818147527
+sS'python'
+p23
+F0.0012902265167160048
+sS'data scientist'
+p24
+F0.0026222070919897978
+sS'mathematical analysis'
+p25
+F0.011968239544504137
+sS'leadership'
+p26
+F0.0040901203495144114
+sS'mentoring'
+p27
+F0.0085151329244528579
+sS'sql'
+p28
+F0.0016879798485966513
 sS'modeling'
-p67
-I1
-sS'information'
-p68
-I1
-sS'evaluation'
-p69
-I1
+p29
+F0.0020102616064889911
+sS'data'
+p30
+F0.0011742721571729991
+sS'science'
+p31
+F0.0017401828915695357
+sS'business strategy'
+p32
+F0.0075236022780184085
+sS'analysis'
+p33
+F0.0008480661429557672
+sS'machine learning'
+p34
+F0.0016225686184010875
+sS'r'
+F0.0013737433332028247
+sS'healthcare'
+p35
+F0.020029012450323
+sS'organization'
+p36
+F0.0087286328677310954
+sS'data analytics'
+p37
+F0.0050552541620935568
+ssS'working-year'
+p38
+(dp39
+V(0, 2]
+p40
+F0.0056375746635894883
+sV[0]
+p41
+F0.0054361750756049074
+ssS'major'
+p42
+(dp43
+VData Science
+p44
+F0.0025427945113986701
+sVComputer Science
+p45
+F0.0022409795701787073
+sVBusiness
+p46
+F0.0026775107603319659
+sVManagement Science and Engineering
+p47
+F0.0031919419269031989
+ssS'education'
+p48
+(dp49
+VMaster
+p50
+F0.0018001997159014279
+sVDoctor
+p51
+F0.0026959944845952179
+ssS'responsibility'
+p52
+(dp53
+S'information'
+p54
+F0.010300286135119267
+sS'product'
+p55
+F0.0033291903235587788
+sS'large data set'
+p56
+F0.0077833097409229363
+sS'business problem'
+p57
+F0.0070498776290362488
+sS'insight'
+p58
+F0.0045418152376472407
+sS'communicate'
+p59
+F0.0099318954568395641
+sS'drive ... decision'
+p60
+F0.00999030380873543
+sS'analysis'
+p61
+F0.0008480661429557672
+sS'statistical model'
+p62
+F0.0088882779842051861
+sS'analytic'
+p63
+F0.0055884306245040666
+sS'statistical method'
+p64
+F0.0087024515570581964
+sS'understand'
+p65
+F0.0052021777560501865
+sS'modeling'
+p66
+F0.0020102616064889911
 sS'model'
-p70
-I1
+p67
+F0.0076604497123843604
+sS'evaluation'
+p68
+F0.0083748593659076168
+sS'decision making'
+p69
+F0.0080856016087364202
 ss.

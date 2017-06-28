@@ -4,224 +4,193 @@ p2
 (dp3
 S'calculus'
 p4
-I1
-sS'r programming'
+F0.012317637794410335
+sS'intelligence'
 p5
-I1
+F0.0042664636138227694
 sS'data science'
 p6
-I1
-sS'statistical analysis'
+F0.0032685894719038022
+sS'analytics'
 p7
-I1
-sS'data mining'
+F0.0023634170162595831
+sS'engineering'
 p8
-I1
-sS'education'
+F0.0033284097203088439
+sS'statistical analysis'
 p9
-I1
-sS'storage'
+F0.0069964678081864346
+sS'data mining'
 p10
-I1
-sS'strategy'
+F0.005766248175766678
+sS'education'
 p11
-I1
-sS'computer science'
+F0.0057027900810143178
+sS'statistics'
 p12
-I1
-sS'artificial intelligence'
+F0.0050680046456663295
+sS'storage'
 p13
-I1
-sS'architecture'
+F0.010164406419963204
+sS'research'
 p14
-I1
-sS'systems engineering'
+F0.0046367409872920557
+sS'strategy'
 p15
-I1
-sS'algebra'
-p16
-I1
-sS'processing'
-p17
-I1
-sS'modeling'
-p18
-I1
-sS'data'
-p19
-I1
-sS'software engineering'
-p20
-I1
-sS'science'
-p21
-I1
-sS'applied mathematics'
-p22
-I1
-sS'programming'
-p23
-I1
-sS'analysis'
-p24
-I1
-sS'machine learning'
-p25
-I1
-sS'operations research'
-p26
-I1
-sS'discrete mathematics'
-p27
-I1
-sS'organization'
-p28
-I1
-sS'scripting'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(0, 2]
-p32
-I1
-sV(2, 5]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'engineering science'
-p36
-I1
-sS'data science'
-p37
-I1
-sS'machine learning data mining'
-p38
-I1
-sS'data science operations research'
-p39
-I1
-sS'design'
-p40
-I1
-sS'applied statistics'
-p41
-I1
-sS'data mining'
-p42
-I1
-sS'computer science mathematics'
-p43
-I1
-sS'information'
-p44
-I1
-sS'machine learning data science'
-p45
-I1
-sVapplied statistic
-p46
-I1
+F0.0042799223674642251
 sS'computer science'
-p47
-I1
-sS'operations research'
-p48
-I1
-sS'systems engineering'
-p49
-I1
-sS'mathematics statistics'
-p50
-I1
-sS'information system'
-p51
-I1
-sVmath course
-p52
-I1
-sS'information systems'
-p53
-I1
-sS'software engineering'
-p54
-I1
-sS'science'
-p55
-I1
-sS'applied mathematics'
-p56
-I1
-sS'machine learning'
-p57
-I1
-sS'computer information systems'
-p58
-I1
+p16
+F0.0038206066934435342
+sS'mathematics'
+p17
+F0.014901303929965809
 sS'artificial intelligence'
-p59
-I1
-sS'applied math'
-p60
-I1
-sS'applied mathematics statistics'
-p61
-I1
-ssS'education'
-p62
-(dp63
-VBachelor
-p64
-I1
-sVMaster
-p65
-I1
-sVDoctor
-p66
-I1
-ssS'responsibility'
-p67
-(dp68
-S'development'
-p69
-I1
-sS'information'
-p70
-I1
-sS'product'
-p71
-I1
+p18
+F0.0075206971741162091
+sS'architecture'
+p19
+F0.0059429742464257012
+sS'systems engineering'
+p20
+F0.011669073675816481
+sS'algebra'
+p21
+F0.01275232002437345
 sS'processing'
-p72
-I1
-sS'communicate'
-p73
-I1
-sS'recommendation'
-p74
-I1
-sS'analysis'
-p75
-I1
-sS'analytic'
-p76
-I1
-sS'design'
-p77
-I1
-sS'data mining'
-p78
-I1
+p22
+F0.0044377393659530435
+sS'data scientist'
+p23
+F0.0028787273509887994
 sS'modeling'
-p79
-I1
+p24
+F0.0022069176332107404
+sS'data'
+p25
+F0.0029005798664952617
+sS'a'
+F0.010163271160945796
+sS'software engineering'
+p26
+F0.0070708233388967704
+sS'science'
+p27
+F0.0076416726977618738
+sS'applied mathematics'
+p28
+F0.0082122574588144193
+sS'programming'
+p29
+F0.0089862655013712711
+sS'analysis'
+p30
+F0.0046551456760072002
+sS'machine learning'
+p31
+F0.0017812981571577156
+sS'operations research'
+p32
+F0.0078286372705214935
+sS'discrete mathematics'
+p33
+F0.017512500902488553
+sS'organization'
+p34
+F0.0047912604328306553
+sS'scripting'
+p35
+F0.0066116423300181066
+ssS'working-year'
+p36
+(dp37
+V(0, 2]
+p38
+F0.0061890765328536778
+sV(2, 5]
+p39
+F0.0033666968163889549
+ssS'major'
+p40
+(dp41
+VStatistics
+p42
+F0.0048953933964349999
+sVData Science
+p43
+F0.0027915461483833223
+sVElectrical and Electronics Engineering
+p44
+F0.008550621183084188
+sVEngineering
+p45
+F0.006120594909692194
+sVInformation Science
+p46
+F0.0068822151862882978
+sVComputer Science
+p47
+F0.0024602058324787982
+sVMathematics
+p48
+F0.0046583492651697065
+sVOperations Research
+p49
+F0.0087465459189868307
+ssS'education'
+p50
+(dp51
+VBachelor
+p52
+F0.0024765729012769205
+sVMaster
+p53
+F0.0019763062098483069
+sVDoctor
+p54
+F0.0029597330754795328
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.0032906548978644526
+sS'information'
+p58
+F0.0075386152148336659
+sS'product'
+p59
+F0.0036548719856460505
+sS'processing'
+p60
+F0.0044377393659530435
+sS'communicate'
+p61
+F0.0054517469627217178
+sS'recommendation'
+p62
+F0.0070983743065713891
+sS'analysis'
+p63
+F0.0046551456760072002
+sS'develop ... model'
+p64
+F0.0084236767042829824
+sS'analytic'
+p65
+F0.01840537477418187
+sS'design'
+p66
+F0.011905588125150633
+sS'data mining'
+p67
+F0.005766248175766678
+sS'modeling'
+p68
+F0.0022069176332107404
 sS'implement'
-p80
-I1
+p69
+F0.0057550629758684989
 sS'model'
-p81
-I1
+p70
+F0.0042049207660370671
 ss.

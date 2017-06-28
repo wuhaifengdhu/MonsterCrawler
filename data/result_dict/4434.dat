@@ -20,7 +20,7 @@ aS'clustering'
 p11
 aS'visualization'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'java'
 p14
@@ -40,105 +40,88 @@ aS'computer science'
 p21
 aS'natural language processing'
 p22
-aS'matlab'
+aS'medicine'
 p23
-aS'processing'
+aS'matlab'
 p24
-aS'process optimization'
+aS'processing'
 p25
-aS'healthcare'
+aS'process optimization'
 p26
-aS'python'
+aS'healthcare'
 p27
-aS'process modeling'
+aS'python'
 p28
-aS'innovation'
+aS'process modeling'
 p29
-aS'data scientist'
+aS'innovation'
 p30
-aS'sql'
+aS'data scientist'
 p31
-aS'modeling'
+aS'management'
 p32
-aS'data'
+aS'sql'
 p33
-aS'science'
+aS'modeling'
 p34
-aS'programming'
+aS'data'
 p35
-aS'machine learning'
+aS'c'
+aS'science'
 p36
+aS'programming'
+p37
+aS'machine learning'
+p38
 aS'r'
 aS'architecture'
-p37
-aS'emr'
-p38
-aS'organization'
 p39
-aS'data analytics'
+aS'emr'
 p40
-asS'working-year'
+aS'organization'
 p41
-(lp42
-V(2, 5]
-p43
-asS'major'
-p44
-(lp45
-S'information'
-p46
-aS'management'
-p47
-aS'business'
-p48
-aS'big data'
-p49
-aS'science'
-p50
-aS'data science'
-p51
-aS'statistic'
-p52
-aS'communication'
-p53
-aS'machine learning'
-p54
-aS'analytics'
-p55
-aS'engineering'
-p56
-aS'computer science engineering'
-p57
-aS'computer science'
-p58
-aS'natural language processing'
-p59
-aS'phd'
-p60
 aS'data analytics'
-p61
+p42
+asS'working-year'
+p43
+(lp44
+sS'major'
+p45
+(lp46
+VStatistics
+p47
+aVBusiness
+p48
+aVData Science
+p49
+aVEngineering
+p50
+aVComputer Science
+p51
+aVManagement Science and Engineering
+p52
 asS'education'
-p62
-(lp63
+p53
+(lp54
 VDoctor
-p64
+p55
 asS'responsibility'
-p65
-(lp66
+p56
+(lp57
 S'information'
-p67
+p58
 aS'processing'
-p68
-aVinsight
-p69
+p59
+aS'insight'
+p60
 aS'statistical method'
-p70
+p61
 aS'optimization'
-p71
+p62
 aS'modeling'
-p72
+p63
 aS'extract'
-p73
+p64
 aS'transformation'
-p74
+p65
 as.

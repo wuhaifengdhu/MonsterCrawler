@@ -1,5 +1,5 @@
-skills: {'training': 1, 'management': 1, 'project management': 1, 'finance': 1, 'recruiting': 1, 'marketing': 1, 'data scientist': 1, 'analysis': 1, 'strategy': 1, 'access': 1, 'analytics': 1, 'managed care': 1, 'leadership': 1, 'mentoring': 1, 'advertising': 1, 'communication': 1, 'policy': 1, 'data': 1, 'insurance': 1, 'account management': 1, 'science': 1}
-working-year: {u'(5, 10]': 1}
-major: {'management': 1, 'finance': 1, 'business': 1, 'marketing': 1, 'analytics': 1, 'communication': 1, 'project management': 1, 'science': 1}
-education: {u'Bachelor': 1}
-responsibility: {'report': 1, 'development': 1, 'product': 1, 'presentation': 1, 'analysis': 1}
+skills: {'communication': 0.020922943071949644, 'analytics': 0.0019157212819020412, 'account management': 0.011015754842031811, 'insurance': 0.0069453114835896215, 'management': 0.003991404701320054, 'recruiting': 0.007596692181976633, 'strategy': 0.003469188174508447, 'access': 0.005108947191842412, 'policy': 0.01202492611471696, 'finance': 0.00584833932639579, 'marketing': 0.012589523276283363, 'data scientist': 0.0023334177646781463, 'leadership': 0.007279333133056486, 'mentoring': 0.00757734295479946, 'business development': 0.007662445548551064, 'data': 0.00026123675743275977, 'project management': 0.004188223179128957, 'training': 0.005183468614586629, 'science': 0.0030970655867581165, 'analysis': 0.0007546667880046915, 'managed care': 0.01383718432388497, 'advertising': 0.014499547508062951}
+working-year: {u'(5, 10]': 0.002655604100389557}
+major: {u'Data Science': 0.002262751063006746, u'Economics': 0.0036140342456485925, u'Business': 0.002382630720647829, u'Management Science and Engineering': 0.0028404064723984417}
+education: {u'Bachelor': 0.00200744235169583, u'Master': 0.001601939835295544}
+responsibility: {'development': 0.010669259933164041, 'information': 0.0030552977963202526, 'product': 0.0029625394068672835, 'analysis': 0.0007546667880046915, 'report': 0.013713280309509444, 'presentation': 0.005425890621827328}

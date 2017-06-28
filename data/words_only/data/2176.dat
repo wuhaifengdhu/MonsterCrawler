@@ -4,193 +4,183 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.012819185094015032
 sS'data science'
 p5
-I1
+F0.0048698013184639644
 sS'pig'
 p6
-I1
+F0.010925620142169601
 sS'sentiment analysis'
 p7
-I1
+F0.017014790396000332
 sS'troubleshooting'
 p8
-I1
+F0.015224220509045327
 sS'analysis'
 p9
-I1
+F0.0013871203309883803
 sS'market basket analysis'
 p10
-I1
+F0.026877554923606901
 sS'strategy'
 p11
-I1
+F0.012753128997788136
 sS'hbase'
 p12
-I1
+F0.013555700768583284
 sS'technical leadership'
 p13
-I1
-sS'java'
+F0.018213359180130766
+sS'statistics'
 p14
-I1
-sS'big data'
+F0.0037753556874599377
+sS'java'
 p15
-I1
-sS'hadoop'
-p16
-I1
-sS'research'
-p17
-I1
-sS'big data analytics'
-p18
-I1
-sS'r'
-I1
-sS'computer science'
-p19
-I1
-sS'algorithm development'
-p20
-I1
-sS'text mining'
-p21
-I1
-sS'data analysis'
-p22
-I1
-sS'python'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'aerospace'
-p25
-I1
-sS'algorithm design'
-p26
-I1
-sS'data'
-p27
-I1
-sS'software development'
-p28
-I1
-sS'programming'
-p29
-I1
-sS'hive'
-p30
-I1
-sS'optimization'
-p31
-I1
-sS'scripting'
-p32
-I1
-sS'organization'
-p33
-I1
-sS'data analytics'
-p34
-I1
-sS'statistical analysis'
-p35
-I1
-ssS'working-year'
-p36
-(dp37
-V[0]
-p38
-I1
-ssS'major'
-p39
-(dp40
-S'information'
-p41
-I1
-sS'business'
-p42
-I1
+F0.010034550345492175
 sS'big data'
-p43
-I1
-sS'communication'
-p44
-I1
-sS'data science'
-p45
-I1
-sS'space physics'
-p46
-I1
+p16
+F0.0051527333051120143
+sS'hadoop'
+p17
+F0.0052016457546541087
+sS'research'
+p18
+F0.0034540904520718148
 sS'big data analytics'
-p47
-I1
-sS'design'
-p48
-I1
-sS'data analytics'
-p49
-I1
-sS'statistic'
-p50
-I1
-sS'ee computer science'
-p51
-I1
-sVphysic
-p52
-I1
+p19
+F0.013418093541491824
+sS'r'
+F0.0022469324154410575
 sS'computer science'
-p53
-I1
-ssS'education'
-p54
-(dp55
-VMaster
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
-S'development'
-p59
-I1
-sS'information'
-p60
-I1
-sS'product'
-p61
-I1
+p20
+F0.005692239931932068
+sS'algorithm development'
+p21
+F0.017040173066201033
+sS'text mining'
+p22
+F0.013305202143524717
 sS'data analysis'
-p62
-I1
-sS'explore opportunity'
-p63
-I1
-sS'analysis'
-p64
-I1
+p23
+F0.0060071336638286036
+sS'python'
+p24
+F0.0042206600222936515
+sS'leadership'
+p25
+F0.0066899134461693198
+sS'aerospace'
+p26
+F0.019721054675229454
+sS'algorithm design'
+p27
+F0.017065715882878092
+sS'data'
+p28
+F0.0024008398355156459
+sS'software development'
+p29
+F0.008583791976005152
+sS'c'
+F0.0050632466554578837
+sS'analytics'
+p30
+F0.0070424085990568961
+sS'science'
+p31
+F0.0028462910453202124
+sS'programming'
+p32
+F0.0044628147159306722
+sS'hive'
+p33
+F0.0084443491882186493
 sS'optimization'
-p65
-I1
+p34
+F0.0080972018517754749
+sS'scripting'
+p35
+F0.0098505440382456004
+sS'organization'
+p36
+F0.0071383961104521509
+sS'physics'
+p37
+F0.0098505440382456004
+sS'data analytics'
+p38
+F0.0082685128805092996
+sS'statistical analysis'
+p39
+F0.01042388726077979
+ssS'working-year'
+p40
+(dp41
+S'[0]'
+p42
+F0.00889155761354001
+ssS'major'
+p43
+(dp44
+VData Science
+p45
+F0.0041590647069030878
+sVStatistics
+p46
+F0.0072935415784942514
+sVPhysics
+p47
+F0.010622397170850569
+sVComputer Science
+p48
+F0.0036654078799684118
+sVBusiness
+p49
+F0.0043794103124458065
+ssS'education'
+p50
+(dp51
+VMaster
+p52
+F0.0029444562154824975
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+F0.0049026761231340836
+sS'information'
+p56
+F0.011231621048821009
+sS'product'
+p57
+F0.016335946041106233
+sS'data analysis'
+p58
+F0.0060071336638286036
+sS'explore opportunity'
+p59
+F0.027177586821090397
+sS'analysis'
+p60
+F0.0013871203309883803
+sS'optimization'
+p61
+F0.0080972018517754749
 sS'design'
-p66
-I1
+p62
+F0.011825253522416822
 sS'recommendation'
-p67
-I1
+p63
+F0.010575715566065876
 sS'understand'
-p68
-I1
+p64
+F0.0085088251556448401
 sS'implement'
-p69
-I1
+p65
+F0.0085743448385409218
 sS'presentation'
-p70
-I1
+p66
+F0.0099730945032777598
 ss.

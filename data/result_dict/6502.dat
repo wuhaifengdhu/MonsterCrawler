@@ -2,98 +2,94 @@
 S'skills'
 p2
 (lp3
-S'data science'
+S'nlp'
 p4
-aS'data acquisition'
+aS'consulting'
 p5
-aS'analytics'
+aS'data science'
 p6
-aS'thought leadership'
+aS'data acquisition'
 p7
-aS'research'
+aS'analytics'
 p8
-aS'management'
+aS'engineering'
 p9
-aS'predictive modeling'
+aS'research'
 p10
-aS'strategy'
+aS'statistics'
 p11
-aS'market research'
+aS'predictive modeling'
 p12
-aS'innovation'
+aS'strategy'
 p13
-aS'data scientist'
+aS'market research'
 p14
-aS'team leadership'
+aS'innovation'
 p15
 aS'aws'
 p16
-aS'data quality'
+aS'team leadership'
 p17
-aS'leadership'
+aS'data scientist'
 p18
-aS'modeling'
+aS'data quality'
 p19
-aS'data'
+aS'management'
 p20
-aS'science'
+aS'modeling'
 p21
-aS'cloud computing'
+aS'data'
 p22
-aS'engineering'
+aS'science'
 p23
-aS'machine learning'
+aS'cloud computing'
 p24
-aS'retail'
+aS'thought leadership'
 p25
-asS'working-year'
+aS'machine learning'
 p26
-(lp27
-V(10, 15]
+aS'leadership'
+p27
+aS'retail'
 p28
-asS'major'
+asS'working-year'
 p29
 (lp30
-S'management'
+sS'major'
 p31
-aS'business'
-p32
-aS'computing'
+(lp32
+VStatistics
 p33
-aS'science'
+aVBusiness
 p34
-aS'data science'
+aVData Science
 p35
-aS'data science analytics'
+aVEngineering
 p36
-aS'machine learning'
+aVComputer Science
 p37
-aS'analytics'
+aVManagement Science and Engineering
 p38
-aS'engineering'
-p39
-aS'statistic'
-p40
 asS'education'
-p41
-(lp42
+p39
+(lp40
 VMaster
-p43
+p41
 asS'responsibility'
-p44
-(lp45
+p42
+(lp43
 S'product'
-p46
-aVinsight
-p47
+p44
+aS'insight'
+p45
 aS'communicate'
-p48
+p46
 aS'analytic'
-p49
+p47
 aS'identify opportunity'
-p50
+p48
 aS'modeling'
-p51
+p49
 aS'model'
-p52
+p50
 as.

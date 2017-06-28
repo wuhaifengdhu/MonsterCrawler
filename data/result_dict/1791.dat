@@ -2,86 +2,80 @@
 S'skills'
 p2
 (lp3
-S'software development'
+S'testing'
 p4
-aS'mathematics'
-p5
-aS'c'
-aS'java'
-p6
 aS'rest'
-p7
-aS'credit'
-p8
-aS'testing'
-p9
-aS'hadoop'
-p10
-aS'c++'
-p11
-aS'machine learning'
-p12
+p5
 aS'analytics'
-p13
-aS'json'
-p14
-aS'r'
+p6
 aS'api development'
+p7
+aS'virtualization'
+p8
+aS'data mining'
+p9
+aS'neo4j'
+p10
+aS'clustering'
+p11
+aS'java'
+p12
+aS'agile'
+p13
+aS'hadoop'
+p14
+aS'json'
 p15
 aS'computer science'
 p16
-aS'clustering'
-p17
-aS'data mining'
-p18
-aS'neo4j'
-p19
-aS'spark'
-p20
-aS'data'
-p21
-aS'virtualization'
-p22
-asS'working-year'
-p23
-(lp24
-V(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'statistic'
-p28
-aVapplied statistic
-p29
-aS'machine learning'
-p30
-aS'analytics'
-p31
-aS'computer science'
-p32
-aS'data mining'
-p33
 aS'mathematics'
-p34
-aS'development practice'
-p35
-aS'mathematics computer science'
-p36
-aS'data mining machine learning'
-p37
+p17
+aS'spark'
+p18
+aS'data'
+p19
+aS'software development'
+p20
+aS'c'
+aS'science'
+p21
+aS'mapreduce'
+p22
+aS'machine learning'
+p23
+aS'credit'
+p24
+aS'r'
+asS'working-year'
+p25
+(lp26
+V(2, 5]
+p27
+asS'major'
+p28
+(lp29
+VMathematics
+p30
+aVData Science
+p31
+aVStatistics
+p32
+aVComputer Science
+p33
 asS'education'
+p34
+(lp35
+VMaster
+p36
+aVDoctor
+p37
+asS'responsibility'
 p38
 (lp39
-S'Bachelor'
-p40
-asS'responsibility'
-p41
-(lp42
 S'development'
-p43
+p40
 aS'product'
-p44
+p41
 aS'data mining'
-p45
+p42
 as.

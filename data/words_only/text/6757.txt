@@ -1,5 +1,5 @@
-skills: {'pmp': 1, 'communication': 1, 'problem solving': 1, 'continuous improvement': 1, 'research': 1, 'change management': 1, 'management': 1, 'agile': 1, 'saas': 1, 'strategy': 1, 'risk management': 1, 'coaching': 1, 'sdlc': 1, 'innovation': 1, 'product development': 1, 'scrum': 1, 'data scientist': 1, 'leadership': 1, 'data': 1, 'b2b': 1, 'project management': 1, 'software development': 1, 'excel': 1, 'organization': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'project management': 1, 'business': 1, 'communication': 1}
-education: {u'Master': 1}
-responsibility: {'report': 1, 'development': 1, 'product': 1, 'improvement': 1, 'information': 1}
+skills: {'pmp': 0.011185397750728977, 'excel': 0.00345503039915826, 'problem solving': 0.005244897147336007, 'continuous improvement': 0.00856831637199603, 'research': 0.0018229921830379024, 'change management': 0.008927267070764345, 'management': 0.011616011117944258, 'agile': 0.009332008002989356, 'saas': 0.006597312598719362, 'strategy': 0.003365409041082981, 'risk management': 0.006751618217923583, 'coaching': 0.008251565633833759, 'sdlc': 0.007830576052647675, 'innovation': 0.004136377504561375, 'product development': 0.005584351172610492, 'scrum': 0.07259214881045935, 'data scientist': 0.0022636146691535864, 'leadership': 0.0035307876521449193, 'data': 0.00025342198263776265, 'b2b': 0.007426762076064475, 'project management': 0.004062934451548175, 'software development': 0.00453033465400272, 'organization': 0.0037674868360719686}
+working-year: {u'(5, 10]': 0.002576162952087305, u'(2, 5]': 0.002647317154767384}
+major: {u'Business': 0.0023113554426797316, u'Management Science and Engineering': 0.002755437048010454}
+education: {u'Master': 0.0015540185581713183}
+responsibility: {'development': 0.0025875235094318778, 'information': 0.002963899998994433, 'product': 0.005747832866315157, 'improvement': 0.00573975747081006, 'report': 0.004434351325154763, 'decision making': 0.0069798783118152005}

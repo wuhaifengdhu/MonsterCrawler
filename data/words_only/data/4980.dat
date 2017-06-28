@@ -4,208 +4,198 @@ p2
 (dp3
 S'cognos'
 p4
-I1
+F0.0084191914389207447
 sS'consulting'
 p5
-I1
+F0.0040711976479478754
 sS'classification'
 p6
-I1
+F0.0056853367593839264
 sS'text analytics'
 p7
-I1
+F0.0077006841601544567
 sS'communication'
 p8
-I1
+F0.0028525574038033449
 sS'data science'
 p9
-I1
-sS'hadoop'
+F0.0021672809471362147
+sS'sales'
 p10
-I1
-sS'sentiment analysis'
+F0.011980557622309925
+sS'hadoop'
 p11
-I1
-sS'thought leadership'
+F0.0023149666691884051
+sS'sentiment analysis'
 p12
-I1
-sS'data warehousing'
+F0.0075723481582199671
+sS'thought leadership'
 p13
-I1
-sS'analysis'
+F0.0073904124315840054
+sS'data warehousing'
 p14
-I1
-sS'problem solving'
+F0.0054801626336653938
+sS'analysis'
 p15
-I1
-sS'politics'
+F0.0018519930905628646
+sS'problem solving'
 p16
-I1
-sS'linear regression'
+F0.0044227240809968493
+sS'sas'
 p17
-I1
-sS'clustering'
+F0.0024959222642836339
+sS'politics'
 p18
-I1
-sS'visualization'
+F0.0093098088736973013
+sS'spss'
 p19
-I1
-sS'big data'
+F0.0039754032988424601
+sS'clustering'
 p20
-I1
-sS'critical thinking'
+F0.005807950559560739
+sS'visualization'
 p21
-I1
-sS'tableau'
+F0.0033771085980792244
+sS'big data'
 p22
-I1
-sS'teradata'
+F0.0022931984258786802
+sS'critical thinking'
 p23
-I1
-sS'data analysis'
+F0.0070653074396594918
+sS'tableau'
 p24
-I1
-sS'theory'
+F0.0036198668236464716
+sS'teradata'
 p25
-I1
-sS'solution selling'
+F0.039579099403606786
+sS'data analysis'
 p26
-I1
-sS'collaboration'
+F0.0026734450720102077
+sS'theory'
 p27
-I1
-sS'leadership'
+F0.0052801373882402445
+sS'solution selling'
 p28
-I1
-sS'sql'
+F0.011067243281250996
+sS'collaboration'
 p29
-I1
-sS'pig'
+F0.0046084133695017187
+sS'leadership'
 p30
-I1
-sS'data'
+F0.0029773128309978775
+sS'sql'
 p31
-I1
-sS'analytics'
+F0.0012287276735730578
+sS'pig'
 p32
-I1
-sS'science'
+F0.0048623931083169218
+sS'data'
 p33
-I1
-sS'programming'
+F0.0012821782472915992
+sS'a'
+F0.0033694448533586065
+sS'analytics'
 p34
-I1
-sS'hive'
+F0.014103850734868001
+sS'science'
 p35
-I1
+F0.0038001831794275266
 sS'machine learning'
 p36
-I1
-sS'r'
-I1
-sS'logistic regression'
+F0.0011811130123135843
+sS'programming'
 p37
-I1
-sS'organization'
+F0.0019861535762790558
+sS'hive'
 p38
-I1
-sS'pre-sales'
+F0.0037581157648468588
+sS'linear regression'
 p39
-I1
-sS'data analytics'
+F0.0068417938695448559
+sS'r'
+F0.00099998613804313727
+sS'logistic regression'
 p40
-I1
-sS'spss'
+F0.00589903221047125
+sS'organization'
 p41
-I1
-ssS'working-year'
+F0.0095307234555766559
+sS'pre-sales'
 p42
-(dp43
-V(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'business'
-p47
-I1
-sS'big data'
-p48
-I1
-sS'science'
-p49
-I1
-sS'data science'
-p50
-I1
-sS'data science analytics'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'analytics'
-p53
-I1
-sS'design'
-p54
-I1
-sS'communication'
-p55
-I1
+F0.0091407670820423201
 sS'data analytics'
-p56
-I1
+p43
+F0.0036798606873617965
+ssS'working-year'
+p44
+(dp45
+V(2, 5]
+p46
+F0.0022323323034795233
+ssS'major'
+p47
+(dp48
+VData Science
+p49
+F0.0018509711398289417
+sVComputer Science
+p50
+F0.0016312716150490049
+sVBusiness
+p51
+F0.0019490348597731787
 ssS'education'
-p57
-(dp58
+p52
+(dp53
 VBachelor
-p59
-I1
+p54
+F0.0016421240138196518
 sVMaster
-p60
-I1
+p55
+F0.0013104156490525709
 ssS'responsibility'
-p61
-(dp62
+p56
+(dp57
 S'development'
-p63
-I1
+p58
+F0.0021819117160614752
 sS'product'
-p64
-I1
+p59
+F0.0024234106139058497
 sS'data analysis'
-p65
-I1
+p60
+F0.0026734450720102077
 sS'formulate'
-p66
-I1
+p61
+F0.0081209702570518624
 sS'business problem'
-p67
-I1
+p62
+F0.0051318028146498107
 sS'understand'
-p68
-I1
+p63
+F0.00378681047467437
 sS'communicate'
-p69
-I1
+p64
+F0.0036148520401470129
 sS'analysis'
-p70
-I1
+p65
+F0.0018519930905628646
 sS'analytic'
-p71
-I1
+p66
+F0.004067974724864221
 sS'cross-functionally'
-p72
-I1
+p67
+F0.0091678621881498973
 sS'design'
-p73
-I1
+p68
+F0.0026313852432765365
 sS'model'
-p74
-I1
+p69
+F0.0027881276430660193
 sS'extract'
-p75
-I1
+p70
+F0.005574249604869963
+sS'decision making'
+p71
+F0.0058857352250982226
 ss.

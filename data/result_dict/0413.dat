@@ -4,7 +4,7 @@ p2
 (lp3
 S'jira'
 p4
-aS'recruiting'
+aS'communication'
 p5
 aS'testing'
 p6
@@ -18,27 +18,27 @@ aS'engineering'
 p10
 aS'devops'
 p11
-aS'sap'
+aS'linux'
 p12
-aS'git'
+aS'sap'
 p13
-aS'java'
+aS'git'
 p14
-aS'big data'
+aS'java'
 p15
-aS'agile'
+aS'big data'
 p16
-aS'r programming'
+aS'agile'
 p17
-aS'hadoop'
+aS'recruiting'
 p18
-aS'writing'
+aS'hadoop'
 p19
-aS'computer science'
+aS'writing'
 p20
-aS'communication'
+aS'computer science'
 p21
-aS'innovation'
+aS'mac os'
 p22
 aS'flume'
 p23
@@ -50,7 +50,7 @@ aS'python'
 p26
 aS'mongodb'
 p27
-aS'mac os'
+aS'innovation'
 p28
 aS'data scientist'
 p29
@@ -91,55 +91,41 @@ p46
 asS'working-year'
 p47
 (lp48
-V[0]
+S'[0]'
 p49
 asS'major'
 p50
 (lp51
-S'management'
+VData Science
 p52
-aS'business'
+aVEngineering
 p53
-aS'big data'
+aVComputer Science
 p54
-aS'science'
+aVBusiness
 p55
-aS'software engineering'
+aVManagement Science and Engineering
 p56
-aS'analytics'
-p57
-aS'engineering'
-p58
-aS'computer science software engineering'
-p59
-aS'computer science'
-p60
-aS'english'
-p61
-aS'communication'
-p62
-aS'design'
-p63
-aS'ee computer science'
-p64
 asS'education'
-p65
-(lp66
-S'Bachelor'
-p67
+p57
+(lp58
+VBachelor
+p59
+aVMaster
+p60
 asS'responsibility'
-p68
-(lp69
+p61
+(lp62
 S'development'
-p70
+p63
 aS'product'
-p71
-aVinsight
-p72
+p64
+aS'insight'
+p65
 aS'design'
-p73
+p66
 aS'ownership'
-p74
+p67
 aS'model'
-p75
+p68
 as.

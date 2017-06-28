@@ -2,85 +2,80 @@
 S'skills'
 p2
 (lp3
-S'education'
+S'a'
+aS'education'
 p4
 aS'disaster recovery'
 p5
 aS'user interface'
 p6
-aS'r d'
-p7
 aS'user experience'
-p8
+p7
 aS'intelligence'
-p9
+p8
 aS'data scientist'
-p10
+p9
 aS'coaching'
-p11
+p10
 aS'research'
-p12
+p11
 aS'business intelligence'
-p13
+p12
 aS'r'
 aS'product strategy'
-p14
+p13
 aS'quality assurance'
-p15
+p14
 aS'interaction design'
-p16
+p15
 aS'organization'
-p17
-aS'research development r d'
-p18
+p16
 aS'strategy'
-p19
+p17
 aS'data'
-p20
+p18
 aS'engineering'
-p21
+p19
 asS'working-year'
+p20
+(lp21
+S'[0]'
 p22
-(lp23
-V[0]
-p24
 asS'major'
+p23
+(lp24
+VEngineering
 p25
-(lp26
-S'information'
-p27
-aS'engineering'
-p28
-aS'design'
-p29
-aS'business'
-p30
+aVBusiness
+p26
 asS'education'
-p31
-(lp32
+p27
+(lp28
 S'Bachelor'
-p33
+p29
 asS'responsibility'
-p34
-(lp35
+p30
+(lp31
 S'development'
-p36
+p32
 aS'information'
-p37
+p33
 aS'product'
-p38
+p34
 aS'pattern'
-p39
+p35
 aS'improvement'
-p40
-aS'understand'
-p41
-aS'interface'
-p42
+p36
 aS'design'
-p43
+p37
+aS'interface'
+p38
+aS'understand'
+p39
 aS'model'
-p44
+p40
 aS'prototype'
-p45
+p41
+aS'design ... experiment'
+p42
 as.

@@ -2,100 +2,106 @@
 S'skills'
 p2
 (dp3
-S'finance'
+S'management'
 p4
-I1
-sS'intelligence'
-p5
-I1
-sS'human resources'
-p6
-I1
-sS'data scientist'
-p7
-I1
-sS'analysis'
-p8
-I1
-sS'spss'
-p9
-I1
-sS'engineering management'
-p10
-I1
-sS'e-commerce'
-p11
-I1
-sS'defense'
-p12
-I1
-sS'statistical software'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'military'
-p15
-I1
-sS'education'
-p16
-I1
-sS'data'
-p17
-I1
-sS'insurance'
-p18
-I1
-sS'information technology'
-p19
-I1
-ssS'working-year'
-p20
-(dp21
-V[0]
-p22
-I1
-ssS'major'
-p23
-(dp24
-S'information'
-p25
-I1
+F0.0034320032848471674
 sS'finance'
-p26
-I1
-sS'engineering management'
-p27
-I1
-sS'computer science engineering'
-p28
-I1
-sS'computer science'
-p29
-I1
-sS'statistic'
-p30
-I1
+p5
+F0.010057371417362456
 sS'information technology'
-p31
-I1
-ssS'education'
-p32
-(dp33
-VBachelor
-p34
-I1
-ssS'responsibility'
-p35
-(dp36
-S'development'
-p37
-I1
-sS'information'
-p38
-I1
+p6
+F0.011805488908188428
+sS'intelligence'
+p7
+F0.017841575112349763
+sS'human resources'
+p8
+F0.018789132515857985
+sS'data scientist'
+p9
+F0.0040127714589540849
 sS'analysis'
+p10
+F0.0012977981884626135
+sS'spss'
+p11
+F0.0083573819350665352
+sS'engineering management'
+p12
+F0.019216385342929874
+sS'e-commerce'
+p13
+F0.01427441984327435
+sS'engineering'
+p14
+F0.0046396014283092979
+sS'defense'
+p15
+F0.026754834499456349
+sS'statistical software'
+p16
+F0.014907187012490488
+sS'computer science'
+p17
+F0.0053256941787394726
+sS'sas'
+p18
+F0.0052471093055962755
+sS'military'
+p19
+F0.014138858227393218
+sS'education'
+p20
+F0.0079493437492926863
+sS'data'
+p21
+F0.00044924806013057925
+sS'insurance'
+p22
+F0.02388766222386127
+sS'pl'
+p23
+F0.014109381130818542
+ssS'working-year'
+p24
+(dp25
+S'[0]'
+p26
+F0.0083189951914559943
+ssS'major'
+p27
+(dp28
+VEngineering
+p29
+F0.0046396014283092979
+sVInformation Science
+p30
+F0.0095933908657352043
+sVComputer Science
+p31
+F0.0034293778270916581
+sVEconomics
+p32
+F0.0062150437406229579
+sVManagement Science and Engineering
+p33
+F0.0048846384032912591
+ssS'education'
+p34
+(dp35
+VBachelor
+p36
+F0.0034521925290526773
+ssS'responsibility'
+p37
+(dp38
+S'development'
 p39
-I1
+F0.0045869734939928738
+sS'information'
+p40
+F0.0052541863618537675
+sS'analysis'
+p41
+F0.0012977981884626135
 ss.

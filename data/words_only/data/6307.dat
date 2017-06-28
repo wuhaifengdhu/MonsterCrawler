@@ -4,175 +4,163 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.0031782562953173664
 sS'data science'
 p5
-I1
-sS'health insurance'
-p6
-I1
-sS'dod'
-p7
-I1
-sS'data mining'
-p8
-I1
-sS'insurance'
-p9
-I1
-sS'big data'
-p10
-I1
-sS'scala'
-p11
-I1
-sS'agile'
-p12
-I1
-sS'recruiting'
-p13
-I1
+F0.0024349006592319822
 sS'hadoop'
-p14
-I1
-sS'access'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'mathematics'
-p18
-I1
-sS'geospatial intelligence'
-p19
-I1
-sS'python'
-p20
-I1
-sS'apache spark'
-p21
-I1
-sS'automation'
-p22
-I1
-sS'apache'
-p23
-I1
-sS'spark'
-p24
-I1
-sS'statistical programming'
-p25
-I1
-sS'information technology'
-p26
-I1
-sS'training'
-p27
-I1
-sS'programming'
-p28
-I1
+p6
+F0.0052016457546541087
+sS'analytics'
+p7
+F0.001760602149764224
+sS'health insurance'
+p8
+F0.01042648481276336
 sS'security clearance'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'r'
-I1
-sS'application development'
-p31
-I1
-sS'security'
-p32
-I1
-sS'data analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V[0]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
-sS'business'
-p40
-I1
+p9
+F0.0073963977191475088
+sS'data mining'
+p10
+F0.0042955047139314525
+sS'insurance'
+p11
+F0.0063829380841086795
 sS'big data'
-p41
-I1
-sS'data science'
-p42
-I1
-sS'automation'
-p43
-I1
-sS'machine learning'
-p44
-I1
-sS'information science'
-p45
-I1
-sS'design'
-p46
-I1
-sS'information technology'
-p47
-I1
-sS'data mining'
-p48
-I1
-sS'mathematics'
-p49
-I1
-sS'mathematics computer science'
-p50
-I1
-sS'data analytics'
-p51
-I1
+p12
+F0.0025763666525560071
+sS'scala'
+p13
+F0.0049404177888636375
+sS'agile'
+p14
+F0.0088408496870425474
+sS'recruiting'
+p15
+F0.0069815754061080789
+sS'devops'
+p16
+F0.0083609993682591949
+sS'access'
+p17
+F0.004695267257280273
 sS'computer science'
-p52
-I1
+p18
+F0.002846119965966034
+sS'innovation'
+p19
+F0.0078373468507478682
+sS'mathematics'
+p20
+F0.0074003776602259343
+sS'application development'
+p21
+F0.0077552558734539376
+sS'geospatial intelligence'
+p22
+F0.012185663925966752
+sS'python'
+p23
+F0.0010551650055734129
+sS'scrum'
+p24
+F0.0068771509399382534
+sS'data scientist'
+p25
+F0.0021444770549876079
+sS'apache spark'
+p26
+F0.0053190390534209311
+sS'automation'
+p27
+F0.0067511099705745131
+sS'apache'
+p28
+F0.004581177669113418
+sS'spark'
+p29
+F0.0034132300067118595
+sS'statistical programming'
+p30
+F0.0085200865331005165
+sS'information technology'
+p31
+F0.0063090062181411846
+sS'training'
+p32
+F0.0047637545567253631
+sS'science'
+p33
+F0.0014231455226601062
+sS'.net'
+p34
+F0.0076284348960008663
+sS'programming'
+p35
+F0.0022314073579653361
+sS'dod'
+p36
+F0.017091420879657929
+sS'machine learning'
+p37
+F0.0013269589510810512
+sS'r'
+F0.0022469324154410575
+sS'budgets'
+p38
+F0.01045940065769636
+sS'security'
+p39
+F0.0044237870763558541
+sS'data analytics'
+p40
+F0.0041342564402546498
+ssS'working-year'
+p41
+(dp42
+S'[0]'
+p43
+F0.004445778806770005
+ssS'major'
+p44
+(dp45
+VMathematics
+p46
+F0.0034701873068470686
+sVData Science
+p47
+F0.0020795323534515439
+sVInformation Science
+p48
+F0.0051268323654941172
+sVComputer Science
+p49
+F0.0018327039399842059
+sVBusiness
+p50
+F0.0021897051562229032
 ssS'education'
+p51
+(dp52
+VMaster
 p53
-(dp54
-VBachelor
-p55
-I1
-sVMaster
-p56
-I1
+F0.0014722281077412488
 ssS'responsibility'
-p57
-(dp58
+p54
+(dp55
 S'development'
-p59
-I1
+p56
+F0.012256690307835209
 sS'information'
-p60
-I1
-sS'pattern'
-p61
-I1
+p57
+F0.0028079052622052522
+sS'improvement'
+p58
+F0.0054376649723463727
 sS'design'
-p62
-I1
-sS'solve problem'
-p63
-I1
+p59
+F0.0029563133806042056
 sS'data mining'
-p64
-I1
+p60
+F0.0042955047139314525
 ss.

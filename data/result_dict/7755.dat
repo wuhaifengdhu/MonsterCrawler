@@ -6,19 +6,19 @@ S'management'
 p4
 aS'postgresql'
 p5
-aS'r d'
-p6
 aS'database management'
+p6
+aS'programming'
 p7
-aS'communication'
-p8
 aS'government'
-p9
+p8
 aS'javascript'
-p10
+p9
 aS'data scientist'
-p11
+p10
 aS'devops'
+p11
+aS'strategy'
 p12
 aS'analytics'
 p13
@@ -29,52 +29,48 @@ aS'computer science'
 p15
 aS'sql'
 p16
-aS'organization'
-p17
-aS'data'
-p18
-aS'etl'
-p19
-aS'science'
-p20
-asS'working-year'
-p21
-(lp22
-V(2, 5]
-p23
-asS'major'
-p24
-(lp25
-S'information'
-p26
-aS'management'
-p27
-aS'science'
-p28
-aS'analytics'
-p29
-aS'engineering'
-p30
-aS'computer science'
-p31
 aS'communication'
-p32
+p17
+aS'organization'
+p18
+aS'data'
+p19
+aS'etl'
+p20
+aS'science'
+p21
+asS'working-year'
+p22
+(lp23
+V(2, 5]
+p24
+asS'major'
+p25
+(lp26
+VData Science
+p27
+aVManagement Science and Engineering
+p28
+aVEngineering
+p29
+aVComputer Science
+p30
 asS'education'
-p33
-(lp34
+p31
+(lp32
 S'Bachelor'
-p35
+p33
 asS'responsibility'
-p36
-(lp37
+p34
+(lp35
 S'product'
-p38
+p36
 aS'information'
-p39
+p37
 aS'implement'
-p40
+p38
 aS'ensure data integrity'
-p41
+p39
 aS'solve problem'
-p42
+p40
 as.

@@ -2,88 +2,89 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
+aS'hardware'
 p5
-aS'engineering'
+aS'analytics'
 p6
-aS'troubleshooting'
+aS'engineering'
 p7
-aS'problem solving'
+aS'troubleshooting'
 p8
-aS'linux'
+aS'problem solving'
 p9
-aS'management'
+aS'linux'
 p10
-aS'java'
+aS'management'
 p11
-aS'storage'
+aS'java'
 p12
-aS'saas'
+aS'storage'
 p13
-aS'devops'
+aS'saas'
 p14
-aS'research'
+aS'devops'
 p15
-aS'quality assurance'
+aS'research'
 p16
-aS'innovation'
+aS'quality assurance'
 p17
-aS'product development'
+aS'innovation'
 p18
-aS'visio'
+aS'systems engineering'
 p19
-aS'data scientist'
+aS'product development'
 p20
-aS'networking'
+aS'visio'
 p21
-aS'data'
+aS'data scientist'
 p22
-aS'b2b'
+aS'apache'
 p23
-aS'project management'
+aS'networking'
 p24
-aS'documentation'
+aS'data'
 p25
+aS'b2b'
+p26
+aS'project management'
+p27
+aS'a'
+aS'tomcat'
+p28
+aS'documentation'
+p29
 aS'r'
 aS'architecture'
-p26
-aS'oracle'
-p27
-aS'organization'
-p28
-aS'docker'
-p29
-aS'microsoft office'
 p30
-aS'powerpoint'
+aS'oracle'
 p31
-aS'scripting'
+aS'organization'
 p32
-asS'working-year'
+aS'docker'
 p33
-(lp34
-V(5, 10]
+aS'microsoft office'
+p34
+aS'powerpoint'
 p35
-asS'major'
+aS'scripting'
 p36
-(lp37
-S'information'
-p38
-aS'management'
+asS'working-year'
+p37
+(lp38
+V(5, 10]
 p39
-aS'business'
+asS'major'
 p40
-aS'ee'
-p41
-aS'communication'
+(lp41
+VData Science
 p42
-aS'engineering'
+aVEngineering
 p43
-aS'design'
+aVBusiness
 p44
-aS'project management'
+aVManagement Science and Engineering
 p45
 asS'education'
 p46
@@ -99,12 +100,12 @@ aS'information'
 p52
 aS'product'
 p53
-aS'documentation'
+aS'develop ... system'
 p54
-aS'improvement'
+aS'documentation'
 p55
-aS'design'
+aS'improvement'
 p56
-aS'develop system'
+aS'design'
 p57
 as.

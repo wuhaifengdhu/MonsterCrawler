@@ -2,111 +2,100 @@
 S'skills'
 p2
 (lp3
-S'intelligence'
+S'classification'
 p4
-aS'analytics'
+aS'intelligence'
 p5
-aS'research'
+aS'analytics'
 p6
-aS'insurance'
+aS'sas'
 p7
-aS'management'
+aS'research'
 p8
-aS'hadoop'
+aS'insurance'
 p9
-aS'time management'
+aS'statistics'
 p10
-aS'access'
+aS'hadoop'
 p11
-aS'computer science'
+aS'time management'
 p12
-aS'artificial intelligence'
+aS'access'
 p13
-aS'government'
+aS'computer science'
 p14
-aS'python'
+aS'artificial intelligence'
 p15
-aS'greenplum'
+aS'government'
 p16
-aS'processing'
+aS'python'
 p17
-aS'c'
-aS'sql'
+aS'greenplum'
 p18
-aS'modeling'
+aS'processing'
 p19
-aS'data'
+aS'c'
+aS'management'
 p20
-aS'training'
+aS'sql'
 p21
-aS'sql server'
+aS'modeling'
 p22
-aS'science'
+aS'data'
 p23
-aS'analysis'
+aS'training'
 p24
-aS'machine learning'
+aS'sql server'
 p25
-aS'healthcare'
+aS'science'
 p26
-aS'netezza'
+aS'analysis'
 p27
-aS'retail'
+aS'machine learning'
 p28
-asS'working-year'
+aS'r'
+aS'healthcare'
 p29
-(lp30
-V(2, 5]
+aS'netezza'
+p30
+aS'retail'
 p31
-asS'major'
+asS'working-year'
 p32
 (lp33
-S'information'
+V(2, 5]
 p34
-aS'management'
+asS'major'
 p35
-aS'general'
-p36
-aS'statistics computer science'
+(lp36
+VData Science
 p37
-aS'science'
+aVStatistics
 p38
-aS'pharmacy'
+aVChemical Engineering
 p39
-aS'analytics'
+aVManagement Science and Engineering
 p40
-aS'computer science'
+aVComputer Science
 p41
-aS'machine learning artificial intelligence'
-p42
-aS'statistic'
-p43
-aS'machine learning'
-p44
-aS'artificial intelligence'
-p45
 asS'education'
-p46
-(lp47
+p42
+(lp43
 S'Bachelor'
-p48
+p44
 asS'responsibility'
-p49
-(lp50
-S'large data set'
-p51
-aS'information'
-p52
+p45
+(lp46
+S'information'
+p47
 aS'processing'
-p53
+p48
 aS'analysis'
-p54
-aS'statistical model'
-p55
+p49
 aS'modeling'
-p56
+p50
 aS'implement'
-p57
+p51
 aS'presentation'
-p58
+p52
 as.

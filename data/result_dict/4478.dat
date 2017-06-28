@@ -2,111 +2,113 @@
 S'skills'
 p2
 (lp3
-S'ip'
+S'continuous improvement'
 p4
-aS'energy'
+aS'ip'
 p5
-aS'hardware'
+aS'energy'
 p6
-aS'engineering'
-p7
-aS'enterprise software'
-p8
-aS'go'
-p9
-aS'continuous improvement'
-p10
-aS'geography'
-p11
-aS'management'
-p12
-aS'big data'
-p13
-aS'user experience'
-p14
-aS'agile'
-p15
 aS'integration'
-p16
-aS'research'
-p17
-aS'music'
-p18
-aS'communication'
-p19
-aS'master data management'
-p20
-aS'data management'
-p21
-aS'scrum'
-p22
-aS'aws'
-p23
-aS'collaboration'
-p24
-aS'innovation'
-p25
-aS'data scientist'
-p26
-aS'leadership'
-p27
-aS'sql'
-p28
-aS'data'
-p29
-aS'software development'
-p30
-aS'training'
-p31
-aS'sql server'
-p32
-aS'analysis'
-p33
-aS'critical thinking'
-p34
-aS'optimization'
-p35
-aS'etl'
-p36
-aS'organization'
-p37
-aS'retail'
-p38
-aS'root'
-p39
-aS'scripting'
-p40
-asS'working-year'
-p41
-(lp42
-V(2, 5]
-p43
-asS'major'
-p44
-(lp45
-S'information'
-p46
-aS'management'
-p47
-aS'business'
-p48
-aS'big data'
-p49
-aS'communication'
-p50
-aS'technology management'
-p51
-aS'phd'
-p52
+p7
+aS'hardware'
+p8
 aS'engineering'
-p53
-aS'management technology'
-p54
-aS'music'
-p55
-aVphysic
-p56
+p9
+aS'enterprise software'
+p10
+aS'go'
+p11
+aS'strategy'
+p12
 aS'geography'
+p13
+aS'management'
+p14
+aS'java'
+p15
+aS'big data'
+p16
+aS'user experience'
+p17
+aS'agile'
+p18
+aS'physics'
+p19
+aS'research'
+p20
+aS'etl'
+p21
+aS'coaching'
+p22
+aS'music'
+p23
+aS'communication'
+p24
+aS'teaching'
+p25
+aS'data management'
+p26
+aS'a'
+aS'scrum'
+p27
+aS'aws'
+p28
+aS'collaboration'
+p29
+aS'innovation'
+p30
+aS'data scientist'
+p31
+aS'c'
+aS'leadership'
+p32
+aS'sql'
+p33
+aS'master data management'
+p34
+aS'data'
+p35
+aS'software development'
+p36
+aS'training'
+p37
+aS'sql server'
+p38
+aS'science'
+p39
+aS'analysis'
+p40
+aS'critical thinking'
+p41
+aS'optimization'
+p42
+aS'architecture'
+p43
+aS'organization'
+p44
+aS'retail'
+p45
+aS'root'
+p46
+aS'scripting'
+p47
+asS'working-year'
+p48
+(lp49
+V(2, 5]
+p50
+asS'major'
+p51
+(lp52
+VEngineering
+p53
+aVManagement Science and Engineering
+p54
+aVPhysics
+p55
+aVBusiness
+p56
+aVGeography
 p57
 asS'education'
 p58
@@ -124,19 +126,19 @@ aS'information'
 p65
 aS'product'
 p66
-aS'business problem'
+aS'insight'
 p67
-aVinsight
-p68
 aS'communicate'
-p69
+p68
 aS'analysis'
-p70
+p69
 aS'improvement'
-p71
+p70
 aS'optimization'
-p72
+p71
 aS'understand'
+p72
+aS'design'
 p73
 aS'model'
 p74

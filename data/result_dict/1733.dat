@@ -43,47 +43,43 @@ p21
 asS'working-year'
 p22
 (lp23
-V[0]
+S'[0]'
 p24
 asS'major'
 p25
 (lp26
-S'genetics'
+VBiological Engineering
 p27
-aS'business'
+aVData Science
 p28
-aS'science'
+aVComputer Science
 p29
-aS'data science'
+aVBusiness
 p30
-aS'analytics'
-p31
-aS'communication'
-p32
-aS'data analytics'
-p33
-aS'predictive analytics'
-p34
 asS'education'
+p31
+(lp32
+VBachelor
+p33
+aVDoctor
+p34
+asS'responsibility'
 p35
 (lp36
-VDoctor
-p37
-asS'responsibility'
-p38
-(lp39
 S'development'
-p40
+p37
 aS'product'
-p41
+p38
+aS'develop ... model'
+p39
 aS'interface'
-p42
+p40
 aS'statistical method'
-p43
+p41
 aS'understand'
-p44
+p42
 aS'report'
-p45
+p43
 aS'model'
-p46
+p44
 as.

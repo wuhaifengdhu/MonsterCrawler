@@ -4,19 +4,19 @@ p2
 (lp3
 S'digital marketing'
 p4
-aS'r d'
-p5
 aS'cluster'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'hive'
-p8
+p7
 aS'personalization'
-p9
+p8
 aS'direct marketing'
-p10
+p9
 aS'linguistics'
+p10
+aS'statistics'
 p11
 aS'java'
 p12
@@ -60,6 +60,7 @@ aS'spark'
 p31
 aS'data'
 p32
+aS'a'
 aS'organization'
 p33
 aS'analytics'
@@ -79,82 +80,64 @@ aS'advertising'
 p40
 aS'electrical engineering'
 p41
-asS'working-year'
+aS'physics'
 p42
-(lp43
-V(2, 5]
+aS'crm'
+p43
+asS'working-year'
 p44
+(lp45
+V(2, 5]
+p46
 asS'major'
-p45
-(lp46
-S'science'
 p47
-aS'information'
-p48
-aS'computer science'
+(lp48
+VLinguistics
 p49
-aS'business'
+aVElectrical and Electronics Engineering
 p50
-aS'mathematics economics'
+aVBusiness
 p51
-aS'mathematics'
+aVData Science
 p52
-aS'marketing'
+aVEconomics
 p53
-aS'decision sciences'
+aVEngineering
 p54
-aS'economics'
+aVStatistics
 p55
-aS'computer science statistics'
+aVComputer Science
 p56
-aS'computing'
+aVMathematics
 p57
-aS'machine learning'
+aVPhysics
 p58
-aS'analytics'
-p59
-aS'engineering'
-p60
-aS'design'
-p61
-aS'linguistics'
-p62
-aS'statistic'
-p63
-aS'electrical engineering'
-p64
-aS'electrical'
-p65
-aVphysic
-p66
-aS'history'
-p67
 asS'education'
-p68
-(lp69
+p59
+(lp60
 VMaster
-p70
+p61
 aVDoctor
-p71
+p62
 asS'responsibility'
-p72
-(lp73
-S'large data set'
-p74
+p63
+(lp64
+S'information'
+p65
+aS'large data set'
+p66
 aS'business problem'
-p75
+p67
 aS'analysis'
-p76
-aS'information'
-p77
+p68
 aS'optimization'
-p78
+p69
 aS'design'
-p79
+p70
 aS'modeling'
-p80
+p71
 aS'implement'
-p81
+p72
 aS'model'
-p82
+p73
 as.

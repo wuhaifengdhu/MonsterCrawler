@@ -4,229 +4,223 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
+F0.0075088597916049609
 sS'consulting'
 p5
-I1
+F0.0046018629218148076
 sS'regression analysis'
 p6
-I1
+F0.0077166944638071703
 sS'communication'
 p7
-I1
+F0.0032243775134640656
 sS'chaid'
 p8
-I1
+F0.012423137474848708
 sS'pig'
 p9
-I1
+F0.0054961877293602671
 sS'analytics'
 p10
-I1
+F0.0035427187860836112
 sS'engineering'
 p11
-I1
+F0.0024946125805980746
 sS'pricing'
 p12
-I1
-sS'strategy'
+F0.0076999321171881676
+sS'sas'
 p13
-I1
-sS'random forest'
+F0.0056425126544904954
+sS'accounting'
 p14
-I1
-sS'clustering'
+F0.0089822602614375874
+sS'strategy'
 p15
-I1
-sS'web analytics'
+F0.00320776258905669
+sS'random forest'
 p16
-I1
-sS'big data'
+F0.009249743981338784
+sS'clustering'
 p17
-I1
-sS'predictive modeling'
+F0.0065649950316827082
+sS'web analytics'
 p18
-I1
-sS'product marketing'
-p19
-I1
-sS'hadoop'
-p20
-I1
-sS'research'
-p21
-I1
-sS'cell'
-p22
-I1
-sS'computer science'
-p23
-I1
-sS'segmentation'
-p24
-I1
-sS'distributed computing'
-p25
-I1
-sS'python'
-p26
-I1
-sS'marketing'
-p27
-I1
-sS'data scientist'
-p28
-I1
-sS'experimental design'
-p29
-I1
-sS'regression'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'data'
-p32
-I1
-sS'econometrics'
-p33
-I1
-sS'decision analysis'
-p34
-I1
-sS'word'
-p35
-I1
-sS'education'
-p36
-I1
-sS'analysis'
-p37
-I1
-sS'machine learning'
-p38
-I1
-sS'r'
-I1
-sS'organization'
-p39
-I1
-sS'security'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(5, 10]
-p43
-I1
-sV(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
-sS'business'
-p48
-I1
+F0.0077764736037240793
 sS'big data'
-p49
-I1
-sS'computing'
-p50
-I1
-sS'marketing'
-p51
-I1
-sS'applied math'
-p52
-I1
-sS'communication'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'analytics'
-p55
-I1
-sS'engineering'
-p56
-I1
-sS'design'
-p57
-I1
+p19
+F0.0025921082003312981
+sS'predictive modeling'
+p20
+F0.0042342279199368013
+sS'product marketing'
+p21
+F0.0092857916191199322
+sS'hadoop'
+p22
+F0.0026167138521376062
+sS'research'
+p23
+F0.0017375974371929494
+sS'cell'
+p24
+F0.0087598613004360119
 sS'computer science'
-p58
-I1
-sS'statistic'
-p59
-I1
-sS'accounting finance'
-p60
-I1
-sS'econometrics'
-p61
-I1
-sVphysic
-p62
-I1
-sS'finance economics'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VMaster
-p66
-I1
-ssS'responsibility'
-p67
-(dp68
-S'large data set'
-p69
-I1
-sS'product'
-p70
-I1
-sVtest hypothesis
-p71
-I1
-sS'formulate'
-p72
-I1
-sS'business problem'
-p73
-I1
-sVinsight
-p74
-I1
-sS'communicate'
-p75
-I1
-sS'analysis'
-p76
-I1
-sS'analytic'
-p77
-I1
-sS'design'
-p78
-I1
-sS'recommendation'
-p79
-I1
+p25
+F0.0028635097009923026
+sS'segmentation'
+p26
+F0.0058982715114664777
+sS'distributed computing'
+p27
+F0.0072859398420759922
+sS'finance'
+p28
+F0.0054076294382559842
+sS'python'
+p29
+F0.0010616120422673441
+sS'marketing'
+p30
+F0.0038802739765326855
+sS'data scientist'
+p31
+F0.0021575797661178781
+sS'experimental design'
+p32
+F0.0070544050285951034
+sS'sql'
+p33
+F0.0013888876961976517
+sS'regression'
+p34
+F0.0048394456022032599
 sS'modeling'
-p80
-I1
-sS'information'
-p81
-I1
+p35
+F0.0066162581590350497
+sS'data'
+p36
+F0.00072465267540411144
+sS'econometrics'
+p37
+F0.0062469624434628116
+sS'decision analysis'
+p38
+F0.010928296854221845
+sS'word'
+p39
+F0.005679569573723251
+sS'science'
+p40
+F0.0014318409128189252
+sS'economics'
+p41
+F0.0048808387461496154
+sS'education'
+p42
+F0.0042741888998233581
+sS'hive'
+p43
+F0.0042479719948879963
+sS'machine learning'
+p44
+F0.0013350666432465159
+sS'r'
+F0.0011303305633685156
+sS'organization'
+p45
+F0.0035910057826510815
+sS'security'
+p46
+F0.0044508163252948915
+sS'analysis'
+p47
+F0.0013955956079597959
+ssS'working-year'
+p48
+(dp49
+V(5, 10]
+p50
+F0.0024554872944538872
+sV(2, 5]
+p51
+F0.0025233084082100518
+ssS'major'
+p52
+(dp53
+VBusiness
+p54
+F0.0022030842101305784
+sVData Science
+p55
+F0.0020922382537781315
+sVEconomics
+p56
+F0.0033416935794795535
+sVEngineering
+p57
+F0.0045873297897489358
+sVComputer Science
+p58
+F0.0018439017237315634
+sVMathematics
+p59
+F0.0034913900806159913
+ssS'education'
+p60
+(dp61
+VMaster
+p62
+F0.0014812233914952685
+ssS'responsibility'
+p63
+(dp64
+S'information'
+p65
+F0.0028250615061698463
+sS'product'
+p66
+F0.0027392930564516223
+sS'large data set'
+p67
+F0.0064041896849956542
+sVtest hypothesis
+p68
+F0.0098237735838923607
+sS'formulate'
+p69
+F0.0091795081316981327
+sS'business problem'
+p70
+F0.0058007139758261593
+sS'insight'
+p71
+F0.0037370536782270567
+sS'communicate'
+p72
+F0.0040860343834655637
+sS'analysis'
+p73
+F0.0013955956079597959
+sS'develop ... model'
+p74
+F0.006313468487120443
+sS'analytic'
+p75
+F0.0045982199028505961
+sS'design'
+p76
+F0.0029743763951496486
+sS'recommendation'
+p77
+F0.0053201664863915905
+sS'manipulate ... data set'
+p78
+F0.01177455725113785
+sS'modeling'
+p79
+F0.0066162581590350497
 sS'model'
-p82
-I1
+p80
+F0.012606198304697683
 ss.

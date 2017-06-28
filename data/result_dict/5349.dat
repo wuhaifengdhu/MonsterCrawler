@@ -2,87 +2,73 @@
 S'skills'
 p2
 (lp3
-S'big data'
+S'statistics'
 p4
-aS'global health'
+aS'big data'
 p5
-aS'science'
+aS'python'
 p6
-aS'data science'
+aS'science'
 p7
-aS'healthcare'
+aS'data science'
 p8
-aS'machine learning'
+aS'healthcare'
 p9
-aS'pharmaceutical industry'
+aS'machine learning'
 p10
-aS'analytics'
+aS'pharmaceutical industry'
 p11
+aS'analytics'
+p12
 aS'r'
 aS'teamwork'
-p12
-aS'computer science'
 p13
-aS'data mining'
-p14
-aS'informatics'
-p15
-aS'advanced analytics'
-p16
-aS'data'
-p17
-asS'working-year'
-p18
-(lp19
-V[0]
-p20
-asS'major'
-p21
-(lp22
-S'business'
-p23
-aS'big data'
-p24
-aS'analytics'
-p25
-aS'science'
-p26
-aS'data science'
-p27
-aS'statistic'
-p28
-aS'machine learning data mining'
-p29
-aS'advanced analytics'
-p30
 aS'computer science'
-p31
+p14
 aS'data mining'
-p32
+p15
 aS'informatics'
-p33
-aS'machine learning'
-p34
-aS'statistics computer science'
-p35
+p16
+aS'advanced analytics'
+p17
+aS'data'
+p18
+asS'working-year'
+p19
+(lp20
+S'[0]'
+p21
+asS'major'
+p22
+(lp23
+VData Science
+p24
+aVInformation Science
+p25
+aVStatistics
+p26
+aVComputer Science
+p27
+aVBusiness
+p28
 asS'education'
-p36
-(lp37
-VMaster
-p38
+p29
+(lp30
+VBachelor
+p31
+aVMaster
+p32
 asS'responsibility'
-p39
-(lp40
+p33
+(lp34
 S'development'
-p41
-aS'business problem'
-p42
-aS'communicate'
-p43
-aS'statistical model'
-p44
-aS'data mining'
-p45
+p35
 aS'model'
-p46
+p36
+aS'statistical model'
+p37
+aS'communicate'
+p38
+aS'data mining'
+p39
 as.

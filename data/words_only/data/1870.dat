@@ -4,197 +4,184 @@ p2
 (dp3
 S'oncology'
 p4
-I1
+F0.012566261722301934
 sS'higher education'
 p5
-I1
+F0.010171782545571226
 sS'proteomics'
 p6
-I1
+F0.013611426640515938
 sS'data science'
 p7
-I1
+F0.0028169576713362979
 sS'cluster'
 p8
-I1
+F0.00822634848365217
 sS'defense'
 p9
-I1
+F0.0082708153487780749
 sS'visualization'
 p10
-I1
+F0.0043894502855596476
 sS'problem solving'
 p11
-I1
+F0.0057485055385322042
 sS'biomarker discovery'
 p12
-I1
+F0.016112219771713985
 sS'education'
 p13
-I1
+F0.0049148167442933707
 sS'genomics'
 p14
-I1
+F0.0099470455909487915
 sS'management'
 p15
-I1
+F0.0021218943025752978
 sS'publishing'
 p16
-I1
+F0.01184616097944537
 sS'deep learning'
 p17
-I1
+F0.0072940086250432102
 sS'research'
 p18
-I1
+F0.0079921343481193282
 sS'computer science'
 p19
-I1
+F0.0032927008505555517
 sS'natural language processing'
 p20
-I1
+F0.0058687544074011774
 sS'intelligence'
 p21
-I1
-sS'biology'
-p22
-I1
-sS'government'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'information visualization'
-p25
-I1
-sS'statistical modeling'
-p26
-I1
-sS'bioinformatics'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'data'
-p29
-I1
-sS'information technology'
-p30
-I1
+F0.0036769522479784054
 sS'software development'
+p22
+F0.0049653316582512234
+sS'biology'
+p23
+F0.015912471027304437
+sS'government'
+p24
+F0.012211332625896793
+sS'processing'
+p25
+F0.003824562263865855
+sS'data scientist'
+p26
+F0.0024809640870348437
+sS'automation'
+p27
+F0.0078104176240370244
+sS'information visualization'
+p28
+F0.013271423028176535
+sS'statistical modeling'
+p29
+F0.0041952354102819589
+sS'bioinformatics'
+p30
+F0.0076329210544565694
+sS'modeling'
 p31
-I1
-sS'pattern recognition'
+F0.00190198053635024
+sS'data'
 p32
-I1
-sS'programming'
+F0.00083326572277147247
+sS'information technology'
 p33
-I1
-sS'image analysis'
+F0.0072989439619712999
+sS'a'
+F0.0043794892122108351
+sS'pattern recognition'
 p34
-I1
-sS'analysis'
+F0.0074785801144770288
+sS'science'
 p35
-I1
-sS'machine learning'
+F0.0032928987737428214
+sS'programming'
 p36
-I1
-sS'architecture'
+F0.002581534507810014
+sS'image analysis'
 p37
-I1
-sS'security'
+F0.011679998757903721
+sS'analysis'
 p38
-I1
-sS'data integration'
+F0.0032095430609286177
+sS'machine learning'
 p39
-I1
-ssS'working-year'
+F0.0015351703087448229
+sS'architecture'
 p40
-(dp41
-V[0]
+F0.0051218138704558743
+sS'security'
+p41
+F0.0051179176012173108
+sS'data integration'
 p42
-I1
-ssS'major'
+F0.0090647802352027684
+ssS'working-year'
 p43
 (dp44
-S'information'
+S'[0]'
 p45
-I1
-sS'biology'
+F0.0051433600246941049
+ssS'major'
 p46
-I1
-sS'management'
-p47
-I1
-sS'business'
+(dp47
+VBusiness
 p48
-I1
-sS'computing'
+F0.0025332888692602205
+sVData Science
 p49
-I1
-sS'data science'
+F0.0024058289990750883
+sVInformation Science
 p50
-I1
-sS'bioinformatics'
+F0.0059312767881828897
+sVComputer Science
 p51
-I1
-sS'machine learning'
+F0.0021202710687405098
+sVBiological Engineering
 p52
-I1
-sS'information system'
+F0.0061597090877674246
+sVManagement Science and Engineering
 p53
-I1
-sS'computer science'
-p54
-I1
-sS'natural language processing'
-p55
-I1
-sS'information systems'
-p56
-I1
-sS'information technology'
-p57
-I1
+F0.003020010628732769
 ssS'education'
-p58
-(dp59
+p54
+(dp55
 VDoctor
-p60
-I1
+p56
+F0.0025507769830830631
 ssS'responsibility'
-p61
-(dp62
+p57
+(dp58
 S'development'
-p63
-I1
+p59
+F0.0056719484890591036
 sS'information'
-p64
-I1
-sVinsight
-p65
-I1
+p60
+F0.0064969798572805364
+sS'insight'
+p61
+F0.0042971741358535948
 sS'pattern'
-p66
-I1
+p62
+F0.0061325317929136905
 sS'processing'
-p67
-I1
+p63
+F0.003824562263865855
 sS'communicate'
-p68
-I1
+p64
+F0.0046984610826266791
 sS'analysis'
-p69
-I1
-sS'statistical model'
-p70
-I1
+p65
+F0.0032095430609286177
 sS'modeling'
-p71
-I1
+p66
+F0.00190198053635024
 sS'implement'
-p72
-I1
+p67
+F0.0049598669206548183
 ss.

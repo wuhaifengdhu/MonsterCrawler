@@ -2,137 +2,142 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
-p5
 aS'intelligence'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'decision support'
-p8
+p7
 aS'avro'
-p9
+p8
 aS'pig'
-p10
+p9
 aS'analytics'
-p11
+p10
 aS'business intelligence'
-p12
+p11
 aS'data warehousing'
+p12
+aS'presentations'
 p13
-aS'weka'
+aS'linux'
 p14
-aS'hbase'
+aS'sas'
 p15
-aS'data'
+aS'hbase'
 p16
-aS'cassandra'
+aS'data'
 p17
-aS'java'
+aS'cassandra'
 p18
-aS'big data'
+aS'java'
 p19
-aS'anomaly detection'
+aS'big data'
 p20
-aS'agile'
+aS'anomaly detection'
 p21
-aS'research'
+aS'agile'
 p22
-aS'matlab'
+aS'hadoop'
 p23
-aS'business requirements'
+aS'research'
 p24
-aS'teradata'
+aS'matlab'
 p25
-aS'javascript'
-p26
-aS'data modeling'
-p27
-aS'theory'
-p28
-aS'python'
-p29
 aS'natural language processing'
+p26
+aS'teradata'
+p27
+aS'javascript'
+p28
+aS'data modeling'
+p29
+aS'theory'
 p30
-aS'processing'
+aS'python'
 p31
-aS'modeling'
+aS'business requirements'
 p32
-aS'ruby'
+aS'data scientist'
 p33
-aS'science'
+aS'scala'
 p34
-aS'documentation'
+aS'processing'
 p35
-aS'engineering'
+aS'sql'
 p36
-aS'hive'
+aS'modeling'
 p37
+aS'ruby'
+p38
+aS'c'
+aS'science'
+p39
+aS'documentation'
+p40
+aS'engineering'
+p41
+aS'hive'
+p42
+aS'weka'
+p43
 aS'r'
 aS'organization'
-p38
-aS'research development r d'
-p39
-asS'working-year'
-p40
-(lp41
-V(5, 10]
-p42
-aV(2, 5]
-p43
-asS'major'
 p44
-(lp45
-S'business'
-p46
-aS'big data'
+asS'working-year'
+p45
+(lp46
+V(5, 10]
 p47
-aS'science'
+aV(2, 5]
 p48
-aS'data science'
+asS'major'
 p49
-aS'phd'
-p50
-aS'analytics'
+(lp50
+VData Science
 p51
-aS'engineering'
+aVEngineering
 p52
-aS'design'
+aVBusiness
 p53
-aS'natural language processing'
-p54
 asS'education'
-p55
-(lp56
-VDoctor
+p54
+(lp55
+VBachelor
+p56
+aVMaster
 p57
-asS'responsibility'
+aVDoctor
 p58
-(lp59
+asS'responsibility'
+p59
+(lp60
 S'development'
-p60
-aS'product'
 p61
-aS'processing'
+aS'product'
 p62
-aS'pattern'
+aS'processing'
 p63
-aVinsight
+aS'pattern'
 p64
-aS'statistical model'
+aS'insight'
 p65
-aS'analytic'
+aS'statistical model'
 p66
-aS'understand'
+aS'analytic'
 p67
-aS'modeling'
-p68
 aS'design'
+p68
+aS'modeling'
 p69
-aS'model'
+aS'understand'
 p70
-aS'documentation'
+aS'model'
 p71
+aS'decision making'
+p72
+aS'documentation'
+p73
 as.

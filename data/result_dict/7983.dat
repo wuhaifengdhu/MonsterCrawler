@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'digital marketing'
+S'a'
+aS'digital marketing'
 p4
 aS'consulting'
 p5
@@ -36,32 +37,28 @@ p19
 asS'major'
 p20
 (lp21
-S'marketing'
+VEconomics
 p22
-aS'management'
+aVManagement Science and Engineering
 p23
-aS'communication'
-p24
-aS'project management'
-p25
-aS'information'
-p26
 asS'education'
+p24
+(lp25
+S'Bachelor'
+p26
+asS'responsibility'
 p27
 (lp28
-S'Bachelor'
+S'information'
 p29
-asS'responsibility'
-p30
-(lp31
-S'understand'
-p32
 aS'communicate'
-p33
+p30
 aS'optimization'
-p34
+p31
+aS'understand'
+p32
+aS'key decision'
+p33
 aS'presentation'
-p35
-aS'information'
-p36
+p34
 as.

@@ -1,5 +1,5 @@
-skills: {'search': 1, 'dna': 1, 'python': 1, 'communication': 1, 'data science': 1, 'data scientist': 1, 'hadoop': 1, 'communication skills': 1, 'machine learning': 1, 'engineering': 1, 'hive': 1, 'science': 1, 'statistical analysis': 1, 'java': 1, 'pig': 1, 'data': 1, 'computer science': 1}
-working-year: {u'[0]': 1}
-major: {'information': 1, 'business': 1, 'science': 1, 'data science': 1, 'phd': 1, 'engineering': 1, 'computer science engineering': 1, 'computer science': 1, 'communication': 1, 'machine learning': 1}
-education: {u'Doctor': 1}
-responsibility: {'development': 1, 'information': 1, 'model': 1, 'build model': 1, 'ownership': 1}
+skills: {'a': 0.006538608019629463, 'search': 0.03253835431101155, 'dna': 0.016480674367912687, 'python': 0.0018225577368995315, 'science': 0.00983264179292437, 'data science': 0.004205737502309788, 'statistical analysis': 0.009002448088855272, 'data scientist': 0.0037040967313422316, 'hadoop': 0.008984660848948006, 'analysis': 0.001197967558580874, 'pig': 0.009435762850055564, 'engineering': 0.008565418021494088, 'hive': 0.007292847026188834, 'sql': 0.002384419086828836, 'mapreduce': 0.00921923607327245, 'java': 0.004333101285553438, 'spark': 0.005895579102502302, 'machine learning': 0.002292020006412725, 'data': 0.0045615956874797275, 'communication skills': 0.012878062419790642, 'computer science': 0.004916025395759513}
+working-year: {'[0]': 0.007679072484420919}
+major: {u'Data Science': 0.003591919519598121, u'Engineering': 0.007875450792890655, u'Business': 0.0037822179971122873, u'Computer Science': 0.003165579532699992}
+education: {u'Master': 0.0025429394588257935, u'Doctor': 0.003808327873344294}
+responsibility: {'development': 0.00846825875814069, 'information': 0.014550054540518127, 'build model': 0.018492423385267985, 'analysis': 0.001197967558580874, 'develop ... model': 0.010838856738378104, 'ownership': 0.013777249825480377, 'model': 0.005410527419236507}

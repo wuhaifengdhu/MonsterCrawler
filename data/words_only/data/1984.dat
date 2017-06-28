@@ -4,259 +4,255 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.013929829006319804
 sS'shell scripting'
 p5
-I1
+F0.0080041889484173626
 sS'energy'
 p6
-I1
+F0.0073289674728030507
 sS'mysql'
 p7
-I1
-sS'analytics'
+F0.0056393299921311691
+sS'sales'
 p8
-I1
-sS'business intelligence'
-p9
-I1
-sS'defense'
-p10
-I1
-sS'process improvement'
-p11
-I1
-sS'linux'
-p12
-I1
-sS'perl'
-p13
-I1
-sS'image processing'
-p14
-I1
-sS'insurance'
-p15
-I1
-sS'esri'
-p16
-I1
-sS'visualization'
-p17
-I1
-sS'management'
-p18
-I1
-sS'open source'
-p19
-I1
-sS'research'
-p20
-I1
-sS'r'
-I1
-sS'matlab'
-p21
-I1
-sS'innovation'
-p22
-I1
-sS'geography'
-p23
-I1
-sS'erdas imagine'
-p24
-I1
-sS'computer science'
-p25
-I1
-sS'processing'
-p26
-I1
-sS'product development'
-p27
-I1
-sS'environmental science'
-p28
-I1
-sS'python'
-p29
-I1
-sS'philosophy'
-p30
-I1
-sS'data scientist'
-p31
-I1
-sS'leadership'
-p32
-I1
-sS'data analysis'
-p33
-I1
-sS'business development'
-p34
-I1
-sS'data'
-p35
-I1
-sS'geospatial intelligence'
-p36
-I1
-sS'software development'
-p37
-I1
-sS'training'
-p38
-I1
-sS'postgresql'
-p39
-I1
-sS'software engineering'
-p40
-I1
-sS'remote sensing'
-p41
-I1
-sS'science'
-p42
-I1
-sS'programming'
-p43
-I1
-sS'engineering'
-p44
-I1
-sS'analysis'
-p45
-I1
-sS'arcgis'
-p46
-I1
-sS'idl'
-p47
-I1
-sS'quality control'
-p48
-I1
-sS'scripting'
-p49
-I1
-sS'javascript'
-p50
-I1
-sS'organization'
-p51
-I1
-sS'quality assurance'
-p52
-I1
-sS'etl'
-p53
-I1
-ssS'working-year'
-p54
-(dp55
-V(10, 15]
-p56
-I1
-ssS'major'
-p57
-(dp58
-S'information'
-p59
-I1
-sS'management'
-p60
-I1
-sS'software engineering'
-p61
-I1
-sS'environmental science'
-p62
-I1
-sS'science'
-p63
-I1
-sS'philosophy'
-p64
-I1
+F0.0078969233733753065
 sS'analytics'
-p65
-I1
-sS'engineering'
-p66
-I1
-sS'information systems'
-p67
-I1
-sS'business management'
-p68
-I1
-sS'computer science'
-p69
-I1
-sS'statistic'
-p70
-I1
-sS'design'
-p71
-I1
-sS'information system'
-p72
-I1
+p9
+F0.0020658847077993509
+sS'business intelligence'
+p10
+F0.0048528344626470815
+sS'defense'
+p11
+F0.0083886892017297817
+sS'process improvement'
+p12
+F0.007662144048526047
+sS'linux'
+p13
+F0.0043849834627060083
+sS'perl'
+p14
+F0.0068077214828726092
+sS'image processing'
+p15
+F0.0078784869721416437
+sS'insurance'
+p16
+F0.007489718321970755
 sS'geography'
-p73
-I1
-ssS'education'
-p74
-(dp75
-VDoctor
-p76
-I1
-ssS'responsibility'
-p77
-(dp78
-S'development'
-p79
-I1
-sS'information'
-p80
-I1
-sS'forecasting'
-p81
-I1
-sS'data analysis'
-p82
-I1
-sS'business problem'
-p83
-I1
-sS'provide leadership'
-p84
-I1
+p17
+F0.011879222561240955
+sS'visualization'
+p18
+F0.0044520077718146547
+sS'management'
+p19
+F0.0043042701529674692
+sS'open source'
+p20
+F0.0075960088834159016
+sS'environmental science'
+p21
+F0.012842317251765333
+sS'research'
+p22
+F0.0040530182501745289
+sS'r'
+F0.0013182715121471287
+sS'matlab'
+p23
+F0.0030318317996153557
+sS'innovation'
+p24
+F0.004598158366115733
+sS'esri'
+p25
+F0.01366141268559175
+sS'erdas imagine'
+p26
+F0.016135169973889685
+sS'computer science'
+p27
+F0.0033396277035325907
 sS'processing'
-p85
-I1
-sS'communicate'
-p86
-I1
-sS'product'
-p87
-I1
+p28
+F0.0038790690894791452
+sS'product development'
+p29
+F0.0062077823011442044
+sS'government'
+p30
+F0.0061926829349856658
+sS'python'
+p31
+F0.0012381271086775916
+sS'marketing'
+p32
+F0.004525450172155698
+sS'philosophy'
+p33
+F0.011782258869801682
+sS'data scientist'
+p34
+F0.0025163222450448417
+sS'training'
+p35
+F0.0055897737553974565
+sS'leadership'
+p36
+F0.0039249610954960141
+sS'data analysis'
+p37
+F0.0035243753324600124
+sS'business development'
+p38
+F0.0082630647958246636
+sS'data'
+p39
+F0.00084514124376108975
+sS'geospatial intelligence'
+p40
+F0.014298617528331534
+sS'software development'
+p41
+F0.0050360964799840207
+sS'c'
+F0.0029705983940572383
+sS'postgresql'
+p42
+F0.0080829326197947114
+sS'software engineering'
+p43
+F0.0061806721822185553
+sS'remote sensing'
+p44
+F0.011628961829982496
+sS'science'
+p45
+F0.0066796568949557475
+sS'programming'
+p46
+F0.0026183259734795152
+sS'engineering'
+p47
+F0.0029093937697711515
 sS'analysis'
-p88
-I1
+p48
+F0.00081382119181503548
+sS'arcgis'
+p49
+F0.0098246187998976674
+sS'idl'
+p50
+F0.011980313615859472
+sS'quality control'
+p51
+F0.01142971995431053
+sS'scripting'
+p52
+F0.0057792978086619083
+sS'javascript'
+p53
+F0.0052670893444701754
+sS'gis'
+p54
+F0.009314122634230447
+sS'organization'
+p55
+F0.012564255386805331
+sS'quality assurance'
+p56
+F0.0092697241565155575
+sS'etl'
+p57
+F0.0067690372304398646
+ssS'working-year'
+p58
+(dp59
+V(10, 15]
+p60
+F0.004649468779568549
+ssS'major'
+p61
+(dp62
+VBusiness
+p63
+F0.0025693927486321005
+sVData Science
+p64
+F0.0024401163482305525
+sVEconomics
+p65
+F0.0038973195903193847
+sVEngineering
+p66
+F0.0029093937697711515
+sVInformation Science
+p67
+F0.0060158080488220758
+sVComputer Science
+p68
+F0.0021504887086750543
+sVGeography
+p69
+F0.01165883995048639
+sVEnvironmental Engineering
+p70
+F0.01171974789268085
+sVManagement Science and Engineering
+p71
+F0.0030630511602586521
+ssS'education'
+p72
+(dp73
+VDoctor
+p74
+F0.0025871300992315158
+ssS'responsibility'
+p75
+(dp76
+S'development'
+p77
+F0.0057527838594494951
+sS'information'
+p78
+F0.023063506880536253
+sS'forecasting'
+p79
+F0.013929829006319804
+sS'data analysis'
+p80
+F0.0035243753324600124
+sS'business problem'
+p81
+F0.0067652032354647146
+sS'provide leadership'
+p82
+F0.012352209401947293
+sS'processing'
+p83
+F0.0038790690894791452
+sS'communicate'
+p84
+F0.0047654225232341861
+sS'product'
+p85
+F0.015973787300685827
+sS'analysis'
+p86
+F0.00081382119181503548
 sS'improvement'
-p89
-I1
+p87
+F0.0063805379960548882
 sS'design'
-p90
-I1
+p88
+F0.0034689282898301131
 sS'presentation'
-p91
-I1
+p89
+F0.0058511979627306572
 sS'decision-making'
-p92
-I1
+p90
+F0.0087221744555466101
 ss.

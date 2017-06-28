@@ -44,6 +44,7 @@ aS'automation'
 p23
 aS'data'
 p24
+aS'a'
 aS'science'
 p25
 aS'programming'
@@ -59,51 +60,33 @@ p30
 asS'working-year'
 p31
 (lp32
-V[0]
+S'[0]'
 p33
 asS'major'
 p34
 (lp35
-S'computer science/artificial intelligence'
+VData Science
 p36
-aS'general'
+aVComputer Science
 p37
-aS'big data'
-p38
-aS'science'
-p39
-aS'data science'
-p40
-aS'automation'
-p41
-aS'design'
-p42
-aS'computer science'
-p43
-aS'phd'
-p44
-aS'natural language processing'
-p45
-aS'machine learning'
-p46
-aS'artificial intelligence'
-p47
 asS'education'
-p48
-(lp49
+p38
+(lp39
 VDoctor
-p50
+p40
 asS'responsibility'
-p51
-(lp52
+p41
+(lp42
 S'product'
-p53
-aVinsight
-p54
-aS'design'
-p55
-aS'analysis'
-p56
+p43
 aS'processing'
-p57
+p44
+aS'insight'
+p45
+aS'analysis'
+p46
+aS'design'
+p47
+aS'ownership'
+p48
 as.

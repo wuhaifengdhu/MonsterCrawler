@@ -4,127 +4,129 @@ p2
 (dp3
 S'ppc'
 p4
-I1
+F0.014486566097764974
 sS'security'
 p5
-I1
+F0.02142500799725286
 sS'communication'
 p6
-I1
+F0.003880317056644256
 sS'analytics'
 p7
-I1
+F0.0021317094656458984
 sS'go'
 p8
-I1
+F0.0080365519485971256
 sS'education'
 p9
-I1
+F0.0051436930142482089
 sS'account management'
 p10
-I1
+F0.012257727201672652
 sS'social media'
 p11
-I1
+F0.0082658934900143761
 sS'web analytics'
 p12
-I1
+F0.00935845230252089
 sS'java'
 p13
-I1
+F0.0030374190384026556
 sS'anomaly detection'
 p14
-I1
+F0.010772113978391201
 sS'user experience'
 p15
-I1
-sS'market research'
-p16
-I1
+F0.0082725807968305285
 sS'fraud detection'
-p17
-I1
+p16
+F0.01157829430297976
 sS'python'
-p18
-I1
+p17
+F0.0012775772371403577
 sS'data scientist'
+p18
+F0.0025964991793232311
+sS'statistics'
 p19
-I1
+F0.0022855707225554033
 sS'sql'
 p20
-I1
+F0.0016714310265515859
 sS'modeling'
 p21
-I1
+F0.0019905531593665503
 sS'data'
 p22
-I1
+F0.0008720697637828891
 sS'blogging'
 p23
-I1
+F0.013200971493297698
+sS'a'
+F0.013750308041279607
 sS'fraud'
 p24
-I1
+F0.0095878825382556092
 sS'scala'
 p25
-I1
+F0.0059817803620064629
 sS'machine learning'
 p26
-I1
+F0.001606661082926567
 sS'e-commerce'
 p27
-I1
+F0.01847277862070798
 sS'r'
-I1
+F0.0013602752613086793
 sS'command'
 p28
-I1
-sS'seo'
+F0.0094111624443200103
+sS'management'
 p29
-I1
-ssS'working-year'
+F0.0022207080078422846
+sS'seo'
 p30
-(dp31
+F0.011046908070254373
+ssS'working-year'
+p31
+(dp32
 V(0, 2]
-p32
-I1
-sV(2, 5]
 p33
-I1
-ssS'major'
+F0.0055823043237503761
+sV(2, 5]
 p34
-(dp35
-S'analytics'
-p36
-I1
-sS'communication'
+F0.0030366285010567048
+ssS'major'
+p35
+(dp36
+VData Science
 p37
-I1
-sS'machine learning'
+F0.0025178651534437809
+sVStatistics
 p38
-I1
-sS'management technology'
+F0.0044154528673727451
+sVComputer Science
 p39
-I1
-sS'phd'
+F0.0022190091822357786
+sVManagement Science and Engineering
 p40
-I1
+F0.0031606483786002265
 ssS'education'
 p41
 (dp42
-VMaster
+VBachelor
 p43
-I1
-sVDoctor
+F0.0022337716364458499
+sVMaster
 p44
-I1
-ssS'responsibility'
+F0.0017825506990788648
+sVDoctor
 p45
-(dp46
+F0.0026695631661187943
+ssS'responsibility'
+p46
+(dp47
 S'modeling'
-p47
-I1
-sS'statistical method'
 p48
-I1
+F0.0019905531593665503
 ss.

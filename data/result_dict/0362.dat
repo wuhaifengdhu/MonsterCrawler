@@ -38,58 +38,47 @@ aS'sql'
 p20
 aS'data'
 p21
+aS'c'
 aS'science'
 p22
 aS'programming'
 p23
-aS'c++'
+aS'machine learning'
 p24
-aS'machine learning'
-p25
 aS'healthcare'
-p26
+p25
 asS'working-year'
-p27
-(lp28
+p26
+(lp27
 V(20, 30)
-p29
+p28
 aV(2, 5]
-p30
+p29
 asS'major'
-p31
-(lp32
-S'science'
+p30
+(lp31
+VData Science
+p32
+aVComputer Science
 p33
-aS'phd'
-p34
-aS'analytics'
-p35
-aS'machine learning'
-p36
-aS'design'
-p37
-aS'computer science'
-p38
-aS'natural language processing'
-p39
-aS'law'
-p40
 asS'education'
-p41
-(lp42
+p34
+(lp35
 VMaster
-p43
+p36
 aVDoctor
-p44
+p37
 asS'responsibility'
-p45
-(lp46
-S'implement'
-p47
+p38
+(lp39
+S'report'
+p40
+aS'implement'
+p41
 aS'processing'
-p48
+p42
 aS'design'
-p49
+p43
 aS'model'
-p50
+p44
 as.

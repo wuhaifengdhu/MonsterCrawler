@@ -2,72 +2,71 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'a'
+aS'search'
 p4
 aS'web analytics'
 p5
 aS'digital media'
 p6
-aS'marketing'
+aS'solver'
 p7
-aS'data scientist'
-p8
-aS'strategy'
-p9
-aS'analytics'
-p10
-aS'optimization'
-p11
-aS'online advertising'
-p12
-aS'google analytics'
-p13
-aS'data'
-p14
-aS'google adwords'
-p15
-aS'advertising'
-p16
-asS'working-year'
-p17
-(lp18
-V(0, 2]
-p19
-aV(2, 5]
-p20
-asS'major'
-p21
-(lp22
-S'analytics'
-p23
 aS'marketing'
-p24
-aS'digital media'
-p25
-aS'business'
-p26
-aS'information'
-p27
-asS'education'
-p28
-(lp29
-S'Bachelor'
-p30
-asS'responsibility'
-p31
-(lp32
-S'development'
-p33
-aS'information'
-p34
-aVinsight
-p35
+p8
+aS'data scientist'
+p9
+aS'strategy'
+p10
+aS'analytics'
+p11
 aS'optimization'
-p36
+p12
+aS'online advertising'
+p13
+aS'google analytics'
+p14
+aS'data'
+p15
+aS'google adwords'
+p16
+aS'advertising'
+p17
+asS'working-year'
+p18
+(lp19
+V(0, 2]
+p20
+aV(2, 5]
+p21
+asS'major'
+p22
+(lp23
+VData Science
+p24
+aVEconomics
+p25
+aVBusiness
+p26
+asS'education'
+p27
+(lp28
+S'Bachelor'
+p29
+asS'responsibility'
+p30
+(lp31
+S'development'
+p32
+aS'information'
+p33
+aS'insight'
+p34
+aS'optimization'
+p35
 aS'report'
-p37
+p36
 aS'implement'
-p38
+p37
 aS'presentation'
-p39
+p38
 as.

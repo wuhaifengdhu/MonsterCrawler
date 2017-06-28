@@ -1,147 +1,278 @@
-job_requisition
-number
-121633
-category_consultant
--
-analyst
-primary_location
-springfield_va
-u
-security_clearance
-t_sci
-clearance
-status
-must_current
-schedule_full
-time
-type_travel
-local
-percent_travel
-required
-10
-description
-position_summary
-develops_applies
-mathematical_statistical
-theory_method
-collect_organize
-interpret_summarize
-numerical
-data
-provide_usable
-information
-duty_responsibility
-produce_innovative
-solution
-driven_exploratory
-data
-analysis
-complex_high-dimensional
-datasets
-applies_knowledge
-statistic
-machine_learning
-programming
-data
-modeling_simulation
-advanced
-mathematics_recognize
-pattern
-identify_opportunity
-pose_business
-question
-make_valuable
-discovery_leading
-prototype
-development
-product
-improvement
-us_flexible
-analytical_approach
-design
-develop_evaluate
-predictive_model
-advanced
-algorithm
-lead_optimal
-value_extraction
-data
-generates_test
-hypothesis_analyzes
-interprets_result
-product
-experiment
-work
-product
-engineer
-translate_prototype
-new
-product
-service
-feature
-provide_guideline
-large-scale_implementation
-required_qualification
-must_active
-t_sci
-education
-experience
-typically_requires
-bachelor's_degree
-equivalent_five
-seven_year
-related
-experience
-physical_demand
-normal_demand
-associated_office
-environment
-ability
-work
-computer_long
-period_communicate
-individual_telephone
-email_face
-face_travel
-may_required
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV121633
+p4
+aVcategory consultant
+p5
+aV-
+aVanalyst
+p6
+aVprimary location
+p7
+aVspringfield va
+p8
+aVu
+aVsecurity clearance
+p9
+aVt sci
+p10
+aVclearance status
+p11
+aVmust current
+p12
+aVschedule full
+p13
+aVtime
+p14
+aVtype travel
+p15
+aVlocal
+p16
+aVpercent travel
+p17
+aVrequired
+p18
+aV10
+p19
+aVdescription
+p20
+aVposition summary
+p21
+aVdevelops applies
+p22
+aVmathematical statistical
+p23
+aVtheory method
+p24
+aVcollect organize
+p25
+aVinterpret summarize
+p26
+aVnumerical
+p27
+aVdata
+p28
+aVprovide usable
+p29
+aVinformation
+p30
+aVduty responsibility
+p31
+aVproduce innovative
+p32
+aVsolution
+p33
+aVdriven exploratory
+p34
+aVdata
+p35
+aVanalysis
+p36
+aVcomplex high-dimensional
+p37
+aVdatasets
+p38
+aVapplies knowledge
+p39
+aVstatistic machine
+p40
+aVlearning
+p41
+aVprogramming
+p42
+aVdata
+p43
+aVmodeling simulation
+p44
+aVadvanced mathematics
+p45
+aVrecognize pattern
+p46
+aVidentify opportunity
+p47
+aVpose business
+p48
+aVquestion make
+p49
+aVvaluable discovery
+p50
+aVleading prototype
+p51
+aVdevelopment
+p52
+aVproduct
+p53
+aVimprovement
+p54
+aVus flexible
+p55
+aVanalytical approach
+p56
+aVdesign develop
+p57
+aVevaluate predictive
+p58
+aVmodel
+p59
+aVadvanced
+p60
+aValgorithm
+p61
+aVlead optimal
+p62
+aVvalue extraction
+p63
+aVdata
+p64
+aVgenerates test
+p65
+aVhypothesis analyzes
+p66
+aVinterprets result
+p67
+aVproduct
+p68
+aVexperiment
+p69
+aVwork
+p70
+aVproduct
+p71
+aVengineer translate
+p72
+aVprototype new
+p73
+aVproduct service
+p74
+aVfeature
+p75
+aVprovide guideline
+p76
+aVlarge-scale implementation
+p77
+aVrequired qualification
+p78
+aVmust active
+p79
+aVt sci
+p80
+aVeducation experience
+p81
+aVtypically requires
+p82
+aVbachelor's degree
+p83
+aVequivalent five
+p84
+aVseven year
+p85
+aVrelated
+p86
+aVexperience
+p87
+aVphysical demand
+p88
+aVnormal demand
+p89
+aVassociated office
+p90
+aVenvironment
+p91
+aVability work
+p92
+aVcomputer long
+p93
+aVperiod communicate
+p94
+aVindividual telephone
+p95
+aVemail face
+p96
+aVface travel
+p97
+aVmay required
+p98
+aVcompany description
+p99
+aVcaci employ
+p100
+aVdiverse range
+p101
+aVtalent create
+p102
+aVenvironment fuel
+p103
+aVinnovation foster
+p104
+aVcontinuous improvement
+p105
+aVsuccess join
+p106
+aVcaci opportunity
+p107
+aVmake immediate
+p108
+aVimpact providing
+p109
+aVinformation
+p110
+aVsolution
+p111
+aVservice
+p112
+aVsupport
+p113
+aVnational security
+p114
+aVmission government
+p115
+aVtransformation intelligence
+p116
+aVdefense federal
+p117
+aVcivilian customer
+p118
+aVfortune magazine
+p119
+aVworld's admired
+p120
+aVcompany
+p121
+aVservice
+p122
+aVindustry caci
+p123
+aVmember fortune
+p124
+aV1000 largest
+p125
+aVcompany russell
+p126
+aV2000 index
+p127
+aVp smallcap600
+p128
+aVindex caci
+p129
+aVprovides dynamic
+p130
+aVcareer 20
+p131
+aV000 employee
+p132
+aVworldwide caci
+p133
+aVequal opportunity
+p134
+aVemployer -
+p135
+aVfemale minority
+p136
+aVprotected veteran
+p137
+aVindividual disability
+p138
+a.

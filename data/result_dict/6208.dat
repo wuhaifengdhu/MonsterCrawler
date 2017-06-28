@@ -2,27 +2,27 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'data science'
-p6
+p5
 aS'analytics'
-p7
+p6
 aS'engineering'
-p8
+p7
 aS'simulation'
-p9
+p8
 aS'genomics'
+p9
+aS'statistics'
 p10
-aS'education'
-p11
 aS'genetics'
-p12
+p11
 aS'big data'
-p13
+p12
 aS'critical thinking'
+p13
+aS'education'
 p14
 aS'research'
 p15
@@ -87,84 +87,48 @@ p44
 asS'major'
 p45
 (lp46
-S'communication'
+VStatistics
 p47
-aS'data science'
+aVData Science
 p48
-aS'analytics'
+aVEngineering
 p49
-aS'engineering'
+aVComputer Science
 p50
-aS'computer science engineering'
+aVBiological Engineering
 p51
-aS'statistic'
+aVMathematics
 p52
-aS'computational biolog'
+aVEnvironmental Engineering
 p53
-aS'information'
+aVOperations Research
 p54
-aS'statistical genetics'
+aVChemical Engineering
 p55
-aS'genetics'
-p56
-aS'big data'
-p57
-aS'computer science'
-p58
-aS'mathematics'
-p59
-aS'operations research'
-p60
-aS'biology'
-p61
-aS'computational biology'
-p62
-aS'environmental science'
-p63
-aS'phd'
-p64
-aS'bioinformatics'
-p65
-aS'automation'
-p66
-aS'life sciences'
-p67
-aS'chemistry'
-p68
-aS'science'
-p69
-aS'machine learning'
-p70
-aS'biotechnology'
-p71
-aS'mathematics computer science'
-p72
 asS'education'
-p73
-(lp74
+p56
+(lp57
 VBachelor
-p75
+p58
 aVMaster
-p76
+p59
 aVDoctor
-p77
+p60
 asS'responsibility'
-p78
-(lp79
+p61
+(lp62
 S'development'
-p80
+p63
 aS'information'
-p81
-aVinsight
-p82
-aS'statistical model'
-p83
-aS'analytical method'
-p84
-aS'modeling'
-p85
+p64
+aS'insight'
+p65
 aS'simulation'
-p86
+p66
+aS'analytical method'
+p67
+aS'modeling'
+p68
 aS'presentation'
-p87
+p69
 as.

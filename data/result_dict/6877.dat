@@ -2,84 +2,90 @@
 S'skills'
 p2
 (lp3
-S'data collection'
+S'communication'
 p4
-aS'word'
-p5
-aS'programming'
-p6
-aS'powerpoint'
-p7
-aS'data scientist'
-p8
-aS'collaboration'
-p9
 aS'testing'
-p10
-aS'excel'
-p11
-aS'analysis'
-p12
-aS'research'
-p13
-aS'leadership'
-p14
-aS'data quality'
-p15
+p5
 aS'statistical analysis'
-p16
-aS'communication'
-p17
-aS'management'
-p18
+p6
 aS'sap'
+p7
+aS'statistics'
+p8
+aS'excel'
+p9
+aS'research'
+p10
+aS'coaching'
+p11
+aS'user acceptance testing'
+p12
+aS'data management'
+p13
+aS'clinical research'
+p14
+aS'collaboration'
+p15
+aS'data scientist'
+p16
+aS'data quality'
+p17
+aS'leadership'
+p18
+aS'mentoring'
 p19
 aS'data'
 p20
-aS'user acceptance testing'
-p21
-aS'data management'
-p22
-aS'clinical research'
-p23
-asS'working-year'
-p24
-(lp25
-V(0, 2]
-p26
-aV(2, 5]
-p27
-asS'major'
-p28
-(lp29
-S'communication'
-p30
-aS'management'
-p31
-aS'design'
-p32
-asS'education'
-p33
-(lp34
-S'Bachelor'
-p35
-asS'responsibility'
-p36
-(lp37
-S'development'
-p38
 aS'data collection'
-p39
-aS'communicate'
-p40
-aS'collect data'
-p41
-aS'design'
-p42
+p21
+aS'word'
+p22
+aS'programming'
+p23
 aS'analysis'
+p24
+aS'management'
+p25
+aS'powerpoint'
+p26
+asS'working-year'
+p27
+(lp28
+V(0, 2]
+p29
+aV(2, 5]
+p30
+asS'major'
+p31
+(lp32
+VStatistics
+p33
+aVManagement Science and Engineering
+p34
+asS'education'
+p35
+(lp36
+VBachelor
+p37
+aVMaster
+p38
+asS'responsibility'
+p39
+(lp40
+S'development'
+p41
+aS'data collection'
+p42
+aS'communicate'
 p43
-aS'identify trend'
+aS'collect data'
 p44
-aS'report'
+aS'design'
 p45
+aS'analysis'
+p46
+aS'report'
+p47
+aS'identify ... trend'
+p48
 as.

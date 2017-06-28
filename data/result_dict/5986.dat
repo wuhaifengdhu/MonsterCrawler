@@ -4,15 +4,16 @@ p2
 (lp3
 S'xml'
 p4
+aS'a'
 aS'saas'
 p5
 aS'omniture'
 p6
-aS'data scientist'
-p7
-aS'marketing'
-p8
 aS'excel'
+p7
+aS'sql'
+p8
+aS'data scientist'
 p9
 aS'performance measurement'
 p10
@@ -22,11 +23,11 @@ aS'research'
 p12
 aS'analytics'
 p13
-aS'html'
+aS'materials'
 p14
 aS'google analytics'
 p15
-aS'sql'
+aS'marketing'
 p16
 aS'intelligence'
 p17
@@ -36,44 +37,48 @@ aS'strategy'
 p19
 aS'data'
 p20
-asS'working-year'
+aS'html'
 p21
-(lp22
-V[0]
+aS'css'
+p22
+asS'working-year'
 p23
+(lp24
+S'[0]'
+p25
 asS'major'
-p24
-(lp25
-S'marketing'
 p26
-aS'management'
-p27
-aS'design'
+(lp27
+VData Science
 p28
-aS'business'
+aVEconomics
 p29
-aS'analytics'
+aVBusiness
 p30
-asS'education'
+aVManagement Science and Engineering
 p31
-(lp32
-S'Bachelor'
-p33
-asS'responsibility'
+asS'education'
+p32
+(lp33
+VMaster
 p34
-(lp35
-Vinsight
-p36
-aS'communicate'
+asS'responsibility'
+p35
+(lp36
+S'insight'
 p37
-aS'analysis'
+aS'communicate'
 p38
-aS'design'
+aS'analysis'
 p39
-aS'report'
+aS'forecast'
 p40
-aS'model'
+aS'design'
 p41
-aS'build solution'
+aS'report'
 p42
+aS'model'
+p43
+aS'build solution'
+p44
 as.

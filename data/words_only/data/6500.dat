@@ -4,229 +4,217 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.004611254478798104
 sS'communication'
 p5
-I1
-sS'pig'
+F0.0064619157514728843
+sS'testing'
 p6
-I1
-sS'quality control'
+F0.004178322479387782
+sS'pig'
 p7
-I1
-sS'data warehousing'
+F0.0055074044390120234
+sS'quality control'
 p8
-I1
-sS'problem solving'
+F0.0098202287770708854
+sS'data warehousing'
 p9
-I1
-sS'education'
+F0.0062071229830291709
+sS'analysis'
 p10
-I1
-sS'quantitative analysis'
+F0.00069922188113087744
+sS'problem solving'
 p11
-I1
-sS'visualization'
+F0.0050094119692923496
+sS'education'
 p12
-I1
-sS'management'
+F0.004282911734312795
+sS'quantitative analysis'
 p13
-I1
-sS'big data'
+F0.015567356498042575
+sS'visualization'
 p14
-I1
-sS'excel'
+F0.0038250923917019786
+sS'statistics'
 p15
-I1
-sS'hadoop'
+F0.001903087458780826
+sS'big data'
 p16
-I1
-sS'research'
+F0.0025973982170666688
+sS'excel'
 p17
-I1
-sS'access'
+F0.0032999065853185012
+sS'hadoop'
 p18
-I1
-sS'statistical software'
+F0.005244108168977816
+sS'research'
 p19
-I1
-sS'computer science'
+F0.0069645742176468435
+sS'access'
 p20
-I1
-sS'visio'
+F0.004733595969584602
+sS'statistical software'
 p21
-I1
-sS'ms office suite'
+F0.0080316272883622225
+sS'computer science'
 p22
-I1
-sS'data analysis'
+F0.002869353598341267
+sS'visio'
 p23
-I1
-sS'distributed computing'
+F0.0088639819325692128
+sS'ms office suite'
 p24
-I1
-sS'customer service'
+F0.012448490816634116
+sS'data analysis'
 p25
-I1
-sS'data scientist'
+F0.0030280857448278884
+sS'distributed computing'
 p26
-I1
-sS'data quality'
+F0.0073008091070598221
+sS'customer service'
 p27
-I1
-sS'statistical modeling'
+F0.0069969790665053919
+sS'data scientist'
 p28
-I1
-sS'sql'
+F0.0021619829901303642
+sS'data quality'
 p29
-I1
-sS'modeling'
+F0.0072139552309922932
+sS'management'
 p30
-I1
-sS'spark'
+F0.0036981586416312338
+sS'statistical modeling'
 p31
-I1
-sS'data'
+F0.0036558480003885644
+sS'sql'
 p32
-I1
-sS'customer relations'
+F0.0027834443217675392
+sS'modeling'
 p33
-I1
-sS'customer experience'
+F0.001657440181676638
+sS'spark'
 p34
-I1
-sS'b testing'
+F0.0034410931088074666
+sS'data'
 p35
-I1
-sS'word'
+F0.0045988332032958889
+sS'customer experience'
 p36
-I1
-sS'economics'
+F0.0078185640846658074
+sS'word'
 p37
-I1
-sS'programming'
+F0.0056911605320369733
+sS'science'
 p38
-I1
-sS'hive'
+F0.001434763037130801
+sS'economics'
 p39
-I1
-sS'r'
-I1
-sS'english'
+F0.0048907996415499212
+sS'programming'
 p40
-I1
-ssS'working-year'
+F0.0067488687847033213
+sS'hive'
 p41
-(dp42
-V(5, 10]
+F0.0042566413254898098
+sS'r'
+F0.0022652747208732294
+sS'english'
+p42
+F0.0068937731662316488
+sS'physics'
 p43
-I1
-ssS'major'
+F0.0049654783213197214
+ssS'working-year'
 p44
 (dp45
-S'information'
+V(5, 10]
 p46
-I1
-sS'management'
+F0.0024604984930139979
+ssS'major'
 p47
-I1
-sS'business'
-p48
-I1
-sS'big data'
+(dp48
+VStatistics
 p49
-I1
-sS'statistics economics'
+F0.0036765403467103682
+sVBusiness
 p50
-I1
-sS'communication'
+F0.0022075803003553354
+sVEconomics
 p51
-I1
-sS'economics'
+F0.0033485133622948183
+sVComputer Science
 p52
-I1
-sS'phd'
+F0.0018476647884738732
+sVPhysics
 p53
-I1
-sS'computing'
+F0.005354555308571614
+sVManagement Science and Engineering
 p54
-I1
-sS'computer science'
-p55
-I1
-sS'statistic'
-p56
-I1
-sS'design'
-p57
-I1
-sVphysic
-p58
-I1
-sS'english'
-p59
-I1
+F0.0026317235478956992
 ssS'education'
-p60
-(dp61
-VDoctor
-p62
-I1
+p55
+(dp56
+VMaster
+p57
+F0.0014842462963758714
+sVDoctor
+p58
+F0.0022228199424009555
 ssS'responsibility'
-p63
-(dp64
-S'large data set'
-p65
-I1
-sS'complex data set'
-p66
-I1
+p59
+(dp60
+S'information'
+p61
+F0.0028308269378150915
+sS'product'
+p62
+F0.0027448834504443811
 sS'data analysis'
-p67
-I1
-sS'information'
-p68
-I1
-sS'quantitative analysis'
-p69
-I1
-sVinsight
-p70
-I1
-sS'communicate'
-p71
-I1
-sS'cross-functionally'
-p72
-I1
-sS'statistical model'
-p73
-I1
-sS'analytic'
-p74
-I1
-sS'statistical method'
-p75
-I1
-sS'understand'
-p76
-I1
-sS'modeling'
-p77
-I1
-sS'report'
-p78
-I1
-sS'design'
-p79
-I1
-sS'implement'
-p80
-I1
-sS'extract'
-p81
-I1
+p63
+F0.0030280857448278884
+sS'large data set'
+p64
+F0.006417259459862993
 sS'evaluation'
-p82
-I1
+p65
+F0.0069049860894421985
+sS'insight'
+p66
+F0.0074893606367734096
+sS'communicate'
+p67
+F0.0081887464582922134
+sS'cross-functionally'
+p68
+F0.010384007172292231
+sS'analysis'
+p69
+F0.00069922188113087744
+sS'analytic'
+p70
+F0.013822812075303935
+sS'complex data set'
+p71
+F0.010206434078127434
+sS'understand'
+p72
+F0.0085782849528337774
+sS'modeling'
+p73
+F0.001657440181676638
+sS'report'
+p74
+F0.008470516000703792
+sS'design'
+p75
+F0.011921786204232471
+sS'implement'
+p76
+F0.0043221697451420564
+sS'extract'
+p77
+F0.0063136908789853674
+sS'quantitative analysis'
+p78
+F0.015567356498042575
 ss.

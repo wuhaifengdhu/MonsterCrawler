@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'product development'
+S'a'
+aS'product development'
 p4
 aS'credit'
 p5
@@ -12,68 +13,58 @@ aS'collaboration'
 p7
 aS'innovation'
 p8
-aS'data scientist'
+aS'analysis'
 p9
-aS'analysis'
-p10
 aS'strategy'
+p10
+aS'analytics'
 p11
-aS'analytics'
-p12
 aS'leadership'
-p13
+p12
 aS'financial services'
-p14
+p13
 aS'personalization'
-p15
+p14
 aS'policy'
-p16
+p15
 aS'laboratory'
-p17
+p16
 aS'government'
-p18
+p17
 aS'data'
-p19
+p18
 aS'finance'
-p20
+p19
 asS'working-year'
-p21
-(lp22
+p20
+(lp21
 V(5, 10]
-p23
+p22
 aV(0, 2]
-p24
+p23
 aV(2, 5]
-p25
+p24
 asS'major'
-p26
-(lp27
-S'finance'
+p25
+(lp26
+VData Science
+p27
+aVEconomics
 p28
-aS'business'
+aVBusiness
 p29
-aS'marketing'
-p30
-aS'general'
-p31
-aS'analytics'
-p32
-aS'marketing analysis'
-p33
-aS'law'
-p34
 asS'education'
-p35
-(lp36
+p30
+(lp31
 VDoctor
-p37
+p32
 asS'responsibility'
-p38
-(lp39
+p33
+(lp34
 S'development'
-p40
+p35
 aS'product'
-p41
+p36
 aS'analysis'
-p42
+p37
 as.

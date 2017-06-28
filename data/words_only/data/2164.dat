@@ -2,252 +2,248 @@
 S'skills'
 p2
 (dp3
-S'text analytics'
+S'neural networks'
 p4
-I1
-sS'intelligence'
+F0.009460474124220318
+sS'text analytics'
 p5
-I1
-sS'data science'
+F0.012424068921179428
+sS'intelligence'
 p6
-I1
-sS'decision support'
-p7
-I1
-sS'tableau'
-p8
-I1
-sS'analytics'
-p9
-I1
-sS'business intelligence'
-p10
-I1
-sS'defense'
-p11
-I1
-sS'gephi'
-p12
-I1
-sS'hive'
-p13
-I1
-sS'data mining'
-p14
-I1
-sS'mapreduce'
-p15
-I1
-sS'education'
-p16
-I1
-sS'd3'
-p17
-I1
-sS'big data'
-p18
-I1
-sS'deep learning'
-p19
-I1
-sS'sharepoint'
-p20
-I1
-sS'integration'
-p21
-I1
-sS'user interface'
-p22
-I1
-sS'computer science'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'algorithm development'
-p25
-I1
-sS'energy'
-p26
-I1
-sS'python'
-p27
-I1
-sS'javascript'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'ggplot'
-p30
-I1
-sS'matplotlib'
-p31
-I1
-sS'data quality'
-p32
-I1
-sS'user interface design'
-p33
-I1
-sS'mentoring'
-p34
-I1
-sS'computational linguistics'
-p35
-I1
-sS'sql'
-p36
-I1
-sS'spark'
-p37
-I1
-sS'data'
-p38
-I1
-sS'data visualization'
-p39
-I1
-sS'science'
-p40
-I1
-sS'engineering'
-p41
-I1
-sS'analysis'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'data integration'
-p44
-I1
-sS'r'
-I1
-sS'etl'
-p45
-I1
-sS'hadoop'
-p46
-I1
-sS'dod'
-p47
-I1
-sS'statistical analysis'
-p48
-I1
-ssS'working-year'
-p49
-(dp50
-V(5, 10]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'information'
-p54
-I1
-sS'information systems'
-p55
-I1
-sS'business'
-p56
-I1
-sS'big data'
-p57
-I1
-sS'mathematics statistics'
-p58
-I1
-sS'machine learning'
-p59
-I1
-sS'science'
-p60
-I1
+F0.0091282477318998783
 sS'data science'
-p61
-I1
-sS'data mining'
-p62
-I1
-sS'phd'
-p63
-I1
-sS'computational linguistics'
-p64
-I1
+p7
+F0.0034966305978505791
+sS'decision support'
+p8
+F0.012911459180153403
+sS'tableau'
+p9
+F0.0058401921137319528
 sS'analytics'
-p65
-I1
-sS'engineering'
-p66
-I1
-sS'information system'
-p67
-I1
-sS'design'
-p68
-I1
+p10
+F0.0025283065755335077
+sS'business intelligence'
+p11
+F0.0059390793859721543
+sS'defense'
+p12
+F0.020532779964699058
+sS'gephi'
+p13
+F0.016719345176261995
+sS'hive'
+p14
+F0.0060632390973546701
+sS'data mining'
+p15
+F0.0061685445601224924
+sS'mapreduce'
+p16
+F0.015329659982301864
+sS'education'
+p17
+F0.0061006591564339218
+sS'd3'
+p18
+F0.0087796316633293424
+sS'statistics'
+p19
+F0.0027107931825657108
+sS'java'
+p20
+F0.003602520254849661
+sS'big data'
+p21
+F0.0036997823440775221
+sS'deep learning'
+p22
+F0.0090539002409693332
+sS'sharepoint'
+p23
+F0.013469275899261135
+sS'management'
+p24
+F0.0026338629860455003
+sS'integration'
+p25
+F0.02011258536797627
+sS'user interface'
+p26
+F0.013177007873090127
 sS'computer science'
-p69
-I1
-sS'statistic'
-p70
-I1
-sS'computer science mathematics'
-p71
-I1
-sVphysic
-p72
-I1
-sS'data mining machine learning'
-p73
-I1
-ssS'education'
-p74
-(dp75
-VBachelor
-p76
-I1
-sVDoctor
-p77
-I1
-ssS'responsibility'
-p78
-(dp79
-S'development'
-p80
-I1
-sS'information'
-p81
-I1
-sS'product'
-p82
-I1
+p27
+F0.00408716064880006
+sS'mathematics'
+p28
+F0.010627286523696546
+sS'dod'
+p29
+F0.012272037666498569
+sS'application development'
+p30
+F0.011136908143855364
+sS'energy'
+p31
+F0.0089694630989828033
+sS'python'
+p32
+F0.0030305320508910811
+sS'javascript'
+p33
+F0.0064460599244823948
+sS'data scientist'
+p34
+F0.0030795687940810413
+sS'ggplot'
+p35
+F0.016473539630905178
+sS'matplotlib'
+p36
+F0.013151839357774118
+sS'data quality'
+p37
+F0.010275692044145999
+sS'leadership'
+p38
+F0.0048035134337320404
+sS'mentoring'
+p39
+F0.0100003305275551
+sS'computational linguistics'
+p40
+F0.014498137993095607
+sS'algorithm development'
+p41
+F0.012235240544626906
+sS'spark'
+p42
+F0.0098031140890445269
+sS'data'
+p43
+F0.0051715765061543422
+sS'c'
+F0.0036355288485409804
+sS'data visualization'
+p44
+F0.0057172489115686074
+sS'science'
+p45
+F0.0061311094900647596
+sS'engineering'
+p46
+F0.007121248703916597
 sS'analysis'
+p47
+F0.00099598465626200556
+sS'machine learning'
+p48
+F0.0019055747727733702
+sS'r'
+F0.0032266994570577974
+sS'data integration'
+p49
+F0.011251921977998786
+sS'sql'
+p50
+F0.0019823949384681601
+sS'hadoop'
+p51
+F0.0074698052406951447
+sS'physics'
+p52
+F0.0070729197018798351
+sS'etl'
+p53
+F0.0082841996337650655
+sS'statistical analysis'
+p54
+F0.0074845934692226975
+ssS'working-year'
+p55
+(dp56
+V(5, 10]
+p57
+F0.0035047798301652872
+ssS'major'
+p58
+(dp59
+VLinguistics
+p60
+F0.015217343451573143
+sVStatistics
+p61
+F0.0052369324706048838
+sVBusiness
+p62
+F0.0031445184510875412
+sVData Science
+p63
+F0.0029863051819914613
+sVEngineering
+p64
+F0.007121248703916597
+sVInformation Science
+p65
+F0.0073623697341688773
+sVComputer Science
+p66
+F0.00263184809986104
+sVMathematics
+p67
+F0.0049833503766931742
+sVPhysics
+p68
+F0.0076271282011630536
+sVManagement Science and Engineering
+p69
+F0.0037486759839211988
+ssS'education'
+p70
+(dp71
+VBachelor
+p72
+F0.0026493570571799615
+sVMaster
+p73
+F0.0021141880384423746
+sVDoctor
+p74
+F0.0031662260807455464
+ssS'responsibility'
+p75
+(dp76
+S'development'
+p77
+F0.01760117736067033
+sS'information'
+p78
+F0.012096847670314487
+sS'product'
+p79
+F0.0039098630544120543
+sS'analysis'
+p80
+F0.00099598465626200556
+sS'design'
+p81
+F0.0042454035174955742
+sS'data mining'
+p82
+F0.0061685445601224924
+sS'interface'
 p83
-I1
+F0.0091789453446223211
 sS'analytical method'
 p84
-I1
-sS'design experiment'
-p85
-I1
-sS'data mining'
-p86
-I1
-sS'interface'
-p87
-I1
-sS'design'
-p88
-I1
+F0.015598237661113156
 sS'model'
-p89
-I1
+p85
+F0.0089965746622188425
+sS'design ... experiment'
+p86
+F0.013053289422372542
+sS'decision making'
+p87
+F0.009495880959097423
 ss.

@@ -2,35 +2,35 @@
 S'skills'
 p2
 (lp3
-S'.net'
+S'communication'
 p4
-aS'communication'
+aS'hardware'
 p5
 aS'troubleshooting'
 p6
 aS'strategy'
 p7
-aS'technical communication'
-p8
 aS'editing'
-p9
+p8
 aS'java'
-p10
+p9
 aS'data'
-p11
+p10
 aS'writing'
+p11
+aS'teamwork'
 p12
 aS'computer science'
 p13
 aS'google cloud platform'
 p14
-aS'architecture'
+aS'customer support'
 p15
 aS'data analysis'
 p16
 aS'government'
 p17
-aS'data scientist'
+aS'python'
 p18
 aS'scalability'
 p19
@@ -54,66 +54,58 @@ aS'documentation'
 p28
 aS'analysis'
 p29
-aS'customer support'
+aS'materials'
 p30
-aS'organization'
+aS'architecture'
 p31
-aS'security'
+aS'organization'
 p32
-aS'information architecture'
+aS'security'
 p33
-asS'working-year'
+aS'information architecture'
 p34
-(lp35
+asS'working-year'
+p35
+(lp36
 V(0, 2]
-p36
-aV(2, 5]
 p37
-asS'major'
+aV(2, 5]
 p38
-(lp39
-S'information'
-p40
-aS'business'
+asS'major'
+p39
+(lp40
+VEconomics
 p41
-aS'computing'
+aVComputer Science
 p42
-aS'communication'
+aVBusiness
 p43
-aS'mba'
-p44
-aS'design'
-p45
-aS'computer science'
-p46
-aS'science'
-p47
-aS'ee computer science'
-p48
 asS'education'
-p49
-(lp50
-S'Bachelor'
-p51
+p44
+(lp45
+VBachelor
+p46
+aVMaster
+p47
 asS'responsibility'
-p52
-(lp53
+p48
+(lp49
 S'development'
-p54
+p50
 aS'information'
-p55
+p51
 aS'product'
-p56
+p52
 aS'data analysis'
-p57
+p53
 aS'architect system'
-p58
+p54
 aS'documentation'
-p59
+p55
 aS'analysis'
-p60
+p56
 aS'design'
-p61
+p57
 aS'evaluation'
-p62
+p58
 as.

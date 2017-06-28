@@ -8,7 +8,7 @@ aS'communication'
 p5
 aS'avro'
 p6
-aS'tableau'
+aS'hadoop'
 p7
 aS'analytics'
 p8
@@ -28,149 +28,142 @@ aS'clustering'
 p15
 aS'visualization'
 p16
-aS'java'
+aS'statistics'
 p17
-aS'big data'
+aS'java'
 p18
-aS'anomaly detection'
+aS'big data'
 p19
-aS'hdfs'
+aS'anomaly detection'
 p20
-aS'hadoop'
+aS'hdfs'
 p21
-aS'research'
+aS'physics'
 p22
-aS'strategy'
+aS'tableau'
 p23
-aS'json'
+aS'research'
 p24
-aS'computer science'
+aS'strategy'
 p25
-aS'intelligence'
+aS'json'
 p26
-aS'mathematics'
+aS'computer science'
 p27
-aS'unstructured data'
+aS'intelligence'
 p28
-aS'operating systems'
+aS'mathematics'
 p29
-aS'statistical data analysis'
+aS'unstructured data'
 p30
-aS'data analysis'
+aS'operating systems'
 p31
-aS'shiny'
+aS'statistical data analysis'
 p32
-aS'pyspark'
+aS'data analysis'
 p33
-aS'python'
+aS'shiny'
 p34
-aS'mongodb'
+aS'pyspark'
 p35
-aS'data scientist'
+aS'python'
 p36
-aS'automation'
+aS'mongodb'
 p37
-aS'hive'
+aS'data scientist'
 p38
-aS'sql'
+aS'automation'
 p39
-aS'modeling'
+aS'hive'
 p40
-aS'pig'
+aS'sql'
 p41
-aS'data'
+aS'modeling'
 p42
-aS'cloudera'
+aS'pig'
 p43
-aS'data visualization'
+aS'data'
 p44
-aS'science'
+aS'c'
+aS'cloudera'
 p45
-aS'scala'
+aS'data visualization'
 p46
-aS'programming'
+aS'windows'
 p47
-aS'impala'
+aS'science'
 p48
-aS'security clearance'
+aS'scala'
 p49
-aS'machine learning'
+aS'programming'
 p50
+aS'impala'
+p51
+aS'security clearance'
+p52
+aS'machine learning'
+p53
 aS'r'
 aS'elasticsearch'
-p51
-aS'deep learning'
-p52
-aS'security'
-p53
-aS'rapid prototyping'
 p54
-aS'etl'
+aS'deep learning'
 p55
-asS'working-year'
+aS'security'
 p56
-(lp57
-V(0, 2]
+aS'rapid prototyping'
+p57
+aS'etl'
 p58
-asS'major'
+asS'working-year'
 p59
 (lp60
-S'big data'
+V(0, 2]
 p61
-aS'physics mathematics'
+asS'major'
 p62
-aS'analytics'
-p63
-aS'science'
+(lp63
+VStatistics
 p64
-aS'computing'
+aVBusiness
 p65
-aS'communication'
+aVData Science
 p66
-aS'automation'
+aVComputer Science
 p67
-aS'business'
+aVMathematics
 p68
-aS'mathematics statistics'
+aVPhysics
 p69
-aS'computer science'
-p70
-aS'statistic'
-p71
-aS'mathematics'
-p72
-aS'machine learning'
-p73
-aVphysic
-p74
 asS'education'
-p75
-(lp76
+p70
+(lp71
 VBachelor
-p77
+p72
 asS'responsibility'
-p78
-(lp79
+p73
+(lp74
 S'development'
-p80
+p75
 aS'data analysis'
-p81
-aVinsight
-p82
-aS'communicate'
-p83
-aS'analysis'
-p84
-aS'analytic'
-p85
-aS'statistical method'
-p86
-aS'understand'
-p87
-aS'modeling'
-p88
-aS'implement'
-p89
+p76
 aS'presentation'
-p90
+p77
+aS'insight'
+p78
+aS'communicate'
+p79
+aS'analysis'
+p80
+aS'analytic'
+p81
+aS'statistical method'
+p82
+aS'understand'
+p83
+aS'modeling'
+p84
+aS'implement'
+p85
+aS'extract'
+p86
 as.

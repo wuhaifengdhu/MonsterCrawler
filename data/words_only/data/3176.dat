@@ -4,92 +4,77 @@ p2
 (dp3
 S'management'
 p4
-I1
+F0.0054581257060220016
 sS'python'
 p5
-I1
+F0.0031400693539353373
 sS'science'
 p6
-I1
+F0.0084702878095673784
 sS'data science'
 p7
-I1
+F0.007246029672654212
 sS'processing'
 p8
-I1
-sS'data scientist'
+F0.0098378800401850604
+sS'machine learning'
 p9
-I1
-sS'machine learning'
+F0.0039489019387592729
+sS'engineering'
 p10
-I1
-sS'engineering'
-p11
-I1
+F0.0073786432353834617
 sS'sql'
+p11
+F0.0041080955351388377
+sS'natural language processing'
 p12
-I1
-sS'natural language processing'
-p13
-I1
+F0.015096133325062065
 sS'data'
-p14
-I1
+p13
+F0.0035723339721226784
 ssS'working-year'
-p15
-(dp16
+p14
+(dp15
 V(5, 10]
-p17
-I1
+p16
+F0.007262917238414812
 sV(2, 5]
-p18
-I1
+p17
+F0.007463520653199612
 ssS'major'
-p19
-(dp20
-S'management'
+p18
+(dp19
+VData Science
+p20
+F0.0061884878470184496
+sVManagement Science and Engineering
 p21
-I1
-sS'business'
+F0.0077683405931860995
+sVEngineering
 p22
-I1
-sS'science'
+F0.0073786432353834617
+sVBusiness
 p23
-I1
-sS'data science'
+F0.0065163514890006881
+sVComputer Science
 p24
-I1
-sS'natural language processing'
-p25
-I1
-sS'phd'
-p26
-I1
-sS'engineering'
-p27
-I1
-sS'statistic'
-p28
-I1
-sS'machine learning'
-p29
-I1
+F0.0054539502792301069
 ssS'education'
-p30
-(dp31
+p25
+(dp26
 VDoctor
-p32
-I1
+p27
+F0.0065613359745570364
 ssS'responsibility'
-p33
-(dp34
+p28
+(dp29
 S'development'
-p35
-I1
+p30
+F0.0072949457976754142
 sS'product'
-p36
-I1
+p31
+F0.0081023668115526911
 sS'processing'
-p37
-I1
+p32
+F0.0098378800401850604
 ss.

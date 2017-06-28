@@ -37,6 +37,12 @@ class HTMLHelper(object):
         return os.linesep.join([s for s in clean_text.splitlines() if len(s.strip()) > 0])
 
     @staticmethod
+    def get_company_name(web_source):
+        soup = BeautifulSoup(web_source, 'lxml')
+        posts = soup.find_all('h4', class_='company')
+        return [str(post.contents[0]).strip() for post in posts]
+
+    @staticmethod
     def get_post(web_source):
         if not TextHelper.contain(web_source, 'data scientist'):
             print ("Not contain data scientist")

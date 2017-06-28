@@ -2,183 +2,180 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'data science'
 p4
-I1
-sS'data science'
+F0.0039567135712519708
+sS'analytics'
 p5
-I1
-sS'mathematical modeling'
+F0.005721956986733728
+sS'engineering'
 p6
-I1
-sS'machine learning'
+F0.0040291275561633371
+sS'mathematical modeling'
 p7
-I1
-sS'quantitative analysis'
-p8
-I1
-sS'open source'
-p9
-I1
-sS'big data'
-p10
-I1
-sS'recruiting'
-p11
-I1
-sS'research'
-p12
-I1
-sS'big data analytics'
-p13
-I1
-sS'r'
-I1
-sS'computer science'
-p14
-I1
-sS'policy'
-p15
-I1
-sS'algorithm development'
-p16
-I1
-sS'text mining'
-p17
-I1
-sS'collaboration'
-p18
-I1
-sS'philosophy'
-p19
-I1
-sS'mathematics'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'software development'
-p22
-I1
-sS'training'
-p23
-I1
-sS'solver'
-p24
-I1
-sS'linear algebra'
-p25
-I1
-sS'simulation'
-p26
-I1
-sS'optimization'
-p27
-I1
-sS'data analytics'
-p28
-I1
-ssS'working-year'
-p29
-(dp30
-V(10, 15]
-p31
-I1
-ssS'major'
-p32
-(dp33
-S'information'
-p34
-I1
-sS'physics mathematics'
-p35
-I1
-sS'big data'
-p36
-I1
-sS'business'
-p37
-I1
-sS'data science'
-p38
-I1
-sS'philosophy'
-p39
-I1
+F0.0078296042116537592
 sS'machine learning'
-p40
-I1
+p8
+F0.0021563082955067081
+sS'quantitative analysis'
+p9
+F0.025092120671187042
+sS'open source'
+p10
+F0.010519472828677942
+sS'big data'
+p11
+F0.0041865958104035112
+sS'recruiting'
+p12
+F0.011345060034925627
+sS'research'
+p13
+F0.0028064484923083495
 sS'big data analytics'
-p41
-I1
-sS'engineering physics'
-p42
-I1
-sS'computer science engineering'
-p43
-I1
-sS'data analytics'
-p44
-I1
-sS'mathematics'
-p45
-I1
-sS'general'
-p46
-I1
-sS'ee computer science'
-p47
-I1
-sVphysic
-p48
-I1
+p14
+F0.010902201002462105
+sS'r'
+F0.001825632587545859
 sS'computer science'
-p49
-I1
+p15
+F0.0046249449446948048
+sS'policy'
+p16
+F0.017958277816057563
+sS'algorithm development'
+p17
+F0.01384514061628834
+sS'text mining'
+p18
+F0.010810476741613831
+sS'collaboration'
+p19
+F0.0084133862502416244
+sS'philosophy'
+p20
+F0.016316878237455618
+sS'mathematics'
+p21
+F0.0060128068489335718
+sS'modeling'
+p22
+F0.0026715318717814227
+sS'data'
+p23
+F0.0015605458930851698
+sS'software development'
+p24
+F0.0069743309805041856
+sS'training'
+p25
+F0.0077411011546787145
+sVbayesian method
+p26
+F0.016145959273535425
+sS'collaborative filtering'
+p27
+F0.015087086821152914
+sS'solver'
+p28
+F0.014194015867521163
+sS'science'
+p29
+F0.0023126114743226723
+sS'analysis'
+p30
+F0.001127035268928059
+sS'simulation'
+p31
+F0.0088316966699814852
+sS'optimization'
+p32
+F0.0065789765045675729
+sS'linear algebra'
+p33
+F0.014482325687811059
+sS'organization'
+p34
+F0.0057999468397423723
+sS'physics'
+p35
+F0.0080035670310745505
+sS'data analytics'
+p36
+F0.0067181667154138057
+ssS'working-year'
+p37
+(dp38
+V(10, 15]
+p39
+F0.0064389024874946009
+ssS'major'
+p40
+(dp41
+VBusiness
+p42
+F0.0035582708788622175
+sVData Science
+p43
+F0.0033792400743587587
+sVEngineering
+p44
+F0.0074091412064694979
+sVComputer Science
+p45
+F0.0029781439024743343
+sVMathematics
+p46
+F0.0056390543736264866
+sVPhysics
+p47
+F0.0086306977013160865
 ssS'education'
-p50
-(dp51
+p48
+(dp49
 VBachelor
-p52
-I1
+p50
+F0.0029979566699667982
 sVDoctor
-p53
-I1
+p51
+F0.0035828347755804866
 ssS'responsibility'
-p54
-(dp55
+p52
+(dp53
 S'development'
-p56
-I1
+p54
+F0.0039834243500464425
 sS'information'
-p57
-I1
+p55
+F0.0045628460510835347
+sS'evaluation'
+p56
+F0.011129747315219332
 sS'formulate'
-p58
-I1
+p57
+F0.014826113462709815
 sS'presentation'
+p58
+F0.0081031392839131799
+sS'analysis'
 p59
-I1
+F0.001127035268928059
 sS'simulation'
 p60
-I1
+F0.0088316966699814852
 sS'analytic'
 p61
-I1
+F0.014853460344076596
 sS'optimization'
 p62
-I1
-sS'quantitative analysis'
-p63
-I1
+F0.0065789765045675729
 sS'recommendation'
-p64
-I1
+p63
+F0.0085927688974285227
 sS'modeling'
+p64
+F0.0026715318717814227
+sS'quantitative analysis'
 p65
-I1
-sS'evaluation'
-p66
-I1
+F0.025092120671187042
 ss.

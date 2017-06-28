@@ -2,181 +2,183 @@
 S'skills'
 p2
 (dp3
-S'customer insight'
+S'data science'
 p4
-I1
-sS'data science'
-p5
-I1
+F0.0024153432242180702
 sS'analytics'
-p6
-I1
+p5
+F0.0052393823011055822
 sS'statistical analysis'
-p7
-I1
+p6
+F0.0051700806293425855
 sS'problem solving'
+p7
+F0.0049289394878579331
+sS'sas'
 p8
-I1
+F0.0027816001138100733
 sS'education'
 p9
-I1
+F0.0084282198787681492
 sS'programming languages'
 p10
-I1
+F0.0095722110176727302
 sS'predictive modeling'
 p11
-I1
+F0.0041747106600180115
 sS'unstructured data'
 p12
-I1
-sS'data modeling'
+F0.0064032297860505214
+sS'segmentation'
 p13
-I1
-sS'python'
+F0.0058153640805824105
+sS'data modeling'
 p14
-I1
-sS'marketing'
+F0.0052453850297555643
+sS'python'
 p15
-I1
-sS'data scientist'
-p16
-I1
-sS'mathematical analysis'
-p17
-I1
-sS'sql'
-p18
-I1
-sS'modeling'
-p19
-I1
-sS'data'
-p20
-I1
-sS'performance metrics'
-p21
-I1
-sS'data visualization'
-p22
-I1
-sS'science'
-p23
-I1
-sS'programming'
-p24
-I1
-sS'analysis'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'demand generation'
-p27
-I1
-sS'credit'
-p28
-I1
-sS'healthcare'
-p29
-I1
-sS'organization'
-p30
-I1
-sS'security'
-p31
-I1
-sS'validation'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'information'
-p38
-I1
-sS'health services'
-p39
-I1
-sS'business'
-p40
-I1
+F0.0010466897846451123
 sS'marketing'
-p41
-I1
-sS'data science'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'analytics'
-p44
-I1
+p16
+F0.019128659864232418
+sS'data scientist'
+p17
+F0.0021272523396865025
+sS'mathematical analysis'
+p18
+F0.0097091742489551613
+sS'sql'
+p19
+F0.0013693651783796125
+sS'modeling'
+p20
+F0.0016308146365894627
+sS'data'
+p21
+F0.0023815559814151189
+sS'performance metrics'
+p22
+F0.010986252617883026
+sS'data visualization'
+p23
+F0.0039492643083927723
 sS'science'
-p45
-I1
+p24
+F0.0014117146349278962
+sS'marketing analytics'
+p25
+F0.0077455787410437319
+sS'programming'
+p26
+F0.0044269688145978951
+sS'analysis'
+p27
+F0.0013759788022254212
+sS'machine learning'
+p28
+F0.0013163006462530908
+sS'demand generation'
+p29
+F0.012423236325682561
+sS'credit'
+p30
+F0.0063805920165414583
+sS'r'
+F0.0011144423827589179
+sS'healthcare'
+p31
+F0.0054161452676910922
+sS'organization'
+p32
+F0.0070810595955087593
+sS'security'
+p33
+F0.0043882546500397419
+sS'validation'
+p34
+F0.0063493218977411572
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0024209724128049369
+ssS'major'
+p38
+(dp39
+VData Science
+p40
+F0.0020628292823394829
+sVEconomics
+p41
+F0.0032947219829808447
+sVComputer Science
+p42
+F0.0018179834264100353
+sVBusiness
+p43
+F0.0021721171630002291
 ssS'education'
-p46
-(dp47
+p44
+(dp45
 VMaster
-p48
-I1
+p46
+F0.001460402982377865
 ssS'responsibility'
-p49
-(dp50
+p47
+(dp48
 S'development'
+p49
+F0.0024316485992251376
+sS'information'
+p50
+F0.022282814450271398
+sS'product'
 p51
-I1
+F0.0027007889371842299
 sS'large data set'
 p52
-I1
-sS'product'
-p53
-I1
-sS'business problem'
-p54
-I1
+F0.0063141709544836666
 sS'pattern'
-p55
-I1
-sVinsight
-p56
-I1
+p53
+F0.0052582150111930639
+sS'insight'
+p54
+F0.0036845248112640258
 sS'communicate'
-p57
-I1
+p55
+F0.0040286001652240803
 sS'analysis'
-p58
-I1
-sS'statistical model'
-p59
-I1
+p56
+F0.0013759788022254212
+sS'develop ... model'
+p57
+F0.0062247249541689505
 sS'analytic'
-p60
-I1
+p58
+F0.0090671725795166361
+sS'drive ... decision'
+p59
+F0.0081045838127090635
 sS'understand'
-p61
-I1
+p60
+F0.0084404811784910654
 sS'report'
-p62
-I1
+p61
+F0.004167221727253873
 sS'modeling'
+p62
+F0.0016308146365894627
+sS'model'
 p63
-I1
-sS'information'
+F0.0031072506865494794
+sS'statistical model'
 p64
-I1
+F0.0072105708948170585
 sS'presentation'
 p65
-I1
-sS'model'
+F0.0049464946632723017
+sS'decision making'
 p66
-I1
+F0.0065594037147178987
 ss.

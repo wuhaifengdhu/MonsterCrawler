@@ -2,13 +2,13 @@
 S'skills'
 p2
 (lp3
-S'reporting analysis'
+S'regression analysis'
 p4
-aS'regression analysis'
+aS'programming'
 p5
-aS'business strategy'
-p6
 aS'data science'
+p6
+aS'dashboards'
 p7
 aS'integration'
 p8
@@ -18,143 +18,136 @@ aS'data governance'
 p10
 aS'data mining'
 p11
-aS'tableau'
+aS'sas'
 p12
-aS'sap'
+aS'tableau'
 p13
-aS'regression'
+aS'sap'
 p14
-aS'visualization'
+aS'regression'
 p15
-aS'big data'
+aS'visualization'
 p16
-aS'predictive modeling'
+aS'big data'
 p17
-aS'excel'
+aS'predictive modeling'
 p18
-aS'hadoop'
+aS'excel'
 p19
-aS'governance'
+aS'hadoop'
 p20
-aS'strategy'
+aS'governance'
 p21
-aS'access'
+aS'strategy'
 p22
-aS'stata'
+aS'access'
 p23
-aS'advanced analytics'
+aS'stata'
 p24
-aS'unstructured data'
+aS'advanced analytics'
 p25
-aS'data analysis'
+aS'unstructured data'
 p26
-aS'web services'
+aS'data analysis'
 p27
-aS'python'
+aS'web services'
 p28
-aS'data scientist'
+aS'python'
 p29
-aS'data quality'
+aS'data scientist'
 p30
-aS'sql'
+aS'data quality'
 p31
-aS'modeling'
+aS'metrics'
 p32
-aS'spark'
+aS'sql'
 p33
-aS'data'
+aS'modeling'
 p34
-aS'statistical programming'
+aS'spark'
 p35
-aS'word'
+aS'data'
 p36
-aS'data visualization'
+aS'statistical programming'
 p37
-aS'sql server'
+aS'a'
+aS'word'
 p38
-aS'science'
+aS'data visualization'
 p39
-aS'programming'
+aS'sql server'
 p40
-aS'analysis'
+aS'science'
 p41
-aS'spss'
+aS'business strategy'
 p42
+aS'analysis'
+p43
+aS'spss'
+p44
 aS'r'
 aS'dashboard'
-p43
-aS'oracle'
-p44
-aS'organization'
 p45
-aS'microsoft office'
+aS'oracle'
 p46
-aS'powerpoint'
+aS'organization'
 p47
-aS'data analytics'
+aS'microsoft office'
 p48
-asS'working-year'
+aS'powerpoint'
 p49
-(lp50
-V(5, 10]
-p51
-aV(2, 5]
-p52
-asS'major'
-p53
-(lp54
-S'business'
-p55
-aS'big data'
-p56
-aS'science'
-p57
-aS'data science'
-p58
-aS'data science analytics'
-p59
-aS'analytics'
-p60
-aS'design'
-p61
-aS'data mining'
-p62
-aS'advanced analytics'
-p63
 aS'data analytics'
-p64
+p50
+asS'working-year'
+p51
+(lp52
+V(5, 10]
+p53
+aV(2, 5]
+p54
+asS'major'
+p55
+(lp56
+VData Science
+p57
+aVComputer Science
+p58
+aVBusiness
+p59
 asS'education'
-p65
-(lp66
+p60
+(lp61
 VBachelor
-p67
+p62
 aVMaster
-p68
+p63
 asS'responsibility'
-p69
-(lp70
+p64
+(lp65
 S'data analysis'
-p71
-aVinsight
-p72
+p66
+aS'develop ... system'
+p67
+aS'insight'
+p68
 aS'communicate'
-p73
+p69
 aS'analysis'
-p74
+p70
 aS'design'
-p75
+p71
 aS'data mining'
-p76
+p72
 aS'report'
-p77
+p73
 aS'understand'
-p78
+p74
 aS'modeling'
-p79
+p75
 aS'presentation'
-p80
+p76
 aS'data gathering'
-p81
+p77
 aS'decision-making'
-p82
+p78
 as.

@@ -2,93 +2,81 @@
 S'skills'
 p2
 (lp3
-S'java'
+S'statistics'
 p4
-aS'healthcare'
+aS'java'
 p5
-aS'python'
+aS'healthcare'
 p6
-aS'programming'
+aS'python'
 p7
-aS'data science'
+aS'programming'
 p8
-aS'sql'
+aS'data science'
 p9
-aS'data scientist'
+aS'data wrangling'
 p10
-aS'machine learning'
+aS'data scientist'
 p11
-aS'analytics'
-p12
 aS'engineering'
+p12
+aS'machine learning'
 p13
+aS'analytics'
+p14
+aS'unix'
+p15
 aS'r'
 aS'computer science'
-p14
-aS'data wrangling'
-p15
-aS'mathematics'
 p16
-aS'research'
+aS'sql'
 p17
-aS'data'
-p18
-aS'applied mathematics'
-p19
-aS'operations research'
-p20
-aS'science'
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'engineering science'
-p27
-aS'science'
-p28
-aS'applied mathematics'
-p29
-aS'statistic'
-p30
-aS'engineering'
-p31
-aS'computer science statistics'
-p32
-aS'machine learning'
-p33
-aS'analytics'
-p34
-aS'statistics applied mathematics'
-p35
-aS'computer science engineering'
-p36
-aS'computer science'
-p37
-aS'applied math'
-p38
 aS'mathematics'
-p39
-aS'phd'
-p40
-aS'data science'
-p41
+p18
+aS'research'
+p19
+aS'data'
+p20
+aS'applied mathematics'
+p21
 aS'operations research'
-p42
+p22
+aS'science'
+p23
+asS'working-year'
+p24
+(lp25
+S'[0]'
+p26
+asS'major'
+p27
+(lp28
+VStatistics
+p29
+aVData Science
+p30
+aVElectrical and Electronics Engineering
+p31
+aVEngineering
+p32
+aVComputer Science
+p33
+aVMathematics
+p34
+aVOperations Research
+p35
 asS'education'
-p43
-(lp44
-VDoctor
-p45
+p36
+(lp37
+VMaster
+p38
+aVDoctor
+p39
 asS'responsibility'
-p46
-(lp47
+p40
+(lp41
 S'product'
-p48
+p42
 aS'data wrangling'
-p49
+p43
 as.

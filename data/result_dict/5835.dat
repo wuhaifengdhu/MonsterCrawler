@@ -2,21 +2,21 @@
 S'skills'
 p2
 (lp3
-S'social networking'
+S'jira'
 p4
-aS'jira'
-p5
 aS'shell scripting'
-p6
+p5
 aS'communication'
-p7
+p6
 aS'testing'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'unix'
-p10
+p9
 aS'data analysis'
+p10
+aS'data'
 p11
 aS'insurance'
 p12
@@ -38,135 +38,120 @@ aS'policy'
 p20
 aS'mathematics'
 p21
+aS'a'
 aS'processing'
 p22
-aS'finance'
+aS'ios'
 p23
-aS'python'
+aS'finance'
 p24
-aS'marketing'
+aS'python'
 p25
-aS'innovation'
+aS'marketing'
 p26
-aS'data scientist'
+aS'innovation'
 p27
-aS'sql'
+aS'data scientist'
 p28
-aS'apache'
+aS'sql'
 p29
-aS'spark'
+aS'apache'
 p30
-aS'data'
+aS'spark'
 p31
-aS'statistical programming'
+aS'social networking'
 p32
-aS'software development'
+aS'statistical programming'
 p33
-aS'data visualization'
+aS'software development'
 p34
-aS'science'
+aS'b testing'
 p35
-aS'economics'
+aS'data visualization'
 p36
-aS'programming'
+aS'science'
 p37
-aS'engineering'
+aS'economics'
 p38
-aS'analysis'
+aS'programming'
 p39
-aS'machine learning'
+aS'engineering'
 p40
+aS'analysis'
+p41
+aS'machine learning'
+p42
 aS'r'
 aS'command'
-p41
-aS'dashboard'
-p42
-aS'deep learning'
 p43
-aS'organization'
+aS'dashboard'
 p44
-aS'scripting'
+aS'deep learning'
 p45
-asS'working-year'
+aS'organization'
 p46
-(lp47
-V(2, 5]
+aS'physics'
+p47
+aS'options'
 p48
-asS'major'
+aS'scripting'
 p49
-(lp50
-S'mathematics physics'
-p51
-aS'computer science mathematics'
+asS'working-year'
+p50
+(lp51
+V(2, 5]
 p52
-aS'finance'
+asS'major'
 p53
-aS'business'
-p54
-aS'marketing'
+(lp54
+VBusiness
 p55
-aS'economics'
+aVData Science
 p56
-aS'statistic'
+aVEconomics
 p57
-aS'machine learning'
+aVEngineering
 p58
-aS'analytics'
+aVComputer Science
 p59
-aS'engineering'
+aVMathematics
 p60
-aS'marketing finance'
+aVPhysics
 p61
-aS'design'
-p62
-aS'computer science'
-p63
-aS'natural language processing'
-p64
-aS'communication'
-p65
-aS'mathematics'
-p66
-aS'phd'
-p67
-aVphysic
-p68
-aS'science'
-p69
 asS'education'
-p70
-(lp71
+p62
+(lp63
 VMaster
-p72
+p64
 aVDoctor
-p73
+p65
 asS'responsibility'
-p74
-(lp75
+p66
+(lp67
 S'development'
-p76
+p68
 aS'product'
-p77
+p69
 aS'data analysis'
-p78
+p70
 aVtest hypothesis
-p79
+p71
 aS'processing'
-p80
+p72
 aS'business problem'
-p81
-aVinsight
-p82
+p73
+aS'insight'
+p74
 aS'communicate'
-p83
+p75
 aS'analysis'
-p84
+p76
 aS'cross-functionally'
-p85
+p77
 aS'design'
-p86
+p78
 aS'report'
-p87
+p79
 aS'model'
-p88
+p80
 as.

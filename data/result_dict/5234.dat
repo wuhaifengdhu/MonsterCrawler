@@ -4,176 +4,166 @@ p2
 (lp3
 S'integration'
 p4
-aS'nosql'
-p5
-aS'communication'
-p6
-aS'data science'
-p7
-aS'oozie'
-p8
-aS'rest'
-p9
-aS'strategic planning'
-p10
-aS'cluster'
-p11
-aS'business intelligence'
-p12
-aS'hive'
-p13
 aS'problem solving'
-p14
-aS'data mining'
-p15
-aS'batch processing'
-p16
-aS'hbase'
-p17
-aS'education'
-p18
-aS'hdfs'
-p19
-aS'management'
-p20
-aS'java'
-p21
-aS'rdbms'
-p22
-aS'big data'
-p23
-aS'scala'
-p24
-aS'agile'
-p25
-aS'storage'
-p26
-aS'hadoop'
-p27
-aS'python'
-p28
-aS'sdlc'
-p29
-aS'intelligence'
-p30
-aS'uml'
-p31
-aS'soap'
-p32
-aS'data management'
-p33
-aS'dashboard'
-p34
-aS'flume'
-p35
-aS'processing'
-p36
-aS'data modeling'
-p37
-aS'spring'
-p38
-aS'aws'
-p39
-aS'javascript'
-p40
-aS'data scientist'
-p41
-aS'amazon s3'
-p42
-aS'devops'
-p43
-aS'sql'
-p44
-aS'modeling'
-p45
-aS'spark'
-p46
-aS'data'
-p47
-aS'etl'
-p48
-aS'cloudera'
-p49
-aS'analytics'
-p50
-aS'science'
-p51
-aS'functional programming'
-p52
-aS'programming'
-p53
-aS'analysis'
-p54
-aS'machine learning'
-p55
-aS'architecture'
-p56
-aS'requirements analysis'
-p57
-aS'data integration'
-p58
-asS'working-year'
-p59
-(lp60
-V(5, 10]
-p61
-aV(2, 5]
-p62
-asS'major'
-p63
-(lp64
-S'management'
-p65
-aS'business'
-p66
-aS'big data'
-p67
-aS'science'
-p68
-aS'data science'
-p69
-aS'statistic'
-p70
-aVapplied statistic
-p71
-aS'machine learning'
-p72
-aS'analytics'
-p73
-aS'applied statistics'
-p74
-aS'data mining'
-p75
+p5
+aS'nosql'
+p6
 aS'communication'
-p76
-aS'machine learning engineer'
-p77
-asS'education'
-p78
-(lp79
-S'Bachelor'
-p80
-asS'responsibility'
-p81
-(lp82
-S'product'
-p83
-aVinsight
-p84
-aS'processing'
-p85
-aS'decision-making'
-p86
-aS'analysis'
-p87
-aS'understand'
-p88
+p7
+aS'data science'
+p8
+aS'linux'
+p9
+aS'rest'
+p10
+aS'strategic planning'
+p11
+aS'analytics'
+p12
+aS'business intelligence'
+p13
+aS'hive'
+p14
+aS'oozie'
+p15
 aS'data mining'
-p89
+p16
+aS'batch processing'
+p17
+aS'hbase'
+p18
+aS'education'
+p19
+aS'hdfs'
+p20
+aS'statistics'
+p21
+aS'java'
+p22
+aS'rdbms'
+p23
+aS'big data'
+p24
+aS'scala'
+p25
+aS'agile'
+p26
+aS'storage'
+p27
+aS'hadoop'
+p28
+aS'python'
+p29
+aS'sdlc'
+p30
+aS'intelligence'
+p31
+aS'uml'
+p32
+aS'soap'
+p33
+aS'data management'
+p34
+aS'dashboard'
+p35
+aS'flume'
+p36
+aS'processing'
+p37
+aS'data modeling'
+p38
+aS'spring'
+p39
+aS'aws'
+p40
+aS'javascript'
+p41
+aS'data scientist'
+p42
+aS'amazon s3'
+p43
+aS'devops'
+p44
+aS'management'
+p45
+aS'sql'
+p46
 aS'modeling'
-p90
+p47
+aS'spark'
+p48
+aS'data'
+p49
+aS'etl'
+p50
+aS'cloudera'
+p51
+aS'cluster'
+p52
+aS'science'
+p53
+aS'functional programming'
+p54
+aS'programming'
+p55
+aS'unix'
+p56
+aS'analysis'
+p57
+aS'machine learning'
+p58
+aS'architecture'
+p59
+aS'requirements analysis'
+p60
+aS'data integration'
+p61
+asS'working-year'
+p62
+(lp63
+V(5, 10]
+p64
+aV(2, 5]
+p65
+asS'major'
+p66
+(lp67
+VData Science
+p68
+aVStatistics
+p69
+aVComputer Science
+p70
+aVBusiness
+p71
+aVManagement Science and Engineering
+p72
+asS'education'
+p73
+(lp74
+S'Bachelor'
+p75
+asS'responsibility'
+p76
+(lp77
+S'product'
+p78
+aS'processing'
+p79
+aS'insight'
+p80
+aS'analysis'
+p81
+aS'understand'
+p82
+aS'data mining'
+p83
+aS'modeling'
+p84
 aS'implement'
-p91
+p85
 aS'transformation'
-p92
+p86
+aS'decision-making'
+p87
 as.

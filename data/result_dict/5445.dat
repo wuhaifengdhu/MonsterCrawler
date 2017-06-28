@@ -2,17 +2,17 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'public speaking'
 p4
-aS'public speaking'
-p5
 aS'communication'
-p6
+p5
 aS'analytics'
-p7
+p6
 aS'engineering'
-p8
+p7
 aS'data mining'
+p8
+aS'sas'
 p9
 aS'education'
 p10
@@ -20,11 +20,11 @@ aS'visualization'
 p11
 aS'technical communication'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'ehr'
 p14
-aS'r programming'
+aS'management'
 p15
 aS'research'
 p16
@@ -79,84 +79,58 @@ p40
 asS'major'
 p41
 (lp42
-S'communication'
+VStatistics
 p43
-aS'statistic'
+aVBusiness
 p44
-aS'analytics'
+aVData Science
 p45
-aS'engineering'
+aVEconomics
 p46
-aS'data mining'
+aVEngineering
 p47
-aS'information'
+aVComputer Science
 p48
-aS'management'
+aVBiological Engineering
 p49
-aS'health services'
+aVMathematics
 p50
-aS'advanced analytics'
+aVOperations Research
 p51
-aS'mathematics'
+aVManagement Science and Engineering
 p52
-aS'operations research'
-p53
-aS'business'
-p54
-aS'public health'
-p55
-aS'english'
-p56
-aS'phd'
-p57
-aS'epidemiology'
-p58
-aS'health services research'
-p59
-aS'project management'
-p60
-aS'science'
-p61
-aS'applied mathematics'
-p62
-aS'economics'
-p63
-aS'applied math'
-p64
 asS'education'
-p65
-(lp66
+p53
+(lp54
 VDoctor
-p67
+p55
 asS'responsibility'
-p68
-(lp69
+p56
+(lp57
 S'development'
-p70
+p58
 aS'information'
-p71
+p59
 aS'data analysis'
-p72
-aVinsight
-p73
+p60
+aS'insight'
+p61
 aS'communicate'
-p74
+p62
 aS'analysis'
-p75
-aS'statistical method'
-p76
+p63
 aS'understand'
-p77
+p64
 aS'data mining'
-p78
+p65
 aS'report'
-p79
+p66
 aS'implement'
-p80
+p67
 aS'presentation'
-p81
+p68
 aS'model'
-p82
+p69
 aS'decision-making'
-p83
+p70
 as.

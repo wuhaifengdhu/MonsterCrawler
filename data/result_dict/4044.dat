@@ -2,19 +2,19 @@
 S'skills'
 p2
 (lp3
-S'supply chain optimization'
+S'supply chain'
 p4
-aS'supply chain'
-p5
 aS'forecasting'
-p6
+p5
 aS'analytics'
-p7
+p6
 aS'engineering'
-p8
+p7
 aS'pricing'
+p8
+aS'sas'
 p9
-aS'management'
+aS'statistics'
 p10
 aS'industrial engineering'
 p11
@@ -28,104 +28,90 @@ aS'data analysis'
 p15
 aS'business process'
 p16
-aS'sql'
-p17
-aS'modeling'
-p18
-aS'data'
-p19
-aS'quantitative research'
-p20
-aS'analysis'
-p21
-aS'simulation'
-p22
-aS'engineering management'
-p23
-aS'optimization'
-p24
-aS'science'
-p25
-aS'inventory management'
-p26
-aS'consulting'
-p27
-aS'retail'
-p28
-aS'statistical analysis'
-p29
-asS'working-year'
-p30
-(lp31
-V[0]
-p32
-asS'major'
-p33
-(lp34
-S'supply chain management'
-p35
 aS'management'
-p36
-aS'industrial engineering management science'
-p37
-aS'business'
-p38
-aS'analytics'
-p39
-aS'science'
-p40
-aS'industrial engineering'
-p41
-aS'phd'
-p42
-aS'engineering management'
-p43
-aS'management science'
-p44
-aS'engineering'
-p45
-aS'statistic'
-p46
-asS'education'
-p47
-(lp48
-VDoctor
-p49
-asS'responsibility'
-p50
-(lp51
-S'modeling'
-p52
-aS'forecasting'
-p53
-aS'data analysis'
-p54
-aS'business problem'
-p55
-aVproduct operation
-p56
-aS'communicate'
-p57
-aS'product'
-p58
+p17
+aS'sql'
+p18
+aS'modeling'
+p19
+aS'data'
+p20
+aS'quantitative research'
+p21
 aS'analysis'
-p59
+p22
 aS'simulation'
-p60
-aS'analytic'
-p61
+p23
+aS'engineering management'
+p24
 aS'optimization'
-p62
+p25
+aS'science'
+p26
+aS'inventory management'
+p27
+aS'consulting'
+p28
+aS'retail'
+p29
+aS'statistical analysis'
+p30
+asS'working-year'
+p31
+(lp32
+S'[0]'
+p33
+asS'major'
+p34
+(lp35
+VStatistics
+p36
+aVBusiness
+p37
+aVData Science
+p38
+aVEngineering
+p39
+aVIndustrial Engineering
+p40
+aVManagement Science and Engineering
+p41
+asS'education'
+p42
+(lp43
+VDoctor
+p44
+asS'responsibility'
+p45
+(lp46
+S'forecasting'
+p47
+aS'data analysis'
+p48
+aS'business problem'
+p49
+aS'communicate'
+p50
+aS'product'
+p51
+aS'analysis'
+p52
+aS'simulation'
+p53
+aS'analytic'
+p54
+aS'optimization'
+p55
 aS'understand'
-p63
+p56
 aS'recommendation'
-p64
-aS'analytical method'
-p65
+p57
+aS'modeling'
+p58
 aS'implement'
-p66
+p59
 aS'presentation'
-p67
+p60
 aS'model'
-p68
+p61
 as.

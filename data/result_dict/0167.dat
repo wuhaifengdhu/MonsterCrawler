@@ -2,112 +2,102 @@
 S'skills'
 p2
 (lp3
-S'software development'
+S'consulting'
 p4
-aS'visualization'
+aS'analytics'
 p5
-aS'consulting'
+aS'engineering'
 p6
-aS'data collection'
+aS'visualization'
 p7
-aS'data visualization'
+aS'management'
 p8
-aS'management'
-p9
-aS'science'
-p10
-aS'government'
-p11
 aS'excel'
-p12
-aS'analysis'
-p13
+p9
 aS'strategy'
-p14
+p10
 aS'access'
-p15
-aS'analytics'
-p16
-aS'engineering'
-p17
-aS'leadership'
-p18
+p11
 aS'computer science'
-p19
-aS'data analysis'
-p20
+p12
 aS'innovation'
-p21
-aS'modeling'
-p22
-aS'security'
-p23
-aS'data'
-p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-aV(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'information'
-p31
-aS'management'
-p32
-aS'business'
-p33
-aS'science'
-p34
-aS'analytics'
-p35
-aS'engineering'
-p36
-aS'design'
-p37
-aS'computer science'
-p38
-aS'statistic'
-p39
-aS'management technology'
-p40
-asS'education'
-p41
-(lp42
-VBachelor
-p43
-asS'responsibility'
-p44
-(lp45
-S'development'
-p46
-aS'information'
-p47
-aS'mine data'
-p48
+p13
 aS'data analysis'
-p49
-aS'business problem'
-p50
-aS'pattern'
-p51
-aVinsight
-p52
-aS'product'
-p53
-aS'analysis'
-p54
-aS'analytic'
-p55
-aS'data collection'
-p56
-aS'design'
-p57
+p14
+aS'government'
+p15
+aS'data scientist'
+p16
+aS'leadership'
+p17
 aS'modeling'
-p58
+p18
+aS'data'
+p19
+aS'software development'
+p20
+aS'data collection'
+p21
+aS'data visualization'
+p22
+aS'science'
+p23
+aS'analysis'
+p24
+aS'security'
+p25
+asS'working-year'
+p26
+(lp27
+V(5, 10]
+p28
+aV(2, 5]
+p29
+asS'major'
+p30
+(lp31
+VData Science
+p32
+aVComputer Science
+p33
+aVEngineering
+p34
+aVBusiness
+p35
+aVManagement Science and Engineering
+p36
+asS'education'
+p37
+(lp38
+VBachelor
+p39
+asS'responsibility'
+p40
+(lp41
+S'development'
+p42
+aS'information'
+p43
+aS'product'
+p44
+aS'data analysis'
+p45
+aS'business problem'
+p46
+aS'pattern'
+p47
+aS'insight'
+p48
+aS'analysis'
+p49
+aS'analytic'
+p50
+aS'data collection'
+p51
+aS'design'
+p52
+aS'modeling'
+p53
 aS'implement'
-p59
+p54
 as.

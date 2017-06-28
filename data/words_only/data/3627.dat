@@ -4,190 +4,180 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0077988638379845147
 sS'data science'
 p5
-I1
-sS'pig'
+F0.0029626623784743821
+sS'sales'
 p6
-I1
-sS'health insurance'
+F0.0081886816260862173
+sS'pig'
 p7
-I1
-sS'enterprise software'
+F0.0066468674263938212
+sS'health insurance'
 p8
-I1
-sS'product strategy'
+F0.012686412555431282
+sS'enterprise software'
 p9
-I1
-sS'strategy'
+F0.0099804995065374911
+sS'product strategy'
 p10
-I1
-sS'insurance'
+F0.011687737160378912
+sS'go'
 p11
-I1
-sS'management'
+F0.0080761408744522839
+sS'strategy'
 p12
-I1
-sS'writing'
+F0.0038793385005587064
+sS'insurance'
 p13
-I1
-sS'artificial intelligence'
+F0.0077664320530780491
+sS'finance'
 p14
-I1
-sS'business analysis'
+F0.0065397686063637644
+sS'management'
 p15
-I1
-sS'python'
+F0.0022316474561567788
+sS'writing'
 p16
-I1
-sS'marketing'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'salesforce.com'
-p19
-I1
-sS'leadership'
-p20
-I1
-sS'sql'
-p21
-I1
-sS'spark'
-p22
-I1
-sS'data'
-p23
-I1
-sS'customer relations'
-p24
-I1
-sS'science'
-p25
-I1
-sS'cloud computing'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sVpanda
-p29
-I1
-sS'b2b'
-p30
-I1
-sS'r'
-I1
-sS'crm'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(5, 10]
-p34
-I1
-sV(10, 15]
-p35
-I1
-sV(2, 5]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'management'
-p39
-I1
-sS'business analysis'
-p40
-I1
-sS'business'
-p41
-I1
-sS'computing'
-p42
-I1
-sS'marketing'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'statistic'
-p45
-I1
-sS'machine learning'
-p46
-I1
-sS'design'
-p47
-I1
-sS'communication'
-p48
-I1
+F0.0055346313450307704
 sS'artificial intelligence'
-p49
-I1
+p17
+F0.0068167895568343965
+sS'business analysis'
+p18
+F0.0065727394095498864
+sS'python'
+p19
+F0.0012838707210671577
+sS'marketing'
+p20
+F0.0046926466070875581
+sS'data scientist'
+p21
+F0.0026092898156745772
+sS'salesforce.com'
+p22
+F0.012184940519485821
+sS'leadership'
+p23
+F0.0040699719734084289
+sS'sql'
+p24
+F0.0016796646769286873
+sS'spark'
+p25
+F0.0083060868143628504
+sS'data'
+p26
+F0.0020448532392150502
+sS'b2b'
+p27
+F0.0085608981566457493
+sS'a'
+F0.0092120290325814116
 sS'science'
-p50
-I1
-ssS'education'
-p51
-(dp52
-S'Bachelor'
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-I1
-sS'large data set'
-p57
-I1
-sS'product'
-p58
-I1
-sS'business problem'
-p59
-I1
-sS'pattern'
-p60
-I1
-sVinsight
-p61
-I1
-sS'communicate'
-p62
-I1
+p28
+F0.0034632211241088298
+sS'cloud computing'
+p29
+F0.0079743759475809015
 sS'analysis'
-p63
-I1
+p30
+F0.00084388847722692106
+sS'machine learning'
+p31
+F0.0016145756695419688
+sVpanda
+p32
+F0.010843908889395473
+sS'r'
+F0.0013669761246648798
+sS'crm'
+p33
+F0.016201418552693587
+ssS'working-year'
+p34
+(dp35
+V(5, 10]
+p36
+F0.0029695671467410314
+sV(10, 15]
+p37
+F0.0048212471827545787
+sV(2, 5]
+p38
+F0.0030515872621456538
+ssS'major'
+p39
+(dp40
+VData Science
+p41
+F0.0025302684300617306
+sVEconomics
+p42
+F0.004041309230355815
+sVComputer Science
+p43
+F0.002229940261951226
+sVBusiness
+p44
+F0.0026643210521529906
+sVManagement Science and Engineering
+p45
+F0.003176218075046533
+ssS'education'
+p46
+(dp47
+S'Bachelor'
+p48
+F0.002244775437610608
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+F0.0029826625675224597
+sS'large data set'
+p52
+F0.0077449683136277493
+sS'product'
+p53
+F0.0099383711136779296
+sS'business problem'
+p54
+F0.0070151491678094695
+sS'pattern'
+p55
+F0.0064497317132368127
+sS'insight'
+p56
+F0.0090388835271403203
+sS'communicate'
+p57
+F0.0049414849317280596
+sS'analysis'
+p58
+F0.00084388847722692106
+sS'develop ... model'
+p59
+F0.0076352537615175806
 sS'report'
-p64
-I1
+p60
+F0.005111518276286771
 sS'design'
-p65
-I1
+p61
+F0.003597090665070142
 sS'solve problem'
-p66
-I1
+p62
+F0.01013064648086621
 sS'interface'
-p67
-I1
+p63
+F0.007777234479187386
 sS'understand'
-p68
-I1
+p64
+F0.010353102529282145
 sS'model'
-p69
-I1
+p65
+F0.015245427013809269
 ss.

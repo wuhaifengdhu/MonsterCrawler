@@ -16,93 +16,88 @@ aS'strategy'
 p9
 aS'hdfs'
 p10
-aS'open source'
+aS'statistics'
 p11
-aS'anomaly detection'
+aS'open source'
 p12
-aS'deep learning'
+aS'anomaly detection'
 p13
-aS'hadoop'
+aS'deep learning'
 p14
-aS'writing'
+aS'hadoop'
 p15
-aS'linear algebra'
+aS'writing'
 p16
-aS'computer science'
+aS'linear algebra'
 p17
-aS'mathematics'
+aS'computer science'
 p18
-aS'algebra'
+aS'mathematics'
 p19
-aS'python'
+aS'algebra'
 p20
-aS'collaboration'
+aS'python'
 p21
-aS'data scientist'
+aS'collaboration'
 p22
-aS'apache spark'
+aS'data scientist'
 p23
-aS'teaching'
+aS'apache spark'
 p24
-aS'apache'
+aS'teaching'
 p25
-aS'spark'
+aS'apache'
 p26
-aS'data'
+aS'spark'
 p27
-aS'cloudera'
+aS'data'
 p28
-aS'open source software'
+aS'a'
+aS'cloudera'
 p29
-aS'science'
+aS'open source software'
 p30
-aS'machine learning'
+aS'science'
 p31
+aS'machine learning'
+p32
 aS'r'
 aS'healthcare'
-p32
-aS'organization'
 p33
-asS'working-year'
+aS'organization'
 p34
-(lp35
+asS'working-year'
+p35
+(lp36
 V(5, 10]
-p36
-asS'major'
 p37
-(lp38
-S'mathematics statistics'
-p39
-aS'science'
+asS'major'
+p38
+(lp39
+VMathematics
 p40
-aS'data science'
+aVData Science
 p41
-aS'machine learning'
+aVStatistics
 p42
-aS'analytics'
+aVComputer Science
 p43
-aS'computer science'
-p44
-aS'statistic'
-p45
-aS'mathematics'
-p46
-aS'computer science mathematics'
-p47
 asS'education'
+p44
+(lp45
+VBachelor
+p46
+aVMaster
+p47
+asS'responsibility'
 p48
 (lp49
-S'Bachelor'
-p50
-asS'responsibility'
-p51
-(lp52
 S'prototype'
-p53
+p50
 aS'model'
-p54
-aVinsight
-p55
+p51
+aS'insight'
+p52
 aS'manage data'
-p56
+p53
 as.

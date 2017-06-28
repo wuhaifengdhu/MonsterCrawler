@@ -4,130 +4,137 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.0089717634850673082
 sS'analytics'
 p5
-I1
-sS'ec2'
+F0.0049699283541915808
+sS'engineering'
 p6
-I1
-sS'visualization'
+F0.0069991701547065981
+sS'security clearance'
 p7
-I1
-sS'management'
+F0.020878974132907825
+sS'visualization'
 p8
-I1
-sS'publishing'
+F0.01071025869676554
+sS'management'
 p9
-I1
-sS'big data'
+F0.0051774220982837267
+sS'publishing'
 p10
-I1
-sS'storage'
+F0.028904632789846701
+sS'big data'
 p11
-I1
-sS'hadoop'
+F0.0072727150077866714
+sS'storage'
 p12
-I1
-sS'computer science'
+F0.06412288392936788
+sS'hadoop'
 p13
-I1
-sS'web services'
+F0.0073417514365689421
+sS'computer science'
 p14
-I1
+F0.0080341900753555465
 sS'soap'
 p15
-I1
+F0.028821211613010499
 sS'data management'
 p16
-I1
+F0.015713817740624404
 sS'data analysis'
 p17
-I1
-sS'data scientist'
-p18
-I1
+F0.0084786400855180865
 sS'amazon s3'
-p19
-I1
+p18
+F0.034855774286575519
 sS'data'
-p20
-I1
+p19
+F0.0033886139392706547
 sS'software development'
-p21
-I1
+p20
+F0.012115409246132986
 sS'search'
-p22
-I1
+p21
+F0.017725655872284387
 sS'cloudera'
-p23
-I1
+p22
+F0.026002484748828991
 sS'amazon ec2'
+p23
+F0.026934130681274451
+sS'science'
 p24
-I1
-sS'security clearance'
+F0.0040173365039662427
+sS'documentation'
 p25
-I1
-sS'r'
-I1
-sS'security'
+F0.016568234051108747
+sS'analysis'
 p26
-I1
-ssS'working-year'
+F0.0019578212671664567
+sS'databases'
 p27
-(dp28
-V(0, 2]
+F0.01315713241902166
+sS'security'
+p28
+F0.03746315684091072
+sS'ec2'
 p29
-I1
-ssS'major'
+F0.024737516438056127
+ssS'working-year'
 p30
 (dp31
-S'information'
+V(0, 2]
 p32
-I1
-sS'management'
+F0.013014743794800877
+ssS'major'
 p33
-I1
-sS'big data'
-p34
-I1
-sS'analytics'
+(dp34
+VData Science
 p35
-I1
-sS'information science'
+F0.005870222757743215
+sVInformation Science
 p36
-I1
-sS'computer science'
+F0.01447231536316625
+sVEngineering
 p37
-I1
-sS'ee computer science'
+F0.0069991701547065981
+sVComputer Science
 p38
-I1
-ssS'education'
+F0.0051734614077268443
+sVManagement Science and Engineering
 p39
-(dp40
+F0.0073688259341079566
+ssS'education'
+p40
+(dp41
 VBachelor
-p41
-I1
-ssS'responsibility'
 p42
-(dp43
+F0.0052078790152566097
+ssS'responsibility'
+p43
+(dp44
 S'development'
-p44
-I1
-sS'information'
 p45
-I1
-sS'data analysis'
+F0.013839554313304213
+sS'information'
 p46
-I1
-sS'interface'
+F0.0079263154258822546
+sS'data analysis'
 p47
-I1
-sS'model'
+F0.0084786400855180865
+sS'documentation'
 p48
-I1
-sS'prototype'
+F0.016568234051108747
+sS'analysis'
 p49
-I1
+F0.0019578212671664567
+sS'interface'
+p50
+F0.018043183991714735
+sS'model'
+p51
+F0.0088423476680093756
+sS'prototype'
+p52
+F0.018018122363141074
 ss.

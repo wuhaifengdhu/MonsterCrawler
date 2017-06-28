@@ -6,15 +6,15 @@ S'communication'
 p4
 aS'data science'
 p5
-aS'sql'
+aS'personalization'
 p6
 aS'engineering'
 p7
-aS'analysis'
-p8
 aS'data mining'
+p8
+aS'go'
 p9
-aS'strategy'
+aS'research'
 p10
 aS'java'
 p11
@@ -22,7 +22,7 @@ aS'big data'
 p12
 aS'scala'
 p13
-aS'research'
+aS'strategy'
 p14
 aS'marketing'
 p15
@@ -34,100 +34,84 @@ aS'python'
 p18
 aS'customer service'
 p19
-aS'personalization'
-p20
 aS'algorithm design'
-p21
+p20
 aS'php'
-p22
+p21
 aS'data'
-p23
+p22
 aS'b2b'
-p24
+p23
 aS'customer experience'
-p25
+p24
 aS'c'
 aS'science'
-p26
+p25
 aS'economics'
-p27
+p26
 aS'programming'
+p27
+aS'cvs'
 p28
-aS'c++'
+aS'analysis'
 p29
 aS'machine learning'
 p30
 aS'r'
-asS'working-year'
+aS'sql'
 p31
-(lp32
+asS'working-year'
+p32
+(lp33
 V(2, 5]
-p33
-asS'major'
 p34
-(lp35
-S'mathematics economics'
-p36
-aS'general'
+asS'major'
+p35
+(lp36
+VBusiness
 p37
-aS'business'
+aVData Science
 p38
-aS'big data'
+aVEconomics
 p39
-aS'marketing'
+aVEngineering
 p40
-aS'data science'
+aVComputer Science
 p41
-aS'economics'
+aVMathematics
 p42
-aS'statistic'
-p43
-aS'machine learning'
-p44
-aS'engineering'
-p45
-aS'design'
-p46
-aS'data mining'
-p47
-aS'communication'
-p48
-aS'mathematics'
-p49
-aS'phd'
-p50
-aS'science'
-p51
 asS'education'
-p52
-(lp53
-VDoctor
-p54
+p43
+(lp44
+VMaster
+p45
+aVDoctor
+p46
 asS'responsibility'
-p55
-(lp56
-S'data mining'
-p57
-aS'development'
-p58
+p47
+(lp48
+S'development'
+p49
 aS'product'
-p59
-aVinsight
-p60
-aS'build model'
-p61
-aVproduct operation
-p62
-aS'analysis'
-p63
+p50
 aS'data analysis'
-p64
-aS'design'
-p65
-aS'solve problem'
-p66
+p51
+aS'build model'
+p52
+aS'insight'
+p53
 aS'recommendation'
-p67
+p54
+aS'analysis'
+p55
+aS'develop ... model'
+p56
+aS'design'
+p57
+aS'solve problem'
+p58
+aS'data mining'
+p59
 aS'model'
-p68
+p60
 as.

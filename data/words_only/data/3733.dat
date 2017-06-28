@@ -2,99 +2,99 @@
 S'skills'
 p2
 (dp3
-S'python'
+S'forecasting'
 p4
-I1
-sS'science'
+F0.013831268895426029
+sS'python'
 p5
-I1
-sS'data science'
-p6
-I1
-sS'strategy'
-p7
-I1
-sS'analytics'
-p8
-I1
-sS'customer analytics'
-p9
-I1
-sS'r'
-I1
+F0.0024587335507229528
 sS'marketing'
+p6
+F0.026960582865248332
+sS'data science'
+p7
+F0.0056737779512292408
+sS'strategy'
+p8
+F0.014858598407800329
+sS'analytics'
+p9
+F0.036922816782319526
+sS'customer analytics'
 p10
-I1
-sS'advanced analytics'
+F0.025703655615386747
+sS'r'
+F0.0026178882387450056
+sS'science'
 p11
-I1
-sS'organization'
+F0.0033161975858211905
+sS'sas'
 p12
-I1
-sS'retail'
+F0.0065341361164029084
+sS'organization'
 p13
-I1
-sS'data analytics'
+F0.024950714706816243
+sS'advanced analytics'
 p14
-I1
-ssS'working-year'
+F0.013881181860085299
+sS'retail'
 p15
-(dp16
-V(5, 10]
+F0.016254535303851517
+sS'data'
+p16
+F0.0022377639221598661
+sS'data analytics'
 p17
-I1
-sV(2, 5]
+F0.0096335975541782873
+sS'simulation'
 p18
-I1
-ssS'major'
+F0.012664319753180997
+ssS'working-year'
 p19
 (dp20
-S'business'
+V(5, 10]
 p21
-I1
-sS'marketing'
+F0.0056870012338531076
+sV(2, 5]
 p22
-I1
-sS'data science'
+F0.0058440774925996959
+ssS'major'
 p23
-I1
-sS'data analyst'
-p24
-I1
-sS'advanced analytics'
+(dp24
+VData Science
 p25
-I1
-sS'analytics'
+F0.0048457027481370873
+sVEconomics
 p26
-I1
-sS'science'
+F0.0077394884317191544
+sVBusiness
 p27
-I1
-sS'analytics data science'
-p28
-I1
-sS'data analytics'
-p29
-I1
+F0.005102426165915633
 ssS'education'
-p30
-(dp31
+p28
+(dp29
 S'Bachelor'
-p32
-I1
+p30
+F0.0042989567342920131
 ssS'responsibility'
-p33
-(dp34
+p31
+(dp32
 S'development'
-p35
-I1
-sS'analytic'
-p36
-I1
+p33
+F0.011424160400133195
+sS'forecasting'
+p34
+F0.013831268895426029
 sS'product'
+p35
+F0.0063443060882912572
+sS'simulation'
+p36
+F0.012664319753180997
+sS'analytic'
 p37
-I1
+F0.010649650812734163
 sS'analytical method'
 p38
-I1
+F0.025310347902938329
 ss.

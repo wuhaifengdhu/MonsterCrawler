@@ -2,95 +2,93 @@
 S'skills'
 p2
 (lp3
-S'algorithm development'
+S'data science'
 p4
-aS'big data'
-p5
-aS'hadoop'
-p6
-aS'science'
-p7
-aS'data science'
-p8
-aS'innovation'
-p9
-aS'data scientist'
-p10
-aS'strategy'
-p11
-aS'analysis'
-p12
-aS'machine learning'
-p13
-aS'credit'
-p14
-aS'r'
 aS'command'
-p15
-aS'computer science'
-p16
-aS'sql'
-p17
+p5
 aS'statistical analysis'
-p18
-aS'modeling'
-p19
-aS'spark'
-p20
-aS'credit risk'
-p21
-aS'data'
-p22
-aS'python'
-p23
-asS'working-year'
-p24
-(lp25
-V(5, 10]
-p26
-aV(2, 5]
-p27
-asS'major'
-p28
-(lp29
-S'big data'
-p30
-aS'business'
-p31
-aS'science'
-p32
-aS'data science'
-p33
-aS'computer science statistics'
-p34
-aS'machine learning'
-p35
+p6
+aS'statistics'
+p7
+aS'big data'
+p8
+aS'hadoop'
+p9
+aS'strategy'
+p10
 aS'computer science'
-p36
-aS'statistic'
-p37
-asS'education'
-p38
-(lp39
-S'Bachelor'
-p40
-asS'responsibility'
-p41
-(lp42
-S'development'
-p43
-aS'product'
-p44
-aS'business problem'
-p45
-aS'predict'
-p46
-aS'communicate'
-p47
-aS'analysis'
-p48
+p11
+aS'innovation'
+p12
+aS'algorithm development'
+p13
+aS'python'
+p14
+aS'data scientist'
+p15
+aS'sql'
+p16
 aS'modeling'
-p49
+p17
+aS'spark'
+p18
+aS'credit risk'
+p19
+aS'data'
+p20
+aS'science'
+p21
+aS'analysis'
+p22
+aS'machine learning'
+p23
+aS'credit'
+p24
+aS'r'
+aS'algorithms'
+p25
+asS'working-year'
+p26
+(lp27
+V(5, 10]
+p28
+aV(2, 5]
+p29
+asS'major'
+p30
+(lp31
+VData Science
+p32
+aVStatistics
+p33
+aVComputer Science
+p34
+aVBusiness
+p35
+asS'education'
+p36
+(lp37
+S'Bachelor'
+p38
+asS'responsibility'
+p39
+(lp40
+S'development'
+p41
+aS'product'
+p42
+aS'business problem'
+p43
+aS'predict'
+p44
+aS'communicate'
+p45
+aS'analysis'
+p46
+aS'drive ... model'
+p47
+aS'modeling'
+p48
 aS'model'
-p50
+p49
 as.

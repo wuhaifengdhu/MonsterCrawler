@@ -4,208 +4,174 @@ p2
 (dp3
 S'oncology'
 p4
-I1
-sS'r d'
-p5
-I1
+F0.011614272197885122
 sS'probability'
-p6
-I1
+p5
+F0.0075429202124967145
 sS'spring'
-p7
-I1
-sS'data science'
-p8
-I1
-sS'c++'
-p9
-I1
-sS'data mining'
-p10
-I1
+p6
+F0.0091653711228494878
 sS'go'
-p11
-I1
+p7
+F0.007097214707852008
+sS'data mining'
+p8
+F0.0045930288499613364
+sS'sas'
+p9
+F0.0029983481746264432
 sS'perl'
-p12
-I1
+p10
+F0.0062035730395873772
+sS'hospitals'
+p11
+F0.012948003776882927
 sS'regression'
-p13
-I1
+p12
+F0.005143220326151084
 sS'clustering'
-p14
-I1
+p13
+F0.0069770834644073809
 sS'visualization'
+p14
+F0.0040569161730172497
+sS'statistics'
 p15
-I1
-sS'management'
-p16
-I1
+F0.0020184260926463301
 sS'java'
+p16
+F0.0026823960339140336
+sS'molecular biology'
 p17
-I1
-sS'molecular biology'
-p18
-I1
+F0.0089527370449283931
 sS'recruiting'
-p19
-I1
+p18
+F0.0074651477286090716
 sS'research'
-p20
-I1
-sS'computer science'
-p21
-I1
-sS'medicine'
-p22
-I1
-sS'drug discovery'
-p23
-I1
-sS'artificial intelligence'
-p24
-I1
+p19
+F0.012926671843359671
 sS'matlab'
-p25
-I1
-sS'data analysis'
-p26
-I1
-sS'computational biology'
-p27
-I1
-sS'python'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'spotfire'
-p30
-I1
-sS'bioinformatics'
-p31
-I1
-sS'informatics'
-p32
-I1
-sS'data'
-p33
-I1
-sS'.net'
-p34
-I1
-sS'programming'
-p35
-I1
-sS'analysis'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'r'
-I1
-sS'healthcare'
-p38
-I1
-sS'organization'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V[0]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'bioinformatics'
-p45
-I1
-sS'management'
-p46
-I1
-sS'molecular biology'
-p47
-I1
-sS'computational biology'
-p48
-I1
-sS'data science'
-p49
-I1
-sS'data mining'
-p50
-I1
-sS'computer sciences'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'business'
-p53
-I1
-sS'informatics'
-p54
-I1
-sVphysic
-p55
-I1
-sS'machine learning artificial intelligence'
-p56
-I1
-sS'statistic'
-p57
-I1
+p20
+F0.0027627731334157247
 sS'medicine'
-p58
-I1
-sS'computational biolog'
-p59
-I1
-sS'general'
-p60
-I1
-sS'medical informatics'
-p61
-I1
+p21
+F0.031630522758322573
+sS'drug discovery'
+p22
+F0.011890966593252767
 sS'artificial intelligence'
-p62
-I1
-sS'computer science'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VDoctor
-p66
-I1
-ssS'responsibility'
-p67
-(dp68
-S'development'
-p69
-I1
+p23
+F0.0059905120347938639
 sS'data analysis'
-p70
-I1
-sS'explore opportunity'
-p71
-I1
+p24
+F0.0032116060929992755
+sS'computational biology'
+p25
+F0.0090169692976911613
+sS'python'
+p26
+F0.0011282500276044718
+sS'data scientist'
+p27
+F0.0022930122622594768
+sS'spotfire'
+p28
+F0.0092948465642867205
+sS'management'
+p29
+F0.0019611447341983815
+sS'bioinformatics'
+p30
+F0.0070546694594219809
+sS'informatics'
+p31
+F0.047565178605883225
+sS'data'
+p32
+F0.0023104185949572647
+sS'c'
+F0.002706973861251293
+sS'programming'
+p33
+F0.0023859637117638007
 sS'analysis'
-p72
-I1
+p34
+F0.00074159896483577909
+sS'machine learning'
+p35
+F0.0014188695277793058
+sS'r'
+F0.0036038461468437741
+sS'healthcare'
+p36
+F0.011676365122554823
+sS'organization'
+p37
+F0.0038164152365404353
+sS'physics'
+p38
+F0.0052664164013997037
+ssS'working-year'
+p39
+(dp40
+S'[0]'
+p41
+F0.0047537115379748546
+ssS'major'
+p42
+(dp43
+VStatistics
+p44
+F0.0038993609737837235
+sVBusiness
+p45
+F0.0023413730458314158
+sVInformation Science
+p46
+F0.0054819376375629739
+sVComputer Science
+p47
+F0.0019596444726238046
+sVBiological Engineering
+p48
+F0.0056930644599062566
+sVPhysics
+p49
+F0.0056790738121214081
+sVManagement Science and Engineering
+p50
+F0.0027912219447378621
+ssS'education'
+p51
+(dp52
+VBachelor
+p53
+F0.0019726814451729584
+sVDoctor
+p54
+F0.0023575363025464674
+ssS'responsibility'
+p55
+(dp56
+S'development'
+p57
+F0.015726766265118423
+sS'data analysis'
+p58
+F0.0032116060929992755
+sS'explore opportunity'
+p59
+F0.01453000853854833
+sS'analysis'
+p60
+F0.00074159896483577909
 sS'data mining'
-p73
-I1
+p61
+F0.0045930288499613364
 sS'implement'
-p74
-I1
+p62
+F0.013752358279997452
 sS'model'
-p75
-I1
+p63
+F0.0033493741166702182
 ss.

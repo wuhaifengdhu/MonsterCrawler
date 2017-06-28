@@ -2,141 +2,153 @@
 S'skills'
 p2
 (dp3
-S'classification'
+S'debugging'
 p4
-I1
-sS'data science'
+F0.018466481105813486
+sS'classification'
 p5
-I1
-sS'enterprise software'
+F0.013257823115370078
+sS'data science'
 p6
-I1
-sS'problem solving'
+F0.0050539534691621812
+sS'enterprise software'
 p7
-I1
-sS'creative problem solving'
+F0.017025557981740425
+sS'troubleshooting'
 p8
-I1
-sS'random forest'
+F0.015799926326614266
+sS'problem solving'
 p9
-I1
-sS'management'
+F0.010313495230896013
+sS'creative problem solving'
 p10
-I1
-sS'dna'
+F0.023698443190858436
+sS'random forest'
 p11
-I1
-sS'unsupervised learning'
+F0.019082455020324973
+sS'statistics'
 p12
-I1
-sS'storage'
+F0.0039181212386664053
+sS'dna'
 p13
-I1
-sS'research'
+F0.019804507853878273
+sS'unsupervised learning'
 p14
-I1
-sS'matlab'
+F0.021072011961270547
+sS'storage'
 p15
-I1
-sS'tensorflow'
+F0.015716393119943106
+sS'research'
 p16
-I1
+F0.0035847073179064632
 sS'computer science'
 p17
-I1
-sS'pyspark'
+F0.0059074927024673138
+sS'tensorflow'
 p18
-I1
-sS'python'
+F0.018130171528262327
+sS'matlab'
 p19
-I1
-sS'data scientist'
+F0.0053630302001599359
+sS'pyspark'
 p20
-I1
-sS'processing'
+F0.023589302884437505
+sS'python'
 p21
-I1
-sS'aws'
+F0.0021901324065263274
+sS'data scientist'
 p22
-I1
-sS'computer security'
-p23
-I1
-sS'spark'
-p24
-I1
-sS'data'
-p25
-I1
-sS'svm'
-p26
-I1
-sS'science'
-p27
-I1
-sS'cloud computing'
-p28
-I1
-sS'programming'
-p29
-I1
-sS'r'
-I1
-sS'scripting'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V[0]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'management'
-p36
-I1
-sS'computing'
-p37
-I1
-sS'science'
-p38
-I1
-sS'data science'
-p39
-I1
-sS'design'
-p40
-I1
-sS'computer science'
-p41
-I1
-sS'computer security'
-p42
-I1
-ssS'education'
-p43
-(dp44
-VBachelor
-p45
-I1
-sVMaster
-p46
-I1
-ssS'responsibility'
-p47
-(dp48
-S'product'
-p49
-I1
+F0.004451141450268396
 sS'processing'
+p23
+F0.0068617146498769748
+sS'aws'
+p24
+F0.010980993062108025
+sS'management'
+p25
+F0.0076138560268878327
+sS'computer security'
+p26
+F0.023698443190858436
+sS'spark'
+p27
+F0.0070846034593094898
+sS'data'
+p28
+F0.0029899534758270484
+sS'svm'
+p29
+F0.018763190038356494
+sS'science'
+p30
+F0.0088617716999255351
+sS'cloud computing'
+p31
+F0.013603347204696832
+sS'programming'
+p32
+F0.0046315766169532603
+sS'r'
+F0.002331900447957736
+sS'security'
+p33
+F0.0091821462845369396
+sS'physics'
+p34
+F0.010223043602717072
+sS'scripting'
+p35
+F0.010223043602717072
+ssS'working-year'
+p36
+(dp37
+S'[0]'
+p38
+F0.0092277929854805985
+ssS'major'
+p39
+(dp40
+VData Science
+p41
+F0.0043163402630464814
+sVStatistics
+p42
+F0.0075693477726389916
+sVPhysics
+p43
+F0.011024084458823909
+sVComputer Science
+p44
+F0.0038040157409756207
+sVManagement Science and Engineering
+p45
+F0.0054182543633146734
+ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0038293228053357426
+sVMaster
+p49
+F0.0030558011984209111
+ssS'responsibility'
 p50
-I1
-sS'design'
-p51
-I1
-sS'model'
+(dp51
+S'product'
 p52
-I1
+F0.011302461266535686
+sS'processing'
+p53
+F0.0068617146498769748
+sS'design'
+p54
+F0.006136213487472595
+sS'model'
+p55
+F0.026006904905909928
+sS'develop ... model'
+p56
+F0.013024844652000577
 ss.

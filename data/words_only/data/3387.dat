@@ -4,271 +4,248 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0040386973446705516
 sS'data science'
 p5
-I1
+F0.0030684717491341815
 sS'analytics'
 p6
-I1
+F0.0066561540457922954
 sS'engineering'
 p7
-I1
+F0.0031246295333511595
 sS'analysis'
 p8
-I1
+F0.0026220820542407902
 sS'problem solving'
 p9
-I1
+F0.0062617649616154361
 sS'data mining'
 p10
-I1
-sS'data modeling'
+F0.0054132125731687179
+sS'sas'
 p11
-I1
-sS'quantitative analysis'
+F0.0035337674915240217
+sS'data modeling'
 p12
-I1
-sS'regression'
+F0.0066637799612710999
+sS'quantitative analysis'
 p13
-I1
-sS'clustering'
+F0.019459195622553216
+sS'econometrics'
 p14
-I1
-sS'management'
+F0.0078246391830108179
+sS'clustering'
 p15
-I1
+F0.0082229912259086987
 sS'hadoop'
 p16
-I1
+F0.0032775676056111345
 sS'research'
 p17
-I1
+F0.0021764294430146381
 sS'computer science'
 p18
-I1
+F0.0035866919979265829
 sS'stata'
 p19
-I1
-sS'mathematics'
-p20
-I1
+F0.0077639005936190573
 sS'hypothesis testing'
-p21
-I1
+p20
+F0.011476274789521172
 sS'matlab'
-p22
-I1
+p21
+F0.0032561254786685322
 sS'data analysis'
-p23
-I1
+p22
+F0.0037851071810348596
 sS'distributed computing'
-p24
-I1
+p23
+F0.0091260113838247756
 sS'python'
-p25
-I1
+p24
+F0.001329723246819556
 sS'data scientist'
+p25
+F0.0027024787376629545
+sS'metrics'
 p26
-I1
+F0.033406912606614103
 sS'leadership'
 p27
-I1
+F0.0042153281153158723
 sS'scripting'
 p28
-I1
+F0.0062068479016496505
 sS'statistical modeling'
 p29
-I1
+F0.0045698100004857049
 sS'sql'
 p30
-I1
-sS'modeling'
+F0.0034793054022094236
+sS'regression'
 p31
-I1
-sS'data'
+F0.0060616525272494913
+sS'modeling'
 p32
-I1
-sS'econometrics'
+F0.002071800227095797
+sS'data'
 p33
-I1
+F0.0027229933440567761
+sS'a'
+F0.014311545104188979
+sS'c'
+F0.0031903620507604522
 sS'pattern recognition'
 p34
-I1
-sS'applied mathematics'
+F0.0081463104818410483
+sS'science'
 p35
-I1
-sS'hive'
+F0.0017934537964135009
+sS'applied mathematics'
 p36
-I1
-sS'spss'
+F0.0077094661858257809
+sS'hive'
 p37
-I1
-sS'r'
-I1
-sS'product launch'
+F0.0053208016568622608
+sS'spss'
 p38
-I1
+F0.0056284408950448084
+sS'r'
+F0.0014157967005457681
 sS'dashboard'
 p39
-I1
-sS'product management'
+F0.0089449004314274098
+sS'databases'
 p40
-I1
-sS'organization'
+F0.0058737198299203828
+sS'product management'
 p41
-I1
-sS'root'
+F0.0079668316811901552
+sS'organization'
 p42
-I1
-sS'etl'
+F0.0044979179573512275
+sS'root'
 p43
-I1
-sS'statistical analysis'
+F0.0099911730394060295
+sS'etl'
 p44
-I1
-ssS'working-year'
+F0.014539615683750931
+sS'statistical analysis'
 p45
-(dp46
+F0.0065681126362566525
+ssS'working-year'
+p46
+(dp47
 V(2, 5]
-p47
-I1
-ssS'major'
 p48
-(dp49
-S'management'
-p50
-I1
-sS'business'
+F0.0031605725215079986
+ssS'major'
+p49
+(dp50
+VBusiness
 p51
-I1
-sS'computing'
+F0.0027594753754441688
+sVData Science
 p52
-I1
-sS'communication'
+F0.0026206351597067921
+sVEngineering
 p53
-I1
-sS'applied mathematics'
+F0.0031246295333511595
+sVComputer Science
 p54
-I1
-sS'statistic'
+F0.0023095809855923411
+sVMathematics
 p55
-I1
-sS'analytics'
+F0.0043731442081184997
+sVManagement Science and Engineering
 p56
-I1
-sS'engineering'
-p57
-I1
-sS'design'
-p58
-I1
-sS'computer science'
-p59
-I1
-sS'data mining'
-p60
-I1
-sS'mathematics'
-p61
-I1
-sS'data science'
-p62
-I1
-sS'applied math'
-p63
-I1
-sS'econometrics'
-p64
-I1
-sVphysic
-p65
-I1
+F0.0032896544348696233
 ssS'education'
-p66
-(dp67
+p57
+(dp58
 VDoctor
-p68
-I1
+p59
+F0.0027785249280011938
 ssS'responsibility'
-p69
-(dp70
+p60
+(dp61
 S'exploratory analysis'
-p71
-I1
-sVinsight
-p72
-I1
+p62
+F0.013688249376078892
+sS'insight'
+p63
+F0.00468085039798338
 sS'design'
-p73
-I1
+p64
+F0.018627790944113234
 sS'solve problem'
-p74
-I1
+p65
+F0.010492455283754289
 sS'data mining'
-p75
-I1
-sS'modeling'
-p76
-I1
-sS'extract'
-p77
-I1
-sS'large data set'
-p78
-I1
-sS'quantitative analysis'
-p79
-I1
-sS'define metric'
-p80
-I1
-sS'analytic'
-p81
-I1
-sS'identify trend'
-p82
-I1
-sS'presentation'
-p83
-I1
-sS'product'
-p84
-I1
-sS'data analysis'
-p85
-I1
-sS'build model'
-p86
-I1
-sS'communicate'
-p87
-I1
-sS'statistical model'
-p88
-I1
-sS'understand'
-p89
-I1
-sS'product decision'
-p90
-I1
+p66
+F0.0054132125731687179
 sS'implement'
-p91
-I1
+p67
+F0.0054027121814275696
+sS'product decision'
+p68
+F0.015356423416907079
+sS'extract'
+p69
+F0.0078921135987317075
+sS'large data set'
+p70
+F0.0080215743248287404
+sS'quantitative analysis'
+p71
+F0.019459195622553216
+sS'evaluate ... experiment'
+p72
+F0.018363192074526549
+sS'analytic'
+p73
+F0.005759505031376639
+sS'presentation'
+p74
+F0.012568134399538808
+sS'identify ... trend'
+p75
+F0.010954640593623634
+sS'product'
+p76
+F0.027448834504443808
+sS'data analysis'
+p77
+F0.0037851071810348596
+sS'build model'
+p78
+F0.013491921143333275
+sS'data infrastructure'
+p79
+F0.011043534124132198
+sS'communicate'
+p80
+F0.0051179665364326325
+sS'understand'
+p81
+F0.016084284286563333
+sS'modeling'
+p82
+F0.002071800227095797
+sS'design ... experiment'
+p83
+F0.011454927452286108
+sS'evaluate ... metric'
+p84
+F0.017793948798088956
 sS'analysis'
-p92
-I1
-sS'evaluate experiment'
-p93
-I1
-sS'product launch'
-p94
-I1
+p85
+F0.0026220820542407902
 sS'pattern'
-p95
-I1
+p86
+F0.0066800792744238415
 sS'model'
-p96
-I1
+p87
+F0.003947476637504185
 ss.

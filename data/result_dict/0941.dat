@@ -18,125 +18,117 @@ aS'insurance'
 p10
 aS'visualization'
 p11
-aS'scala'
+aS'statistics'
 p12
-aS'predictive modeling'
+aS'scala'
 p13
-aS'computer science'
+aS'predictive modeling'
 p14
-aS'innovation'
+aS'hadoop'
 p15
-aS'python'
+aS'computer science'
 p16
-aS'marketing'
+aS'innovation'
 p17
-aS'collaboration'
+aS'python'
 p18
-aS'data scientist'
+aS'marketing'
 p19
-aS'scalability'
+aS'collaboration'
 p20
-aS'statistical modeling'
+aS'data scientist'
 p21
-aS'algorithm design'
+aS'scalability'
 p22
-aS'modeling'
+aS'statistical modeling'
 p23
-aS'spark'
+aS'algorithm design'
 p24
-aS'data'
+aS'modeling'
 p25
-aS'solver'
+aS'spark'
 p26
-aS'science'
+aS'data'
 p27
-aS'documentation'
+aS'solver'
 p28
-aS'analysis'
+aS'science'
 p29
-aS'machine learning'
+aS'documentation'
 p30
+aS'analysis'
+p31
+aS'machine learning'
+p32
 aS'r'
 aS'architecture'
-p31
-aS'electrical engineering'
-p32
-aS'validation'
 p33
-asS'working-year'
+aS'electrical engineering'
 p34
-(lp35
-V[0]
+aS'validation'
+p35
+aS'physics'
 p36
-asS'major'
+asS'working-year'
 p37
 (lp38
-S'business'
+S'[0]'
 p39
-aS'marketing'
+asS'major'
 p40
-aS'machine learning data science'
-p41
-aS'communication'
+(lp41
+VStatistics
 p42
-aS'machine learning'
+aVBusiness
 p43
-aS'engineering'
+aVData Science
 p44
-aS'design'
+aVEconomics
 p45
-aS'computer science'
+aVElectrical and Electronics Engineering
 p46
-aS'phd'
+aVEngineering
 p47
-aS'statistic'
+aVComputer Science
 p48
-aS'probability statistics'
+aVPhysics
 p49
-aS'electrical engineering'
-p50
-aS'electrical'
-p51
-aS'data science'
-p52
-aVphysic
-p53
-aS'science'
-p54
 asS'education'
+p50
+(lp51
+VBachelor
+p52
+aVMaster
+p53
+aVDoctor
+p54
+asS'responsibility'
 p55
 (lp56
-VMaster
-p57
-aVDoctor
-p58
-asS'responsibility'
-p59
-(lp60
 S'development'
-p61
+p57
 aS'product'
-p62
+p58
 aS'documentation'
-p63
+p59
 aS'formulate'
-p64
-aVinsight
-p65
+p60
+aS'insight'
+p61
 aS'communicate'
-p66
+p62
 aS'analysis'
-p67
-aS'statistical model'
-p68
+p63
+aS'develop ... model'
+p64
 aS'analytic'
-p69
+p65
 aS'design'
-p70
+p66
 aS'modeling'
-p71
+p67
 aS'implement'
-p72
+p68
 aS'model'
-p73
+p69
 as.

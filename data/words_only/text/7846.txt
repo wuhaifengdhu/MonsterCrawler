@@ -1,5 +1,5 @@
-skills: {'visualization': 1, 'consulting': 1, 'management': 1, 'java': 1, 'data scientist': 1, 'big data': 1, 'amazon ec2': 1, 'agile': 1, 'aws': 1, 'data': 1, 'amazon s3': 1, 'distributed systems': 1, 'information technology': 1, 'ruby rails': 1, 'ruby': 1, 'security': 1, 'research': 1, 'solr': 1, 'unstructured data': 1, 'data management': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'big data': 1, 'business': 1, 'distributed systems': 1, 'information technology': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'analytic': 1, 'evaluation': 1, 'key decision': 1, 'information': 1}
+skills: {'a': 0.014060465365518996, 'visualization': 0.007046222826819434, 'consulting': 0.0084944161451544, 'java': 0.004658898374692795, 'big data': 0.004784680926175441, 'amazon ec2': 0.017719822816627928, 'agile': 0.008209360423682366, 'aws': 0.009825099055570339, 'ruby rails': 0.016818806189073915, 'research': 0.0032073697054952562, 'information technology': 0.011716725833690772, 'solr': 0.015593718681912191, 'data management': 0.010338037987252897, 'innovation': 0.007277536361408735, 'security': 0.008215604570375156, 'amazon s3': 0.02293143045169442, 'data': 0.0013376107655015742, 'unstructured data': 0.011988001629523157, 'distributed systems': 0.013170265564578044}
+working-year: {u'(2, 5]': 0.004657685821169682}
+major: {u'Information Science': 0.009521260107346217, u'Business': 0.004066595290128249, u'Management Science and Engineering': 0.004847911798755235}
+education: {'Bachelor': 0.0034262361942477694}
+responsibility: {'development': 0.0045524849714816485, 'information': 0.015644043603714977, 'product': 0.005056364250818596, 'analytic': 0.008487691625186627, 'key decision': 0.02196927736969829, 'evaluation': 0.012719711217393523}

@@ -2,55 +2,57 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'analytics'
-p6
+p5
 aS'engineering'
-p7
-aS'analysis'
-p8
+p6
 aS'system design'
-p9
+p7
 aS'simulation'
-p10
+p8
+aS'statistics'
+p9
 aS'open source'
-p11
+p10
 aS'big data'
-p12
+p11
 aS'user experience'
-p13
+p12
 aS'outsourcing'
-p14
+p13
 aS'research'
-p15
+p14
 aS'big data analytics'
-p16
+p15
 aS'computer vision'
-p17
+p16
 aS'optimization'
-p18
+p17
 aS'matlab'
-p19
+p18
 aS'mathematics'
-p20
+p19
 aS'computer science'
-p21
+p20
 aS'transportation'
-p22
+p21
 aS'collaboration'
-p23
+p22
 aS'automation'
-p24
+p23
 aS'business process'
+p24
+aS'military'
 p25
-aS'organization'
-p26
 aS'modeling'
-p27
+p26
 aS'data'
+p27
+aS'a'
+aS'c'
+aS'organization'
 p28
 aS'software engineering'
 p29
@@ -60,7 +62,7 @@ aS'science'
 p31
 aS'programming'
 p32
-aS'c++'
+aS'analysis'
 p33
 aS'machine learning'
 p34
@@ -76,81 +78,55 @@ p38
 asS'working-year'
 p39
 (lp40
-V[0]
+S'[0]'
 p41
 asS'major'
 p42
 (lp43
-S'communication'
+VStatistics
 p44
-aS'analytics'
+aVBusiness
 p45
-aS'engineering'
+aVData Science
 p46
-aS'computer science engineering'
+aVElectrical and Electronics Engineering
 p47
-aS'statistic'
+aVEngineering
 p48
-aS'information'
+aVComputer Science
 p49
-aS'big data'
+aVMathematics
 p50
-aS'imaging science'
+asS'education'
 p51
-aS'big data analytics'
-p52
-aS'electrical'
+(lp52
+VBachelor
 p53
-aS'computer science'
+aVMaster
 p54
-aS'mathematics'
+aVDoctor
 p55
-aS'transportation'
+asS'responsibility'
 p56
-aS'business'
-p57
-aS'automation'
+(lp57
+S'development'
 p58
-aS'electrical engineering'
+aS'information'
 p59
-aS'phd'
+aS'product'
 p60
-aS'software engineering'
+aS'analysis'
 p61
-aS'science'
+aS'simulation'
 p62
-aS'machine learning'
+aS'optimization'
 p63
 aS'design'
 p64
-aS'data analytics'
-p65
-asS'education'
-p66
-(lp67
-VDoctor
-p68
-asS'responsibility'
-p69
-(lp70
-S'development'
-p71
-aS'information'
-p72
-aS'product'
-p73
-aS'analysis'
-p74
-aS'simulation'
-p75
-aS'optimization'
-p76
-aS'design'
-p77
 aS'modeling'
-p78
+p65
 aS'prototype'
-p79
+p66
 aS'extract'
-p80
+p67
 as.

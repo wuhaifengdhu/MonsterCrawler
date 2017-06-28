@@ -11,12 +11,12 @@ p6
 asS'working-year'
 p7
 (lp8
-V[0]
+S'[0]'
 p9
 asS'major'
 p10
 (lp11
-S'business'
+VBusiness
 p12
 asS'education'
 p13
@@ -28,10 +28,8 @@ p16
 (lp17
 S'predict'
 p18
-aS'model'
-p19
 aS'product'
+p19
+aS'model'
 p20
-aS'solve problem'
-p21
 as.

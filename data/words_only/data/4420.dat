@@ -4,217 +4,193 @@ p2
 (dp3
 S'consulting'
 p4
-I1
+F0.0041232019974654574
 sS'communication'
 p5
-I1
+F0.002888995180859227
 sS'data science'
 p6
-I1
+F0.0021949651928113122
 sS'testing'
 p7
-I1
+F0.0037360912680657167
 sS'analytics'
 p8
-I1
+F0.007935560784521227
 sS'engineering'
 p9
-I1
+F0.0022351364545139681
 sS'enterprise software'
 p10
-I1
+F0.0073943116782011339
 sS'pricing'
 p11
-I1
+F0.0068990267692324641
 sS'user experience design'
 p12
-I1
+F0.010605983896898367
 sS'education'
 p13
-I1
+F0.0038296108573234837
 sS'product development'
 p14
-I1
+F0.0047691174247841426
 sS'management'
 p15
-I1
+F0.0033067476905096795
 sS'genetics'
 p16
-I1
-sS'user experience'
+F0.0070879655202899594
+sS'big data'
 p17
-I1
-sS'excel'
+F0.0023224911065012179
+sS'user experience'
 p18
-I1
-sS'scientific visualization'
+F0.006159147746545357
+sS'excel'
 p19
-I1
-sS'computer science'
+F0.0029506463992811415
+sS'scientific visualization'
 p20
-I1
-sS'finance'
+F0.01155725343787606
+sS'computer science'
 p21
-I1
-sS'marketing'
+F0.0025656628890277748
+sS'finance'
 p22
-I1
-sS'data scientist'
+F0.0048451570331819131
+sS'marketing'
 p23
-I1
-sS'manufacturing'
+F0.0034766688366378628
+sS'data scientist'
 p24
-I1
-sS'project management'
+F0.0019331599729267852
+sS'sql'
 p25
-I1
-sS'software development'
+F0.0012444231000603048
+sS'manufacturing'
 p26
-I1
-sS'word'
+F0.0068114207518828636
+sS'data'
 p27
-I1
-sS'science'
+F0.0002164260727636367
+sS'project management'
 p28
-I1
-sS'cloud computing'
+F0.0034698053345338432
+sS'software development'
 p29
-I1
-sS'machine learning'
+F0.003868971930790643
+sS'word'
 p30
-I1
-sS'customer analytics'
+F0.0050888114246315994
+sS'science'
 p31
-I1
-sS'r'
-I1
-sS'product launch'
+F0.0089803598856909618
+sS'cloud computing'
 p32
-I1
-sS'healthcare'
+F0.0059080230560544632
+sS'machine learning'
 p33
-I1
-sS'product management'
+F0.0011962002223248893
+sS'customer analytics'
 p34
-I1
-sS'organization'
+F0.0099437499825948735
+sS'r'
+F0.0010127596836020823
+sS'product launch'
 p35
-I1
-sS'retail'
+F0.020219512389662742
+sS'healthcare'
 p36
-I1
-sS'microsoft office'
+F0.0049219714293981098
+sS'product management'
 p37
-I1
-sS'powerpoint'
+F0.00569890149457398
+sS'organization'
 p38
-I1
-sS'predictive analytics'
+F0.0064349775156265733
+sS'retail'
 p39
-I1
-ssS'working-year'
+F0.0062882508839717556
+sS'microsoft office'
 p40
-(dp41
-V(5, 10]
+F0.0035043840235270502
+sS'powerpoint'
+p41
+F0.0044653730053544746
+sS'predictive analytics'
 p42
-I1
-ssS'major'
+F0.0042016390024248
+ssS'working-year'
 p43
 (dp44
-S'engineering science'
+V(5, 10]
 p45
-I1
-sS'information'
+F0.0022000807693008371
+ssS'major'
 p46
-I1
-sS'management'
-p47
-I1
-sS'genetics'
+(dp47
+VElectrical and Electronics Engineering
 p48
-I1
-sS'finance'
+F0.0057420229842609152
+sVBusiness
 p49
-I1
-sS'business'
+F0.0019739312904637121
+sVData Science
 p50
-I1
-sS'business administration'
+F0.0018746149317610632
+sVEconomics
 p51
-I1
-sS'marketing'
+F0.0029941086633658042
+sVEngineering
 p52
-I1
-sS'data science'
+F0.0022351364545139681
+sVComputer Science
 p53
-I1
-sS'computing'
+F0.0016521090261901418
+sVBiological Engineering
 p54
-I1
-sS'machine learning'
+F0.004799627336636296
+sVManagement Science and Engineering
 p55
-I1
-sS'analytics'
-p56
-I1
-sS'engineering'
-p57
-I1
-sS'design'
-p58
-I1
-sS'computer science'
-p59
-I1
-sS'communication'
-p60
-I1
-sS'predictive analytics'
-p61
-I1
-sS'project management'
-p62
-I1
-sS'science'
-p63
-I1
+F0.0023531834643592928
 ssS'education'
-p64
-(dp65
-S'Bachelor'
-p66
-I1
+p56
+(dp57
+VBachelor
+p58
+F0.0016631000504925306
+sVMaster
+p59
+F0.0013271545350806147
 ssS'responsibility'
-p67
-(dp68
+p60
+(dp61
 S'development'
-p69
-I1
+p62
+F0.0088391314044826176
 sS'information'
-p70
-I1
+p63
+F0.0050624277355087394
 sS'product'
-p71
-I1
-sS'product launch'
-p72
-I1
-sS'business problem'
-p73
-I1
+p64
+F0.014726199533405985
 sS'communicate'
-p74
-I1
-sS'analytical method'
-p75
-I1
+p65
+F0.0036610271574481607
+sS'analytic'
+p66
+F0.0041199379056562823
 sS'design'
-p76
-I1
+p67
+F0.0026649978285008713
+sS'product launch'
+p68
+F0.020219512389662742
 sS'prototype'
-p77
-I1
+p69
+F0.0057539624334848318
 sS'presentation'
-p78
-I1
+p70
+F0.0044951721574992822
 ss.

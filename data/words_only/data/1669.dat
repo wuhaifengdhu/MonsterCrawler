@@ -4,199 +4,178 @@ p2
 (dp3
 S'oncology'
 p4
-I1
-sS'r d'
+F0.010201128812591114
+sS'biostatistics'
 p5
-I1
-sS'biostatistics'
+F0.014963868331929616
+sS'communication'
 p6
-I1
-sS'communication'
-p7
-I1
-sS'data science'
-p8
-I1
-sS'due diligence'
-p9
-I1
+F0.012039310715671912
 sS'strategic leadership'
-p10
-I1
+p7
+F0.011444330759368014
 sS'communication skills'
-p11
-I1
+p8
+F0.0070021404031561287
 sS'experimentation'
-p12
-I1
-sS'management'
-p13
-I1
+p9
+F0.0068461703027982487
+sS'statistics'
+p10
+F0.003545676254002299
 sS'statistical consulting'
-p14
-I1
+p11
+F0.010625354319366745
 sS'critical thinking'
-p15
-I1
+p12
+F0.0074548395988802618
 sS'clinical development'
-p16
-I1
+p13
+F0.011236728075832909
 sS'integration'
-p17
-I1
+p14
+F0.0043844926277464115
 sS'strategy'
-p18
-I1
+p15
+F0.011977273241268706
 sS'gcp'
-p19
-I1
+p16
+F0.011303441433886336
 sS'quality assurance'
-p20
-I1
+p17
+F0.007419303935157889
 sS'innovation'
-p21
-I1
+p18
+F0.0073605500841624474
 sS'mathematics'
-p22
-I1
+p19
+F0.0034750822853152202
 sS'clinical research'
-p23
-I1
+p20
+F0.008719533067738568
 sS'data analysis'
-p24
-I1
+p21
+F0.0028208403326343444
 sS'collaboration'
-p25
-I1
+p22
+F0.0097249787835492554
 sS'data quality'
-p26
-I1
+p23
+F0.0067202244547266603
 sS'leadership'
-p27
-I1
+p24
+F0.003141461257041487
+sS'mentoring'
+p25
+F0.0065401401168801417
 sS'statistical modeling'
+p26
+F0.0034056378710844038
+sS'modeling'
+p27
+F0.0015440032110675902
+sS'data'
 p28
-I1
-sS'modeling'
-p29
-I1
+F0.00022547811382979643
 sS'statistical programming'
+p29
+F0.0080017542725316637
+sS'project management'
 p30
-I1
-sS'project management'
+F0.0036149302724801254
+sS'data collection'
 p31
-I1
-sS'data collection'
-p32
-I1
+F0.013784599037875449
 sS'drug development'
-p33
-I1
+p32
+F0.011761923365380069
 sS'programming'
+p33
+F0.0041913126799805172
+sS'analysis'
 p34
-I1
-sS'analysis'
-p35
-I1
+F0.0039081983470052846
 sS'r'
-I1
-sS'cro'
-p36
-I1
-sS'statistical analysis'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V(5, 10]
-p40
-I1
-sV(0, 2]
-p41
-I1
-ssS'major'
-p42
-(dp43
-S'information'
-p44
-I1
+F0.0010551184536386714
 sS'management'
+p35
+F0.003445052726994875
+sS'statistical analysis'
+p36
+F0.0048948672118110416
+ssS'working-year'
+p37
+(dp38
+V(5, 10]
+p39
+F0.0022920993566099977
+sV(0, 2]
+p40
+F0.0043300003119584665
+ssS'major'
+p41
+(dp42
+VBiological Engineering
+p43
+F0.0050003722062294496
+sVMathematics
+p44
+F0.0032590732501567529
+sVStatistics
 p45
-I1
-sS'biostatistics'
+F0.0034249140111940689
+sVManagement Science and Engineering
 p46
-I1
-sS'communication'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'general'
-p49
-I1
-sS'design'
-p50
-I1
-sS'statistic'
-p51
-I1
-sS'mathematics'
-p52
-I1
-sS'project management'
-p53
-I1
+F0.002451605586442761
 ssS'education'
-p54
-(dp55
+p47
+(dp48
 VDoctor
-p56
-I1
+p49
+F0.0020706877790427148
 ssS'responsibility'
-p57
-(dp58
+p50
+(dp51
 S'development'
-p59
-I1
+p52
+F0.025324279518165977
 sS'information'
-p60
-I1
+p53
+F0.0026370821283828796
 sS'product'
-p61
-I1
+p54
+F0.0025570207047865908
 sS'data analysis'
-p62
-I1
-sS'due diligence'
-p63
-I1
-sS'analysis'
-p64
-I1
-sS'improvement'
-p65
-I1
-sS'statistical method'
-p66
-I1
-sS'data collection'
-p67
-I1
-sS'design'
-p68
-I1
-sS'report'
-p69
-I1
-sS'modeling'
-p70
-I1
-sS'statistical model'
-p71
-I1
+p55
+F0.0028208403326343444
+sS'cross functionally'
+p56
+F0.011372581264106297
 sS'evaluation'
-p72
-I1
+p57
+F0.0064324014901647854
+sS'analysis'
+p58
+F0.0039081983470052846
+sS'improvement'
+p59
+F0.010213712913836912
+sS'statistical method'
+p60
+F0.0066840122225313896
+sS'data collection'
+p61
+F0.013784599037875449
+sS'design'
+p62
+F0.0055529232320094208
+sS'report'
+p63
+F0.011836177301363663
+sS'modeling'
+p64
+F0.0015440032110675902
+sS'design ... experiment'
+p65
+F0.0085367520176732985
 ss.

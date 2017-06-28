@@ -2,77 +2,72 @@
 S'skills'
 p2
 (lp3
-S'b testing'
+S'a'
+aS'b testing'
 p4
-aS'python'
+aS'organization'
 p5
-aS'science'
+aS'python'
 p6
-aS'testing'
+aS'science'
 p7
-aS'data scientist'
+aS'testing'
 p8
-aS'rest'
+aS'data scientist'
 p9
-aS'matplotlib'
+aS'rest'
 p10
+aS'matplotlib'
+p11
 aS'r'
 aS'ggplot2'
-p11
-aS'dashboard'
 p12
-aS'sql'
+aS'dashboard'
 p13
-aS'statistical analysis'
+aS'sql'
 p14
-aS'mathematics'
+aS'statistical analysis'
 p15
-aS'analysis'
-p16
-aS'data'
-p17
-aS'computer science'
-p18
-asS'working-year'
-p19
-(lp20
-V[0]
-p21
-asS'major'
-p22
-(lp23
-S'information'
-p24
-aS'computer science mathematics'
-p25
-aS'business'
-p26
-aS'science'
-p27
-aS'computer science'
-p28
 aS'mathematics'
-p29
-aS'law'
-p30
+p16
+aS'analysis'
+p17
+aS'data'
+p18
+aS'computer science'
+p19
+asS'working-year'
+p20
+(lp21
+S'[0]'
+p22
+asS'major'
+p23
+(lp24
+VMathematics
+p25
+aVComputer Science
+p26
+aVBusiness
+p27
 asS'education'
+p28
+(lp29
+VBachelor
+p30
+asS'responsibility'
 p31
 (lp32
-VBachelor
-p33
-asS'responsibility'
-p34
-(lp35
 S'information'
-p36
+p33
 aS'product'
-p37
+p34
 aS'build dashboard'
-p38
-aVinsight
-p39
+p35
+aS'insight'
+p36
 aS'communicate'
-p40
+p37
 aS'analysis'
-p41
+p38
 as.

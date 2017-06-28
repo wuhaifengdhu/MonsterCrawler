@@ -2,135 +2,128 @@
 S'skills'
 p2
 (dp3
-S'data analysis'
+S'a'
+F0.0090778732699710023
+sS'r'
+F0.002694137410747287
+sS'statistics'
 p4
-I1
+F0.0045267614310806042
 sS'data scientist'
 p5
-I1
+F0.0051425808988537778
 sS'dashboard'
 p6
-I1
+F0.017021363927764783
 sS'python'
 p7
-I1
-sS'marketing'
-p8
-I1
-sS'excel'
-p9
-I1
+F0.0025303471492876986
 sS'product marketing'
-p10
-I1
-sS'engineering'
-p11
-I1
-sS'r'
-I1
-sS'matlab'
-p12
-I1
+p8
+F0.022132639247514012
+sS'marketing'
+p9
+F0.0092486141867842171
 sS'sql'
-p13
-I1
-sS'data mining'
-p14
-I1
-sS'communication'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'statistical analysis'
-p17
-I1
-sS'quantitative analysis'
-p18
-I1
+p10
+F0.0033104070817138206
+sS'excel'
+p11
+F0.0078492923631362389
 sS'science'
+p12
+F0.0034127858650198658
+sS'economics'
+p13
+F0.011633455458055636
+sS'engineering'
+p14
+F0.0059458969760857018
+sS'data analysis'
+p15
+F0.0072027282279886655
+sS'statistical analysis'
+p16
+F0.012498544434041785
+sS'data mining'
+p17
+F0.010300870527583191
+sS'communication'
+p18
+F0.007685288151023574
+sS'computer science'
 p19
-I1
-ssS'working-year'
+F0.006825161471782624
+sS'analysis'
 p20
-(dp21
-V(2, 5]
+F0.0016631976784181064
+sS'quantitative analysis'
+p21
+F0.037029148951654663
+sS'matlab'
 p22
-I1
-ssS'major'
+F0.0061961222700876928
+ssS'working-year'
 p23
 (dp24
-S'business'
+V(2, 5]
 p25
-I1
-sS'statistics economics'
+F0.0060142933418987155
+ssS'major'
 p26
-I1
-sS'marketing'
-p27
-I1
-sS'data mining'
+(dp27
+VEngineering
 p28
-I1
-sS'communication'
+F0.010933878285275376
+sVEconomics
 p29
-I1
-sS'mba'
+F0.0079649104248760236
+sVStatistics
 p30
-I1
-sS'economics computer science'
+F0.0087451687858644666
+sVComputer Science
 p31
-I1
-sS'engineering'
+F0.00439493080753494
+sVBusiness
 p32
-I1
-sS'computer science'
-p33
-I1
-sS'statistic'
-p34
-I1
-sS'science'
-p35
-I1
+F0.0052510405202626899
 ssS'education'
+p33
+(dp34
+VBachelor
+p35
+F0.0044241690663587704
+ssS'responsibility'
 p36
 (dp37
-S'Bachelor'
-p38
-I1
-ssS'responsibility'
-p39
-(dp40
 S'product'
-p41
-I1
+p38
+F0.045703641917593331
 sS'data analysis'
-p42
-I1
-sS'business problem'
-p43
-I1
-sS'quantitative analysis'
-p44
-I1
-sVinsight
-p45
-I1
-sS'communicate'
-p46
-I1
-sS'recommendation'
-p47
-I1
-sS'data mining'
-p48
-I1
-sS'report'
-p49
-I1
+p39
+F0.0072027282279886655
 sS'business recommendation'
-p50
-I1
+p40
+F0.0298170874810403
+sS'insight'
+p41
+F0.008907249301016917
+sS'communicate'
+p42
+F0.0097390431178718054
+sS'analysis'
+p43
+F0.0016631976784181064
+sS'data mining'
+p44
+F0.010300870527583191
+sS'report'
+p45
+F0.010074157379477809
+sS'identify ... trend'
+p46
+F0.020845723848060507
+sS'quantitative analysis'
+p47
+F0.037029148951654663
 ss.

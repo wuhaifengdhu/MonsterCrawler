@@ -2,75 +2,77 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'science'
 p4
-aS'probability'
+aS'visualization'
 p5
-aS'data visualization'
+aS'probability'
 p6
-aS'cognitive neuroscience'
+aS'data visualization'
 p7
-aS'python'
+aS'cognitive neuroscience'
 p8
-aS'communication'
+aS'python'
 p9
-aS'data science'
+aS'communication'
 p10
-aS'communication skills'
+aS'data science'
 p11
-aS'machine learning'
+aS'julia'
 p12
-aS'r'
-aS'analysis'
+aS'machine learning'
 p13
-aS'science'
-p14
-aS'astrophysics'
-p15
 aS'mathematics'
+p14
+aS'r'
+aS'communication skills'
+p15
+aS'sql'
 p16
-aS'hbase'
+aS'astrophysics'
 p17
-aS'data'
+aS'neuroscience'
 p18
-aS'cassandra'
+aS'hbase'
 p19
-asS'working-year'
+aS'analysis'
 p20
-(lp21
-V[0]
+aS'data'
+p21
+aS'cassandra'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'cognitive neuroscience'
+S'[0]'
 p25
-aS'science'
+asS'major'
 p26
-aS'data science'
-p27
-aS'communication'
+(lp27
+VAstrophysics
 p28
-aS'machine learning'
+aVMathematics
 p29
-aS'statistic'
+aVData Science
 p30
-aS'astrophysics'
+aVCognitive Science
 p31
-aS'mathematics'
+aVComputer Science
 p32
-aS'phd'
-p33
 asS'education'
-p34
-(lp35
-VDoctor
+p33
+(lp34
+VMaster
+p35
+aVDoctor
 p36
 asS'responsibility'
 p37
 (lp38
-S'model'
+S'information'
 p39
-aS'analysis'
+aS'model'
 p40
+aS'analysis'
+p41
 as.

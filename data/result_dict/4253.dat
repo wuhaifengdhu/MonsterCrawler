@@ -2,87 +2,88 @@
 S'skills'
 p2
 (lp3
-S'customer insight'
+S'data science'
 p4
-aS'data science'
-p5
 aS'analytics'
-p6
+p5
 aS'statistical analysis'
-p7
+p6
 aS'problem solving'
+p7
+aS'sas'
 p8
 aS'education'
 p9
-aS'programming languages'
+aS'visualization'
 p10
-aS'predictive modeling'
+aS'programming languages'
 p11
-aS'unstructured data'
+aS'predictive modeling'
 p12
-aS'data modeling'
+aS'unstructured data'
 p13
-aS'python'
+aS'segmentation'
 p14
-aS'marketing'
+aS'data modeling'
 p15
-aS'data scientist'
+aS'python'
 p16
-aS'mathematical analysis'
-p17
-aS'sql'
-p18
-aS'modeling'
-p19
-aS'data'
-p20
-aS'performance metrics'
-p21
-aS'data visualization'
-p22
-aS'science'
-p23
-aS'programming'
-p24
-aS'analysis'
-p25
-aS'machine learning'
-p26
-aS'demand generation'
-p27
-aS'credit'
-p28
-aS'healthcare'
-p29
-aS'organization'
-p30
-aS'security'
-p31
-aS'validation'
-p32
-asS'working-year'
-p33
-(lp34
-V(5, 10]
-p35
-asS'major'
-p36
-(lp37
-S'information'
-p38
-aS'health services'
-p39
-aS'business'
-p40
 aS'marketing'
-p41
-aS'data science'
-p42
-aS'machine learning'
-p43
-aS'analytics'
-p44
+p17
+aS'data scientist'
+p18
+aS'mathematical analysis'
+p19
+aS'metrics'
+p20
+aS'sql'
+p21
+aS'modeling'
+p22
+aS'data'
+p23
+aS'performance metrics'
+p24
+aS'data visualization'
+p25
 aS'science'
+p26
+aS'marketing analytics'
+p27
+aS'programming'
+p28
+aS'analysis'
+p29
+aS'machine learning'
+p30
+aS'demand generation'
+p31
+aS'credit'
+p32
+aS'r'
+aS'healthcare'
+p33
+aS'organization'
+p34
+aS'security'
+p35
+aS'validation'
+p36
+asS'working-year'
+p37
+(lp38
+V(5, 10]
+p39
+asS'major'
+p40
+(lp41
+VData Science
+p42
+aVEconomics
+p43
+aVComputer Science
+p44
+aVBusiness
 p45
 asS'education'
 p46
@@ -94,34 +95,38 @@ p49
 (lp50
 S'development'
 p51
-aS'large data set'
+aS'information'
 p52
 aS'product'
 p53
-aS'business problem'
+aS'large data set'
 p54
 aS'pattern'
 p55
-aVinsight
+aS'insight'
 p56
 aS'communicate'
 p57
 aS'analysis'
 p58
-aS'statistical model'
+aS'develop ... model'
 p59
 aS'analytic'
 p60
-aS'understand'
+aS'drive ... decision'
 p61
-aS'report'
+aS'understand'
 p62
-aS'modeling'
+aS'report'
 p63
-aS'information'
+aS'modeling'
 p64
-aS'presentation'
-p65
 aS'model'
+p65
+aS'statistical model'
 p66
+aS'presentation'
+p67
+aS'decision making'
+p68
 as.

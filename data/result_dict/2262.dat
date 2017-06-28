@@ -4,101 +4,91 @@ p2
 (lp3
 S'nosql'
 p4
-aS'energy'
+aS'communication'
 p5
-aS'sqoop'
+aS'energy'
 p6
-aS'pig'
+aS'sqoop'
 p7
-aS'analytics'
+aS'pig'
 p8
-aS'engineering'
+aS'analytics'
 p9
-aS'education'
+aS'engineering'
 p10
-aS'hdfs'
+aS'education'
 p11
-aS'management'
+aS'hdfs'
 p12
-aS'big data'
+aS'management'
 p13
-aS'computer science'
+aS'big data'
 p14
-aS'flume'
+aS'computer science'
 p15
-aS'finance'
+aS'flume'
 p16
-aS'automotive'
+aS'finance'
 p17
-aS'alteryx'
+aS'automotive'
 p18
-aS'aerospace'
+aS'collaboration'
 p19
-aS'oozie'
+aS'alteryx'
 p20
-aS'spark'
+aS'aerospace'
 p21
-aS'data'
+aS'oozie'
 p22
-aS'project management'
+aS'spark'
 p23
-aS'science'
+aS'data'
 p24
-aS'mapreduce'
+aS'project management'
 p25
-aS'hive'
+aS'science'
 p26
-aS'data engineering'
+aS'mapreduce'
 p27
+aS'hive'
+p28
+aS'data engineering'
+p29
 aS'r'
 asS'working-year'
-p28
-(lp29
-V(0, 2]
 p30
-aV(2, 5]
-p31
-asS'major'
+(lp31
+V(0, 2]
 p32
-(lp33
-S'information'
+aV(2, 5]
+p33
+asS'major'
 p34
-aS'management'
-p35
-aS'finance'
+(lp35
+VData Science
 p36
-aS'big data'
+aVEconomics
 p37
-aS'science'
+aVEngineering
 p38
-aS'information systems'
+aVInformation Science
 p39
-aS'analytics'
+aVComputer Science
 p40
-aS'engineering'
+aVManagement Science and Engineering
 p41
-aS'information system'
-p42
-aS'computer science engineering'
-p43
-aS'computer science'
-p44
-aS'ee computer science'
-p45
-aS'project management'
-p46
 asS'education'
-p47
-(lp48
+p42
+(lp43
 VBachelor
-p49
+p44
 aVMaster
-p50
+p45
 asS'responsibility'
-p51
-(lp52
+p46
+(lp47
 S'analytic'
-p53
+p48
 aS'information'
-p54
+p49
 as.

@@ -2,94 +2,88 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'training'
 p4
-aS'communication'
-p5
-aS'data science'
-p6
-aS'programming'
-p7
-aS'analysis'
-p8
-aS'machine learning'
-p9
-aS'analytics'
-p10
-aS'engineering'
-p11
-aS'science'
-p12
-aS'advanced analytics'
-p13
-aS'data'
-p14
-aS'predictive analytics'
-p15
-asS'working-year'
-p16
-(lp17
-V(5, 10]
-p18
-aV(2, 5]
-p19
-asS'major'
-p20
-(lp21
-S'business'
-p22
-aS'science'
-p23
-aS'data science'
-p24
-aS'communication'
-p25
-aS'mba'
-p26
-aS'machine learning'
-p27
-aS'analytics'
-p28
-aS'engineering'
-p29
-aS'design'
-p30
-aS'statistic'
-p31
-aS'advanced analytics'
-p32
-aS'general'
-p33
-aS'predictive analytics'
-p34
-asS'education'
-p35
-(lp36
-VBachelor
-p37
-asS'responsibility'
-p38
-(lp39
-S'large data set'
-p40
-aS'product'
-p41
 aS'data analysis'
-p42
-aS'understand'
-p43
+p5
+aS'communication'
+p6
+aS'data science'
+p7
+aS'programming'
+p8
 aS'analysis'
-p44
+p9
+aS'machine learning'
+p10
+aS'analytics'
+p11
+aS'engineering'
+p12
+aS'algorithms'
+p13
+aS'science'
+p14
+aS'advanced analytics'
+p15
+aS'modeling'
+p16
+aS'data'
+p17
+aS'predictive analytics'
+p18
+asS'working-year'
+p19
+(lp20
+V(2, 5]
+p21
+asS'major'
+p22
+(lp23
+VEngineering
+p24
+aVData Science
+p25
+aVEconomics
+p26
+aVComputer Science
+p27
+aVBusiness
+p28
+asS'education'
+p29
+(lp30
+VBachelor
+p31
+aVMaster
+p32
+asS'responsibility'
+p33
+(lp34
+S'large data set'
+p35
+aS'product'
+p36
+aS'data analysis'
+p37
+aS'decision-making'
+p38
+aS'analysis'
+p39
 aS'statistical method'
-p45
-aS'design'
-p46
+p40
+aS'understand'
+p41
 aS'solve problem'
-p47
+p42
+aS'modeling'
+p43
 aS'report'
-p48
-aS'test model'
-p49
+p44
+aS'design'
+p45
 aS'model'
-p50
+p46
+aS'test ... model'
+p47
 as.

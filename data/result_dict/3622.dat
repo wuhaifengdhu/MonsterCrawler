@@ -6,7 +6,7 @@ S'nosql'
 p4
 aS'communication'
 p5
-aS'mllib'
+aS'hadoop'
 p6
 aS'analytics'
 p7
@@ -18,142 +18,130 @@ aS'data mining'
 p10
 aS'econometrics'
 p11
-aS'management'
+aS'experimentation'
 p12
-aS'java'
+aS'statistics'
 p13
-aS'big data'
+aS'java'
 p14
-aS'predictive modeling'
+aS'big data'
 p15
-aS'hadoop'
+aS'predictive modeling'
 p16
-aS'research'
+aS'mllib'
 p17
-aS'optimization'
+aS'research'
 p18
-aS'computer science'
+aS'optimization'
 p19
-aS'tensorflow'
+aS'computer science'
 p20
-aS'operations research'
+aS'tensorflow'
 p21
-aS'segmentation'
+aS'operations research'
 p22
-aS'python'
+aS'segmentation'
 p23
-aS'marketing'
+aS'python'
 p24
-aS'data scientist'
+aS'marketing'
 p25
-aS'statistical modeling'
+aS'data scientist'
 p26
-aS'sql'
+aS'management'
 p27
-aS'modeling'
+aS'statistical modeling'
 p28
-aS'spark'
+aS'sql'
 p29
-aS'pig'
+aS'modeling'
 p30
-aS'data'
+aS'spark'
 p31
-aS'software development'
+aS'pig'
 p32
+aS'data'
+p33
+aS'software development'
+p34
 aS'c'
 aS'science'
-p33
-aS'programming'
-p34
-aS'mapreduce'
 p35
-aS'hive'
+aS'programming'
 p36
-aS'machine learning'
+aS'mapreduce'
 p37
-aS'r'
-aS'product management'
+aS'hive'
 p38
-aS'electrical engineering'
+aS'machine learning'
 p39
-aS'impala'
+aS'r'
+aS'databases'
 p40
-asS'working-year'
+aS'product management'
 p41
-(lp42
-V[0]
+aS'electrical engineering'
+p42
+aS'impala'
 p43
-asS'major'
+asS'working-year'
 p44
 (lp45
-S'management'
+S'[0]'
 p46
-aS'business'
+asS'major'
 p47
-aS'big data'
-p48
-aS'marketing'
+(lp48
+VStatistics
 p49
-aS'data mining'
+aVBusiness
 p50
-aVapplied statistic
+aVData Science
 p51
-aS'statistic'
+aVEconomics
 p52
-aS'machine learning data mining'
+aVElectrical and Electronics Engineering
 p53
-aS'analytics'
+aVEngineering
 p54
-aS'engineering'
+aVComputer Science
 p55
-aS'electrical'
+aVMathematics
 p56
-aS'computer science'
+aVOperations Research
 p57
-aS'phd'
+aVManagement Science and Engineering
 p58
-aS'applied math'
-p59
-aS'communication'
-p60
-aS'electrical engineering'
-p61
-aS'machine learning'
-p62
-aS'ee computer science'
-p63
-aS'econometrics'
-p64
-aS'operations research'
-p65
-aS'science'
-p66
 asS'education'
-p67
-(lp68
-VDoctor
-p69
+p59
+(lp60
+VMaster
+p61
+aVDoctor
+p62
 asS'responsibility'
-p70
-(lp71
-S'product'
-p72
+p63
+(lp64
+S'development'
+p65
+aS'product'
+p66
 aS'business problem'
-p73
+p67
 aS'recommendation'
-p74
-aS'statistical model'
-p75
+p68
+aS'develop ... model'
+p69
 aS'optimization'
-p76
+p70
 aS'understand'
-p77
+p71
 aS'data mining'
-p78
+p72
 aS'modeling'
-p79
+p73
 aS'implement'
-p80
+p74
 aS'model'
-p81
+p75
 as.

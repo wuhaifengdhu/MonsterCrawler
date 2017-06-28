@@ -4,226 +4,220 @@ p2
 (dp3
 S'probability'
 p4
-I1
+F0.006600055185934625
 sS'communication'
 p5
-I1
+F0.0029984268164978344
 sS'data science'
 p6
-I1
-sS'engineering'
+F0.0022781078137511348
+sS'analytics'
 p7
-I1
-sS'data-driven decision making'
-p8
-I1
-sS'data mining'
-p9
-I1
-sS'visualization'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'programming languages'
-p12
-I1
-sS'agile'
-p13
-I1
-sS'hadoop'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'intelligence'
-p16
-I1
-sS'advanced analytics'
-p17
-I1
-sS'hypothesis testing'
-p18
-I1
-sS'energy'
-p19
-I1
-sS'calculus'
-p20
-I1
-sS'python'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'experimental design'
-p23
-I1
-sS'business analytics'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'spark'
-p27
-I1
-sS'data'
-p28
-I1
-sS'software development'
-p29
-I1
-sS'employee engagement'
-p30
-I1
-sS'github'
-p31
-I1
-sS'linear algebra'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'r'
-I1
-sS'organization'
-p36
-I1
-sS'data analytics'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V(2, 5]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'engineering science'
-p43
-I1
-sS'information'
-p44
-I1
-sS'business'
-p45
-I1
-sS'big data'
-p46
-I1
-sS'communication'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'data mining'
-p49
-I1
-sS'machine learning'
-p50
-I1
-sS'business analytics'
-p51
-I1
+F0.0049416901249064015
 sS'engineering'
-p52
-I1
-sS'design'
-p53
-I1
-sS'economics finance'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'advanced analytics'
-p56
-I1
-sS'phd'
-p57
-I1
-sS'data analytics'
-p58
-I1
+p8
+F0.0046396014283092979
+sS'data-driven decision making'
+p9
+F0.010362033719139673
+sS'data mining'
+p10
+F0.0040189002437161694
+sS'visualization'
+p11
+F0.0035498016513900938
+sS'statistics'
+p12
+F0.001766122831065539
+sS'big data'
+p13
+F0.0024104642544747492
+sS'programming languages'
+p14
+F0.0090283353916685988
+sS'agile'
+p15
+F0.0041357762740521012
+sS'hadoop'
+p16
+F0.0024333456465900852
 sS'computer science'
-p59
-I1
+p17
+F0.0026628470893697363
+sS'intelligence'
+p18
+F0.0029735958520582936
+sS'advanced analytics'
+p19
+F0.0055735048377615224
+sS'hypothesis testing'
+p20
+F0.0085202646164626895
+sS'energy'
+p21
+F0.040906187769603392
+sS'calculus'
+p22
+F0.0085850202809526592
+sS'finance'
+p23
+F0.005028685708681228
+sS'python'
+p24
+F0.00098721877415391284
+sS'data scientist'
+p25
+F0.0020063857294770424
+sS'experimental design'
+p26
+F0.0065600622519700683
+sS'business analytics'
+p27
+F0.0057530003667786243
+sS'sql'
+p28
+F0.0012915603386989528
+sS'modeling'
+p29
+F0.0015381547140559707
+sS'spark'
+p30
+F0.0031934386805220808
+sS'data'
+p31
+F0.0033693604509793442
+sS'software development'
+p32
+F0.0040155238978660463
+sS'employee engagement'
+p33
+F0.011400981021643136
+sS'github'
+p34
+F0.0070620455020631197
+sS'science'
+p35
+F0.0013315035761251751
+sS'economics'
+p36
+F0.0045388102734080704
+sS'programming'
+p37
+F0.0020877182477933255
+sS'analysis'
+p38
+F0.0038933945653878404
+sS'machine learning'
+p39
+F0.0012415108368068928
+sS'data engineering'
+p40
+F0.0075849067349762107
+sS'r'
+F0.001051121792829434
+sS'linear algebra'
+p41
+F0.0083383087293457617
+sS'organization'
+p42
+F0.0033393633319728812
+sS'data analytics'
+p43
+F0.0038680353816018887
+ssS'working-year'
+p44
+(dp45
+V(2, 5]
+p46
+F0.0023464856599074535
+ssS'major'
+p47
+(dp48
+VStatistics
+p49
+F0.0034119408520607579
+sVBusiness
+p50
+F0.0020487014151024888
+sVData Science
+p51
+F0.001945623073115649
+sVEconomics
+p52
+F0.0031075218703114789
+sVEngineering
+p53
+F0.0042658691794824387
+sVComputer Science
+p54
+F0.0017146889135458291
 ssS'education'
+p55
+(dp56
+VBachelor
+p57
+F0.0017260962645263386
+sVMaster
+p58
+F0.0013774255401973047
+sVDoctor
+p59
+F0.002062844264728159
+ssS'responsibility'
 p60
 (dp61
-VBachelor
-p62
-I1
-sVMaster
-p63
-I1
-sVDoctor
-p64
-I1
-ssS'responsibility'
-p65
-(dp66
 S'development'
-p67
-I1
+p62
+F0.0022934867469964369
 sS'information'
-p68
-I1
+p63
+F0.0026270931809268838
 sS'product'
-p69
-I1
+p64
+F0.0050946700405975253
 sS'predict'
-p70
-I1
+p65
+F0.0079012917358244495
 sS'extract'
-p71
-I1
-sVinsight
-p72
-I1
+p66
+F0.0058592964596644505
+sS'insight'
+p67
+F0.0069503536212480498
 sS'communicate'
-p73
-I1
+p68
+F0.007599404857127243
 sS'analysis'
-p74
-I1
+p69
+F0.0038933945653878404
+sS'cross functionally'
+p70
+F0.011329503304772561
 sS'statistical method'
-p75
-I1
+p71
+F0.006658693994415741
 sS'design'
-p76
-I1
+p72
+F0.0055318894318881727
+sS'cost benefit'
+p73
+F0.014178131020294468
 sS'data mining'
-p77
-I1
+p74
+F0.0040189002437161694
 sS'understand'
-p78
-I1
+p75
+F0.0039804541921293094
 sS'modeling'
-p79
-I1
+p76
+F0.0015381547140559707
 sS'presentation'
-p80
-I1
+p77
+F0.0046654438301318314
 sS'model'
-p81
-I1
+p78
+F0.002930702352086441
+sS'decision making'
+p79
+F0.0061867103218362007
 ss.

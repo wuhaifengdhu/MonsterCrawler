@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'intelligence'
+S'communication'
 p4
 aS'data science'
 p5
@@ -36,7 +36,7 @@ aS'html'
 p19
 aS'computer science'
 p20
-aS'communication'
+aS'intelligence'
 p21
 aS'unstructured data'
 p22
@@ -54,6 +54,7 @@ aS'spark'
 p28
 aS'data'
 p29
+aS'a'
 aS'training'
 p30
 aS'national security'
@@ -78,38 +79,32 @@ p40
 asS'major'
 p41
 (lp42
-S'information'
+VData Science
 p43
-aS'data science'
+aVComputer Science
 p44
-aS'communication'
-p45
-aS'computer science'
-p46
-aS'science'
-p47
 asS'education'
+p45
+(lp46
+VBachelor
+p47
+asS'responsibility'
 p48
 (lp49
-VBachelor
-p50
-asS'responsibility'
-p51
-(lp52
 S'development'
-p53
+p50
 aS'information'
-p54
+p51
 aS'analysis'
-p55
+p52
 aS'improvement'
-p56
+p53
 aS'analytic'
-p57
+p54
 aS'report'
-p58
+p55
 aS'implement'
-p59
+p56
 aS'transformation'
-p60
+p57
 as.

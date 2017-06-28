@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'research design'
+S'a'
+aS'research design'
 p4
 aS'agile'
 p5
@@ -24,64 +25,56 @@ aS'research'
 p13
 aS'analytics'
 p14
-aS'product design'
-p15
 aS'teamwork'
-p16
+p15
 aS'architecture'
-p17
+p16
 aS'design thinking'
-p18
+p17
 aS'strategy'
-p19
+p18
 aS'data'
-p20
+p19
 aS'information architecture'
-p21
+p20
 asS'working-year'
-p22
-(lp23
+p21
+(lp22
 V(5, 10]
-p24
+p23
 aV(2, 5]
-p25
+p24
 asS'major'
-p26
-(lp27
-S'information'
+p25
+(lp26
+VData Science
+p27
+aVBusiness
 p28
-aS'business'
-p29
-aS'analytics'
-p30
-aS'design'
-p31
-aS'law'
-p32
-aS'history'
-p33
 asS'education'
-p34
-(lp35
-VMaster
-p36
+p29
+(lp30
+VBachelor
+p31
+aVMaster
+p32
 asS'responsibility'
-p37
-(lp38
+p33
+(lp34
 S'development'
-p39
+p35
 aS'information'
-p40
+p36
 aS'product'
-p41
+p37
 aS'decision-making'
-p42
-aVinsight
-p43
+p38
+aS'insight'
+p39
 aS'design'
-p44
+p40
 aS'identify opportunity'
-p45
+p41
 aS'prototype'
-p46
+p42
 as.

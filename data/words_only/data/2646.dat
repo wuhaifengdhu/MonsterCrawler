@@ -4,185 +4,178 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0041882787278064984
 sS'data science'
 p5
-I1
+F0.003182118850953966
 sS'robotics'
 p6
-I1
+F0.012822759630031736
 sS'hardware'
 p7
-I1
+F0.0098235875041123404
 sS'analytics'
 p8
-I1
+F0.009203571026280704
 sS'engineering'
 p9
-I1
+F0.0064807131062098126
 sS'dod'
 p10
-I1
-sS'psychology'
+F0.011168203590675947
+sS'java'
 p11
-I1
-sS'deep learning'
-p12
-I1
-sS'computer vision'
-p13
-I1
-sS'teamwork'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'architecture'
-p17
-I1
-sS'signal processing'
-p18
-I1
-sS'government'
-p19
-I1
-sS'processing'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'gpu'
-p22
-I1
-sS'neuroscience'
-p23
-I1
-sS'spark'
-p24
-I1
-sS'data'
-p25
-I1
-sS'parallel programming'
-p26
-I1
-sS'cloud computing'
-p27
-I1
-sS'programming'
-p28
-I1
-sS'thought leadership'
-p29
-I1
-sS'security clearance'
-p30
-I1
-sS'machine learning'
-p31
-I1
-sS'optimization'
-p32
-I1
-sS'cuda'
-p33
-I1
-sS'organization'
-p34
-I1
-sS'security'
-p35
-I1
-sS'data analytics'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'mathematics physics'
-p42
-I1
+F0.0032784840414504853
 sS'psychology'
-p43
-I1
-sS'business'
-p44
-I1
-sS'computing'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'robotics'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'analytics'
-p50
-I1
-sS'engineering'
-p51
-I1
-sS'physics computer science'
-p52
-I1
-sVphysic
-p53
-I1
-sS'neuroscience'
-p54
-I1
-sS'mathematics'
-p55
-I1
-sS'phd'
-p56
-I1
-sS'computer science data science'
-p57
-I1
-sS'data analytics'
-p58
-I1
-sS'experimental psychology'
-p59
-I1
+p12
+F0.023584878901431551
+sS'scala'
+p13
+F0.0064565248351815784
+sS'deep learning'
+p14
+F0.0082395282616228843
+sS'computer vision'
+p15
+F0.0093514234475826005
+sS'teamwork'
+p16
+F0.0075778046251375629
 sS'computer science'
-p60
-I1
+p17
+F0.0037195324422942344
+sS'mathematics'
+p18
+F0.0096713930268561149
+sS'architecture'
+p19
+F0.0057857527055149684
+sS'signal processing'
+p20
+F0.0082901323057161368
+sS'government'
+p21
+F0.0068971415757380031
+sS'python'
+p22
+F0.0013789722559610211
+sS'processing'
+p23
+F0.0043203388536262434
+sS'data scientist'
+p24
+F0.0028025705427615825
+sS'gpu'
+p25
+F0.028497335287118841
+sS'neuroscience'
+p26
+F0.022302813878681951
+sS'spark'
+p27
+F0.004460676252157827
+sS'data'
+p28
+F0.00156880274966234
+sS'tensorflow'
+p29
+F0.011415293184461465
+sS'c'
+F0.0033085236081960246
+sS'parallel programming'
+p30
+F0.013848587691378733
+sS'science'
+p31
+F0.0037197560221909651
+sS'cloud computing'
+p32
+F0.008565070462216523
+sS'programming'
+p33
+F0.011664711479734136
+sS'thought leadership'
+p34
+F0.010851002379706674
+sS'security clearance'
+p35
+F0.0096661917281980671
+sS'machine learning'
+p36
+F0.0017341738672858183
+sS'optimization'
+p37
+F0.010582057446500223
+sS'cuda'
+p38
+F0.027425783774488489
+sS'organization'
+p39
+F0.0046645075113271985
+sS'security'
+p40
+F0.0057813513643380733
+sS'physics'
+p41
+F0.012873462314532609
+sS'data analytics'
+p42
+F0.0054029700568407326
+ssS'working-year'
+p43
+(dp44
+V(5, 10]
+p45
+F0.0031895350835366631
+ssS'major'
+p46
+(dp47
+VPsychology
+p48
+F0.012335187860376672
+sVBusiness
+p49
+F0.0028616781671272858
+sVData Science
+p50
+F0.0027176957211774142
+sVEngineering
+p51
+F0.0059586744094357871
+sVCognitive Science
+p52
+F0.011396857798636251
+sVComputer Science
+p53
+F0.002395121022095761
+sVMathematics
+p54
+F0.0045351125121228884
+sVPhysics
+p55
+F0.0069410902148150542
 ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0024110550996558379
+sVMaster
+p59
+F0.0019240229767835367
+sVDoctor
+p60
+F0.0028814332586679045
+ssS'responsibility'
 p61
 (dp62
-VDoctor
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
 S'development'
-p66
-I1
+p63
+F0.0064072010709741722
 sS'processing'
-p67
-I1
+p64
+F0.0043203388536262434
 sS'optimization'
-p68
-I1
+p65
+F0.010582057446500223
 ss.

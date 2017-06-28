@@ -2,142 +2,123 @@
 S'skills'
 p2
 (dp3
-S'genomics'
+S'biostatistics'
 p4
-I1
-sS'data collection'
-p5
-I1
-sS'dna'
-p6
-I1
-sS'product development'
-p7
-I1
-sS'biostatistics'
-p8
-I1
-sS'computational biology'
-p9
-I1
+F0.018219895237488373
 sS'communication'
-p10
-I1
+p5
+F0.014658975547322744
 sS'energy'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'machine learning'
-p13
-I1
-sS'analysis'
-p14
-I1
-sS'research'
-p15
-I1
-sS'python'
-p16
-I1
+p6
+F0.014284700490972612
 sS'engineering'
-p17
-I1
-sS'genetics'
-p18
-I1
+p7
+F0.0056706239679335862
 sS'statistical analysis'
-p19
-I1
+p8
+F0.011919908117650962
 sS'problem solving'
+p9
+F0.011363943819228013
+sS'strategy'
+p10
+F0.0072917195890131242
+sS'genomics'
+p11
+F0.058991506490765747
+sS'dna'
+p12
+F0.021821633653810318
+sS'research'
+p13
+F0.0039498163965821214
+sS'genetics'
+p14
+F0.017982431042217119
+sS'computer science'
+p15
+F0.0065091817740149105
+sS'mathematics'
+p16
+F0.0084624688984991005
+sS'biology'
+p17
+F0.031456597817865715
+sS'product development'
+p18
+F0.012099427540656064
+sS'python'
+p19
+F0.0024132014479317869
+sS'data scientist'
 p20
-I1
+F0.0049044984498327693
 sS'bioinformatics'
 p21
-I1
-sS'algorithm development'
+F0.030178308243082919
+sS'java'
 p22
-I1
-sS'strategy'
+F0.0057373470725383489
+sS'editing'
 p23
-I1
-sS'computer science'
+F0.019944501147613439
+sS'c'
+F0.0057899163143430429
+sS'science'
 p24
-I1
-ssS'working-year'
-p25
-(dp26
-V[0]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'genetics'
-p30
-I1
-sS'computational biology'
-p31
-I1
-sS'biostatistics'
-p32
-I1
-sS'computing'
-p33
-I1
-sS'communication'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'engineering'
-p36
-I1
-sS'design'
-p37
-I1
-sS'computer science'
-p38
-I1
-sS'bioinformatics'
-p39
-I1
-sS'computational biolog'
-p40
-I1
-sS'computer science mathematics'
-p41
-I1
-ssS'education'
-p42
-(dp43
-S'Bachelor'
-p44
-I1
-ssS'responsibility'
-p45
-(dp46
-S'development'
-p47
-I1
-sS'large data set'
-p48
-I1
-sS'product'
-p49
-I1
-sS'data collection'
-p50
-I1
+F0.0032547865194170944
 sS'analysis'
-p51
-I1
+p25
+F0.0047585933576962487
+sS'machine learning'
+p26
+F0.0030348042677501822
+ssS'working-year'
+p27
+(dp28
+S'[0]'
+p29
+F0.010167660789557326
+ssS'major'
+p30
+(dp31
+VBiological Engineering
+p32
+F0.012176832317021715
+sVMathematics
+p33
+F0.0079364468962150551
+sVEngineering
+p34
+F0.010427680216512627
+sVComputer Science
+p35
+F0.0041914617886675823
+ssS'education'
+p36
+(dp37
+VDoctor
+p38
+F0.0050425082026688333
+ssS'responsibility'
+p39
+(dp40
+S'development'
+p41
+F0.0056063009371024007
+sS'large data set'
+p42
+F0.014557671922837342
+sS'product'
+p43
+F0.0062268189385080858
+sS'analysis'
+p44
+F0.0047585933576962487
 sS'design'
-p52
-I1
+p45
+F0.013522396389059978
 sS'presentation'
-p53
-I1
+p46
+F0.011404418251433363
 ss.

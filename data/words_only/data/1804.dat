@@ -4,238 +4,240 @@ p2
 (dp3
 S'intellectual property'
 p4
-I1
-sS'r programming'
+F0.012429001294237253
+sS'testing'
 p5
-I1
+F0.0047066161262069263
 sS'business requirements'
 p6
-I1
+F0.011916030191674309
 sS'strategic planning'
 p7
-I1
+F0.0079352727985625236
 sS'analytics'
 p8
-I1
-sS'pricing'
+F0.0039987929286598922
+sS'engineering'
 p9
-I1
-sS'mathematical modeling'
+F0.0028157581082152981
+sS'pricing'
 p10
-I1
-sS'simulation modeling'
+F0.0086911877460675649
+sS'sas'
 p11
-I1
-sS'research'
+F0.0031844525440860153
+sS'simulation modeling'
 p12
-I1
-sS'econometrics'
+F0.014120275910561614
+sS'research'
 p13
-I1
-sS'quantitative finance'
+F0.011767728850506734
+sS'econometrics'
 p14
-I1
-sS'simulation'
-p15
-I1
-sS'excel'
-p16
-I1
-sS'integration'
-p17
-I1
-sS'strategy'
-p18
-I1
-sS'r'
-I1
-sS'statistical software'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'visio'
-p21
-I1
-sS'mixed model'
-p22
-I1
-sS'factor analysis'
-p23
-I1
+F0.0070511691028511281
 sS'theory'
+p15
+F0.0067367270125823801
+sS'quantitative finance'
+p16
+F0.0096756844766704726
+sS'excel'
+p17
+F0.0037171361535771621
+sS'integration'
+p18
+F0.0053017083268841669
+sS'mathematical modeling'
+p19
+F0.0054717234030867649
+sS'strategy'
+p20
+F0.0036207159338547926
+sS'r'
+F0.0012758443830205544
+sS'statistical software'
+p21
+F0.0090471203937873314
+sS'computer science'
+p22
+F0.0032321454326143004
+sS'visio'
+p23
+F0.0099847152803653194
+sS'simulation'
 p24
-I1
-sS'automotive'
+F0.0061720362935043021
+sS'factor analysis'
 p25
-I1
-sS'team leadership'
+F0.011312897819442459
+sS'finance'
 p26
-I1
-sS'data scientist'
+F0.00610378403260618
+sS'automotive'
 p27
-I1
-sS'financial risk'
+F0.019528222838322454
+sS'processing'
 p28
-I1
-sS'leadership'
+F0.0037542254865993562
+sS'data scientist'
 p29
-I1
-sS'modeling'
+F0.002435337161296272
+sS'leadership'
 p30
-I1
-sS'data'
+F0.0037986405085145333
+sS'modeling'
 p31
-I1
-sS'information technology'
+F0.001867001583957592
+sS'data'
 p32
-I1
-sS'word'
+F0.0019085296899340469
+sS'information technology'
 p33
-I1
-sS'risk assessment'
+F0.0071647105097971155
+sS'a'
+F0.0042989468818713256
+sS'word'
 p34
-I1
-sS'machine learning'
+F0.0064107325533290039
+sS'mixed model'
 p35
-I1
-sS'programming'
+F0.013751672976827384
+sS'risk assessment'
 p36
-I1
-sS'analysis'
+F0.011628300547639478
+sS'science'
 p37
-I1
-sS'spss'
+F0.0016161698579174539
+sS'machine learning'
 p38
-I1
-sS'optimization'
+F0.0015069372915725043
+sS'programming'
 p39
-I1
-sS'validation'
+F0.0050681160222293149
+sS'analysis'
 p40
-I1
-sS'powerpoint'
+F0.00078762924541179297
+sS'spss'
 p41
-I1
-sS'education'
+F0.0050720662778334829
+sS'optimization'
 p42
-I1
-ssS'working-year'
+F0.0091954430224760551
+sS'validation'
 p43
-(dp44
-V(5, 10]
+F0.0072688788622416014
+sS'powerpoint'
+p44
+F0.0056253434642166717
+sS'education'
 p45
-I1
-ssS'major'
+F0.004824429309915561
+ssS'working-year'
 p46
 (dp47
-S'information'
+V(5, 10]
 p48
-I1
-sS'quantitative finance'
+F0.0027715960036249626
+ssS'major'
 p49
-I1
-sS'business'
-p50
-I1
-sS'machine learning'
+(dp50
+VBusiness
 p51
-I1
-sS'analytics'
+F0.0024866996486761247
+sVData Science
 p52
-I1
-sS'design'
+F0.0023615838680576154
+sVEconomics
 p53
-I1
-sS'computational finance'
+F0.0037718886149987604
+sVEngineering
 p54
-I1
-sS'statistic'
+F0.0051778825902683394
+sVInformation Science
 p55
-I1
-sS'computer science engineering'
+F0.0058221958357565374
+sVComputer Science
 p56
-I1
-sS'econometrics'
-p57
-I1
-sS'information technology'
-p58
-I1
-sS'computer science'
-p59
-I1
+F0.0020812775778211441
 ssS'education'
-p60
-(dp61
+p57
+(dp58
 VMaster
-p62
-I1
+p59
+F0.0016719096212050044
 sVDoctor
-p63
-I1
+p60
+F0.002503866142014869
 ssS'responsibility'
-p64
-(dp65
-S'development'
-p66
-I1
-sS'information'
-p67
-I1
-sS'product'
-p68
-I1
-sS'experiment analysis'
-p69
-I1
-sS'business problem'
-p70
-I1
-sS'test model'
-p71
-I1
-sVinsight
-p72
-I1
-sS'communicate'
-p73
-I1
+p61
+(dp62
+S'insight'
+p63
+F0.0042181456459988165
 sS'design'
-p74
-I1
-sS'analysis'
-p75
-I1
-sS'simulation'
-p76
-I1
+p64
+F0.023500992345124927
+sS'decision making'
+p65
+F0.0075093863216770425
+sS'information'
+p66
+F0.0031887475851250448
+sS'develop ... model'
+p67
+F0.0071262368440830753
 sS'analytic'
-p77
-I1
-sS'statistical method'
-p78
-I1
-sS'optimization'
-p79
-I1
+p68
+F0.0051901746489646959
+sS'prototype'
+p69
+F0.0072486699162061788
+sS'development'
+p70
+F0.0055676367927085914
+sS'product'
+p71
+F0.0092758130394327357
+sS'business problem'
+p72
+F0.0065474725566221715
+sS'processing'
+p73
+F0.0037542254865993562
+sS'communicate'
+p74
+F0.0046120526029461888
 sS'understand'
-p80
-I1
-sS'design experiment'
-p81
-I1
+p75
+F0.0048314478469983343
 sS'modeling'
-p82
-I1
+p76
+F0.001867001583957592
+sS'design ... experiment'
+p77
+F0.010322601290335989
+sS'test ... model'
+p78
+F0.010651565308840989
+sS'analysis'
+p79
+F0.00078762924541179297
+sS'simulation'
+p80
+F0.0061720362935043021
+sS'optimization'
+p81
+F0.0091954430224760551
 sS'analytical method'
+p82
+F0.012335158058443508
+sS'experiment analysis'
 p83
-I1
+F0.015431871137492708
 sS'model'
 p84
-I1
-sS'prototype'
+F0.017786331516110813
+sS'validate ... model'
 p85
-I1
+F0.01203394516630152
 ss.

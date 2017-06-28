@@ -4,238 +4,228 @@ p2
 (dp3
 S'business strategy'
 p4
-I1
+F0.011299387807878947
 sS'feature extraction'
 p5
-I1
+F0.021606242288105225
 sS'presentation skills'
 p6
-I1
-sS'hadoop'
+F0.017224650220616471
+sS'julia'
 p7
-I1
-sS'analytics'
-p8
-I1
-sS'c++'
-p9
-I1
-sS'data mining'
-p10
-I1
-sS'hbase'
-p11
-I1
-sS'perl'
-p12
-I1
-sS'research'
-p13
-I1
-sS'dimensionality reduction'
-p14
-I1
-sS'experimentation'
-p15
-I1
-sS'open source'
-p16
-I1
-sS'big data'
-p17
-I1
-sS'scala'
-p18
-I1
-sS'deep learning'
-p19
-I1
-sS'predictive modeling'
-p20
-I1
+F0.018643638835622266
 sS'mllib'
-p21
-I1
-sS'writing'
-p22
-I1
-sS'mahout'
-p23
-I1
-sS'statistical software'
-p24
-I1
-sS'computer science'
-p25
-I1
-sS'communication'
-p26
-I1
-sS'intelligence'
-p27
-I1
-sS'mathematics'
-p28
-I1
-sS'unstructured data'
-p29
-I1
-sS'matlab'
-p30
-I1
-sS'data analysis'
-p31
-I1
-sS'signal processing'
-p32
-I1
-sS'python'
-p33
-I1
-sS'processing'
-p34
-I1
-sS'octave'
-p35
-I1
-sS'modeling'
-p36
-I1
-sS'spark'
-p37
-I1
-sS'scikit-learn'
-p38
-I1
-sS'data visualization'
-p39
-I1
-sS'software engineering'
-p40
-I1
-sS'java'
-p41
-I1
-sS'programming'
-p42
-I1
-sS'communication skills'
-p43
-I1
-sS'machine learning'
-p44
-I1
-sS'weka'
-p45
-I1
-sS'r'
-I1
-sS'statistical inference'
-p46
-I1
-sS'unit testing'
-p47
-I1
-sS'scripting'
-p48
-I1
-ssS'working-year'
-p49
-(dp50
-V(0, 2]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'data mining'
-p54
-I1
-sS'business'
-p55
-I1
-sS'big data'
-p56
-I1
-sS'ee computer science'
-p57
-I1
-sS'communication'
-p58
-I1
-sS'berkeley'
-p59
-I1
-sS'software engineering'
-p60
-I1
-sS'computer science statistics'
-p61
-I1
-sS'machine learning'
-p62
-I1
+p8
+F0.018591645718522089
 sS'analytics'
-p63
-I1
+p9
+F0.0032332247657380171
+sS'unit testing'
+p10
+F0.018439892134522334
+sS'data mining'
+p11
+F0.0078883989913834107
+sS'hbase'
+p12
+F0.012447056096059745
+sS'perl'
+p13
+F0.010654463733417725
+sS'research'
+p14
+F0.0063431995662582771
+sS'dimensionality reduction'
+p15
+F0.020257156098371712
+sS'experimentation'
+p16
+F0.013386935238928917
+sS'statistics'
+p17
+F0.0069331810765992903
+sS'open source'
+p18
+F0.011888177471814478
+sS'big data'
+p19
+F0.0047313201723519233
+sS'scala'
+p20
+F0.0090727375007384255
+sS'deep learning'
+p21
+F0.011578221869492381
+sS'predictive modeling'
+p22
+F0.0077286465007024895
+sS'hadoop'
+p23
+F0.0047762323472102779
+sS'writing'
+p24
+F0.0083533841118308277
+sS'mahout'
+p25
+F0.016119638479384749
+sS'strategy'
+p26
+F0.0058550610826276382
+sS'statistical software'
+p27
+F0.014630101752035274
 sS'computer science'
-p64
-I1
-sS'phd'
-p65
-I1
-sS'statistic'
-p66
-I1
+p28
+F0.0052267035806216377
+sS'intelligence'
+p29
+F0.0058366491073857957
 sS'mathematics'
-p67
-I1
-sS'computer science mathematics'
-p68
-I1
-sS'machine learning data mining'
-p69
-I1
+p30
+F0.013590284625098927
+sS'unstructured data'
+p31
+F0.011854306444063791
+sS'matlab'
+p32
+F0.0094899716553015958
+sS'data analysis'
+p33
+F0.0055158439218054465
+sS'signal processing'
+p34
+F0.011649330897995167
+sS'python'
+p35
+F0.0038754759312510478
+sS'processing'
+p36
+F0.0060709594300026766
+sS'octave'
+p37
+F0.030972786732589713
+sS'sql'
+p38
+F0.002535107281907238
+sS'modeling'
+p39
+F0.0030191289554704552
+sS'spark'
+p40
+F0.0062681621684596974
+sS'data'
+p41
+F0.00044089772444041975
+sS'scikit-learn'
+p42
+F0.013336357996682114
+sS'c'
+F0.0046491521334501755
+sS'data visualization'
+p43
+F0.0073112774185115272
+sS'software engineering'
+p44
+F0.0096730966123197461
+sS'java'
+p45
+F0.0092138808005076834
+sS'science'
+p46
+F0.0026135088780449532
+sS'programming'
+p47
+F0.0040978261518025121
+sS'communication skills'
+p48
+F0.013691917665651017
+sS'machine learning'
+p49
+F0.0024368688544016332
+sS'lucene'
+p50
+F0.019661089547162246
+sS'weka'
+p51
+F0.014456359956064164
+sS'r'
+F0.0041263368521482612
+sS'solr'
+p52
+F0.01541981103861949
+sS'statistical inference'
+p53
+F0.01691611461355046
+sS'scripting'
+p54
+F0.0090449233362329493
+ssS'working-year'
+p55
+(dp56
+V(0, 2]
+p57
+F0.0084668407586994555
+ssS'major'
+p58
+(dp59
+VStatistics
+p60
+F0.0066970437542307809
+sVBusiness
+p61
+F0.0040212429262978218
+sVData Science
+p62
+F0.0038189181509481881
+sVEngineering
+p63
+F0.0083731558615863476
+sVComputer Science
+p64
+F0.0033656347448037089
+sVMathematics
+p65
+F0.0063727603330202666
 ssS'education'
+p66
+(dp67
+VMaster
+p68
+F0.0027036456699783525
+sVDoctor
+p69
+F0.0040490028690575016
+ssS'responsibility'
 p70
 (dp71
-VMaster
-p72
-I1
-sVDoctor
-p73
-I1
-ssS'responsibility'
-p74
-(dp75
 S'extract'
-p76
-I1
+p72
+F0.011500775207073715
 sS'data analysis'
-p77
-I1
+p73
+F0.0055158439218054465
 sS'processing'
-p78
-I1
+p74
+F0.0060709594300026766
 sS'business problem'
-p79
-I1
+p75
+F0.010587920305318381
 sS'pattern'
-p80
-I1
-sVinsight
-p81
-I1
+p76
+F0.0097345393144020291
+sS'insight'
+p77
+F0.006821164892228569
 sS'data mining'
-p82
-I1
+p78
+F0.0078883989913834107
 sS'modeling'
-p83
-I1
+p79
+F0.0030191289554704552
 sS'model'
-p84
-I1
+p80
+F0.0057524566613443894
 sS'presentation'
-p85
-I1
+p81
+F0.0091574510866528121
 ss.

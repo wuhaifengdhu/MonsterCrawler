@@ -20,31 +20,31 @@ aS'unix'
 p11
 aS'visual studio'
 p12
-aS'c++'
-p13
 aS'linux'
-p14
+p13
 aS'vmware'
-p15
+p14
 aS'xml'
-p16
+p15
 aS'visualization'
-p17
+p16
 aS'open source'
-p18
+p17
 aS'vhdl'
-p19
+p18
 aS'scala'
-p20
+p19
 aS'ubuntu'
-p21
+p20
 aS'ruby'
-p22
+p21
 aS'nosql'
-p23
+p22
 aS'redis'
-p24
+p23
 aS'hadoop'
+p24
+aS'mysql'
 p25
 aS'perl'
 p26
@@ -68,115 +68,113 @@ aS'android'
 p35
 aS'junit'
 p36
-aS'verilog'
+aS'css'
 p37
-aS'hibernate'
+aS'verilog'
 p38
-aS'government'
+aS'hibernate'
 p39
-aS'spring'
+aS'iis'
 p40
-aS'javascript'
+aS'government'
 p41
-aS'maven'
+aS'spring'
 p42
-aS'ajax'
+aS'mongodb'
 p43
-aS'jsp'
+aS'javascript'
 p44
-aS'sql'
+aS'ios'
 p45
-aS'apache'
+aS'maven'
 p46
-aS'java'
+aS'ajax'
 p47
-aS'spark'
+aS'jsp'
 p48
-aS'php'
+aS'sql'
 p49
-aS'data'
+aS'apache'
 p50
-aS'docker'
+aS'java'
 p51
-aS'software development'
+aS'spark'
 p52
+aS'php'
+p53
+aS'data'
+p54
+aS'docker'
+p55
+aS'software development'
+p56
 aS'c'
 aS'tomcat'
-p53
-aS'sql server'
-p54
-aS'mysql'
-p55
-aS'science'
-p56
-aS'.net'
 p57
-aS'eclipse'
+aS'sql server'
 p58
-aS'dod'
+aS'windows'
 p59
-aS'machine learning'
+aS'science'
 p60
-aS'lucene'
+aS'eclipse'
 p61
-aS'os x'
+aS'mapreduce'
 p62
-aS'defense'
+aS'dod'
 p63
-aS'elasticsearch'
+aS'machine learning'
 p64
-aS'mac os x'
+aS'lucene'
 p65
-aS'security'
+aS'os x'
 p66
-aS'scripting'
+aS'defense'
 p67
-asS'working-year'
+aS'elasticsearch'
 p68
-(lp69
-V(0, 2]
+aS'mac os x'
+p69
+aS'security'
 p70
-aV(2, 5]
+aS'scripting'
 p71
-asS'major'
+asS'working-year'
 p72
 (lp73
-S'information'
+V(0, 2]
 p74
-aS'information systems'
+aV(2, 5]
 p75
-aS'business'
+asS'major'
 p76
-aS'science'
-p77
-aS'data science'
+(lp77
+VData Science
 p78
-aS'machine learning'
+aVInformation Science
 p79
-aS'analytics'
+aVComputer Science
 p80
-aS'information system'
+aVBusiness
 p81
-aS'computer science'
-p82
-aS'ee computer science'
-p83
 asS'education'
-p84
-(lp85
+p82
+(lp83
 VBachelor
-p86
+p84
+aVMaster
+p85
 asS'responsibility'
-p87
-(lp88
+p86
+(lp87
 S'understand'
-p89
+p88
 aS'analytic'
-p90
+p89
 aS'development'
-p91
+p90
 aS'presentation'
-p92
+p91
 aS'information'
-p93
+p92
 as.

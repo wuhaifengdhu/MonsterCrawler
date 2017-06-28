@@ -14,29 +14,29 @@ aS'analytics'
 p8
 aS'engineering'
 p9
-aS'go'
-p10
 aS'data mining'
+p10
+aS'go'
 p11
-aS'sas'
-p12
 aVpanda
-p13
+p12
 aS'visualization'
-p14
+p13
 aS'management'
-p15
+p14
 aS'java'
-p16
+p15
 aS'big data'
-p17
+p16
 aS'scala'
-p18
+p17
 aS'statistical computing'
-p19
+p18
 aS'redis'
-p20
+p19
 aS'hadoop'
+p20
+aS'research'
 p21
 aS'data analytics'
 p22
@@ -71,75 +71,67 @@ aS'data'
 p36
 aS'training'
 p37
-aS'science'
+aS'solver'
 p38
-aS'programming'
+aS'science'
 p39
-aS'machine learning'
+aS'programming'
 p40
+aS'machine learning'
+p41
 aS'r'
 aS'architecture'
-p41
-aS'application development'
 p42
-asS'working-year'
+aS'organization'
 p43
-(lp44
-V(2, 5]
+aS'application development'
+p44
+asS'working-year'
 p45
+(lp46
+V(2, 5]
+p47
 asS'major'
-p46
-(lp47
-S'management'
 p48
-aS'business'
-p49
-aS'big data'
+(lp49
+VBusiness
 p50
-aS'computing'
+aVData Science
 p51
-aS'marketing'
+aVEconomics
 p52
-aS'statistical computing'
+aVEngineering
 p53
-aS'machine learning'
+aVComputer Science
 p54
-aS'analytics'
+aVManagement Science and Engineering
 p55
-aS'engineering'
-p56
-aS'data mining'
-p57
-aS'data science'
-p58
-aS'data analytics'
-p59
-aS'science'
-p60
 asS'education'
-p61
-(lp62
-S'Bachelor'
-p63
+p56
+(lp57
+VBachelor
+p58
+aVMaster
+p59
 asS'responsibility'
-p64
-(lp65
+p60
+(lp61
 S'development'
-p66
+p62
 aS'product'
-p67
+p63
 aS'business problem'
-p68
-aVinsight
-p69
-aS'statistical model'
-p70
+p64
+aS'insight'
+p65
 aS'understand'
-p71
+p66
 aS'data mining'
-p72
+p67
 aS'modeling'
-p73
+p68
 aS'implement'
-p74
+p69
+aS'decision making'
+p70
 as.

@@ -12,41 +12,42 @@ aS'ubuntu'
 p7
 aS'engineering'
 p8
-aS'analysis'
-p9
 aS'linux'
-p10
+p9
 aS'hbase'
-p11
+p10
 aS'django'
-p12
+p11
 aS'insurance'
-p13
+p12
 aS'hdfs'
-p14
+p13
 aS'management'
-p15
+p14
 aS'java'
-p16
+p15
 aS'big data'
-p17
+p16
 aS'hadoop'
-p18
+p17
 aS'research'
-p19
+p18
 aS'computer science'
-p20
+p19
 aS'mac os'
-p21
+p20
 aS'energy'
-p22
+p21
 aS'python'
-p23
+p22
 aS'sql'
-p24
+p23
 aS'spark'
-p25
+p24
 aS'data'
+p25
+aS'c'
+aS'windows'
 p26
 aS'science'
 p27
@@ -54,7 +55,7 @@ aS'programming'
 p28
 aS'mapreduce'
 p29
-aS'c++'
+aS'analysis'
 p30
 aS'machine learning'
 p31
@@ -71,47 +72,39 @@ p36
 asS'working-year'
 p37
 (lp38
-V[0]
+S'[0]'
 p39
 asS'major'
 p40
 (lp41
-S'management'
+VEngineering
 p42
-aS'big data'
+aVComputer Science
 p43
-aS'science'
+aVManagement Science and Engineering
 p44
-aS'machine learning'
-p45
-aS'engineering'
-p46
-aS'computer science'
-p47
-aS'statistic'
-p48
-aS'computer science operation research'
-p49
 asS'education'
+p45
+(lp46
+VBachelor
+p47
+aVMaster
+p48
+aVDoctor
+p49
+asS'responsibility'
 p50
 (lp51
-VMaster
-p52
-aVDoctor
-p53
-asS'responsibility'
-p54
-(lp55
 S'product'
-p56
+p52
 aS'forecasting'
-p57
+p53
 aS'analysis'
-p58
+p54
 aS'optimization'
-p59
+p55
 aS'implement'
-p60
+p56
 aS'prototype'
-p61
+p57
 as.

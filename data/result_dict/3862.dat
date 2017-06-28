@@ -2,165 +2,139 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'centos'
 p4
-aS'centos'
-p5
 aS'communication'
-p6
+p5
 aS'testing'
-p7
+p6
 aS'mobile devices'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'hive'
-p10
+p9
 aS'linux'
-p11
+p10
 aS'quantitative analysis'
-p12
+p11
 aS'amazon web services'
-p13
+p12
 aS'technical leadership'
-p14
+p13
 aS'java'
-p15
+p14
 aS'nosql'
-p16
+p15
 aS'big data'
-p17
+p16
 aS'user experience'
-p18
+p17
 aS'hadoop'
-p19
+p18
 aS'research'
-p20
+p19
 aS'optimization'
-p21
+p20
 aS'computer science'
-p22
+p21
 aS'web services'
-p23
+p22
 aS'innovation'
-p24
+p23
 aS'statistical analysis'
-p25
+p24
 aS'electronics'
-p26
+p25
 aS'hypothesis testing'
-p27
+p26
 aS'primary research'
-p28
-aS'data modeling'
-p29
+p27
 aS'mongodb'
-p30
+p28
 aS'data scientist'
-p31
+p29
 aS'scalability'
-p32
+p30
 aS'business process'
-p33
+p31
 aS'leadership'
-p34
+p32
 aS'ubuntu'
-p35
+p33
 aS'modeling'
-p36
+p34
 aS'spark'
-p37
+p35
 aS'data'
-p38
+p36
 aS'mysql'
-p39
+p37
 aS'science'
-p40
+p38
 aS'programming'
-p41
+p39
 aS'mapreduce'
-p42
+p40
 aS'analysis'
-p43
+p41
 aS'machine learning'
-p44
-aS'optimization algorithms'
-p45
+p42
 aS'r'
 aS'security'
-p46
+p43
 aS'high availability'
-p47
+p44
 aS'data analytics'
-p48
+p45
 aS'predictive analytics'
-p49
+p46
 asS'working-year'
+p47
+(lp48
+V(2, 5]
+p49
+asS'major'
 p50
 (lp51
-V(2, 5]
+VData Science
 p52
-asS'major'
+aVComputer Science
 p53
-(lp54
-S'information'
-p55
-aS'general'
-p56
-aS'business'
-p57
-aS'big data'
-p58
-aS'science'
-p59
-aS'machine learning'
-p60
-aS'analytics'
-p61
-aS'design'
-p62
-aS'computer science'
-p63
-aS'communication'
-p64
-aS'electronics'
-p65
-aS'phd'
-p66
-aS'data analytics'
-p67
-aS'predictive analytics'
-p68
+aVBusiness
+p54
 asS'education'
-p69
-(lp70
-VMaster
-p71
+p55
+(lp56
+VBachelor
+p57
+aVMaster
+p58
 aVDoctor
-p72
+p59
 asS'responsibility'
-p73
-(lp74
+p60
+(lp61
 S'development'
-p75
+p62
 aS'information'
-p76
+p63
 aS'product'
-p77
-aS'analysis'
-p78
-aS'optimization'
-p79
-aS'design'
-p80
-aS'design experiment'
-p81
-aS'modeling'
-p82
-aS'implement'
-p83
-aS'prototype'
-p84
+p64
 aS'quantitative analysis'
-p85
+p65
+aS'analysis'
+p66
+aS'optimization'
+p67
+aS'design'
+p68
+aS'modeling'
+p69
+aS'implement'
+p70
+aS'prototype'
+p71
+aS'design ... experiment'
+p72
 as.

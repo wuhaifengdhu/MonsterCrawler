@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'statistics'
 p4
 aS'data scientist'
 p5
@@ -20,70 +20,66 @@ aS'communication skills'
 p11
 aS'strategy'
 p12
-aS'analysis'
-p13
-aS'business development'
-p14
-aS'mathematics'
-p15
-aS'data'
-p16
-aS'data management'
-p17
-aS'pricing'
-p18
-asS'working-year'
-p19
-(lp20
-V(5, 10]
-p21
-asS'major'
-p22
-(lp23
-S'information'
-p24
 aS'management'
-p25
-aS'business'
-p26
-aS'mathematics economics'
-p27
-aS'communication'
-p28
-aS'economics'
-p29
-aS'statistic'
-p30
+p13
+aS'analysis'
+p14
+aS'business development'
+p15
 aS'mathematics'
-p31
-aS'history'
-p32
+p16
+aS'data'
+p17
+aS'data management'
+p18
+aS'pricing'
+p19
+asS'working-year'
+p20
+(lp21
+V(5, 10]
+p22
+asS'major'
+p23
+(lp24
+VMathematics
+p25
+aVStatistics
+p26
+aVEconomics
+p27
+aVBusiness
+p28
+aVManagement Science and Engineering
+p29
 asS'education'
+p30
+(lp31
+S'Bachelor'
+p32
+asS'responsibility'
 p33
 (lp34
-S'Bachelor'
-p35
-asS'responsibility'
-p36
-(lp37
 S'development'
-p38
+p35
 aS'information'
-p39
+p36
 aS'product'
-p40
+p37
 aS'analysis'
-p41
+p38
 aS'statistical model'
-p42
+p39
 aS'understand'
-p43
+p40
 aS'recommendation'
-p44
+p41
 aS'report'
-p45
+p42
 aS'model'
-p46
+p43
+aS'forecast'
+p44
 aS'business recommendation'
-p47
+p45
 as.

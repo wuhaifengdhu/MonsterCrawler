@@ -4,104 +4,119 @@ p2
 (dp3
 S'software development'
 p4
-I1
+F0.01127764158549613
 sS'consulting'
 p5
-I1
+F0.01201869518410144
 sS'fraud'
 p6
-I1
-sS'analytics'
+F0.10403872541511405
+sS'data modeling'
 p7
-I1
-sS'communication'
-p8
-I1
-sS'business requirements'
-p9
-I1
-sS'data scientist'
-p10
-I1
-sS'analysis'
-p11
-I1
-sS'writing'
-p12
-I1
-sS'risk analysis'
-p13
-I1
-sS'banking'
-p14
-I1
-sS'data analysis'
-p15
-I1
-sS'sql'
-p16
-I1
-sS'data mining'
-p17
-I1
-sS'insurance'
-p18
-I1
-ssS'working-year'
-p19
-(dp20
-V(5, 10]
-p21
-I1
-ssS'major'
-p22
-(dp23
-S'communication'
-p24
-I1
-sS'data mining'
-p25
-I1
-sS'design'
-p26
-I1
-sS'business'
-p27
-I1
+F0.013894690132012081
 sS'analytics'
+p8
+F0.0046262630956570563
+sS'sql'
+p9
+F0.0036273609512396123
+sS'communication'
+p10
+F0.0084211136122917894
+sS'business requirements'
+p11
+F0.027571665603076195
+sS'data scientist'
+p12
+F0.0056349556657653097
+sS'analysis'
+p13
+F0.0018224400093304783
+sS'writing'
+p14
+F0.011952448542991982
+sS'risk analysis'
+p15
+F0.027938646973221487
+sS'banking'
+p16
+F0.018267552758289125
+sS'statistics'
+p17
+F0.0049601747595883223
+sS'data analysis'
+p18
+F0.0078923511434343882
+sS'data mining'
+p19
+F0.011287124088734774
+sS'organization'
+p20
+F0.0093786374429876661
+sS'modeling'
+p21
+F0.0043199238777742151
+sS'insurance'
+p22
+F0.016772188369945148
+ssS'working-year'
+p23
+(dp24
+V(5, 10]
+p25
+F0.0064130013913662699
+ssS'major'
+p26
+(dp27
+VData Science
 p28
-I1
-ssS'education'
+F0.0054643030989630992
+sVStatistics
 p29
-(dp30
-VMaster
+F0.009582472180255746
+sVComputer Science
+p30
+F0.0048157220550648812
+sVBusiness
 p31
-I1
-ssS'responsibility'
+F0.0057537997190112459
+ssS'education'
 p32
 (dp33
-S'development'
+VMaster
 p34
-I1
-sS'product'
+F0.0038685142831073236
+ssS'responsibility'
 p35
-I1
-sS'data analysis'
-p36
-I1
-sS'analysis'
+(dp36
+S'development'
 p37
-I1
-sS'analytic'
+F0.006441281927734673
+sS'product'
 p38
-I1
-sS'design'
+F0.0071542175038178009
+sS'data analysis'
 p39
-I1
-sS'data mining'
+F0.0078923511434343882
+sS'analysis'
 p40
-I1
-sS'model'
+F0.0018224400093304783
+sS'develop ... model'
 p41
-I1
+F0.016488899080724137
+sS'analytic'
+p42
+F0.012009180703721504
+sS'design'
+p43
+F0.0077681851596727528
+sS'data mining'
+p44
+F0.011287124088734774
+sS'modeling'
+p45
+F0.0043199238777742151
+sS'model'
+p46
+F0.016461817467038731
 ss.

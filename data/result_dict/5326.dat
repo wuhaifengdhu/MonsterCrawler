@@ -2,52 +2,54 @@
 S'skills'
 p2
 (lp3
-S'retail'
+S'sap'
 p4
-aS'intelligence'
+aS'retail'
 p5
-aS'energy'
+aS'intelligence'
 p6
-aS'data scientist'
+aS'energy'
 p7
-aS'analytics'
+aS'data scientist'
 p8
-aS'business intelligence'
+aS'analytics'
 p9
-aS'healthcare'
+aS'business intelligence'
 p10
-aS'manufacturing'
+aS'healthcare'
 p11
-aS'data'
+aS'oracle'
 p12
-aS'information technology'
+aS'manufacturing'
 p13
-asS'working-year'
+aS'data'
 p14
-(lp15
-V(2, 5]
+aS'telecommunications'
+p15
+aS'information technology'
 p16
-asS'major'
+asS'working-year'
 p17
 (lp18
-S'business'
+V(2, 5]
 p19
-aS'information'
+asS'major'
 p20
-aS'telecommunication'
-p21
-aS'information technology'
+(lp21
+VData Science
 p22
-aS'analytics'
+aVInformation Science
 p23
-asS'education'
+aVBusiness
 p24
-(lp25
+asS'education'
+p25
+(lp26
 S'Bachelor'
-p26
-asS'responsibility'
 p27
-(lp28
+asS'responsibility'
+p28
+(lp29
 S'information'
-p29
+p30
 as.

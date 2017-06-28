@@ -4,162 +4,168 @@ p2
 (dp3
 S'life sciences'
 p4
-I1
+F0.015682968365764677
 sS'biostatistics'
 p5
-I1
+F0.0145759161899907
 sS'communication'
 p6
-I1
+F0.0058635902189290981
 sS'data science'
 p7
-I1
+F0.0044549663913355528
 sS'd3'
 p8
-I1
-sS'c++'
-p9
-I1
+F0.011185901082167757
 sS'analytics'
-p10
-I1
+p9
+F0.0032212498591982471
 sS'high performance computing'
+p10
+F0.014419768154574688
+sS'sas'
 p11
-I1
+F0.01026101375316605
 sS'insurance'
 p12
-I1
+F0.011678412642776621
 sS'visualization'
 p13
-I1
-sS'management'
+F0.0069418343404961834
+sS'statistics'
 p14
-I1
+F0.003453751314083721
 sS'open source'
 p15
-I1
-sS'research'
+F0.011844147184881831
+sS'flask'
 p16
-I1
-sS'computer science'
+F0.019799967487413781
+sS'storage'
 p17
-I1
-sS'natural language processing'
+F0.013853709490912813
+sS'research'
 p18
-I1
-sS'technical training'
-p19
-I1
-sS'energy'
-p20
-I1
-sS'finance'
-p21
-I1
-sS'python'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'aws'
-p25
-I1
-sS'training'
-p26
-I1
-sS'leadership'
-p27
-I1
-sS'java'
-p28
-I1
-sS'data'
-p29
-I1
-sS'c'
-I1
-sS'data visualization'
-p30
-I1
-sS'database management'
-p31
-I1
-sS'cloud computing'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'unstructured data'
-p35
-I1
-sS'r'
-I1
-sS'emr'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(0, 2]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'life sciences'
-p42
-I1
-sS'management'
-p43
-I1
-sS'finance'
-p44
-I1
-sS'biostatistics'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'high performance computing'
-p48
-I1
-sS'phd'
-p49
-I1
-sS'analytics'
-p50
-I1
+F0.01263941246906279
 sS'computer science'
-p51
-I1
+p19
+F0.0052073454192119286
 sS'natural language processing'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VDoctor
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
-S'processing'
-p58
-I1
+p20
+F0.0092813264146677892
+sS'technical training'
+p21
+F0.022295251775657689
+sS'energy'
+p22
+F0.01142776039277809
+sS'finance'
+p23
+F0.0098338742747544027
+sS'python'
+p24
+F0.0038611223166908591
+sS'data scientist'
+p25
+F0.0039235987598662163
+sS'processing'
+p26
+F0.0060484743950767412
+sS'aws'
+p27
+F0.0096795420325248519
+sS'training'
+p28
+F0.0087159064852678856
+sS'leadership'
+p29
+F0.0061200319303845261
+sS'java'
+p30
+F0.0045898776580306794
+sS'data'
+p31
+F0.0035141181592436422
+sS'econometrics'
+p32
+F0.011360216887926818
+sS'c'
+F0.0046319330514744345
+sS'data visualization'
+p33
+F0.0072841986132577809
+sS'database management'
+p34
+F0.017951863482044434
+sS'science'
+p35
+F0.0026038292155336758
+sS'cloud computing'
+p36
+F0.011991098647103135
+sS'programming'
+p37
+F0.0040826490179069483
 sS'analysis'
-p59
-I1
+p38
+F0.0012689582287189998
+sS'unstructured data'
+p39
+F0.011810401605382074
+sS'r'
+F0.0041110541230662311
+sS'cuda'
+p40
+F0.019198048642141943
+sS'emr'
+p41
+F0.017655411432596371
+sS'management'
+p42
+F0.0033557365451838969
+sS'shiny'
+p43
+F0.017343338855481363
+ssS'working-year'
+p44
+(dp45
+V(0, 2]
+p46
+F0.00843548208922279
+ssS'major'
+p47
+(dp48
+VStatistics
+p49
+F0.0066722398884743713
+sVData Science
+p50
+F0.0038047740096483801
+sVEconomics
+p51
+F0.0060769316574980038
+sVComputer Science
+p52
+F0.0033531694309340658
+sVBiological Engineering
+p53
+F0.0097414658536173725
+sVManagement Science and Engineering
+p54
+F0.0047760908832181204
+ssS'education'
+p55
+(dp56
+VDoctor
+p57
+F0.0040340065621350665
+ssS'responsibility'
+p58
+(dp59
+S'processing'
+p60
+F0.0060484743950767412
+sS'analysis'
+p61
+F0.0012689582287189998
 ss.

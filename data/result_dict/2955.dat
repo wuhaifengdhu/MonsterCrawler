@@ -2,78 +2,69 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'a'
+aS'management'
 p4
 aS'autocad'
 p5
 aS'government'
 p6
-aS'education'
+aS'data scientist'
 p7
 aS'data acquisition'
 p8
 aS'defense'
 p9
-aS'aerospace'
+aS'education'
 p10
-aS'organization'
+aS'aerospace'
 p11
-aS'security'
+aS'organization'
 p12
-aS'sap'
+aS'security'
 p13
-aS'data'
+aS'sap'
 p14
-aS'insurance'
+aS'data'
 p15
-aS'information technology'
+aS'insurance'
 p16
-asS'working-year'
+aS'information technology'
 p17
-(lp18
-V(5, 10]
-p19
-aV(2, 5]
+asS'working-year'
+p18
+(lp19
+V(2, 5]
 p20
 asS'major'
 p21
 (lp22
-S'information'
+VInformation Science
 p23
-aS'management'
+aVBusiness
 p24
-aS'business'
+aVManagement Science and Engineering
 p25
-aS'phd'
-p26
-aS'design'
-p27
-aS'law'
-p28
-aS'information technology'
-p29
-aS'history'
-p30
 asS'education'
+p26
+(lp27
+VBachelor
+p28
+aVMaster
+p29
+aVDoctor
+p30
+asS'responsibility'
 p31
 (lp32
-VBachelor
-p33
-aVMaster
-p34
-aVDoctor
-p35
-asS'responsibility'
-p36
-(lp37
 S'analytic'
-p38
+p33
 aS'product'
-p39
+p34
 aS'design'
-p40
+p35
 aS'model'
-p41
+p36
 aS'information'
-p42
+p37
 as.

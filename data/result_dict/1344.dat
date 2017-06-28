@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'c'
+S'a'
+aS'c'
 aS'nosql'
 p4
 aS'agile'
@@ -13,11 +14,11 @@ aS'aws'
 p7
 aS'data scientist'
 p8
-aS'c++'
+aS'analysis'
 p9
 aS'machine learning'
 p10
-aS'analysis'
+aS'statistical analysis'
 p11
 aS'data'
 p12
@@ -25,38 +26,30 @@ aS'energy'
 p13
 aS'web development'
 p14
-aS'statistical analysis'
-p15
 asS'working-year'
-p16
-(lp17
+p15
+(lp16
 V(2, 5]
-p18
+p17
 asS'major'
-p19
-(lp20
-S'phd'
-p21
-aS'computing'
-p22
-aS'web development'
-p23
-aS'machine learning'
-p24
+p18
+(lp19
+VComputer Science
+p20
 asS'education'
-p25
-(lp26
+p21
+(lp22
 VDoctor
-p27
+p23
 asS'responsibility'
-p28
-(lp29
+p24
+(lp25
 S'report'
-p30
+p26
 aS'development'
-p31
+p27
 aS'product'
-p32
+p28
 aS'analysis'
-p33
+p29
 as.

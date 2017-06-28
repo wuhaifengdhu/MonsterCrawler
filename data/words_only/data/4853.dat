@@ -4,208 +4,204 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.030837008400326642
 sS'supply chain'
 p5
-I1
+F0.0086499005726472095
 sS'decision support'
 p6
-I1
+F0.0099141561561892199
 sS'forecasting'
 p7
-I1
+F0.0065451540308712457
 sS'hadoop'
 p8
-I1
+F0.0028678716549097429
 sS'analytics'
 p9
-I1
+F0.0058241347900682581
 sS'analysis'
 p10
-I1
-sS'machine learning'
+F0.00076477393248689711
+sS'sas'
 p11
-I1
-sS'insurance'
+F0.0030920465550835193
+sS'machine learning'
 p12
-I1
-sS'clustering'
+F0.001463209200522409
+sS'insurance'
 p13
-I1
-sS'visualization'
+F0.014076658096203962
+sS'clustering'
 p14
-I1
-sS'open source'
+F0.0071951173226701111
+sS'visualization'
 p15
-I1
-sS'big data'
+F0.0041836948034240382
+sS'statistics'
 p16
-I1
-sS'tableau'
+F0.0020815019080415282
+sS'open source'
 p17
-I1
-sS'random forest'
+F0.0071382137051743174
+sS'big data'
 p18
-I1
-sS'mahout'
+F0.0028409042999166683
+sS'tableau'
 p19
-I1
-sS'computer science'
+F0.0089688664603740694
+sS'mahout'
 p20
-I1
-sS'supply chain management'
+F0.0096789793548091464
+sS'computer science'
 p21
-I1
-sS'transportation'
+F0.0031383554981857602
+sS'supply chain management'
 p22
-I1
-sS'python'
+F0.010568138597035022
+sS'mathematics'
 p23
-I1
-sS'aws'
+F0.0040801189332049237
+sS'transportation'
 p24
-I1
-sS'data scientist'
+F0.019793021749731996
+sS'python'
 p25
-I1
-sS'random forests'
+F0.0023270156819342231
+sS'data scientist'
 p26
-I1
-sS'leadership'
+F0.0023646688954550854
+sS'aws'
 p27
-I1
-sS'sql'
+F0.0058336525642448886
+sS'random forests'
 p28
-I1
-sS'modeling'
+F0.012531817157357425
+sS'leadership'
 p29
-I1
-sS'spark'
+F0.0036884121009013882
+sS'sql'
 p30
-I1
-sS'pig'
+F0.0015221961134666228
+sS'modeling'
 p31
-I1
-sS'data'
+F0.0018128251987088225
+sS'spark'
 p32
-I1
-sS'statistical programming'
+F0.0037636955877581664
+sS'pig'
 p33
-I1
-sS'training'
+F0.0060237236051693998
+sS'data'
 p34
-I1
-sVbayesian method
+F0.0010589418560220795
+sS'statistical programming'
 p35
-I1
-sS'programming'
+F0.0093949168467670884
+sS'a'
+F0.0041742006553884521
+sS'training'
 p36
-I1
-sS'hive'
+F0.0052528900692462707
+sS'science'
 p37
-I1
-sS'spss'
+F0.0015692720718618134
+sS'programming'
 p38
-I1
-sS'r'
-I1
-sS'logistic regression'
+F0.0024605250777564192
+sS'hive'
 p39
-I1
-sS'statistical analysis'
+F0.0046557014497544784
+sS'spss'
 p40
-I1
-ssS'working-year'
+F0.0098497715663284149
+sS'r'
+F0.0024776442259550942
+sS'logistic regression'
 p41
-(dp42
-V(0, 2]
+F0.0073079528500257672
+sS'management'
+p42
+F0.0020224305071420805
+sS'statistical analysis'
 p43
-I1
-ssS'major'
+F0.0057470985567245709
+ssS'working-year'
 p44
 (dp45
-S'mathematics computer science'
+V(0, 2]
 p46
-I1
-sS'transportation'
+F0.0050838842948440922
+ssS'major'
 p47
-I1
-sS'business'
-p48
-I1
-sS'big data'
+(dp48
+VStatistics
 p49
-I1
-sS'machine learning'
+F0.004021216004214464
+sVBusiness
 p50
-I1
-sS'supply chain management'
+F0.0024145409535136476
+sVData Science
 p51
-I1
-sS'analytics'
+F0.0022930557647434431
+sVComputer Science
 p52
-I1
-sS'design'
+F0.0020208833623932983
+sVMathematics
 p53
-I1
-sS'computer science'
+F0.0038265011821036871
+sVManagement Science and Engineering
 p54
-I1
-sS'statistic'
-p55
-I1
-sS'phd'
-p56
-I1
+F0.0028784476305109205
 ssS'education'
+p55
+(dp56
+VBachelor
 p57
-(dp58
-VMaster
-p59
-I1
+F0.0020343277403346133
+sVMaster
+p58
+F0.001623394386661109
 sVDoctor
-p60
-I1
+p59
+F0.0024312093120010445
 ssS'responsibility'
-p61
-(dp62
+p60
+(dp61
 S'development'
-p63
-I1
+p62
+F0.0054060759036344578
 sS'forecasting'
-p64
-I1
+p63
+F0.0065451540308712457
 sS'understand'
+p64
+F0.0046912495835809715
+sS'insight'
 p65
-I1
-sVinsight
-p66
-I1
+F0.0040957440982354572
 sS'analysis'
-p67
-I1
-sS'statistical method'
-p68
-I1
+p66
+F0.00076477393248689711
 sS'design'
-p69
-I1
+p67
+F0.0097795902456594471
 sS'key decision'
-p70
-I1
+p68
+F0.01304425843825836
 sS'report'
-p71
-I1
+p69
+F0.0046323134378848862
 sS'modeling'
-p72
-I1
+p70
+F0.0018128251987088225
 sS'implement'
-p73
-I1
+p71
+F0.0094547463174982482
 sS'presentation'
-p74
-I1
+p72
+F0.010997117599596458
 sS'model'
-p75
-I1
+p73
+F0.006908084115632325
 ss.

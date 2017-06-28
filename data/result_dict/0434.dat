@@ -2,7 +2,9 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'a'
+aS'c'
+aS'management'
 p4
 aS'program management'
 p5
@@ -32,30 +34,24 @@ p17
 asS'major'
 p18
 (lp19
-S'information'
+VEconomics
 p20
-aS'management'
+aVBusiness
 p21
-aS'business'
+aVManagement Science and Engineering
 p22
-aS'marketing'
-p23
-aS'communication'
-p24
-aS'project management'
-p25
 asS'education'
+p23
+(lp24
+S'Bachelor'
+p25
+asS'responsibility'
 p26
 (lp27
-S'Bachelor'
-p28
-asS'responsibility'
-p29
-(lp30
 S'information'
-p31
+p28
 aS'model'
-p32
+p29
 aS'communicate'
-p33
+p30
 as.

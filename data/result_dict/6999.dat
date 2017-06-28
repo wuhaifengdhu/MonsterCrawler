@@ -2,155 +2,147 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'consulting'
 p4
-aS'data science'
+aS'communication'
 p5
-aS'cluster'
+aS'data science'
 p6
-aS'engineering'
+aS'cluster'
 p7
-aS'statistical analysis'
+aS'engineering'
 p8
-aS'insurance'
+aS'statistical analysis'
 p9
-aS'experimentation'
+aS'sas'
 p10
-aS'management'
+aS'insurance'
 p11
-aS'genetics'
+aS'experimentation'
 p12
-aS'scala'
+aS'statistics'
 p13
-aS'asset management'
+aS'genetics'
 p14
-aS'excel'
+aS'scala'
 p15
-aS'research'
+aS'asset management'
 p16
-aS'market research'
+aS'excel'
 p17
-aS'computer science'
+aS'research'
 p18
-aS'innovation'
+aS'market research'
 p19
-aS'mathematics'
+aS'computer science'
 p20
-aS'unstructured data'
+aS'innovation'
 p21
-aS'python'
+aS'mathematics'
 p22
-aS'collaboration'
+aS'unstructured data'
 p23
-aS'data scientist'
+aS'segmentation'
 p24
-aS'regression'
+aS'energy'
 p25
-aS'business transformation'
+aS'python'
 p26
-aS'data'
+aS'collaboration'
 p27
-aS'project management'
+aS'management'
 p28
-aS'search'
+aS'regression'
 p29
-aS'fraud'
+aS'business transformation'
 p30
-aS'analytics'
+aS'data'
 p31
-aS'science'
+aS'project management'
 p32
-aS'analysis'
+aS'search'
 p33
-aS'machine learning'
+aS'fraud'
 p34
+aS'analytics'
+p35
+aS'science'
+p36
+aS'analysis'
+p37
+aS'machine learning'
+p38
 aS'r'
 aS'real estate'
-p35
-aS'cluster analysis'
-p36
-aS'powerpoint'
-p37
-aS'data analytics'
-p38
-asS'working-year'
 p39
-(lp40
-V(5, 10]
+aS'organization'
+p40
+aS'cluster analysis'
 p41
-asS'major'
+aS'powerpoint'
 p42
-(lp43
-S'information'
-p44
-aS'management'
-p45
-aS'genetics'
-p46
-aS'business'
-p47
-aS'analytics'
-p48
-aS'science'
-p49
-aS'data science'
-p50
-aS'communication'
-p51
-aS'mathematics'
-p52
-aS'machine learning'
-p53
-aS'mathematics statistics'
-p54
-aS'engineering'
-p55
-aS'design'
-p56
 aS'data analytics'
-p57
-aS'statistic'
-p58
-aS'computer science'
-p59
-aS'project management'
-p60
-aS'history'
-p61
+p43
+asS'working-year'
+p44
+(lp45
+V(5, 10]
+p46
+asS'major'
+p47
+(lp48
+VStatistics
+p49
+aVBusiness
+p50
+aVData Science
+p51
+aVEngineering
+p52
+aVComputer Science
+p53
+aVBiological Engineering
+p54
+aVMathematics
+p55
+aVManagement Science and Engineering
+p56
 asS'education'
-p62
-(lp63
+p57
+(lp58
 S'Bachelor'
-p64
+p59
 asS'responsibility'
-p65
-(lp66
+p60
+(lp61
 S'development'
-p67
-aS'large data set'
-p68
-aS'product'
-p69
+p62
 aS'information'
-p70
+p63
+aS'product'
+p64
+aS'large data set'
+p65
 aS'pattern'
-p71
-aVinsight
-p72
+p66
+aS'insight'
+p67
 aS'communicate'
-p73
+p68
 aS'analysis'
-p74
+p69
 aS'statistical model'
-p75
+p70
 aS'design'
-p76
+p71
 aS'recommendation'
-p77
+p72
 aS'report'
-p78
+p73
 aS'model'
-p79
+p74
 aS'presentation'
-p80
+p75
+aS'transformation'
+p76
 as.

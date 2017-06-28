@@ -1,5 +1,5 @@
-skills: {'c': 1, 'svm': 1, 'software engineering': 1, 'robotics': 1, 'hive': 1, 'machine learning': 1, 'hardware': 1, 'computer vision': 1, 'sql': 1, 'pig': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'robotics': 1, 'software engineering': 1, 'machine learning': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'communicate': 1}
+skills: {'a': 0.02239571130076679, 'svm': 0.026740354665442192, 'software engineering': 0.015581215501281508, 'robotics': 0.08707191269734126, 'computer vision': 0.021166694989139066, 'hive': 0.012489546404131776, 'machine learning': 0.003925255819365505, 'hardware': 0.02223542560811057, 'engineering': 0.007334459742956016, 'sql': 0.004083496160676929, 'pig': 0.01615945015039456, 'data': 0.0007101885501465445}
+working-year: {u'(2, 5]': 0.007418828912761291}
+major: {u'Engineering': 0.013487298962675016, u'Computer Science': 0.005421291894324538}
+education: {'Bachelor': 0.0054573582495204}
+responsibility: {'development': 0.007251263487509693, 'information': 0.008306019158858651, 'product': 0.008053849645016447, 'communicate': 0.012013430432823905}

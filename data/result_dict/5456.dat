@@ -14,7 +14,7 @@ aS'engineering'
 p8
 aS'insurance'
 p9
-aS'management'
+aS'statistics'
 p10
 aS'java'
 p11
@@ -28,6 +28,7 @@ aS'computer science'
 p15
 aS'mathematics'
 p16
+aS'a'
 aS'product development'
 p17
 aS'python'
@@ -51,62 +52,56 @@ aS'science'
 p26
 aS'consumer insights'
 p27
-aS'retail'
+aS'architecture'
 p28
-asS'working-year'
-p29
-(lp30
-V[0]
-p31
-asS'major'
-p32
-(lp33
-S'information'
-p34
 aS'management'
-p35
-aS'business'
+p29
+aS'retail'
+p30
+asS'working-year'
+p31
+(lp32
+S'[0]'
+p33
+asS'major'
+p34
+(lp35
+VStatistics
 p36
-aS'analytics'
+aVBusiness
 p37
-aS'marketing'
+aVData Science
 p38
-aS'data science'
+aVEconomics
 p39
-aS'mathematics statistics'
+aVEngineering
 p40
-aS'engineering'
+aVComputer Science
 p41
-aS'computer science'
+aVMathematics
 p42
-aS'statistic'
+aVManagement Science and Engineering
 p43
-aS'mathematics'
-p44
-aS'computer science mathematics'
-p45
-aS'science'
-p46
 asS'education'
+p44
+(lp45
+VBachelor
+p46
+asS'responsibility'
 p47
 (lp48
-VBachelor
-p49
-asS'responsibility'
-p50
-(lp51
 S'development'
-p52
+p49
 aS'information'
-p53
+p50
 aS'product'
-p54
+p51
 aS'business problem'
-p55
+p52
 aS'communicate'
-p56
+p53
 aS'analytic'
-p57
+p54
 aS'prototype'
-p58
+p55
 as.

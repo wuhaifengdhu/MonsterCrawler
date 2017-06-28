@@ -2,109 +2,100 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'linux'
 p4
-aS'product development'
+aS'engineering'
 p5
-aS'big data'
-p6
-aS'science'
-p7
-aS'data mining'
-p8
-aS'data scientist'
-p9
 aS'hive'
-p10
-aS'analysis'
-p11
-aS'machine learning'
-p12
-aS'engineering'
-p13
-aS'r'
-aS'computer science'
-p14
-aS'statistical modeling'
-p15
-aS'sql'
-p16
-aS'modeling'
-p17
-aS'android'
-p18
-aS'research'
-p19
-aS'data'
-p20
-aVpanda
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'information'
-p27
+p6
+aS'data mining'
+p7
+aS'sas'
+p8
+aS'statistics'
+p9
 aS'big data'
-p28
-aS'science'
-p29
-aS'statistic'
-p30
-aS'machine learning'
-p31
-aS'statistics computer science'
-p32
-aS'engineering'
-p33
-aS'design'
-p34
+p10
+aS'research'
+p11
 aS'computer science'
-p35
-aS'data mining'
-p36
-aS'computer science engineering'
-p37
-aS'data mining machine learning'
-p38
-asS'education'
-p39
-(lp40
-S'Bachelor'
-p41
-asS'responsibility'
-p42
-(lp43
-S'development'
-p44
-aS'large data set'
-p45
-aS'product'
-p46
-aS'information'
-p47
-aS'predict'
-p48
+p12
+aS'android'
+p13
+aS'pandas'
+p14
+aS'product development'
+p15
+aS'data scientist'
+p16
+aS'ios'
+p17
+aS'statistical modeling'
+p18
+aS'sql'
+p19
 aS'modeling'
-p49
-aS'communicate'
-p50
+p20
+aS'data'
+p21
+aS'a'
+aS'search'
+p22
+aS'science'
+p23
+aS'unix'
+p24
 aS'analysis'
-p51
-aS'statistical model'
-p52
+p25
+aS'machine learning'
+p26
+aS'r'
+asS'working-year'
+p27
+(lp28
+S'[0]'
+p29
+asS'major'
+p30
+(lp31
+VEngineering
+p32
+aVStatistics
+p33
+aVComputer Science
+p34
+asS'education'
+p35
+(lp36
+S'Bachelor'
+p37
+asS'responsibility'
+p38
+(lp39
+S'development'
+p40
+aS'information'
+p41
+aS'product'
+p42
+aS'large data set'
+p43
+aS'predict'
+p44
+aS'modeling'
+p45
+aS'communicate'
+p46
+aS'analysis'
+p47
 aS'design'
-p53
+p48
 aS'data mining'
-p54
+p49
 aS'report'
-p55
+p50
 aS'understand'
-p56
+p51
 aS'implement'
-p57
+p52
 as.

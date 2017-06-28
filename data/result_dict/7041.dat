@@ -2,176 +2,196 @@
 S'skills'
 p2
 (lp3
-S'oncology'
+S'nlp'
 p4
-aS'nosql'
+aS'oncology'
 p5
-aS'characterization'
+aS'nosql'
 p6
-aS'communication'
+aS'characterization'
 p7
-aS'bioinformatics'
-p8
-aS'population genetics'
-p9
-aS'psychometrics'
-p10
-aS'information management'
-p11
-aS'informatics'
-p12
-aS'engineering'
-p13
-aS'modeling'
-p14
-aS'mathematical modeling'
-p15
-aS'd3'
-p16
-aS'visualization'
-p17
-aS'git'
-p18
-aS'genetics'
-p19
-aS'agile'
-p20
-aS'hadoop'
-p21
-aS'research'
-p22
-aS'computer science'
-p23
-aS'intelligence'
-p24
-aS'medicine'
-p25
-aS'operations research'
-p26
-aS'biology'
-p27
-aS'distributed computing'
-p28
-aS'product development'
-p29
-aS'sequencing'
-p30
-aS'healthcare'
-p31
-aS'data scientist'
-p32
-aS'biophysics'
-p33
-aS'knowledge representation'
-p34
-aS'biomarkers'
-p35
-aS'sql'
-p36
-aS'systems biology'
-p37
-aS'neuroscience'
-p38
-aS'spark'
-p39
-aS'data'
-p40
-aS'software development'
-p41
-aS'life sciences'
-p42
-aS'pattern recognition'
-p43
-aS'science'
-p44
-aS'programming'
-p45
-aS'machine learning'
-p46
-aS'mercurial'
-p47
-aS'management'
-p48
-aS'rapid prototyping'
-p49
-asS'working-year'
-p50
-(lp51
-V[0]
-p52
-asS'major'
-p53
-(lp54
-S'computing'
-p55
 aS'communication'
-p56
-aS'engineering'
-p57
-aS'statistic'
-p58
-aS'information'
-p59
-aS'management'
-p60
-aS'genetics'
-p61
-aS'information management'
-p62
-aS'computer science'
-p63
-aS'medicine'
-p64
-aS'operations research'
-p65
-aS'biology'
-p66
-aS'phd'
-p67
-aS'statistical genetics'
-p68
-aS'bioinformatics'
-p69
-aS'informatics'
-p70
+p8
+aS'robotics'
+p9
+aS'population genetics'
+p10
+aS'julia'
+p11
+aS'hadoop'
+p12
+aS'analytics'
+p13
+aS'unix'
+p14
+aS'go'
+p15
 aS'neuroscience'
-p71
-aS'biophysics'
-p72
-aVphysic
-p73
+p16
+aS'mathematical modeling'
+p17
+aS'distributed computing'
+p18
+aS'informatics'
+p19
+aS'd3'
+p20
+aS'sequencing'
+p21
+aS'visualization'
+p22
+aS'git'
+p23
+aS'genetics'
+p24
+aS'scala'
+p25
+aS'agile'
+p26
+aS'statistics'
+p27
+aS'physics'
+p28
+aS'research'
+p29
+aS'information management'
+p30
+aS'matlab'
+p31
+aS'intelligence'
+p32
+aS'medicine'
+p33
+aS'operations research'
+p34
+aS'computer science'
+p35
+aS'biology'
+p36
+aS'signal processing'
+p37
+aS'product development'
+p38
+aS'bioinformatics'
+p39
+aS'healthcare'
+p40
+aS'python'
+p41
+aS'aws'
+p42
+aS'processing'
+p43
+aS'data scientist'
+p44
 aS'life sciences'
-p74
-aS'science'
-p75
-aS'machine learning'
-p76
-aS'medical informatics'
-p77
-asS'education'
-p78
-(lp79
-VDoctor
-p80
-asS'responsibility'
-p81
-(lp82
-S'development'
-p83
-aS'information'
-p84
-aS'product'
-p85
-aS'pattern'
-p86
-aVinsight
-p87
-aS'statistical method'
-p88
-aS'solve problem'
-p89
+p45
+aS'linux'
+p46
+aS'biophysics'
+p47
+aS'knowledge representation'
+p48
+aS'psychometrics'
+p49
+aS'sql'
+p50
+aS'systems biology'
+p51
 aS'modeling'
+p52
+aS'spark'
+p53
+aS'pig'
+p54
+aS'data'
+p55
+aS'software development'
+p56
+aS'c'
+aS'pattern recognition'
+p57
+aS'java'
+p58
+aS'science'
+p59
+aS'programming'
+p60
+aS'engineering'
+p61
+aS'hive'
+p62
+aS'machine learning'
+p63
+aS'r'
+aS'algorithms'
+p64
+aS'mercurial'
+p65
+aS'management'
+p66
+aS'clojure'
+p67
+aS'rapid prototyping'
+p68
+aS'biomarkers'
+p69
+asS'working-year'
+p70
+(lp71
+S'[0]'
+p72
+asS'major'
+p73
+(lp74
+VCognitive Science
+p75
+aVStatistics
+p76
+aVData Science
+p77
+aVEngineering
+p78
+aVInformation Science
+p79
+aVComputer Science
+p80
+aVBiological Engineering
+p81
+aVPhysics
+p82
+aVOperations Research
+p83
+aVManagement Science and Engineering
+p84
+asS'education'
+p85
+(lp86
+VDoctor
+p87
+asS'responsibility'
+p88
+(lp89
+S'development'
 p90
-aS'extract'
+aS'information'
 p91
+aS'product'
+p92
+aS'processing'
+p93
+aS'pattern'
+p94
+aS'insight'
+p95
+aS'statistical method'
+p96
+aS'solve problem'
+p97
+aS'interface'
+p98
+aS'modeling'
+p99
+aS'extract'
+p100
 as.

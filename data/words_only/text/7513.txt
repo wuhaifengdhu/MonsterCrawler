@@ -1,5 +1,5 @@
-skills: {'consulting': 1, 'management': 1, 'team building': 1, 'energy': 1, 'testing': 1, 'data scientist': 1, 'training': 1, 'writing': 1, 'analytics': 1, 'coaching': 1, 'leadership': 1, 'mentoring': 1, 'problem solving': 1, 'english': 1, 'organization': 1, 'data': 1, 'collaboration': 1}
-working-year: {u'(0, 2]': 1, u'(2, 5]': 1}
-major: {'english': 1, 'analytics': 1, 'management': 1, 'business': 1, 'information': 1}
-education: {u'Master': 1}
-responsibility: {'financial model': 1, 'information': 1, u'insight': 1, 'communicate': 1, 'business problem': 1, 'recommendation': 1, 'implement': 1, 'presentation': 1, 'model': 1}
+skills: {'a': 0.005252926667455131, 'consulting': 0.00634695138935694, 'management': 0.0025450810876394723, 'team building': 0.011249524595695053, 'energy': 0.0086671216462081, 'testing': 0.005751061839606777, 'data scientist': 0.0029757631043929164, 'training': 0.019831135542323, 'writing': 0.0063119672080968895, 'analytics': 0.002443082758380693, 'coaching': 0.010847563810770221, 'leadership': 0.004641597250572534, 'mentoring': 0.009663240734491445, 'problem solving': 0.0068949771487450875, 'english': 0.009488620369251426, 'organization': 0.004952763593487868, 'data': 0.0003331502468384071, 'collaboration': 0.007184464663127679}
+working-year: {u'(0, 2]': 0.00639769709014088, u'(2, 5]': 0.0034801809787391447}
+major: {u'Data Science': 0.0028856432095647824, u'Business': 0.003038523447118298, u'Management Science and Engineering': 0.0036223161192946414}
+education: {u'Master': 0.00204292327310162}
+responsibility: {'development': 0.0034015758494778613, 'financial model': 0.01577037664746103, 'information': 0.0038963629200263893, 'insight': 0.0051541948202513625, 'communicate': 0.005635513714274135, 'recommendation': 0.007337645350613121, 'implement': 0.005949053862695526, 'presentation': 0.006919534669409007, 'model': 0.004346659668263036}

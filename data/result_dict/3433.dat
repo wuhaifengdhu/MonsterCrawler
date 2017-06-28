@@ -2,63 +2,65 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'clustering'
 p4
-aS'structural equation modeling'
+aS'visualization'
 p5
-aS'data visualization'
+aS'structural equation modeling'
 p6
-aS'python'
+aS'data visualization'
 p7
-aS'predictive modeling'
+aS'python'
 p8
-aS'data scientist'
+aS'predictive modeling'
 p9
-aS'factor analysis'
+aS'data scientist'
 p10
-aS'analysis'
+aS'segmentation'
 p11
-aS'tableau'
+aS'analysis'
 p12
+aS'tableau'
+p13
 aS'r'
 aS'dashboard'
-p13
-aS'statistical modeling'
 p14
-aS'sql'
+aS'statistical modeling'
 p15
-aS'modeling'
+aS'sql'
 p16
-aS'pca'
+aS'factor analysis'
 p17
-aS'data'
+aS'modeling'
 p18
-aS'regression'
+aS'pca'
 p19
-asS'working-year'
+aS'data'
 p20
-(lp21
-V(5, 10]
+aS'regression'
+p21
+asS'working-year'
 p22
+(lp23
+V(5, 10]
+p24
 asS'major'
-p23
-(lp24
-sS'education'
 p25
 (lp26
-S'Bachelor'
+sS'education'
 p27
+(lp28
+VDoctor
+p29
 asS'responsibility'
-p28
-(lp29
-S'modeling'
 p30
-aS'implement'
-p31
-aS'mapping'
+(lp31
+S'modeling'
 p32
-aS'analysis'
+aS'implement'
 p33
-aS'statistical model'
+aS'mapping'
 p34
+aS'analysis'
+p35
 as.

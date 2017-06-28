@@ -2,104 +2,106 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'communication'
 p4
-aS'data analysis'
-p5
-aS'distributed computing'
-p6
-aS'quantitative analysis'
-p7
-aS'python'
-p8
-aS'data scientist'
-p9
 aS'data science'
+p5
+aS'analytics'
+p6
+aS'unix'
+p7
+aS'hive'
+p8
+aS'linux'
+p9
+aS'analysis'
 p10
-aS'documentation'
+aS'quantitative analysis'
 p11
 aS'excel'
 p12
-aS'communication skills'
+aS'hadoop'
 p13
-aS'analytics'
+aS'data analysis'
 p14
-aS'facebook'
+aS'distributed computing'
 p15
-aS'dashboard'
+aS'python'
 p16
-aS'sql'
+aS'data scientist'
 p17
-aS'communication'
+aS'facebook'
 p18
-aS'analysis'
-p19
-aS'php'
-p20
-aS'data'
-p21
-aS'etl'
-p22
 aS'scripting'
+p19
+aS'sql'
+p20
+aS'php'
+p21
+aS'data'
+p22
+aS'search'
 p23
 aS'science'
 p24
-asS'working-year'
+aS'documentation'
 p25
-(lp26
-V(5, 10]
+aS'communication skills'
+p26
+aS'dashboard'
 p27
-asS'major'
+aS'etl'
 p28
-(lp29
-S'business'
-p30
-aS'computing'
+asS'working-year'
+p29
+(lp30
+sS'major'
 p31
-aS'communication'
-p32
-aS'data science'
+(lp32
+VData Science
 p33
-aS'mba'
+aVEconomics
 p34
-aS'general'
+aVComputer Science
 p35
-aS'analytics'
+aVBusiness
 p36
-aS'science'
-p37
 asS'education'
-p38
-(lp39
+p37
+(lp38
 VMaster
-p40
+p39
 asS'responsibility'
-p41
-(lp42
+p40
+(lp41
 S'financial model'
-p43
+p42
 aS'product'
-p44
+p43
 aS'build dashboard'
-p45
+p44
 aS'large data set'
-p46
+p45
 aS'ensure accuracy'
+p46
+aS'insight'
 p47
-aVinsight
-p48
 aS'analysis'
+p48
+aS'develop ... model'
 p49
 aS'cross-functionally'
 p50
-aS'data analysis'
+aS'drive ... decision'
 p51
-aS'understand'
+aS'data analysis'
 p52
-aS'model'
+aS'understand'
 p53
-aS'quantitative analysis'
+aS'model'
 p54
-aS'documentation'
+aS'quantitative analysis'
 p55
+aS'documentation'
+p56
 as.

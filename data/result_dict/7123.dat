@@ -2,53 +2,53 @@
 S'skills'
 p2
 (lp3
-S'javascript'
+S'j2ee'
 p4
-aS'system design'
+aS'documentation'
 p5
-aS'healthcare'
+aS'system design'
 p6
-aS'science'
+aS'healthcare'
 p7
-aS'testing'
+aS'science'
 p8
-aS'data scientist'
+aS'testing'
 p9
-aS'analysis'
+aS'data scientist'
 p10
-aS'research'
+aS'analysis'
 p11
-aS'data analysis'
+aS'research'
 p12
-aS'computer science'
+aS'data analysis'
 p13
-aS'angularjs'
+aS'javascript'
 p14
-aS'sql'
+aS'computer science'
 p15
-aS'php'
+aS'angularjs'
 p16
-aS'data'
+aS'sql'
 p17
-aS'd3'
+aS'organization'
 p18
-aS'education'
+aS'php'
 p19
-asS'working-year'
+aS'data'
 p20
-(lp21
-V[0]
+aS'd3'
+p21
+aS'education'
 p22
-asS'major'
+asS'working-year'
 p23
 (lp24
-S'information'
+S'[0]'
 p25
-aS'design'
+asS'major'
 p26
-aS'computer science'
-p27
-aS'science'
+(lp27
+VComputer Science
 p28
 asS'education'
 p29
@@ -64,8 +64,10 @@ aS'information'
 p35
 aS'data analysis'
 p36
-aS'design'
+aS'documentation'
 p37
 aS'analysis'
 p38
+aS'design'
+p39
 as.

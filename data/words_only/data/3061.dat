@@ -4,226 +4,195 @@ p2
 (dp3
 S'probability'
 p4
-I1
+F0.012811871831520154
 sS'data science'
 p5
-I1
+F0.0044222092855169086
 sS'human resources'
 p6
-I1
+F0.018236510971273927
 sS'pig'
 p7
-I1
+F0.0099214271143966588
 sS'engineering'
 p8
-I1
+F0.013509427688312368
 sS'hive'
 p9
-I1
+F0.0076682141525367883
 sS'education'
 p10
-I1
+F0.0077155395213723129
 sS'visualization'
 p11
-I1
+F0.0068907914409337108
 sS'classification'
 p12
-I1
+F0.011600595225948819
 sS'big data'
 p13
-I1
+F0.0046791364939803952
 sS'high performance computing'
 p14
-I1
-sS'r programming'
-p15
-I1
+F0.014313740447555755
 sS'hadoop'
-p16
-I1
+p15
+F0.0047235533139689881
 sS'research'
-p17
-I1
+p16
+F0.0031366189031681552
 sS'statistical software'
-p18
-I1
+p17
+F0.014468740335652533
 sS'computer science'
+p18
+F0.0051690561146588996
+sS'policy'
 p19
-I1
+F0.010035508191326285
 sS'mathematics'
 p20
-I1
-sS'unstructured data'
+F0.0067201958899845799
+sS'statistical learning'
 p21
-I1
+F0.019877263099239727
 sS'teradata'
 p22
-I1
+F0.013459804025123629
 sS'data analysis'
 p23
-I1
+F0.005455007407962004
 sS'signal processing'
 p24
-I1
+F0.011520845630737866
 sS'theory'
 p25
-I1
+F0.010773809744387262
 sS'python'
 p26
-I1
+F0.0019163658557105367
 sS'jmp'
 p27
-I1
+F0.01531558755710778
 sS'processing'
 p28
-I1
-sS'data scientist'
-p29
-I1
-sS'business process'
-p30
-I1
-sS'machine learning'
-p31
-I1
+F0.0060040003186423527
 sS'sql'
-p32
-I1
+p29
+F0.002507146539827379
 sS'modeling'
-p33
-I1
+p30
+F0.0029858297390498254
 sS'spark'
-p34
-I1
+p31
+F0.0061990280268958038
 sS'manufacturing'
-p35
-I1
+p32
+F0.013723009455999299
 sS'data'
-p36
-I1
+p33
+F0.0026162092913486674
 sS'information technology'
-p37
-I1
+p34
+F0.011458268646182887
+sS'a'
+F0.0068751540206398037
 sS'pattern recognition'
-p38
-I1
+p35
+F0.011740270988535629
+sS'science'
+p36
+F0.0025846834124782811
 sS'applied mathematics'
-p39
-I1
+p37
+F0.011110701267807744
 sS'programming'
-p40
-I1
+p38
+F0.0040526295398341022
 sS'analysis'
-p41
-I1
-sS'statistical learning'
-p42
-I1
-sS'data engineering'
-p43
-I1
-sS'r'
-I1
-sS'scripting'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-V[0]
-p47
-I1
-ssS'major'
-p48
-(dp49
-S'information'
-p50
-I1
-sS'business'
-p51
-I1
-sS'big data'
-p52
-I1
-sS'applied mathematics'
-p53
-I1
-sS'applied math'
-p54
-I1
-sS'high performance computing'
-p55
-I1
+p39
+F0.0012596276535078307
 sS'machine learning'
-p56
-I1
-sS'engineering'
-p57
-I1
-sS'computer science engineering'
-p58
-I1
-sVphysic
-p59
-I1
-sS'statistic'
-p60
-I1
-sS'mathematics'
-p61
-I1
-sS'data science'
-p62
-I1
-sS'information technology'
-p63
-I1
-sS'computer science'
-p64
-I1
+p40
+F0.0024099916243898504
+sS'data engineering'
+p41
+F0.014723642485542055
+sS'r'
+F0.0020404128919630188
+sS'unstructured data'
+p42
+F0.011723560417107206
+sS'scripting'
+p43
+F0.0089451631523774378
+ssS'working-year'
+p44
+(dp45
+S'[0]'
+p46
+F0.0080743188622955236
+ssS'major'
+p47
+(dp48
+VBusiness
+p49
+F0.0039768909822577728
+sVData Science
+p50
+F0.0037767977301656716
+sVEngineering
+p51
+F0.0082808048778188516
+sVInformation Science
+p52
+F0.0093112323108606385
+sVComputer Science
+p53
+F0.003328513773353668
+sVMathematics
+p54
+F0.0063024725352296028
 ssS'education'
-p65
-(dp66
-VBachelor
-p67
-I1
-sVMaster
-p68
-I1
+p55
+(dp56
+VMaster
+p57
+F0.0026738260486182971
 sVDoctor
-p69
-I1
+p58
+F0.0040043447491781908
 ssS'responsibility'
-p70
-(dp71
+p59
+(dp60
 S'information'
-p72
-I1
+p61
+F0.005099651468858068
 sS'data analysis'
-p73
-I1
+p62
+F0.005455007407962004
 sS'processing'
-p74
-I1
+p63
+F0.0060040003186423527
 sS'pattern'
-p75
-I1
-sVinsight
-p76
-I1
+p64
+F0.009627173071963771
+sS'insight'
+p65
+F0.0067459314559172243
 sS'analysis'
-p77
-I1
+p66
+F0.0012596276535078307
 sS'analytical method'
-p78
-I1
+p67
+F0.019727182924348993
 sS'modeling'
-p79
-I1
+p68
+F0.0029858297390498254
 sS'model'
-p80
-I1
+p69
+F0.011378020896335593
 sS'extract'
-p81
-I1
+p70
+F0.011373928421701578
 ss.

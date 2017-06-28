@@ -2,87 +2,81 @@
 S'skills'
 p2
 (lp3
-S'vba'
+S'data science'
 p4
-aS'commodity'
-p5
-aS'python'
-p6
-aS'excel'
-p7
-aS'data science'
-p8
-aS'economics'
-p9
-aS'data scientist'
-p10
-aS'excel vba'
-p11
-aS'perl'
-p12
 aS'analytics'
-p13
+p5
 aS'engineering'
-p14
+p6
+aS'power bi'
+p7
+aS'excel'
+p8
+aS'perl'
+p9
 aS'r'
 aS'computer science'
-p15
+p10
+aS'mathematics'
+p11
+aS'python'
+p12
+aS'marketing'
+p13
+aS'data scientist'
+p14
 aS'sql'
-p16
-aS'marketing'
-p17
-aS'mathematics'
-p18
+p15
 aS'data'
+p16
+aS'vba'
+p17
+aS'commodity'
+p18
+aS'science'
 p19
-aS'science'
-p20
-asS'working-year'
-p21
-(lp22
-V[0]
-p23
-asS'major'
-p24
-(lp25
-S'business'
-p26
-aS'economics math'
-p27
-aS'economics mathematics'
-p28
-aS'data science'
-p29
 aS'economics'
+p20
+aS'excel vba'
+p21
+aS'business objects'
+p22
+aS'google analytics'
+p23
+aS'materials'
+p24
+asS'working-year'
+p25
+(lp26
+S'[0]'
+p27
+asS'major'
+p28
+(lp29
+VBusiness
 p30
-aS'analytics'
+aVData Science
 p31
-aS'engineering'
+aVEconomics
 p32
-aS'computer science'
+aVEngineering
 p33
-aS'marketing'
+aVComputer Science
 p34
-aS'mathematics'
+aVMathematics
 p35
-aS'ee computer science'
-p36
-aS'computer science economics'
-p37
-aS'science'
-p38
 asS'education'
+p36
+(lp37
+VBachelor
+p38
+asS'responsibility'
 p39
 (lp40
-VBachelor
-p41
-asS'responsibility'
-p42
-(lp43
 S'report'
-p44
-aVinsight
-p45
+p41
+aS'insight'
+p42
 aS'presentation'
-p46
+p43
 as.

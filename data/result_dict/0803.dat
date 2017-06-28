@@ -2,66 +2,70 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'integration'
 p4
-aS'word'
+aS'search'
 p5
-aS'google docs'
+aS'word'
 p6
-aS'data scientist'
+aS'google docs'
 p7
-aS'excel'
+aS'data scientist'
 p8
-aS'sales operations'
+aS'excel'
 p9
-aS'integration'
+aS'sales operations'
 p10
-aS'salesforce.com'
+aS'analysis'
 p11
-aS'command'
+aS'sales'
 p12
-aS'dashboard'
+aS'salesforce.com'
 p13
-aS'problem solving'
+aS'command'
 p14
-aS'security'
+aS'dashboard'
 p15
-aS'data'
+aS'problem solving'
 p16
-aS'powerpoint'
+aS'security'
 p17
-aS'crm'
+aS'data'
 p18
-asS'working-year'
+aS'powerpoint'
 p19
-(lp20
-V(2, 5]
+aS'crm'
+p20
+asS'working-year'
 p21
+(lp22
+V(2, 5]
+p23
 asS'major'
-p22
-(lp23
-S'information'
 p24
-aS'design'
-p25
-aS'business'
+(lp25
+VBusiness
 p26
 asS'education'
 p27
 (lp28
 VBachelor
 p29
-asS'responsibility'
+aVMaster
 p30
-(lp31
-S'report'
-p32
-aS'communicate'
+asS'responsibility'
+p31
+(lp32
+S'information'
 p33
 aS'product'
 p34
-aS'design'
+aS'communicate'
 p35
-aS'information'
+aS'analysis'
 p36
+aS'design'
+p37
+aS'report'
+p38
 as.

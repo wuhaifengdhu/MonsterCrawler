@@ -12,11 +12,11 @@ aS'hardware'
 p7
 aS'engineering'
 p8
-aS'research'
-p9
 aS'change management'
-p10
+p9
 aS'management'
+p10
+aS'integration'
 p11
 aS'governance'
 p12
@@ -35,89 +35,69 @@ p18
 aS'data scientist'
 p19
 aS'c'
-aS'data'
+aS'mentoring'
 p20
-aS'project management'
+aS'data'
 p21
-aS'training'
+aS'project management'
 p22
-aS'science'
+aS'training'
 p23
-aS'programming'
+aS'science'
 p24
-aS'analysis'
+aS'programming'
 p25
-aS'machine learning'
+aS'analysis'
 p26
+aS'machine learning'
+p27
 aS'r'
 aS'architecture'
-p27
-aS'organization'
 p28
-aS'security'
+aS'organization'
 p29
-asS'working-year'
+aS'security'
 p30
-(lp31
+asS'working-year'
+p31
+(lp32
 V(5, 10]
-p32
-aV(2, 5]
 p33
-asS'major'
+aV(2, 5]
 p34
-(lp35
-S'information'
-p36
-aS'management'
+asS'major'
+p35
+(lp36
+VEngineering
 p37
-aS'network security'
+aVInformation Science
 p38
-aS'it strategy'
+aVComputer Science
 p39
-aS'business'
+aVBusiness
 p40
-aS'science'
+aVManagement Science and Engineering
 p41
-aS'engineering'
-p42
-aS'machine learning'
-p43
-aS'computer engineering'
-p44
-aS'information system'
-p45
-aS'design'
-p46
-aS'computer science'
-p47
-aS'communication'
-p48
-aS'information systems'
-p49
-aS'ee computer science'
-p50
-aS'project management'
-p51
 asS'education'
-p52
-(lp53
+p42
+(lp43
 VBachelor
-p54
+p44
 asS'responsibility'
-p55
-(lp56
+p45
+(lp46
 S'development'
-p57
+p47
 aS'information'
-p58
+p48
 aS'analysis'
-p59
+p49
 aS'improvement'
-p60
+p50
 aS'design'
-p61
+p51
 aS'recommendation'
-p62
+p52
 aS'interface'
-p63
+p53
 as.

@@ -4,230 +4,226 @@ p2
 (dp3
 S'data scientist'
 p4
-I1
+F0.00074030165280494634
 sS'nosql'
 p5
-I1
+F0.0019125414844629784
 sS'ip'
 p6
-I1
+F0.0031861101921648403
 sS'energy'
 p7
-I1
+F0.0086247248247381808
 sS'testing'
 p8
-I1
+F0.001430732365408814
 sS'communication'
 p9
-I1
+F0.0011063377771564336
 sS'rest'
 p10
-I1
+F0.0024999276467220911
 sS'integration'
 p11
-I1
+F0.0032232608276654261
 sS'software design'
 p12
-I1
+F0.002809458184613717
 sS'business intelligence'
 p13
-I1
+F0.0014277032206669608
 sS'product strategy'
 p14
-I1
+F0.0033160176709390904
 sS'problem solving'
 p15
-I1
+F0.0017153122746004549
 sS'go'
 p16
-I1
+F0.0045826879036025541
 sS'management'
 p17
-I1
+F0.00063315783871394278
 sS'open source'
 p18
-I1
+F0.0022347447518644963
 sS'big data'
 p19
-I1
+F0.00088939561590682561
 sS'user experience'
 p20
-I1
+F0.0023586393886141548
 sS'agile'
 p21
-I1
-sS'devops'
+F0.0045779661901457222
+sS'saas'
 p22
-I1
-sS'strategy'
+F0.0021576116675057033
+sS'devops'
 p23
-I1
-sS'optimization'
+F0.011545307303759725
+sS'strategy'
 p24
-I1
-sS'music'
+F0.0022012738381926413
+sS'optimization'
 p25
-I1
-sS'intelligence'
+F0.0027952604575660965
+sS'music'
 p26
-I1
-sS'database development'
+F0.0033389313972837036
+sS'intelligence'
 p27
-I1
-sS'master data management'
+F0.0010971758280131231
+sS'database development'
 p28
-I1
-sS'data management'
+F0.0038883604841870008
+sS'master data management'
 p29
-I1
-sS'scrum'
+F0.0035046393059275961
+sS'data management'
 p30
-I1
-sS'product development'
-p31
-I1
-sS'gas'
-p32
-I1
-sS'collaboration'
-p33
-I1
-sS'innovation'
-p34
-I1
-sS'aws'
-p35
-I1
-sS'leadership'
-p36
-I1
-sS'html5'
-p37
-I1
-sS'sql'
-p38
-I1
-sS'data'
-p39
-I1
-sS'process development'
-p40
-I1
+F0.0019216758243251367
 sS'software development'
+p31
+F0.0014816188805543483
+sS'scrum'
+p32
+F0.016618579979249811
+sS'product development'
+p33
+F0.0018263286853820474
+sS'gas'
+p34
+F0.0032794226198248986
+sS'collaboration'
+p35
+F0.0071493205313024567
+sS'innovation'
+p36
+F0.0013527775486615818
+sS'aws'
+p37
+F0.0036526573707640949
+sS'leadership'
+p38
+F0.0023094460114658588
+sS'html5'
+p39
+F0.0028623656011773106
+sS'sql'
+p40
+F0.00047655056522225513
+sS'java'
 p41
-I1
-sS'training'
+F0.00086601465245861873
+sS'data'
 p42
-I1
-sS'data visualization'
+F0.001077441888447343
+sS'process development'
 p43
-I1
-sS'software engineering'
+F0.0041548638673823985
+sS'a'
+F0.0026136155047016443
+sS'training'
 p44
-I1
-sS'sql server'
+F0.0032890213151954284
+sS'data visualization'
 p45
-I1
-sS'market data'
+F0.0013743770968410907
+sS'software engineering'
 p46
-I1
-sS'engineering'
+F0.0018183528921830968
+sS'sql server'
 p47
-I1
-sS'machine learning'
+F0.0019551561630179047
+sS'market data'
 p48
-I1
-sS'system architecture'
+F0.0042923270587661086
+sS'engineering'
 p49
-I1
-sS'architecture'
+F0.00085594324044280549
+sS'machine learning'
 p50
-I1
-sS'javascript'
+F0.00045808366305663122
+sS'system architecture'
 p51
-I1
-sS'organization'
+F0.0031263469226370799
+sS'architecture'
 p52
-I1
-sS'retail'
+F0.0076415601770952416
+sS'javascript'
 p53
-I1
-sS'application development'
+F0.0015495769490020573
+sS'organization'
 p54
-I1
-ssS'working-year'
+F0.0024642681191917276
+sS'retail'
 p55
-(dp56
-V(10, 15]
+F0.0024080793042742989
+sS'physics'
+p56
+F0.0017002686075797786
+sS'application development'
 p57
-I1
-ssS'major'
+F0.0026772162134774597
+ssS'working-year'
 p58
 (dp59
-S'management'
+V(10, 15]
 p60
-I1
-sS'big data'
+F0.0013678730651281333
+ssS'major'
 p61
-I1
-sS'software engineering'
-p62
-I1
-sS'communication'
+(dp62
+VEngineering
 p63
-I1
-sS'machine learning'
+F0.00085594324044280549
+sVPhysics
 p64
-I1
-sS'business'
+F0.0018334955284417124
+sVComputer Science
 p65
-I1
-sS'engineering'
+F0.00063267347753472936
+sVBusiness
 p66
-I1
-sS'music'
+F0.00075591498754305666
+sVManagement Science and Engineering
 p67
-I1
-sS'design'
-p68
-I1
-sVphysic
-p69
-I1
+F0.00090114922324870182
 ssS'education'
-p70
-(dp71
+p68
+(dp69
 VMaster
-p72
-I1
+p70
+F0.00050823248443338702
 ssS'responsibility'
-p73
-(dp74
+p71
+(dp72
 S'development'
-p75
-I1
+p73
+F0.015232213866844261
 sS'product'
-p76
-I1
-sS'business problem'
-p77
-I1
+p74
+F0.015978252370511314
+sS'develop ... system'
+p75
+F0.0032723280859398795
 sS'communicate'
-p78
-I1
+p76
+F0.0014019866403085898
 sS'optimization'
+p77
+F0.0027952604575660965
+sS'understand'
+p78
+F0.007343395574578181
+sS'report'
 p79
-I1
+F0.0014502281063399223
 sS'design'
 p80
-I1
-sS'report'
-p81
-I1
-sS'understand'
-p82
-I1
+F0.0061233493082535756
 sS'normalization'
-p83
-I1
+p81
+F0.004234059118871882
 ss.

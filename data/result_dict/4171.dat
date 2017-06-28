@@ -8,100 +8,113 @@ aS'probability'
 p5
 aS'data science'
 p6
-aS'engineering'
+aS'pig'
 p7
-aS'regression'
+aS'engineering'
 p8
-aS'instrumentation'
+aS'regression'
 p9
-aS'java'
+aS'instrumentation'
 p10
-aS'scala'
+aS'java'
 p11
-aS'predictive modeling'
+aS'scala'
 p12
-aS'hadoop'
+aS'predictive modeling'
 p13
-aS'research'
+aS'hadoop'
 p14
-aS'optimization'
+aS'research'
 p15
-aS'policy'
+aS'optimization'
 p16
-aS'segmentation'
+aS'music'
 p17
-aS'python'
+aS'policy'
 p18
-aS'marketing'
+aS'pandas'
 p19
-aS'c'
-aS'modeling'
+aS'segmentation'
 p20
-aS'data'
+aS'transportation'
 p21
-aS'training'
+aS'python'
 p22
-aS'decision trees'
+aS'marketing'
 p23
-aS'science'
+aS'scipy'
 p24
-aS'machine learning'
+aS'modeling'
 p25
+aS'data'
+p26
+aS'training'
+p27
+aS'decision trees'
+p28
+aS'science'
+p29
+aS'mapreduce'
+p30
+aS'hive'
+p31
+aS'machine learning'
+p32
 aS'r'
 aS'advertising'
-p26
+p33
 aS'logistic regression'
-p27
-aS'organization'
-p28
-asS'working-year'
-p29
-(lp30
-V(2, 5]
-p31
-asS'major'
-p32
-(lp33
-S'information'
 p34
-aS'business'
+aS'organization'
 p35
-aS'marketing'
+aS'physics'
 p36
-aS'data science'
+asS'working-year'
 p37
-aS'machine learning'
-p38
-aS'engineering'
+(lp38
+V(2, 5]
 p39
-aS'applied math'
+asS'major'
 p40
-aS'data science engineering'
-p41
-aVphysic
+(lp41
+VBusiness
 p42
-aS'science'
+aVData Science
 p43
-asS'education'
+aVEconomics
 p44
-(lp45
-S'Bachelor'
+aVEngineering
+p45
+aVComputer Science
 p46
-asS'responsibility'
+aVMathematics
 p47
-(lp48
-S'information'
+aVPhysics
+p48
+asS'education'
 p49
-aS'pattern'
-p50
-aVinsight
+(lp50
+VBachelor
 p51
-aS'optimization'
+aVMaster
 p52
-aS'ownership'
+aVDoctor
 p53
-aS'modeling'
+asS'responsibility'
 p54
+(lp55
+S'information'
+p56
+aS'pattern'
+p57
+aS'insight'
+p58
+aS'optimization'
+p59
+aS'ownership'
+p60
+aS'modeling'
+p61
 aS'model'
-p55
+p62
 as.

@@ -1,333 +1,597 @@
-essential_responsibility
-+
-support
-splunk
-security
-info
-event
-management_siem
-managing
-system
-application
-log
-multiple_source
-+
-coordinate
-infrastructure
-networking
-engineering
-team
-ensure
-security
-requirement
-included
-developed
-emerging_technology
-+
-serve
-project_manager
-lead
-within
-security
-project
-+
-serve_subject
-matter_expert
-security
-product
-data
-loss_prevention
-intrusion_detection
-protection
-system
-process
-eg
-incident_response
-vulnerability
-management
-etc
-+
-perform
-deployment
-integration
-initial
-configuration
-new
-security
-solution
-well
-enhancement_existing
-security
-solution
-accordance
-standard
-best_practice
-+
-maintain
-baseline
-secure
-configuration
-operation
-device
-whether
-direct
-control
-indirect
-control
-+
-understand
-data
-flow
-data
-content
-application
-including
-presence
-phi_pii
-ensure
-appropriate
-control
-place
-+
-address
-question
-internal_external
-audit
-examination
-review
-data
-governance
-procedure_ensure
-accountability
-access
-data
-resource
-+
-provide_consultation
-nist
-security
-data
-privacy
-control
-+
-respond
-request
-proposal
-customer
-inquiry
-application
-security
-needed
-+
-perform
-task
-may_required
-security
-leadership
-senior-level_contributor
-coordinate_creation
-implementation_maintenance
-enhancement_given
-method
-model
-algorithm
-measurement
-approach
-etc
-act_subject
-matter_expert
-method
-individual
-interface
-product_manager
-business
-leader
-define_practical
-requirement
-new
-method
-model
-translate_level
-specificity_interpreted
-data_scientist
-software_engineer
-method
-analyst
-also_responsible
-translating_complex
-technical
-clinical
-concept_format
-easily_understood
-typical_audience
-internal_external
-customer
-successful
-method
-analyst
-strong
-skill
-technical_discipline
-foundational_understanding
-clinical_terminology
-concept_overall
-understanding
-care_delivery
-payment_system
-need
-statistical
-clinical
-expert
-work_closely
-resource
-must
-understand
-appropriate
-question_asked
-approach_evaluated
-method
-analyst
-experience
-performing_detailed
-analysis
-large_disparate
-datasets_using
-variety
-tool
-evaluating_result
-applied
-algorithm
-statistical_model
-department
-advanced_analytics
-essential_duty
-responsibility
-interface
-product_manager
-business
-leader
-customer
-partner
-understand
-practical
-requirement
-new_enhanced
-methodology
-translate_level
-specificity_interpreted
-data_scientist
-software_engineer
-work_collaboratively
-data_scientist
-clinician_expert
-ensure
-methodology
-meet_stated
-business
-requirement
-analyze
-result
-new_enhanced
-methodology
-ensure
-meet_requirement
-appropriate_documentation
-value
-available
-business
-support
-specialized_resource
-statistician_clinician
-etc_combining
-expertise
-develop
-best
-implementation
-approach
-methodology
-demonstrate
-present
-method
-colleague
-customer
-management
-provide
-method
-sme_support
-training
-needed
-qualification
-+
-knowlwdge
-splunk
-mandatory
-log_management
-system
-toolset
-+
-experience
-nist
-800-53
-control
-implementation
-+
-knowledge
-technical
-infrastructure
-network
-database
-system
-relation
-security
-risk
-+
-experience
-ip
-id
-incident_response
-siem
-technology
-+
-strong
-problem_solving
-troubleshooting
-capability
-+
-self-starter
-ability
-work_minimal
-supervision
-+
-security
-related
-certification
-eg
-cisa
-cissp
-plus
-+
-bachelor_degree
-computer_science
-information
-technology
-related_discipline
-equivalent
-technical
-training
-work
-experience
-+
-minimum_3
--
-5_year
-related
-security
-experience
-+
-knowledge
-hipaa
-privacy_security
-rule
-plus
-business
-dev
+(lp1
+Vessential responsibility
+p2
+aV+
+aVsupport
+p3
+aVsplunk
+p4
+aVsecurity
+p5
+aVinfo
+p6
+aVevent
+p7
+aVmanagement siem
+p8
+aVmanaging
+p9
+aVsystem
+p10
+aVapplication
+p11
+aVlog
+p12
+aVmultiple source
+p13
+aV+
+aVcoordinate
+p14
+aVinfrastructure
+p15
+aVnetworking
+p16
+aVengineering team
+p17
+aVensure
+p18
+aVsecurity
+p19
+aVrequirement
+p20
+aVincluded
+p21
+aVdeveloped
+p22
+aVemerging technology
+p23
+aV+
+aVserve
+p24
+aVproject manager
+p25
+aVlead
+p26
+aVwithin
+p27
+aVsecurity
+p28
+aVproject
+p29
+aV+
+aVserve subject
+p30
+aVmatter expert
+p31
+aVsecurity
+p32
+aVproduct
+p33
+aVdata
+p34
+aVloss prevention
+p35
+aVintrusion detection
+p36
+aVprotection
+p37
+aVsystem
+p38
+aVprocess
+p39
+aVe.g.
+p40
+aVincident response
+p41
+aVvulnerability management
+p42
+aVetc
+p43
+aV+
+aVperform
+p44
+aVdeployment
+p45
+aVintegration
+p46
+aVinitial
+p47
+aVconfiguration
+p48
+aVnew
+p49
+aVsecurity
+p50
+aVsolution
+p51
+aVwell
+p52
+aVenhancement existing
+p53
+aVsecurity
+p54
+aVsolution
+p55
+aVaccordance
+p56
+aVstandard best
+p57
+aVpractice
+p58
+aV+
+aVmaintain
+p59
+aVbaseline
+p60
+aVsecure
+p61
+aVconfiguration
+p62
+aVoperation
+p63
+aVdevice
+p64
+aVwhether
+p65
+aVdirect
+p66
+aVcontrol
+p67
+aVindirect
+p68
+aVcontrol
+p69
+aV+
+aVunderstand
+p70
+aVdata flow
+p71
+aVdata
+p72
+aVcontent
+p73
+aVapplication
+p74
+aVincluding
+p75
+aVpresence
+p76
+aVphi pii
+p77
+aVensure appropriate
+p78
+aVcontrol
+p79
+aVplace
+p80
+aV+
+aVaddress question
+p81
+aVinternal external
+p82
+aVaudit
+p83
+aVexamination
+p84
+aVreview
+p85
+aVdata governance
+p86
+aVprocedure ensure
+p87
+aVaccountability
+p88
+aVaccess
+p89
+aVdata
+p90
+aVresource
+p91
+aV+
+aVprovide consultation
+p92
+aVnist
+p93
+aVsecurity
+p94
+aVdata privacy
+p95
+aVcontrol
+p96
+aV+
+aVrespond
+p97
+aVrequest proposal
+p98
+aVcustomer
+p99
+aVinquiry
+p100
+aVapplication
+p101
+aVsecurity
+p102
+aVneeded
+p103
+aV+
+aVperform
+p104
+aVtask
+p105
+aVmay required
+p106
+aVsecurity
+p107
+aVleadership
+p108
+aVsenior-level contributor
+p109
+aVcoordinate creation
+p110
+aVimplementation maintenance
+p111
+aVenhancement given
+p112
+aVmethod model
+p113
+aValgorithm
+p114
+aVmeasurement approach
+p115
+aVetc
+p116
+aVact subject
+p117
+aVmatter expert
+p118
+aVmethod
+p119
+aVindividual interface
+p120
+aVproduct manager
+p121
+aVbusiness leader
+p122
+aVdefine practical
+p123
+aVrequirement
+p124
+aVnew
+p125
+aVmethod model
+p126
+aVtranslate level
+p127
+aVspecificity interpreted
+p128
+aVdata scientist
+p129
+aVsoftware engineer
+p130
+aVmethod
+p131
+aVanalyst
+p132
+aValso responsible
+p133
+aVtranslating complex
+p134
+aVtechnical
+p135
+aVclinical concept
+p136
+aVformat easily
+p137
+aVunderstood typical
+p138
+aVaudience
+p139
+aVinternal external
+p140
+aVcustomer
+p141
+aVsuccessful
+p142
+aVmethod
+p143
+aVanalyst
+p144
+aVstrong
+p145
+aVskill
+p146
+aVtechnical discipline
+p147
+aVfoundational understanding
+p148
+aVclinical terminology
+p149
+aVconcept overall
+p150
+aVunderstanding
+p151
+aVcare delivery
+p152
+aVpayment system
+p153
+aVneed
+p154
+aVstatistical
+p155
+aVclinical
+p156
+aVexpert
+p157
+aVwork closely
+p158
+aVresource
+p159
+aVmust
+p160
+aVunderstand
+p161
+aVappropriate question
+p162
+aVasked approach
+p163
+aVevaluated method
+p164
+aVanalyst
+p165
+aVexperience performing
+p166
+aVdetailed analysis
+p167
+aVlarge disparate
+p168
+aVdatasets using
+p169
+aVvariety
+p170
+aVtool evaluating
+p171
+aVresult
+p172
+aVapplied
+p173
+aValgorithm statistical
+p174
+aVmodel
+p175
+aVdepartment
+p176
+aVadvanced analytics
+p177
+aVessential duty
+p178
+aVresponsibility
+p179
+aVinterface
+p180
+aVproduct manager
+p181
+aVbusiness leader
+p182
+aVcustomer
+p183
+aVpartner understand
+p184
+aVpractical requirement
+p185
+aVnew enhanced
+p186
+aVmethodology translate
+p187
+aVlevel specificity
+p188
+aVinterpreted data
+p189
+aVscientist
+p190
+aVsoftware engineer
+p191
+aVwork collaboratively
+p192
+aVdata scientist
+p193
+aVclinician expert
+p194
+aVensure
+p195
+aVmethodology meet
+p196
+aVstated business
+p197
+aVrequirement
+p198
+aVanalyze
+p199
+aVresult
+p200
+aVnew enhanced
+p201
+aVmethodology
+p202
+aVensure
+p203
+aVmeet requirement
+p204
+aVappropriate documentation
+p205
+aVvalue
+p206
+aVavailable
+p207
+aVbusiness
+p208
+aVsupport
+p209
+aVspecialized resource
+p210
+aVstatistician clinician
+p211
+aVetc combining
+p212
+aVexpertise
+p213
+aVdevelop
+p214
+aVbest
+p215
+aVimplementation
+p216
+aVapproach methodology
+p217
+aVdemonstrate
+p218
+aVpresent
+p219
+aVmethod
+p220
+aVcolleague
+p221
+aVcustomer
+p222
+aVmanagement
+p223
+aVprovide
+p224
+aVmethod
+p225
+aVsme support
+p226
+aVtraining
+p227
+aVneeded
+p228
+aVqualification
+p229
+aV+
+aVknowlwdge
+p230
+aVsplunk
+p231
+aVmandatory
+p232
+aVlog management
+p233
+aVsystem
+p234
+aVtoolset
+p235
+aV+
+aVexperience
+p236
+aVnist
+p237
+aV800-53
+p238
+aVcontrol
+p239
+aVimplementation
+p240
+aV+
+aVknowledge
+p241
+aVtechnical
+p242
+aVinfrastructure
+p243
+aVnetwork
+p244
+aVdatabase
+p245
+aVsystem
+p246
+aVrelation
+p247
+aVsecurity risk
+p248
+aV+
+aVexperience
+p249
+aVip
+p250
+aVid
+p251
+aVincident response
+p252
+aVsiem
+p253
+aVtechnology
+p254
+aV+ strong
+p255
+aVproblem solving
+p256
+aVtroubleshooting
+p257
+aVcapability
+p258
+aV+
+aVself-starter
+p259
+aVability work
+p260
+aVminimal supervision
+p261
+aV+
+aVsecurity
+p262
+aVrelated
+p263
+aVcertification
+p264
+aVe.g.
+p265
+aVcisa
+p266
+aVcissp
+p267
+aVplus
+p268
+aV+
+aVbachelor degree
+p269
+aVcomputer science
+p270
+aVinformation technology
+p271
+aVrelated discipline
+p272
+aVequivalent
+p273
+aVtechnical
+p274
+aVtraining
+p275
+aVwork
+p276
+aVexperience
+p277
+aV+
+aVminimum 3
+p278
+aV-
+aV5 year
+p279
+aVrelated
+p280
+aVsecurity
+p281
+aVexperience
+p282
+aV+
+aVknowledge hipaa
+p283
+aVprivacy security
+p284
+aVrule
+p285
+aVplus
+p286
+aVbusiness
+p287
+aVdev
+p288
+a.

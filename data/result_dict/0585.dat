@@ -4,112 +4,113 @@ p2
 (lp3
 S'probability'
 p4
-aS'data science'
+aS'communication'
 p5
-aS'testing'
+aS'data science'
 p6
-aS'rest'
+aS'testing'
 p7
-aS'problem solving'
+aS'rest'
 p8
-aS'mysql'
+aS'problem solving'
 p9
-aS'go'
+aS'mysql'
 p10
-aS'git'
+aS'go'
 p11
-aS'scala'
+aS'git'
 p12
-aS'critical thinking'
+aS'scala'
 p13
-aS'redis'
+aS'critical thinking'
 p14
-aS'hadoop'
+aS'redis'
 p15
-aS'research'
+aS'hadoop'
 p16
-aS'natural language processing'
+aS'research'
 p17
-aS'teaching'
+aS'optimization'
 p18
-aS'python'
+aS'natural language processing'
 p19
-aS'marketing'
+aS'teaching'
 p20
-aS'processing'
+aS'python'
 p21
-aS'aws'
+aS'marketing'
 p22
-aS'spark'
+aS'collaboration'
 p23
-aS'data'
+aS'processing'
 p24
-aS'b testing'
+aS'aws'
 p25
-aS'science'
+aS'spark'
 p26
-aS'programming'
+aS'data'
 p27
-aS'analysis'
+aS'a'
+aS'b testing'
 p28
-aS'machine learning'
+aS'science'
 p29
+aS'programming'
+p30
+aS'analysis'
+p31
+aS'machine learning'
+p32
 aS'r'
 aS'elasticsearch'
-p30
-aS'emr'
-p31
-aS'rapid prototyping'
-p32
-asS'working-year'
 p33
-(lp34
-V(2, 5]
+aS'emr'
+p34
+aS'rapid prototyping'
 p35
-asS'major'
+asS'working-year'
 p36
 (lp37
-S'business'
+V(2, 5]
 p38
-aS'marketing'
+asS'major'
 p39
-aS'data science'
-p40
-aS'statistic'
+(lp40
+VData Science
 p41
-aVapplied statistic
+aVStatistics
 p42
-aS'machine learning'
+aVEconomics
 p43
-aS'design'
+aVComputer Science
 p44
-aS'natural language processing'
+aVBusiness
 p45
-aS'science'
-p46
 asS'education'
-p47
-(lp48
+p46
+(lp47
 S'Bachelor'
-p49
+p48
 asS'responsibility'
-p50
-(lp51
+p49
+(lp50
 S'development'
-p52
+p51
 aS'product'
-p53
+p52
 aS'build model'
-p54
+p53
 aS'business problem'
-p55
+p54
 aS'predict'
-p56
+p55
 aS'processing'
-p57
+p56
 aS'analysis'
-p58
+p57
 aS'improvement'
+p58
+aS'optimization'
 p59
 aS'design'
 p60

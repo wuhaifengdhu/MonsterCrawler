@@ -4,203 +4,191 @@ p2
 (dp3
 S'data processing'
 p4
-I1
+F0.012988404938969524
 sS'nosql'
 p5
-I1
+F0.0096708369762067928
 sS'sqoop'
 p6
-I1
+F0.016655381163332258
 sS'pig'
 p7
-I1
-sS'engineering'
+F0.0095357886046497919
+sS'analytics'
 p8
-I1
-sS'mysql'
-p9
-I1
-sS'hbase'
-p10
-I1
-sS'perl'
-p11
-I1
-sS'research'
-p12
-I1
-sS'cassandra'
-p13
-I1
-sS'web analytics'
-p14
-I1
-sS'open source'
-p15
-I1
-sS'big data'
-p16
-I1
-sS'agile'
-p17
-I1
-sS'hadoop'
-p18
-I1
-sS'strategy'
-p19
-I1
-sS'big data analytics'
-p20
-I1
-sS'computer science'
-p21
-I1
-sS'unstructured data'
-p22
-I1
-sS'data management'
-p23
-I1
-sS'architecture'
-p24
-I1
-sS'flume'
-p25
-I1
-sS'python'
-p26
-I1
-sS'mongodb'
-p27
-I1
-sS'processing'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'data quality'
-p30
-I1
-sS'management'
-p31
-I1
-sS'scripting'
-p32
-I1
-sS'aerospace'
-p33
-I1
-sS'sql'
-p34
-I1
-sS'java'
-p35
-I1
-sS'spark'
-p36
-I1
-sS'data'
-p37
-I1
-sS'software development'
-p38
-I1
-sS'hive'
-p39
-I1
-sS'data architecture'
-p40
-I1
-sS'etl'
-p41
-I1
-sS'oracle'
-p42
-I1
-sS'organization'
-p43
-I1
-sS'data analytics'
-p44
-I1
-sS'predictive analytics'
-p45
-I1
-ssS'working-year'
-p46
-(dp47
-V(0, 2]
-p48
-I1
-sV(2, 5]
-p49
-I1
-ssS'major'
-p50
-(dp51
-S'management'
-p52
-I1
-sS'business'
-p53
-I1
-sS'big data'
-p54
-I1
-sS'phd'
-p55
-I1
-sS'big data analytics'
-p56
-I1
+F0.0030732772508251824
 sS'engineering'
-p57
-I1
-sS'design'
-p58
-I1
+p9
+F0.0086562175058208807
+sS'mysql'
+p10
+F0.0083892506243364723
+sS'hbase'
+p11
+F0.011831300670812972
+sS'perl'
+p12
+F0.010127387789008369
+sS'research'
+p13
+F0.0030147008539284036
+sS'cassandra'
+p14
+F0.013301789832369883
+sS'web analytics'
+p15
+F0.013492044308934711
+sS'open source'
+p16
+F0.011300069752360758
+sS'big data'
+p17
+F0.004497261930610133
+sS'agile'
+p18
+F0.015432437262894059
+sS'hadoop'
+p19
+F0.013619856905295741
+sS'strategy'
+p20
+F0.011130822835525335
+sS'big data analytics'
+p21
+F0.01171119824999463
 sS'computer science'
-p59
-I1
-sS'ee computer science'
-p60
-I1
-sS'data analytics'
-p61
-I1
-sS'predictive analytics'
-p62
-I1
-ssS'education'
-p63
-(dp64
-VBachelor
-p65
-I1
-sVMaster
-p66
-I1
-sVDoctor
-p67
-I1
-ssS'responsibility'
-p68
-(dp69
-S'development'
-p70
-I1
-sS'design'
-p71
-I1
-sS'product'
-p72
-I1
+p22
+F0.0049681387391774584
+sS'unstructured data'
+p23
+F0.011267874323156042
+sS'data management'
+p24
+F0.0097170251046263985
+sS'architecture'
+p25
+F0.0077279665112532092
+sS'flume'
+p26
+F0.018088109491661664
+sS'python'
+p27
+F0.0018418781369373355
+sS'mongodb'
+p28
+F0.010449101638944788
 sS'processing'
-p73
-I1
+p29
+F0.0057706292815219787
+sS'data scientist'
+p30
+F0.0037433627744306651
+sS'data quality'
+p31
+F0.012490593862848846
+sS'management'
+p32
+F0.0032015861031789829
+sS'scripting'
+p33
+F0.0085974712983981037
+sS'aerospace'
+p34
+F0.017212369274846911
+sS'sql'
+p35
+F0.0024096956142510497
+sS'java'
+p36
+F0.0043790352214426974
+sS'spark'
+p37
+F0.0059580764074758253
+sS'data'
+p38
+F0.0079626440622437653
+sS'software development'
+p39
+F0.0074918608412483127
+sS'science'
+p40
+F0.0024842186861982062
+sS'hive'
+p41
+F0.0073701563586219309
+sS'data architecture'
+p42
+F0.014337362384506371
+sS'etl'
+p43
+F0.010069839837509479
+sS'oracle'
+p44
+F0.0092756943412060835
+sS'organization'
+p45
+F0.0062303315875677778
+sS'data analytics'
+p46
+F0.0072166879204445126
+sS'predictive analytics'
+p47
+F0.0081360359481582704
+ssS'working-year'
+p48
+(dp49
+V(0, 2]
+p50
+F0.0080479864455482459
+sV(2, 5]
+p51
+F0.0043778955068238005
+ssS'major'
+p52
+(dp53
+VData Science
+p54
+F0.0036299964049648858
+sVManagement Science and Engineering
+p55
+F0.0045566944822222344
+sVEngineering
+p56
+F0.0086562175058208807
+sVBusiness
+p57
+F0.0038223121808272586
+sVComputer Science
+p58
+F0.0031991369129052922
+ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0032204198857593877
+sVMaster
+p62
+F0.0025698964142197062
+sVDoctor
+p63
+F0.0038486988401995334
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+F0.0042790141428060728
+sS'design'
+p67
+F0.010320980989529877
+sS'product'
+p68
+F0.0047526250555397411
+sS'processing'
+p69
+F0.0057706292815219787
 sS'understand'
-p74
-I1
+p70
+F0.014852860872397705
 ss.

@@ -2,168 +2,171 @@
 S'skills'
 p2
 (dp3
-S'data mining'
+S'analytics'
 p4
-I1
-sS'relational databases'
-p5
-I1
-sS'regression'
-p6
-I1
-sS'clustering'
-p7
-I1
-sS'management'
-p8
-I1
-sS'research'
-p9
-I1
-sS'r'
-I1
-sS'computer science'
-p10
-I1
-sS'database development'
-p11
-I1
-sS'mathematics'
-p12
-I1
-sS'data management'
-p13
-I1
-sS'segmentation'
-p14
-I1
-sS'data modeling'
-p15
-I1
-sS'python'
-p16
-I1
-sS'marketing'
-p17
-I1
-sS'philosophy'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'sql'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'data'
-p22
-I1
-sS'statistical programming'
-p23
-I1
-sS'training'
-p24
-I1
-sS'decision trees'
-p25
-I1
-sS'programming'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'spss'
-p28
-I1
-sS'google analytics'
-p29
-I1
-sS'optimization'
-p30
-I1
-sS'data analytics'
-p31
-I1
-sS'predictive analytics'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'data mining'
-p38
-I1
-sS'management'
-p39
-I1
-sS'business'
-p40
-I1
-sS'marketing'
-p41
-I1
-sS'philosophy'
-p42
-I1
-sS'computer science'
-p43
-I1
-sS'statistic'
-p44
-I1
-sS'mathematics'
-p45
-I1
-sS'data analytics'
-p46
-I1
-sVphysic
-p47
-I1
-sS'predictive analytics'
-p48
-I1
-ssS'education'
-p49
-(dp50
-VDoctor
-p51
-I1
-ssS'responsibility'
-p52
-(dp53
-S'development'
-p54
-I1
-sS'large data set'
-p55
-I1
-sS'analysis'
-p56
-I1
-sS'optimization'
-p57
-I1
+F0.0028991248732784221
 sS'data mining'
-p58
-I1
-sS'report'
-p59
-I1
+p5
+F0.0070732644289404588
+sS'sas'
+p6
+F0.0046174561889247229
+sS'relational databases'
+p7
+F0.016156677133839989
+sS'regression'
+p8
+F0.0079205593022726693
+sS'clustering'
+p9
+F0.010744708535187367
+sS'management'
+p10
+F0.0060403257813310147
+sS'research'
+p11
+F0.0028438678055391279
+sS'r'
+F0.0036999487107596081
+sS'computer science'
+p12
+F0.0046866108772907356
+sS'database development'
+p13
+F0.018547479509571998
+sS'mathematics'
+p14
+F0.0060929776069193527
+sS'data management'
+p15
+F0.0091663936820309024
+sS'segmentation'
+p16
+F0.0096535043737668042
+sS'data modeling'
+p17
+F0.008707339149394238
+sS'apis'
+p18
+F0.012264717887122165
+sS'python'
+p19
+F0.0034750100850217732
+sS'marketing'
+p20
+F0.012701430149850326
+sS'philosophy'
+p21
+F0.016534436613955029
+sS'data scientist'
+p22
+F0.0035312388838795944
+sS'construction'
+p23
+F0.01691041910177829
+sS'sql'
+p24
+F0.002273146196110157
 sS'modeling'
+p25
+F0.0027071522967385083
+sS'data'
+p26
+F0.0023720297574894582
+sS'statistical programming'
+p27
+F0.014029742491172186
+sS'training'
+p28
+F0.0078443158367410976
+sS'decision trees'
+p29
+F0.013906273455051032
+sS'science'
+p30
+F0.0023434462939803083
+sS'programming'
+p31
+F0.0036743841161162535
+sS'analysis'
+p32
+F0.0011420624058471
+sS'spss'
+p33
+F0.007354496102858551
+sS'google analytics'
+p34
+F0.012857660710132597
+sS'optimization'
+p35
+F0.0066666961912951409
+sS'databases'
+p36
+F0.0076749939110959684
+sS'data analytics'
+p37
+F0.0068077422716193237
+sS'predictive analytics'
+p38
+F0.0076749939110959684
+ssS'working-year'
+p39
+(dp40
+V(5, 10]
+p41
+F0.0040188142052561965
+ssS'major'
+p42
+(dp43
+VBusiness
+p44
+F0.0036057144905803809
+sVData Science
+p45
+F0.0034242966086835422
+sVEconomics
+p46
+F0.0054692384917482033
+sVComputer Science
+p47
+F0.0030178524878406595
+sVMathematics
+p48
+F0.0057142417652748401
+sVManagement Science and Engineering
+p49
+F0.0042984817948963083
+ssS'education'
+p50
+(dp51
+VDoctor
+p52
+F0.0036306059059215603
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+F0.0040365366747137288
+sS'large data set'
+p56
+F0.010481523784442889
+sS'analysis'
+p57
+F0.0011420624058471
+sS'optimization'
+p58
+F0.0066666961912951409
+sS'data mining'
+p59
+F0.0070732644289404588
+sS'report'
 p60
-I1
-sS'implement'
+F0.00691758806724143
+sS'modeling'
 p61
-I1
+F0.0027071522967385083
+sS'implement'
+p62
+F0.0070595439170653591
 ss.

@@ -2,82 +2,76 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'visualization'
 p4
-aS'management'
+aS'consulting'
 p5
-aS'data modeling'
+aS'statistics'
 p6
-aS'science'
+aS'data modeling'
 p7
-aS'data science'
+aS'science'
 p8
-aS'data scientist'
+aS'data science'
 p9
-aS'access'
+aS'data scientist'
 p10
-aS'analytics'
+aS'access'
 p11
-aS'engineering'
+aS'analytics'
 p12
-aS'music'
+aS'engineering'
 p13
-aS'computer science'
+aS'management'
 p14
-aS'modeling'
+aS'music'
 p15
-aS'data'
+aS'dashboard'
 p16
-aS'etl'
+aS'modeling'
 p17
-aS'project management'
+aS'data'
 p18
-asS'working-year'
+aS'etl'
 p19
-(lp20
-V(10, 15]
+aS'project management'
+p20
+aS'computer science'
 p21
-asS'major'
+asS'working-year'
 p22
 (lp23
-S'management'
+V(10, 15]
 p24
-aS'music technology'
+asS'major'
 p25
-aS'science'
-p26
-aS'data science'
+(lp26
+VData Science
 p27
-aS'phd'
+aVStatistics
 p28
-aS'analytics'
+aVEngineering
 p29
-aS'engineering'
+aVManagement Science and Engineering
 p30
-aS'music'
+aVComputer Science
 p31
-aS'computer science'
-p32
-aS'statistic'
-p33
-aS'project management'
-p34
 asS'education'
-p35
-(lp36
+p32
+(lp33
 VMaster
-p37
+p34
 aVDoctor
-p38
+p35
 asS'responsibility'
-p39
-(lp40
+p36
+(lp37
 S'modeling'
-p41
+p38
 aS'product'
-p42
-aVinsight
-p43
+p39
 aS'understand'
-p44
+p40
+aS'decision making'
+p41
 as.

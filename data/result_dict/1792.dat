@@ -43,53 +43,47 @@ p22
 asS'working-year'
 p23
 (lp24
-V[0]
+S'[0]'
 p25
 asS'major'
 p26
 (lp27
-S'business intelligence analytics'
+VData Science
 p28
-aS'management'
+aVComputer Science
 p29
-aS'business analysis'
+aVBusiness
 p30
-aS'business'
+aVManagement Science and Engineering
 p31
-aS'communication'
-p32
-aS'machine learning'
-p33
-aS'analytics'
-p34
 asS'education'
+p32
+(lp33
+S'Bachelor'
+p34
+asS'responsibility'
 p35
 (lp36
-S'Bachelor'
-p37
-asS'responsibility'
-p38
-(lp39
 S'development'
-p40
+p37
 aS'documentation'
-p41
-aVinsight
-p42
+p38
+aS'pattern'
+p39
+aS'insight'
+p40
 aS'analysis'
-p43
-aS'statistical model'
-p44
+p41
 aS'interface'
-p45
+p42
 aS'report'
-p46
+p43
 aS'modeling'
-p47
+p44
 aS'implement'
-p48
+p45
 aS'presentation'
-p49
+p46
 aS'model'
-p50
+p47
 as.

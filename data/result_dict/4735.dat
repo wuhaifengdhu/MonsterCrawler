@@ -6,13 +6,13 @@ S'communication'
 p4
 aS'data science'
 p5
-aS'analytics'
+aS'integration'
 p6
-aS'hive'
+aS'analytics'
 p7
-aS'data mining'
+aS'hive'
 p8
-aS'analysis'
+aS'data mining'
 p9
 aS'hbase'
 p10
@@ -26,7 +26,7 @@ aS'big data'
 p14
 aS'recruiting'
 p15
-aS'integration'
+aS'hadoop'
 p16
 aS'test automation'
 p17
@@ -34,85 +34,68 @@ aS'computer science'
 p18
 aS'advanced analytics'
 p19
+aS'a'
 aS'python'
 p20
-aS'data scientist'
+aS'aws'
 p21
-aS'automation'
+aS'data scientist'
 p22
-aS'data'
+aS'automation'
 p23
-aS'software development'
+aS'sql'
 p24
+aS'data'
+p25
+aS'software development'
+p26
 aS'c'
 aS'science'
-p25
-aS'c++'
-p26
-aS'machine learning'
 p27
-aS'organization'
+aS'mapreduce'
 p28
-aS'validation'
+aS'analysis'
 p29
-aS'predictive analytics'
+aS'machine learning'
 p30
-asS'working-year'
+aS'organization'
 p31
-(lp32
-V(5, 10]
+aS'validation'
+p32
+aS'predictive analytics'
 p33
-asS'major'
+asS'working-year'
 p34
 (lp35
-S'information'
+V(5, 10]
 p36
-aS'big data'
+asS'major'
 p37
-aS'ee computer science'
-p38
-aS'science'
+(lp38
+VData Science
 p39
-aS'data science'
+aVComputer Science
 p40
-aS'communication'
-p41
-aS'machine learning'
-p42
-aS'analytics'
-p43
-aS'computer science'
-p44
-aS'automation'
-p45
-aS'data mining'
-p46
-aS'advanced analytics'
-p47
-aS'law'
-p48
-aS'machine learning data mining'
-p49
-aS'predictive analytics'
-p50
 asS'education'
-p51
-(lp52
-S'Bachelor'
-p53
+p41
+(lp42
+VBachelor
+p43
+aVMaster
+p44
 asS'responsibility'
-p54
-(lp55
+p45
+(lp46
 S'development'
-p56
+p47
 aS'information'
-p57
+p48
 aS'product'
-p58
+p49
 aS'pattern'
-p59
+p50
 aS'analysis'
-p60
+p51
 aS'data mining'
-p61
+p52
 as.

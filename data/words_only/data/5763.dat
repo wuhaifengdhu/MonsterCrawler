@@ -4,209 +4,194 @@ p2
 (dp3
 S'soa'
 p4
-I1
+F0.0074239249869047013
 sS'communication'
 p5
-I1
-sS'mapreduce'
+F0.002697051719098563
+sS'sql'
 p6
-I1
-sS'business intelligence'
+F0.001161744222884237
+sS'mapreduce'
 p7
-I1
-sS'data warehousing'
+F0.0044918254121906658
+sS'business intelligence'
 p8
-I1
-sS'cassandra'
+F0.0034804826384572762
+sS'defense'
 p9
-I1
-sS'data architecture'
+F0.0060164193422968283
+sS'data warehousing'
 p10
-I1
-sS'management'
+F0.0051814144151350822
+sS'sas'
 p11
-I1
-sS'big data'
+F0.0023598583589053094
+sS'education'
 p12
-I1
-sS'data migration'
+F0.0035751733386938144
+sS'cassandra'
 p13
-I1
-sS'air force'
-p14
-I1
-sS'hadoop'
-p15
-I1
-sS'teamwork'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'intelligence'
-p18
-I1
-sS'mathematics'
-p19
-I1
-sS'data management'
-p20
-I1
-sS'data modeling'
-p21
-I1
-sS'government'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'bigquery'
-p24
-I1
-sS'splunk'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'data'
-p27
-I1
-sS'information technology'
-p28
-I1
-sS'software development'
-p29
-I1
-sS'microsoft office'
-p30
-I1
-sS'cloud computing'
-p31
-I1
-sS'engineering'
-p32
-I1
-sS'security clearance'
-p33
-I1
-sS'data center'
-p34
-I1
-sS'command'
-p35
-I1
-sS'architecture'
-p36
-I1
-sS'oracle'
-p37
-I1
-sS'military'
-p38
-I1
-sS'security'
-p39
-I1
-sS'impala'
-p40
-I1
-sS'data integration'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(10, 15]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
+F0.0064129583007847988
 sS'management'
-p48
-I1
-sS'business'
-p49
-I1
+p14
+F0.001543524475638249
 sS'big data'
-p50
-I1
-sS'computing'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'business administration'
-p53
-I1
-sS'general'
-p54
-I1
-sS'information technology'
-p55
-I1
-sS'engineering'
-p56
-I1
-sS'information systems'
-p57
-I1
-sS'design'
-p58
-I1
+p15
+F0.0021681859052174917
+sS'data migration'
+p16
+F0.0092105886933444726
+sS'air force'
+p17
+F0.011309635547071387
+sS'hadoop'
+p18
+F0.0021887674640537732
+sS'writing'
+p19
+F0.003828041441367109
+sS'teamwork'
+p20
+F0.004879744716017034
 sS'computer science'
-p59
-I1
-sS'computer information systems'
-p60
-I1
+p21
+F0.0023952014705063383
+sS'intelligence'
+p22
+F0.0053494330830895368
 sS'mathematics'
-p61
-I1
-sS'ee computer science'
-p62
-I1
-sS'information system'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VBachelor
-p66
-I1
-ssS'responsibility'
-p67
-(dp68
-S'development'
-p69
-I1
-sS'information'
-p70
-I1
-sS'communicate'
-p71
-I1
-sS'design'
-p72
-I1
-sS'interface'
-p73
-I1
+p23
+F0.0031139578911001803
+sS'military'
+p24
+F0.0063588732061870684
+sS'data management'
+p25
+F0.0046846986449902393
+sS'data modeling'
+p26
+F0.0044500881513088097
+sS'microsoft office'
+p27
+F0.0032715544206010625
+sS'government'
+p28
+F0.0044414301799471298
+sS'data scientist'
+p29
+F0.00180472174644613
+sS'bigquery'
+p30
+F0.010190762768177023
+sS'splunk'
+p31
+F0.0080838522778770676
 sS'modeling'
-p74
-I1
+p32
+F0.0055342125316630497
+sS'data'
+p33
+F0.0022225151049730871
+sS'information technology'
+p34
+F0.0053094532738700937
+sS'software development'
+p35
+F0.0036119192812151149
+sS'science'
+p36
+F0.0011976727226475168
+sS'cloud computing'
+p37
+F0.0055154968223472675
+sS'engineering'
+p38
+F0.0041732701092799139
+sS'security clearance'
+p39
+F0.0062245663939674099
+sS'data architecture'
+p40
+F0.0069122207066700221
+sS'command'
+p41
+F0.0065413190413672311
+sS'architecture'
+p42
+F0.0037257487609619389
+sS'oracle'
+p43
+F0.0044719275955048075
+sS'organization'
+p44
+F0.0030037203394917907
+sS'security'
+p45
+F0.0037229145071887427
+sS'impala'
+p46
+F0.0077520184515248274
+sS'data integration'
+p47
+F0.006593971312489919
+ssS'working-year'
+p48
+(dp49
+V(10, 15]
+p50
+F0.0033346275233362161
+ssS'major'
+p51
+(dp52
+VBusiness
+p53
+F0.0018427842370938913
+sVEngineering
+p54
+F0.0041732701092799139
+sVInformation Science
+p55
+F0.0043145744268383197
+sVComputer Science
+p56
+F0.0015423436905488887
+sVMathematics
+p57
+F0.0029203961321677204
+sVManagement Science and Engineering
+p58
+F0.0021968390774597824
+ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0015526044764393641
+ssS'responsibility'
+p62
+(dp63
+S'development'
+p64
+F0.0020629659325623827
+sS'information'
+p65
+F0.0047260824515481933
+sS'communicate'
+p66
+F0.0034177902594234961
+sS'design'
+p67
+F0.0049758732879675556
+sS'interface'
+p68
+F0.0053791434387565227
+sS'modeling'
+p69
+F0.0055342125316630497
 sS'model'
-p75
-I1
+p70
+F0.0026361343132906999
 sS'normalization'
-p76
-I1
+p71
+F0.010321871548731964
 ss.

@@ -4,190 +4,187 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
-sS'research'
+F0.010096839934963209
+sS'analytics'
 p5
-I1
-sS'monetization'
+F0.0055931669580934189
+sS'sas'
 p6
-I1
-sS'management'
+F0.0044541378028212751
+sS'research'
 p7
-I1
-sS'java'
+F0.0027432808413560715
+sS'monetization'
 p8
-I1
-sS'scala'
-p9
-I1
-sS'predictive modeling'
-p10
-I1
-sS'hadoop'
-p11
-I1
-sS'strategy'
-p12
-I1
-sS'json'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'innovation'
-p15
-I1
-sS'mathematics'
-p16
-I1
-sS'unstructured data'
-p17
-I1
-sS'product development'
-p18
-I1
-sS'python'
-p19
-I1
-sS'processing'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'apache spark'
-p22
-I1
-sS'statistical modeling'
-p23
-I1
-sS'apache'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'translation'
-p26
-I1
-sS'data'
-p27
-I1
-sS'software development'
-p28
-I1
-sS'mapreduce'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'machine learning'
-p31
-I1
-sS'r'
-I1
-sS'data analytics'
-p32
-I1
-sS'predictive analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(2, 5]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
+F0.01745231150712552
 sS'management'
-p40
-I1
-sS'business'
-p41
-I1
-sS'computer science statistics'
-p42
-I1
-sS'machine learning'
-p43
-I1
+p9
+F0.0029133404090020969
+sS'java'
+p10
+F0.0039847812465218114
+sS'scala'
+p11
+F0.0078474803462978675
+sS'predictive modeling'
+p12
+F0.0066849064588069768
+sS'hadoop'
+p13
+F0.0041312106154326846
+sS'strategy'
+p14
+F0.0050643454380284074
+sS'json'
+p15
+F0.012623709571490017
 sS'computer science'
-p44
-I1
-sS'statistic'
-p45
-I1
+p16
+F0.0045208465054251464
+sS'innovation'
+p17
+F0.006224516630658275
 sS'mathematics'
-p46
-I1
-sS'data analytics'
-p47
-I1
-sS'predictive analytics'
-p48
-I1
-ssS'education'
-p49
-(dp50
-VMaster
-p51
-I1
-ssS'responsibility'
-p52
-(dp53
-S'development'
-p54
-I1
-sS'large data set'
-p55
-I1
-sS'product'
-p56
-I1
+p18
+F0.0058774703603723657
+sS'unstructured data'
+p19
+F0.010253403323000515
+sS'product development'
+p20
+F0.0084034609285585527
+sS'python'
+p21
+F0.0016760498802355819
 sS'processing'
-p57
-I1
-sS'information'
-p58
-I1
-sS'pattern'
-p59
-I1
-sS'decision-making'
-p60
-I1
-sS'analysis'
-p61
-I1
-sS'statistical model'
-p62
-I1
-sS'analytic'
-p63
-I1
-sS'recommendation'
-p64
-I1
-sS'report'
-p65
-I1
+p22
+F0.0052510870954042442
+sS'data scientist'
+p23
+F0.0034063397593693833
+sS'apache spark'
+p24
+F0.0084488916154017348
+sS'statistics'
+p25
+F0.0029984336167286321
+sS'statistical modeling'
+p26
+F0.0057600177498083483
+sS'apache'
+p27
+F0.0072768545612283877
 sS'modeling'
+p28
+F0.0052228018586595011
+sS'translation'
+p29
+F0.016360654387212837
+sS'data'
+p30
+F0.0057203289971610727
+sS'software development'
+p31
+F0.0068173524696889792
+sS'science'
+p32
+F0.0022605591260260204
+sS'mapreduce'
+p33
+F0.008478139925903282
+sS'analysis'
+p34
+F0.0011016679156081349
+sS'machine learning'
+p35
+F0.002107774025189837
+sS'r'
+F0.001784541178822962
+sS'data analytics'
+p36
+F0.0065669539597614053
+sS'predictive analytics'
+p37
+F0.0074035311039510939
+ssS'working-year'
+p38
+(dp39
+sS'major'
+p40
+(dp41
+VStatistics
+p42
+F0.005792619838868425
+sVBusiness
+p43
+F0.0034781811806241614
+sVData Science
+p44
+F0.003303180008376407
+sVComputer Science
+p45
+F0.0029111117246051373
+sVMathematics
+p46
+F0.0055121303202008099
+sVManagement Science and Engineering
+p47
+F0.0041464454613147662
+ssS'education'
+p48
+(dp49
+VMaster
+p50
+F0.0023385231036147165
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+F0.0038937652810743365
+sS'information'
+p54
+F0.0089202906722147569
+sS'product'
+p55
+F0.012974207949045788
+sS'insight'
+p56
+F0.011799957273372895
+sS'large data set'
+p57
+F0.010110794647372561
+sS'pattern'
+p58
+F0.0084199069954152602
+sS'processing'
+p59
+F0.0052510870954042442
+sS'analysis'
+p60
+F0.0011016679156081349
+sS'analytic'
+p61
+F0.0072595690427641243
+sS'decision making'
+p62
+F0.0105034824756576
+sS'recommendation'
+p63
+F0.0083993625235314184
+sS'report'
+p64
+F0.0066729145343164915
+sS'modeling'
+p65
+F0.0052228018586595011
+sS'validate ... model'
 p66
-I1
-sS'model'
+F0.016832045489842962
+sS'decision-making'
 p67
-I1
-sVinsight
-p68
-I1
+F0.011807187928569527
 sS'data sourcing'
-p69
-I1
+p68
+F0.020364549466096723
 ss.

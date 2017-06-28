@@ -4,223 +4,210 @@ p2
 (dp3
 S'aws'
 p4
-I1
+F0.0065830638508355419
 sS'probability'
 p5
-I1
+F0.008777907149051592
 sS'regression analysis'
 p6
-I1
-sS'storage'
+F0.0095438211126683149
+sS'communication'
 p7
-I1
+F0.0039878321388182782
 sS'data science'
 p8
-I1
-sS'engineering'
+F0.0030298260092206527
+sS'personalization'
 p9
-I1
-sS'problem solving'
+F0.011148095183761319
+sS'analytics'
 p10
-I1
-sS'data mining'
-p11
-I1
-sS'regression'
-p12
-I1
-sS'xml'
-p13
-I1
-sS'visualization'
-p14
-I1
-sS'classification'
-p15
-I1
-sS'predictive modeling'
-p16
-I1
-sS'r programming'
-p17
-I1
-sS'tableau'
-p18
-I1
-sS'd3'
-p19
-I1
-sS'json'
-p20
-I1
-sS'r'
-I1
-sS'communication'
-p21
-I1
-sS'microsoft excel'
-p22
-I1
-sS'clustering'
-p23
-I1
-sS'data analysis'
-p24
-I1
-sS'python'
-p25
-I1
-sS'marketing'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'multivariate testing'
-p28
-I1
-sS'sql'
-p29
-I1
-sS'modeling'
-p30
-I1
-sS'data'
-p31
-I1
-sS'customer experience'
-p32
-I1
-sS'b testing'
-p33
-I1
-sS'collaborative filtering'
-p34
-I1
-sS'marketing analytics'
-p35
-I1
-sS'programming'
-p36
-I1
-sS'analysis'
-p37
-I1
-sS'machine learning'
-p38
-I1
-sS'google analytics'
-p39
-I1
-sS'optimization'
-p40
-I1
-sS'retail'
-p41
-I1
-sS'predictive analytics'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(2, 5]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'data mining'
-p48
-I1
-sS'business'
-p49
-I1
-sS'marketing'
-p50
-I1
-sS'data science'
-p51
-I1
-sS'marketing analytics'
-p52
-I1
-sS'data science analytics'
-p53
-I1
-sS'general'
-p54
-I1
+F0.0043815489268691516
 sS'engineering'
-p55
-I1
-sS'machine learning'
-p56
-I1
-sS'design'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'machine learning data mining'
-p60
-I1
-sS'predictive analytics'
-p61
-I1
-ssS'education'
-p62
-(dp63
-VBachelor
-p64
-I1
-ssS'responsibility'
-p65
-(dp66
-S'data mining'
-p67
-I1
-sS'product'
-p68
-I1
+p11
+F0.003085276516558324
+sS'problem solving'
+p12
+F0.0061829014230560479
+sS'data mining'
+p13
+F0.0053450360923983312
+sS'regression'
+p14
+F0.0059853092964277091
+sS'xml'
+p15
+F0.0082970098626085498
+sS'visualization'
+p16
+F0.0047211467806900992
+sS'java'
+p17
+F0.0031215792636480693
+sS'classification'
+p18
+F0.0079480148651337006
+sS'scala'
+p19
+F0.006147522387150218
+sS'predictive modeling'
+p20
+F0.0052367907019873292
+sS'storage'
+p21
+F0.0094219182935679074
+sS'tableau'
+p22
+F0.0050605191111430517
+sS'd3'
+p23
+F0.0076075397788042667
+sS'json'
+p24
+F0.0098891024602856311
+sS'r'
+F0.0013979655078436804
+sS'microsoft excel'
+p25
+F0.0051809442194017891
+sS'clustering'
+p26
+F0.0081194271046755914
 sS'data analysis'
-p69
-I1
-sS'pattern'
-p70
-I1
-sVinsight
-p71
-I1
-sS'analysis'
-p72
-I1
-sS'statistical model'
-p73
-I1
-sS'optimization'
-p74
-I1
-sS'design'
-p75
-I1
-sS'recommendation'
-p76
-I1
+p27
+F0.0037374358059588542
+sS'python'
+p28
+F0.0013129761026530629
+sS'marketing'
+p29
+F0.0095980580477458364
+sS'data scientist'
+p30
+F0.0026684424815211038
+sS'multivariate testing'
+p31
+F0.013837850292399947
+sS'sql'
+p32
+F0.0017177427174635946
 sS'modeling'
-p77
-I1
+p33
+F0.002045707025243205
+sS'data'
+p34
+F0.0026886987175573202
+sS'customer experience'
+p35
+F0.0096501168803179976
+sS'a'
+F0.0047104329813955331
+sS'b testing'
+p36
+F0.010049278499641682
+sS'collaborative filtering'
+p37
+F0.011552832225769487
+sS'science'
+p38
+F0.0017708662171135828
+sS'marketing analytics'
+p39
+F0.0097161164056417601
+sS'programming'
+p40
+F0.0027766126822037175
+sS'analysis'
+p41
+F0.000863019450262292
+sS'machine learning'
+p42
+F0.0016511781406398976
+sS'google analytics'
+p43
+F0.0097161164056417601
+sS'optimization'
+p44
+F0.0050378056861172344
+sS'retail'
+p45
+F0.0086800037390844381
+sS'predictive analytics'
+p46
+F0.0057997435096443081
+ssS'working-year'
+p47
+(dp48
+V(2, 5]
+p49
+F0.0031207668222446739
+ssS'major'
+p50
+(dp51
+VEngineering
+p52
+F0.0056734985560874746
+sVEconomics
+p53
+F0.0041329258124041838
+sVData Science
+p54
+F0.0025876296791059513
+sVBusiness
+p55
+F0.0027247212775166605
+sVComputer Science
+p56
+F0.0022804930638594401
+ssS'education'
+p57
+(dp58
+VBachelor
+p59
+F0.0022956645533247022
+ssS'responsibility'
+p60
+(dp61
+S'product'
+p62
+F0.0067757828247745422
+sS'data analysis'
+p63
+F0.0037374358059588542
+sS'pattern'
+p64
+F0.0065959472936376468
+sS'insight'
+p65
+F0.0046218976221901386
+sS'recommendation'
+p66
+F0.01315970652301396
+sS'analysis'
+p67
+F0.000863019450262292
+sS'statistical model'
+p68
+F0.0090449982509292065
+sS'optimization'
+p69
+F0.0050378056861172344
+sS'design'
+p70
+F0.0036786368010540997
+sS'data mining'
+p71
+F0.0053450360923983312
+sS'modeling'
+p72
+F0.002045707025243205
 sS'implement'
-p78
-I1
+p73
+F0.0053346679474045528
 sS'model'
-p79
-I1
+p74
+F0.0038977603070570297
 sS'normalization'
-p80
-I1
+p75
+F0.015261810073314014
 ss.

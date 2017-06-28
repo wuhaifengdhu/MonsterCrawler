@@ -6,64 +6,64 @@ S'training'
 p4
 aS'testing'
 p5
-aS'user experience'
-p6
-aS'customer service'
-p7
-aS'economics'
-p8
-aS'management'
-p9
-aS'analysis'
-p10
-aS'access'
-p11
 aS'analytics'
+p6
+aS'user experience'
+p7
+aS'customer service'
+p8
+aS'economics'
+p9
+aS'management'
+p10
+aS'analysis'
+p11
+aS'access'
 p12
-aS'customer analytics'
+aS'e-commerce'
 p13
-aS'optimization'
+aS'customer analytics'
 p14
-aS'pricing'
+aS'optimization'
 p15
-aS'problem solving'
+aS'pricing'
 p16
-aS'organization'
+aS'problem solving'
 p17
-aS'retail'
+aS'go'
 p18
-asS'working-year'
+aS'organization'
 p19
-(lp20
-V[0]
+aS'retail'
+p20
+aS'statistics'
 p21
-asS'major'
+asS'working-year'
 p22
 (lp23
-S'management'
+S'[0]'
 p24
-aS'business'
+asS'major'
 p25
-aS'economics'
-p26
-aS'statistic'
+(lp26
+VStatistics
 p27
-aS'phd'
+aVBusiness
 p28
-aS'analytics'
+aVData Science
 p29
-aS'design'
+aVEconomics
 p30
-aS'applied math'
+aVMathematics
 p31
-aS'quantitative methods'
+aVManagement Science and Engineering
 p32
-aS'history'
-p33
 asS'education'
-p34
-(lp35
-VMaster
+p33
+(lp34
+VBachelor
+p35
+aVMaster
 p36
 aVDoctor
 p37
@@ -90,4 +90,6 @@ aS'design'
 p48
 aS'model'
 p49
+aS'design ... experiment'
+p50
 as.

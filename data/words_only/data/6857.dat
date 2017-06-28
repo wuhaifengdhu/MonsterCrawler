@@ -2,190 +2,199 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'lean manufacturing'
 p4
-I1
-sS'lean manufacturing'
+F0.011143258754731803
+sS'sales'
 p5
-I1
-sS'engineering'
+F0.013487240325318475
+sS'hardware'
 p6
-I1
+F0.0075320812911855266
 sS'operational excellence'
 p7
-I1
+F0.011726790284601794
 sS'communication skills'
 p8
-I1
-sS'data mining'
+F0.0074708435133065392
+sS'problem solving'
 p9
-I1
-sS'go'
+F0.004978928732156696
+sS'data mining'
 p10
-I1
-sS'strategy'
+F0.0043042177052376018
+sS'go'
 p11
-I1
-sS'management'
+F0.0066509395436665873
+sS'strategy'
 p12
-I1
-sS'industrial engineering'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'tableau'
-p15
-I1
-sS'continuous improvement'
-p16
-I1
-sS'data analysis'
-p17
-I1
+F0.0095842480602038628
 sS'theory'
-p18
-I1
-sS'six sigma'
-p19
-I1
-sS'alteryx'
-p20
-I1
-sS'sales operations'
-p21
-I1
-sS'leadership'
-p22
-I1
-sS'organization'
-p23
-I1
-sS'modeling'
-p24
-I1
-sS'manufacturing'
-p25
-I1
-sS'data'
-p26
-I1
-sS'project management'
-p27
-I1
-sS'root'
-p28
-I1
-sS'analysis'
-p29
-I1
-sS'process improvement'
-p30
-I1
-sS'retail'
-p31
-I1
-sS'microsoft office'
-p32
-I1
-sS'statistical analysis'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V[0]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'information'
-p39
-I1
+p13
+F0.0059441708934550412
 sS'management'
-p40
-I1
-sS'business'
-p41
-I1
-sS'communication'
-p42
-I1
+p14
+F0.0036756546336699884
 sS'industrial engineering'
-p43
-I1
-sS'general'
-p44
-I1
-sS'engineering'
-p45
-I1
-sS'design'
-p46
-I1
-sS'data mining'
-p47
-I1
-sS'project management'
-p48
-I1
-ssS'education'
-p49
-(dp50
-VBachelor
-p51
-I1
-ssS'responsibility'
-p52
-(dp53
-S'development'
-p54
-I1
-sS'information'
-p55
-I1
-sS'product'
-p56
-I1
+p15
+F0.0093598030452822154
+sS'predictive modeling'
+p16
+F0.0042170505247240767
+sS'tableau'
+p17
+F0.0040751036249975494
+sS'continuous improvement'
+p18
+F0.0081338175701706726
+sS'marketing'
+p19
+F0.0038645324999544597
 sS'data analysis'
-p57
-I1
-sS'business problem'
-p58
-I1
-sS'pattern'
-p59
-I1
-sS'data mining'
-p60
-I1
-sS'recommendation'
-p61
-I1
-sS'analysis'
-p62
-I1
-sS'improvement'
-p63
-I1
-sS'design'
-p64
-I1
-sS'identify opportunity'
-p65
-I1
-sS'report'
-p66
-I1
+p20
+F0.0030096592595652439
+sS'finance'
+p21
+F0.0053856917934760416
+sS'six sigma'
+p22
+F0.0086021782551481026
+sS'data scientist'
+p23
+F0.0021488269070261221
+sS'alteryx'
+p24
+F0.019912258089877361
+sS'sales operations'
+p25
+F0.013195182272732153
+sS'leadership'
+p26
+F0.010055224875479647
+sS'facebook'
+p27
+F0.0086691271985511638
 sS'modeling'
+p28
+F0.0016473543387861105
+sS'manufacturing'
+p29
+F0.0075713155619306473
+sS'data'
+p30
+F0.00048114193863883537
+sS'project management'
+p31
+F0.003856903292747558
+sS'analytical skills'
+p32
+F0.0084869718512396788
+sS'training'
+p33
+F0.0047734173448728788
+sS'process improvement'
+p34
+F0.0065431290962058132
+sS'root'
+p35
+F0.0079442998609475946
+sS'analysis'
+p36
+F0.0006949669812456997
+sS'organization'
+p37
+F0.010729313423620778
+sS'retail'
+p38
+F0.0069897798872546081
+sS'microsoft office'
+p39
+F0.0038953396448130296
+sS'statistical analysis'
+p40
+F0.0052225155241635048
+ssS'working-year'
+p41
+(dp42
+S'[0]'
+p43
+F0.0044547966136802893
+ssS'major'
+p44
+(dp45
+VIndustrial Engineering
+p46
+F0.0081338175701706726
+sVEconomics
+p47
+F0.0033281370132342003
+sVComputer Science
+p48
+F0.0018364213921951273
+sVBusiness
+p49
+F0.0021941467488318747
+sVManagement Science and Engineering
+p50
+F0.0026157090029794976
+ssS'education'
+p51
+(dp52
+VBachelor
+p53
+F0.0018486385956793239
+ssS'responsibility'
+p54
+(dp55
+S'insight'
+p56
+F0.0074437864341155586
+sS'information'
+p57
+F0.0056272016208089026
+sS'product'
+p58
+F0.0027281803057155104
+sS'data analysis'
+p59
+F0.0030096592595652439
+sS'business problem'
+p60
+F0.0057771816676077982
+sS'pattern'
+p61
+F0.0053115437638420809
+sS'data mining'
+p62
+F0.0043042177052376018
+sS'recommendation'
+p63
+F0.0052985836608889884
+sS'analysis'
+p64
+F0.0006949669812456997
+sS'improvement'
+p65
+F0.010897389437481168
+sS'design'
+p66
+F0.0059246199189390576
+sS'identify opportunity'
 p67
-I1
-sS'model'
+F0.0084016826384084985
+sS'report'
 p68
-I1
-sVinsight
+F0.0084189712785899748
+sS'modeling'
 p69
-I1
+F0.0016473543387861105
+sS'development'
+p70
+F0.0024563103497243785
+sS'model'
+p71
+F0.0031387643851960257
+sS'decision making'
+p72
+F0.0066259291073620967
 ss.

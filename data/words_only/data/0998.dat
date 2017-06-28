@@ -4,160 +4,154 @@ p2
 (dp3
 S'logistics'
 p4
-I1
+F0.022246344224390233
 sS'model validation'
 p5
-I1
+F0.025921708963395778
 sS'engineering'
 p6
-I1
+F0.0059171728361046118
 sS'pricing'
 p7
-I1
+F0.018264090191011547
 sS'git'
 p8
-I1
+F0.013974266268014015
 sS'java'
 p9
-I1
+F0.0059867969452574079
 sS'scala'
 p10
-I1
+F0.011790175785983752
 sS'writing'
 p11
-I1
+F0.010855363894118323
 sS'computer science'
 p12
-I1
-sS'operations research'
+F0.00679218967723295
+sS'mathematics'
 p13
-I1
-sS'python'
+F0.0088304023288686261
+sS'operations research'
 p14
-I1
-sS'marketing'
+F0.013917577369815987
+sS'python'
 p15
-I1
-sS'javascript'
+F0.0025181232500157778
+sS'marketing'
 p16
-I1
-sS'data scientist'
+F0.0092039348911958866
+sS'javascript'
 p17
-I1
-sS'sql'
+F0.010712292821362048
+sS'data scientist'
 p18
-I1
-sS'spark'
+F0.0051177375128689771
+sS'statistics'
 p19
-I1
-sS'data'
+F0.0045048930183700705
+sS'sql'
 p20
-I1
-sS'retail'
+F0.003294414776971242
+sS'spark'
 p21
-I1
-sS'science'
+F0.0081455827213316838
+sS'data'
 p22
-I1
-sS'economics'
+F0.006875448572433213
+sS'retail'
 p23
-I1
-sS'machine learning'
+F0.016647156929548414
+sS'science'
 p24
-I1
-sS'e-commerce'
+F0.0033962989767830549
+sS'economics'
 p25
-I1
-sS'r'
-I1
-sS'validation'
+F0.011577255190142325
+sS'machine learning'
 p26
-I1
-ssS'working-year'
+F0.0031667522793914944
+sS'e-commerce'
 p27
-(dp28
-V(2, 5]
+F0.018205057191422357
+sS'r'
+F0.0026811222541736285
+sS'organization'
+p28
+F0.0085177963250322765
+sS'validation'
 p29
-I1
-ssS'major'
+F0.01527518021775409
+ssS'working-year'
 p30
 (dp31
-S'computer science operations research'
+V(2, 5]
 p32
-I1
-sS'business'
+F0.0059852387846914754
+ssS'major'
 p33
-I1
-sS'economics math'
-p34
-I1
-sS'statistics economics'
+(dp34
+VStatistics
 p35
-I1
-sS'economics mathematics'
+F0.0087029215936622224
+sVBusiness
 p36
-I1
-sS'marketing'
+F0.0052256731747541748
+sVEconomics
 p37
-I1
-sS'economics'
+F0.0079264325967365254
+sVEngineering
 p38
-I1
-sS'machine learning'
+F0.010881057617230568
+sVComputer Science
 p39
-I1
-sS'engineering'
+F0.0043736992577400853
+sVMathematics
 p40
-I1
-sS'computer science'
+F0.0082815098047461441
+sVOperations Research
 p41
-I1
-sS'statistic'
-p42
-I1
-sS'mathematics computer science'
-p43
-I1
-sS'operations research'
-p44
-I1
-sS'science'
-p45
-I1
+F0.015549414967087699
 ssS'education'
+p42
+(dp43
+VBachelor
+p44
+F0.0044027962689367475
+sVMaster
+p45
+F0.003513433261952545
+sVDoctor
 p46
-(dp47
-VMaster
-p48
-I1
+F0.0052617476897413914
 ssS'responsibility'
-p49
-(dp50
+p47
+(dp48
 S'product'
-p51
-I1
+p49
+F0.00649755019670409
 sS'build dashboard'
-p52
-I1
+p50
+F0.034205740826248145
 sS'business problem'
-p53
-I1
+p51
+F0.013759181459568332
 sS'predict'
+p52
+F0.020154019500073957
+sS'evaluation'
+p53
+F0.016345136153752063
+sS'insight'
 p54
-I1
-sVinsight
-p55
-I1
-sS'solve problem'
-p56
-I1
+F0.0088642191111569322
 sS'model'
-p57
-I1
+p55
+F0.0074754146951770085
 sS'build solution'
-p58
-I1
+p56
+F0.028553231728928066
 sS'extract'
-p59
-I1
+p57
+F0.014945451839144103
 ss.

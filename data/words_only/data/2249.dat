@@ -2,222 +2,234 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'analytics'
 p4
-I1
+F0.0022767996387003317
 sS'trading'
 p5
-I1
+F0.011018122375266115
 sS'hive'
 p6
-I1
+F0.0054600896583508031
 sS'data mining'
 p7
-I1
-sS'hbase'
+F0.0055549197085919839
+sS'sas'
 p8
-I1
-sS'simulation'
+F0.0036262744939199393
+sS'hbase'
 p9
-I1
-sS'big data'
-p10
-I1
-sS'hadoop'
-p11
-I1
-sS'perl'
-p12
-I1
-sS'mahout'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'mathematics'
-p15
-I1
-sS'unstructured data'
-p16
-I1
-sS'operations research'
-p17
-I1
-sS'matlab'
-p18
-I1
-sS'segmentation'
-p19
-I1
-sS'data modeling'
-p20
-I1
-sS'python'
-p21
-I1
-sS'marketing'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'data quality'
-p24
-I1
-sS'survey design'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'spark'
-p29
-I1
-sS'data'
-p30
-I1
-sS'customer experience'
-p31
-I1
-sS'programming'
-p32
-I1
-sS'analysis'
-p33
-I1
-sS'spss'
-p34
-I1
-sS'online marketing'
-p35
-I1
-sS'r'
-I1
-sS'architecture'
-p36
-I1
-sS'communication skills'
-p37
-I1
-sS'predictive analytics'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(5, 10]
-p41
-I1
-sV(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
-sS'business'
-p46
-I1
-sS'big data'
-p47
-I1
-sS'marketing'
-p48
-I1
-sVapplied statistic
-p49
-I1
-sS'machine learning'
-p50
-I1
-sS'design'
-p51
-I1
-sS'computer science'
-p52
-I1
-sS'applied statistics'
-p53
-I1
-sS'data mining'
-p54
-I1
-sS'communication'
-p55
-I1
-sS'mathematics'
-p56
-I1
-sS'operations research'
-p57
-I1
-sS'predictive analytics'
-p58
-I1
-ssS'education'
-p59
-(dp60
-VBachelor
-p61
-I1
-sVMaster
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'information'
-p65
-I1
-sVtest hypothesis
-p66
-I1
-sS'business problem'
-p67
-I1
-sS'pattern'
-p68
-I1
-sVinsight
-p69
-I1
-sS'communicate'
-p70
-I1
-sS'analysis'
-p71
-I1
+F0.0087650735336127529
 sS'simulation'
-p72
-I1
-sS'statistical method'
-p73
-I1
-sS'design'
-p74
-I1
-sS'data mining'
-p75
-I1
-sS'interface'
-p76
-I1
+p10
+F0.007028365936320345
+sS'statistics'
+p11
+F0.0024411331277555096
+sS'big data'
+p12
+F0.0033317411684886588
+sS'e-commerce'
+p13
+F0.0098650440801686598
+sS'hadoop'
+p14
+F0.0033633678047109029
+sS'perl'
+p15
+F0.0075027506395009651
+sS'mahout'
+p16
+F0.011351263745954182
+sS'matlab'
+p17
+F0.0033413643655446725
+sS'mathematics'
+p18
+F0.0047850609478424242
+sS'unstructured data'
+p19
+F0.0083476660561601045
+sS'operations research'
+p20
+F0.0075417238627013342
+sS'computer science'
+p21
+F0.0036805844586052898
+sS'segmentation'
+p22
+F0.0075812861574084843
+sS'data modeling'
+p23
+F0.0068382244628750564
+sS'python'
+p24
+F0.0013645327558986021
+sS'marketing'
+p25
+F0.004987472571930756
+sS'data scientist'
+p26
+F0.0027732242543557022
+sS'data quality'
+p27
+F0.0092535027832100093
+sS'metrics'
+p28
+F0.011427146371546884
+sS'survey design'
+p29
+F0.012006477470236875
+sS'machine learning'
+p30
+F0.0017160149786231396
+sS'sql'
+p31
+F0.0017851933477304898
 sS'modeling'
+p32
+F0.0042520716702699086
+sS'spark'
+p33
+F0.0044139676003027714
+sS'data'
+p34
+F0.0015523754957391743
+sS'customer experience'
+p35
+F0.010029048171429963
+sS'word'
+p36
+F0.0073001797400474256
+sS'science'
+p37
+F0.0018404028486756346
+sS'economics'
+p38
+F0.0062735388072237214
+sS'programming'
+p39
+F0.0057712839520150574
+sS'analysis'
+p40
+F0.0026907229457130621
+sS'spss'
+p41
+F0.0057757822797318463
+sS'online marketing'
+p42
+F0.012154693002049884
+sS'r'
+F0.0014528594413977518
+sS'architecture'
+p43
+F0.005725168907551462
+sS'retail'
+p44
+F0.009020841582242204
+sS'communication skills'
+p45
+F0.0096416907121992766
+sS'predictive analytics'
+p46
+F0.0060274821291329593
+ssS'working-year'
+p47
+(dp48
+V(5, 10]
+p49
+F0.0031561368104106252
+sV(2, 5]
+p50
+F0.0032433100220710357
+ssS'major'
+p51
+(dp52
+VStatistics
+p53
+F0.0047159810730054456
+sVBusiness
+p54
+F0.0028317129507175764
+sVData Science
+p55
+F0.002689238174358803
+sVEconomics
+p56
+F0.0042952134751949242
+sVComputer Science
+p57
+F0.0023700412208172718
+sVMathematics
+p58
+F0.0044876244229907119
+sVOperations Research
+p59
+F0.0084259918800710844
+ssS'education'
+p60
+(dp61
+VBachelor
+p62
+F0.002385808449397662
+sVMaster
+p63
+F0.0019038761393303061
+ssS'responsibility'
+p64
+(dp65
+S'information'
+p66
+F0.0036311654437942271
+sVtest hypothesis
+p67
+F0.012626892224322381
+sS'business problem'
+p68
+F0.0074558915239022116
+sS'pattern'
+p69
+F0.0068549504596181832
+sS'insight'
+p70
+F0.0096067714974318597
+sS'communicate'
+p71
+F0.0052519447180146396
+sS'analysis'
+p72
+F0.0026907229457130621
+sS'simulation'
+p73
+F0.007028365936320345
+sS'statistical method'
+p74
+F0.0092036398666269937
+sS'design'
+p75
+F0.003823085890100727
+sS'data mining'
+p76
+F0.0055549197085919839
+sS'interface'
 p77
-I1
-sS'statistical model'
+F0.0082658565407070124
+sS'understand'
 p78
-I1
-sS'data gathering'
+F0.0055017796163462709
+sS'modeling'
 p79
-I1
+F0.0042520716702699086
+sS'statistical model'
+p80
+F0.0094001683393164798
+sS'extract'
+p81
+F0.0080987134311592407
+sS'data gathering'
+p82
+F0.012450345837024731
+sS'decision making'
+p83
+F0.008551264528611293
 ss.

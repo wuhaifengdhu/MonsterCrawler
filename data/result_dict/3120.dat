@@ -2,88 +2,81 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'testing'
 p4
-aS'banking'
+aS'engineering'
 p5
-aS'data scientist'
+aS'insurance'
 p6
-aS'data engineering'
+aS'management'
 p7
-aS'testing'
+aS'data engineering'
 p8
 aS'recruiting'
 p9
-aS'engineering'
-p10
 aS'strategy'
-p11
-aS'collaboration'
-p12
-aS'credit'
-p13
-aS'product design'
-p14
-aS'leadership'
-p15
-aS'military experience'
-p16
-aS'innovation'
-p17
-aS'product management'
-p18
-aS'military'
-p19
+p10
 aS'teamwork'
-p20
+p11
+aS'innovation'
+p12
+aS'data scientist'
+p13
+aS'collaboration'
+p14
+aS'credit'
+p15
+aS'ios'
+p16
+aS'product design'
+p17
+aS'military experience'
+p18
 aS'data'
-p21
-aS'insurance'
-p22
-aS'etl'
-p23
+p19
 aS'customer experience'
+p20
+aS'a'
+aS'banking'
+p21
+aS'leadership'
+p22
+aS'product management'
+p23
+aS'military'
 p24
-asS'working-year'
+aS'etl'
 p25
-(lp26
+asS'working-year'
+p26
+(lp27
 V(0, 2]
-p27
-asS'major'
 p28
-(lp29
-S'information'
-p30
-aS'management'
+asS'major'
+p29
+(lp30
+VEngineering
 p31
-aS'general'
+aVManagement Science and Engineering
 p32
-aS'engineering'
-p33
-aS'design'
-p34
-aS'law'
-p35
-aS'history'
-p36
 asS'education'
-p37
-(lp38
+p33
+(lp34
 VBachelor
-p39
+p35
 asS'responsibility'
-p40
-(lp41
+p36
+(lp37
 S'information'
-p42
+p38
 aS'product'
-p43
+p39
 aS'decision-making'
-p44
+p40
 aS'communicate'
-p45
+p41
 aS'understand'
-p46
+p42
 aS'design'
-p47
+p43
 as.

@@ -4,142 +4,145 @@ p2
 (dp3
 S'insurance'
 p4
-I1
+F0.013829699182235472
 sS'human resources'
 p5
-I1
+F0.021755837649940823
 sS'analytics'
 p6
-I1
+F0.007629275982311637
 sS'engineering'
 p7
-I1
-sS'random forest'
+F0.0053721700748844501
+sS'sas'
 p8
-I1
-sS'clustering'
+F0.0060756002485851607
+sS'random forest'
 p9
-I1
-sS'visualization'
+F0.019919404801918172
+sS'clustering'
 p10
-I1
-sS'recruiting'
+F0.014137774388404429
+sS'visualization'
 p11
-I1
-sS'tableau'
+F0.016441186595912011
+sS'statistics'
 p12
-I1
-sS'regression'
+F0.0081799373228298652
+sS'recruiting'
 p13
-I1
-sS'statistical software'
+F0.015126746713234171
+sS'tableau'
 p14
-I1
-sS'matlab'
+F0.0088115179259815428
+sS'regression'
 p15
-I1
-sS'calculus'
+F0.010421788555621932
+sS'statistical software'
 p16
-I1
-sS'data analysis'
+F0.017260953382883724
+sS'matlab'
 p17
-I1
-sS'python'
+F0.0055982508229739675
+sS'calculus'
 p18
-I1
-sS'talent management'
+F0.019881099597995631
+sS'data analysis'
 p19
-I1
-sS'data'
+F0.0065077281358143207
+sS'python'
 p20
-I1
-sS'decision trees'
+F0.0022861908454090613
+sS'talent management'
 p21
-I1
-sS'data visualization'
+F0.025225678686991781
+sS'management'
 p22
-I1
-sS'data cleaning'
+F0.0039738985403493512
+sS'data'
 p23
-I1
-sS'science'
+F0.0010403639287234465
+sS'decision trees'
 p24
-I1
-sS'analysis'
+F0.018297728230330303
+sS'data visualization'
 p25
-I1
-sS'machine learning'
+F0.0086260246735947402
+sS'data cleaning'
 p26
-I1
-sS'r'
-I1
-sS'linear algebra'
+F0.021755837649940823
+sS'science'
 p27
-I1
-sS'shiny'
+F0.0030834819657635632
+sS'analysis'
 p28
-I1
-ssS'working-year'
+F0.0015027136919040787
+sS'machine learning'
 p29
-(dp30
-V[0]
+F0.0028750777273422777
+sS'r'
+F0.0048683535667889575
+sS'linear algebra'
+p30
+F0.01930976758374808
+sS'shiny'
 p31
-I1
-ssS'major'
+F0.020538164434122663
+ssS'working-year'
 p32
 (dp33
-S'information'
+S'[0]'
 p34
-I1
-sS'business'
+F0.0096325207480016783
+ssS'major'
 p35
-I1
-sS'science'
-p36
-I1
-sS'machine learning'
+(dp36
+VStatistics
 p37
-I1
-sS'analytics'
+F0.0079013367100354386
+sVBusiness
 p38
-I1
-sS'engineering'
+F0.0047443611718162903
+sVData Science
 p39
-I1
-sS'information system'
+F0.0045056534324783449
+sVEngineering
 p40
-I1
-sS'statistic'
+F0.0053721700748844501
+sVComputer Science
 p41
-I1
-ssS'education'
+F0.0039708585366324458
+sVManagement Science and Engineering
 p42
-(dp43
+F0.0056558970985477732
+ssS'education'
+p43
+(dp44
 VBachelor
-p44
-I1
-ssS'responsibility'
 p45
-(dp46
+F0.0039972755599557309
+ssS'responsibility'
+p46
+(dp47
 S'information'
-p47
-I1
-sS'data analysis'
 p48
-I1
-sVinsight
+F0.0060837947347780457
+sS'data analysis'
 p49
-I1
-sS'communicate'
+F0.0065077281358143207
+sS'insight'
 p50
-I1
-sS'analysis'
+F0.0080477778772345826
+sS'communicate'
 p51
-I1
-sS'understand'
+F0.017598621774399928
+sS'analysis'
 p52
-I1
-sS'model'
+F0.0015027136919040787
+sS'understand'
 p53
-I1
+F0.0092178939186152425
+sS'model'
+p54
+F0.0067868896574633363
 ss.

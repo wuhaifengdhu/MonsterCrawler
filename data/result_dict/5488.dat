@@ -2,23 +2,23 @@
 S'skills'
 p2
 (lp3
-S'genomics'
+S'data mining'
 p4
-aS'programming'
+aS'genomics'
 p5
-aS'bioinformatics'
+aS'programming'
 p6
-aS'molecular modeling'
+aS'bioinformatics'
 p7
-aS'laboratory'
+aS'molecular modeling'
 p8
-aS'data scientist'
+aS'cheminformatics'
 p9
-aS'data mining'
+aS'testing'
 p10
 aS'recruiting'
 p11
-aS'cheminformatics'
+aS'laboratory'
 p12
 aS'modeling'
 p13
@@ -29,16 +29,16 @@ p15
 asS'working-year'
 p16
 (lp17
-V[0]
+S'[0]'
 p18
 asS'major'
 p19
 (lp20
-S'pharmacy'
+VBiological Engineering
 p21
-aS'data mining'
+aVChemical Engineering
 p22
-aS'bioinformatics'
+aVComputer Science
 p23
 asS'education'
 p24

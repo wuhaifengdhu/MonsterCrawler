@@ -8,126 +8,117 @@ aS'cancer'
 p5
 aS'communication'
 p6
-aS'defense'
+aS'servers'
 p7
-aS'security clearance'
+aS'defense'
 p8
-aS'laboratory'
+aS'security clearance'
 p9
-aS'research'
+aS'sas'
 p10
-aS'pharmacology'
+aS'laboratory'
 p11
-aS'access'
+aS'research'
 p12
-aS'management'
+aS'pharmacology'
 p13
-aS'cell biology'
+aS'access'
 p14
-aS'army'
+aS'management'
 p15
-aS'biochemistry'
+aS'cell biology'
 p16
-aS'excel'
+aS'army'
 p17
-aS'integration'
+aS'biochemistry'
 p18
-aS'writing'
+aS'excel'
 p19
-aS'cell'
+aS'integration'
 p20
-aS'intelligence'
+aS'writing'
 p21
-aS'medicine'
+aS'cell'
 p22
-aS'biology'
+aS'intelligence'
 p23
-aS'data analysis'
+aS'medicine'
 p24
-aS'molecular biology'
+aS'biology'
 p25
-aS'government'
+aS'data analysis'
 p26
-aS'data scientist'
+aS'molecular biology'
 p27
-aS'life sciences'
+aS'government'
 p28
-aS'sql'
+aS'data scientist'
 p29
-aS'technical writing'
+aS'life sciences'
 p30
-aS'immunology'
+aS'sql'
 p31
-aS'data'
+aS'technical writing'
 p32
-aS'training'
+aS'immunology'
 p33
-aS'chemistry'
+aS'data'
 p34
-aS'word'
+aS'a'
+aS'training'
 p35
-aS'science'
+aS'chemistry'
 p36
-aS'program management'
+aS'word'
 p37
-aS'dod'
+aS'science'
 p38
-aS'military'
+aS'program management'
 p39
-aS'security'
+aS'education'
 p40
-aS'analysis'
+aS'dod'
 p41
-aS'powerpoint'
+aS'military'
 p42
-asS'working-year'
+aS'security'
 p43
-(lp44
-V(0, 2]
+aS'analysis'
+p44
+aS'powerpoint'
 p45
-asS'major'
+asS'working-year'
 p46
 (lp47
-S'information'
+V(0, 2]
 p48
-aS'biology'
+asS'major'
 p49
-aS'management'
-p50
-aS'business'
+(lp50
+VBiological Engineering
 p51
-aS'molecular biology'
+aVInformation Science
 p52
-aS'biochemistry'
+aVChemical Engineering
 p53
-aS'science'
+aVBusiness
 p54
-aS'life sciences'
+aVManagement Science and Engineering
 p55
-aS'information systems'
-p56
-aS'information system'
-p57
-aS'communication'
-p58
-aS'medicine'
-p59
-aS'chemistry'
-p60
 asS'education'
-p61
-(lp62
+p56
+(lp57
 VMaster
-p63
+p58
 asS'responsibility'
-p64
-(lp65
+p59
+(lp60
 S'information'
-p66
+p61
 aS'data analysis'
-p67
+p62
 aS'evaluation'
-p68
+p63
 aS'analysis'
-p69
+p64
 as.

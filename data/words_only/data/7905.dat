@@ -4,191 +4,176 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.015292778667728367
 sS'data science'
 p5
-I1
+F0.0039053276807162313
 sS'operational planning'
 p6
-I1
+F0.019189996648987372
 sS'intelligence analysis'
 p7
-I1
-sS'business intelligence'
+F0.015775906615987097
+sS'analytics'
 p8
-I1
-sS'data mining'
+F0.0056476458570358873
+sS'business intelligence'
 p9
-I1
-sS'user experience design'
-p10
-I1
-sS'writing'
-p11
-I1
-sS'management'
-p12
-I1
-sS'open source'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'program management'
-p15
-I1
-sS'user experience'
-p16
-I1
-sS'agile'
-p17
-I1
-sS'education'
-p18
-I1
-sS'integration'
-p19
-I1
-sS'governance'
-p20
-I1
-sS'research'
-p21
-I1
-sS'computer science'
-p22
-I1
-sS'project planning'
-p23
-I1
-sS'data analysis'
-p24
-I1
-sS'business analysis'
-p25
-I1
-sS'collaboration'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'technical documentation'
-p28
-I1
-sS'project management'
-p29
-I1
-sS'data visualization'
-p30
-I1
-sS'documentation'
-p31
-I1
-sS'budgeting'
-p32
-I1
-sS'engineering'
-p33
-I1
+F0.0066332574960208477
 sS'analysis'
+p10
+F0.0011123984472536687
+sS'data mining'
+p11
+F0.0068895432749420055
+sS'writing'
+p12
+F0.014591300818717488
+sS'management'
+p13
+F0.0088251513038927164
+sS'open source'
+p14
+F0.010382856298435373
+sS'big data'
+p15
+F0.004132224436242427
+sS'program management'
+p16
+F0.010845166586246405
+sS'user experience'
+p17
+F0.010958483652944337
+sS'agile'
+p18
+F0.0070899021840893162
+sS'education'
+p19
+F0.0068137232136794455
+sS'integration'
+p20
+F0.014975604689575407
+sS'governance'
+p21
+F0.01170297409381753
+sS'research'
+p22
+F0.0027700011092913583
+sS'computer science'
+p23
+F0.0045648807246338333
+sS'project planning'
+p24
+F0.013525453946536743
+sS'data analysis'
+p25
+F0.0048174091394989132
+sS'business analysis'
+p26
+F0.0086640655853157597
+sS'collaboration'
+p27
+F0.0083041214937449818
+sS'data scientist'
+p28
+F0.0034395183933892152
+sS'technical documentation'
+p29
+F0.016995993984873902
+sS'data'
+p30
+F0.0015402790633048432
+sS'project management'
+p31
+F0.0061735497510537213
+sS'data visualization'
+p32
+F0.0063854987843493536
+sS'science'
+p33
+F0.0091303102362869145
+sS'documentation'
 p34
-I1
-sS'data engineering'
+F0.028241308041662635
+sS'budgeting'
 p35
-I1
-sS'interaction design'
+F0.016884026487726658
+sS'engineering'
 p36
-I1
-sS'data analytics'
+F0.015907204897060451
+sS'presentations'
 p37
-I1
-ssS'working-year'
+F0.013769071038272775
+sS'data engineering'
 p38
-(dp39
-V[0]
+F0.013002697259959218
+sS'interaction design'
+p39
+F0.017294068926037617
+sS'data analytics'
 p40
-I1
-ssS'major'
+F0.0066309177970318095
+ssS'working-year'
 p41
 (dp42
-S'information'
+S'[0]'
 p43
-I1
-sS'management'
+F0.007130567306962282
+ssS'major'
 p44
-I1
-sS'business analysis'
-p45
-I1
-sS'big data'
+(dp45
+VData Science
 p46
-I1
-sS'data science'
+F0.0033353538396268269
+sVManagement Science and Engineering
 p47
-I1
-sS'data mining'
+F0.0041868329171067939
+sVEngineering
 p48
-I1
-sS'data science analytics'
+F0.015907204897060451
+sVBusiness
 p49
-I1
-sS'engineering'
+F0.0035120595687471242
+sVComputer Science
 p50
-I1
-sS'business management'
-p51
-I1
-sS'data analytics'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'computer science engineering'
-p54
-I1
-sS'project management'
-p55
-I1
-sS'computer science'
-p56
-I1
+F0.002939466708935707
 ssS'education'
-p57
-(dp58
+p51
+(dp52
 VBachelor
-p59
-I1
+p53
+F0.0029590221677594378
 sVMaster
-p60
-I1
+p54
+F0.0023613009260525226
 ssS'responsibility'
-p61
-(dp62
+p55
+(dp56
 S'development'
-p63
-I1
+p57
+F0.0039316915662796059
 sS'information'
-p64
-I1
+p58
+F0.0045035883101603724
 sS'product'
-p65
-I1
+p59
+F0.0043668600347978792
 sS'data analysis'
-p66
-I1
+p60
+F0.0048174091394989132
 sS'documentation'
-p67
-I1
+p61
+F0.028241308041662635
 sS'communicate'
-p68
-I1
+p62
+F0.006513775591823351
 sS'analysis'
-p69
-I1
+p63
+F0.0011123984472536687
+sS'design'
+p64
+F0.0047416195130470058
 sS'data mining'
-p70
-I1
+p65
+F0.0068895432749420055
 ss.

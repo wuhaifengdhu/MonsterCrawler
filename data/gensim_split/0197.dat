@@ -1,184 +1,352 @@
-job_requisition
-number
-105760
-category
-intelligence
--
-imagery
-primary_location
-washington_dc
-dc
-u
-security_clearance
-t_sci
-clearance
-status
-must_current
-schedule_full
-time
-type_travel
-continental_u
-percent_travel
-required
-10
-description
-duty_responsibility
-position_requires
-geospatially-related
-data_scientist
-support
-various
-effort
-production
-intelligence
-product
-report
-publication
-distribution
-broad_range
-customer
-required_qualification
-typically_requires
-bachelor's_degree
-ten_twelve
-year_experience
-requires
-10_year
-experience
-field
-advanced
-knowledge
-skill
-demonstrated
-previous
-work
-bachelor_degree
-related_field
-may_count
-four_year
-work
-experience
-master_degree
-may
-add
-2
-additional
-year
-determination_appropriate
-research
-project
-data_collection
-methodology
-identify_retrieve
-manipulate_relate
-exploit_multiple
-structured_unstructured
-data_set
-various_source
-including
-building_generating
-new
-data_set
-appropriate
-interpreted
-evaluated
-result
-data
-science_community's
-method
-model
-algorithm
-understanding_meaning
-limitation_scope
-result_translating
-insightful_output
-data
-science
-mission_identifying
-application
-use_initiate
-efficient_implementation
-method
-tool
-algorithm
-including_preliminary
-data_exploration
-data
-visualization_preparation
-model_calibration
-specification_estimation
-algorithm_validation
-verification_using
-comprehensive_range
-technology
-eg
-software_package
-programming_language
-computational_environment
-educate_manager
-senior_internal
-officer
-medium
-presentation_documentation
-discussion
-lead
-work
-unit_proactively
-addressing_responding
-difficult
-data_science-related
-challenge_timely
-manner_effectively
-balancing_competing
-priority_coordinate
-subtasks_successful
-project
-task_integration
-demonstrated
-strong
-writing_briefing
-skill
-consistent_national-level
-performance
-desired_qualification
-experience
-data_scientist
-within_ic
-dod
-highly_desired
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_client
-member_fortune
-1000_largest
-company_russell
-2000_index
-caci_provides
-dynamic_career
-approximately_15
-000_employee
-working_120
-office_worldwide
-caci_equal
-opportunity_employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV105760
+p4
+aVcategory
+p5
+aVintelligence
+p6
+aV-
+aVimagery
+p7
+aVprimary location
+p8
+aVwashington dc
+p9
+aVdc u
+p10
+aVsecurity clearance
+p11
+aVt sci
+p12
+aVclearance status
+p13
+aVmust current
+p14
+aVschedule full
+p15
+aVtime
+p16
+aVtype travel
+p17
+aVcontinental u
+p18
+aVpercent travel
+p19
+aVrequired
+p20
+aV10
+p21
+aVdescription duty
+p22
+aVresponsibility
+p23
+aVposition requires
+p24
+aVgeospatially-related
+p25
+aVdata scientist
+p26
+aVsupport
+p27
+aVvarious
+p28
+aVeffort
+p29
+aVproduction
+p30
+aVintelligence
+p31
+aVproduct
+p32
+aVreport publication
+p33
+aVdistribution
+p34
+aVbroad range
+p35
+aVcustomer
+p36
+aVrequired qualification
+p37
+aVtypically requires
+p38
+aVbachelor's degree
+p39
+aVten twelve
+p40
+aVyear experience
+p41
+aVrequires
+p42
+aV10 year
+p43
+aVexperience
+p44
+aVfield
+p45
+aVadvanced
+p46
+aVknowledge
+p47
+aVskill
+p48
+aVdemonstrated
+p49
+aVprevious
+p50
+aVwork
+p51
+aVbachelor degree
+p52
+aVrelated field
+p53
+aVmay count
+p54
+aVfour year
+p55
+aVwork
+p56
+aVexperience
+p57
+aVmaster degree
+p58
+aVmay
+p59
+aVadd
+p60
+aV2
+aVadditional
+p61
+aVyear
+p62
+aVdetermination appropriate
+p63
+aVresearch
+p64
+aVproject
+p65
+aVdata collection
+p66
+aVmethodology
+p67
+aVidentify retrieve
+p68
+aVmanipulate relate
+p69
+aVexploit multiple
+p70
+aVstructured unstructured
+p71
+aVdata set
+p72
+aVvarious source
+p73
+aVincluding
+p74
+aVbuilding generating
+p75
+aVnew
+p76
+aVdata set
+p77
+aVappropriate
+p78
+aVinterpreted
+p79
+aVevaluated
+p80
+aVresult
+p81
+aVdata science
+p82
+aVcommunity's method
+p83
+aVmodel algorithm
+p84
+aVunderstanding meaning
+p85
+aVlimitation scope
+p86
+aVresult translating
+p87
+aVinsightful output
+p88
+aVdata science
+p89
+aVmission identifying
+p90
+aVapplication
+p91
+aVuse initiate
+p92
+aVefficient implementation
+p93
+aVmethod
+p94
+aVtool
+p95
+aValgorithm
+p96
+aVincluding preliminary
+p97
+aVdata exploration
+p98
+aVdata visualization
+p99
+aVpreparation model
+p100
+aVcalibration specification
+p101
+aVestimation algorithm
+p102
+aVvalidation verification
+p103
+aVusing comprehensive
+p104
+aVrange
+p105
+aVtechnology
+p106
+aVe.g.
+p107
+aVsoftware package
+p108
+aVprogramming language
+p109
+aVcomputational environment
+p110
+aVeducate manager
+p111
+aVsenior internal
+p112
+aVofficer
+p113
+aVmedium presentation
+p114
+aVdocumentation discussion
+p115
+aVlead
+p116
+aVwork
+p117
+aVunit proactively
+p118
+aVaddressing responding
+p119
+aVdifficult
+p120
+aVdata science-related
+p121
+aVchallenge timely
+p122
+aVmanner effectively
+p123
+aVbalancing competing
+p124
+aVpriority coordinate
+p125
+aVsubtasks successful
+p126
+aVproject task
+p127
+aVintegration
+p128
+aVdemonstrated
+p129
+aVstrong writing
+p130
+aVbriefing skill
+p131
+aVconsistent national-level
+p132
+aVperformance
+p133
+aVdesired qualification
+p134
+aVexperience
+p135
+aVdata scientist
+p136
+aVwithin ic
+p137
+aVdod
+p138
+aVhighly desired
+p139
+aVcompany description
+p140
+aVcaci employ
+p141
+aVdiverse range
+p142
+aVtalent create
+p143
+aVenvironment fuel
+p144
+aVinnovation foster
+p145
+aVcontinuous improvement
+p146
+aVsuccess join
+p147
+aVcaci opportunity
+p148
+aVmake immediate
+p149
+aVimpact providing
+p150
+aVinformation
+p151
+aVsolution
+p152
+aVservice
+p153
+aVsupport
+p154
+aVnational security
+p155
+aVmission government
+p156
+aVtransformation intelligence
+p157
+aVdefense federal
+p158
+aVcivilian client
+p159
+aVmember fortune
+p160
+aV1000 largest
+p161
+aVcompany russell
+p162
+aV2000 index
+p163
+aVcaci provides
+p164
+aVdynamic career
+p165
+aVapproximately 15
+p166
+aV000 employee
+p167
+aVworking 120
+p168
+aVoffice worldwide
+p169
+aVcaci equal
+p170
+aVopportunity employer
+p171
+aV- female
+p172
+aVminority protected
+p173
+aVveteran individual
+p174
+aVdisability
+p175
+a.

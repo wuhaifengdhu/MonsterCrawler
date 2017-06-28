@@ -4,90 +4,84 @@ p2
 (lp3
 S'software development'
 p4
-aS'numerical analysis'
-p5
-aS'organization'
-p6
-aS'science'
-p7
-aS'testing'
-p8
-aS'data scientist'
-p9
-aS'training'
-p10
-aS'analysis'
-p11
-aS'research'
-p12
-aS'engineering'
-p13
-aS'computer science'
-p14
 aS'algorithm development'
-p15
-aS'mathematics'
-p16
+p5
+aS'numerical analysis'
+p6
+aS'organization'
+p7
 aS'education'
-p17
-aS'data'
-p18
-aS'operations research'
-p19
-asS'working-year'
-p20
-(lp21
-V[0]
-p22
-asS'major'
-p23
-(lp24
-S'mathematics physics'
-p25
+p8
 aS'science'
-p26
-aS'phd'
-p27
-aS'computer science'
-p28
+p9
+aS'testing'
+p10
+aS'data scientist'
+p11
+aS'training'
+p12
+aS'physics'
+p13
+aS'research'
+p14
 aS'engineering'
-p29
-aS'design'
-p30
-aVphysic
-p31
+p15
+aS'computer science'
+p16
+aS'sql'
+p17
 aS'mathematics'
-p32
-aS'computer science engineering'
-p33
+p18
+aS'analysis'
+p19
+aS'data'
+p20
 aS'operations research'
-p34
-aS'history'
-p35
+p21
+asS'working-year'
+p22
+(lp23
+S'[0]'
+p24
+asS'major'
+p25
+(lp26
+VMathematics
+p27
+aVEngineering
+p28
+aVPhysics
+p29
+aVComputer Science
+p30
+aVOperations Research
+p31
 asS'education'
+p32
+(lp33
+VMaster
+p34
+aVDoctor
+p35
+asS'responsibility'
 p36
 (lp37
-VDoctor
-p38
-asS'responsibility'
-p39
-(lp40
 S'development'
-p41
+p38
 aS'product'
-p42
+p39
 aS'analysis'
-p43
+p40
 aS'design'
-p44
-aS'identify trend'
-p45
+p41
+aS'identify ... trend'
+p42
 aS'model'
-p46
+p43
 aS'prototype'
-p47
+p44
 aS'presentation'
-p48
+p45
 aS'transformation'
-p49
+p46
 as.

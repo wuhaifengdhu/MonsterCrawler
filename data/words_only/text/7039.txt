@@ -1,5 +1,5 @@
-skills: {'probability': 1, 'classification': 1, 'data science': 1, 'predictive modeling': 1, 'engineering': 1, 'architecture': 1, 'algorithm development': 1, 'organization': 1, 'modeling': 1, 'validation': 1, 'data': 1, 'artificial intelligence': 1}
-working-year: {u'(2, 5]': 1}
-major: {'data science': 1, 'artificial intelligence': 1, 'engineering': 1, 'business': 1, 'statistic': 1}
-education: {'Bachelor': 1}
-responsibility: {'modeling': 1, 'product': 1, u'insight': 1, 'model': 1}
+skills: {'a': 0.01191109486378361, 'probability': 0.022196363937410715, 'classification': 0.020097846506102416, 'python': 0.003320073329638637, 'science': 0.004477922854739442, 'data science': 0.0076614071698127345, 'predictive modeling': 0.013242075851522102, 'engineering': 0.007801622783908628, 'architecture': 0.013930028806908652, 'algorithm development': 0.026808425142367233, 'organization': 0.01123047031389606, 'modeling': 0.005172902477844283, 'validation': 0.020139887293471954, 'data': 0.004532540937877945, 'artificial intelligence': 0.017628130955890223}
+working-year: {u'(2, 5]': 0.007891365786185578}
+major: {u'Data Science': 0.006543241927420782, u'Engineering': 0.014346362590870876, u'Business': 0.006889900300472066}
+education: {'Bachelor': 0.005804960685795585}
+responsibility: {'development': 0.007713127403911584, 'modeling': 0.005172902477844283, 'product': 0.008566833698839151, 'insight': 0.023374437656171785, 'model': 0.019712240024224725}

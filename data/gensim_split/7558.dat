@@ -1,232 +1,430 @@
-job_requisition
-number
-116010
-category_consultant
--
-analyst
-primary_location
-arlington_va
-u
-security_clearance
-t_sci
-clearance
-status
-must_current
-schedule_full
-time
-type_travel
-none
-percent_travel
-required_none
-description
-data_scientist
-work
-part_team
-data_scientist
-software_developer
-cloud
-engineer
-develop_novel
-analytic
-approach_parsing
-large_datasets
-responsible
-data
-analytics
-support
-understanding_evaluating
-customer
-requirement
-development
-advanced
-data
-analytics
-need
-keep_current
-industry
-direction_trend
-future
-capability_respect
-data
-analysis
-responsible
-development
-data_mining
-algorithm
-structured_unstructured
-data
-perform
-prototype_implementation
-algorithm
-work
-software_developer
-scale
-algorithm
-cloud
-scale
-required_qualification
-strong
-data
-analysis
-skill
-strong_foundation
-statistic
--mining
-organizing_datasets
-structured_unstructured
-data
-preferably
-large_datasets
-knowledge
-algorithm
-data
-structure
-performance
-optimization
-experience
-applied_statistic
-applied_mathematics
-proficient
-r_python
-preferably
-statistical
-language
-matlab
--proficient
-shiny
-web
-tool
-ie
-html_javascript
-cs
-must
-effective_communicator
-oral_written
-experience
-using
-visualization_communicate
-result
-analyzes
-typically_requires
-bachelor's_degree
-equivalent
-ten_twelve
-year
-related
-experience
-clearance
-requirement
-must_active
-t_sci
-clearance
-desired_qualification
-language
-technology
-java_j2ee
-c_c++
-shell_javascript
-html_cs
-xml_soap
-jms_cloudera
-operating_system
-m_window
-unix_linux
-vms
--published
-paper_active
-blogging_public
-speaking
-technical_field
-comparable_field
-listed
-ideal_candidate
-code
-everyday
-show
-activity
-github
-manner
-understanding
-government_defense
-data
-science
-process
-structure
-method
-knowledge
-algorithm
-mechanic
-scale
-data
-structure
-performance
-optimization
-experience
-structure_unstructured
-data
-big_data
-big_data
-ecosystem
-experience
-lower_level
-computer
-language
-phd_degree
-computer_science
-mathematics
-technically
-related_field
-computation
-social
-science
-applied_statistic
-social
-science
-field
-eg
-econometrics
-spatial
-econometrics
-psychometrics
-etc
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV116010
+p4
+aVcategory consultant
+p5
+aV-
+aVanalyst
+p6
+aVprimary location
+p7
+aVarlington va
+p8
+aVu
+aVsecurity clearance
+p9
+aVt sci
+p10
+aVclearance status
+p11
+aVmust current
+p12
+aVschedule full
+p13
+aVtime
+p14
+aVtype travel
+p15
+aVnone
+p16
+aVpercent travel
+p17
+aVrequired none
+p18
+aVdescription
+p19
+aVdata scientist
+p20
+aVwork
+p21
+aVpart team
+p22
+aVdata scientist
+p23
+aVsoftware developer
+p24
+aVcloud
+p25
+aVengineer
+p26
+aVdevelop novel
+p27
+aVanalytic approach
+p28
+aVparsing large
+p29
+aVdatasets
+p30
+aVresponsible
+p31
+aVdata
+p32
+aVanalytics
+p33
+aVsupport
+p34
+aVunderstanding evaluating
+p35
+aVcustomer
+p36
+aVrequirement
+p37
+aVdevelopment
+p38
+aVadvanced
+p39
+aVdata
+p40
+aVanalytics
+p41
+aVneed keep
+p42
+aVcurrent industry
+p43
+aVdirection trend
+p44
+aVfuture capability
+p45
+aVrespect
+p46
+aVdata
+p47
+aVanalysis
+p48
+aVresponsible
+p49
+aVdevelopment
+p50
+aVdata mining
+p51
+aValgorithm
+p52
+aVstructured unstructured
+p53
+aVdata
+p54
+aVperform prototype
+p55
+aVimplementation
+p56
+aValgorithm
+p57
+aVwork
+p58
+aVsoftware developer
+p59
+aVscale
+p60
+aValgorithm
+p61
+aVcloud
+p62
+aVscale
+p63
+aVrequired qualification
+p64
+aVstrong
+p65
+aVdata
+p66
+aVanalysis
+p67
+aVskill
+p68
+aVstrong foundation
+p69
+aVstatistic
+p70
+aVmining organizing
+p71
+aVdatasets structured
+p72
+aVunstructured data
+p73
+aVpreferably large
+p74
+aVdatasets
+p75
+aVknowledge
+p76
+aValgorithm
+p77
+aVdata structure
+p78
+aVperformance optimization
+p79
+aVexperience
+p80
+aVapplied statistic
+p81
+aVapplied mathematics
+p82
+aVproficient r
+p83
+aVpython
+p84
+aVpreferably
+p85
+aVstatistical
+p86
+aVlanguage matlab
+p87
+aVproficient
+p88
+aVshiny
+p89
+aVweb
+p90
+aVtool i.e.
+p91
+aVhtml javascript
+p92
+aVcs
+p93
+aVmust
+p94
+aVeffective communicator
+p95
+aVoral written
+p96
+aVexperience
+p97
+aVusing
+p98
+aVvisualization communicate
+p99
+aVresult
+p100
+aVanalyzes
+p101
+aVtypically requires
+p102
+aVbachelor's degree
+p103
+aVequivalent
+p104
+aVten twelve
+p105
+aVyear related
+p106
+aVexperience
+p107
+aVclearance requirement
+p108
+aVmust active
+p109
+aVt sci
+p110
+aVclearance
+p111
+aVdesired qualification
+p112
+aVlanguage
+p113
+aVtechnology
+p114
+aVjava j2ee
+p115
+aVc c++
+p116
+aVshell javascript
+p117
+aVhtml cs
+p118
+aVxml soap
+p119
+aVjms cloudera
+p120
+aVoperating system
+p121
+aVm window
+p122
+aVunix linux
+p123
+aVvms
+p124
+aVpublished paper
+p125
+aVactive blogging
+p126
+aVpublic speaking
+p127
+aVtechnical field
+p128
+aVcomparable field
+p129
+aVlisted
+p130
+aVideal candidate
+p131
+aVcode
+p132
+aVeveryday
+p133
+aVshow
+p134
+aVactivity
+p135
+aVgithub
+p136
+aVmanner
+p137
+aVunderstanding
+p138
+aVgovernment defense
+p139
+aVdata science
+p140
+aVprocess
+p141
+aVstructure
+p142
+aVmethod
+p143
+aVknowledge
+p144
+aValgorithm
+p145
+aVmechanic
+p146
+aVscale
+p147
+aVdata structure
+p148
+aVperformance optimization
+p149
+aVexperience
+p150
+aVstructure unstructured
+p151
+aVdata
+p152
+aVbig data
+p153
+aVbig data
+p154
+aVecosystem
+p155
+aVexperience
+p156
+aVlower level
+p157
+aVcomputer
+p158
+aVlanguage
+p159
+aVph.d degree
+p160
+aVcomputer science
+p161
+aVmathematics
+p162
+aVtechnically
+p163
+aVrelated field
+p164
+aVcomputation
+p165
+aVsocial science
+p166
+aVapplied statistic
+p167
+aVsocial science
+p168
+aVfield e.g.
+p169
+aVeconometrics
+p170
+aVspatial
+p171
+aVeconometrics
+p172
+aVpsychometrics
+p173
+aVetc
+p174
+aVcompany description
+p175
+aVcaci employ
+p176
+aVdiverse range
+p177
+aVtalent create
+p178
+aVenvironment fuel
+p179
+aVinnovation foster
+p180
+aVcontinuous improvement
+p181
+aVsuccess join
+p182
+aVcaci opportunity
+p183
+aVmake immediate
+p184
+aVimpact providing
+p185
+aVinformation
+p186
+aVsolution
+p187
+aVservice
+p188
+aVsupport
+p189
+aVnational security
+p190
+aVmission government
+p191
+aVtransformation intelligence
+p192
+aVdefense federal
+p193
+aVcivilian customer
+p194
+aVfortune magazine
+p195
+aVworld's admired
+p196
+aVcompany
+p197
+aVservice
+p198
+aVindustry caci
+p199
+aVmember fortune
+p200
+aV1000 largest
+p201
+aVcompany russell
+p202
+aV2000 index
+p203
+aVp smallcap600
+p204
+aVindex caci
+p205
+aVprovides dynamic
+p206
+aVcareer 20
+p207
+aV000 employee
+p208
+aVworldwide caci
+p209
+aVequal opportunity
+p210
+aVemployer -
+p211
+aVfemale minority
+p212
+aVprotected veteran
+p213
+aVindividual disability
+p214
+a.

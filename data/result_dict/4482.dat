@@ -2,106 +2,93 @@
 S'skills'
 p2
 (lp3
-S'cancer'
+S'oncology'
 p4
-aS'communication'
+aS'cancer'
 p5
-aS'software design'
-p6
-aS'dna'
-p7
-aS'predictive modeling'
-p8
-aS'r programming'
-p9
-aS'integration'
-p10
-aS'research'
-p11
-aS'dna sequencing'
-p12
-aS'medicine'
-p13
-aS'computer science'
-p14
-aS'biology'
-p15
-aS'data scientist'
-p16
-aS'biomarkers'
-p17
-aS'bioinformatics'
-p18
-aS'sequencing'
-p19
-aS'genetics'
-p20
-aS'data'
-p21
-aS'science'
-p22
-aS'programming'
-p23
-aS'analysis'
-p24
-aS'machine learning'
-p25
-aS'drug development'
-p26
-aS'military'
-p27
-asS'working-year'
-p28
-(lp29
-V[0]
-p30
-asS'major'
-p31
-(lp32
-S'information'
-p33
-aS'biology'
-p34
-aS'genetics'
-p35
-aS'science'
-p36
-aS'statistic'
-p37
 aS'communication'
-p38
-aS'machine learning'
-p39
-aS'design'
-p40
-aS'computer science'
-p41
-aS'bioinformatics'
-p42
+p6
+aS'software design'
+p7
+aS'modeling'
+p8
+aS'hospitals'
+p9
+aS'dna'
+p10
+aS'predictive modeling'
+p11
+aS'integration'
+p12
+aS'research'
+p13
+aS'dna sequencing'
+p14
 aS'medicine'
-p43
-aS'computational biolog'
-p44
-asS'education'
-p45
-(lp46
-VDoctor
-p47
-asS'responsibility'
-p48
-(lp49
-S'development'
-p50
-aS'information'
-p51
-aS'decision-making'
-p52
-aVinsight
-p53
+p15
+aS'computer science'
+p16
+aS'biology'
+p17
+aS'data scientist'
+p18
+aS'biomarkers'
+p19
+aS'bioinformatics'
+p20
+aS'sequencing'
+p21
+aS'genetics'
+p22
+aS'data'
+p23
+aS'a'
+aS'science'
+p24
+aS'programming'
+p25
 aS'analysis'
-p54
+p26
+aS'machine learning'
+p27
+aS'drug development'
+p28
+aS'military'
+p29
+asS'working-year'
+p30
+(lp31
+S'[0]'
+p32
+asS'major'
+p33
+(lp34
+VBiological Engineering
+p35
+aVComputer Science
+p36
+asS'education'
+p37
+(lp38
+VDoctor
+p39
+asS'responsibility'
+p40
+(lp41
+S'development'
+p42
+aS'information'
+p43
+aS'decision-making'
+p44
+aS'insight'
+p45
+aS'analysis'
+p46
 aS'analytic'
-p55
+p47
 aS'design'
-p56
+p48
+aS'modeling'
+p49
 as.

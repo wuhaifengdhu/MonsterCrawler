@@ -4,110 +4,107 @@ p2
 (dp3
 S'software development'
 p4
-I1
-sS'training'
+F0.0099074608321180948
+sS'debugging'
 p5
-I1
-sS'software engineering'
+F0.020537488332633691
+sS'training'
 p6
-I1
-sS'parallel programming'
+F0.010996704444029575
+sS'management'
 p7
-I1
-sS'data science'
+F0.0042338732112133272
+sS'software engineering'
 p8
-I1
-sS'programming'
+F0.012159172844457998
+sS'parallel programming'
 p9
-I1
-sS'scientific computing'
+F0.024461524052996078
+sS'science'
 p10
-I1
-sS'high performance computing'
+F0.0032852050850191231
+sS'data science'
 p11
-I1
-sS'research'
+F0.0056207519890682199
+sS'programming'
 p12
-I1
-sS'hardware'
+F0.0051510057702564291
+sS'scientific computing'
 p13
-I1
-sS'engineering'
+F0.015084664788085128
+sS'high performance computing'
 p14
-I1
-sS'optimization'
+F0.018193165428668997
+sS'research'
 p15
-I1
-sS'analysis'
+F0.003986730568512795
+sS'hardware'
 p16
-I1
-sS'automation'
+F0.017351944282964788
+sS'engineering'
 p17
-I1
-sS'scripting'
+F0.040065343175306453
+sS'optimization'
 p18
-I1
-ssS'working-year'
+F0.0093458357821894489
+sS'analysis'
 p19
-(dp20
-V(0, 2]
+F0.001601022064271635
+sS'automation'
+p20
+F0.015584337969457051
+sS'data'
 p21
-I1
-sV(2, 5]
+F0.0005542125601610883
+sS'scripting'
 p22
-I1
-ssS'major'
+F0.011369553165638613
+ssS'working-year'
 p23
 (dp24
-S'software engineering'
+V(0, 2]
 p25
-I1
-sS'data science'
+F0.010642897963038099
+sV(2, 5]
 p26
-I1
-sS'scientific computing'
+F0.0057894599459398849
+ssS'major'
 p27
-I1
-sS'high performance computing'
-p28
-I1
-sS'automation'
+(dp28
+VData Science
 p29
-I1
-sS'engineering'
+F0.0048004158065657132
+sVManagement Science and Engineering
 p30
-I1
-sS'electrical'
+F0.0060259090582658516
+sVEngineering
 p31
-I1
-sS'mechanical'
+F0.040065343175306453
+sVComputer Science
 p32
-I1
-sS'design'
-p33
-I1
-sVphysic
-p34
-I1
+F0.004230634328748587
 ssS'education'
+p33
+(dp34
+VBachelor
 p35
-(dp36
-S'Bachelor'
-p37
-I1
+F0.0042587795685509657
+sVMaster
+p36
+F0.0033985078748793311
 ssS'responsibility'
-p38
-(dp39
+p37
+(dp38
 S'development'
-p40
-I1
+p39
+F0.0056586962729631707
 sS'optimization'
-p41
-I1
+p40
+F0.0093458357821894489
 sS'design'
-p42
-I1
+p41
+F0.0068243869627031663
 sS'analysis'
-p43
-I1
+p42
+F0.001601022064271635
 ss.

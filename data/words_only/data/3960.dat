@@ -4,206 +4,176 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.011259999732978214
 sS'digital marketing'
 p5
-I1
+F0.012088033303862414
 sS'communication'
 p6
-I1
+F0.0051907192101995295
 sS'data science'
 p7
-I1
+F0.0039437407398708168
 sS'mysql'
 p8
-I1
+F0.0077841243497941701
 sS'information retrieval'
 p9
-I1
-sS'statistical analysis'
+F0.011506626239289093
+sS'engineering'
 p10
-I1
-sS'problem solving'
+F0.0040159173018808345
+sS'statistical analysis'
 p11
-I1
-sS'data mining'
+F0.0084416398472544514
+sS'problem solving'
 p12
-I1
-sS'quantitative analysis'
+F0.0080479077539450852
+sS'data mining'
 p13
-I1
-sS'java'
-p14
-I1
-sS'deep learning'
-p15
-I1
-sS'hadoop'
-p16
-I1
-sS'computer vision'
-p17
-I1
-sS'music'
-p18
-I1
-sS'computer science'
-p19
-I1
-sS'gurobi'
-p20
-I1
-sS'distributed computing'
-p21
-I1
-sS'python'
-p22
-I1
-sS'collaboration'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'spark'
-p26
-I1
-sS'data'
-p27
-I1
-sS'data visualization'
-p28
-I1
-sS'software engineering'
-p29
-I1
-sS'science'
-p30
-I1
-sS'applied mathematics'
-p31
-I1
-sS'marketing analytics'
-p32
-I1
-sS'mapreduce'
-p33
-I1
-sS'hive'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'optimization'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(2, 5]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'science'
-p42
-I1
-sS'information'
-p43
-I1
-sS'marketing analytics'
-p44
-I1
-sS'software engineering'
-p45
-I1
-sS'computing'
-p46
-I1
-sS'communication'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'data mining'
-p49
-I1
-sS'information retrieval'
-p50
-I1
-sS'applied math'
-p51
-I1
-sS'design'
-p52
-I1
-sS'computer science'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'music'
-p55
-I1
-sS'machine learning'
-p56
-I1
-sS'ee computer science'
-p57
-I1
-sS'applied mathematics'
-p58
-I1
-sS'data mining machine learning'
-p59
-I1
-ssS'education'
-p60
-(dp61
-VMaster
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'large data set'
-p65
-I1
-sS'product'
-p66
-I1
-sS'information'
-p67
-I1
-sS'data mining'
-p68
-I1
-sS'communicate'
-p69
-I1
-sS'optimization'
-p70
-I1
-sS'design'
-p71
-I1
-sS'recommendation'
-p72
-I1
-sS'implement'
-p73
-I1
+F0.0069573092743676641
 sS'quantitative analysis'
-p74
-I1
+p14
+F0.025009851423084789
+sS'monetization'
+p15
+F0.017795635667921431
+sS'java'
+p16
+F0.0040631703857976504
+sS'deep learning'
+p17
+F0.010211612075060494
+sS'hadoop'
+p18
+F0.0042124803324575895
+sS'computer vision'
+p19
+F0.011589632994053191
+sS'music'
+p20
+F0.031331218554183478
+sS'computer science'
+p21
+F0.0046097811907777723
+sS'gurobi'
+p22
+F0.019493803915489223
+sS'distributed computing'
+p23
+F0.011729168729374795
+sS'python'
+p24
+F0.0017090213532893967
+sS'collaboration'
+p25
+F0.0083858013772900135
+sS'data scientist'
+p26
+F0.003473349721848781
+sS'sql'
+p27
+F0.0022358815043706463
+sS'spark'
+p28
+F0.0055283135190677332
+sS'data'
+p29
+F0.0023331440237601233
+sS'data visualization'
+p30
+F0.0064483069691134457
+sS'software engineering'
+p31
+F0.0085313540613574153
+sS'science'
+p32
+F0.002305029141619975
+sS'applied mathematics'
+p33
+F0.0099085598191596923
+sS'marketing analytics'
+p34
+F0.012646879387015668
+sS'mapreduce'
+p35
+F0.0086449230064128552
+sS'hive'
+p36
+F0.0068385385229180543
+sS'machine learning'
+p37
+F0.0021492384322427519
+sS'optimization'
+p38
+F0.0065574060897984985
+ssS'working-year'
+p39
+(dp40
+V(2, 5]
+p41
+F0.0040621128801020838
+ssS'major'
+p42
+(dp43
+VMathematics
+p44
+F0.0056205656707621378
+sVEngineering
+p45
+F0.007384848940218779
+sVEconomics
+p46
+F0.0053795788443424947
+sVData Science
+p47
+F0.0033681605987051235
+sVComputer Science
+p48
+F0.0029683794962367138
+ssS'education'
+p49
+(dp50
+VMaster
+p51
+F0.0023845268368005799
+sVDoctor
+p52
+F0.0035710877763162887
+ssS'responsibility'
+p53
+(dp54
+S'information'
+p55
+F0.0045478859000963757
+sS'product'
+p56
+F0.013229438269354887
+sS'large data set'
+p57
+F0.010309695525681528
+sS'data mining'
+p58
+F0.0069573092743676641
+sS'communicate'
+p59
+F0.0065778455156773512
+sS'optimization'
+p60
+F0.0065574060897984985
+sS'design'
+p61
+F0.0095765167870064099
+sS'recommendation'
+p62
+F0.0085645958846500697
+sS'implement'
+p63
+F0.0069438136889167458
+sS'quantitative analysis'
+p64
+F0.025009851423084789
 sS'model'
-p75
-I1
+p65
+F0.0050734781701693137
 ss.

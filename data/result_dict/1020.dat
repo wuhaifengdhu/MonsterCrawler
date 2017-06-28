@@ -4,69 +4,71 @@ p2
 (lp3
 S'nlp'
 p4
-aS'search'
-p5
 aS'financial markets'
-p6
-aS'open source'
-p7
-aS'software engineering'
-p8
+p5
 aS'probability'
-p9
-aS'programming'
-p10
-aS'processing'
-p11
-aS'data scientist'
-p12
-aS'c++'
-p13
-aS'machine learning'
-p14
-aS'sentiment analysis'
-p15
-aS'engineering'
-p16
-aS'swift'
-p17
-aS'analysis'
-p18
-aS'bloomberg'
-p19
-aS'natural language processing'
-p20
-aS'java'
-p21
+p6
 aS'information extraction'
-p22
-aS'data'
-p23
-aS'pricing'
-p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-aV(2, 5]
-p28
-asS'major'
-p29
-(lp30
-S'information'
-p31
-aS'software engineering'
-p32
-aS'statistic'
-p33
-aS'machine learning'
-p34
+p7
+aS'sentiment analysis'
+p8
 aS'engineering'
-p35
+p9
+aS'pricing'
+p10
+aS'statistics'
+p11
+aS'open source'
+p12
+aS'swift'
+p13
 aS'natural language processing'
+p14
+aS'processing'
+p15
+aS'data scientist'
+p16
+aS'c'
+aS'bloomberg'
+p17
+aS'java'
+p18
+aS'data'
+p19
+aS'a'
+aS'search'
+p20
+aS'software engineering'
+p21
+aS'analytics'
+p22
+aS'science'
+p23
+aS'.net'
+p24
+aS'programming'
+p25
+aS'analysis'
+p26
+aS'machine learning'
+p27
+asS'working-year'
+p28
+(lp29
+V(5, 10]
+p30
+aV(2, 5]
+p31
+asS'major'
+p32
+(lp33
+VEngineering
+p34
+aVData Science
+p35
+aVStatistics
 p36
-aS'probability statistics'
+aVComputer Science
 p37
 asS'education'
 p38

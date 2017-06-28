@@ -2,9 +2,9 @@
 S'skills'
 p2
 (lp3
-S'portfolio management'
+S'sql'
 p4
-aS'analysis'
+aS'portfolio management'
 p5
 aS'data mining'
 p6
@@ -30,19 +30,20 @@ aS'processing'
 p16
 aS'data scientist'
 p17
-aS'sql'
+aS'data wrangling'
 p18
 aS'modeling'
 p19
 aS'data'
 p20
+aS'c'
 aS'data collection'
 p21
 aS'web scraping'
 p22
 aS'programming'
 p23
-aS'c++'
+aS'analysis'
 p24
 aS'machine learning'
 p25
@@ -59,40 +60,36 @@ p30
 asS'major'
 p31
 (lp32
-S'management'
+VComputer Science
 p33
-aS'business'
+aVBusiness
 p34
-aS'natural language processing'
+aVManagement Science and Engineering
 p35
-aS'machine learning'
-p36
-aS'data mining'
-p37
-aS'law'
-p38
 asS'education'
+p36
+(lp37
+VBachelor
+p38
+asS'responsibility'
 p39
 (lp40
-S'Bachelor'
+S'insight'
 p41
-asS'responsibility'
-p42
-(lp43
-Vinsight
-p44
 aS'data collection'
-p45
+p42
+aS'data wrangling'
+p43
 aS'processing'
-p46
+p44
 aS'analysis'
-p47
+p45
 aS'data analysis'
-p48
+p46
 aS'data mining'
-p49
+p47
 aS'modeling'
-p50
+p48
 aS'extract'
-p51
+p49
 as.

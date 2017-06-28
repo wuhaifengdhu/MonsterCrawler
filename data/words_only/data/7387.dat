@@ -2,207 +2,182 @@
 S'skills'
 p2
 (dp3
-S'engineering'
+S'analytics'
 p4
-I1
-sS'research'
+F0.0029990946964949194
+sS'engineering'
 p5
-I1
-sS'amazon web services'
+F0.0042236371623229473
+sS'research'
 p6
-I1
-sS'java'
+F0.0029419322126266836
+sS'amazon web services'
 p7
-I1
-sS'big data'
+F0.011428514154305104
+sS'statistics'
 p8
-I1
-sS'scala'
+F0.0064311231365696865
+sS'java'
 p9
-I1
-sS'user experience'
+F0.0042733343712699429
+sS'big data'
 p10
-I1
-sS'deep learning'
+F0.0043887073322850601
+sS'scala'
 p11
-I1
-sS'hadoop'
+F0.0084157461644780579
+sS'user experience'
 p12
-I1
-sS'writing'
+F0.011638665396920192
+sS'deep learning'
 p13
-I1
-sS'big data analytics'
+F0.01073979890652914
+sS'hadoop'
 p14
-I1
-sS'large-scale data analysis'
+F0.0044303672462053956
+sS'writing'
 p15
-I1
-sS'computer science'
+F0.0077484838830430783
+sS'big data analytics'
 p16
-I1
-sS'web services'
+F0.011428514154305104
+sS'large-scale data analysis'
 p17
-I1
-sS'natural language processing'
+F0.017932000545585552
+sS'computer science'
 p18
-I1
-sS'amazon web services aws'
+F0.0048482181489214503
+sS'web services'
 p19
-I1
-sS'data analysis'
+F0.010141514372966155
+sS'natural language processing'
 p20
-I1
-sS'python'
+F0.0086412349377941473
+sS'amazon web services aws'
 p21
-I1
-sS'gas'
+F0.012006155480223447
+sS'data analysis'
 p22
-I1
-sS'processing'
+F0.0051164207412609146
+sS'python'
 p23
-I1
+F0.0017974190094940206
 sS'data scientist'
 p24
-I1
-sS'construction'
-p25
-I1
-sS'data processing'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'data'
-p28
-I1
-sS'project management'
-p29
-I1
-sS'data visualization'
-p30
-I1
-sS'aws'
-p31
-I1
-sS'programming'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'r'
-I1
-sS'organization'
-p34
-I1
-sS'security'
-p35
-I1
-sS'data analytics'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-sV(10, 15]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'information'
-p43
-I1
-sS'natural language processing'
-p44
-I1
-sS'information systems'
-p45
-I1
-sS'business'
-p46
-I1
-sS'big data'
-p47
-I1
-sS'machine learning statistics'
-p48
-I1
-sVapplied statistic
-p49
-I1
-sS'phd'
-p50
-I1
-sS'big data analytics'
-p51
-I1
-sS'statistics computer science'
-p52
-I1
-sS'engineering'
-p53
-I1
-sS'information system'
-p54
-I1
-sS'computer science'
-p55
-I1
-sS'statistic'
-p56
-I1
-sS'information systems technology'
-p57
-I1
-sS'data analytics'
-p58
-I1
-sS'machine learning'
-p59
-I1
-sS'computer science machine learning'
-p60
-I1
-sS'project management'
-p61
-I1
-ssS'education'
-p62
-(dp63
-VDoctor
-p64
-I1
-ssS'responsibility'
-p65
-(dp66
-S'information'
-p67
-I1
-sVinsight
-p68
-I1
-sS'business problem'
-p69
-I1
-sS'predict'
-p70
-I1
+F0.0036530057419444078
 sS'processing'
-p71
-I1
+p25
+F0.0056313382298990343
+sS'gas'
+p26
+F0.016182254375756655
+sS'construction'
+p27
+F0.034987074003679224
+sS'data processing'
+p28
+F0.012674891716304744
+sS'sql'
+p29
+F0.0023515305477001622
+sS'data'
+p30
+F0.0016358825913720403
+sS'project management'
+p31
+F0.0065567355976708487
+sS'a'
+F0.0064484203228069885
+sS'data visualization'
+p32
+F0.0067818400882055201
+sS'science'
+p33
+F0.0024242547868761808
+sS'aws'
+p34
+F0.0090119874095921041
+sS'programming'
+p35
+F0.0038010870166719857
+sS'machine learning'
+p36
+F0.0022604059373587562
+sS'r'
+F0.0019137665745308317
+sS'organization'
+p37
+F0.0060799442733851074
+sS'security'
+p38
+F0.0075356924679992818
+sS'data analytics'
+p39
+F0.0070424920051234382
+ssS'working-year'
+p40
+(dp41
+V(5, 10]
+p42
+F0.0041573940054374439
+sV(10, 15]
+p43
+F0.0067497460558564098
+ssS'major'
+p44
+(dp45
+VStatistics
+p46
+F0.0062120854134071731
+sVBusiness
+p47
+F0.0037300494730141869
+sVData Science
+p48
+F0.0035423758020864228
+sVEngineering
+p49
+F0.0042236371623229473
+sVInformation Science
+p50
+F0.0087332937536348052
+sVComputer Science
+p51
+F0.0031219163667317164
+sVManagement Science and Engineering
+p52
+F0.0044467053050651463
+ssS'education'
+p53
+(dp54
+VDoctor
+p55
+F0.0037557992130223036
+ssS'responsibility'
+p56
+(dp57
+S'information'
+p58
+F0.0095662427553751348
+sS'insight'
+p59
+F0.0063272184689982247
+sS'business problem'
+p60
+F0.0098212088349332576
+sS'predict'
+p61
+F0.014385800125914859
+sS'processing'
+p62
+F0.0056313382298990343
 sS'data analysis'
-p72
-I1
+p63
+F0.0051164207412609146
 sS'report'
-p73
-I1
+p64
+F0.0071561255868014791
 sS'implement'
-p74
-I1
+p65
+F0.0073029764659296812
 ss.

@@ -4,173 +4,173 @@ p2
 (lp3
 S'communication'
 p4
-aS'analytics'
-p5
-aS'analysis'
-p6
-aS'research'
-p7
-aS'data mining'
-p8
-aS'hbase'
-p9
-aS'spss'
-p10
-aS'random forest'
-p11
-aS'clustering'
-p12
-aS'big data'
-p13
-aS'simulation'
-p14
-aS'predictive modeling'
-p15
-aS'hadoop'
-p16
-aS'perl'
-p17
-aS'mahout'
-p18
-aS'computer science'
-p19
-aS'mathematics'
-p20
-aS'unstructured data'
-p21
-aS'operations research'
-p22
-aS'matlab'
-p23
-aS'segmentation'
-p24
-aS'data modeling'
-p25
-aS'python'
-p26
-aS'marketing'
-p27
-aS'data scientist'
-p28
-aS'data quality'
-p29
 aS'hive'
-p30
-aS'survey design'
-p31
-aS'sql'
-p32
-aS'modeling'
-p33
-aS'data'
-p34
-aS'information technology'
-p35
-aS'customer experience'
-p36
-aS'science'
-p37
-aS'programming'
-p38
-aS'communication skills'
-p39
-aS'machine learning'
-p40
-aS'online marketing'
-p41
-aS'r'
-aS'architecture'
-p42
-aS'predictive analytics'
-p43
-asS'working-year'
-p44
-(lp45
-V(5, 10]
-p46
-aV(2, 5]
-p47
-asS'major'
-p48
-(lp49
-S'science'
-p50
-aS'information'
-p51
-aS'business'
-p52
-aS'big data'
-p53
-aS'mathematics'
-p54
-aS'marketing'
-p55
-aS'statistic'
-p56
-aVapplied statistic
-p57
-aS'machine learning'
-p58
+p5
 aS'analytics'
-p59
-aS'design'
-p60
-aS'operations research'
-p61
-aS'applied statistics'
-p62
-aS'data mining'
-p63
-aS'communication'
-p64
-aS'computer science'
-p65
-aS'information technology'
-p66
-aS'predictive analytics'
-p67
-asS'education'
-p68
-(lp69
-VBachelor
-p70
-aVMaster
-p71
-asS'responsibility'
-p72
-(lp73
-S'information'
-p74
-aVtest hypothesis
-p75
-aS'business problem'
-p76
-aS'pattern'
-p77
-aVinsight
-p78
-aS'communicate'
-p79
+p6
 aS'analysis'
-p80
-aS'simulation'
-p81
-aS'statistical method'
-p82
-aS'design'
-p83
+p7
+aS'research'
+p8
 aS'data mining'
-p84
+p9
+aS'sas'
+p10
+aS'hbase'
+p11
+aS'spss'
+p12
+aS'random forest'
+p13
+aS'clustering'
+p14
+aS'statistics'
+p15
+aS'big data'
+p16
+aS'online marketing'
+p17
+aS'simulation'
+p18
+aS'predictive modeling'
+p19
+aS'hadoop'
+p20
+aS'perl'
+p21
+aS'mahout'
+p22
+aS'computer science'
+p23
+aS'mathematics'
+p24
+aS'unstructured data'
+p25
+aS'operations research'
+p26
+aS'matlab'
+p27
+aS'segmentation'
+p28
+aS'data modeling'
+p29
+aS'python'
+p30
+aS'marketing'
+p31
+aS'data scientist'
+p32
+aS'data quality'
+p33
+aS'metrics'
+p34
+aS'survey design'
+p35
+aS'sql'
+p36
+aS'modeling'
+p37
+aS'data'
+p38
+aS'information technology'
+p39
+aS'customer experience'
+p40
+aS'science'
+p41
+aS'economics'
+p42
+aS'programming'
+p43
+aS'communication skills'
+p44
+aS'machine learning'
+p45
+aS'e-commerce'
+p46
+aS'r'
+aS'algorithms'
+p47
+aS'architecture'
+p48
+aS'retail'
+p49
+aS'predictive analytics'
+p50
+asS'working-year'
+p51
+(lp52
+V(5, 10]
+p53
+aV(2, 5]
+p54
+asS'major'
+p55
+(lp56
+VStatistics
+p57
+aVBusiness
+p58
+aVData Science
+p59
+aVEconomics
+p60
+aVInformation Science
+p61
+aVComputer Science
+p62
+aVMathematics
+p63
+aVOperations Research
+p64
+asS'education'
+p65
+(lp66
+VBachelor
+p67
+aVMaster
+p68
+asS'responsibility'
+p69
+(lp70
+S'data mining'
+p71
+aS'information'
+p72
+aVtest hypothesis
+p73
+aS'business problem'
+p74
+aS'evaluation'
+p75
+aS'insight'
+p76
+aS'communicate'
+p77
+aS'analysis'
+p78
+aS'simulation'
+p79
+aS'statistical method'
+p80
+aS'model'
+p81
+aS'design'
+p82
+aS'pattern'
+p83
 aS'interface'
+p84
+aS'understand'
 p85
 aS'modeling'
 p86
-aS'model'
-p87
 aS'statistical model'
+p87
+aS'extract'
 p88
-aS'evaluation'
-p89
 aS'data gathering'
+p89
+aS'decision making'
 p90
 as.

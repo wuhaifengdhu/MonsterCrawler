@@ -4,211 +4,190 @@ p2
 (dp3
 S'classification'
 p4
-I1
-sS'communication'
+F0.0098914166189908431
+sS'intelligence'
 p5
-I1
+F0.0049218138240964861
 sS'integration'
 p6
-I1
+F0.0072296022639329544
 sS'analytics'
 p7
-I1
+F0.010905798896345161
 sS'business intelligence'
 p8
-I1
-sS'sap'
+F0.0064045244789166806
+sS'sas'
 p9
-I1
-sS'regression'
+F0.004342435287390021
+sS'sap'
 p10
-I1
-sS'clustering'
+F0.012586645576109274
+sS'regression'
 p11
-I1
-sS'open source'
+F0.0074488018516670864
+sS'clustering'
 p12
-I1
-sS'big data'
+F0.010104741569141724
+sS'management'
 p13
-I1
-sS'agile'
+F0.002840278580563173
+sS'open source'
 p14
-I1
-sS'information management'
-p15
-I1
-sS'research'
-p16
-I1
-sS'big data analytics'
-p17
-I1
-sS'teamwork'
-p18
-I1
-sS'intelligence'
-p19
-I1
-sS'advanced analytics'
-p20
-I1
-sS'statistical learning'
-p21
-I1
-sS'data analysis'
-p22
-I1
-sS'python'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'gas'
-p25
-I1
-sS'data quality'
-p26
-I1
-sS'organization'
-p27
-I1
-sS'spark'
-p28
-I1
-sS'data'
-p29
-I1
-sS'project management'
-p30
-I1
-sS'software development'
-p31
-I1
-sS'engineering'
-p32
-I1
-sS'analysis'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'r'
-I1
-sS'hadoop'
-p35
-I1
-sS'data analytics'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-sV(2, 5]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'information'
-p43
-I1
-sS'business'
-p44
-I1
+F0.010024826770903118
 sS'big data'
-p45
-I1
-sS'communication'
-p46
-I1
+p15
+F0.0039897339384409643
+sS'agile'
+p16
+F0.0068454227984310638
 sS'information management'
-p47
-I1
-sS'machine learning'
-p48
-I1
+p17
+F0.015120604481790437
+sS'research'
+p18
+F0.0026744838296606215
 sS'big data analytics'
-p49
-I1
-sS'analytics'
-p50
-I1
-sS'engineering'
-p51
-I1
-sS'information science'
-p52
-I1
-sS'data analytics'
-p53
-I1
-sS'statistic'
-p54
-I1
+p19
+F0.01038955832209555
+sS'teamwork'
+p20
+F0.0089793421576865162
+sS'communication'
+p21
+F0.0049629133514446904
 sS'advanced analytics'
-p55
-I1
-sS'phd'
-p56
-I1
-sS'project management'
-p57
-I1
-ssS'education'
-p58
-(dp59
-VMaster
-p60
-I1
-sVDoctor
-p61
-I1
-ssS'responsibility'
-p62
-(dp63
-S'development'
-p64
-I1
-sS'information'
-p65
-I1
+p22
+F0.0092251114556052768
+sS'statistical learning'
+p23
+F0.016948638128505344
 sS'data analysis'
-p66
-I1
-sS'business problem'
-p67
-I1
-sS'pattern'
-p68
-I1
-sS'communicate'
-p69
-I1
+p24
+F0.0046512915829644676
+sS'python'
+p25
+F0.0016340172813582004
+sS'data scientist'
+p26
+F0.0033209143108585523
+sS'gas'
+p27
+F0.029422280683193917
+sS'data quality'
+p28
+F0.011080997063279698
+sS'organization'
+p29
+F0.0055272220667137344
+sS'spark'
+p30
+F0.0052856916091399957
+sS'data'
+p31
+F0.0018589574901955001
+sS'project management'
+p32
+F0.0059606687251553166
+sS'software development'
+p33
+F0.0066463843826748354
+sS'science'
+p34
+F0.0022038679880692553
+sS'engineering'
+p35
+F0.0038396701475663154
 sS'analysis'
-p70
-I1
+p36
+F0.0010740398801069903
+sS'machine learning'
+p37
+F0.0020549144885079603
+sS'r'
+F0.0017397877950280287
+sS'hadoop'
+p38
+F0.0040276065874594504
+sS'data analytics'
+p39
+F0.006402265459203125
+ssS'working-year'
+p40
+(dp41
+sS'major'
+p42
+(dp43
+VBusiness
+p44
+F0.0033909540663765335
+sVData Science
+p45
+F0.0032203416382603845
+sVEngineering
+p46
+F0.0038396701475663154
+sVInformation Science
+p47
+F0.0079393579578498231
+sVComputer Science
+p48
+F0.0028381057879379237
+sVManagement Science and Engineering
+p49
+F0.0040424593682410418
+ssS'education'
+p50
+(dp51
+VMaster
+p52
+F0.0022798767561886422
+sVDoctor
+p53
+F0.0034143629209293668
+ssS'responsibility'
+p54
+(dp55
+S'development'
+p56
+F0.0037961159950285848
+sS'information'
+p57
+F0.008696584323068305
+sS'data analysis'
+p58
+F0.0046512915829644676
+sS'business problem'
+p59
+F0.0089283716681211427
+sS'pattern'
+p60
+F0.0082087494532104878
+sS'insight'
+p61
+F0.011504033579996771
+sS'communicate'
+p62
+F0.0062891626403811665
+sS'analysis'
+p63
+F0.0010740398801069903
 sS'analytic'
-p71
-I1
+p64
+F0.0070775108849518579
 sS'problem statement'
-p72
-I1
+p65
+F0.019853839761617809
 sS'understand'
-p73
-I1
+p66
+F0.0065883379731795462
 sS'report'
-p74
-I1
+p67
+F0.0065055687152740715
 sS'model'
-p75
-I1
+p68
+F0.0048508176862120398
 sS'transformation'
-p76
-I1
+p69
+F0.019714464798325181
 ss.

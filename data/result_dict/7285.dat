@@ -2,69 +2,70 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'a'
+aS'training'
 p4
-aS'government'
+aS'management'
 p5
-aS'communication'
+aS'government'
 p6
-aS'data scientist'
-p7
-aS'integration'
-p8
-aS'dod'
-p9
-aS'access'
-p10
-aS'project management'
-p11
-aS'analysis'
-p12
-aS'data security'
-p13
-aS'policy'
-p14
-aS'ic'
-p15
-aS'data'
-p16
-aS'security'
-p17
-aS'data management'
-p18
-asS'working-year'
-p19
-(lp20
-V(5, 10]
-p21
-asS'major'
-p22
-(lp23
-S'management'
-p24
-aS'business'
-p25
 aS'communication'
-p26
-aS'data analyst'
-p27
-aS'law'
-p28
+p7
+aS'data scientist'
+p8
+aS'integration'
+p9
+aS'dod'
+p10
+aS'access'
+p11
 aS'project management'
-p29
-asS'education'
-p30
-(lp31
-VBachelor
-p32
-asS'responsibility'
-p33
-(lp34
-S'report'
-p35
-aS'analytic'
-p36
+p12
 aS'analysis'
+p13
+aS'data security'
+p14
+aS'policy'
+p15
+aS'organization'
+p16
+aS'ic'
+p17
+aS'data'
+p18
+aS'security'
+p19
+aS'data management'
+p20
+asS'working-year'
+p21
+(lp22
+V(5, 10]
+p23
+asS'major'
+p24
+(lp25
+VData Science
+p26
+aVBusiness
+p27
+aVManagement Science and Engineering
+p28
+asS'education'
+p29
+(lp30
+VBachelor
+p31
+asS'responsibility'
+p32
+(lp33
+S'report'
+p34
+aS'analytic'
+p35
+aS'analysis'
+p36
+aS'decision making'
 p37
 aS'pattern'
 p38

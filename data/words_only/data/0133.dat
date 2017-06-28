@@ -4,248 +4,233 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
-sS'management consulting'
+F0.025442334106987579
+sS'excel'
 p5
-I1
-sS'analytics'
+F0.0035074928997962376
+sS'data science'
 p6
-I1
-sS'thought leadership'
-p7
-I1
-sS'security clearance'
-p8
-I1
-sS'data mining'
-p9
-I1
-sS'accounting'
-p10
-I1
-sS'modeling'
-p11
-I1
-sS'writing'
-p12
-I1
-sS'econometrics'
-p13
-I1
-sS'business analysis'
-p14
-I1
-sS'visualization'
-p15
-I1
-sS'management'
-p16
-I1
-sS'predictive modeling'
-p17
-I1
-sS'recruiting'
-p18
-I1
-sS'tableau'
-p19
-I1
-sS'research'
-p20
-I1
-sS'coaching'
-p21
-I1
-sS'information technology'
-p22
-I1
-sS'policy'
-p23
-I1
-sS'mathematics'
-p24
-I1
-sS'data science'
-p25
-I1
-sS'customer satisfaction'
-p26
-I1
-sS'data analysis'
-p27
-I1
-sS'data modeling'
-p28
-I1
-sS'performance management'
-p29
-I1
-sS'government'
-p30
-I1
-sS'advanced analytics'
-p31
-I1
-sS'leadership'
-p32
-I1
-sS'business development'
-p33
-I1
-sS'project management'
-p34
-I1
-sS'training'
-p35
-I1
-sS'data visualization'
-p36
-I1
-sS'economics'
-p37
-I1
-sS'education'
-p38
-I1
-sS'analysis'
-p39
-I1
-sS'simulation'
-p40
-I1
-sS'optimization'
-p41
-I1
-sS'security'
-p42
-I1
-sS'statistical analysis'
-p43
-I1
-ssS'working-year'
-p44
-(dp45
-V(2, 5]
-p46
-I1
-ssS'major'
-p47
-(dp48
-S'information'
-p49
-I1
-sS'management'
-p50
-I1
-sS'business analysis'
-p51
-I1
-sS'business'
-p52
-I1
-sS'data science'
-p53
-I1
-sS'economics'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'accounting'
-p56
-I1
+F0.0026091994049036861
 sS'analytics'
-p57
-I1
-sS'design'
-p58
-I1
-sS'information technology'
-p59
-I1
+p7
+F0.0037732644771519596
+sS'thought leadership'
+p8
+F0.0088973511920371427
+sS'security clearance'
+p9
+F0.0079258578595637081
 sS'data mining'
-p60
-I1
-sS'advanced analytics'
-p61
-I1
-sS'mathematics'
-p62
-I1
-sS'applied math'
-p63
-I1
-sS'econometrics'
-p64
-I1
-sS'project management'
-p65
-I1
-ssS'education'
-p66
-(dp67
-VMaster
-p68
-I1
-ssS'responsibility'
-p69
-(dp70
-S'development'
-p71
-I1
-sS'large data set'
-p72
-I1
-sS'forecasting'
-p73
-I1
-sS'data analysis'
-p74
-I1
-sS'identify opportunity'
-p75
-I1
-sS'information'
-p76
-I1
-sS'discover pattern'
-p77
-I1
-sS'communicate'
-p78
-I1
-sS'mine data'
-p79
-I1
-sS'analysis'
-p80
-I1
-sS'simulation'
-p81
-I1
-sS'analytic'
-p82
-I1
-sS'optimization'
-p83
-I1
-sS'design'
-p84
-I1
-sS'data mining'
-p85
-I1
-sS'analytical method'
-p86
-I1
+p10
+F0.0046029920361868497
+sS'accounting'
+p11
+F0.0095667891287762596
 sS'modeling'
-p87
-I1
+p12
+F0.0017617043145803741
+sS'writing'
+p13
+F0.0048743174101572515
+sS'econometrics'
+p14
+F0.00665348928360139
+sS'business analysis'
+p15
+F0.0057885731025536964
+sS'visualization'
+p16
+F0.0040657164250194567
+sS'management'
+p17
+F0.0058961965327526166
+sS'predictive modeling'
+p18
+F0.0045097742053990669
+sS'recruiting'
+p19
+F0.0074813411076299161
+sS'tableau'
+p20
+F0.0043579741586199389
+sS'research'
+p21
+F0.0018506731923248118
+sS'coaching'
+p22
+F0.0083768605566902354
+sS'materials'
+p23
+F0.0095336713735002399
+sS'information technology'
+p24
+F0.0067606270537131138
+sS'policy'
+p25
+F0.0059211675228649664
+sS'mathematics'
+p26
+F0.0039650613494052189
+sS'management consulting'
+p27
+F0.0083197743365669603
+sS'customer satisfaction'
+p28
+F0.0098139538808553074
+sS'data analysis'
+p29
+F0.0032185727005762804
+sS'data modeling'
+p30
+F0.0056663812252023237
+sS'performance management'
+p31
+F0.010293321664021342
+sS'government'
+p32
+F0.016966070600622333
+sS'data scientist'
+p33
+F0.0022979862584899748
+sS'advanced analytics'
+p34
+F0.0063835369942257776
+sS'leadership'
+p35
+F0.003584400479834755
+sS'business development'
+p36
+F0.0075460960499830433
+sS'data'
+p37
+F0.00025727003877326014
+sS'project management'
+p38
+F0.0041246275994024865
+sS'training'
+p39
+F0.0051047608482046192
+sS'data visualization'
+p40
+F0.0042662334611271169
+sS'science'
+p41
+F0.0015250192802474889
+sS'economics'
+p42
+F0.0051984638272439508
+sS'education'
+p43
+F0.0045523356828921242
+sS'analysis'
+p44
+F0.00074320763937989144
+sS'simulation'
+p45
+F0.0058239388018966843
+sS'optimization'
+p46
+F0.0043384140073504168
+sS'security'
+p47
+F0.0047404573009106115
+sS'statistical analysis'
+p48
+F0.0055850328707431843
+ssS'working-year'
+p49
+(dp50
+V(2, 5]
+p51
+F0.0026875150291347841
+ssS'major'
+p52
+(dp53
+VBusiness
+p54
+F0.0023464519461477533
+sVData Science
+p55
+F0.0022283925869957975
+sVEconomics
+p56
+F0.0035591573699012167
+sVInformation Science
+p57
+F0.0054938290424166895
+sVComputer Science
+p58
+F0.0019638953283127934
+sVMathematics
+p59
+F0.0037185955088556441
+sVManagement Science and Engineering
+p60
+F0.0027972766561147342
+ssS'education'
+p61
+(dp62
+VMaster
+p63
+F0.0015776153692498415
+ssS'responsibility'
+p64
+(dp65
+S'development'
+p66
+F0.005253626908521122
+sS'information'
+p67
+F0.006017809976266354
+sS'forecasting'
+p68
+F0.025442334106987579
+sS'data analysis'
+p69
+F0.0032185727005762804
+sS'identify opportunity'
+p70
+F0.0089848796979075697
+sS'large data set'
+p71
+F0.0068209482328261744
+sS'discover pattern'
+p72
+F0.014111116833963018
+sS'communicate'
+p73
+F0.0043519368379210241
+sS'analysis'
+p74
+F0.00074320763937989144
+sS'forecast'
+p75
+F0.0098516795983456477
+sS'analytic'
+p76
+F0.029384719813010534
+sS'optimization'
+p77
+F0.0043384140073504168
+sS'design'
+p78
+F0.0063358733623361287
+sS'data mining'
+p79
+F0.0046029920361868497
+sS'analytical method'
+p80
+F0.011639465846904395
+sS'modeling'
+p81
+F0.0017617043145803741
+sS'simulation'
+p82
+F0.0058239388018966843
 sS'presentation'
-p88
-I1
+p83
+F0.0053435018271358065
 sS'model'
-p89
-I1
+p84
+F0.0033566395702855551
 ss.

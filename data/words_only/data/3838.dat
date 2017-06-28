@@ -2,93 +2,90 @@
 S'skills'
 p2
 (dp3
-S'java'
+S'statistics'
 p4
-I1
-sS'data scientist'
+F0.00685671216766621
+sS'java'
 p5
-I1
-sS'big data'
+F0.0091122571152079668
+sS'data scientist'
 p6
-I1
-sS'python'
+F0.0077894975379696934
+sS'big data'
 p7
-I1
-sS'aws'
+F0.0093582729879607904
+sS'python'
 p8
-I1
-sS'r programming'
+F0.0038327317114210733
+sS'aws'
 p9
-I1
-sS'hadoop'
+F0.019216737858689045
+sS'r programming'
 p10
-I1
-sS'tableau'
+F0.023201190451897637
+sS'hadoop'
 p11
-I1
-sS'analytics'
+F0.0094471066279379762
+sS'tableau'
 p12
-I1
-sS'business intelligence'
+F0.014772250640616115
+sS'analytics'
 p13
-I1
-sS'r'
-I1
-sS'computer science'
+F0.012790256793875392
+sS'business intelligence'
 p14
-I1
-sS'communication'
+F0.015022377270400155
+sS'r'
+F0.0040808257839260375
+sS'computer science'
 p15
-I1
-sS'intelligence'
+F0.010338112229317799
+sS'communication'
 p16
-I1
-sS'spark'
+F0.011640951169932768
+sS'intelligence'
 p17
-I1
-ssS'working-year'
+F0.011544548602108668
+sS'spark'
 p18
-(dp19
-V[0]
+F0.012398056053791608
+sS'data'
+p19
+F0.0008720697637828891
+sS'science'
 p20
-I1
-ssS'major'
+F0.0051693668249565622
+ssS'working-year'
 p21
 (dp22
-S'big data'
+S'[0]'
 p23
-I1
-sS'business'
+F0.016148637724591047
+ssS'major'
 p24
-I1
-sS'communication'
-p25
-I1
-sS'computer science statistics'
+(dp25
+VData Science
 p26
-I1
-sS'analytics'
+F0.0075535954603313431
+sVStatistics
 p27
-I1
-sS'computer science'
+F0.013246358602118237
+sVComputer Science
 p28
-I1
-sS'statistic'
+F0.0066570275467073359
+sVBusiness
 p29
-I1
-sS'ee computer science'
-p30
-I1
+F0.0079537819645155456
 ssS'education'
-p31
-(dp32
+p30
+(dp31
 VMaster
-p33
-I1
+p32
+F0.0053476520972365943
 ssS'responsibility'
-p34
-(dp35
+p33
+(dp34
 S'product'
-p36
-I1
+p35
+F0.0098896536082187254
 ss.

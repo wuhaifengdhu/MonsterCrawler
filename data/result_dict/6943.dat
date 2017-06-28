@@ -22,37 +22,37 @@ aS'testing'
 p12
 aS'data scientist'
 p13
-aS'machine learning'
+aS'analysis'
 p14
-aS'r'
-aS'data'
-p15
-aS'regression'
-p16
-aS'unsupervised learning'
-p17
-asS'working-year'
-p18
-(lp19
-V[0]
-p20
-asS'major'
-p21
-(lp22
-S'science'
-p23
-aS'data science'
-p24
-aS'phd'
-p25
-aS'machine learning engineer'
-p26
 aS'machine learning'
-p27
+p15
+aS'r'
+aS'algorithms'
+p16
+aS'data'
+p17
+aS'regression'
+p18
+aS'unsupervised learning'
+p19
+asS'working-year'
+p20
+(lp21
+S'[0]'
+p22
+asS'major'
+p23
+(lp24
+VData Science
+p25
+aVComputer Science
+p26
 asS'education'
-p28
-(lp29
-VDoctor
+p27
+(lp28
+VMaster
+p29
+aVDoctor
 p30
 asS'responsibility'
 p31
@@ -61,4 +61,6 @@ S'model'
 p33
 aS'data analysis'
 p34
+aS'analysis'
+p35
 as.

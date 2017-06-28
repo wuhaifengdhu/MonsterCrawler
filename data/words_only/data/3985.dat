@@ -2,190 +2,181 @@
 S'skills'
 p2
 (dp3
-S'consulting'
+S'continuous improvement'
 p4
-I1
-sS'communication'
+F0.011489891295398687
+sS'consulting'
 p5
-I1
-sS'data mining'
-p6
-I1
-sS'mathematical modeling'
-p7
-I1
-sS'writing'
-p8
-I1
-sS'strategy'
-p9
-I1
-sS'management'
-p10
-I1
-sS'continuous improvement'
-p11
-I1
-sS'risk management'
-p12
-I1
-sS'coaching'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'innovation'
-p15
-I1
-sS'operations research'
-p16
-I1
-sS'government'
-p17
-I1
-sS'collaboration'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'leadership'
-p20
-I1
-sS'mentoring'
-p21
-I1
-sS'statistical modeling'
-p22
-I1
-sS'modeling'
-p23
-I1
-sS'credit risk'
-p24
-I1
-sS'customer experience'
-p25
-I1
-sS'fraud'
-p26
-I1
-sS'pattern recognition'
-p27
-I1
-sS'risk modeling'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'credit'
-p30
-I1
-sS'organizational leadership'
-p31
-I1
-sS'logistic regression'
-p32
-I1
-ssS'working-year'
-p33
-(dp34
-V(5, 10]
-p35
-I1
-ssS'major'
-p36
-(dp37
-S'computer science operations research'
-p38
-I1
-sS'management'
-p39
-I1
-sS'business'
-p40
-I1
+F0.0064742541392867354
 sS'communication'
-p41
-I1
+p6
+F0.0045363018885697893
 sS'data mining'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'management technology'
-p44
-I1
+p7
+F0.0060801699962238897
+sS'mathematical modeling'
+p8
+F0.0068200563906668848
+sS'writing'
+p9
+F0.0064385682695773435
+sS'research'
+p10
+F0.0024445855061940923
+sS'statistics'
+p11
+F0.0026719566040189244
+sS'strategy'
+p12
+F0.0045129267370396416
+sS'risk management'
+p13
+F0.0090537459197370662
+sS'coaching'
+p14
+F0.011065136723880225
 sS'computer science'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'design'
-p47
-I1
-sS'mathematics computer science'
-p48
-I1
+p15
+F0.0040286053386453316
+sS'innovation'
+p16
+F0.0055467755648559419
+sS'mathematics'
+p17
+F0.0052375165675524523
 sS'operations research'
-p49
-I1
-ssS'education'
-p50
-(dp51
-VMaster
-p52
-I1
-sVDoctor
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-I1
-sS'mine data'
-p57
-I1
-sVtest hypothesis
-p58
-I1
-sS'predict'
-p59
-I1
-sS'pattern'
-p60
-I1
-sS'communicate'
-p61
-I1
-sS'improvement'
-p62
-I1
-sS'analytic'
-p63
-I1
-sS'design'
-p64
-I1
-sS'data mining'
-p65
-I1
+p18
+F0.0082548381534438674
+sS'government'
+p19
+F0.0074702564917735392
+sS'collaboration'
+p20
+F0.014657131347125811
+sS'data scientist'
+p21
+F0.0030354488973177028
+sS'management'
+p22
+F0.015576771355867946
+sS'mentoring'
+p23
+F0.0098570593165586088
+sS'statistical modeling'
+p24
+F0.0051328524933822242
 sS'modeling'
-p66
-I1
+p25
+F0.002327065011523073
+sS'credit risk'
+p26
+F0.012842501008469405
+sS'customer experience'
+p27
+F0.010977353585920472
+sS'fraud'
+p28
+F0.078461296645438453
+sS'pattern recognition'
+p29
+F0.0091500106271681699
+sS'science'
+p30
+F0.0020144237484071414
+sS'risk modeling'
+p31
+F0.016086687926922999
+sS'machine learning'
+p32
+F0.0018782742745961012
+sS'credit'
+p33
+F0.018209368620273045
+sS'organizational leadership'
+p34
+F0.015806922609835076
+sS'leadership'
+p35
+F0.0047346951896957649
+sS'logistic regression'
+p36
+F0.0093809824550474038
+sS'organization'
+p37
+F0.0050521026913515222
+ssS'working-year'
+p38
+(dp39
+V(5, 10]
+p40
+F0.0034545680847474463
+ssS'major'
+p41
+(dp42
+VStatistics
+p43
+F0.0051619047847795991
+sVBusiness
+p44
+F0.003099468043478837
+sVComputer Science
+p45
+F0.002594142539691111
+sVMathematics
+p46
+F0.0049119556721560226
+sVOperations Research
+p47
+F0.009222718905980384
+sVManagement Science and Engineering
+p48
+F0.0036949700242661673
+ssS'education'
+p49
+(dp50
+VMaster
+p51
+F0.0020838988115305926
+sVDoctor
+p52
+F0.0031208646755772722
+ssS'responsibility'
+p53
+(dp54
+S'development'
+p55
+F0.0034698022991808556
+sVtest hypothesis
+p56
+F0.013820839053556301
+sS'predict'
+p57
+F0.011953816723539568
+sS'pattern'
+p58
+F0.0075031262910433983
+sS'communicate'
+p59
+F0.011497093881269868
+sS'improvement'
+p60
+F0.007696866751687988
+sS'analytic'
+p61
+F0.019407386581372289
+sS'design'
+p62
+F0.0041845811175314548
+sS'data mining'
+p63
+F0.0060801699962238897
+sS'modeling'
+p64
+F0.002327065011523073
 sS'model'
-p67
-I1
-sS'statistical model'
-p68
-I1
+p65
+F0.0088676839077457929
 sS'presentation'
-p69
-I1
+p66
+F0.0070583218977352622
 ss.

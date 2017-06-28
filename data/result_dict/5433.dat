@@ -10,7 +10,7 @@ aS'business intelligence'
 p6
 aS'pricing'
 p7
-aS'research'
+aS'writing'
 p8
 aS'insurance'
 p9
@@ -22,111 +22,107 @@ aS'education'
 p12
 aS'hadoop'
 p13
-aS'writing'
+aS'research'
 p14
-aS'system architecture'
+aS'strategy'
 p15
-aS'online advertising'
+aS'system architecture'
 p16
-aS'mathematics'
+aS'online advertising'
 p17
-aS'numpy'
+aS'mathematics'
 p18
-aS'architecture'
+aS'numpy'
 p19
-aS'econometrics'
+aS'pandas'
 p20
-aS'distributed computing'
+aS'architecture'
 p21
-aS'marketing'
+aS'econometrics'
 p22
-aS'processing'
+aS'distributed computing'
 p23
-aS'data scientist'
+aS'marketing'
 p24
-aS'leadership'
+aS'processing'
 p25
-aS'pricing strategy'
+aS'data scientist'
 p26
-aS'spark'
+aS'leadership'
 p27
-aS'data'
+aS'pricing strategy'
 p28
-aS'software development'
+aS'regression'
 p29
-aS'science'
+aS'spark'
 p30
-aS'consumer insights'
+aS'data'
 p31
-aS'mapreduce'
+aS'software development'
 p32
-aS'machine learning'
+aS'science'
 p33
-aVpanda
+aS'consumer insights'
 p34
+aS'mapreduce'
+p35
+aS'machine learning'
+p36
 aS'r'
 aS'advertising'
-p35
-aS'retail'
-p36
-aS'impala'
 p37
-asS'working-year'
+aS'retail'
 p38
-(lp39
-V(2, 5]
+aS'impala'
+p39
+asS'working-year'
 p40
+(lp41
+V(5, 10]
+p42
 asS'major'
-p41
-(lp42
-S'science'
 p43
-aS'information'
-p44
-aS'business'
+(lp44
+VBusiness
 p45
-aS'computing'
+aVData Science
 p46
-aS'marketing'
+aVEconomics
 p47
-aS'data science'
+aVComputer Science
 p48
-aS'machine learning'
+aVMathematics
 p49
-aS'design'
+aVGeography
 p50
-aS'statistic'
-p51
-aS'mathematics'
-p52
-aS'econometrics'
-p53
-aS'geography'
-p54
 asS'education'
-p55
-(lp56
+p51
+(lp52
 S'Bachelor'
-p57
+p53
 asS'responsibility'
-p58
-(lp59
+p54
+(lp55
 S'development'
-p60
+p56
 aS'information'
-p61
+p57
 aS'product'
-p62
+p58
 aS'predict'
-p63
+p59
 aS'processing'
-p64
+p60
+aS'forecast'
+p61
 aS'understand'
-p65
+p62
 aS'design'
-p66
+p63
 aS'implement'
-p67
+p64
 aS'model'
-p68
+p65
+aS'test ... model'
+p66
 as.

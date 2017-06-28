@@ -2,43 +2,43 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'biostatistics'
 p4
-aS'biostatistics'
-p5
 aS'testing'
-p6
+p5
 aS'causal inference'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'engineering'
+p8
+aS'analysis'
 p9
-aS'hive'
-p10
 aS'problem solving'
+p10
+aS'statistics'
 p11
-aS'management'
-p12
 aS'big data'
+p12
+aS'management'
 p13
-aS'high performance computing'
-p14
 aS'hadoop'
-p15
+p14
 aS'data analysis'
-p16
+p15
 aS'python'
-p17
+p16
 aS'marketing'
-p18
+p17
 aS'data scientist'
+p18
+aS'hive'
 p19
 aS'product management'
 p20
 aS'leadership'
 p21
-aS'sql'
+aS'statistical inference'
 p22
 aS'modeling'
 p23
@@ -48,83 +48,73 @@ aS'marketing analytics'
 p25
 aS'thought leadership'
 p26
-aS'analysis'
+aS'high performance computing'
 p27
 aS'r'
 aS'advertising'
 p28
-aS'oracle'
+aS'sql'
 p29
-aS'statistical inference'
+aS'oracle'
 p30
-aS'statistical analysis'
+aS'organization'
 p31
-asS'working-year'
+aS'statistical analysis'
 p32
-(lp33
+asS'working-year'
+p33
+(lp34
 V(0, 2]
-p34
-aV(2, 5]
 p35
-asS'major'
+aV(2, 5]
 p36
-(lp37
-S'management'
-p38
-aS'big data'
+asS'major'
+p37
+(lp38
+VStatistics
 p39
-aS'biostatistics'
+aVBusiness
 p40
-aS'computing'
+aVData Science
 p41
-aS'marketing'
+aVEconomics
 p42
-aS'marketing analytics'
+aVEngineering
 p43
-aS'high performance computing'
+aVComputer Science
 p44
-aS'phd'
+aVBiological Engineering
 p45
-aS'business'
+aVManagement Science and Engineering
 p46
-aS'analytics'
-p47
-aS'engineering'
-p48
-aS'design'
-p49
-aS'statistic'
-p50
 asS'education'
-p51
-(lp52
+p47
+(lp48
 VBachelor
-p53
+p49
+aVMaster
+p50
 aVDoctor
-p54
+p51
 asS'responsibility'
-p55
-(lp56
+p52
+(lp53
 S'product'
-p57
+p54
 aS'data analysis'
-p58
+p55
 aS'predict'
-p59
-aVinsight
-p60
+p56
+aS'insight'
+p57
 aS'analysis'
-p61
+p58
 aS'improvement'
-p62
+p59
 aS'cross-functionally'
-p63
-aS'statistical method'
-p64
-aS'design'
-p65
-aS'modeling'
-p66
+p60
 aS'understand'
-p67
+p61
+aS'modeling'
+p62
 as.

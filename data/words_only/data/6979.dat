@@ -4,107 +4,107 @@ p2
 (dp3
 S'search'
 p4
-I1
+F0.017624941918464591
 sS'postgresql'
 p5
-I1
-sS'analytics'
+F0.019334742232577123
+sS'finance'
 p6
-I1
-sS'science'
+F0.015086057126043684
+sS'analytics'
 p7
-I1
-sS'data science'
+F0.014825070374719203
+sS'marketing'
 p8
-I1
-sS'marketing analytics'
+F0.010825082514076982
+sS'data science'
 p9
-I1
-sS'data scientist'
+F0.0068343234412534043
+sS'marketing analytics'
 p10
-I1
-sS'tableau'
+F0.021916467119544199
+sS'data scientist'
 p11
-I1
-sS'sql development'
+F0.0060191571884311264
+sS'dashboards'
 p12
-I1
-sS'banking'
+F0.028183698773786979
+sS'tableau'
 p13
-I1
-sS'customer analytics'
+F0.034244762848700989
+sS'sql development'
 p14
-I1
-sS'dashboard'
+F0.032514018734295394
+sS'banking'
 p15
-I1
-sS'sql'
+F0.019513067719081564
+sS'customer analytics'
 p16
-I1
-sS'mysql'
+F0.030961221536715856
+sS'dashboard'
 p17
-I1
-sS'accounting'
+F0.019922732779088327
+sS'sql'
 p18
-I1
-sS'government'
+F0.0038746810160968587
+sS'mysql'
 p19
-I1
-sS'application development'
+F0.013489533674359216
+sS'accounting'
 p20
-I1
-ssS'working-year'
+F0.025058464706624182
+sS'government'
 p21
-(dp22
-V(0, 2]
+F0.029626358132147333
+sS'data'
+p22
+F0.00067387209019586884
+sS'application development'
 p23
-I1
-sV(20, 30)
+F0.021767593190262759
+sS'science'
 p24
-I1
-ssS'major'
+F0.0039945107283755254
+ssS'working-year'
 p25
 (dp26
-S'information'
+V(0, 2]
 p27
-I1
-sS'science'
+F0.012940796386875873
+sV(20, 30)
 p28
-I1
-sS'data science'
+F0.030961221536715856
+ssS'major'
 p29
-I1
-sS'marketing analytics'
-p30
-I1
-sS'analytics'
+(dp30
+VData Science
 p31
-I1
-sS'finance accounting'
+F0.0058368692193469466
+sVEconomics
 p32
-I1
-sS'accounting'
+F0.0093225656109344364
+sVBusiness
 p33
-I1
+F0.0061461042453074674
 ssS'education'
 p34
 (dp35
 VBachelor
 p36
-I1
+F0.0051782887935790155
 sVMaster
 p37
-I1
+F0.0041322766205919145
 ssS'responsibility'
 p38
 (dp39
 S'development'
 p40
-I1
+F0.0068804602409893107
 sS'information'
 p41
-I1
+F0.015762559085561303
 sS'implement'
 p42
-I1
+F0.012033313494997771
 ss.

@@ -4,242 +4,215 @@ p2
 (dp3
 S'data processing'
 p4
-I1
+F0.010810937052142281
 sS'nosql'
 p5
-I1
+F0.0080495496007838892
 sS'data science'
 p6
-I1
+F0.0035377674284135271
 sS'mysql'
 p7
-I1
+F0.0069828174314330053
 sS'information retrieval'
 p8
-I1
-sS'engineering'
+F0.010322120597009333
+sS'analytics'
 p9
-I1
-sS'data mining'
-p10
-I1
-sS'hbase'
-p11
-I1
-sS'strategy'
-p12
-I1
-sS'research'
-p13
-I1
-sS'cassandra'
-p14
-I1
-sS'access'
-p15
-I1
-sS'management'
-p16
-I1
-sS'java'
-p17
-I1
-sS'big data'
-p18
-I1
-sS'agile'
-p19
-I1
-sS'storage'
-p20
-I1
-sS'hadoop'
-p21
-I1
-sS'perl'
-p22
-I1
-sS'big data analytics'
-p23
-I1
-sS'computer science'
-p24
-I1
-sS'natural language processing'
-p25
-I1
-sS'unstructured data'
-p26
-I1
-sS'data management'
-p27
-I1
-sS'flume'
-p28
-I1
-sS'sqoop'
-p29
-I1
-sS'python'
-p30
-I1
-sS'mongodb'
-p31
-I1
-sS'processing'
-p32
-I1
-sS'data scientist'
-p33
-I1
-sS'data quality'
-p34
-I1
-sS'product management'
-p35
-I1
-sS'scripting'
-p36
-I1
-sS'aerospace'
-p37
-I1
-sS'spark'
-p38
-I1
-sS'pig'
-p39
-I1
-sS'data'
-p40
-I1
-sS'software development'
-p41
-I1
-sS'hive'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'data architecture'
-p44
-I1
-sS'data engineering'
-p45
-I1
-sS'mobile applications'
-p46
-I1
-sS'architecture'
-p47
-I1
-sS'oracle'
-p48
-I1
-sS'organization'
-p49
-I1
-sS'data analytics'
-p50
-I1
-ssS'working-year'
-p51
-(dp52
-V(5, 10]
-p53
-I1
-sV(2, 5]
-p54
-I1
-ssS'major'
-p55
-(dp56
-S'information'
-p57
-I1
-sS'management'
-p58
-I1
-sS'business'
-p59
-I1
-sS'big data'
-p60
-I1
-sS'data science'
-p61
-I1
-sS'natural language processing'
-p62
-I1
-sS'machine learning'
-p63
-I1
-sS'big data analytics'
-p64
-I1
+F0.0051161027175501564
 sS'engineering'
-p65
-I1
-sS'design'
-p66
-I1
+p10
+F0.010807542150649893
+sS'data mining'
+p11
+F0.0062411156725945219
+sS'hbase'
+p12
+F0.0098478179112943265
+sS'strategy'
+p13
+F0.0092647731248637344
+sS'research'
+p14
+F0.0050185902450690482
+sS'cassandra'
+p15
+F0.011071783889884343
+sS'access'
+p16
+F0.013643894265273264
+sS'management'
+p17
+F0.0026648496094107414
+sS'java'
+p18
+F0.0036449028460831868
+sS'big data'
+p19
+F0.0037433091951843164
+sS'agile'
+p20
+F0.012845234545291231
+sS'storage'
+p21
+F0.011001475183960174
+sS'hadoop'
+p22
+F0.0075576853023503815
+sS'perl'
+p23
+F0.008429561012615789
+sS'big data analytics'
+p24
+F0.0097478503080837657
 sS'computer science'
-p67
-I1
-sS'data mining'
-p68
-I1
-sS'information retrieval'
-p69
-I1
-sS'phd'
-p70
-I1
-sS'ee computer science'
-p71
-I1
-sS'data analytics'
-p72
-I1
-sS'data mining machine learning'
-p73
-I1
-ssS'education'
-p74
-(dp75
-VBachelor
-p76
-I1
-sVMaster
-p77
-I1
-sVDoctor
-p78
-I1
-ssS'responsibility'
-p79
-(dp80
-S'development'
-p81
-I1
-sS'information'
-p82
-I1
-sS'product'
-p83
-I1
+p25
+F0.0041352448917271198
+sS'natural language processing'
+p26
+F0.0073704650940008909
+sS'unstructured data'
+p27
+F0.0093788483336857634
+sS'data management'
+p28
+F0.0080879944253213834
+sS'architecture'
+p29
+F0.0064323956549548773
+sS'flume'
+p30
+F0.015055691135706619
+sS'sqoop'
+p31
+F0.013863155497714792
+sS'python'
+p32
+F0.0015330926845684293
+sS'mongodb'
+p33
+F0.008697340481827574
 sS'processing'
-p84
-I1
+p34
+F0.0048032002549138822
+sS'data scientist'
+p35
+F0.0031157990151878773
+sS'data quality'
+p36
+F0.010396582538783011
+sS'product management'
+p37
+F0.0091852882912545324
+sS'scripting'
+p38
+F0.0071561305219019506
+sS'aerospace'
+p39
+F0.01432676619053434
+sS'spark'
+p40
+F0.0049592224215166429
+sS'pig'
+p41
+F0.0079371416915173278
+sS'data'
+p42
+F0.0073253860157762689
+sS'software development'
+p43
+F0.0062358724060978601
+sS'science'
+p44
+F0.0020677467299826248
+sS'hive'
+p45
+F0.006134571322029431
+sS'machine learning'
+p46
+F0.0019279932995118804
+sS'data architecture'
+p47
+F0.011933745749456773
+sS'data engineering'
+p48
+F0.011778913988433644
+sS'mobile applications'
+p49
+F0.013832676987241339
+sS'etl'
+p50
+F0.0083816608059270083
+sS'oracle'
+p51
+F0.0077206514663568284
+sS'organization'
+p52
+F0.0051858348214167092
+sS'data analytics'
+p53
+F0.0060068314161346977
+ssS'working-year'
+p54
+(dp55
+V(5, 10]
+p56
+F0.0035460125340495848
+sV(2, 5]
+p57
+F0.0036439542012680457
+ssS'major'
+p58
+(dp59
+VData Science
+p60
+F0.0030214381841325369
+sVManagement Science and Engineering
+p61
+F0.0037927780543202715
+sVEngineering
+p62
+F0.010807542150649893
+sVBusiness
+p63
+F0.0031815127858062183
+sVComputer Science
+p64
+F0.0026628110186829343
+ssS'education'
+p65
+(dp66
+VBachelor
+p67
+F0.0026805259637350197
+sVMaster
+p68
+F0.0021390608388946377
+sVDoctor
+p69
+F0.003203475799342553
+ssS'responsibility'
+p70
+(dp71
+S'development'
+p72
+F0.0035616500071003489
+sS'information'
+p73
+F0.0040797211750864546
+sS'product'
+p74
+F0.0039558614432874898
+sS'processing'
+p75
+F0.0048032002549138822
 sS'understand'
-p85
-I1
+p76
+F0.024725644864050298
 sS'data mining'
-p86
-I1
+p77
+F0.0062411156725945219
 sS'design'
-p87
-I1
+p78
+F0.0085906988824616323
 ss.

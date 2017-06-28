@@ -4,191 +4,182 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0024319037774360314
 sS'data science'
 p5
-I1
+F0.0018476819134571416
 sS'presentation skills'
 p6
-I1
-sS'process improvement'
+F0.0071174053907001999
+sS'engineering'
 p7
-I1
-sS'system administration'
+F0.0018814973534157522
+sS'process improvement'
 p8
-I1
-sS'education'
+F0.0049550885475106998
+sS'system administration'
 p9
-I1
-sS'management'
+F0.0070737223570641761
+sS'education'
 p10
-I1
-sS'ehr'
+F0.0032236970043214579
+sS'management'
 p11
-I1
-sS'user experience'
+F0.0027835602678944766
+sS'ehr'
 p12
-I1
-sS'excel'
+F0.0093698317974665376
+sS'user experience'
 p13
-I1
-sS'integration'
+F0.0051846589325758152
+sS'excel'
 p14
-I1
-sS'governance'
+F0.0024838006556160762
+sS'integration'
 p15
-I1
-sS'coaching'
+F0.0070852323262507299
+sS'governance'
 p16
-I1
-sS'statistical software'
+F0.0055368909691179699
+sS'coaching'
 p17
-I1
-sS'customer satisfaction'
+F0.0059320011008205812
+sS'statistical software'
 p18
-I1
-sS'visual analytics'
+F0.0060453108622081243
+sS'customer satisfaction'
 p19
-I1
-sS'business analytics'
+F0.0069496662658591344
+sS'visual analytics'
 p20
-I1
-sS'business process'
+F0.0087469992530635927
+sS'business analytics'
 p21
-I1
-sS'leadership'
+F0.004666027947249022
+sS'business process'
 p22
-I1
-sS'mentoring'
+F0.0046932149454988574
+sS'leadership'
 p23
-I1
-sS'sql'
+F0.0025382620909428911
+sS'mentoring'
 p24
-I1
-sS'informatics'
+F0.0052843528440536941
+sS'sql'
 p25
-I1
-sS'process development'
+F0.0010475328092673535
+sS'informatics'
 p26
-I1
-sS'training'
+F0.0067511866408350388
+sS'data'
 p27
-I1
-sS'word'
+F0.00036436709024415643
+sS'process development'
 p28
-I1
-sS'documentation'
+F0.0091330417730018636
+sS'training'
 p29
-I1
-sS'business strategy'
-p30
-I1
-sS'analysis'
-p31
-I1
-sS'application development'
-p32
-I1
-sS'healthcare'
-p33
-I1
+F0.0072297841813282002
 sS'organization'
+p30
+F0.0081252711487635083
+sS'word'
+p31
+F0.0042836692176622376
+sS'science'
+p32
+F0.0010799291677328609
+sS'documentation'
+p33
+F0.0089076527156498643
+sS'business strategy'
 p34
-I1
-sS'powerpoint'
+F0.0046690250696151108
+sS'analysis'
 p35
-I1
-sS'data analytics'
+F0.001052592079121751
+sS'application development'
 p36
-I1
-ssS'working-year'
+F0.0058849407088882415
+sS'healthcare'
 p37
-(dp38
-V(5, 10]
+F0.0082864526676195514
+sS'facebook'
+p38
+F0.0065650993992100205
+sS'powerpoint'
 p39
-I1
-sV(2, 5]
+F0.0037588700567346427
+sS'data analytics'
 p40
-I1
-ssS'major'
+F0.003137208420101071
+ssS'working-year'
 p41
 (dp42
-S'information'
+V(5, 10]
 p43
-I1
-sS'management'
+F0.0018519881130212885
+sV(2, 5]
 p44
-I1
-sS'business'
+F0.0019031404430585798
+ssS'major'
 p45
-I1
-sS'communication'
-p46
-I1
-sS'data science'
+(dp46
+VData Science
 p47
-I1
-sS'data analyst'
+F0.0015780168703610792
+sVInformation Science
 p48
-I1
-sS'general'
+F0.0038904073556898524
+sVEngineering
 p49
-I1
-sS'business analytics'
+F0.0018814973534157522
+sVBusiness
 p50
-I1
-sS'informatics'
+F0.0016616195809126177
+sVManagement Science and Engineering
 p51
-I1
-sS'design'
-p52
-I1
-sS'analytics data science'
-p53
-I1
-sS'data analytics'
-p54
-I1
+F0.0019808671865881602
 ssS'education'
+p52
+(dp53
+VBachelor
+p54
+F0.0013999674772195189
+ssS'responsibility'
 p55
 (dp56
-VBachelor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
 S'development'
-p60
-I1
+p57
+F0.007440620598550652
 sS'information'
-p61
-I1
+p58
+F0.0063921898595824637
 sS'documentation'
-p62
-I1
+p59
+F0.0089076527156498643
 sS'communicate'
-p63
-I1
+p60
+F0.0030817863015078217
 sS'analysis'
-p64
-I1
+p61
+F0.001052592079121751
 sS'improvement'
-p65
-I1
+p62
+F0.028883940820850624
 sS'design'
-p66
-I1
+p63
+F0.0022433468663878306
 sS'recommendation'
-p67
-I1
+p64
+F0.012037796059070375
 sS'understand'
-p68
-I1
+p65
+F0.0032283868102062603
 sS'model'
-p69
-I1
+p66
+F0.0023769751795724129
 sS'presentation'
-p70
-I1
+p67
+F0.0037839544428718997
 ss.

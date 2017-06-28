@@ -4,203 +4,187 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.0061150424446861995
 sS'communication'
 p5
-I1
+F0.0030681576726954581
 sS'rest'
 p6
-I1
+F0.0069329388807351016
 sS'information retrieval'
 p7
-I1
+F0.0068013972926030484
 sS'enterprise software'
 p8
-I1
-sS'data mining'
+F0.0078528736427407389
+sS'natural language processing'
 p9
-I1
-sS'strategy'
+F0.0048565080076750054
+sS'data mining'
 p10
-I1
-sS'regression'
+F0.0041123630400816619
+sS'go'
 p11
-I1
-sS'java'
+F0.0063544829361000532
+sS'strategy'
 p12
-I1
-sS'user experience'
+F0.0061046954698714528
+sS'regression'
 p13
-I1
-sS'agile'
+F0.0046049763385306213
+sS'java'
 p14
-I1
-sS'research'
+F0.0024016801698997742
+sS'agile'
 p15
-I1
-sS'computer science'
+F0.0042319571176347081
+sS'hadoop'
 p16
-I1
-sS'natural language processing'
+F0.0024899350802317149
+sS'research'
 p17
-I1
-sS'intelligence'
-p18
-I1
-sS'python'
-p19
-I1
-sS'processing'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'salesforce.com'
-p22
-I1
-sS'test driven development'
-p23
-I1
-sS'data processing'
-p24
-I1
-sS'algorithm design'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'data'
-p27
-I1
-sS'software development'
-p28
-I1
-sS'search'
-p29
-I1
-sS'b testing'
-p30
-I1
-sS'software service saas'
-p31
-I1
-sS'cloud computing'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'analysis'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'crm'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-sV(2, 5]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'information'
-p43
-I1
-sS'business'
-p44
-I1
-sS'computing'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'data mining'
-p47
-I1
-sS'phd'
-p48
-I1
-sS'design'
-p49
-I1
+F0.00165341151484833
 sS'computer science'
-p50
-I1
-sS'natural language processing'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'information retrieval'
-p53
-I1
-ssS'education'
-p54
-(dp55
-VMaster
-p56
-I1
-sVDoctor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'information'
-p61
-I1
-sS'product'
-p62
-I1
-sS'identify opportunity'
-p63
-I1
-sS'understand'
-p64
-I1
-sS'pattern'
-p65
-I1
+p18
+F0.0027247737658667066
+sS'intelligence'
+p19
+F0.0060854984879332519
+sS'software development'
+p20
+F0.0041089081745606052
+sS'python'
+p21
+F0.001010177350297027
 sS'processing'
-p66
-I1
-sS'communicate'
-p67
-I1
-sS'analysis'
-p68
-I1
-sS'improvement'
-p69
-I1
-sS'design'
-p70
-I1
-sS'data mining'
-p71
-I1
+p22
+F0.0031648993927727133
+sS'data scientist'
+p23
+F0.0020530458627206942
+sS'salesforce.com'
+p24
+F0.0095873756800605482
+sS'test driven development'
+p25
+F0.01032281633569687
+sS'data processing'
+p26
+F0.0071234856545123555
+sS'algorithm design'
+p27
+F0.0081690539206800174
 sS'modeling'
-p72
-I1
+p28
+F0.0015739257539177374
+sS'spark'
+p29
+F0.0032677046963481755
+sS'data'
+p30
+F0.00068954353415391233
+sS'a'
+F0.003624112196926408
+sS'search'
+p31
+F0.10219733763574818
+sS'b testing'
+p32
+F0.0077317123340266431
+sS'software service saas'
+p33
+F0.012273982333248218
+sS'science'
+p34
+F0.0013624687755699465
+sS'cloud computing'
+p35
+F0.0062744120827865233
+sS'programming'
+p36
+F0.00213626983495131
+sS'analysis'
+p37
+F0.0026559590833653483
+sS'machine learning'
+p38
+F0.0012703831818489135
+sS'crm'
+p39
+F0.0063738138879782906
+ssS'working-year'
+p40
+(dp41
+V(5, 10]
+p42
+F0.0023365198867768581
+sV(2, 5]
+p43
+F0.0024010550938587897
+ssS'major'
+p44
+(dp45
+VComputer Science
+p46
+F0.0017545653999073599
+sVBusiness
+p47
+F0.0020963456340583608
+ssS'education'
+p48
+(dp49
+VMaster
+p50
+F0.0014094586922949164
+sVDoctor
+p51
+F0.0021108173871636979
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.0023468236480893774
+sS'information'
+p55
+F0.0026881883711809972
+sS'product'
+p56
+F0.0026065753696080359
+sS'identify opportunity'
+p57
+F0.0080271890324329249
+sS'understand'
+p58
+F0.0040730228942718518
+sS'pattern'
+p59
+F0.0050747889061514458
+sS'processing'
+p60
+F0.0031648993927727133
+sS'communicate'
+p61
+F0.0038880676013209148
+sS'analysis'
+p62
+F0.0026559590833653483
+sS'improvement'
+p63
+F0.0052058265432928449
+sS'design'
+p64
+F0.0056605380233274325
+sS'data mining'
+p65
+F0.0041123630400816619
+sS'modeling'
+p66
+F0.0015739257539177374
 sS'implement'
-p73
-I1
+p67
+F0.0041043859982938134
 sS'model'
-p74
-I1
+p68
+F0.011995432882958455
 ss.

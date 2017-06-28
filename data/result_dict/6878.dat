@@ -2,88 +2,86 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'supply chain'
 p4
-aS'management'
+aS'classification'
 p5
-aS'product development'
-p6
-aS'risk assessment'
-p7
-aS'healthcare'
-p8
-aS'science'
-p9
 aS'data science'
-p10
-aS'innovation'
-p11
-aS'data scientist'
-p12
-aS'supply chain'
-p13
-aS'analysis'
-p14
-aS'research'
-p15
+p6
+aS'consulting'
+p7
 aS'analytics'
-p16
+p8
+aS'insurance'
+p9
+aS'management'
+p10
+aS'research'
+p11
 aS'coaching'
+p12
+aS'html'
+p13
+aS'innovation'
+p14
+aS'policy'
+p15
+aS'product development'
+p16
+aS'data scientist'
 p17
 aS'leadership'
 p18
-aS'organization'
+aS'bloomberg'
 p19
-aS'policy'
+aS'data'
 p20
 aS'training'
 p21
-aS'risk analytics'
+aS'risk assessment'
 p22
-aS'data'
-p23
-aS'insurance'
-p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-asS'major'
-p28
-(lp29
-S'information'
-p30
-aS'management'
-p31
-aS'business'
-p32
 aS'science'
-p33
-aS'data science'
-p34
-aS'analytics'
-p35
-asS'education'
-p36
-(lp37
-VBachelor
-p38
-asS'responsibility'
-p39
-(lp40
-S'development'
-p41
-aS'information'
-p42
-aS'product'
-p43
-aS'communicate'
-p44
+p23
 aS'analysis'
-p45
+p24
+aS'healthcare'
+p25
+aS'organization'
+p26
+asS'working-year'
+p27
+(lp28
+V(5, 10]
+p29
+asS'major'
+p30
+(lp31
+VData Science
+p32
+aVBusiness
+p33
+aVManagement Science and Engineering
+p34
+asS'education'
+p35
+(lp36
+VBachelor
+p37
+asS'responsibility'
+p38
+(lp39
+S'development'
+p40
+aS'information'
+p41
+aS'product'
+p42
+aS'communicate'
+p43
+aS'analysis'
+p44
 aS'recommendation'
-p46
+p45
 aS'presentation'
-p47
+p46
 as.

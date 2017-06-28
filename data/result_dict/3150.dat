@@ -14,146 +14,140 @@ aS'data warehousing'
 p8
 aS'statistical analysis'
 p9
-aS'neo4j'
+aS'sas'
 p10
-aS'sap'
+aS'neo4j'
 p11
-aS'research'
+aS'sap'
 p12
-aS'management'
+aS'research'
 p13
-aS'java'
+aS'statistics'
 p14
-aS'scala'
+aS'java'
 p15
-aS'data'
+aS'scala'
 p16
-aS'agent-based modeling'
+aS'data'
 p17
-aS'perl'
+aS'education'
 p18
-aS'optimization'
+aS'agent-based modeling'
 p19
-aS'matlab'
+aS'perl'
 p20
-aS'natural language processing'
+aS'optimization'
 p21
-aS'statistical learning'
+aS'matlab'
 p22
-aS'operations research'
+aS'natural language processing'
 p23
-aS'computer science'
+aS'statistical learning'
 p24
-aS'python'
+aS'operations research'
 p25
-aS'simulation'
+aS'computer science'
 p26
-aS'processing'
+aS'python'
 p27
-aS'apache spark'
+aS'simulation'
 p28
-aS'mongodb'
+aS'processing'
 p29
-aS'apache'
+aS'apache spark'
 p30
-aS'modeling'
+aS'mongodb'
 p31
-aS'spark'
+aS'management'
 p32
-aS'ruby'
+aS'apache'
 p33
-aS'information technology'
+aS'modeling'
 p34
+aS'spark'
+p35
+aS'ruby'
+p36
+aS'information technology'
+p37
 aS'c'
 aS'parallel programming'
-p35
-aS'science'
-p36
-aS'economics'
-p37
-aS'programming'
 p38
-aS'engineering'
+aS'science'
 p39
-aS'analysis'
+aS'economics'
 p40
-aS'machine learning'
+aS'programming'
 p41
+aS'engineering'
+p42
+aS'analysis'
+p43
+aS'machine learning'
+p44
 aS'r'
 aS'oracle'
-p42
-aS'organization'
-p43
-aS'clojure'
-p44
-asS'working-year'
 p45
-(lp46
-V(5, 10]
+aS'organization'
+p46
+aS'clojure'
 p47
-aV(2, 5]
+aS'physics'
 p48
-asS'major'
+asS'working-year'
 p49
 (lp50
-S'information'
+V(5, 10]
 p51
-aS'management'
+aV(2, 5]
 p52
-aS'economics'
+asS'major'
 p53
-aS'business'
-p54
-aS'computing'
+(lp54
+VStatistics
 p55
-aS'science'
+aVBusiness
 p56
-aS'applied math'
+aVEconomics
 p57
-aS'statistic'
+aVEngineering
 p58
-aS'machine learning'
+aVInformation Science
 p59
-aS'engineering physics'
+aVComputer Science
 p60
-aS'engineering'
+aVMathematics
 p61
-aS'operations research'
+aVPhysics
 p62
-aS'computer science engineering'
+aVOperations Research
 p63
-aS'information technology'
+aVManagement Science and Engineering
 p64
-aS'natural language processing'
-p65
-aS'phd'
-p66
-aVphysic
-p67
-aS'computer science'
-p68
 asS'education'
-p69
-(lp70
+p65
+(lp66
 VBachelor
-p71
+p67
+aVMaster
+p68
 aVDoctor
-p72
+p69
 asS'responsibility'
-p73
-(lp74
+p70
+(lp71
 S'information'
-p75
+p72
 aS'processing'
-p76
+p73
 aS'analysis'
-p77
+p74
 aS'simulation'
-p78
+p75
 aS'optimization'
-p79
+p76
 aS'modeling'
-p80
+p77
 aS'model'
-p81
+p78
 as.

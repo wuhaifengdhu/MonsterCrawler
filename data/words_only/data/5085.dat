@@ -4,188 +4,203 @@ p2
 (dp3
 S'jira'
 p4
-I1
+F0.0069794109926578189
 sS'consulting'
 p5
-I1
-sS'programming'
+F0.0035249839229501883
+sS'pmp'
 p6
-I1
-sS'communication'
+F0.0081665618523263043
+sS'programming'
 p7
-I1
-sS'human resources'
-p8
-I1
-sS'forecasting'
-p9
-I1
-sS'analytics'
-p10
-I1
-sS'engineering'
-p11
-I1
-sS'process improvement'
-p12
-I1
-sS'seo'
-p13
-I1
-sS'content management'
-p14
-I1
-sS'product development'
-p15
-I1
-sS'change management'
-p16
-I1
-sS'management'
-p17
-I1
-sS'business process improvement'
-p18
-I1
-sS'agile'
-p19
-I1
-sS'continuous improvement'
-p20
-I1
-sS'information technology'
-p21
-I1
-sS'sdlc'
-p22
-I1
-sS'ms project'
-p23
-I1
-sS'android'
-p24
-I1
-sS'finance'
-p25
-I1
-sS'process optimization'
-p26
-I1
-sS'customer service'
-p27
-I1
-sS'collaboration'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'training'
-p30
-I1
-sS'business process'
-p31
-I1
-sS'facebook'
-p32
-I1
-sS'data'
-p33
-I1
-sS'customer relations'
-p34
-I1
-sS'project management'
-p35
-I1
-sS'software development'
-p36
-I1
-sS'search'
-p37
-I1
-sS'budgeting'
-p38
-I1
-sS'optimization'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(5, 10]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
-sS'management'
-p46
-I1
-sS'finance'
-p47
-I1
-sS'business'
-p48
-I1
+F0.0017196805535645491
 sS'communication'
-p49
-I1
-sS'analytics'
-p50
-I1
-sS'engineering'
-p51
-I1
-sS'management technology'
-p52
-I1
-sS'information technology'
-p53
-I1
-sS'project management'
-p54
-I1
-ssS'education'
-p55
-(dp56
-VBachelor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'information'
-p61
-I1
+p8
+F0.0074095289817980806
+sS'human resources'
+p9
+F0.0077384258723658473
 sS'forecasting'
-p62
-I1
-sS'product'
-p63
-I1
-sS'improvement'
-p64
-I1
+p10
+F0.0045744602275043971
+sS'hardware'
+p11
+F0.0057930047996169499
+sS'analytics'
+p12
+F0.0013568447144828809
+sS'engineering'
+p13
+F0.0019108498862303504
+sS'process improvement'
+p14
+F0.0050323910209508051
+sS'seo'
+p15
+F0.0070314173052477133
+sS'sports'
+p16
+F0.0085010530272417954
+sS'content management'
+p17
+F0.0083097866290477145
+sS'product development'
+p18
+F0.0040771861915471297
+sS'change management'
+p19
+F0.006517879858217961
+sS'management'
+p20
+F0.012721434952881232
+sS'business process improvement'
+p21
+F0.007071592368709835
+sS'agile'
+p22
+F0.0034066924691099989
+sS'education'
+p23
+F0.0032739886892562704
+sS'continuous improvement'
+p24
+F0.0062558066491328265
+sS'information technology'
+p25
+F0.0048621670386298681
+sS'sdlc'
+p26
+F0.0057171756515430753
+sS'ms project'
+p27
+F0.0076973695207779068
+sS'android'
+p28
+F0.0063640124410803958
+sS'finance'
+p29
+F0.004142193532267845
+sS'process optimization'
+p30
+F0.0093322585724179598
+sS'customer service'
+p31
+F0.0053487047466265862
+sS'collaboration'
+p32
+F0.0039901239002705993
+sS'ios'
+p33
+F0.0074714259541910633
+sS'training'
+p34
+F0.011013859989184069
+sS'business process'
+p35
+F0.0047664320273319129
+sS'leadership'
+p36
+F0.0025778605635005023
+sS'facebook'
+p37
+F0.0066675190466235941
+sS'data'
+p38
+F0.00037005144422612457
+sS'project management'
+p39
+F0.0029663858398198848
+sS'process development'
+p40
+F0.0092755229239067285
+sS'software development'
+p41
+F0.0033076390297554956
+sS'search'
+p42
+F0.0048392976250386391
+sS'data scientist'
+p43
+F0.0016526859050918538
+sS'documentation'
+p44
+F0.00452330882830582
+sS'budgeting'
+p45
+F0.008112761557285195
 sS'optimization'
+p46
+F0.0031201386230710489
+sS'cms'
+p47
+F0.0087190895038797307
+ssS'working-year'
+p48
+(dp49
+V(5, 10]
+p50
+F0.0018808802832712306
+ssS'major'
+p51
+(dp52
+VBusiness
+p53
+F0.0016875418832669488
+sVData Science
+p54
+F0.0016026349182606283
+sVEconomics
+p55
+F0.002559706002378254
+sVEngineering
+p56
+F0.0019108498862303504
+sVInformation Science
+p57
+F0.0039511001381499124
+sVManagement Science and Engineering
+p58
+F0.0020117699508095045
+ssS'education'
+p59
+(dp60
+VBachelor
+p61
+F0.0014218078434787937
+sVMaster
+p62
+F0.0011346032530798391
+ssS'responsibility'
+p63
+(dp64
+S'development'
 p65
-I1
-sS'solve problem'
+F0.005667524192265766
+sS'information'
 p66
-I1
-sS'report'
+F0.0043279413401853184
+sS'forecasting'
 p67
-I1
-sS'implement'
+F0.0045744602275043971
+sS'documentation'
 p68
-I1
-sS'model'
+F0.00452330882830582
+sS'product'
 p69
-I1
+F0.0020982728404333024
+sS'improvement'
+p70
+F0.0041906497602794196
+sS'optimization'
+p71
+F0.0031201386230710489
+sS'report'
+p72
+F0.0032375607178977053
+sS'implement'
+p73
+F0.0033039987131351133
+sS'model'
+p74
+F0.0024140574756655862
 ss.

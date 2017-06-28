@@ -2,92 +2,86 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'intelligence'
 p4
-aS'organization'
+aS'data science'
 p5
-aS'spatial analysis'
+aS'analytics'
 p6
-aS'big data'
-p7
-aS'social network analysis'
-p8
-aS'science'
-p9
-aS'data science'
-p10
-aS'innovation'
-p11
-aS'data scientist'
-p12
-aS'geospatial modeling'
-p13
-aS'analysis'
-p14
-aS'insurance'
-p15
-aS'analytics'
-p16
 aS'defense'
-p17
-aS'geospatial intelligence'
-p18
-aS'intelligence'
-p19
-aS'modeling'
-p20
-aS'research'
-p21
-aS'data'
-p22
-aS'energy'
-p23
+p7
+aS'insurance'
+p8
 aS'geography'
-p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-asS'major'
-p28
-(lp29
-S'information'
-p30
-aS'information systems'
-p31
+p9
+aS'statistics'
+p10
 aS'big data'
-p32
+p11
+aS'research'
+p12
+aS'geospatial intelligence'
+p13
+aS'innovation'
+p14
+aS'energy'
+p15
+aS'government'
+p16
+aS'social network analysis'
+p17
+aS'data scientist'
+p18
+aS'modeling'
+p19
+aS'data'
+p20
+aS'training'
+p21
 aS'science'
+p22
+aS'geospatial modeling'
+p23
+aS'analysis'
+p24
+aS'organization'
+p25
+asS'working-year'
+p26
+(lp27
+V(5, 10]
+p28
+asS'major'
+p29
+(lp30
+VData Science
+p31
+aVStatistics
+p32
+aVInformation Science
 p33
-aS'data science'
+aVGeography
 p34
-aS'analytics'
-p35
-aS'information system'
-p36
-aS'statistic'
-p37
-aS'geography'
-p38
 asS'education'
+p35
+(lp36
+VBachelor
+p37
+aVMaster
+p38
+asS'responsibility'
 p39
 (lp40
-S'Bachelor'
-p41
-asS'responsibility'
-p42
-(lp43
 S'information'
-p44
+p41
 aS'product'
-p45
+p42
 aS'analysis'
-p46
+p43
 aS'analytic'
-p47
+p44
 aS'report'
-p48
+p45
 aS'modeling'
-p49
+p46
 as.

@@ -2,109 +2,108 @@
 S'skills'
 p2
 (dp3
-S'clustering'
+S'statistical analysis'
 p4
-I1
-sVbayesian network
-p5
-I1
-sS'data analysis'
-p6
-I1
-sS'java'
-p7
-I1
-sS'python'
-p8
-I1
-sS'data'
-p9
-I1
-sS'machine learning'
-p10
-I1
-sS'scikit-learn'
-p11
-I1
-sS'analysis'
-p12
-I1
-sS'research'
-p13
-I1
-sS'mahout'
-p14
-I1
-sS'scipy'
-p15
-I1
-sS'statistical analysis'
-p16
-I1
+F0.019958915917927193
 sS'problem solving'
-p17
-I1
+p5
+F0.019027998953125978
 sS'mysql'
+p6
+F0.018404325013079238
+sS'writing'
+p7
+F0.017419072295213122
+sVpanda
+p8
+F0.034128891543368699
+sS'dimensionality reduction'
+p9
+F0.042241666592728613
+sS'clustering'
+p10
+F0.024987694267877596
+sS'java'
+p11
+F0.0096067206795990966
+sS'research'
+p12
+F0.0066136460593933201
+sS'mahout'
+p13
+F0.033613819774841069
+sS'computer science'
+p14
+F0.010899095063466827
+sS'numpy'
+p15
+F0.027809924814786734
+sS'data analysis'
+p16
+F0.011502031123764847
+sS'python'
+p17
+F0.0040407094011881079
+sS'scipy'
 p18
-I1
+F0.031328586802209596
 sS'weka'
 p19
-I1
-sS'writing'
+F0.030145432776598917
+sS'data'
 p20
-I1
-sS'numpy'
+F0.00091939137887188307
+sS'a'
+F0.014496448787705632
+sVbayesian network
 p21
-I1
-sVpanda
+F0.043521349507721914
+sS'science'
 p22
-I1
-sS'dimensionality reduction'
+F0.0054498751022797861
+sS'scikit-learn'
 p23
-I1
-sS'computer science'
+F0.027809924814786734
+sS'analysis'
 p24
-I1
-ssS'working-year'
+F0.0053119181667306966
+sS'machine learning'
 p25
-(dp26
+F0.0050815327273956538
+ssS'working-year'
+p26
+(dp27
 V(5, 10]
-p27
-I1
-ssS'major'
 p28
-(dp29
-S'machine learning'
-p30
-I1
-sS'computer science'
+F0.0093460795471074325
+ssS'major'
+p29
+(dp30
+VComputer Science
 p31
-I1
-sS'statistic'
-p32
-I1
+F0.0070182615996294394
 ssS'education'
-p33
-(dp34
+p32
+(dp33
 S'Bachelor'
-p35
-I1
+p34
+F0.007064952152479897
 ssS'responsibility'
-p36
-(dp37
+p35
+(dp36
 S'analysis'
-p38
-I1
+p37
+F0.0053119181667306966
 sS'implement'
-p39
-I1
+p38
+F0.032835087986350507
 sS'prototype'
-p40
-I1
+p39
+F0.024443189252323159
 sS'product'
-p41
-I1
+p40
+F0.010426301478432144
 sS'data analysis'
-p42
-I1
+p41
+F0.011502031123764847
 ss.

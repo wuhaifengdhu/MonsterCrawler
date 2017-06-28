@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'management'
 p4
 aS'theory'
 p5
@@ -17,19 +17,19 @@ p9
 aS'engineering'
 p10
 aS'r'
-aS'science'
+aS'data analysis'
 p11
-aS'regression'
+aS'science'
 p12
-aS'manufacturing'
+aS'regression'
 p13
-aS'data'
+aS'manufacturing'
 p14
-aS'research'
+aS'data'
 p15
-aS'validation'
+aS'research'
 p16
-aS'r d'
+aS'validation'
 p17
 asS'working-year'
 p18
@@ -37,40 +37,36 @@ p18
 sS'major'
 p20
 (lp21
-S'information'
+VEngineering
 p22
-aS'business'
+aVComputer Science
 p23
-aS'science'
+aVBusiness
 p24
-aS'machine learning'
+aVManagement Science and Engineering
 p25
-aS'engineering'
-p26
-aS'history'
-p27
 asS'education'
-p28
-(lp29
+p26
+(lp27
 S'Bachelor'
-p30
+p28
 asS'responsibility'
-p31
-(lp32
+p29
+(lp30
 S'development'
-p33
+p31
 aS'information'
-p34
+p32
 aS'data analysis'
-p35
-aS'develop model'
-p36
-aS'communicate'
-p37
-aS'analysis'
-p38
-aS'model'
-p39
+p33
 aVtest hypothesis
-p40
+p34
+aS'communicate'
+p35
+aS'analysis'
+p36
+aS'develop ... model'
+p37
+aS'model'
+p38
 as.

@@ -4,140 +4,146 @@ p2
 (dp3
 S'soa'
 p4
-I1
+F0.01285499695372584
 sS'nosql'
 p5
-I1
+F0.0080732945848569979
 sS'data acquisition'
 p6
-I1
-sS'engineering'
+F0.013584050898078993
+sS'analytics'
 p7
-I1
-sS'research'
-p8
-I1
-sS'microsoft sql server'
-p9
-I1
-sS'big data analytics'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'agile'
-p12
-I1
-sS'storage'
-p13
-I1
-sS'strategy'
-p14
-I1
-sS'access'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'application development'
-p17
-I1
-sS'architecture'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'data quality'
-p20
-I1
-sS'data'
-p21
-I1
-sS'software development'
-p22
-I1
-sS'design patterns'
-p23
-I1
-sS'sql server'
-p24
-I1
-sS'data architecture'
-p25
-I1
-sS'data engineering'
-p26
-I1
-sS'data integration'
-p27
-I1
-sS'data analytics'
-p28
-I1
-ssS'working-year'
-p29
-(dp30
-V(5, 10]
-p31
-I1
-sV(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'business'
-p35
-I1
-sS'big data'
-p36
-I1
-sS'big data analytics'
-p37
-I1
+F0.005131194465979508
 sS'engineering'
-p38
-I1
-sS'design'
-p39
-I1
+p8
+F0.00722628187064103
+sS'research'
+p9
+F0.0050333943460869517
+sS'microsoft sql server'
+p10
+F0.009262915372230205
+sS'big data analytics'
+p11
+F0.0097766050287565794
+sS'big data'
+p12
+F0.0037543514051996091
+sS'agile'
+p13
+F0.0064415630463112369
+sS'storage'
+p14
+F0.011033927913116399
+sS'strategy'
+p15
+F0.0092921028390963705
+sS'access'
+p16
+F0.0068420708704910174
 sS'computer science'
-p40
-I1
-sS'ee computer science'
-p41
-I1
+p17
+F0.0041474432542395892
+sS'application development'
+p18
+F0.011301169325918127
+sS'architecture'
+p19
+F0.025805481093624287
+sS'data scientist'
+p20
+F0.0031249901627253044
+sS'data quality'
+p21
+F0.010427250923853167
+sS'data'
+p22
+F0.0080467086168521454
+sS'software development'
+p23
+F0.0062542673099506563
+sS'design patterns'
+p24
+F0.01440522272536515
+sS'sql server'
+p25
+F0.0082531813253056679
+sS'science'
+p26
+F0.0020738462778586795
+sS'analysis'
+p27
+F0.0010106746954399114
+sS'data architecture'
+p28
+F0.011968948539278179
+sS'data engineering'
+p29
+F0.011813660047396575
+sS'data integration'
+p30
+F0.011417879529296703
+sS'databases'
+p31
+F0.020376090029458321
+sS'organization'
+p32
+F0.0052011322692674961
 sS'data analytics'
+p33
+F0.0060245506828489588
+ssS'working-year'
+p34
+(dp35
+V(5, 10]
+p36
+F0.0035564727480143325
+sV(2, 5]
+p37
+F0.0036547033287054145
+ssS'major'
+p38
+(dp39
+VData Science
+p40
+F0.0030303509811358781
+sVEngineering
+p41
+F0.0066441856246806123
+sVBusiness
 p42
-I1
-ssS'education'
+F0.0031908977792746733
+sVComputer Science
 p43
-(dp44
+F0.0026706659184430612
+ssS'education'
+p44
+(dp45
 VBachelor
-p45
-I1
-sVMaster
 p46
-I1
-ssS'responsibility'
+F0.0026884331199702265
+sVMaster
 p47
-(dp48
+F0.0021453707528736781
+ssS'responsibility'
+p48
+(dp49
 S'development'
-p49
-I1
-sS'design'
 p50
-I1
+F0.0071443126986083698
 sS'product'
 p51
-I1
-sS'understand'
-p52
-I1
+F0.0039675306510847984
 sS'pattern'
+p52
+F0.0077244574500712265
+sS'analysis'
 p53
-I1
+F0.0010106746954399114
+sS'understand'
+p54
+F0.018598936402161727
+sS'design'
+p55
+F0.030156140619850572
 ss.

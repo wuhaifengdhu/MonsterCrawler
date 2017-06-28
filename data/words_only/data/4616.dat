@@ -4,232 +4,214 @@ p2
 (dp3
 S'research design'
 p4
-I1
-sS'supply chain'
-p5
-I1
+F0.010472760857449836
 sS'data scientist'
-p6
-I1
+p5
+F0.0029345475489304107
 sS'problem solving'
-p7
-I1
+p6
+F0.0067994788502860146
 sS'communication'
-p8
-I1
+p7
+F0.0043855106900577744
 sS'energy'
-p9
-I1
+p8
+F0.0085470784101110368
 sS'presentation skills'
-p10
-I1
+p9
+F0.012834988668548007
 sS'engineering'
-p11
-I1
+p10
+F0.0067858990419593056
 sS'operational excellence'
-p12
-I1
-sS'c++'
-p13
-I1
+p11
+F0.016014702521630706
 sS'system design'
-p14
-I1
+p12
+F0.012861752705770236
 sS'data mining'
-p15
-I1
+p13
+F0.0058780590822219876
 sS'writing'
-p16
-I1
+p14
+F0.0062245438395636919
 sS'technical leadership'
-p17
-I1
-sS'management'
-p18
-I1
+p15
+F0.012461772070615789
 sS'big data'
-p19
-I1
+p16
+F0.0035255543666555889
 sS'team building'
-p20
-I1
+p17
+F0.011093714005726977
 sS'predictive modeling'
-p21
-I1
+p18
+F0.0057590191376425759
 sS'product marketing'
-p22
-I1
+p19
+F0.012629705498581403
+sS'integration'
+p20
+F0.0063884851030321672
 sS'research'
-p23
-I1
+p21
+F0.0023633250461543996
 sS'optimization'
-p24
-I1
+p22
+F0.0055401907406884823
 sS'computer science'
-p25
-I1
+p23
+F0.0038946904797429937
 sS'innovation'
-p26
-I1
+p24
+F0.0053623952136695949
 sS'data analysis'
-p27
-I1
+p25
+F0.0041101440857774655
 sS'performance management'
-p28
-I1
+p26
+F0.013144657305024484
 sS'process optimization'
-p29
-I1
+p27
+F0.016570575470692277
+sS'python'
+p28
+F0.0014439100076267756
 sS'marketing'
-p30
-I1
+p29
+F0.0052776025553394699
 sS'collaboration'
-p31
-I1
+p30
+F0.0070849568423087365
 sS'gas'
-p32
-I1
+p31
+F0.012999594927893158
 sS'construction'
-p33
-I1
+p32
+F0.014052979862973649
 sS'mentoring'
-p34
-I1
+p33
+F0.0095294008351217586
 sS'chemical engineering'
-p35
-I1
+p34
+F0.015623904375136588
 sS'modeling'
-p36
-I1
+p35
+F0.002249711049921198
 sS'manufacturing'
-p37
-I1
+p36
+F0.02067954887552249
 sS'software development'
-p38
-I1
+p37
+F0.005873120825687736
 sS'c'
-I1
+F0.0034643266589974996
+sS'science'
+p38
+F0.001947462294166461
 sS'programming'
 p39
-I1
+F0.0030535048056367755
 sS'analysis'
 p40
-I1
+F0.00094908233172889182
 sS'machine learning'
 p41
-I1
+F0.001815838564637228
 sS'time series analysis'
 p42
-I1
+F0.0079712213639877138
 sS'leadership'
 p43
-I1
+F0.004577309200010587
 sS'architecture'
 p44
-I1
+F0.0060582119741957293
 sS'english'
 p45
-I1
+F0.0093571990344972506
 sS'product management'
 p46
-I1
+F0.0086509640416247684
 sS'predictive analytics'
 p47
-I1
+F0.0063781112834592531
 ssS'working-year'
 p48
 (dp49
 V(5, 10]
 p50
-I1
+F0.0033397347966117974
 ssS'major'
 p51
 (dp52
-S'information'
+VBusiness
 p53
-I1
-sS'management'
+F0.0029964386348313413
+sVData Science
 p54
-I1
-sS'business'
+F0.0028456758520915863
+sVEconomics
 p55
-I1
-sS'big data'
+F0.0045450735388489222
+sVEngineering
 p56
-I1
-sS'marketing'
+F0.0067858990419593056
+sVChemical Engineering
 p57
-I1
-sS'english'
+F0.010416571927241538
+sVManagement Science and Engineering
 p58
-I1
-sS'communication'
+F0.0035721455359249096
+sVComputer Science
 p59
-I1
-sS'machine learning'
-p60
-I1
-sS'engineering'
-p61
-I1
-sS'design'
-p62
-I1
-sS'chemical engineering'
-p63
-I1
-sS'data mining'
-p64
-I1
-sS'phd'
-p65
-I1
-sS'predictive analytics'
-p66
-I1
-sS'computer science'
-p67
-I1
+F0.002507910654715229
 ssS'education'
-p68
-(dp69
-VDoctor
-p70
-I1
+p60
+(dp61
+VMaster
+p62
+F0.0020146279369090774
+sVDoctor
+p63
+F0.0030171240215414626
 ssS'responsibility'
-p71
-(dp72
+p64
+(dp65
 S'development'
-p73
-I1
+p66
+F0.0033544626105654258
 sS'information'
-p74
-I1
+p67
+F0.0038423966745966607
 sS'product'
-p75
-I1
+p68
+F0.011177226238651635
 sS'data analysis'
-p76
-I1
+p69
+F0.0041101440857774655
 sS'analysis'
-p77
-I1
+p70
+F0.00094908233172889182
 sS'optimization'
-p78
-I1
+p71
+F0.0055401907406884823
 sS'design'
-p79
-I1
+p72
+F0.0040454814681952292
 sS'data mining'
-p80
-I1
+p73
+F0.0058780590822219876
 sS'modeling'
-p81
-I1
+p74
+F0.002249711049921198
 sS'model'
-p82
-I1
+p75
+F0.0042864566257663182
 sS'presentation'
-p83
-I1
+p76
+F0.006823696239084783
+sS'transformation'
+p77
+F0.0087104075770993526
 ss.

@@ -4,223 +4,214 @@ p2
 (dp3
 S'processing'
 p4
-I1
+F0.0050560002683304028
 sS'characterization'
 p5
-I1
-sS'engineering'
-p6
-I1
-sS'statistical analysis'
-p7
-I1
-sS'education'
-p8
-I1
-sS'clustering'
-p9
-I1
-sS'genetics'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'statistical computing'
-p12
-I1
-sS'anova'
-p13
-I1
-sS'research'
-p14
-I1
-sS'cell'
-p15
-I1
-sS'mixed model'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'medicine'
-p18
-I1
-sS'mathematics'
-p19
-I1
-sS'drug discovery'
-p20
-I1
-sS'computer science'
-p21
-I1
+F0.014625213856395489
 sS'statistical data analysis'
-p22
-I1
-sS'data analysis'
-p23
-I1
-sS'theory'
-p24
-I1
-sS'dna'
-p25
-I1
-sS'team leadership'
-p26
-I1
-sS'machine learning'
-p27
-I1
-sS'leadership'
-p28
-I1
-sS'bioinformatics'
-p29
-I1
-sS'sequencing'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'manufacturing'
-p32
-I1
-sS'software development'
-p33
-I1
-sS'object oriented design'
-p34
-I1
-sS'cloud computing'
-p35
-I1
-sS'analysis'
-p36
-I1
-sS'simulation'
-p37
-I1
+p6
+F0.0095780449866960677
+sS'analytics'
+p7
+F0.0026926856408158719
+sS'engineering'
+p8
+F0.0075842401057192241
+sS'statistical analysis'
+p9
+F0.0079712079053021918
+sS'education'
+p10
+F0.012994592878100739
+sS'clustering'
+p11
+F0.0099796054506384214
+sS'statistics'
+p12
+F0.0028870367021752467
+sS'genetics'
+p13
+F0.01202540280222569
+sS'big data'
+p14
+F0.0039403254686150701
+sS'statistical computing'
+p15
+F0.015118794129717604
+sS'anova'
+p16
+F0.015946388537167493
+sS'research'
+p17
+F0.0026413632868784466
+sS'cell'
+p18
+F0.026632147978415371
 sS'r'
-I1
-sS'biotechnology'
+F0.0017182424353372793
+sS'computer science'
+p19
+F0.0043528893597127574
+sS'innovation'
+p20
+F0.0059932652388071947
+sS'medicine'
+p21
+F0.015080806516351937
+sS'mathematics'
+p22
+F0.0056591123284080681
+sS'drug discovery'
+p23
+F0.017008131783538015
+sS'biology'
+p24
+F0.010517995555199682
+sS'data analysis'
+p25
+F0.004593690448810109
+sS'theory'
+p26
+F0.0090726818900103267
+sS'dna'
+p27
+F0.014592795260752413
+sS'python'
+p28
+F0.0016137817732299257
+sS'team leadership'
+p29
+F0.010300945598820449
+sS'machine learning'
+p30
+F0.0020294666310651374
+sS'leadership'
+p31
+F0.0051158161647177156
+sS'architectures'
+p32
+F0.01486217801367109
+sS'bioinformatics'
+p33
+F0.020181159691968764
+sS'sequencing'
+p34
+F0.015275584714608787
+sS'modeling'
+p35
+F0.0050287658762944425
+sS'manufacturing'
+p36
+F0.011556218489262568
+sS'software development'
+p37
+F0.0065640762169451167
+sS'object oriented design'
 p38
-I1
-sS'validation'
+F0.01390195529813051
+sS'cloud computing'
 p39
-I1
-sVbayesian statistic
+F0.010023518992934509
+sS'analysis'
 p40
-I1
-sS'predictive analytics'
+F0.0021214781532763465
+sS'simulation'
 p41
-I1
-ssS'working-year'
+F0.0083121851011590461
+sS'optimization'
 p42
-(dp43
-V(5, 10]
+F0.006191977886651834
+sS'science'
+p43
+F0.0021765755052448681
+sS'biotechnology'
 p44
-I1
-sV(0, 2]
+F0.013654147951597077
+sS'validation'
 p45
-I1
-sV(2, 5]
+F0.0097893569816566474
+sS'predictive analytics'
 p46
-I1
-ssS'major'
+F0.0071284773168074009
+ssS'working-year'
 p47
 (dp48
-S'genetics'
+sS'major'
 p49
-I1
-sS'big data'
-p50
-I1
-sS'statistical computing'
+(dp50
+VStatistics
 p51
-I1
-sS'bioinformatics'
+F0.0055774141482603104
+sVData Science
 p52
-I1
-sS'machine learning'
+F0.0031804612464553027
+sVEngineering
 p53
-I1
-sS'engineering'
+F0.0075842401057192241
+sVComputer Science
 p54
-I1
-sS'biotechnology'
+F0.002802958967034668
+sVBiological Engineering
 p55
-I1
-sS'design'
+F0.0081430209921878969
+sVMathematics
 p56
-I1
-sS'computer science'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'medicine'
-p59
-I1
-sS'mathematics'
-p60
-I1
-sS'phd'
-p61
-I1
-sVphysic
-p62
-I1
-sS'predictive analytics'
-p63
-I1
+F0.005307345292824929
 ssS'education'
-p64
-(dp65
-VDoctor
-p66
-I1
+p57
+(dp58
+VBachelor
+p59
+F0.0028216062776158105
+sVMaster
+p60
+F0.0022516429883101454
+sVDoctor
+p61
+F0.0033720797887816351
 ssS'responsibility'
-p67
-(dp68
+p62
+(dp63
 S'development'
-p69
-I1
+p64
+F0.0037491052706319465
+sS'information'
+p65
+F0.0042944433421962681
 sS'data analysis'
-p70
-I1
-sVinsight
-p71
-I1
+p66
+F0.004593690448810109
+sS'insight'
+p67
+F0.01136156876786059
 sS'understand'
-p72
-I1
-sS'processing'
-p73
-I1
-sS'analysis'
-p74
-I1
-sS'simulation'
-p75
-I1
-sS'design'
-p76
-I1
-sS'design experiment'
-p77
-I1
-sS'report'
-p78
-I1
-sS'modeling'
-p79
-I1
+p68
+F0.0065067486484342895
 sS'presentation'
-p80
-I1
+p69
+F0.0076264840319182877
+sS'processing'
+p70
+F0.0050560002683304028
+sS'analysis'
+p71
+F0.0021214781532763465
+sS'simulation'
+p72
+F0.0083121851011590461
+sS'optimization'
+p73
+F0.006191977886651834
+sS'design'
+p74
+F0.0090428409289069825
+sS'report'
+p75
+F0.0064250043968186663
+sS'modeling'
+p76
+F0.0050287658762944425
+sS'design ... experiment'
+p77
+F0.01390195529813051
 ss.

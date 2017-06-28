@@ -1,5 +1,5 @@
-skills: {'training': 1, 'testing': 1, 'government': 1, 'communication': 1, 'documentation': 1, 'data scientist': 1, 'integration': 1, 'engineering': 1, 'data management': 1, 'dashboard': 1, 'policy': 1, 'military': 1, 'security': 1, 'data': 1, 'data analytics': 1, 'project management': 1}
-working-year: {u'(5, 10]': 1}
-major: {'communication': 1, 'data analyst': 1, 'engineering': 1, 'design': 1, 'project management': 1, 'data analytics': 1}
-education: {u'Bachelor': 1}
-responsibility: {'product': 1, 'pattern': 1, 'documentation': 1, 'analytic': 1, 'design': 1, 'report': 1}
+skills: {'a': 0.00869786927262338, 'visualization': 0.008717652427599858, 'training': 0.02189111396299841, 'documentation': 0.013485771902065258, 'government': 0.012126137281995186, 'communication': 0.0073635784144691, 'testing': 0.00952268844139541, 'data scientist': 0.004927310070529666, 'integration': 0.01072671219625401, 'access': 0.010788195465564906, 'analytics': 0.004045290520853612, 'engineering': 0.011393997926266554, 'project management': 0.008843968945695562, 'organization': 0.008200855066426423, 'policy': 0.012696084781584882, 'military': 0.017361202660613067, 'security': 0.030493267196090117, 'data': 0.004964713445908169, 'data analytics': 0.009499175262724638, 'data management': 0.012790316765624515, 'dashboard': 0.032617683433670185}
+working-year: {u'(5, 10]': 0.0056076477282644595}
+major: {u'Data Science': 0.004778088291186338, u'Engineering': 0.011393997926266554, u'Management Science and Engineering': 0.005997881574273918}
+education: {u'Bachelor': 0.004238971291487938}
+responsibility: {'product': 0.006255780887059287, 'pattern': 0.01217949337476347, 'documentation': 0.013485771902065258, 'analytic': 0.010501051033951827, 'design': 0.006792645627992919, 'report': 0.009652448465918274, 'decision making': 0.015193409534555877}

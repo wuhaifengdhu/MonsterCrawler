@@ -4,172 +4,177 @@ p2
 (dp3
 S'analytics'
 p4
-I1
+F0.013380576338208102
 sS'engineering'
 p5
-I1
+F0.0047109799118217489
 sS'mathematical modeling'
 p6
-I1
+F0.0091546141551643954
 sS'strategy'
 p7
-I1
+F0.0060577362739493651
 sS'econometrics'
 p8
-I1
+F0.011797148306693234
 sS'experimentation'
 p9
-I1
-sS'management'
+F0.027700658302091376
+sS'statistics'
 p10
-I1
+F0.0035865879030869408
 sS'psychology'
 p11
-I1
+F0.017144392739886785
 sS'research'
 p12
-I1
-sS'mathematics'
+F0.0032813859294682241
+sS'sas'
 p13
-I1
-sS'customer satisfaction'
+F0.0053278340641439107
+sS'mathematics'
 p14
-I1
-sS'python'
+F0.0070303587772146377
+sS'customer satisfaction'
 p15
-I1
-sS'business process'
+F0.017400895150285756
+sS'python'
 p16
-I1
-sS'sql'
+F0.0020048135105894846
+sS'marketing'
 p17
-I1
-sS'modeling'
+F0.0073277481633751878
+sS'business process'
 p18
-I1
-sS'data'
+F0.011751088190460602
+sS'management'
 p19
-I1
-sS'training'
+F0.0034848033353832779
+sS'sql'
 p20
-I1
-sS'data visualization'
+F0.0026228609955117198
+sS'modeling'
 p21
-I1
-sS'quantitative research'
+F0.0031236372654675098
+sS'data'
 p22
-I1
-sS'analysis'
+F0.0009123191374959456
+sS'a'
+F0.0071924688215924109
+sS'training'
 p23
-I1
-sS'machine learning'
+F0.018102267315556378
+sS'data visualization'
 p24
-I1
-sS'r'
-I1
-sS'scripting'
+F0.0075643600983830803
+sS'quantitative research'
 p25
-I1
-sS'validation'
+F0.013474194769914462
+sS'analysis'
 p26
-I1
-sS'data analytics'
+F0.0013177643144389613
+sS'machine learning'
 p27
-I1
-sS'predictive analytics'
+F0.0025212220070539976
+sS'r'
+F0.0021345857946690047
+sS'scripting'
 p28
-I1
-ssS'working-year'
+F0.0093580168363333206
+sS'validation'
 p29
-(dp30
-V(2, 5]
+F0.012161393481058064
+sS'data analytics'
+p30
+F0.0078550872364838362
+sS'predictive analytics'
 p31
-I1
-ssS'major'
+F0.0088557622051107319
+ssS'working-year'
 p32
 (dp33
-S'management'
+V(2, 5]
 p34
-I1
-sS'psychology'
+F0.004765170878581291
+ssS'major'
 p35
-I1
-sS'business'
-p36
-I1
-sS'machine learning'
+(dp36
+VStatistics
 p37
-I1
-sS'analytics'
+F0.0069288644995695392
+sVPsychology
 p38
-I1
-sS'engineering'
+F0.017933465427778395
+sVBusiness
 p39
-I1
-sS'design'
+F0.0041604397968235162
+sVData Science
 p40
-I1
-sS'statistic'
+F0.0039511114715579335
+sVEconomics
 p41
-I1
-sS'mathematics'
+F0.0063106597981710038
+sVEngineering
 p42
-I1
-sS'phd'
+F0.0047109799118217489
+sVComputer Science
 p43
-I1
-sS'econometrics'
+F0.0034821374859699914
+sVMathematics
 p44
-I1
-sS'data analytics'
+F0.0065933558830094307
+sVManagement Science and Engineering
 p45
-I1
-sS'predictive analytics'
-p46
-I1
+F0.0049597866864188175
 ssS'education'
-p47
-(dp48
-VDoctor
+p46
+(dp47
+VMaster
+p48
+F0.0027972334047083728
+sVDoctor
 p49
-I1
+F0.0041891606606787235
 ssS'responsibility'
 p50
 (dp51
-Vtest hypothesis
+S'product'
 p52
-I1
+F0.0051730495796836412
 sS'extract'
 p53
-I1
-sVinsight
+F0.011898878964241653
+sVtest hypothesis
 p54
-I1
-sS'analysis'
+F0.01855181857573519
+sS'design ... experiment'
 p55
-I1
-sS'improvement'
+F0.017270506004985212
+sS'insight'
 p56
-I1
-sS'design'
+F0.028229128553992081
+sS'analysis'
 p57
-I1
-sS'design experiment'
+F0.0013177643144389613
+sS'improvement'
 p58
-I1
-sS'recommendation'
+F0.020663126894916214
+sS'design'
 p59
-I1
-sS'understand'
+F0.016850986269443972
+sS'recommendation'
 p60
-I1
-sS'modeling'
+F0.020093859575525164
+sS'understand'
 p61
-I1
-sS'prototype'
+F0.016166767795725196
+sS'modeling'
 p62
-I1
-sS'presentation'
+F0.0031236372654675098
+sS'prototype'
 p63
-I1
+F0.012127582359806491
+sS'presentation'
+p64
+F0.0094744397781138731
 ss.

@@ -2,112 +2,111 @@
 S'skills'
 p2
 (dp3
-S'retail'
+S'energy'
 p4
-I1
-sS'apache spark'
+F0.018813995768598074
+sS'data mining'
 p5
-I1
-sS'apis'
+F0.01293889834562279
+sS'telecommunications'
 p6
-I1
-sS'data science'
+F0.027586784994355466
+sS'statistics'
 p7
-I1
-sS'documentation'
-p8
-I1
-sS'data scientist'
-p9
-I1
+F0.0056860539926988085
 sS'hadoop'
-p10
-I1
-sS'hive'
-p11
-I1
+p8
+F0.0078341859841436889
 sS'research'
-p12
-I1
-sS'banking'
-p13
-I1
-sS'healthcare'
-p14
-I1
-sS'financial services'
-p15
-I1
-sS'data mining'
-p16
-I1
-sS'apache'
-p17
-I1
-sS'spark'
-p18
-I1
-sS'machine learning'
-p19
-I1
-sS'data analytics'
-p20
-I1
-sS'artificial intelligence'
-p21
-I1
-ssS'working-year'
-p22
-(dp23
-V[0]
-p24
-I1
-ssS'major'
-p25
-(dp26
-S'telecommunication'
-p27
-I1
+p9
+F0.0052021972052545022
 sS'data science'
-p28
-I1
-sS'data mining'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'data analytics'
-p31
-I1
-sS'machine learning artificial intelligence'
-p32
-I1
-sS'statistic'
-p33
-I1
+p10
+F0.0073343958881743852
 sS'artificial intelligence'
-p34
-I1
-sS'data mining machine learning'
-p35
-I1
-ssS'education'
-p36
-(dp37
-S'Bachelor'
-p38
-I1
-ssS'responsibility'
-p39
-(dp40
-Vinsight
-p41
-I1
+p11
+F0.016875710732163204
+sS'apis'
+p12
+F0.022435459549613714
+sS'data scientist'
+p13
+F0.00645958332416999
+sS'apache spark'
+p14
+F0.016021983490182561
+sS'apache'
+p15
+F0.013799401027695297
+sS'spark'
+p16
+F0.010281314776314991
+sS'data'
+p17
+F0.0014463596082252795
+sS'a'
+F0.01140269447325626
+sS'science'
+p18
+F0.0042867920011834901
 sS'documentation'
-p42
-I1
+p19
+F0.017679518042341649
+sS'hive'
+p20
+F0.012718013716402479
+sS'machine learning'
+p21
+F0.0039970592794758494
+sS'banking'
+p22
+F0.020940853161941192
+sS'financial services'
+p23
+F0.025780308914025798
+sS'healthcare'
+p24
+F0.016446587459208319
+sS'retail'
+p25
+F0.021011960270832453
+sS'data analytics'
+p26
+F0.01245318708223047
+ssS'working-year'
+p27
+(dp28
+S'[0]'
+p29
+F0.013391553235026724
+ssS'major'
+p30
+(dp31
+VData Science
+p32
+F0.0062639572110064793
+sVStatistics
+p33
+F0.010984785182244392
+sVComputer Science
+p34
+F0.0055204618680012056
+ssS'education'
+p35
+(dp36
+S'Bachelor'
+p37
+F0.0055571879735969928
+ssS'responsibility'
+p38
+(dp39
+S'insight'
+p40
+F0.011188374122009057
+sS'documentation'
+p41
+F0.017679518042341649
 sS'data mining'
-p43
-I1
+p42
+F0.01293889834562279
 ss.

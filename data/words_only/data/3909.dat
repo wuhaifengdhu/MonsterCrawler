@@ -4,196 +4,205 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.010344276863127578
 sS'communication'
 p5
-I1
+F0.0047685824069604111
 sS'data science'
 p6
-I1
+F0.003623014836327106
 sS'pig'
 p7
-I1
+F0.008128398117818951
 sS'analytics'
 p8
-I1
+F0.0026196911505527911
 sS'unix'
 p9
-I1
+F0.0077773758698344879
 sS'analysis'
 p10
-I1
+F0.0020639682033381321
 sS'problem solving'
 p11
-I1
-sS'strategy'
+F0.0073934092317869014
+sS'sas'
 p12
-I1
-sS'java'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'hadoop'
-p15
-I1
+F0.004172400170715111
 sS'writing'
+p13
+F0.0067682539942243766
+sS'education'
+p14
+F0.0063211649090761119
+sS'research'
+p15
+F0.0025697600652461999
+sS'management'
 p16
-I1
-sS'quality assurance'
+F0.0027290628530110008
+sS'java'
 p17
-I1
-sS'natural language processing'
+F0.0074654636606523109
+sS'predictive modeling'
 p18
-I1
-sS'mathematics'
+F0.0062620659900270177
+sS'hadoop'
 p19
-I1
-sS'data analysis'
+F0.0038698991006010991
+sS'strategy'
 p20
-I1
-sS'data modeling'
+F0.0047440103350205876
+sS'quality assurance'
 p21
-I1
-sS'business analysis'
-p22
-I1
-sS'python'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'mapreduce'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'data'
-p27
-I1
-sS'svm'
-p28
-I1
-sS'data visualization'
-p29
-I1
-sS'economics'
-p30
-I1
-sS'programming'
-p31
-I1
-sS'engineering'
-p32
-I1
-sS'hive'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'r'
-I1
-sS'logistic regression'
-p35
-I1
-sS'statistical analysis'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(5, 10]
-p39
-I1
-sV(2, 5]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'business analysis'
-p43
-I1
-sS'business'
-p44
-I1
-sS'management science'
-p45
-I1
-sS'communication'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'economics'
-p48
-I1
-sS'machine learning'
-p49
-I1
-sS'analytics'
-p50
-I1
-sS'engineering'
-p51
-I1
+F0.011754680331003162
 sS'natural language processing'
-p52
-I1
-sS'statistic'
-p53
-I1
+p22
+F0.0075480666625310326
 sS'mathematics'
-p54
-I1
-ssS'education'
-p55
-(dp56
-VMaster
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'product'
-p61
-I1
+p23
+F0.0055057026568548374
 sS'data analysis'
-p62
-I1
-sVinsight
-p63
-I1
-sS'extract'
-p64
-I1
+p24
+F0.0044691626956797148
+sS'data modeling'
+p25
+F0.0078680775446333482
+sS'business analysis'
+p26
+F0.0080377475911965479
+sS'python'
+p27
+F0.0031400693539353373
 sS'processing'
-p65
-I1
-sS'analysis'
-p66
-I1
-sS'analytic'
-p67
-I1
-sS'report'
-p68
-I1
+p28
+F0.0049189400200925302
+sS'mapreduce'
+p29
+F0.0079418720390238579
 sS'modeling'
+p30
+F0.0024462219548841944
+sS'data'
+p31
+F0.0032151005749104103
+sS'svm'
+p32
+F0.0134507205696652
+sS'data visualization'
+p33
+F0.0059238964625891594
+sS'science'
+p34
+F0.0021175719523918446
+sS'economics'
+p35
+F0.0072183488685525947
+sS'programming'
+p36
+F0.0066404532218968431
+sS'engineering'
+p37
+F0.0036893216176917308
+sS'hive'
+p38
+F0.0062823923177409841
+sS'machine learning'
+p39
+F0.0019744509693796364
+sS'r'
+F0.0033433271482767543
+sS'algorithms'
+p40
+F0.0054041315613411267
+sS'logistic regression'
+p41
+F0.0098613339662998317
+sS'statistical analysis'
+p42
+F0.00775512094401388
+ssS'working-year'
+p43
+(dp44
+V(5, 10]
+p45
+F0.003631458619207406
+sV(2, 5]
+p46
+F0.003731760326599806
+ssS'major'
+p47
+(dp48
+VBusiness
+p49
+F0.0032581757445003441
+sVData Science
+p50
+F0.0030942439235092248
+sVEconomics
+p51
+F0.004942082974471268
+sVEngineering
+p52
+F0.0036893216176917308
+sVComputer Science
+p53
+F0.0027269751396150534
+sVMathematics
+p54
+F0.0051634714746459399
+sVManagement Science and Engineering
+p55
+F0.0038841702965930498
+ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0027451169508129723
+sVMaster
+p59
+F0.0021906044735667978
+ssS'responsibility'
+p60
+(dp61
+S'development'
+p62
+F0.0036474728988377071
+sS'product'
+p63
+F0.0040511834057763456
+sS'data analysis'
+p64
+F0.0044691626956797148
+sS'insight'
+p65
+F0.0055267872168960402
+sS'extract'
+p66
+F0.0093183991888639451
+sS'processing'
+p67
+F0.0049189400200925302
+sS'analysis'
+p68
+F0.0020639682033381321
+sS'analytic'
 p69
-I1
-sS'model'
+F0.0068003794346374784
+sS'report'
 p70
-I1
-sS'presentation'
+F0.0062508325908808109
+sS'modeling'
 p71
-I1
+F0.0024462219548841944
+sS'model'
+p72
+F0.023304380149121097
+sS'presentation'
+p73
+F0.0074197419949084539
+sS'validate ... model'
+p74
+F0.015767367913678196
 ss.

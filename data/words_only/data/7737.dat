@@ -4,207 +4,183 @@ p2
 (dp3
 S'communication'
 p4
-I1
-sS'engineering'
+F0.0035818311292100829
+sS'analytics'
 p5
-I1
-sS'security clearance'
+F0.0019677318144423681
+sS'engineering'
 p6
-I1
-sS'problem solving'
+F0.0083134939620383794
+sS'security clearance'
 p7
-I1
-sS'data mining'
+F0.0082665621566942755
+sS'problem solving'
 p8
-I1
-sS'laboratory'
+F0.0055534205089440075
+sS'data mining'
 p9
-I1
-sS'education'
+F0.0048008582096880949
+sS'laboratory'
 p10
-I1
-sS'management'
+F0.028610170744825039
+sS'education'
 p11
-I1
-sS'java'
+F0.0047480243208445011
+sS'management'
 p12
-I1
-sS'research'
+F0.0020498843149313398
+sS'java'
 p13
-I1
-sS'access'
+F0.0028037714200639901
+sS'research'
 p14
-I1
-sS'r'
-I1
-sS'matlab'
+F0.0057906810520027482
+sS'access'
 p15
-I1
-sS'innovation'
+F0.0052476516404897176
+sS'r'
+F0.0012556387027464733
+sS'matlab'
 p16
-I1
-sS'mathematics'
+F0.0028877854923938118
+sS'innovation'
 p17
-I1
-sS'artificial intelligence'
+F0.004379693828359104
+sS'mathematics'
 p18
-I1
-sS'computer science'
+F0.0082710103261348679
+sS'artificial intelligence'
 p19
-I1
-sS'government'
+F0.0062615759277709626
+sS'computer science'
 p20
-I1
-sS'python'
+F0.0031809576090208614
+sS'government'
 p21
-I1
-sS'data scientist'
+F0.011796920885198939
+sS'python'
 p22
-I1
-sS'electrical engineering'
+F0.0011793020650526381
+sS'data scientist'
 p23
-I1
-sS'c'
-I1
-sS'pattern recognition'
+F0.0023967684732214443
+sS'electrical engineering'
 p24
-I1
-sS'national security'
+F0.008969740007644382
+sS'data'
 p25
-I1
-sS'science'
+F0.00080498747426112837
+sS'c'
+F0.0028294613662852883
+sS'pattern recognition'
 p26
-I1
-sS'analysis'
+F0.0072247821467911573
+sS'national security'
 p27
-I1
-sS'machine learning'
+F0.0095082652212943042
+sS'science'
 p28
-I1
-sS'optimization'
+F0.0047717232230368263
+sS'analysis'
 p29
-I1
-sS'organization'
+F0.00077515547908174197
+sS'machine learning'
 p30
-I1
-sS'security'
+F0.0014830717688552927
+sS'optimization'
 p31
-I1
-sS'data analytics'
+F0.0090498138343372957
+sS'organization'
 p32
-I1
-sS'statistical analysis'
+F0.0039891037087820842
+sS'security'
 p33
-I1
-ssS'working-year'
+F0.0098884652295013215
+sS'physics'
 p34
-(dp35
-V[0]
+F0.022018863144313696
+sS'data analytics'
+p35
+F0.0046206395508728449
+sS'statistical analysis'
 p36
-I1
-ssS'major'
+F0.0058251134692592944
+ssS'working-year'
 p37
 (dp38
-S'electrical engineering'
+S'[0]'
 p39
-I1
-sS'information'
+F0.0049688116075664772
+ssS'major'
 p40
-I1
-sS'mathematics physics'
-p41
-I1
-sS'management'
+(dp41
+VBusiness
 p42
-I1
-sS'business'
+F0.0024473175275432448
+sVData Science
 p43
-I1
-sS'applied physics'
+F0.0023241832185634903
+sVElectrical and Electronics Engineering
 p44
-I1
-sS'communication'
+F0.007119069220305389
+sVEngineering
 p45
-I1
-sS'computer engineering'
+F0.0083134939620383794
+sVComputer Science
 p46
-I1
-sS'machine learning data mining'
+F0.0020483161682176422
+sVMathematics
 p47
-I1
-sS'engineering'
+F0.0038784446370643713
+sVPhysics
 p48
-I1
-sS'machine learning'
+F0.0059360454778282596
+sVManagement Science and Engineering
 p49
-I1
-sS'computer science'
-p50
-I1
-sS'machine learning artificial intelligence'
-p51
-I1
-sS'data mining'
-p52
-I1
-sVphysic
-p53
-I1
-sS'mathematics'
-p54
-I1
-sS'computer science mathematics'
-p55
-I1
-sS'data analytics'
-p56
-I1
-sS'artificial intelligence'
-p57
-I1
-sS'science'
-p58
-I1
+F0.0029175215802463633
 ssS'education'
-p59
-(dp60
+p50
+(dp51
 VBachelor
-p61
-I1
+p52
+F0.0020619430490269384
+sVMaster
+p53
+F0.0016454314145343369
 ssS'responsibility'
-p62
-(dp63
+p54
+(dp55
 S'development'
-p64
-I1
-sS'large data set'
-p65
-I1
+p56
+F0.0054794615493851525
 sS'information'
-p66
-I1
+p57
+F0.0031382470577588114
+sS'large data set'
+p58
+F0.0071141564147802414
 sS'pattern'
-p67
-I1
+p59
+F0.0059244141981315522
 sS'analysis'
-p68
-I1
+p60
+F0.00077515547908174197
 sS'analytic'
-p69
-I1
+p61
+F0.0051079773128951201
 sS'optimization'
-p70
-I1
+p62
+F0.0090498138343372957
 sS'data mining'
-p71
-I1
+p63
+F0.0048008582096880949
 sS'model'
-p72
-I1
+p64
+F0.0035009295065647986
 sS'prototype'
-p73
-I1
+p65
+F0.01426774395271352
 sS'presentation'
-p74
-I1
+p66
+F0.0055731998694787486
 ss.

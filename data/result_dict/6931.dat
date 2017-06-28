@@ -2,9 +2,9 @@
 S'skills'
 p2
 (lp3
-S'storage'
+S'ip'
 p4
-aS'communication'
+aS'tcp'
 p5
 aS'engineering'
 p6
@@ -18,92 +18,85 @@ aS'management'
 p10
 aS'networking'
 p11
-aS'saas'
+aS'storage'
 p12
-aS'excel'
+aS'saas'
 p13
-aS'perl'
+aS'excel'
 p14
-aS'access'
+aS'perl'
 p15
-aS'computer science'
+aS'access'
 p16
-aS'innovation'
-p17
-aS'systems engineering'
-p18
-aS'product development'
-p19
-aS'python'
-p20
-aS'data scientist'
-p21
-aS'technical documentation'
-p22
-aS'data'
-p23
-aS'b2b'
-p24
-aS'bash'
-p25
-aS'itil'
-p26
-aS'science'
-p27
-aS'documentation'
-p28
-aS'architecture'
-p29
-aS'scripting'
-p30
-asS'working-year'
-p31
-(lp32
-V(15, 20]
-p33
-asS'major'
-p34
-(lp35
-S'systems engineering'
-p36
-aS'information'
-p37
-aS'management'
-p38
-aS'business'
-p39
-aS'science'
-p40
-aS'engineering'
-p41
-aS'design'
-p42
 aS'computer science'
-p43
-aS'communication'
-p44
-aS'ee computer science'
-p45
-asS'education'
-p46
-(lp47
-VBachelor
-p48
-asS'responsibility'
-p49
-(lp50
-S'development'
-p51
-aS'information'
-p52
-aS'product'
-p53
+p17
+aS'innovation'
+p18
+aS'systems engineering'
+p19
+aS'product development'
+p20
+aS'python'
+p21
+aS'data scientist'
+p22
+aS'technical documentation'
+p23
+aS'data'
+p24
+aS'b2b'
+p25
+aS'bash'
+p26
+aS'a'
+aS'itil'
+p27
+aS'science'
+p28
 aS'documentation'
-p54
+p29
+aS'command'
+p30
+aS'architecture'
+p31
+aS'scripting'
+p32
+asS'working-year'
+p33
+(lp34
+V(15, 20]
+p35
+asS'major'
+p36
+(lp37
+VEngineering
+p38
+aVComputer Science
+p39
+aVBusiness
+p40
+aVManagement Science and Engineering
+p41
+asS'education'
+p42
+(lp43
+VBachelor
+p44
+asS'responsibility'
+p45
+(lp46
+S'development'
+p47
+aS'information'
+p48
+aS'product'
+p49
+aS'documentation'
+p50
 aS'design'
-p55
+p51
 aS'interface'
-p56
+p52
 aS'presentation'
-p57
+p53
 as.

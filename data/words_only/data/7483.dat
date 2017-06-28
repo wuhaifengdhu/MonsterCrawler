@@ -4,258 +4,242 @@ p2
 (dp3
 S'statistical modeling'
 p4
-I1
+F0.0038690400004112234
 sS'nosql'
 p5
-I1
+F0.0059111163375086878
 sS'intelligence'
 p6
-I1
+F0.0033910553129304086
 sS'data science'
 p7
-I1
+F0.0025979285651416832
 sS'linux'
 p8
-I1
+F0.0039872095848795452
 sS'intelligence analysis'
 p9
-I1
+F0.010494555589036773
 sS'hadoop'
 p10
-I1
-sS'business intelligence'
+F0.0027749600462193629
+sS'analytics'
 p11
-I1
-sS'defense'
+F0.0037569652785465514
+sS'business intelligence'
 p12
-I1
-sS'dod'
+F0.0044126205373097652
+sS'defense'
 p13
-I1
-sS'data mining'
+F0.0076277281942294566
+sS'dod'
 p14
-I1
-sS'neo4j'
+F0.018235770873760295
+sS'data mining'
 p15
-I1
-sS'education'
+F0.0045831087012573168
+sS'sas'
 p16
-I1
-sS'xml'
+F0.0029918722606423688
+sS'neo4j'
 p17
-I1
-sS'visualization'
+F0.010113826114427576
+sS'education'
 p18
-I1
-sS'management'
+F0.0045326711659033894
+sS'xml'
 p19
-I1
-sS'anomaly detection'
+F0.0071142827547637025
+sS'visualization'
 p20
-I1
-sS'integration'
-p21
-I1
-sS'writing'
-p22
-I1
-sS'json'
-p23
-I1
-sS'computer science'
-p24
-I1
-sS'information security'
-p25
-I1
-sS'algorithm development'
-p26
-I1
-sS'data management'
-p27
-I1
-sS'clustering'
-p28
-I1
-sS'data analysis'
-p29
-I1
-sS'government'
-p30
-I1
-sS'python'
-p31
-I1
-sS'processing'
-p32
-I1
-sS'data scientist'
-p33
-I1
-sS'aerospace'
-p34
-I1
-sS'sql'
-p35
-I1
-sS'modeling'
-p36
-I1
-sS'data'
-p37
-I1
-sS'information technology'
-p38
-I1
-sS'c'
-I1
-sS'pattern recognition'
-p39
-I1
-sS'data visualization'
-p40
-I1
-sS'risk assessment'
-p41
-I1
-sS'security clearance'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'information assurance'
-p44
-I1
-sS'r'
-I1
-sS'security'
-p45
-I1
-sS'analysis'
-p46
-I1
-sS'data analytics'
-p47
-I1
-sS'predictive analytics'
-p48
-I1
-ssS'working-year'
-p49
-(dp50
-V(0, 2]
-p51
-I1
-sV(2, 5]
-p52
-I1
-ssS'major'
-p53
-(dp54
-S'information'
-p55
-I1
+F0.0080963078701251374
 sS'management'
-p56
-I1
-sS'business'
-p57
-I1
-sS'data science'
-p58
-I1
-sS'data mining'
-p59
-I1
-sS'machine learning'
-p60
-I1
-sS'design'
-p61
-I1
+p21
+F0.0019569090004312143
+sS'anomaly detection'
+p22
+F0.0094924892077399795
+sS'integration'
+p23
+F0.0049810866570078023
+sS'writing'
+p24
+F0.004853262043374715
+sS'json'
+p25
+F0.0084794247877611143
 sS'computer science'
-p62
-I1
-sS'statistic'
-p63
-I1
-sS'machine learning data mining'
-p64
-I1
-sS'data analytics'
-p65
-I1
-sS'information technology'
-p66
-I1
-sS'predictive analytics'
-p67
-I1
-ssS'education'
-p68
-(dp69
-VBachelor
-p70
-I1
-sVMaster
-p71
-I1
-ssS'responsibility'
-p72
-(dp73
-S'development'
-p74
-I1
-sS'large data set'
-p75
-I1
-sS'processing'
-p76
-I1
-sS'information'
-p77
-I1
-sS'pattern'
-p78
-I1
-sVinsight
-p79
-I1
-sS'analysis'
-p80
-I1
-sS'statistical model'
-p81
-I1
-sS'decision-making'
-p82
-I1
-sS'analytic'
-p83
-I1
+p26
+F0.0030366809140112759
+sS'information security'
+p27
+F0.010157905347002279
+sS'algorithm development'
+p28
+F0.0090905458906083286
+sS'data management'
+p29
+F0.0059393479581193757
+sS'clustering'
+p30
+F0.0069620141696678404
 sS'data analysis'
-p84
-I1
-sS'design'
-p85
-I1
-sS'data mining'
-p86
-I1
-sS'understand'
-p87
-I1
+p31
+F0.0032046695787595362
+sS'government'
+p32
+F0.011261855359088404
+sS'python'
+p33
+F0.0011258132024908553
+sS'processing'
+p34
+F0.0035271880921613824
+sS'data scientist'
+p35
+F0.0022880597519738194
+sS'aerospace'
+p36
+F0.010520735431493899
+sS'sql'
+p37
+F0.0014728809046070132
 sS'modeling'
-p88
-I1
+p38
+F0.0017540943607376944
+sS'data'
+p39
+F0.0033300633744452438
+sS'information technology'
+p40
+F0.0067314234811268799
+sS'a'
+F0.012116902118449416
+sS'c'
+F0.0027011272654386552
+sS'pattern recognition'
+p41
+F0.006897092243804949
+sS'risk assessment'
+p42
+F0.010925077188386983
+sS'data visualization'
+p43
+F0.0042478048068673889
+sS'science'
+p44
+F0.0015184317239613227
+sS'security clearance'
+p45
+F0.0078916208925677526
+sS'machine learning'
+p46
+F0.0014158050147603442
+sS'information assurance'
+p47
+F0.01418955353805452
+sS'r'
+F0.0011986874872871301
+sS'security'
+p48
+F0.023599900817708335
+sS'analysis'
+p49
+F0.0022199917176293515
+sS'data analytics'
+p50
+F0.0044110641068807717
+sS'predictive analytics'
+p51
+F0.0049729982145330252
+ssS'working-year'
+p52
+(dp53
+V(0, 2]
+p54
+F0.0049191796200651261
+sV(2, 5]
+p55
+F0.0026759058929398177
+ssS'major'
+p56
+(dp57
+VData Science
+p58
+F0.0022187667010908482
+sVInformation Science
+p59
+F0.0054700975994688853
+sVComputer Science
+p60
+F0.0019554119791624141
+sVBusiness
+p61
+F0.002336316084609318
+sVManagement Science and Engineering
+p62
+F0.002785193387621798
+ssS'education'
+p63
+(dp64
+VBachelor
+p65
+F0.0019684207941034703
+sVMaster
+p66
+F0.0015708006160349394
+ssS'responsibility'
+p67
+(dp68
+S'development'
+p69
+F0.0026154665278922649
+sS'information'
+p70
+F0.014979537791894109
+sS'data analysis'
+p71
+F0.0032046695787595362
+sS'processing'
+p72
+F0.0035271880921613824
+sS'pattern'
+p73
+F0.0056557042668988035
+sS'insight'
+p74
+F0.0039630526047721064
+sS'analysis'
+p75
+F0.0022199917176293515
+sS'develop ... model'
+p76
+F0.0066952765165791319
+sS'decision-making'
+p77
+F0.0079309620859289911
+sS'analytic'
+p78
+F0.0097525959926550443
+sS'design'
+p79
+F0.0031542522894567552
+sS'data mining'
+p80
+F0.0045831087012573168
+sS'understand'
+p81
+F0.0045392652558191695
+sS'modeling'
+p82
+F0.0017540943607376944
 sS'extract'
-p89
-I1
+p83
+F0.0066818758762480128
 sS'model'
-p90
-I1
+p84
+F0.0033421400473037598
 sS'data aggregation'
-p91
-I1
+p85
+F0.012071136872541917
 ss.

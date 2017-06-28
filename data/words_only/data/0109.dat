@@ -4,214 +4,201 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.056299998664891077
 sS'data science'
 p5
-I1
-sS'pig'
+F0.0049296759248385214
+sS'data mining'
 p6
-I1
-sS'analysis'
+F0.0086966365929595814
+sS'pig'
 p7
-I1
-sS'data mining'
+F0.01105995153736021
+sS'analysis'
 p8
-I1
-sS'perl'
+F0.0014041750891562704
+sS'personalization'
 p9
-I1
-sS'cassandra'
+F0.018138499130955919
+sS'sas'
 p10
-I1
-sS'visualization'
+F0.0056772002322844949
+sS'perl'
 p11
-I1
-sS'open source'
+F0.011746109607743313
+sS'cassandra'
 p12
-I1
-sS'big data'
+F0.015427895584265069
+sS'visualization'
 p13
-I1
-sS'predictive modeling'
+F0.007681537999729383
+sS'statistics'
 p14
-I1
-sS'hadoop'
+F0.0038217739950926421
+sS'open source'
 p15
-I1
-sS'strategy'
-p16
-I1
-sS'big data analytics'
-p17
-I1
-sS'social network analysis'
-p18
-I1
-sS'computer science'
-p19
-I1
-sS'natural language processing'
-p20
-I1
-sS'mathematics'
-p21
-I1
-sS'python'
-p22
-I1
-sS'mongodb'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'statistical modeling'
-p27
-I1
-sS'splunk'
-p28
-I1
-sS'modeling'
-p29
-I1
-sS'spark'
-p30
-I1
-sS'data visualization'
-p31
-I1
-sS'java'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'hive'
-p34
-I1
-sS'spss'
-p35
-I1
-sS'weka'
-p36
-I1
-sS'r'
-I1
-sS'scripting'
-p37
-I1
-sS'cluster analysis'
-p38
-I1
-sS'data analytics'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'natural language processing'
-p45
-I1
-sS'business'
-p46
-I1
+F0.013106228442287274
 sS'big data'
-p47
-I1
-sS'data science'
-p48
-I1
-sS'data mining'
-p49
-I1
-sS'computer science statistics'
-p50
-I1
-sS'machine learning data mining'
-p51
-I1
+p16
+F0.0052160865834535554
+sS'predictive modeling'
+p17
+F0.0085205160192170903
+sS'hadoop'
+p18
+F0.005265600415571987
+sS'strategy'
+p19
+F0.0064549648820771922
 sS'big data analytics'
-p52
-I1
-sS'design'
-p53
-I1
+p20
+F0.0135830701014282
+sS'social network analysis'
+p21
+F0.018685752807327406
 sS'computer science'
-p54
-I1
-sS'statistic'
-p55
-I1
+p22
+F0.0057622264884722163
+sS'natural language processing'
+p23
+F0.010270320212952062
 sS'mathematics'
-p56
-I1
+p24
+F0.0074913659101467451
+sS'python'
+p25
+F0.0021362766916117461
+sS'mongodb'
+p26
+F0.012119244933694161
+sS'processing'
+p27
+F0.006692983961765246
+sS'data scientist'
+p28
+F0.0043416871523109767
+sS'metrics'
+p29
+F0.017890040630864384
 sS'machine learning'
-p57
-I1
-sS'ee computer science'
-p58
-I1
+p30
+F0.0026865480403034402
+sS'statistical modeling'
+p31
+F0.0073416619679934287
+sS'splunk'
+p32
+F0.019447628225876389
+sS'modeling'
+p33
+F0.0033284659386129201
+sS'spark'
+p34
+F0.0069103918988346665
+sS'data'
+p35
+F0.0029164300297001536
+sS'a'
+F0.0076641061213689621
+sS'data visualization'
+p36
+F0.0080603837113918074
+sS'java'
+p37
+F0.0050789629822470634
+sS'science'
+p38
+F0.002881286427024969
+sS'programming'
+p39
+F0.0045176853886675248
+sS'hive'
+p40
+F0.0085481731536475678
+sS'spss'
+p41
+F0.0090424132412195296
+sS'weka'
+p42
+F0.015937544377792053
+sS'r'
+F0.0022745586336636934
+sS'scripting'
+p43
+F0.0099716572846174738
+sS'cluster analysis'
+p44
+F0.016109525352534494
 sS'data analytics'
-p59
-I1
+p45
+F0.0083701749241221202
+ssS'working-year'
+p46
+(dp47
+V(2, 5]
+p48
+F0.0050776411001276049
+ssS'major'
+p49
+(dp50
+VMathematics
+p51
+F0.0070257070884526722
+sVData Science
+p52
+F0.0042102007483814045
+sVStatistics
+p53
+F0.0073832162700331163
+sVComputer Science
+p54
+F0.0037104743702958925
+sVBusiness
+p55
+F0.0044332555212053867
 ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0037351591297946998
+sVMaster
+p59
+F0.0029806585460007253
+ssS'responsibility'
 p60
 (dp61
-VBachelor
-p62
-I1
-sVMaster
-p63
-I1
-ssS'responsibility'
-p64
-(dp65
 S'processing'
-p66
-I1
+p62
+F0.006692983961765246
 sVtest hypothesis
-p67
-I1
+p63
+F0.019768331269226024
 sS'business problem'
-p68
-I1
-sVinsight
-p69
-I1
+p64
+F0.011672748205453462
+sS'insight'
+p65
+F0.022560164213231374
 sS'analysis'
-p70
-I1
-sS'statistical model'
-p71
-I1
+p66
+F0.0014041750891562704
 sS'design'
-p72
-I1
+p67
+F0.0059853229918790073
 sS'data mining'
-p73
-I1
+p68
+F0.0086966365929595814
 sS'report'
-p74
-I1
+p69
+F0.0085052312302148735
 sS'modeling'
-p75
-I1
+p70
+F0.0033284659386129201
 sS'prototype'
-p76
-I1
+p71
+F0.012922833662088885
 sS'data gathering'
-p77
-I1
+p72
+F0.019491934875997732
 ss.

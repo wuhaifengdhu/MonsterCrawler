@@ -6,86 +6,80 @@ S'nlp'
 p4
 aS'search'
 p5
-aS'java'
+aS'organization'
 p6
-aS'classification'
+aS'java'
 p7
-aS'communication'
+aS'classification'
 p8
-aS'data science'
-p9
-aS'processing'
-p10
-aS'data scientist'
-p11
-aS'analysis'
-p12
-aS'machine learning'
-p13
-aS'lucene'
-p14
-aS'computer science'
-p15
-aS'data processing'
-p16
-aS'science'
-p17
-aS'modeling'
-p18
-aS'data'
-p19
-aS'unstructured data'
-p20
-aS'cassandra'
-p21
-asS'working-year'
-p22
-(lp23
-V(5, 10]
-p24
-aV(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'science'
-p28
-aS'data science'
-p29
 aS'communication'
-p30
-aS'computer science statistics'
-p31
-aS'phd'
-p32
-aS'computer science'
-p33
-aS'statistic'
-p34
-aS'machine learning'
-p35
-asS'education'
-p36
-(lp37
-VMaster
-p38
-aVDoctor
-p39
-asS'responsibility'
-p40
-(lp41
-S'development'
-p42
+p9
+aS'data science'
+p10
 aS'processing'
-p43
-aS'mapping'
-p44
+p11
+aS'data scientist'
+p12
 aS'analysis'
-p45
-aS'ownership'
-p46
+p13
+aS'machine learning'
+p14
+aS'lucene'
+p15
+aS'statistics'
+p16
+aS'solr'
+p17
+aS'computer science'
+p18
+aS'data processing'
+p19
+aS'science'
+p20
 aS'modeling'
-p47
+p21
+aS'data'
+p22
+aS'cassandra'
+p23
+asS'working-year'
+p24
+(lp25
+V(5, 10]
+p26
+aV(2, 5]
+p27
+asS'major'
+p28
+(lp29
+VData Science
+p30
+aVStatistics
+p31
+aVComputer Science
+p32
+asS'education'
+p33
+(lp34
+VMaster
+p35
+aVDoctor
+p36
+asS'responsibility'
+p37
+(lp38
+S'development'
+p39
+aS'processing'
+p40
+aS'mapping'
+p41
+aS'analysis'
+p42
+aS'ownership'
+p43
+aS'modeling'
+p44
 aS'implement'
-p48
+p45
 as.

@@ -4,204 +4,177 @@ p2
 (lp3
 S'solution architecture'
 p4
-aS'testing'
+aS'classification'
 p5
-aS'data acquisition'
+aS'testing'
 p6
-aS'integration'
+aS'data acquisition'
 p7
-aS'analytics'
+aS'integration'
 p8
-aS'engineering'
-p9
-aS'data mining'
-p10
-aS'research'
-p11
-aS'data analytics'
-p12
-aS'big data analytics'
-p13
-aS'management'
-p14
-aS'big data'
-p15
-aS'agile'
-p16
-aS'education'
-p17
-aS'hadoop'
-p18
-aS'writing'
-p19
-aS'mahout'
-p20
-aS'computer science'
-p21
-aS'natural language processing'
-p22
-aS'ruby'
-p23
-aS'mathematics'
-p24
-aS'application development'
-p25
-aS'systems engineering'
-p26
-aS'data analysis'
-p27
-aS'data modeling'
-p28
-aS'apis'
-p29
-aS'python'
-p30
-aS'collaboration'
-p31
-aS'processing'
-p32
-aS'data scientist'
-p33
-aS'automation'
-p34
-aS'scripting'
-p35
-aS'sql'
-p36
-aS'modeling'
-p37
-aS'spark'
-p38
-aS'pig'
-p39
-aS'data'
-p40
-aS'life sciences'
-p41
-aS'postgresql'
-p42
-aS'science'
-p43
-aS'documentation'
-p44
-aS'programming'
-p45
-aS'mapreduce'
-p46
-aS'analysis'
-p47
-aS'machine learning'
-p48
-aS'data architecture'
-p49
-aS'data engineering'
-p50
-aS'architecture'
-p51
-aS'oracle'
-p52
-aS'organization'
-p53
-aS'data integration'
-p54
-asS'working-year'
-p55
-(lp56
-V(5, 10]
-p57
-asS'major'
-p58
-(lp59
-S'statistic'
-p60
-aS'general'
-p61
 aS'analytics'
-p62
+p9
 aS'engineering'
-p63
-aS'design'
-p64
+p10
+aS'hive'
+p11
 aS'data mining'
-p65
-aS'computer science mathematics'
-p66
-aS'information'
-p67
-aS'management'
-p68
-aS'big data'
-p69
-aS'big data analytics'
-p70
-aS'computer science'
-p71
-aS'natural language processing'
-p72
-aS'mathematics'
-p73
-aS'data mining machine learning'
-p74
-aS'systems engineering'
-p75
-aS'business'
-p76
-aS'automation'
-p77
-aS'information system'
-p78
-aS'ee computer science'
-p79
-aS'life sciences'
-p80
-aS'information systems'
-p81
-aS'science'
-p82
-aS'machine learning'
-p83
+p12
+aS'research'
+p13
 aS'data analytics'
-p84
-asS'education'
-p85
-(lp86
-VBachelor
-p87
-asS'responsibility'
-p88
-(lp89
-S'data mining'
-p90
-aS'development'
-p91
-aS'product'
-p92
-aVinsight
-p93
-aS'data infrastructure'
-p94
-aS'information'
-p95
-aS'pattern'
-p96
-aS'processing'
-p97
-aS'analysis'
-p98
+p14
+aS'big data analytics'
+p15
+aS'management'
+p16
+aS'big data'
+p17
+aS'agile'
+p18
+aS'education'
+p19
+aS'hadoop'
+p20
+aS'writing'
+p21
+aS'mahout'
+p22
+aS'computer science'
+p23
+aS'natural language processing'
+p24
+aS'ruby'
+p25
+aS'mathematics'
+p26
+aS'application development'
+p27
+aS'systems engineering'
+p28
 aS'data analysis'
-p99
-aS'design'
-p100
-aS'recommendation'
-p101
-aS'report'
-p102
+p29
+aS'data modeling'
+p30
+aS'apis'
+p31
+aS'python'
+p32
+aS'mongodb'
+p33
+aS'collaboration'
+p34
+aS'processing'
+p35
+aS'data scientist'
+p36
+aS'life sciences'
+p37
+aS'automation'
+p38
+aS'scripting'
+p39
+aS'sql'
+p40
 aS'modeling'
-p103
-aS'model'
-p104
-aS'prototype'
-p105
+p41
+aS'spark'
+p42
+aS'pig'
+p43
+aS'data'
+p44
+aS'tensorflow'
+p45
+aS'c'
+aS'postgresql'
+p46
+aS'science'
+p47
 aS'documentation'
-p106
+p48
+aS'programming'
+p49
+aS'mapreduce'
+p50
+aS'analysis'
+p51
+aS'machine learning'
+p52
+aS'data architecture'
+p53
+aS'data engineering'
+p54
+aS'algorithms'
+p55
+aS'architecture'
+p56
+aS'oracle'
+p57
+aS'organization'
+p58
+aS'data integration'
+p59
+asS'working-year'
+p60
+(lp61
+V(5, 10]
+p62
+asS'major'
+p63
+(lp64
+VBusiness
+p65
+aVData Science
+p66
+aVEngineering
+p67
+aVInformation Science
+p68
+aVComputer Science
+p69
+aVMathematics
+p70
+aVManagement Science and Engineering
+p71
+asS'education'
+p72
+(lp73
+VBachelor
+p74
+asS'responsibility'
+p75
+(lp76
+S'data mining'
+p77
+aS'information'
+p78
+aS'product'
+p79
+aS'data analysis'
+p80
+aS'processing'
+p81
+aS'pattern'
+p82
+aS'insight'
+p83
+aS'analysis'
+p84
+aS'design'
+p85
+aS'recommendation'
+p86
+aS'report'
+p87
+aS'modeling'
+p88
+aS'development'
+p89
+aS'prototype'
+p90
+aS'model'
+p91
+aS'documentation'
+p92
 as.

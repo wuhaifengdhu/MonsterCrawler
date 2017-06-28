@@ -1,5 +1,5 @@
-skills: {'testing': 1, 'engineering': 1, 'insurance': 1, 'management': 1, 'banking': 1, 'agile': 1, 'recruiting': 1, 'strategy': 1, 'teamwork': 1, 'innovation': 1, 'collaboration': 1, 'data scientist': 1, 'product design': 1, 'military experience': 1, 'modeling': 1, 'data': 1, 'search': 1, 'data engineering': 1, 'leadership': 1, 'product management': 1, 'military': 1, 'etl': 1}
-working-year: {u'(0, 2]': 1}
-major: {'information': 1, 'management': 1, 'general': 1, 'engineering': 1, 'design': 1, 'law': 1, 'history': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'decision-making': 1, 'communicate': 1, 'improvement': 1, 'design': 1, 'modeling': 1, 'understand': 1}
+skills: {'testing': 0.0028795752670886256, 'engineering': 0.0017227212054481782, 'insurance': 0.004434840244092388, 'banking': 0.0048302389853141425, 'agile': 0.0030712937731357374, 'recruiting': 0.009701542195829511, 'strategy': 0.002215205951092595, 'teamwork': 0.004028706256402249, 'innovation': 0.002722678863761918, 'ios': 0.006735842526914868, 'collaboration': 0.0035972846977123125, 'data scientist': 0.0014899742126074237, 'product design': 0.006476783761531334, 'military experience': 0.006246894455657905, 'modeling': 0.001142258353054223, 'data': 0.00016680940629321085, 'a': 0.002630157374984566, 'search': 0.004362854820885749, 'data engineering': 0.0056326733559317, 'leadership': 0.0023240627583738706, 'product management': 0.004392402277111873, 'military': 0.00524987140932744, 'etl': 0.004008107839683801}
+working-year: {u'(0, 2]': 0.0032033476288187814}
+major: {u'Engineering': 0.0017227212054481782, u'Management Science and Engineering': 0.0018137053986904254}
+education: {u'Bachelor': 0.0012818267618423442}
+responsibility: {'development': 0.00170318003152478, 'information': 0.009754607591627247, 'product': 0.017025226464781603, 'decision-making': 0.005164606815450243, 'communicate': 0.0028217199469502, 'improvement': 0.00377806820863447, 'design': 0.004108069789081513, 'modeling': 0.001142258353054223, 'understand': 0.0029559491047036223}

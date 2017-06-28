@@ -2,27 +2,27 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'logistics'
 p4
-aS'nosql'
+aS'consulting'
 p5
-aS'excel'
+aS'nosql'
 p6
-aS'testing'
+aS'excel'
 p7
-aS'graphic design'
+aS'testing'
 p8
-aS'cluster'
+aS'graphic design'
 p9
-aS'engineering'
+aS'analytics'
 p10
-aS'high performance computing'
+aS'engineering'
 p11
-aS'linux'
-p12
-aS'go'
-p13
 aS'analysis'
+p12
+aS'linux'
+p13
+aS'go'
 p14
 aS'open source'
 p15
@@ -36,15 +36,15 @@ aS'wordpress'
 p19
 aS'computer science'
 p20
-aS'communication'
-p21
 aS'product development'
-p22
+p21
 aS'python'
-p23
+p22
 aS'aws'
-p24
+p23
 aS'data scientist'
+p24
+aS'automation'
 p25
 aS'statistical modeling'
 p26
@@ -54,27 +54,29 @@ aS'modeling'
 p28
 aS'data'
 p29
-aS'java'
-p30
+aS'a'
+aS'c'
 aS'postgresql'
-p31
+p30
 aS'software engineering'
+p31
+aS'java'
 p32
-aS'analytics'
-p33
 aS'mysql'
-p34
+p33
 aS'science'
+p34
+aS'high performance computing'
 p35
-aS'c++'
-p36
 aS'machine learning'
-p37
+p36
 aS'mvc'
-p38
+p37
 aS'architecture'
-p39
+p38
 aS'organization'
+p39
+aS'scripting'
 p40
 asS'working-year'
 p41
@@ -84,56 +86,34 @@ p43
 asS'major'
 p44
 (lp45
-S'business'
+VData Science
 p46
-aS'big data'
+aVEngineering
 p47
-aS'computing'
+aVComputer Science
 p48
-aS'science'
+aVBusiness
 p49
-aS'software engineering'
-p50
-aS'engineering'
-p51
-aS'high performance computing'
-p52
-aS'machine learning'
-p53
-aS'analytics'
-p54
-aS'computer engineering'
-p55
-aS'computer science software engineering'
-p56
-aS'computer science'
-p57
-aS'communication'
-p58
-aS'design'
-p59
 asS'education'
-p60
-(lp61
+p50
+(lp51
 VBachelor
-p62
+p52
 asS'responsibility'
-p63
-(lp64
+p53
+(lp54
 S'development'
-p65
+p55
 aS'product'
-p66
+p56
 aS'predict'
-p67
+p57
 aS'pattern'
-p68
+p58
 aS'analysis'
-p69
-aS'statistical model'
-p70
+p59
 aS'design'
-p71
+p60
 aS'modeling'
-p72
+p61
 as.

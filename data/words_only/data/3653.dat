@@ -4,178 +4,175 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
-sS'engineering'
+F0.0084502276825081223
+sS'analytics'
 p5
-I1
+F0.0025064480172435925
 sS'business development'
 p6
-I1
-sS'management'
+F0.010025216942484677
+sS'sas'
 p7
-I1
-sS'big data'
+F0.003992037050943564
+sS'statistics'
 p8
-I1
-sS'industrial engineering'
-p9
-I1
-sS'hadoop'
-p10
-I1
-sS'demand forecasting'
-p11
-I1
-sS'strategy'
-p12
-I1
-sS'big data analytics'
-p13
-I1
-sS'r'
-I1
-sS'statistical software'
-p14
-I1
-sS'matlab'
-p15
-I1
-sS'advanced analytics'
-p16
-I1
-sS'gurobi'
-p17
-I1
-sS'operations research'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'algorithm design'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'software development'
-p22
-I1
-sS'documentation'
-p23
-I1
-sS'mapreduce'
-p24
-I1
-sS'analysis'
-p25
-I1
-sS'optimization'
-p26
-I1
-sS'product management'
-p27
-I1
-sS'inventory management'
-p28
-I1
-sS'retail'
-p29
-I1
-sS'data analytics'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(2, 5]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'management'
-p36
-I1
-sS'business'
-p37
-I1
+F0.0026873569302668719
 sS'big data'
-p38
-I1
+p9
+F0.0036677957532065346
 sS'industrial engineering'
-p39
-I1
-sS'engineering'
-p40
-I1
+p10
+F0.013297933433210757
+sS'hadoop'
+p11
+F0.0037026123959641635
+sS'demand forecasting'
+p12
+F0.015767013843532414
+sS'strategy'
+p13
+F0.0090778756843045236
 sS'big data analytics'
-p41
-I1
-sS'operations strategy'
-p42
-I1
-sS'design'
-p43
-I1
-sS'data analytics'
-p44
-I1
-sS'statistic'
-p45
-I1
+p14
+F0.0095512077946642085
+sS'r'
+F0.0015994014599825393
+sS'statistical software'
+p15
+F0.01134149098356625
+sS'matlab'
+p16
+F0.0036783895897350566
 sS'advanced analytics'
-p46
-I1
+p17
+F0.0084807220586111919
+sS'gurobi'
+p18
+F0.034268646652589121
 sS'operations research'
-p47
-I1
-ssS'education'
-p48
-(dp49
-VBachelor
-p50
-I1
-ssS'responsibility'
-p51
-(dp52
-S'development'
-p53
-I1
-sS'forecasting'
-p54
-I1
-sS'documentation'
-p55
-I1
-sS'communicate'
-p56
-I1
-sS'product'
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'optimization'
-p59
-I1
-sS'understand'
-p60
-I1
-sS'recommendation'
-p61
-I1
-sS'design'
-p62
-I1
+p19
+F0.0083024164713311512
+sS'data scientist'
+p20
+F0.0030529442800111763
+sS'management'
+p21
+F0.0026110918363102366
+sS'algorithm design'
+p22
+F0.012147642141414665
 sS'modeling'
-p63
-I1
+p23
+F0.0023404774899756556
+sS'data'
+p24
+F0.001025373094015616
+sS'software development'
+p25
+F0.0061100767091448772
+sS'documentation'
+p26
+F0.0083557376338444685
+sS'mapreduce'
+p27
+F0.007598563449440693
+sS'analysis'
+p28
+F0.00098737383790815534
+sS'optimization'
+p29
+F0.023054857145689247
+sS'algorithms'
+p30
+F0.010341047137551896
+sS'product management'
+p31
+F0.0089999942911427686
+sS'inventory management'
+p32
+F0.016491260222582099
+sS'retail'
+p33
+F0.029792174216857543
+sS'data analytics'
+p34
+F0.0058856561426103658
+ssS'working-year'
+p35
+(dp36
+V(2, 5]
+p37
+F0.0035704450387064423
+ssS'major'
+p38
+(dp39
+VStatistics
+p40
+F0.0051916563973719888
+sVBusiness
+p41
+F0.0031173324126055162
+sVData Science
+p42
+F0.0029604869815707856
+sVIndustrial Engineering
+p43
+F0.011556115452720868
+sVOperations Research
+p44
+F0.0092758757872828633
+sVManagement Science and Engineering
+p45
+F0.0037162666814665483
+ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0026264519529392125
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+F0.0069796023193897322
+sS'forecasting'
+p52
+F0.0084502276825081223
+sS'documentation'
+p53
+F0.0083557376338444685
+sS'communicate'
+p54
+F0.0057816797760276428
+sS'product'
+p55
+F0.0038760602037975407
+sS'analysis'
+p56
+F0.00098737383790815534
+sS'develop ... model'
+p57
+F0.0089334669371070249
+sS'optimization'
+p58
+F0.023054857145689247
+sS'design'
+p59
+F0.0084173994813745105
+sS'recommendation'
+p60
+F0.0075279589187846434
+sS'understand'
+p61
+F0.024226856639127093
+sS'modeling'
+p62
+F0.0023404774899756556
 sS'prototype'
-p64
-I1
+p63
+F0.0090869493185869957
 sS'model'
-p65
-I1
+p64
+F0.0044593972389096277
 ss.

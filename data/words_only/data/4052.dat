@@ -2,201 +2,194 @@
 S'skills'
 p2
 (dp3
-S'supply chain'
+S'insurance'
 p4
-I1
-sS'nosql'
+F0.0093844387308026425
+sS'supply chain'
 p5
-I1
-sS'communication'
+F0.011533200763529611
+sS'nosql'
 p6
-I1
-sS'data science'
-p7
-I1
-sS'software design'
-p8
-I1
-sS'analytics'
-p9
-I1
-sS'business intelligence'
-p10
-I1
-sS'data warehousing'
-p11
-I1
-sS'data mining'
-p12
-I1
-sS'insurance'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'saas'
-p15
-I1
-sS'mllib'
-p16
-I1
-sS'mahout'
-p17
-I1
-sS'opencv'
-p18
-I1
-sS'intelligence'
-p19
-I1
-sS'tensorflow'
-p20
-I1
-sS'data analysis'
-p21
-I1
-sS'python'
-p22
-I1
-sS'marketing'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'business analytics'
-p25
-I1
-sS'sql'
-p26
-I1
-sS'data'
-p27
-I1
-sVbayesian network
-p28
-I1
-sS'science'
-p29
-I1
-sS'economics'
-p30
-I1
-sS'scikit-learn'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'r'
-I1
-sS'product management'
-p34
-I1
-sS'theano'
-p35
-I1
-sS'etl'
-p36
-I1
-ssS'working-year'
-p37
-(dp38
-V(2, 5]
-p39
-I1
-ssS'major'
-p40
-(dp41
-S'data mining'
-p42
-I1
-sS'information'
-p43
-I1
-sS'economics statistics'
-p44
-I1
-sS'big data'
-p45
-I1
-sS'marketing'
-p46
-I1
-sS'data science'
-p47
-I1
-sS'economics'
-p48
-I1
+F0.0081453775722217913
 sS'communication'
-p49
-I1
-sS'machine learning'
-p50
-I1
-sS'business analytics'
-p51
-I1
+p7
+F0.0047118135687823108
+sS'data science'
+p8
+F0.0035798837073232116
+sS'software design'
+p9
+F0.011965281732685205
 sS'analytics'
-p52
-I1
-sS'design'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'management technology'
-p55
-I1
-sS'science'
-p56
-I1
-ssS'education'
-p57
-(dp58
-VBachelor
-p59
-I1
-ssS'responsibility'
-p60
-(dp61
-S'development'
-p62
-I1
-sS'information'
-p63
-I1
-sS'product'
-p64
-I1
-sS'data analysis'
-p65
-I1
-sVinsight
-p66
-I1
-sS'analysis'
-p67
-I1
-sS'analytic'
-p68
-I1
-sS'design'
-p69
-I1
+p10
+F0.0077655130534243447
+sS'business intelligence'
+p11
+F0.00608048603801911
+sS'data warehousing'
+p12
+F0.0090520543502508721
 sS'data mining'
-p70
-I1
+p13
+F0.0063154146686968376
+sS'sas'
+p14
+F0.0041227287401113593
+sS'econometrics'
+p15
+F0.0091287457135126211
+sS'statistics'
+p16
+F0.0027753358773887041
+sS'big data'
+p17
+F0.0037878723998888914
+sS'saas'
+p18
+F0.0091891139767876825
+sS'mllib'
+p19
+F0.014884383030602504
+sS'research'
+p20
+F0.0025391676835170782
+sS'mahout'
+p21
+F0.012905305806412195
+sS'opencv'
+p22
+F0.014390383261844258
+sS'intelligence'
+p23
+F0.0046727934818058901
+sS'tensorflow'
+p24
+F0.012842204832519149
+sS'data analysis'
+p25
+F0.0044159583778740031
+sS'python'
+p26
+F0.0015513437879561486
+sS'marketing'
+p27
+F0.0056702813168974658
+sS'data scientist'
+p28
+F0.0031528918606067804
+sS'business analytics'
+p29
+F0.0090404291477949802
+sS'sql'
+p30
+F0.0040591896359109944
+sS'data'
+p31
+F0.0014119224746961061
+sS'a'
+F0.0055656008738512695
+sVbayesian network
+p32
+F0.016709089543143232
+sS'science'
+p33
+F0.0020923627624824179
+sS'economics'
+p34
+F0.0071324161439269675
+sS'scikit-learn'
+p35
+F0.01067702470567705
+sS'analysis'
+p36
+F0.0010196985766491961
+sS'machine learning'
+p37
+F0.0019509456006965456
+sS'r'
+F0.0016517628173033962
+sS'algorithms'
+p38
+F0.0053397966618013507
+sS'product management'
+p39
+F0.0092946369613885142
+sS'theano'
+p40
+F0.014570812292924494
+sS'etl'
+p41
+F0.0084814424821880435
+ssS'working-year'
+p42
+(dp43
+V(2, 5]
+p44
+F0.0036873346084259984
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.005361621338952619
+sVBusiness
+p48
+F0.0032193879380181967
+sVData Science
+p49
+F0.0030574076863245912
+sVEconomics
+p50
+F0.0048832486533466092
+sVComputer Science
+p51
+F0.0026945111498577314
+sVManagement Science and Engineering
+p52
+F0.0038379301740145604
+ssS'education'
+p53
+(dp54
+VBachelor
+p55
+F0.0027124369871128176
+ssS'responsibility'
+p56
+(dp57
+S'development'
+p58
+F0.0072081012048459438
+sS'information'
+p59
+F0.0041282892843136744
+sS'product'
+p60
+F0.02401773019138833
+sS'data analysis'
+p61
+F0.0044159583778740031
+sS'insight'
+p62
+F0.021843968523922442
+sS'analysis'
+p63
+F0.0010196985766491961
+sS'analytic'
+p64
+F0.0067194225366060791
+sS'design'
+p65
+F0.004346484553626421
+sS'data mining'
+p66
+F0.0063154146686968376
 sS'implement'
-p71
-I1
+p67
+F0.0063031642116654985
 sS'model'
-p72
-I1
+p68
+F0.01381616823126465
+sS'decision making'
+p69
+F0.0097219733628854561
 ss.

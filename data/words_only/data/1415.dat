@@ -2,135 +2,138 @@
 S'skills'
 p2
 (dp3
-S'data analysis'
+S'communication'
 p4
-I1
-sS'data modeling'
-p5
-I1
-sS'data scientist'
-p6
-I1
+F0.0050419406341110076
 sS'data science'
-p7
-I1
-sS'r programming'
-p8
-I1
-sS'analysis'
-p9
-I1
-sS'machine learning'
-p10
-I1
-sS'exploratory data analysis'
-p11
-I1
-sS'r'
-I1
-sS'computer science'
-p12
-I1
-sS'leadership'
-p13
-I1
-sS'communication'
-p14
-I1
-sS'performance improvement'
-p15
-I1
+p5
+F0.0038307035849063672
+sS'analytics'
+p6
+F0.0027698645286099574
 sS'modeling'
+p7
+F0.0025864512389221416
+sS'sas'
+p8
+F0.0044115823461064229
+sS'machine learning'
+p9
+F0.0020876360567963037
+sS'computer science'
+p10
+F0.0044776537044179006
+sS'mathematics'
+p11
+F0.0058213161849547963
+sS'data analysis'
+p12
+F0.0047253567355594432
+sS'data modeling'
+p13
+F0.008319113837000864
+sS'python'
+p14
+F0.0016600366648193185
+sS'data scientist'
+p15
+F0.0033737951119868735
+sS'leadership'
 p16
-I1
-sS'simulation'
+F0.010524895676457466
+sS'performance improvement'
 p17
-I1
+F0.017285569677439609
 sS'data'
 p18
-I1
-ssS'working-year'
+F0.0018885587241158107
+sS'science'
 p19
-(dp20
-V(5, 10]
+F0.002238961427369721
+sS'.net'
+p20
+F0.012001423052944039
+sS'programming'
 p21
-I1
-sV(2, 5]
+F0.003510558072722535
+sS'analysis'
 p22
-I1
-ssS'major'
+F0.0021822848519371333
+sS'simulation'
 p23
-(dp24
-S'business'
+F0.0085504324448228402
+sS'exploratory data analysis'
+p24
+F0.014221780984486771
+sS'r'
+F0.0017674914223373924
+sS'organization'
 p25
-I1
-sS'communication'
+F0.0056152351569480298
+ssS'working-year'
 p26
-I1
-sS'data science'
-p27
-I1
-sS'applied math'
+(dp27
+V(5, 10]
 p28
-I1
-sS'machine learning'
+F0.0038396314062957289
+sV(2, 5]
 p29
-I1
-sS'design'
+F0.0039456828930927888
+ssS'major'
 p30
-I1
-sS'computer science'
-p31
-I1
-sS'statistic'
+(dp31
+VMathematics
 p32
-I1
-ssS'education'
+F0.0054594666547211849
+sVData Science
 p33
-(dp34
-VMaster
+F0.0032716209637103908
+sVComputer Science
+p34
+F0.0028832985552617765
+sVBusiness
 p35
-I1
-ssS'responsibility'
+F0.0034449501502360328
+ssS'education'
 p36
 (dp37
-S'product'
+VMaster
 p38
-I1
-sS'data analysis'
+F0.0023161805261916464
+ssS'responsibility'
 p39
-I1
-sS'predict'
-p40
-I1
-sS'pattern'
+(dp40
+S'data analysis'
 p41
-I1
-sVinsight
+F0.0047253567355594432
+sS'predict'
 p42
-I1
-sS'analysis'
+F0.013286248523934107
+sS'pattern'
 p43
-I1
-sS'simulation'
+F0.0083394620241214849
+sS'insight'
 p44
-I1
-sS'analytic'
+F0.0058436094140429462
+sS'analysis'
 p45
-I1
-sS'design'
+F0.0021822848519371333
+sS'simulation'
 p46
-I1
-sS'modeling'
+F0.0085504324448228402
+sS'analytic'
 p47
-I1
-sS'implement'
+F0.0071902101028651052
+sS'modeling'
 p48
-I1
-sS'improvement'
+F0.0025864512389221416
+sS'implement'
 p49
-I1
-sS'model'
+F0.013489574363819158
+sS'improvement'
 p50
-I1
+F0.017109595518083491
+sS'model'
+p51
+F0.0049280600060561813
 ss.

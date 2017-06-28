@@ -6,7 +6,7 @@ S'hardware'
 p4
 aS'engineering'
 p5
-aS'strategy'
+aS'research'
 p6
 aS'management'
 p7
@@ -16,7 +16,7 @@ aS'big data'
 p9
 aS'hadoop'
 p10
-aS'research'
+aS'strategy'
 p11
 aS'market research'
 p12
@@ -32,78 +32,68 @@ aS'data modeling'
 p17
 aS'collaboration'
 p18
-aS'data scientist'
-p19
 aS'business process'
-p20
+p19
 aS'leadership'
-p21
+p20
 aS'application architecture'
+p21
+aS'modeling'
 p22
-aS'modeling'
-p23
 aS'spark'
-p24
+p23
 aS'data'
-p25
+p24
 aS'software development'
+p25
+aS'science'
 p26
-aS'science'
-p27
 aS'product innovation'
-p28
+p27
 aS'advertising'
-p29
+p28
 aS'organization'
-p30
+p29
 asS'working-year'
-p31
-(lp32
+p30
+(lp31
 V(5, 10]
-p33
+p32
 aV(2, 5]
-p34
+p33
 asS'major'
-p35
-(lp36
-S'management'
+p34
+(lp35
+VEngineering
+p36
+aVComputer Science
 p37
-aS'big data'
+aVBusiness
 p38
-aS'business'
+aVManagement Science and Engineering
 p39
-aS'science'
-p40
-aS'engineering'
-p41
-aS'design'
-p42
-aS'computer science'
-p43
-aS'ee computer science'
-p44
 asS'education'
-p45
-(lp46
+p40
+(lp41
 VBachelor
-p47
+p42
 asS'responsibility'
-p48
-(lp49
+p43
+(lp44
 S'development'
-p50
+p45
 aS'product'
-p51
+p46
 aS'design'
-p52
+p47
 aS'recommendation'
-p53
+p48
 aS'interface'
-p54
+p49
 aS'modeling'
-p55
+p50
 aS'implement'
-p56
+p51
 aS'prototype'
-p57
+p52
 as.

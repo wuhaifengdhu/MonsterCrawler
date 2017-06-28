@@ -2,70 +2,68 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'servers'
 p4
-aS'user experience'
+aS'management'
 p5
-aS'storage'
+aS'user experience'
 p6
-aS'cloud computing'
+aS'storage'
 p7
-aS'data scientist'
+aS'cloud computing'
 p8
-aS'user research'
+aS'data scientist'
 p9
-aS'research'
+aS'user research'
 p10
-aS'software design'
+aS'research'
 p11
-aS'engineering'
+aS'software design'
 p12
-aS'enterprise software'
-p13
-aS'product management'
-p14
-aS'security'
-p15
-aS'strategy'
-p16
-aS'data'
-p17
-aS'docker'
-p18
-aS'project management'
-p19
-asS'working-year'
-p20
-(lp21
-V[0]
-p22
-asS'major'
-p23
-(lp24
-S'management'
-p25
-aS'business'
-p26
-aS'computing'
-p27
 aS'engineering'
-p28
-aS'design'
-p29
+p13
+aS'enterprise software'
+p14
+aS'product management'
+p15
+aS'security'
+p16
+aS'strategy'
+p17
+aS'data'
+p18
+aS'docker'
+p19
 aS'project management'
-p30
+p20
+asS'working-year'
+p21
+(lp22
+S'[0]'
+p23
+asS'major'
+p24
+(lp25
+VEngineering
+p26
+aVComputer Science
+p27
+aVBusiness
+p28
+aVManagement Science and Engineering
+p29
 asS'education'
-p31
-(lp32
-S'Bachelor'
-p33
+p30
+(lp31
+VBachelor
+p32
 asS'responsibility'
-p34
-(lp35
+p33
+(lp34
 S'product'
+p35
+aS'insight'
 p36
-aVinsight
-p37
 aS'design'
-p38
+p37
 as.

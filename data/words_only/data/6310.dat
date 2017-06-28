@@ -4,218 +4,208 @@ p2
 (dp3
 S'nosql'
 p4
-I1
-sS'communication'
-p5
-I1
+F0.0060818819205922716
 sS'human resources'
-p6
-I1
+p5
+F0.011022957742636685
 sS'hadoop'
+p6
+F0.0057102511173313993
+sS'analytics'
 p7
-I1
+F0.0057982497465568442
 sS'unix'
 p8
-I1
+F0.0057379750861889997
 sS'data warehousing'
 p9
-I1
-sS'high performance computing'
+F0.0067588672481873188
+sS'hive'
 p10
-I1
+F0.0046350094433111255
 sS'linux'
 p11
-I1
+F0.004102395639553843
 sS'xml'
 p12
-I1
-sS'java'
+F0.0073198064787902096
+sS'access'
 p13
-I1
-sS'big data'
+F0.0051543600557698993
+sS'management'
 p14
-I1
-sS'user experience'
+F0.0020134419271103381
+sS'java'
 p15
-I1
-sS'agile'
-p16
-I1
-sS'xslt'
-p17
-I1
-sS'storage'
-p18
-I1
-sS'information management'
-p19
-I1
-sS'big data analytics'
-p20
-I1
-sS'risk management'
-p21
-I1
-sS'computer science'
-p22
-I1
-sS'innovation'
-p23
-I1
-sS'advanced analytics'
-p24
-I1
-sS'unstructured data'
-p25
-I1
-sS'architecture'
-p26
-I1
-sS'finance'
-p27
-I1
-sS'government'
-p28
-I1
-sS'python'
-p29
-I1
-sS'processing'
-p30
-I1
-sS'data scientist'
-p31
-I1
-sS'automation'
-p32
-I1
-sS'process automation'
-p33
-I1
-sS'spark'
-p34
-I1
-sS'pig'
-p35
-I1
-sS'data'
-p36
-I1
-sS'documentation'
-p37
-I1
-sS'programming'
-p38
-I1
-sS'business intelligence'
-p39
-I1
-sS'communication skills'
-p40
-I1
-sS'data architecture'
-p41
-I1
-sS'application development'
-p42
-I1
-sS'etl'
-p43
-I1
-sS'asset management'
-p44
-I1
-sS'oracle'
-p45
-I1
-sS'organization'
-p46
-I1
-sS'security'
-p47
-I1
-sS'data analytics'
-p48
-I1
-ssS'working-year'
-p49
-(dp50
-V(2, 5]
-p51
-I1
-ssS'major'
-p52
-(dp53
-S'information'
-p54
-I1
-sS'finance'
-p55
-I1
+F0.0027539265948184079
 sS'big data'
-p56
-I1
-sS'business'
-p57
-I1
-sS'communication'
-p58
-I1
+p16
+F0.0028282780585837056
+sS'user experience'
+p17
+F0.0075004732557930123
+sS'agile'
+p18
+F0.0048526441615544648
+sS'xslt'
+p19
+F0.013748381533755369
+sS'storage'
+p20
+F0.0083122256945476879
 sS'information management'
-p59
-I1
-sS'high performance computing'
-p60
-I1
-sS'automation'
-p61
-I1
+p21
+F0.010718828510424777
 sS'big data analytics'
-p62
-I1
-sS'design'
-p63
-I1
+p22
+F0.0073650424549966233
+sS'risk management'
+p23
+F0.0070216829466405251
 sS'computer science'
-p64
-I1
+p24
+F0.0031244072515271572
+sS'innovation'
+p25
+F0.0043018326047438299
 sS'advanced analytics'
-p65
-I1
-sS'ee computer science'
-p66
-I1
-sS'data analytics'
-p67
-I1
-ssS'education'
-p68
-(dp69
-S'Bachelor'
-p70
-I1
-ssS'responsibility'
-p71
-(dp72
-S'development'
-p73
-I1
-sS'information'
-p74
-I1
+p26
+F0.0065395790096401856
+sS'unstructured data'
+p27
+F0.0070862409632292444
+sS'architecture'
+p28
+F0.0048600322726325739
+sS'finance'
+p29
+F0.0059003245648526405
+sS'government'
+p30
+F0.0057935989236199232
+sS'python'
+p31
+F0.0011583366950072577
 sS'processing'
-p75
-I1
-sS'data infrastructure'
-p76
-I1
+p32
+F0.0036290846370460447
+sS'data scientist'
+p33
+F0.0023541592559197296
+sS'process automation'
+p34
+F0.012364986339714664
+sS'sql'
+p35
+F0.0015154307974067714
+sS'spark'
+p36
+F0.0037469680518125745
+sS'pig'
+p37
+F0.0059969515002575363
+sS'data'
+p38
+F0.0015813531716596389
+sS'a'
+F0.0083112973049512297
+sS'science'
+p39
+F0.0015622975293202053
 sS'documentation'
-p77
-I1
+p40
+F0.0064432021309867348
+sS'programming'
+p41
+F0.0024495894107441686
+sS'business intelligence'
+p42
+F0.0045400962417209353
+sS'communication skills'
+p43
+F0.008184724115689164
+sS'data architecture'
+p44
+F0.009016607899589562
+sS'application development'
+p45
+F0.0085135475588583222
+sS'etl'
+p46
+F0.01899843116010122
+sS'asset management'
+p47
+F0.010544936193586308
+sS'oracle'
+p48
+F0.0058333811079140487
+sS'organization'
+p49
+F0.0039181863095148475
+sS'security'
+p50
+F0.0048563351460439823
+sS'high performance computing'
+p51
+F0.0086518608927448112
+sS'data analytics'
+p52
+F0.0045384948477462158
+ssS'working-year'
+p53
+(dp54
+V(2, 5]
+p55
+F0.0027532098409580787
+ssS'major'
+p56
+(dp57
+VBusiness
+p58
+F0.0024038096603869203
+sVData Science
+p59
+F0.0022828644057890281
+sVEconomics
+p60
+F0.0036461589944988019
+sVInformation Science
+p61
+F0.0056281226412313191
+sVComputer Science
+p62
+F0.0020119016585604392
+sVManagement Science and Engineering
+p63
+F0.0028656545299308718
+ssS'education'
+p64
+(dp65
+VBachelor
+p66
+F0.002025286283710904
+ssS'responsibility'
+p67
+(dp68
+S'development'
+p69
+F0.0053820488996183047
+sS'information'
+p70
+F0.0061649119979084203
+sS'processing'
+p71
+F0.0036290846370460447
+sS'data infrastructure'
+p72
+F0.0096201452814662722
+sS'documentation'
+p73
+F0.0064432021309867348
 sS'design'
-p78
-I1
+p74
+F0.022717625933620762
 sS'model'
-p79
-I1
+p75
+F0.0034386907597814239
 ss.

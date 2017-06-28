@@ -6,11 +6,11 @@ S'r studio'
 p4
 aS'data science'
 p5
-aS'information technology'
-p6
 aS'analytics'
+p6
+aS'unix'
 p7
-aS'engineering'
+aS'linux'
 p8
 aS'ic'
 p9
@@ -36,69 +36,59 @@ aS'strategic thinking'
 p19
 aS'business process'
 p20
-aS'data'
-p21
 aS'project management'
+p21
+aS'data'
 p22
-aS'science'
+aS'information technology'
 p23
-aS'analysis'
+aS'science'
 p24
+aS'engineering'
+p25
+aS'analysis'
+p26
 aS'r'
 aS'process engineering'
-p25
-aS'organization'
-p26
-aS'data analytics'
 p27
-asS'working-year'
+aS'organization'
 p28
-(lp29
-V(5, 10]
-p30
-asS'major'
-p31
-(lp32
-S'information'
-p33
-aS'management'
-p34
-aS'business'
-p35
-aS'big data'
-p36
-aS'science'
-p37
-aS'data science'
-p38
-aS'analytics'
-p39
-aS'engineering'
-p40
-aS'information system'
-p41
-aS'project management'
-p42
-aS'information technology'
-p43
-aS'information system management'
-p44
 aS'data analytics'
-p45
-aS'computer science'
-p46
+p29
+asS'working-year'
+p30
+(lp31
+V(5, 10]
+p32
+asS'major'
+p33
+(lp34
+VBusiness
+p35
+aVData Science
+p36
+aVEngineering
+p37
+aVInformation Science
+p38
+aVComputer Science
+p39
+aVManagement Science and Engineering
+p40
 asS'education'
-p47
-(lp48
+p41
+(lp42
 VBachelor
-p49
+p43
 asS'responsibility'
-p50
-(lp51
+p44
+(lp45
 S'development'
-p52
+p46
 aS'information'
-p53
+p47
 aS'analysis'
-p54
+p48
+aS'decision making'
+p49
 as.

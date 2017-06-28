@@ -4,98 +4,101 @@ p2
 (dp3
 S'software development'
 p4
-I1
+F0.0074392863792044654
 sS'open source'
 p5
-I1
+F0.011220771017256471
 sS'big data'
 p6
-I1
-sS'data integration'
-p7
-I1
+F0.0044657021977637457
 sS'data scientist'
-p8
-I1
+p7
+F0.0037170935619785204
 sS'programming'
-p9
-I1
+p8
+F0.0077355455076131641
 sS'integration'
-p10
-I1
+p9
+F0.016184162261014826
 sS'analysis'
-p11
-I1
+p10
+F0.0024043419070465259
 sS'business process'
+p11
+F0.010720290980771076
+sS'engineering'
 p12
-I1
+F0.0042977360599075606
 sS'computer science'
 p13
-I1
+F0.0049332746076744581
 sS'agile'
 p14
-I1
+F0.0076620697287702079
 sS'security'
 p15
-I1
-sS'data'
+F0.0076678975990168135
+sS'education'
 p16
-I1
-sS'application development'
+F0.0073636026309237511
+sS'data'
 p17
-I1
-ssS'working-year'
+F0.0029130190004256506
+sS'application development'
 p18
-(dp19
-V(0, 2]
+F0.013442443513986825
+sS'science'
+p19
+F0.0024667855726108506
+ssS'working-year'
 p20
-I1
-sV(2, 5]
-p21
-I1
-ssS'major'
+(dp21
+V(0, 2]
 p22
-(dp23
-S'development practice'
+F0.0079915093476847481
+sV(2, 5]
+p23
+F0.0043471734330917033
+ssS'major'
 p24
-I1
-sS'big data'
-p25
-I1
-sS'business'
+(dp25
+VEngineering
 p26
-I1
-sS'computer science'
+F0.0079030839535674646
+sVComputer Science
 p27
-I1
-ssS'education'
+F0.003176686829305957
+sVBusiness
 p28
-(dp29
+F0.0037954889374530324
+ssS'education'
+p29
+(dp30
 VBachelor
-p30
-I1
-ssS'responsibility'
 p31
-(dp32
+F0.0031978204479645852
+ssS'responsibility'
+p32
+(dp33
 S'development'
-p33
-I1
-sVinsight
 p34
-I1
-sS'analysis'
+F0.016995943893531491
+sS'insight'
 p35
-I1
-sS'transformation'
+F0.0064382223017876673
+sS'analysis'
 p36
-I1
-sS'analytic'
+F0.0024043419070465259
+sS'transformation'
 p37
-I1
-sS'model'
+F0.011033182930992513
+sS'analytic'
 p38
-I1
-sS'implement'
+F0.023765536550522555
+sS'model'
 p39
-I1
+F0.0054295117259706696
+sS'implement'
+p40
+F0.0074310988600687989
 ss.

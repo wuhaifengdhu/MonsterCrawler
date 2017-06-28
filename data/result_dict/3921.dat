@@ -14,7 +14,7 @@ aS'experimentation'
 p8
 aS'visualization'
 p9
-aS'management'
+aS'statistics'
 p10
 aS'big data'
 p11
@@ -34,97 +34,89 @@ aS'marketing'
 p18
 aS'data scientist'
 p19
-aS'sql'
+aS'water'
 p20
-aS'modeling'
+aS'management'
 p21
-aS'data'
+aS'sql'
 p22
-aS'training'
+aS'modeling'
 p23
-aS'word'
+aS'data'
 p24
-aS'data visualization'
+aS'training'
 p25
-aS'science'
+aS'word'
 p26
-aS'analysis'
+aS'data visualization'
 p27
-aS'machine learning'
+aS'science'
 p28
-aS'r'
-aS'healthcare'
+aS'analysis'
 p29
-aS'powerpoint'
+aS'machine learning'
 p30
-aS'microsoft azure'
+aS'r'
+aS'algorithms'
 p31
-asS'working-year'
+aS'healthcare'
 p32
-(lp33
-V[0]
+aS'powerpoint'
+p33
+aS'microsoft azure'
 p34
-asS'major'
+asS'working-year'
 p35
 (lp36
-S'science'
+S'[0]'
 p37
-aS'management'
+asS'major'
 p38
-aS'business'
-p39
-aS'big data'
+(lp39
+VStatistics
 p40
-aS'marketing'
+aVBusiness
 p41
-aS'data science'
+aVData Science
 p42
-aS'data mining'
+aVEconomics
 p43
-aS'statistic'
+aVEngineering
 p44
-aS'machine learning'
+aVComputer Science
 p45
-aS'engineering'
+aVMathematics
 p46
-aS'computer science engineering'
+aVManagement Science and Engineering
 p47
-aS'computer science'
-p48
-aS'applied math'
-p49
-aS'ee computer science'
-p50
-aS'data mining machine learning'
-p51
 asS'education'
+p48
+(lp49
+VBachelor
+p50
+aVMaster
+p51
+asS'responsibility'
 p52
 (lp53
-VBachelor
-p54
-aVMaster
-p55
-asS'responsibility'
-p56
-(lp57
 S'development'
-p58
+p54
 aS'product'
-p59
+p55
 aS'data analysis'
-p60
-aVinsight
-p61
+p56
+aS'insight'
+p57
 aS'analysis'
-p62
+p58
 aS'data mining'
-p63
+p59
 aS'interface'
-p64
+p60
 aS'modeling'
-p65
+p61
 aS'model'
-p66
+p62
 aS'transformation'
-p67
+p63
 as.

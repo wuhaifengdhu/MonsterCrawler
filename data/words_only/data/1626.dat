@@ -4,220 +4,210 @@ p2
 (dp3
 S'nosql'
 p4
-I1
-sS'communication'
+F0.0072022285901750588
+sS'intelligence'
 p5
-I1
+F0.0041317331839125764
 sS'data science'
 p6
-I1
+F0.0031653708570015767
 sS'systems analysis'
 p7
-I1
+F0.014456912016007312
 sS'business intelligence'
 p8
-I1
+F0.0053764297599326874
 sS'communication skills'
 p9
-I1
+F0.0096924364527897992
 sS'data mining'
 p10
-I1
-sS'education'
+F0.0055841561281108881
+sS'sas'
 p11
-I1
-sS'random forest'
+F0.0036453601491510967
+sS'machine learning'
 p12
-I1
+F0.0017250466364053666
 sS'change management'
 p13
-I1
+F0.010994634181888717
 sS'visualization'
 p14
-I1
-sS'management'
+F0.0049323559787736032
+sS'statistics'
 p15
-I1
+F0.0024539811968489595
 sS'java'
 p16
-I1
-sS'hadoop'
-p17
-I1
-sS'information visualization'
-p18
-I1
-sS'matlab'
-p19
-I1
-sS'microstrategy'
-p20
-I1
-sS'intelligence'
-p21
-I1
-sS'mathematics'
-p22
-I1
-sS'computer science'
-p23
-I1
-sS'clustering'
-p24
-I1
-sS'python'
-p25
-I1
-sS'aws'
-p26
-I1
-sS'random forests'
-p27
-I1
-sS'leadership'
-p28
-I1
-sS'sql'
-p29
-I1
-sS'modeling'
-p30
-I1
-sS'data'
-p31
-I1
-sS'information technology'
-p32
-I1
-sS'search'
-p33
-I1
-sS'science'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'programming'
-p36
-I1
-sS'analysis'
-p37
-I1
-sS'spss'
-p38
-I1
-sS'r'
-I1
-sS'training'
-p39
-I1
+F0.0065224577245699125
 sS'statistical inference'
+p17
+F0.011974828502750194
+sS'education'
+p18
+F0.0055227019731928133
+sS'hadoop'
+p19
+F0.0067621394810503414
+sS'information visualization'
+p20
+F0.014912888507977317
+sS'r'
+F0.0029210121400733745
+sS'computer science'
+p21
+F0.0036999559557558438
+sS'microstrategy'
+p22
+F0.012021821740779488
+sS'mathematics'
+p23
+F0.0096204909582937141
+sS'matlab'
+p24
+F0.0033589504937843809
+sS'clustering'
+p25
+F0.0084826646330426574
+sS'python'
+p26
+F0.0027434290144908737
+sS'aws'
+p27
+F0.0068775693388992368
+sS'c'
+F0.0032911103260476245
+sS'random forests'
+p28
+F0.014774352859200333
+sS'management'
+p29
+F0.002384339124209611
+sS'sql'
+p30
+F0.0035891782043844583
+sS'modeling'
+p31
+F0.0021372254974251379
+sS'spark'
+p32
+F0.0044371990087254173
+sS'data'
+p33
+F0.0031210917861703396
+sS'information technology'
+p34
+F0.0082017080835835397
+sS'search'
+p35
+F0.0081631309938151788
+sS'science'
+p36
+F0.011100535076748828
+sS'programming'
+p37
+F0.0029008295653549366
+sS'analysis'
+p38
+F0.00090162821514244717
+sS'spss'
+p39
+F0.0058061811338356974
+sS'leadership'
 p40
-I1
-ssS'working-year'
+F0.004348443740010058
+sS'algorithms'
 p41
-(dp42
-V(5, 10]
+F0.0047215044167506683
+sS'training'
+p42
+F0.0061928809237429714
+sS'organization'
 p43
-I1
-ssS'major'
+F0.0046399574717938975
+ssS'working-year'
 p44
 (dp45
-S'information'
+V(5, 10]
 p46
-I1
-sS'management'
+F0.0031727480567812073
+ssS'major'
 p47
-I1
-sS'business'
-p48
-I1
-sS'computing'
+(dp48
+VStatistics
 p49
-I1
-sS'science'
+F0.0047408020260212638
+sVBusiness
 p50
-I1
-sS'data science'
+F0.0028466167030897741
+sVData Science
 p51
-I1
-sS'data mining'
+F0.0027033920594870067
+sVInformation Science
 p52
-I1
-sS'communication'
+F0.006664882075142352
+sVComputer Science
 p53
-I1
-sS'machine learning'
+F0.0023825151219794677
+sVMathematics
 p54
-I1
-sS'design'
+F0.0045112434989011893
+sVManagement Science and Engineering
 p55
-I1
-sS'computer science'
-p56
-I1
-sS'statistic'
-p57
-I1
-sS'mathematics'
-p58
-I1
-sS'computer science mathematics'
-p59
-I1
-sS'information technology'
-p60
-I1
-sS'data mining machine learning'
-p61
-I1
+F0.003393538259128664
 ssS'education'
-p62
-(dp63
+p56
+(dp57
 VBachelor
-p64
-I1
+p58
+F0.0023983653359734387
 ssS'responsibility'
-p65
-(dp66
+p59
+(dp60
 S'information'
-p67
-I1
+p61
+F0.0036502768408668276
 sS'business problem'
-p68
-I1
+p62
+F0.0074951330582385383
 sS'provide leadership'
-p69
-I1
-sVinsight
-p70
-I1
+p63
+F0.013684947784788973
+sS'insight'
+p64
+F0.0096573334526815005
+sS'drive ... decision'
+p65
+F0.010621270365076615
 sS'analysis'
-p71
-I1
+p66
+F0.00090162821514244717
 sS'analytic'
-p72
-I1
+p67
+F0.0059413841376306387
+sS'drive ... model'
+p68
+F0.016403398979867319
 sS'design'
-p73
-I1
+p69
+F0.0038432073947854673
 sS'ownership'
-p74
-I1
+p70
+F0.010369193289703652
 sS'data mining'
-p75
-I1
+p71
+F0.0055841561281108881
 sS'modeling'
-p76
-I1
+p72
+F0.0021372254974251379
 sS'implement'
-p77
-I1
+p73
+F0.0055733241450515985
 sS'prototype'
-p78
-I1
+p74
+F0.0082978195093412841
 sS'model'
-p79
-I1
+p75
+F0.012216401383434007
 ss.

@@ -14,31 +14,31 @@ aS'quality control'
 p8
 aS'geospatial data'
 p9
-aS'analysis'
-p10
-aVpanda
-p11
 aS'geography'
-p12
+p10
 aS'management'
-p13
+p11
 aS'open source'
-p14
+p12
 aS'rdbms'
-p15
+p13
 aS'arcgis'
-p16
+p14
 aS'agile'
-p17
+p15
 aS'recruiting'
-p18
+p16
 aS'research'
-p19
+p17
 aS'teamwork'
-p20
+p18
 aS'computer science'
-p21
+p19
 aS'innovation'
+p20
+aS'numpy'
+p21
+aS'pandas'
 p22
 aS'data management'
 p23
@@ -57,72 +57,65 @@ aS'matplotlib'
 p29
 aS'military experience'
 p30
-aS'java'
+aS'organization'
 p31
-aS'data'
+aS'gis'
 p32
-aS'training'
+aS'data'
 p33
-aS'postgresql'
+aS'a'
+aS'java'
 p34
-aS'gis analysis'
+aS'training'
 p35
-aS'science'
+aS'postgresql'
 p36
-aS'documentation'
+aS'gis analysis'
 p37
-aS'c++'
-p38
-aS'banking'
-p39
-aS'military'
-p40
-asS'working-year'
-p41
-(lp42
-V(0, 2]
-p43
-aV(2, 5]
-p44
-asS'major'
-p45
-(lp46
-S'information'
-p47
-aS'management'
-p48
 aS'science'
-p49
-aS'data science'
-p50
-aS'data analyst'
-p51
-aS'analytics'
-p52
-aS'history'
-p53
-aS'computer science'
-p54
-aS'law'
-p55
-aS'geography'
-p56
-asS'education'
-p57
-(lp58
-VBachelor
-p59
-asS'responsibility'
-p60
-(lp61
-S'development'
-p62
-aS'information'
-p63
-aS'product'
-p64
+p38
 aS'documentation'
-p65
+p39
 aS'analysis'
-p66
+p40
+aS'banking'
+p41
+aS'military'
+p42
+asS'working-year'
+p43
+(lp44
+V(0, 2]
+p45
+aV(2, 5]
+p46
+asS'major'
+p47
+(lp48
+VData Science
+p49
+aVManagement Science and Engineering
+p50
+aVComputer Science
+p51
+aVGeography
+p52
+asS'education'
+p53
+(lp54
+VBachelor
+p55
+asS'responsibility'
+p56
+(lp57
+S'development'
+p58
+aS'information'
+p59
+aS'product'
+p60
+aS'documentation'
+p61
+aS'analysis'
+p62
 as.

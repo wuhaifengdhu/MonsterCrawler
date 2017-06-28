@@ -1,5 +1,5 @@
-skills: {'management': 1, 'government': 1, 'communication': 1, 'data scientist': 1, 'integration': 1, 'dod': 1, 'access': 1, 'data management': 1, 'analysis': 1, 'data security': 1, 'policy': 1, 'ic': 1, 'data': 1, 'security': 1, 'project management': 1}
-working-year: {u'(5, 10]': 1}
-major: {'management': 1, 'business': 1, 'communication': 1, 'data analyst': 1, 'law': 1, 'project management': 1}
-education: {u'Bachelor': 1}
-responsibility: {'report': 1, 'analytic': 1, 'analysis': 1, 'pattern': 1}
+skills: {'a': 0.007632824055567456, 'training': 0.009605284698050325, 'management': 0.0110944759248937, 'government': 0.010641304145424349, 'communication': 0.006461915751472884, 'data scientist': 0.004323965980260728, 'integration': 0.009413237233447398, 'dod': 0.017230942682757176, 'access': 0.009467191939169204, 'data management': 0.011224155529017432, 'analysis': 0.0013984437622617549, 'data security': 0.02151217976731995, 'policy': 0.06684877293161019, 'organization': 0.007196668731761965, 'ic': 0.06934511783404301, 'data': 0.0072613155841514026, 'security': 0.008919799247835886, 'project management': 0.00776103397275325}
+working-year: {u'(5, 10]': 0.004920996986027996}
+major: {u'Data Science': 0.004193016255530868, u'Business': 0.004415160600710671, u'Management Science and Engineering': 0.005263447095791398}
+education: {u'Bachelor': 0.0037199135823261504}
+responsibility: {'report': 0.008470516000703792, 'analytic': 0.018430416100405248, 'decision making': 0.01333299204052863, 'analysis': 0.0013984437622617549, 'pattern': 0.010688126839078148}

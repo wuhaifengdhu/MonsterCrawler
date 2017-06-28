@@ -4,74 +4,71 @@ p2
 (lp3
 S'science'
 p4
-aS'java'
+aS'visualization'
 p5
-aS'data visualization'
+aS'java'
 p6
-aS'python'
+aS'data visualization'
 p7
-aS'marketing'
+aS'python'
 p8
-aS'data science'
+aS'marketing'
 p9
-aS'machine learning'
-p10
-aS'analytics'
-p11
-aS'engineering'
-p12
-aS'computer science'
-p13
-aS'communication'
-p14
-aS'organization'
-p15
-aS'data'
-p16
-aS'scripting'
-p17
-aS'lean startup'
-p18
-asS'working-year'
-p19
-(lp20
-V[0]
-p21
-asS'major'
-p22
-(lp23
-S'marketing'
-p24
 aS'data science'
-p25
-aS'communication'
-p26
+p10
+aS'physics'
+p11
 aS'machine learning'
-p27
+p12
 aS'analytics'
-p28
+p13
 aS'engineering'
-p29
+p14
 aS'computer science'
+p15
+aS'a'
+aS'communication'
+p16
+aS'organization'
+p17
+aS'data'
+p18
+aS'scripting'
+p19
+aS'lean startup'
+p20
+asS'working-year'
+p21
+(lp22
+S'[0]'
+p23
+asS'major'
+p24
+(lp25
+VEngineering
+p26
+aVData Science
+p27
+aVEconomics
+p28
+aVPhysics
+p29
+aVComputer Science
 p30
-aS'science'
-p31
-aVphysic
-p32
 asS'education'
+p31
+(lp32
+VBachelor
 p33
-(lp34
-S'Bachelor'
-p35
 asS'responsibility'
-p36
-(lp37
+p34
+(lp35
 S'product'
-p38
-aVinsight
-p39
+p36
+aS'insight'
+p37
 aS'understand'
-p40
+p38
 aS'solve problem'
-p41
+p39
 as.

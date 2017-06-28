@@ -4,205 +4,193 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0023078270540974584
 sS'testing'
 p5
-I1
-sS'engineering'
+F0.0029845160567055582
+sS'analytics'
 p6
-I1
-sS'product strategy'
-p7
-I1
-sS'problem solving'
-p8
-I1
-sS'research'
-p9
-I1
-sS'management'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'critical thinking'
-p12
-I1
-sS'agile'
-p13
-I1
-sS'excel'
-p14
-I1
-sS'strategy'
-p15
-I1
-sS'market research'
-p16
-I1
-sS'quality assurance'
-p17
-I1
-sS'advanced analytics'
-p18
-I1
-sS'finance'
-p19
-I1
-sS'python'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'user research'
-p22
-I1
-sS'leadership'
-p23
-I1
-sS'data'
-p24
-I1
-sS'information technology'
-p25
-I1
-sS'software development'
-p26
-I1
-sS'life sciences'
-p27
-I1
-sS'saas'
-p28
-I1
-sS'science'
-p29
-I1
-sS'documentation'
-p30
-I1
-sS'education'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'spss'
-p33
-I1
-sS'r'
-I1
-sS'product launch'
-p34
-I1
-sS'architecture'
-p35
-I1
-sS'product management'
-p36
-I1
-sS'organization'
-p37
-I1
-sS'valuation'
-p38
-I1
-sS'data analytics'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'information'
-p45
-I1
-sS'life sciences'
-p46
-I1
-sS'management'
-p47
-I1
-sS'finance'
-p48
-I1
-sS'big data'
-p49
-I1
-sS'science'
-p50
-I1
-sS'statistic'
-p51
-I1
-sS'business'
-p52
-I1
+F0.0025356777317303981
 sS'engineering'
-p53
-I1
-sS'data analytics'
-p54
-I1
-sS'communication'
-p55
-I1
+p7
+F0.001785502590486377
+sS'product strategy'
+p8
+F0.006917232196958948
+sS'problem solving'
+p9
+F0.0035781514066373921
+sS'sas'
+p10
+F0.0020192957094422983
+sS'research'
+p11
+F0.0024873479348738723
+sS'statistics'
+p12
+F0.001359348184843447
+sS'big data'
+p13
+F0.0018552844407619059
+sS'critical thinking'
+p14
+F0.005716101500016061
+sS'agile'
+p15
+F0.0095496641663243859
+sS'excel'
+p16
+F0.0023570761323703578
+sS'strategy'
+p17
+F0.0022959350309429078
+sS'market research'
+p18
+F0.0046717319540793686
+sS'quality assurance'
+p19
+F0.0056888540377449705
 sS'advanced analytics'
-p56
-I1
-sS'law'
-p57
-I1
+p20
+F0.0042898113036998302
+sS'finance'
+p21
+F0.0038704752976438605
+sS'python'
+p22
+F0.00075984185532546056
+sS'data scientist'
+p23
+F0.0015442735643788313
+sS'user research'
+p24
+F0.0081840438578660735
+sS'leadership'
+p25
+F0.0024087589230376415
+sS'data'
+p26
+F0.0012102192640252338
 sS'information technology'
-p58
-I1
-ssS'education'
-p59
-(dp60
-S'Bachelor'
-p61
-I1
-ssS'responsibility'
-p62
-(dp63
-S'development'
-p64
-I1
-sS'information'
-p65
-I1
-sS'product'
-p66
-I1
-sS'business problem'
-p67
-I1
+p27
+F0.0045432202212270338
+sS'software development'
+p28
+F0.0030906656240135169
+sS'life sciences'
+p29
+F0.0061725968786537364
+sS'saas'
+p30
+F0.0090015810384858931
+sS'science'
+p31
+F0.0010248307408077149
 sS'documentation'
-p68
-I1
-sS'communicate'
-p69
-I1
+p32
+F0.0042265903191603948
+sS'education'
+p33
+F0.0030592226673662815
 sS'analysis'
-p70
-I1
+p34
+F0.00049944420080776954
+sS'spss'
+p35
+F0.0032162519400256054
+sS'r'
+F0.00080902668602615333
 sS'product launch'
-p71
-I1
+p36
+F0.016152030305444872
+sS'architecture'
+p37
+F0.0031880678173245745
+sS'product management'
+p38
+F0.0045524752463943748
+sS'organization'
+p39
+F0.0025702388327721302
+sS'valuation'
+p40
+F0.0064402503512907897
+sS'data analytics'
+p41
+F0.0029771467660142815
+ssS'working-year'
+p42
+(dp43
+V(2, 5]
+p44
+F0.0018060414408617134
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0026261002476502624
+sVBusiness
+p48
+F0.0015768430716823821
+sVData Science
+p49
+F0.0014975058055467386
+sVEconomics
+p50
+F0.0023917952587820127
+sVEngineering
+p51
+F0.001785502590486377
+sVInformation Science
+p52
+F0.0036919171844811863
+sVManagement Science and Engineering
+p53
+F0.0018798025342112133
+ssS'education'
+p54
+(dp55
+VBachelor
+p56
+F0.0013285405651164821
+sVMaster
+p57
+F0.0010601759259827651
+ssS'responsibility'
+p58
+(dp59
+S'development'
+p60
+F0.0017652492746561496
+sS'information'
+p61
+F0.0080880769651859741
+sS'product'
+p62
+F0.019606310360317007
+sS'business problem'
+p63
+F0.0041518229768668291
+sS'documentation'
+p64
+F0.0042265903191603948
+sS'communicate'
+p65
+F0.0029245523065329331
+sS'analysis'
+p66
+F0.00049944420080776954
+sS'product launch'
+p67
+F0.016152030305444872
 sS'interface'
-p72
-I1
+p68
+F0.0046028530591109016
 sS'understand'
-p73
-I1
+p69
+F0.0061273463948812688
 sS'prototype'
-p74
-I1
+p70
+F0.0045964597865155799
 ss.

@@ -4,163 +4,180 @@ p2
 (dp3
 S'consulting'
 p4
-I1
-sS'communication'
+F0.0078728735003870051
+sS'nosql'
 p5
-I1
-sS'energy'
+F0.0095360517918694158
+sS'communication'
 p6
-I1
-sS'analytics'
+F0.005516269543940266
+sS'energy'
 p7
-I1
-sS'education'
+F0.010750854724913186
+sS'dashboards'
 p8
-I1
-sS'quantitative analysis'
-p9
-I1
-sS'critical thinking'
-p10
-I1
-sS'saas'
-p11
-I1
-sS'access'
-p12
-I1
-sS'statistical software'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'data analysis'
-p15
-I1
-sS'data scientist'
-p16
-I1
-sS'training'
-p17
-I1
-sS'experimental design'
-p18
-I1
-sS'leadership'
-p19
-I1
-sS'sql'
-p20
-I1
-sS'translation'
-p21
-I1
-sS'data'
-p22
-I1
-sS'employee engagement'
-p23
-I1
-sS'data visualization'
-p24
-I1
-sS'sql server'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'programming'
-p27
-I1
-sS'analysis'
-p28
-I1
-sS'spss'
-p29
-I1
-sS'r'
-I1
-ssS'working-year'
-p30
-(dp31
-V(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'communication'
-p35
-I1
-sS'machine learning'
-p36
-I1
+F0.017283383220162051
 sS'analytics'
-p37
-I1
-sS'design'
-p38
-I1
-sS'computer science'
-p39
-I1
-sS'statistic'
-p40
-I1
-sS'computer science economics'
-p41
-I1
-ssS'education'
-p42
-(dp43
-VBachelor
-p44
-I1
-sVMaster
-p45
-I1
-ssS'responsibility'
-p46
-(dp47
-S'development'
-p48
-I1
-sS'product'
-p49
-I1
-sS'data analysis'
-p50
-I1
-sS'presentation'
-p51
-I1
-sS'manage data'
-p52
-I1
-sS'communicate'
-p53
-I1
-sS'analysis'
-p54
-I1
-sS'improvement'
-p55
-I1
-sS'analytic'
-p56
-I1
-sS'design'
-p57
-I1
-sS'recommendation'
-p58
-I1
-sS'report'
-p59
-I1
+p9
+F0.0030304441184095003
+sS'sas'
+p10
+F0.014479827770147214
+sS'machine learning'
+p11
+F0.0022840338739861998
 sS'quantitative analysis'
+p12
+F0.026578413533243417
+sS'cassandra'
+p13
+F0.013116399033312463
+sS'management'
+p14
+F0.0031569646940754429
+sS'critical thinking'
+p15
+F0.01366287675613595
+sS'saas'
+p16
+F0.021515974189551645
+sS'access'
+p17
+F0.016163498432727907
+sS'statistical software'
+p18
+F0.01371253439476477
+sS'computer science'
+p19
+F0.0048988963874119183
+sS'data analysis'
+p20
+F0.0051699024911695647
+sS'data scientist'
+p21
+F0.0036911904709542795
+sS'training'
+p22
+F0.0081996332788234465
+sS'experimental design'
+p23
+F0.012068685954843889
+sS'leadership'
+p24
+F0.0057575213282363138
+sS'sql'
+p25
+F0.0071283330191607716
+sS'translation'
+p26
+F0.017728792733181856
+sS'data'
+p27
+F0.00082649120470015965
+sS'a'
+F0.013031650826578582
+sS'employee engagement'
+p28
+F0.020974627106019425
+sS'data visualization'
+p29
+F0.0068527304027163789
+sS'sql server'
+p30
+F0.0097485312518418871
+sS'science'
+p31
+F0.0024495954292477087
+sS'economics'
+p32
+F0.0083501457294754746
+sS'programming'
+p33
+F0.0038408196335709961
+sS'analysis'
+p34
+F0.0023875869111786058
+sS'spss'
+p35
+F0.0076876265883538859
+sS'r'
+F0.0019337711031844639
+sS'organization'
+p36
+F0.0061434976978455794
+sS'education'
+p37
+F0.0073122883268755025
+ssS'working-year'
+p38
+(dp39
+V(2, 5]
+p40
+F0.0043168795415719011
+ssS'major'
+p41
+(dp42
+VData Science
+p43
+F0.003579404120575131
+sVEconomics
+p44
+F0.0057169740331862746
+sVComputer Science
+p45
+F0.0031545496388578316
+sVManagement Science and Engineering
+p46
+F0.0044931865451877783
+ssS'education'
+p47
+(dp48
+VBachelor
+p49
+F0.003175535984912567
+sVMaster
+p50
+F0.0025340790425929507
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+F0.0042193763150317719
+sS'product'
+p54
+F0.028118318272844878
+sS'data analysis'
+p55
+F0.0051699024911695647
+sS'presentation'
+p56
+F0.008583116175294796
+sS'manage data'
+p57
+F0.018427989854308865
+sS'communicate'
+p58
+F0.0069903933180543278
+sS'analysis'
+p59
+F0.0023875869111786058
+sS'improvement'
 p60
-I1
+F0.0093596045168610024
+sS'analytic'
+p61
+F0.023599923055396963
+sS'design'
+p62
+F0.0050885672822943472
+sS'recommendation'
+p63
+F0.0091017482397849174
+sS'report'
+p64
+F0.0072309282932837247
+sS'quantitative analysis'
+p65
+F0.026578413533243417
 ss.

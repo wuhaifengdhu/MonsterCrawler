@@ -1,5 +1,5 @@
-skills: {'minitab': 1, 'processing': 1, 'signal processing': 1, 'software engineering': 1, 'data visualization': 1, 'six sigma': 1, 'communication': 1, 'data science': 1, 'testing': 1, 'programming': 1, 'machine learning': 1, 'python': 1, 'r': 1, 'data munging': 1, 'mysql': 1, 'computer science': 1, 'regression': 1, 'scripting': 1, 'matlab': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'software engineering': 1, 'communication': 1, 'data science': 1, u'applied statistic': 1, 'machine learning': 1, 'computer science software engineering': 1, 'computer science': 1, 'statistic': 1, 'ee computer science': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'information': 1, 'processing': 1}
+skills: {'science': 0.005021670629957803, 'minitab': 0.02993022067686817, 'processing': 0.011664914904790857, 'signal processing': 0.02238335722543357, 'software engineering': 0.01858616420510008, 'data visualization': 0.014048097325568576, 'six sigma': 0.030291956284200103, 'communication': 0.011308352565077546, 'data science': 0.008591720897575709, 'testing': 0.014624128677857234, 'programming': 0.007873680248820542, 'machine learning': 0.00468226944167171, 'python': 0.003723225091094757, 'engineering': 0.008748962693383247, 'r': 0.003964230761528151, 'data munging': 0.039240189757734134, 'mysql': 0.01695827090490873, 'computer science': 0.010042737594194433, 'regression': 0.016972627076298576, 'scripting': 0.017379174124619024, 'matlab': 0.009117151340271891}
+working-year: {u'(2, 5]': 0.008849603060222396}
+major: {u'Engineering': 0.016088420905476623, u'Statistics': 0.012867891213486287, u'Data Science': 0.007337778447179018, u'Computer Science': 0.006466826759658555}
+education: {u'Bachelor': 0.006509848769070762, u'Master': 0.005194862037315549}
+responsibility: {'information': 0.009907894282352819, 'processing': 0.011664914904790857}

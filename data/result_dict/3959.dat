@@ -26,7 +26,7 @@ aS'regression'
 p14
 aS'clustering'
 p15
-aS'management'
+aS'statistics'
 p16
 aS'big data'
 p17
@@ -54,123 +54,105 @@ aS'python'
 p28
 aS'data scientist'
 p29
-aS'statistical modeling'
+aS'management'
 p30
-aS'modeling'
+aS'statistical modeling'
 p31
-aS'data'
+aS'modeling'
 p32
-aS'software development'
+aS'data'
 p33
-aS'search'
+aS'software development'
 p34
-aS'svm'
+aS'search'
 p35
-aS'glm'
+aS'svm'
 p36
-aS'software engineering'
+aS'glm'
 p37
-aS'science'
+aS'software engineering'
 p38
-aS'analysis'
+aS'science'
 p39
-aS'machine learning'
+aS'analysis'
 p40
+aS'machine learning'
+p41
 aS'r'
 aS'data analytics'
-p41
-asS'working-year'
 p42
-(lp43
-V(0, 2]
-p44
-aV(2, 5]
+asS'working-year'
+p43
+(lp44
+V(2, 5]
 p45
 asS'major'
 p46
 (lp47
-S'information'
+VStatistics
 p48
-aS'management'
+aVBusiness
 p49
-aS'general'
+aVData Science
 p50
-aS'business'
+aVEngineering
 p51
-aS'big data'
+aVComputer Science
 p52
-aS'statistics computer science'
+aVMathematics
 p53
-aS'science'
+aVManagement Science and Engineering
 p54
-aS'statistic'
-p55
-aS'computer science mathematics'
-p56
-aS'mathematics'
-p57
-aS'machine learning'
-p58
-aS'analytics'
-p59
-aS'engineering'
-p60
-aS'design'
-p61
-aS'computer science'
-p62
-aS'data mining'
-p63
-aS'software engineering'
-p64
-aS'phd'
-p65
-aS'data analytics'
-p66
 asS'education'
-p67
-(lp68
+p55
+(lp56
 VBachelor
-p69
+p57
 aVMaster
-p70
+p58
 aVDoctor
-p71
+p59
 asS'responsibility'
-p72
-(lp73
+p60
+(lp61
 S'development'
-p74
+p62
 aS'information'
-p75
+p63
 aS'product'
-p76
+p64
 aS'data analysis'
-p77
+p65
 aS'formulate'
-p78
+p66
+aS'develop ... system'
+p67
 aS'business problem'
-p79
+p68
 aS'evaluation'
-p80
+p69
 aS'modeling'
-p81
+p70
 aS'analysis'
-p82
-aS'statistical model'
-p83
-aS'design'
-p84
+p71
+aS'develop ... model'
+p72
+aS'track ... activity'
+p73
 aS'data mining'
-p85
+p74
 aS'report'
-p86
-aS'test model'
-p87
+p75
+aS'design'
+p76
 aS'implement'
-p88
+p77
 aS'extract'
-p89
+p78
 aS'model'
-p90
+p79
+aS'decision making'
+p80
+aS'test ... model'
+p81
 as.

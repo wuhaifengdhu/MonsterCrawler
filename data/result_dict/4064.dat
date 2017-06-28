@@ -2,99 +2,89 @@
 S'skills'
 p2
 (lp3
-S'science'
+S'scikit-learn'
 p4
-aS'networking'
+aS'analytics'
 p5
-aS'programming'
+aS'engineering'
 p6
-aS'big data'
+aS'data mining'
 p7
-aS'anomaly detection'
+aS'statistics'
 p8
-aS'python'
+aS'networking'
 p9
-aS'deep learning'
-p10
-aS'predictive analytics'
-p11
-aS'data scientist'
-p12
-aS'perl'
-p13
-aS'analytics'
-p14
-aS'engineering'
-p15
-aS'r'
-aS'matlab'
-p16
-aS'data mining'
-p17
-aS'communication'
-p18
-aS'electrical engineering'
-p19
-aS'machine learning'
-p20
-aS'data'
-p21
-aS'scripting'
-p22
-aS'computer science'
-p23
-asS'working-year'
-p24
-(lp25
-V[0]
-p26
-asS'major'
-p27
-(lp28
-S'telecommunication'
-p29
 aS'big data'
-p30
-aS'science'
-p31
-aS'machine learning statistics'
-p32
-aS'statistic'
-p33
-aS'machine learning'
-p34
-aS'analytics'
-p35
-aS'engineering'
-p36
-aS'electrical'
-p37
-aS'computer science'
-p38
-aS'phd'
-p39
-aS'data mining'
-p40
+p10
+aS'anomaly detection'
+p11
+aS'deep learning'
+p12
+aS'hadoop'
+p13
+aS'perl'
+p14
+aS'matlab'
+p15
 aS'communication'
-p41
+p16
+aS'pandas'
+p17
+aS'computer science'
+p18
+aS'python'
+p19
+aS'data scientist'
+p20
+aS'spark'
+p21
+aS'data'
+p22
+aS'science'
+p23
+aS'programming'
+p24
+aS'hive'
+p25
+aS'machine learning'
+p26
+aS'r'
 aS'electrical engineering'
-p42
+p27
+aS'scripting'
+p28
 aS'predictive analytics'
-p43
-aS'data mining machine learning'
-p44
+p29
+asS'working-year'
+p30
+(lp31
+S'[0]'
+p32
+asS'major'
+p33
+(lp34
+VEngineering
+p35
+aVData Science
+p36
+aVElectrical and Electronics Engineering
+p37
+aVStatistics
+p38
+aVComputer Science
+p39
 asS'education'
-p45
-(lp46
+p40
+(lp41
 VDoctor
-p47
+p42
 asS'responsibility'
-p48
-(lp49
+p43
+(lp44
 S'model'
-p50
-aVinsight
-p51
+p45
+aS'insight'
+p46
 aS'data mining'
-p52
+p47
 as.

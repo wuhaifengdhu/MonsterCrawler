@@ -1,222 +1,411 @@
-data_scientist
-intern
-description
--
-join_team
-quality
-customer
-experience
-analytics
-expert
-looking
-university_student
-enrolled_master
-advanced_degree
-program
-working
-technical_non-technical
-internship
-role
-hp_study
-summer_break
-university_semester
-candidate
-engaged
-variety
-data_collection
-analytic
-programming
-reporting
-related
-project
-support_hp
-inc's
-quality
-customer
-experience
-improvement
-program
-candidate
-work_independently
-global
-team
-environment
-work
-requires
-confidence
-programming
-mathematics
-ability
-coordinate
-execute
-data_collection
-processing
-reporting
-analytics
-project
-project
-may_include
-limited
-research
-identify
-collect
-data
-multiple_source
-consolidate
-clean
-data
-prepare
-statistical_analysis
-visualization
-conduct
-statistical_analysis
-correlate
-strength
-relationship
-customer
-experience
-financial
-process
-measure
-participate
-process_automate
-data_collection
-data_warehouse
-build
-model_predict
-revenue_growth
-customer
-experience
-process
-metric
-evaluate
-suitability
-metric_measure
-analysis
-inclusion
-scorecard
-improvement_effort
-publish
-periodic
-progress_report
-project
-status
-scorecard
-education
-experience
-required
-bachelor_degree
-1st
-year
-master's
-program
-completed
-strong
-preference
-computer_science
-data
-science
-statistic_mathematics
-degree
-basic
-programming
-skill
-preferably_java
-python
-sql
-experience
-data
-extraction
-data
-cleansing_preparation
-text_analytics
-data_mining
-ability
-conduct
-statistical_analysis
-including
-correlation
-multivariate_regression
-strong_verbal
-written_communication
-fluent_english
-skill
-manage_smaller
-project
-successful_completion
-learn_quickly
-translate
-school
-knowledge
-practical_application
-desired
-experience
-working
-small
-team_accomplish
-shared
-objective
-analysis
-modeling
-2+_year
-experience
-building
-statistical_model
-eg_linear
-logistic_regression
-time_series
-svm_etc
-data
-2+_year
-experience
-working
-database
-relational
-map-reduce
-columnar
-writing_sql
-code
-extract_manipulate
-analyze
-ability
-streamline_automate
-data_collection
-onboarding
-task
-using
-programming
-skill
-familiarity
-api's
-various
-db
-connector
-onboard
-data
-progress_toward
-advanced_degree
-relevant
-work
-experience
-considered_plus
-job
--
-administration
-schedule
--
-full_time
-shift
--
-shift_premium
-united_state
-america
-travel
--
-relocation
--
-eeo_tagline
--
-hp_inc
-eeo_f
-protected_veteran
-individual_disability
+(lp1
+Vdata scientist
+p2
+aVintern
+p3
+aVdescription
+p4
+aV-
+aVjoin team
+p5
+aVquality
+p6
+aVcustomer
+p7
+aVexperience
+p8
+aVanalytics
+p9
+aVexpert
+p10
+aVlooking
+p11
+aVuniversity student
+p12
+aVenrolled master
+p13
+aVadvanced degree
+p14
+aVprogram
+p15
+aVworking
+p16
+aVtechnical non-technical
+p17
+aVinternship
+p18
+aVrole
+p19
+aVhp study
+p20
+aVsummer break
+p21
+aVuniversity semester
+p22
+aVcandidate
+p23
+aVengaged
+p24
+aVvariety
+p25
+aVdata collection
+p26
+aVanalytic
+p27
+aVprogramming
+p28
+aVreporting
+p29
+aVrelated
+p30
+aVproject
+p31
+aVsupport hp
+p32
+aVinc.'s
+p33
+aVquality
+p34
+aVcustomer
+p35
+aVexperience
+p36
+aVimprovement
+p37
+aVprogram
+p38
+aVcandidate
+p39
+aVwork independently
+p40
+aVglobal
+p41
+aVteam
+p42
+aVenvironment
+p43
+aVwork
+p44
+aVrequires
+p45
+aVconfidence
+p46
+aVprogramming
+p47
+aVmathematics
+p48
+aVability
+p49
+aVcoordinate execute
+p50
+aVdata collection
+p51
+aVprocessing
+p52
+aVreporting
+p53
+aVanalytics
+p54
+aVproject
+p55
+aVproject
+p56
+aVmay include
+p57
+aVlimited
+p58
+aVresearch
+p59
+aVidentify collect
+p60
+aVdata
+p61
+aVmultiple source
+p62
+aVconsolidate
+p63
+aVclean
+p64
+aVdata
+p65
+aVprepare
+p66
+aVstatistical analysis
+p67
+aVvisualization
+p68
+aVconduct statistical
+p69
+aVanalysis
+p70
+aVcorrelate
+p71
+aVstrength
+p72
+aVrelationship
+p73
+aVcustomer
+p74
+aVexperience
+p75
+aVfinancial
+p76
+aVprocess
+p77
+aVmeasure
+p78
+aVparticipate
+p79
+aVprocess automate
+p80
+aVdata collection
+p81
+aVdata warehouse
+p82
+aVbuild
+p83
+aVmodel predict
+p84
+aVrevenue growth
+p85
+aVcustomer
+p86
+aVexperience
+p87
+aVprocess
+p88
+aVmetric evaluate
+p89
+aVsuitability
+p90
+aVmetric measure
+p91
+aVanalysis
+p92
+aVinclusion
+p93
+aVscorecard
+p94
+aVimprovement effort
+p95
+aVpublish
+p96
+aVperiodic
+p97
+aVprogress report
+p98
+aVproject
+p99
+aVstatus
+p100
+aVscorecard
+p101
+aVeducation experience
+p102
+aVrequired
+p103
+aVbachelor degree
+p104
+aV1st year
+p105
+aVmaster's
+p106
+aVprogram
+p107
+aVcompleted
+p108
+aVstrong preference
+p109
+aVcomputer science
+p110
+aVdata science
+p111
+aVstatistic mathematics
+p112
+aVdegree
+p113
+aVbasic
+p114
+aVprogramming skill
+p115
+aVpreferably java
+p116
+aVpython sql
+p117
+aVexperience
+p118
+aVdata extraction
+p119
+aVdata cleansing
+p120
+aVpreparation
+p121
+aVtext analytics
+p122
+aVdata mining
+p123
+aVability
+p124
+aVconduct statistical
+p125
+aVanalysis
+p126
+aVincluding
+p127
+aVcorrelation
+p128
+aVmultivariate regression
+p129
+aVstrong verbal
+p130
+aVwritten communication
+p131
+aVfluent english
+p132
+aVskill
+p133
+aVmanage smaller
+p134
+aVproject
+p135
+aVsuccessful completion
+p136
+aVlearn quickly
+p137
+aVtranslate
+p138
+aVschool
+p139
+aVknowledge
+p140
+aVpractical application
+p141
+aVdesired
+p142
+aVexperience working
+p143
+aVsmall team
+p144
+aVaccomplish
+p145
+aVshared
+p146
+aVobjective
+p147
+aVanalysis
+p148
+aVmodeling
+p149
+aV2+ year
+p150
+aVexperience building
+p151
+aVstatistical model
+p152
+aVe.g. linear
+p153
+aVlogistic regression
+p154
+aVtime series
+p155
+aVsvm etc
+p156
+aVdata
+p157
+aV2+ year
+p158
+aVexperience working
+p159
+aVdatabase
+p160
+aVrelational
+p161
+aVmap-reduce
+p162
+aVcolumnar
+p163
+aVwriting sql
+p164
+aVcode
+p165
+aVextract manipulate
+p166
+aVanalyze
+p167
+aVability
+p168
+aVstreamline automate
+p169
+aVdata collection
+p170
+aVonboarding
+p171
+aVtask
+p172
+aVusing
+p173
+aVprogramming skill
+p174
+aVfamiliarity
+p175
+aVapi's
+p176
+aVvarious
+p177
+aVdb
+p178
+aVconnector
+p179
+aVonboard
+p180
+aVdata
+p181
+aVprogress toward
+p182
+aVadvanced degree
+p183
+aVrelevant
+p184
+aVwork
+p185
+aVexperience
+p186
+aVconsidered plus
+p187
+aVjob
+p188
+aV-
+aVadministration
+p189
+aVschedule
+p190
+aV-
+aVfull time
+p191
+aVshift
+p192
+aV-
+aVshift premium
+p193
+aVunited state
+p194
+aVamerica
+p195
+aVtravel
+p196
+aV-
+aVrelocation
+p197
+aV-
+aVeeo tagline
+p198
+aV-
+aVhp inc
+p199
+aVeeo f
+p200
+aVprotected veteran
+p201
+aVindividual disability
+p202
+a.

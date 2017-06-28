@@ -2,210 +2,203 @@
 S'skills'
 p2
 (dp3
-S'probability'
+S'consulting'
 p4
-I1
-sS'communication'
+F0.0058385392625609064
+sS'probability'
 p5
-I1
-sS'data science'
-p6
-I1
-sS'feature extraction'
-p7
-I1
-sS'analytics'
-p8
-I1
-sS'engineering'
-p9
-I1
-sS'linux'
-p10
-I1
-sS'dimensionality reduction'
-p11
-I1
-sS'weka'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'anomaly detection'
-p14
-I1
-sS'time series analysis'
-p15
-I1
-sS'matlab'
-p16
-I1
-sS'natural language processing'
-p17
-I1
-sS'teradata'
-p18
-I1
-sS'python'
-p19
-I1
-sS'collaboration'
-p20
-I1
-sS'processing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'experimental design'
-p23
-I1
-sS'statistical modeling'
-p24
-I1
-sS'data wrangling'
-p25
-I1
-sS'modeling'
-p26
-I1
-sS'data quality'
-p27
-I1
-sS'data'
-p28
-I1
-sS'training'
-p29
-I1
-sS'science'
-p30
-I1
-sS'documentation'
-p31
-I1
-sS'analysis'
-p32
-I1
-sS'machine learning'
-p33
-I1
-sS'r'
-I1
-sS'command'
-p34
-I1
-sS'electrical engineering'
-p35
-I1
-sS'organization'
-p36
-I1
-sS'chemistry'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V(2, 5]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'business'
-p43
-I1
-sS'big data'
-p44
-I1
-sS'science'
-p45
-I1
-sS'data science'
-p46
-I1
-sS'natural language processing'
-p47
-I1
+F0.0090047264552286354
 sS'communication'
-p48
-I1
-sS'machine learning'
-p49
-I1
+p6
+F0.0040908768969272775
+sS'data science'
+p7
+F0.0031081160869782928
+sS'feature extraction'
+p8
+F0.015018292443153246
+sS'sales'
+p9
+F0.0085907099229741712
 sS'analytics'
-p50
-I1
+p10
+F0.0022473836226964512
 sS'engineering'
-p51
-I1
-sS'design'
-p52
-I1
-sS'electrical'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'electrical engineering'
-p55
-I1
-sS'chemistry'
-p56
-I1
-sVphysic
-p57
-I1
-ssS'education'
-p58
-(dp59
-S'Bachelor'
-p60
-I1
-ssS'responsibility'
-p61
-(dp62
-S'extract'
-p63
-I1
+p11
+F0.0063299988479258639
+sS'linux'
+p12
+F0.0047702274878533065
+sS'sas'
+p13
+F0.0035794234022672269
+sS'dimensionality reduction'
+p14
+F0.014080555530909538
+sS'weka'
+p15
+F0.01004847759219964
+sS'big data'
+p16
+F0.0032886954169577976
+sS'anomaly detection'
+p17
+F0.011356647295048089
+sS'time series analysis'
+p18
+F0.0074356871121435781
+sS'matlab'
+p19
+F0.003298194283302493
+sS'natural language processing'
+p20
+F0.0064753440102333411
+sS'teradata'
+p21
+F0.0094601206584848264
+sS'python'
+p22
+F0.0026938062674587392
+sS'collaboration'
+p23
+F0.0066089649097505277
 sS'processing'
-p64
-I1
-sS'understand'
-p65
-I1
-sS'pattern'
-p66
-I1
-sVinsight
-p67
-I1
-sS'analysis'
-p68
-I1
-sS'statistical model'
-p69
-I1
-sS'design'
-p70
-I1
+p24
+F0.0042198658570302841
+sS'data scientist'
+p25
+F0.0027373944836275926
+sS'experimental design'
+p26
+F0.0089501624523002487
+sS'statistical modeling'
+p27
+F0.0046288514733601981
 sS'data wrangling'
-p71
-I1
+p28
+F0.025845750378720632
 sS'modeling'
-p72
-I1
-sS'model'
-p73
-I1
-sS'presentation'
-p74
-I1
+p29
+F0.0041971353437806336
+sS'data quality'
+p30
+F0.0091339484836853325
+sS'data'
+p31
+F0.002451710343658355
+sS'a'
+F0.0048321495959018782
+sS'training'
+p32
+F0.012161729979443562
+sS'science'
+p33
+F0.0090831251704663104
 sS'documentation'
-p75
-I1
+p34
+F0.0074920955011473665
+sS'analysis'
+p35
+F0.0017706393889102324
+sS'machine learning'
+p36
+F0.0016938442424652179
+sS'r'
+F0.0014340886475812434
+sS'command'
+p37
+F0.0099218456777327262
+sS'electrical engineering'
+p38
+F0.010244509259376786
+sS'organization'
+p39
+F0.0045560305924591251
+sS'chemistry'
+p40
+F0.010335182813628881
+sS'physics'
+p41
+F0.0062870397350042982
+ssS'working-year'
+p42
+(dp43
+V(2, 5]
+p44
+F0.0032014067918117199
+ssS'major'
+p45
+(dp46
+VBusiness
+p47
+F0.0027951275120778147
+sVData Science
+p48
+F0.0026544934951035211
+sVElectrical and Electronics Engineering
+p49
+F0.0081308232438630015
+sVEngineering
+p50
+F0.0063299988479258639
+sVComputer Science
+p51
+F0.0023394205332098131
+sVPhysics
+p52
+F0.006779669512144937
+sVChemical Engineering
+p53
+F0.0097167505574527017
+ssS'education'
+p54
+(dp55
+S'Bachelor'
+p56
+F0.0023549840508266325
+ssS'responsibility'
+p57
+(dp58
+S'model'
+p59
+F0.019992388138264091
+sS'extract'
+p60
+F0.0079940788907049871
+sS'processing'
+p61
+F0.0042198658570302841
+sS'pattern'
+p62
+F0.0067663852082019277
+sS'insight'
+p63
+F0.0094826530026329986
+sS'analysis'
+p64
+F0.0017706393889102324
+sS'design'
+p65
+F0.003773692015551622
+sS'data wrangling'
+p66
+F0.025845750378720632
+sS'understand'
+p67
+F0.0054306971923624688
+sS'modeling'
+p68
+F0.0041971353437806336
+sS'presentation'
+p69
+F0.012730513396948872
+sS'validate ... model'
+p70
+F0.01352652751250946
+sS'decision making'
+p71
+F0.0084407830747532664
+sS'documentation'
+p72
+F0.0074920955011473665
 ss.

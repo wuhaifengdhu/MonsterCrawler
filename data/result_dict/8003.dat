@@ -8,7 +8,7 @@ aS'customer insight'
 p5
 aS'intelligence'
 p6
-aS'teradata'
+aS'sales'
 p7
 aS'devops'
 p8
@@ -20,135 +20,123 @@ aS'data warehousing'
 p11
 aS'data mining'
 p12
-aS'tableau'
+aS'sas'
 p13
-aS'spss'
+aS'tableau'
 p14
-aS'teradata sql'
+aS'spss'
 p15
-aS'management'
+aS'teradata sql'
 p16
-aS'open source'
+aS'statistics'
 p17
-aS'big data'
+aS'open source'
 p18
-aS'program management'
+aS'big data'
 p19
-aS'agile'
+aS'program management'
 p20
-aS'hadoop'
+aS'agile'
 p21
-aS'computer science'
+aS'management'
 p22
-aS'mathematics'
+aS'hadoop'
 p23
-aS'data management'
+aS'computer science'
 p24
-aS'text mining'
+aS'mathematics'
 p25
-aS'segmentation'
+aS'data management'
 p26
-aS'python'
+aS'text mining'
 p27
-aS'marketing'
+aS'segmentation'
 p28
-aS'data scientist'
+aS'python'
 p29
-aS'wireless'
+aS'marketing'
 p30
-aS'leadership'
+aS'data scientist'
 p31
-aS'sql'
+aS'wireless'
 p32
-aS'spark'
+aS'leadership'
 p33
-aS'data'
+aS'sql'
 p34
-aS'customer experience'
+aS'spark'
 p35
-aS'search'
+aS'data'
 p36
-aS'word'
+aS'customer experience'
 p37
-aS'science'
+aS'search'
 p38
-aS'programming'
+aS'word'
 p39
-aS'engineering'
+aS'science'
 p40
-aS'hive'
+aS'programming'
 p41
-aS'machine learning'
+aS'engineering'
 p42
+aS'hive'
+p43
+aS'machine learning'
+p44
 aS'r'
 aS'solr'
-p43
-aS'deep learning'
-p44
-aS'internet things'
 p45
-aS'security'
+aS'deep learning'
 p46
-aS'retail'
+aS'teradata'
 p47
-aS'application development'
+aS'internet things'
 p48
-asS'working-year'
+aS'security'
 p49
-(lp50
-V(5, 10]
+aS'retail'
+p50
+aS'application development'
 p51
-asS'major'
+asS'working-year'
 p52
 (lp53
-S'management'
+V(5, 10]
 p54
-aS'business'
+asS'major'
 p55
-aS'big data'
-p56
-aS'analytics'
+(lp56
+VStatistics
 p57
-aS'marketing'
+aVBusiness
 p58
-aS'statistic'
+aVData Science
 p59
-aS'mba'
+aVEconomics
 p60
-aS'data analyst'
+aVEngineering
 p61
-aS'machine learning'
+aVComputer Science
 p62
-aS'mathematics statistics'
+aVMathematics
 p63
-aS'engineering'
+aVManagement Science and Engineering
 p64
-aS'computer science engineering'
-p65
-aS'computer science'
-p66
-aS'data mining'
-p67
-aS'mathematics'
-p68
-aS'ee computer science'
-p69
-aS'science'
-p70
 asS'education'
-p71
-(lp72
+p65
+(lp66
 VBachelor
-p73
+p67
 aVMaster
-p74
+p68
 asS'responsibility'
-p75
-(lp76
+p69
+(lp70
 S'development'
-p77
-aVinsight
-p78
+p71
+aS'insight'
+p72
 aS'data mining'
-p79
+p73
 as.

@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'a'
+aS'consulting'
 p4
 aS'management'
 p5
@@ -16,17 +17,17 @@ aS'data scientist'
 p9
 aS'strategy'
 p10
-aS'analytics'
+aS'securities'
 p11
-aS'leadership'
+aS'analytics'
 p12
-aS'process improvement'
+aS'leadership'
 p13
-aS'communication'
+aS'process improvement'
 p14
-aS'organization'
+aS'communication'
 p15
-aS'security'
+aS'organization'
 p16
 aS'data'
 p17
@@ -42,34 +43,32 @@ p22
 asS'major'
 p23
 (lp24
-S'analytics'
+VData Science
 p25
-aS'management'
+aVBusiness
 p26
-aS'business'
+aVManagement Science and Engineering
 p27
-aS'project management'
-p28
-aS'communication'
-p29
 asS'education'
-p30
-(lp31
+p28
+(lp29
 S'Bachelor'
-p32
+p30
 asS'responsibility'
-p33
-(lp34
+p31
+(lp32
 S'development'
-p35
+p33
 aS'product'
-p36
+p34
 aS'business problem'
-p37
+p35
 aS'improvement'
-p38
+p36
+aS'drive ... decision'
+p37
 aS'recommendation'
-p39
+p38
 aS'presentation'
-p40
+p39
 as.

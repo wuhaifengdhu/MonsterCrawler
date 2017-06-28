@@ -4,267 +4,248 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.002888995180859227
 sS'data science'
 p5
-I1
-sS'tableau'
-p6
-I1
-sS'business intelligence'
-p7
-I1
-sS'analysis'
-p8
-I1
-sS'research'
-p9
-I1
-sS'dimensionality reduction'
-p10
-I1
-sS'visualization'
-p11
-I1
-sS'management'
-p12
-I1
-sS'java'
-p13
-I1
-sS'big data'
-p14
-I1
-sS'scala'
-p15
-I1
-sS'deep learning'
-p16
-I1
+F0.0021949651928113122
 sS'integration'
-p17
-I1
-sS'strategy'
-p18
-I1
-sS'r'
-I1
-sS'computer science'
-p19
-I1
-sS'innovation'
-p20
-I1
-sS'advanced analytics'
-p21
-I1
-sS'algorithm development'
-p22
-I1
-sS'data management'
-p23
-I1
-sS'systems engineering'
-p24
-I1
-sS'theory'
-p25
-I1
-sS'python'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'collaboration'
-p28
-I1
-sS'processing'
-p29
-I1
-sS'spotfire'
-p30
-I1
-sS'leadership'
-p31
-I1
-sS'sql'
-p32
-I1
-sS'modeling'
-p33
-I1
-sS'spark'
-p34
-I1
-sS'data'
-p35
-I1
-sS'information technology'
-p36
-I1
-sS'c'
-I1
-sS'knime'
-p37
-I1
-sS'organization'
-p38
-I1
-sS'data visualization'
-p39
-I1
-sS'science'
-p40
-I1
-sS'mapreduce'
-p41
-I1
-sS'hive'
-p42
-I1
-sS'machine learning'
-p43
-I1
-sS'optimization'
-p44
-I1
-sS'scientific computing'
-p45
-I1
-sS'artificial intelligence'
-p46
-I1
-sS'hadoop'
-p47
-I1
-sS'security'
-p48
-I1
-sS'data analytics'
-p49
-I1
-ssS'working-year'
-p50
-(dp51
-V(2, 5]
-p52
-I1
-ssS'major'
-p53
-(dp54
-S'systems engineering'
-p55
-I1
-sS'information'
-p56
-I1
-sS'management'
-p57
-I1
-sS'business'
-p58
-I1
-sS'big data'
-p59
-I1
-sS'statistics analytics'
-p60
-I1
-sS'data science'
-p61
-I1
-sS'applied math'
-p62
-I1
-sS'communication'
-p63
-I1
-sS'scientific computing'
-p64
-I1
-sS'computer science systems'
-p65
-I1
-sS'information technology'
-p66
-I1
-sS'information system'
-p67
-I1
-sS'design'
-p68
-I1
-sS'computer science'
-p69
-I1
-sS'statistic'
-p70
-I1
-sS'advanced analytics'
-p71
-I1
-sS'machine learning'
-p72
-I1
-sS'data analytics'
-p73
-I1
-sS'artificial intelligence'
-p74
-I1
-sS'science'
-p75
-I1
-ssS'education'
-p76
-(dp77
-VMaster
-p78
-I1
-sVDoctor
-p79
-I1
-ssS'responsibility'
-p80
-(dp81
-S'development'
-p82
-I1
-sS'information'
-p83
-I1
-sS'decision-making'
-p84
-I1
-sS'processing'
-p85
-I1
-sS'business problem'
-p86
-I1
-sVinsight
-p87
-I1
+p6
+F0.0042084728507200955
+sS'analytics'
+p7
+F0.0047613364707127376
+sS'business intelligence'
+p8
+F0.0037281812203912791
 sS'analysis'
-p88
-I1
-sS'analytic'
-p89
-I1
-sS'optimization'
-p90
-I1
-sS'design'
-p91
-I1
-sS'recommendation'
-p92
-I1
+p9
+F0.0006252166455367335
+sS'linux'
+p10
+F0.0033687555434292506
+sS'tableau'
+p11
+F0.0036661059984010795
+sS'strategy'
+p12
+F0.002874108451143859
+sS'dimensionality reduction'
+p13
+F0.0099437499825948735
+sS'visualization'
+p14
+F0.0034202468465948347
+sS'statistics'
+p15
+F0.0017016657934354098
+sS'java'
+p16
+F0.0022614360723873786
+sS'big data'
+p17
+F0.0023224911065012179
+sS'scala'
+p18
+F0.0089071765974402806
+sS'deep learning'
+p19
+F0.0056834702242581211
+sS'unix'
+p20
+F0.0047118408554471716
+sS'hadoop'
+p21
+F0.0046890748226261492
+sS'research'
+p22
+F0.0062274477493557533
+sS'r'
+F0.0020255193672041646
+sS'computer science'
+p23
+F0.0025656628890277748
+sS'leadership'
+p24
+F0.012061376797108189
+sS'innovation'
+p25
+F0.010597580321905421
+sS'advanced analytics'
+p26
+F0.0053700922524417584
+sS'algorithm development'
+p27
+F0.007680515962320539
+sS'data management'
+p28
+F0.0050180987310388149
+sS'systems engineering'
+p29
+F0.0078361662640519438
+sS'theory'
+p30
+F0.0053475843986739695
+sS'python'
+p31
+F0.0019023777837710437
+sS'data scientist'
+p32
+F0.0019331599729267852
+sS'collaboration'
+p33
+F0.0046672799636376895
+sS'processing'
+p34
+F0.0029800877493991241
+sS'spotfire'
+p35
+F0.0078361662640519438
+sS'experimental design'
+p36
+F0.0063206439216061967
+sS'management'
+p37
+F0.0016533738452548397
+sS'sql'
+p38
+F0.0012444231000603048
 sS'modeling'
-p93
-I1
+p39
+F0.0014820176806962636
+sS'spark'
+p40
+F0.0061537796471374398
+sS'data'
+p41
+F0.0019478346548727305
+sS'information technology'
+p42
+F0.0056873158243827462
+sS'a'
+F0.0034124852073248659
+sS'c'
+F0.0022821567954344839
+sS'knime'
+p43
+F0.019510916867159563
+sS'data visualization'
+p44
+F0.003588929973685403
+sS'solver'
+p45
+F0.0078740525980409374
+sS'science'
+p46
+F0.0012829085550987087
+sS'mapreduce'
+p47
+F0.0048114991185327022
+sS'hive'
+p48
+F0.0038061208932299389
+sS'machine learning'
+p49
+F0.0011962002223248893
+sS'optimization'
+p50
+F0.0072993023992282561
+sS'scientific computing'
+p51
+F0.0058907267603106155
+sS'artificial intelligence'
+p52
+F0.0050503951826181845
+sS'organization'
+p53
+F0.0064349775156265733
+sS'security'
+p54
+F0.0039878664520434154
+sS'data analytics'
+p55
+F0.0037268662070908706
+ssS'working-year'
+p56
+(dp57
+V(2, 5]
+p58
+F0.0022608474971371087
+ssS'major'
+p59
+(dp60
+VStatistics
+p61
+F0.0032874174632994161
+sVBusiness
+p62
+F0.0019739312904637121
+sVData Science
+p63
+F0.0018746149317610632
+sVInformation Science
+p64
+F0.0046216335557556455
+sVComputer Science
+p65
+F0.0016521090261901418
+sVMathematics
+p66
+F0.0031282345430336711
+sVManagement Science and Engineering
+p67
+F0.0023531834643592928
+ssS'education'
+p68
+(dp69
+VBachelor
+p70
+F0.0016631000504925306
+sVMaster
+p71
+F0.0013271545350806147
+sVDoctor
+p72
+F0.0019875579776942845
+ssS'responsibility'
+p73
+(dp74
+S'development'
+p75
+F0.0022097828511206544
+sS'information'
+p76
+F0.0025312138677543697
+sS'insight'
+p77
+F0.016741727700816469
+sS'business problem'
+p78
+F0.0051973550403843875
+sS'processing'
+p79
+F0.0029800877493991241
+sS'analysis'
+p80
+F0.0006252166455367335
+sS'analytic'
+p81
+F0.024719627433937696
+sS'optimization'
+p82
+F0.0072993023992282561
+sS'design'
+p83
+F0.0026649978285008713
+sS'recommendation'
+p84
+F0.0095335830102856612
+sS'modeling'
+p85
+F0.0014820176806962636
 sS'model'
-p94
-I1
+p86
+F0.011294969648917085
+sS'decision-making'
+p87
+F0.0067007946090969391
 ss.

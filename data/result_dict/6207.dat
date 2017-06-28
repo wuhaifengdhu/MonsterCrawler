@@ -61,59 +61,55 @@ p31
 asS'working-year'
 p32
 (lp33
-V[0]
+S'[0]'
 p34
 asS'major'
 p35
 (lp36
-S'management'
+VData Science
 p37
-aS'business'
+aVEngineering
 p38
-aS'science'
+aVComputer Science
 p39
-aS'data science'
+aVBusiness
 p40
-aS'machine learning'
+aVManagement Science and Engineering
 p41
-aS'engineering'
-p42
-aS'communication'
-p43
 asS'education'
-p44
-(lp45
+p42
+(lp43
 S'Bachelor'
-p46
+p44
 asS'responsibility'
-p47
-(lp48
+p45
+(lp46
 S'development'
-p49
+p47
 aS'data analysis'
-p50
+p48
 aS'business problem'
-p51
+p49
 aS'evaluation'
-p52
-aVinsight
-p53
+p50
+aS'insight'
+p51
 aS'communicate'
-p54
+p52
 aS'analysis'
-p55
-aS'statistical model'
-p56
+p53
+aS'develop ... model'
+p54
 aS'analytic'
-p57
-aS'statistical method'
-p58
+p55
 aS'modeling'
-p59
+p56
 aS'model'
-p60
+p57
+aS'statistical model'
+p58
 aS'extract'
-p61
+p59
 aS'transformation'
-p62
+p60
 as.

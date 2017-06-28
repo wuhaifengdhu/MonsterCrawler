@@ -2,148 +2,144 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'data science'
 p4
-I1
-sS'data science'
-p5
-I1
+F0.0022151766586751367
 sS'analytics'
-p6
-I1
+p5
+F0.0016017264493250951
 sS'pricing'
-p7
-I1
+p6
+F0.013925107438450796
 sS'problem solving'
-p8
-I1
+p7
+F0.0045204638396929122
 sS'education'
-p9
-I1
+p8
+F0.0038648743090483779
 sS'technical communication'
+p9
+F0.011980156280767866
+sS'statistics'
 p10
-I1
+F0.0017173349075554412
 sS'big data'
 p11
-I1
+F0.0023438768441301429
 sS'strategy'
 p12
-I1
+F0.0087017206145128985
 sS'innovation'
 p13
-I1
+F0.003565054644815329
 sS'customer satisfaction'
 p14
-I1
+F0.0083319203297869179
 sS'python'
 p15
-I1
+F0.00095994753729883244
 sS'automotive'
 p16
-I1
+F0.0078220782087203202
 sS'data scientist'
 p17
-I1
+F0.0019509607093257427
 sS'business process'
 p18
-I1
+F0.0056266720617306745
 sS'leadership'
 p19
-I1
+F0.0030431097996387146
 sS'statistical modeling'
 p20
-I1
+F0.0032990156909583727
 sS'sql'
 p21
-I1
+F0.0012558818763039542
 sS'modeling'
 p22
-I1
+F0.0074783212617085867
 sS'data'
 p23
-I1
+F0.0017473515708946287
+sS'a'
+F0.0034439077230460895
 sS'science'
 p24
-I1
+F0.0038841651281441569
 sS'analysis'
 p25
-I1
-sS'organization'
+F0.0006309737048879005
+sS'machine learning'
 p26
-I1
-ssS'working-year'
+F0.001207214957337089
+sS'organization'
 p27
-(dp28
+F0.0064942314522345532
+ssS'working-year'
+p28
+(dp29
 V(10, 15]
-p29
-I1
-sV(2, 5]
 p30
-I1
-ssS'major'
+F0.0036048367517465176
+sV(2, 5]
 p31
-(dp32
-S'big data'
-p33
-I1
-sS'business'
+F0.0022816656140536564
+ssS'major'
+p32
+(dp33
+VData Science
 p34
-I1
-sS'science'
+F0.0018918765793831725
+sVStatistics
 p35
-I1
-sS'data science'
+F0.0033176883423353229
+sVComputer Science
 p36
-I1
-sS'statistic'
+F0.001667321816486552
+sVBusiness
 p37
-I1
-sS'general'
-p38
-I1
-sS'analytics'
-p39
-I1
-sS'communication'
-p40
-I1
+F0.0019921074533593265
 ssS'education'
+p38
+(dp39
+S'Bachelor'
+p40
+F0.0016784140472742297
+ssS'responsibility'
 p41
 (dp42
-S'Bachelor'
-p43
-I1
-ssS'responsibility'
-p44
-(dp45
 S'development'
-p46
-I1
-sS'validate model'
-p47
-I1
+p43
+F0.015610915316572431
 sS'communicate'
-p48
-I1
+p44
+F0.0036947382730784387
 sS'analysis'
-p49
-I1
+p45
+F0.0006309737048879005
 sS'statistical model'
-p50
-I1
+p46
+F0.0066130097709371921
 sS'statistical method'
-p51
-I1
+p47
+F0.0064747521713655826
 sS'ownership'
-p52
-I1
+p48
+F0.0072565256907686703
 sS'recommendation'
-p53
-I1
+p49
+F0.0048106846129249937
 sS'modeling'
-p54
-I1
+p50
+F0.0074783212617085867
 sS'model'
-p55
-I1
+p51
+F0.019948206065030359
+sS'develop ... model'
+p52
+F0.0057088637701218012
+sS'validate ... model'
+p53
+F0.0096404533100205546
 ss.

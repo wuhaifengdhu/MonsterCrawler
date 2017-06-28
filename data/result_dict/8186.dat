@@ -4,25 +4,25 @@ p2
 (lp3
 S'consulting'
 p4
-aS'aws'
-p5
 aS'classification'
-p6
+p5
 aS'communication'
-p7
+p6
 aS'data science'
-p8
+p7
 aS'testing'
-p9
+p8
 aS'devops'
-p10
+p9
 aS'analytics'
-p11
+p10
 aS'investment management'
-p12
+p11
 aS'statistical analysis'
-p13
+p12
 aS'data mining'
+p13
+aS'sas'
 p14
 aS'hbase'
 p15
@@ -34,7 +34,7 @@ aS'cassandra'
 p18
 aS'visualization'
 p19
-aS'management'
+aS'statistics'
 p20
 aS'java'
 p21
@@ -46,175 +46,145 @@ aS'critical thinking'
 p24
 aS'agile'
 p25
-aS'hadoop'
+aS'management'
 p26
-aS'strategy'
+aS'hadoop'
 p27
-aS'big data analytics'
+aS'strategy'
 p28
-aS'statistical software'
+aS'big data analytics'
 p29
-aS'computer science'
+aS'statistical software'
 p30
-aS'web services'
+aS'computer science'
 p31
-aS'amazon web services aws'
+aS'web services'
 p32
-aS'management consulting'
+aS'amazon web services aws'
 p33
-aS'philosophy'
+aS'management consulting'
 p34
-aS'finance'
+aS'philosophy'
 p35
-aS'python'
+aS'finance'
 p36
-aS'mongodb'
+aS'python'
 p37
-aS'scrum'
+aS'mongodb'
 p38
-aS'data scientist'
+aS'scrum'
 p39
-aS'svm'
+aS'aws'
 p40
-aS'data analysis'
+aS'svm'
 p41
-aS'sql'
+aS'data analysis'
 p42
-aS'regression'
+aS'sql'
 p43
-aS'modeling'
+aS'regression'
 p44
-aS'data'
+aS'modeling'
 p45
-aS'software development'
+aS'data'
 p46
-aS'organization'
+aS'software development'
 p47
-aS'data visualization'
+aS'organization'
 p48
-aS'collaborative filtering'
+aS'data visualization'
 p49
-aS'sentiment analysis'
+aS'collaborative filtering'
 p50
-aS'science'
+aS'sentiment analysis'
 p51
-aS'cell'
+aS'science'
 p52
-aS'mapreduce'
+aS'cell'
 p53
-aS'analysis'
+aS'mapreduce'
 p54
-aS'machine learning'
+aS'analysis'
 p55
-aS'team building'
+aS'machine learning'
 p56
+aS'team building'
+p57
 aS'r'
 aS'architecture'
-p57
-aS'statistical inference'
 p58
-aS'validation'
+aS'statistical inference'
 p59
-aS'data analytics'
+aS'validation'
 p60
-aS'predictive analytics'
-p61
-asS'working-year'
-p62
-(lp63
-V(5, 10]
-p64
-aV(0, 2]
-p65
-aV(2, 5]
-p66
-asS'major'
-p67
-(lp68
-S'communication'
-p69
-aS'data science'
-p70
-aS'data mining'
-p71
-aS'mba'
-p72
-aS'general'
-p73
-aS'analytics'
-p74
-aS'design'
-p75
-aS'statistic'
-p76
-aS'information'
-p77
-aS'management'
-p78
-aS'big data'
-p79
-aVapplied statistic
-p80
-aS'big data analytics'
-p81
-aS'computer science'
-p82
-aS'finance'
-p83
-aS'business'
-p84
-aS'philosophy'
-p85
-aS'law'
-p86
-aS'science'
-p87
-aS'machine learning'
-p88
-aS'statistics computer science'
-p89
 aS'data analytics'
-p90
+p61
 aS'predictive analytics'
-p91
+p62
+asS'working-year'
+p63
+(lp64
+V(5, 10]
+p65
+aV(0, 2]
+p66
+aV(2, 5]
+p67
+asS'major'
+p68
+(lp69
+VStatistics
+p70
+aVBusiness
+p71
+aVData Science
+p72
+aVEconomics
+p73
+aVComputer Science
+p74
+aVManagement Science and Engineering
+p75
 asS'education'
-p92
-(lp93
-VMaster
-p94
+p76
+(lp77
+VBachelor
+p78
+aVMaster
+p79
 aVDoctor
-p95
+p80
 asS'responsibility'
-p96
-(lp97
+p81
+(lp82
 S'modeling'
-p98
-aS'development'
-p99
-aS'product'
-p100
-aS'data analysis'
-p101
+p83
 aS'information'
-p102
+p84
+aS'product'
+p85
+aS'data analysis'
+p86
+aS'development'
+p87
 aS'pattern'
-p103
+p88
 aS'data mining'
-p104
+p89
 aS'communicate'
-p105
+p90
 aS'analysis'
-p106
+p91
 aS'statistical method'
-p107
+p92
 aS'design'
-p108
+p93
 aS'recommendation'
-p109
+p94
 aS'understand'
-p110
+p95
 aS'implement'
-p111
+p96
 aS'model'
-p112
+p97
 as.

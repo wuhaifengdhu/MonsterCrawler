@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'retail'
+S'statistics'
 p4
 aS'genetics'
 p5
@@ -10,89 +10,79 @@ aS'performance management'
 p6
 aS'big data'
 p7
-aS'python'
+aS'retail'
 p8
-aS'communication'
+aS'python'
 p9
-aS'data science'
+aS'communication'
 p10
-aS'algorithm design'
+aS'data science'
 p11
-aS'management'
+aS'algorithm design'
 p12
-aS'performance measurement'
+aS'management'
 p13
-aS'analysis'
+aS'performance measurement'
 p14
-aS'machine learning'
+aS'analysis'
 p15
-aS'analytics'
+aS'machine learning'
 p16
+aS'analytics'
+p17
 aS'r'
 aS'advertising'
-p17
-aS'science'
 p18
-aS'organization'
-p19
-aS'research'
-p20
-aS'data'
-p21
-aS'data quality'
-p22
-asS'working-year'
-p23
-(lp24
-V(2, 5]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
-aS'management'
-p29
-aS'genetics'
-p30
-aS'big data'
-p31
 aS'science'
+p19
+aS'organization'
+p20
+aS'research'
+p21
+aS'data'
+p22
+aS'data quality'
+p23
+asS'working-year'
+p24
+(lp25
+V(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VBiological Engineering
+p29
+aVData Science
+p30
+aVStatistics
+p31
+aVComputer Science
 p32
-aS'data science'
+aVManagement Science and Engineering
 p33
-aS'communication'
-p34
-aS'machine learning'
-p35
-aS'analytics'
-p36
-aS'design'
-p37
-aS'statistic'
-p38
 asS'education'
-p39
-(lp40
+p34
+(lp35
 VMaster
-p41
+p36
 asS'responsibility'
-p42
-(lp43
+p37
+(lp38
 S'information'
-p44
+p39
 aS'analysis'
-p45
+p40
 aS'statistical method'
-p46
+p41
 aS'understand'
-p47
-aS'design experiment'
-p48
+p42
 aS'design'
-p49
+p43
 aS'implement'
-p50
+p44
+aS'design ... experiment'
+p45
 aS'model'
-p51
+p46
 as.

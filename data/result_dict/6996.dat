@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'docker'
 p4
 aS'intelligence'
 p5
@@ -16,67 +16,67 @@ aS'virtualization'
 p9
 aS'system administration'
 p10
-aS'research development r d'
-p11
 aS'education'
-p12
+p11
 aS'vmware'
-p13
+p12
 aS'performance management'
-p14
+p13
 aS'management'
-p15
+p14
 aS'java'
-p16
+p15
 aS'user experience'
-p17
+p16
 aS'excel'
-p18
+p17
 aS'research'
-p19
+p18
 aS'computer science'
-p20
+p19
 aS'sdlc'
-p21
+p20
 aS'innovation'
-p22
+p21
 aS'quality assurance'
-p23
+p22
 aS'software development life cycle sdlc'
-p24
+p23
 aS'product development'
+p24
+aS'aws'
 p25
 aS'data scientist'
 p26
-aS'search'
-p27
 aS'business process'
-p28
+p27
 aS'project management'
-p29
+p28
 aS'splunk'
-p30
+p29
 aS'apache'
-p31
+p30
 aS'data'
-p32
+p31
 aS'b2b'
-p33
+p32
 aS'information technology'
-p34
+p33
 aS'software development'
-p35
+p34
 aS'training'
-p36
+p35
 aS'disaster recovery'
-p37
+p36
 aS'saas'
-p38
+p37
 aS'science'
-p39
+p38
 aS'programming'
-p40
+p39
 aS'unix'
+p40
+aS'analysis'
 p41
 aS'procurement'
 p42
@@ -93,44 +93,38 @@ p47
 asS'major'
 p48
 (lp49
-S'information'
+VEngineering
 p50
-aS'management'
+aVInformation Science
 p51
-aS'business'
+aVComputer Science
 p52
-aS'science'
+aVBusiness
 p53
-aS'engineering'
+aVManagement Science and Engineering
 p54
-aS'design'
-p55
-aS'project management'
-p56
-aS'ee computer science'
-p57
-aS'information technology'
-p58
-aS'computer science'
-p59
 asS'education'
-p60
-(lp61
-S'Bachelor'
-p62
+p55
+(lp56
+VBachelor
+p57
+aVMaster
+p58
 asS'responsibility'
-p63
-(lp64
+p59
+(lp60
 S'development'
-p65
+p61
 aS'information'
-p66
+p62
 aS'product'
-p67
+p63
+aS'analysis'
+p64
 aS'design'
-p68
+p65
 aS'interface'
-p69
+p66
 aS'implement'
-p70
+p67
 as.

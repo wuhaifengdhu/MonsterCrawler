@@ -4,196 +4,189 @@ p2
 (dp3
 S'testing'
 p4
-I1
-sS'business intelligence'
+F0.0047066161262069263
+sS'sales'
 p5
-I1
-sS'statistical analysis'
+F0.0076427695176804686
+sS'analytics'
 p6
-I1
-sS'politics'
+F0.0019993964643299461
+sS'business intelligence'
 p7
-I1
-sS'machine learning'
+F0.004696651284538899
+sS'statistical analysis'
 p8
-I1
-sS'regression'
+F0.0059188509273853055
+sS'sas'
 p9
-I1
-sS'java'
+F0.0031844525440860153
+sS'politics'
 p10
-I1
-sS'big data'
-p11
-I1
-sS'hadoop'
-p12
-I1
-sS'research'
-p13
-I1
-sS'coaching'
-p14
-I1
-sS'computer science'
-p15
-I1
-sS'data modeling'
-p16
-I1
-sS'python'
-p17
-I1
-sS'philosophy'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'leadership'
-p20
-I1
-sS'sql'
-p21
-I1
-sS'modeling'
-p22
-I1
-sS'data'
-p23
-I1
-sS'training'
-p24
-I1
-sS'data visualization'
-p25
-I1
-sS'applied mathematics'
-p26
-I1
-sS'economics'
-p27
-I1
-sS'programming'
-p28
-I1
-sS'engineering'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'linear regression'
-p31
-I1
-sS'r'
-I1
-sS'logistic regression'
-p32
-I1
-sS'predictive analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(0, 2]
-p36
-I1
-sV(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'philosophy'
-p41
-I1
-sS'business'
-p42
-I1
-sS'big data'
-p43
-I1
-sS'applied mathematics'
-p44
-I1
-sS'economics'
-p45
-I1
-sS'general'
-p46
-I1
-sS'engineering'
-p47
-I1
-sS'applied math'
-p48
-I1
-sS'mathematics computer science'
-p49
-I1
-sS'computer science'
-p50
-I1
-sS'machine learning big data'
-p51
-I1
-sS'statistic'
-p52
-I1
+F0.01187803201126897
 sS'machine learning'
-p53
-I1
-sS'ee computer science'
-p54
-I1
+p11
+F0.0015069372915725043
+sS'regression'
+p12
+F0.00546245469122253
+sS'java'
+p13
+F0.0028488895808466285
+sS'big data'
+p14
+F0.0029258048881900403
+sS'data'
+p15
+F0.0013632354928100334
+sS'hadoop'
+p16
+F0.0029535781641369307
+sS'research'
+p17
+F0.0019612881417511224
+sS'coaching'
+p18
+F0.0088775464750211457
+sS'computer science'
+p19
+F0.0032321454326143004
+sS'mathematics'
+p20
+F0.0042020535220133465
+sS'data modeling'
+p21
+F0.0060050614823408538
+sS'python'
+p22
+F0.0011982793396626804
+sS'philosophy'
+p23
+F0.011403059733762088
+sS'data scientist'
+p24
+F0.002435337161296272
+sS'training'
+p25
+F0.010819745981711858
+sS'leadership'
+p26
+F0.0037986405085145333
+sS'sql'
+p27
+F0.0015676870318001082
+sS'modeling'
+p28
+F0.001867001583957592
+sS'loans'
+p29
+F0.05731762402160534
+sS'c'
+F0.0028749929285013733
+sS'data visualization'
+p30
+F0.0045212267254703467
+sS'science'
+p31
+F0.0032323397158349077
+sS'applied mathematics'
+p32
+F0.00694738102262921
+sS'economics'
+p33
+F0.0055091766077228991
+sS'programming'
+p34
+F0.0050681160222293149
+sS'engineering'
+p35
+F0.0028157581082152981
+sS'analysis'
+p36
+F0.00078762924541179297
+sS'linear regression'
+p37
+F0.008729185281833092
+sS'r'
+F0.0012758443830205544
+sS'logistic regression'
+p38
+F0.007526351440946078
 sS'predictive analytics'
-p55
-I1
+p39
+F0.0052930992490317023
+ssS'working-year'
+p40
+(dp41
+V(0, 2]
+p42
+F0.0052358164691727665
+sV(2, 5]
+p43
+F0.0028481481113359435
+ssS'major'
+p44
+(dp45
+VBusiness
+p46
+F0.0024866996486761247
+sVData Science
+p47
+F0.0023615838680576154
+sVEconomics
+p48
+F0.0037718886149987604
+sVEngineering
+p49
+F0.0051778825902683394
+sVComputer Science
+p50
+F0.0020812775778211441
+sVMathematics
+p51
+F0.0039408563898447168
 ssS'education'
+p52
+(dp53
+VMaster
+p54
+F0.0016719096212050044
+sVDoctor
+p55
+F0.002503866142014869
+ssS'responsibility'
 p56
 (dp57
-VMaster
-p58
-I1
-sVDoctor
-p59
-I1
-ssS'responsibility'
-p60
-(dp61
 S'development'
-p62
-I1
+p58
+F0.0027838183963542957
 sS'information'
-p63
-I1
+p59
+F0.0031887475851250448
 sS'product'
-p64
-I1
+p60
+F0.0030919376798109119
 sS'communicate'
-p65
-I1
-sS'collect data'
-p66
-I1
+p61
+F0.0046120526029461888
 sS'analysis'
-p67
-I1
+p62
+F0.00078762924541179297
+sS'develop ... model'
+p63
+F0.0071262368440830753
+sS'collect data'
+p64
+F0.012201207190169764
 sS'modeling'
-p68
-I1
+p65
+F0.001867001583957592
 sS'model'
-p69
-I1
+p66
+F0.0071145326064443251
 sS'build solution'
-p70
-I1
+p67
+F0.013587399926179562
 sS'transformation'
-p71
-I1
+p68
+F0.0072286370927192329
 ss.

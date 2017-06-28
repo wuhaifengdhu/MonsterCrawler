@@ -4,86 +4,77 @@ p2
 (dp3
 S'big data'
 p4
-I1
-sS'data scientist'
+F0.011067175011849284
+sS'science'
 p5
-I1
-sS'big data analytics'
+F0.0061133381582094996
+sS'data scientist'
 p6
-I1
+F0.0092119275231641595
 sS'oracle'
 p7
-I1
-sS'thought leadership'
-p8
-I1
-sS'leadership'
-p9
-I1
-sS'computer science'
-p10
-I1
-sS'advanced analytics'
-p11
-I1
-sS'manufacturing'
-p12
-I1
-sS'data analytics'
-p13
-I1
-ssS'working-year'
-p14
-(dp15
-V(5, 10]
-p16
-I1
-sV(2, 5]
-p17
-I1
-ssS'major'
-p18
-(dp19
-S'business'
-p20
-I1
-sS'big data'
-p21
-I1
+F0.022826273900533232
 sS'big data analytics'
-p22
-I1
+p8
+F0.02881973134563896
+sS'analytics'
+p9
+F0.022688803356091997
+sS'thought leadership'
+p10
+F0.035666773039383676
+sS'leadership'
+p11
+F0.014368770619163669
 sS'computer science'
-p23
-I1
-sS'statistic'
-p24
-I1
+p12
+F0.012225941419019311
 sS'advanced analytics'
-p25
-I1
-sS'ee computer science'
-p26
-I1
+p13
+F0.025589656994244207
+sS'manufacturing'
+p14
+F0.032457900626363556
 sS'data analytics'
-p27
-I1
+p15
+F0.017759327665093888
+ssS'working-year'
+p16
+(dp17
+V(5, 10]
+p18
+F0.010483863144146599
+sV(2, 5]
+p19
+F0.010773429812444656
+ssS'major'
+p20
+(dp21
+VData Science
+p22
+F0.0089329476748266322
+sVComputer Science
+p23
+F0.0078726586639321534
+sVBusiness
+p24
+F0.009406211714557515
 ssS'education'
-p28
-(dp29
+p25
+(dp26
 VBachelor
-p30
-I1
+p27
+F0.007925033284086145
 sVMaster
-p31
-I1
+p28
+F0.0063241798715145819
 ssS'responsibility'
-p32
-(dp33
+p29
+(dp30
 S'statistical method'
-p34
-I1
+p31
+F0.030572090687404446
 sS'business problem'
-p35
-I1
+p32
+F0.024766526627222996
 ss.

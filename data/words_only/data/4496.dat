@@ -4,234 +4,210 @@ p2
 (dp3
 S'debugging'
 p4
-I1
+F0.0083397011445609306
 sS'numerical analysis'
 p5
-I1
-sS'r d'
-p6
-I1
+F0.0060167574362997621
 sS'analytics'
-p7
-I1
+p6
+F0.0165035571533876
 sS'engineering'
-p8
-I1
-sS'c++'
-p9
-I1
+p7
+F0.0092968104521719518
 sS'data mining'
+p8
+F0.0040265262403835628
+sS'sas'
+p9
+F0.0052570658697435168
+sS'machine learning'
 p10
-I1
-sS'spss'
-p11
-I1
+F0.0012438666448463744
 sS'oracle database'
-p12
-I1
+p11
+F0.010653233560713713
 sS'technical leadership'
+p12
+F0.0085364321015034151
+sS'statistics'
 p13
-I1
+F0.0035389482155696568
 sS'writing'
 p14
-I1
-sS'computer science'
+F0.0042638715864942939
+sS'html'
 p15
-I1
-sS'innovation'
+F0.0048578457177394577
+sS'computer science'
 p16
-I1
-sS'advanced analytics'
+F0.0026678999301465289
+sS'innovation'
 p17
-I1
-sS'mathematics'
+F0.0036732915979786028
+sS'advanced analytics'
 p18
-I1
-sS'operating systems'
+F0.0055840807482696085
+sS'mathematics'
 p19
-I1
-sS'matlab'
+F0.0069369764025647282
+sS'operating systems'
 p20
-I1
-sS'product development'
+F0.0089839204771758815
+sS'matlab'
 p21
-I1
-sS'python'
+F0.0024220136387819065
+sS'product development'
 p22
-I1
-sS'data scientist'
+F0.0049591581570810443
+sS'python'
 p23
-I1
-sS'leadership'
+F0.0009890920545602771
+sS'data scientist'
 p24
-I1
-sS'statistical modeling'
+F0.0020101929130244369
+sS'leadership'
 p25
-I1
-sS'sql'
+F0.0031355002299882774
+sS'statistical modeling'
 p26
-I1
-sS'modeling'
+F0.0033991755601335796
+sS'sql'
 p27
-I1
-sS'data'
+F0.0038820333519907803
+sS'modeling'
 p28
-I1
-sS'statistical programming'
+F0.0015410734137031358
+sS'data'
 p29
-I1
+F0.0009002010464855629
 sS'bash'
 p30
-I1
+F0.007112725911019282
 sS'rapidminer'
 p31
-I1
+F0.0096549592304045403
 sS'c'
-I1
+F0.0023730966297876611
 sS'fraud'
 p32
-I1
+F0.0074228768038107941
 sS'software engineering'
 p33
-I1
-sS'documentation'
+F0.0049375009273510658
+sS'science'
 p34
-I1
-sS'analysis'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'r'
-I1
-sS'architecture'
-p37
-I1
-sS'oracle'
-p38
-I1
-sS'organization'
-p39
-I1
-sS'scripting'
-p40
-I1
-sS'predictive analytics'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(5, 10]
-p44
-I1
-sV(2, 5]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'software engineering'
-p48
-I1
-sS'business'
-p49
-I1
-sS'mathematics statistics'
-p50
-I1
-sS'data mining'
-p51
-I1
-sS'computer science engineering'
-p52
-I1
-sS'machine learning'
-p53
-I1
-sS'analytics'
-p54
-I1
-sS'engineering'
-p55
-I1
-sS'design'
-p56
-I1
-sS'computer science'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'advanced analytics'
-p59
-I1
-sS'mathematics'
-p60
-I1
-sS'data mining machine learning'
-p61
-I1
-sS'ee computer science'
-p62
-I1
-sS'predictive analytics'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VBachelor
-p66
-I1
-sVMaster
-p67
-I1
-ssS'responsibility'
-p68
-(dp69
-S'development'
-p70
-I1
-sS'product'
-p71
-I1
-sVinsight
-p72
-I1
-sS'understand'
-p73
-I1
+F0.001334030148375887
 sS'documentation'
-p74
-I1
-sS'communicate'
-p75
-I1
-sS'recommendation'
-p76
-I1
+p35
+F0.011003571001685126
 sS'analysis'
-p77
-I1
-sS'statistical model'
-p78
-I1
+p36
+F0.00065013040181049326
+sS'spss'
+p37
+F0.0041866201724052475
+sS'r'
+F0.0094780469820217664
+sS'algorithms'
+p38
+F0.0034045003384539922
+sS'architecture'
+p39
+F0.0041499326806160499
+sS'knime'
+p40
+F0.010144195866416928
+sS'oracle'
+p41
+F0.049810654621656958
+sS'organization'
+p42
+F0.010037099654354922
+sS'scripting'
+p43
+F0.0092337168024541304
+sS'predictive analytics'
+p44
+F0.0043690667425593747
+ssS'working-year'
+p45
+(dp46
+V(5, 10]
+p47
+F0.0022877500219674741
+sV(2, 5]
+p48
+F0.0023509381943664811
+ssS'major'
+p49
+(dp50
+VStatistics
+p51
+F0.0034184151231272867
+sVBusiness
+p52
+F0.0020525888940685277
+sVData Science
+p53
+F0.0019493149575048627
+sVEngineering
+p54
+F0.0042739638079065043
+sVComputer Science
+p55
+F0.0017179425926986674
+sVMathematics
+p56
+F0.0032528890504410855
+ssS'education'
+p57
+(dp58
+VBachelor
+p59
+F0.0017293715895064644
+sVMaster
+p60
+F0.0013800392508997665
+ssS'responsibility'
+p61
+(dp62
+S'development'
+p63
+F0.0045956774285165793
+sS'product'
+p64
+F0.01531301203853222
+sS'insight'
+p65
+F0.0034817710740217933
+sS'understand'
+p66
+F0.0039880072361371446
+sS'documentation'
+p67
+F0.011003571001685126
+sS'communicate'
+p68
+F0.0038069124900978976
+sS'recommendation'
+p69
+F0.00495673955373486
+sS'analysis'
+p70
+F0.00065013040181049326
 sS'analytic'
-p79
-I1
+p71
+F0.017136440017454596
 sS'design'
-p80
-I1
+p72
+F0.016627159127345095
 sS'data mining'
-p81
-I1
+p73
+F0.0040265262403835628
 sS'modeling'
-p82
-I1
+p74
+F0.0015410734137031358
 sS'implement'
-p83
-I1
+p75
+F0.0080374314046284916
 ss.

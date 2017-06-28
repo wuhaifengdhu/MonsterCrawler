@@ -2,117 +2,111 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'.net'
 p4
-aS'testing'
-p5
-aS'analytics'
-p6
-aS'statistical analysis'
-p7
 aS'problem solving'
+p5
+aS'communication'
+p6
+aS'testing'
+p7
+aS'analytics'
 p8
-aS'go'
+aS'statistical analysis'
 p9
-aS'agile'
+aS'go'
 p10
-aS'research'
+aS'sas'
 p11
-aS'teamwork'
+aS'agile'
 p12
-aS'computer science'
+aS'research'
 p13
-aS'mathematics'
+aS'teamwork'
 p14
-aS'customer satisfaction'
+aS'computer science'
 p15
-aS'data analysis'
+aS'mathematics'
 p16
-aS'data modeling'
+aS'customer satisfaction'
 p17
-aS'product development'
+aS'data analysis'
 p18
-aS'data scientist'
+aS'data modeling'
 p19
-aS'sql'
+aS'product development'
 p20
-aS'technical documentation'
+aS'data scientist'
 p21
-aS'modeling'
+aS'sql'
 p22
-aS'data'
+aS'technical documentation'
 p23
-aS'science'
+aS'modeling'
 p24
-aS'documentation'
+aS'data'
 p25
-aS'programming'
+aS'science'
 p26
-aS'analysis'
+aS'documentation'
 p27
-aS'machine learning'
+aS'programming'
 p28
+aS'analysis'
+p29
+aS'machine learning'
+p30
 aS'r'
 aS'healthcare'
-p29
-aS'etl'
-p30
-asS'working-year'
 p31
-(lp32
-V(5, 10]
+aS'cms'
+p32
+aS'etl'
 p33
-asS'major'
+asS'working-year'
 p34
 (lp35
-S'business'
+V(5, 10]
 p36
-aS'science'
+asS'major'
 p37
-aS'communication'
-p38
-aS'machine learning'
+(lp38
+VMathematics
 p39
-aS'analytics'
+aVData Science
 p40
-aS'design'
+aVComputer Science
 p41
-aS'computer science'
+aVBusiness
 p42
-aS'statistic'
-p43
-aS'mathematics'
-p44
 asS'education'
+p43
+(lp44
+VBachelor
 p45
-(lp46
-S'Bachelor'
-p47
 asS'responsibility'
-p48
-(lp49
+p46
+(lp47
 S'development'
-p50
+p48
 aS'product'
-p51
+p49
 aS'data analysis'
-p52
+p50
 aS'documentation'
-p53
+p51
 aS'analysis'
-p54
-aS'statistical model'
-p55
+p52
 aS'analytic'
-p56
+p53
 aS'design'
-p57
+p54
 aS'modeling'
-p58
+p55
 aS'model'
-p59
+p56
 aS'extract'
-p60
+p57
 aS'transformation'
-p61
+p58
 as.

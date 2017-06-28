@@ -4,172 +4,181 @@ p2
 (dp3
 S'healthcare industry'
 p4
-I1
+F0.011490283538585378
 sS'data science'
 p5
-I1
-sS'statistical analysis'
+F0.0028302139427308212
+sS'testing'
 p6
-I1
-sS'problem solving'
-p7
-I1
-sS'education'
-p8
-I1
-sS'management'
-p9
-I1
-sS'big data'
-p10
-I1
-sS'programming languages'
-p11
-I1
-sS'predictive modeling'
-p12
-I1
+F0.0048173600350588531
 sS'hadoop'
-p13
-I1
-sS'advanced analytics'
-p14
-I1
-sS'unstructured data'
-p15
-I1
-sS'python'
-p16
-I1
-sS'data scientist'
-p17
-I1
-sS'mathematical analysis'
-p18
-I1
-sS'mentoring'
-p19
-I1
-sS'sql'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'data'
-p22
-I1
-sS'programming'
-p23
-I1
-sS'analysis'
-p24
-I1
-sS'machine learning'
-p25
-I1
-sS'credit'
-p26
-I1
-sS'organizational leadership'
-p27
-I1
-sS'r'
-I1
-sS'healthcare'
-p28
-I1
-sS'organization'
-p29
-I1
-sS'security'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(5, 10]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'information'
-p36
-I1
+p7
+F0.0030230741209401526
+sS'analytics'
+p8
+F0.0020464410870200626
+sS'statistical analysis'
+p9
+F0.006058118008029665
+sS'problem solving'
+p10
+F0.005775557329301767
+sS'sas'
+p11
+F0.0032593808392409802
+sS'education'
+p12
+F0.0049379452936782796
 sS'management'
-p37
-I1
-sS'health services'
-p38
-I1
+p13
+F0.0021318796875285932
 sS'big data'
-p39
-I1
-sS'data science'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'business'
-p42
-I1
+p14
+F0.0029946473561474527
+sS'programming languages'
+p15
+F0.011216379027767105
+sS'predictive modeling'
+p16
+F0.0048917786086799288
+sS'tableau'
+p17
+F0.0047271202049971569
 sS'advanced analytics'
-p43
-I1
-ssS'education'
-p44
-(dp45
-VMaster
-p46
-I1
-sVDoctor
-p47
-I1
-ssS'responsibility'
-p48
-(dp49
-S'large data set'
-p50
-I1
-sS'product'
-p51
-I1
-sS'business problem'
-p52
-I1
-sVinsight
-p53
-I1
-sS'communicate'
-p54
-I1
-sS'analysis'
-p55
-I1
-sS'statistical model'
-p56
-I1
-sS'analytic'
-p57
-I1
-sS'statistical method'
-p58
-I1
-sS'understand'
-p59
-I1
+p18
+F0.0069242601278543137
+sS'unstructured data'
+p19
+F0.0075030786669486108
+sS'python'
+p20
+F0.0012264741476547434
+sS'data scientist'
+p21
+F0.0024926392121503017
+sS'mathematical analysis'
+p22
+F0.011376867708187461
+sS'mentoring'
+p23
+F0.0080943851799504807
+sS'sql'
+p24
+F0.0016045737854895224
 sS'modeling'
+p25
+F0.0019109310329918881
+sS'data'
+p26
+F0.0013953116220526225
+sS'science'
+p27
+F0.0016541973839860997
+sS'programming'
+p28
+F0.0025936829054938257
+sS'analysis'
+p29
+F0.001612323396490023
+sS'machine learning'
+p30
+F0.0015423946396095041
+sS'credit'
+p31
+F0.0074765525276179919
+sS'organizational leadership'
+p32
+F0.012980272919605743
+sS'r'
+F0.0013058642508563321
+sS'healthcare'
+p33
+F0.0063464478666121508
+sS'organization'
+p34
+F0.0082973357142667337
+sS'security'
+p35
+F0.0051420019193406863
+ssS'working-year'
+p36
+(dp37
+V(5, 10]
+p38
+F0.0028368100272396675
+ssS'major'
+p39
+(dp40
+VData Science
+p41
+F0.0024171505473060293
+sVComputer Science
+p42
+F0.0021302488149463473
+sVBusiness
+p43
+F0.0025452102286449745
+sVManagement Science and Engineering
+p44
+F0.0030342224434562171
+ssS'education'
+p45
+(dp46
+VMaster
+p47
+F0.0017112486711157102
+sVDoctor
+p48
+F0.002562780639474042
+ssS'responsibility'
+p49
+(dp50
+S'information'
+p51
+F0.022846438580484147
+sS'product'
+p52
+F0.003164689154629992
+sS'large data set'
+p53
+F0.0073987226713714497
+sS'business problem'
+p54
+F0.0067015307344250458
+sS'insight'
+p55
+F0.0043173961317870234
+sS'communicate'
+p56
+F0.0047205714877213926
+sS'drive ... decision'
+p57
+F0.0094966652675979139
+sS'analysis'
+p58
+F0.001612323396490023
+sS'statistical model'
+p59
+F0.0084490924838091647
+sS'analytic'
 p60
-I1
-sS'information'
+F0.010624592810821848
+sS'statistical method'
 p61
-I1
-sS'evaluation'
+F0.0082724480683564958
+sS'understand'
 p62
-I1
-sS'model'
+F0.0049451289728100591
+sS'modeling'
 p63
-I1
+F0.0019109310329918881
+sS'model'
+p64
+F0.0072819333736547798
+sS'evaluation'
+p65
+F0.0079610427854745341
+sS'decision making'
+p66
+F0.0076860777645400315
 ss.

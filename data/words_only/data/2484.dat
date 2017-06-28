@@ -4,112 +4,105 @@ p2
 (dp3
 S'clustering'
 p4
-I1
+F0.022700088454621199
 sS'calculus'
 p5
-I1
-sS'classification'
+F0.031921765551711292
+sS'statistics'
 p6
-I1
-sS'python'
+F0.0065669919352296102
+sS'classification'
 p7
-I1
-sS'linear algebra'
+F0.022220858460972388
+sS'python'
 p8
-I1
-sS'data science'
+F0.0036707853010793379
+sS'science'
 p9
-I1
-sS'data scientist'
+F0.0049509428746062848
+sS'data science'
 p10
-I1
-sS'machine learning'
+F0.0084707107440887275
+sS'data scientist'
 p11
-I1
-sS'access'
+F0.0074603638391822413
+sS'machine learning'
 p12
-I1
-sS'credit'
+F0.004616321984746756
+sS'access'
 p13
-I1
-sS'r'
-I1
-sS'computer science'
+F0.016334239613355315
+sS'credit'
 p14
-I1
-sS'problem solving'
+F0.067131017413471411
+sS'linear algebra'
 p15
-I1
-sS'sql'
+F0.031004415557003961
+sS'a'
+F0.026338618219915868
+sS'computer science'
 p16
-I1
-sS'mathematics'
+F0.0099012905858254976
+sS'problem solving'
 p17
-I1
-sS'data analytics'
+F0.017285999048966556
+sS'sql'
 p18
-I1
-ssS'working-year'
+F0.0048024215410777966
+sS'mathematics'
 p19
-(dp20
-V(2, 5]
+F0.012872487901942295
+sS'r'
+F0.0039083965254502898
+sS'data'
+p20
+F0.00083522174559487971
+sS'data analytics'
 p21
-I1
-ssS'major'
+F0.014382554094970402
+ssS'working-year'
 p22
 (dp23
-S'information'
+V(2, 5]
 p24
-I1
-sS'law'
+F0.0087249607635995468
+ssS'major'
 p25
-I1
-sS'general'
-p26
-I1
-sS'data science'
+(dp26
+VMathematics
 p27
-I1
-sS'machine learning'
+F0.012072341757622901
+sVData Science
 p28
-I1
-sS'computer science'
+F0.0072344294549652301
+sVStatistics
 p29
-I1
-sS'statistic'
+F0.012686653309070987
+sVComputer Science
 p30
-I1
-sS'mathematics'
-p31
-I1
-sS'computer science mathematics'
-p32
-I1
-sS'data analytics'
-p33
-I1
+F0.0063757446926211107
 ssS'education'
-p34
-(dp35
+p31
+(dp32
 VMaster
-p36
-I1
+p33
+F0.0051216949663674431
 sVDoctor
-p37
-I1
+p34
+F0.0076702941674399155
 ssS'responsibility'
-p38
-(dp39
+p35
+(dp36
 S'report'
-p40
-I1
+p37
+F0.014614622677270627
 sS'information'
-p41
-I1
+p38
+F0.019536692951118234
 sS'understand'
-p42
-I1
+p39
+F0.014800562066508982
 sS'recommendation'
-p43
-I1
+p40
+F0.018395786935339938
 ss.

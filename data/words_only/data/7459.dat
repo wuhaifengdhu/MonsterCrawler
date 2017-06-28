@@ -4,184 +4,166 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0041336014598194687
 sS'data science'
 p5
-I1
+F0.0031405768294010422
 sS'arm'
 p6
-I1
-sS'engineering'
+F0.014528051835173887
+sS'analytics'
 p7
-I1
-sS'modeling'
-p8
-I1
-sS'strategy'
-p9
-I1
-sS'research'
-p10
-I1
-sS'predictive modeling'
-p11
-I1
-sS'tableau'
-p12
-I1
-sS'writing'
-p13
-I1
-sS'r'
-I1
-sS'stata'
-p14
-I1
-sS'government'
-p15
-I1
-sS'python'
-p16
-I1
-sS'marketing'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'mentoring'
-p19
-I1
-sS'political science'
-p20
-I1
-sS'sql'
-p21
-I1
-sS'business development'
-p22
-I1
-sS'data'
-p23
-I1
-sS'data visualization'
-p24
-I1
-sS'science'
-p25
-I1
-sS'economics'
-p26
-I1
-sS'machine learning'
-p27
-I1
-sS'new business development'
-p28
-I1
-sS'advertising'
-p29
-I1
-sS'security'
-p30
-I1
-sS'microsoft office'
-p31
-I1
-sS'data analytics'
-p32
-I1
-sS'predictive analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'business'
-p39
-I1
-sS'science'
-p40
-I1
-sS'data science'
-p41
-I1
-sS'economics'
-p42
-I1
-sS'statistic'
-p43
-I1
-sS'machine learning'
-p44
-I1
+F0.0045417099842481809
 sS'engineering'
-p45
-I1
-sS'data analytics'
-p46
-I1
-sS'political science'
-p47
-I1
-sS'communication'
-p48
-I1
-sS'marketing'
-p49
-I1
-sVphysic
-p50
-I1
-sS'predictive analytics'
-p51
-I1
-ssS'education'
-p52
-(dp53
-VBachelor
-p54
-I1
-ssS'responsibility'
-p55
-(dp56
-S'development'
-p57
-I1
-sS'large data set'
-p58
-I1
-sS'identify opportunity'
-p59
-I1
-sS'manage data'
-p60
-I1
-sVinsight
-p61
-I1
-sS'communicate'
-p62
-I1
-sS'understand'
-p63
-I1
-sS'pattern'
-p64
-I1
+p8
+F0.0031980542482340853
 sS'modeling'
-p65
-I1
-sS'model'
-p66
-I1
+p9
+F0.0021204848277325129
+sS'strategy'
+p10
+F0.0041123013870152346
+sS'research'
+p11
+F0.0022275726936337812
+sS'predictive modeling'
+p12
+F0.0054282138608067101
+sS'tableau'
+p13
+F0.0052454989219942339
+sS'writing'
+p14
+F0.005866998240424263
+sS'r'
+F0.0014490660747100291
+sS'stata'
+p15
+F0.0079463421219286446
+sS'government'
+p16
+F0.027228402251999639
+sS'python'
+p17
+F0.0013609700071886841
+sS'marketing'
+p18
+F0.0049744504503330253
+sS'data scientist'
+p19
+F0.0027659834599579069
+sS'mentoring'
+p20
+F0.0089820201083001434
+sS'political science'
+p21
+F0.014941167877900754
+sS'sql'
+p22
+F0.0017805322684935957
+sS'business development'
+p23
+F0.0090828989008934283
+sS'data'
+p24
+F0.0030966445920227914
+sS'data visualization'
+p25
+F0.0051350747404167122
+sS'science'
+p26
+F0.0073423904772228973
+sS'economics'
+p27
+F0.0062571588103380194
+sS'machine learning'
+p28
+F0.0017115345217598938
+sS'new business development'
+p29
+F0.013245759087554796
+sS'advertising'
+p30
+F0.0085937265909407038
+sS'security'
+p31
+F0.0057058768034459317
+sS'microsoft office'
+p32
+F0.0050141056002423598
+sS'data analytics'
+p33
+F0.0053324351997018201
+sS'predictive analytics'
+p34
+F0.0060117445778819596
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.003147896244326002
+ssS'major'
+p38
+(dp39
+VSociology
+p40
+F0.010275450055607021
+sVBusiness
+p41
+F0.0028243194443188361
+sVData Science
+p42
+F0.0026822166647651768
+sVEconomics
+p43
+F0.0042839988186017253
+sVEngineering
+p44
+F0.0058808849262838841
+sVComputer Science
+p45
+F0.0023638531236349811
+ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.002379579184516728
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+F0.0031617780741882992
+sS'large data set'
+p52
+F0.0082100708494330706
+sS'manage data'
+p53
+F0.01380896367672753
+sS'insight'
+p54
+F0.0095816885431304708
+sS'communicate'
+p55
+F0.0052382320686203453
+sS'understand'
+p56
+F0.005487414656512468
+sS'identify opportunity'
+p57
+F0.010814698539779085
+sS'pattern'
+p58
+F0.0068370524166426784
+sS'modeling'
+p59
+F0.0021204848277325129
 sS'presentation'
-p67
-I1
+p60
+F0.012863469150441811
+sS'model'
+p61
+F0.0080804743702435552
 ss.

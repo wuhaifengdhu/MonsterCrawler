@@ -4,197 +4,197 @@ p2
 (dp3
 S'quality improvement'
 p4
-I1
+F0.019179387723303912
 sS'shell scripting'
 p5
-I1
-sS'intelligence'
+F0.010870204991237772
+sS'communication'
 p6
-I1
-sS'data mining'
-p7
-I1
-sS'hardware'
-p8
-I1
-sS'analytics'
-p9
-I1
-sS'business intelligence'
-p10
-I1
-sS'data warehousing'
-p11
-I1
-sS'analysis'
-p12
-I1
+F0.0051069979326156655
 sS'mysql'
-p13
-I1
-sS'unix shell scripting'
-p14
-I1
-sS'regression'
-p15
-I1
-sS'clustering'
-p16
-I1
-sS'visualization'
-p17
-I1
-sS'big data'
-p18
-I1
-sS'tableau'
-p19
-I1
-sS'continuous improvement'
-p20
-I1
-sS'six sigma'
-p21
-I1
-sS'json'
-p22
-I1
-sS'mathematics'
-p23
-I1
-sS'unstructured data'
-p24
-I1
-sS'operations research'
-p25
-I1
-sS'teradata'
-p26
-I1
-sS'data analysis'
-p27
-I1
-sS'python'
-p28
-I1
-sS'scripting'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'spark'
-p31
-I1
-sS'data'
-p32
-I1
-sS'hardware diagnostics'
-p33
-I1
-sS'software engineering'
-p34
-I1
-sS'engineering'
-p35
-I1
-sS'hive'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'jenkins'
-p38
-I1
-sS'dashboard'
-p39
-I1
-sS'etl'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(5, 10]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'data mining'
-p46
-I1
-sS'business'
-p47
-I1
-sS'big data'
-p48
-I1
-sS'machine learning statistics'
-p49
-I1
-sS'software engineering'
-p50
-I1
-sS'data analyst'
-p51
-I1
-sS'machine learning'
-p52
-I1
+p7
+F0.0076585739570555547
+sS'hadoop'
+p8
+F0.0041445371012889193
+sS'hardware'
+p9
+F0.011978438956627306
 sS'analytics'
-p53
-I1
-sS'engineering'
-p54
-I1
-sS'statistics operations research'
-p55
-I1
-sS'statistic'
-p56
-I1
+p10
+F0.0084168141482276783
+sS'business intelligence'
+p11
+F0.0065904622863691004
+sS'data warehousing'
+p12
+F0.0098112589086590107
+sS'analysis'
+p13
+F0.0011052216830778384
+sS'data mining'
+p14
+F0.0068450946086520571
+sS'unix shell scripting'
+p15
+F0.014431620794495682
+sS'regression'
+p16
+F0.0076650573892961312
+sS'clustering'
+p17
+F0.01039810503405229
+sS'visualization'
+p18
+F0.0060461137804321595
+sS'statistics'
+p19
+F0.0030081059832342085
+sS'big data'
+p20
+F0.0041055649237505404
+sS'ruby'
+p21
+F0.010959072788159668
+sS'unix'
+p22
+F0.0083293186735001606
+sS'tableau'
+p23
+F0.019442187939907662
+sS'continuous improvement'
+p24
+F0.012935393748690779
+sS'six sigma'
+p25
+F0.013680238321896821
+sS'json'
+p26
+F0.025328862430538036
+sS'intelligence'
+p27
+F0.0050647051931831579
 sS'mathematics'
-p57
-I1
+p28
+F0.0058964299421800188
 sS'operations research'
+p29
+F0.0092933500501674506
+sS'teradata'
+p30
+F0.011809892563979444
+sS'data analysis'
+p31
+F0.0047863290805344036
+sS'python'
+p32
+F0.001681456492752471
+sS'alteryx'
+p33
+F0.015833456835983129
+sS'automation'
+p34
+F0.010758220404721965
+sS'scripting'
+p35
+F0.00784865928208601
+sS'sql'
+p36
+F0.002199818899461442
+sS'spark'
+p37
+F0.0054391471719859958
+sS'data'
+p38
+F0.0045910253370763715
+sS'hardware diagnostics'
+p39
+F0.023220552558756151
+sS'software engineering'
+p40
+F0.0083937515764968117
+sS'engineering'
+p41
+F0.0079022888843461592
+sS'hive'
+p42
+F0.0067282395144838917
+sS'machine learning'
+p43
+F0.0021145732962388366
+sS'jenkins'
+p44
+F0.014405287835899503
+sS'dashboard'
+p45
+F0.033932912604382699
+sS'etl'
+p46
+F0.0091927892710167193
+ssS'working-year'
+p47
+(dp48
+V(5, 10]
+p49
+F0.0038891750373447058
+ssS'major'
+p50
+(dp51
+VStatistics
+p52
+F0.0058113057093163879
+sVBusiness
+p53
+F0.0034894011199164974
+sVData Science
+p54
+F0.0033138354277582665
+sVEngineering
+p55
+F0.0072657384734410571
+sVComputer Science
+p56
+F0.0029205024075877346
+sVMathematics
+p57
+F0.0055299113857498446
+sVOperations Research
 p58
-I1
-sS'data mining machine learning'
-p59
-I1
+F0.010382996445765014
 ssS'education'
-p60
-(dp61
-VDoctor
+p59
+(dp60
+VMaster
+p61
+F0.0023460667265296029
+sVDoctor
 p62
-I1
+F0.0035134895863757035
 ssS'responsibility'
 p63
 (dp64
 S'development'
 p65
-I1
+F0.015625303256956369
 sS'product'
 p66
-I1
+F0.034709493954006368
 sS'data analysis'
 p67
-I1
+F0.0047863290805344036
 sS'pattern'
 p68
-I1
-sVinsight
+F0.025341203957169156
+sS'insight'
 p69
-I1
+F0.029595054129185241
 sS'analysis'
 p70
-I1
+F0.0011052216830778384
 sS'improvement'
 p71
-I1
+F0.0086651822462551868
 sS'data mining'
 p72
-I1
+F0.0068450946086520571
 ss.

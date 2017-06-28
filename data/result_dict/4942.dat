@@ -22,120 +22,110 @@ aS'personalization'
 p12
 aS'education'
 p13
-aS'java'
+aS'management'
 p14
-aS'big data'
+aS'java'
 p15
-aS'scala'
-p16
-aS'agile'
-p17
-aS'hadoop'
-p18
-aS'research'
-p19
-aS'computer science'
-p20
-aS'innovation'
-p21
-aS'teaching'
-p22
-aS'python'
-p23
-aS'aws'
-p24
-aS'data scientist'
-p25
-aS'linux'
-p26
-aS'automation'
-p27
-aS'hive'
-p28
-aS'data wrangling'
-p29
-aS'spark'
-p30
-aS'data'
-p31
-aS'docker'
-p32
-aS'bash'
-p33
-aS'software development'
-p34
-aS'software engineering'
-p35
-aS'science'
-p36
-aS'programming'
-p37
-aS'c++'
-p38
-aS'machine learning'
-p39
-aS'data center'
-p40
-aS'security'
-p41
-aS'scripting'
-p42
-asS'working-year'
-p43
-(lp44
-V(5, 10]
-p45
-asS'major'
-p46
-(lp47
-S'information'
-p48
-aS'software engineering'
-p49
 aS'big data'
-p50
-aS'science'
-p51
-aS'machine learning data science'
-p52
-aS'communication'
-p53
-aS'information management'
-p54
-aS'automation'
-p55
-aS'engineering'
-p56
-aS'computer science engineering'
-p57
+p16
+aS'scala'
+p17
+aS'agile'
+p18
+aS'hadoop'
+p19
+aS'research'
+p20
 aS'computer science'
-p58
-aS'phd'
-p59
-aS'statistic'
-p60
-aS'machine learning'
-p61
-aS'data science'
-p62
-asS'education'
-p63
-(lp64
-VBachelor
-p65
-aVMaster
-p66
-aVDoctor
-p67
-asS'responsibility'
-p68
-(lp69
-S'development'
-p70
-aS'information'
-p71
-aS'product'
-p72
+p21
+aS'innovation'
+p22
+aS'teaching'
+p23
+aS'a'
+aS'python'
+p24
+aS'aws'
+p25
+aS'javascript'
+p26
+aS'data scientist'
+p27
+aS'c'
+aS'linux'
+p28
+aS'automation'
+p29
+aS'jsp'
+p30
+aS'architectures'
+p31
 aS'data wrangling'
-p73
+p32
+aS'spark'
+p33
+aS'data'
+p34
+aS'docker'
+p35
+aS'bash'
+p36
+aS'software development'
+p37
+aS'search'
+p38
+aS'software engineering'
+p39
+aS'science'
+p40
+aS'programming'
+p41
+aS'hive'
+p42
+aS'machine learning'
+p43
+aS'data center'
+p44
+aS'organization'
+p45
+aS'security'
+p46
+aS'scripting'
+p47
+asS'working-year'
+p48
+(lp49
+V(5, 10]
+p50
+asS'major'
+p51
+(lp52
+VEngineering
+p53
+aVData Science
+p54
+aVInformation Science
+p55
+aVComputer Science
+p56
+aVManagement Science and Engineering
+p57
+asS'education'
+p58
+(lp59
+VBachelor
+p60
+aVMaster
+p61
+asS'responsibility'
+p62
+(lp63
+S'development'
+p64
+aS'information'
+p65
+aS'product'
+p66
+aS'data wrangling'
+p67
 as.

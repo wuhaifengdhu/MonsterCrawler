@@ -4,103 +4,94 @@ p2
 (dp3
 S'clustering'
 p4
-I1
+F0.020531290194625542
 sS'training'
 p5
-I1
+F0.014989138541543498
 sS'big data'
 p6
-I1
-sS'data science'
+F0.0081065294672781375
+sS'science'
 p7
-I1
-sS'processing'
-p8
-I1
-sS'data scientist'
-p9
-I1
-sS'analysis'
-p10
-I1
-sS'machine learning'
-p11
-I1
-sS'r'
-I1
-sS'music'
-p12
-I1
-sS'computer science'
-p13
-I1
-sS'healthcare'
-p14
-I1
-sS'mathematics'
-p15
-I1
-sS'natural language processing'
-p16
-I1
-sS'collaboration'
-p17
-I1
-ssS'working-year'
-p18
-(dp19
-V(2, 5]
-p20
-I1
-ssS'major'
-p21
-(dp22
-S'design'
-p23
-I1
-sS'big data'
-p24
-I1
+F0.0044779228547394421
 sS'data science'
-p25
-I1
+p8
+F0.0076614071698127345
+sS'processing'
+p9
+F0.010401834946947262
+sS'data scientist'
+p10
+F0.006747590223973747
+sS'analysis'
+p11
+F0.0021822848519371333
 sS'machine learning'
-p26
-I1
+p12
+F0.0041752721135926074
+sS'r'
+F0.0035349828446747849
 sS'music'
-p27
-I1
+p13
+F0.030433189996897963
 sS'computer science'
-p28
-I1
-sS'natural language processing'
-p29
-I1
+p14
+F0.0089553074088358012
+sS'healthcare'
+p15
+F0.017179874798153912
 sS'mathematics'
-p30
-I1
+p16
+F0.011642632369909593
+sS'natural language processing'
+p17
+F0.015961516764078362
+sS'data'
+p18
+F0.0015108469792926486
+sS'collaboration'
+p19
+F0.016290888025945569
+ssS'working-year'
+p20
+(dp21
+V(2, 5]
+p22
+F0.0078913657861855776
+ssS'major'
+p23
+(dp24
+VMathematics
+p25
+F0.01091893330944237
+sVData Science
+p26
+F0.0065432419274207817
+sVComputer Science
+p27
+F0.005766597110523553
 ssS'education'
+p28
+(dp29
+S'Bachelor'
+p30
+F0.0058049606857955849
+ssS'responsibility'
 p31
 (dp32
-S'Bachelor'
-p33
-I1
-ssS'responsibility'
-p34
-(dp35
 S'development'
-p36
-I1
+p33
+F0.007713127403911584
 sS'model'
-p37
-I1
+p34
+F0.0098561200121123627
 sS'processing'
-p38
-I1
+p35
+F0.010401834946947262
 sS'design'
-p39
-I1
+p36
+F0.0093020306370603673
 sS'analysis'
-p40
-I1
+p37
+F0.0021822848519371333
 ss.

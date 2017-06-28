@@ -4,222 +4,225 @@ p2
 (dp3
 S'nosql'
 p4
-I1
-sS'data science'
+F0.0067576465784358573
+sS'intelligence'
 p5
-I1
-sS'hadoop'
+F0.0038766879256463679
+sS'data science'
 p6
-I1
-sS'analytics'
+F0.0029699775942237014
+sS'hadoop'
 p7
-I1
-sS'engineering'
+F0.0063447234637015546
+sS'analytics'
 p8
-I1
+F0.0064424997183964942
 sS'high performance computing'
 p9
-I1
+F0.0096131787697164572
 sS'modeling'
 p10
-I1
-sS'machine learning'
+F0.0020052979975840801
+sS'sas'
 p11
-I1
-sS'insurance'
+F0.0034203379177220163
+sS'machine learning'
 p12
-I1
-sS'geography'
+F0.0016185622761334304
+sS'insurance'
 p13
-I1
-sS'visualization'
+F0.0077856084285177476
+sS'geography'
 p14
-I1
-sS'management'
+F0.0123485251809443
+sS'visualization'
 p15
-I1
-sS'weka'
+F0.0046278895603307883
+sS'statistics'
 p16
-I1
-sS'power bi'
+F0.0023025008760558137
+sS'weka'
 p17
-I1
-sS'predictive modeling'
+F0.0096018785881018774
+sS'power bi'
 p18
-I1
-sS'r programming'
+F0.012601063933528736
+sS'predictive modeling'
 p19
-I1
+F0.0051333479226888142
 sS'tableau'
 p20
-I1
+F0.0049605582398118313
 sS'perl'
 p21
-I1
-sS'computer science'
-p22
-I1
-sS'unstructured data'
-p23
-I1
-sS'data management'
-p24
-I1
+F0.0070766685044181933
 sS'matlab'
+p22
+F0.0031516078707112712
+sS'mathematics'
+p23
+F0.0045133167458661872
+sS'unstructured data'
+p24
+F0.0078736010702547161
+sS'data management'
 p25
-I1
-sS'product development'
-p26
-I1
-sS'python'
-p27
-I1
-sS'processing'
-p28
-I1
-sS'data scientist'
-p29
-I1
-sS'cart'
-p30
-I1
-sS'data processing'
-p31
-I1
-sS'sql'
-p32
-I1
-sS'java'
-p33
-I1
-sS'data'
-p34
-I1
-sS'c'
-I1
-sS'database management'
-p35
-I1
-sS'.net'
-p36
-I1
-sS'programming'
-p37
-I1
-sS'excel vba'
-p38
-I1
-sS'analysis'
-p39
-I1
-sS'spss'
-p40
-I1
-sS'data engineering'
-p41
-I1
-sS'r'
-I1
-sS'data analytics'
-p42
-I1
-sS'predictive analytics'
-p43
-I1
-ssS'working-year'
-p44
-(dp45
-V(2, 5]
-p46
-I1
-ssS'major'
-p47
-(dp48
-S'management'
-p49
-I1
-sS'business'
-p50
-I1
-sS'geography'
-p51
-I1
-sS'data science'
-p52
-I1
-sS'high performance computing'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'analytics'
-p55
-I1
-sS'engineering'
-p56
-I1
-sS'design'
-p57
-I1
+F0.006789921245948816
 sS'computer science'
-p58
-I1
-sS'statistic'
-p59
-I1
-sS'mathematics computer science'
-p60
-I1
+p26
+F0.0034715636128079524
+sS'finance'
+p27
+F0.0065559161831696012
+sS'python'
+p28
+F0.0025740815444605727
+sS'processing'
+p29
+F0.0080646325267689882
+sS'data scientist'
+p30
+F0.002615732506577477
+sS'cart'
+p31
+F0.013862355769126238
+sS'business analytics'
+p32
+F0.007500207885578058
+sS'product development'
+p33
+F0.0064530280216832346
+sS'data processing'
+p34
+F0.0090758483894527783
+sS'sql'
+p35
+F0.0033676239942372695
+sS'java'
+p36
+F0.0030599184386871196
+sS'data'
+p37
+F0.0043926476990545525
+sS'c'
+F0.0030879553676496229
+sS'database management'
+p38
+F0.011967908988029621
+sS'science'
+p39
+F0.0017358861436891171
+sS'programming'
+p40
+F0.0054435320238759308
+sS'excel vba'
+p41
+F0.014429204395900607
+sS'analysis'
+p42
+F0.00084597215247933315
+sS'spss'
+p43
+F0.0054477748910063337
+sS'data engineering'
+p44
+F0.0098884710026356515
+sS'r'
+F0.0027407027487108206
+sS'etl'
+p45
+F0.007036455985222673
+sS'databases'
+p46
+F0.0056851806748859021
+sS'organization'
+p47
+F0.0043535403439053854
 sS'data analytics'
-p61
-I1
+p48
+F0.0050427720530513507
 sS'predictive analytics'
+p49
+F0.0056851806748859021
+ssS'working-year'
+p50
+(dp51
+V(2, 5]
+p52
+F0.0030591220455089764
+ssS'major'
+p53
+(dp54
+VStatistics
+p55
+F0.0044481599256495806
+sVBusiness
+p56
+F0.0026708996226521339
+sVData Science
+p57
+F0.0025365160064322535
+sVEconomics
+p58
+F0.0040512877716653356
+sVComputer Science
+p59
+F0.0022354462872893771
+sVMathematics
+p60
+F0.0042327716779813626
+sVGeography
+p61
+F0.012119436096678444
+sVManagement Science and Engineering
 p62
-I1
+F0.0031840605888120801
 ssS'education'
 p63
 (dp64
 VMaster
 p65
-I1
+F0.001795754778331301
 ssS'responsibility'
 p66
 (dp67
 S'development'
 p68
-I1
+F0.0029900271664546137
 sS'product'
 p69
-I1
-sVinsight
+F0.0066419402010752917
+sS'insight'
 p70
-I1
+F0.0045306008790357653
 sS'build model'
 p71
-I1
+F0.013058847131325046
 sS'processing'
 p72
-I1
+F0.0080646325267689882
 sS'communicate'
 p73
-I1
+F0.0099073722581807019
 sS'analysis'
 p74
-I1
+F0.00084597215247933315
 sS'analytic'
 p75
-I1
+F0.0055746320303694885
 sS'design'
 p76
-I1
+F0.0036059723704159941
 sS'modeling'
 p77
-I1
+F0.0020052979975840801
 sS'model'
 p78
-I1
+F0.0038207675108682488
 sS'prototype'
 p79
-I1
+F0.0077856084285177476
+sS'decision making'
+p80
+F0.0080656371603197875
 ss.

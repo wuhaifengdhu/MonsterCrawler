@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'storage'
+S'saas'
 p4
 aS'communication'
 p5
@@ -16,7 +16,7 @@ aS'management'
 p9
 aS'agile'
 p10
-aS'saas'
+aS'storage'
 p11
 aS'integration'
 p12
@@ -36,66 +36,52 @@ aS'automation'
 p19
 aS'data'
 p20
-aS'risk assessment'
+aS'fraud'
 p21
-aS'science'
+aS'risk assessment'
 p22
-aS'test automation'
-p23
-aS'architecture'
-p24
-aS'organization'
-p25
-aS'security'
-p26
-asS'working-year'
-p27
-(lp28
-V(5, 10]
-p29
-aV(0, 2]
-p30
-asS'major'
-p31
-(lp32
-S'information'
-p33
-aS'management'
-p34
-aS'business'
-p35
 aS'science'
-p36
-aS'automation'
-p37
-aS'engineering'
-p38
-aS'design'
-p39
-aS'computer science'
-p40
-aS'communication'
-p41
-aS'development practice'
-p42
+p23
+aS'test automation'
+p24
+aS'architecture'
+p25
+aS'organization'
+p26
+aS'security'
+p27
+asS'working-year'
+p28
+(lp29
+sS'major'
+p30
+(lp31
+VEngineering
+p32
+aVComputer Science
+p33
+aVBusiness
+p34
+aVManagement Science and Engineering
+p35
 asS'education'
-p43
-(lp44
+p36
+(lp37
 VBachelor
-p45
+p38
 asS'responsibility'
-p46
-(lp47
+p39
+(lp40
 S'development'
-p48
+p41
 aS'information'
-p49
+p42
 aS'product'
-p50
-aVinsight
-p51
+p43
+aS'insight'
+p44
 aS'design'
-p52
+p45
 aS'prototype'
-p53
+p46
 as.

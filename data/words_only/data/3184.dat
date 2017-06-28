@@ -4,178 +4,181 @@ p2
 (dp3
 S'consulting'
 p4
-I1
-sS'programming'
+F0.0057494012585523431
+sS'business strategy'
 p5
-I1
+F0.0077341865656983134
 sS'analytics'
 p6
-I1
+F0.015491506956449583
 sS'problem solving'
 p7
-I1
-sS'insurance'
+F0.0062458317174382983
+sS'sas'
 p8
-I1
-sS'management'
+F0.0035247757167364297
+sS'insurance'
 p9
-I1
-sS'big data'
+F0.0080233369301518781
+sS'statistics'
 p10
-I1
-sS'programming languages'
-p11
-I1
-sS'predictive modeling'
-p12
-I1
-sS'hadoop'
-p13
-I1
-sS'strategy'
-p14
-I1
-sS'big data analytics'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'innovation'
-p17
-I1
-sS'theory'
-p18
-I1
-sS'python'
-p19
-I1
-sS'aws'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'sql'
-p22
-I1
-sS'modeling'
-p23
-I1
-sS'b2b'
-p24
-I1
-sS'business strategy'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'google analytics'
-p27
-I1
-sS'r'
-I1
-sS'retail'
-p28
-I1
-sS'data analytics'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'management'
-p35
-I1
-sS'business'
-p36
-I1
+F0.0023728062463170604
 sS'big data'
-p37
-I1
-sS'applied math computer science'
-p38
-I1
-sS'applied math'
-p39
-I1
-sS'machine learning'
-p40
-I1
+p11
+F0.0032384863266225641
+sS'programming languages'
+p12
+F0.012129671976592926
+sS'predictive modeling'
+p13
+F0.0052900913707098476
+sS'hadoop'
+p14
+F0.0065384554778603818
+sS'strategy'
+p15
+F0.0040076626748774425
 sS'big data analytics'
-p41
-I1
-sS'analytics'
-p42
-I1
+p16
+F0.008433254719461783
 sS'computer science'
-p43
-I1
-sS'machine learning big data'
-p44
-I1
-sS'statistic'
-p45
-I1
-sS'spatial analytics'
-p46
-I1
+p17
+F0.0035775655551837679
+sS'innovation'
+p18
+F0.0049257625245158363
+sS'theory'
+p19
+F0.0074566825711789714
+sS'python'
+p20
+F0.0013263397271075471
+sS'aws'
+p21
+F0.006650067045246082
+sS'processing'
+p22
+F0.0041554404240985244
+sS'data scientist'
+p23
+F0.0026956022014348051
+sS'management'
+p24
+F0.0023054678554698532
+sS'sql'
+p25
+F0.0017352261039008832
+sS'modeling'
+p26
+F0.0041330569415855088
+sS'spark'
+p27
+F0.0042904214333731776
+sS'data'
+p28
+F0.00090535486927078559
+sS'b2b'
+p29
+F0.0088440830829470077
+sS'science'
+p30
+F0.0017888903007483269
+sS'programming'
+p31
+F0.0028048733710811092
+sS'machine learning'
+p32
+F0.001667984025023001
+sS'google analytics'
+p33
+F0.0098150081756737378
+sS'r'
+F0.0028243883288241282
+sS'retail'
+p34
+F0.017536699666241842
 sS'data analytics'
-p47
-I1
+p35
+F0.0051967498256636066
+ssS'working-year'
+p36
+(dp37
+V(2, 5]
+p38
+F0.0031525303522420751
+ssS'major'
+p39
+(dp40
+VStatistics
+p41
+F0.0045839816027686518
+sVBusiness
+p42
+F0.0027524538096033442
+sVData Science
+p43
+F0.002613966876857666
+sVComputer Science
+p44
+F0.0023037041891913429
+sVMathematics
+p45
+F0.0043620166147136184
+sVManagement Science and Engineering
+p46
+F0.0032812838128979454
 ssS'education'
-p48
-(dp49
+p47
+(dp48
 VBachelor
-p50
-I1
+p49
+F0.0023190300958521801
 sVMaster
-p51
-I1
+p50
+F0.0018505869853032491
 ssS'responsibility'
-p52
-(dp53
+p51
+(dp52
 S'development'
+p53
+F0.0030813257058883428
+sS'information'
 p54
-I1
+F0.0035295297697948975
 sS'product'
 p55
-I1
+F0.0068447475354592707
 sS'business problem'
 p56
-I1
+F0.0072472024481695799
 sS'understand'
 p57
-I1
+F0.0053477857848454845
 sS'pattern'
 p58
-I1
-sS'communicate'
+F0.0066630816172370128
+sS'processing'
 p59
-I1
-sS'improvement'
+F0.0041554404240985244
+sS'communicate'
 p60
-I1
-sS'statistical method'
+F0.010209887441636601
+sS'improvement'
 p61
-I1
-sS'complex data set'
+F0.0068351310339417508
+sS'statistical method'
 p62
-I1
-sS'report'
+F0.0089460316260852706
+sS'complex data set'
 p63
-I1
-sS'modeling'
+F0.012725579384942601
+sS'report'
 p64
-I1
-sS'model'
+F0.0052806015780468936
+sS'modeling'
 p65
-I1
+F0.0041330569415855088
+sS'model'
+p66
+F0.007874864335377308
 ss.

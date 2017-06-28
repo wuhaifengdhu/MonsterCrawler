@@ -4,154 +4,147 @@ p2
 (dp3
 S'oncology'
 p4
-I1
+F0.018696145489278487
 sS'healthcare industry'
 p5
-I1
+F0.017015228236581137
 sS'intelligence'
 p6
-I1
+F0.010941174981789401
 sS'engineering'
 p7
-I1
+F0.004267786679699145
 sS'neuroscience'
 p8
-I1
-sS'big data'
+F0.014687218895717382
+sS'sas'
 p9
-I1
-sS'agile'
+F0.004826609256715738
+sS'statistics'
 p10
-I1
-sS'strategy'
+F0.0032491737101136048
+sS'big data'
 p11
-I1
-sS'matlab'
+F0.0044345823218211412
+sS'agile'
 p12
-I1
-sS'communication'
+F0.007608675514632437
+sS'strategy'
 p13
-I1
-sS'mathematics'
+F0.0054878447081074385
+sS'matlab'
 p14
-I1
-sS'data analysis'
+F0.0044473908976936051
+sS'communication'
 p15
-I1
-sS'product development'
+F0.005516269543940266
+sS'mathematics'
 p16
-I1
-sS'python'
+F0.0063689661396369541
+sS'data analysis'
 p17
-I1
-sS'data scientist'
+F0.0051699024911695647
+sS'product development'
 p18
-I1
-sS'statistical modeling'
+F0.0091061893685773863
+sS'python'
 p19
-I1
-sS'sql'
+F0.0018162073615096376
+sS'data scientist'
 p20
-I1
-sS'modeling'
+F0.0036911904709542795
+sS'statistical modeling'
 p21
-I1
-sS'data'
+F0.0062416917079804752
+sS'sql'
 p22
-I1
-sS'programming'
+F0.0023761110063869237
+sS'modeling'
 p23
-I1
-sS'analysis'
+F0.0028297759199357227
+sS'data'
 p24
-I1
-sS'r'
-I1
-sS'healthcare'
+F0.0012397368070502398
+sS'a'
+F0.0065158254132892911
+sS'science'
 p25
-I1
-sS'data analytics'
+F0.0024495954292477087
+sS'programming'
 p26
-I1
-ssS'working-year'
+F0.0076816392671419922
+sS'analysis'
 p27
-(dp28
-V(2, 5]
+F0.0011937934555893029
+sS'r'
+F0.0019337711031844639
+sS'healthcare'
+p28
+F0.0093980499766904667
+sS'data analytics'
 p29
-I1
-ssS'major'
+F0.0071161069041316971
+ssS'working-year'
 p30
 (dp31
-S'information'
+V(2, 5]
 p32
-I1
-sS'big data'
+F0.0043168795415719011
+ssS'major'
 p33
-I1
-sS'communication'
-p34
-I1
-sS'pharmaceutical science'
+(dp34
+VMathematics
 p35
-I1
-sS'neuroscience'
+F0.005973075015966731
+sVData Science
 p36
-I1
-sS'phd'
+F0.003579404120575131
+sVCognitive Science
 p37
-I1
-sS'engineering'
+F0.015010495637228232
+sVStatistics
 p38
-I1
-sS'statistic'
+F0.0062770201041396521
+sVEngineering
 p39
-I1
-sS'mathematics'
-p40
-I1
-sS'data analytics'
-p41
-I1
+F0.0078480101977934751
 ssS'education'
-p42
-(dp43
+p40
+(dp41
 VDoctor
-p44
-I1
+p42
+F0.0037950584382455332
 ssS'responsibility'
-p45
-(dp46
+p43
+(dp44
 S'development'
-p47
-I1
+p45
+F0.0084387526300635438
 sS'information'
-p48
-I1
+p46
+F0.0048331191621233264
 sS'product'
-p49
-I1
+p47
+F0.0046863863788074792
 sS'data analysis'
-p50
-I1
-sVinsight
-p51
-I1
+p48
+F0.0051699024911695647
+sS'insight'
+p49
+F0.0063933566411480316
 sS'analysis'
-p52
-I1
-sS'statistical model'
-p53
-I1
+p50
+F0.0011937934555893029
 sS'statistical method'
-p54
-I1
+p51
+F0.012250140867775301
 sS'solve problem'
-p55
-I1
+p52
+F0.014331158436347321
 sS'modeling'
-p56
-I1
+p53
+F0.0028297759199357227
 sS'extract'
-p57
-I1
+p54
+F0.010779472232414041
 ss.

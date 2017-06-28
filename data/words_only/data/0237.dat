@@ -2,193 +2,190 @@
 S'skills'
 p2
 (dp3
-S'testing'
+S'nosql'
 p4
-I1
-sS'integration'
+F0.0047680258959347079
+sS'testing'
 p5
-I1
-sS'hardware'
-p6
-I1
-sS'unix'
-p7
-I1
-sS'troubleshooting'
-p8
-I1
-sS'system administration'
-p9
-I1
-sS'linux'
-p10
-I1
-sS'management'
-p11
-I1
-sS'big data'
-p12
-I1
-sS'data migration'
-p13
-I1
-sS'datastage'
-p14
-I1
+F0.0035668606531359111
 sS'hadoop'
-p15
-I1
-sS'research'
-p16
-I1
-sS'teamwork'
-p17
-I1
-sS'policy'
-p18
-I1
-sS'linux system administration'
-p19
-I1
-sS'operating systems'
-p20
-I1
-sS'government'
-p21
-I1
-sS'database design'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'mentoring'
-p25
-I1
-sS'scripting'
-p26
-I1
-sS'performance tuning'
-p27
-I1
-sS'extract transform load etl'
-p28
-I1
-sS'data'
-p29
-I1
-sS'database management'
-p30
-I1
-sS'engineering'
-p31
-I1
+p6
+F0.0044766777052249645
+sS'hardware'
+p7
+F0.01293838354200162
+sS'analytics'
+p8
+F0.0030304441184095003
+sS'unix'
+p9
+F0.0044984125240157659
+sS'troubleshooting'
+p10
+F0.0065511889646937202
+sS'system administration'
+p11
+F0.0080226363317922982
+sS'linux'
+p12
+F0.0032161638289185182
 sS'analysis'
-p32
-I1
-sS'etl'
-p33
-I1
+p13
+F0.0017906901833839545
+sS'hbase'
+p14
+F0.0058332022471081386
+sS'big data'
+p15
+F0.0022172911609105706
+sS'data migration'
+p16
+F0.0094191908762947824
+sS'datastage'
+p17
+F0.010700905960094603
+sS'integration'
+p18
+F0.0080356903212355831
+sS'research'
+p19
+F0.0014863420586441432
+sS'teamwork'
+p20
+F0.0049902615824076639
+sS'policy'
+p21
+F0.0047555021394438141
+sS'linux system administration'
+p22
+F0.010019955994136109
+sS'operating systems'
+p23
+F0.0082483032952468463
+sS'government'
+p24
+F0.0045420200620713679
+sS'database design'
+p25
+F0.006475879371756952
+sS'data scientist'
+p26
+F0.0018455952354771397
 sS'netezza'
+p27
+F0.017836010404669863
+sS'leadership'
+p28
+F0.0028787606641181569
+sS'mentoring'
+p29
+F0.0059932294450852873
+sS'performance tuning'
+p30
+F0.00836321166971387
+sS'extract transform load etl'
+p31
+F0.0085076141182905685
+sS'data'
+p32
+F0.0016529824094003193
+sS'database management'
+p33
+F0.0084442563417282176
+sS'mysql'
 p34
-I1
-sS'security'
+F0.004136163635343592
+sS'engineering'
 p35
-I1
-sS'validation'
+F0.0021338933398495725
+sS'hive'
 p36
-I1
-sS'data analytics'
+F0.0036337182046864225
+sS'securities'
 p37
-I1
-ssS'working-year'
+F0.010421564015539916
+sS'scripting'
 p38
-(dp39
-V(5, 10]
+F0.0084776459144483042
+sS'oracle'
+p39
+F0.004573208185646902
+sS'validation'
 p40
-I1
-sV(10, 15]
+F0.0055086451307928518
+sS'etl'
 p41
-I1
-ssS'major'
+F0.0099294936376835632
+ssS'working-year'
 p42
 (dp43
-S'information'
+V(5, 10]
 p44
-I1
-sS'management'
+F0.002100425542816827
+sV(10, 15]
 p45
-I1
-sS'business'
+F0.0034101504463386043
+ssS'major'
 p46
-I1
-sS'big data'
-p47
-I1
-sS'data analyst'
+(dp47
+VData Science
 p48
-I1
-sS'engineering'
+F0.0017897020602875655
+sVEngineering
 p49
-I1
-sS'design'
+F0.0021338933398495725
+sVBusiness
 p50
-I1
-sS'data analytics'
+F0.0018845197685960176
+sVManagement Science and Engineering
 p51
-I1
+F0.0022465932725938892
 ssS'education'
 p52
 (dp53
-S'Bachelor'
+VBachelor
 p54
-I1
-ssS'responsibility'
+F0.0015877679924562835
+sVMaster
 p55
-(dp56
+F0.0012670395212964754
+ssS'responsibility'
+p56
+(dp57
 S'information'
-p57
-I1
-sS'product'
 p58
-I1
-sVinsight
+F0.0024165595810616632
+sS'product'
 p59
-I1
+F0.0070295795682112196
 sS'manage data'
 p60
-I1
+F0.0092139949271544327
 sS'analysis'
 p61
-I1
+F0.0017906901833839545
 sS'improvement'
 p62
-I1
+F0.0046798022584305012
 sS'report'
 p63
-I1
+F0.0036154641466418624
 sS'design'
 p64
-I1
-sS'solve problem'
-p65
-I1
+F0.0025442836411471736
 sS'recommendation'
-p66
-I1
+p65
+F0.0045508741198924587
 sS'interface'
-p67
-I1
+p66
+F0.0055009707291813221
 sS'implement'
-p68
-I1
+p67
+F0.0036896570995115113
 sS'extract'
-p69
-I1
+p68
+F0.0053897361162070206
 sS'transformation'
-p70
-I1
+p69
+F0.0054781483193952372
 ss.

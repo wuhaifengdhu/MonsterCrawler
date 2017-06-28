@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'training'
+S'a'
+aS'training'
 p4
 aS'data analysis'
 p5
@@ -12,72 +13,58 @@ aS'communication'
 p7
 aS'data science'
 p8
-aS'biology'
+aS'linux'
 p9
-aS'analysis'
+aS'biology'
 p10
-aS'machine learning'
-p11
-aS'assay development'
-p12
-aS'computer science'
-p13
-aS'science'
-p14
-aS'drug discovery'
-p15
-aS'data'
-p16
-asS'working-year'
-p17
-(lp18
-V(2, 5]
-p19
-asS'major'
-p20
-(lp21
-S'biology'
-p22
-aS'computational biology'
-p23
-aS'science'
-p24
-aS'data science'
-p25
-aS'communication'
-p26
-aS'machine learning'
-p27
-aS'computer science computational biology'
-p28
-aS'design'
-p29
-aS'computer science'
-p30
-aS'statistic'
-p31
-aS'computational biolog'
-p32
-asS'education'
-p33
-(lp34
-VDoctor
-p35
-asS'responsibility'
-p36
-(lp37
-S'development'
-p38
-aS'data analysis'
-p39
-aS'communicate'
-p40
 aS'analysis'
-p41
+p11
+aS'machine learning'
+p12
+aS'unix'
+p13
+aS'assay development'
+p14
+aS'computer science'
+p15
+aS'science'
+p16
+aS'drug discovery'
+p17
+aS'data'
+p18
+asS'working-year'
+p19
+(lp20
+V(2, 5]
+p21
+asS'major'
+p22
+(lp23
+VBiological Engineering
+p24
+aVData Science
+p25
+aVComputer Science
+p26
+asS'education'
+p27
+(lp28
+VDoctor
+p29
+asS'responsibility'
+p30
+(lp31
+S'development'
+p32
+aS'data analysis'
+p33
+aS'communicate'
+p34
+aS'analysis'
+p35
 aS'analytic'
-p42
-aS'statistical method'
-p43
+p36
 aS'design'
-p44
+p37
 as.

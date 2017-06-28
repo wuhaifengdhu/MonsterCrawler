@@ -18,7 +18,7 @@ aS'insurance'
 p10
 aS'visualization'
 p11
-aS'management'
+aS'statistics'
 p12
 aS'dna'
 p13
@@ -44,85 +44,69 @@ aS'philosophy'
 p23
 aS'matplotlib'
 p24
-aS'statistical modeling'
+aS'management'
 p25
-aS'modeling'
+aS'statistical modeling'
 p26
-aS'data'
+aS'modeling'
 p27
-aS'statistical programming'
+aS'data'
 p28
-aS'data visualization'
+aS'statistical programming'
 p29
-aS'science'
+aS'data visualization'
 p30
-aS'programming'
+aS'science'
 p31
-aS'analysis'
+aS'programming'
 p32
-aS'machine learning'
+aS'analysis'
 p33
+aS'machine learning'
+p34
 aS'r'
 asS'working-year'
-p34
-(lp35
-V[0]
-p36
-asS'major'
+p35
+(lp36
+S'[0]'
 p37
-(lp38
-S'management'
-p39
-aS'business'
+asS'major'
+p38
+(lp39
+VStatistics
 p40
-aS'science'
+aVBusiness
 p41
-aS'industrial engineering'
+aVIndustrial Engineering
 p42
-aS'philosophy'
+aVEngineering
 p43
-aS'computer science mathematics'
+aVComputer Science
 p44
-aS'machine learning'
+aVMathematics
 p45
-aS'statistics computer science'
+aVManagement Science and Engineering
 p46
-aS'engineering'
-p47
-aS'industrial engineering statistics'
-p48
-aS'computer science'
-p49
-aS'statistic'
-p50
-aS'robotics'
-p51
-aS'mathematics'
-p52
-aS'phd'
-p53
-aS'web development'
-p54
 asS'education'
-p55
-(lp56
-VDoctor
-p57
+p47
+(lp48
+VMaster
+p49
+aVDoctor
+p50
 asS'responsibility'
-p58
-(lp59
+p51
+(lp52
 S'development'
-p60
+p53
 aS'product'
-p61
+p54
 aS'data analysis'
-p62
+p55
 aS'analysis'
-p63
-aS'statistical model'
-p64
+p56
 aS'report'
-p65
+p57
 aS'modeling'
-p66
+p58
 as.

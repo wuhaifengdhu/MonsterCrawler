@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'social media'
+S'a'
+aS'social media'
 p4
 aS'consulting'
 p5
@@ -44,36 +45,32 @@ p23
 asS'major'
 p24
 (lp25
-S'analytics'
+VData Science
 p26
-aS'marketing'
+aVEconomics
 p27
-aS'development practice'
-p28
-aS'communication'
-p29
-aS'information'
-p30
 asS'education'
+p28
+(lp29
+VBachelor
+p30
+asS'responsibility'
 p31
 (lp32
-S'Bachelor'
-p33
-asS'responsibility'
-p34
-(lp35
 S'development'
-p36
+p33
 aS'information'
-p37
+p34
 aS'communicate'
-p38
+p35
 aS'analysis'
-p39
+p36
+aS'forecast'
+p37
 aS'recommendation'
-p40
+p38
 aS'implement'
-p41
+p39
 aS'presentation'
-p42
+p40
 as.

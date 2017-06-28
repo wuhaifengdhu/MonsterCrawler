@@ -2,136 +2,137 @@
 S'skills'
 p2
 (dp3
-S'microsoft azure'
+S'higher education'
 p4
-I1
-sS'higher education'
-p5
-I1
-sS'machine learning'
-p6
-I1
-sS'programming'
-p7
-I1
-sS'data visualization'
-p8
-I1
-sS'python'
-p9
-I1
-sS'agile'
-p10
-I1
+F0.017513512689350457
 sS'data science'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'tableau'
-p13
-I1
-sS'data'
-p14
-I1
+p5
+F0.0048501650228249963
 sS'analytics'
-p15
-I1
-sS'engineering'
-p16
-I1
-sS'data analysis'
-p17
-I1
+p6
+F0.010521017685284597
+sS'business intelligence'
+p7
+F0.0082380778579613755
 sS'statistical analysis'
+p8
+F0.010381855457308903
+sS'sas'
+p9
+F0.0055856324866024867
+sS'education'
+p10
+F0.016924409272687655
+sS'quantitative analysis'
+p11
+F0.03075808340339057
+sS'statistics'
+p12
+F0.0037601324790427606
+sS'agile'
+p13
+F0.0088052010995947946
+sS'tableau'
+p14
+F0.0081009116416281921
+sS'computer science'
+p15
+F0.0056692873515613732
+sS'data analysis'
+p16
+F0.0059829113506680047
+sS'python'
+p17
+F0.0021018206159405884
+sS'data scientist'
 p18
-I1
+F0.0042716599401769282
 sS'sql'
 p19
-I1
-sS'root'
+F0.0027497736243268026
+sS'data'
 p20
-I1
-sS'education'
+F0.00095646361189091061
+sS'a'
+F0.015080983013016344
+sS'data visualization'
 p21
-I1
-sS'quantitative analysis'
+F0.0079303775224983906
+sS'science'
 p22
-I1
-sS'business intelligence'
+F0.0028348140652987596
+sS'programming'
 p23
-I1
-sS'computer science'
+F0.0044448194953019193
+sS'engineering'
 p24
-I1
-ssS'working-year'
+F0.0049389305527163495
+sS'machine learning'
 p25
-(dp26
-V(2, 5]
+F0.0026432166202985455
+sS'r'
+F0.0022378722040884724
+sS'root'
+p26
+F0.015792499320351469
+sS'microsoft azure'
 p27
-I1
-ssS'major'
+F0.02140131099888648
+ssS'working-year'
 p28
 (dp29
-S'business'
+V(2, 5]
 p30
-I1
-sS'statistics computer science'
+F0.004995743663028772
+ssS'major'
 p31
-I1
-sS'data science'
-p32
-I1
-sS'machine learning'
+(dp32
+VEngineering
 p33
-I1
-sS'analytics'
+F0.0090821730918013207
+sVStatistics
 p34
-I1
-sS'engineering'
+F0.0072641321366454844
+sVData Science
 p35
-I1
-sS'computer science'
+F0.0041422942846978334
+sVBusiness
 p36
-I1
-sS'statistic'
+F0.0043617513998956215
+sVComputer Science
 p37
-I1
-sS'general'
-p38
-I1
+F0.0036506280094846682
 ssS'education'
-p39
-(dp40
+p38
+(dp39
 VBachelor
-p41
-I1
+p40
+F0.003674914627701237
 sVMaster
-p42
-I1
+p41
+F0.0029325834081620037
 ssS'responsibility'
-p43
-(dp44
+p42
+(dp43
 S'large data set'
+p44
+F0.012679262642471234
+sS'product'
 p45
-I1
-sVinsight
+F0.0054233584303134946
+sS'data analysis'
 p46
-I1
+F0.0059829113506680047
 sS'predict'
 p47
-I1
-sVproduct operation
+F0.016822104985948827
+sS'insight'
 p48
-I1
-sS'data analysis'
-p49
-I1
+F0.0073987635322963104
 sS'model'
-p50
-I1
+p49
+F0.012479119692755168
 sS'quantitative analysis'
-p51
-I1
+p50
+F0.03075808340339057
 ss.

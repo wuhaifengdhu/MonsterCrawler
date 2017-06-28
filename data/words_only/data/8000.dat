@@ -2,129 +2,132 @@
 S'skills'
 p2
 (dp3
-S'visualization'
+S'consulting'
 p4
-I1
-sS'consulting'
-p5
-I1
-sS'data scientist'
-p6
-I1
-sS'big data'
-p7
-I1
+F0.010863051416399379
 sS'classification'
-p8
-I1
-sS'python'
-p9
-I1
-sS'marketing'
-p10
-I1
+p5
+F0.01517000914162538
 sS'data science'
-p11
-I1
-sS'natural language processing'
-p12
-I1
-sS'programming'
-p13
-I1
-sS'segmentation'
-p14
-I1
-sS'machine learning'
-p15
-I1
-sS'big data analytics'
-p16
-I1
-sS'r'
-I1
-sS'search'
-p17
-I1
-sS'application development'
-p18
-I1
+p6
+F0.005782889065675958
 sS'email marketing'
-p19
-I1
-sS'organization'
-p20
-I1
-sS'data analytics'
-p21
-I1
-ssS'working-year'
-p22
-(dp23
-V(2, 5]
-p24
-I1
-ssS'major'
-p25
-(dp26
-S'information'
-p27
-I1
-sS'business'
-p28
-I1
+p7
+F0.024685977161699658
+sS'visualization'
+p8
+F0.0090110349612210067
 sS'big data'
-p29
-I1
-sS'marketing'
-p30
-I1
-sS'data science'
-p31
-I1
-sS'machine learning'
-p32
-I1
+p9
+F0.0061188707998205173
 sS'big data analytics'
-p33
-I1
+p10
+F0.015933986080521542
 sS'natural language processing'
-p34
-I1
+p11
+F0.012047875634424533
+sS'segmentation'
+p12
+F0.013923323616009812
+sS'python'
+p13
+F0.0025060168882368558
+sS'marketing'
+p14
+F0.0091596852042189845
+sS'processing'
+p15
+F0.0078513850320707703
+sS'data scientist'
+p16
+F0.0050931330055955688
+sS'data'
+p17
+F0.0017105983828048978
+sS'search'
+p18
+F0.044740237177640883
+sS'science'
+p19
+F0.003379970616317752
+sS'programming'
+p20
+F0.0052995924751676731
+sS'presentations'
+p21
+F0.02038881672975007
+sS'machine learning'
+p22
+F0.0031515275088174971
+sS'r'
+F0.0026682322433362556
+sS'application development'
+p23
+F0.018418732699453103
+sS'organization'
+p24
+F0.0084768453811619286
 sS'data analytics'
-p35
-I1
+p25
+F0.0098188590456047935
+ssS'working-year'
+p26
+(dp27
+V(2, 5]
+p28
+F0.0059564635982266136
+ssS'major'
+p29
+(dp30
+VData Science
+p31
+F0.0049388893394474165
+sVEconomics
+p32
+F0.0078883247477137541
+sVComputer Science
+p33
+F0.0043526718574624897
+sVBusiness
+p34
+F0.005200549746029395
 ssS'education'
-p36
-(dp37
+p35
+(dp36
 S'Bachelor'
-p38
-I1
+p37
+F0.0043816289791822442
 ssS'responsibility'
-p39
-(dp40
+p38
+(dp39
 S'development'
-p41
-I1
+p40
+F0.0058219278962217246
 sS'information'
-p42
-I1
+p41
+F0.0066687749977374748
 sS'business problem'
-p43
-I1
+p42
+F0.013693031548705024
 sS'predict'
+p43
+F0.020057125175554372
+sS'processing'
 p44
-I1
+F0.0078513850320707703
 sS'communicate'
 p45
-I1
+F0.009645398472507654
 sS'understand'
 p46
-I1
+F0.010104229872328247
 sS'recommendation'
 p47
-I1
+F0.012558662234703227
 sS'model'
 p48
-I1
+F0.02231842560435059
+sS'evaluate ... metric'
+p49
+F0.033534749657936888
 ss.

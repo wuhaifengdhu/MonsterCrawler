@@ -1,263 +1,486 @@
-description
-role_requires
-working_closely
-data
-science
-team
-frequently
-matrixed_environment
-part
-broader
-project
-team
-senior-level
-position
-role_requires
-self-starter
-proficient
-problem_solving
-capable
-bringing
-clarity
-complex_situation
-culture
-organization
-place
-emphasis
-teamwork
-social
-interpersonal_skill
-equally_important
-technical
-capability
-due
-emerging
-fast-evolving
-nature
-big_data
-technology
-practice
-position_requires
-one
-stay
-well-informed
-technological_advancement
-proficient
-putting
-new
-innovation
-effective
-practice
-responsibility
-role
-provide
-application
-development
-specific
-business
-environment
-focus
-setting
-technical
-direction
-group
-application
-similar
-technology
-well
-taking_responsibility
-technically_robust
-solution
-encompassing
-business
-architecture
-technology
-constraint
-responsible_building
-supporting_hadoop-based
-ecosystem
-designed_enterprise-wide
-analysis
-structured_semi-structured
-unstructured_data
-manage
-optimize
-hadoop_spark
-cluster
-may_include
-many
-large
-hbase_instance
-support
-regular
-request
-move
-data
-one
-cluster_another
-manage
-production
-support
-team
-make_sure
-service
-level
-maintained_interruption
-resolved_timely
-fashion
-bring
-new
-data
-source
-hdfs
-transform_load
-database
-work_collaboratively
-data_scientist
-business
-leader
-throughout_company
-understand
-big_data
-need
-use_case
-qualification
-successful_candidate
-following
-bachelor_degree
-computer_science
-related_discipline
-least_5
-year
-equivalent
-work
-experience
-strong_understanding
-best_practice
-standard
-hadoop
-application
-design_implementation
-hands-on_experience
-cloudera
-distributed
-hadoop_cdh
-experience
-many
-following
-component
-hadoop_mapreduce
-spark_impala
-hive
-solr_yarn
-java_python
-scala
-sql
-json_xml
-regex
-sqoop
-experience
-developing
-mapreduce
-program
-using
-apache_hadoop
-working
-big_data
-experience
-deployed
-big_data
-technology
-production
-understanding_lambda
-design
-architecture
-real-time_streaming
-ability_multitask
-balance_competing
-priority
-requires
-strong
-practical
-experience
-agile
-application
-development
-file_system
-management
-devops
-discipline
-practice
-using_short-cycle
-iteration_deliver
-continuous
-business
-value
-ability
-define
-utilize
-best_practice
-technique_impose
-order_fast-changing
-environment
-must
-strong_problem-solving
-skill
-strong_verbal
-written_interpersonal
-skill
-including
-desire_work
-within_highly-matrixed
-team-oriented_environment
-preferred
-successful_candidate
-may
-experience
-healthcare
-domain
-experience
-patient
-data
-hardware
-operating_system
-linux_unix
-distributed_highly-scalable
-processing
-environment
-networking
--
-basic_understanding
-networking_respect
-distributed
-server_file
-system
-connectivity_troubleshooting
-connectivity_error
-database
-rdbms_teradata
-language_java
-python_scala
-r
-build
-system
-maven_ant
-source
-control_system
-git_mercurial
-continuous_integration
-system
-jenkins_bamboo
-config
-orchestration
-zookeeper
-puppet_salt
-ansible_chef
-oozie
-pig
-certification_plus
-required
-ccdh
-cloudera
-certified_developer
-apache_hadoop
+(lp1
+Vdescription
+p2
+aVrole requires
+p3
+aVworking closely
+p4
+aVdata science
+p5
+aVteam
+p6
+aVfrequently
+p7
+aVmatrixed environment
+p8
+aVpart broader
+p9
+aVproject
+p10
+aVteam
+p11
+aVsenior-level
+p12
+aVposition
+p13
+aVrole requires
+p14
+aVself-starter
+p15
+aVproficient
+p16
+aVproblem solving
+p17
+aVcapable
+p18
+aVbringing
+p19
+aVclarity
+p20
+aVcomplex situation
+p21
+aVculture
+p22
+aVorganization
+p23
+aVplace emphasis
+p24
+aVteamwork
+p25
+aVsocial
+p26
+aVinterpersonal skill
+p27
+aVequally important
+p28
+aVtechnical
+p29
+aVcapability
+p30
+aVdue
+p31
+aVemerging
+p32
+aVfast-evolving
+p33
+aVnature
+p34
+aVbig data
+p35
+aVtechnology
+p36
+aVpractice
+p37
+aVposition requires
+p38
+aVone
+p39
+aVstay
+p40
+aVwell-informed
+p41
+aVtechnological advancement
+p42
+aVproficient
+p43
+aVputting
+p44
+aVnew
+p45
+aVinnovation
+p46
+aVeffective
+p47
+aVpractice
+p48
+aVresponsibility
+p49
+aVrole
+p50
+aVprovide
+p51
+aVapplication development
+p52
+aVspecific
+p53
+aVbusiness
+p54
+aVenvironment
+p55
+aVfocus
+p56
+aVsetting
+p57
+aVtechnical direction
+p58
+aVgroup
+p59
+aVapplication
+p60
+aVsimilar
+p61
+aVtechnology
+p62
+aVwell
+p63
+aVtaking responsibility
+p64
+aVtechnically robust
+p65
+aVsolution
+p66
+aVencompassing business
+p67
+aVarchitecture
+p68
+aVtechnology
+p69
+aVconstraint
+p70
+aVresponsible building
+p71
+aVsupporting hadoop-based
+p72
+aVecosystem designed
+p73
+aVenterprise-wide
+p74
+aVanalysis structured
+p75
+aVsemi-structured unstructured
+p76
+aVdata
+p77
+aVmanage optimize
+p78
+aVhadoop spark
+p79
+aVcluster
+p80
+aVmay include
+p81
+aVmany
+p82
+aVlarge
+p83
+aVhbase instance
+p84
+aVsupport
+p85
+aVregular
+p86
+aVrequest move
+p87
+aVdata
+p88
+aVone
+p89
+aVcluster another
+p90
+aVmanage
+p91
+aVproduction
+p92
+aVsupport
+p93
+aVteam
+p94
+aVmake sure
+p95
+aVservice
+p96
+aVlevel maintained
+p97
+aVinterruption resolved
+p98
+aVtimely fashion
+p99
+aVbring
+p100
+aVnew
+p101
+aVdata source
+p102
+aVhdfs transform
+p103
+aVload
+p104
+aVdatabase
+p105
+aVwork collaboratively
+p106
+aVdata scientist
+p107
+aVbusiness leader
+p108
+aVthroughout company
+p109
+aVunderstand
+p110
+aVbig data
+p111
+aVneed
+p112
+aVuse case
+p113
+aVqualification
+p114
+aVsuccessful candidate
+p115
+aVfollowing
+p116
+aVbachelor degree
+p117
+aVcomputer science
+p118
+aVrelated discipline
+p119
+aVleast 5
+p120
+aVyear
+p121
+aVequivalent work
+p122
+aVexperience
+p123
+aVstrong understanding
+p124
+aVbest practice
+p125
+aVstandard
+p126
+aVhadoop
+p127
+aVapplication
+p128
+aVdesign implementation
+p129
+aVhands-on experience
+p130
+aVcloudera distributed
+p131
+aVhadoop cdh
+p132
+aVexperience
+p133
+aVmany
+p134
+aVfollowing component
+p135
+aVhadoop mapreduce
+p136
+aVspark impala
+p137
+aVhive solr
+p138
+aVyarn
+p139
+aVjava python
+p140
+aVscala
+p141
+aVsql
+p142
+aVjson xml
+p143
+aVregex
+p144
+aVsqoop
+p145
+aVexperience developing
+p146
+aVmapreduce
+p147
+aVprogram
+p148
+aVusing apache
+p149
+aVhadoop
+p150
+aVworking
+p151
+aVbig data
+p152
+aVexperience
+p153
+aVdeployed
+p154
+aVbig data
+p155
+aVtechnology
+p156
+aVproduction
+p157
+aVunderstanding lambda
+p158
+aVdesign architecture
+p159
+aVreal-time streaming
+p160
+aVability multitask
+p161
+aVbalance competing
+p162
+aVpriority
+p163
+aVrequires strong
+p164
+aVpractical experience
+p165
+aVagile
+p166
+aVapplication development
+p167
+aVfile system
+p168
+aVmanagement
+p169
+aVdevops
+p170
+aVdiscipline
+p171
+aVpractice
+p172
+aVusing short-cycle
+p173
+aViteration deliver
+p174
+aVcontinuous
+p175
+aVbusiness
+p176
+aVvalue
+p177
+aVability
+p178
+aVdefine
+p179
+aVutilize
+p180
+aVbest practice
+p181
+aVtechnique impose
+p182
+aVorder fast-changing
+p183
+aVenvironment
+p184
+aVmust
+p185
+aVstrong problem-solving
+p186
+aVskill
+p187
+aVstrong verbal
+p188
+aVwritten interpersonal
+p189
+aVskill
+p190
+aVincluding
+p191
+aVdesire work
+p192
+aVwithin highly-matrixed
+p193
+aVteam-oriented environment
+p194
+aVpreferred
+p195
+aVsuccessful candidate
+p196
+aVmay
+p197
+aVexperience
+p198
+aVhealthcare domain
+p199
+aVexperience
+p200
+aVpatient
+p201
+aVdata
+p202
+aVhardware
+p203
+aVoperating system
+p204
+aVlinux unix
+p205
+aVdistributed highly-scalable
+p206
+aVprocessing
+p207
+aVenvironment
+p208
+aVnetworking
+p209
+aV-
+aVbasic understanding
+p210
+aVnetworking respect
+p211
+aVdistributed
+p212
+aVserver file
+p213
+aVsystem
+p214
+aVconnectivity troubleshooting
+p215
+aVconnectivity error
+p216
+aVdatabase
+p217
+aVrdbms teradata
+p218
+aVlanguage java
+p219
+aVpython scala
+p220
+aVr
+aVbuild
+p221
+aVsystem
+p222
+aVmaven ant
+p223
+aVsource control
+p224
+aVsystem git
+p225
+aVmercurial
+p226
+aVcontinuous integration
+p227
+aVsystem
+p228
+aVjenkins bamboo
+p229
+aVconfig
+p230
+aVorchestration
+p231
+aVzookeeper
+p232
+aVpuppet salt
+p233
+aVansible chef
+p234
+aVoozie
+p235
+aVpig
+p236
+aVcertification plus
+p237
+aVrequired
+p238
+aVccdh
+p239
+aVcloudera
+p240
+aVcertified developer
+p241
+aVapache hadoop
+p242
+a.

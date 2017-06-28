@@ -2,13 +2,13 @@
 S'skills'
 p2
 (lp3
-S'credit'
+S'intelligence'
 p4
-aS'intelligence'
-p5
 aS'data science'
-p6
+p5
 aS'engineering'
+p6
+aS'neo4j'
 p7
 aS'investment banking'
 p8
@@ -20,90 +20,82 @@ aS'army'
 p11
 aS'agile'
 p12
-aS'research'
+aS'hadoop'
 p13
-aS'computer science'
+aS'research'
 p14
-aS'distributed computing'
-p15
-aS'government'
-p16
 aS'python'
+p15
+aS'computer science'
+p16
+aS'government'
 p17
-aS'collaboration'
+aS'credit'
 p18
-aS'processing'
+aS'collaboration'
 p19
-aS'data scientist'
+aS'processing'
 p20
-aS'spark'
+aS'data scientist'
 p21
-aS'data'
+aS'management'
 p22
-aS'science'
+aS'spark'
 p23
-aS'machine learning'
+aS'data'
 p24
-aS'banking'
+aS'science'
 p25
-aS'asset management'
+aS'scala'
 p26
-aS'organization'
+aS'machine learning'
 p27
-asS'working-year'
+aS'banking'
 p28
-(lp29
-V[0]
+aS'asset management'
+p29
+aS'organization'
 p30
-asS'major'
+asS'working-year'
 p31
 (lp32
-S'information'
+S'[0]'
 p33
-aS'business'
+asS'major'
 p34
-aS'big data'
-p35
-aS'computing'
+(lp35
+VData Science
 p36
-aS'science'
+aVEngineering
 p37
-aS'data science'
+aVComputer Science
 p38
-aS'machine learning'
+aVBusiness
 p39
-aS'engineering'
+aVManagement Science and Engineering
 p40
-aS'computer science engineering'
-p41
-aS'computer science'
-p42
-aS'statistic'
-p43
-aS'machine learning engineer'
-p44
 asS'education'
-p45
-(lp46
-S'Bachelor'
-p47
+p41
+(lp42
+VMaster
+p43
 asS'responsibility'
-p48
-(lp49
+p44
+(lp45
 S'development'
-p50
+p46
 aS'information'
-p51
+p47
 aS'product'
-p52
+p48
 aS'pattern'
-p53
+p49
 aS'processing'
-p54
+p50
 aS'recommendation'
-p55
+p51
 aS'model'
-p56
+p52
 aS'transformation'
-p57
+p53
 as.

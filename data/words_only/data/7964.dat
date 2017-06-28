@@ -4,193 +4,195 @@ p2
 (dp3
 S'probability'
 p4
-I1
+F0.008397178646201162
 sS'communication'
 p5
-I1
+F0.0038148659255683292
 sS'data science'
 p6
-I1
+F0.0028984118690616851
 sS'engineering'
 p7
-I1
-sS'analysis'
-p8
-I1
+F0.002951457294153385
 sS'data mining'
-p9
-I1
+p8
+F0.0051132032016437054
 sS'econometrics'
+p9
+F0.0073909844813017855
+sS'statistics'
 p10
-I1
+F0.0022470189272351922
 sS'java'
 p11
-I1
+F0.0029861854642609241
 sS'programming languages'
 p12
-I1
-sS'perl'
+F0.011486653221207278
+sS'physics'
 p13
-I1
-sS'computer science'
+F0.005862853921558225
+sS'perl'
 p14
-I1
-sS'mathematics'
-p15
-I1
-sS'distributed computing'
-p16
-I1
-sS'python'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'spark'
-p20
-I1
-sS'php'
-p21
-I1
-sS'data'
-p22
-I1
-sS'programming'
-p23
-I1
-sS'c++'
-p24
-I1
-sS'machine learning'
-p25
-I1
-sS'h2o'
-p26
-I1
-sS'r'
-I1
-sS'healthcare'
-p27
-I1
-sS'shiny'
-p28
-I1
-sS'scripting'
-p29
-I1
-sS'predictive analytics'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(2, 5]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'business'
-p36
-I1
-sS'computing'
-p37
-I1
-sS'communication'
-p38
-I1
-sS'data science'
-p39
-I1
-sS'statistic'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'engineering'
-p42
-I1
+F0.013812292743563222
 sS'computer science'
-p43
-I1
-sS'phd'
-p44
-I1
-sS'data mining'
-p45
-I1
+p15
+F0.0033879114775595682
 sS'mathematics'
-p46
-I1
-sS'applied math'
-p47
-I1
-sS'econometrics'
-p48
-I1
-sVphysic
-p49
-I1
-sS'predictive analytics'
-p50
-I1
-ssS'education'
-p51
-(dp52
-VDoctor
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'development'
-p56
-I1
-sS'large data set'
-p57
-I1
-sS'product'
-p58
-I1
-sS'engineering design'
-p59
-I1
-sVtest hypothesis
-p60
-I1
-sS'business problem'
-p61
-I1
-sVinsight
-p62
-I1
-sS'communicate'
-p63
-I1
+p16
+F0.0044045621254838697
+sS'distributed computing'
+p17
+F0.0086202324396609954
+sS'python'
+p18
+F0.0025120554831482701
+sS'data scientist'
+p19
+F0.0025527028076238033
+sS'statistical modeling'
+p20
+F0.0043165434221455337
+sS'sql'
+p21
+F0.0032864764281110704
+sS'modeling'
+p22
+F0.0019569775639073556
+sS'spark'
+p23
+F0.0040629774055799001
+sS'php'
+p24
+F0.0078187104669426039
+sS'data'
+p25
+F0.0022862937421585143
+sS'c'
+F0.003013546804573729
+sS'science'
+p26
+F0.0016940575619134757
+sS'programming'
+p27
+F0.0026561812887587375
 sS'analysis'
-p64
-I1
+p28
+F0.00082558728133525297
+sS'machine learning'
+p29
+F0.0015795607755037095
+sS'h2o'
+p30
+F0.021680480566227952
+sS'r'
+F0.0026746617186214033
+sS'healthcare'
+p31
+F0.038996245927375869
+sS'shiny'
+p32
+F0.011283618050554139
+sS'scripting'
+p33
+F0.005862853921558225
+sS'predictive analytics'
+p34
+F0.0055481883694669656
+ssS'working-year'
+p35
+(dp36
+V(2, 5]
+p37
+F0.0029854082612798447
+ssS'major'
+p38
+(dp39
+VStatistics
+p40
+F0.0043409753491279041
+sVBusiness
+p41
+F0.0026065405956002753
+sVData Science
+p42
+F0.0024753951388073801
+sVEngineering
+p43
+F0.0054274191006427174
+sVComputer Science
+p44
+F0.002181580111692043
+sVMathematics
+p45
+F0.0041307771797167523
+sVPhysics
+p46
+F0.0063222460269881705
+ssS'education'
+p47
+(dp48
+VBachelor
+p49
+F0.0021960935606503778
+sVMaster
+p50
+F0.0017524835788534385
+sVDoctor
+p51
+F0.0026245343898228146
+ssS'responsibility'
+p52
+(dp53
+S'development'
+p54
+F0.0029179783190701656
+sS'large data set'
+p55
+F0.0075770051453804017
+sS'product'
+p56
+F0.012963786898484306
+sS'engineering design'
+p57
+F0.014081512723710232
+sVtest hypothesis
+p58
+F0.011622826095641324
+sS'business problem'
+p59
+F0.0068630134027244452
+sS'insight'
+p60
+F0.0044214297735168323
+sS'communicate'
+p61
+F0.0048343201982688974
+sS'analysis'
+p62
+F0.00082558728133525297
 sS'understand'
-p65
-I1
+p63
+F0.0050642887070946399
 sS'solve problem'
-p66
-I1
+p64
+F0.0099109457138112818
 sS'data mining'
-p67
-I1
+p65
+F0.0051132032016437054
 sS'product decision'
+p66
+F0.014505344528741146
+sS'modeling'
+p67
+F0.0019569775639073556
+sS'prototype'
 p68
-I1
+F0.0075980034061438268
 sS'model'
 p69
-I1
-sS'prototype'
+F0.0074574016477187517
+sS'test ... model'
 p70
-I1
+F0.011164893757459833
 ss.

@@ -10,35 +10,35 @@ aS'data science'
 p6
 aS'testing'
 p7
-aS'software engineering'
-p8
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'data analysis'
-p11
+p10
 aS'data warehousing'
-p12
+p11
 aS'problem solving'
-p13
+p12
 aS'mysql'
-p14
-aVpanda
-p15
-aS'visualization'
-p16
-aS'predictive modeling'
-p17
+p13
 aS'microsoft sql server'
-p18
+p14
+aS'visualization'
+p15
+aS'predictive modeling'
+p16
+aS'integration'
+p17
 aS'computer science'
-p19
+p18
 aS'natural language processing'
-p20
+p19
 aS'mathematics'
-p21
+p20
 aS'numpy'
+p21
+aS'pandas'
 p22
 aS'statistical data analysis'
 p23
@@ -64,11 +64,12 @@ aS'modeling'
 p33
 aS'data'
 p34
+aS'a'
 aS'training'
 p35
 aS'postgresql'
 p36
-aS'spatial analysis'
+aS'software engineering'
 p37
 aS'data visualization'
 p38
@@ -87,86 +88,64 @@ p44
 aS'r'
 aS'etl'
 p45
-aS'data integration'
+aS'organization'
 p46
-asS'working-year'
+aS'options'
 p47
-(lp48
-V(0, 2]
+aS'data integration'
+p48
+asS'working-year'
 p49
-aV(2, 5]
-p50
-asS'major'
+(lp50
+V(0, 2]
 p51
-(lp52
-S'information'
+aV(2, 5]
+p52
+asS'major'
 p53
-aS'computer science mathematics'
-p54
-aS'business analysis'
+(lp54
+VBusiness
 p55
-aS'business'
+aVData Science
 p56
-aS'mathematics'
+aVEconomics
 p57
-aS'science'
+aVEngineering
 p58
-aS'data science'
+aVComputer Science
 p59
-aS'economics'
+aVMathematics
 p60
-aS'statistic'
-p61
-aS'automation'
-p62
-aS'analytics'
-p63
-aS'engineering'
-p64
-aS'design'
-p65
-aS'computer science'
-p66
-aS'natural language processing'
-p67
-aS'communication'
-p68
-aS'software engineering'
-p69
-aS'machine learning'
-p70
-aS'ee computer science'
-p71
 asS'education'
-p72
-(lp73
+p61
+(lp62
 VBachelor
-p74
+p63
 asS'responsibility'
-p75
-(lp76
+p64
+(lp65
 S'development'
-p77
+p66
 aS'information'
-p78
+p67
 aS'data analysis'
-p79
+p68
 aS'processing'
-p80
+p69
 aS'mapping'
-p81
+p70
 aS'analysis'
-p82
+p71
 aS'analytic'
-p83
+p72
 aS'design'
-p84
+p73
 aS'report'
-p85
+p74
 aS'modeling'
-p86
+p75
 aS'implement'
-p87
+p76
 aS'documentation'
-p88
+p77
 as.

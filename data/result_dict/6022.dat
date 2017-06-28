@@ -2,96 +2,86 @@
 S'skills'
 p2
 (lp3
-S'science'
+S'nlp'
 p4
-aS'nlp'
-p5
-aS'processing'
-p6
-aS'marketing'
-p7
-aS'data science'
-p8
-aS'robotics'
-p9
 aS'communication'
-p10
-aS'analysis'
-p11
-aS'machine learning'
-p12
-aS'computer vision'
-p13
+p5
+aS'data science'
+p6
+aS'robotics'
+p7
 aS'product strategy'
-p14
-aS'computer science'
-p15
-aS'natural language processing'
-p16
-aS'intelligence'
-p17
-aS'organization'
-p18
+p8
 aS'strategy'
-p19
-aS'data'
-p20
-aS'applied mathematics'
-p21
+p9
+aS'computer vision'
+p10
+aS'computer science'
+p11
+aS'natural language processing'
+p12
+aS'intelligence'
+p13
+aS'mathematics'
+p14
 aS'artificial intelligence'
+p15
+aS'marketing'
+p16
+aS'processing'
+p17
+aS'data'
+p18
+aS'science'
+p19
+aS'applied mathematics'
+p20
+aS'analysis'
+p21
+aS'machine learning'
 p22
 aS'advertising'
 p23
-asS'working-year'
+aS'organization'
 p24
-(lp25
-V(0, 2]
+aS'physics'
+p25
+asS'working-year'
 p26
+(lp27
+V(0, 2]
+p28
 asS'major'
-p27
-(lp28
-S'robotics'
 p29
-aS'business'
-p30
-aS'marketing'
+(lp30
+VBusiness
 p31
-aS'applied mathematics'
+aVData Science
 p32
-aS'applied math'
+aVEconomics
 p33
-aS'communication'
+aVComputer Science
 p34
-aS'machine learning'
+aVMathematics
 p35
-aS'computer science'
+aVPhysics
 p36
-aS'natural language processing'
-p37
-aS'ee computer science'
-p38
-aS'data science'
-p39
-aS'artificial intelligence'
-p40
-aS'science'
-p41
 asS'education'
-p42
-(lp43
+p37
+(lp38
 S'Bachelor'
-p44
+p39
 asS'responsibility'
-p45
-(lp46
+p40
+(lp41
 S'report'
-p47
+p42
 aS'cross-functionally'
-p48
+p43
 aS'product'
-p49
+p44
 aS'processing'
-p50
+p45
 aS'analysis'
-p51
+p46
 as.

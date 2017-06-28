@@ -4,225 +4,192 @@ p2
 (dp3
 S'shell scripting'
 p4
-I1
+F0.0099403054492144816
 sS'intelligence'
 p5
-I1
-sS'statistical analysis'
+F0.0092628826541992868
+sS'analytics'
 p6
-I1
-sS'data mining'
+F0.002565597232989754
+sS'statistical analysis'
 p7
-I1
-sS'accounting'
+F0.0075949857032820292
+sS'data mining'
 p8
-I1
-sS'perl'
-p9
-I1
-sS'amazon web services'
-p10
-I1
-sS'dimensionality reduction'
-p11
-I1
-sS'finance'
-p12
-I1
-sS'management'
-p13
-I1
-sS'java'
-p14
-I1
-sS'anomaly detection'
-p15
-I1
-sS'ruby'
-p16
-I1
-sS'research'
-p17
-I1
-sS'r'
-I1
-sS'computer science'
-p18
-I1
-sS'web services'
-p19
-I1
-sS'natural language processing'
-p20
-I1
-sS'operating systems'
-p21
-I1
-sS'processing'
-p22
-I1
-sS'distributed computing'
-p23
-I1
-sS'business analysis'
-p24
-I1
-sS'python'
-p25
-I1
-sS'marketing'
-p26
-I1
-sS'scrum'
-p27
-I1
-sS'data scientist'
-p28
-I1
-sS'business analytics'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'data'
-p31
-I1
-sS'software development'
-p32
-I1
-sS'c'
-I1
-sVbayesian method
-p33
-I1
-sS'applied mathematics'
-p34
-I1
-sS'scala'
-p35
-I1
-sS'programming'
-p36
-I1
-sS'analysis'
-p37
-I1
-sS'machine learning'
-p38
-I1
-sS'optimization'
-p39
-I1
-sS'microsoft azure'
-p40
-I1
-sS'statistical inference'
-p41
-I1
-sS'scripting'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V[0]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'information'
-p48
-I1
-sS'management'
-p49
-I1
-sS'business analysis'
-p50
-I1
-sS'business'
-p51
-I1
-sS'computing'
-p52
-I1
-sS'marketing'
-p53
-I1
-sS'applied mathematics'
-p54
-I1
-sS'natural language processing'
-p55
-I1
-sS'finance'
-p56
-I1
-sS'general'
-p57
-I1
-sS'business analytics'
-p58
-I1
-sS'applied math'
-p59
-I1
-sS'mathematics computer science'
-p60
-I1
-sS'computer science'
-p61
-I1
-sS'data mining'
-p62
-I1
+F0.0062595260433101398
 sS'accounting'
-p63
-I1
-sS'machine learning'
-p64
-I1
-sS'applied mathematics computer science'
-p65
-I1
-sS'accounting finance'
-p66
-I1
-ssS'education'
-p67
-(dp68
-S'Bachelor'
-p69
-I1
-ssS'responsibility'
-p70
-(dp71
-S'development'
-p72
-I1
-sS'information'
-p73
-I1
-sS'data mining'
-p74
-I1
+p9
+F0.026019408780919503
+sS'perl'
+p10
+F0.016908853948609841
+sS'amazon web services'
+p11
+F0.0097766050287565794
+sS'dimensionality reduction'
+p12
+F0.016074262508737436
+sS'finance'
+p13
+F0.015664578490759223
+sS'management'
+p14
+F0.0053454210454256766
+sS'java'
+p15
+F0.0073113095437656837
+sS'anomaly detection'
+p16
+F0.012964668150984101
+sS'ruby'
+p17
+F0.020043141972445413
+sS'research'
+p18
+F0.0025166971730434758
+sS'r'
+F0.003274290894477529
+sS'computer science'
+p19
+F0.0041474432542395892
+sS'web services'
+p20
+F0.0086756317644843227
+sS'natural language processing'
+p21
+F0.0073922068789389461
+sS'operating systems'
+p22
+F0.013966153662158375
 sS'processing'
-p75
-I1
+p23
+F0.0048173689872292626
+sS'distributed computing'
+p24
+F0.010552791924658739
+sS'business analysis'
+p25
+F0.0078717764019977984
+sS'python'
+p26
+F0.0030752301637360824
+sS'marketing'
+p27
+F0.011240203672433917
+sS'scrum'
+p28
+F0.010021570986222706
+sS'data scientist'
+p29
+F0.0031249901627253044
+sS'business analytics'
+p30
+F0.0089604253500268835
+sS'sql'
+p31
+F0.004023267603734791
+sS'data'
+p32
+F0.0017492844819243793
+sS'software development'
+p33
+F0.0062542673099506563
+sS'c'
+F0.007378300435976975
+sVbayesian method
+p34
+F0.014478972327890176
+sS'science'
+p35
+F0.0020738462778586795
+sS'applied mathematics'
+p36
+F0.0089147809582410219
+sS'scala'
+p37
+F0.01439862175633414
+sS'programming'
+p38
+F0.0065033347187898284
 sS'analysis'
-p76
-I1
-sS'analytic'
-p77
-I1
-sS'statistical method'
-p78
-I1
+p39
+F0.0020213493908798228
+sS'machine learning'
+p40
+F0.001933680595380647
 sS'optimization'
-p79
-I1
+p41
+F0.011799462285478124
+sS'microsoft azure'
+p42
+F0.015656416305970051
+sS'statistical inference'
+p43
+F0.013423111596003167
+sS'scripting'
+p44
+F0.021531720154395251
+ssS'working-year'
+p45
+(dp46
+S'[0]'
+p47
+F0.0064785095296294474
+ssS'major'
+p48
+(dp49
+VBusiness
+p50
+F0.0031908977792746733
+sVData Science
+p51
+F0.0030303509811358781
+sVEconomics
+p52
+F0.0048400340634939844
+sVComputer Science
+p53
+F0.0026706659184430612
+sVMathematics
+p54
+F0.0050568511197122473
+sVManagement Science and Engineering
+p55
+F0.0038039661901737238
+ssS'education'
+p56
+(dp57
+S'Bachelor'
+p58
+F0.0026884331199702265
+ssS'responsibility'
+p59
+(dp60
+S'development'
+p61
+F0.0035721563493041849
+sS'information'
+p62
+F0.0081835115016483453
+sS'data mining'
+p63
+F0.0062595260433101398
+sS'processing'
+p64
+F0.0048173689872292626
+sS'analysis'
+p65
+F0.0020213493908798228
+sS'analytic'
+p66
+F0.013319917240705857
+sS'statistical method'
+p67
+F0.010371063212541332
+sS'optimization'
+p68
+F0.011799462285478124
 sS'recommendation'
-p80
-I1
+p69
+F0.015411219733441128
 ss.

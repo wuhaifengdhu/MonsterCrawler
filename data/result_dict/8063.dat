@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'a'
+aS'data analysis'
 p4
 aS'data scientist'
 p5
@@ -26,36 +27,34 @@ aS'organization'
 p14
 aS'data'
 p15
-aS'customer experience'
+aS'powerpoint'
 p16
-asS'working-year'
+aS'customer experience'
 p17
-(lp18
+asS'working-year'
+p18
+(lp19
 V(5, 10]
-p19
-asS'major'
 p20
-(lp21
-S'marketing'
-p22
-aS'marketing strategy'
+asS'major'
+p21
+(lp22
+VEconomics
 p23
-aS'history'
-p24
 asS'education'
-p25
-(lp26
+p24
+(lp25
 S'Bachelor'
-p27
+p26
 asS'responsibility'
-p28
-(lp29
+p27
+(lp28
 S'data analysis'
-p30
+p29
 aS'presentation'
-p31
+p30
 aS'analysis'
-p32
+p31
 aS'improvement'
-p33
+p32
 as.

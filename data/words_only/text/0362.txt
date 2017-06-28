@@ -1,5 +1,5 @@
-skills: {'consulting': 1, 'nosql': 1, 'analytics': 1, 'cancer': 1, 'publishing': 1, 'deep learning': 1, 'recruiting': 1, 'innovation': 1, 'research': 1, 'computer science': 1, 'natural language processing': 1, 'tensorflow': 1, 'python': 1, 'collaboration': 1, 'processing': 1, 'data scientist': 1, 'sql': 1, 'data': 1, 'programming': 1, 'c++': 1, 'machine learning': 1, 'healthcare': 1}
-working-year: {u'(20, 30)': 1, u'(2, 5]': 1}
-major: {'law': 1, 'machine learning': 1, 'analytics': 1, 'design': 1, 'computer science': 1, 'natural language processing': 1, 'phd': 1}
-education: {u'Master': 1, u'Doctor': 1}
-responsibility: {'implement': 1, 'processing': 1, 'design': 1, 'model': 1}
+skills: {'consulting': 0.005961780196862983, 'nosql': 0.0072212318318377895, 'analytics': 0.0022948217994288303, 'cancer': 0.08505264586053153, 'publishing': 0.013346466327765627, 'deep learning': 0.008217788081513062, 'recruiting': 0.009099995384214752, 'innovation': 0.010215433626040757, 'research': 0.009004330782709638, 'computer science': 0.0037097183725256482, 'natural language processing': 0.0066120267334044925, 'tensorflow': 0.011385173677378454, 'python': 0.0013753338067368495, 'collaboration': 0.0067484681268428865, 'processing': 0.004308939542666808, 'data scientist': 0.0027951758975300217, 'sql': 0.0017993241657864039, 'data': 0.0015646634284231255, 'c': 0.0032997939944540825, 'science': 0.0018549706812509034, 'programming': 0.0029084834692213084, 'machine learning': 0.0017295982106439033, 'healthcare': 0.028466916552086163}
+working-year: {u'(20, 30)': 0.014377770423382561, u'(2, 5]': 0.0032689826607681673}
+major: {u'Data Science': 0.002710525020066128, u'Computer Science': 0.002388801441562527}
+education: {u'Master': 0.0019189463990083823, u'Doctor': 0.002873830532391736}
+responsibility: {'report': 0.0054756633777636645, 'implement': 0.005588029485803714, 'processing': 0.004308939542666808, 'design': 0.0038533477836899146, 'model': 0.004082878210822271}

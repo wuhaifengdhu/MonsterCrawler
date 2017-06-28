@@ -26,42 +26,40 @@ aS'hive'
 p14
 aS'emr'
 p15
-aS'security'
+aS'policy'
 p16
-aS'data'
+aS'security'
 p17
-aS'information technology'
+aS'data'
 p18
-asS'working-year'
-p19
-(lp20
-V(10, 15]
-p21
-asS'major'
-p22
-(lp23
-S'information'
-p24
-aS'management'
-p25
-aS'network security'
-p26
-aS'business'
-p27
-aS'engineering'
-p28
-aS'business management'
-p29
 aS'information technology'
-p30
+p19
+asS'working-year'
+p20
+(lp21
+V(10, 15]
+p22
+asS'major'
+p23
+(lp24
+VEngineering
+p25
+aVInformation Science
+p26
+aVBusiness
+p27
+aVManagement Science and Engineering
+p28
 asS'education'
-p31
-(lp32
+p29
+(lp30
 VBachelor
-p33
+p31
 asS'responsibility'
+p32
+(lp33
+S'development'
 p34
-(lp35
-S'information'
-p36
+aS'information'
+p35
 as.

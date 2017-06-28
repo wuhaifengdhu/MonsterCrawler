@@ -1,5 +1,5 @@
-skills: {'management': 1, 'finance': 1, 'marketing': 1, 'data scientist': 1, 'analysis': 1, 'accounting': 1, 'communication': 1, 'policy': 1, 'organization': 1, 'data': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'finance': 1, 'communication': 1, 'marketing': 1, 'accounting': 1, 'accounting finance': 1}
-education: {u'Bachelor': 1}
-responsibility: {'report': 1, 'information': 1, 'analysis': 1}
+skills: {'a': 0.007791841223391777, 'management': 0.003775203613331884, 'finance': 0.022126217118197403, 'marketing': 0.007938393843656452, 'data scientist': 0.004414048604849493, 'sales': 0.01385251975079585, 'analysis': 0.0014275780073088747, 'strategy': 0.006562547630111812, 'accounting': 0.1470096596121952, 'communication': 0.006596538996295235, 'policy': 0.01137357595016979, 'organization': 0.014693198660680676, 'data': 0.0009883457322872743}
+working-year: {u'(5, 10]': 0.005023517756570245, u'(2, 5]': 0.005162268451796398}
+major: {u'Economics': 0.006836548114685253, u'Management Science and Engineering': 0.0053731022436203845}
+education: {u'Bachelor': 0.0037974117819579447, u'Master': 0.0030303361884340702}
+responsibility: {'report': 0.008646985084051787, 'information': 0.005779604998039144, 'analysis': 0.0014275780073088747, 'forecast': 0.018923434561822265}

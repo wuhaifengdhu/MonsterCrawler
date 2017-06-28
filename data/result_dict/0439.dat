@@ -17,11 +17,11 @@ aS'testing'
 p9
 aS'data scientist'
 p10
-aS'c++'
+aS'gpu'
 p11
-aS'machine learning'
-p12
 aS'unit testing'
+p12
+aS'machine learning'
 p13
 aS'lua'
 p14
@@ -42,41 +42,33 @@ p21
 asS'working-year'
 p22
 (lp23
-V[0]
+S'[0]'
 p24
 asS'major'
 p25
 (lp26
-S'design'
+VEngineering
 p27
-aS'software engineering'
+aVElectrical and Electronics Engineering
 p28
-aS'science'
+aVComputer Science
 p29
-aS'phd'
-p30
-aS'engineering'
-p31
-aS'electrical'
-p32
-aS'computer science'
-p33
-aS'electrical engineering'
-p34
-aS'machine learning'
-p35
 asS'education'
-p36
-(lp37
-VDoctor
-p38
+p30
+(lp31
+VBachelor
+p32
+aVMaster
+p33
+aVDoctor
+p34
 asS'responsibility'
-p39
-(lp40
-Vinsight
-p41
+p35
+(lp36
+S'insight'
+p37
 aS'design'
-p42
+p38
 aS'documentation'
-p43
+p39
 as.

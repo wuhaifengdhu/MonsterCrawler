@@ -4,238 +4,245 @@ p2
 (dp3
 S'programming'
 p4
-I1
+F0.0033454180116384703
 sS'communication'
 p5
-I1
+F0.0024023814250544104
 sS'energy'
 p6
-I1
+F0.0046820869591048322
 sS'decision support'
 p7
-I1
+F0.0067398208770451757
 sS'data acquisition'
 p8
-I1
+F0.0069878501584958713
 sS'analytics'
 p9
-I1
-sS'pricing'
+F0.00131978370558957
+sS'engineering'
 p10
-I1
-sS'problem solving'
+F0.0018586567178659403
+sS'pricing'
 p11
-I1
-sS'data mining'
+F0.011473950438662794
+sS'problem solving'
 p12
-I1
-sS'education'
-p13
-I1
-sS'management'
-p14
-I1
-sS'industrial engineering'
-p15
-I1
-sS'research'
-p16
-I1
-sS'r'
-I1
-sS'statistical software'
-p17
-I1
-sS'stata'
-p18
-I1
-sS'gurobi'
-p19
-I1
-sS'data analysis'
-p20
-I1
-sS'python'
-p21
-I1
-sS'customer service'
-p22
-I1
-sS'data scientist'
-p23
-I1
-sS'data quality'
-p24
-I1
-sS'business process'
-p25
-I1
-sS'leadership'
-p26
-I1
-sS'sql'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'data'
-p29
-I1
-sS'information technology'
-p30
-I1
-sS'analytical skills'
-p31
-I1
-sS'performance metrics'
-p32
-I1
-sS'applied mathematics'
-p33
-I1
-sS'economics'
-p34
-I1
-sS'business strategy'
-p35
-I1
-sS'analysis'
-p36
-I1
-sS'simulation'
-p37
-I1
-sS'optimization'
-p38
-I1
-sS'organization'
-p39
-I1
-sS'visual basic'
-p40
-I1
-sS'root'
-p41
-I1
-sS'statistical analysis'
-p42
-I1
-ssS'working-year'
-p43
-(dp44
-V(2, 5]
-p45
-I1
-ssS'major'
-p46
-(dp47
-S'information'
-p48
-I1
-sS'management'
-p49
-I1
-sS'business'
-p50
-I1
-sS'mathematics statistics'
-p51
-I1
-sS'communication'
-p52
-I1
-sS'applied mathematics'
-p53
-I1
-sS'economics'
-p54
-I1
-sS'statistic'
-p55
-I1
-sS'analytics'
-p56
-I1
-sS'design'
-p57
-I1
+F0.0037247524506119137
 sS'data mining'
-p58
-I1
-sS'applied mathematics statistics'
-p59
-I1
-sS'applied math'
-p60
-I1
+p13
+F0.0032199989813082512
+sS'sas'
+p14
+F0.004204057228156045
+sS'research'
+p15
+F0.0012946287430375392
+sS'statistics'
+p16
+F0.0014150422682892331
 sS'industrial engineering'
-p61
-I1
+p17
+F0.0070020984845586233
+sS'education'
+p18
+F0.0031845625945573128
+sS'strategy'
+p19
+F0.0023900021718161377
+sS'r'
+F0.00084217345464937966
+sS'statistical software'
+p20
+F0.005971923173440803
+sS'stata'
+p21
+F0.0046182838128963136
+sS'leadership'
+p22
+F0.012537242952988028
+sS'gurobi'
+p23
+F0.0090221702492021445
+sS'data analysis'
+p24
+F0.002251535682800706
+sS'python'
+p25
+F0.00079097346396550224
+sS'customer service'
+p26
+F0.0052026096245639478
+sS'data scientist'
+p27
+F0.0016075442566978427
+sS'cplex'
+p28
+F0.0077442046935950505
+sS'data quality'
+p29
+F0.0053639424327560298
+sS'business process'
+p30
+F0.0046362411677082797
+sS'management'
+p31
+F0.010999075777840997
+sS'sql'
+p32
+F0.0010348161742534858
+sS'modeling'
+p33
+F0.0036971730911451554
+sS'data'
+p34
+F0.00053991572628743359
 sS'information technology'
+p35
+F0.0047293612621574282
+sS'a'
+F0.0028376963484279616
+sS'analytical skills'
+p36
+F0.0063491306868909891
+sS'c'
+F0.0018977570924098594
+sS'performance metrics'
+p37
+F0.0083022060754260208
+sS'applied mathematics'
+p38
+F0.0045859040134198885
+sS'economics'
+p39
+F0.0036365581553254346
+sS'business strategy'
+p40
+F0.0046123449473739562
+sS'analysis'
+p41
+F0.0015597210398518814
+sS'simulation'
+p42
+F0.00407410589935413
+sS'optimization'
+p43
+F0.0030349148063559062
+sS'organization'
+p44
+F0.0053510890418260433
+sS'visual basic'
+p45
+F0.0060161230400285525
+sS'root'
+p46
+F0.0059431560416497182
+sS'statistical analysis'
+p47
+F0.0039069805059371897
+ssS'working-year'
+p48
+(dp49
+V(2, 5]
+p50
+F0.0018800370689395077
+ssS'major'
+p51
+(dp52
+VStatistics
+p53
+F0.0027336946432292568
+sVBusiness
+p54
+F0.0016414481747710383
+sVData Science
+p55
+F0.0015588603681412181
+sVEconomics
+p56
+F0.0024897899051964504
+sVEngineering
+p57
+F0.0018586567178659403
+sVInformation Science
+p58
+F0.003843179345302115
+sVComputer Science
+p59
+F0.0013738326955268555
+sVMathematics
+p60
+F0.002601324020610701
+sVIndustrial Engineering
+p61
+F0.0060849348438454355
+sVManagement Science and Engineering
 p62
-I1
+F0.0019568202404687289
 ssS'education'
 p63
 (dp64
 VMaster
 p65
-I1
+F0.0011036125724190849
 ssS'responsibility'
 p66
 (dp67
 S'development'
 p68
-I1
-sS'large data set'
+F0.0073502944000856975
+sS'information'
 p69
-I1
+F0.012629182393287357
 sS'data analysis'
 p70
-I1
-sS'analytic'
-p71
-I1
+F0.002251535682800706
 sS'business problem'
-p72
-I1
+p71
+F0.0043219280153727535
 sS'predict'
+p72
+F0.006330625245091516
+sS'transformation'
 p73
-I1
+F0.00477155862721224
 sS'communicate'
 p74
-I1
+F0.0030443746316867861
 sS'analysis'
 p75
-I1
-sS'simulation'
+F0.0015597210398518814
+sS'forecast'
 p76
-I1
-sS'information'
+F0.0068916908874618269
+sS'analytic'
 p77
-I1
+F0.017129939091803055
 sS'optimization'
 p78
-I1
+F0.0030349148063559062
 sS'design'
 p79
-I1
+F0.0044322270410272462
 sS'data mining'
 p80
-I1
+F0.0032199989813082512
 sS'report'
 p81
-I1
+F0.003149129620898982
 sS'modeling'
 p82
-I1
-sS'implement'
+F0.0036971730911451554
+sS'model'
 p83
-I1
+F0.0093924785547899285
 sS'statistical model'
 p84
-I1
-sS'model'
+F0.0054489594925931648
+sS'implement'
 p85
-I1
+F0.0064275058425481259
+sS'simulation'
+p86
+F0.00407410589935413
 ss.

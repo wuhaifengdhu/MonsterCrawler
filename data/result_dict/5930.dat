@@ -2,31 +2,32 @@
 S'skills'
 p2
 (lp3
-S'science'
-p4
+S'a'
 aS'management'
-p5
-aS'data scientist'
-p6
+p4
 aS'programming'
-p7
+p5
 aS'analytics'
-p8
+p6
+aS'data scientist'
+p7
 aS'marketing'
+p8
+aS'scrum'
 p9
-aS'data science'
-p10
 aS'recruiting'
-p11
+p10
 aS'rest'
-p12
+p11
 aS'online marketing'
+p12
+aS'communication'
 p13
 aS'data governance'
 p14
 aS'governance'
 p15
-aS'communication'
+aS'agile'
 p16
 aS'product management'
 p17
@@ -48,44 +49,32 @@ p25
 asS'major'
 p26
 (lp27
-S'management'
+VData Science
 p28
-aS'business'
+aVEconomics
 p29
-aS'science'
+aVBusiness
 p30
-aS'data science'
+aVManagement Science and Engineering
 p31
-aS'communication'
-p32
-aS'mba'
-p33
-aS'analytics'
-p34
-aS'marketing'
-p35
 asS'education'
-p36
-(lp37
+p32
+(lp33
 VBachelor
-p38
+p34
 asS'responsibility'
-p39
-(lp40
-S'mine data'
-p41
+p35
+(lp36
+S'product'
+p37
 aS'data infrastructure'
-p42
-aS'product'
-p43
+p38
 aS'analysis'
-p44
-aS'product decision'
-p45
-aS'implement'
-p46
-aS'presentation'
-p47
+p39
 aS'model'
-p48
+p40
+aS'presentation'
+p41
+aS'implement'
+p42
 as.

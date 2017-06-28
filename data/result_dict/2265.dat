@@ -4,7 +4,7 @@ p2
 (lp3
 S'rapidminer'
 p4
-aS'data analysis'
+aS'statistics'
 p5
 aS'science'
 p6
@@ -21,60 +21,50 @@ p11
 aS'r'
 aS'computer science'
 p12
-aS'data mining'
-p13
-aS'modeling'
-p14
-aS'data'
-p15
-asS'working-year'
-p16
-(lp17
-V[0]
-p18
-asS'major'
-p19
-(lp20
-S'business'
-p21
-aS'mathematics statistics'
-p22
-aS'science'
-p23
-aS'statistic'
-p24
-aS'actuarial science'
-p25
-aS'statistics actuarial science'
-p26
-aS'engineering'
-p27
-aS'computer science'
-p28
-aS'data mining'
-p29
-aS'mathematics'
-p30
-aS'computer science mathematics'
-p31
-aS'ee computer science'
-p32
-asS'education'
-p33
-(lp34
-S'Bachelor'
-p35
-asS'responsibility'
-p36
-(lp37
-S'modeling'
-p38
 aS'data analysis'
-p39
-aS'communicate'
-p40
-aS'analysis'
-p41
+p13
 aS'data mining'
-p42
+p14
+aS'sas'
+p15
+aS'modeling'
+p16
+aS'data'
+p17
+asS'working-year'
+p18
+(lp19
+S'[0]'
+p20
+asS'major'
+p21
+(lp22
+VMathematics
+p23
+aVEngineering
+p24
+aVStatistics
+p25
+aVComputer Science
+p26
+aVBusiness
+p27
+asS'education'
+p28
+(lp29
+S'Bachelor'
+p30
+asS'responsibility'
+p31
+(lp32
+S'modeling'
+p33
+aS'data analysis'
+p34
+aS'communicate'
+p35
+aS'analysis'
+p36
+aS'data mining'
+p37
 as.

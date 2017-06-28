@@ -2,13 +2,14 @@
 S'skills'
 p2
 (lp3
-S'numerical analysis'
+S'a'
+aS'numerical analysis'
 p4
 aS'algebra'
 p5
 aS'user experience'
 p6
-aS'linear algebra'
+aS'science'
 p7
 aS'data science'
 p8
@@ -16,7 +17,7 @@ aS'documentation'
 p9
 aS'simulink'
 p10
-aS'c++'
+aS'analysis'
 p11
 aS'writing'
 p12
@@ -24,52 +25,49 @@ aS'engineering'
 p13
 aS'matlab'
 p14
-aS'innovation'
-p15
+aS'c'
 aS'mathematics'
-p16
-aS'analysis'
-p17
+p15
 aS'data'
+p16
+aS'linear algebra'
+p17
+aS'innovation'
 p18
 asS'working-year'
 p19
 (lp20
-V[0]
+S'[0]'
 p21
 asS'major'
 p22
 (lp23
-S'computing'
+VMathematics
 p24
-aS'data science'
+aVData Science
 p25
-aS'phd'
+aVEngineering
 p26
-aS'engineering'
+aVComputer Science
 p27
-aS'mathematics'
-p28
-aS'law'
-p29
 asS'education'
-p30
-(lp31
+p28
+(lp29
 VMaster
-p32
+p30
 aVDoctor
-p33
+p31
 asS'responsibility'
-p34
-(lp35
+p32
+(lp33
 S'development'
-p36
+p34
 aS'product'
-p37
+p35
 aS'documentation'
-p38
+p36
 aS'communicate'
-p39
+p37
 aS'analysis'
-p40
+p38
 as.

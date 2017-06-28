@@ -29,10 +29,11 @@ class Main(object):
             text_file = "./data/clean_post_lemmatize/%04d.dat" % i
             if StoreHelper.is_file_exist(text_file):
                 print ("working on file %s" % text_file)
+                word_list = StoreHelper.load_data("./data/gensim_split/%04d.dat" % i, [])
                 word_data = "./data/result_dict/%04d.dat" % i
                 word_text = "./data/result_dict/%04d.txt" % i
                 context = StoreHelper.read_file(text_file)
-                position_helper = PositionHelper(context)
+                position_helper = PositionHelper(context, word_list)
                 result_dict = position_helper.convert(skills_dict, discipline_dict, education_dict, responsibility_dict, './resource/year_convert.dat')
                 StoreHelper.save_file(result_dict, word_text)
                 StoreHelper.store_data(result_dict, word_data)
@@ -102,8 +103,10 @@ class Main(object):
         return blob_list
 
     @staticmethod
-    def get_tfidf(value_with_01=True):
+    def get_tfidf():
         blob_dict_list = Main.generate_blob_list()
+        profile_dict_list = StoreHelper.load_data('./resource/merged_profile.dat', [])
+        blob_dict_list.extend(profile_dict_list)
         tfidf = TFIDF(blob_dict_list)
         j = 0
         for i in range(8535):
@@ -111,8 +114,6 @@ class Main(object):
             if StoreHelper.is_file_exist(text_file):
                 print("Working on %s article!" % text_file)
                 tf_idf_dict = tfidf.get_tf_idf(blob_dict_list[j])
-                if value_with_01:
-                    tf_idf_dict = {key: 1 if value > 0 else 0 for key, value in tf_idf_dict.items()}
                 StoreHelper.store_data(tf_idf_dict, "./data/tfidf-dat/%04d.dat" % i)
                 StoreHelper.save_file(DictHelper.get_sorted_list(tf_idf_dict), "./data/tfidf/%04d.dat" % i)
                 j += 1
@@ -197,7 +198,7 @@ class Main(object):
                 for word in responsibility_list:
                     position.append(0 if word not in position_tfidf_dict[i]['responsibility'] else position_tfidf_dict[i]['responsibility'][word])
                 position_vectors[i] = position
-        StoreHelper.store_data(position_vectors, './data/position_vector.dat')
+        StoreHelper.store_data(position_vectors, './data/position_vector_01.dat')
 
     @staticmethod
     def generate_feature_list():
@@ -207,47 +208,76 @@ class Main(object):
         StoreHelper.save_file(vector_dict, 'vector.txt')
 
     @staticmethod
-    def generate_csv_file():
+    def generate_csv_file(value_with_01, file_name='feature', select_feature=None):
         vector_list = StoreHelper.load_data('vector.dat', [])
         # Generate csv column
         csv_column = ['cluster_number', 'position_number']
-        for item_list in vector_list:
-            for item in item_list:
-                csv_column.append(item)
+        if select_feature is None:
+            for item_list in vector_list:
+                for item in item_list:
+                    csv_column.append(item)
+        else:
+            vector_dict = {'working-year': vector_list[0], 'education': vector_list[1], 'major': vector_list[2],
+                           'skills': vector_list[3], 'responsibility': vector_list[4]}
+            vector_length = [len(item_list) for item_list in vector_list]
+            vector_length_dict = {'working-year': (0, sum(vector_length[:1])),
+                                  'education': (sum(vector_length[:1]), sum(vector_length[:2])),
+                                  'major': (sum(vector_length[:2]), sum(vector_length[:3])),
+                                  'skills': (sum(vector_length[:3]), sum(vector_length[:4])),
+                                  'responsibility': (sum(vector_length[:4]), sum(vector_length[:5]))}
+            start, end = vector_length_dict[select_feature]
+            csv_column.extend(vector_dict[select_feature])
 
         # Generate data
-        data_dict = StoreHelper.load_data('./data/position_vector.dat', {})
+        data_dict = StoreHelper.load_data('./data/position_vector_01.dat', {})
         print ("data_dict row=%d, column=%d" % (len(data_dict), len(data_dict[1])))
-        tag_dict = StoreHelper.load_data('./lib/position_tag.dat', {})
+        tag_dict = StoreHelper.load_data('position_tag.dat', {})
 
+        # tag dict record {0: [1,4], 2: [2,3]}
         tag_dict = {key: value for key, value in tag_dict.items() if len(value) > 50}
         print ("Tag dict keys after filter: %s" % (str(tag_dict.keys())))
         for key in tag_dict:
             data_column = []
             for number in tag_dict[key]:
                 row_value = [int(key), number]
-                row_value.extend(data_dict[number])
+                if select_feature is not None:
+                    row_value.extend(data_dict[number][start: end])
+                else:
+                    row_value.extend(data_dict[number])
                 data_column.append(row_value)
             print("data_column row=%d, column=%d" % (len(data_column), len(data_column[1])))
-            sort_csv_column, sort_data_column = Main.sort_column(csv_column, data_column, vector_list, 2)
+            if select_feature is not None:
+                show_vector_list = [vector_dict[select_feature]]
+            else:
+                show_vector_list = vector_list
+            sort_csv_column, sort_data_column = Main.sort_column(csv_column, data_column, show_vector_list, 2, value_with_01)
             print("sort_data_column row=%d, column=%d" % (len(sort_data_column), len(sort_data_column[1])))
-            Main.write_list_to_csv('feature_class_%d.csv' % key, sort_csv_column, sort_data_column)
+            Main.write_list_to_csv('%s_class_%d.csv' % (file_name, key), sort_csv_column, sort_data_column)
 
     @staticmethod
-    def sort_column(csv_column, data_column, vector_list, start):
+    def get_0_1_value(value):
+        if value > 0:
+            return 1
+        else:
+            return 0
+
+    @staticmethod
+    def sort_column(csv_column, data_column, vector_list, start, value_with_01):
         new_csv_column = csv_column[: start]
         # convert to column index
         data_column = [[data_column[i][j] for i in range(len(data_column))] for j in range(len(data_column[0]))]
         for column_list in data_column:
-            column_list.insert(0, sum(column_list))
+            sum_value = sum([Main.get_0_1_value(value) if value_with_01 else value for value in column_list])
+            column_list.insert(0, sum_value)
         new_data_column = data_column[: start]
         for item_list in vector_list:
             origin_data_dict = {}
             print ("Working on area: %s" % csv_column[start: start + len(item_list)])
             for i in range(start, start + len(item_list)):
                 tmp_key = data_column[i][0]
-                while tmp_key in origin_data_dict:
-                    tmp_key += random.random()
+                if value_with_01:
+                    while tmp_key in origin_data_dict:
+                        tmp_key = data_column[i][0] + random.random()
                 origin_data_dict[tmp_key] = (csv_column[i], data_column[i])
             sorted_list = DictHelper.get_sorted_list(origin_data_dict, sorted_by_key=True)
             print ("after sort:")
@@ -342,19 +372,142 @@ class Main(object):
                     print ("Data Scientist not found in %s!" % url)
 
     @staticmethod
-    def cluster_with_birch():
-        position_dict = StoreHelper.load_data("./data/position_vector.dat", {})
+    def cluster_with_birch(position_dict=None):
+        if position_dict is None:
+            position_dict = StoreHelper.load_data("./data/position_vector_01.dat", {})
         _vector_list = position_dict.values()
         _index_list = position_dict.keys()
         ClusterHelper.birch_cluster(_vector_list, _index_list)
 
     @staticmethod
+    def generate_company_list():
+        company_name_dict = StoreHelper.load_data('company_name.dic', {})
+        company_dict = {}
+        for company_name in company_name_dict.values():
+            DictHelper.increase_dic_key(company_dict, company_name)
+        print ("Totally %d company" % len(company_dict.keys()))
+        StoreHelper.save_file(DictHelper.get_sorted_list(company_dict), "company_dict.txt")
+
+    @staticmethod
+    def generate_feature_vectors():
+        # step 1, generate total dict for each feature
+        feature_total_dict = {}
+        for i in range(8535):
+            result_dict_file = "./data/words_only/data/%04d.dat" % i
+            if StoreHelper.is_file_exist(result_dict_file):
+                result_dict = StoreHelper.load_data(result_dict_file, {})
+                for feature in result_dict:
+                    DictHelper.append_dic_key(feature_total_dict, feature, result_dict[feature])
+
+        # step 2, generate feature vector for each feature
+        feature_vector_header_dict = {}
+        for feature in feature_total_dict:
+            feature_list = []
+            for words_dict in feature_total_dict[feature]:
+                feature_list.extend(words_dict.keys())
+            feature_list = list(set(feature_list))
+            feature_vector_header_dict[feature] = feature_list
+        StoreHelper.store_data(feature_vector_header_dict, 'feature_vector_header.dat')
+
+        # step 3, collect value for each feature vector
+        feature_vector_dict = {}
+        for feature in feature_vector_header_dict:
+            feature_dict = {}
+            feature_list = feature_vector_header_dict[feature]
+            for i in range(8535):
+                result_dict_file = "./data/words_only/data/%04d.dat" % i
+                if StoreHelper.is_file_exist(result_dict_file):
+                    result_dict = StoreHelper.load_data(result_dict_file, {})
+                    feature_dict[i] = [result_dict[feature][words] if words in result_dict[feature] else 0 for words in feature_list]
+            feature_vector_dict[feature] = feature_dict
+        # print (feature_vector_dict.keys())
+        # print (str([len(value[1]) for value in feature_vector_dict.values()]))
+        StoreHelper.store_data(feature_vector_dict, 'feature_vector.dat')
+        StoreHelper.save_file(feature_vector_dict, 'feature_vector.txt')
+
+    @staticmethod
+    def cluster_features():
+        feature_vector_dict = StoreHelper.load_data('feature_vector.dat', {})
+        for feature in feature_vector_dict:
+            print ("Running cluster for %s" % feature)
+            Main.cluster_with_birch(feature_vector_dict[feature])
+            Main.generate_csv_file(value_with_01=True, file_name=feature, select_feature=feature)
+
+    @staticmethod
+    def compute_center_point(exclude_post=[1404, 3721, 4337, 2085, 7246], select_feature=None):
+        position_vectors = StoreHelper.load_data('./data/position_vector_01.dat', {})
+        for index in exclude_post:
+            if index in position_vectors:
+                del position_vectors[index]
+        vector_list = StoreHelper.load_data('vector.dat', [])
+
+        vector_dict = {'working-year': vector_list[0], 'education': vector_list[1], 'major': vector_list[2],
+                       'skills': vector_list[3], 'responsibility': vector_list[4]}
+        vector_length = [len(item_list) for item_list in vector_list]
+        vector_length_dict = {'working-year': (0, sum(vector_length[:1])),
+                              'education': (sum(vector_length[:1]), sum(vector_length[:2])),
+                              'major': (sum(vector_length[:2]), sum(vector_length[:3])),
+                              'skills': (sum(vector_length[:3]), sum(vector_length[:4])),
+                              'responsibility': (sum(vector_length[:4]), sum(vector_length[:5]))}
+
+        csv_index = position_vectors.keys()
+
+        if select_feature is None:
+            csv_column = []
+            for item_list in vector_list:
+                csv_column.extend(item_list)
+            csv_data = position_vectors.values()
+            csv_file = 'center_point.csv'
+        else:
+            start, end = vector_length_dict[select_feature]
+            csv_column = vector_dict[select_feature]
+            csv_data = [position[start: end] for position in position_vectors.values()]
+            csv_file = '%s_center_point.csv' % select_feature
+        center_point = [0 for i in range(len(csv_column))]
+        for position in csv_data:
+            for i in range(len(center_point)):
+                center_point[i] += position[i]
+        center_point = [value / len(position_vectors) for value in center_point]
+        print ("Center point: %s" % str(center_point))
+        StoreHelper.store_data(center_point, 'center_point.dat')
+        center_dict = {csv_column[i]: center_point[i] for i in range(len(csv_column))}
+        print (center_dict)
+        center_list = DictHelper.get_sorted_list(center_dict, sorted_by_key=False)
+        print (center_list)
+        Main.write_list_to_csv(csv_file, [pair[0] for pair in center_list], [[pair[1] for pair in center_list]])
+
+        max_distance = (0, 0)
+        for i in range(len(csv_data)):
+            distance = Main.compute_distance(center_point, csv_data[i])
+            if distance > max_distance[1]:
+                max_distance = (csv_index[i], distance)
+        print("max distance: %s" % str(max_distance))
+
+    @staticmethod
+    def compute_distance(vector_a, vector_b):
+        if len(vector_a) != len(vector_b):
+            print ("Error: vector length do not equal %d compare with %d" % (len(vector_a), len(vector_b)))
+            return 0
+        cross_sum = a_sum = b_sum = 0
+        for i in range(len(vector_a)):
+            cross_sum += vector_a[i] * vector_b[i]
+            a_sum += vector_a[i] * vector_a[i]
+            b_sum += vector_b[i] * vector_b[i]
+        if a_sum == 0 or b_sum == 0:
+            print ("warn: one of vector is 0")
+            return 0
+        return cross_sum / ((a_sum * b_sum) ** 0.5)
+
+    @staticmethod
     def generate_cluster_vector():
+        # initialize value
+        value_with_01 = True
+
         # step 1, convert position into feature dicts
         # Main.convert_position()
 
         # step 2, compute tfidf for each position
-        # Main.get_tfidf(value_with_01=True)
+        # Main.get_tfidf()
 
         # step 3, filter only contain 5 features words
         # Main.get_only_words_in_5()
@@ -363,11 +516,17 @@ class Main(object):
         # Main.get_post_vector()
 
         # step 5, use birch make cluster
-        # Main.cluster_with_birch()
+        Main.cluster_with_birch()
 
         # step 6, generate readable csv
-        Main.generate_csv_file()
+        Main.generate_csv_file(value_with_01)
 
 if __name__ == "__main__":
-    Main.generate_cluster_vector()
+    # Main.generate_feature_vectors()
+
+    # Main.cluster_features()
+
+    Main.compute_center_point(select_feature='responsibility')
+
+    # Main.generate_cluster_vector()
 

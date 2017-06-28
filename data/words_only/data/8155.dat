@@ -4,202 +4,192 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0030563115040750126
 sS'data acquisition'
 p5
-I1
+F0.0088899483676617361
 sS'analytics'
 p6
-I1
+F0.0016790298493890477
 sS'business intelligence'
 p7
-I1
+F0.0039440990516880717
 sS'data mining'
 p8
-I1
+F0.0040964851905060575
 sS'education'
 p9
-I1
+F0.0040514029919175082
 sS'visualization'
 p10
-I1
+F0.0036183306407991688
 sS'sap'
 p11
-I1
+F0.0077512354030479895
 sS'critical thinking'
 p12
-I1
+F0.0075699722567780271
 sS'recruiting'
 p13
-I1
+F0.0066581047309216043
 sS'continuous improvement'
 p14
-I1
+F0.0077412588071315482
 sS'online advertising'
 p15
-I1
+F0.0086209251527583908
 sS'intelligence'
 p16
-I1
+F0.018186007064325625
 sS'mathematics'
 p17
-I1
+F0.003528751509798853
 sS'data analysis'
 p18
-I1
+F0.0028644054342966511
 sS'data modeling'
 p19
-I1
+F0.0050428605112321839
 sS'six sigma'
 p20
-I1
+F0.0081870152119459735
 sS'philosophy'
 p21
-I1
+F0.0095759285409005961
 sS'data scientist'
 p22
-I1
+F0.0020451190447179119
 sS'multivariate testing'
 p23
-I1
+F0.010605456691279496
 sS'presentation skills'
 p24
-I1
+F0.0089448473153394409
 sS'minitab'
 p25
-I1
+F0.0080892488315859913
 sS'statistical modeling'
 p26
-I1
-sS'modeling'
-p27
-I1
-sS'data'
-p28
-I1
-sS'customer experience'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'r'
-I1
-sS'advertising'
-p31
-I1
+F0.0034582345949621552
 sS'military'
+p27
+F0.0072059045792119874
+sS'modeling'
+p28
+F0.0015678488205049276
+sS'data'
+p29
+F0.0029764852169269261
+sS'customer experience'
+p30
+F0.007395938999008196
+sS'a'
+F0.010830358457224092
+sS'economics'
+p31
+F0.0046264320933580337
+sS'analysis'
 p32
-I1
-sS'crm'
+F0.00066142610377245168
+sS'r'
+F0.0010714137193319328
+sS'advertising'
 p33
-I1
-ssS'working-year'
+F0.0063540488114484355
+sS'organization'
 p34
-(dp35
-V(0, 2]
+F0.0034038298055630912
+sS'crm'
+p35
+F0.0063492045679474866
+ssS'working-year'
 p36
-I1
+(dp37
+V(0, 2]
+p38
+F0.0043968729036489452
 ssS'major'
-p37
-(dp38
-S'data mining'
 p39
-I1
-sS'telecommunication'
-p40
-I1
-sS'economics math'
+(dp40
+VMathematics
 p41
-I1
-sS'business administration'
+F0.0033094064277653513
+sVData Science
 p42
-I1
-sS'economics mathematics'
+F0.0019831833641024373
+sVEconomics
 p43
-I1
-sS'philosophy'
+F0.0031675126400086116
+sVComputer Science
 p44
-I1
-sS'data analyst'
+F0.0017477910161239338
+sVBusiness
 p45
-I1
-sS'business'
-p46
-I1
-sS'analytics'
-p47
-I1
-sS'communication'
-p48
-I1
-sS'mathematics'
-p49
-I1
+F0.002088251635471263
 ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0017594185862353413
+sVDoctor
+p49
+F0.0021026675130819848
+ssS'responsibility'
 p50
 (dp51
-VBachelor
-p52
-I1
-sVDoctor
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
 S'development'
-p56
-I1
-sS'mine data'
-p57
-I1
-sS'data analysis'
-p58
-I1
-sS'business problem'
-p59
-I1
-sS'identify trend'
-p60
-I1
-sVinsight
-p61
-I1
-sS'communicate'
-p62
-I1
+p52
+F0.0023377625529230092
 sS'product'
-p63
-I1
+p53
+F0.0077895341161259455
+sS'data analysis'
+p54
+F0.0028644054342966511
+sS'business problem'
+p55
+F0.0054983601585533682
+sS'insight'
+p56
+F0.01062679549812443
+sS'communicate'
+p57
+F0.0077461115146007422
 sS'analysis'
-p64
-I1
-sS'improvement'
-p65
-I1
+p58
+F0.00066142610377245168
+sS'forecast'
+p59
+F0.0087676144687979605
 sS'analytic'
-p66
-I1
+p60
+F0.0043585443480688088
 sS'understand'
-p67
-I1
+p61
+F0.0040572969371511112
 sS'data mining'
-p68
-I1
+p62
+F0.0040964851905060575
 sS'report'
-p69
-I1
+p63
+F0.0040063251354680099
+sS'identify ... trend'
+p64
+F0.0082899982870665353
 sS'modeling'
-p70
-I1
-sS'model'
-p71
-I1
-sS'statistical model'
-p72
-I1
+p65
+F0.0015678488205049276
+sS'improvement'
+p66
+F0.0051857268269094748
 sS'presentation'
-p73
-I1
+p67
+F0.0047555103133390094
+sS'model'
+p68
+F0.0089618388527122044
+sS'decision making'
+p69
+F0.0063061448840338102
 ss.

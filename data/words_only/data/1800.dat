@@ -4,211 +4,207 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.01622216597321325
 sS'nlp'
 p5
-I1
-sS'health economics'
+F0.012719629327993909
+sS'forecasting'
 p6
-I1
-sS'r d'
+F0.010860107429001179
+sS'economics'
 p7
-I1
-sS'biostatistics'
+F0.0088758956457757835
+sS'health economics'
 p8
-I1
-sS'communication'
-p9
-I1
-sS'hardware'
-p10
-I1
-sS'analytics'
-p11
-I1
-sS'statistical analysis'
-p12
-I1
-sS'qualitative research'
-p13
-I1
-sS'education'
-p14
-I1
-sS'visualization'
-p15
-I1
-sS'management'
-p16
-I1
+F0.020988509751968077
 sS'nosql'
-p17
-I1
-sS'big data'
-p18
-I1
-sS'integration'
-p19
-I1
-sS'research'
-p20
-I1
-sS'computer science'
-p21
-I1
-sS'natural language processing'
-p22
-I1
-sS'data management'
-p23
-I1
-sS'innovation'
-p24
-I1
-sS'python'
-p25
-I1
-sS'processing'
-p26
-I1
-sS'multivariate testing'
-p27
-I1
-sS'epidemiology'
-p28
-I1
-sS'machine learning'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'data'
-p32
-I1
-sS'training'
-p33
-I1
-sS'data visualization'
-p34
-I1
-sS'quantitative analytics'
-p35
-I1
-sS'database management'
-p36
-I1
-sS'programming'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'sas programming'
-p39
-I1
-sS'r'
-I1
-sS'powerpoint'
-p40
-I1
-sS'predictive analytics'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
-sS'management'
-p48
-I1
-sS'biostatistics'
-p49
-I1
-sS'big data'
-p50
-I1
-sS'analytics'
-p51
-I1
+p9
+F0.010136469867653786
 sS'communication'
-p52
-I1
-sS'natural language processing'
-p53
-I1
-sS'economics computer science'
-p54
-I1
-sS'machine learning'
-p55
-I1
-sS'epidemiology'
-p56
-I1
+p10
+F0.0058635902189290981
+sS'integration'
+p11
+F0.0085416411933133801
+sS'hardware'
+p12
+F0.013753022505757278
+sS'analytics'
+p13
+F0.0096637495775947404
+sS'statistical analysis'
+p14
+F0.0095359264941207705
+sS'sas'
+p15
+F0.0051305068765830249
+sS'qualitative research'
+p16
+F0.01403295178418267
+sS'education'
+p17
+F0.0077726916659750711
+sS'visualization'
+p18
+F0.0069418343404961834
+sS'management'
+p19
+F0.0067114730903677939
+sS'biostatistics'
+p20
+F0.0291518323799814
+sS'big data'
+p21
+F0.0047137967643061766
+sS'tableau'
+p22
+F0.0074408373597177474
+sS'research'
+p23
+F0.0031598531172656974
 sS'computer science'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'history'
-p59
-I1
-sS'biostatistics epidemiology'
-p60
-I1
-sS'predictive analytics'
-p61
-I1
-ssS'education'
-p62
-(dp63
-VMaster
-p64
-I1
-sVDoctor
-p65
-I1
-ssS'responsibility'
-p66
-(dp67
-S'information'
-p68
-I1
-sS'product'
-p69
-I1
+p24
+F0.0052073454192119286
+sS'natural language processing'
+p25
+F0.0092813264146677892
+sS'data management'
+p26
+F0.010184881868923225
+sS'innovation'
+p27
+F0.0071697210079063843
+sS'python'
+p28
+F0.0019305611583454296
+sS'collaboration'
+p29
+F0.0094728497039757564
 sS'processing'
-p70
-I1
-sVinsight
-p71
-I1
-sS'communicate'
-p72
-I1
-sS'analysis'
-p73
-I1
-sS'complex data set'
-p74
-I1
+p30
+F0.0060484743950767412
+sS'data scientist'
+p31
+F0.0039235987598662163
+sS'multivariate testing'
+p32
+F0.020346765059565848
+sS'epidemiology'
+p33
+F0.033839201937008935
+sS'leadership'
+p34
+F0.0061200319303845261
+sS'sql'
+p35
+F0.0025257179956779522
 sS'modeling'
-p75
-I1
+p36
+F0.0060158939927522411
+sS'data'
+p37
+F0.00043926476990545528
+sS'a'
+F0.0069260810874593581
+sS'training'
+p38
+F0.0087159064852678856
+sS'data visualization'
+p39
+F0.0072841986132577809
+sS'quantitative analytics'
+p40
+F0.012089389488010076
+sS'science'
+p41
+F0.0026038292155336758
+sS'machine learning'
+p42
+F0.0024278434142001458
+sS'database management'
+p43
+F0.017951863482044434
+sS'programming'
+p44
+F0.0040826490179069483
+sS'analysis'
+p45
+F0.0012689582287189998
+sS'sas programming'
+p46
+F0.011574530832842777
+sS'r'
+F0.0041110541230662311
+sS'powerpoint'
+p47
+F0.0090630533590157492
+sS'predictive analytics'
+p48
+F0.0085277710123288532
+ssS'working-year'
+p49
+(dp50
+V(2, 5]
+p51
+F0.0045886830682634648
+ssS'major'
+p52
+(dp53
+VBiological Engineering
+p54
+F0.0097414658536173725
+sVData Science
+p55
+F0.0038047740096483801
+sVEconomics
+p56
+F0.0060769316574980038
+sVComputer Science
+p57
+F0.0033531694309340658
+sVManagement Science and Engineering
+p58
+F0.0047760908832181204
+ssS'education'
+p59
+(dp60
+VMaster
+p61
+F0.0026936321674969517
+sVDoctor
+p62
+F0.0040340065621350665
+ssS'responsibility'
+p63
+(dp64
+S'information'
+p65
+F0.0051374266649236843
+sS'forecasting'
+p66
+F0.010860107429001179
+sS'processing'
+p67
+F0.0060484743950767412
+sS'insight'
+p68
+F0.0067959013185536488
+sS'communicate'
+p69
+F0.0074305291936355268
+sS'product'
+p70
+F0.004981455150806469
+sS'analysis'
+p71
+F0.0012689582287189998
+sS'complex data set'
+p72
+F0.018522787771416454
+sS'modeling'
+p73
+F0.0060158939927522411
 sS'presentation'
-p76
-I1
+p74
+F0.018247069202293385
 ss.

@@ -32,13 +32,13 @@ aS'python'
 p17
 aS'aws'
 p18
-aS'data scientist'
-p19
 aS'apache spark'
-p20
+p19
 aS'automation'
-p21
+p20
 aS'management'
+p21
+aS'awk'
 p22
 aS'sql'
 p23
@@ -48,62 +48,52 @@ aS'spark'
 p25
 aS'data'
 p26
-aS'groovy'
+aS'bash'
 p27
-aS'science'
+aS'groovy'
 p28
-aS'engineering'
-p29
-aS'machine learning'
-p30
-aS'h2o'
-p31
-aS'architecture'
-p32
-aS'docker'
-p33
-aS'data analytics'
-p34
-asS'working-year'
-p35
-(lp36
-V[0]
-p37
-asS'major'
-p38
-(lp39
-S'management'
-p40
-aS'business'
-p41
-aS'data analytics business'
-p42
-aS'data science'
-p43
-aS'automation'
-p44
-aS'analytics'
-p45
-aS'engineering'
-p46
 aS'science'
-p47
+p29
+aS'engineering'
+p30
 aS'machine learning'
-p48
+p31
+aS'h2o'
+p32
+aS'architecture'
+p33
+aS'docker'
+p34
 aS'data analytics'
-p49
-aS'data science engineering'
-p50
+p35
+asS'working-year'
+p36
+(lp37
+S'[0]'
+p38
+asS'major'
+p39
+(lp40
+VData Science
+p41
+aVEngineering
+p42
+aVComputer Science
+p43
+aVBusiness
+p44
+aVManagement Science and Engineering
+p45
 asS'education'
-p51
-(lp52
+p46
+(lp47
 S'Bachelor'
-p53
+p48
 asS'responsibility'
-p54
-(lp55
+p49
+(lp50
 S'model'
-p56
+p51
 aS'extract'
-p57
+p52
 as.

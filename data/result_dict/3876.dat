@@ -2,100 +2,79 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
-p5
 aS'information retrieval'
-p6
+p5
 aS'engineering'
-p7
-aS'analysis'
-p8
+p6
 aS'data mining'
-p9
+p7
 aS'research'
-p10
+p8
 aS'perl'
-p11
+p9
 aS'computer science'
-p12
+p10
 aS'natural language processing'
-p13
+p11
 aS'matlab'
-p14
+p12
 aS'python'
-p15
+p13
 aS'collaboration'
-p16
+p14
 aS'processing'
-p17
+p15
 aS'c'
 aS'knowledge representation'
-p18
+p16
 aS'data'
-p19
+p17
+aS'a'
 aS'search'
-p20
+p18
 aS'science'
-p21
-aS'c++'
-p22
+p19
+aS'analysis'
+p20
 aS'machine learning'
-p23
+p21
 aS'r'
 aS'statistical tools'
-p24
+p22
 aS'scripting'
-p25
+p23
 asS'working-year'
+p24
+(lp25
+S'[0]'
 p26
-(lp27
-V[0]
-p28
 asS'major'
+p27
+(lp28
+VEngineering
 p29
-(lp30
-S'information'
-p31
-aS'science'
-p32
-aS'natural language processing'
-p33
-aS'communication'
-p34
-aS'machine learning data mining'
-p35
-aS'engineering'
-p36
-aS'computer science'
-p37
-aS'data mining'
-p38
-aS'machine learning'
-p39
-aS'information retrieval'
-p40
-aS'data mining machine learning'
-p41
+aVComputer Science
+p30
 asS'education'
-p42
-(lp43
+p31
+(lp32
 VDoctor
-p44
+p33
 asS'responsibility'
-p45
-(lp46
+p34
+(lp35
 S'information'
-p47
+p36
 aS'processing'
-p48
+p37
 aS'analysis'
-p49
+p38
 aS'understand'
-p50
+p39
 aS'data mining'
-p51
+p40
 aS'report'
-p52
+p41
 as.

@@ -8,12 +8,10 @@ from nltk.corpus import stopwords
 
 
 class PositionHelper(object):
-    def __init__(self, raw_position, is_generate_word_dict=False):
+    def __init__(self, raw_position, word_list=[]):
         self.raw_position = raw_position.lower()
-        self.word_list = self.generate_word_list()
-        self.is_generate_word_dict = is_generate_word_dict
-        if is_generate_word_dict:
-            self.phrase_dict = DictHelper.dict_from_count_list(self.word_list)
+        self.word_list = word_list
+        self.phrase_dict = DictHelper.dict_from_count_list(self.word_list)
         self.new_words_list = []
 
     def generate_word_list(self):
@@ -22,65 +20,74 @@ class PositionHelper(object):
             words_list.extend(SegmentHelper.lemmatization(SegmentHelper.segment_text(line)))
         return words_list
 
-    def _get_working_year_words(self, year_convert_file):
+    def _get_working_year_words(self, year_convert_file=None):
         year_list = TextHelper.get_years_pattern(self.raw_position)
         if len(year_list) == 0:
-            default_year_requirement = "0 year"
+            default_year_requirement = "[0]"
             self.new_words_list.append(default_year_requirement)
             year_list = [default_year_requirement]
-        year_convert = StoreHelper.load_data(year_convert_file, {})
-        return [year_convert[item] for item in year_list if item in year_convert]
+        elif year_convert_file is not None:
+            year_convert_dict = StoreHelper.load_data(year_convert_file, {})
+            year_list = [year_convert_dict[item] for item in year_list if item in year_convert_dict]
+        return DictHelper.dict_from_count_list(year_list)
 
     def _get_skill_words(self, skill_dict):
-        return TextHelper.get_dict_pattern(self.word_list, self.raw_position, skill_dict, 0)
+        return TextHelper.get_dict_pattern(self.raw_position, skill_dict)
 
     def _get_discipline_words(self, discipline_dict):
-        return TextHelper.get_dict_pattern(self.word_list, self.raw_position, discipline_dict, 0)
+        discipline_phrase_dict = TextHelper.get_dict_pattern(self.raw_position, discipline_dict)
+        return discipline_phrase_dict
 
     def _get_education_words(self, education_dict):
-        education_list = TextHelper.get_dict_pattern(self.word_list, self.raw_position, education_dict, 0)
-        if len(education_list) == 0:
+        education_phrase_dict = TextHelper.get_dict_pattern(self.raw_position, education_dict)
+        if len(education_phrase_dict) == 0:
             default_education_requirement = "Bachelor"
             self.new_words_list.append(default_education_requirement)
-            return [default_education_requirement]
+            return {default_education_requirement: 1}
         else:
-            return [DictHelper.get_key(education_dict, word) for word in education_list]
+            return education_phrase_dict
 
     def _get_responsibility_words(self, education_dict):
-        return TextHelper.get_dict_pattern(self.word_list, self.raw_position, education_dict, 0)
+        return TextHelper.get_dict_pattern(self.raw_position, education_dict)
 
-    def _add_and_remove(self, words_list):
-        for words in words_list:
-            DictHelper.increase_dic_key(self.phrase_dict, words)
-            self._count_down_single_word(words)
+    def _add_and_remove(self, words_dict):
+        for words, count in words_dict.items():
+            if words in self.phrase_dict:
+                if self.phrase_dict[words] < count:
+                    DictHelper.increase_dic_key(self.phrase_dict, words, count - self.phrase_dict[words])
+                    self._count_down_single_word(words, count - self.phrase_dict[words])
+                elif self.phrase_dict[words] > count:
+                    print ("Warning: phrase match times little than origin split: %s" % words)
+            else:
+                DictHelper.increase_dic_key(self.phrase_dict, words, count)
+                self._count_down_single_word(words, count)
 
-    def _count_down_single_word(self, words):
+    def _count_down_single_word(self, words, decrease_value=1):
         word_list = [word for word in words.split(' ') if len(word) > 0]
         for word in word_list:
-            DictHelper.decrease_dic_key(self.phrase_dict, word)
+            DictHelper.decrease_dic_key(self.phrase_dict, word, decrease_value)
 
     def convert(self, skill_dict, discipline_dict, education_dict, responsibility_dict, year_convert_file):
-        year_phase_list = self._get_working_year_words(year_convert_file)
-        skill_phase_list = self._get_skill_words(skill_dict)
-        discipline_phase_list = self._get_discipline_words(discipline_dict)
-        education_phase_list = self._get_education_words(education_dict)
-        responsibility_phase_list = self._get_responsibility_words(responsibility_dict)
-        if self.is_generate_word_dict:
-            self._add_and_remove(year_phase_list)
-            self._add_and_remove(skill_phase_list)
-            self._add_and_remove(discipline_phase_list)
-            self._add_and_remove(education_phase_list)
-            self._add_and_remove(responsibility_phase_list)
-            for word in self.new_words_list:
-                DictHelper.increase_dic_key(self.phrase_dict, word)
-        result_dict = {"education": list(set(education_phase_list)), "major": list(set(discipline_phase_list)),
-                       "skills": list(set(skill_phase_list)),
-                       "working-year": list(set(year_phase_list)),
-                       "responsibility": list(set(responsibility_phase_list))}
+        year_phase_dict = self._get_working_year_words(year_convert_file)
+        skill_phase_dict = self._get_skill_words(skill_dict)
+        discipline_phase_dict = self._get_discipline_words(discipline_dict)
+        education_phase_dict = self._get_education_words(education_dict)
+        responsibility_phase_dict = self._get_responsibility_words(responsibility_dict)
+        self._add_and_remove(year_phase_dict)
+        self._add_and_remove(skill_phase_dict)
+        self._add_and_remove(discipline_phase_dict)
+        self._add_and_remove(education_phase_dict)
+        self._add_and_remove(responsibility_phase_dict)
+        for word in self.new_words_list:
+            DictHelper.increase_dic_key(self.phrase_dict, word)
+        result_dict = {"education": education_phase_dict.keys(), "major": discipline_phase_dict.keys(),
+                       "skills": skill_phase_dict.keys(),
+                       "working-year": year_phase_dict.keys(),
+                       "responsibility": responsibility_phase_dict.keys()}
         return result_dict
 
     def generate_phrase_dict(self, skill_dict, discipline_dict, education_dict, responsibility_dict):
-        self.convert(skill_dict, discipline_dict, education_dict, responsibility_dict)
+        self.convert(skill_dict, discipline_dict, education_dict, responsibility_dict, None)
         return self.phrase_dict
 
     def convert_2(self, probability_dict):

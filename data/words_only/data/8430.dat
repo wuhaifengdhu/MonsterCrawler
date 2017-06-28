@@ -4,214 +4,210 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.060666807017179004
 sS'data science'
 p5
-I1
+F0.0020738636649320677
 sS'testing'
 p6
-I1
+F0.0035299620946551945
 sS'hadoop'
 p7
-I1
+F0.0022151836231026978
 sS'analytics'
 p8
-I1
+F0.0014995473482474597
 sS'engineering'
 p9
-I1
+F0.0042236371623229473
 sS'analysis'
 p10
-I1
-sVpanda
+F0.0059072193405884472
+sS'sas'
 p11
-I1
-sS'management'
+F0.0023883394080645116
+sS'statistics'
 p12
-I1
+F0.0016077807841424216
 sS'corporate finance'
 p13
-I1
+F0.0081814160122652378
 sS'program management'
 p14
-I1
+F0.0057591574285584353
 sS'tableau'
 p15
-I1
+F0.0034638380812479167
 sS'risk management'
 p16
-I1
+F0.0054478574586004072
+sS'r'
+F0.00095688328726541583
 sS'computer science'
 p17
-I1
+F0.0024241090744607252
 sS'innovation'
 p18
-I1
-sS'financial analysis'
+F0.0033376287450598684
+sS'uml'
 p19
-I1
-sS'numpy'
+F0.0076306789447469717
+sS'financial analysis'
 p20
-I1
-sS'data analysis'
+F0.0064155314400540205
+sS'numpy'
 p21
-I1
-sS'finance'
+F0.006185310863978429
+sS'pandas'
 p22
-I1
-sS'data scientist'
-p23
-I1
-sS'matplotlib'
-p24
-I1
-sS'automation'
-p25
-I1
-sS'business process'
-p26
-I1
-sS'scipy'
-p27
-I1
-sS'spark'
-p28
-I1
-sS'data'
-p29
-I1
+F0.0070914525366063469
 sS'software development'
-p30
-I1
-sS'data collection'
-p31
-I1
-sS'big data'
-p32
-I1
-sS'data visualization'
-p33
-I1
-sS'budgeting'
-p34
-I1
-sS'hive'
-p35
-I1
-sS'data architecture'
-p36
-I1
-sS'r'
-I1
-sS'command'
-p37
-I1
-sS'architecture'
-p38
-I1
-sS'organization'
-p39
-I1
-sS'impala'
-p40
-I1
-sS'etl'
-p41
-I1
-ssS'working-year'
-p42
-(dp43
-V(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'management'
-p47
-I1
-sS'finance'
-p48
-I1
-sS'business'
-p49
-I1
-sS'data science'
-p50
-I1
-sS'automation'
-p51
-I1
-sS'analytics'
-p52
-I1
-sS'engineering'
-p53
-I1
-sS'economics statistics'
-p54
-I1
-sS'design'
-p55
-I1
-sS'computer science'
-p56
-I1
-sS'phd'
-p57
-I1
-sS'statistic'
-p58
-I1
-sS'big data'
-p59
-I1
-sS'computer science data science'
-p60
-I1
-sS'corporate finance'
-p61
-I1
-ssS'education'
-p62
-(dp63
-VMaster
-p64
-I1
-sVDoctor
-p65
-I1
-ssS'responsibility'
-p66
-(dp67
-S'development'
-p68
-I1
-sS'forecasting'
-p69
-I1
-sS'data collection'
-p70
-I1
-sS'product'
-p71
-I1
-sS'analysis'
-p72
-I1
-sS'statistical model'
-p73
-I1
+p23
+F0.0036555114104711594
 sS'data analysis'
-p74
-I1
+p24
+F0.0025582103706304573
+sS'finance'
+p25
+F0.032044866171182448
+sS'python'
+p26
+F0.00089870950474701028
+sS'data scientist'
+p27
+F0.0018265028709722039
+sS'matplotlib'
+p28
+F0.0078004012742660285
+sS'automation'
+p29
+F0.0057500833197651879
+sS'business process'
+p30
+F0.0052677291888271662
+sS'management'
+p31
+F0.004686459657929235
+sS'spark'
+p32
+F0.0029071303850269977
+sS'data'
+p33
+F0.0012269119435290301
+sS'a'
+F0.0064484203228069885
+sS'data collection'
+p34
+F0.012501205334349114
+sS'big data'
+p35
+F0.00219435366614253
+sS'data visualization'
+p36
+F0.00339092004410276
+sS'science'
+p37
+F0.0012121273934380904
+sS'economics'
+p38
+F0.0041318824557921748
+sS'budgeting'
+p39
+F0.017932000545585552
+sS'hive'
+p40
+F0.0035961280163620802
+sS'scipy'
+p41
+F0.0069679098232500658
+sS'command'
+p42
+F0.0066202659953147665
+sS'architecture'
+p43
+F0.007541429388567787
+sS'organization'
+p44
+F0.0091199164100776615
+sS'impala'
+p45
+F0.0078455772949052992
+sS'etl'
+p46
+F0.0049133873689916939
+ssS'working-year'
+p47
+(dp48
+V(2, 5]
+p49
+F0.0021361110835019575
+ssS'major'
+p50
+(dp51
+VStatistics
+p52
+F0.0031060427067035865
+sVBusiness
+p53
+F0.0018650247365070934
+sVData Science
+p54
+F0.0017711879010432114
+sVEconomics
+p55
+F0.0028289164612490705
+sVEngineering
+p56
+F0.0042236371623229473
+sVComputer Science
+p57
+F0.0015609581833658582
+sVManagement Science and Engineering
+p58
+F0.0022233526525325732
+ssS'education'
+p59
+(dp60
+VMaster
+p61
+F0.0012539322159037531
+sVDoctor
+p62
+F0.0018778996065111518
+ssS'responsibility'
+p63
+(dp64
+S'development'
+p65
+F0.0041757275945314438
+sS'forecasting'
+p66
+F0.060666807017179004
+sS'data analysis'
+p67
+F0.0025582103706304573
+sS'product'
+p68
+F0.0023189532598581839
+sS'analysis'
+p69
+F0.0059072193405884472
+sS'develop ... model'
+p70
+F0.0053446776330623065
+sS'data collection'
+p71
+F0.012501205334349114
 sS'understand'
-p75
-I1
+p72
+F0.0036235858852487505
 sS'design'
-p76
-I1
+p73
+F0.010071853862196398
 sS'model'
-p77
-I1
+p74
+F0.018675648091916353
+sS'forecast'
+p75
+F0.023491160145710396
 ss.

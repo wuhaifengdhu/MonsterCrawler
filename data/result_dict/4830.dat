@@ -16,7 +16,7 @@ aS'clustering'
 p9
 aS'visualization'
 p10
-aS'management'
+aS'statistics'
 p11
 aS'big data'
 p12
@@ -43,94 +43,81 @@ aS'collaboration'
 p22
 aS'data scientist'
 p23
-aS'sql'
+aS'management'
 p24
-aS'modeling'
+aS'sql'
 p25
-aS'data'
+aS'modeling'
 p26
-aS'science'
+aS'data'
 p27
-aS'programming'
+aS'a'
+aS'science'
 p28
-aS'machine learning'
+aS'programming'
 p29
-aS'optimization'
+aS'machine learning'
 p30
-aS'organization'
+aS'optimization'
 p31
-asS'working-year'
+aS'organization'
 p32
-(lp33
+asS'working-year'
+p33
+(lp34
 V(5, 10]
-p34
-aV(2, 5]
 p35
 asS'major'
 p36
 (lp37
-S'management'
+VData Science
 p38
-aS'business'
+aVStatistics
 p39
-aS'big data'
+aVComputer Science
 p40
-aS'science'
+aVBusiness
 p41
-aS'statistic'
+aVManagement Science and Engineering
 p42
-aS'machine learning data mining'
-p43
-aS'analytics'
-p44
-aS'design'
-p45
-aS'computer science'
-p46
-aS'data mining'
-p47
-aS'machine learning'
-p48
-aS'ee computer science'
-p49
 asS'education'
-p50
-(lp51
+p43
+(lp44
 VBachelor
-p52
+p45
 asS'responsibility'
-p53
-(lp54
+p46
+(lp47
 S'modeling'
-p55
-aVinsight
-p56
+p48
+aS'insight'
+p49
 aS'data infrastructure'
-p57
-aS'business problem'
-p58
+p50
 aS'pattern'
-p59
+p51
 aS'discover pattern'
-p60
+p52
 aS'construct'
-p61
+p53
 aS'statistical model'
-p62
-aS'optimization'
-p63
-aS'design'
-p64
-aS'data mining'
-p65
-aS'understand'
-p66
-aS'implement'
-p67
-aS'prototype'
-p68
-aS'model'
-p69
+p54
 aS'decision-making'
-p70
+p55
+aS'optimization'
+p56
+aS'design'
+p57
+aS'data mining'
+p58
+aS'understand'
+p59
+aS'implement'
+p60
+aS'prototype'
+p61
+aS'model'
+p62
+aS'decision making'
+p63
 as.

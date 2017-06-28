@@ -2,70 +2,78 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'communication'
 p4
-aS'open source'
-p5
-aS'big data'
-p6
-aS'communication'
-p7
 aS'information extraction'
-p8
-aS'mapreduce'
-p9
-aS'analysis'
-p10
-aS'research'
-p11
-aS'lucene'
-p12
+p5
+aS'data analysis'
+p6
 aS'hive'
-p13
+p7
 aS'problem solving'
-p14
+p8
+aS'modeling'
+p9
 aS'go'
-p15
-aS'mathematics'
-p16
-aS'hadoop'
-p17
-aS'data'
-p18
-asS'working-year'
-p19
-(lp20
-V(2, 5]
-p21
-asS'major'
-p22
-(lp23
-S'information'
-p24
-aS'mathematics'
-p25
-aS'communication'
-p26
+p10
+aS'insurance'
+p11
+aS'genetics'
+p12
 aS'big data'
-p27
-aS'phd'
+p13
+aS'hadoop'
+p14
+aS'research'
+p15
+aS'teamwork'
+p16
+aS'mathematics'
+p17
+aS'optimizations'
+p18
+aS'open source'
+p19
+aS'data'
+p20
+aS'mapreduce'
+p21
+aS'analysis'
+p22
+aS'lucene'
+p23
+aS'advertising'
+p24
+aS'options'
+p25
+asS'working-year'
+p26
+(lp27
+V(2, 5]
 p28
-asS'education'
+asS'major'
 p29
 (lp30
-VDoctor
+VBiological Engineering
 p31
-asS'responsibility'
+aVMathematics
 p32
-(lp33
-S'large data set'
-p34
-aS'product'
+asS'education'
+p33
+(lp34
+VDoctor
 p35
-aS'data analysis'
+asS'responsibility'
 p36
-aS'analysis'
-p37
-aS'information'
+(lp37
+S'modeling'
 p38
+aS'product'
+p39
+aS'data analysis'
+p40
+aS'analysis'
+p41
+aS'information'
+p42
 as.

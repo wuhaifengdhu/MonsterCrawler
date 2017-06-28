@@ -2,240 +2,243 @@
 S'skills'
 p2
 (dp3
-S'data scientist'
+S'communication'
 p4
-I1
-sS'r d'
-p5
-I1
+F0.0035338601765867329
 sS'data science'
-p6
-I1
+p5
+F0.0026849127804924088
 sS'testing'
-p7
-I1
+p6
+F0.0091400804236607715
 sS'tableau'
-p8
-I1
+p7
+F0.0044844332301870347
 sS'analytics'
-p9
-I1
+p8
+F0.0019413782633560862
 sS'engineering'
+p9
+F0.0054681016833645294
+sS'sas'
 p10
-I1
-sS'machine learning'
+F0.0030920465550835193
+sS'research'
 p11
-I1
+F0.0095218788131890431
 sS'product development'
 p12
-I1
-sS'management'
+F0.0058336525642448886
+sS'statistics'
 p13
-I1
+F0.0041630038160830564
 sS'genetics'
 p14
-I1
+F0.0086701006810689669
 sS'psychology'
 p15
-I1
+F0.0099498707865414357
 sS'big data'
 p16
-I1
+F0.0028409042999166683
 sS'integration'
 p17
-I1
-sS'research'
+F0.0051478641120415456
+sS'writing'
 p18
-I1
+F0.0050157596564341352
 sS'computer science'
 p19
-I1
+F0.0031383554981857602
 sS'microstrategy'
 p20
-I1
+F0.010197080940839744
 sS'innovation'
 p21
-I1
+F0.0043210372145864361
 sS'mathematics'
 p22
-I1
-sS'biology'
-p23
-I1
+F0.0040801189332049237
 sS'stata'
-p24
-I1
-sS'python'
-p25
-I1
-sS'spotfire'
-p26
-I1
-sS'leadership development'
-p27
-I1
-sS'performance measurement'
-p28
-I1
-sS'automation'
-p29
-I1
-sS'sql'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'experimental design'
-p32
-I1
-sS'data'
-p33
-I1
-sS'data collection'
-p34
-I1
-sS'data visualization'
-p35
-I1
-sS'performance management'
-p36
-I1
-sS'programming'
-p37
-I1
-sS'analysis'
-p38
-I1
-sS'spss'
-p39
-I1
-sS'r'
-I1
-sS'advertising'
-p40
-I1
-sS'organization'
-p41
-I1
-sS'retail'
-p42
-I1
-sS'data integration'
-p43
-I1
-sS'trend analysis'
-p44
-I1
-ssS'working-year'
-p45
-(dp46
-V(0, 2]
-p47
-I1
-sV(2, 5]
-p48
-I1
-ssS'major'
-p49
-(dp50
-S'information'
-p51
-I1
+p23
+F0.0067934130194166756
 sS'biology'
-p52
-I1
-sS'management'
-p53
-I1
-sS'genetics'
-p54
-I1
-sS'psychology'
-p55
-I1
-sS'big data'
-p56
-I1
-sS'data science'
-p57
-I1
+p24
+F0.0075832869739497705
+sS'performance management'
+p25
+F0.010592011801593389
+sS'python'
+p26
+F0.0011635078409671115
+sS'data scientist'
+p27
+F0.0023646688954550854
+sS'leadership development'
+p28
+F0.010157220605011326
+sS'performance measurement'
+p29
+F0.012068338310252689
 sS'automation'
-p58
-I1
-sS'business'
-p59
-I1
-sS'analytics'
-p60
-I1
-sS'engineering'
-p61
-I1
-sS'design'
-p62
-I1
-sS'computer science'
-p63
-I1
-sS'statistic'
-p64
-I1
-sS'mathematics'
-p65
-I1
+p30
+F0.014888608595820576
+sS'management'
+p31
+F0.0020224305071420805
+sS'sql'
+p32
+F0.0015221961134666228
+sS'spotfire'
+p33
+F0.0095853105194206797
+sS'modeling'
+p34
+F0.0018128251987088225
+sS'experimental design'
+p35
+F0.0077315019398218653
+sS'data'
+p36
+F0.0018531482480386393
+sS'data collection'
+p37
+F0.016184596191791262
+sS'data visualization'
+p38
+F0.00439003041424018
+sS'science'
+p39
+F0.0031385441437236268
 sS'machine learning'
+p40
+F0.001463209200522409
+sS'programming'
+p41
+F0.0024605250777564192
+sS'analysis'
+p42
+F0.0030590957299475884
+sS'spss'
+p43
+F0.0049248857831642075
+sS'r'
+F0.0024776442259550942
+sS'algorithms'
+p44
+F0.004004847496351013
+sS'advertising'
+p45
+F0.007346868938237253
+sS'databases'
+p46
+F0.005139504851180335
+sS'organization'
+p47
+F0.0039356782126823238
+sS'retail'
+p48
+F0.0076918783134297362
+sS'physics'
+p49
+F0.0054309919139434448
+sS'data integration'
+p50
+F0.0086398686616776382
+sS'trend analysis'
+p51
+F0.012973391016741753
+ssS'working-year'
+p52
+(dp53
+V(0, 2]
+p54
+F0.0050838842948440922
+sV(2, 5]
+p55
+F0.0027655009563194986
+ssS'major'
+p56
+(dp57
+VStatistics
+p58
+F0.004021216004214464
+sVPsychology
+p59
+F0.010407814757192817
+sVBusiness
+p60
+F0.0024145409535136476
+sVData Science
+p61
+F0.0022930557647434431
+sVEngineering
+p62
+F0.0054681016833645294
+sVComputer Science
+p63
+F0.0020208833623932983
+sVBiological Engineering
+p64
+F0.0058709727242783269
+sVMathematics
+p65
+F0.0038265011821036871
+sVPhysics
 p66
-I1
-sVphysic
+F0.005856544868750202
+sVManagement Science and Engineering
 p67
-I1
+F0.0028784476305109205
 ssS'education'
 p68
 (dp69
 VBachelor
 p70
-I1
+F0.0020343277403346133
 sVMaster
 p71
-I1
+F0.001623394386661109
 ssS'responsibility'
 p72
 (dp73
 S'product leadership'
 p74
-I1
-sS'development'
+F0.014257683061944424
+sS'information'
 p75
-I1
+F0.0061924339264705112
 sS'product'
 p76
-I1
+F0.021015513917464791
 sS'data collection'
 p77
-I1
-sS'information'
-p78
-I1
+F0.016184596191791262
 sVproduct operation
-p79
-I1
+p78
+F0.015804884712128046
 sS'analysis'
-p80
-I1
+p79
+F0.0030590957299475884
 sS'improvement'
-p81
-I1
+p80
+F0.0059959966436140795
 sS'design'
-p82
-I1
+p81
+F0.006519726830439632
 sS'modeling'
+p82
+F0.0018128251987088225
+sS'development'
 p83
-I1
-sS'implement'
+F0.0027030379518172289
+sS'evaluation'
 p84
-I1
-sS'data aggregation'
+F0.0075523285353274044
+sS'implement'
 p85
-I1
+F0.0047273731587491241
+sS'data aggregation'
+p86
+F0.012475304401756489
 ss.

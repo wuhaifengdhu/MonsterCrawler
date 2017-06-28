@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'theory'
+S'a'
+aS'theory'
 p4
 aS'characterization'
 p5
@@ -14,25 +15,25 @@ aS'microscopy'
 p8
 aS'research'
 p9
-aS'laboratory'
+aS'materials'
 p10
-aS'nanotechnology'
+aS'innovation'
 p11
-aS'data'
+aS'laboratory'
 p12
-asS'working-year'
+aS'nanotechnology'
 p13
-(lp14
-V[0]
+aS'data'
+p14
+asS'working-year'
 p15
+(lp16
+S'[0]'
+p17
 asS'major'
-p16
-(lp17
-S'information'
 p18
-aS'data science'
-p19
-aS'science'
+(lp19
+VData Science
 p20
 asS'education'
 p21

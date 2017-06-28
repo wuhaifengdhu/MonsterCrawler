@@ -6,60 +6,60 @@ S'training'
 p4
 aS'management'
 p5
-aS'clinical development'
+aS'gcp'
 p6
-aS'sharepoint'
+aS'clinical development'
 p7
-aS'data scientist'
+aS'sharepoint'
 p8
-aS'analysis'
+aS'data scientist'
 p9
-aS'research'
+aS'analysis'
 p10
-aS'business process'
+aS'research'
 p11
-aS'cro'
+aS'business process'
 p12
-aS'sap'
+aS'cro'
 p13
-aS'data'
+aS'sap'
 p14
-aS'insurance'
+aS'data'
 p15
-aS'clinical research'
+aS'insurance'
 p16
-asS'working-year'
+aS'clinical research'
 p17
-(lp18
+asS'working-year'
+p18
+(lp19
 V(2, 5]
-p19
-asS'major'
 p20
-(lp21
-S'management'
-p22
-aS'business'
+asS'major'
+p21
+(lp22
+VBusiness
 p23
-asS'education'
+aVManagement Science and Engineering
 p24
-(lp25
+asS'education'
+p25
+(lp26
 VBachelor
-p26
-aVMaster
 p27
-asS'responsibility'
+aVMaster
 p28
-(lp29
-S'development'
-p30
-aS'business problem'
+asS'responsibility'
+p29
+(lp30
+S'report'
 p31
 aS'pattern'
 p32
-aS'analysis'
-p33
-aS'report'
-p34
 aS'model'
+p33
+aS'development'
+p34
+aS'analysis'
 p35
 as.

@@ -1,5 +1,5 @@
-skills: {'nlp': 1, 'training': 1, 'finance': 1, 'team building': 1, 'processing': 1, 'programming': 1, 'c++': 1, 'machine learning': 1, 'python': 1, 'computer vision': 1, 'design experiments': 1, 'natural language processing': 1}
-working-year: {u'(5, 10]': 1}
-major: {'finance': 1, 'statistic': 1, 'machine learning': 1, 'natural language processing': 1, 'probability statistics': 1, 'phd': 1}
-education: {u'Doctor': 1}
-responsibility: {'model': 1, 'processing': 1, 'solve problem': 1, 'design experiment': 1}
+skills: {'a': 0.06448420322806989, 'nlp': 0.039474711707567306, 'training': 0.027049364954279644, 'statistics': 0.010718538560949478, 'finance': 0.030518920163030903, 'probability': 0.04005550733532738, 'team building': 0.04603253742606252, 'processing': 0.018771127432996783, 'programming': 0.012670290055573286, 'c': 0.014374964642506866, 'machine learning': 0.007534686457862521, 'python': 0.011982793396626805, 'computer vision': 0.04063032256535889, 'natural language processing': 0.028804116459313824}
+working-year: {u'(5, 10]': 0.013857980018124813}
+major: {u'Economics': 0.018859443074993803, u'Statistics': 0.02070695137802391, u'Computer Science': 0.010406387889105721}
+education: {u'Doctor': 0.012519330710074345}
+responsibility: {'design': 0.01678642310366066, 'model': 0.035572663032221626, 'processing': 0.018771127432996783, 'design ... experiment': 0.05161300645167994, 'solve problem': 0.047276350244042316}

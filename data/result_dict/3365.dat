@@ -22,9 +22,9 @@ aS'engineering'
 p12
 aS'quality control'
 p13
-aS'analysis'
+aS'pricing'
 p14
-aS'gas'
+aS'sas'
 p15
 aS'laboratory'
 p16
@@ -32,218 +32,203 @@ aS'hbase'
 p17
 aS'spss'
 p18
-aS'clustering'
+aS'd3'
 p19
-aS'visualization'
+aS'clustering'
 p20
-aS'management'
+aS'visualization'
 p21
-aS'java'
+aS'statistics'
 p22
-aS'arcgis'
+aS'gis'
 p23
-aS'user experience'
+aS'arcgis'
 p24
-aS'asset management'
+aS'user experience'
 p25
-aS'mathematica'
+aS'asset management'
 p26
-aS'predictive modeling'
+aS'mathematica'
 p27
-aS'd3.js'
+aS'storage'
 p28
-aS'strategy'
+aS'predictive modeling'
 p29
-aS'optimization'
+aS'd3.js'
 p30
-aS'business planning'
+aS'management'
 p31
-aS'computer science'
+aS'strategy'
 p32
-aS'stata'
+aS'optimization'
 p33
-aS'innovation'
+aS'business planning'
 p34
-aS'policy'
+aS'computer science'
 p35
-aS'mathematics'
+aS'stata'
 p36
-aS'construction'
+aS'innovation'
 p37
-aS'energy'
+aS'policy'
 p38
-aS'matlab'
+aS'mathematics'
 p39
-aS'aws'
+aS'construction'
 p40
-aS'decision support'
-p41
-aS'data modeling'
-p42
-aS'finance'
-p43
-aS'pricing optimization'
-p44
-aS'python'
-p45
-aS'spotfire'
-p46
-aS'jmp'
-p47
-aS'data scientist'
-p48
-aS'experimental design'
-p49
-aS'hive'
-p50
-aS'leadership'
-p51
-aS'statistical modeling'
-p52
-aS'sql'
-p53
-aS'modeling'
-p54
-aS'pig'
-p55
-aS'data'
-p56
-aS'simulation'
-p57
 aS'energy policy'
+p41
+aS'energy'
+p42
+aS'matlab'
+p43
+aS'aws'
+p44
+aS'decision support'
+p45
+aS'data modeling'
+p46
+aS'finance'
+p47
+aS'pricing optimization'
+p48
+aS'python'
+p49
+aS'spotfire'
+p50
+aS'jmp'
+p51
+aS'data scientist'
+p52
+aS'gas'
+p53
+aS'experimental design'
+p54
+aS'hive'
+p55
+aS'leadership'
+p56
+aS'statistical modeling'
+p57
+aS'sql'
 p58
+aS'modeling'
+p59
+aS'pig'
+p60
+aS'data'
+p61
+aS'simulation'
+p62
+aS'architecture'
+p63
+aS'a'
 aS'c'
 aS'organization'
-p59
-aS'software engineering'
-p60
-aS'data visualization'
-p61
-aS'science'
-p62
-aS'cloud computing'
-p63
-aS'economics'
 p64
-aS'programming'
+aS'software engineering'
 p65
-aS'c++'
+aS'data visualization'
 p66
-aS'machine learning'
+aS'java'
 p67
-aS'data engineering'
+aS'science'
 p68
+aS'cloud computing'
+p69
+aS'economics'
+p70
+aS'programming'
+p71
+aS'analysis'
+p72
+aS'machine learning'
+p73
+aS'data engineering'
+p74
 aS'r'
 aS'dashboard'
-p69
-aS'inventory management'
-p70
-aS'scripting'
-p71
-aS'pricing'
-p72
-asS'working-year'
-p73
-(lp74
-V(5, 10]
 p75
-aV(0, 2]
+aS'inventory management'
 p76
-aV(2, 5]
+aS'scripting'
 p77
-asS'major'
+asS'working-year'
 p78
 (lp79
-S'information'
+V(5, 10]
 p80
-aS'computer science'
+aV(0, 2]
 p81
-aS'management'
+aV(2, 5]
 p82
-aS'general'
+asS'major'
 p83
-aS'finance'
-p84
-aS'business'
+(lp84
+VStatistics
 p85
-aS'computing'
+aVBusiness
 p86
-aS'science'
+aVData Science
 p87
-aS'data science'
+aVEconomics
 p88
-aS'economics'
+aVEngineering
 p89
-aS'software engineering'
+aVComputer Science
 p90
-aS'mathematics'
+aVMathematics
 p91
-aS'machine learning'
+aVManagement Science and Engineering
 p92
-aS'analytics'
-p93
-aS'engineering'
-p94
-aS'electrical'
-p95
-aS'finance economics'
-p96
-aS'statistic'
-p97
-aS'design'
-p98
-aS'phd'
-p99
-aS'data science engineering'
-p100
 asS'education'
-p101
-(lp102
+p93
+(lp94
 VBachelor
-p103
+p95
 aVMaster
-p104
+p96
 aVDoctor
-p105
+p97
 asS'responsibility'
-p106
-(lp107
+p98
+(lp99
 S'development'
-p108
+p100
 aS'information'
-p109
+p101
 aS'forecasting'
-p110
+p102
 aS'data analysis'
-p111
+p103
 aS'analytic'
-p112
+p104
 aS'predict'
-p113
+p105
 aS'documentation'
-p114
+p106
 aS'communicate'
-p115
+p107
 aS'analysis'
-p116
+p108
 aS'simulation'
-p117
+p109
 aS'cross-functionally'
-p118
+p110
 aS'optimization'
-p119
+p111
 aS'design'
-p120
+p112
 aS'recommendation'
-p121
+p113
 aS'understand'
-p122
+p114
 aS'modeling'
-p123
-aS'statistical model'
-p124
+p115
 aS'extract'
-p125
+p116
 aS'model'
-p126
+p117
+aS'decision making'
+p118
 as.

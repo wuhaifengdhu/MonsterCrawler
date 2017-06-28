@@ -1,5 +1,5 @@
-skills: {'nosql': 1, 'data science': 1, 'oozie': 1, 'rest': 1, 'engineering': 1, 'hbase': 1, 'cassandra': 1, 'git': 1, 'java': 1, 'big data': 1, 'hadoop': 1, 'access': 1, 'computer science': 1, 'apis': 1, 'aws': 1, 'data scientist': 1, 'leadership': 1, 'splunk': 1, 'spark': 1, 'data': 1, 'software development': 1, 'elasticsearch': 1, 'docker': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'big data': 1, 'business': 1, 'data science': 1, 'engineering': 1, 'design': 1, 'computer science': 1}
-education: {'Bachelor': 1}
-responsibility: {'development': 1, 'model': 1, 'design': 1, 'implement': 1, 'solve problem': 1}
+skills: {'nosql': 0.010690808063541102, 'data science': 0.004698597365861716, 'oozie': 0.019875638728215596, 'rest': 0.01397420493148169, 'engineering': 0.0047845889729439635, 'hbase': 0.013079133163437779, 'cassandra': 0.014704712978752643, 'git': 0.011299504365151957, 'java': 0.004840886592454232, 'big data': 0.00497158252485417, 'hadoop': 0.0100375507921841, 'access': 0.009060398535533027, 'computer science': 0.005492122121825081, 'apis': 0.014372716273971286, 'aws': 0.010208891987428555, 'data scientist': 0.0041381705670463995, 'leadership': 0.00645472117657743, 'splunk': 0.01853602065278843, 'spark': 0.013172934557153583, 'data': 0.003243009434067619, 'software development': 0.00828201803934872, 'science': 0.0027462261257581735, 'elasticsearch': 0.01615689263576921, 'docker': 0.01672114706090996}
+working-year: {u'(5, 10]': 0.004709547896784605, u'(2, 5]': 0.004839626673559123}
+major: {u'Data Science': 0.004012847588301026, u'Engineering': 0.00879835518268253, u'Business': 0.0042254466686488835, u'Computer Science': 0.0035365458841882724}
+education: {u'Bachelor': 0.0035600735455855732, u'Master': 0.002840940176656941}
+responsibility: {'development': 0.004730316415680151, 'model': 0.006044573601178284, 'design': 0.011409521953269356, 'implement': 0.008272903027810967, 'solve problem': 0.016066572153248755}

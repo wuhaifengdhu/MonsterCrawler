@@ -4,7 +4,7 @@ p2
 (lp3
 S'intellectual property'
 p4
-aS'r programming'
+aS'testing'
 p5
 aS'strategic planning'
 p6
@@ -36,153 +36,142 @@ aS'research'
 p19
 aS'strategy'
 p20
-aS'optimization'
+aS'sas'
 p21
-aS'statistical software'
+aS'optimization'
 p22
-aS'computer science'
+aS'statistical software'
 p23
-aS'visio'
+aS'computer science'
 p24
-aS'mixed model'
+aS'visio'
 p25
-aS'factor analysis'
+aS'mixed model'
 p26
-aS'team leadership'
+aS'factor analysis'
 p27
-aS'theory'
+aS'processing'
 p28
-aS'automotive'
+aS'theory'
 p29
-aS'business requirements'
+aS'team leadership'
 p30
-aS'data scientist'
+aS'automotive'
 p31
-aS'experimental design'
+aS'business requirements'
 p32
-aS'financial risk'
+aS'data scientist'
 p33
-aS'business process'
+aS'experimental design'
 p34
-aS'leadership'
+aS'financial risk'
 p35
-aS'modeling'
+aS'leadership'
 p36
-aS'data'
+aS'modeling'
 p37
-aS'information technology'
+aS'data'
 p38
-aS'word'
+aS'information technology'
 p39
-aS'risk assessment'
+aS'a'
+aS'word'
 p40
-aS'cluster'
+aS'risk assessment'
 p41
-aS'science'
+aS'cluster'
 p42
-aS'programming'
+aS'science'
 p43
-aS'analysis'
+aS'programming'
 p44
-aS'machine learning'
+aS'analysis'
 p45
+aS'machine learning'
+p46
 aS'r'
 aS'validation'
-p46
-aS'powerpoint'
 p47
-aS'education'
+aS'powerpoint'
 p48
-asS'working-year'
+aS'education'
 p49
-(lp50
-V(5, 10]
-p51
-asS'major'
+asS'working-year'
+p50
+(lp51
+sS'major'
 p52
 (lp53
-S'information'
+VBusiness
 p54
-aS'quantitative finance'
+aVData Science
 p55
-aS'finance'
+aVEconomics
 p56
-aS'business'
+aVEngineering
 p57
-aS'science'
+aVInformation Science
 p58
-aS'machine learning'
+aVComputer Science
 p59
-aS'analytics'
-p60
-aS'engineering'
-p61
-aS'design'
-p62
-aS'computational finance'
-p63
-aS'statistic'
-p64
-aS'computer science engineering'
-p65
-aS'econometrics'
-p66
-aS'information technology'
-p67
-aS'computer science'
-p68
 asS'education'
-p69
-(lp70
+p60
+(lp61
 VMaster
-p71
+p62
 aVDoctor
-p72
+p63
 asS'responsibility'
-p73
-(lp74
+p64
+(lp65
 S'formulate'
-p75
-aVinsight
-p76
+p66
+aS'insight'
+p67
 aS'design'
-p77
+p68
+aS'decision making'
+p69
 aS'information'
-p78
+p70
+aS'develop ... model'
+p71
 aS'analytic'
-p79
-aS'test model'
-p80
+p72
 aS'prototype'
-p81
+p73
 aS'development'
-p82
+p74
 aS'product'
-p83
-aS'experiment analysis'
-p84
+p75
 aS'business problem'
-p85
+p76
+aS'processing'
+p77
 aS'communicate'
-p86
-aS'statistical method'
-p87
+p78
 aS'understand'
-p88
+p79
 aS'modeling'
-p89
+p80
+aS'design ... experiment'
+p81
 aS'model'
-p90
+p82
+aS'test ... model'
+p83
 aS'analysis'
-p91
+p84
 aS'simulation'
-p92
+p85
 aS'optimization'
-p93
+p86
 aS'analytical method'
-p94
-aS'design experiment'
-p95
+p87
+aS'experiment analysis'
+p88
 aS'implement'
-p96
+p89
+aS'validate ... model'
+p90
 as.

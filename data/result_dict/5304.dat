@@ -6,7 +6,7 @@ S'survival analysis'
 p4
 aS'consulting'
 p5
-aS'documentation'
+aS'project management'
 p6
 aS'problem solving'
 p7
@@ -14,7 +14,7 @@ aS'biostatistics'
 p8
 aS'powerpoint'
 p9
-aS'r programming'
+aS'excel'
 p10
 aS'testing'
 p11
@@ -30,235 +30,220 @@ aS'clinical data management'
 p16
 aS'intelligence'
 p17
-aS'analysis'
+aS'sas'
 p18
-aS'writing'
-p19
-aS'regression'
-p20
-aS'english'
-p21
-aS'sap'
-p22
-aS'networking'
-p23
-aS'rdbms'
-p24
-aS'clinical development'
-p25
-aS'recruiting'
-p26
-aS'sas base'
-p27
-aS'time management'
-p28
-aS'access'
-p29
-aS'risk management'
-p30
-aS'strategy'
-p31
-aS'computer science'
-p32
-aS'communication'
-p33
-aS'policy'
-p34
-aS'mathematics'
-p35
-aS'life sciences'
-p36
-aS'data management'
-p37
-aS'fda'
-p38
-aS'biology'
-p39
-aS'data analysis'
-p40
-aS'management'
-p41
-aS'pharmacology'
-p42
-aS'collaboration'
-p43
-aS'processing'
-p44
-aS'search'
-p45
-aS'data quality'
-p46
-aS'epidemiology'
-p47
-aS'leadership'
-p48
-aS'mentoring'
-p49
-aS'project management'
-p50
-aS'data processing'
-p51
-aS'sql'
-p52
-aS'modeling'
-p53
-aS'data'
-p54
-aS'statistical programming'
-p55
-aS'pharmacovigilance'
-p56
-aS'software development'
-p57
-aS'training'
-p58
-aS'data collection'
-p59
-aS'database management'
-p60
-aS'statistical analysis'
-p61
-aS'drug development'
-p62
-aS'microsoft word'
-p63
-aS'excel'
-p64
-aS'programming'
-p65
-aS'communication skills'
-p66
-aS'sas programming'
-p67
-aS'pharmaceutical industry'
-p68
-aS'r'
-aS'operating systems'
-p69
-aS'logistic regression'
-p70
-aS'science'
-p71
-aS'oracle'
-p72
-aS'organization'
-p73
-aS'validation'
-p74
-aS'people skills'
-p75
-aS'cro'
-p76
-aS'education'
-p77
-aS'sd'
-p78
-asS'working-year'
-p79
-(lp80
-V(5, 10]
-p81
-aV(0, 2]
-p82
-aV(10, 15]
-p83
-aV(2, 5]
-p84
-asS'major'
-p85
-(lp86
-S'biostatistics'
-p87
-aS'communication'
-p88
-aS'general'
-p89
-aS'design'
-p90
-aS'statistic'
-p91
-aS'computer science mathematics'
-p92
-aS'management'
-p93
-aS'computer science statistics'
-p94
-aS'computer science'
-p95
-aS'mathematics'
-p96
-aS'biology'
-p97
-aS'mathematics biology'
-p98
-aS'business'
-p99
-aS'phd'
-p100
-aS'epidemiology'
-p101
-aS'law'
-p102
-aS'ee computer science'
-p103
-aS'project management'
-p104
-aS'life sciences'
-p105
-aS'science'
-p106
-aS'statistics computer science'
-p107
-aS'english'
-p108
-asS'education'
-p109
-(lp110
-VBachelor
-p111
-aVMaster
-p112
-aVDoctor
-p113
-asS'responsibility'
-p114
-(lp115
-S'development'
-p116
-aS'product'
-p117
-aS'data analysis'
-p118
-aS'exploratory analysis'
-p119
-aS'presentation'
-p120
-aS'processing'
-p121
-aS'communicate'
-p122
-aS'mapping'
-p123
 aS'analysis'
-p124
-aS'improvement'
-p125
-aS'data collection'
-p126
-aS'design'
-p127
+p19
+aS'writing'
+p20
+aS'regression'
+p21
+aS'english'
+p22
+aS'xml'
+p23
+aS'sap'
+p24
+aS'networking'
+p25
+aS'rdbms'
+p26
+aS'clinical development'
+p27
+aS'fda'
+p28
+aS'statistics'
+p29
+aS'r programming'
+p30
+aS'sas base'
+p31
+aS'time management'
+p32
+aS'access'
+p33
+aS'risk management'
+p34
+aS'coaching'
+p35
+aS'strategy'
+p36
+aS'computer science'
+p37
+aS'communication'
+p38
+aS'policy'
+p39
+aS'mathematics'
+p40
+aS'life sciences'
+p41
+aS'operating systems'
+p42
+aS'a'
+aS'biology'
+p43
+aS'data analysis'
+p44
+aS'management'
+p45
+aS'pharmacology'
+p46
+aS'recruiting'
+p47
+aS'marketing'
+p48
+aS'collaboration'
+p49
+aS'processing'
+p50
+aS'data scientist'
+p51
+aS'search'
+p52
+aS'data quality'
+p53
+aS'epidemiology'
+p54
+aS'leadership'
+p55
+aS'mentoring'
+p56
+aS'databases'
+p57
+aS'data processing'
+p58
+aS'sql'
+p59
 aS'modeling'
-p128
-aS'report'
-p129
-aS'understand'
-p130
-aS'implement'
-p131
-aS'evaluation'
-p132
-aS'model'
-p133
+p60
+aS'data'
+p61
+aS'statistical programming'
+p62
+aS'pharmacovigilance'
+p63
+aS'software development'
+p64
+aS'training'
+p65
+aS'data collection'
+p66
+aS'word'
+p67
+aS'database management'
+p68
+aS'windows'
+p69
+aS'drug development'
+p70
+aS'microsoft word'
+p71
 aS'documentation'
-p134
+p72
+aS'programming'
+p73
+aS'communication skills'
+p74
+aS'sas programming'
+p75
+aS'pharmaceutical industry'
+p76
+aS'r'
+aS'data management'
+p77
+aS'logistic regression'
+p78
+aS'science'
+p79
+aS'oracle'
+p80
+aS'organization'
+p81
+aS'validation'
+p82
+aS'people skills'
+p83
+aS'cro'
+p84
+aS'education'
+p85
+aS'statistical analysis'
+p86
+asS'working-year'
+p87
+(lp88
+V(5, 10]
+p89
+aV(0, 2]
+p90
+aV(10, 15]
+p91
+aV(2, 5]
+p92
+asS'major'
+p93
+(lp94
+VStatistics
+p95
+aVBusiness
+p96
+aVEconomics
+p97
+aVComputer Science
+p98
+aVBiological Engineering
+p99
+aVMathematics
+p100
+aVManagement Science and Engineering
+p101
+asS'education'
+p102
+(lp103
+VBachelor
+p104
+aVMaster
+p105
+aVDoctor
+p106
+asS'responsibility'
+p107
+(lp108
+S'development'
+p109
+aS'product'
+p110
+aS'data analysis'
+p111
+aS'exploratory analysis'
+p112
+aS'presentation'
+p113
+aS'processing'
+p114
+aS'communicate'
+p115
+aS'mapping'
+p116
+aS'analysis'
+p117
+aS'improvement'
+p118
+aS'data collection'
+p119
+aS'understand'
+p120
+aS'report'
+p121
+aS'modeling'
+p122
+aS'implement'
+p123
+aS'evaluation'
+p124
+aS'model'
+p125
+aS'documentation'
+p126
 as.

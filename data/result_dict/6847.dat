@@ -4,19 +4,19 @@ p2
 (lp3
 S'consulting'
 p4
-aS'customer insight'
-p5
 aS'big data'
-p6
+p5
 aS'python'
-p7
+p6
 aS'data scientist'
-p8
+p7
 aS'apache spark'
-p9
+p8
 aS'julia'
-p10
+p9
 aS'machine learning'
+p10
+aS'sas'
 p11
 aS'r'
 aS'matlab'
@@ -34,27 +34,21 @@ p17
 asS'working-year'
 p18
 (lp19
-V[0]
+S'[0]'
 p20
 asS'major'
 p21
 (lp22
-S'data mining'
+VComputer Science
 p23
-aS'big data'
-p24
-aS'machine learning'
-p25
 asS'education'
-p26
-(lp27
+p24
+(lp25
 S'Bachelor'
-p28
+p26
 asS'responsibility'
+p27
+(lp28
+S'data mining'
 p29
-(lp30
-Vinsight
-p31
-aS'data mining'
-p32
 as.

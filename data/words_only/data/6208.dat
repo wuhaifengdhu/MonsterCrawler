@@ -2,234 +2,192 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'communication'
 p4
-I1
-sS'communication'
-p5
-I1
+F0.0059968536329956688
 sS'data science'
-p6
-I1
+p5
+F0.0022781078137511348
 sS'analytics'
-p7
-I1
+p6
+F0.0016472300416354672
 sS'engineering'
-p8
-I1
+p7
+F0.0046396014283092979
 sS'education'
-p9
-I1
+p8
+F0.0079493437492926863
 sS'genomics'
+p9
+F0.0080442963396498753
+sS'statistics'
 p10
-I1
+F0.001766122831065539
 sS'genetics'
 p11
-I1
+F0.0073564490627251854
 sS'big data'
 p12
-I1
+F0.0024104642544747492
 sS'critical thinking'
 p13
-I1
+F0.007426601570096625
 sS'research'
 p14
-I1
+F0.0032316679608399177
 sS'matlab'
 p15
-I1
+F0.002417426491738759
 sS'innovation'
 p16
-I1
-sS'operations research'
+F0.0073326692126315296
+sS'mathematics'
 p17
-I1
-sS'computer science'
-p18
-I1
-sS'biology'
-p19
-I1
-sS'computational biology'
-p20
-I1
-sS'environmental science'
-p21
-I1
-sS'python'
-p22
-I1
-sS'mathematical programming'
-p23
-I1
-sS'training'
-p24
-I1
-sS'automation'
-p25
-I1
-sS'leadership'
-p26
-I1
-sS'mentoring'
-p27
-I1
-sS'statistical modeling'
-p28
-I1
-sS'bioinformatics'
-p29
-I1
-sS'modeling'
-p30
-I1
-sS'data'
-p31
-I1
-sS'life sciences'
-p32
-I1
-sS'organization'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'programming'
-p35
-I1
-sS'simulation'
-p36
-I1
-sS'r'
-I1
-sS'biotechnology'
-p37
-I1
-sS'chemistry'
-p38
-I1
-ssS'working-year'
-p39
-(dp40
-V(0, 2]
-p41
-I1
-sV(2, 5]
-p42
-I1
-ssS'major'
-p43
-(dp44
-S'communication'
-p45
-I1
-sS'data science'
-p46
-I1
-sS'analytics'
-p47
-I1
-sS'engineering'
-p48
-I1
-sS'computer science engineering'
-p49
-I1
-sS'statistic'
-p50
-I1
-sS'computational biolog'
-p51
-I1
-sS'information'
-p52
-I1
-sS'statistical genetics'
-p53
-I1
-sS'genetics'
-p54
-I1
-sS'big data'
-p55
-I1
-sS'computer science'
-p56
-I1
+F0.0034619190948405416
 sS'operations research'
-p57
-I1
+p18
+F0.0054563229461210413
+sS'computer science'
+p19
+F0.0026628470893697363
 sS'biology'
-p58
-I1
+p20
+F0.012868608198217793
 sS'computational biology'
-p59
-I1
+p21
+F0.0078898481354797659
 sS'environmental science'
-p60
-I1
-sS'phd'
-p61
-I1
-sS'bioinformatics'
-p62
-I1
+p22
+F0.010239802202638646
+sS'python'
+p23
+F0.00098721877415391284
+sS'mathematical programming'
+p24
+F0.010124983374245684
+sS'training'
+p25
+F0.0044569976345119871
 sS'automation'
-p63
-I1
-sS'life sciences'
-p64
-I1
-sS'mathematics computer science'
-p65
-I1
-sS'machine learning'
-p66
-I1
-sS'biotechnology'
-p67
-I1
-sS'chemistry'
-p68
-I1
-ssS'education'
-p69
-(dp70
-VBachelor
-p71
-I1
-sVMaster
-p72
-I1
-sVDoctor
-p73
-I1
-ssS'responsibility'
-p74
-(dp75
-S'development'
-p76
-I1
-sS'information'
-p77
-I1
-sVinsight
-p78
-I1
-sS'statistical model'
-p79
-I1
-sS'analytical method'
-p80
-I1
+p26
+F0.006316379404287518
+sS'leadership'
+p27
+F0.012518247130331986
+sS'mentoring'
+p28
+F0.006515366858861657
+sS'statistical modeling'
+p29
+F0.0033927377276333267
+sS'bioinformatics'
+p30
+F0.0061728357769942335
 sS'modeling'
-p81
-I1
+p31
+F0.0015381547140559707
+sS'data'
+p32
+F0.0013477441803917377
+sS'life sciences'
+p33
+F0.008019699732493302
+sS'organization'
+p34
+F0.010018089995918644
+sS'science'
+p35
+F0.0026630071522503501
+sS'machine learning'
+p36
+F0.0012415108368068928
+sS'programming'
+p37
+F0.0020877182477933255
 sS'simulation'
-p82
-I1
+p38
+F0.0050849162645347952
+sS'r'
+F0.0021022435856588679
+sS'biotechnology'
+p39
+F0.0083528215688747267
+sS'chemistry'
+p40
+F0.0075752192213529865
+ssS'working-year'
+p41
+(dp42
+V(0, 2]
+p43
+F0.0043135987956252906
+sV(2, 5]
+p44
+F0.0023464856599074535
+ssS'major'
+p45
+(dp46
+VStatistics
+p47
+F0.0034119408520607579
+sVData Science
+p48
+F0.001945623073115649
+sVEngineering
+p49
+F0.0046396014283092979
+sVComputer Science
+p50
+F0.0017146889135458291
+sVBiological Engineering
+p51
+F0.0049814314024179745
+sVMathematics
+p52
+F0.0032467282757243409
+sVEnvironmental Engineering
+p53
+F0.0093447232250353004
+sVOperations Research
+p54
+F0.0060960774586877918
+sVChemical Engineering
+p55
+F0.0071219364881329461
+ssS'education'
+p56
+(dp57
+VBachelor
+p58
+F0.0017260962645263386
+sVMaster
+p59
+F0.0013774255401973047
+sVDoctor
+p60
+F0.002062844264728159
+ssS'responsibility'
+p61
+(dp62
+S'development'
+p63
+F0.0068804602409893107
+sS'information'
+p64
+F0.0026270931809268838
+sS'insight'
+p65
+F0.0034751768106240249
+sS'simulation'
+p66
+F0.0050849162645347952
+sS'analytical method'
+p67
+F0.010162488173149482
+sS'modeling'
+p68
+F0.0015381547140559707
 sS'presentation'
-p83
-I1
+p69
+F0.0046654438301318314
 ss.

@@ -4,94 +4,88 @@ p2
 (dp3
 S'software development'
 p4
-I1
+F0.0085491799115857761
 sS'java'
 p5
-I1
+F0.0049970442244688853
 sS'scala'
 p6
-I1
+F0.0098409934987848252
 sS'python'
 p7
-I1
+F0.0021018206159405884
 sS'agile'
 p8
-I1
+F0.0088052010995947946
 sS'data science'
 p9
-I1
-sS'unit testing'
+F0.0048501650228249963
+sS'optimization'
 p10
-I1
-sS'machine learning'
+F0.0080645518443086383
+sS'unit testing'
 p11
-I1
-sS'engineering'
-p12
-I1
-sS'r'
-I1
-sS'data'
-p13
-I1
-sS'customer experience'
-p14
-I1
-ssS'working-year'
-p15
-(dp16
-V[0]
-p17
-I1
-ssS'major'
-p18
-(dp19
-S'data science'
-p20
-I1
-sS'berkeley'
-p21
-I1
+F0.020001334613655275
 sS'machine learning'
-p22
-I1
+p12
+F0.0026432166202985455
 sS'engineering'
+p13
+F0.0049389305527163495
+sS'r'
+F0.0022378722040884724
+sS'science'
+p14
+F0.0028348140652987596
+sS'data'
+p15
+F0.00095646361189091061
+sS'customer experience'
+p16
+F0.015447969360831633
+ssS'working-year'
+p17
+(dp18
+S'[0]'
+p19
+F0.0088557045586467042
+ssS'major'
+p20
+(dp21
+VData Science
+p22
+F0.0041422942846978334
+sVEngineering
 p23
-I1
-sS'mechanical'
+F0.0090821730918013207
+sVComputer Science
 p24
-I1
-sS'development practice'
-p25
-I1
-sS'general'
-p26
-I1
-sS'history'
-p27
-I1
+F0.0036506280094846682
 ssS'education'
+p25
+(dp26
+S'Bachelor'
+p27
+F0.003674914627701237
+ssS'responsibility'
 p28
 (dp29
-S'Bachelor'
-p30
-I1
-ssS'responsibility'
-p31
-(dp32
 S'development'
-p33
-I1
+p30
+F0.0048829072677988652
 sS'product'
-p34
-I1
+p31
+F0.010846716860626989
 sS'evaluation'
-p35
-I1
+p32
+F0.013642916063817246
+sS'optimization'
+p33
+F0.0080645518443086383
 sS'model'
-p36
-I1
-sS'design experiment'
-p37
-I1
+p34
+F0.012479119692755168
+sS'design ... experiment'
+p35
+F0.018106175650387722
 ss.

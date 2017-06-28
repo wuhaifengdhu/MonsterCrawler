@@ -1,5 +1,5 @@
-skills: {'data': 1, 'nlp': 1, 'financial markets': 1, 'open source': 1, 'software engineering': 1, 'social media': 1, 'data scientist': 1, 'processing': 1, 'programming': 1, 'c++': 1, 'information extraction': 1, 'sentiment analysis': 1, 'engineering': 1, 'analysis': 1, 'word': 1, 'natural language processing': 1, 'java': 1, 'swift': 1, 'pricing': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'software engineering': 1, 'natural language processing': 1, 'engineering': 1, 'statistic': 1, 'probability statistics': 1}
-education: {'Bachelor': 1}
-responsibility: {'information': 1, 'model': 1, 'processing': 1, 'extract': 1, 'analysis': 1}
+skills: {'a': 0.015983264047983135, 'nlp': 0.07338247689227255, 'c': 0.005344538136316656, 'financial markets': 0.02276313345820336, 'open source': 0.013666323674863654, 'probability': 0.014892432214416591, 'software engineering': 0.011119927302196632, 'social media': 0.014412327110794298, 'word': 0.011917387438880841, 'processing': 0.00697900891739624, 'programming': 0.004710748866815709, 'analysis': 0.001464182571598846, 'information extraction': 0.022370795501457954, 'sentiment analysis': 0.01796005652911146, 'engineering': 0.005234422124246388, 'statistics': 0.003985097670096601, 'pricing': 0.016156695168971755, 'data': 0.0010136879305510506, 'natural language processing': 0.010709222786155142, 'java': 0.005296012682343093, 'swift': 0.027065704632290945}
+working-year: {u'(5, 10]': 0.00515232590417461, u'(2, 5]': 0.005294634309534768}
+major: {u'Engineering': 0.00962555096908858, u'Statistics': 0.007698738332855044, u'Computer Science': 0.0038690416510777687}
+education: {u'Master': 0.0031080371163426366}
+responsibility: {'information': 0.011855599995977732, 'model': 0.006612866845733509, 'processing': 0.00697900891739624, 'extract': 0.026441953253870342, 'analysis': 0.001464182571598846}

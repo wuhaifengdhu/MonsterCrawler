@@ -2,139 +2,133 @@
 S'skills'
 p2
 (dp3
-S'science'
+S'data science'
 p4
-I1
-sS'segmentation'
-p5
-I1
-sS'economics'
-p6
-I1
-sS'marketing'
-p7
-I1
-sS'predictive modeling'
-p8
-I1
-sS'customer retention'
-p9
-I1
-sS'analysis'
-p10
-I1
-sS'research'
-p11
-I1
+F0.005594608956560926
 sS'analytics'
-p12
-I1
-sS'optimization'
-p13
-I1
+p5
+F0.004045290520853612
 sS'design experiments'
-p14
-I1
-sS'statistical modeling'
-p15
-I1
-sS'sql'
-p16
-I1
-sS'mathematics'
-p17
-I1
-sS'modeling'
-p18
-I1
+p6
+F0.021164813167651505
+sS'sas'
+p7
+F0.0064429621240810076
 sS'education'
+p8
+F0.0097610546502942749
+sS'insurance'
+p9
+F0.014665913551393897
+sS'direct mail'
+p10
+F0.028181109763282156
+sS'predictive modeling'
+p11
+F0.0096697949241347433
+sS'research'
+p12
+F0.007936375271271983
+sS'mathematics'
+p13
+F0.0085018292189572367
+sS'segmentation'
+p14
+F0.026940012205860845
+sS'marketing'
+p15
+F0.053168777371466476
+sS'customer retention'
+p16
+F0.026233625485694457
+sS'statistical modeling'
+p17
+F0.0083319326520483548
+sS'sql'
+p18
+F0.0031718319015490563
+sS'modeling'
 p19
-I1
+F0.0037774218094025697
 sS'data'
 p20
-I1
-sS'insurance'
+F0.00055163482732312988
+sS'training'
 p21
-I1
-sS'direct mail'
+F0.010945556981499205
+sS'science'
 p22
-I1
-ssS'working-year'
+F0.0032699250613678716
+sS'economics'
 p23
-(dp24
-V(0, 2]
+F0.022292947203343825
+sS'analysis'
+p24
+F0.001593575450019209
+sS'optimization'
 p25
-I1
-sV(15, 20]
+F0.0093023667785513582
+sS'advertising'
 p26
-I1
-ssS'major'
+F0.015308824578280415
+ssS'working-year'
 p27
 (dp28
-S'business'
+V(0, 2]
 p29
-I1
-sS'economics math'
+F0.010593396112047225
+sV(15, 20]
 p30
-I1
-sS'economics mathematics'
+F0.012998911007848824
+ssS'major'
 p31
-I1
-sS'marketing'
-p32
-I1
-sS'economics'
+(dp32
+VMathematics
 p33
-I1
-sS'analytics'
+F0.0079733606027090793
+sVData Science
 p34
-I1
-sS'statistic'
+F0.0047780882911863378
+sVEconomics
 p35
-I1
-sS'mathematics'
+F0.0076314955698812128
+sVBusiness
 p36
-I1
-sS'science'
-p37
-I1
+F0.005031229521740066
 ssS'education'
-p38
-(dp39
+p37
+(dp38
 VBachelor
-p40
-I1
+p39
+F0.0042389712914879382
 ssS'responsibility'
-p41
-(dp42
+p40
+(dp41
 S'development'
-p43
-I1
-sS'develop model'
-p44
-I1
+p42
+F0.01126475351082901
 sS'analysis'
-p45
-I1
-sS'statistical model'
-p46
-I1
+p43
+F0.001593575450019209
+sS'develop ... model'
+p44
+F0.014418200126400641
 sS'analytic'
-p47
-I1
+p45
+F0.010501051033951827
 sS'optimization'
-p48
-I1
-sS'design experiment'
-p49
-I1
+p46
+F0.0093023667785513582
 sS'report'
-p50
-I1
+p47
+F0.019304896931836547
 sS'modeling'
-p51
-I1
+p48
+F0.0037774218094025697
 sS'model'
-p52
-I1
+p49
+F0.014394519459550146
+sS'design ... experiment'
+p50
+F0.020885263075796068
 ss.

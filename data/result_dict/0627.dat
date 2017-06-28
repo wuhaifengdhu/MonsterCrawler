@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'market research'
+S'a'
+aS'market research'
 p4
 aS'management'
 p5
@@ -14,7 +15,7 @@ aS'intelligence'
 p8
 aS'innovation'
 p9
-aS'data scientist'
+aS'product marketing'
 p10
 aS'research'
 p11
@@ -34,50 +35,40 @@ aS'communication'
 p18
 aS'account management'
 p19
-aS'customer experience'
-p20
 aS'data'
+p20
+aS'project management'
 p21
-aS'project management'
-p22
-aS'product marketing'
-p23
 asS'working-year'
+p22
+(lp23
+V(2, 5]
 p24
-(lp25
-V(5, 10]
-p26
-aV(2, 5]
-p27
 asS'major'
+p25
+(lp26
+VEconomics
+p27
+aVBusiness
 p28
-(lp29
-S'marketing'
-p30
-aS'management'
-p31
-aS'business'
-p32
-aS'project management'
-p33
-aS'communication'
-p34
+aVManagement Science and Engineering
+p29
 asS'education'
-p35
-(lp36
+p30
+(lp31
 VBachelor
-p37
+p32
 asS'responsibility'
-p38
-(lp39
+p33
+(lp34
 S'development'
-p40
+p35
 aS'understand'
-p41
+p36
 aS'product'
-p42
-aVinsight
-p43
+p37
+aS'insight'
+p38
 aS'presentation'
-p44
+p39
 as.

@@ -4,170 +4,169 @@ p2
 (dp3
 S'research design'
 p4
-I1
+F0.01350238096264068
 sS'probability'
 p5
-I1
+F0.012445818350619578
 sS'intelligence'
 p6
-I1
-sS'problem solving'
+F0.016822056534501206
+sS'security clearance'
 p7
-I1
-sS'ic'
+F0.01304935883306739
+sS'problem solving'
 p8
-I1
-sS'visualization'
+F0.0087664709462616109
+sS'ic'
 p9
-I1
-sS'management'
+F0.030338489052393815
+sS'visualization'
 p10
-I1
-sS'r programming'
+F0.0066939116854784616
+sS'statistics'
 p11
-I1
-sS'scientific computing'
+F0.0033304030528664447
+sS'gis'
 p12
-I1
-sS'research'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'data management'
-p15
-I1
-sS'data analysis'
-p16
-I1
-sS'product development'
-p17
-I1
-sS'government'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'foreign policy'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'data'
-p22
-I1
-sS'national security'
-p23
-I1
-sS'spatial analysis'
-p24
-I1
-sS'applied mathematics'
-p25
-I1
-sS'programming'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'machine learning'
-p28
-I1
-sS'security'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(0, 2]
-p32
-I1
-sV(10, 15]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'information'
-p36
-I1
-sS'management'
-p37
-I1
-sS'business'
-p38
-I1
-sS'applied mathematics'
-p39
-I1
-sS'applied math'
-p40
-I1
+F0.014004448675039348
 sS'scientific computing'
-p41
-I1
-sS'machine learning'
-p42
-I1
-sS'mathematics computer science'
-p43
-I1
-sS'computational social science'
-p44
-I1
-sS'statistic'
-p45
-I1
-sS'phd'
-p46
-I1
-sS'computer science machine learning'
-p47
-I1
+p13
+F0.011528993802322205
+sS'research'
+p14
+F0.0030470012202204939
 sS'computer science'
-p48
-I1
+p15
+F0.0050213687970972164
+sS'mathematics'
+p16
+F0.0065281902931278776
+sS'data management'
+p17
+F0.0098211360878902518
+sS'data analysis'
+p18
+F0.0052991500534488043
+sS'product development'
+p19
+F0.0093338441027918211
+sS'government'
+p20
+F0.009311141127246304
+sS'data scientist'
+p21
+F0.0037834702327281364
+sS'management'
+p22
+F0.0032358888114273291
+sS'foreign policy'
+p23
+F0.021639066425377367
+sS'modeling'
+p24
+F0.0029005203179341158
+sS'data'
+p25
+F0.00084715348481766367
+sS'a'
+F0.0066787210486215238
+sS'national security'
+p26
+F0.015009475813614578
+sS'science'
+p27
+F0.010043341259915605
+sS'applied mathematics'
+p28
+F0.010793252660156094
+sS'programming'
+p29
+F0.0078736802488205415
+sS'analysis'
+p30
+F0.0036709148759371067
+sS'machine learning'
+p31
+F0.0023411347208358549
+sS'security'
+p32
+F0.0078048243418563992
+ssS'working-year'
+p33
+(dp34
+V(0, 2]
+p35
+F0.0081342148717505475
+sV(10, 15]
+p36
+F0.0069908084149941391
+ssS'major'
+p37
+(dp38
+VMathematics
+p39
+F0.0061224018913658999
+sVStatistics
+p40
+F0.0064339456067431435
+sVComputer Science
+p41
+F0.0032334133798292775
+sVBusiness
+p42
+F0.0038632655256218363
+sVManagement Science and Engineering
+p43
+F0.0046055162088174725
 ssS'education'
+p44
+(dp45
+VBachelor
+p46
+F0.0032549243845353812
+sVMaster
+p47
+F0.0025974310186577744
+sVDoctor
+p48
+F0.0038899348992016713
+ssS'responsibility'
 p49
 (dp50
-VBachelor
+S'development'
 p51
-I1
-sVDoctor
-p52
-I1
-ssS'responsibility'
-p53
-(dp54
-S'large data set'
-p55
-I1
-sS'product'
-p56
-I1
-sS'data analysis'
-p57
-I1
+F0.0043248607229075661
 sS'information'
-p58
-I1
+p52
+F0.0049539471411764093
+sS'product'
+p53
+F0.0048035460382776663
+sS'data analysis'
+p54
+F0.0052991500534488043
+sS'large data set'
+p55
+F0.011230204054760237
 sS'pattern'
-p59
-I1
+p56
+F0.0093521109841933781
 sS'communicate'
-p60
-I1
+p57
+F0.0071651531510056859
 sS'analysis'
-p61
-I1
+p58
+F0.0036709148759371067
 sS'analytic'
-p62
-I1
+p59
+F0.0080633070439272946
+sS'design'
+p60
+F0.0052157814643517056
+sS'identify ... trend'
+p61
+F0.015336496831073089
 sS'modeling'
-p63
-I1
+p62
+F0.0029005203179341158
 ss.

@@ -2,123 +2,119 @@
 S'skills'
 p2
 (lp3
-S'linear programming'
+S'data science'
 p4
 aS'decision support'
 p5
-aS'project planning'
+aS'sas'
 p6
-aS'r programming'
+aS'sports'
 p7
-aS'research'
+aS'statistics'
 p8
-aS'r'
-aS'computer science'
+aS'research'
 p9
-aS'mathematics'
-p10
-aS'data science'
-p11
-aS'operations research'
-p12
-aS'matlab'
-p13
-aS'testing'
-p14
-aS'theory'
-p15
-aS'cplex'
-p16
-aS'facebook'
-p17
-aS'sql'
-p18
-aS'modeling'
-p19
-aS'data'
-p20
-aS'software development'
-p21
-aS'training'
-p22
-aS'science'
-p23
-aS'programming'
-p24
-aS'analysis'
-p25
-aS'simulation'
-p26
 aS'optimization'
-p27
-aS'validation'
-p28
-aS'application development'
-p29
-asS'working-year'
-p30
-(lp31
-V(0, 2]
-p32
-aV(2, 5]
-p33
-asS'major'
-p34
-(lp35
-S'information'
-p36
-aS'business'
-p37
-aS'science'
-p38
-aS'data science'
-p39
-aS'mathematics statistics'
-p40
-aS'design'
-p41
+p10
 aS'computer science'
-p42
-aS'statistic'
-p43
+p11
 aS'mathematics'
-p44
-aS'development practice'
-p45
-aS'computer science mathematics'
-p46
+p12
+aS'project planning'
+p13
 aS'operations research'
-p47
+p14
+aS'matlab'
+p15
+aS'testing'
+p16
+aS'theory'
+p17
+aS'cplex'
+p18
+aS'facebook'
+p19
+aS'sql'
+p20
+aS'modeling'
+p21
+aS'data'
+p22
+aS'software development'
+p23
+aS'training'
+p24
+aS'science'
+p25
+aS'programming'
+p26
+aS'analysis'
+p27
+aS'simulation'
+p28
+aS'r'
+aS'validation'
+p29
+aS'root'
+p30
+aS'application development'
+p31
+asS'working-year'
+p32
+(lp33
+V(0, 2]
+p34
+aV(2, 5]
+p35
+asS'major'
+p36
+(lp37
+VStatistics
+p38
+aVBusiness
+p39
+aVData Science
+p40
+aVComputer Science
+p41
+aVMathematics
+p42
+aVOperations Research
+p43
 asS'education'
+p44
+(lp45
+VMaster
+p46
+aVDoctor
+p47
+asS'responsibility'
 p48
 (lp49
-VMaster
-p50
-aVDoctor
-p51
-asS'responsibility'
-p52
-(lp53
 S'development'
-p54
+p50
 aS'information'
-p55
+p51
+aS'test ... model'
+p52
 aS'business problem'
-p56
+p53
 aS'analysis'
-p57
-aS'simulation'
-p58
+p54
+aS'develop ... model'
+p55
 aS'optimization'
-p59
+p56
 aS'design'
-p60
+p57
 aS'modeling'
-p61
-aS'test model'
-p62
+p58
 aS'model'
-p63
+p59
 aS'prototype'
-p64
+p60
+aS'validate ... model'
+p61
+aS'simulation'
+p62
 as.

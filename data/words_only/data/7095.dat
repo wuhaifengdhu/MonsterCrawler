@@ -4,179 +4,170 @@ p2
 (dp3
 S'text analytics'
 p4
-I1
+F0.015209536330554175
 sS'communication'
 p5
-I1
+F0.0056340546587574959
 sS'data science'
 p6
-I1
-sS'data mining'
+F0.0042805726891836267
+sS'analytics'
 p7
-I1
-sS'ic'
+F0.0092854533307849818
+sS'data mining'
 p8
-I1
-sS'visualization'
+F0.0075515278600787814
+sS'ic'
 p9
-I1
-sS'open source'
+F0.015115261449591223
+sS'visualization'
 p10
-I1
-sS'integration'
+F0.0066700899357080758
+sS'management'
 p11
-I1
-sS'strategy'
+F0.0064487463857626484
+sS'open source'
 p12
-I1
-sS'access'
+F0.011380497295082186
+sS'integration'
 p13
-I1
-sS'computer science'
+F0.008207270897489724
+sS'strategy'
 p14
-I1
-sS'policy'
+F0.0056050228869282378
+sS'access'
 p15
-I1
-sS'data analysis'
-p16
-I1
-sS'data modeling'
-p17
-I1
-sS'theory'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'data'
-p20
-I1
-sS'project management'
-p21
-I1
-sS'analysis'
-p22
-I1
-sS'machine learning'
-p23
-I1
-sS'data architecture'
-p24
-I1
-sS'architecture'
-p25
-I1
-sS'data security'
-p26
-I1
-sS'security'
-p27
-I1
-sS'data analytics'
-p28
-I1
-sS'predictive analytics'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(5, 10]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'information'
-p35
-I1
-sS'information systems'
-p36
-I1
-sS'communication'
-p37
-I1
-sS'data science'
-p38
-I1
-sS'data mining'
-p39
-I1
-sS'data mining predictive analytics'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'project management'
-p42
-I1
-sS'information system'
-p43
-I1
-sS'design'
-p44
-I1
+F0.016508626513142027
 sS'computer science'
-p45
-I1
-sS'statistic'
-p46
-I1
-sS'analytics data science'
-p47
-I1
-sS'management information systems'
-p48
-I1
-sS'data analytics'
-p49
-I1
-sS'predictive analytics'
-p50
-I1
-ssS'education'
-p51
-(dp52
-S'Bachelor'
-p53
-I1
-ssS'responsibility'
-p54
-(dp55
-S'information'
-p56
-I1
+p16
+F0.0050034991572498952
+sS'policy'
+p17
+F0.019428172441571169
 sS'data analysis'
-p57
-I1
-sS'pattern'
-p58
-I1
-sVinsight
-p59
-I1
+p18
+F0.0052802918682052138
+sS'data modeling'
+p19
+F0.0092960916185703592
+sS'theory'
+p20
+F0.010428741104887314
+sS'data scientist'
+p21
+F0.0037700059258501005
+sS'modeling'
+p22
+F0.0028901981815713609
+sS'data'
+p23
+F0.005908970926130323
+sS'project management'
+p24
+F0.0067667378054254304
+sS'science'
+p25
+F0.0075056998739582818
 sS'analysis'
-p60
-I1
+p26
+F0.0012192837073100708
+sS'machine learning'
+p27
+F0.0023328032805481824
+sS'data architecture'
+p28
+F0.01443940766838186
+sS'architecture'
+p29
+F0.0077829698316180008
+sS'data security'
+p30
+F0.018756170971506714
+sS'organization'
+p31
+F0.0062746755846323169
+sS'security'
+p32
+F0.0077770491662626038
+sS'data analytics'
+p33
+F0.0072680522472804163
+sS'predictive analytics'
+p34
+F0.0081939436773266552
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0042905489735831272
+ssS'major'
+p38
+(dp39
+VData Science
+p40
+F0.0036558326783098314
+sVInformation Science
+p41
+F0.0090130077884487316
+sVComputer Science
+p42
+F0.0032219065706483902
+sVManagement Science and Engineering
+p43
+F0.0045891264714195456
+ssS'education'
+p44
+(dp45
+VBachelor
+p46
+F0.0032433410237363226
+sVMaster
+p47
+F0.0025881874919009853
+ssS'responsibility'
+p48
+(dp49
+S'development'
+p50
+F0.0043094697594808487
+sS'information'
+p51
+F0.0098726348720953351
+sS'data analysis'
+p52
+F0.0052802918682052138
+sS'pattern'
+p53
+F0.0093188294504418009
+sS'insight'
+p54
+F0.0065298695943398046
+sS'analysis'
+p55
+F0.0012192837073100708
 sS'analytic'
-p61
-I1
+p56
+F0.016069224002132686
 sS'design'
-p62
-I1
+p57
+F0.015591659893435705
 sS'data mining'
-p63
-I1
+p58
+F0.0075515278600787814
+sS'modeling'
+p59
+F0.0028901981815713609
 sS'implement'
-p64
-I1
+p60
+F0.030147518507040675
 sS'extract'
-p65
-I1
+p61
+F0.011009638899298325
 sS'model'
-p66
-I1
+p62
+F0.011013600298232317
+sS'decision making'
+p63
+F0.011624850711492931
 ss.

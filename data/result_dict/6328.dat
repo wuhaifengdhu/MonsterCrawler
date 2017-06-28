@@ -2,199 +2,177 @@
 S'skills'
 p2
 (lp3
-S'communication'
+S'integration'
 p4
-aS'data science'
+aS'communication'
 p5
-aS'engineering'
+aS'data science'
 p6
-aS'integration'
+aS'engineering'
 p7
-aS'analytics'
-p8
-aS'business intelligence'
-p9
-aS'analysis'
-p10
-aS'tableau'
-p11
-aS'strategy'
-p12
-aS'dimensionality reduction'
-p13
-aS'visualization'
-p14
-aS'management'
-p15
-aS'java'
-p16
-aS'big data'
-p17
-aS'scala'
-p18
-aS'deep learning'
-p19
-aS'hadoop'
-p20
-aS'research'
-p21
-aS'optimization'
-p22
-aS'computer science'
-p23
-aS'intelligence'
-p24
-aS'advanced analytics'
-p25
-aS'algorithm development'
-p26
-aS'data management'
-p27
-aS'systems engineering'
-p28
-aS'processing'
-p29
-aS'theory'
-p30
-aS'python'
-p31
-aS'spotfire'
-p32
-aS'collaboration'
-p33
-aS'innovation'
-p34
-aS'data scientist'
-p35
-aS'experimental design'
-p36
-aS'hive'
-p37
-aS'leadership'
-p38
-aS'sql'
-p39
-aS'modeling'
-p40
-aS'spark'
-p41
-aS'data'
-p42
-aS'information technology'
-p43
-aS'knime'
-p44
-aS'data visualization'
-p45
-aS'science'
-p46
 aS'mapreduce'
+p8
+aS'analytics'
+p9
+aS'business intelligence'
+p10
+aS'hive'
+p11
+aS'linux'
+p12
+aS'tableau'
+p13
+aS'strategy'
+p14
+aS'dimensionality reduction'
+p15
+aS'visualization'
+p16
+aS'statistics'
+p17
+aS'java'
+p18
+aS'big data'
+p19
+aS'scala'
+p20
+aS'deep learning'
+p21
+aS'management'
+p22
+aS'hadoop'
+p23
+aS'research'
+p24
+aS'optimization'
+p25
+aS'computer science'
+p26
+aS'intelligence'
+p27
+aS'advanced analytics'
+p28
+aS'algorithm development'
+p29
+aS'data management'
+p30
+aS'systems engineering'
+p31
+aS'processing'
+p32
+aS'theory'
+p33
+aS'python'
+p34
+aS'spotfire'
+p35
+aS'collaboration'
+p36
+aS'innovation'
+p37
+aS'data scientist'
+p38
+aS'experimental design'
+p39
+aS'leadership'
+p40
+aS'sql'
+p41
+aS'modeling'
+p42
+aS'spark'
+p43
+aS'data'
+p44
+aS'information technology'
+p45
+aS'a'
+aS'c'
+aS'knime'
+p46
+aS'data visualization'
 p47
-aS'c++'
+aS'solver'
 p48
-aS'machine learning'
+aS'science'
 p49
+aS'unix'
+p50
+aS'analysis'
+p51
+aS'machine learning'
+p52
 aS'r'
 aS'scientific computing'
-p50
-aS'artificial intelligence'
-p51
-aS'organization'
-p52
-aS'security'
 p53
-aS'data analytics'
+aS'artificial intelligence'
 p54
-asS'working-year'
+aS'organization'
 p55
-(lp56
-V(2, 5]
+aS'security'
+p56
+aS'data analytics'
 p57
-asS'major'
+asS'working-year'
 p58
 (lp59
-S'computing'
+V(2, 5]
 p60
-aS'statistics analytics'
+asS'major'
 p61
-aS'data science'
-p62
-aS'analytics'
+(lp62
+VStatistics
 p63
-aS'engineering'
+aVBusiness
 p64
-aS'design'
+aVData Science
 p65
-aS'statistic'
+aVEngineering
 p66
-aS'information'
+aVInformation Science
 p67
-aS'management'
+aVComputer Science
 p68
-aS'big data'
+aVMathematics
 p69
-aS'scientific computing'
+aVManagement Science and Engineering
 p70
-aS'computer science'
-p71
-aS'communication'
-p72
-aS'advanced analytics'
-p73
-aS'artificial intelligence'
-p74
-aS'systems engineering'
-p75
-aS'business'
-p76
-aS'computer science systems'
-p77
-aS'information system'
-p78
-aS'information technology'
-p79
-aS'science'
-p80
-aS'machine learning'
-p81
-aS'applied math'
-p82
-aS'data analytics'
-p83
 asS'education'
-p84
-(lp85
-VMaster
-p86
+p71
+(lp72
+VBachelor
+p73
+aVMaster
+p74
 aVDoctor
-p87
+p75
 asS'responsibility'
-p88
-(lp89
+p76
+(lp77
 S'development'
-p90
+p78
 aS'information'
-p91
-aVinsight
-p92
+p79
 aS'processing'
-p93
+p80
 aS'business problem'
-p94
-aS'decision-making'
-p95
+p81
+aS'insight'
+p82
 aS'analysis'
-p96
+p83
 aS'analytic'
-p97
+p84
 aS'optimization'
-p98
+p85
 aS'design'
-p99
+p86
 aS'recommendation'
-p100
+p87
 aS'modeling'
-p101
+p88
 aS'model'
-p102
+p89
+aS'decision-making'
+p90
 as.

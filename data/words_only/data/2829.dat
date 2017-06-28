@@ -4,214 +4,194 @@ p2
 (dp3
 S'higher education'
 p4
-I1
-sS'data science'
-p5
-I1
-sS'analytics'
-p6
-I1
-sS'business intelligence'
-p7
-I1
-sS'data warehousing'
-p8
-I1
-sS'statistical analysis'
-p9
-I1
-sS'system administration'
-p10
-I1
-sS'education'
-p11
-I1
-sS'insurance'
-p12
-I1
-sS'management'
-p13
-I1
-sS'agile'
-p14
-I1
-sS'r programming'
-p15
-I1
-sS'devops'
-p16
-I1
-sS'writing'
-p17
-I1
-sS'python'
-p18
-I1
-sS'innovation'
-p19
-I1
-sS'policy'
-p20
-I1
-sS'linux system administration'
-p21
-I1
-sS'philosophy'
-p22
-I1
-sS'database design'
-p23
-I1
-sS'data scientist'
-p24
-I1
-sS'processing'
-p25
-I1
-sS'aws'
-p26
-I1
-sS'data processing'
-p27
-I1
-sS'technical documentation'
-p28
-I1
-sS'data'
-p29
-I1
-sS'software development'
-p30
-I1
-sS'word'
-p31
-I1
-sS'data visualization'
-p32
-I1
-sS'quantitative research'
-p33
-I1
-sS'documentation'
-p34
-I1
+F0.0086006953405126998
 sS'programming'
-p35
-I1
-sS'analysis'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'r'
-I1
+p5
+F0.0065484073356527287
+sS'data science'
+p6
+F0.0023818632191298992
+sS'analytics'
+p7
+F0.0068890095998695184
+sS'business intelligence'
+p8
+F0.0040456303144047944
+sS'data warehousing'
+p9
+F0.0060227529934342447
+sS'statistical analysis'
+p10
+F0.005098416145371501
+sS'system administration'
+p11
+F0.0091187985236609488
+sS'writing'
+p12
+F0.0044496244080841447
+sS'insurance'
+p13
+F0.0062439037892073022
+sS'management'
+p14
+F0.0017941561726725786
+sS'agile'
+p15
+F0.0043241383617812065
+sS'r programming'
+p16
+F0.006248241389025899
+sS'devops'
+p17
+F0.0081788785899406767
+sS'research'
+p18
+F0.0016894264191321549
+sS'python'
+p19
+F0.0010321812133728039
+sS'innovation'
+p20
+F0.0038333161824449973
+sS'policy'
+p21
+F0.0054052638179024745
+sS'linux system administration'
+p22
+F0.011389019288384409
+sS'software development'
+p23
+F0.0041984091446995494
+sS'processing'
+p24
+F0.0032338377953875647
+sS'database design'
+p25
+F0.0073607024938385952
+sS'data scientist'
+p26
+F0.0020977656735918383
+sS'philosophy'
+p27
+F0.009822437592448531
+sS'aws'
+p28
+F0.0051752006906568516
+sS'data processing'
+p29
+F0.0072786506885710407
+sS'sql'
+p30
+F0.0013503838788773209
+sS'technical documentation'
+p31
+F0.010365873559091408
+sS'data'
+p32
+F0.001409126588607599
+sS'a'
+F0.0037030532546812409
+sS'c'
+F0.0024764790572239554
+sS'data visualization'
+p33
+F0.0038945220308506949
 sS'science'
+p34
+F0.0027842926265112572
+sS'documentation'
+p35
+F0.0057414672454337238
+sS'education'
+p36
+F0.024934179205702209
+sS'analysis'
+p37
+F0.0013569058287292274
+sS'machine learning'
 p38
-I1
+F0.00129805489472087
+sS'r'
+F0.0010989946665622597
 sS'organization'
 p39
-I1
+F0.0034914531470924379
 sS'docker'
 p40
-I1
+F0.0084764626685008906
 sS'data analytics'
 p41
-I1
+F0.0040442033296748461
 ssS'working-year'
 p42
 (dp43
 V(2, 5]
 p44
-I1
+F0.0024533553038240305
 ssS'major'
 p45
 (dp46
-S'information'
+VData Science
 p47
-I1
-sS'management'
+F0.002034235609118936
+sVComputer Science
 p48
-I1
-sS'business'
+F0.0017927836561429657
+sVBusiness
 p49
-I1
-sS'science'
+F0.0021420086082655728
+sVManagement Science and Engineering
 p50
-I1
-sS'data science'
-p51
-I1
-sS'philosophy'
-p52
-I1
-sS'machine learning'
-p53
-I1
-sS'analytics'
-p54
-I1
-sS'design'
-p55
-I1
-sS'statistic'
-p56
-I1
-sS'phd'
-p57
-I1
-sS'data analytics'
-p58
-I1
+F0.0025535535415225591
 ssS'education'
-p59
-(dp60
+p51
+(dp52
 VBachelor
-p61
-I1
+p53
+F0.0018047105498413996
 sVMaster
-p62
-I1
+p54
+F0.0014401597727211424
 sVDoctor
-p63
-I1
+p55
+F0.0021567955876761742
 ssS'responsibility'
-p64
-(dp65
+p56
+(dp57
 S'development'
-p66
-I1
+p58
+F0.0023979425790378586
 sS'information'
-p67
-I1
+p59
+F0.002746742969365138
 sS'product'
-p68
-I1
+p60
+F0.0053267045176940463
 sS'processing'
-p69
-I1
+p61
+F0.0032338377953875647
 sS'communicate'
-p70
-I1
+p62
+F0.0079455163654716526
 sS'documentation'
-p71
-I1
+p63
+F0.0057414672454337238
 sS'manage data'
-p72
-I1
+p64
+F0.010472936808290385
 sS'analysis'
-p73
-I1
+p65
+F0.0013569058287292274
 sS'design'
-p74
-I1
+p66
+F0.0028919184356801537
 sS'report'
-p75
-I1
+p67
+F0.0041094582577671859
 sS'model'
-p76
-I1
+p68
+F0.0030641798849537442
 sS'transformation'
-p77
-I1
+p69
+F0.006226647792738349
 ss.

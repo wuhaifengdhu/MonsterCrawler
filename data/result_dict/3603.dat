@@ -2,125 +2,133 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'communication'
 p4
-aS'communication'
+aS'data science'
 p5
-aS'energy'
-p6
 aS'engineering'
-p7
+p6
 aS'data analysis'
-p8
+p7
 aS'analysis'
-p9
+p8
 aS'education'
-p10
+p9
 aS'visualization'
+p10
+aS'management'
 p11
 aS'big data'
 p12
-aS'deep learning'
+aS'scala'
 p13
-aS'storage'
+aS'deep learning'
 p14
-aS'research'
+aS'storage'
 p15
-aS'fraud detection'
+aS'hadoop'
 p16
-aS'computer science'
+aS'research'
 p17
-aS'intelligence'
+aS'music'
 p18
-aS'data science'
-p19
-aS'processing'
-p20
-aS'data modeling'
-p21
-aS'collaboration'
-p22
-aS'innovation'
-p23
-aS'data scientist'
-p24
-aS'data collection'
-p25
-aS'data processing'
-p26
-aS'modeling'
-p27
-aS'data'
-p28
-aS'project management'
-p29
-aS'search'
-p30
-aS'fraud'
-p31
-aS'science'
-p32
-aS'programming'
-p33
-aS'communication skills'
-p34
-aS'r'
-asS'working-year'
-p35
-(lp36
-V(5, 10]
-p37
-aV(2, 5]
-p38
-asS'major'
-p39
-(lp40
-S'big data'
-p41
-aS'business'
-p42
-aS'science'
-p43
-aS'data science'
-p44
-aS'general'
-p45
-aS'engineering'
-p46
 aS'computer science'
-p47
-aS'communication'
-p48
-aS'project management'
-p49
-asS'education'
-p50
-(lp51
-VMaster
-p52
-asS'responsibility'
-p53
-(lp54
-S'product'
-p55
-aS'data analysis'
-p56
+p19
+aS'intelligence'
+p20
+aS'fraud detection'
+p21
+aS'energy'
+p22
 aS'processing'
-p57
-aS'decision-making'
-p58
-aS'analysis'
-p59
-aS'analytic'
-p60
+p23
+aS'data modeling'
+p24
+aS'python'
+p25
+aS'collaboration'
+p26
+aS'innovation'
+p27
+aS'data scientist'
+p28
 aS'data collection'
-p61
-aS'recommendation'
-p62
+p29
+aS'data processing'
+p30
 aS'modeling'
+p31
+aS'spark'
+p32
+aS'data'
+p33
+aS'project management'
+p34
+aS'search'
+p35
+aS'fraud'
+p36
+aS'science'
+p37
+aS'programming'
+p38
+aS'communication skills'
+p39
+aS'r'
+aS'algorithms'
+p40
+asS'working-year'
+p41
+(lp42
+V(5, 10]
+p43
+aV(2, 5]
+p44
+asS'major'
+p45
+(lp46
+VData Science
+p47
+aVManagement Science and Engineering
+p48
+aVEngineering
+p49
+aVBusiness
+p50
+aVComputer Science
+p51
+asS'education'
+p52
+(lp53
+VMaster
+p54
+asS'responsibility'
+p55
+(lp56
+S'product'
+p57
+aS'data analysis'
+p58
+aS'processing'
+p59
+aS'analysis'
+p60
+aS'develop ... model'
+p61
+aS'analytic'
+p62
+aS'data collection'
 p63
-aS'implement'
+aS'recommendation'
 p64
-aS'model'
+aS'modeling'
 p65
+aS'implement'
+p66
+aS'validate ... model'
+p67
+aS'model'
+p68
+aS'decision-making'
+p69
 as.

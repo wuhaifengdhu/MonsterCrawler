@@ -4,23 +4,23 @@ p2
 (lp3
 S'supply chain'
 p4
-aS'r d'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'analytics'
-p8
+p7
 aS'engineering'
-p9
+p8
 aS'data mining'
+p9
+aS'sas'
 p10
 aS'image processing'
 p11
 aS'visualization'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'mechanical engineering'
 p14
@@ -46,6 +46,7 @@ aS'unstructured data'
 p24
 aS'artificial intelligence'
 p25
+aS'a'
 aS'processing'
 p26
 aS'python'
@@ -56,145 +57,109 @@ aS'innovation'
 p29
 aS'data scientist'
 p30
-aS'sql'
+aS'management'
 p31
-aS'modeling'
+aS'sql'
 p32
-aS'manufacturing'
+aS'modeling'
 p33
-aS'data'
+aS'manufacturing'
 p34
-aS'software development'
+aS'data'
 p35
-aS'training'
+aS'software development'
 p36
-aS'organization'
+aS'training'
 p37
-aS'pattern recognition'
+aS'organization'
 p38
-aS'science'
+aS'pattern recognition'
 p39
-aS'analysis'
+aS'science'
 p40
-aS'machine learning'
+aS'analysis'
 p41
-aS'data engineering'
+aS'machine learning'
 p42
+aS'data engineering'
+p43
 aS'r'
 aS'english'
-p43
-aS'electrical engineering'
 p44
-aS'chemistry'
+aS'electrical engineering'
 p45
-aS'scripting'
+aS'chemistry'
 p46
-aS'predictive analytics'
+aS'physics'
 p47
-asS'working-year'
+aS'scripting'
 p48
-(lp49
-V(0, 2]
+aS'predictive analytics'
+p49
+asS'working-year'
 p50
-aV(2, 5]
-p51
-asS'major'
+(lp51
+sS'major'
 p52
 (lp53
-S'communication'
+VStatistics
 p54
-aS'data science'
+aVBusiness
 p55
-aS'statistic'
+aVData Science
 p56
-aS'analytics'
+aVElectrical and Electronics Engineering
 p57
-aS'engineering'
+aVEngineering
 p58
-aS'data mining'
+aVComputer Science
 p59
-aS'information'
+aVChemical Engineering
 p60
-aS'management'
+aVMathematics
 p61
-aS'mechanical engineering'
+aVPhysics
 p62
-aS'industrial engineering'
+aVIndustrial Engineering
 p63
-aS'predictive analytics'
+aVManagement Science and Engineering
 p64
-aS'electrical'
-p65
-aS'computer science'
-p66
-aS'machine learning statistics'
-p67
-aS'advanced analytics'
-p68
-aS'mathematics'
-p69
-aS'artificial intelligence'
-p70
-aS'data mining machine learning'
-p71
-aS'engineering science'
-p72
-aS'business'
-p73
-aS'mechanical'
-p74
-aS'phd'
-p75
-aS'artificial intelligence machine learning'
-p76
-aVphysic
-p77
-aS'science'
-p78
-aS'machine learning'
-p79
-aS'english'
-p80
-aS'electrical engineering'
-p81
-aS'chemistry'
-p82
-aS'statistics data mining'
-p83
 asS'education'
-p84
-(lp85
+p65
+(lp66
 VMaster
-p86
+p67
 aVDoctor
-p87
+p68
 asS'responsibility'
-p88
-(lp89
+p69
+(lp70
 S'development'
-p90
+p71
 aS'information'
-p91
+p72
 aS'processing'
-p92
+p73
+aS'develop ... system'
+p74
 aS'business problem'
-p93
+p75
 aS'pattern'
-p94
-aVinsight
-p95
+p76
+aS'insight'
+p77
 aS'analysis'
-p96
+p78
 aS'interface'
-p97
+p79
 aS'understand'
-p98
+p80
 aS'data mining'
-p99
+p81
 aS'report'
-p100
+p82
 aS'modeling'
-p101
+p83
 aS'prototype'
-p102
+p84
 as.

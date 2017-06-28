@@ -1,5 +1,5 @@
-skills: {'search': 1, 'management': 1, 'data science': 1, 'data scientist': 1, 'analysis': 1, 'machine learning': 1, 'analytics': 1, 'engineering': 1, 'statistical analysis': 1, 'strategy': 1, 'data': 1, 'insurance': 1, 'experimentation': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'management': 1, 'business': 1, 'data science': 1, 'machine learning': 1, 'analytics': 1, 'engineering': 1, 'design': 1, 'statistic': 1}
-education: {'Bachelor': 1}
-responsibility: {'pattern': 1, 'product': 1, 'design': 1, 'model': 1, 'analysis': 1}
+skills: {'data science': 0.005140345836156407, 'pig': 0.011532599038956802, 'analytics': 0.007433653521226724, 'unix': 0.011034567473440384, 'analysis': 0.001464182571598846, 'personalization': 0.018913648666466856, 'insurance': 0.013475091510896103, 'experimentation': 0.015389254612272987, 'management': 0.0038720037059814198, 'strategy': 0.013461636164331924, 'matlab': 0.0054547059300772, 'stata': 0.013006192447430218, 'python': 0.0022275705673216496, 'data scientist': 0.004527229338307173, 'sql': 0.002914289995013022, 'data': 0.0010136879305510506, 'search': 0.11930729914037569, 'science': 0.00300441832561578, 'engineering': 0.005234422124246388, 'hive': 0.008913479698675243, 'machine learning': 0.002801357785615553, 'r': 0.0023717619940766717, 'statistical analysis': 0.01100299210860089}
+working-year: {u'(5, 10]': 0.00515232590417461, u'(2, 5]': 0.005294634309534768}
+major: {u'Data Science': 0.0043901238572865925, u'Management Science and Engineering': 0.005510874096020908, u'Engineering': 0.005234422124246388, u'Business': 0.004622710885359463, u'Computer Science': 0.0038690416510777687}
+education: {u'Master': 0.0031080371163426366, u'Doctor': 0.004654622956309693}
+responsibility: {'pattern': 0.011190560152026265, 'product': 0.02299133146526063, 'design': 0.01248221205143998, 'model': 0.013225733691467017, 'analysis': 0.001464182571598846}

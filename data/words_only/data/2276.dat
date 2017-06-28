@@ -4,251 +4,221 @@ p2
 (dp3
 S'intelligence'
 p4
-I1
+F0.0039448708791125098
 sS'data science'
 p5
-I1
+F0.0030222133810567818
 sS'data wrangling'
 p6
-I1
+F0.02513142059438413
 sS'analytics'
 p7
-I1
+F0.010926350024918676
 sS'engineering'
 p8
-I1
+F0.0061550491310233902
 sS'trading'
 p9
-I1
-sS'problem solving'
+F0.010575182782290592
+sS'analysis'
 p10
-I1
-sS'econometrics'
+F0.00086085105968374356
+sS'problem solving'
 p11
-I1
-sS'quantitative finance'
+F0.0061673664948574151
+sS'sas'
 p12
-I1
-sS'big data'
-p13
-I1
-sS'cognitive neuroscience'
-p14
-I1
-sS'computational chemistry'
-p15
-I1
-sS'hadoop'
-p16
-I1
-sS'strategy'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'communication'
-p19
-I1
-sS'advanced analytics'
-p20
-I1
-sS'unstructured data'
-p21
-I1
-sS'customer satisfaction'
-p22
-I1
-sS'data analysis'
-p23
-I1
-sS'python'
-p24
-I1
-sS'alteryx'
-p25
-I1
-sS'data quality'
-p26
-I1
-sS'maven'
-p27
-I1
-sS'policy'
-p28
-I1
-sS'sql'
-p29
-I1
-sS'neuroscience'
-p30
-I1
-sS'data'
-p31
-I1
-sS'customer experience'
-p32
-I1
-sS'search'
-p33
-I1
-sS'astrophysics'
-p34
-I1
-sS'economics'
-p35
-I1
-sS'analysis'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'optimization'
-p38
-I1
-sS'architecture'
-p39
-I1
-sS'biotechnology'
-p40
-I1
-sS'security'
-p41
-I1
-sS'chemistry'
-p42
-I1
-sS'data analytics'
-p43
-I1
-ssS'working-year'
-p44
-(dp45
-V[0]
-p46
-I1
-ssS'major'
-p47
-(dp48
-S'communication'
-p49
-I1
-sS'data science'
-p50
-I1
-sS'general'
-p51
-I1
-sS'analytics'
-p52
-I1
-sS'engineering'
-p53
-I1
-sS'behavioral economics'
-p54
-I1
+F0.0034804946147673787
 sS'econometrics'
-p55
-I1
+p13
+F0.0077066797983423134
 sS'quantitative finance'
-p56
-I1
+p14
+F0.010575182782290592
 sS'big data'
-p57
-I1
+p15
+F0.0031978018250318281
 sS'cognitive neuroscience'
-p58
-I1
+p16
+F0.013980512193144719
 sS'computational chemistry'
-p59
-I1
+p17
+F0.014765370627355745
+sS'hadoop'
+p18
+F0.0032281570386923741
+sS'strategy'
+p19
+F0.0079146303076725374
 sS'computer science'
-p60
-I1
+p20
+F0.0035326212642894993
+sS'communication'
+p21
+F0.0039778124600775289
 sS'advanced analytics'
-p61
-I1
-sS'business'
-p62
-I1
-sS'astrophysics'
-p63
-I1
-sS'machine learning'
-p64
-I1
-sS'neuroscience'
-p65
-I1
-sVphysic
-p66
-I1
-sS'mathematics computer science'
-p67
-I1
-sS'bio-statistics'
-p68
-I1
-sS'economics'
-p69
-I1
-sS'data science analytics'
-p70
-I1
-sS'finance mathematics'
-p71
-I1
-sS'analytics data science'
-p72
-I1
-sS'biotechnology'
-p73
-I1
-sS'chemistry'
-p74
-I1
-sS'data analytics'
-p75
-I1
-ssS'education'
-p76
-(dp77
-VBachelor
-p78
-I1
-sVMaster
-p79
-I1
-ssS'responsibility'
-p80
-(dp81
-S'development'
-p82
-I1
-sS'product'
-p83
-I1
+p22
+F0.0073939963676836274
+sS'mathematics'
+p23
+F0.0045926966886326781
+sS'unstructured data'
+p24
+F0.0080120814910883409
+sS'customer satisfaction'
+p25
+F0.01136741894239773
 sS'data analysis'
-p84
-I1
-sS'business problem'
-p85
-I1
-sS'analysis'
-p86
-I1
-sS'analytic'
-p87
-I1
+p26
+F0.003728045263732827
+sS'finance'
+p27
+F0.006671221241667559
+sS'python'
+p28
+F0.0013096771677217737
+sS'alteryx'
+p29
+F0.012332592007926559
+sS'data quality'
+p30
+F0.0088815026713221692
+sS'maven'
+p31
+F0.012119278466560676
+sS'policy'
+p32
+F0.0068584377588963557
+sS'statistics'
+p33
+F0.0023429971226196097
+sS'sql'
+p34
+F0.0034268535619751111
+sS'neuroscience'
+p35
+F0.010591034731333892
+sS'data'
+p36
+F0.0035759242575217963
+sS'customer experience'
+p37
+F0.0096258703554930793
+sS'search'
+p38
+F0.0077939441649491651
+sS'astrophysics'
+p39
+F0.024416981094090583
+sS'science'
+p40
+F0.0035328336090155398
+sS'economics'
+p41
+F0.0060213362421091994
+sS'hive'
+p42
+F0.005240588566557805
+sS'machine learning'
+p43
+F0.0016470294518443199
 sS'optimization'
-p88
-I1
+p44
+F0.0050251478828857842
+sS'architecture'
+p45
+F0.0054950113635292919
+sS'biotechnology'
+p46
+F0.01108113012152225
+sS'security'
+p47
+F0.0054908311952758587
+sS'chemistry'
+p48
+F0.010049537057473308
+sS'data analytics'
+p49
+F0.0051314640238336613
+ssS'working-year'
+p50
+(dp51
+S'[0]'
+p52
+F0.0055181274636793539
+ssS'major'
+p53
+(dp54
+VStatistics
+p55
+F0.0045263938941911561
+sVBusiness
+p56
+F0.0027178752441560658
+sVData Science
+p57
+F0.002581128096997645
+sVEconomics
+p58
+F0.0041225415766946256
+sVAstrophysics
+p59
+F0.011715329173925584
+sVEngineering
+p60
+F0.0061550491310233902
+sVCognitive Science
+p61
+F0.010824151376594229
+sVChemical Engineering
+p62
+F0.0094481971500859178
+sVBiological Engineering
+p63
+F0.006608532111750479
+sVMathematics
+p64
+F0.0043072174110111855
+sVComputer Science
+p65
+F0.0022747631817894415
+ssS'education'
+p66
+(dp67
+VBachelor
+p68
+F0.0022898965519344392
+sVMaster
+p69
+F0.0018273384050858715
+ssS'responsibility'
+p70
+(dp71
+S'development'
+p72
+F0.0060852311679101441
+sS'product'
+p73
+F0.0033793791224063984
+sS'data analysis'
+p74
+F0.003728045263732827
+sS'business problem'
+p75
+F0.0071561571912830265
+sS'analysis'
+p76
+F0.00086085105968374356
+sS'analytic'
+p77
+F0.0056726783223609118
+sS'optimization'
+p78
+F0.0050251478828857842
 sS'data wrangling'
-p89
-I1
+p79
+F0.02513142059438413
 sS'data aggregation'
-p90
-I1
+p80
+F0.014042553698459567
 ss.

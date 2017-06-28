@@ -2,7 +2,7 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'statistics'
 p4
 aS'finance'
 p5
@@ -16,15 +16,15 @@ aS'data science'
 p9
 aS'processing'
 p10
-aS'data scientist'
-p11
 aS'hadoop'
-p12
+p11
 aS'analysis'
-p13
+p12
 aS'hive'
-p14
+p13
 aS'etl'
+p14
+aS'data analysis'
 p15
 aS'architecture'
 p16
@@ -46,42 +46,34 @@ p24
 asS'major'
 p25
 (lp26
-S'finance'
+VData Science
 p27
-aS'science'
+aVEconomics
 p28
-aS'data science'
+aVStatistics
 p29
-aS'computer science statistics'
+aVComputer Science
 p30
-aS'design'
-p31
-aS'computer science'
-p32
-aS'statistic'
-p33
-aS'ee computer science'
-p34
 asS'education'
-p35
-(lp36
+p31
+(lp32
 VMaster
-p37
+p33
 asS'responsibility'
-p38
-(lp39
+p34
+(lp35
 S'product'
-p40
+p36
 aS'data analysis'
-p41
+p37
 aS'processing'
-p42
+p38
 aS'analysis'
-p43
+p39
 aS'design'
-p44
+p40
 aS'construct'
-p45
+p41
 aS'report'
-p46
+p42
 as.

@@ -4,116 +4,113 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
-sS'marketing'
+F0.013035669085617789
+sS'management'
 p5
-I1
-sS'collaboration'
+F0.0026965740095227743
+sS'finance'
 p6
-I1
-sS'data scientist'
+F0.0079022203993562145
+sS'marketing'
 p7
-I1
-sS'engineering'
+F0.011340562633794932
+sS'collaboration'
 p8
-I1
-sS'strategy'
+F0.0076121113692662317
+sS'economics'
 p9
-I1
-sS'analytics'
+F0.0071324161439269675
+sS'data scientist'
 p10
-I1
-sS'thought leadership'
+F0.0031528918606067804
+sS'engineering'
 p11
-I1
-sS'leadership'
+F0.0036454011222430195
+sS'strategy'
 p12
-I1
-sS'marketing strategy'
+F0.032812738150559059
+sS'analytics'
 p13
-I1
-sS'communication'
+F0.0025885043511414481
+sS'thought leadership'
 p14
-I1
-sS'customer experience'
+F0.012207377677170008
+sS'leadership'
 p15
-I1
-sS'retail'
+F0.0049178828012018507
+sS'marketing strategy'
 p16
-I1
-sS'data'
+F0.011097500074670615
+sS'communication'
 p17
-I1
-sS'project management'
+F0.028270881412693863
+sS'customer experience'
 p18
-I1
-sS'crm'
+F0.011402072623470967
+sS'retail'
 p19
-I1
-ssS'working-year'
+F0.010255837751239649
+sS'data'
 p20
-(dp21
-V(10, 15]
+F0.0017649030933701325
+sS'project management'
+p21
+F0.0056590872717992438
+sS'crm'
 p22
-I1
-ssS'major'
+F0.088095213380271375
+ssS'working-year'
 p23
 (dp24
-S'business'
+V(10, 15]
 p25
-I1
-sS'marketing'
+F0.0058256736791617823
+ssS'major'
 p26
-I1
-sS'analytics'
-p27
-I1
-sS'engineering'
+(dp27
+VData Science
 p28
-I1
-sS'design'
+F0.0030574076863245912
+sVEconomics
 p29
-I1
-sS'economics finance'
+F0.0048832486533466092
+sVEngineering
 p30
-I1
-sS'communication'
+F0.0036454011222430195
+sVBusiness
 p31
-I1
-sS'project management'
+F0.0032193879380181967
+sVManagement Science and Engineering
 p32
-I1
-sS'marketing strategy'
-p33
-I1
+F0.0038379301740145604
 ssS'education'
-p34
-(dp35
-S'Bachelor'
-p36
-I1
+p33
+(dp34
+VBachelor
+p35
+F0.0027124369871128176
 ssS'responsibility'
-p37
-(dp38
+p36
+(dp37
 S'development'
-p39
-I1
+p38
+F0.014416202409691888
 sS'recommendation'
-p40
-I1
+p39
+F0.0077744099548162828
 sS'communicate'
-p41
-I1
+p40
+F0.0059709609591714046
 sS'design'
-p42
-I1
+p41
+F0.013039453660879264
 sS'identify opportunity'
-p43
-I1
+p42
+F0.012327468871236279
 sS'report'
-p44
-I1
+p43
+F0.0061764179171798477
 sS'implement'
-p45
-I1
+p44
+F0.0063031642116654985
 ss.

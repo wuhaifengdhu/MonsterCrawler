@@ -34,15 +34,15 @@ aS'scientific computing'
 p18
 aS'research'
 p19
-aS'computer science'
+aS'optimization'
 p20
-aS'policy'
+aS'computer science'
 p21
-aS'mathematics'
+aS'policy'
 p22
-aS'numpy'
+aS'mathematics'
 p23
-aS'materials science'
+aS'numpy'
 p24
 aS'biology'
 p25
@@ -70,90 +70,74 @@ aS'data'
 p36
 aS'software development'
 p37
-aS'open source software'
+aS'search'
 p38
-aS'science'
+aS'open source software'
 p39
-aS'applied mathematics'
+aS'science'
 p40
-aS'programming'
+aS'applied mathematics'
 p41
-aS'microscopy'
+aS'programming'
 p42
-aS'simulation'
+aS'microscopy'
 p43
-aS'optimization'
+aS'simulation'
 p44
-aS'chemistry'
+aS'materials'
 p45
-asS'working-year'
+aS'organization'
 p46
-(lp47
-V[0]
+aS'chemistry'
+p47
+aS'physics'
 p48
-asS'major'
+asS'working-year'
 p49
 (lp50
-S'science'
+S'[0]'
 p51
-aS'materials science'
+asS'major'
 p52
-aS'biology'
-p53
-aS'management'
+(lp53
+VComputer Science
 p54
-aS'computing'
+aVBiological Engineering
 p55
-aS'computational science'
+aVMathematics
 p56
-aS'applied mathematics'
+aVManagement Science and Engineering
 p57
-aS'applied science technology'
+aVPhysics
 p58
-aS'scientific computing'
+aVChemical Engineering
 p59
-aS'mathematics'
-p60
-aS'computer science'
-p61
-aS'applied math'
-p62
-aS'medicine'
-p63
-aS'computer science applied math'
-p64
-aS'chemistry'
-p65
-aVphysic
-p66
-aS'history'
-p67
 asS'education'
-p68
-(lp69
+p60
+(lp61
 VDoctor
-p70
+p62
 asS'responsibility'
-p71
-(lp72
+p63
+(lp64
 S'development'
-p73
+p65
 aS'data analysis'
-p74
-aVinsight
-p75
+p66
+aS'insight'
+p67
 aS'communicate'
-p76
+p68
 aS'analysis'
-p77
+p69
 aS'simulation'
-p78
+p70
 aS'optimization'
-p79
+p71
 aS'understand'
-p80
+p72
 aS'modeling'
-p81
+p73
 aS'implement'
-p82
+p74
 as.

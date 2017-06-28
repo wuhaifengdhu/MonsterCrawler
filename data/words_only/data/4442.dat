@@ -4,253 +4,217 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.0069413388474921988
 sS'data science'
 p5
-I1
+F0.0019062455240263063
 sS'testing'
 p6
-I1
+F0.0064893122500792808
 sS'hadoop'
 p7
-I1
+F0.0020361434253558875
 sS'analytics'
 p8
-I1
+F0.0013783478002908506
 sS'engineering'
 p9
-I1
+F0.001941132768737963
 sS'problem solving'
 p10
-I1
+F0.0038900346512729814
 sS'education'
 p11
-I1
-sS'research'
+F0.0033258744054093015
+sS'hospitals'
 p12
-I1
-sS'scientific computing'
+F0.0094801549047859156
+sS'research'
 p13
-I1
-sS'continuous improvement'
+F0.0054083064447653772
+sS'scientific computing'
 p14
-I1
-sS'access'
+F0.0051158768061017714
+sS'continuous improvement'
 p15
-I1
-sS'teamwork'
+F0.0063549478004661522
+sS'access'
 p16
-I1
-sS'computer science'
+F0.0073517021397668933
+sS'teamwork'
 p17
-I1
-sS'innovation'
+F0.0090789545112583171
+sS'computer science'
 p18
-I1
-sS'medicine'
+F0.0022281826674916336
+sS'innovation'
 p19
-I1
-sS'mathematics'
+F0.018407207658967261
+sS'medicine'
 p20
-I1
-sS'data management'
+F0.023158956441117318
+sS'mathematics'
 p21
-I1
-sS'distributed computing'
+F0.0028968197814196609
+sS'data management'
 p22
-I1
-sS'python'
+F0.0043580318615043913
+sS'distributed computing'
 p23
-I1
-sS'theano'
+F0.0056694080229149173
+sS'python'
 p24
-I1
-sS'processing'
+F0.00082607212797664975
+sS'collaboration'
 p25
-I1
-sS'data scientist'
+F0.0081067176547494589
+sS'processing'
 p26
-I1
-sS'training'
+F0.0025880952245177814
+sS'data scientist'
 p27
-I1
-sS'automation'
+F0.001678877440830235
+sS'training'
 p28
-I1
-sS'medical imaging'
+F0.0037294687020956092
+sS'theano'
 p29
-I1
-sS'product design'
+F0.0077587843588314276
+sS'automation'
 p30
-I1
-sS'teaching'
+F0.0052853380752199836
+sS'medical imaging'
 p31
-I1
-sS'translation'
+F0.0081627313748099846
+sS'product design'
 p32
-I1
-sS'data'
+F0.0072979290878744515
+sS'teaching'
 p33
-I1
-sS'tensorflow'
+F0.0091207952849431534
+sS'translation'
 p34
-I1
-sS'information technology'
+F0.016127301155065589
+sS'data'
 p35
-I1
-sS'c'
-I1
-sS'science'
+F0.0015036638716256472
+sS'tensorflow'
 p36
-I1
-sS'programming'
+F0.0068383214322130497
+sS'information technology'
 p37
-I1
-sS'analysis'
+F0.0049392219837745572
+sS'c'
+F0.0019819681836736884
+sS'science'
 p38
-I1
-sS'machine learning'
+F0.0022283166028338906
+sS'programming'
 p39
-I1
-sS'managed care'
+F0.0017469338111487734
+sS'analysis'
 p40
-I1
-sS'artificial intelligence'
+F0.0005429773720350712
+sS'machine learning'
 p41
-I1
-sS'sql'
+F0.0010388553436355616
+sS'managed care'
 p42
-I1
-sS'healthcare'
+F0.0099557554406398997
+sS'algorithms'
 p43
-I1
-sS'spark'
+F0.0028433782541446182
+sS'artificial intelligence'
 p44
-I1
-sS'organization'
+F0.004386080126901371
+sS'sql'
 p45
-I1
-sS'scripting'
+F0.0010807351170095834
+sS'healthcare'
 p46
-I1
-ssS'working-year'
+F0.034196391040382433
+sS'spark'
 p47
-(dp48
-V[0]
+F0.002672164220785513
+sS'organization'
+p48
+F0.013971345794625049
+sS'scripting'
 p49
-I1
-ssS'major'
+F0.0038559181892974062
+ssS'working-year'
 p50
 (dp51
-S'data science'
+S'[0]'
 p52
-I1
-sS'general'
+F0.0034805304762985465
+ssS'major'
 p53
-I1
-sS'analytics'
-p54
-I1
-sS'engineering'
+(dp54
+VBusiness
 p55
-I1
-sS'design'
+F0.0017142858116863933
+sVData Science
 p56
-I1
-sS'machine learning artificial intelligence'
+F0.0016280332529398775
+sVEngineering
 p57
-I1
-sS'information'
+F0.001941132768737963
+sVInformation Science
 p58
-I1
-sS'scientific computing'
+F0.004013716622114253
+sVComputer Science
 p59
-I1
-sVphysic
+F0.0014347951606215495
+sVMathematics
 p60
-I1
-sS'medicine'
+F0.0027167551974365324
+sVManagement Science and Engineering
 p61
-I1
-sS'mathematics'
-p62
-I1
-sS'artificial intelligence'
-p63
-I1
-sS'computer science'
-p64
-I1
-sS'business'
-p65
-I1
-sS'automation'
-p66
-I1
-sS'medical imaging'
-p67
-I1
-sS'data management analysis'
-p68
-I1
-sS'law'
-p69
-I1
-sS'information technology'
-p70
-I1
-sS"brigham women's hospital"
-p71
-I1
-sS'science'
-p72
-I1
-sS'machine learning'
-p73
-I1
+F0.002043652200426137
 ssS'education'
-p74
-(dp75
+p62
+(dp63
 VMaster
-p76
-I1
+p64
+F0.0011525842872015483
 sVDoctor
-p77
-I1
+p65
+F0.0017261200820546244
 ssS'responsibility'
-p78
-(dp79
+p66
+(dp67
 S'development'
-p80
-I1
+p68
+F0.0095955705421087063
 sS'information'
-p81
-I1
+p69
+F0.0021982649754824003
 sS'product'
-p82
-I1
+p70
+F0.0063945779273426942
 sS'processing'
-p83
-I1
+p71
+F0.0025880952245177814
 sS'communicate'
-p84
-I1
+p72
+F0.0031794657405413507
 sS'analysis'
-p85
-I1
+p73
+F0.0005429773720350712
 sS'improvement'
-p86
-I1
+p74
+F0.0042570625932473981
 sS'design'
-p87
-I1
+p75
+F0.0023144513629452896
 sS'identify opportunity'
-p88
-I1
+p76
+F0.0065642306509277179
 sS'interface'
-p89
-I1
+p77
+F0.010008105225198348
 sS'model'
-p90
-I1
+p78
+F0.0024523151218726479
 ss.

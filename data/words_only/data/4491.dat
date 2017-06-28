@@ -4,254 +4,223 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.0059917712896957282
 sS'data science'
 p5
-I1
+F0.0016454732225179196
 sS'testing'
 p6
-I1
+F0.0056015814361149467
 sS'hadoop'
 p7
-I1
+F0.0017576012331047398
 sS'analytics'
 p8
-I1
+F0.0011897913296628271
 sS'engineering'
 p9
-I1
+F0.0016755879303333168
 sS'problem solving'
 p10
-I1
+F0.0033578821681987019
 sS'education'
 p11
-I1
-sS'research'
+F0.0028708984265571396
+sS'hospitals'
 p12
-I1
-sS'recruiting'
+F0.0081832800888097298
+sS'research'
 p13
-I1
-sS'scientific computing'
+F0.004668456041924696
+sS'recruiting'
 p14
-I1
-sS'continuous improvement'
+F0.004718055062404092
+sS'scientific computing'
 p15
-I1
-sS'access'
+F0.0044160304577978348
+sS'continuous improvement'
 p16
-I1
-sS'teamwork'
+F0.0054855978961616163
+sS'access'
 p17
-I1
-sS'computer science'
+F0.0063459973326852387
+sS'teamwork'
 p18
-I1
-sS'innovation'
+F0.0078369634700465093
+sS'computer science'
 p19
-I1
-sS'medicine'
+F0.0019233697170823812
+sS'innovation'
 p20
-I1
-sS'mathematics'
+F0.018537308761892017
+sS'medicine'
 p21
-I1
-sS'military'
-p22
-I1
-sS'data management'
-p23
-I1
-sS'distributed computing'
-p24
-I1
-sS'python'
-p25
-I1
-sS'processing'
-p26
-I1
-sS'data scientist'
-p27
-I1
-sS'automation'
-p28
-I1
-sS'medical imaging'
-p29
-I1
-sS'product design'
-p30
-I1
+F0.019990836544931636
 sS'teaching'
-p31
-I1
-sS'translation'
-p32
-I1
-sS'data'
-p33
-I1
-sS'tensorflow'
-p34
-I1
-sS'information technology'
-p35
-I1
+p22
+F0.0078730804716814345
+sS'military'
+p23
+F0.0051062360766509019
+sS'data management'
+p24
+F0.0037618578722425043
+sS'distributed computing'
+p25
+F0.0048938392099306602
+sS'python'
+p26
+F0.00071306636491554856
+sS'collaboration'
+p27
+F0.0069977275515005584
+sS'processing'
+p28
+F0.0022340466301925036
+sS'data scientist'
+p29
+F0.0014492088442734313
 sS'training'
+p30
+F0.0032192814651468252
+sS'automation'
+p31
+F0.0045623096107576047
+sS'medical imaging'
+p32
+F0.007046078655957729
+sS'product design'
+p33
+F0.0062995803754429258
+sS'mathematics'
+p34
+F0.0025005380055756576
+sS'translation'
+p35
+F0.013921104006629803
+sS'data'
 p36
-I1
-sS'organization'
+F0.0016224553744797936
+sS'tensorflow'
 p37
-I1
-sS'science'
+F0.0059028465440854093
+sS'information technology'
 p38
-I1
-sS'programming'
+F0.0042635418218354929
+sS'c'
+F0.0017108371051957555
+sS'organization'
 p39
-I1
-sS'analysis'
+F0.01447209717604663
+sS'science'
 p40
-I1
-sS'machine learning'
+F0.0028852279953245925
+sS'programming'
 p41
-I1
-sS'managed care'
+F0.0015079551776126894
+sS'analysis'
 p42
-I1
-sS'artificial intelligence'
+F0.00046869866177035561
+sS'machine learning'
 p43
-I1
-sS'sql'
+F0.00089674106954040951
+sS'managed care'
 p44
-I1
-sS'healthcare'
+F0.0085938189918519509
+sS'algorithms'
 p45
-I1
-sS'spark'
+F0.0024544072207459012
+sS'artificial intelligence'
 p46
-I1
-sS'theano'
+F0.0037860691656289537
+sS'sql'
 p47
-I1
-sS'scripting'
+F0.00093289173574972236
+sS'healthcare'
 p48
-I1
-ssS'working-year'
+F0.036897952712861344
+sS'spark'
 p49
-(dp50
-V[0]
+F0.0023066150797751827
+sS'theano'
+p50
+F0.0066973911496889613
+sS'scripting'
 p51
-I1
-ssS'major'
+F0.0033284328008846282
+ssS'working-year'
 p52
 (dp53
-S'information'
+S'[0]'
 p54
-I1
-sS'law'
+F0.0030043977162029856
+ssS'major'
 p55
-I1
-sS'business'
-p56
-I1
-sS'information technology'
+(dp56
+VBusiness
 p57
-I1
-sS'science'
+F0.0014797733887470781
+sVData Science
 p58
-I1
-sS'data science'
+F0.0014053200856430405
+sVEngineering
 p59
-I1
-sS'scientific computing'
+F0.0016755879303333168
+sVInformation Science
 p60
-I1
-sS'general'
+F0.0034646445807853541
+sVComputer Science
 p61
-I1
-sS'medical imaging'
+F0.0012385167528757835
+sVMathematics
 p62
-I1
-sS'analytics'
+F0.0023451060596203174
+sVManagement Science and Engineering
 p63
-I1
-sS'engineering'
-p64
-I1
-sS'machine learning'
-p65
-I1
-sS'design'
-p66
-I1
-sS'computer science'
-p67
-I1
-sS'machine learning artificial intelligence'
-p68
-I1
-sS'medicine'
-p69
-I1
-sS'mathematics'
-p70
-I1
-sS'automation'
-p71
-I1
-sVphysic
-p72
-I1
-sS'artificial intelligence'
-p73
-I1
-sS'data management analysis'
-p74
-I1
+F0.001764082815962917
 ssS'education'
-p75
-(dp76
+p64
+(dp65
 VMaster
-p77
-I1
+p66
+F0.00099491201809052921
 sVDoctor
-p78
-I1
+p67
+F0.0014899887438802571
 ssS'responsibility'
-p79
-(dp80
+p68
+(dp69
 S'development'
-p81
-I1
+p70
+F0.0082829069932566259
 sS'information'
-p82
-I1
+p71
+F0.001897544732598351
 sS'product'
-p83
-I1
+p72
+F0.0055198066650523113
 sS'processing'
-p84
-I1
+p73
+F0.0022340466301925036
 sS'communicate'
-p85
-I1
+p74
+F0.0027445183068147633
 sS'analysis'
-p86
-I1
+p75
+F0.00046869866177035561
 sS'improvement'
-p87
-I1
+p76
+F0.0036747010893831847
 sS'design'
-p88
-I1
+p77
+F0.0019978369494096822
 sS'identify opportunity'
-p89
-I1
+p78
+F0.0056662510817173592
 sS'interface'
-p90
-I1
+p79
+F0.0086390073831739498
 sS'model'
-p91
-I1
+p80
+F0.0021168410969926686
 ss.

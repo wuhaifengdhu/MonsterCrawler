@@ -1,5 +1,5 @@
-skills: {'management': 1, 'finance': 1, 'research': 1, 'talent management': 1, 'leadership': 1, 'advanced analytics': 1, 'data': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'information': 1, 'economics statistics': 1, 'finance': 1, 'business': 1, 'management': 1, 'statistic': 1, 'advanced analytics': 1, 'business economics': 1}
-education: {u'Bachelor': 1}
-responsibility: {'analytic': 1, 'model': 1, 'analytical method': 1, 'information': 1}
+skills: {'statistics': 0.006757339527555106, 'finance': 0.019240188798432527, 'economics': 0.017365882785213487, 'research': 0.006182321316389408, 'analytics': 0.006302445376692222, 'talent management': 0.041677208265464685, 'leadership': 0.035921926547909176, 'advanced analytics': 0.02132471416187017, 'management': 0.006565571501446755, 'data': 0.0017188621431083032}
+working-year: {u'(5, 10]': 0.008736552620122165, u'(2, 5]': 0.008977858177037213}
+major: {u'Data Science': 0.0074441230623555265, u'Economics': 0.01188964889510479, u'Statistics': 0.013054382390493335, u'Business': 0.007838509762131263, u'Management Science and Engineering': 0.00934452564107893}
+education: {u'Bachelor': 0.006604194403405122}
+responsibility: {'analytic': 0.032720666265212216, 'model': 0.011213122042765512, 'analytical method': 0.038882563445093665, 'information': 0.010051486953111555}

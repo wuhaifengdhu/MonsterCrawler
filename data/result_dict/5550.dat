@@ -42,6 +42,7 @@ aS'facebook'
 p22
 aS'data'
 p23
+aS'a'
 aS'search'
 p24
 aS'b testing'
@@ -68,38 +69,34 @@ p35
 asS'major'
 p36
 (lp37
-S'business'
+VBusiness
 p38
-aS'marketing'
+aVData Science
 p39
-aS'analytics'
+aVEconomics
 p40
-aS'engineering'
+aVEngineering
 p41
-aS'computer science engineering'
+aVComputer Science
 p42
-aS'computer science'
+aVGeography
 p43
-aS'science'
-p44
-aS'geography'
-p45
 asS'education'
-p46
-(lp47
+p44
+(lp45
 VBachelor
-p48
+p46
 aVMaster
-p49
+p47
 asS'responsibility'
-p50
-(lp51
+p48
+(lp49
 S'development'
-p52
+p50
 aS'cross-functionally'
-p53
+p51
 aS'product'
-p54
+p52
 aS'optimization'
-p55
+p53
 as.

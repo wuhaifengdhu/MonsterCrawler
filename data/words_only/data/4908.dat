@@ -4,136 +4,130 @@ p2
 (dp3
 S'negotiation'
 p4
-I1
+F0.025028484644386156
 sS'nosql'
 p5
-I1
+F0.01563912493866584
 sS'data science'
 p6
-I1
+F0.0068733767180605672
 sS'hadoop'
 p7
-I1
+F0.0073417514365689421
 sS'engineering'
 p8
-I1
-sS'qlikview'
+F0.013998340309413196
+sS'sas'
 p9
-I1
-sS'visualization'
+F0.01583127836202762
+sS'd3'
 p10
-I1
-sS'tableau'
+F0.017258247383915966
+sS'qlikview'
 p11
-I1
-sS'd3.js'
+F0.023033175857725883
+sS'visualization'
 p12
-I1
-sS'computer science'
+F0.01071025869676554
+sS'tableau'
 p13
-I1
-sS'mathematics'
+F0.01148014906927881
+sS'd3.js'
 p14
-I1
-sS'data modeling'
+F0.019792644965943976
+sS'computer science'
 p15
-I1
-sS'python'
+F0.0080341900753555465
+sS'mathematics'
 p16
-I1
-sS'collaboration'
+F0.010445104469004604
+sS'data modeling'
 p17
-I1
-sS'spotfire'
+F0.014926867113247264
+sS'python'
 p18
-I1
-sS'business process'
+F0.0059571601457516108
+sS'collaboration'
 p19
-I1
-sS'modeling'
+F0.014615253828991166
+sS'spotfire'
 p20
-I1
-sS'data'
+F0.024538394929716944
+sS'business process'
 p21
-I1
-sS'applied mathematics'
+F0.017458759597255749
+sS'modeling'
 p22
-I1
-sS'spss'
+F0.013922497526083757
+sS'data'
 p23
-I1
-sS'data architecture'
+F0.0033886139392706547
+sS'science'
 p24
-I1
-sS'r'
-I1
-sS'architecture'
+F0.0040173365039662427
+sS'applied mathematics'
 p25
-I1
-ssS'working-year'
+F0.01726920425624975
+sS'spss'
 p26
-(dp27
-V(2, 5]
+F0.025215415209800744
+sS'data architecture'
+p27
+F0.023185563170373159
+sS'r'
+F0.0063427692184450423
+sS'architecture'
 p28
-I1
-ssS'major'
+F0.037491677531737003
+ssS'working-year'
 p29
 (dp30
-S'design'
+V(2, 5]
 p31
-I1
-sS'business'
+F0.007079682448177917
+ssS'major'
 p32
-I1
-sS'applied mathematics'
-p33
-I1
-sS'engineering'
+(dp33
+VMathematics
 p34
-I1
-sS'computer science engineering'
+F0.0097958430261854395
+sVData Science
 p35
-I1
-sS'computer science'
+F0.005870222757743215
+sVEngineering
 p36
-I1
-sS'applied math'
+F0.0128707367243813
+sVBusiness
 p37
-I1
-sS'mathematics'
+F0.0061812248409949385
+sVComputer Science
 p38
-I1
-sS'ee computer science'
-p39
-I1
-sS'data science'
-p40
-I1
+F0.0051734614077268443
 ssS'education'
-p41
-(dp42
+p39
+(dp40
 VBachelor
-p43
-I1
+p41
+F0.0052078790152566097
 sVMaster
-p44
-I1
+p42
+F0.0041558896298524396
 ssS'responsibility'
-p45
-(dp46
+p43
+(dp44
 S'development'
-p47
-I1
+p45
+F0.0069197771566521064
 sS'modeling'
-p48
-I1
+p46
+F0.013922497526083757
 sS'model'
-p49
-I1
+p47
+F0.0088423476680093756
 sS'prototype'
-p50
-I1
+p48
+F0.018018122363141074
 sS'design'
-p51
-I1
+p49
+F0.0083452503429627296
 ss.

@@ -4,223 +4,240 @@ p2
 (dp3
 S'probability'
 p4
-I1
+F0.0096265998292085139
 sS'text analytics'
 p5
-I1
+F0.011806297538358351
 sS'communication'
 p6
-I1
+F0.0043733960196432496
 sS'hadoop'
 p7
-I1
+F0.0070983784607710765
 sS'analytics'
 p8
-I1
+F0.0048051793479752854
 sS'business intelligence'
 p9
-I1
+F0.0056437660463381795
 sS'data warehousing'
 p10
-I1
+F0.0084019068002328546
 sS'analysis'
 p11
-I1
+F0.0018929211146637012
 sS'data mining'
 p12
-I1
+F0.0058618213499506558
 sS'go'
 p13
-I1
+F0.0090577712569823964
 sS'modeling'
 p14
-I1
+F0.0022434963785125757
 sS'education'
 p15
-I1
+F0.0057973114635725661
 sS'quantitative analysis'
 p16
-I1
-sS'research'
-p17
-I1
+F0.021071836143759282
 sS'clustering'
+p17
+F0.0089044545871718502
+sS'statistics'
 p18
-I1
-sS'manufacturing'
+F0.0025760023613331617
+sS'networking'
 p19
-I1
-sS'java'
-p20
-I1
+F0.010034231057018748
 sS'shell scripting'
+p20
+F0.0093087390808942235
+sS'big data'
 p21
-I1
+F0.0035158152661952141
 sS'time series analysis'
 p22
-I1
+F0.0079492014154684109
 sS'tableau'
 p23
-I1
-sS'perl'
+F0.0055497958207839544
+sS'research'
 p24
-I1
-sS'computer science'
+F0.004713593047854907
+sS'sas'
 p25
-I1
-sS'intelligence'
-p26
-I1
-sS'algorithm development'
-p27
-I1
-sS'unstructured data'
-p28
-I1
-sS'operations research'
-p29
-I1
-sS'structural equation modeling'
-p30
-I1
-sS'distributed computing'
-p31
-I1
-sS'python'
-p32
-I1
-sS'data scientist'
-p33
-I1
-sS'scripting'
-p34
-I1
-sS'sql'
-p35
-I1
-sS'multivariate analysis'
-p36
-I1
-sS'php'
-p37
-I1
-sS'data'
-p38
-I1
-sS'data visualization'
-p39
-I1
-sS'programming'
-p40
-I1
-sS'unix'
-p41
-I1
-sS'hive'
-p42
-I1
-sS'simulation'
-p43
-I1
-sS'r'
-I1
-sS'microsoft azure'
-p44
-I1
-sS'logistic regression'
-p45
-I1
-sS'etl'
-p46
-I1
-sS'predictive analytics'
-p47
-I1
-ssS'working-year'
-p48
-(dp49
-V(5, 10]
-p50
-I1
-ssS'major'
-p51
-(dp52
-S'business'
-p53
-I1
-sS'computing'
-p54
-I1
-sS'communication'
-p55
-I1
-sS'data mining'
-p56
-I1
-sS'analytics'
-p57
-I1
-sS'operations research'
-p58
-I1
+F0.0038266211510425874
 sS'computer science'
-p59
-I1
-sS'statistic'
-p60
-I1
-sVphysic
-p61
-I1
+p26
+F0.0038839316662630402
+sS'intelligence'
+p27
+F0.0043371784803502185
+sS'algorithm development'
+p28
+F0.011626858418098495
+sS'multivariate analysis'
+p29
+F0.012521797536859126
+sS'unstructured data'
+p30
+F0.008808863075837458
+sS'operations research'
+p31
+F0.0079583936893699164
+sS'structural equation modeling'
+p32
+F0.01673739944504327
+sS'distributed computing'
+p33
+F0.0098823106697771054
+sS'python'
+p34
+F0.0014399213059482485
+sS'data scientist'
+p35
+F0.002926441063988614
+sS'perl'
+p36
+F0.0079172672494181445
+sS'machine learning'
+p37
+F0.0018108224360056334
+sS'scripting'
+p38
+F0.0067212275620073571
+sS'sql'
+p39
+F0.0018838228144559311
+sS'java'
+p40
+F0.0034233894134482966
+sS'php'
+p41
+F0.0089634387949756363
+sS'data'
+p42
+F0.0049144262931411428
+sS'a'
+F0.0051658615845691343
+sS'data visualization'
+p43
+F0.0054329658165182338
+sS'manufacturing'
+p44
+F0.020622423049899499
+sS'science'
+p45
+F0.0019420825640720785
+sS'programming'
+p46
+F0.0060901394189772145
+sS'unix'
+p47
+F0.0071328419579697504
+sS'hive'
+p48
+F0.0057617520704143829
+sS'simulation'
+p49
+F0.0074166734466142858
+sS'r'
+F0.0015331279188230418
+sS'algorithms'
+p50
+F0.0049562753546001492
+sS'microsoft azure'
+p51
+F0.01466167162354654
+sS'logistic regression'
+p52
+F0.0090440963447832694
+sS'physics'
+p53
+F0.0067212275620073571
+sS'etl'
+p54
+F0.0078722781050143166
 sS'predictive analytics'
+p55
+F0.0063604921915159955
+ssS'working-year'
+p56
+(dp57
+V(5, 10]
+p58
+F0.0033305090098808251
+ssS'major'
+p59
+(dp60
+VStatistics
+p61
+F0.0049765325135029837
+sVBusiness
 p62
-I1
-ssS'education'
+F0.0029881611800389894
+sVData Science
 p63
-(dp64
-VMaster
+F0.0028378148690747585
+sVComputer Science
+p64
+F0.0025009827247298279
+sVPhysics
 p65
-I1
-sVDoctor
+F0.0072478787325969346
+sVOperations Research
 p66
-I1
-ssS'responsibility'
+F0.0088915162933346798
+ssS'education'
 p67
 (dp68
-S'large data set'
+VMaster
 p69
-I1
-sS'business problem'
+F0.0020090626663651296
+sVDoctor
 p70
-I1
-sS'tactical initiative'
+F0.003008789424796873
+ssS'responsibility'
 p71
-I1
-sVinsight
-p72
-I1
-sS'communicate'
+(dp72
+S'development'
 p73
-I1
-sS'analysis'
+F0.0033451961392655209
+sS'large data set'
 p74
-I1
-sS'simulation'
+F0.0086863456777150991
+sS'business problem'
 p75
-I1
-sS'key decision'
+F0.007867819232405095
+sS'tactical initiative'
 p76
-I1
-sS'data mining'
+F0.025629315415929856
+sS'insight'
 p77
-I1
-sS'modeling'
+F0.0050687661768217818
+sS'communicate'
 p78
-I1
-sS'implement'
+F0.0055421074096176576
+sS'analysis'
 p79
-I1
-sS'quantitative analysis'
+F0.0018929211146637012
+sS'simulation'
 p80
-I1
+F0.0074166734466142858
+sS'key decision'
+p81
+F0.01614317066392195
+sS'data mining'
+p82
+F0.0058618213499506558
+sS'modeling'
+p83
+F0.0022434963785125757
+sS'implement'
+p84
+F0.011700901519997831
+sS'quantitative analysis'
+p85
+F0.021071836143759282
 ss.

@@ -18,99 +18,81 @@ aS'management'
 p10
 aS'critical thinking'
 p11
-aS'predictive modeling'
+aS'ssas'
 p12
-aS'research'
+aS'predictive modeling'
 p13
-aS'ssis'
+aS'research'
 p14
-aS'mathematics'
+aS'ssis'
 p15
-aS'algorithm development'
+aS'mathematics'
 p16
-aS'python'
+aS'algorithm development'
 p17
-aS'aws'
+aS'python'
 p18
-aS'data scientist'
+aS'aws'
 p19
-aS'automation'
+aS'data scientist'
 p20
-aS'statistical modeling'
+aS'automation'
 p21
-aS'sql'
+aS'statistical modeling'
 p22
-aS'modeling'
+aS'sql'
 p23
-aS'data'
+aS'modeling'
 p24
-aS'sql server'
+aS'data'
 p25
-aS'science'
+aS'sql server'
 p26
-aS'programming'
+aS'science'
 p27
-aS'machine learning'
+aS'programming'
 p28
+aS'machine learning'
+p29
 aS'r'
 aS'microsoft azure'
-p29
-asS'working-year'
 p30
-(lp31
-V(5, 10]
-p32
-aV(2, 5]
+asS'working-year'
+p31
+(lp32
+sS'major'
 p33
-aV(10, 15]
-p34
-asS'major'
+(lp34
+VMathematics
 p35
-(lp36
-S'information'
+aVData Science
+p36
+aVComputer Science
 p37
-aS'management'
+aVBusiness
 p38
-aS'business'
+aVManagement Science and Engineering
 p39
-aS'science'
-p40
-aS'data science'
-p41
-aS'automation'
-p42
-aS'design'
-p43
-aS'statistic'
-p44
-aS'mathematics'
-p45
-aS'machine learning'
-p46
 asS'education'
-p47
-(lp48
+p40
+(lp41
 VBachelor
-p49
+p42
 asS'responsibility'
-p50
-(lp51
+p43
+(lp44
 S'development'
-p52
+p45
 aS'information'
-p53
+p46
 aS'product'
-p54
-aVinsight
-p55
-aS'statistical model'
-p56
+p47
+aS'insight'
+p48
 aS'design'
-p57
+p49
 aS'modeling'
-p58
-aS'implement'
-p59
+p50
 aS'model'
-p60
+p51
 as.

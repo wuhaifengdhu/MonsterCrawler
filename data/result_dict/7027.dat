@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'data analysis'
+S'a'
+aS'data analysis'
 p4
 aS'big data'
 p5
@@ -24,10 +25,10 @@ aS'mahout'
 p13
 aS'strategy'
 p14
-aS'product design'
-p15
 aS'r'
 aS'apache'
+p15
+aS'organization'
 p16
 aS'security'
 p17
@@ -40,41 +41,35 @@ p20
 asS'working-year'
 p21
 (lp22
-V[0]
+S'[0]'
 p23
 asS'major'
 p24
 (lp25
-S'electronics'
+VComputer Science
 p26
-aS'automation'
+aVBusiness
 p27
-aS'business'
-p28
-aS'big data'
-p29
-aS'machine learning'
-p30
 asS'education'
+p28
+(lp29
+S'Bachelor'
+p30
+asS'responsibility'
 p31
 (lp32
-S'Bachelor'
-p33
-asS'responsibility'
-p34
-(lp35
 S'product'
-p36
+p33
 aS'data analysis'
-p37
+p34
 aS'formulate'
-p38
+p35
 aS'business problem'
-p39
+p36
 aS'pattern'
-p40
-aVinsight
-p41
+p37
+aS'insight'
+p38
 aS'analysis'
-p42
+p39
 as.

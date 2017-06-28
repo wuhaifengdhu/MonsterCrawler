@@ -4,167 +4,152 @@ p2
 (dp3
 S'cognos'
 p4
-I1
+F0.013125424855620823
 sS'sql server reporting services ssrs'
 p5
-I1
+F0.018454391258761915
 sS'communication'
 p6
-I1
+F0.0088942098826452608
 sS'testing'
 p7
-I1
+F0.0057510618396067774
 sS'hardware'
 p8
-I1
+F0.010430663136388945
 sS'analytics'
 p9
-I1
-sS'ssrs'
+F0.0073292482751420784
+sS'engineering'
 p10
-I1
-sS'data mining'
+F0.0034406033063866704
+sS'ssrs'
 p11
-I1
-sS'microsoft sql server'
+F0.01335964075770631
+sS'data mining'
 p12
-I1
-sS'management'
+F0.0059606160918037566
+sS'sas'
 p13
-I1
-sS'data'
+F0.0077822295318955995
+sS'microsoft sql server'
 p14
-I1
-sS'integration'
+F0.0088205851437810085
+sS'management'
 p15
-I1
-sS'ssis'
+F0.0025450810876394723
+sS'data'
 p16
-I1
-sS'computer science'
+F0.0033315024683840708
+sS'ssas'
 p17
-I1
-sS'microstrategy'
+F0.015629898463122467
+sS'integration'
 p18
-I1
-sS'data management'
+F0.0064782110174005968
+sS'ssis'
 p19
-I1
-sS'analysis services'
+F0.013153655873539234
+sS'computer science'
 p20
-I1
-sS'visual analytics'
+F0.0039493911887281477
+sS'microstrategy'
 p21
-I1
-sS'government'
+F0.012832281633416308
+sS'data management'
 p22
-I1
-sS'informatica'
+F0.0077244890578912094
+sS'analysis services'
 p23
-I1
-sS'data scientist'
+F0.01650735255530221
+sS'visual analytics'
 p24
-I1
-sS'oracle'
+F0.015995214926248311
+sS'government'
 p25
-I1
-sS'valuation'
+F0.0073233694259240596
+sS'informatica'
 p26
-I1
-sS'data visualization'
+F0.013421378734587023
+sS'data scientist'
 p27
-I1
-sS'sql server'
+F0.0029757631043929164
+sS'oracle'
 p28
-I1
-sS'analysis'
+F0.0073736558948351736
+sS'valuation'
 p29
-I1
-sS'real estate'
+F0.012410145339846858
+sS'data visualization'
 p30
-I1
-sS'crystal reports'
+F0.0055245326561224745
+sS'sql server'
 p31
-I1
-sS'organization'
+F0.0078590687339287132
+sS'science'
 p32
-I1
-sS'data analytics'
+F0.0059244428780401044
+sS'analysis'
 p33
-I1
-ssS'working-year'
+F0.00096241213975879194
+sS'real estate'
 p34
-(dp35
-V(5, 10]
+F0.015306671321522445
+sS'crystal reports'
+p35
+F0.015629898463122467
+sS'organization'
 p36
-I1
-sV(2, 5]
+F0.009905527186975736
+sS'data analytics'
 p37
-I1
-ssS'major'
+F0.0057368614648477447
+ssS'working-year'
 p38
 (dp39
-S'information'
+V(5, 10]
 p40
-I1
-sS'management'
+F0.0033866411842046595
+sV(2, 5]
 p41
-I1
-sS'master science'
+F0.0034801809787391447
+ssS'major'
 p42
-I1
-sS'communication'
-p43
-I1
-sS'general'
+(dp43
+VData Science
 p44
-I1
-sS'analytics'
+F0.0028856432095647824
+sVManagement Science and Engineering
 p45
-I1
-sS'computer science engineering'
+F0.0036223161192946414
+sVEngineering
 p46
-I1
-sS'computer science'
+F0.0034406033063866704
+sVComputer Science
 p47
-I1
-sS'data mining'
-p48
-I1
-sS'ee computer science'
-p49
-I1
-sS'data analytics'
-p50
-I1
+F0.0025431341189668475
 ssS'education'
-p51
-(dp52
+p48
+(dp49
 VBachelor
-p53
-I1
+p50
+F0.0025600528867132212
 sVMaster
-p54
-I1
+p51
+F0.0020429232731016202
 ssS'responsibility'
-p55
-(dp56
+p52
+(dp53
 S'information'
-p57
-I1
-sS'analysis'
-p58
-I1
-sS'statistical model'
-p59
-I1
+p54
+F0.0077927258400527786
 sS'data mining'
-p60
-I1
-sS'report'
-p61
-I1
-sS'model'
-p62
-I1
+p55
+F0.0059606160918037566
+sS'analysis'
+p56
+F0.00096241213975879194
+sS'statistical model'
+p57
+F0.010086697487693527
 ss.

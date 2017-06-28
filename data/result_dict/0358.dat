@@ -26,58 +26,61 @@ aS'data engineering'
 p14
 aS'engineering'
 p15
+aS'r'
 aS'problem solving'
 p16
 aS'sql'
 p17
 aS'policy'
 p18
-aS'education'
+aS'modeling'
 p19
-aS'data'
+aS'education'
 p20
-asS'working-year'
+aS'data'
 p21
-(lp22
-V[0]
+aS'options'
+p22
+asS'working-year'
 p23
+(lp24
+S'[0]'
+p25
 asS'major'
-p24
-(lp25
-S'information'
 p26
-aS'business'
-p27
-aS'science'
+(lp27
+VData Science
 p28
-aS'data science'
+aVEngineering
 p29
-aS'engineering'
+aVBusiness
 p30
-aS'design'
-p31
 asS'education'
-p32
-(lp33
-S'Bachelor'
-p34
+p31
+(lp32
+VBachelor
+p33
 asS'responsibility'
-p35
-(lp36
+p34
+(lp35
 S'development'
-p37
+p36
 aS'information'
-p38
+p37
 aS'data analysis'
-p39
+p38
 aVtest hypothesis
-p40
+p39
 aS'analysis'
-p41
+p40
 aS'design'
+p41
+aS'modeling'
 p42
-aS'design experiment'
-p43
 aS'model'
+p43
+aS'design ... experiment'
 p44
+aS'decision making'
+p45
 as.

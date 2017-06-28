@@ -4,17 +4,17 @@ p2
 (lp3
 S'digital marketing'
 p4
-aS'r d'
-p5
 aS'cluster'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'hive'
-p8
+p7
 aS'personalization'
-p9
+p8
 aS'linguistics'
+p9
+aS'statistics'
 p10
 aS'java'
 p11
@@ -42,107 +42,90 @@ aS'python'
 p22
 aS'marketing'
 p23
-aS'data scientist'
-p24
 aS'apache spark'
-p25
+p24
 aS'mobile marketing'
-p26
+p25
 aS'sql'
-p27
+p26
 aS'apache'
-p28
+p27
 aS'modeling'
-p29
+p28
 aS'spark'
-p30
+p29
 aS'data'
-p31
+p30
+aS'a'
 aS'organization'
-p32
+p31
 aS'science'
-p33
+p32
 aS'economics'
-p34
+p33
 aS'programming'
-p35
+p34
 aS'analysis'
-p36
+p35
 aS'machine learning'
-p37
+p36
 aS'r'
 aS'advertising'
-p38
+p37
 aS'electrical engineering'
+p38
+aS'physics'
 p39
-asS'working-year'
+aS'crm'
 p40
-(lp41
-V(2, 5]
-p42
-asS'major'
+asS'working-year'
+p41
+(lp42
+sS'major'
 p43
 (lp44
-S'linguistics'
+VLinguistics
 p45
-aS'business'
+aVStatistics
 p46
-aS'mathematics economics'
+aVBusiness
 p47
-aS'marketing'
+aVEconomics
 p48
-aS'decision sciences'
+aVElectrical and Electronics Engineering
 p49
-aS'economics'
+aVEngineering
 p50
-aS'computer science statistics'
+aVComputer Science
 p51
-aS'computing'
+aVMathematics
 p52
-aS'machine learning'
+aVPhysics
 p53
-aS'mathematics'
-p54
-aS'engineering'
-p55
-aS'design'
-p56
-aS'computer science'
-p57
-aS'statistic'
-p58
-aS'electrical engineering'
-p59
-aS'electrical'
-p60
-aVphysic
-p61
-aS'science'
-p62
 asS'education'
-p63
-(lp64
+p54
+(lp55
 VMaster
-p65
+p56
 aVDoctor
-p66
+p57
 asS'responsibility'
-p67
-(lp68
+p58
+(lp59
 S'large data set'
-p69
+p60
 aS'business problem'
-p70
+p61
 aS'analysis'
-p71
+p62
 aS'optimization'
-p72
+p63
 aS'design'
-p73
+p64
 aS'modeling'
-p74
+p65
 aS'implement'
-p75
+p66
 aS'model'
-p76
+p67
 as.

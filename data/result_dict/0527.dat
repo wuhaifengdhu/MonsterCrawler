@@ -2,94 +2,88 @@
 S'skills'
 p2
 (lp3
-S'documentation'
+S'data science'
 p4
-aS'open source'
-p5
-aS'software engineering'
-p6
-aS'big data'
-p7
-aS'scala'
-p8
-aS'deep learning'
-p9
-aS'data science'
-p10
 aS'testing'
-p11
-aS'data scientist'
-p12
-aS'mapreduce'
-p13
-aS'unit testing'
-p14
-aS'machine learning'
-p15
+p5
+aS'analytics'
+p6
 aS'engineering'
-p16
-aS'computer science'
-p17
-aS'science'
-p18
+p7
+aS'open source'
+p8
+aS'big data'
+p9
+aS'scala'
+p10
+aS'deep learning'
+p11
 aS'hadoop'
-p19
-aS'spark'
-p20
+p12
 aS'research'
-p21
+p13
+aS'computer science'
+p14
+aS'pyspark'
+p15
+aS'data scientist'
+p16
+aS'modeling'
+p17
+aS'spark'
+p18
 aS'data'
+p19
+aS'software engineering'
+p20
+aS'science'
+p21
+aS'documentation'
 p22
-aS'data analytics'
+aS'mapreduce'
 p23
-asS'working-year'
+aS'unit testing'
 p24
-(lp25
-V[0]
+aS'machine learning'
+p25
+aS'data analytics'
 p26
-asS'major'
+asS'working-year'
 p27
 (lp28
-S'software engineering'
+S'[0]'
 p29
-aS'big data'
+asS'major'
 p30
-aS'science'
-p31
-aS'machine learning data science'
+(lp31
+VData Science
 p32
-aS'machine learning'
+aVEngineering
 p33
-aS'engineering'
+aVComputer Science
 p34
-aS'design'
-p35
-aS'computer science'
-p36
-aS'phd'
-p37
-aS'computer science data science'
-p38
-aS'data science'
-p39
-aS'data analytics'
-p40
 asS'education'
-p41
-(lp42
-VDoctor
-p43
+p35
+(lp36
+VBachelor
+p37
+aVMaster
+p38
+aVDoctor
+p39
 asS'responsibility'
-p44
-(lp45
+p40
+(lp41
 S'product'
-p46
-aVinsight
-p47
-aS'design'
-p48
-aS'model'
-p49
+p42
 aS'documentation'
-p50
+p43
+aS'insight'
+p44
+aS'design'
+p45
+aS'modeling'
+p46
+aS'model'
+p47
 as.

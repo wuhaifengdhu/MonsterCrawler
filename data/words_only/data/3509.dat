@@ -4,226 +4,196 @@ p2
 (dp3
 S'forecasting'
 p4
-I1
+F0.007222238930616548
 sS'economics'
 p5
-I1
+F0.0059026892225602498
 sS'communication'
 p6
-I1
+F0.0038994319189922574
 sS'data science'
 p7
-I1
+F0.0029626623784743821
 sS'testing'
 p8
-I1
-sS'engineering'
+F0.0050428029923645637
+sS'analytics'
 p9
-I1
-sS'statistical analysis'
+F0.0021422104974963712
+sS'engineering'
 p10
-I1
-sS'problem solving'
+F0.0030168836873735337
+sS'statistical analysis'
 p11
-I1
-sS'data mining'
+F0.0063416259936271129
+sS'problem solving'
 p12
-I1
-sS'accounting'
+F0.0060458420319045598
+sS'data mining'
 p13
-I1
-sS'management'
+F0.0052265500706456594
+sS'accounting'
 p14
-I1
-sS'tableau'
+F0.010862782729965163
+sS'management'
 p15
-I1
-sS'risk management'
+F0.0022316474561567788
+sS'tableau'
 p16
-I1
-sS'computer science'
+F0.0049483401160684524
+sS'risk management'
 p17
-I1
-sS'policy'
+F0.0077826535122862963
+sS'computer science'
 p18
-I1
-sS'application development'
+F0.0034630129635153219
+sS'policy'
 p19
-I1
-sS'finance'
+F0.0067232961281791861
+sS'energy'
 p20
-I1
-sS'python'
+F0.0075997421331282866
+sS'finance'
 p21
-I1
-sS'javascript'
+F0.039238611638182583
+sS'python'
 p22
-I1
-sS'automation'
+F0.0012838707210671577
+sS'javascript'
 p23
-I1
-sS'risk analysis'
+F0.0054616862414333597
+sS'automation'
 p24
-I1
-sS'word'
+F0.016428809485043397
+sS'risk analysis'
 p25
-I1
-sS'sql server'
+F0.012937107465432611
+sS'data'
 p26
-I1
-sS'science'
+F0.00029212189131643576
+sS'word'
 p27
-I1
-sS'applied mathematics'
+F0.0068686420214239324
+sS'sql server'
 p28
-I1
-sS'documentation'
+F0.0068912031263020238
+sS'science'
 p29
-I1
-sS'thought leadership'
+F0.0017316105620544149
+sS'applied mathematics'
 p30
-I1
-sS'analysis'
+F0.0074436225242455823
+sS'documentation'
 p31
-I1
-sS'data architecture'
+F0.014282960388886851
+sS'thought leadership'
 p32
-I1
-sS'r'
-I1
-sS'architecture'
+F0.010102657388002766
+sS'analysis'
 p33
-I1
-sS'organization'
+F0.00084388847722692106
+sS'data architecture'
 p34
-I1
-sS'validation'
+F0.00999377722860912
+sS'r'
+F0.0013669761246648798
+sS'architecture'
 p35
-I1
-sS'data analytics'
+F0.0053867352775484193
+sS'application development'
 p36
-I1
-ssS'working-year'
+F0.0094361980332173523
+sS'organization'
 p37
-(dp38
-V(2, 5]
+F0.0086856346762644396
+sS'validation'
+p38
+F0.0077880844952588589
+sS'data analytics'
 p39
-I1
-ssS'major'
+F0.0050303514322310276
+ssS'working-year'
 p40
 (dp41
-S'science'
+V(2, 5]
 p42
-I1
-sS'mathematics economics'
+F0.0030515872621456538
+ssS'major'
 p43
-I1
-sS'management'
-p44
-I1
-sS'economics'
+(dp44
+VBusiness
 p45
-I1
-sS'finance'
+F0.0026643210521529906
+sVData Science
 p46
-I1
-sS'business'
+F0.0025302684300617306
+sVEconomics
 p47
-I1
-sS'information'
+F0.004041309230355815
+sVEngineering
 p48
-I1
-sS'communication'
+F0.0030168836873735337
+sVComputer Science
 p49
-I1
-sS'data science'
+F0.002229940261951226
+sVMathematics
 p50
-I1
-sS'data mining'
+F0.0042223461319764828
+sVManagement Science and Engineering
 p51
-I1
-sS'automation'
-p52
-I1
-sS'engineering'
-p53
-I1
-sS'design'
-p54
-I1
-sS'economics finance'
-p55
-I1
-sS'statistic'
-p56
-I1
-sS'data analytics'
-p57
-I1
-sS'accounting'
-p58
-I1
-sS'applied math'
-p59
-I1
-sS'applied mathematics'
-p60
-I1
-sS'applied mathematics economics'
-p61
-I1
-sS'computer science'
-p62
-I1
+F0.003176218075046533
 ssS'education'
-p63
-(dp64
+p52
+(dp53
 VBachelor
-p65
-I1
+p54
+F0.002244775437610608
+sVMaster
+p55
+F0.0017913317370053619
 ssS'responsibility'
-p66
-(dp67
+p56
+(dp57
 S'development'
-p68
-I1
+p58
+F0.017895975405134757
 sS'information'
-p69
-I1
+p59
+F0.0034165152697768339
 sS'forecasting'
-p70
-I1
-sVinsight
-p71
-I1
+p60
+F0.007222238930616548
+sS'insight'
+p61
+F0.0045194417635701601
 sS'business problem'
-p72
-I1
+p62
+F0.0070151491678094695
 sS'documentation'
-p73
-I1
+p63
+F0.014282960388886851
 sS'analysis'
-p74
-I1
+p64
+F0.00084388847722692106
 sS'improvement'
-p75
-I1
+p65
+F0.0066162721584707091
 sS'cross-functionally'
-p76
-I1
+p66
+F0.012532422449318209
 sS'design'
-p77
-I1
+p67
+F0.003597090665070142
 sS'data mining'
-p78
-I1
+p68
+F0.0052265500706456594
 sS'report'
-p79
-I1
+p69
+F0.005111518276286771
 sS'understand'
-p80
-I1
+p70
+F0.010353102529282145
 sS'model'
-p81
-I1
+p71
+F0.011434070260356951
 ss.

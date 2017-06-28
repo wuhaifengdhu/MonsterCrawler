@@ -8,17 +8,17 @@ aS'data science'
 p5
 aS'testing'
 p6
-aS'pig'
+aS'hadoop'
 p7
 aS'analytics'
 p8
 aS'business intelligence'
 p9
-aS'statistical analysis'
+aS'hive'
 p10
 aS'content management'
 p11
-aS'management'
+aS'statistics'
 p12
 aS'java'
 p13
@@ -28,7 +28,7 @@ aS'scala'
 p15
 aS'sharepoint'
 p16
-aS'hadoop'
+aS'mllib'
 p17
 aS'big data analytics'
 p18
@@ -42,74 +42,68 @@ aS'collaboration'
 p22
 aS'data scientist'
 p23
-aS'sql'
+aS'management'
 p24
-aS'weka'
+aS'sql'
 p25
-aS'data'
+aS'weka'
 p26
-aS'engineering'
+aS'spark'
 p27
-aS'c'
-aS'science'
+aS'pig'
 p28
-aS'mapreduce'
+aS'data'
 p29
-aS'analysis'
+aS'engineering'
 p30
-aS'machine learning'
+aS'a'
+aS'science'
 p31
+aS'mapreduce'
+p32
+aS'analysis'
+p33
+aS'machine learning'
+p34
 aS'r'
 aS'data analytics'
-p32
-aS'security'
-p33
-aS'application development'
-p34
-asS'working-year'
 p35
-(lp36
-V(5, 10]
+aS'security'
+p36
+aS'application development'
 p37
-asS'major'
+aS'statistical analysis'
 p38
-(lp39
-S'management'
-p40
-aS'business'
+asS'working-year'
+p39
+(lp40
+sS'major'
 p41
-aS'big data'
-p42
-aS'science'
+(lp42
+VStatistics
 p43
-aS'data science'
+aVBusiness
 p44
-aS'machine learning'
+aVData Science
 p45
-aS'big data analytics'
+aVEngineering
 p46
-aS'analytics'
+aVComputer Science
 p47
-aS'engineering'
+aVManagement Science and Engineering
 p48
-aS'statistic'
-p49
-aS'phd'
-p50
-aS'data analytics'
-p51
 asS'education'
+p49
+(lp50
+VDoctor
+p51
+asS'responsibility'
 p52
 (lp53
-VDoctor
-p54
-asS'responsibility'
-p55
-(lp56
 S'development'
-p57
+p54
 aS'product'
-p58
+p55
 aS'analysis'
-p59
+p56
 as.

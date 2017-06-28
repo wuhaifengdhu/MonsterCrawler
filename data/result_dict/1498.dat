@@ -2,173 +2,156 @@
 S'skills'
 p2
 (lp3
-S'scikit-learn'
+S'insurance'
 p4
-aS'testing'
+aS'scikit-learn'
 p5
-aS'julia'
+aS'testing'
 p6
-aS'analytics'
+aS'julia'
 p7
-aS'engineering'
-p8
-aS'data mining'
-p9
-aS'research'
-p10
-aS'insurance'
-p11
-aS'visualization'
-p12
-aS'management'
-p13
-aS'open source'
-p14
-aS'big data'
-p15
-aS'predictive modeling'
-p16
-aS'hadoop'
-p17
-aS'd3.js'
-p18
-aS'strategy'
-p19
-aS'computer science'
-p20
-aS'communication'
-p21
-aS'mathematics'
-p22
-aS'unstructured data'
-p23
-aS'simulation'
-p24
-aS'data modeling'
-p25
-aS'python'
-p26
-aS'processing'
-p27
-aS'data scientist'
-p28
-aS'ggplot'
-p29
-aS'matplotlib'
-p30
-aS'leadership'
-p31
-aS'data processing'
-p32
-aS'sql'
-p33
-aS'modeling'
-p34
-aS'spark'
-p35
-aS'data'
-p36
-aS'tensorflow'
-p37
-aS'search'
-p38
-aS'software engineering'
-p39
-aS'java'
-p40
-aS'science'
-p41
-aS'programming'
-p42
-aS'thought leadership'
-p43
-aS'machine learning'
-p44
-aS'r'
-aS'data analytics'
-p45
-asS'working-year'
-p46
-(lp47
-V[0]
-p48
-asS'major'
-p49
-(lp50
-S'information'
-p51
-aS'management'
-p52
-aS'business'
-p53
-aS'big data'
-p54
 aS'analytics'
-p55
-aS'science'
-p56
-aS'statistic'
-p57
-aS'software engineering'
-p58
-aS'computer sciences'
-p59
-aS'mathematics'
-p60
-aS'machine learning'
-p61
-aS'mathematics statistics'
-p62
+p8
 aS'engineering'
-p63
-aS'design'
-p64
-aS'data analytics'
-p65
+p9
 aS'data mining'
-p66
+p10
+aS'research'
+p11
+aS'd3'
+p12
+aS'visualization'
+p13
+aS'statistics'
+p14
+aS'open source'
+p15
+aS'big data'
+p16
+aS'scala'
+p17
+aS'c'
+aS'predictive modeling'
+p18
+aS'management'
+p19
+aS'hadoop'
+p20
+aS'd3.js'
+p21
+aS'strategy'
+p22
+aS'matlab'
+p23
 aS'communication'
-p67
-aS'physics computer science'
-p68
-aS'phd'
-p69
-aVphysic
-p70
-aS'computer science'
-p71
-asS'education'
-p72
-(lp73
-VMaster
-p74
-aVDoctor
-p75
-asS'responsibility'
-p76
-(lp77
-S'data mining'
-p78
-aS'development'
-p79
-aS'processing'
-p80
-aS'information'
-p81
-aS'pattern'
-p82
-aVinsight
-p83
-aS'communicate'
-p84
+p24
+aS'mathematics'
+p25
+aS'unstructured data'
+p26
 aS'simulation'
-p85
-aS'design'
-p86
-aS'identify opportunity'
-p87
+p27
+aS'education'
+p28
+aS'data modeling'
+p29
+aS'python'
+p30
+aS'processing'
+p31
+aS'data scientist'
+p32
+aS'ggplot'
+p33
+aS'matplotlib'
+p34
+aS'leadership'
+p35
+aS'data processing'
+p36
+aS'sql'
+p37
 aS'modeling'
-p88
+p38
+aS'spark'
+p39
+aS'data'
+p40
+aS'tensorflow'
+p41
+aS'search'
+p42
+aS'software engineering'
+p43
+aS'java'
+p44
+aS'programming'
+p45
+aS'thought leadership'
+p46
+aS'machine learning'
+p47
+aS'r'
+aS'organization'
+p48
+aS'physics'
+p49
+aS'data analytics'
+p50
+asS'working-year'
+p51
+(lp52
+S'[0]'
+p53
+asS'major'
+p54
+(lp55
+VStatistics
+p56
+aVBusiness
+p57
+aVData Science
+p58
+aVEngineering
+p59
+aVComputer Science
+p60
+aVMathematics
+p61
+aVPhysics
+p62
+aVManagement Science and Engineering
+p63
+asS'education'
+p64
+(lp65
+VMaster
+p66
+aVDoctor
+p67
+asS'responsibility'
+p68
+(lp69
+S'data mining'
+p70
+aS'information'
+p71
+aS'processing'
+p72
+aS'pattern'
+p73
+aS'insight'
+p74
+aS'communicate'
+p75
+aS'simulation'
+p76
+aS'development'
+p77
+aS'identify opportunity'
+p78
+aS'modeling'
+p79
 aS'model'
-p89
+p80
 as.

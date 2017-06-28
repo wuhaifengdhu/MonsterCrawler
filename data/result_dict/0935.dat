@@ -2,90 +2,86 @@
 S'skills'
 p2
 (lp3
-S'management'
+S'jira'
 p4
-aS'software engineering'
+aS'organization'
 p5
-aS'apis'
-p6
-aS'agile'
-p7
-aS'innovation'
-p8
-aS'data scientist'
-p9
-aS'integration'
-p10
-aS'automation'
-p11
-aS'software design'
-p12
-aS'analytics'
-p13
-aS'engineering'
-p14
-aS'data-driven decision making'
-p15
-aS'science'
-p16
-aS'modeling'
-p17
-aS'data'
-p18
-aS'insurance'
-p19
-aS'project management'
-p20
-aS'computer science'
-p21
-asS'working-year'
-p22
-(lp23
-V[0]
-p24
-asS'major'
-p25
-(lp26
-S'management'
-p27
 aS'software engineering'
-p28
-aS'business'
-p29
-aS'science'
-p30
+p6
+aS'apis'
+p7
+aS'agile'
+p8
+aS'innovation'
+p9
+aS'data scientist'
+p10
+aS'integration'
+p11
 aS'automation'
-p31
+p12
+aS'software design'
+p13
 aS'analytics'
-p32
+p14
 aS'engineering'
-p33
-aS'design'
-p34
-aS'computer science'
-p35
-aS'development practice'
-p36
-aS'project management'
-p37
-asS'education'
-p38
-(lp39
-VBachelor
-p40
-asS'responsibility'
-p41
-(lp42
-S'development'
-p43
-aS'product'
-p44
-aS'communicate'
-p45
-aS'design'
-p46
-aS'ownership'
-p47
+p15
+aS'management'
+p16
+aS'data-driven decision making'
+p17
+aS'science'
+p18
 aS'modeling'
-p48
+p19
+aS'data'
+p20
+aS'insurance'
+p21
+aS'project management'
+p22
+aS'computer science'
+p23
+asS'working-year'
+p24
+(lp25
+S'[0]'
+p26
+asS'major'
+p27
+(lp28
+VData Science
+p29
+aVEngineering
+p30
+aVComputer Science
+p31
+aVBusiness
+p32
+aVManagement Science and Engineering
+p33
+asS'education'
+p34
+(lp35
+VBachelor
+p36
+asS'responsibility'
+p37
+(lp38
+S'development'
+p39
+aS'information'
+p40
+aS'product'
+p41
+aS'communicate'
+p42
+aS'design'
+p43
+aS'ownership'
+p44
+aS'modeling'
+p45
+aS'decision making'
+p46
 as.

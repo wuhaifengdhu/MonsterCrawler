@@ -2,84 +2,87 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'communication'
 p4
-aS'dna'
+aS'data science'
 p5
-aS'python'
-p6
-aS'communication'
-p7
-aS'data science'
-p8
-aS'data scientist'
-p9
-aS'hadoop'
-p10
-aS'communication skills'
-p11
-aS'machine learning'
-p12
-aS'hive'
-p13
-aS'engineering'
-p14
-aS'computer science'
-p15
-aS'science'
-p16
-aS'java'
-p17
 aS'pig'
-p18
-aS'data'
-p19
-aS'statistical analysis'
-p20
-asS'working-year'
-p21
-(lp22
-V[0]
-p23
-asS'major'
-p24
-(lp25
-S'information'
-p26
-aS'business'
-p27
-aS'science'
-p28
-aS'data science'
-p29
-aS'phd'
-p30
+p6
 aS'engineering'
-p31
-aS'computer science engineering'
-p32
+p7
+aS'hive'
+p8
+aS'analysis'
+p9
+aS'dna'
+p10
+aS'hadoop'
+p11
 aS'computer science'
-p33
-aS'communication'
-p34
+p12
+aS'python'
+p13
+aS'data scientist'
+p14
+aS'sql'
+p15
+aS'java'
+p16
+aS'spark'
+p17
+aS'data'
+p18
+aS'a'
+aS'search'
+p19
+aS'science'
+p20
+aS'mapreduce'
+p21
+aS'communication skills'
+p22
 aS'machine learning'
-p35
+p23
+aS'statistical analysis'
+p24
+asS'working-year'
+p25
+(lp26
+S'[0]'
+p27
+asS'major'
+p28
+(lp29
+VData Science
+p30
+aVEngineering
+p31
+aVComputer Science
+p32
+aVBusiness
+p33
 asS'education'
+p34
+(lp35
+VMaster
 p36
-(lp37
-VDoctor
-p38
+aVDoctor
+p37
 asS'responsibility'
-p39
-(lp40
+p38
+(lp39
 S'development'
-p41
+p40
 aS'information'
-p42
-aS'model'
-p43
+p41
 aS'build model'
+p42
+aS'analysis'
+p43
+aS'develop ... model'
 p44
 aS'ownership'
 p45
+aS'model'
+p46
 as.

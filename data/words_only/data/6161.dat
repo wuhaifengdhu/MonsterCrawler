@@ -4,131 +4,131 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0075031723180609316
 sS'data science'
 p5
-I1
+F0.0057006678941260627
 sS'engineering'
 p6
-I1
+F0.0058049989434770365
 sS'neo4j'
 p7
-I1
+F0.022192898061516437
 sS'amazon web services'
 p8
-I1
+F0.015707436515395645
 sS'cassandra'
 p9
-I1
+F0.035681578412897409
 sS'genomics'
 p10
-I1
+F0.020129803162725755
 sS'open source'
 p11
-I1
+F0.015156017724730308
 sS'big data'
 p12
-I1
+F0.006031872636789894
 sS'agile'
 p13
-I1
+F0.010349241102841278
 sS'hadoop'
 p14
-I1
+F0.012178260676773127
 sS'computer science'
 p15
-I1
+F0.0066634277876171603
 sS'web services'
 p16
-I1
-sS'aws'
-p17
-I1
+F0.013938574256683343
 sS'collaboration'
-p18
-I1
+p17
+F0.01212165601930547
 sS'processing'
+p18
+F0.0077397539652640764
+sS'aws'
 p19
-I1
-sS'data scientist'
-p20
-I1
+F0.02477228766617735
 sS'mentoring'
-p21
-I1
+p20
+F0.016303856405113532
 sS'data processing'
-p22
-I1
+p21
+F0.017420467287812207
 sS'java'
-p23
-I1
+p22
+F0.0058733031643046617
 sS'spark'
-p24
-I1
+p23
+F0.015982328183086814
 sS'data'
+p24
+F0.0022483694383786338
+sS'information technology'
 p25
-I1
-sS'information technology'
-p26
-I1
+F0.014770848681335286
 sS'software development'
-p27
-I1
+p26
+F0.010048325204138734
 sS'analytical skills'
+p27
+F0.019829749396498397
+sS'science'
 p28
-I1
-ssS'working-year'
+F0.0033319141620573103
+sS'biotechnology'
 p29
-(dp30
+F0.020901847338226805
+ssS'working-year'
+p30
+(dp31
 V(5, 10]
-p31
-I1
-ssS'major'
 p32
-(dp33
-S'information'
-p34
-I1
-sS'big data'
+F0.0057139538463358243
+ssS'major'
+p33
+(dp34
+VBiological Engineering
 p35
-I1
-sS'communication'
+F0.012465382845861094
+sVData Science
 p36
-I1
-sS'data science'
+F0.0048686681640050366
+sVInformation Science
 p37
-I1
-sS'engineering'
+F0.012003105159024143
+sVEngineering
 p38
-I1
-sS'computer science'
+F0.010674781643444207
+sVComputer Science
 p39
-I1
-sS'ee computer science'
-p40
-I1
-sS'information technology'
-p41
-I1
+F0.0042907855277355342
 ssS'education'
-p42
-(dp43
+p40
+(dp41
 VBachelor
+p42
+F0.004319330936824203
+sVMaster
+p43
+F0.0034468278920577106
+sVDoctor
 p44
-I1
+F0.0051619989183718865
 ssS'responsibility'
 p45
 (dp46
 S'development'
 p47
-I1
+F0.011478303340418187
 sS'information'
 p48
-I1
+F0.006573958291608506
 sS'processing'
 p49
-I1
+F0.0077397539652640764
 sS'data infrastructure'
 p50
-I1
+F0.020516897519714798
 ss.

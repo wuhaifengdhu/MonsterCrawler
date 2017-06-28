@@ -2,117 +2,120 @@
 S'skills'
 p2
 (dp3
-S'clustering'
+S'statistical analysis'
 p4
-I1
-sS'r'
-I1
-sS'data analysis'
+F0.013551053439013725
+sS'sas'
 p5
-I1
-sS'word'
+F0.0072907202983021934
+sS'machine learning'
 p6
-I1
-sS'programming'
+F0.0034500932728107332
+sS'quantitative analysis'
 p7
-I1
-sS'linear regression'
+F0.040147393073899265
+sS'clustering'
 p8
-I1
-sS'data scientist'
+F0.016965329266085315
+sS'statistics'
 p9
-I1
+F0.004907962393697919
 sS'excel'
 p10
-I1
-sS'data'
-p11
-I1
+F0.0085102854042424497
 sS'research'
-p12
-I1
+p11
+F0.004490317587693359
 sS'coaching'
-p13
-I1
-sS'machine learning'
-p14
-I1
-sS'mentoring'
-p15
-I1
-sS'statistical analysis'
-p16
-I1
-sS'sql'
-p17
-I1
-sS'root'
-p18
-I1
+p12
+F0.020324909034916835
 sS'education'
-p19
-I1
-sS'quantitative analysis'
-p20
-I1
-sS'scripting'
-p21
-I1
+p13
+F0.011045403946385627
 sS'matlab'
+p14
+F0.0067179009875687618
+sS'data analysis'
+p15
+F0.0078092737629771852
+sS'data scientist'
+p16
+F0.0055756403429677798
+sS'mentoring'
+p17
+F0.018105861586731341
+sS'sql'
+p18
+F0.0035891782043844583
+sS'data'
+p19
+F0.001872655071702204
+sS'word'
+p20
+F0.014677203477358508
+sS'programming'
+p21
+F0.0058016591307098733
+sS'linear regression'
 p22
-I1
-ssS'working-year'
+F0.01998523998735471
+sS'r'
+F0.0029210121400733745
+sS'root'
 p23
-(dp24
-V(2, 5]
+F0.020613367533932444
+sS'scripting'
+p24
+F0.012805707249719279
+ssS'working-year'
 p25
-I1
+(dp26
+V(2, 5]
+p27
+F0.0065207601496375554
 ssS'major'
-p26
-(dp27
-S'machine learning'
 p28
-I1
-sS'general'
-p29
-I1
-sS'business'
+(dp29
+VStatistics
 p30
-I1
-sS'phd'
+F0.0094816040520425277
+sVComputer Science
 p31
-I1
-ssS'education'
+F0.0047650302439589355
+sVBusiness
 p32
-(dp33
+F0.0056932334061795481
+ssS'education'
+p33
+(dp34
 VMaster
-p34
-I1
-sVDoctor
 p35
-I1
-ssS'responsibility'
+F0.0038277930801272468
+sVDoctor
 p36
-(dp37
+F0.0057325356409287792
+ssS'responsibility'
+p37
+(dp38
 S'data analysis'
-p38
-I1
-sS'develop model'
 p39
-I1
+F0.0078092737629771852
 sS'business problem'
 p40
-I1
+F0.014990266116477077
 sS'communicate'
 p41
-I1
-sS'understand'
+F0.021118346129279916
+sS'develop ... model'
 p42
-I1
-sS'model'
+F0.016315331721979673
+sS'understand'
 p43
-I1
-sS'quantitative analysis'
+F0.011061472702338291
+sS'model'
 p44
-I1
+F0.0081442675889560039
+sS'quantitative analysis'
+p45
+F0.040147393073899265
 ss.

@@ -4,212 +4,215 @@ p2
 (dp3
 S'probability'
 p4
-I1
+F0.0082972122337463868
 sS'data science'
 p5
-I1
+F0.0028639069658585696
 sS'human resources'
 p6
-I1
+F0.011810311867110734
 sS'engineering'
 p7
-I1
+F0.0087489626933832474
 sS'high performance computing'
 p8
-I1
+F0.0092698509565122995
 sS'data mining'
 p9
-I1
+F0.0050523317349574709
 sS'research'
 p10
-I1
+F0.0020313341468136629
 sS'visualization'
 p11
-I1
-sS'classification'
+F0.0089252155806379494
+sS'statistics'
 p12
-I1
-sS'big data'
+F0.0044405374038219269
+sS'classification'
 p13
-I1
-sS'r programming'
+F0.007512766432043046
+sS'big data'
 p14
-I1
+F0.0030302979199111134
 sS'strategy'
 p15
-I1
-sS'mathematics'
+F0.0037500272172067499
+sS'computer science'
 p16
-I1
-sS'statistical learning'
+F0.0033475791980648113
+sS'policy'
 p17
-I1
-sS'data analysis'
-p18
-I1
-sS'signal processing'
-p19
-I1
-sS'theory'
-p20
-I1
-sS'processing'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'business process'
-p23
-I1
-sS'modeling'
-p24
-I1
-sS'data'
-p25
-I1
-sS'information technology'
-p26
-I1
-sS'pattern recognition'
-p27
-I1
-sS'data visualization'
-p28
-I1
-sS'science'
-p29
-I1
-sS'programming'
-p30
-I1
-sS'analysis'
-p31
-I1
-sS'machine learning'
-p32
-I1
-sS'data engineering'
-p33
-I1
-sS'etl'
-p34
-I1
-ssS'working-year'
-p35
-(dp36
-V[0]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'information'
-p40
-I1
-sS'business'
-p41
-I1
-sS'big data'
-p42
-I1
-sS'science'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'data mining'
-p45
-I1
-sS'high performance computing'
-p46
-I1
-sS'machine learning'
-p47
-I1
-sS'engineering'
-p48
-I1
-sVphysic
-p49
-I1
-sS'statistic'
-p50
-I1
+F0.0064991862572398801
 sS'mathematics'
-p51
-I1
-sS'information technology'
-p52
-I1
-ssS'education'
-p53
-(dp54
-VMaster
-p55
-I1
-sVDoctor
-p56
-I1
-ssS'responsibility'
-p57
-(dp58
-Vinsight
-p59
-I1
-sS'information'
-p60
-I1
-sS'product'
-p61
-I1
+p18
+F0.0087042537241705051
+sS'statistical learning'
+p19
+F0.012872894197602871
+sS'operations research'
+p20
+F0.0068593774179807375
 sS'data analysis'
+p21
+F0.0035327667022992033
+sS'signal processing'
+p22
+F0.0074611190751445238
+sS'theory'
+p23
+F0.0069773244058888946
+sS'processing'
+p24
+F0.0038883049682636194
+sS'data scientist'
+p25
+F0.0025223134884854248
+sS'business process'
+p26
+F0.0072744831655232297
+sS'modeling'
+p27
+F0.0019336802119560776
+sS'data'
+p28
+F0.0048005364139667613
+sS'information technology'
+p29
+F0.0074205930280041559
+sS'pattern recognition'
+p30
+F0.0076032231163849799
+sS'data visualization'
+p31
+F0.0046826991085228593
+sS'science'
+p32
+F0.0050216706299578027
+sS'applied mathematics'
+p33
+F0.0071955017734373966
+sS'programming'
+p34
+F0.0026245600829401809
+sS'analysis'
+p35
+F0.0016315177226387141
+sS'machine learning'
+p36
+F0.0015607564805572367
+sS'data engineering'
+p37
+F0.0095353113239700932
+sS'physics'
+p38
+F0.011586116083079349
+sS'etl'
+p39
+F0.0067851539857504356
+ssS'working-year'
+p40
+(dp41
+S'[0]'
+p42
+F0.0052290826917723403
+ssS'major'
+p43
+(dp44
+VStatistics
+p45
+F0.0042892970711620963
+sVBusiness
+p46
+F0.0025755103504145577
+sVData Science
+p47
+F0.0024459261490596732
+sVEngineering
+p48
+F0.0053628069684922086
+sVInformation Science
+p49
+F0.0060301314013192714
+sVComputer Science
+p50
+F0.0021556089198861853
+sVMathematics
+p51
+F0.0040816012609106002
+sVPhysics
+p52
+F0.0062469811933335492
+sVOperations Research
+p53
+F0.0076636402337789391
+ssS'education'
+p54
+(dp55
+VMaster
+p56
+F0.0017316206791051832
+sVDoctor
+p57
+F0.0025932899328011145
+ssS'responsibility'
+p58
+(dp59
+S'insight'
+p60
+F0.013106381114353464
+sS'information'
+p61
+F0.00330263142745094
+sS'product'
 p62
-I1
-sS'develop model'
+F0.0064047280510368893
+sS'data analysis'
 p63
-I1
+F0.0035327667022992033
 sS'business problem'
 p64
-I1
+F0.0067813108622158209
 sS'pattern'
 p65
-I1
+F0.0062347406561289193
 sS'processing'
 p66
-I1
+F0.0038883049682636194
 sS'communicate'
 p67
-I1
+F0.0047767687673371242
 sS'recommendation'
 p68
-I1
+F0.0062195279638530276
 sS'analysis'
 p69
-I1
+F0.0016315177226387141
 sS'improvement'
 p70
-I1
+F0.006395729753188353
 sS'analytic'
 p71
-I1
+F0.010751076058569729
 sS'statistical method'
 p72
-I1
+F0.0083709295929797894
 sS'understand'
 p73
-I1
+F0.025019997779098514
 sS'data mining'
 p74
-I1
+F0.0050523317349574709
 sS'modeling'
 p75
-I1
+F0.0019336802119560776
 sS'model'
 p76
-I1
-sS'presentation'
+F0.02210586917002344
+sS'develop ... model'
 p77
-I1
+F0.0073807453028003284
+sS'presentation'
+p78
+F0.0058651293864514448
 ss.

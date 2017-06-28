@@ -4,149 +4,169 @@ p2
 (dp3
 S'supply chain'
 p4
-I1
+F0.014961990179714092
 sS'forecasting'
 p5
-I1
-sS'analytics'
-p6
-I1
-sS'business intelligence'
-p7
-I1
-sS'data mining'
-p8
-I1
-sS'clustering'
-p9
-I1
-sS'management'
-p10
-I1
-sS'excel'
-p11
-I1
+F0.011321347512858373
 sS'hadoop'
-p12
-I1
-sS'market research'
-p13
-I1
-sS'segmentation'
-p14
-I1
-sS'python'
-p15
-I1
-sS'statistical modeling'
-p16
-I1
-sS'sql'
-p17
-I1
-sS'modeling'
-p18
-I1
-sS'spark'
-p19
-I1
-sS'data'
-p20
-I1
-sS'information technology'
-p21
-I1
-sS'software development'
-p22
-I1
-sS'procurement'
-p23
-I1
-sS'optimization'
-p24
-I1
-sS'retail'
-p25
-I1
-sS'crm'
-p26
-I1
-ssS'working-year'
-p27
-(dp28
-V(5, 10]
-p29
-I1
-sV(2, 5]
-p30
-I1
-ssS'major'
-p31
-(dp32
-S'information'
-p33
-I1
-sS'management'
-p34
-I1
-sS'business'
-p35
-I1
+p6
+F0.0049606428625465823
 sS'analytics'
-p36
-I1
+p7
+F0.016790298493890476
+sS'business intelligence'
+p8
+F0.0078881981033761435
 sS'data mining'
-p37
-I1
-sS'law'
-p38
-I1
-sS'information technology'
-p39
-I1
-ssS'education'
-p40
-(dp41
-VBachelor
-p42
-I1
-ssS'responsibility'
-p43
-(dp44
-S'development'
-p45
-I1
-sS'information'
-p46
-I1
-sS'forecasting'
-p47
-I1
-sS'business problem'
-p48
-I1
-sS'communicate'
-p49
-I1
-sS'product'
-p50
-I1
-sS'statistical model'
-p51
-I1
-sS'optimization'
-p52
-I1
-sS'understand'
-p53
-I1
-sS'data mining'
-p54
-I1
+p9
+F0.008192970381012115
+sS'sas'
+p10
+F0.0053484048520363583
+sS'education'
+p11
+F0.0081028059838350163
+sS'qlikview'
+p12
+F0.015562956660625597
+sS'excel'
+p13
+F0.006243066512764732
+sS'tableau'
+p14
+F0.007756857479242439
+sS'demand forecasting'
+p15
+F0.021124145960253853
+sS'market research'
+p16
+F0.012373776527021032
+sS'r'
+F0.0021428274386638656
+sS'clustering'
+p17
+F0.012445608341915869
+sS'segmentation'
+p18
+F0.011181665297799386
+sS'python'
+p19
+F0.0020125541032944634
+sS'spotfire'
+p20
+F0.016579996574133071
+sS'sales'
+p21
+F0.025672623476378411
+sS'statistical modeling'
+p22
+F0.0069164691899243104
+sS'sql'
+p23
+F0.0026329878719422669
 sS'modeling'
+p24
+F0.0031356976410098552
+sS'spark'
+p25
+F0.0065101761517979096
+sS'data'
+p26
+F0.0009158416052082851
+sS'information technology'
+p27
+F0.012033394099466199
+sS'software development'
+p28
+F0.0081860873284682334
+sS'procurement'
+p29
+F0.020279790080948417
+sS'optimization'
+p30
+F0.0077220419204190819
+sS'inventory management'
+p31
+F0.022094468329096482
+sS'consulting'
+p32
+F0.0087239949598883048
+sS'retail'
+p33
+F0.026609741192405577
+sS'crm'
+p34
+F0.012698409135894973
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0046549971489454004
+sV(2, 5]
+p38
+F0.0047835692217418364
+ssS'major'
+p39
+(dp40
+VData Science
+p41
+F0.0039663667282048747
+sVInformation Science
+p42
+F0.0097785914615988179
+sVComputer Science
+p43
+F0.0034955820322478677
+sVBusiness
+p44
+F0.004176503270942526
+sVManagement Science and Engineering
+p45
+F0.0049789364419648352
+ssS'education'
+p46
+(dp47
+VBachelor
+p48
+F0.0035188371724706826
+ssS'responsibility'
+p49
+(dp50
+S'development'
+p51
+F0.0046755251058460184
+sS'information'
+p52
+F0.01606685559300457
+sS'forecasting'
+p53
+F0.011321347512858373
+sS'business problem'
+p54
+F0.010996720317106736
+sS'communicate'
 p55
-I1
-sS'model'
+F0.0077461115146007422
+sS'product'
 p56
-I1
+F0.005193022744083964
+sS'optimization'
+p57
+F0.0077220419204190819
+sS'understand'
+p58
+F0.0081145938743022224
+sS'data mining'
+p59
+F0.008192970381012115
+sS'modeling'
+p60
+F0.0031356976410098552
+sS'model'
+p61
+F0.0059745592351414705
+sS'test ... model'
+p62
+F0.017889694630678882
 ss.

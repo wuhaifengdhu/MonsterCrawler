@@ -4,203 +4,220 @@ p2
 (dp3
 S'classification'
 p4
-I1
+F0.0057790511015715735
 sS'communication'
 p5
-I1
-sS'statistical analysis'
+F0.0086987327423673436
+sS'analytics'
 p6
-I1
-sS'problem solving'
+F0.0015929257545485836
+sS'engineering'
 p7
-I1
-sS'data mining'
+F0.0022433237675341662
+sS'statistical analysis'
 p8
-I1
-sS'education'
+F0.0047155680465432379
+sS'problem solving'
 p9
-I1
-sS'insurance'
-p10
-I1
-sS'clustering'
-p11
-I1
-sS'investment banking'
-p12
-I1
-sS'credit'
-p13
-I1
-sS'predictive modeling'
-p14
-I1
-sS'strategy'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'matlab'
-p17
-I1
-sS'finance'
-p18
-I1
-sS'government'
-p19
-I1
-sS'philosophy'
-p20
-I1
-sS'data scientist'
-p21
-I1
-sS'business analytics'
-p22
-I1
-sS'management'
-p23
-I1
-sS'algorithm design'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'information technology'
-p26
-I1
-sS'fraud'
-p27
-I1
-sS'organization'
-p28
-I1
-sS'analysis'
-p29
-I1
-sS'spss'
-p30
-I1
-sS'banking'
-p31
-I1
-sS'investment management'
-p32
-I1
-sS'security'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V[0]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'data mining'
-p39
-I1
-sS'information'
-p40
-I1
-sS'management'
-p41
-I1
-sS'finance'
-p42
-I1
-sS'business'
-p43
-I1
-sS'communication'
-p44
-I1
-sS'philosophy'
-p45
-I1
-sS'business analytics'
-p46
-I1
-sS'mathematics statistics'
-p47
-I1
-sS'design'
-p48
-I1
-sS'computer science'
-p49
-I1
-sS'statistic'
-p50
-I1
-sS'computer science engineering'
-p51
-I1
-sS'ee computer science'
-p52
-I1
-sS'information technology'
-p53
-I1
-ssS'education'
-p54
-(dp55
-VBachelor
-p56
-I1
-sVDoctor
-p57
-I1
-ssS'responsibility'
-p58
-(dp59
-S'development'
-p60
-I1
-sS'large data set'
-p61
-I1
-sS'product'
-p62
-I1
-sS'information'
-p63
-I1
-sS'pattern'
-p64
-I1
-sS'recommendation'
-p65
-I1
-sS'communicate'
-p66
-I1
-sS'analysis'
-p67
-I1
-sS'analytic'
-p68
-I1
-sS'statistical method'
-p69
-I1
-sS'design'
-p70
-I1
-sS'ownership'
-p71
-I1
+F0.0044956261262880061
 sS'data mining'
-p72
-I1
-sS'report'
-p73
-I1
+p10
+F0.0038864090268903619
+sS'sas'
+p11
+F0.0025370638400685286
 sS'modeling'
+p12
+F0.0014874463168892903
+sS'education'
+p13
+F0.0038436387359217384
+sS'insurance'
+p14
+F0.0057750392189554718
+sS'clustering'
+p15
+F0.0059036860083447069
+sS'investment banking'
+p16
+F0.0090848552823928723
+sS'credit'
+p17
+F0.0058196608502521004
+sS'predictive modeling'
+p18
+F0.0038077031294669779
+sS'strategy'
+p19
+F0.0057692726418565382
+sS'computer science'
+p20
+F0.0025750609215883162
+sS'mathematics'
+p21
+F0.0033477898939117323
+sS'matlab'
+p22
+F0.0023377311128902284
+sS'finance'
+p23
+F0.01458871458342686
+sS'government'
+p24
+F0.0047749441678186181
+sS'philosophy'
+p25
+F0.0090848552823928723
+sS'data scientist'
+p26
+F0.001940241144988788
+sS'business analytics'
+p27
+F0.0055633410140276804
+sS'management'
+p28
+F0.0033188603194126451
+sS'architectures'
+p29
+F0.0087920943194427868
+sS'algorithm design'
+p30
+F0.0077202048041591373
+sS'statistics'
+p31
+F0.0017078990014699718
+sS'data'
+p32
+F0.00021721884226093941
+sS'information technology'
+p33
+F0.005708148483080119
+sS'a'
+F0.0034249851531392428
+sS'metrics'
+p34
+F0.0079948166921811527
+sS'fraud'
+p35
+F0.071645715670481475
+sS'organization'
+p36
+F0.00322927443091883
+sS'science'
+p37
+F0.0012876078538353341
+sS'analysis'
+p38
+F0.0006275068163995054
+sS'spss'
+p39
+F0.0040409319246475549
+sS'banking'
+p40
+F0.025159706363064874
+sS'investment management'
+p41
+F0.011171722527748564
+sS'security'
+p42
+F0.0080049480429296403
+ssS'working-year'
+p43
+(dp44
+S'[0]'
+p45
+F0.0040223713013633382
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0032994592855093044
+sVBusiness
+p49
+F0.0019811618080111983
+sVData Science
+p50
+F0.0018814816531228253
+sVEconomics
+p51
+F0.0030050760943671445
+sVEngineering
+p52
+F0.0022433237675341662
+sVInformation Science
+p53
+F0.004638562616399439
+sVComputer Science
+p54
+F0.0016581607076047577
+sVMathematics
+p55
+F0.0031396932776235381
+sVManagement Science and Engineering
+p56
+F0.0023618031840089604
+ssS'education'
+p57
+(dp58
+VBachelor
+p59
+F0.0016691919920694262
+sVDoctor
+p60
+F0.001994838409847011
+ssS'responsibility'
+p61
+(dp62
+S'development'
+p63
+F0.0022178772937987523
+sS'information'
+p64
+F0.0025404857134237995
+sS'product'
+p65
+F0.0049267138854129913
+sS'large data set'
+p66
+F0.0057590790024411474
+sS'pattern'
+p67
+F0.0047959543508683993
+sS'recommendation'
+p68
+F0.0047842522798869436
+sS'communicate'
+p69
+F0.0073488750266724988
+sS'drive ... decision'
+p70
+F0.0073920929280753001
+sS'analysis'
+p71
+F0.0006275068163995054
+sS'analytic'
+p72
+F0.0082700585065920984
+sS'statistical method'
+p73
+F0.0064391766099844523
+sS'design'
 p74
-I1
+F0.0026747597253085672
+sS'ownership'
+p75
+F0.0072166546704897213
+sS'data mining'
+p76
+F0.0038864090268903619
+sS'report'
+p77
+F0.0038008725644183682
+sS'identify ... trend'
+p78
+F0.0078648701697810706
+sS'modeling'
+p79
+F0.0014874463168892903
 ss.

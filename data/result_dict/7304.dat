@@ -44,68 +44,56 @@ aS'security'
 p23
 aS'chemistry'
 p24
-aS'data analytics'
+aS'physics'
 p25
-asS'working-year'
-p26
-(lp27
-V(5, 10]
-p28
-aV(2, 5]
-p29
-asS'major'
-p30
-(lp31
-S'information'
-p32
-aS'management'
-p33
-aS'business'
-p34
-aS'mathematics economics'
-p35
-aS'analytics'
-p36
-aS'science'
-p37
-aS'economics'
-p38
-aS'data analyst'
-p39
-aS'information systems'
-p40
-aS'engineering physics'
-p41
-aS'engineering'
-p42
-aS'information system'
-p43
-aVphysic
-p44
-aS'mathematics'
-p45
-aS'chemistry'
-p46
-aS'operations research'
-p47
 aS'data analytics'
-p48
+p26
+asS'working-year'
+p27
+(lp28
+V(5, 10]
+p29
+aV(2, 5]
+p30
+asS'major'
+p31
+(lp32
+VBusiness
+p33
+aVData Science
+p34
+aVEconomics
+p35
+aVEngineering
+p36
+aVInformation Science
+p37
+aVChemical Engineering
+p38
+aVMathematics
+p39
+aVPhysics
+p40
+aVOperations Research
+p41
+aVManagement Science and Engineering
+p42
 asS'education'
-p49
-(lp50
+p43
+(lp44
 VBachelor
-p51
+p45
 aVMaster
-p52
+p46
 asS'responsibility'
-p53
-(lp54
+p47
+(lp48
 S'development'
-p55
+p49
 aS'information'
-p56
+p50
 aS'model'
-p57
+p51
 aS'analysis'
-p58
+p52
 as.

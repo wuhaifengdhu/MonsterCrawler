@@ -4,15 +4,15 @@ p2
 (lp3
 S'speech recognition'
 p4
-aS'r d'
-p5
 aS'classification'
-p6
+p5
 aS'communication'
-p7
+p6
 aS'data science'
-p8
+p7
 aS'human resources'
+p8
+aS'sales'
 p9
 aS'analytics'
 p10
@@ -70,6 +70,8 @@ aS'sql'
 p36
 aS'data'
 p37
+aS'a'
+aS'c'
 aS'pattern recognition'
 p38
 aS'science'
@@ -85,84 +87,66 @@ aS'command'
 p43
 aS'scripting'
 p44
-aS'application development'
+aS'physics'
 p45
-asS'working-year'
+aS'application development'
 p46
-(lp47
-V[0]
-p48
-asS'major'
+asS'working-year'
+p47
+(lp48
+S'[0]'
 p49
-(lp50
-S'linguistics'
-p51
-aS'business'
+asS'major'
+p50
+(lp51
+VLinguistics
 p52
-aS'physics mathematics'
+aVBusiness
 p53
-aS'mathematics'
+aVData Science
 p54
-aS'science'
+aVEngineering
 p55
-aS'data science'
+aVCognitive Science
 p56
-aS'statistic'
+aVComputer Science
 p57
-aS'communication'
+aVMathematics
 p58
-aS'machine learning'
+aVPhysics
 p59
-aS'analytics'
-p60
-aS'engineering'
-p61
-aS'cognitive science'
-p62
-aS'design'
-p63
-aS'computer science'
-p64
-aS'automation'
-p65
-aS'natural language processing'
-p66
-aS'computer science engineering'
-p67
-aS'law'
-p68
-aVphysic
-p69
-aS'computational linguistics'
-p70
 asS'education'
-p71
-(lp72
-S'Bachelor'
-p73
+p60
+(lp61
+VBachelor
+p62
+aVMaster
+p63
 asS'responsibility'
-p74
-(lp75
+p64
+(lp65
 S'development'
-p76
+p66
+aS'information'
+p67
 aS'product'
-p77
+p68
 aS'data analysis'
-p78
+p69
 aS'pattern'
-p79
+p70
 aS'processing'
-p80
+p71
 aS'analysis'
-p81
+p72
 aS'optimization'
-p82
+p73
 aS'design'
-p83
+p74
 aS'solve problem'
-p84
+p75
 aS'recommendation'
-p85
+p76
 aS'model'
-p86
+p77
 as.

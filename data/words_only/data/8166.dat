@@ -4,240 +4,234 @@ p2
 (dp3
 S'logistics'
 p4
-I1
-sS'communication'
+F0.013954525013481147
+sS'economics'
 p5
-I1
-sS'data science'
-p6
-I1
-sS'analytics'
-p7
-I1
-sS'engineering'
-p8
-I1
-sS'problem solving'
-p9
-I1
-sS'relational databases'
-p10
-I1
-sS'machine learning'
-p11
-I1
-sS'quantitative analysis'
-p12
-I1
-sS'random forest'
-p13
-I1
-sS'xml'
-p14
-I1
-sS'java'
-p15
-I1
-sS'big data'
-p16
-I1
-sS'programming languages'
-p17
-I1
-sS'critical thinking'
-p18
-I1
-sS'vbscript'
-p19
-I1
-sS'servlets'
-p20
-I1
-sS'strategy'
-p21
-I1
-sS'html'
-p22
-I1
-sS'oracle sql'
-p23
-I1
-sS'matlab'
-p24
-I1
-sS'innovation'
-p25
-I1
-sS'mathematics'
-p26
-I1
-sS'operations research'
-p27
-I1
-sS'computer science'
-p28
-I1
-sS'processing'
-p29
-I1
-sS'government'
-p30
-I1
-sS'python'
-p31
-I1
-sS'collaboration'
-p32
-I1
-sS'natural language processing'
-p33
-I1
-sS'data scientist'
-p34
-I1
-sS'random forests'
-p35
-I1
-sS'jsp'
-p36
-I1
-sS'sql'
-p37
-I1
-sS'data'
-p38
-I1
-sS'jquery'
-p39
-I1
-sS'c'
-I1
-sS'decision trees'
-p40
-I1
-sS'data visualization'
-p41
-I1
-sS'sql server'
-p42
-I1
-sS'vb.net'
-p43
-I1
-sS'economics'
-p44
-I1
-sS'programming'
-p45
-I1
-sS'analysis'
-p46
-I1
-sS'spss'
-p47
-I1
-sS'engineering management'
-p48
-I1
-sS'asp.net'
-p49
-I1
-sS'xquery'
-p50
-I1
-sS'r'
-I1
-sS'javascript'
-p51
-I1
-sS'oracle'
-p52
-I1
-sS'security'
-p53
-I1
-sS'powershell'
-p54
-I1
-ssS'working-year'
-p55
-(dp56
-V[0]
-p57
-I1
-ssS'major'
-p58
-(dp59
-S'mathematics physics'
-p60
-I1
-sS'big data'
-p61
-I1
-sS'management science'
-p62
-I1
+F0.0072620964374529133
 sS'communication'
-p63
-I1
+p6
+F0.0047974829063965347
 sS'data science'
-p64
-I1
-sS'economics'
-p65
-I1
-sS'machine learning'
-p66
-I1
-sS'engineering management'
-p67
-I1
+p7
+F0.0036449725020018158
 sS'analytics'
-p68
-I1
-sS'engineering'
-p69
-I1
+p8
+F0.0026355680666167473
 sS'natural language processing'
-p70
-I1
-sS'statistic'
-p71
-I1
-sVphysic
-p72
-I1
-sS'mathematics'
-p73
-I1
-sS'operations research'
-p74
-I1
-sS'computer science'
-p75
-I1
-ssS'education'
-p76
-(dp77
-VBachelor
-p78
-I1
-sVMaster
-p79
-I1
-ssS'responsibility'
-p80
-(dp81
-S'product'
-p82
-I1
-sS'processing'
-p83
-I1
+p9
+F0.0075938125210918269
+sS'problem solving'
+p10
+F0.0074382177725856096
+sS'sas'
+p11
+F0.0041976874444770206
+sS'relational databases'
+p12
+F0.014687888303490899
+sS'machine learning'
+p13
+F0.0019864173388910284
 sS'quantitative analysis'
-p84
-I1
+p14
+F0.023115165709214732
+sS'xml'
+p15
+F0.009981554289259377
+sS'statistics'
+p16
+F0.0028257965297048622
+sS'java'
+p17
+F0.0037553544474796469
+sS'big data'
+p18
+F0.0038567428071595985
+sS'programming languages'
+p19
+F0.014445336626669757
+sS'critical thinking'
+p20
+F0.011882562512154599
+sS'vbscript'
+p21
+F0.020848235886429915
+sS'servlets'
+p22
+F0.017091604483103963
+sS'xslt'
+p23
+F0.018747793000575504
+sS'strategy'
+p24
+F0.0047727619128085904
+sS'html'
+p25
+F0.0077578324037839222
+sS'oracle sql'
+p26
+F0.010692268036463075
+sS'matlab'
+p27
+F0.0038678823867820144
+sS'innovation'
+p28
+F0.0058661353701052231
+sS'mathematics'
+p29
+F0.005539070551744866
+sS'css'
+p30
+F0.0093130321023726353
+sS'computer science'
+p31
+F0.0042605553429915779
+sS'asp'
+p32
+F0.013870733344065675
+sS'government'
+p33
+F0.0079003621685726222
+sS'python'
+p34
+F0.0047386501159387816
+sS'collaboration'
+p35
+F0.0077505133941619814
+sS'processing'
+p36
+F0.004948751777790061
+sS'data scientist'
+p37
+F0.0032102171671632676
+sS'random forests'
+p38
+F0.017012891171200382
+sS'jsp'
+p39
+F0.015155008176613461
+sS'sql'
+p40
+F0.0020664965419183246
+sS'data'
+p41
+F0.001796992240522317
+sS'jquery'
+p42
+F0.011570450119480373
+sS'c'
+F0.01136929021725543
+sS'decision trees'
+p43
+F0.012642066777319119
+sS'sql server'
+p44
+F0.0084782680887230955
+sS'vb.net'
+p45
+F0.016447481450654656
+sS'.net'
+p46
+F0.011419535874619479
+sS'programming'
+p47
+F0.0033403491964693211
 sS'analysis'
-p85
-I1
+p48
+F0.0010382385507700907
+sS'spss'
+p49
+F0.0066859055480532276
+sS'engineering management'
+p50
+F0.0153731082743439
+sS'asp.net'
+p51
+F0.01422076899687706
+sS'xquery'
+p52
+F0.020848235886429915
+sS'r'
+F0.0033635897370541887
+sS'algorithms'
+p53
+F0.0054368838738341032
+sS'operations research'
+p54
+F0.0087301167137936661
+sS'javascript'
+p55
+F0.0067195291333998304
+sS'science'
+p56
+F0.0042608114436005597
+sS'oracle'
+p57
+F0.0079546106017009746
+sS'security'
+p58
+F0.013244550398301769
+sS'physics'
+p59
+F0.0073729829619595859
+sS'powershell'
+p60
+F0.017519113970632376
+ssS'working-year'
+p61
+(dp62
+S'[0]'
+p63
+F0.0066551961531647963
+ssS'major'
+p64
+(dp65
+VStatistics
+p66
+F0.0054591053632972123
+sVData Science
+p67
+F0.0031129969169850381
+sVEconomics
+p68
+F0.0049720349924983667
+sVComputer Science
+p69
+F0.0027435022616733263
+sVMathematics
+p70
+F0.0051947652411589449
+sVPhysics
+p71
+F0.007950703336969971
+sVOperations Research
+p72
+F0.0097537239339004662
+sVManagement Science and Engineering
+p73
+F0.0039077107226330073
+ssS'education'
+p74
+(dp75
+VBachelor
+p76
+F0.0027617540232421417
+sVMaster
+p77
+F0.0022038808643156877
+ssS'responsibility'
+p78
+(dp79
+S'product'
+p80
+F0.0040757360324780202
+sS'processing'
+p81
+F0.004948751777790061
+sS'quantitative analysis'
+p82
+F0.023115165709214732
+sS'analysis'
+p83
+F0.0010382385507700907
 ss.

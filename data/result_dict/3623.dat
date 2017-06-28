@@ -2,103 +2,101 @@
 S'skills'
 p2
 (lp3
-S'organization'
+S'data science'
 p4
-aS'finance'
-p5
-aS'big data'
-p6
-aS'banking'
-p7
-aS'python'
-p8
-aS'science'
-p9
-aS'data science'
-p10
-aS'data scientist'
-p11
-aS'machine learning'
-p12
-aS'credit'
-p13
-aS'r'
 aS'product strategy'
-p14
+p5
+aS'sas'
+p6
+aS'research'
+p7
+aS'big data'
+p8
+aS'credit'
+p9
+aS'strategy'
+p10
 aS'computer science'
-p15
-aS'data processing'
-p16
-aS'sql'
-p17
+p11
 aS'mathematics'
+p12
+aS'finance'
+p13
+aS'python'
+p14
+aS'processing'
+p15
+aS'data scientist'
+p16
+aS'data processing'
+p17
+aS'sql'
 p18
 aS'credit risk'
 p19
 aS'data'
 p20
-aS'research'
-p21
 aS'customer experience'
+p21
+aS'science'
 p22
-asS'working-year'
+aS'programming'
 p23
-(lp24
-V(5, 10]
+aS'machine learning'
+p24
+aS'banking'
 p25
-aV(2, 5]
+aS'r'
+aS'organization'
 p26
-asS'major'
+asS'working-year'
 p27
 (lp28
-S'finance'
+V(5, 10]
 p29
-aS'big data'
+aV(2, 5]
 p30
-aS'science'
+asS'major'
 p31
-aS'data science'
-p32
-aS'machine learning'
+(lp32
+VMathematics
 p33
-aS'business'
+aVData Science
 p34
-aS'design'
+aVEconomics
 p35
-aS'computer science'
+aVComputer Science
 p36
-aS'statistic'
+aVBusiness
 p37
-aS'mathematics'
-p38
 asS'education'
-p39
-(lp40
+p38
+(lp39
 S'Bachelor'
-p41
+p40
 asS'responsibility'
-p42
-(lp43
+p41
+(lp42
 S'product'
+p43
+aS'processing'
 p44
 aS'formulate'
 p45
-aS'business problem'
-p46
 aS'predict'
+p46
+aS'insight'
 p47
-aVinsight
-p48
 aS'analytic'
-p49
+p48
 aS'design'
-p50
+p49
 aS'solve problem'
-p51
+p50
 aS'understand'
-p52
+p51
 aS'implement'
-p53
+p52
 aS'model'
-p54
+p53
 as.

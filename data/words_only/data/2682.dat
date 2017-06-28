@@ -2,121 +2,121 @@
 S'skills'
 p2
 (dp3
-S'training'
+S'intelligence'
 p4
-I1
-sS'spatial analysis'
-p5
-I1
-sS'big data'
-p6
-I1
-sS'social network analysis'
-p7
-I1
-sS'intelligence'
-p8
-I1
+F0.018992644474436843
 sS'data science'
-p9
-I1
-sS'data scientist'
-p10
-I1
-sS'geospatial modeling'
-p11
-I1
-sS'analysis'
-p12
-I1
-sS'research'
-p13
-I1
+p5
+F0.0048501650228249963
 sS'analytics'
-p14
-I1
+p6
+F0.0035070058950948655
 sS'defense'
-p15
-I1
-sS'geospatial intelligence'
-p16
-I1
-sS'energy'
-p17
-I1
-sS'innovation'
-p18
-I1
-sS'organization'
-p19
-I1
-sS'modeling'
-p20
-I1
+p7
+F0.014240476427129993
 sS'insurance'
-p21
-I1
+p8
+F0.01271440086108745
 sS'geography'
+p9
+F0.020165938299525975
+sS'statistics'
+p10
+F0.0037601324790427606
+sS'big data'
+p11
+F0.0051319561546881755
+sS'research'
+p12
+F0.0034401626679908801
+sS'geospatial intelligence'
+p13
+F0.024273056368659576
+sS'innovation'
+p14
+F0.0078057446457045305
+sS'energy'
+p15
+F0.012441513330847113
+sS'government'
+p16
+F0.010512578692052278
+sS'social network analysis'
+p17
+F0.018384369697531801
+sS'data scientist'
+p18
+F0.0042716599401769282
+sS'modeling'
+p19
+F0.003274781004119163
+sS'data'
+p20
+F0.00047823180594545531
+sS'training'
+p21
+F0.018978183475986524
+sS'science'
 p22
-I1
-ssS'working-year'
+F0.0028348140652987596
+sS'geospatial modeling'
 p23
-(dp24
-V(5, 10]
+F0.027741604203717223
+sS'analysis'
+p24
+F0.0027630542076945964
+sS'organization'
 p25
-I1
-ssS'major'
+F0.0071096122551680694
+ssS'working-year'
 p26
 (dp27
-S'information'
+V(5, 10]
 p28
-I1
-sS'information systems'
+F0.0048614687966808817
+ssS'major'
 p29
-I1
-sS'big data'
-p30
-I1
-sS'data science'
+(dp30
+VData Science
 p31
-I1
-sS'analytics'
+F0.0041422942846978334
+sVStatistics
 p32
-I1
-sS'information system'
+F0.0072641321366454844
+sVInformation Science
 p33
-I1
-sS'statistic'
+F0.010212319308685863
+sVGeography
 p34
-I1
-sS'geography'
-p35
-I1
+F0.019791821044978911
 ssS'education'
-p36
-(dp37
-S'Bachelor'
+p35
+(dp36
+VBachelor
+p37
+F0.003674914627701237
+sVMaster
 p38
-I1
+F0.0029325834081620037
 ssS'responsibility'
 p39
 (dp40
 S'information'
 p41
-I1
+F0.033558996762807936
 sS'product'
 p42
-I1
+F0.0054233584303134946
 sS'analysis'
 p43
-I1
+F0.0027630542076945964
 sS'analytic'
 p44
-I1
+F0.027311201277818258
 sS'report'
 p45
-I1
+F0.0083680500813404397
 sS'modeling'
 p46
-I1
+F0.003274781004119163
 ss.

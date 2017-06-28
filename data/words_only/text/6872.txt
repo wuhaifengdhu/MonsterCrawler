@@ -1,5 +1,5 @@
-skills: {'management': 1, 'analysis': 1, 'research': 1, 'analytics': 1, 'engineering': 1, 'mathematics': 1, 'product management': 1, 'modeling': 1, 'education': 1, u'bayesian statistic': 1, 'insurance': 1, 'validation': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'management': 1, 'general': 1, 'analytics': 1, 'engineering': 1, 'statistic': 1, 'mathematics': 1}
-education: {u'Master': 1, u'Doctor': 1}
-responsibility: {'development': 1, 'product': 1, 'analysis': 1, 'modeling': 1, 'model': 1, 'implement': 1}
+skills: {'product management': 0.02279560597829592, 'statistics': 0.006806663173741639, 'data': 0.0008657042910545468, 'analysis': 0.002500866582146934, 'research': 0.006227447749355753, 'analytics': 0.006348448627616982, 'engineering': 0.008940545818055872, 'mathematics': 0.013342286730480334, 'sas': 0.010111217931951947, 'modeling': 0.01185614144557011, 'advanced analytics': 0.021480369009767034, 'education': 0.03063688685858787, u'bayesian statistic': 0.028385115534169784, 'insurance': 0.046031699467878655, 'validation': 0.02308001682536567}
+working-year: {}
+major: {u'Mathematics': 0.012512938172134684, u'Data Science': 0.007498459727044253, u'Statistics': 0.013149669853197665, u'Engineering': 0.008940545818055872, u'Management Science and Engineering': 0.009412733857437171}
+education: {u'Master': 0.005308618140322459, u'Doctor': 0.007950231910777138}
+responsibility: {'development': 0.008839131404482618, 'product': 0.00981746635560399, 'analysis': 0.002500866582146934, 'develop ... model': 0.02262710238814699, 'modeling': 0.01185614144557011, 'implement': 0.01545885529284385, 'model': 0.04517987859566834}

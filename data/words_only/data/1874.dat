@@ -4,242 +4,218 @@ p2
 (dp3
 S'data science'
 p4
-I1
+F0.0033787666451140425
 sS'tableau'
 p5
-I1
+F0.0056433317054039095
 sS'analytics'
 p6
-I1
+F0.0048861655167613859
 sS'engineering'
 p7
-I1
+F0.0068812066127733407
 sS'defense'
 p8
-I1
+F0.0099203318930568482
 sS'security clearance'
 p9
-I1
+F0.010263540655221544
 sS'data mining'
 p10
-I1
+F0.0059606160918037566
 sS'machine learning'
 p11
-I1
+F0.0018413419152641553
 sVpanda
 p12
-I1
+F0.024733859601654844
 sS'clustering'
 p13
-I1
+F0.0090545296644837358
 sS'visualization'
 p14
-I1
+F0.0052648743593650821
 sS'technical leadership'
 p15
-I1
+F0.012636796959248032
 sS'open source'
 p16
-I1
+F0.0089829206177474558
 sS'big data'
 p17
-I1
+F0.0035750705796704142
 sS'storage'
 p18
-I1
+F0.01050702686108556
 sS'integration'
 p19
-I1
+F0.0064782110174005968
 sS'access'
 p20
-I1
+F0.0065153427671248727
 sS'information visualization'
 p21
-I1
+F0.015918251778178034
 sS'computer science'
 p22
-I1
+F0.0039493911887281477
 sS'leadership'
 p23
-I1
+F0.009283194501145068
 sS'mathematics'
 p24
-I1
+F0.0051345316912241737
 sS'scheme'
 p25
-I1
+F0.0153684095609712
 sS'numpy'
 p26
-I1
+F0.020154383714087017
 sS'data analysis'
 p27
-I1
+F0.0041678708285552389
 sS'visual analytics'
 p28
-I1
+F0.015995214926248311
 sS'government'
 p29
-I1
+F0.0073233694259240596
 sS'python'
 p30
-I1
+F0.0029283792851307077
 sS'javascript'
 p31
-I1
+F0.012457554011359236
 sS'data scientist'
 p32
-I1
+F0.0029757631043929164
 sS'matplotlib'
 p33
-I1
+F0.012708518929983979
 sS'mapreduce'
 p34
-I1
+F0.0074064649352694398
 sS'scipy'
 p35
-I1
+F0.022704425266769877
 sS'military'
 p36
-I1
+F0.010484995988853397
 sS'aviation'
 p37
-I1
+F0.05040992481674083
 sS'spark'
 p38
-I1
+F0.0047363360205496027
 sS'data'
 p39
-I1
+F0.0046641034557376986
 sS'software development'
 p40
-I1
+F0.0059556084777339117
 sS'training'
 p41
-I1
-sS'scikit-learn'
+F0.0066103785141076662
+sS'science'
 p42
-I1
-sS'semantic web'
+F0.0078992571707201392
+sS'scikit-learn'
 p43
-I1
-sS'analysis'
+F0.010077191857043508
+sS'semantic web'
 p44
-I1
-sS'simulation'
+F0.014292594141638181
+sS'analysis'
 p45
-I1
-sS'data engineering'
+F0.00096241213975879194
+sS'simulation'
 p46
-I1
-sS'rdf'
+F0.0075416735608830662
+sS'data engineering'
 p47
-I1
-sS'hadoop'
+F0.011249524595695053
+sS'rdf'
 p48
-I1
-sS'security'
+F0.016074346340550529
+sS'hadoop'
 p49
-I1
-sS'statistical analysis'
+F0.0072180140528065439
+sS'security'
 p50
-I1
-ssS'working-year'
+F0.0061386258868533477
+sS'statistical analysis'
 p51
-(dp52
+F0.0072323038017208085
+ssS'working-year'
+p52
+(dp53
 V(5, 10]
-p53
-I1
-sV(2, 5]
 p54
-I1
+F0.0033866411842046595
 ssS'major'
 p55
 (dp56
-S'information'
+VMathematics
 p57
-I1
-sS'big data'
+F0.0048153722741080107
+sVData Science
 p58
-I1
-sS'data science'
+F0.0028856432095647824
+sVEngineering
 p59
-I1
-sS'data science analytics'
+F0.0063269070976593473
+sVComputer Science
 p60
-I1
-sS'machine learning'
-p61
-I1
-sS'analytics'
-p62
-I1
-sS'engineering'
-p63
-I1
-sS'design'
-p64
-I1
-sS'computer science'
-p65
-I1
-sS'phd'
-p66
-I1
-sS'data mining'
-p67
-I1
-sS'mathematics'
-p68
-I1
-sS'computer science mathematics'
-p69
-I1
-sS'data mining machine learning'
-p70
-I1
+F0.0025431341189668475
 ssS'education'
-p71
-(dp72
-VMaster
-p73
-I1
+p61
+(dp62
+VBachelor
+p63
+F0.0025600528867132212
+sVMaster
+p64
+F0.0020429232731016202
 sVDoctor
-p74
-I1
+p65
+F0.0030594993589226631
 ssS'responsibility'
-p75
-(dp76
+p66
+(dp67
 S'development'
-p77
-I1
+p68
+F0.0034015758494778613
 sS'information'
-p78
-I1
+p69
+F0.0038963629200263893
 sS'product'
-p79
-I1
+p70
+F0.011334209753239437
 sS'data analysis'
-p80
-I1
-sS'data mining'
-p81
-I1
+p71
+F0.0041678708285552389
 sS'analysis'
-p82
-I1
+p72
+F0.00096241213975879194
 sS'simulation'
-p83
-I1
+p73
+F0.0075416735608830662
 sS'design'
-p84
-I1
-sS'identify trend'
-p85
-I1
+p74
+F0.0082046000562835814
+sS'decision making'
+p75
+F0.0091757950840716668
+sS'data mining'
+p76
+F0.0059606160918037566
 sS'report'
-p86
-I1
+p77
+F0.0058294281465517666
+sS'identify ... trend'
+p78
+F0.012062413237922655
 sS'data aggregation'
-p87
-I1
+p79
+F0.015699259471873336
 ss.

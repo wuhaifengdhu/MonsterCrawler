@@ -4,188 +4,168 @@ p2
 (dp3
 S'scientific programming'
 p4
-I1
+F0.019144924435916828
 sS'neural networks'
 p5
-I1
-sS'natural language processing'
+F0.010994605063283073
+sS'engineering'
 p6
-I1
-sS'distributed computing'
-p7
-I1
-sVpanda
-p8
-I1
-sS'electrical engineering'
-p9
-I1
-sS'dna'
-p10
-I1
-sS'big data'
-p11
-I1
-sS'biochemistry'
-p12
-I1
-sS'deep learning'
-p13
-I1
-sS'research'
-p14
-I1
-sS'dna sequencing'
-p15
-I1
-sS'innovation'
-p16
-I1
-sS'tensorflow'
-p17
-I1
-sS'numpy'
-p18
-I1
-sS'matlab'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'signal processing'
-p21
-I1
-sS'computational biology'
-p22
-I1
-sS'python'
-p23
-I1
-sS'collaboration'
-p24
-I1
-sS'processing'
-p25
-I1
-sS'data scientist'
-p26
-I1
-sS'matplotlib'
-p27
-I1
-sS'bioinformatics'
-p28
-I1
-sS'sequencing'
-p29
-I1
-sS'training'
-p30
-I1
-sS'software engineering'
-p31
-I1
-sS'information theory'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'architecture'
-p35
-I1
-sS'healthcare'
-p36
-I1
-sS'theano'
-p37
-I1
-ssS'working-year'
-p38
-(dp39
-V[0]
-p40
-I1
-ssS'major'
-p41
-(dp42
-S'electrical engineering'
-p43
-I1
-sS'information'
-p44
-I1
-sS'bioinformatics'
-p45
-I1
-sS'big data'
-p46
-I1
-sS'computational biology'
-p47
-I1
-sS'computing'
-p48
-I1
-sS'biochemistry'
-p49
-I1
-sS'statistic'
-p50
-I1
-sS'machine learning'
-p51
-I1
-sS'design'
-p52
-I1
-sS'computer science'
-p53
-I1
-sS'machine learning big data'
-p54
-I1
+F0.0041380228955191041
 sS'natural language processing'
-p55
-I1
-sS'software engineering'
-p56
-I1
-sS'computational biolog'
-p57
-I1
-sS'electrical'
-p58
-I1
-sVphysic
-p59
-I1
-ssS'education'
-p60
-(dp61
-VDoctor
-p62
-I1
-ssS'responsibility'
-p63
-(dp64
-S'information'
-p65
-I1
-sS'model'
-p66
-I1
+p7
+F0.0084660747701361585
+sS'distributed computing'
+p8
+F0.01208579885965984
+sVpanda
+p9
+F0.014873739895589738
+sS'electrical engineering'
+p10
+F0.01339400366006357
+sS'dna'
+p11
+F0.01592389482845618
+sS'big data'
+p12
+F0.0042997470485225259
+sS'biochemistry'
+p13
+F0.015463993255208353
+sS'deep learning'
+p14
+F0.010522100280045441
+sS'research'
+p15
+F0.0086468953546797803
+sS'dna sequencing'
+p16
+F0.018798121124566212
+sS'innovation'
+p17
+F0.0065399482166713643
+sS'tensorflow'
+p18
+F0.014577637917994711
+sS'numpy'
+p19
+F0.012119865882119895
+sS'matlab'
+p20
+F0.0043121661744529218
+sS'computer science'
+p21
+F0.004749943456713584
+sS'signal processing'
+p22
+F0.010586723012029392
+sS'computational biology'
+p23
+F0.014073783160585529
+sS'python'
+p24
+F0.0035219696807653107
+sS'collaboration'
+p25
+F0.0086407750678157234
 sS'processing'
-p67
-I1
-sS'design'
-p68
-I1
+p26
+F0.0055171894819956765
+sS'data scientist'
+p27
+F0.0035789583282563459
+sS'training'
+p28
+F0.015900640209610333
+sS'matplotlib'
+p29
+F0.015284570064440192
+sS'bioinformatics'
+p30
+F0.011011004358962687
+sS'sequencing'
+p31
+F0.03333793150553134
+sS'sensors'
+p32
+F0.016803222672445554
+sS'data'
+p33
+F0.00080136140455724946
+sS'a'
+F0.0063177091000473874
+sS'c'
+F0.0042250740672233021
+sS'software engineering'
+p34
+F0.0087907533402500401
+sS'science'
+p35
+F0.0023751144871422044
+sS'information theory'
+p36
+F0.020209384273378081
+sS'programming'
+p37
+F0.0037240379555232295
+sS'machine learning'
+p38
+F0.0022145868980879709
+sS'architecture'
+p39
+F0.007388562576637359
+sS'healthcare'
+p40
+F0.0091122984571289332
+sS'theano'
+p41
+F0.016539840981157537
+ssS'working-year'
+p42
+(dp43
+S'[0]'
+p44
+F0.0074196443599472391
+ssS'major'
+p45
+(dp46
+VBiological Engineering
+p47
+F0.0088857965556644949
+sVEngineering
+p48
+F0.0041380228955191041
+sVElectrical and Electronics Engineering
+p49
+F0.010630502011401964
+sVComputer Science
+p50
+F0.0030586342782168846
+ssS'education'
+p51
+(dp52
+VDoctor
+p53
+F0.0036796681478934732
+ssS'responsibility'
+p54
+(dp55
+S'development'
+p56
+F0.004091084467615266
+sS'information'
+p57
+F0.0046861662146263335
+sS'processing'
+p58
+F0.0055171894819956765
 sS'statistical model'
-p69
-I1
+p59
+F0.012131298329793566
+sS'design'
+p60
+F0.0049338473311435057
+sS'model'
+p61
+F0.015683217992246361
 ss.

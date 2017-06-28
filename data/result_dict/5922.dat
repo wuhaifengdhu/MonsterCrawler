@@ -2,74 +2,73 @@
 S'skills'
 p2
 (lp3
-S'access'
+S'testing'
 p4
-aS'organization'
+aS'test driven development'
 p5
-aS'open source'
+aS'engineering'
 p6
-aS'programming'
+aS'open source'
 p7
-aS'software engineering'
-p8
 aS'scala'
-p9
-aS'database design'
-p10
+p8
 aS'agile'
+p9
+aS'hadoop'
+p10
+aS'access'
 p11
-aS'functional programming'
+aS'android'
 p12
-aS'testing'
+aS'database design'
 p13
 aS'data scientist'
 p14
-aS'hadoop'
-p15
-aS'test driven development'
-p16
-aS'machine learning'
-p17
-aS'sql database design'
-p18
-aS'engineering'
-p19
 aS'oop'
-p20
+p15
 aS'sql'
-p21
+p16
 aS'java'
-p22
+p17
 aS'spark'
-p23
+p18
 aS'data'
-p24
-asS'working-year'
-p25
-(lp26
-V(2, 5]
-p27
-asS'major'
-p28
-(lp29
-S'engineering'
-p30
-aS'design'
-p31
+p19
+aS'a'
 aS'software engineering'
-p32
+p20
+aS'functional programming'
+p21
+aS'programming'
+p22
 aS'machine learning'
-p33
+p23
+aS'sql database design'
+p24
+aS'organization'
+p25
+asS'working-year'
+p26
+(lp27
+V(2, 5]
+p28
+asS'major'
+p29
+(lp30
+VEngineering
+p31
+aVComputer Science
+p32
 asS'education'
-p34
-(lp35
+p33
+(lp34
 S'Bachelor'
-p36
+p35
 asS'responsibility'
-p37
-(lp38
+p36
+(lp37
 S'development'
-p39
+p38
 aS'design'
-p40
+p39
 as.

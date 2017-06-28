@@ -4,7 +4,7 @@ p2
 (lp3
 S'scikit-learn'
 p4
-aS'energy'
+aS'data science'
 p5
 aS'analytics'
 p6
@@ -32,13 +32,13 @@ aS'mathematics'
 p17
 aS'numpy'
 p18
-aS'data modeling'
+aS'energy'
 p19
-aS'python'
+aS'data modeling'
 p20
-aS'processing'
+aS'python'
 p21
-aS'business process'
+aS'processing'
 p22
 aS'sql'
 p23
@@ -48,6 +48,7 @@ aS'data'
 p25
 aS'statistical programming'
 p26
+aS'a'
 aS'data visualization'
 p27
 aS'statistical analysis'
@@ -65,80 +66,62 @@ p33
 aS'machine learning'
 p34
 aS'r'
-aS'retail'
+aS'algorithms'
 p35
-aS'predictive analytics'
+aS'retail'
 p36
-asS'working-year'
-p37
-(lp38
-V(2, 5]
-p39
-asS'major'
-p40
-(lp41
-S'mathematics'
-p42
-aS'economics'
-p43
-aS'business'
-p44
-aS'science'
-p45
-aS'applied mathematics'
-p46
-aS'applied math'
-p47
-aS'statistic'
-p48
-aS'economics computer science'
-p49
-aS'machine learning'
-p50
-aS'analytics'
-p51
-aS'design'
-p52
-aS'computer science operation research'
-p53
-aS'natural language processing'
-p54
-aS'computer science'
-p55
-aVphysic
-p56
 aS'predictive analytics'
-p57
+p37
+asS'working-year'
+p38
+(lp39
+V(2, 5]
+p40
+asS'major'
+p41
+(lp42
+VMathematics
+p43
+aVData Science
+p44
+aVEconomics
+p45
+aVComputer Science
+p46
+aVBusiness
+p47
 asS'education'
-p58
-(lp59
+p48
+(lp49
 VBachelor
-p60
+p50
 asS'responsibility'
-p61
-(lp62
+p51
+(lp52
 S'product'
-p63
+p53
 aS'processing'
-p64
-aVinsight
-p65
+p54
+aS'insight'
+p55
 aS'communicate'
-p66
+p56
 aS'analysis'
-p67
-aS'statistical model'
-p68
+p57
+aS'develop ... model'
+p58
 aS'design'
-p69
+p59
 aS'solve problem'
-p70
+p60
 aS'report'
-p71
+p61
 aS'modeling'
-p72
+p62
 aS'model'
-p73
+p63
+aS'statistical model'
+p64
 aS'quantitative analysis'
-p74
+p65
 as.

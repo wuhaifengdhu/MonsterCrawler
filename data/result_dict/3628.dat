@@ -2,18 +2,17 @@
 S'skills'
 p2
 (lp3
-S'c'
-aS'big data'
+S'teradata'
 p4
-aS'tensorflow'
+aS'big data'
 p5
-aS'communication'
+aS'tensorflow'
 p6
-aS'data science'
+aS'communication'
 p7
-aS'data scientist'
+aS'data science'
 p8
-aS'teradata'
+aS'data scientist'
 p9
 aS'machine learning'
 p10
@@ -38,53 +37,33 @@ p19
 asS'working-year'
 p20
 (lp21
-V(5, 10]
+sS'major'
 p22
-asS'major'
-p23
-(lp24
-S'business'
+(lp23
+VData Science
+p24
+aVComputer Science
 p25
-aS'big data'
+aVBusiness
 p26
-aS'ee'
-p27
-aS'science'
-p28
-aS'data science'
-p29
-aS'data science analytics'
-p30
-aS'machine learning'
-p31
-aS'big data analytics'
-p32
-aS'analytics'
-p33
-aS'design'
-p34
-aS'communication'
-p35
-aS'phd'
-p36
-aS'data analytics'
-p37
 asS'education'
-p38
-(lp39
-VDoctor
-p40
+p27
+(lp28
+VMaster
+p29
+aVDoctor
+p30
 asS'responsibility'
-p41
-(lp42
+p31
+(lp32
 S'development'
-p43
+p33
 aS'analytic'
-p44
+p34
 aS'product'
-p45
+p35
 aS'design'
-p46
+p36
 aS'model'
-p47
+p37
 as.

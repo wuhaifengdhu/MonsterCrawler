@@ -20,7 +20,7 @@ aS'research'
 p11
 aS'visualization'
 p12
-aS'management'
+aS'statistics'
 p13
 aS'strategy'
 p14
@@ -46,101 +46,85 @@ aS'processing'
 p24
 aS'data scientist'
 p25
-aS'sql'
+aS'management'
 p26
-aS'modeling'
+aS'sql'
 p27
-aS'data'
+aS'modeling'
 p28
-aS'project management'
+aS'data'
 p29
-aS'data visualization'
+aS'project management'
 p30
-aS'data cleaning'
+aS'data visualization'
 p31
-aS'science'
+aS'data cleaning'
 p32
-aS'analysis'
+aS'science'
 p33
-aS'machine learning'
+aS'analysis'
 p34
+aS'machine learning'
+p35
 aS'r'
 aS'financial services'
-p35
-asS'working-year'
 p36
-(lp37
+asS'working-year'
+p37
+(lp38
 V(5, 10]
-p38
-asS'major'
 p39
-(lp40
-S'management'
-p41
-aS'business'
+asS'major'
+p40
+(lp41
+VData Science
 p42
-aS'statistics computer science'
+aVStatistics
 p43
-aS'science'
+aVComputer Science
 p44
-aS'statistic'
+aVBusiness
 p45
-aVapplied statistic
+aVManagement Science and Engineering
 p46
-aS'machine learning'
-p47
-aS'analytics'
-p48
-aS'computing'
-p49
-aS'artificial intelligence'
-p50
-aS'machine learning artificial intelligence'
-p51
-aS'natural language processing'
-p52
-aS'advanced analytics'
-p53
-aS'project management'
-p54
-aS'computer science'
-p55
 asS'education'
-p56
-(lp57
+p47
+(lp48
 VMaster
-p58
+p49
+aVDoctor
+p50
 asS'responsibility'
-p59
-(lp60
+p51
+(lp52
 S'development'
-p61
-aS'data analysis'
-p62
+p53
 aS'processing'
-p63
+p54
 aS'business problem'
-p64
-aVinsight
-p65
-aS'analysis'
-p66
-aS'analytic'
-p67
-aS'interface'
-p68
-aS'solve problem'
-p69
-aS'recommendation'
-p70
-aS'report'
-p71
-aS'modeling'
-p72
-aS'model'
-p73
+p55
 aS'quantitative analysis'
-p74
+p56
+aS'insight'
+p57
+aS'analysis'
+p58
+aS'analytic'
+p59
+aS'data analysis'
+p60
+aS'solve problem'
+p61
+aS'recommendation'
+p62
+aS'report'
+p63
+aS'modeling'
+p64
+aS'model'
+p65
+aS'interface'
+p66
 aS'decision-making'
-p75
+p67
 as.

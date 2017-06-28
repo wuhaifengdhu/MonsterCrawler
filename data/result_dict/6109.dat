@@ -6,7 +6,7 @@ S'nlp'
 p4
 aS'healthcare industry'
 p5
-aS'intelligence'
+aS'communication'
 p6
 aS'julia'
 p7
@@ -16,120 +16,121 @@ aS'business intelligence'
 p9
 aS'statistical analysis'
 p10
-aS'education'
+aS'sas'
 p11
-aS'random forest'
+aS'education'
 p12
-aS'clustering'
+aS'random forest'
 p13
-aS'management'
+aS'clustering'
 p14
-aS'integration'
+aS'statistics'
 p15
-aS'research'
+aS'classification'
 p16
-aS'knime'
+aS'management'
 p17
-aS'matlab'
+aS'integration'
 p18
-aS'communication'
+aS'research'
 p19
-aS'quality management'
+aS'knime'
 p20
-aS'performance management'
+aS'matlab'
 p21
-aS'python'
+aS'intelligence'
 p22
-aS'collaboration'
+aS'quality management'
 p23
-aS'data scientist'
+aS'performance management'
 p24
-aS'data quality'
+aS'python'
 p25
-aS'svm'
+aS'collaboration'
 p26
-aS'octave'
+aS'data scientist'
 p27
-aS'sql'
+aS'data quality'
 p28
-aS'regression'
+aS'svm'
 p29
-aS'modeling'
+aS'octave'
 p30
-aS'translation'
+aS'sql'
 p31
-aS'data'
+aS'regression'
 p32
-aS'decision trees'
+aS'modeling'
 p33
-aS'programming'
+aS'translation'
 p34
-aS'analysis'
+aS'data'
 p35
-aS'machine learning'
+aS'c'
+aS'decision trees'
 p36
+aS'programming'
+p37
+aS'analysis'
+p38
+aS'machine learning'
+p39
 aS'r'
 aS'scripting'
-p37
-aS'logistic regression'
-p38
-aS'healthcare'
-p39
-aS'data integration'
 p40
-asS'working-year'
+aS'logistic regression'
 p41
-(lp42
-V(5, 10]
+aS'healthcare'
+p42
+aS'military'
 p43
-asS'major'
+aS'data integration'
 p44
-(lp45
-S'information'
-p46
-aS'management'
+asS'working-year'
+p45
+(lp46
+V(5, 10]
 p47
-aS'business'
+asS'major'
 p48
-aS'communication'
-p49
-aS'phd'
+(lp49
+VData Science
 p50
-aS'analytics'
+aVStatistics
 p51
-aS'design'
+aVComputer Science
 p52
-aS'statistic'
+aVBusiness
 p53
-aS'machine learning'
+aVManagement Science and Engineering
 p54
 asS'education'
 p55
 (lp56
-VMaster
+VBachelor
 p57
-aVDoctor
+aVMaster
 p58
-asS'responsibility'
+aVDoctor
 p59
-(lp60
-S'large data set'
-p61
-aS'product'
+asS'responsibility'
+p60
+(lp61
+S'information'
 p62
-aS'information'
+aS'product'
 p63
-aVinsight
+aS'large data set'
 p64
-aS'communicate'
+aS'insight'
 p65
-aS'analysis'
+aS'communicate'
 p66
-aS'statistical model'
+aS'analysis'
 p67
-aS'analytic'
+aS'develop ... model'
 p68
-aS'statistical method'
+aS'analytic'
 p69
 aS'design'
 p70
@@ -141,4 +142,6 @@ aS'understand'
 p73
 aS'model'
 p74
+aS'statistical model'
+p75
 as.

@@ -6,7 +6,7 @@ S'sip'
 p4
 aS'theory'
 p5
-aS'management'
+aS'philosophy'
 p6
 aS'communication'
 p7
@@ -14,80 +14,60 @@ aS'applied mathematics'
 p8
 aS'economics'
 p9
-aS'data scientist'
+aS'physics'
 p10
-aS'philosophy'
-p11
 aS'strategy'
+p11
+aS'engineering'
 p12
-aS'engineering'
-p13
-aS'product design'
-p14
-aS'executive management'
-p15
-aS'mathematics'
-p16
-aS'data'
-p17
-aS'collaboration'
-p18
-aS'project management'
-p19
-aS'finance'
-p20
-asS'working-year'
-p21
-(lp22
-V(5, 10]
-p23
-asS'major'
-p24
-(lp25
-S'mathematics physics'
-p26
 aS'management'
-p27
-aS'economics'
-p28
-aS'finance'
-p29
-aS'business'
-p30
-aS'communication'
-p31
-aS'applied mathematics'
-p32
-aS'philosophy'
-p33
-aS'engineering'
-p34
-aS'design'
-p35
-aS'project management'
-p36
-aS'applied math'
-p37
+p13
+aS'executive management'
+p14
 aS'mathematics'
-p38
-aVphysic
-p39
-aS'finance economics'
-p40
+p15
+aS'data'
+p16
+aS'collaboration'
+p17
+aS'project management'
+p18
+aS'finance'
+p19
+asS'working-year'
+p20
+(lp21
+V(5, 10]
+p22
+asS'major'
+p23
+(lp24
+VBusiness
+p25
+aVEconomics
+p26
+aVEngineering
+p27
+aVMathematics
+p28
+aVPhysics
+p29
+aVManagement Science and Engineering
+p30
 asS'education'
-p41
-(lp42
+p31
+(lp32
 VDoctor
-p43
+p33
 asS'responsibility'
-p44
-(lp45
+p34
+(lp35
 S'development'
-p46
+p36
 aS'product'
-p47
+p37
 aS'prototype'
-p48
+p38
 aS'design'
-p49
+p39
 as.

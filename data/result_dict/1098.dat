@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'biology'
+S'a'
+aS'biology'
 p4
 aS'education'
 p5
@@ -28,18 +29,16 @@ p15
 asS'major'
 p16
 (lp17
-S'science'
+VBiological Engineering
 p18
-aS'biology'
-p19
 asS'education'
-p20
-(lp21
+p19
+(lp20
 VBachelor
-p22
+p21
 asS'responsibility'
-p23
-(lp24
+p22
+(lp23
 S'report'
-p25
+p24
 as.

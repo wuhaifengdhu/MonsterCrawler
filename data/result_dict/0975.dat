@@ -2,99 +2,85 @@
 S'skills'
 p2
 (lp3
-S'python'
+S'nlp'
 p4
-aS'communication'
-p5
-aS'data mining'
-p6
-aS'data scientist'
-p7
 aS'strategy'
+p5
+aS'python'
+p6
+aS'communication'
+p7
+aS'data mining'
 p8
-aS'analysis'
+aS'data scientist'
 p9
-aS'machine learning'
+aS'physics'
 p10
-aS'analytics'
+aS'analysis'
 p11
-aS'engineering'
+aS'machine learning'
 p12
+aS'analytics'
+p13
+aS'engineering'
+p14
 aS'r'
 aS'computer science'
-p13
-aS'sql'
-p14
-aS'mathematics'
 p15
-aS'research'
+aS'sql'
 p16
-aS'data'
+aS'policy'
 p17
-aS'science'
+aS'mathematics'
 p18
-asS'working-year'
+aS'research'
 p19
-(lp20
-V(2, 5]
+aS'data'
+p20
+aS'science'
 p21
-asS'major'
+asS'working-year'
 p22
 (lp23
-S'mathematics'
+sS'major'
 p24
-aS'business'
-p25
-aS'physics mathematics'
+(lp25
+VBusiness
 p26
-aS'analytics'
+aVData Science
 p27
-aS'science'
+aVEngineering
 p28
-aS'statistic'
+aVComputer Science
 p29
-aS'communication'
+aVMathematics
 p30
-aS'machine learning'
+aVPhysics
 p31
-aS'engineering physics'
-p32
-aS'engineering'
-p33
-aS'design'
-p34
-aS'computer science'
-p35
-aS'data mining'
-p36
-aS'computer science engineering'
-p37
-aVphysic
-p38
 asS'education'
-p39
-(lp40
-VMaster
-p41
-aVDoctor
-p42
+p32
+(lp33
+VDoctor
+p34
 asS'responsibility'
-p43
-(lp44
-Vinsight
-p45
+p35
+(lp36
+S'data mining'
+p37
+aS'manipulate ... dataset'
+p38
+aS'insight'
+p39
 aS'communicate'
-p46
-aS'recommendation'
-p47
+p40
 aS'collect data'
-p48
+p41
 aS'design'
-p49
+p42
 aS'analysis'
-p50
-aS'data mining'
-p51
+p43
+aS'recommendation'
+p44
 aS'report'
-p52
+p45
 as.

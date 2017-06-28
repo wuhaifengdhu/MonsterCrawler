@@ -6,7 +6,7 @@ S'aws'
 p4
 aS'communication'
 p5
-aS'data science'
+aS'energy'
 p6
 aS'engineering'
 p7
@@ -28,7 +28,7 @@ aS'mathematics'
 p15
 aS'electronics'
 p16
-aS'energy'
+aS'data science'
 p17
 aS'python'
 p18
@@ -52,62 +52,50 @@ aS'documentation'
 p27
 aS'architecture'
 p28
-asS'working-year'
+aS'options'
 p29
-(lp30
+asS'working-year'
+p30
+(lp31
 V(2, 5]
-p31
-asS'major'
 p32
-(lp33
-S'information'
-p34
-aS'management'
+asS'major'
+p33
+(lp34
+VMathematics
 p35
-aS'science'
+aVData Science
 p36
-aS'data science'
+aVEngineering
 p37
-aS'computer science computer engineering'
+aVComputer Science
 p38
-aS'engineering'
+aVManagement Science and Engineering
 p39
-aS'computer engineering'
-p40
-aS'design'
-p41
-aS'computer science'
-p42
-aS'communication'
-p43
-aS'mathematics'
-p44
-aS'electronics'
-p45
-aS'ee computer science'
-p46
 asS'education'
-p47
-(lp48
+p40
+(lp41
 VBachelor
-p49
+p42
 aVMaster
-p50
+p43
+aVDoctor
+p44
 asS'responsibility'
-p51
-(lp52
+p45
+(lp46
 S'development'
-p53
+p47
 aS'information'
-p54
+p48
 aS'processing'
-p55
-aVinsight
-p56
+p49
+aS'insight'
+p50
 aS'design'
-p57
+p51
 aS'model'
-p58
+p52
 aS'documentation'
-p59
+p53
 as.

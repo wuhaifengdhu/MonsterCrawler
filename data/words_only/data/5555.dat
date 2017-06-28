@@ -2,106 +2,114 @@
 S'skills'
 p2
 (dp3
-S'customer satisfaction'
+S'a'
+F0.025972804077972589
+sS'customer satisfaction'
 p4
-I1
-sS'management'
+F0.012567313164095269
+sS'education'
 p5
-I1
-sS'program management'
+F0.011659037498962606
+sS'organization'
 p6
-I1
-sS'data scientist'
+F0.0097954657737871174
+sS'program management'
 p7
-I1
+F0.0092786425237885908
 sS'customer retention'
 p8
-I1
-sS'analysis'
+F0.015667304109511969
+sS'data scientist'
 p9
-I1
-sS'research'
+F0.002942699069899662
+sS'analysis'
 p10
-I1
-sS'hardware'
+F0.00095171867153924982
+sS'research'
 p11
-I1
-sS'data analysis'
+F0.0023698898379492729
+sS'hardware'
 p12
-I1
-sS'process improvement'
+F0.010314766879317958
+sS'data analysis'
 p13
-I1
-sS'computer science'
+F0.0041215611526824033
+sS'process improvement'
 p14
-I1
-sS'electrical engineering'
-p15
-I1
-sS'organization'
-p16
-I1
-sS'customer experience'
-p17
-I1
-sS'education'
-p18
-I1
-sS'data analytics'
-p19
-I1
-sS'sap'
-p20
-I1
-ssS'working-year'
-p21
-(dp22
-V(5, 10]
-p23
-I1
-sV(10, 15]
-p24
-I1
-ssS'major'
-p25
-(dp26
-S'management'
-p27
-I1
-sS'business'
-p28
-I1
-sS'electrical engineering computer science'
-p29
-I1
+F0.0089604517900818501
 sS'computer science'
-p30
-I1
+p15
+F0.0039055090644089466
+sS'science'
+p16
+F0.0019528719116502567
 sS'electrical engineering'
-p31
-I1
+p17
+F0.011012847453830046
+sS'sap'
+p18
+F0.011153166496607941
+sS'data'
+p19
+F0.00032944857742909145
 sS'data analytics'
+p20
+F0.0056731185596827702
+sS'customer experience'
+p21
+F0.010641934448572903
+ssS'working-year'
+p22
+(dp23
+V(5, 10]
+p24
+F0.0033490118377134969
+sV(10, 15]
+p25
+F0.0054372954338843303
+ssS'major'
+p26
+(dp27
+VData Science
+p28
+F0.0028535805072362852
+sVElectrical and Electronics Engineering
+p29
+F0.0087406349871527265
+sVComputer Science
+p30
+F0.0025148770732005494
+sVBusiness
+p31
+F0.0030047620754836508
+sVManagement Science and Engineering
 p32
-I1
+F0.0035820681624135903
 ssS'education'
 p33
 (dp34
 VBachelor
 p35
-I1
+F0.0025316078546386298
 ssS'responsibility'
 p36
 (dp37
 S'data analysis'
 p38
-I1
+F0.0041215611526824033
 sS'build model'
 p39
-I1
+F0.014691203022740679
 sS'analysis'
 p40
-I1
+F0.00095171867153924982
 sS'improvement'
 p41
-I1
+F0.0074616847120530776
+sS'model'
+p42
+F0.0042983634497267805
+sS'forecast'
+p43
+F0.012615623041214843
 ss.

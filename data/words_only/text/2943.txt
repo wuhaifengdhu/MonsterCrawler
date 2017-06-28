@@ -1,5 +1,5 @@
-skills: {'management': 1, 'credit': 1, 'laboratory': 1, 'agile': 1, 'collaboration': 1, 'data scientist': 1, 'business strategy': 1, 'analysis': 1, 'strategy': 1, 'banking': 1, 'military experience': 1, 'computer science': 1, 'personalization': 1, 'product management': 1, 'military': 1, 'data': 1}
-working-year: {u'(2, 5]': 1}
-major: {'management': 1, 'business': 1, 'business administration': 1, 'mba': 1, 'computer science engineering': 1, 'computer science': 1, 'ee computer science': 1}
-education: {u'Bachelor': 1, u'Master': 1}
-responsibility: {'product': 1, 'analysis': 1}
+skills: {'management': 0.0031135699903768114, 'credit': 0.010919363657174044, 'laboratory': 0.014485332725329515, 'agile': 0.007504088909620307, 'collaboration': 0.008789241993379568, 'data scientist': 0.003640452457607829, 'business strategy': 0.010445138557798753, 'analysis': 0.001177383923553711, 'strategy': 0.005412410416587061, 'banking': 0.011801717933190225, 'engineering': 0.004209122945270291, 'military experience': 0.015263030783411582, 'computer science': 0.0048315576054543665, 'personalization': 0.015208913360664067, 'product management': 0.010731951955417667, 'military': 0.012827005402171165, 'data': 0.000407565250427742, 'science': 0.0024159240144126888}
+working-year: {u'(2, 5]': 0.004257540991172287}
+major: {u'Engineering': 0.004209122945270291, u'Economics': 0.005638390197678559, u'Computer Science': 0.0031111881317944937, u'Business': 0.003717231433588021, u'Management Science and Engineering': 0.004431424530820936}
+education: {u'Bachelor': 0.003131886005738511, u'Master': 0.0024992463409765527}
+responsibility: {'product': 0.06008559305611927, 'analysis': 0.001177383923553711}

@@ -8,7 +8,7 @@ aS'forecasting'
 p5
 aS'budgeting'
 p6
-aS'hadoop'
+aS'tableau'
 p7
 aS'engineering'
 p8
@@ -28,10 +28,11 @@ aS'data engineering'
 p15
 aS'asset management'
 p16
-aS'tableau'
+aS'hadoop'
 p17
 aS'computer science'
 p18
+aS'a'
 aS'finance'
 p19
 aS'government'
@@ -40,97 +41,81 @@ aS'python'
 p21
 aS'processing'
 p22
-aS'sql'
+aS'management'
 p23
-aS'spark'
+aS'sql'
 p24
-aS'data'
+aS'spark'
 p25
-aS'software development'
+aS'data'
 p26
-aS'software engineering'
+aS'software development'
 p27
-aS'science'
+aS'software engineering'
 p28
-aS'programming'
+aS'science'
 p29
-aS'analysis'
+aS'programming'
 p30
-aS'machine learning'
+aS'analysis'
 p31
-aS'banking'
+aS'machine learning'
 p32
+aS'banking'
+p33
 aS'r'
 aS'command'
-p33
-aS'shiny'
 p34
-asS'working-year'
+aS'shiny'
 p35
-(lp36
-V[0]
-p37
-asS'major'
+asS'working-year'
+p36
+(lp37
+S'[0]'
 p38
-(lp39
-S'information'
-p40
-aS'finance'
+asS'major'
+p39
+(lp40
+VEngineering
 p41
-aS'big data'
+aVEconomics
 p42
-aS'computing'
+aVComputer Science
 p43
-aS'science'
+aVBusiness
 p44
-aS'machine learning'
+aVManagement Science and Engineering
 p45
-aS'business'
-p46
-aS'engineering'
-p47
-aS'design'
-p48
-aS'computational finance'
-p49
-aS'machine learning big data'
-p50
-aS'software engineering'
-p51
-aS'computer science'
-p52
 asS'education'
-p53
-(lp54
+p46
+(lp47
 S'Bachelor'
-p55
+p48
 asS'responsibility'
-p56
-(lp57
+p49
+(lp50
 S'development'
-p58
+p51
 aS'information'
-p59
+p52
 aS'forecasting'
-p60
+p53
 aS'processing'
-p61
-aVinsight
-p62
+p54
+aS'insight'
+p55
 aS'communicate'
-p63
+p56
 aS'analysis'
-p64
-aS'statistical model'
-p65
+p57
 aS'analytic'
-p66
+p58
 aS'statistical method'
-p67
+p59
 aS'design'
-p68
+p60
 aS'understand'
-p69
+p61
 aS'model'
-p70
+p62
 as.

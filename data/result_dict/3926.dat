@@ -2,94 +2,84 @@
 S'skills'
 p2
 (lp3
-S'solver'
+S'statistics'
 p4
-aS'ip'
-p5
-aS'data science'
-p6
-aS'scrum'
-p7
-aS'data scientist'
-p8
 aS'thought leadership'
-p9
-aS'data'
-p10
-aS'writing'
-p11
-aS'engineering'
-p12
-aS'leadership'
-p13
-aS'computer science'
-p14
-aS'agile'
-p15
-aS'mathematics'
-p16
-aS'machine learning'
-p17
-aS'root'
-p18
-aS'science'
-p19
-asS'working-year'
-p20
-(lp21
-V[0]
-p22
-asS'major'
-p23
-(lp24
-S'business'
-p25
-aS'science'
-p26
+p5
+aS'solver'
+p6
+aS'ip'
+p7
 aS'data science'
-p27
-aS'statistic'
-p28
-aS'phd'
-p29
-aS'statistics computer science'
-p30
+p8
+aS'scrum'
+p9
+aS'data scientist'
+p10
+aS'sales'
+p11
+aS'data'
+p12
+aS'writing'
+p13
 aS'engineering'
-p31
-aS'design'
-p32
+p14
+aS'leadership'
+p15
 aS'computer science'
-p33
-aS'machine learning statistics'
-p34
+p16
+aS'agile'
+p17
 aS'mathematics'
-p35
+p18
 aS'machine learning'
-p36
-aS'data science engineering'
-p37
+p19
+aS'root'
+p20
+aS'science'
+p21
+asS'working-year'
+p22
+(lp23
+S'[0]'
+p24
+asS'major'
+p25
+(lp26
+VStatistics
+p27
+aVBusiness
+p28
+aVData Science
+p29
+aVEngineering
+p30
+aVComputer Science
+p31
+aVMathematics
+p32
 asS'education'
-p38
-(lp39
+p33
+(lp34
 VDoctor
-p40
+p35
 asS'responsibility'
-p41
-(lp42
+p36
+(lp37
 S'development'
-p43
+p38
 aS'product'
-p44
+p39
 aS'business problem'
-p45
+p40
 aS'communicate'
-p46
+p41
 aS'improvement'
-p47
+p42
 aS'design'
-p48
+p43
 aS'report'
-p49
+p44
 aS'understand'
-p50
+p45
 as.

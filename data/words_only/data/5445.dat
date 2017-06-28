@@ -2,207 +2,180 @@
 S'skills'
 p2
 (dp3
-S'r d'
+S'public speaking'
 p4
-I1
-sS'public speaking'
-p5
-I1
-sS'communication'
-p6
-I1
+F0.0069112884604727197
 sS'engineering'
-p7
-I1
+p5
+F0.0029024994717385183
 sS'data mining'
-p8
-I1
+p6
+F0.0050283870347917958
+sS'sas'
+p7
+F0.0065651035861488951
 sS'education'
-p9
-I1
+p8
+F0.0099460983403472474
 sS'technical communication'
+p9
+F0.015415224787812681
+sS'statistics'
 p10
-I1
+F0.0022097461014279731
 sS'ehr'
 p11
-I1
-sS'r programming'
+F0.014454408768129661
+sS'research'
 p12
-I1
+F0.004043413941524826
 sS'advanced analytics'
 p13
-I1
+F0.0069734847259196302
 sS'operations research'
 p14
-I1
+F0.0068268685202651893
 sS'data analysis'
 p15
-I1
+F0.0035160237321461263
 sS'public health'
 p16
-I1
+F0.011457745914643771
 sS'healthcare'
 p17
-I1
+F0.038349388767443093
 sS'epidemiology'
 p18
-I1
+F0.021650674225100502
 sS'leadership'
 p19
-I1
+F0.0039156602398194842
 sS'health services research'
 p20
-I1
-sS'project management'
+F0.016303122849577897
+sS'data'
 p21
-I1
-sS'data visualization'
-p22
-I1
-sS'science'
-p23
-I1
-sS'applied mathematics'
-p24
-I1
-sS'economics'
-p25
-I1
-sS'programming'
-p26
-I1
-sS'analysis'
-p27
-I1
-sS'r'
-I1
-sS'command'
-p28
-I1
-sS'english'
-p29
-I1
-sS'organization'
-p30
-I1
-sS'validation'
-p31
-I1
-ssS'working-year'
-p32
-(dp33
-V(2, 5]
-p34
-I1
-ssS'major'
-p35
-(dp36
-S'information'
-p37
-I1
-sS'economics'
-p38
-I1
-sS'health services'
-p39
-I1
-sS'business'
-p40
-I1
-sS'english'
-p41
-I1
-sS'communication'
-p42
-I1
-sS'public health'
-p43
-I1
-sS'statistic'
-p44
-I1
-sS'phd'
-p45
-I1
-sS'epidemiology'
-p46
-I1
-sS'engineering'
-p47
-I1
+F0.00028104617979732923
 sS'project management'
-p48
-I1
-sS'health services research'
-p49
-I1
-sS'data mining'
-p50
-I1
-sS'advanced analytics'
-p51
-I1
-sS'applied math'
-p52
-I1
-sS'applied mathematics'
-p53
-I1
-sS'operations research'
-p54
-I1
+p22
+F0.0045058135623804417
+sS'data visualization'
+p23
+F0.0046605062217526094
 sS'science'
-p55
-I1
-ssS'education'
-p56
-(dp57
-VDoctor
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
-sS'information'
-p62
-I1
-sS'data analysis'
-p63
-I1
-sVinsight
-p64
-I1
-sS'communicate'
-p65
-I1
+p24
+F0.0016659570810286552
+sS'applied mathematics'
+p25
+F0.0071613998692978825
+sS'economics'
+p26
+F0.0056788905790508565
+sS'programming'
+p27
+F0.0026121214095613174
 sS'analysis'
-p66
-I1
-sS'statistical method'
-p67
-I1
+p28
+F0.00081189270557850701
+sS'r'
+F0.0013151476460046001
+sS'command'
+p29
+F0.0090989437850297738
+sS'english'
+p30
+F0.0080046181314064168
+sS'organization'
+p31
+F0.0041781607565916619
+sS'validation'
+p32
+F0.0074928016707940682
+ssS'working-year'
+p33
+(dp34
+V(2, 5]
+p35
+F0.0029358872711638282
+ssS'major'
+p36
+(dp37
+VStatistics
+p38
+F0.0042689686490238873
+sVBusiness
+p39
+F0.0025633041402230196
+sVData Science
+p40
+F0.0024343340820025183
+sVEconomics
+p41
+F0.0038880842358399548
+sVEngineering
+p42
+F0.0029024994717385183
+sVComputer Science
+p43
+F0.0021453927638677671
+sVBiological Engineering
+p44
+F0.0062326914229305468
+sVMathematics
+p45
+F0.004062257179105337
+sVOperations Research
+p46
+F0.0076273196639506024
+sVManagement Science and Engineering
+p47
+F0.0030557927451869489
+ssS'education'
+p48
+(dp49
+VDoctor
+p50
+F0.0025809994591859432
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+F0.0028695758351045468
+sS'information'
+p54
+F0.006573958291608506
+sS'data analysis'
+p55
+F0.0035160237321461263
+sS'insight'
+p56
+F0.0086961770426989826
+sS'communicate'
+p57
+F0.0047541300527999819
+sS'analysis'
+p58
+F0.00081189270557850701
 sS'understand'
-p68
-I1
+p59
+F0.0049802839181143973
 sS'data mining'
-p69
-I1
+p60
+F0.0050283870347917958
 sS'report'
-p70
-I1
+p61
+F0.0049177166354796896
 sS'implement'
-p71
-I1
+p62
+F0.0050186331163971747
 sS'presentation'
-p72
-I1
+p63
+F0.0058373325647147079
 sS'model'
-p73
-I1
+p64
+F0.0036668503362598127
 sS'decision-making'
-p74
-I1
+p65
+F0.0087015057956993432
 ss.

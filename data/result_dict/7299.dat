@@ -6,17 +6,17 @@ S'nlp'
 p4
 aS'consulting'
 p5
-aS'r d'
-p6
 aS'amazon web services'
-p7
+p6
 aS'data science'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'weka'
+p10
+aS'sas'
 p11
 aS'spss'
 p12
@@ -26,7 +26,7 @@ aS'xml'
 p14
 aS'access'
 p15
-aS'management'
+aS'statistics'
 p16
 aS'java'
 p17
@@ -62,99 +62,83 @@ aS'innovation'
 p32
 aS'data scientist'
 p33
-aS'tensorflow'
+aS'management'
 p34
-aS'modeling'
+aS'tensorflow'
 p35
-aS'extract transform load etl'
+aS'modeling'
 p36
-aS'data'
+aS'extract transform load etl'
 p37
-aS'science'
+aS'data'
 p38
-aS'programming'
+aS'science'
 p39
-aS'analysis'
+aS'programming'
 p40
-aS'machine learning'
+aS'analysis'
 p41
+aS'machine learning'
+p42
 aS'r'
 aS'architecture'
-p42
-aS'security'
 p43
-aS'etl'
+aS'security'
 p44
-asS'working-year'
+aS'etl'
 p45
-(lp46
+asS'working-year'
+p46
+(lp47
 V(0, 2]
-p47
-aV(10, 15]
 p48
-asS'major'
+aV(10, 15]
 p49
-(lp50
-S'engineering science'
-p51
-aS'information'
+asS'major'
+p50
+(lp51
+VStatistics
 p52
-aS'management'
+aVData Science
 p53
-aS'big data'
+aVElectrical and Electronics Engineering
 p54
-aS'analytics'
+aVEngineering
 p55
-aS'science'
+aVComputer Science
 p56
-aS'data science'
+aVMathematics
 p57
-aS'statistic'
+aVOperations Research
 p58
-aS'mathematics'
+aVManagement Science and Engineering
 p59
-aS'machine learning'
-p60
-aS'mathematics statistics'
-p61
-aS'engineering'
-p62
-aS'design'
-p63
-aS'operations research'
-p64
-aS'natural language processing'
-p65
-aS'management technology'
-p66
-aS'statistics operations research'
-p67
-aS'data science engineering'
-p68
 asS'education'
-p69
-(lp70
-S'Bachelor'
-p71
+p60
+(lp61
+VMaster
+p62
 asS'responsibility'
-p72
-(lp73
+p63
+(lp64
 S'information'
-p74
+p65
 aS'pattern'
-p75
+p66
 aS'processing'
-p76
+p67
 aS'analysis'
-p77
+p68
+aS'develop ... model'
+p69
 aS'design'
-p78
+p70
 aS'report'
-p79
+p71
 aS'modeling'
-p80
+p72
 aS'implement'
-p81
+p73
 aS'extract'
-p82
+p74
 as.

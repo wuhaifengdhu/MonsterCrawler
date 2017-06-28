@@ -2,189 +2,189 @@
 S'skills'
 p2
 (dp3
-S'data science'
+S'amazon web services'
 p4
-I1
-sS'julia'
-p5
-I1
-sS'software design'
-p6
-I1
-sS'engineering'
-p7
-I1
-sS'high performance computing'
-p8
-I1
-sS'problem solving'
-p9
-I1
-sS'linux'
-p10
-I1
-sS'amazon web services'
-p11
-I1
-sS'open source'
-p12
-I1
-sS'big data'
-p13
-I1
-sS'scala'
-p14
-I1
-sS'agile'
-p15
-I1
-sS'hadoop'
-p16
-I1
-sS'research'
-p17
-I1
-sS'computer science'
-p18
-I1
-sS'web services'
-p19
-I1
-sS'gpu'
-p20
-I1
-sS'advertising'
-p21
-I1
-sS'data analysis'
-p22
-I1
-sS'theory'
-p23
-I1
-sS'python'
-p24
-I1
-sS'data scientist'
-p25
-I1
-sS'java'
-p26
-I1
-sS'spark'
-p27
-I1
-sS'data'
-p28
-I1
-sS'software development'
-p29
-I1
-sS'c'
-I1
-sS'parallel programming'
-p30
-I1
-sS'science'
-p31
-I1
-sS'functional programming'
-p32
-I1
-sS'programming'
-p33
-I1
-sS'thought leadership'
-p34
-I1
-sS'hive'
-p35
-I1
-sS'machine learning'
-p36
-I1
-sS'architecture'
-p37
-I1
-sS'oracle'
-p38
-I1
-sS'organization'
-p39
-I1
-sS'microsoft azure'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(2, 5]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'business'
-p46
-I1
-sS'big data'
-p47
-I1
-sS'science'
-p48
-I1
+F0.00798619061385176
 sS'data science'
-p49
-I1
-sS'high performance computing'
-p50
-I1
-sS'machine learning'
-p51
-I1
+p5
+F0.0028984118690616851
+sS'julia'
+p6
+F0.012084671919957568
+sS'software design'
+p7
+F0.0096875534028487455
 sS'engineering'
-p52
-I1
-sS'design'
-p53
-I1
+p8
+F0.00590291458830677
+sS'hive'
+p9
+F0.0050259138541927876
+sS'problem solving'
+p10
+F0.0059147273854295215
+sS'linux'
+p11
+F0.0044483808139740471
+sS'd3'
+p12
+F0.0072775741980368536
+sS'theory'
+p13
+F0.0070613885553574354
+sS'open source'
+p14
+F0.0077058306985978188
+sS'big data'
+p15
+F0.0030668075334040184
+sS'scala'
+p16
+F0.0058808828619244264
+sS'agile'
+p17
+F0.0052619033077096616
+sS'hadoop'
+p18
+F0.0030959192804808793
+sS'research'
+p19
+F0.00205580805219696
 sS'computer science'
-p54
-I1
-sS'development practice'
-p55
-I1
-ssS'education'
-p56
-(dp57
-VBachelor
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'development'
-p61
-I1
-sS'product'
-p62
-I1
+p20
+F0.0033879114775595682
+sS'web services'
+p21
+F0.0070868413690606882
+sS'gpu'
+p22
+F0.012978304504254124
+sS'advertising'
+p23
+F0.0079310777935669638
 sS'data analysis'
+p24
+F0.0035753301565437717
+sS'product development'
+p25
+F0.0062975333705583385
+sS'python'
+p26
+F0.0012560277415741351
+sS'javascript'
+p27
+F0.0053432400337878171
+sS'data scientist'
+p28
+F0.0025527028076238033
+sS'java'
+p29
+F0.0029861854642609241
+sS'spark'
+p30
+F0.0040629774055799001
+sS'data'
+p31
+F0.0037152273310075857
+sS'software development'
+p32
+F0.0051089075134295725
+sS'c'
+F0.003013546804573729
+sS'parallel programming'
+p33
+F0.012613894330942559
+sS'science'
+p34
+F0.0050821726857404274
+sS'functional programming'
+p35
+F0.01334975034883757
+sS'programming'
+p36
+F0.005312362577517475
+sS'thought leadership'
+p37
+F0.0098835636133231888
+sS'analysis'
+p38
+F0.00082558728133525297
+sS'machine learning'
+p39
+F0.0015795607755037095
+sS'architecture'
+p40
+F0.010539829024986305
+sS'oracle'
+p41
+F0.025301412034325996
+sS'organization'
+p42
+F0.0042486357573052564
+sS'docker'
+p43
+F0.010314731680946867
+sS'high performance computing'
+p44
+F0.0093815359077955799
+sS'microsoft azure'
+p45
+F0.012789217175238189
+ssS'working-year'
+p46
+(dp47
+V(2, 5]
+p48
+F0.0029854082612798447
+ssS'major'
+p49
+(dp50
+VData Science
+p51
+F0.0024753951388073801
+sVEngineering
+p52
+F0.0054274191006427174
+sVBusiness
+p53
+F0.0026065405956002753
+sVComputer Science
+p54
+F0.002181580111692043
+ssS'education'
+p55
+(dp56
+VBachelor
+p57
+F0.0021960935606503778
+ssS'responsibility'
+p58
+(dp59
+S'development'
+p60
+F0.0087539349572104963
+sS'product'
+p61
+F0.0097228401738632293
+sS'data analysis'
+p62
+F0.0035753301565437717
+sS'insight'
 p63
-I1
-sVinsight
+F0.013264289320550494
+sS'analysis'
 p64
-I1
+F0.00082558728133525297
 sS'improvement'
 p65
-I1
+F0.0064727867381665256
 sS'understand'
 p66
-I1
+F0.0050642887070946399
 sS'design'
 p67
-I1
+F0.0035190814699240427
 sS'decision-making'
 p68
-I1
+F0.0088482781826147543
 ss.

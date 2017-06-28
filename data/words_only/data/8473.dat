@@ -4,137 +4,125 @@ p2
 (dp3
 S'science'
 p4
-I1
+F0.0098556152550573692
 sS'data quality'
 p5
-I1
+F0.016517934874701979
 sS'marketing'
 p6
-I1
+F0.0089028716003623758
 sS'data scientist'
 p7
-I1
+F0.0049503348839433558
 sS'scientific computing'
 p8
-I1
+F0.015084664788085128
 sS'analysis'
 p9
-I1
-sS'machine learning'
+F0.001601022064271635
+sS'sales'
 p10
-I1
+F0.015535536169116839
 sS'hardware'
 p11
-I1
-sS'statistical analysis'
+F0.017351944282964788
+sS'analytics'
 p12
-I1
-sS'data mining'
-p13
-I1
-sS'organization'
-p14
-I1
-sS'modeling'
-p15
-I1
-sS'education'
-p16
-I1
-sS'data'
-p17
-I1
-sS'research'
-p18
-I1
-sS'data analytics'
-p19
-I1
-sS'computer science'
-p20
-I1
-ssS'working-year'
-p21
-(dp22
-V(5, 10]
-p23
-I1
-sV(0, 2]
-p24
-I1
-ssS'major'
-p25
-(dp26
-S'business'
-p27
-I1
-sS'marketing'
-p28
-I1
-sS'scientific computing'
-p29
-I1
+F0.0040641937475865732
 sS'machine learning'
-p30
-I1
-sS'design'
-p31
-I1
-sS'computer science'
-p32
-I1
+p13
+F0.0030631669244581276
+sS'statistical analysis'
+p14
+F0.012031309128096298
 sS'data mining'
-p33
-I1
-sS'phd'
-p34
-I1
-sS'data analytics'
-p35
-I1
-sS'science'
-p36
-I1
-ssS'education'
-p37
-(dp38
-VBachelor
-p39
-I1
-sVMaster
-p40
-I1
-sVDoctor
-p41
-I1
-ssS'responsibility'
-p42
-(dp43
-S'formulate'
-p44
-I1
-sS'complex data set'
-p45
-I1
-sVinsight
-p46
-I1
-sS'analysis'
-p47
-I1
-sS'design'
-p48
-I1
-sS'data mining'
-p49
-I1
-sS'report'
-p50
-I1
+p15
+F0.0099157912555240067
+sS'organization'
+p16
+F0.0082391768190732753
 sS'modeling'
-p51
-I1
+p17
+F0.0037950733131848244
+sS'education'
+p18
+F0.019613334110404383
+sS'data'
+p19
+F0.0072047632820941487
+sS'research'
+p20
+F0.0079734611370255899
+sS'data analytics'
+p21
+F0.009543563932176622
+sS'computer science'
+p22
+F0.006570015248538414
+ssS'working-year'
+p23
+(dp24
+V(5, 10]
+p25
+F0.0056338516896114891
+sV(0, 2]
+p26
+F0.010642897963038099
+ssS'major'
+p27
+(dp28
+VData Science
+p29
+F0.0048004158065657132
+sVEconomics
+p30
+F0.0076671567641329944
+sVComputer Science
+p31
+F0.004230634328748587
+sVBusiness
+p32
+F0.0050547399400659538
+ssS'education'
+p33
+(dp34
+VBachelor
+p35
+F0.0042587795685509657
+sVMaster
+p36
+F0.0033985078748793311
+sVDoctor
+p37
+F0.0050896344475535888
+ssS'responsibility'
+p38
+(dp39
+S'formulate'
+p40
+F0.021061394825531699
+sS'complex data set'
+p41
+F0.023369872421880569
+sS'insight'
+p42
+F0.025722804056207735
+sS'analysis'
+p43
+F0.001601022064271635
+sS'design'
+p44
+F0.013648773925406333
+sS'data mining'
+p45
+F0.0099157912555240067
+sS'report'
+p46
+F0.019395106730583447
+sS'modeling'
+p47
+F0.0037950733131848244
 sS'implement'
-p52
-I1
+p48
+F0.039586227572329109
 ss.

@@ -4,91 +4,87 @@ p2
 (lp3
 S'intelligence'
 p4
-aS'pig'
+aS'scientific computing'
 p5
 aS'analytics'
 p6
-aS'hbase'
+aS'sas'
 p7
-aS'education'
+aS'hbase'
 p8
-aS'regression'
+aS'education'
 p9
-aS'monetization'
+aS'regression'
 p10
-aS'clustering'
+aS'monetization'
 p11
-aS'big data'
+aS'clustering'
 p12
-aS'scientific computing'
+aS'visualization'
 p13
-aS'research'
-p14
-aS'computer science'
-p15
-aS'data scientist'
-p16
-aS'octave'
-p17
-aS'organization'
-p18
-aS'data'
-p19
-aS'knime'
-p20
-aS'science'
-p21
-aS'machine learning'
-p22
-aS'r'
-aS'hadoop'
-p23
-aS'data analytics'
-p24
-asS'working-year'
-p25
-(lp26
-V(5, 10]
-p27
-asS'major'
-p28
-(lp29
-S'business'
-p30
 aS'big data'
-p31
-aS'computing'
-p32
-aS'science'
-p33
-aS'scientific computing'
-p34
-aS'machine learning'
-p35
-aS'analytics'
-p36
-aS'design'
-p37
+p14
+aS'hadoop'
+p15
+aS'research'
+p16
 aS'computer science'
-p38
+p17
+aS'innovation'
+p18
+aS'matlab'
+p19
+aS'octave'
+p20
+aS'pig'
+p21
+aS'data'
+p22
+aS'knime'
+p23
+aS'science'
+p24
+aS'hive'
+p25
+aS'machine learning'
+p26
+aS'r'
+aS'organization'
+p27
 aS'data analytics'
-p39
+p28
+asS'working-year'
+p29
+(lp30
+V(5, 10]
+p31
+asS'major'
+p32
+(lp33
+VData Science
+p34
+aVComputer Science
+p35
+aVBusiness
+p36
 asS'education'
+p37
+(lp38
+VMaster
+p39
+asS'responsibility'
 p40
 (lp41
-VMaster
+S'product'
 p42
-asS'responsibility'
+aS'insight'
 p43
-(lp44
-S'report'
+aS'design'
+p44
+aS'report'
 p45
 aS'implement'
 p46
-aVinsight
+aS'decision making'
 p47
-aS'design'
-p48
-aS'product'
-p49
 as.

@@ -4,196 +4,178 @@ p2
 (dp3
 S'customer insight'
 p4
-I1
+F0.0088721210874226231
 sS'communication'
 p5
-I1
+F0.0033120697889348458
 sS'data science'
 p6
-I1
+F0.0025164036101686174
 sS'feature extraction'
 p7
-I1
+F0.012159161455021559
 sS'analytics'
 p8
-I1
+F0.014556275514368645
 sS'engineering'
 p9
-I1
+F0.0051249153852454161
 sS'problem solving'
 p10
-I1
-sS'machine learning'
+F0.0051351712655925748
+sS'sas'
 p11
-I1
-sS'management'
+F0.0028979850558104947
+sS'machine learning'
 p12
-I1
+F0.0013713759871005005
 sS'critical thinking'
 p13
-I1
+F0.0082034427385167738
 sS'integration'
 p14
-I1
+F0.0048247764062648796
 sS'research'
 p15
-I1
-sS'mathematics'
+F0.0017848542712588665
+sS'optimization'
 p16
-I1
-sS'data management'
-p17
-I1
-sS'data analysis'
-p18
-I1
-sS'python'
-p19
-I1
-sS'leadership development'
-p20
-I1
-sS'semantic analysis'
-p21
-I1
-sS'data scientist'
-p22
-I1
-sS'data quality'
-p23
-I1
-sS'leadership'
-p24
-I1
-sS'modeling'
-p25
-I1
-sS'data'
-p26
-I1
-sS'data visualization'
-p27
-I1
-sS'risk assessment'
-p28
-I1
-sS'science'
-p29
-I1
-sS'analysis'
-p30
-I1
-sS'spss'
-p31
-I1
-sS'r'
-I1
-sS'data analytics'
-p32
-I1
-sS'predictive analytics'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-sV(2, 5]
-p37
-I1
-ssS'major'
-p38
-(dp39
-S'management'
-p40
-I1
-sS'business'
-p41
-I1
-sS'science'
-p42
-I1
-sS'data science'
-p43
-I1
-sS'statistic'
-p44
-I1
-sS'machine learning'
-p45
-I1
-sS'analytics'
-p46
-I1
-sS'engineering'
-p47
-I1
-sS'communication'
-p48
-I1
+F0.0041841189485115945
 sS'mathematics'
-p49
-I1
-sS'data analytics'
-p50
-I1
-sS'predictive analytics'
-p51
-I1
-ssS'education'
-p52
-(dp53
-VMaster
-p54
-I1
-sVDoctor
-p55
-I1
-ssS'responsibility'
-p56
-(dp57
-S'development'
-p58
-I1
-sS'large data set'
-p59
-I1
-sS'product'
-p60
-I1
+p17
+F0.0076480890463422827
+sS'data management'
+p18
+F0.0057529667460444987
 sS'data analysis'
-p61
-I1
-sVinsight
-p62
-I1
-sS'communicate'
-p63
-I1
-sS'analysis'
-p64
-I1
-sS'analytic'
-p65
-I1
-sS'statistical method'
-p66
-I1
-sS'complex data set'
-p67
-I1
-sS'identify opportunity'
-p68
-I1
-sS'report'
-p69
-I1
+p19
+F0.0031041046338193832
+sS'python'
+p20
+F0.0010904843363039036
+sS'leadership development'
+p21
+F0.0095197381402616597
+sS'semantic analysis'
+p22
+F0.012094785795624861
+sS'data scientist'
+p23
+F0.0022162587137319629
+sS'data quality'
+p24
+F0.0073950587095946091
+sS'leadership'
+p25
+F0.003456921801681636
 sS'modeling'
-p70
-I1
+p26
+F0.0016990495586224946
+sS'data'
+p27
+F0.0032255634777576319
+sS'data visualization'
+p28
+F0.0041145054928443531
+sS'risk assessment'
+p29
+F0.010582240038123792
+sS'science'
+p30
+F0.010295475350122691
+sS'analysis'
+p31
+F0.00071677556852328434
+sS'spss'
+p32
+F0.0046157925331748225
+sS'r'
+F0.0011610717711588727
+sS'data analytics'
+p33
+F0.004272641593066521
+sS'predictive analytics'
+p34
+F0.0048169417852066739
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0025222683296587003
+sV(2, 5]
+p38
+F0.0025919339506927518
+ssS'major'
+p39
+(dp40
+VBusiness
+p41
+F0.0022630007263056782
+sVData Science
+p42
+F0.0021491401309729342
+sVEngineering
+p43
+F0.0051249153852454161
+sVComputer Science
+p44
+F0.0018940496785610831
+sVMathematics
+p45
+F0.0035863442041473887
+sVManagement Science and Engineering
+p46
+F0.002697791921483038
+ssS'education'
+p47
+(dp48
+VMaster
+p49
+F0.0015215077096740102
+sVDoctor
+p50
+F0.002278622953507255
+ssS'responsibility'
+p51
+(dp52
+S'development'
+p53
+F0.020267129747516627
+sS'product'
+p54
+F0.005627585316810655
+sS'data analysis'
+p55
+F0.0031041046338193832
+sS'insight'
+p56
+F0.0038386890293085458
+sS'communicate'
+p57
+F0.0083943216831865765
+sS'analysis'
+p58
+F0.00071677556852328434
+sS'analytic'
+p59
+F0.014169828278031231
+sS'statistical method'
+p60
+F0.0073552101026182239
+sS'optimization'
+p61
+F0.0041841189485115945
+sS'identify opportunity'
+p62
+F0.0086653337672288489
+sS'report'
+p63
+F0.0043415824689799765
+sS'modeling'
+p64
+F0.0016990495586224946
 sS'presentation'
-p71
-I1
+p65
+F0.0051534609671749091
 ss.

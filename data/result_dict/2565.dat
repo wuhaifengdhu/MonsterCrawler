@@ -6,9 +6,9 @@ S'testing'
 p4
 aS'product strategy'
 p5
-aS'writing'
-p6
 aS'research'
+p6
+aS'product development'
 p7
 aS'management'
 p8
@@ -18,98 +18,89 @@ aS'agile'
 p10
 aS'recruiting'
 p11
-aS'strategy'
+aS'writing'
 p12
-aS'teamwork'
+aS'strategy'
 p13
-aS'innovation'
+aS'teamwork'
 p14
-aS'product development'
+aS'innovation'
 p15
-aS'design thinking'
+aS'finance'
 p16
-aS'collaboration'
+aS'design thinking'
 p17
-aS'data scientist'
+aS'collaboration'
 p18
-aS'entrepreneurship'
+aS'data scientist'
 p19
-aS'leadership'
-p20
-aS'military experience'
-p21
-aS'military'
-p22
-aS'data'
-p23
-aS'b testing'
-p24
-aS'machine learning'
-p25
-aS'banking'
-p26
-aS'financial services'
-p27
-aS'product management'
-p28
-aS'internet things'
-p29
-asS'working-year'
-p30
-(lp31
-V(5, 10]
-p32
-aV(2, 5]
-p33
-asS'major'
-p34
-(lp35
-S'information'
-p36
-aS'management'
-p37
-aS'business'
-p38
-aS'mba'
-p39
 aS'entrepreneurship'
-p40
-aS'business leadership'
-p41
+p20
+aS'leadership'
+p21
+aS'military experience'
+p22
+aS'military'
+p23
+aS'data'
+p24
+aS'a'
+aS'b testing'
+p25
 aS'machine learning'
-p42
-aS'design'
-p43
-aS'law'
-p44
-aS'history'
-p45
+p26
+aS'banking'
+p27
+aS'financial services'
+p28
+aS'product management'
+p29
+aS'internet things'
+p30
+asS'working-year'
+p31
+(lp32
+V(5, 10]
+p33
+aV(2, 5]
+p34
+asS'major'
+p35
+(lp36
+VEconomics
+p37
+aVComputer Science
+p38
+aVBusiness
+p39
+aVManagement Science and Engineering
+p40
 asS'education'
-p46
-(lp47
+p41
+(lp42
 VBachelor
-p48
+p43
 aVMaster
-p49
+p44
 asS'responsibility'
-p50
-(lp51
+p45
+(lp46
 S'product leadership'
-p52
-aS'development'
-p53
-aS'provide mentorship'
-p54
+p47
 aS'information'
-p55
+p48
+aS'provide mentorship'
+p49
 aS'product'
-p56
+p50
 aS'improvement'
-p57
-aS'design'
-p58
+p51
 aS'model'
-p59
+p52
+aS'design'
+p53
+aS'development'
+p54
 aS'transformation'
-p60
+p55
 as.

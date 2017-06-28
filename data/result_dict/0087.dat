@@ -12,15 +12,15 @@ aS'analytics'
 p7
 aS'engineering'
 p8
-aS'communication skills'
-p9
 aS'analysis'
-p10
+p9
 aS'insurance'
-p11
+p10
 aS'management'
-p12
+p11
 aS'data'
+p12
+aS'strategy'
 p13
 aS'computer science'
 p14
@@ -34,82 +34,78 @@ aS'government'
 p18
 aS'python'
 p19
-aS'javascript'
+aS'mongodb'
 p20
-aS'data scientist'
+aS'javascript'
 p21
-aS'data quality'
+aS'data scientist'
 p22
-aS'data structures'
+aS'data quality'
 p23
-aS'ruby'
+aS'data structures'
 p24
-aS'software development'
+aS'ruby'
 p25
+aS'software development'
+p26
 aS'c'
 aS'data collection'
-p26
-aS'postgresql'
 p27
-aS'database management'
+aS'postgresql'
 p28
-aS'science'
+aS'database management'
 p29
-aS'c++'
+aS'science'
 p30
-aS'machine learning'
+aS'programming'
 p31
+aS'communication skills'
+p32
+aS'machine learning'
+p33
 aS'r'
 aS'organization'
-p32
-aS'validation'
-p33
-asS'working-year'
 p34
-(lp35
-V(2, 5]
+aS'validation'
+p35
+asS'working-year'
 p36
+(lp37
+V(2, 5]
+p38
 asS'major'
-p37
-(lp38
-S'information'
 p39
-aS'management'
-p40
-aS'business'
+(lp40
+VData Science
 p41
-aS'science'
+aVEngineering
 p42
-aS'communication'
+aVComputer Science
 p43
-aS'machine learning'
+aVBusiness
 p44
-aS'analytics'
+aVManagement Science and Engineering
 p45
-aS'engineering'
-p46
-aS'computer science'
-p47
-aS'natural language processing'
-p48
 asS'education'
+p46
+(lp47
+S'Bachelor'
+p48
+asS'responsibility'
 p49
 (lp50
-S'Bachelor'
+S'development'
 p51
-asS'responsibility'
+aS'information'
 p52
-(lp53
-S'information'
-p54
 aS'data collection'
-p55
+p53
 aS'formulate'
-p56
+p54
 aS'processing'
-p57
+p55
 aS'analysis'
-p58
+p56
 aS'implement'
-p59
+p57
 as.

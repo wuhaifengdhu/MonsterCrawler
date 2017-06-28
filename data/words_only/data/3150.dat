@@ -4,210 +4,213 @@ p2
 (dp3
 S'nosql'
 p4
-I1
-sS'julia'
-p5
-I1
-sS'business intelligence'
-p6
-I1
-sS'data warehousing'
-p7
-I1
-sS'statistical analysis'
-p8
-I1
-sS'neo4j'
-p9
-I1
+F0.013032604115554869
 sS'sap'
+p5
+F0.019119713994185043
+sS'julia'
+p6
+F0.023881613556106622
+sS'business intelligence'
+p7
+F0.009728777660830577
+sS'data warehousing'
+p8
+F0.014483286960401399
+sS'statistical analysis'
+p9
+F0.01226047692101242
+sS'sas'
 p10
-I1
-sS'management'
+F0.0065963659841781755
+sS'neo4j'
 p11
-I1
-sS'java'
+F0.022298578528476037
+sS'education'
 p12
-I1
-sS'scala'
+F0.0099934607133965198
+sS'statistics'
 p13
-I1
-sS'ruby'
+F0.0044405374038219269
+sS'java'
 p14
-I1
-sS'agent-based modeling'
+F0.0059012712746108744
+sS'scala'
 p15
-I1
-sS'perl'
+F0.011621744703326843
+sS'ruby'
 p16
-I1
-sS'r'
-I1
-sS'computer science'
+F0.016177678877759512
+sS'agent-based modeling'
 p17
-I1
-sS'natural language processing'
+F0.027983892903274226
+sS'perl'
 p18
-I1
-sS'statistical learning'
-p19
-I1
-sS'operations research'
-p20
-I1
-sS'matlab'
-p21
-I1
-sS'python'
-p22
-I1
-sS'mongodb'
-p23
-I1
-sS'processing'
-p24
-I1
-sS'apache spark'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'apache'
-p27
-I1
-sS'modeling'
-p28
-I1
-sS'spark'
-p29
-I1
-sS'data'
-p30
-I1
-sS'information technology'
-p31
-I1
-sS'c'
-I1
-sS'parallel programming'
-p32
-I1
-sS'economics'
-p33
-I1
-sS'programming'
-p34
-I1
-sS'analysis'
-p35
-I1
-sS'simulation'
-p36
-I1
-sS'optimization'
-p37
-I1
-sS'oracle'
-p38
-I1
-sS'organization'
-p39
-I1
-sS'clojure'
-p40
-I1
-ssS'working-year'
-p41
-(dp42
-V(5, 10]
-p43
-I1
-sV(2, 5]
-p44
-I1
-ssS'major'
-p45
-(dp46
-S'information'
-p47
-I1
-sS'natural language processing'
-p48
-I1
-sS'management'
-p49
-I1
-sS'business'
-p50
-I1
-sS'computing'
-p51
-I1
-sS'economics'
-p52
-I1
-sS'statistic'
-p53
-I1
-sS'machine learning'
-p54
-I1
-sS'engineering physics'
-p55
-I1
-sS'computer science engineering'
-p56
-I1
-sS'information technology'
-p57
-I1
-sS'applied math'
-p58
-I1
-sVphysic
-p59
-I1
-sS'phd'
-p60
-I1
-sS'operations research'
-p61
-I1
+F0.013647860687092232
+sS'r'
+F0.0026428205076854342
 sS'computer science'
+p19
+F0.0066951583961296227
+sS'natural language processing'
+p20
+F0.011933133961715728
+sS'statistical learning'
+p21
+F0.025745788395205742
+sS'operations research'
+p22
+F0.013718754835961475
+sS'matlab'
+p23
+F0.0060781008935145943
+sS'python'
+p24
+F0.0049643001214596761
+sS'mongodb'
+p25
+F0.014081408399149408
+sS'processing'
+p26
+F0.0077766099365272389
+sS'apache spark'
+p27
+F0.01251240615423781
+sS'management'
+p28
+F0.0043145184152364397
+sS'apache'
+p29
+F0.010776675088295374
+sS'modeling'
+p30
+F0.0038673604239121552
+sS'spark'
+p31
+F0.0080292172538840891
+sS'data'
+p32
+F0.00056476898987844256
+sS'information technology'
+p33
+F0.014841186056008312
+sS'c'
+F0.01191068498950569
+sS'parallel programming'
+p34
+F0.024927457844481721
+sS'science'
+p35
+F0.0033477804199718688
+sS'machine learning'
+p36
+F0.0031215129611144735
+sS'economics'
+p37
+F0.01141186583028315
+sS'programming'
+p38
+F0.0052491201658803619
+sS'engineering'
+p39
+F0.0058326417955888322
+sS'analysis'
+p40
+F0.0016315177226387141
+sS'simulation'
+p41
+F0.012784932322258913
+sS'optimization'
+p42
+F0.019047703403700402
+sS'oracle'
+p43
+F0.012500102374101534
+sS'organization'
+p44
+F0.016792227040777919
+sS'clojure'
+p45
+F0.024927457844481721
+sS'physics'
+p46
+F0.011586116083079349
+ssS'working-year'
+p47
+(dp48
+V(5, 10]
+p49
+F0.0057411631503659945
+sV(2, 5]
+p50
+F0.0058997353734815978
+ssS'major'
+p51
+(dp52
+VStatistics
+p53
+F0.0085785941423241925
+sVBusiness
+p54
+F0.0051510207008291153
+sVEconomics
+p55
+F0.0078131978453545754
+sVEngineering
+p56
+F0.0058326417955888322
+sVInformation Science
+p57
+F0.012060262802638543
+sVComputer Science
+p58
+F0.0043112178397723706
+sVMathematics
+p59
+F0.0081632025218212004
+sVPhysics
+p60
+F0.012493962386667098
+sVOperations Research
+p61
+F0.015327280467557878
+sVManagement Science and Engineering
 p62
-I1
+F0.0061406882784232975
 ssS'education'
 p63
 (dp64
 VBachelor
 p65
-I1
-sVDoctor
+F0.0043398991793805091
+sVMaster
 p66
-I1
-ssS'responsibility'
+F0.0034632413582103665
+sVDoctor
 p67
-(dp68
+F0.005186579865602229
+ssS'responsibility'
+p68
+(dp69
 S'information'
-p69
-I1
-sS'processing'
 p70
-I1
-sS'analysis'
+F0.01321052570980376
+sS'processing'
 p71
-I1
-sS'simulation'
+F0.0077766099365272389
+sS'analysis'
 p72
-I1
-sS'optimization'
+F0.0016315177226387141
+sS'simulation'
 p73
-I1
-sS'modeling'
+F0.012784932322258913
+sS'optimization'
 p74
-I1
-sS'model'
+F0.019047703403700402
+sS'modeling'
 p75
-I1
+F0.0038673604239121552
+sS'model'
+p76
+F0.0073686230566744806
 ss.

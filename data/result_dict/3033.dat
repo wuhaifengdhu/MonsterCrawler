@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'documentation'
+S'a'
+aS'documentation'
 p4
 aS'data modeling'
 p5
@@ -39,35 +40,35 @@ p20
 asS'working-year'
 p21
 (lp22
-V[0]
+S'[0]'
 p23
 asS'major'
 p24
 (lp25
-S'engineering'
+VEngineering
 p26
-aS'management'
+aVComputer Science
 p27
-aS'high performance computing'
+aVManagement Science and Engineering
 p28
-aS'computing'
-p29
 asS'education'
-p30
-(lp31
+p29
+(lp30
 S'Bachelor'
-p32
+p31
 asS'responsibility'
-p33
-(lp34
+p32
+(lp33
 S'development'
-p35
-aS'modeling'
-p36
+p34
 aS'documentation'
-p37
-aS'transformation'
-p38
+p35
 aS'mapping'
+p36
+aS'improvement'
+p37
+aS'modeling'
+p38
+aS'transformation'
 p39
 as.

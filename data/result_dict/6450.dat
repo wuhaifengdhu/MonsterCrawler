@@ -2,33 +2,34 @@
 S'skills'
 p2
 (lp3
-S'testing'
+S'nosql'
 p4
-aS'due diligence'
+aS'testing'
 p5
-aS'devops'
+aS'due diligence'
 p6
-aS'engineering'
+aS'devops'
 p7
-aS'problem solving'
+aS'engineering'
 p8
-aS'data'
+aS'problem solving'
 p9
-aS'experimentation'
+aS'data'
 p10
-aS'management'
+aS'experimentation'
 p11
-aS'agile'
+aS'management'
 p12
-aS'integration'
+aS'agile'
 p13
-aS'writing'
+aS'integration'
 p14
-aS'python'
+aS'writing'
 p15
-aS'leadership development'
+aS'a'
+aS'python'
 p16
-aS'data scientist'
+aS'leadership development'
 p17
 aS'scalability'
 p18
@@ -36,76 +37,72 @@ aS'automation'
 p19
 aS'leadership'
 p20
-aS'ruby'
+aS'sql'
 p21
-aS'bash'
+aS'ruby'
 p22
-aS'software development'
+aS'bash'
 p23
-aS'training'
+aS'software development'
 p24
-aS'science'
+aS'training'
 p25
-aS'unit testing'
-p26
-aS'credit'
-p27
-aS'security'
-p28
-aS'powershell'
-p29
-aS'scripting'
-p30
-asS'working-year'
-p31
-(lp32
-V(0, 2]
-p33
-aV(2, 5]
-p34
-asS'major'
-p35
-(lp36
-S'information'
-p37
-aS'management'
-p38
-aS'business'
-p39
 aS'science'
+p26
+aS'programming'
+p27
+aS'unit testing'
+p28
+aS'credit'
+p29
+aS'security'
+p30
+aS'powershell'
+p31
+aS'scripting'
+p32
+asS'working-year'
+p33
+(lp34
+V(0, 2]
+p35
+aV(2, 5]
+p36
+asS'major'
+p37
+(lp38
+VEngineering
+p39
+aVBusiness
 p40
-aS'automation'
+aVManagement Science and Engineering
 p41
-aS'engineering'
-p42
-aS'design'
-p43
 asS'education'
-p44
-(lp45
+p42
+(lp43
 VBachelor
-p46
+p44
 asS'responsibility'
-p47
-(lp48
+p45
+(lp46
 S'development'
-p49
+p47
 aS'information'
-p50
+p48
 aS'product'
-p51
+p49
 aS'due diligence'
-p52
+p50
 aS'understand'
-p53
+p51
 aS'identify opportunity'
-p54
+p52
 aS'interface'
-p55
+p53
 aS'design'
-p56
+p54
 aS'implement'
-p57
+p55
 aS'model'
-p58
+p56
 as.

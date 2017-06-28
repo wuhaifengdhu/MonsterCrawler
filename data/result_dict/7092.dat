@@ -2,103 +2,90 @@
 S'skills'
 p2
 (lp3
-S'supply chain'
+S'a'
+aS'supply chain'
 p4
-aS'r d'
-p5
 aS'product development'
-p6
+p5
 aS'healthcare'
-p7
+p6
 aS'marketing'
-p8
+p7
 aS'energy'
-p9
+p8
 aS'predictive modeling'
-p10
+p9
 aS'data scientist'
-p11
+p10
 aS'innovation'
-p12
+p11
 aS'machine learning'
-p13
+p12
 aS'water'
-p14
+p13
 aS'analytics'
-p15
+p14
 aS'engineering'
-p16
+p15
 aS'r'
 aS'facebook'
+p16
+aS'data mining'
 p17
-aS'data mining'
+aS'modeling'
 p18
-aS'modeling'
-p19
 aS'research'
-p20
+p19
 aS'data'
+p20
+aS'data analytics'
 p21
-aS'data analytics'
-p22
 aS'science'
-p23
+p22
 asS'working-year'
-p24
-(lp25
-V[0]
-p26
+p23
+(lp24
+S'[0]'
+p25
 asS'major'
-p27
-(lp28
-S'science'
+p26
+(lp27
+VEngineering
+p28
+aVData Science
 p29
-aS'information'
+aVEconomics
 p30
-aS'business'
+aVComputer Science
 p31
-aS'marketing'
+aVBusiness
 p32
-aS'machine learning'
-p33
-aS'analytics'
-p34
-aS'engineering'
-p35
-aS'design'
-p36
-aS'data mining'
-p37
-aS'data analytics'
-p38
-aS'data mining machine learning'
-p39
 asS'education'
-p40
-(lp41
+p33
+(lp34
 S'Bachelor'
-p42
+p35
 asS'responsibility'
-p43
-(lp44
+p36
+(lp37
 S'development'
-p45
+p38
 aS'information'
-p46
+p39
 aS'product'
-p47
-aS'test model'
-p48
+p40
 aS'analytic'
-p49
+p41
 aS'design'
-p50
+p42
 aS'data mining'
-p51
+p43
 aS'modeling'
-p52
+p44
 aS'implement'
-p53
+p45
 aS'model'
-p54
+p46
+aS'test ... model'
+p47
 as.

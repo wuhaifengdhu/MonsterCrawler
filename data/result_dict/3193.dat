@@ -4,6 +4,7 @@ p2
 (lp3
 S'xml'
 p4
+aS'a'
 aS'search'
 p5
 aS'government'
@@ -51,36 +52,30 @@ p26
 asS'major'
 p27
 (lp28
-S'information'
+VData Science
 p29
-aS'finance'
+aVEconomics
 p30
-aS'science'
+aVComputer Science
 p31
-aS'data science'
+aVBusiness
 p32
-aS'data analyst'
-p33
-aS'finance accounting'
-p34
-aS'computer science'
-p35
-aS'accounting'
-p36
 asS'education'
+p33
+(lp34
+VBachelor
+p35
+aVMaster
+p36
+asS'responsibility'
 p37
 (lp38
-S'Bachelor'
+S'information'
 p39
-asS'responsibility'
-p40
-(lp41
-S'large data set'
-p42
 aS'data analysis'
-p43
+p40
 aS'analysis'
-p44
-aS'information'
-p45
+p41
+aS'large data set'
+p42
 as.

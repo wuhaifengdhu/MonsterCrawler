@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'big data'
+S'a'
+aS'big data'
 p4
 aS'communication'
 p5
@@ -21,35 +22,27 @@ p11
 asS'working-year'
 p12
 (lp13
-V[0]
+S'[0]'
 p14
 asS'major'
 p15
 (lp16
-S'information'
+VData Science
 p17
-aS'big data'
+aVBusiness
 p18
-aS'business'
-p19
-aS'communication'
-p20
-aS'data science'
-p21
-aS'science'
-p22
 asS'education'
-p23
-(lp24
+p19
+(lp20
 S'Bachelor'
-p25
+p21
 asS'responsibility'
-p26
-(lp27
+p22
+(lp23
 S'report'
-p28
+p24
 aS'predict'
-p29
+p25
 aS'information'
-p30
+p26
 as.

@@ -1,208 +1,373 @@
-description
-data_scientist
-information
-system
-consultant
--
-analyst
-security_clearance
-clearance
-status
-must_current
-schedule
-type_travel
-none
-percent_travel
-required_none
-qualification
-duty_responsibility
--work_closely
-intelligence
-analyst
-identify
-implement
-workflow
-improvement
-efficiency
--
-identify
-collect_organize
-end_user
-requirement_forming
-backlog_ensuring
-requested_specification
-capability
-accurately_described
-sufficient_detail
--
-coordinate
-government
-staff
-customer
-validate_prioritize
-track_progress
-requirement
-completion
--
-develop_test
-deploy
-analytic
-solution
-working_end-users
-incorporate_feedback
-development
-process
--
-ingest
-analyze_structured
-unstructured_data
--
-compile_report
-performance
-usage_metric
-schedule
-technology
-support
-intelligence
-production_roadmaps
--
-identify
-research
-integrate
-leading_edge
-technology
-tool
-required
--
-participate
-technical
-exchange_senior-level
-working
-group
-meeting
-required_qualification
--
-bachelor
-incomputer
-science
-related
-technical_field
-substantive_training
-experience
-area
-well
-havea
-minimum_3
-year_experience
-developing
-sw
-application
--
-experience
-agile_development
-methodology
-practice
-desk
-side
-development
-scrum
-user_story
-backlog_continuous
-integration_retrospective
-etc
--
-experience
-java
-json_elasticsearch
-django
--
-experience
-html
-python
-hadoop_spark
-julia_scala
-api
-development
-javascript
--
-excellent_interpersonal
-communication_skill
-necessary
-function_within
-team
-environment
--
-experience
-developing
-analytic
-application
-ic
-organization
-preferred
-required
-clearance
-requirement
-must_active
-t_sci
-clearance
-role
-desired_qualification
--
-must
-security+_certified
--experience
-intelligence
-analysis
--experience_developing
-analytic
-application
-ic
-organization_secured
-network
--interest
-knowledge
-data
-science
-tool
-technique
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vdescription
+p2
+aVdata scientist
+p3
+aVinformation system
+p4
+aVconsultant -
+p5
+aVanalyst
+p6
+aVsecurity clearance
+p7
+aVclearance status
+p8
+aVmust current
+p9
+aVschedule
+p10
+aVtype travel
+p11
+aVnone
+p12
+aVpercent travel
+p13
+aVrequired none
+p14
+aVqualification
+p15
+aVduty responsibility
+p16
+aVwork closely
+p17
+aVintelligence
+p18
+aVanalyst
+p19
+aVidentify implement
+p20
+aVworkflow
+p21
+aVimprovement
+p22
+aVefficiency
+p23
+aV-
+aVidentify collect
+p24
+aVorganize end
+p25
+aVuser
+p26
+aVrequirement forming
+p27
+aVbacklog ensuring
+p28
+aVrequested specification
+p29
+aVcapability accurately
+p30
+aVdescribed sufficient
+p31
+aVdetail
+p32
+aV-
+aVcoordinate
+p33
+aVgovernment
+p34
+aVstaff
+p35
+aVcustomer
+p36
+aVvalidate prioritize
+p37
+aVtrack progress
+p38
+aVrequirement
+p39
+aVcompletion
+p40
+aV-
+aVdevelop test
+p41
+aVdeploy
+p42
+aVanalytic solution
+p43
+aVworking end-users
+p44
+aVincorporate feedback
+p45
+aVdevelopment
+p46
+aVprocess
+p47
+aV-
+aVingest analyze
+p48
+aVstructured unstructured
+p49
+aVdata
+p50
+aV-
+aVcompile report
+p51
+aVperformance
+p52
+aVusage metric
+p53
+aVschedule
+p54
+aVtechnology
+p55
+aVsupport
+p56
+aVintelligence
+p57
+aVproduction roadmaps
+p58
+aV-
+aVidentify
+p59
+aVresearch
+p60
+aVintegrate
+p61
+aVleading edge
+p62
+aVtechnology
+p63
+aVtool
+p64
+aVrequired
+p65
+aV-
+aVparticipate technical
+p66
+aVexchange senior-level
+p67
+aVworking
+p68
+aVgroup
+p69
+aVmeeting
+p70
+aVrequired qualification
+p71
+aV- bachelor
+p72
+aVincomputer
+p73
+aVscience related
+p74
+aVtechnical field
+p75
+aVsubstantive training
+p76
+aVexperience
+p77
+aVarea
+p78
+aVwell
+p79
+aVhavea
+p80
+aVminimum 3
+p81
+aVyear experience
+p82
+aVdeveloping
+p83
+aVsw
+p84
+aVapplication
+p85
+aV-
+aVexperience
+p86
+aVagile development
+p87
+aVmethodology
+p88
+aVpractice
+p89
+aVdesk
+p90
+aVside
+p91
+aVdevelopment
+p92
+aVscrum
+p93
+aVuser story
+p94
+aVbacklog continuous
+p95
+aVintegration retrospective
+p96
+aVetc
+p97
+aV-
+aVexperience
+p98
+aVjava json
+p99
+aVelasticsearch
+p100
+aVdjango
+p101
+aV-
+aVexperience
+p102
+aVhtml
+p103
+aVpython
+p104
+aVhadoop spark
+p105
+aVjulia scala
+p106
+aVapi development
+p107
+aVjavascript
+p108
+aV-
+aVexcellent interpersonal
+p109
+aVcommunication skill
+p110
+aVnecessary
+p111
+aVfunction within
+p112
+aVteam
+p113
+aVenvironment
+p114
+aV-
+aVexperience developing
+p115
+aVanalytic
+p116
+aVapplication
+p117
+aVic organization
+p118
+aVpreferred
+p119
+aVrequired
+p120
+aVclearance requirement
+p121
+aVmust active
+p122
+aVt sci
+p123
+aVclearance
+p124
+aVrole
+p125
+aVdesired qualification
+p126
+aV-
+aVmust
+p127
+aVsecurity+ certified
+p128
+aVexperience
+p129
+aVintelligence
+p130
+aVanalysis
+p131
+aVexperience developing
+p132
+aVanalytic
+p133
+aVapplication
+p134
+aVic organization
+p135
+aVsecured network
+p136
+aVinterest
+p137
+aVknowledge
+p138
+aVdata science
+p139
+aVtool technique
+p140
+aVcompany description
+p141
+aVcaci employ
+p142
+aVdiverse range
+p143
+aVtalent create
+p144
+aVenvironment fuel
+p145
+aVinnovation foster
+p146
+aVcontinuous improvement
+p147
+aVsuccess join
+p148
+aVcaci opportunity
+p149
+aVmake immediate
+p150
+aVimpact providing
+p151
+aVinformation
+p152
+aVsolution
+p153
+aVservice
+p154
+aVsupport
+p155
+aVnational security
+p156
+aVmission government
+p157
+aVtransformation intelligence
+p158
+aVdefense federal
+p159
+aVcivilian customer
+p160
+aVfortune magazine
+p161
+aVworld's admired
+p162
+aVcompany
+p163
+aVservice
+p164
+aVindustry caci
+p165
+aVmember fortune
+p166
+aV1000 largest
+p167
+aVcompany russell
+p168
+aV2000 index
+p169
+aVp smallcap600
+p170
+aVindex caci
+p171
+aVprovides dynamic
+p172
+aVcareer 20
+p173
+aV000 employee
+p174
+aVworldwide caci
+p175
+aVequal opportunity
+p176
+aVemployer -
+p177
+aVfemale minority
+p178
+aVprotected veteran
+p179
+aVindividual disability
+p180
+a.

@@ -4,230 +4,205 @@ p2
 (dp3
 S'communication'
 p4
-I1
+F0.0044722298279967695
 sS'data science'
 p5
-I1
+F0.0016989278611025413
 sS'actuarial science'
 p6
-I1
-sS'technical writing'
+F0.0070250761455422084
+sS'analytics'
 p7
-I1
+F0.0012284427429145857
 sS'business intelligence'
 p8
-I1
+F0.0028856543909243234
 sS'pricing'
 p9
-I1
-sS'research'
-p10
-I1
+F0.01067984934898133
 sS'data mining'
+p10
+F0.0029971459444662961
+sS'research'
 p11
-I1
-sS'education'
-p12
-I1
+F0.0024100574623212947
 sS'insurance'
+p12
+F0.013360895820125795
+sS'statistics'
 p13
-I1
-sS'management'
-p14
-I1
+F0.00131710855198108
 sS'big data'
-p15
-I1
+p14
+F0.0017976343592693044
 sS'predictive modeling'
+p15
+F0.0029364490235719914
+sS'education'
 p16
-I1
+F0.0059283241520148846
 sS'governance'
 p17
-I1
+F0.0050911243232991503
 sS'continuous improvement'
 p18
-I1
+F0.005663802347590596
 sS'strategy'
 p19
-I1
-sS'intelligence'
+F0.0044491848339741095
+sS'optimization'
 p20
-I1
-sS'policy'
+F0.002824871267497941
+sS'technical writing'
 p21
-I1
-sS'mathematics'
+F0.0060083979864508606
+sS'intelligence'
 p22
-I1
-sS'segmentation'
+F0.0022175969066197442
+sS'policy'
 p23
-I1
-sS'theory'
+F0.003855449474633827
+sS'segmentation'
 p24
-I1
-sS'data scientist'
+F0.0040904679549859336
+sS'theory'
 p25
-I1
-sS'innovation'
+F0.0041390907492561239
+sS'data scientist'
 p26
-I1
-sS'leadership development'
+F0.001496287662660845
+sS'innovation'
 p27
-I1
-sS'business process'
+F0.0027342156386083666
+sS'leadership development'
 p28
-I1
-sS'leadership'
+F0.0064271678404591434
+sS'business process'
 p29
-I1
-sS'regression'
-p30
-I1
-sS'modeling'
-p31
-I1
-sS'data'
-p32
-I1
-sS'science'
-p33
-I1
-sS'applied mathematics'
-p34
-I1
-sS'economics'
-p35
-I1
-sS'analysis'
-p36
-I1
-sS'optimization'
-p37
-I1
-sS'financial services'
-p38
-I1
-sS'data analytics'
-p39
-I1
-ssS'working-year'
-p40
-(dp41
-V(5, 10]
-p42
-I1
-sV(15, 20]
-p43
-I1
-ssS'major'
-p44
-(dp45
-S'quantitative economics'
-p46
-I1
+F0.004315371369378187
 sS'management'
-p47
-I1
-sS'general'
-p48
-I1
-sS'business'
-p49
-I1
-sS'big data'
-p50
-I1
-sS'science'
-p51
-I1
-sS'applied mathematics'
-p52
-I1
-sS'economics'
-p53
-I1
-sS'statistic'
-p54
-I1
-sS'actuarial science'
-p55
-I1
-sS'phd'
-p56
-I1
-sS'statistics applied mathematics'
-p57
-I1
-sS'data mining'
-p58
-I1
-sS'communication'
-p59
-I1
-sS'mathematics'
-p60
-I1
-sS'applied math'
-p61
-I1
-sS'data science'
-p62
-I1
-sS'data analytics'
-p63
-I1
-ssS'education'
-p64
-(dp65
-VBachelor
-p66
-I1
-sVMaster
-p67
-I1
-sVDoctor
-p68
-I1
-ssS'responsibility'
-p69
-(dp70
-S'development'
-p71
-I1
-sS'product'
-p72
-I1
-sS'provide leadership'
-p73
-I1
-sVinsight
-p74
-I1
-sS'analysis'
-p75
-I1
-sS'improvement'
-p76
-I1
-sS'analytic'
-p77
-I1
-sS'optimization'
-p78
-I1
-sS'understand'
-p79
-I1
-sS'data mining'
-p80
-I1
+p30
+F0.0012797300384175879
+sS'regression'
+p31
+F0.0033561691958782494
 sS'modeling'
-p81
-I1
+p32
+F0.0011470984308214018
+sS'data'
+p33
+F0.0033503245162280486
+sS'a'
+F0.0026413021096243312
+sS'science'
+p34
+F0.0079438857423061292
+sS'applied mathematics'
+p35
+F0.0042685180011916759
+sS'economics'
+p36
+F0.0033848754581348325
+sS'analysis'
+p37
+F0.00096784949648059308
+sS'leadership'
+p38
+F0.0023339104819263025
+sS'financial services'
+p39
+F0.005971709974435354
+sS'organization'
+p40
+F0.0024903726543526569
+sS'data analytics'
+p41
+F0.0028846365557708997
+ssS'working-year'
+p42
+(dp43
+V(5, 10]
+p44
+F0.0017028873751085576
+sV(15, 20]
+p45
+F0.0039474094162252789
+ssS'major'
+p46
+(dp47
+VStatistics
+p48
+F0.0025444982625537856
+sVBusiness
+p49
+F0.00152784512312728
+sVData Science
+p50
+F0.0014509731392726873
+sVEconomics
+p51
+F0.0023174739371814418
+sVComputer Science
+p52
+F0.0012787510541697707
+sVMathematics
+p53
+F0.0024212888835910338
+sVManagement Science and Engineering
+p54
+F0.0018213905910577576
+ssS'education'
+p55
+(dp56
+VBachelor
+p57
+F0.0012872582311721846
+sVMaster
+p58
+F0.0010272326062488375
+sVDoctor
+p59
+F0.0015383923330176102
+ssS'responsibility'
+p60
+(dp61
+S'development'
+p62
+F0.0017103968960651393
+sS'product'
+p63
+F0.0018997074727651788
+sS'provide leadership'
+p64
+F0.0073450284720618783
+sS'insight'
+p65
+F0.010366629129997092
+sS'analysis'
+p66
+F0.00096784949648059308
+sS'improvement'
+p67
+F0.0037940769722303782
+sS'analytic'
+p68
+F0.0031888784919486481
+sS'optimization'
+p69
+F0.002824871267497941
+sS'understand'
+p70
+F0.0029684743127744002
+sS'data mining'
+p71
+F0.0029971459444662961
+sS'modeling'
+p72
+F0.0011470984308214018
 sS'model'
-p82
-I1
+p73
+F0.0065568256012781389
 sS'evaluation'
-p83
-I1
+p74
+F0.0047788745534275102
 ss.

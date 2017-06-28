@@ -42,47 +42,37 @@ p21
 asS'working-year'
 p22
 (lp23
-V[0]
+S'[0]'
 p24
 asS'major'
 p25
 (lp26
-S'software engineering'
+VEngineering
 p27
-aS'big data'
+aVComputer Science
 p28
-aS'phd'
-p29
-aS'engineering'
-p30
-aS'design'
-p31
-aS'natural language processing'
-p32
-aS'machine learning'
-p33
 asS'education'
-p34
-(lp35
+p29
+(lp30
 VMaster
-p36
+p31
 aVDoctor
-p37
+p32
 asS'responsibility'
-p38
-(lp39
+p33
+(lp34
 S'product'
-p40
+p35
 aS'processing'
-p41
+p36
 aS'design'
-p42
+p37
 aS'recommendation'
-p43
+p38
 aS'model'
-p44
+p39
 aS'prototype'
-p45
+p40
 aS'extract'
-p46
+p41
 as.

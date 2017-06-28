@@ -2,48 +2,59 @@
 S'skills'
 p2
 (lp3
-S'automotive'
-p4
+S'a'
 aS'data scientist'
+p4
+aS'finance'
 p5
-aS'new business development'
-p6
 aS'communication'
+p6
+aS'excel'
 p7
-aS'business development'
+aS'sales'
 p8
-aS'data'
+aS'insurance'
 p9
-aS'b2b'
+aS'new business development'
 p10
-asS'working-year'
+aS'automotive'
 p11
-(lp12
-V(5, 10]
+aS'business development'
+p12
+aS'data'
 p13
-aV(2, 5]
+aS'b2b'
 p14
-asS'major'
+asS'working-year'
 p15
 (lp16
-S'communication'
+V(5, 10]
 p17
-aS'business'
+aV(2, 5]
 p18
-asS'education'
+asS'major'
 p19
 (lp20
-S'Bachelor'
+VEconomics
 p21
-asS'responsibility'
+aVBusiness
 p22
-(lp23
-S'development'
-p24
-aS'product'
+asS'education'
+p23
+(lp24
+VBachelor
 p25
-aS'presentation'
+aVMaster
 p26
-aS'formulate'
+asS'responsibility'
 p27
+(lp28
+S'development'
+p29
+aS'product'
+p30
+aS'presentation'
+p31
+aS'formulate'
+p32
 as.

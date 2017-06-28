@@ -1,5 +1,5 @@
-skills: {'management': 1, 'postgresql': 1, 'r d': 1, 'government': 1, 'communication': 1, 'database management': 1, 'data scientist': 1, 'devops': 1, 'communication skills': 1, 'analytics': 1, 'engineering': 1, 'r': 1, 'computer science': 1, 'javascript': 1, 'sql': 1, 'organization': 1, 'data': 1, 'etl': 1}
-working-year: {u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'communication': 1, 'analytics': 1, 'engineering': 1, 'computer science': 1}
-education: {'Bachelor': 1}
-responsibility: {'ensure data integrity': 1, 'information': 1, 'product': 1, 'implement': 1, 'solve problem': 1}
+skills: {'management': 0.0029040027794860644, 'postgresql': 0.010906777669658889, 'government': 0.03342460917473032, 'data scientist': 0.003395422003730379, 'javascript': 0.014214388551422716, 'programming': 0.003533061650111782, 'devops': 0.013238248999743725, 'strategy': 0.005048113561624471, 'analytics': 0.011150480281840085, 'engineering': 0.015703266372739163, 'r': 0.0017788214955575038, 'computer science': 0.004506356612779553, 'sql': 0.002185717496259766, 'communication': 0.00507426076638095, 'organization': 0.005651230254107953, 'database management': 0.015535266474846142, 'data': 0.0019006648697832197, 'etl': 0.009133861134664047, 'science': 0.0022533137442118344}
+working-year: {u'(2, 5]': 0.003970975732151075}
+major: {u'Data Science': 0.003292592892964944, u'Engineering': 0.007219163226816434, u'Computer Science': 0.002901781238308326, u'Management Science and Engineering': 0.004133155572015681}
+education: {'Bachelor': 0.002921085986121496}
+responsibility: {'ensure data integrity': 0.023499687796037113, 'information': 0.00444584999849165, 'product': 0.004310874649736367, 'implement': 0.006788022997178229, 'solve problem': 0.013182828433434875}

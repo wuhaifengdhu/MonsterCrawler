@@ -2,82 +2,82 @@
 S'skills'
 p2
 (lp3
-S'clustering'
+S'consulting'
 p4
-aS'programming'
+aS'communication'
 p5
-aS'english'
-p6
-aS'python'
-p7
-aS'marketing'
-p8
 aS'linear programming'
-p9
-aS'optimization'
-p10
-aS'data scientist'
-p11
-aS'regression models'
-p12
-aS'machine learning'
-p13
+p6
+aS'sales'
+p7
 aS'analytics'
-p14
+p8
 aS'problem solving'
-p15
-aS'r'
-aS'logistic regression'
-p16
-aS'communication'
-p17
+p9
+aS'sas'
+p10
 aS'regression'
-p18
-aS'retail'
-p19
-aS'data'
-p20
+p11
+aS'clustering'
+p12
+aS'regression models'
+p13
+aS'r'
 aS'unstructured data'
-p21
-aS'r programming'
-p22
-asS'working-year'
-p23
-(lp24
-V(5, 10]
-p25
-asS'major'
-p26
-(lp27
-S'information'
-p28
-aS'business'
-p29
+p14
+aS'python'
+p15
 aS'marketing'
-p30
-aS'communication'
-p31
+p16
+aS'data scientist'
+p17
+aS'data'
+p18
+aS'programming'
+p19
 aS'machine learning'
-p32
-aS'analytics'
-p33
+p20
+aS'optimization'
+p21
+aS'logistic regression'
+p22
 aS'english'
-p34
+p23
+aS'retail'
+p24
+asS'working-year'
+p25
+(lp26
+V(5, 10]
+p27
+asS'major'
+p28
+(lp29
+VData Science
+p30
+aVEconomics
+p31
+aVComputer Science
+p32
+aVBusiness
+p33
 asS'education'
-p35
-(lp36
+p34
+(lp35
 VBachelor
-p37
+p36
 asS'responsibility'
-p38
-(lp39
+p37
+(lp38
 S'development'
-p40
+p39
 aS'information'
-p41
+p40
 aS'communicate'
-p42
+p41
 aS'analytic'
+p42
+aS'drive ... decision'
 p43
 aS'optimization'
 p44
@@ -85,6 +85,8 @@ aS'report'
 p45
 aS'implement'
 p46
-aS'model'
+aS'prototype'
 p47
+aS'model'
+p48
 as.

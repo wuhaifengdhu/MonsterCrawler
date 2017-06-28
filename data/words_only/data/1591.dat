@@ -4,184 +4,175 @@ p2
 (dp3
 S'cartography'
 p4
-I1
+F0.019315471764447492
 sS'testing'
 p5
-I1
-sS'pig'
+F0.0064382956443396634
+sS'hadoop'
 p6
-I1
+F0.0040402720169797641
 sS'analytics'
 p7
-I1
+F0.0054700469307140042
 sS'statistical analysis'
 p8
-I1
+F0.0080965413629327295
 sS'data mining'
 p9
-I1
-sS'analysis'
+F0.0066728909706985457
+sS'sas'
 p10
-I1
-sS'econometrics'
+F0.0043560907442686059
+sS'analysis'
 p11
-I1
-sS'clustering'
+F0.0021548347280133961
+sS'econometrics'
 p12
-I1
-sS'management'
+F0.0096454671689944673
+sS'clustering'
 p13
-I1
-sS'big data'
+F0.010136517486025818
+sS'statistics'
 p14
-I1
-sS'program management'
+F0.0029324303610144802
+sS'big data'
 p15
-I1
-sS'agile'
+F0.0040022802715807158
+sS'program management'
 p16
-I1
-sS'integration'
+F0.01050412361183614
+sS'agile'
 p17
-I1
-sS'matlab'
+F0.0068669492852185829
+sS'integration'
 p18
-I1
-sS'operations research'
-p19
-I1
-sS'computer science'
-p20
-I1
-sS'python'
-p21
-I1
-sS'automotive'
-p22
-I1
-sS'automation'
-p23
-I1
-sS'process automation'
-p24
-I1
-sS'sql'
-p25
-I1
-sS'data'
-p26
-I1
-sS'software development'
-p27
-I1
-sVbayesian network
-p28
-I1
-sS'programming'
-p29
-I1
-sS'hive'
-p30
-I1
-sS'machine learning'
-p31
-I1
+F0.0072523368622472092
 sS'r'
-I1
-sS'hadoop'
+F0.0017452588258300037
+sS'matlab'
+p19
+F0.0040138402126983167
+sS'mathematics'
+p20
+F0.0057480920819993897
+sS'operations research'
+p21
+F0.0090595550803519182
+sS'computer science'
+p22
+F0.0044213310163120148
+sS'python'
+p23
+F0.0032783114009639373
+sS'automotive'
+p24
+F0.01335656750734319
+sS'process automation'
+p25
+F0.017497622178841505
+sS'management'
+p26
+F0.0028492102742127428
+sS'sql'
+p27
+F0.0021444775435001482
+sS'pig'
+p28
+F0.0084862521230059489
+sS'data'
+p29
+F0.0018648032684665554
+sS'software development'
+p30
+F0.0066672849624945683
+sVbayesian network
+p31
+F0.017654887064453229
+sS'science'
 p32
-I1
-sS'predictive analytics'
+F0.0022107983905474606
+sS'programming'
 p33
-I1
-ssS'working-year'
+F0.0034664001095436351
+sS'hive'
 p34
-(dp35
-V(2, 5]
+F0.0065589756273270652
+sS'optimization'
+p35
+F0.0062893360295237181
+sS'predictive analytics'
 p36
-I1
-ssS'major'
+F0.0072405602934867627
+ssS'working-year'
 p37
 (dp38
-S'information'
+V(2, 5]
 p39
-I1
-sS'management'
+F0.0038960516617331307
+ssS'major'
 p40
-I1
-sS'big data'
-p41
-I1
-sS'automation'
+(dp41
+VStatistics
 p42
-I1
-sS'machine learning'
+F0.0056651093392706929
+sVData Science
 p43
-I1
-sS'analytics'
+F0.003230468498758059
+sVComputer Science
 p44
-I1
-sS'design'
+F0.0028470306489062824
+sVMathematics
 p45
-I1
-sS'computer science'
+F0.0053907941181838117
+sVOperations Research
 p46
-I1
-sS'phd'
+F0.010121788988009918
+sVManagement Science and Engineering
 p47
-I1
-sS'data mining'
-p48
-I1
-sS'mathematics computer science'
-p49
-I1
-sS'econometrics'
-p50
-I1
-sS'operations research'
-p51
-I1
-sS'predictive analytics'
-p52
-I1
+F0.0040551715046191587
 ssS'education'
-p53
-(dp54
-VDoctor
-p55
-I1
+p48
+(dp49
+VMaster
+p50
+F0.0022870461799502418
+sVDoctor
+p51
+F0.0034250999112467552
 ssS'responsibility'
-p56
-(dp57
+p52
+(dp53
 S'development'
-p58
-I1
+p54
+F0.0038080534667110652
 sS'information'
-p59
-I1
+p55
+F0.0087239320725119168
 sS'data infrastructure'
-p60
-I1
+p56
+F0.013613413134150385
 sS'data mining'
-p61
-I1
+p57
+F0.0066728909706985457
 sS'mapping'
-p62
-I1
+p58
+F0.026879746596765557
 sS'analysis'
-p63
-I1
+p59
+F0.0021548347280133961
 sS'analytic'
-p64
-I1
+p60
+F0.014199534416978887
+sS'optimization'
+p61
+F0.0062893360295237181
 sS'design'
-p65
-I1
+p62
+F0.0091850239623803634
 sS'recommendation'
-p66
-I1
+p63
+F0.0082144708956549423
 sS'model'
-p67
-I1
+p64
+F0.004866071829879374
 ss.

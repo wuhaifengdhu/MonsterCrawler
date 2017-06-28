@@ -24,6 +24,7 @@ aS'policy'
 p13
 aS'mathematics'
 p14
+aS'a'
 aS'data analysis'
 p15
 aS'data scientist'
@@ -63,71 +64,51 @@ p32
 asS'working-year'
 p33
 (lp34
-V[0]
+S'[0]'
 p35
 asS'major'
 p36
 (lp37
-S'management'
+VBusiness
 p38
-aS'software engineering'
+aVData Science
 p39
-aS'business'
+aVEngineering
 p40
-aS'science'
+aVComputer Science
 p41
-aS'applied mathematics'
+aVMathematics
 p42
-aS'applied math'
+aVManagement Science and Engineering
 p43
-aS'communication'
-p44
-aS'automation'
-p45
-aS'mathematics'
-p46
-aS'engineering'
-p47
-aS'mathematics computer science'
-p48
-aS'english'
-p49
-aS'computer science'
-p50
-aS'data science'
-p51
-aS'machine learning'
-p52
-aS'machine learning data science'
-p53
-aS'data science engineering'
-p54
 asS'education'
-p55
-(lp56
+p44
+(lp45
 S'Bachelor'
-p57
+p46
 asS'responsibility'
-p58
-(lp59
+p47
+(lp48
 S'development'
-p60
+p49
 aS'forecasting'
-p61
+p50
 aS'data analysis'
-p62
+p51
 aS'decision-making'
-p63
+p52
 aS'product'
-p64
+p53
 aS'analysis'
-p65
+p54
+aS'forecast'
+p55
 aS'analytic'
-p66
+p56
 aS'optimization'
-p67
+p57
 aS'understand'
-p68
+p58
 aS'identify opportunity'
-p69
+p59
 as.

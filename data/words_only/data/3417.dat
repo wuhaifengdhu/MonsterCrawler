@@ -2,132 +2,129 @@
 S'skills'
 p2
 (dp3
-S'dashboarding'
+S'sas'
 p4
-I1
-sS'visualization'
-p5
-I1
-sS'minitab'
-p6
-I1
-sS'data collection'
-p7
-I1
-sS'google analytics'
-p8
-I1
-sS'python'
-p9
-I1
-sS'science'
-p10
-I1
-sS'applied mathematics'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'spss'
-p13
-I1
-sS'analytics'
-p14
-I1
+F0.014895019964273299
 sS'engineering'
-p15
-I1
-sS'r'
-I1
-sS'facebook'
-p16
-I1
+p5
+F0.013170481473910266
 sS'marketing research'
-p17
-I1
-sS'sql'
-p18
-I1
+p6
+F0.043804542068767681
 sS'mathematical modeling'
-p19
-I1
-sS'modeling'
-p20
-I1
-sS'data'
-p21
-I1
+p7
+F0.025593544949921967
+sS'statistics'
+p8
+F0.010027019944114028
+sS'research'
+p9
+F0.009173767114642347
 sS'computer science'
+p10
+F0.015118099604163665
+sS'dashboarding'
+p11
+F0.06754926540907287
+sS'python'
+p12
+F0.0056048549758415701
+sS'marketing'
+p13
+F0.020486177661048911
+sS'data scientist'
+p14
+F0.011391093173805144
+sS'facebook'
+p15
+F0.045955695794470147
+sS'minitab'
+p16
+F0.045056246180231657
+sS'sql'
+p17
+F0.0073327296648714744
+sS'modeling'
+p18
+F0.0087327493443177702
+sS'data'
+p19
+F0.0012752848158545476
+sS'data collection'
+p20
+F0.077964506386263302
+sS'data visualization'
+p21
+F0.021147673393329042
+sS'science'
 p22
-I1
-ssS'working-year'
+F0.0075595041741300262
+sS'applied mathematics'
 p23
-(dp24
-V(5, 10]
+F0.032495814460685016
+sS'economics'
+p24
+F0.025768729294187758
+sS'spss'
 p25
-I1
-sV(2, 5]
+F0.023724180976963067
+sS'google analytics'
 p26
-I1
-ssS'major'
+F0.041476324871395472
+sS'r'
+F0.0059676592109025933
+ssS'working-year'
 p27
 (dp28
-S'science'
+V(5, 10]
 p29
-I1
-sS'applied mathematics'
+F0.01296391679114902
+sV(2, 5]
 p30
-I1
-sS'applied math'
+F0.01332198310141006
+ssS'major'
 p31
-I1
-sS'economics computer science'
-p32
-I1
-sS'analytics'
+(dp32
+VStatistics
 p33
-I1
-sS'engineering'
+F0.019371019031054627
+sVData Science
 p34
-I1
-sS'design'
+F0.011046118092527556
+sVEconomics
 p35
-I1
-sS'marketing research'
+F0.01764270481209098
+sVEngineering
 p36
-I1
-sS'statistic'
+F0.024219128244803524
+sVComputer Science
 p37
-I1
-sVphysic
+F0.0097350080252924503
+sVMathematics
 p38
-I1
-sS'computer science'
-p39
-I1
+F0.018433037952499485
 ssS'education'
-p40
-(dp41
-VMaster
+p39
+(dp40
+VBachelor
+p41
+F0.0097997723405366319
+sVMaster
 p42
-I1
+F0.0078202224217653431
 sVDoctor
 p43
-I1
+F0.011711631954585678
 ssS'responsibility'
 p44
 (dp45
-Vinsight
+S'modeling'
 p46
-I1
-sS'modeling'
-p47
-I1
+F0.0087327493443177702
 sS'data collection'
-p48
-I1
+p47
+F0.077964506386263302
 sS'design'
-p49
-I1
+p48
+F0.015703428064714815
 ss.

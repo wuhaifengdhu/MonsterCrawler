@@ -2,38 +2,39 @@
 S'skills'
 p2
 (lp3
-S'visualization'
+S'a'
+aS'visualization'
 p4
 aS'automotive'
 p5
-aS'r d'
-p6
 aS'product development'
-p7
+p6
 aS'data visualization'
-p8
+p7
 aS'python'
-p9
+p8
 aS'communication'
-p10
+p9
 aS'data science'
-p11
+p10
 aS'publishing'
-p12
+p11
 aS'data scientist'
-p13
+p12
 aS'analysis'
-p14
+p13
 aS'machine learning'
-p15
+p14
 aS'analytics'
-p16
+p15
 aS'r'
 aS'statistical analysis'
-p17
+p16
 aS'leadership'
-p18
+p17
 aS'sql'
+p18
+aS'modeling'
 p19
 aS'research'
 p20
@@ -46,57 +47,47 @@ p23
 (lp24
 V(5, 10]
 p25
-aV(0, 2]
-p26
-aV(2, 5]
-p27
 asS'major'
+p26
+(lp27
+VData Science
 p28
-(lp29
-S'business'
+aVComputer Science
+p29
+aVBusiness
 p30
-aS'science'
-p31
-aS'data science'
-p32
-aS'machine learning'
-p33
-aS'analytics'
-p34
-aS'design'
-p35
-aS'communication'
-p36
 asS'education'
-p37
-(lp38
+p31
+(lp32
 VBachelor
-p39
+p33
 asS'responsibility'
-p40
-(lp41
+p34
+(lp35
 S'development'
-p42
+p36
 aS'product'
-p43
+p37
 aS'presentation'
-p44
-aVinsight
-p45
+p38
+aS'insight'
+p39
 aS'communicate'
-p46
+p40
 aS'analysis'
-p47
+p41
 aS'statistical model'
-p48
+p42
 aS'design'
-p49
+p43
 aS'solve problem'
-p50
+p44
+aS'modeling'
+p45
 aS'implement'
-p51
+p46
 aS'extract'
-p52
+p47
 aS'model'
-p53
+p48
 as.

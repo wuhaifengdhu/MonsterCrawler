@@ -2,147 +2,127 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'data science'
 p4
-aS'data science'
-p5
 aS'analytics'
-p6
+p5
 aS'engineering'
-p7
+p6
 aS'mathematical modeling'
-p8
+p7
 aS'simulation'
-p9
+p8
 aS'quantitative analysis'
-p10
+p9
 aS'open source'
-p11
+p10
 aS'big data'
-p12
+p11
 aS'recruiting'
-p13
+p12
 aS'research'
-p14
+p13
 aS'big data analytics'
-p15
+p14
 aS'optimization'
-p16
+p15
 aS'computer science'
-p17
+p16
 aS'policy'
-p18
+p17
 aS'mathematics'
-p19
+p18
 aS'text mining'
-p20
+p19
 aS'algebra'
-p21
+p20
 aS'collaboration'
-p22
+p21
 aS'philosophy'
-p23
+p22
 aS'algorithm development'
-p24
+p23
 aS'modeling'
-p25
+p24
 aS'data'
-p26
+p25
 aS'software development'
-p27
+p26
 aS'training'
+p27
+aVbayesian method
 p28
-aS'solver'
+aS'collaborative filtering'
 p29
-aS'science'
+aS'solver'
 p30
-aS'analysis'
+aS'science'
 p31
-aS'machine learning'
+aS'analysis'
 p32
+aS'machine learning'
+p33
 aS'r'
 aS'linear algebra'
-p33
-aS'data analytics'
 p34
-asS'working-year'
+aS'organization'
 p35
-(lp36
-V(10, 15]
+aS'physics'
+p36
+aS'data analytics'
 p37
-asS'major'
+asS'working-year'
 p38
 (lp39
-S'information'
+V(10, 15]
 p40
-aS'physics mathematics'
+asS'major'
 p41
-aS'big data'
-p42
-aS'analytics'
+(lp42
+VBusiness
 p43
-aS'ee computer science'
+aVData Science
 p44
-aS'science'
+aVEngineering
 p45
-aS'data science'
+aVComputer Science
 p46
-aS'philosophy'
+aVMathematics
 p47
-aS'machine learning'
+aVPhysics
 p48
-aS'big data analytics'
-p49
-aS'engineering physics'
-p50
-aS'engineering'
-p51
-aS'computer science engineering'
-p52
-aVphysic
-p53
-aS'mathematics'
-p54
-aS'general'
-p55
-aS'business'
-p56
-aS'data analytics'
-p57
-aS'computer science'
-p58
 asS'education'
-p59
-(lp60
+p49
+(lp50
 VBachelor
-p61
+p51
 aVDoctor
-p62
+p52
 asS'responsibility'
-p63
-(lp64
+p53
+(lp54
 S'development'
-p65
+p55
 aS'information'
-p66
-aS'evaluation'
-p67
+p56
 aS'formulate'
-p68
-aS'presentation'
-p69
-aS'analysis'
-p70
-aS'simulation'
-p71
-aS'analytic'
-p72
-aS'optimization'
-p73
-aS'recommendation'
-p74
-aS'modeling'
-p75
+p57
 aS'quantitative analysis'
-p76
+p58
+aS'presentation'
+p59
+aS'analysis'
+p60
+aS'simulation'
+p61
+aS'analytic'
+p62
+aS'optimization'
+p63
+aS'recommendation'
+p64
+aS'modeling'
+p65
+aS'evaluation'
+p66
 as.

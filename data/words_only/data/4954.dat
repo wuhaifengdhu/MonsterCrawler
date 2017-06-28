@@ -2,139 +2,154 @@
 S'skills'
 p2
 (dp3
-S'communication'
+S'ip'
 p4
-I1
-sS'hardware'
-p5
-I1
-sS'troubleshooting'
-p6
-I1
-sS'linux'
-p7
-I1
-sS'writing'
-p8
-I1
-sS'networking'
-p9
-I1
-sS'storage'
-p10
-I1
-sS'saas'
-p11
-I1
-sS'research'
-p12
-I1
-sS'information technology'
-p13
-I1
-sS'innovation'
-p14
-I1
-sS'web development'
-p15
-I1
-sS'computer science'
-p16
-I1
-sS'data scientist'
-p17
-I1
-sS'data'
-p18
-I1
-sS'b2b'
-p19
-I1
-sS'project management'
-p20
-I1
-sS'excel'
-p21
-I1
-sS'programming'
-p22
-I1
-sS'analysis'
-p23
-I1
-sS'architecture'
-p24
-I1
-sS'windows 7'
-p25
-I1
-sS'security'
-p26
-I1
-sS'scripting'
-p27
-I1
-ssS'working-year'
-p28
-(dp29
-V[0]
-p30
-I1
-ssS'major'
-p31
-(dp32
-S'information'
-p33
-I1
-sS'information systems'
-p34
-I1
-sS'business'
-p35
-I1
+F0.01519774561662629
 sS'communication'
-p36
-I1
-sS'computer science computer engineering'
-p37
-I1
-sS'information technology'
-p38
-I1
-sS'computer engineering'
-p39
-I1
-sS'information system'
-p40
-I1
-sS'web development'
-p41
-I1
-sS'project management'
-p42
-I1
+p5
+F0.0052772311970361889
+sS'tcp'
+p6
+F0.017819970738672402
+sS'database administration'
+p7
+F0.016319309768075437
+sS'engineering'
+p8
+F0.008165698513824364
+sS'troubleshooting'
+p9
+F0.012534608219113987
+sS'linux'
+p10
+F0.006153593459330765
+sS'writing'
+p11
+F0.0074902010869416433
+sS'management'
+p12
+F0.0030201628906655073
+sS'networking'
+p13
+F0.024215944284271915
+sS'storage'
+p14
+F0.012468338541821531
+sS'research'
+p15
+F0.0028438678055391279
+sS'user interface'
+p16
+F0.015109635694476681
 sS'computer science'
-p43
-I1
-ssS'education'
-p44
-(dp45
-VBachelor
-p46
-I1
-sVMaster
-p47
-I1
-ssS'responsibility'
-p48
-(dp49
-S'development'
-p50
-I1
-sS'information'
-p51
-I1
+p17
+F0.0046866108772907356
+sS'innovation'
+p18
+F0.0064527489071157457
+sS'information security'
+p19
+F0.015677033918873519
+sS'application development'
+p20
+F0.012770321338287484
+sS'web development'
+p21
+F0.01219145673418686
+sS'data analysis'
+p22
+F0.0049458733832188845
+sS'data scientist'
+p23
+F0.0035312388838795944
+sS'windows 7'
+p24
+F0.02237621314936443
+sS'b2b'
+p25
+F0.011585748838660582
+sS'project management'
+p26
+F0.006338177744415154
+sS'hardware'
+p27
+F0.01237772025518155
+sS'saas'
+p28
+F0.010291807654002205
+sS'science'
+p29
+F0.0023434462939803083
+sS'excel'
+p30
+F0.0053898474226868852
+sS'programming'
+p31
+F0.0036743841161162535
 sS'analysis'
-p52
-I1
+p32
+F0.0011420624058471
+sS'architecture'
+p33
+F0.0072900484089488612
+sS'information technology'
+p34
+F0.010388830239205818
+sS'security'
+p35
+F0.0072845027190659734
+sS'scripting'
+p36
+F0.0081102812581555443
+ssS'working-year'
+p37
+(dp38
+S'[0]'
+p39
+F0.0073207157684812762
+ssS'major'
+p40
+(dp41
+VEngineering
+p42
+F0.008165698513824364
+sVInformation Science
+p43
+F0.0084421839618469795
+sVComputer Science
+p44
+F0.0030178524878406595
+sVBusiness
+p45
+F0.0036057144905803809
+sVManagement Science and Engineering
+p46
+F0.0042984817948963083
+ssS'education'
+p47
+(dp48
+VBachelor
+p49
+F0.003037929425566356
+sVMaster
+p50
+F0.0024242689507472564
+ssS'responsibility'
+p51
+(dp52
+S'interface'
+p53
+F0.010525190661833597
+sS'information'
+p54
+F0.013871051995293947
+sS'data analysis'
+p55
+F0.0049458733832188845
+sS'development'
+p56
+F0.0040365366747137288
+sS'analysis'
+p57
+F0.0011420624058471
 ss.

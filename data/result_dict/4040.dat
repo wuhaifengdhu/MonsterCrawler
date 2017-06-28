@@ -2,155 +2,140 @@
 S'skills'
 p2
 (lp3
-S'cancer'
+S'cognos'
 p4
-aS'communication'
+aS'cancer'
 p5
-aS'data science'
+aS'communication'
 p6
-aS'tableau'
+aS'data science'
 p7
-aS'analytics'
+aS'tableau'
 p8
-aS'data mining'
+aS'analytics'
 p9
-aS'quantitative analysis'
+aS'data mining'
 p10
-aS'visualization'
+aS'quantitative analysis'
 p11
-aS'management'
+aS'visualization'
 p12
-aS'java'
+aS'statistics'
 p13
-aS'big data'
+aS'java'
 p14
-aS'predictive modeling'
+aS'big data'
 p15
-aS'excel'
+aS'scala'
 p16
-aS'hadoop'
+aS'predictive modeling'
 p17
-aS'perl'
+aS'excel'
 p18
-aS'segmentation'
+aS'hadoop'
 p19
-aS'data analysis'
+aS'perl'
 p20
-aS'python'
+aS'segmentation'
 p21
-aS'marketing'
+aS'data analysis'
 p22
-aS'data scientist'
+aS'python'
 p23
-aS'statistical modeling'
+aS'marketing'
 p24
-aS'sql'
+aS'data scientist'
 p25
-aS'modeling'
+aS'management'
 p26
-aS'spark'
+aS'statistical modeling'
 p27
-aS'data'
+aS'sql'
 p28
-aS'project management'
+aS'modeling'
 p29
-aS'customer experience'
+aS'spark'
 p30
-aS'collaborative filtering'
+aS'data'
 p31
-aS'science'
+aS'project management'
 p32
-aS'analysis'
+aS'customer experience'
 p33
-aS'machine learning'
+aS'a'
+aS'collaborative filtering'
 p34
-aS'demand generation'
+aS'science'
 p35
-aS'r'
-aS'customer acquisition'
+aS'analysis'
 p36
-aS'data analytics'
+aS'machine learning'
 p37
-asS'working-year'
+aS'demand generation'
 p38
-(lp39
-V(5, 10]
+aS'r'
+aS'algorithms'
+p39
+aS'customer acquisition'
 p40
-aV(0, 2]
+aS'powerpoint'
 p41
-aV(2, 5]
+aS'data analytics'
 p42
-asS'major'
+asS'working-year'
 p43
 (lp44
-S'management'
+V(5, 10]
 p45
-aS'business'
+aV(0, 2]
 p46
-aS'big data'
+aV(2, 5]
 p47
-aS'computing'
+asS'major'
 p48
-aS'marketing'
-p49
-aS'data science'
+(lp49
+VStatistics
 p50
-aS'statistic'
+aVBusiness
 p51
-aVapplied statistic
+aVData Science
 p52
-aS'machine learning'
+aVEconomics
 p53
-aS'analytics'
+aVComputer Science
 p54
-aS'design'
+aVManagement Science and Engineering
 p55
-aS'data analytics'
-p56
-aS'applied statistics'
-p57
-aS'data mining'
-p58
-aS'communication'
-p59
-aS'machine learning data mining'
-p60
-aS'project management'
-p61
-aS'science'
-p62
 asS'education'
-p63
-(lp64
+p56
+(lp57
 VBachelor
-p65
+p58
 aVMaster
-p66
+p59
 asS'responsibility'
-p67
-(lp68
+p60
+(lp61
 S'data analysis'
-p69
+p62
 aS'build model'
-p70
+p63
 aS'business problem'
-p71
+p64
 aS'communicate'
-p72
+p65
 aS'analysis'
-p73
-aS'statistical model'
-p74
+p66
 aS'design'
-p75
+p67
 aS'data mining'
-p76
+p68
 aS'report'
-p77
+p69
 aS'modeling'
-p78
+p70
 aS'model'
-p79
+p71
 aS'quantitative analysis'
-p80
+p72
 as.

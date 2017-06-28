@@ -12,103 +12,95 @@ aS'analytics'
 p7
 aS'mysql'
 p8
-aS'genomics'
+aS'sas'
 p9
-aS'management'
+aS'genomics'
 p10
-aS'genetics'
+aS'statistics'
 p11
-aS'integration'
+aS'genetics'
 p12
-aS'data management'
+aS'integration'
 p13
-aS'data analysis'
+aS'data management'
 p14
-aS'visualization'
+aS'data analysis'
 p15
-aS'spotfire'
+aS'shiny'
 p16
-aS'experimental design'
+aS'visualization'
 p17
-aS'sql'
+aS'spotfire'
 p18
-aS'data'
+aS'experimental design'
 p19
-aS'project management'
+aS'management'
 p20
-aS'training'
+aS'sql'
 p21
-aS'database management'
+aS'data'
 p22
-aS'science'
+aS'project management'
 p23
-aS'programming'
+aS'training'
 p24
-aS'analysis'
+aS'database management'
 p25
+aS'science'
+p26
+aS'programming'
+p27
+aS'analysis'
+p28
 aS'r'
 aS'oracle'
-p26
-aS'organization'
-p27
-aS'shiny'
-p28
-aS'oracle database'
 p29
-asS'working-year'
+aS'organization'
 p30
-(lp31
-V(0, 2]
+aS'cms'
+p31
+aS'oracle database'
 p32
-aV(2, 5]
+asS'working-year'
 p33
-asS'major'
-p34
-(lp35
-S'management'
-p36
-aS'genetics'
+(lp34
+sS'major'
+p35
+(lp36
+VBiological Engineering
 p37
-aS'business'
+aVData Science
 p38
-aS'science'
+aVStatistics
 p39
-aS'communication'
+aVBusiness
 p40
-aS'phd'
+aVManagement Science and Engineering
 p41
-aS'analytics'
-p42
-aS'design'
-p43
-aS'statistic'
-p44
-aS'project management'
-p45
 asS'education'
+p42
+(lp43
+VMaster
+p44
+aVDoctor
+p45
+asS'responsibility'
 p46
 (lp47
-VMaster
-p48
-aVDoctor
-p49
-asS'responsibility'
-p50
-(lp51
 S'development'
-p52
+p48
 aS'product'
-p53
+p49
 aS'data analysis'
-p54
+p50
 aS'analysis'
-p55
+p51
 aS'improvement'
-p56
+p52
 aS'understand'
-p57
+p53
 aS'design'
-p58
+p54
 aS'prototype'
-p59
+p55
 as.

@@ -2,92 +2,78 @@
 S'skills'
 p2
 (lp3
-S'testing'
-p4
-aS'trading'
-p5
-aS'c++'
-p6
-aS'problem solving'
-p7
-aS'strategy'
-p8
-aS'research'
-p9
+S'c'
 aS'quantitative finance'
-p10
+p4
 aS'java'
+p5
+aS'finance'
+p6
+aS'python'
+p7
+aS'science'
+p8
+aS'testing'
+p9
+aS'programming'
+p10
+aS'analysis'
 p11
 aS'perl'
 p12
 aS'access'
 p13
-aS'matlab'
+aS'strategy'
 p14
-aS'mathematics'
-p15
-aS'computer science'
-p16
-aS'finance'
-p17
-aS'python'
-p18
-aS'data scientist'
-p19
-aS'data'
-p20
-aS'c'
-aS'data collection'
-p21
-aS'science'
-p22
-aS'programming'
-p23
-aS'analysis'
-p24
 aS'r'
-asS'working-year'
-p25
-(lp26
-V[0]
-p27
-asS'major'
-p28
-(lp29
-S'quantitative finance'
-p30
-aS'finance'
-p31
-aS'science'
-p32
-aS'computer science mathematics'
-p33
-aS'phd'
-p34
-aS'computer science'
-p35
-aS'mathematics'
-p36
-aS'law'
-p37
-aVphysic
-p38
-asS'education'
-p39
-(lp40
-VDoctor
-p41
-asS'responsibility'
-p42
-(lp43
-S'large data set'
-p44
-aS'model'
-p45
+aS'trading'
+p15
+aS'matlab'
+p16
+aS'problem solving'
+p17
 aS'data collection'
-p46
+p18
+aS'mathematics'
+p19
+aS'research'
+p20
+aS'data'
+p21
+aS'computer science'
+p22
+asS'working-year'
+p23
+(lp24
+S'[0]'
+p25
+asS'major'
+p26
+(lp27
+VMathematics
+p28
+aVEconomics
+p29
+aVComputer Science
+p30
+asS'education'
+p31
+(lp32
+VMaster
+p33
+aVDoctor
+p34
+asS'responsibility'
+p35
+(lp36
+S'large data set'
+p37
+aS'model'
+p38
+aS'data collection'
+p39
 aS'ownership'
-p47
+p40
 aS'analysis'
-p48
+p41
 as.

@@ -52,47 +52,39 @@ p26
 asS'working-year'
 p27
 (lp28
-V[0]
+S'[0]'
 p29
 asS'major'
 p30
 (lp31
-S'transportation'
+VData Science
 p32
-aS'business'
+aVEconomics
 p33
-aS'marketing'
+aVBusiness
 p34
-aS'data science'
-p35
-aS'communication'
-p36
-aS'data analyst'
-p37
-aS'statistic'
-p38
-aS'science'
-p39
 asS'education'
-p40
-(lp41
+p35
+(lp36
 VBachelor
-p42
+p37
 asS'responsibility'
-p43
-(lp44
-S'automate analyse'
-p45
-aS'product'
-p46
+p38
+(lp39
+S'product'
+p40
 aS'communicate'
-p47
+p41
 aS'analysis'
-p48
+p42
+aS'drive ... decision'
+p43
 aS'optimization'
-p49
+p44
+aS'design'
+p45
 aS'solve problem'
-p50
+p46
 aS'report'
-p51
+p47
 as.

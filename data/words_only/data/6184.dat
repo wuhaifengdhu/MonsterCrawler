@@ -4,234 +4,207 @@ p2
 (dp3
 S'scientific programming'
 p4
-I1
+F0.014952236498763536
 sS'data scientist'
 p5
-I1
+F0.0027951758975300217
 sS'nosql'
 p6
-I1
+F0.0072212318318377895
 sS'communication'
 p7
-I1
+F0.0041772278604508082
 sS'data science'
 p8
-I1
-sS'hadoop'
+F0.0031737227589989422
+sS'testing'
 p9
-I1
-sS'analytics'
+F0.005402052809762567
+sS'hadoop'
 p10
-I1
-sS'high performance computing'
+F0.0033899907688642872
+sS'analytics'
 p11
-I1
-sS'go'
+F0.0068844653982864908
+sS'high performance computing'
 p12
-I1
-sS'research'
+F0.010272658052071676
+sS'go'
 p13
-I1
-sS'amazon web services'
-p14
-I1
-sS'genomics'
-p15
-I1
-sS'git'
-p16
-I1
-sS'open source'
-p17
-I1
-sS'scala'
-p18
-I1
-sS'integration'
-p19
-I1
+F0.0086514860027114178
 sS'strategy'
+p14
+F0.0041557029847673743
+sS'amazon web services'
+p15
+F0.0087447733634524547
+sS'genomics'
+p16
+F0.033620489187349348
+sS'git'
+p17
+F0.007632382895722694
+sS'open source'
+p18
+F0.0084377829549290087
+sS'scala'
+p19
+F0.0064394891496006241
+sS'integration'
 p20
-I1
-sS'web services'
+F0.0060850742010411935
+sS'research'
 p21
-I1
-sS'data analysis'
+F0.0022510826956774095
+sS'web services'
 p22
-I1
-sS'computational biology'
+F0.0077599978051719927
+sS'biology'
 p23
-I1
-sS'apis'
+F0.0089638853940092276
+sS'data analysis'
 p24
-I1
-sS'python'
+F0.003914939353471412
+sS'computational biology'
 p25
-I1
-sS'mongodb'
+F0.010991661782409805
+sS'apis'
 p26
-I1
-sS'collaboration'
+F0.0097082199634212375
+sS'python'
 p27
-I1
-sS'aws'
+F0.0041260014202105493
+sS'mongodb'
 p28
-I1
-sS'automation'
+F0.0078023634929323881
+sS'collaboration'
 p29
-I1
-sS'bioinformatics'
+F0.0067484681268428865
+sS'aws'
 p30
-I1
-sS'spotfire'
+F0.0137914319196924
+sS'automation'
 p31
-I1
-sS'java'
+F0.008799599803334588
+sS'microbiology'
 p32
-I1
-sS'editing'
+F0.015883160895587271
+sS'bioinformatics'
 p33
-I1
-sS'data'
+F0.034398493828527228
+sS'spotfire'
 p34
-I1
-sS'software development'
+F0.011330393437204392
+sS'java'
 p35
-I1
-sS'c'
-I1
-sS'github'
+F0.0032698336877791121
+sS'editing'
 p36
-I1
-sS'data visualization'
+F0.011366786933732198
+sS'data'
 p37
-I1
-sS'bioconductor'
+F0.0025034614854770008
+sS'software development'
 p38
-I1
-sS'science'
+F0.005594186327370112
+sS'c'
+F0.0065995879889081651
+sS'github'
 p39
-I1
-sS'documentation'
+F0.009838416952742287
+sS'data visualization'
 p40
-I1
-sS'programming'
+F0.0051892707798934061
+sS'bioconductor'
 p41
-I1
-sS'analysis'
+F0.017334467778678739
+sS'science'
 p42
-I1
-sS'machine learning'
+F0.0074198827250036136
+sS'documentation'
 p43
-I1
-sS'sequence analysis'
+F0.0076502399972138008
+sS'programming'
 p44
-I1
-sS'r'
-I1
-sS'data integration'
+F0.0029084834692213084
+sS'analysis'
 p45
-I1
-sS'biotechnology'
+F0.00090400718140931375
+sS'machine learning'
 p46
-I1
-sS'clojure'
+F0.0017295982106439033
+sS'sequence analysis'
 p47
-I1
-sS'shiny'
+F0.015419070660527034
+sS'r'
+F0.0043930789441736775
+sS'data integration'
 p48
-I1
-sS'data analytics'
+F0.010212826280822117
+sS'biotechnology'
 p49
-I1
-sS'predictive analytics'
+F0.023273297036231429
+sS'clojure'
 p50
-I1
-ssS'working-year'
+F0.013812047882166651
+sS'shiny'
 p51
-(dp52
-V(2, 5]
+F0.012355412904960335
+sS'data analytics'
+p52
+F0.0053887141991709681
+sS'predictive analytics'
 p53
-I1
-ssS'major'
+F0.0060751930694691036
+ssS'working-year'
 p54
 (dp55
-S'bioinformatics'
+V(2, 5]
 p56
-I1
-sS'computational biology'
+F0.0032689826607681673
+ssS'major'
 p57
-I1
-sS'science'
-p58
-I1
-sS'data science'
+(dp58
+VBiological Engineering
 p59
-I1
-sS'statistic'
+F0.0069398305553474678
+sVData Science
 p60
-I1
-sS'high performance computing'
+F0.0027105250200661281
+sVComputer Science
 p61
-I1
-sS'machine learning'
-p62
-I1
-sS'analytics'
-p63
-I1
-sS'communication'
-p64
-I1
-sS'biotechnology'
-p65
-I1
-sS'computational biolog'
-p66
-I1
-sS'automation'
-p67
-I1
-sS'development practice'
-p68
-I1
-sS'data analytics'
-p69
-I1
-sS'predictive analytics'
-p70
-I1
+F0.0023888014415625269
 ssS'education'
-p71
-(dp72
+p62
+(dp63
 VMaster
-p73
-I1
+p64
+F0.0019189463990083823
 sVDoctor
-p74
-I1
+p65
+F0.0028738305323917361
 ssS'responsibility'
-p75
-(dp76
+p66
+(dp67
 S'development'
-p77
-I1
+p68
+F0.0031951477636256429
 sS'data analysis'
-p78
-I1
+p69
+F0.003914939353471412
 sS'documentation'
-p79
-I1
+p70
+F0.0076502399972138008
 sS'analysis'
-p80
-I1
+p71
+F0.00090400718140931375
 sS'understand'
-p81
-I1
+p72
+F0.0055453293230719666
 sS'report'
-p82
-I1
+p73
+F0.0054756633777636645
 sS'implement'
-p83
-I1
+p74
+F0.0055880294858037137
 ss.

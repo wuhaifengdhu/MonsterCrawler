@@ -2,162 +2,153 @@
 S'skills'
 p2
 (dp3
-S'c'
-I1
-sS'management'
+S'nosql'
 p4
-I1
-sS'java'
-p5
-I1
-sS'web services'
-p6
-I1
-sS'nosql'
-p7
-I1
-sS'python'
-p8
-I1
-sS'communication'
-p9
-I1
-sS'data science'
-p10
-I1
-sS'data scientist'
-p11
-I1
-sS'perl'
-p12
-I1
-sS'machine learning'
-p13
-I1
-sS'scripting'
-p14
-I1
-sS'data collection'
-p15
-I1
-sS'web crawling'
-p16
-I1
-sS'computer science'
-p17
-I1
-sS'problem solving'
-p18
-I1
-sS'data mining'
-p19
-I1
-sS'research'
-p20
-I1
-sS'programming'
-p21
-I1
+F0.0083186834780137452
 sS'amazon web services'
-p22
-I1
-sS'data analytics'
-p23
-I1
-ssS'working-year'
-p24
-(dp25
-V(2, 5]
-p26
-I1
-ssS'major'
-p27
-(dp28
-S'management'
-p29
-I1
-sS'business'
-p30
-I1
+p5
+F0.010073766275831248
 sS'communication'
-p31
-I1
+p6
+F0.0096241298426191883
 sS'data science'
-p32
-I1
+p7
+F0.0036560514457768972
+sS'engineering'
+p8
+F0.0037229628482481902
+sS'problem solving'
+p9
+F0.007460826337243924
 sS'data mining'
-p33
-I1
-sS'general'
-p34
-I1
-sS'machine learning'
-p35
-I1
-sS'computer science engineering'
-p36
-I1
+p10
+F0.0064497851935627279
+sS'research'
+p11
+F0.010372770111388915
+sS'web crawling'
+p12
+F0.018416226745002016
+sS'statistics'
+p13
+F0.0028343855769076129
+sS'java'
+p14
+F0.0037667688986877919
+sS'perl'
+p15
+F0.0087114004385695082
 sS'computer science'
-p37
-I1
-sS'statistic'
-p38
-I1
-sS'machine learning data mining'
-p39
-I1
-sS'data analytics'
-p40
-I1
-sVphysic
-p41
-I1
-sS'data mining machine learning'
-p42
-I1
-ssS'education'
-p43
-(dp44
-S'Bachelor'
-p45
-I1
-ssS'responsibility'
-p46
-(dp47
-S'product'
-p48
-I1
+p16
+F0.0042735053592316734
+sS'web services'
+p17
+F0.0089393287786023873
+sS'python'
+p18
+F0.0015843511025935137
+sS'data scientist'
+p19
+F0.0032199746661516057
+sS'management'
+p20
+F0.0027539479246190034
+sS'data'
+p21
+F0.0014419633784130445
+sS'c'
+F0.0076025648869185248
 sS'data collection'
-p49
-I1
+p22
+F0.022038599069673211
+sS'science'
+p23
+F0.00213688111913098
+sS'programming'
+p24
+F0.0067010044670813129
+sS'machine learning'
+p25
+F0.0019924550815624297
+sS'scripting'
+p26
+F0.0073953932445187335
+sS'physics'
+p27
+F0.0073953932445187335
+sS'data analytics'
+p28
+F0.006207667724880842
+ssS'working-year'
+p29
+(dp30
+V(2, 5]
+p31
+F0.0037657885362648497
+ssS'major'
+p32
+(dp33
+VStatistics
+p34
+F0.0054756983887175687
+sVBusiness
+p35
+F0.003287885553720712
+sVData Science
+p36
+F0.0031224589136931995
+sVEngineering
+p37
+F0.0037229628482481902
+sVComputer Science
+p38
+F0.0027518411743227894
+sVPhysics
+p39
+F0.0079748696085109125
+sVManagement Science and Engineering
+p40
+F0.003919588262823381
+ssS'education'
+p41
+(dp42
+VBachelor
+p43
+F0.0027701484123705371
+ssS'responsibility'
+p44
+(dp45
+S'product'
+p46
+F0.0081762485757917724
+sS'data collection'
+p47
+F0.022038599069673211
 sS'business problem'
-p50
-I1
-sVinsight
-p51
-I1
+p48
+F0.0086569925900627492
+sS'insight'
+p49
+F0.0055771834529163679
 sS'statistical model'
-p52
-I1
+p50
+F0.010914481172093907
 sS'analytic'
-p53
-I1
-sS'statistical method'
-p54
-I1
+p51
+F0.006862388973555145
 sS'solve problem'
-p55
-I1
+p52
+F0.012501648848728515
 sS'data mining'
-p56
-I1
+p53
+F0.0064497851935627279
 sS'implement'
-p57
-I1
+p54
+F0.0064372740885094452
 sS'extract'
-p58
-I1
+p55
+F0.0094033693942335243
 sS'model'
-p59
-I1
+p56
+F0.0094067528383078476
 ss.

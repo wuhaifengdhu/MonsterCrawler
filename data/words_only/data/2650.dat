@@ -4,214 +4,205 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.010534662326866121
 sS'consulting'
 p5
-I1
-sS'r d'
+F0.020793080011758322
+sS'amazon web services'
 p6
-I1
+F0.010166469646467731
 sS'data science'
 p7
-I1
+F0.0036896960909834331
 sS'analytics'
 p8
-I1
+F0.0026679063251028425
 sS'engineering'
 p9
-I1
+F0.022543339455343338
 sS'modeling'
 p10
-I1
-sS'writing'
+F0.002491244444851388
+sS'sas'
 p11
-I1
-sS'amazon web services'
+F0.0042491928118939164
+sS'writing'
 p12
-I1
-sS'xml'
+F0.0068928230861426167
+sS'research'
 p13
-I1
-sS'mahout'
+F0.0026170562627660684
+sS'xml'
 p14
-I1
-sS'weka'
+F0.010104027348023296
+sS'mahout'
 p15
-I1
-sS'big data'
+F0.013301174082682509
+sS'statistics'
 p16
-I1
-sS'storage'
+F0.002860468879762591
+sS'weka'
 p17
-I1
-sS'mllib'
+F0.011928714196875032
+sS'big data'
 p18
-I1
-sS'strategy'
+F0.0039040648047934589
+sS'storage'
 p19
-I1
-sS'access'
+F0.011473931173455397
+sS'mllib'
 p20
-I1
-sS'json'
+F0.015340959197185405
+sS'strategy'
 p21
-I1
-sS'web services'
+F0.0048313234086712724
+sS'access'
 p22
-I1
-sS'natural language processing'
+F0.007114914187412438
+sS'json'
 p23
-I1
-sS'tensorflow'
+F0.012042864039059496
+sS'web services'
 p24
-I1
-sS'operations research'
+F0.0090215925403686666
+sS'natural language processing'
 p25
-I1
-sS'innovation'
+F0.0076869881348475546
+sS'mathematics'
 p26
-I1
-sS'theory'
+F0.0056070346075944967
+sS'operations research'
 p27
-I1
-sS'government'
+F0.0088372347102819316
+sS'innovation'
 p28
-I1
-sS'processing'
+F0.0059381124912108087
+sS'theory'
 p29
-I1
-sS'data scientist'
+F0.0089891909523721943
+sS'government'
 p30
-I1
-sS'machine learning'
+F0.0079972991276962124
+sS'processing'
 p31
-I1
-sS'java'
+F0.010018945316998283
+sS'data scientist'
 p32
-I1
-sS'extract transform load etl'
+F0.0032496063348585224
+sS'management'
 p33
-I1
-sS'data'
+F0.0027792910036799146
+sS'tensorflow'
 p34
-I1
-sS'science'
+F0.013236137496093356
+sS'java'
 p35
-I1
-sS'programming'
+F0.0038014324161603787
+sS'extract transform load etl'
 p36
-I1
-sS'analysis'
+F0.014979664122388915
+sS'data'
 p37
-I1
-sS'spss'
+F0.0018190412250686031
+sS'science'
 p38
-I1
-sS'r'
-I1
-sS'architecture'
+F0.0086261826772281273
+sS'machine learning'
 p39
-I1
-sS'security'
+F0.0020107905577731269
+sS'programming'
 p40
-I1
-sS'etl'
+F0.003381335076180601
+sS'analysis'
 p41
-I1
-ssS'working-year'
+F0.0010509776740924232
+sS'spss'
 p42
-(dp43
-V(0, 2]
+F0.0067679411989495864
+sS'r'
+F0.0034048607767726453
+sS'architecture'
+p43
+F0.013417267010335326
+sS'security'
 p44
-I1
-sV(10, 15]
+F0.006703530109569914
+sS'etl'
 p45
-I1
-ssS'major'
+F0.0087416094294944253
+ssS'working-year'
 p46
 (dp47
-S'engineering science'
+V(0, 2]
 p48
-I1
-sS'information'
+F0.0069864422211354396
+sV(10, 15]
 p49
-I1
-sS'big data'
+F0.0060043753257618369
+ssS'major'
 p50
-I1
-sS'mathematics statistics'
-p51
-I1
-sS'science'
+(dp51
+VStatistics
 p52
-I1
-sS'data science'
+F0.0055260882511904297
+sVData Science
 p53
-I1
-sS'natural language processing'
+F0.0031511931981750389
+sVElectrical and Electronics Engineering
 p54
-I1
-sS'machine learning'
+F0.00965223495513798
+sVEngineering
 p55
-I1
-sS'analytics'
+F0.022543339455343338
+sVComputer Science
 p56
-I1
-sS'engineering'
+F0.0027771648661110361
+sVMathematics
 p57
-I1
-sS'design'
+F0.0052585046919707114
+sVOperations Research
 p58
-I1
-sS'statistics operations research'
+F0.0098734015281814538
+sVManagement Science and Engineering
 p59
-I1
-sS'statistic'
-p60
-I1
-sS'management technology'
-p61
-I1
-sS'operations research'
-p62
-I1
-sS'data science engineering'
-p63
-I1
+F0.0039556580934628598
 ssS'education'
-p64
-(dp65
-S'Bachelor'
-p66
-I1
+p60
+(dp61
+VMaster
+p62
+F0.002230922347313426
 ssS'responsibility'
-p67
-(dp68
+p63
+(dp64
 S'information'
-p69
-I1
+p65
+F0.0085098478498735874
 sS'pattern'
-p70
-I1
+p66
+F0.0080324879618838829
 sS'processing'
-p71
-I1
+p67
+F0.010018945316998283
 sS'analysis'
-p72
-I1
+p68
+F0.0010509776740924232
+sS'develop ... model'
+p69
+F0.0095089356661844718
 sS'design'
-p73
-I1
+p70
+F0.0044798123006701768
 sS'report'
-p74
-I1
+p71
+F0.019097635768457938
 sS'modeling'
-p75
-I1
+p72
+F0.002491244444851388
 sS'implement'
-p76
-I1
+p73
+F0.006496512807115361
 sS'extract'
-p77
-I1
+p74
+F0.018979806936827177
 ss.

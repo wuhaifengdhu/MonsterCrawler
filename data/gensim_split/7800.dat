@@ -1,224 +1,410 @@
-job_requisition
-number
-112824
-category
-information
-system
--
-programming
-primary_location
-washington_dc
-u
-security_clearance
-t_sci
-clearance
-status
-must_current
-schedule_full
-time
-type_travel
-none
-percent_travel
-required_none
-description
-caci_opportunity
-software_developer
-provide
-cutting_edge
-service
-individual
-provide
-support
-government_agency
-oversees_coordinate
-information
-management
-support
-requirement
-information
-management
-includes
-matter_concerned
-planning
-design
-development
-installation
-implementation
-information
-management
-architecture
-policy_procedure
-system
-application
-duty
-create_refine
-maintain
-software
-code
-support
-operational
-mission
-work
-software_engineer
-developer
-data_scientist
-ass
-user
-need
-develop
-software
-system
-meet_need
-provides_assistance
-user_accessing
-using
-business
-system
-clearance
-requirement
-currently_holding
-currently
-top_secret
-clearance
-ability_obtain
-maintain
-sci
-along
-dhs_suitability
-required
-skill
-ability
-work
-fast-paced_environment
-focused_rapid
-application
-development
-experience
-development
-software
-java_javascript
-d3_angualrjs
-hive_mapreduce
-accumulo
-maintain_close
-technical
-involvement_contributing
-developmental_customer
-organization
-assist
-design
-review
-experience
-analyzing
-user
-requirement
-researching_designing
-writing
-new
-software
-program
-testing
-new
-program_fault
-finding
--evaluating
-software
-system
-make
-computer
-hardware
-work
-develop
-update_existing
-program
-analyzing
-identifying
-area_modification
-integrate_existing
-software
-product
-getting_incompatible
-platform
-work
-together
-create
-technical_specification
-support
-creation
-training_material
-user
-write
-test
-code_meet
-quality
-standard
-write
-operational_documentation
-technical
-author
-ability
-work_independently
-team_member
-maintaining
-system
-monitoring_correcting
-software
-defect
-working_closely
-staff
-project_manager
-developer
-system
-analyst
-data_scientist
-education
-requirement
-bachelor_degree
-3_year
-experience
-desired_skill
-minimum_3
-year_experience
-code
-design
-company_description
-caci_employ
-diverse_range
-talent_create
-environment_fuel
-innovation_foster
-continuous_improvement
-success_join
-caci_opportunity
-make_immediate
-impact_providing
-information
-solution
-service
-support
-national_security
-mission_government
-transformation_intelligence
-defense_federal
-civilian_customer
-fortune_magazine
-world's_admired
-company
-service
-industry_caci
-member_fortune
-1000_largest
-company_russell
-2000_index
-p_smallcap600
-index_caci
-provides_dynamic
-career_20
-000_employee
-worldwide_caci
-equal_opportunity
-employer
--_female
-minority_protected
-veteran_individual
-disability
+(lp1
+Vjob requisition
+p2
+aVnumber
+p3
+aV112824
+p4
+aVcategory information
+p5
+aVsystem
+p6
+aV-
+aVprogramming
+p7
+aVprimary location
+p8
+aVwashington dc
+p9
+aVu
+aVsecurity clearance
+p10
+aVt sci
+p11
+aVclearance status
+p12
+aVmust current
+p13
+aVschedule full
+p14
+aVtime
+p15
+aVtype travel
+p16
+aVnone
+p17
+aVpercent travel
+p18
+aVrequired none
+p19
+aVdescription
+p20
+aVcaci opportunity
+p21
+aVsoftware developer
+p22
+aVprovide cutting
+p23
+aVedge
+p24
+aVservice
+p25
+aVindividual
+p26
+aVprovide
+p27
+aVsupport
+p28
+aVgovernment agency
+p29
+aVoversees coordinate
+p30
+aVinformation
+p31
+aVmanagement
+p32
+aVsupport
+p33
+aVrequirement
+p34
+aVinformation
+p35
+aVmanagement
+p36
+aVincludes
+p37
+aVmatter concerned
+p38
+aVplanning
+p39
+aVdesign development
+p40
+aVinstallation implementation
+p41
+aVinformation
+p42
+aVmanagement
+p43
+aVarchitecture
+p44
+aVpolicy procedure
+p45
+aVsystem
+p46
+aVapplication
+p47
+aVduty
+p48
+aVcreate refine
+p49
+aVmaintain
+p50
+aVsoftware
+p51
+aVcode
+p52
+aVsupport
+p53
+aVoperational
+p54
+aVmission
+p55
+aVwork
+p56
+aVsoftware engineer
+p57
+aVdeveloper
+p58
+aVdata scientist
+p59
+aVas
+p60
+aVuser need
+p61
+aVdevelop
+p62
+aVsoftware
+p63
+aVsystem
+p64
+aVmeet need
+p65
+aVprovides assistance
+p66
+aVuser accessing
+p67
+aVusing
+p68
+aVbusiness
+p69
+aVsystem
+p70
+aVclearance requirement
+p71
+aVcurrently holding
+p72
+aVcurrently
+p73
+aVtop secret
+p74
+aVclearance
+p75
+aVability obtain
+p76
+aVmaintain sci
+p77
+aValong
+p78
+aVdhs suitability
+p79
+aVrequired skill
+p80
+aVability work
+p81
+aVfast-paced environment
+p82
+aVfocused rapid
+p83
+aVapplication development
+p84
+aVexperience
+p85
+aVdevelopment
+p86
+aVsoftware
+p87
+aVjava javascript
+p88
+aVd3 angualrjs
+p89
+aVhive mapreduce
+p90
+aVaccumulo
+p91
+aVmaintain close
+p92
+aVtechnical involvement
+p93
+aVcontributing developmental
+p94
+aVcustomer
+p95
+aVorganization assist
+p96
+aVdesign
+p97
+aVreview
+p98
+aVexperience
+p99
+aVanalyzing
+p100
+aVuser
+p101
+aVrequirement
+p102
+aVresearching designing
+p103
+aVwriting
+p104
+aVnew
+p105
+aVsoftware
+p106
+aVprogram
+p107
+aVtesting
+p108
+aVnew
+p109
+aVprogram fault
+p110
+aVfinding
+p111
+aVevaluating
+p112
+aVsoftware
+p113
+aVsystem
+p114
+aVmake
+p115
+aVcomputer
+p116
+aVhardware
+p117
+aVwork
+p118
+aVdevelop
+p119
+aVupdate existing
+p120
+aVprogram
+p121
+aVanalyzing
+p122
+aVidentifying
+p123
+aVarea modification
+p124
+aVintegrate existing
+p125
+aVsoftware
+p126
+aVproduct
+p127
+aVgetting incompatible
+p128
+aVplatform
+p129
+aVwork together
+p130
+aVcreate
+p131
+aVtechnical specification
+p132
+aVsupport creation
+p133
+aVtraining material
+p134
+aVuser
+p135
+aVwrite test
+p136
+aVcode meet
+p137
+aVquality standard
+p138
+aVwrite
+p139
+aVoperational documentation
+p140
+aVtechnical author
+p141
+aVability work
+p142
+aVindependently
+p143
+aVteam member
+p144
+aVmaintaining
+p145
+aVsystem
+p146
+aVmonitoring correcting
+p147
+aVsoftware defect
+p148
+aVworking closely
+p149
+aVstaff
+p150
+aVproject manager
+p151
+aVdeveloper
+p152
+aVsystem
+p153
+aVanalyst
+p154
+aVdata scientist
+p155
+aVeducation requirement
+p156
+aVbachelor degree
+p157
+aV3 year
+p158
+aVexperience
+p159
+aVdesired skill
+p160
+aVminimum 3
+p161
+aVyear experience
+p162
+aVcode
+p163
+aVdesign
+p164
+aVcompany description
+p165
+aVcaci employ
+p166
+aVdiverse range
+p167
+aVtalent create
+p168
+aVenvironment fuel
+p169
+aVinnovation foster
+p170
+aVcontinuous improvement
+p171
+aVsuccess join
+p172
+aVcaci opportunity
+p173
+aVmake immediate
+p174
+aVimpact providing
+p175
+aVinformation
+p176
+aVsolution
+p177
+aVservice
+p178
+aVsupport
+p179
+aVnational security
+p180
+aVmission government
+p181
+aVtransformation intelligence
+p182
+aVdefense federal
+p183
+aVcivilian customer
+p184
+aVfortune magazine
+p185
+aVworld's admired
+p186
+aVcompany
+p187
+aVservice
+p188
+aVindustry caci
+p189
+aVmember fortune
+p190
+aV1000 largest
+p191
+aVcompany russell
+p192
+aV2000 index
+p193
+aVp smallcap600
+p194
+aVindex caci
+p195
+aVprovides dynamic
+p196
+aVcareer 20
+p197
+aV000 employee
+p198
+aVworldwide caci
+p199
+aVequal opportunity
+p200
+aVemployer -
+p201
+aVfemale minority
+p202
+aVprotected veteran
+p203
+aVindividual disability
+p204
+a.

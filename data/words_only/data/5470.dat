@@ -4,119 +4,116 @@ p2
 (dp3
 S'debugging'
 p4
-I1
-sS'nlp'
-p5
-I1
-sS'life sciences'
-p6
-I1
+F0.013238019587902442
 sS'software engineering'
-p7
-I1
+p5
+F0.0078375391226325648
 sS'big data'
-p8
-I1
-sS'genomics'
-p9
-I1
+p6
+F0.003833509416755023
+sS'nlp'
+p7
+F0.020688553726255155
 sS'cancer research'
-p10
-I1
+p8
+F0.016616313225398922
 sS'proteomics'
-p11
-I1
+p9
+F0.017506262576808151
 sS'data science'
-p12
-I1
+p10
+F0.003623014836327106
+sS'saas'
+p11
+F0.0092998261933754864
 sS'data acquisition'
-p13
-I1
+p12
+F0.01387046160978548
 sS'integration'
+p13
+F0.0069465154282970258
+sS'oracle'
 p14
-I1
-sS'big data analytics'
+F0.015813382521453746
+sS'engineering'
 p15
-I1
+F0.0036893216176917308
 sS'mentoring'
 p16
-I1
-sS'data analytics'
-p17
-I1
+F0.010361788257466732
 sS'agile'
+p17
+F0.013154758269274152
+sS'informatics'
 p18
-I1
-sS'oracle'
+F0.013238019587902442
+sS'genomics'
 p19
-I1
+F0.012793338757033538
 sS'research'
 p20
-I1
-sS'collaboration'
+F0.0077092801957385987
+sS'data'
 p21
-I1
-sS'operating systems'
+F0.0017861669860613392
+sS'collaboration'
 p22
-I1
-sS'software development'
+F0.0077038235544381146
+sS'operating systems'
 p23
-I1
-ssS'working-year'
+F0.014260620757444848
+sS'science'
 p24
-(dp25
+F0.0021175719523918446
+ssS'working-year'
+p25
+(dp26
 V(5, 10]
-p26
-I1
-ssS'major'
 p27
-(dp28
-S'life sciences'
-p29
-I1
-sS'business'
+F0.003631458619207406
+ssS'major'
+p28
+(dp29
+VEngineering
 p30
-I1
-sS'big data'
+F0.0067842738758033963
+sVInformation Science
 p31
-I1
-sS'data science'
+F0.0076284794835966684
+sVData Science
 p32
-I1
-sS'big data analytics'
+F0.0030942439235092248
+sVBusiness
 p33
-I1
-sS'design'
+F0.0032581757445003441
+sVComputer Science
 p34
-I1
-sS'software engineering'
-p35
-I1
-sS'data analytics'
-p36
-I1
+F0.0027269751396150534
 ssS'education'
+p35
+(dp36
+VBachelor
 p37
-(dp38
-S'Bachelor'
-p39
-I1
+F0.0027451169508129723
+sVMaster
+p38
+F0.0021906044735667978
 ssS'responsibility'
-p40
-(dp41
+p39
+(dp40
 S'development'
-p42
-I1
+p41
+F0.0036474728988377071
 sS'extract'
-p43
-I1
+p42
+F0.0093183991888639451
 sS'design'
-p44
-I1
+p43
+F0.0087977036748101058
 sS'communicate'
-p45
-I1
+p44
+F0.0060429002478361209
 sS'model'
-p46
-I1
+p45
+F0.0046608760298242199
 ss.

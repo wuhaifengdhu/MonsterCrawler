@@ -2,7 +2,8 @@
 S'skills'
 p2
 (lp3
-S'consulting'
+S'a'
+aS'consulting'
 p4
 aS'management'
 p5
@@ -14,11 +15,11 @@ aS'management consulting'
 p8
 aS'data scientist'
 p9
-aS'user research'
-p10
 aS'analysis'
-p11
+p10
 aS'strategy'
+p11
+aS'go'
 p12
 aS'statistical analysis'
 p13
@@ -34,34 +35,32 @@ p18
 asS'major'
 p19
 (lp20
-S'marketing'
+VEconomics
 p21
-aS'management'
+aVManagement Science and Engineering
 p22
-aS'management marketing'
-p23
 asS'education'
-p24
-(lp25
+p23
+(lp24
 S'Bachelor'
-p26
+p25
 asS'responsibility'
-p27
-(lp28
+p26
+(lp27
 S'product'
-p29
+p28
 aS'pattern'
-p30
-aS'identify trend'
-p31
+p29
 aS'communicate'
-p32
+p30
 aS'analysis'
-p33
+p31
 aS'understand'
-p34
+p32
 aS'recommendation'
-p35
+p33
+aS'identify ... trend'
+p34
 aS'quantitative analysis'
-p36
+p35
 as.

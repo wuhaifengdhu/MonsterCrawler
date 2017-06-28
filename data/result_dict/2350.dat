@@ -2,104 +2,94 @@
 S'skills'
 p2
 (lp3
-S'qlikview'
+S'communication'
 p4
-aS'visualization'
-p5
-aS'teradata'
-p6
-aS'data analysis'
-p7
-aS'data visualization'
-p8
-aS'communication'
-p9
 aS'data science'
+p5
+aS'tableau'
+p6
+aS'analytics'
+p7
+aS'analysis'
+p8
+aS'problem solving'
+p9
+aS'go'
 p10
-aS'innovation'
+aS'qlikview'
 p11
-aS'data scientist'
+aS'visualization'
 p12
 aS'hadoop'
 p13
-aS'business objects'
+aS'sas'
 p14
-aS'tableau'
+aS'innovation'
 p15
-aS'analytics'
+aS'teradata'
 p16
-aS'analysis'
+aS'data analysis'
 p17
-aS'problem solving'
+aS'collaboration'
 p18
-aS'sql'
+aS'data scientist'
 p19
-aS'go'
+aS'sql'
 p20
 aS'modeling'
 p21
 aS'data'
 p22
-aS'collaboration'
+aS'data visualization'
 p23
 aS'science'
 p24
-asS'working-year'
+aS'business objects'
 p25
-(lp26
+asS'working-year'
+p26
+(lp27
 V(2, 5]
-p27
-asS'major'
 p28
-(lp29
-S'business'
-p30
-aS'science'
+asS'major'
+p29
+(lp30
+VData Science
 p31
-aS'data science'
+aVBusiness
 p32
-aS'data analyst'
-p33
-aS'analytics'
-p34
-aS'design'
-p35
-aS'communication'
-p36
 asS'education'
+p33
+(lp34
+VBachelor
+p35
+aVMaster
+p36
+asS'responsibility'
 p37
 (lp38
-VBachelor
-p39
-aVMaster
-p40
-asS'responsibility'
-p41
-(lp42
 S'development'
-p43
+p39
 aS'product'
-p44
+p40
 aS'data analysis'
-p45
-aS'business problem'
-p46
-aVinsight
-p47
+p41
+aS'insight'
+p42
 aS'analysis'
-p48
+p43
 aS'design'
-p49
+p44
 aS'solve problem'
-p50
+p45
 aS'interface'
-p51
+p46
 aS'modeling'
-p52
+p47
 aS'implement'
-p53
+p48
 aS'evaluation'
-p54
+p49
 aS'data gathering'
-p55
+p50
 as.

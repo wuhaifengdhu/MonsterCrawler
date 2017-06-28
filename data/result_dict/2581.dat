@@ -6,23 +6,23 @@ S'negotiation'
 p4
 aS'pmp'
 p5
-aS'excel'
-p6
 aS'communication'
+p6
+aS'unix'
 p7
-aS'engineering'
-p8
 aS'process improvement'
-p9
+p8
 aS'troubleshooting'
-p10
+p9
 aS'problem solving'
+p10
+aS'linux'
 p11
 aS'it management'
 p12
 aS'management'
 p13
-aS'saas'
+aS'excel'
 p14
 aS'research'
 p15
@@ -32,62 +32,62 @@ aS'ms project'
 p17
 aS'product development'
 p18
-aS'data scientist'
+aS'iis'
 p19
-aS'apache'
+aS'data scientist'
 p20
-aS'itil'
+aS'leadership'
 p21
-aS'data'
+aS'apache'
 p22
-aS'b2b'
+aS'itil'
 p23
-aS'word'
+aS'data'
 p24
-aS'microsoft word'
+aS'b2b'
 p25
-aS'documentation'
+aS'saas'
 p26
-aS'analysis'
+aS'word'
 p27
-aS'command'
+aS'windows'
 p28
-aS'architecture'
+aS'microsoft word'
 p29
-aS'security'
+aS'documentation'
 p30
-aS'root'
-p31
-aS'powerpoint'
-p32
-asS'working-year'
-p33
-(lp34
-V[0]
-p35
-asS'major'
-p36
-(lp37
-S'information'
-p38
-aS'management'
-p39
-aS'business'
-p40
-aS'communication'
-p41
-aS'general'
-p42
-aS'business leadership'
-p43
 aS'engineering'
+p31
+aS'analysis'
+p32
+aS'command'
+p33
+aS'architecture'
+p34
+aS'security'
+p35
+aS'root'
+p36
+aS'powerpoint'
+p37
+asS'working-year'
+p38
+(lp39
+S'[0]'
+p40
+asS'major'
+p41
+(lp42
+VEngineering
+p43
+aVBusiness
 p44
-aS'management technology'
+aVManagement Science and Engineering
 p45
 asS'education'
 p46
 (lp47
-S'Bachelor'
+VMaster
 p48
 asS'responsibility'
 p49

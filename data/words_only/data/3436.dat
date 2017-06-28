@@ -2,133 +2,120 @@
 S'skills'
 p2
 (dp3
-S'search'
+S'intelligence'
 p4
-I1
-sS'advertising'
-p5
-I1
-sS'big data'
-p6
-I1
-sS'communication'
-p7
-I1
-sS'data scientist'
-p8
-I1
-sS'hadoop'
-p9
-I1
-sS'communication skills'
-p10
-I1
+F0.0055675837230027628
 sS'pig'
-p11
-I1
+p5
+F0.0095696034578577702
+sS'analytics'
+p6
+F0.0030841753971047044
 sS'business intelligence'
+p7
+F0.0072448344282780887
+sS'communication skills'
+p8
+F0.013060729971844411
+sS'data mining'
+p9
+F0.0075247493924898495
+sS'statistics'
+p10
+F0.0033067831730588817
+sS'big data'
+p11
+F0.0045132096679527216
+sS'hadoop'
 p12
-I1
-sS'machine learning'
+F0.0045560514234027124
+sS'research'
 p13
-I1
+F0.0060507825649768667
 sS'computer science'
 p14
-I1
-sS'data mining'
+F0.0049857562524369525
+sS'data scientist'
 p15
-I1
-sS'analysis'
-p16
-I1
+F0.0037566371105102066
 sS'spark'
-p17
-I1
-sS'retail'
-p18
-I1
+p16
+F0.0059792043379987888
 sS'data'
+p17
+F0.0021028632601856902
+sS'a'
+F0.0066313542326738532
+sS'search'
+p18
+F0.010999963750531092
+sS'science'
 p19
-I1
-sS'research'
+F0.0024930279723194768
+sS'analysis'
 p20
-I1
-sS'predictive analytics'
+F0.0012149600062203189
+sS'machine learning'
 p21
-I1
-ssS'working-year'
+F0.002324530928489501
+sS'advertising'
 p22
-(dp23
-V(0, 2]
+F0.058358107878196626
+sS'retail'
+p23
+F0.012219721575945114
+sS'predictive analytics'
 p24
-I1
-ssS'major'
+F0.0081648871394637956
+ssS'working-year'
 p25
 (dp26
-S'business intelligence analytics'
+V(0, 2]
 p27
-I1
-sS'business'
+F0.0080765254045750117
+ssS'major'
 p28
-I1
-sS'big data'
-p29
-I1
-sS'communication'
+(dp29
+VData Science
 p30
-I1
-sS'data mining'
+F0.003642868732642066
+sVStatistics
 p31
-I1
-sS'computer science statistics'
+F0.006388314786837164
+sVComputer Science
 p32
-I1
-sS'machine learning'
+F0.0032104813700432541
+sVBusiness
 p33
-I1
-sS'computer science'
-p34
-I1
-sS'statistic'
-p35
-I1
-sS'machine learning data mining'
-p36
-I1
-sS'ee computer science'
-p37
-I1
-sS'predictive analytics'
-p38
-I1
+F0.0038358664793408303
 ssS'education'
+p34
+(dp35
+VBachelor
+p36
+F0.0032318398144322935
+sVMaster
+p37
+F0.0025790095220715493
+sVDoctor
+p38
+F0.0038623467084271915
+ssS'responsibility'
 p39
 (dp40
-VMaster
+S'improvement'
 p41
-I1
-sVDoctor
-p42
-I1
-ssS'responsibility'
-p43
-(dp44
-S'business problem'
-p45
-I1
-sVinsight
-p46
-I1
-sS'communicate'
-p47
-I1
-sS'analysis'
-p48
-I1
-sS'improvement'
-p49
-I1
+F0.0095255549515571199
 sS'data mining'
-p50
-I1
+p42
+F0.0075247493924898495
+sS'communicate'
+p43
+F0.0071143364619914613
+sS'analysis'
+p44
+F0.0012149600062203189
+sS'business problem'
+p45
+F0.01009982468840654
 ss.

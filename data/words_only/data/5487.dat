@@ -4,226 +4,218 @@ p2
 (dp3
 S'digital marketing'
 p4
-I1
+F0.0097535718457090904
 sS'communication'
 p5
-I1
+F0.0041882787278064984
 sS'data science'
 p6
-I1
+F0.003182118850953966
 sS'testing'
 p7
-I1
+F0.0054163439547619385
 sS'pig'
 p8
-I1
-sS'business intelligence'
+F0.007139227976497067
+sS'analytics'
 p9
-I1
-sS'c++'
+F0.004601785513140352
+sS'business intelligence'
 p10
-I1
-sS'data mining'
-p11
-I1
-sS'hbase'
-p12
-I1
-sS'insurance'
-p13
-I1
-sS'cassandra'
-p14
-I1
-sS'hdfs'
-p15
-I1
-sS'management'
-p16
-I1
-sS'big data'
-p17
-I1
-sS'hadoop'
-p18
-I1
-sS'random forest'
-p19
-I1
-sS'r'
-I1
-sS'matlab'
-p20
-I1
-sS'natural language processing'
-p21
-I1
-sS'intelligence'
-p22
-I1
-sS'data management'
-p23
-I1
-sS'innovation'
-p24
-I1
-sS'data analysis'
-p25
-I1
-sS'python'
-p26
-I1
-sS'marketing'
-p27
-I1
-sS'collaboration'
-p28
-I1
-sS'processing'
-p29
-I1
-sS'data scientist'
-p30
-I1
-sS'experimental design'
-p31
-I1
-sS'strategic thinking'
-p32
-I1
-sS'policy'
-p33
-I1
-sS'sql'
-p34
-I1
-sS'spark'
-p35
-I1
-sS'data'
-p36
-I1
-sS'data visualization'
-p37
-I1
-sS'science'
-p38
-I1
-sS'programming'
-p39
-I1
-sS'analysis'
-p40
-I1
-sS'machine learning'
-p41
-I1
-sS'exploratory data analysis'
-p42
-I1
-sS'optimization'
-p43
-I1
-sS'customer acquisition'
-p44
-I1
-sS'data analytics'
-p45
-I1
+F0.0054048764782392089
 sS'statistical analysis'
-p46
-I1
-ssS'working-year'
-p47
-(dp48
-V(2, 5]
-p49
-I1
-ssS'major'
-p50
-(dp51
-S'management'
-p52
-I1
-sS'business'
-p53
-I1
+p11
+F0.0068113760672291208
+sS'data mining'
+p12
+F0.0056137019277305222
+sS'hbase'
+p13
+F0.0088578256344975428
+sS'insurance'
+p14
+F0.01668344663253803
+sS'cassandra'
+p15
+F0.0099587474141816842
+sS'hdfs'
+p16
+F0.010554400963909387
+sS'management'
+p17
+F0.0023969546751313547
 sS'big data'
-p54
-I1
-sS'marketing'
-p55
-I1
-sS'data science'
-p56
-I1
+p18
+F0.0033669976887901257
+sS'hadoop'
+p19
+F0.0033989589984115471
+sS'random forest'
+p20
+F0.012014879086871278
+sS'r'
+F0.0014682336153807967
+sS'matlab'
+p21
+F0.0033767227186192188
 sS'natural language processing'
-p57
-I1
-sS'data science analytics'
-p58
-I1
-sS'machine learning'
-p59
-I1
-sS'design'
-p60
-I1
-sS'data mining'
-p61
-I1
-sS'communication'
-p62
-I1
-sS'data analytics'
-p63
-I1
-sS'science'
-p64
-I1
-ssS'education'
-p65
-(dp66
-S'Bachelor'
-p67
-I1
-ssS'responsibility'
-p68
-(dp69
-S'development'
-p70
-I1
-sS'large data set'
-p71
-I1
-sS'product'
-p72
-I1
+p22
+F0.0066295188676198484
+sS'intelligence'
+p23
+F0.00415359420604968
+sS'data management'
+p24
+F0.0072749156206594456
+sS'innovation'
+p25
+F0.0051212292913617027
 sS'data analysis'
-p73
-I1
-sS'business problem'
-p74
-I1
+p26
+F0.0039252963358880032
+sS'python'
+p27
+F0.0013789722559610211
+sS'marketing'
+p28
+F0.0050402500594644148
+sS'collaboration'
+p29
+F0.0067663212171255394
 sS'processing'
-p75
-I1
+p30
+F0.0043203388536262434
+sS'data scientist'
+p31
+F0.0028025705427615825
+sS'experimental design'
+p32
+F0.0091632615583073958
+sS'strategic thinking'
+p33
+F0.014473951861655416
+sS'policy'
+p34
+F0.0072213180635998658
+sS'sql'
+p35
+F0.0018040842826271086
+sS'modeling'
+p36
+F0.0021485335688400859
+sS'spark'
+p37
+F0.0089213525043156539
+sS'data'
+p38
+F0.0021963238495272762
+sS'a'
+F0.0049472007767566838
+sS'c'
+F0.0033085236081960246
+sS'data visualization'
+p39
+F0.0052029990094698431
+sS'solver'
+p40
+F0.011415293184461465
+sS'science'
+p41
+F0.0074395120443819301
+sS'programming'
+p42
+F0.0029161778699335339
 sS'analysis'
-p76
-I1
+p43
+F0.00090639873479928554
+sS'machine learning'
+p44
+F0.0017341738672858183
+sS'exploratory data analysis'
+p45
+F0.011813860394520755
 sS'optimization'
-p77
-I1
+p46
+F0.0052910287232501114
+sS'customer acquisition'
+p47
+F0.014594222197969421
+sS'data analytics'
+p48
+F0.0054029700568407326
+ssS'working-year'
+p49
+(dp50
+V(2, 5]
+p51
+F0.0032776307630453319
+ssS'major'
+p52
+(dp53
+VData Science
+p54
+F0.0027176957211774142
+sVEconomics
+p55
+F0.0043406654696414304
+sVComputer Science
+p56
+F0.002395121022095761
+sVBusiness
+p57
+F0.0028616781671272858
+sVManagement Science and Engineering
+p58
+F0.0034114934880129428
+ssS'education'
+p59
+(dp60
+S'Bachelor'
+p61
+F0.0024110550996558379
+ssS'responsibility'
+p62
+(dp63
+S'development'
+p64
+F0.0032036005354870861
+sS'large data set'
+p65
+F0.0083186696701927684
+sS'product'
+p66
+F0.0035581822505760491
+sS'data analysis'
+p67
+F0.0039252963358880032
+sS'business problem'
+p68
+F0.0075347898469064669
+sS'processing'
+p69
+F0.0043203388536262434
+sS'analysis'
+p70
+F0.00090639873479928554
+sS'optimization'
+p71
+F0.0052910287232501114
 sS'design'
-p78
-I1
+p72
+F0.0038635418254457077
 sS'data mining'
-p79
-I1
+p73
+F0.0056137019277305222
+sS'modeling'
+p74
+F0.0021485335688400859
 sS'model'
-p80
-I1
+p75
+F0.0040936794759302668
 sS'presentation'
-p81
-I1
+p76
+F0.0065168104293904933
+sS'transformation'
+p77
+F0.0083186696701927684
 ss.

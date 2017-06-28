@@ -10,85 +10,79 @@ aS'testing'
 p6
 aS'engineering'
 p7
-aS'system design'
-p8
 aS'dna'
-p9
+p8
 aS'writing'
-p10
+p9
 aS'computer science'
-p11
+p10
 aS'algorithm development'
-p12
+p11
 aS'numpy'
-p13
+p12
 aS'matlab'
-p14
+p13
 aS'dna sequencing'
-p15
+p14
 aS'python'
-p16
+p15
 aS'data scientist'
-p17
+p16
 aS'biophysics'
-p18
+p17
 aS'sequencing'
-p19
+p18
 aS'data'
-p20
+p19
 aS'science'
-p21
+p20
 aS'programming'
-p22
+p21
 aS'unix'
-p23
+p22
 aS'analysis'
-p24
+p23
 aS'r'
 aS'command'
+p24
+aS'electrical engineering'
 p25
-aS'electrical engineering'
+aS'chemistry'
 p26
-aS'chemistry'
-p27
 asS'working-year'
-p28
-(lp29
-V[0]
-p30
+p27
+(lp28
+S'[0]'
+p29
 asS'major'
-p31
-(lp32
-S'science'
+p30
+(lp31
+VData Science
+p32
+aVElectrical and Electronics Engineering
 p33
-aS'data science'
+aVEngineering
 p34
-aS'biophysics'
+aVChemical Engineering
 p35
-aS'engineering'
+aVBiological Engineering
 p36
-aS'electrical'
+aVComputer Science
 p37
-aS'computer science'
-p38
-aS'electrical engineering'
-p39
-aS'chemistry'
-p40
-aVphysic
-p41
 asS'education'
+p38
+(lp39
+VBachelor
+p40
+aVMaster
+p41
+asS'responsibility'
 p42
 (lp43
-S'Bachelor'
-p44
-asS'responsibility'
-p45
-(lp46
 S'report'
-p47
+p44
 aS'development'
-p48
+p45
 aS'analysis'
-p49
+p46
 as.

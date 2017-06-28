@@ -2,37 +2,37 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'nosql'
 p4
-aS'nosql'
-p5
 aS'model validation'
-p6
+p5
 aS'communication'
-p7
+p6
 aS'data science'
-p8
+p7
 aS'testing'
-p9
+p8
 aS'tableau'
-p10
+p9
 aS'analytics'
-p11
+p10
 aS'business intelligence'
-p12
+p11
 aS'search'
+p12
+aS'hive'
 p13
-aS'analysis'
-p14
 aS'data mining'
+p14
+aS'sas'
 p15
 aS'hbase'
 p16
-aS'perl'
+aS'd3.js'
 p17
 aS'quantitative analysis'
 p18
-aS'regression'
+aS'd3'
 p19
 aS'cassandra'
 p20
@@ -46,143 +46,132 @@ aS'big data'
 p24
 aS'scala'
 p25
-aS'education'
+aS'c'
+aS'statistics'
 p26
-aS'hadoop'
+aS'education'
 p27
-aS'd3.js'
+aS'hadoop'
 p28
-aS'strategy'
+aS'perl'
 p29
-aS'intelligence'
+aS'strategy'
 p30
-aS'advanced analytics'
+aS'intelligence'
 p31
-aS'text mining'
+aS'advanced analytics'
 p32
-aS'data analysis'
+aS'numpy'
 p33
-aS'python'
+aS'text mining'
 p34
-aS'mongodb'
+aS'data analysis'
 p35
-aS'ggplot'
+aS'python'
 p36
-aS'hive'
+aS'mongodb'
 p37
-aS'statistical modeling'
+aS'ggplot'
 p38
-aS'sql'
+aS'leadership'
 p39
-aS'modeling'
+aS'statistical modeling'
 p40
-aS'pig'
+aS'sql'
 p41
-aS'data'
+aS'regression'
 p42
-aS'training'
+aS'modeling'
 p43
-aS'data visualization'
+aS'pig'
 p44
-aS'statistical analysis'
+aS'data'
 p45
-aS'science'
+aS'training'
 p46
-aS'programming'
+aS'data visualization'
 p47
-aS'engineering'
+aS'statistical analysis'
 p48
-aS'c++'
+aS'science'
 p49
-aS'machine learning'
+aS'programming'
 p50
-aS'weka'
+aS'engineering'
 p51
+aS'analysis'
+p52
+aS'machine learning'
+p53
+aS'weka'
+p54
 aS'r'
 aS'organization'
-p52
-aS'validation'
-p53
-aS'scripting'
-p54
-aS'spss'
 p55
-asS'working-year'
+aS'validation'
 p56
-(lp57
-V(2, 5]
+aS'scripting'
+p57
+aS'spss'
 p58
-asS'major'
+asS'working-year'
 p59
 (lp60
-S'business'
+V(2, 5]
 p61
-aS'big data'
+asS'major'
 p62
-aS'science'
-p63
-aS'data science'
+(lp63
+VEngineering
 p64
-aS'statistic'
+aVData Science
 p65
-aVapplied statistic
+aVStatistics
 p66
-aS'machine learning data mining'
+aVComputer Science
 p67
-aS'analytics'
+aVBusiness
 p68
-aS'engineering'
-p69
-aS'design'
-p70
-aS'phd'
-p71
-aS'data mining'
-p72
-aS'advanced analytics'
-p73
-aS'machine learning'
-p74
-aS'communication'
-p75
 asS'education'
-p76
-(lp77
+p69
+(lp70
 VMaster
-p78
+p71
 aVDoctor
-p79
+p72
 asS'responsibility'
-p80
-(lp81
+p73
+(lp74
 S'development'
-p82
+p75
 aS'large data set'
-p83
+p76
+aS'product'
+p77
 aS'data analysis'
-p84
-aS'business problem'
-p85
+p78
 aS'modeling'
-p86
+p79
 aS'communicate'
-p87
+p80
 aS'analysis'
-p88
-aS'statistical model'
-p89
-aS'design'
-p90
-aS'data mining'
-p91
-aS'understand'
-p92
-aS'implement'
-p93
-aS'prototype'
-p94
-aS'quantitative analysis'
-p95
+p81
 aS'model'
-p96
+p82
+aS'design'
+p83
+aS'data mining'
+p84
+aS'understand'
+p85
+aS'implement'
+p86
+aS'prototype'
+p87
+aS'quantitative analysis'
+p88
+aS'transformation'
+p89
+aS'identify ... trend'
+p90
 as.

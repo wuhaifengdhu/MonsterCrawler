@@ -2,71 +2,73 @@
 S'skills'
 p2
 (lp3
-S'r d'
+S'classification'
 p4
-aS'classification'
-p5
 aS'communication'
-p6
+p5
 aS'data science'
-p7
+p6
 aS'testing'
-p8
+p7
 aS'analytics'
-p9
+p8
 aS'engineering'
-p10
+p9
 aS'trading'
+p10
+aS'modeling'
 p11
 aS'data mining'
 p12
-aS'modeling'
-p13
 aS'visualization'
-p14
+p13
 aS'big data'
-p15
+p14
 aS'hadoop'
-p16
+p15
 aS'research'
-p17
+p16
 aS'vertica'
-p18
+p17
 aS'optimization'
-p19
+p18
 aS'fraud detection'
-p20
+p19
 aS'computer science'
-p21
+p20
 aS'natural language processing'
-p22
+p21
 aS'unstructured data'
-p23
+p22
 aS'matlab'
-p24
+p23
 aS'biology'
-p25
+p24
 aS'processing'
-p26
+p25
 aS'finance'
-p27
+p26
 aS'marketing'
-p28
+p27
 aS'collaboration'
-p29
+p28
 aS'innovation'
-p30
+p29
 aS'scalability'
-p31
+p30
 aS'sql'
-p32
+p31
 aS'neuroscience'
-p33
+p32
 aS'data'
-p34
+p33
+aS'a'
+aS'c'
 aS'fraud'
-p35
+p34
 aS'online advertising'
+p35
+aS'economics'
 p36
 aS'programming'
 p37
@@ -93,86 +95,58 @@ p47
 asS'major'
 p48
 (lp49
-S'communication'
+VBusiness
 p50
-aS'data science'
+aVData Science
 p51
-aS'statistic'
+aVEconomics
 p52
-aS'analytics'
+aVEngineering
 p53
-aS'engineering'
+aVCognitive Science
 p54
-aS'design'
+aVComputer Science
 p55
-aS'finance economics'
+aVBiological Engineering
 p56
-aS'data mining'
-p57
-aS'big data'
-p58
-aS'computer science'
-p59
-aS'natural language processing'
-p60
-aS'data science engineering'
-p61
-aS'biology'
-p62
-aS'finance'
-p63
-aS'business'
-p64
-aS'marketing'
-p65
-aS'phd'
-p66
-aS'neuroscience computer science'
-p67
-aS'neuroscience'
-p68
-aVphysic
-p69
-aS'science'
-p70
-aS'machine learning'
-p71
-aS'data mining machine learning'
-p72
 asS'education'
-p73
-(lp74
-VDoctor
-p75
+p57
+(lp58
+VBachelor
+p59
+aVMaster
+p60
+aVDoctor
+p61
 asS'responsibility'
-p76
-(lp77
+p62
+(lp63
 S'development'
-p78
+p64
 aS'model'
-p79
+p65
 aS'product'
-p80
+p66
 aS'processing'
-p81
-aVinsight
-p82
+p67
+aS'insight'
+p68
 aS'analysis'
-p83
+p69
 aS'optimization'
-p84
+p70
 aS'design'
-p85
+p71
 aS'ownership'
-p86
+p72
 aS'data mining'
-p87
+p73
 aS'modeling'
-p88
+p74
 aS'implement'
-p89
+p75
 aS'presentation'
-p90
+p76
 aS'transformation'
-p91
+p77
 as.

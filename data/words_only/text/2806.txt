@@ -1,5 +1,5 @@
-skills: {'visualization': 1, 'data collection': 1, 'national security': 1, 'government': 1, 'science': 1, 'data science': 1, 'data scientist': 1, 'analysis': 1, 'research': 1, 'defense': 1, 'geospatial data': 1, 'data': 1, 'intelligence': 1, 'security': 1, 'education': 1, 'microsoft office': 1, 'customer relations': 1}
-working-year: {u'(5, 10]': 1}
-major: {'information': 1, 'information systems': 1, 'business': 1, 'science': 1, 'data science': 1, 'information system': 1, 'design': 1}
-education: {'Bachelor': 1}
-responsibility: {'information': 1, 'product': 1, 'data collection': 1, 'analysis': 1, 'design': 1, 'report': 1, 'model': 1}
+skills: {'data': 0.0026552571912195426, 'visualization': 0.006993639074380483, 'data collection': 0.027054847365382412, 'national security': 0.0156815418948212, 'government': 0.01945611578827586, 'science': 0.010493043107374513, 'data science': 0.00448821240918134, 'data scientist': 0.0039528793476264115, 'dod': 0.015752167751028015, 'research': 0.009550302332034383, 'defense': 0.013177754305702382, 'algorithms': 0.006694670441661395, 'analysis': 0.0012784280662467534, 'intelligence': 0.029292138244156322, 'geospatial data': 0.021045632385911596, 'security': 0.008154294088506686, 'education': 0.007830696827661451, 'microsoft office': 0.007165680764525461}
+working-year: {u'(5, 10]': 0.0044986726178241}
+major: {u'Data Science': 0.0038331678455412782, u'Information Science': 0.009450205927440648, u'Business': 0.004036247564082516}
+education: {u'Bachelor': 0.0034006672674250253}
+responsibility: {'information': 0.010351531339771602, 'product': 0.005018630189245323, 'data collection': 0.027054847365382412, 'analysis': 0.0012784280662467534, 'design': 0.005449323917979394, 'report': 0.007743568731986675, 'model': 0.005773921051871794}

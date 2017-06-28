@@ -4,176 +4,160 @@ p2
 (dp3
 S'ecology'
 p4
-I1
-sS'hydrology'
-p5
-I1
+F0.022515775899186154
 sS'nosql'
-p6
-I1
-sS'remote sensing'
-p7
-I1
-sS'python'
-p8
-I1
+p5
+F0.010486003311365986
 sS'communication'
-p9
-I1
+p6
+F0.0060657829850990662
 sS'data science'
-p10
-I1
-sS'innovation'
-p11
-I1
-sS'data scientist'
-p12
-I1
-sS'simulation'
-p13
-I1
+p7
+F0.0046085859220712606
 sS'engineering'
-p14
-I1
+p8
+F0.0093858603607176599
+sS'problem solving'
+p9
+F0.0094046431607404252
+sS'data mining'
+p10
+F0.0081301889987821351
+sS'simulation modeling'
+p11
+F0.023533793184269354
 sS'machine learning'
+p12
+F0.0025115621526208402
+sS'geography'
+p13
+F0.019161504591120464
+sS'management'
+p14
+F0.0034714515984661
+sS'research'
 p15
-I1
+F0.0065376271391704077
 sS'computer science'
 p16
-I1
-sS'problem solving'
+F0.0053869090543571668
+sS'innovation'
 p17
-I1
-sS'data mining'
+F0.0074169527667997072
+sS'python'
 p18
-I1
-sS'simulation modeling'
+F0.001997132232771134
+sS'data scientist'
 p19
-I1
-sS'modeling'
+F0.0040588952688271193
+sS'statistics'
 p20
-I1
-sS'research'
+F0.0035728461869831592
+sS'modeling'
 p21
-I1
+F0.0031116693065959865
 sS'data'
 p22
-I1
-sS'data analytics'
+F0.0031808828165567449
+sS'hydrology'
 p23
-I1
-sS'geography'
+F0.024691955295462788
+sS'remote sensing'
 p24
-I1
-ssS'working-year'
+F0.018757827319626937
+sS'science'
 p25
-(dp26
-V(2, 5]
-p27
-I1
-ssS'major'
-p28
-(dp29
-S'hydrology'
-p30
-I1
-sS'communication'
-p31
-I1
-sS'machine learning data science'
-p32
-I1
-sS'data mining'
-p33
-I1
-sS'history'
-p34
-I1
-sS'machine learning data mining'
-p35
-I1
-sS'engineering'
-p36
-I1
-sS'machine learning'
-p37
-I1
-sS'design'
-p38
-I1
-sS'computer science'
-p39
-I1
-sS'statistic'
-p40
-I1
-sS'data analytics'
-p41
-I1
-sS'computer science engineering'
-p42
-I1
-sS'phd'
-p43
-I1
-sS'data science'
-p44
-I1
-sVphysic
-p45
-I1
-sS'geography'
-p46
-I1
-ssS'education'
-p47
-(dp48
-VMaster
-p49
-I1
-sVDoctor
-p50
-I1
-ssS'responsibility'
-p51
-(dp52
-S'business problem'
-p53
-I1
-sVinsight
-p54
-I1
-sS'communicate'
-p55
-I1
+F0.0053872328597248456
 sS'simulation'
-p56
-I1
+p26
+F0.010286727155840504
+sS'r'
+F0.0021264073050342573
+sS'databases'
+p27
+F0.0088218320817195026
+sS'physics'
+p28
+F0.0093221623656960274
+ssS'working-year'
+p29
+(dp30
+V(2, 5]
+p31
+F0.0047469135188932393
+ssS'major'
+p32
+(dp33
+VStatistics
+p34
+F0.0069023171260079695
+sVBusiness
+p35
+F0.0041444994144602077
+sVData Science
+p36
+F0.0039359731134293585
+sVEngineering
+p37
+F0.0093858603607176599
+sVComputer Science
+p38
+F0.0034687959630352403
+sVGeography
+p39
+F0.018806021529328618
+sVPhysics
+p40
+F0.010052613414559734
+sVManagement Science and Engineering
+p41
+F0.0049407836722946069
+ssS'education'
+p42
+(dp43
+VBachelor
+p44
+F0.0034918729029498343
+sVDoctor
+p45
+F0.0041731102366914484
+ssS'responsibility'
+p46
+(dp47
+S'business problem'
+p48
+F0.010912454261036953
+sS'insight'
+p49
+F0.0070302427433313599
+sS'communicate'
+p50
+F0.0076867543382436471
+sS'simulation'
+p51
+F0.010286727155840504
 sS'analytic'
-p57
-I1
-sS'statistical method'
-p58
-I1
+p52
+F0.0086502910816078256
 sS'design'
-p59
-I1
+p53
+F0.0055954743678868872
 sS'data mining'
-p60
-I1
+p54
+F0.0081301889987821351
 sS'modeling'
-p61
-I1
+p55
+F0.0031116693065959865
 sS'implement'
-p62
-I1
+p56
+F0.0081144182954774238
 sS'prototype'
-p63
-I1
+p57
+F0.012081116527010298
 sS'extract'
-p64
-I1
+p58
+F0.011853289389666012
 sS'model'
-p65
-I1
+p59
+F0.017786331516110813
 ss.

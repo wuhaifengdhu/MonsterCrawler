@@ -2,50 +2,51 @@
 S'skills'
 p2
 (lp3
-S'communication'
-p4
+S'a'
 aS'healthcare'
-p5
-aS'data scientist'
-p6
-aS'communication skills'
-p7
-aS'writing'
-p8
-aS'data structures'
-p9
-aS'sql'
-p10
-aS'technical documentation'
-p11
-aS'education'
-p12
-aS'data'
-p13
-aS'etl'
-p14
-asS'working-year'
-p15
-(lp16
-V(0, 2]
-p17
-aV(2, 5]
-p18
-asS'major'
-p19
-(lp20
-S'information'
-p21
-aS'business'
-p22
-aS'data analyst'
-p23
+p4
 aS'communication'
-p24
+p5
+aS'documentation'
+p6
+aS'data scientist'
+p7
+aS'communication skills'
+p8
+aS'writing'
+p9
+aS'data structures'
+p10
+aS'sql'
+p11
+aS'technical documentation'
+p12
+aS'education'
+p13
+aS'data'
+p14
+aS'etl'
+p15
+asS'working-year'
+p16
+(lp17
+V(0, 2]
+p18
+aV(2, 5]
+p19
+asS'major'
+p20
+(lp21
+VData Science
+p22
+aVBusiness
+p23
 asS'education'
-p25
-(lp26
+p24
+(lp25
 VBachelor
+p26
+aVMaster
 p27
 asS'responsibility'
 p28
@@ -54,12 +55,16 @@ S'development'
 p30
 aS'information'
 p31
-aS'mapping'
+aS'documentation'
 p32
-aS'understand'
+aS'mapping'
 p33
-aS'ownership'
+aS'understand'
 p34
-aS'transformation'
+aS'ownership'
 p35
+aS'design'
+p36
+aS'transformation'
+p37
 as.

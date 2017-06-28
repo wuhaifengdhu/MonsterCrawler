@@ -4,158 +4,155 @@ p2
 (dp3
 S'nosql'
 p4
-I1
+F0.0070355960520990281
 sS'communication'
 p5
-I1
+F0.0040698441108248237
 sS'analytics'
 p6
-I1
+F0.0022358289511144641
 sS'dod'
 p7
-I1
+F0.021704786412727547
 sS'laboratory'
 p8
-I1
+F0.021672143049207653
 sS'hbase'
 p9
-I1
+F0.0086073472746531383
 sS'education'
 p10
-I1
+F0.0053949273774120026
 sS'xml'
 p11
-I1
+F0.0084676424561840463
 sS'hadoop'
 p12
-I1
+F0.00660568895321113
 sS'research'
 p13
-I1
+F0.0043864284918341294
 sS'access'
 p14
-I1
+F0.011925254627745269
 sS'computer science'
 p15
-I1
+F0.0036143528616638062
 sS'mathematics'
 p16
-I1
+F0.0046989544526370329
 sS'operations research'
 p17
-I1
+F0.0074060116081025949
 sS'government'
 p18
-I1
+F0.013404213447963831
 sS'data scientist'
 p19
-I1
-sS'algorithm design'
+F0.0027233204759996867
+sS'leadership'
 p20
-I1
-sS'data'
+F0.0042478370725033982
+sS'architectures'
 p21
-I1
-sS'software development'
+F0.012340574546055942
+sS'algorithm design'
 p22
-I1
-sS'security clearance'
+F0.010836071524603827
+sS'data'
 p23
-I1
-sS'machine learning'
+F0.0015244407181808858
+sS'software development'
 p24
-I1
-sS'data architecture'
+F0.005450376910214068
+sS'science'
 p25
-I1
-sS'system architecture'
+F0.0018072850596249162
+sS'security clearance'
 p26
-I1
-sS'architecture'
-p27
-I1
-sS'organization'
-p28
-I1
-sS'security'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(5, 10]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'information'
-p35
-I1
-sS'mathematics physics'
-p36
-I1
-sS'information science'
-p37
-I1
-sS'communication'
-p38
-I1
+F0.0093928546870407949
 sS'machine learning'
-p39
-I1
-sS'analytics'
+p27
+F0.0016851355317070418
+sS'data architecture'
+p28
+F0.010430523277160162
+sS'system architecture'
+p29
+F0.011500777496898873
+sS'algorithms'
+p30
+F0.0046122665253605496
+sS'architecture'
+p31
+F0.0056221453025312547
+sS'organization'
+p32
+F0.0045326062706469951
+sS'security'
+p33
+F0.011235736841747002
+sS'physics'
+p34
+F0.01876414686976861
+ssS'working-year'
+p35
+(dp36
+V(5, 10]
+p37
+F0.0030993425747477088
+ssS'major'
+p38
+(dp39
+VData Science
 p40
-I1
-sS'information system'
+F0.0026408457136376929
+sVInformation Science
 p41
-I1
-sS'design'
+F0.0065106817186480559
+sVComputer Science
 p42
-I1
-sVphysic
+F0.002327392664144467
+sVMathematics
 p43
-I1
-sS'mathematics'
+F0.0044068702559960198
+sVPhysics
 p44
-I1
-sS'applied physics'
+F0.0067448125994860929
+sVOperations Research
 p45
-I1
-sS'operations research'
-p46
-I1
-sS'computer science'
-p47
-I1
+F0.0082743673475248174
 ssS'education'
-p48
-(dp49
+p46
+(dp47
 VBachelor
-p50
-I1
+p48
+F0.0023428761636758526
 sVMaster
-p51
-I1
+p49
+F0.0018696161573886294
 sVDoctor
-p52
-I1
+p50
+F0.0027999531408135422
 ssS'responsibility'
-p53
-(dp54
+p51
+(dp52
 S'development'
-p55
-I1
+p53
+F0.0031130102889823097
+sS'information'
+p54
+F0.014263292540148015
 sS'analytic'
+p55
+F0.0058039228079682327
+sS'design'
 p56
-I1
+F0.0075085800000950003
 sS'implement'
 p57
-I1
-sS'design'
+F0.005444378342209788
+sS'decision making'
 p58
-I1
-sS'information'
-p59
-I1
+F0.0083973857324666154
 ss.

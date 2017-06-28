@@ -2,11 +2,11 @@
 S'skills'
 p2
 (lp3
-S'excel'
+S'ip'
 p4
-aS'communication'
+aS'tcp'
 p5
-aS'hardware'
+aS'database administration'
 p6
 aS'engineering'
 p7
@@ -22,90 +22,92 @@ aS'networking'
 p12
 aS'storage'
 p13
-aS'saas'
-p14
 aS'writing'
+p14
+aS'user interface'
 p15
 aS'computer science'
 p16
-aS'innovation'
-p17
-aS'web development'
-p18
-aS'data scientist'
-p19
-aS'project management'
-p20
-aS'data'
-p21
-aS'b2b'
-p22
-aS'information technology'
-p23
-aS'science'
-p24
-aS'programming'
-p25
-aS'analysis'
-p26
-aS'architecture'
-p27
-aS'windows 7'
-p28
-aS'security'
-p29
-aS'scripting'
-p30
-asS'working-year'
-p31
-(lp32
-V[0]
-p33
-asS'major'
-p34
-(lp35
-S'information'
-p36
-aS'management'
-p37
-aS'business'
-p38
-aS'science'
-p39
-aS'computer science computer engineering'
-p40
-aS'engineering'
-p41
-aS'information systems'
-p42
-aS'computer engineering'
-p43
-aS'information system'
-p44
-aS'project management'
-p45
-aS'web development'
-p46
 aS'communication'
-p47
+p17
+aS'information security'
+p18
+aS'web development'
+p19
+aS'data analysis'
+p20
+aS'innovation'
+p21
+aS'data scientist'
+p22
+aS'project management'
+p23
+aS'scripting'
+p24
+aS'data'
+p25
+aS'b2b'
+p26
 aS'information technology'
-p48
-aS'computer science'
-p49
-asS'education'
-p50
-(lp51
-VBachelor
-p52
-aVMaster
-p53
-asS'responsibility'
-p54
-(lp55
-S'development'
-p56
-aS'information'
-p57
+p27
+aS'hardware'
+p28
+aS'saas'
+p29
+aS'windows'
+p30
+aS'science'
+p31
+aS'excel'
+p32
+aS'programming'
+p33
 aS'analysis'
+p34
+aS'architecture'
+p35
+aS'windows 7'
+p36
+aS'security'
+p37
+aS'application development'
+p38
+asS'working-year'
+p39
+(lp40
+S'[0]'
+p41
+asS'major'
+p42
+(lp43
+VEngineering
+p44
+aVInformation Science
+p45
+aVComputer Science
+p46
+aVBusiness
+p47
+aVManagement Science and Engineering
+p48
+asS'education'
+p49
+(lp50
+VBachelor
+p51
+aVMaster
+p52
+asS'responsibility'
+p53
+(lp54
+S'interface'
+p55
+aS'information'
+p56
+aS'data analysis'
+p57
+aS'development'
 p58
+aS'analysis'
+p59
 as.

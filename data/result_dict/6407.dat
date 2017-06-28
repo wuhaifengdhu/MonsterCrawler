@@ -2,82 +2,77 @@
 S'skills'
 p2
 (lp3
-S'search'
+S'a'
+aS'search'
 p4
 aS'agile'
 p5
-aS'healthcare'
-p6
-aS'customer service'
-p7
-aS'innovation'
-p8
-aS'data scientist'
-p9
-aS'finance'
-p10
-aS'writing'
-p11
-aS'access'
-p12
-aS'psychology'
-p13
-aS'marketing strategy'
-p14
-aS'marketing'
-p15
-aS'go'
-p16
-aS'business development'
-p17
-aS'strategy'
-p18
-aS'data'
-p19
 aS'product marketing'
-p20
-asS'working-year'
-p21
-(lp22
-V(5, 10]
-p23
-aV(2, 5]
-p24
-asS'major'
-p25
-(lp26
-S'finance'
-p27
-aS'business'
-p28
-aS'marketing'
-p29
-aS'mba'
-p30
-aS'finance marketing'
-p31
-aS'marketing strategy'
-p32
-aS'behavioral psychology'
-p33
+p6
+aS'solver'
+p7
+aS'customer service'
+p8
+aS'innovation'
+p9
+aS'data scientist'
+p10
+aS'finance'
+p11
+aS'writing'
+p12
+aS'access'
+p13
 aS'psychology'
-p34
+p14
+aS'healthcare'
+p15
+aS'marketing strategy'
+p16
+aS'marketing'
+p17
+aS'go'
+p18
+aS'business development'
+p19
+aS'strategy'
+p20
+aS'data'
+p21
+aS'experimentation'
+p22
+asS'working-year'
+p23
+(lp24
+V(5, 10]
+p25
+aV(2, 5]
+p26
+asS'major'
+p27
+(lp28
+VEconomics
+p29
+aVPsychology
+p30
+aVBusiness
+p31
 asS'education'
-p35
-(lp36
+p32
+(lp33
 VBachelor
-p37
+p34
 aVDoctor
-p38
+p35
 asS'responsibility'
-p39
-(lp40
+p36
+(lp37
 S'report'
-p41
+p38
 aS'development'
-p42
+p39
 aS'product'
-p43
+p40
 aS'understand'
-p44
+p41
 as.

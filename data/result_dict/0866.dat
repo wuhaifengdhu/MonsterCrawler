@@ -4,123 +4,109 @@ p2
 (lp3
 S'data science'
 p4
-aS'cluster'
+aS'chaid'
 p5
-aS'statistical analysis'
+aS'cluster'
 p6
-aS'data mining'
+aS'statistical analysis'
 p7
-aS'accounting'
+aS'data mining'
 p8
-aS'linear regression'
+aS'accounting'
 p9
-aS'regression'
+aS'linear regression'
 p10
-aS'visualization'
+aS'regression'
 p11
-aS'rdbms'
+aS'visualization'
 p12
-aS'big data'
+aS'rdbms'
 p13
-aS'predictive modeling'
+aS'big data'
 p14
-aS'strategy'
+aS'predictive modeling'
 p15
-aS'natural language processing'
+aS'anova'
 p16
-aS'finance'
+aS'strategy'
 p17
-aS'government'
+aS'natural language processing'
 p18
-aS'python'
+aS'finance'
 p19
-aS'processing'
+aS'government'
 p20
-aS'data scientist'
+aS'python'
 p21
-aS'modeling'
+aS'processing'
 p22
-aS'data'
+aS'data scientist'
 p23
-aS'search'
+aS'cart'
 p24
-aS'data visualization'
+aS'modeling'
 p25
-aS'science'
+aS'data'
 p26
-aS'programming'
+aS'search'
 p27
-aS'analysis'
+aS'data visualization'
 p28
-aS'machine learning'
+aS'science'
 p29
+aS'programming'
+p30
+aS'analysis'
+p31
+aS'machine learning'
+p32
 aS'r'
 aS'architecture'
-p30
-aS'logistic regression'
-p31
-aS'oracle'
-p32
-aS'cluster analysis'
 p33
-asS'working-year'
+aS'logistic regression'
 p34
-(lp35
-V(20, 30)
+aS'oracle'
+p35
+aS'cluster analysis'
 p36
-aV(2, 5]
+asS'working-year'
 p37
-asS'major'
-p38
-(lp39
-S'information'
+(lp38
+V(20, 30)
+p39
+aV(2, 5]
 p40
-aS'data mining predictive analysis'
+asS'major'
 p41
-aS'finance'
-p42
-aS'big data'
+(lp42
+VData Science
 p43
-aS'science'
+aVEconomics
 p44
-aS'data science'
+aVComputer Science
 p45
-aS'data mining'
+aVBusiness
 p46
-aVapplied statistic
-p47
-aS'machine learning data mining'
-p48
-aS'business'
-p49
-aS'finance accounting'
-p50
-aS'natural language processing'
-p51
-aS'accounting'
-p52
-aS'machine learning'
-p53
 asS'education'
-p54
-(lp55
+p47
+(lp48
 S'Bachelor'
-p56
+p49
 asS'responsibility'
-p57
-(lp58
+p50
+(lp51
 S'information'
-p59
+p52
 aS'formulate'
-p60
+p53
 aS'processing'
-p61
+p54
 aS'analysis'
-p62
-aS'statistical method'
-p63
+p55
 aS'data mining'
-p64
+p56
 aS'modeling'
-p65
+p57
+aS'presentation'
+p58
 as.

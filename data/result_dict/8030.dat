@@ -46,6 +46,8 @@ aS'data'
 p24
 aS'bash'
 p25
+aS'a'
+aS'c'
 aS'science'
 p26
 aS'analysis'
@@ -64,51 +66,43 @@ p32
 asS'working-year'
 p33
 (lp34
-V[0]
+S'[0]'
 p35
 asS'major'
 p36
 (lp37
-S'business'
+VMathematics
 p38
-aS'big data'
+aVData Science
 p39
-aS'science'
+aVComputer Science
 p40
-aS'data science'
+aVBusiness
 p41
-aS'machine learning'
-p42
-aS'design'
-p43
-aS'computer science'
-p44
-aS'mathematics'
-p45
-aS'mathematics computer science'
-p46
-aVphysic
-p47
 asS'education'
-p48
-(lp49
+p42
+(lp43
 VMaster
-p50
+p44
+aVDoctor
+p45
 asS'responsibility'
-p51
-(lp52
+p46
+(lp47
 S'product'
-p53
-aVinsight
-p54
+p48
+aS'decision-making'
+p49
+aS'insight'
+p50
 aS'analysis'
-p55
+p51
 aS'design'
-p56
+p52
 aS'modeling'
-p57
+p53
 aS'model'
-p58
+p54
 aS'evaluation'
-p59
+p55
 as.

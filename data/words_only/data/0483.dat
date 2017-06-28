@@ -4,199 +4,186 @@ p2
 (dp3
 S'data science'
 p4
-I1
+F0.0048306864484361405
 sS'pig'
 p5
-I1
-sS'thought leadership'
+F0.010837864157091932
+sS'analytics'
 p6
-I1
-sS'analysis'
+F0.0034929215340703877
+sS'thought leadership'
 p7
-I1
-sS'data mining'
-p8
-I1
-sS'research'
-p9
-I1
-sS'access'
-p10
-I1
-sS'matlab'
-p11
-I1
-sS'natural language processing'
-p12
-I1
-sS'advanced analytics'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'customer satisfaction'
-p15
-I1
-sS'python'
-p16
-I1
-sS'marketing'
-p17
-I1
-sS'processing'
-p18
-I1
-sS'data scientist'
-p19
-I1
-sS'leadership'
-p20
-I1
-sS'statistical modeling'
-p21
-I1
-sS'sql'
-p22
-I1
-sS'modeling'
-p23
-I1
-sS'spark'
-p24
-I1
-sS'data'
-p25
-I1
-sS'project management'
-p26
-I1
-sS'science'
-p27
-I1
-sS'mapreduce'
-p28
-I1
-sS'hive'
-p29
-I1
-sS'machine learning'
-p30
-I1
-sS'r'
-I1
-sS'web mining'
-p31
-I1
-sS'advertising'
-p32
-I1
-sS'organization'
-p33
-I1
-ssS'working-year'
-p34
-(dp35
-V(5, 10]
-p36
-I1
-ssS'major'
-p37
-(dp38
-S'science'
-p39
-I1
-sVphysic
-p40
-I1
-sS'computer science mathematics'
-p41
-I1
-sS'business'
-p42
-I1
-sS'marketing'
-p43
-I1
-sS'data science'
-p44
-I1
-sS'statistic'
-p45
-I1
-sS'data science analytics'
-p46
-I1
-sS'general'
-p47
-I1
-sS'mathematics statistics'
-p48
-I1
-sS'natural language processing'
-p49
-I1
-sS'data mining'
-p50
-I1
-sS'advanced analytics'
-p51
-I1
-sS'machine learning'
-p52
-I1
-sS'machine learning data mining'
-p53
-I1
-sS'project management'
-p54
-I1
-sS'computer science'
-p55
-I1
-ssS'education'
-p56
-(dp57
-VDoctor
-p58
-I1
-ssS'responsibility'
-p59
-(dp60
-S'product'
-p61
-I1
-sS'processing'
-p62
-I1
-sS'business problem'
-p63
-I1
-sVinsight
-p64
-I1
-sS'communicate'
-p65
-I1
+F0.016472606022205311
 sS'analysis'
-p66
-I1
-sS'statistical model'
-p67
-I1
-sS'analytic'
-p68
-I1
-sS'understand'
-p69
-I1
+p8
+F0.0013759788022254212
 sS'data mining'
-p70
-I1
+p9
+F0.0085220053360728406
+sS'sas'
+p10
+F0.0055632002276201466
+sS'statistics'
+p11
+F0.0037450315453919861
+sS'research'
+p12
+F0.013705387014646396
+sS'access'
+p13
+F0.0093151085345239137
+sS'matlab'
+p14
+F0.0051261091873014645
+sS'natural language processing'
+p15
+F0.010064088883374709
+sS'advanced analytics'
+p16
+F0.011818516282482263
+sS'mathematics'
+p17
+F0.0073409368758064484
+sS'computer science'
+p18
+F0.0056465191292659461
+sS'customer satisfaction'
+p19
+F0.018169609393872674
+sS'python'
+p20
+F0.0020933795692902246
+sS'marketing'
+p21
+F0.0076514639456929665
+sS'processing'
+p22
+F0.0065585866934567061
+sS'data scientist'
+p23
+F0.004254504679373005
+sS'leadership'
+p24
+F0.0066361792016217747
+sS'statistical modeling'
+p25
+F0.007194239036909222
+sS'sql'
+p26
+F0.002738730356759225
 sS'modeling'
-p71
-I1
+p27
+F0.0032616292731789255
+sS'spark'
+p28
+F0.006771629009299833
+sS'data'
+p29
+F0.0028578671776981427
+sS'project management'
+p30
+F0.0076363587282110281
+sS'a'
+F0.015020416816176919
+sS'science'
+p31
+F0.0028234292698557924
+sS'mapreduce'
+p32
+F0.010589162718698475
+sS'hive'
+p33
+F0.0083765230903213115
+sS'machine learning'
+p34
+F0.0026326012925061816
+sS'r'
+F0.0022288847655178357
+sS'web mining'
+p35
+F0.025435240497815582
+sS'advertising'
+p36
+F0.039655388967834812
+sS'organization'
+p37
+F0.0070810595955087593
+sS'physics'
+p38
+F0.0097714232025970411
+ssS'working-year'
+p39
+(dp40
+V(5, 10]
+p41
+F0.0048419448256098738
+ssS'major'
+p42
+(dp43
+VStatistics
+p44
+F0.0072349589152131731
+sVBusiness
+p45
+F0.0043442343260004582
+sVData Science
+p46
+F0.0041256585646789658
+sVEconomics
+p47
+F0.0065894439659616895
+sVComputer Science
+p48
+F0.0036359668528200707
+sVMathematics
+p49
+F0.0068846286328612524
+sVPhysics
+p50
+F0.010537076711646949
+sVManagement Science and Engineering
+p51
+F0.0051788937287907321
+ssS'education'
+p52
+(dp53
+VDoctor
+p54
+F0.0043742239830380234
+ssS'responsibility'
+p55
+(dp56
+S'product'
+p57
+F0.01080315574873692
+sS'processing'
+p58
+F0.0065585866934567061
+sS'business problem'
+p59
+F0.011438355671207406
+sS'insight'
+p60
+F0.0073690496225280516
+sS'communicate'
+p61
+F0.0080572003304481606
+sS'analysis'
+p62
+F0.0013759788022254212
+sS'analytic'
+p63
+F0.0090671725795166361
+sS'understand'
+p64
+F0.0084404811784910654
+sS'data mining'
+p65
+F0.0085220053360728406
+sS'modeling'
+p66
+F0.0032616292731789255
 sS'model'
-p72
-I1
+p67
+F0.0062145013730989587
 ss.

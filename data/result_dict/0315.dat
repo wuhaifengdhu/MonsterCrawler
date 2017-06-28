@@ -2,86 +2,85 @@
 S'skills'
 p2
 (lp3
-S'genetics'
+S'data science'
 p4
-aS'finance'
-p5
-aS'scala'
-p6
-aS'python'
-p7
-aS'programming'
-p8
-aS'data science'
-p9
-aS'processing'
-p10
-aS'data scientist'
-p11
-aS'machine learning'
-p12
 aS'engineering'
-p13
+p5
+aS'statistics'
+p6
+aS'genetics'
+p7
+aS'scala'
+p8
+aS'hadoop'
+p9
 aS'computer science'
-p14
+p10
 aS'natural language processing'
+p11
+aS'unstructured data'
+p12
+aS'finance'
+p13
+aS'python'
+p14
+aS'processing'
 p15
-aS'spark'
+aS'data scientist'
 p16
 aS'java'
 p17
-aS'security'
+aS'spark'
 p18
 aS'data'
 p19
-aS'unstructured data'
-p20
+aS'a'
 aS'science'
+p20
+aS'programming'
 p21
-asS'working-year'
+aS'mapreduce'
 p22
-(lp23
-V(0, 2]
+aS'machine learning'
+p23
+aS'security'
 p24
-asS'major'
+asS'working-year'
 p25
 (lp26
-S'information'
+V(0, 2]
 p27
-aS'genetics'
+asS'major'
 p28
-aS'finance'
-p29
-aS'science'
+(lp29
+VStatistics
 p30
-aS'data science'
+aVData Science
 p31
-aS'statistic'
+aVEconomics
 p32
-aS'machine learning'
+aVEngineering
 p33
-aS'engineering'
+aVComputer Science
 p34
-aS'computer science'
+aVBiological Engineering
 p35
-aS'natural language processing'
-p36
 asS'education'
-p37
-(lp38
+p36
+(lp37
 VDoctor
-p39
+p38
 asS'responsibility'
-p40
-(lp41
+p39
+(lp40
 S'information'
-p42
+p41
 aS'product'
-p43
+p42
 aS'processing'
-p44
+p43
 aS'communicate'
-p45
+p44
 aS'model'
-p46
+p45
 as.

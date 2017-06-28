@@ -4,319 +4,290 @@ p2
 (dp3
 S'nlp'
 p4
-I1
+F0.0047369654049080759
 sS'shell scripting'
 p5
-I1
+F0.0046479497203913232
 sS'communication'
 p6
-I1
+F0.0021836818746356641
 sS'data science'
 p7
-I1
+F0.0016590909319456539
 sS'testing'
 p8
-I1
+F0.0028239696757241554
 sS'hadoop'
 p9
-I1
+F0.0035442937969643166
 sS'unix'
 p10
-I1
+F0.0035615017776345513
 sS'product strategy'
 p11
-I1
+F0.0065451328098121908
 sS'analysis'
 p12
-I1
+F0.00094515509449415148
 sS'data mining'
 p13
-I1
+F0.0029268680395615689
 sS'go'
 p14
-I1
+F0.004522638889693279
 sS'data modeling'
 p15
-I1
+F0.0036030368894045118
 sS'hbase'
 p16
-I1
-sS'management'
-p17
-I1
-sS'java'
-p18
-I1
-sS'big data'
-p19
-I1
-sS'scala'
-p20
-I1
-sS'tableau'
-p21
-I1
+F0.0046182870204690635
 sS'research'
-p22
-I1
-sS'r'
-I1
-sS'gurobi'
-p23
-I1
-sS'matlab'
-p24
-I1
-sS'innovation'
-p25
-I1
-sS'policy'
-p26
-I1
-sS'computer science'
-p27
-I1
-sS'segmentation'
-p28
-I1
-sS'data analysis'
-p29
-I1
-sS'distributed computing'
-p30
-I1
-sS'customer relationship management crm'
-p31
-I1
-sS'python'
-p32
-I1
-sS'statistical analysis'
-p33
-I1
-sS'data scientist'
-p34
-I1
+p17
+F0.0011767728850506733
 sS'training'
-p35
-I1
+p18
+F0.0032459237945135573
+sS'statistics'
+p19
+F0.0025724492546278744
+sS'java'
+p20
+F0.0017093337485079771
+sS'big data'
+p21
+F0.0017554829329140241
+sS'scala'
+p22
+F0.0033662984657912231
+sS'tableau'
+p23
+F0.0027710704649983333
+sS'strategy'
+p24
+F0.0021724295603128756
+sS'r'
+F0.0015310132596246652
+sS'gurobi'
+p25
+F0.0082008416472058102
+sS'matlab'
+p26
+F0.0017605533622593995
+sS'innovation'
+p27
+F0.0026701029960478945
+sS'policy'
+p28
+F0.0037650458317803441
+sS'computer science'
+p29
+F0.00193928725956858
+sS'a'
+F0.0025793681291227952
+sS'segmentation'
+p30
+F0.0039945535339724701
+sS'data analysis'
+p31
+F0.0020465682965043657
+sS'distributed computing'
+p32
+F0.0049343399482197408
 sS'mapreduce'
+p33
+F0.0036368296785598904
+sS'customer relationship management crm'
+p34
+F0.0075161034351199866
+sS'python'
+p35
+F0.0007189676037976082
+sS'marketing'
 p36
-I1
-sS'scripting'
+F0.0026278820999690324
+sS'statistical analysis'
 p37
-I1
-sS'modeling'
+F0.003551310556431183
+sS'data scientist'
 p38
-I1
-sS'spark'
-p39
-I1
-sS'information retrieval'
-p40
-I1
-sS'data'
-p41
-I1
-sS'customer relations'
-p42
-I1
-sS'customer experience'
-p43
-I1
-sS'linux'
-p44
-I1
+F0.0014612022967777629
 sS'search'
+p39
+F0.0085572131797234975
+sS'automation'
+p40
+F0.0046000666558121501
+sS'management'
+p41
+F0.001249722575447796
+sS'scripting'
+p42
+F0.0033559784516505697
+sS'modeling'
+p43
+F0.0033606028511236658
+sS'spark'
+p44
+F0.0023257043080215979
+sS'information retrieval'
 p45
-I1
-sS'mysql'
+F0.0048407186248043766
+sS'data'
 p46
-I1
-sS'science'
+F0.0045804712558417133
+sS'customer experience'
 p47
-I1
-sS'programming'
+F0.0052842708986017171
+sS'linux'
 p48
-I1
-sS'engineering'
+F0.0025463145348954886
+sS'c'
+F0.0017249957571008239
+sS'mysql'
 p49
-I1
-sS'hive'
+F0.0032747005885340988
+sS'science'
 p50
-I1
-sS'machine learning'
+F0.00096970191475047221
+sS'programming'
 p51
-I1
-sS'weka'
+F0.0015204348066687942
+sS'engineering'
 p52
-I1
-sS'optimization'
+F0.0033789097298583572
+sS'hive'
 p53
-I1
-sS'etl'
+F0.0028769024130896638
+sS'machine learning'
 p54
-I1
-sS'retail'
+F0.00090416237494350248
+sS'weka'
 p55
-I1
-sS'data analytics'
+F0.010727616077741408
+sS'optimization'
 p56
-I1
-sS'crm'
+F0.0055172658134856334
+sS'etl'
 p57
-I1
-ssS'working-year'
+F0.0039307098951933553
+sS'retail'
 p58
-(dp59
-V(0, 2]
+F0.019012201293332535
+sS'data analytics'
+p59
+F0.0028169968020493753
+sS'crm'
 p60
-I1
-ssS'major'
+F0.0045363971947542034
+ssS'working-year'
 p61
 (dp62
-S'science'
+V(0, 2]
 p63
-I1
-sS'information'
+F0.0031414898815036595
+ssS'major'
 p64
-I1
-sS'management'
-p65
-I1
-sS'business'
+(dp65
+VStatistics
 p66
-I1
-sS'big data'
+F0.0024848341653628688
+sVBusiness
 p67
-I1
-sS'computing'
+F0.0014920197892056746
+sVData Science
 p68
-I1
-sS'communication'
+F0.0014169503208345691
+sVEconomics
 p69
-I1
-sS'data science'
+F0.0022631331689992561
+sVEngineering
 p70
-I1
-sS'statistic'
+F0.0033789097298583572
+sVComputer Science
 p71
-I1
-sS'computer science statistics'
+F0.0012487665466926865
+sVManagement Science and Engineering
 p72
-I1
-sS'machine learning data mining'
-p73
-I1
-sS'engineering'
-p74
-I1
-sS'machine learning'
-p75
-I1
-sS'design'
-p76
-I1
-sS'computer science'
-p77
-I1
-sS'data mining'
-p78
-I1
-sS'phd'
-p79
-I1
-sS'information retrieval'
-p80
-I1
-sS'data analytics'
-p81
-I1
-sS'strategy marketing'
-p82
-I1
-sS'data mining machine learning'
-p83
-I1
+F0.0017786821220260583
 ssS'education'
-p84
-(dp85
+p73
+(dp74
 VMaster
-p86
-I1
+p75
+F0.0010031457727230025
 sVDoctor
-p87
-I1
+p76
+F0.0015023196852089213
 ssS'responsibility'
-p88
-(dp89
-Vinsight
-p90
-I1
+p77
+(dp78
+S'insight'
+p79
+F0.0025308873875992898
 sS'design'
-p91
-I1
+p80
+F0.0060431123173178385
 sS'data mining'
-p92
-I1
-sS'large data set'
-p93
-I1
-sS'develop model'
-p94
-I1
-sS'recommendation'
-p95
-I1
+p81
+F0.0029268680395615689
 sS'improvement'
-p96
-I1
+p82
+F0.0037051124087435967
+sS'large data set'
+p83
+F0.0043371822556315396
+sS'recommendation'
+p84
+F0.0072060737788090237
+sS'develop ... model'
+p85
+F0.0042757421064498445
 sS'complex data set'
-p97
-I1
-sS'identify trend'
-p98
-I1
-sS'test model'
-p99
-I1
+p86
+F0.0068981416528033678
 sS'prototype'
-p100
-I1
+p87
+F0.013047605849171123
 sS'evaluation'
-p101
-I1
+p88
+F0.0046668181845885195
+sS'identify ... trend'
+p89
+F0.0059230608451040891
 sS'development'
-p102
-I1
+p90
+F0.0033405820756251545
 sS'product'
-p103
-I1
+p91
+F0.0074206504315461877
 sS'data analysis'
-p104
-I1
+p92
+F0.0020465682965043657
 sS'information'
-p105
-I1
-sS'validate model'
-p106
-I1
+p93
+F0.001913248551075027
 sS'communicate'
-p107
-I1
+p94
+F0.0027672315617677128
 sS'modeling'
-p108
-I1
-sS'implement'
-p109
-I1
-sS'analysis'
-p110
-I1
-sS'optimization'
-p111
-I1
+p95
+F0.0033606028511236658
 sS'model'
-p112
-I1
+p96
+F0.012806158691599786
+sS'test ... model'
+p97
+F0.0063909391853045928
+sS'analysis'
+p98
+F0.00094515509449415148
+sS'optimization'
+p99
+F0.0055172658134856334
+sS'implement'
+p100
+F0.0058423811727437444
+sS'validate ... model'
+p101
+F0.0072203670997809111
 ss.

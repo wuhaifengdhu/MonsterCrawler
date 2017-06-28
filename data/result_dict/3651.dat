@@ -12,11 +12,11 @@ aS'analytics'
 p7
 aS'engineering'
 p8
-aS'c++'
-p9
 aS'data mining'
-p10
+p9
 aS'econometrics'
+p10
+aS'statistics'
 p11
 aS'java'
 p12
@@ -30,119 +30,112 @@ aS'mathematics'
 p16
 aS'distributed computing'
 p17
-aS'python'
+aS'shiny'
 p18
-aS'data scientist'
+aS'python'
 p19
-aS'sql'
+aS'data scientist'
 p20
-aS'spark'
+aS'statistical modeling'
 p21
-aS'php'
+aS'sql'
 p22
-aS'data'
+aS'modeling'
 p23
-aS'science'
+aS'spark'
 p24
-aS'programming'
+aS'php'
 p25
-aS'analysis'
+aS'data'
 p26
-aS'machine learning'
+aS'c'
+aS'science'
 p27
-aS'h2o'
+aS'programming'
 p28
+aS'analysis'
+p29
+aS'machine learning'
+p30
+aS'h2o'
+p31
 aS'r'
 aS'healthcare'
-p29
-aS'shiny'
-p30
-aS'scripting'
-p31
-aS'predictive analytics'
 p32
-asS'working-year'
+aS'physics'
 p33
-(lp34
-V(2, 5]
+aS'scripting'
+p34
+aS'predictive analytics'
 p35
-asS'major'
+asS'working-year'
 p36
 (lp37
-S'business'
+V(2, 5]
 p38
-aS'computing'
+asS'major'
 p39
-aS'science'
-p40
-aS'data science'
+(lp40
+VStatistics
 p41
-aS'data mining'
+aVBusiness
 p42
-aS'statistic'
+aVData Science
 p43
-aS'machine learning'
+aVEngineering
 p44
-aS'analytics'
+aVComputer Science
 p45
-aS'engineering'
+aVMathematics
 p46
-aS'design'
+aVPhysics
 p47
-aS'computer science'
-p48
-aS'applied math'
-p49
-aS'communication'
-p50
-aS'mathematics'
-p51
-aS'phd'
-p52
-aS'econometrics'
-p53
-aVphysic
-p54
-aS'predictive analytics'
-p55
 asS'education'
-p56
-(lp57
-VDoctor
-p58
+p48
+(lp49
+VBachelor
+p50
+aVMaster
+p51
+aVDoctor
+p52
 asS'responsibility'
-p59
-(lp60
+p53
+(lp54
 S'development'
-p61
+p55
 aS'large data set'
-p62
+p56
 aS'product'
-p63
+p57
 aS'prototype'
-p64
+p58
 aVtest hypothesis
-p65
+p59
 aS'business problem'
-p66
+p60
 aS'understand'
-p67
-aVinsight
-p68
+p61
+aS'insight'
+p62
 aS'communicate'
-p69
+p63
 aS'analysis'
-p70
+p64
 aS'design'
-p71
+p65
 aS'solve problem'
-p72
+p66
 aS'data mining'
-p73
+p67
 aS'product decision'
-p74
-aS'model'
-p75
+p68
+aS'modeling'
+p69
 aS'engineering design'
-p76
+p70
+aS'model'
+p71
+aS'test ... model'
+p72
 as.

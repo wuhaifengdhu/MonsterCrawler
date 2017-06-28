@@ -4,19 +4,19 @@ p2
 (lp3
 S'integration'
 p4
-aS'c++'
+aS'hive'
 p5
-aS'analysis'
-p6
 aS'clustering'
-p7
+p6
 aS'visualization'
-p8
+p7
 aS'java'
-p9
+p8
 aS'big data'
-p10
+p9
 aS'hadoop'
+p10
+aS'innovation'
 p11
 aS'mathematics'
 p12
@@ -36,7 +36,8 @@ aS'data'
 p19
 aS'software development'
 p20
-aS'hive'
+aS'c'
+aS'analysis'
 p21
 aS'machine learning'
 p22
@@ -51,45 +52,43 @@ p26
 asS'working-year'
 p27
 (lp28
-V[0]
+S'[0]'
 p29
 asS'major'
 p30
 (lp31
-S'mathematics'
+VMathematics
 p32
-aS'design'
+aVComputer Science
 p33
-aS'business'
+aVBusiness
 p34
-aS'big data'
-p35
-aS'machine learning'
-p36
 asS'education'
-p37
-(lp38
+p35
+(lp36
 VMaster
-p39
+p37
 aVDoctor
-p40
+p38
 asS'responsibility'
-p41
-(lp42
+p39
+(lp40
 S'development'
-p43
+p41
+aS'decision-making'
+p42
 aS'analysis'
-p44
+p43
 aS'statistical method'
-p45
+p44
 aS'understand'
-p46
+p45
 aS'modeling'
-p47
+p46
 aS'design'
-p48
+p47
 aS'model'
-p49
+p48
 aS'evaluation'
-p50
+p49
 as.

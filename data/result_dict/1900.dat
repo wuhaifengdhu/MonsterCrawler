@@ -55,61 +55,41 @@ p28
 asS'working-year'
 p29
 (lp30
-V[0]
+S'[0]'
 p31
 asS'major'
 p32
 (lp33
-S'information'
+VMathematics
 p34
-aS'management'
+aVEngineering
 p35
-aS'business'
+aVComputer Science
 p36
-aS'science'
+aVBusiness
 p37
-aS'statistic'
+aVManagement Science and Engineering
 p38
-aS'machine learning'
-p39
-aS'artificial intelligence machine learning'
-p40
-aS'engineering'
-p41
-aS'design'
-p42
-aS'artificial intelligence'
-p43
-aS'machine learning artificial intelligence'
-p44
-aS'applied math'
-p45
-aS'law'
-p46
-aVphysic
-p47
-aS'computer science'
-p48
 asS'education'
-p49
-(lp50
+p39
+(lp40
 VBachelor
-p51
+p41
 aVMaster
-p52
+p42
 asS'responsibility'
-p53
-(lp54
+p43
+(lp44
 S'development'
-p55
+p45
 aS'information'
-p56
+p46
 aS'analysis'
-p57
+p47
 aS'understand'
-p58
+p48
 aS'recommendation'
-p59
+p49
 aS'design'
-p60
+p50
 as.

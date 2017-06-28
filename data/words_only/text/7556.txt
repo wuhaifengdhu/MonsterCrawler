@@ -1,5 +1,5 @@
-skills: {'c': 1, 'management': 1, 'nosql': 1, 'big data': 1, 'python': 1, 'programming': 1, 'data science': 1, 'philosophy': 1, 'data scientist': 1, 'strategy': 1, 'r': 1, 'machine learning': 1, 'computer science': 1, 'sql': 1, 'innovation': 1, 'teaching': 1, 'education': 1, 'data': 1, 'data analytics': 1, 'data management': 1, 'architecture': 1}
-working-year: {u'(20, 30)': 1, u'(2, 5]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'big data': 1, 'data science': 1, 'philosophy': 1, 'machine learning': 1, 'design': 1, 'computer science': 1, 'data analytics': 1}
-education: {u'Bachelor': 1, u'Master': 1, u'Doctor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'pattern': 1, 'communicate': 1, 'design': 1}
+skills: {'c': 0.004498640014021933, 'nosql': 0.009844772893045044, 'big data': 0.004578147936556358, 'python': 0.0018750054415585108, 'science': 0.002528898878396016, 'data science': 0.004326765919642444, 'philosophy': 0.017842917209303987, 'data scientist': 0.0038106894430355335, 'machine learning': 0.0023579774166692063, 'r': 0.0019963752036472704, 'computer science': 0.005057493752472017, 'sql': 0.002453035463428227, 'innovation': 0.0069633981012040425, 'programming': 0.003965162715233367, 'teaching': 0.08280894711941193, 'education': 0.015098034171318483, 'data': 0.0042662405710242055, 'data analytics': 0.007346484465776249, 'data management': 0.009891791743198815, 'architecture': 0.007866958714693015}
+working-year: {u'(2, 5]': 0.004456634634644373}
+major: {u'Data Science': 0.0036952841100901536, u'Computer Science': 0.0032566753465906395, u'Business': 0.003891058802784584, u'Management Science and Engineering': 0.004638649418952851}
+education: {u'Bachelor': 0.0032783411067262833, u'Master': 0.0026161175727488378, u'Doctor': 0.003917920042361396}
+responsibility: {'development': 0.00871194965765553, 'pattern': 0.009419392358180382, 'product': 0.004838103923445132, 'communicate': 0.007216701015401411, 'information': 0.0049895870486668875}

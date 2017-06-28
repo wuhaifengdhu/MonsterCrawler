@@ -2,165 +2,162 @@
 S'skills'
 p2
 (dp3
-S'defense'
+S'probability'
 p4
-I1
-sS'security clearance'
-p5
-I1
-sS'laboratory'
-p6
-I1
-sS'education'
-p7
-I1
-sS'quantitative analysis'
-p8
-I1
-sS'research'
-p9
-I1
-sS'access'
-p10
-I1
-sS'computer vision'
-p11
-I1
-sS'computer science'
-p12
-I1
-sS'innovation'
-p13
-I1
-sS'mathematics'
-p14
-I1
-sS'artificial intelligence'
-p15
-I1
-sS'data analysis'
-p16
-I1
-sS'government'
-p17
-I1
-sS'data scientist'
-p18
-I1
-sS'statistical modeling'
-p19
-I1
-sS'tensorflow'
-p20
-I1
-sS'modeling'
-p21
-I1
-sS'software development'
-p22
-I1
-sS'c'
-I1
-sS'national security'
-p23
-I1
+F0.0081611923610620182
 sS'programming'
-p24
-I1
-sS'c++'
-p25
-I1
-sS'machine learning'
-p26
-I1
-sS'organization'
-p27
-I1
-sS'security'
-p28
-I1
-sS'data analytics'
-p29
-I1
-ssS'working-year'
-p30
-(dp31
-V(2, 5]
-p32
-I1
-ssS'major'
-p33
-(dp34
-S'information'
-p35
-I1
-sS'applied physics'
-p36
-I1
-sS'business'
-p37
-I1
-sS'machine learning'
-p38
-I1
-sS'artificial intelligence'
-p39
-I1
-sS'machine learning artificial intelligence'
-p40
-I1
-sS'statistic'
-p41
-I1
-sS'mathematics'
-p42
-I1
-sS'computer science mathematics'
-p43
-I1
-sS'ee computer science'
-p44
-I1
-sS'data analytics'
-p45
-I1
-sVphysic
-p46
-I1
+p5
+F0.005163069015620028
+sS'analytics'
+p6
+F0.0020368558828654021
+sS'defense'
+p7
+F0.01654163069755615
+sS'laboratory'
+p8
+F0.029615211871692429
+sS'education'
+p9
+F0.0049148167442933707
+sS'quantitative analysis'
+p10
+F0.017864179587917708
+sS'research'
+p11
+F0.0059941007610894957
+sS'access'
+p12
+F0.0054319953749331499
+sS'computer vision'
+p13
+F0.0082783092814665664
 sS'computer science'
-p47
-I1
+p14
+F0.0032927008505555517
+sS'innovation'
+p15
+F0.0045335472415333105
+sS'mathematics'
+p16
+F0.0042807805200838541
+sS'artificial intelligence'
+p17
+F0.0064815376114163116
+sS'data analysis'
+p18
+F0.0034748524940647896
+sS'government'
+p19
+F0.0061056663129483964
+sS'python'
+p20
+F0.0012207295380638548
+sS'data scientist'
+p21
+F0.0024809640870348437
+sS'statistical modeling'
+p22
+F0.0041952354102819589
+sS'tensorflow'
+p23
+F0.010105341507556051
+sS'modeling'
+p24
+F0.00190198053635024
+sS'data'
+p25
+F0.00027775524092382416
+sS'software development'
+p26
+F0.0049653316582512234
+sS'c'
+F0.0029288569646325467
+sS'national security'
+p27
+F0.009842279222042347
+sS'science'
+p28
+F0.0016464493868714107
+sS'scikit-learn'
+p29
+F0.0084015932110245647
+sS'security clearance'
+p30
+F0.0085569566118474695
+sS'machine learning'
+p31
+F0.0015351703087448229
+sS'organization'
+p32
+F0.00412923615756834
+sS'security'
+p33
+F0.015353752803651933
+sS'physics'
+p34
+F0.01139617975384854
+sS'data analytics'
+p35
+F0.004782957099498354
+ssS'working-year'
+p36
+(dp37
+V(2, 5]
+p38
+F0.002901509200072917
+ssS'major'
+p39
+(dp40
+VMathematics
+p41
+F0.0040146897648300978
+sVData Science
+p42
+F0.0024058289990750883
+sVPhysics
+p43
+F0.0061445716655739828
+sVComputer Science
+p44
+F0.0021202710687405098
+sVBusiness
+p45
+F0.0025332888692602205
 ssS'education'
-p48
-(dp49
+p46
+(dp47
 VBachelor
+p48
+F0.0021343766455969712
+sVMaster
+p49
+F0.0017032334548575572
+sVDoctor
 p50
-I1
+F0.0025507769830830631
 ssS'responsibility'
 p51
 (dp52
 S'development'
 p53
-I1
+F0.0056719484890591036
 sS'information'
 p54
-I1
+F0.0032484899286402682
 sS'product'
 p55
-I1
+F0.0031498662546083061
 sS'data analysis'
 p56
-I1
-sS'statistical model'
-p57
-I1
+F0.0034748524940647896
 sS'modeling'
-p58
-I1
+p57
+F0.00190198053635024
 sS'prototype'
-p59
-I1
+p58
+F0.0073844763783365054
 sS'quantitative analysis'
-p60
-I1
+p59
+F0.017864179587917708
 ss.

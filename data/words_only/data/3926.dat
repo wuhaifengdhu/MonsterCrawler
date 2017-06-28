@@ -2,127 +2,118 @@
 S'skills'
 p2
 (dp3
-S'solver'
+S'statistics'
 p4
-I1
-sS'ip'
+F0.0039181212386664053
+sS'solver'
 p5
-I1
-sS'data science'
+F0.018130171528262327
+sS'ip'
 p6
-I1
-sS'scrum'
+F0.019156822205831456
+sS'data science'
 p7
-I1
-sS'data scientist'
+F0.0050539534691621812
+sS'scrum'
 p8
-I1
-sS'engineering'
+F0.014274422539199567
+sS'data scientist'
 p9
-I1
-sS'root'
+F0.004451141450268396
+sS'sales'
 p10
-I1
-sS'writing'
+F0.013968927479794134
+sS'root'
 p11
-I1
-sS'thought leadership'
+F0.016456049711962874
+sS'writing'
 p12
-I1
-sS'leadership'
+F0.0094414299415230794
+sS'thought leadership'
 p13
-I1
-sS'computer science'
+F0.017233944956004717
+sS'leadership'
 p14
-I1
-sS'agile'
+F0.0069428933664026134
+sS'computer science'
 p15
-I1
-sS'mathematics'
+F0.0059074927024673138
+sS'agile'
 p16
-I1
-sS'machine learning'
+F0.0091751675323508784
+sS'mathematics'
 p17
-I1
-sS'data'
+F0.007680223874268091
+sS'machine learning'
 p18
-I1
-ssS'working-year'
+F0.002754276142159829
+sS'data'
 p19
-(dp20
-V[0]
+F0.001993302317218032
+sS'engineering'
+p20
+F0.010292897286333232
+sS'science'
 p21
-I1
-ssS'major'
+F0.0029539238999751779
+ssS'working-year'
 p22
 (dp23
-S'business'
+S'[0]'
 p24
-I1
-sS'data science'
+F0.0092277929854805985
+ssS'major'
 p25
-I1
-sS'machine learning statistics'
-p26
-I1
-sS'phd'
+(dp26
+VStatistics
 p27
-I1
-sS'statistics computer science'
+F0.0075693477726389916
+sVBusiness
 p28
-I1
-sS'engineering'
+F0.0045450182654374546
+sVData Science
 p29
-I1
-sS'design'
+F0.0043163402630464814
+sVEngineering
 p30
-I1
-sS'computer science'
+F0.0094637770032215442
+sVComputer Science
 p31
-I1
-sS'statistic'
+F0.0038040157409756207
+sVMathematics
 p32
-I1
-sS'mathematics'
-p33
-I1
-sS'machine learning'
-p34
-I1
-sS'data science engineering'
-p35
-I1
+F0.0072028257545481171
 ssS'education'
+p33
+(dp34
+VDoctor
+p35
+F0.0045763939990607896
+ssS'responsibility'
 p36
 (dp37
-VDoctor
-p38
-I1
-ssS'responsibility'
-p39
-(dp40
 S'development'
-p41
-I1
+p38
+F0.0050880714387147837
 sS'product'
-p42
-I1
+p39
+F0.0056512306332678428
 sS'business problem'
-p43
-I1
+p40
+F0.011967019168616153
 sS'communicate'
-p44
-I1
+p41
+F0.016859183884719259
 sS'improvement'
-p45
-I1
+p42
+F0.011286581917391209
 sS'design'
-p46
-I1
+p43
+F0.006136213487472595
 sS'report'
-p47
-I1
+p44
+F0.008719648824253903
 sS'understand'
-p48
-I1
+p45
+F0.0088305874514465355
 ss.

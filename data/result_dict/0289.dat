@@ -38,104 +38,84 @@ aS'mathematics'
 p20
 aS'finance'
 p21
-aS'data scientist'
+aS'innovation'
 p22
-aS'business analytics'
+aS'data scientist'
 p23
-aS'leadership'
+aS'business analytics'
 p24
-aS'data'
+aS'leadership'
 p25
-aS'property casualty insurance'
+aS'statistics'
 p26
-aS'quantitative research'
+aS'data'
 p27
-aS'economics'
+aS'quantitative research'
 p28
-aS'engineering'
+aS'economics'
 p29
-aS'analysis'
+aS'engineering'
 p30
-aS'science'
+aS'analysis'
 p31
-aS'organization'
+aS'science'
 p32
-asS'working-year'
+aS'organization'
 p33
-(lp34
-V(0, 2]
+aS'security'
+p34
+aS'physics'
 p35
-asS'major'
+asS'working-year'
 p36
 (lp37
-S'information'
+V(0, 2]
 p38
-aS'management'
+asS'major'
 p39
-aS'finance'
-p40
-aS'physics mathematics'
+(lp40
+VStatistics
 p41
-aS'mathematics economics'
+aVBusiness
 p42
-aS'science'
+aVData Science
 p43
-aS'economics'
+aVEconomics
 p44
-aS'communication'
+aVEngineering
 p45
-aS'economics computer science'
+aVComputer Science
 p46
-aS'mathematics'
+aVMathematics
 p47
-aS'business analytics'
+aVPhysics
 p48
-aS'analytics'
+aVManagement Science and Engineering
 p49
-aS'engineering'
-p50
-aS'quantitative finance'
-p51
-aS'computer science'
-p52
-aS'statistic'
-p53
-aS'accounting'
-p54
-aS'business'
-p55
-aS'finance accounting'
-p56
-aVphysic
-p57
 asS'education'
-p58
-(lp59
+p50
+(lp51
 VBachelor
-p60
+p52
 asS'responsibility'
-p61
-(lp62
+p53
+(lp54
 S'development'
-p63
+p55
 aS'information'
-p64
+p56
 aS'product'
-p65
-aS'business problem'
-p66
-aVinsight
-p67
+p57
+aS'insight'
+p58
 aS'communicate'
-p68
+p59
 aS'analysis'
-p69
-aS'statistical model'
-p70
-aS'understand'
-p71
-aS'recommendation'
-p72
+p60
 aS'improvement'
-p73
+p61
+aS'understand'
+p62
+aS'recommendation'
+p63
 as.

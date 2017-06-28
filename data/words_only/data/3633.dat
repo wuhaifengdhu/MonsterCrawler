@@ -4,173 +4,179 @@ p2
 (dp3
 S'data mining'
 p4
-I1
+F0.0087324252209141466
 sS'analytics'
 p5
-I1
+F0.014316666040881098
 sS'engineering'
 p6
-I1
-sS'hive'
+F0.010081109276326376
+sS'data-driven decision making'
 p7
-I1
+F0.02251503622924176
 sS'mysql'
 p8
-I1
-sS'quantitative analysis'
+F0.0097701972291655229
+sS'analysis'
 p9
-I1
-sS'programming languages'
-p10
-I1
-sS'hadoop'
-p11
-I1
-sS'perl'
-p12
-I1
-sS'vertica'
-p13
-I1
-sS'computer science'
-p14
-I1
-sS'python'
-p15
-I1
-sS'data scientist'
-p16
-I1
-sS'leadership'
-p17
-I1
-sS'scripting'
-p18
-I1
-sS'sql'
-p19
-I1
-sS'php'
-p20
-I1
-sS'data'
-p21
-I1
-sS'software engineering'
-p22
-I1
-sS'programming'
-p23
-I1
-sS'analysis'
-p24
-I1
-sS'product launch'
-p25
-I1
-sS'dashboard'
-p26
-I1
-sS'oracle'
-p27
-I1
-sS'root'
-p28
-I1
-sS'etl'
-p29
-I1
-sS'data-driven decision making'
-p30
-I1
-ssS'working-year'
-p31
-(dp32
-V(2, 5]
-p33
-I1
-ssS'major'
-p34
-(dp35
-S'software engineering'
-p36
-I1
-sS'business'
-p37
-I1
-sS'statistic'
-p38
-I1
-sS'analytics'
-p39
-I1
-sS'engineering'
-p40
-I1
-sS'computer science'
-p41
-I1
-sS'data mining'
-p42
-I1
-sVphysic
-p43
-I1
-ssS'education'
-p44
-(dp45
-S'Bachelor'
-p46
-I1
-ssS'responsibility'
-p47
-(dp48
-S'development'
-p49
-I1
-sS'large data set'
-p50
-I1
-sS'product'
-p51
-I1
-sS'exploratory analysis'
-p52
-I1
+F0.004229860762396666
 sS'quantitative analysis'
+p10
+F0.03139096577794593
+sS'physics'
+p11
+F0.010012692911303142
+sS'statistics'
+p12
+F0.0038375014600930232
+sS'programming languages'
+p13
+F0.019617123813995968
+sS'hadoop'
+p14
+F0.0052872695530846291
+sS'perl'
+p15
+F0.011794447507363658
+sS'vertica'
+p16
+F0.021130383743347858
+sS'computer science'
+p17
+F0.0057859393546799212
+sS'python'
+p18
+F0.0042901359074342879
+sS'data scientist'
+p19
+F0.0043595541776291291
+sS'scripting'
+p20
+F0.010012692911303142
+sS'sql'
+p21
+F0.0056127066570621168
+sS'php'
+p22
+F0.013352941743955475
+sS'data'
+p23
+F0.0019522878662464678
+sS'software engineering'
+p24
+F0.010708078142856016
+sS'science'
+p25
+F0.0028931435728151954
+sS'programming'
+p26
+F0.0045362766865632755
+sS'hive'
+p27
+F0.0085833508209465295
+sS'dashboard'
+p28
+F0.014429633617775908
+sS'oracle'
+p29
+F0.010802557607248239
+sS'root'
+p30
+F0.016117447866037714
+sS'etl'
+p31
+F0.01172742664203779
+ssS'working-year'
+p32
+(dp33
+V(2, 5]
+p34
+F0.0050985367425149617
+ssS'major'
+p35
+(dp36
+VStatistics
+p37
+F0.0074135998760826351
+sVBusiness
+p38
+F0.0044514993710868898
+sVData Science
+p39
+F0.0042275266773870897
+sVEngineering
+p40
+F0.0092690490813445593
+sVComputer Science
+p41
+F0.0037257438121489623
+sVPhysics
+p42
+F0.010797251445267863
+ssS'education'
+p43
+(dp44
+VBachelor
+p45
+F0.0037505301550201926
+ssS'responsibility'
+p46
+(dp47
+S'product leadership'
+p48
+F0.026285769595683552
+sS'large data set'
+p49
+F0.012940152820299863
+sS'product'
+p50
+F0.060884451843190177
+sS'exploratory analysis'
+p51
+F0.022081455783633443
+sS'data infrastructure'
+p52
+F0.017815083854567173
+sS'development'
 p53
-I1
-sS'identify trend'
+F0.0049833786107576902
+sS'insight'
 p54
-I1
-sVinsight
-p55
-I1
+F0.0075510014650596105
 sS'analysis'
-p56
-I1
-sS'understand'
-p57
-I1
-sS'solve problem'
-p58
-I1
-sS'data mining'
-p59
-I1
-sS'report'
-p60
-I1
-sS'product launch'
-p61
-I1
-sS'product decision'
-p62
-I1
+p55
+F0.004229860762396666
 sS'presentation'
+p56
+F0.020274521335881538
+sS'drive ... decision'
+p57
+F0.016609393986539565
+sS'understand'
+p58
+F0.0086488881211698575
+sS'solve problem'
+p59
+F0.016926100704657127
+sS'data mining'
+p60
+F0.0087324252209141466
+sS'report'
+p61
+F0.0085402321817795446
+sS'identify ... trend'
+p62
+F0.017671683591359941
+sS'product decision'
 p63
-I1
-sS'model'
+F0.024772501972952988
+sS'quantitative analysis'
 p64
-I1
+F0.03139096577794593
+sS'model'
+p65
+F0.006367945851447082
+sS'decision making'
+p66
+F0.013442728600532979
 ss.

@@ -1,5 +1,5 @@
-skills: {'java': 1, 'finance': 1, 'scala': 1, 'sql': 1, 'science': 1, 'energy': 1, 'oozie': 1, 'data scientist': 1, 'hadoop': 1, 'strategy': 1, 'analytics': 1, 'r': 1, 'aerospace': 1, 'automotive': 1, 'organization': 1, 'spark': 1, 'education': 1, 'data': 1, 'hbase': 1, 'data quality': 1, 'crm': 1}
-working-year: {u'(2, 5]': 1}
-major: {'finance': 1, 'business': 1, 'science': 1, 'phd': 1, 'analytics': 1, 'statistic': 1}
-education: {u'Bachelor': 1, u'Master': 1, u'Doctor': 1}
-responsibility: {'report': 1, 'development': 1, u'insight': 1, 'transformation': 1}
+skills: {'energy': 0.014351140958372484, 'sql': 0.0031718319015490563, 'analytics': 0.008090581041707224, 'hbase': 0.01557329344111661, 'education': 0.01952210930058855, 'statistics': 0.008674538184210275, 'java': 0.005764032407759458, 'scala': 0.011351471570691333, 'hadoop': 0.005975844192556115, 'strategy': 0.007325634563845744, 'finance': 0.012349516531086922, 'python': 0.002424425640712865, 'automotive': 0.0395105903938152, 'data quality': 0.0164411072706336, 'aerospace': 0.022656281417589186, 'oozie': 0.023665876811270664, 'spark': 0.00784249127123562, 'data': 0.003861443791261909, 'science': 0.0032699250613678716, 'r': 0.002581359565646238, 'organization': 0.008200855066426423, 'crm': 0.015297153331147898}
+working-year: {u'(2, 5]': 0.005762532225261095}
+major: {u'Data Science': 0.004778088291186338, u'Economics': 0.007631495569881213, u'Statistics': 0.008379091952967814, u'Business': 0.005031229521740066}
+education: {u'Bachelor': 0.004238971291487938, u'Master': 0.0033827008615077993, u'Doctor': 0.005065961729192874}
+responsibility: {'report': 0.009652448465918274, 'development': 0.005632376755414505, 'insight': 0.008534387702369698, 'transformation': 0.01462538202480403}

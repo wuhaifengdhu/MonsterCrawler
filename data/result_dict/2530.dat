@@ -2,47 +2,47 @@
 S'skills'
 p2
 (lp3
-S'research design'
+S'nosql'
 p4
-aS'r d'
-p5
-aS'nosql'
-p6
 aS'intelligence'
-p7
+p5
 aS'tableau'
-p8
-aS'engineering'
-p9
-aS'hive'
-p10
-aS'problem solving'
-p11
+p6
 aS'go'
-p12
+p7
+aS'engineering'
+p8
+aS'hive'
+p9
+aS'problem solving'
+p10
+aS'sas'
+p11
 aS'ic'
+p12
+aS'spss'
 p13
-aS'machine learning'
-p14
 aS'research'
+p14
+aS'statistical tools'
 p15
 aS'visualization'
 p16
-aS'management'
+aS'statistics'
 p17
-aS'java'
+aS'gis'
 p18
 aS'probability'
 p19
-aS'critical thinking'
+aS'scientific computing'
 p20
-aS'r programming'
+aS'critical thinking'
 p21
 aS'hadoop'
 p22
 aS'perl'
 p23
-aS'access'
+aS'mahout'
 p24
 aS'computer science'
 p25
@@ -60,35 +60,36 @@ aS'matlab'
 p31
 aS'data analysis'
 p32
-aS'government'
-p33
-aS'python'
-p34
-aS'data scientist'
-p35
-aS'sql'
-p36
-aS'foreign policy'
-p37
-aS'modeling'
-p38
-aS'pig'
-p39
-aS'data'
-p40
-aS'research development r d'
-p41
-aS'architecture'
-p42
 aS'hbase'
-p43
+p33
+aS'government'
+p34
+aS'python'
+p35
+aS'data scientist'
+p36
+aS'management'
+p37
+aS'sql'
+p38
+aS'foreign policy'
+p39
+aS'modeling'
+p40
+aS'pig'
+p41
+aS'data'
+p42
+aS'c'
 aS'national security'
+p43
+aS'java'
 p44
-aS'spatial analysis'
-p45
 aS'science'
-p46
+p45
 aS'applied mathematics'
+p46
+aS'access'
 p47
 aS'programming'
 p48
@@ -96,12 +97,12 @@ aS'mapreduce'
 p49
 aS'analysis'
 p50
-aS'spss'
+aS'machine learning'
 p51
 aS'r'
-aS'scientific computing'
+aS'algorithms'
 p52
-aS'statistical tools'
+aS'architecture'
 p53
 aS'security'
 p54
@@ -113,68 +114,48 @@ p57
 asS'major'
 p58
 (lp59
-S'information'
+VStatistics
 p60
-aS'management'
+aVBusiness
 p61
-aS'business'
+aVEngineering
 p62
-aS'computing'
+aVComputer Science
 p63
-aS'science'
+aVMathematics
 p64
-aS'applied mathematics'
+aVManagement Science and Engineering
 p65
-aS'scientific computing'
-p66
-aS'machine learning'
-p67
-aS'engineering'
-p68
-aS'design'
-p69
-aS'computational social science'
-p70
-aS'statistic'
-p71
-aS'mathematics'
-p72
-aS'computer science mathematics'
-p73
-aS'computer science machine learning'
-p74
-aS'computer science'
-p75
 asS'education'
-p76
-(lp77
-S'Bachelor'
-p78
+p66
+(lp67
+VBachelor
+p68
 asS'responsibility'
-p79
-(lp80
+p69
+(lp70
 S'development'
-p81
-aS'large data set'
-p82
-aS'data analysis'
-p83
+p71
 aS'information'
-p84
+p72
+aS'data analysis'
+p73
+aS'large data set'
+p74
 aS'pattern'
-p85
+p75
 aS'communicate'
-p86
+p76
 aS'analysis'
-p87
+p77
 aS'analytic'
-p88
+p78
 aS'design'
-p89
+p79
 aS'modeling'
-p90
+p80
 aS'model'
-p91
+p81
 aS'prototype'
-p92
+p82
 as.

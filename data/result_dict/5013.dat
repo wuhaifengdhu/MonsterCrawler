@@ -12,7 +12,7 @@ aS'testing'
 p7
 aS'pig'
 p8
-aS'cluster'
+aS'analytics'
 p9
 aS'business intelligence'
 p10
@@ -20,153 +20,148 @@ aS'product strategy'
 p11
 aS'hive'
 p12
-aS'strategy'
+aS'sas'
 p13
-aS'regression'
+aS'strategy'
 p14
-aS'hdfs'
+aS'regression'
 p15
-aS'management'
+aS'hdfs'
 p16
-aS'java'
+aS'statistics'
 p17
-aS'research'
+aS'java'
 p18
-aS'optimization'
+aS'research'
 p19
-aS'mixed model'
+aS'optimization'
 p20
-aS'intelligence'
+aS'mixed model'
 p21
-aS'advanced analytics'
+aS'intelligence'
 p22
-aS'operations research'
+aS'advanced analytics'
 p23
-aS'simulation'
+aS'operations research'
 p24
-aS'text mining'
+aS'simulation'
 p25
-aS'factor analysis'
+aS'text mining'
 p26
-aS'theory'
+aS'factor analysis'
 p27
-aS'python'
+aS'theory'
 p28
-aS'marketing'
+aS'python'
 p29
-aS'data scientist'
+aS'marketing'
 p30
-aS'multivariate testing'
+aS'processing'
 p31
-aS'statistical modeling'
+aS'data scientist'
 p32
-aS'modeling'
+aS'multivariate testing'
 p33
-aS'spark'
+aS'management'
 p34
-aS'data'
+aS'statistical modeling'
 p35
-aS'project management'
+aS'modeling'
 p36
-aS'training'
+aS'spark'
 p37
-aS'analytics'
+aS'data'
 p38
-aS'science'
+aS'project management'
 p39
-aS'economics'
+aS'a'
+aS'training'
 p40
-aS'business strategy'
+aS'cluster'
 p41
-aS'analysis'
+aS'physics'
 p42
-aS'spss'
+aS'economics'
 p43
-aS'r'
-aS'cluster analysis'
+aS'business strategy'
 p44
-aS'predictive analytics'
+aS'analysis'
 p45
-asS'working-year'
+aS'spss'
 p46
-(lp47
-V(0, 2]
+aS'r'
+aS'algorithms'
+p47
+aS'cluster analysis'
 p48
-aV(2, 5]
+aS'predictive analytics'
 p49
-asS'major'
+asS'working-year'
 p50
 (lp51
-S'science'
+V(0, 2]
 p52
-aS'management'
+aV(2, 5]
 p53
-aS'business'
+asS'major'
 p54
-aS'biostatistics'
-p55
-aS'statistics economics'
+(lp55
+VStatistics
 p56
-aS'marketing'
+aVBusiness
 p57
-aS'decision sciences'
+aVData Science
 p58
-aS'economics'
+aVEconomics
 p59
-aS'phd'
+aVComputer Science
 p60
-aS'analytics'
+aVBiological Engineering
 p61
-aS'operations research'
+aVPhysics
 p62
-aS'project management'
+aVOperations Research
 p63
-aS'statistics operations research'
+aVManagement Science and Engineering
 p64
-aS'statistic'
-p65
-aS'advanced analytics'
-p66
-aVphysic
-p67
-aS'predictive analytics'
-p68
 asS'education'
+p65
+(lp66
+VMaster
+p67
+aVDoctor
+p68
+asS'responsibility'
 p69
 (lp70
-VMaster
-p71
-aVDoctor
-p72
-asS'responsibility'
-p73
-(lp74
 S'development'
-p75
+p71
 aS'product'
-p76
-aVinsight
-p77
+p72
+aS'processing'
+p73
+aS'insight'
+p74
 aS'collect data'
-p78
+p75
 aS'simulation'
-p79
+p76
 aS'analytic'
-p80
+p77
 aS'optimization'
-p81
+p78
 aS'understand'
-p82
+p79
 aS'analysis'
-p83
+p80
 aS'recommendation'
-p84
+p81
 aS'modeling'
-p85
+p82
 aS'model'
-p86
+p83
 aS'statistical model'
-p87
+p84
 aS'presentation'
-p88
+p85
 as.

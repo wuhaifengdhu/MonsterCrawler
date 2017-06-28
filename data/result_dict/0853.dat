@@ -4,7 +4,7 @@ p2
 (lp3
 S'communication'
 p4
-aS'analytics'
+aS'cluster'
 p5
 aS'engineering'
 p6
@@ -16,117 +16,102 @@ aS'qlikview'
 p9
 aS'visualization'
 p10
-aS'big data'
+aS'statistics'
 p11
-aS'storage'
+aS'gis'
 p12
-aS'tableau'
+aS'big data'
 p13
-aS'research'
+aS'storage'
 p14
-aS'computer science'
+aS'tableau'
 p15
-aS'stata'
+aS'research'
 p16
-aS'philosophy'
+aS'computer science'
 p17
-aS'python'
+aS'stata'
 p18
-aS'processing'
+aS'philosophy'
 p19
-aS'data scientist'
+aS'python'
 p20
-aS'data'
+aS'processing'
 p21
-aS'science'
+aS'data scientist'
 p22
-aS'economics'
+aS'data'
 p23
-aS'programming'
+aS'a'
+aS'analytics'
 p24
-aS'machine learning'
+aS'science'
 p25
+aS'economics'
+p26
+aS'programming'
+p27
+aS'machine learning'
+p28
 aS'r'
 aS'fixed income'
-p26
-aS'data analytics'
-p27
-asS'working-year'
-p28
-(lp29
-V(2, 5]
+p29
+aS'physics'
 p30
-asS'major'
-p31
-(lp32
-S'science'
-p33
-aS'economics'
-p34
-aS'business'
-p35
-aS'big data'
-p36
-aS'economics computer science'
-p37
-aS'data analytics business'
-p38
-aS'philosophy'
-p39
-aS'statistic'
-p40
-aS'computer science statistics'
-p41
-aS'machine learning'
-p42
-aS'analytics'
-p43
-aS'engineering'
-p44
-aS'design'
-p45
-aVphysic
-p46
-aS'data mining'
-p47
-aS'communication'
-p48
-aS'computer science'
-p49
 aS'data analytics'
-p50
-aS'data mining machine learning'
-p51
+p31
+asS'working-year'
+p32
+(lp33
+V(2, 5]
+p34
+asS'major'
+p35
+(lp36
+VStatistics
+p37
+aVBusiness
+p38
+aVData Science
+p39
+aVEconomics
+p40
+aVEngineering
+p41
+aVComputer Science
+p42
+aVPhysics
+p43
 asS'education'
-p52
-(lp53
+p44
+(lp45
 VBachelor
-p54
+p46
 aVDoctor
-p55
+p47
 asS'responsibility'
-p56
-(lp57
+p48
+(lp49
 S'processing'
-p58
+p50
 aVtest hypothesis
-p59
+p51
 aS'business problem'
-p60
-aVinsight
-p61
+p52
+aS'insight'
+p53
 aS'communicate'
-p62
+p54
 aS'design'
-p63
+p55
 aS'data mining'
-p64
+p56
 aS'understand'
-p65
+p57
 aS'model'
-p66
+p58
 aS'build solution'
-p67
+p59
 aS'extract'
-p68
+p60
 as.

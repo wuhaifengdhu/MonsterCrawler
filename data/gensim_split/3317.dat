@@ -1,362 +1,687 @@
-job_summary
-sr
-data_scientist
-job
-responsible
-executing
-full-scope_advanced
-analytic_technique
-objective
-creating
-causal_inference
-prediction_recommendation
-improvement
-business
-process
-metric_monitor
-improvement
-position_requires
-strong
-command
-technique
-algorithm
-well
-demonstrated
-practical
-ability
-determine
-invest_time
-synthesize
-actionable
-finding
-across
-diverse
-assignment
-present_finding
-audience_varying
-level
-background
-analytics
-major_duty
-responsibility
-plan
-lead
-execution
-analytics
-life-cycle
-leveraging
-significant
-experience
-leading
-type
-work
-previous
-role
-survey
-varied
-data
-source
-relational_database
-hadoop
-flat_file
-external
-source
-analytic
-relevance
-execute
-full-scope_advanced
-analytic_technique
-perform
-problem_formulation
-requirement
-analysis
-planning
-responsible
-data
-surveying
-profiling
-pre-processing
-model
-data
-management
-validation
-eg
-holdout
-cross-validation
-select
-algorithm
-execution
-responsible
-interpretation_result
-causal_inference
-predictive
-effectiveness
-synthesize
-appropriate
-recommendation
-action
-change
-present_finding
-suggested
-action
-change
-broad_audience
-manage
-follow-up
-execution
-help
-teach
-explain
-technique
-tool
-used
-broad_set
-business-intelligence
-data
-analytics
-professional
-varied
-background
-exercise
-thought_leadership
-discretion
-tailoring
-tool
-approach
-data
-used
-meet_need
-particular
-problem
-perform_duty
-required
-required_qualification
-skill
-ability
-knowledge
-ability_read
-write_speak
-understand
-english
-expert-level_skill
-experience
-r
-required
-python
-desired
-including
-relevant
-package
-support
-advanced_analytics
-advanced-level
-skill
-relational_database
-including
-sql
-utilizing
-data
-stored
-complex
-schema
-expert-level
-logical
-analytic
-skill
-broad
-experience
-solid_theoretical
-foundation
-modeling
-process
-using_variety
-algorithm
-data
-profiling
-distribution
-confidence_interval
-hypothesis_testing
-holdout
-testing
-cross-validation
-data
-pre-processing
-exploratory
-data
-analysis
-using_variety
-technique_regression
-classification
-using
-linear_model
-glms
-tree-based_method
-interpretation
-model
-result
-consideration
-causality
-treatment
-multicollinearity
-strong
-synthesis
-presentation_skill
-ability_communicate
-result
-recommendation
-wide_variety
-audience
-basic_understanding
-data
-architecture
-data_warehouse
-data_mart
-experience
-telecommunication_industry
-two
-consumer-based
-industry
-demonstrated_ability
-desire_continually
-expand
-skill
-set
-learn_teach
-others
-preferred_qualification
-skill
-ability
-knowledge
-experience
-teradata_sql
-udfs
-interpreting
-explain
-plan
-basic
-performance-tuning
-use
-database
-catalog
-operations-research
-background
-particular
-focused
-large
-labor
-operation
-field
-ops
-technical
-support
-sale
-background
-cable
-system
-operation
-experience
-hadoop
-particularly
-hive_spark
-knowledge
-relevant
-tool
-sa_spss
-alteryx
-linux
-knowledge
-relevant
-technique
-text
-analysis
-text_mining
-familiarity
-open-source
-ecosystem
-surrounding
-r
-cran
-python
-pypi
-hadoop
-education
-master's_degree
-computer_science
-mathematics_statistic
-operation_research
-quantitatively-focus
-field
-related
-work
-experience
-number
-year
-statistical_analysis
-10+
-business
-analysis
-8+
-sql_r
-sa
-programming
-8+
-database
-design
-database
-modeling
-2+
-working_condition
-office
-environment
-travel_required
-spectrum_charter
-communication_reaffirms
-commitment
-providing_equal
-opportunity
-employment
-advancement_qualified
-employee_applicant
-individual
-considered_position
-meet
-minimum_qualification
-able_perform
-without_regard
-race_color
-gender_age
-religion_disability
-national_origin
-veteran_status
-sexual_orientation
-gender_identity
-current_unemployment
-status_basis
-protected_federal
-state_local
-law_charter
-communication
-equal_opportunity
-employer
--
-minority_female
-disability_veteran
-current_unemployment
-status
-spectrum
-equal_opportunity
-employer
--
-minority_female
-disability_veteran
-current_unemployment
-status
-fcc_unit
-01187
--
-nyc
-60
-columbus
-cir_business
-unit
-corporate
+(lp1
+Vjob summary
+p2
+aVsr data
+p3
+aVscientist
+p4
+aVjob
+p5
+aVresponsible executing
+p6
+aVfull-scope advanced
+p7
+aVanalytic technique
+p8
+aVobjective
+p9
+aVcreating
+p10
+aVcausal inference
+p11
+aVprediction recommendation
+p12
+aVimprovement
+p13
+aVbusiness process
+p14
+aVmetric monitor
+p15
+aVimprovement
+p16
+aVposition requires
+p17
+aVstrong
+p18
+aVcommand
+p19
+aVtechnique
+p20
+aValgorithm
+p21
+aVwell
+p22
+aVdemonstrated
+p23
+aVpractical
+p24
+aVability
+p25
+aVdetermine
+p26
+aVinvest time
+p27
+aVsynthesize
+p28
+aVactionable
+p29
+aVfinding
+p30
+aVacross
+p31
+aVdiverse
+p32
+aVassignment
+p33
+aVpresent finding
+p34
+aVaudience varying
+p35
+aVlevel
+p36
+aVbackground
+p37
+aVanalytics
+p38
+aVmajor duty
+p39
+aVresponsibility
+p40
+aVplan
+p41
+aVlead
+p42
+aVexecution
+p43
+aVanalytics
+p44
+aVlife-cycle
+p45
+aVleveraging
+p46
+aVsignificant
+p47
+aVexperience
+p48
+aVleading
+p49
+aVtype
+p50
+aVwork
+p51
+aVprevious
+p52
+aVrole
+p53
+aVsurvey
+p54
+aVvaried
+p55
+aVdata source
+p56
+aVrelational database
+p57
+aVhadoop
+p58
+aVflat file
+p59
+aVexternal source
+p60
+aVanalytic
+p61
+aVrelevance
+p62
+aVexecute
+p63
+aVfull-scope advanced
+p64
+aVanalytic technique
+p65
+aVperform
+p66
+aVproblem formulation
+p67
+aVrequirement
+p68
+aVanalysis
+p69
+aVplanning
+p70
+aVresponsible
+p71
+aVdata
+p72
+aVsurveying
+p73
+aVprofiling
+p74
+aVpre-processing
+p75
+aVmodel
+p76
+aVdata
+p77
+aVmanagement
+p78
+aVvalidation
+p79
+aVe.g.
+p80
+aVholdout
+p81
+aVcross-validation
+p82
+aVselect
+p83
+aValgorithm
+p84
+aVexecution
+p85
+aVresponsible
+p86
+aVinterpretation result
+p87
+aVcausal inference
+p88
+aVpredictive
+p89
+aVeffectiveness
+p90
+aVsynthesize
+p91
+aVappropriate
+p92
+aVrecommendation
+p93
+aVaction
+p94
+aVchange
+p95
+aVpresent finding
+p96
+aVsuggested
+p97
+aVaction
+p98
+aVchange
+p99
+aVbroad audience
+p100
+aVmanage
+p101
+aVfollow-up
+p102
+aVexecution
+p103
+aVhelp
+p104
+aVteach
+p105
+aVexplain
+p106
+aVtechnique
+p107
+aVtool used
+p108
+aVbroad set
+p109
+aVbusiness-intelligence
+p110
+aVdata
+p111
+aVanalytics
+p112
+aVprofessional
+p113
+aVvaried background
+p114
+aVexercise
+p115
+aVthought leadership
+p116
+aVdiscretion
+p117
+aVtailoring
+p118
+aVtool
+p119
+aVapproach
+p120
+aVdata
+p121
+aVused
+p122
+aVmeet need
+p123
+aVparticular
+p124
+aVproblem
+p125
+aVperform duty
+p126
+aVrequired
+p127
+aVrequired qualification
+p128
+aVskill ability
+p129
+aVknowledge
+p130
+aVability read
+p131
+aVwrite speak
+p132
+aVunderstand
+p133
+aVenglish
+p134
+aVexpert-level skill
+p135
+aVexperience
+p136
+aVr
+aVrequired
+p137
+aVpython
+p138
+aVdesired
+p139
+aVincluding
+p140
+aVrelevant
+p141
+aVpackage
+p142
+aVsupport
+p143
+aVadvanced analytics
+p144
+aVadvanced-level
+p145
+aVskill
+p146
+aVrelational database
+p147
+aVincluding
+p148
+aVsql
+p149
+aVutilizing
+p150
+aVdata stored
+p151
+aVcomplex
+p152
+aVschema
+p153
+aVexpert-level
+p154
+aVlogical
+p155
+aVanalytic
+p156
+aVskill
+p157
+aVbroad
+p158
+aVexperience
+p159
+aVsolid theoretical
+p160
+aVfoundation
+p161
+aVmodeling
+p162
+aVprocess
+p163
+aVusing variety
+p164
+aValgorithm
+p165
+aVdata profiling
+p166
+aVdistribution
+p167
+aVconfidence interval
+p168
+aVhypothesis testing
+p169
+aVholdout
+p170
+aVtesting
+p171
+aVcross-validation
+p172
+aVdata
+p173
+aVpre-processing
+p174
+aVexploratory data
+p175
+aVanalysis
+p176
+aVusing variety
+p177
+aVtechnique regression
+p178
+aVclassification
+p179
+aVusing
+p180
+aVlinear model
+p181
+aVglms
+p182
+aVtree-based method
+p183
+aVinterpretation
+p184
+aVmodel
+p185
+aVresult
+p186
+aVconsideration
+p187
+aVcausality
+p188
+aVtreatment
+p189
+aVmulticollinearity
+p190
+aVstrong
+p191
+aVsynthesis
+p192
+aVpresentation skill
+p193
+aVability communicate
+p194
+aVresult
+p195
+aVrecommendation
+p196
+aVwide variety
+p197
+aVaudience
+p198
+aVbasic understanding
+p199
+aVdata
+p200
+aVarchitecture
+p201
+aVdata warehouse
+p202
+aVdata mart
+p203
+aVexperience
+p204
+aVtelecommunication industry
+p205
+aVtwo
+p206
+aVconsumer-based
+p207
+aVindustry
+p208
+aVdemonstrated ability
+p209
+aVdesire continually
+p210
+aVexpand
+p211
+aVskill
+p212
+aVset
+p213
+aVlearn teach
+p214
+aVothers
+p215
+aVpreferred qualification
+p216
+aVskill ability
+p217
+aVknowledge
+p218
+aVexperience
+p219
+aVteradata sql
+p220
+aVudfs
+p221
+aVinterpreting
+p222
+aVexplain
+p223
+aVplan
+p224
+aVbasic
+p225
+aVperformance-tuning
+p226
+aVuse
+p227
+aVdatabase
+p228
+aVcatalog
+p229
+aVoperations-research
+p230
+aVbackground
+p231
+aVparticular
+p232
+aVfocused
+p233
+aVlarge
+p234
+aVlabor
+p235
+aVoperation
+p236
+aVfield
+p237
+aVops
+p238
+aVtechnical
+p239
+aVsupport
+p240
+aVsale
+p241
+aVbackground
+p242
+aVcable
+p243
+aVsystem
+p244
+aVoperation
+p245
+aVexperience
+p246
+aVhadoop
+p247
+aVparticularly
+p248
+aVhive spark
+p249
+aVknowledge
+p250
+aVrelevant
+p251
+aVtool
+p252
+aVsa spss
+p253
+aValteryx
+p254
+aVlinux
+p255
+aVknowledge
+p256
+aVrelevant
+p257
+aVtechnique
+p258
+aVtext analysis
+p259
+aVtext mining
+p260
+aVfamiliarity
+p261
+aVopen-source
+p262
+aVecosystem
+p263
+aVsurrounding
+p264
+aVr
+aVcran
+p265
+aVpython
+p266
+aVpypi
+p267
+aVhadoop
+p268
+aVeducation master's
+p269
+aVdegree computer
+p270
+aVscience mathematics
+p271
+aVstatistic operation
+p272
+aVresearch
+p273
+aVquantitatively-focus
+p274
+aVfield
+p275
+aVrelated
+p276
+aVwork
+p277
+aVexperience
+p278
+aVnumber
+p279
+aVyear
+p280
+aVstatistical analysis
+p281
+aV10+
+p282
+aVbusiness
+p283
+aVanalysis
+p284
+aV8+
+p285
+aVsql r
+p286
+aVsa programming
+p287
+aV8+
+p288
+aVdatabase
+p289
+aVdesign
+p290
+aVdatabase
+p291
+aVmodeling
+p292
+aV2+
+p293
+aVworking condition
+p294
+aVoffice environment
+p295
+aVtravel required
+p296
+aVspectrum charter
+p297
+aVcommunication reaffirms
+p298
+aVcommitment providing
+p299
+aVequal opportunity
+p300
+aVemployment
+p301
+aVadvancement qualified
+p302
+aVemployee applicant
+p303
+aVindividual
+p304
+aVconsidered position
+p305
+aVmeet
+p306
+aVminimum qualification
+p307
+aVable perform
+p308
+aVwithout regard
+p309
+aVrace color
+p310
+aVgender age
+p311
+aVreligion disability
+p312
+aVnational origin
+p313
+aVveteran status
+p314
+aVsexual orientation
+p315
+aVgender identity
+p316
+aVcurrent unemployment
+p317
+aVstatus basis
+p318
+aVprotected federal
+p319
+aVstate local
+p320
+aVlaw charter
+p321
+aVcommunication
+p322
+aVequal opportunity
+p323
+aVemployer -
+p324
+aVminority female
+p325
+aVdisability veteran
+p326
+aVcurrent unemployment
+p327
+aVstatus
+p328
+aVspectrum
+p329
+aVequal opportunity
+p330
+aVemployer -
+p331
+aVminority female
+p332
+aVdisability veteran
+p333
+aVcurrent unemployment
+p334
+aVstatus
+p335
+aVfcc unit
+p336
+aV01187
+p337
+aV-
+aVnyc
+p338
+aV60
+p339
+aVcolumbus
+p340
+aVcir business
+p341
+aVunit corporate
+p342
+a.

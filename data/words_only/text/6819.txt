@@ -1,5 +1,5 @@
-skills: {'communication': 1, 'rest': 1, 'integration': 1, 'research': 1, 'management': 1, 'java': 1, 'saas': 1, 'excel': 1, 'strategy': 1, 'computer science': 1, 'innovation': 1, 'product development': 1, 'python': 1, 'data scientist': 1, 'sql': 1, 'php': 1, 'data': 1, 'b2b': 1, 'documentation': 1, 'programming': 1, 'communication skills': 1, 'system architecture': 1}
-working-year: {u'(5, 10]': 1}
-major: {'information': 1, 'management': 1, 'business': 1, 'communication': 1, 'computer science engineering': 1, 'computer science': 1, 'ee computer science': 1}
-education: {u'Bachelor': 1}
-responsibility: {'development': 1, 'information': 1, 'product': 1, 'documentation': 1}
+skills: {'excel': 0.0037516339369050244, 'rest': 0.00830022381081047, 'engineering': 0.002841890434045602, 'research': 0.0019794903518833835, 'management': 0.002102201548027035, 'java': 0.002875329391341725, 'saas': 0.007163671220883205, 'integration': 0.01605273634938245, 'strategy': 0.003654318865955533, 'json': 0.0091089876490334, 'computer science': 0.003262142141965709, 'innovation': 0.008982945114314262, 'product development': 0.006063750229191902, 'python': 0.0012094002616085057, 'data scientist': 0.0024579388982920608, 'sql': 0.0015822363313991812, 'php': 0.007528456714109467, 'data': 0.00027517746606606246, 'b2b': 0.008064326337814788, 'science': 0.0016311691141394254, 'documentation': 0.006727241204046474, 'programming': 0.0025575759508929836, 'communication skills': 0.008545535619629056, 'system architecture': 0.01038005207956766, 'architecture': 0.005074279634999207}
+working-year: {u'(5, 10]': 0.002797318472336099}
+major: {u'Engineering': 0.002841890434045602, u'Computer Science': 0.002100593379007419, u'Business': 0.00250977806768936, u'Management Science and Engineering': 0.0029919826878628594}
+education: {u'Bachelor': 0.0021145680456378345}
+responsibility: {'development': 0.002809654297944591, 'information': 0.0064366830604612275, 'product': 0.015603165785588707, 'documentation': 0.006727241204046474}

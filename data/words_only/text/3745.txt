@@ -1,5 +1,5 @@
-skills: {'management': 1, 'mentoring': 1, 'python': 1, 'recruiting': 1, 'data science': 1, 'data scientist': 1, 'leadership': 1, 'product strategy': 1, 'sql': 1, 'product management': 1, 'organization': 1, 'data': 1, 'science': 1}
-working-year: {u'(5, 10]': 1, u'(2, 5]': 1}
-major: {'science': 1, 'data science': 1, 'management': 1}
-education: {u'Bachelor': 1, u'Master': 1, u'Doctor': 1}
-responsibility: {'product': 1, u'insight': 1, 'engineering design': 1, 'identify opportunity': 1}
+skills: {'management': 0.006380625825349664, 'mentoring': 0.024226152827316584, 'python': 0.003670785301079338, 'recruiting': 0.024288015849418247, 'data science': 0.008470710744088727, 'data scientist': 0.007460363839182241, 'leadership': 0.011636680431012831, 'product strategy': 0.03341705131770309, 'sql': 0.004802421541077797, 'product management': 0.021992943795961558, 'organization': 0.01241678760057522, 'data': 0.005846552219164158, 'science': 0.029705657247637705}
+working-year: {u'(5, 10]': 0.008490452546315906, u'(2, 5]': 0.008724960763599547}
+major: {u'Data Science': 0.00723442945496523, u'Management Science and Engineering': 0.009081299566682341}
+education: {u'Bachelor': 0.00641816075823878, u'Master': 0.005121694966367443, u'Doctor': 0.0076702941674399155}
+responsibility: {'product': 0.009471780920547512, 'insight': 0.012921784197249896, 'engineering design': 0.041153716762955955, 'identify opportunity': 0.02916922211785486}

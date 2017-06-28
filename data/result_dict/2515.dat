@@ -4,7 +4,7 @@ p2
 (lp3
 S'centos'
 p4
-aS'intelligence'
+aS'communication'
 p5
 aS'data science'
 p6
@@ -38,7 +38,7 @@ aS'html'
 p20
 aS'computer science'
 p21
-aS'communication'
+aS'intelligence'
 p22
 aS'unstructured data'
 p23
@@ -56,6 +56,7 @@ aS'spark'
 p29
 aS'data'
 p30
+aS'a'
 aS'training'
 p31
 aS'national security'
@@ -80,40 +81,32 @@ p41
 asS'major'
 p42
 (lp43
-S'information'
+VData Science
 p44
-aS'communication'
+aVComputer Science
 p45
-aS'data science'
-p46
-aS'computer science'
-p47
-aS'science'
-p48
-aS'ee computer science'
-p49
 asS'education'
-p50
-(lp51
+p46
+(lp47
 VBachelor
-p52
+p48
 asS'responsibility'
-p53
-(lp54
+p49
+(lp50
 S'development'
-p55
+p51
 aS'information'
-p56
+p52
 aS'analysis'
-p57
+p53
 aS'improvement'
-p58
+p54
 aS'analytic'
-p59
+p55
 aS'report'
-p60
+p56
 aS'implement'
-p61
+p57
 aS'transformation'
-p62
+p58
 as.

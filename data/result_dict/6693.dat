@@ -4,108 +4,102 @@ p2
 (lp3
 S'debugging'
 p4
-aS'communication'
+aS'ip'
 p5
 aS'testing'
 p6
-aS'node.js'
+aS'tcp'
 p7
-aS'analytics'
+aS'node.js'
 p8
-aS'engineering'
+aS'analytics'
 p9
-aS'linux'
+aS'unix'
 p10
-aS'visualization'
+aS'linux'
 p11
-aS'writing'
+aS'visualization'
 p12
-aS'user interface'
+aS'writing'
 p13
-aS'computer science'
+aS'user interface'
 p14
-aS'jenkins'
+aS'computer science'
 p15
-aS'web development'
+aS'communication'
 p16
-aS'css3'
+aS'jenkins'
 p17
-aS'web design'
+aS'web development'
 p18
-aS'python'
+aS'css3'
 p19
-aS'javascript'
+aS'a'
+aS'web design'
 p20
-aS'data scientist'
+aS'python'
 p21
-aS'awk'
+aS'javascript'
 p22
-aS'html5'
+aS'awk'
 p23
-aS'apache'
+aS'html5'
 p24
-aS'data'
+aS'apache'
 p25
-aS'software development'
+aS'data'
 p26
-aS'data visualization'
+aS'software development'
 p27
-aS'science'
+aS'c'
+aS'data visualization'
 p28
-aS'programming'
+aS'science'
 p29
-aS'scripting'
+aS'programming'
 p30
-asS'working-year'
+aS'engineering'
 p31
-(lp32
-V(2, 5]
+aS'mvc'
+p32
+aS'scripting'
 p33
-asS'major'
+asS'working-year'
 p34
 (lp35
-S'information'
+V(2, 5]
 p36
-aS'business'
+asS'major'
 p37
-aS'science'
-p38
-aS'analytics'
+(lp38
+VData Science
 p39
-aS'engineering'
+aVEngineering
 p40
-aS'design'
+aVComputer Science
 p41
-aS'computer science'
+aVBusiness
 p42
-aS'communication'
-p43
-aS'computer science engineering'
-p44
-aS'ee computer science'
-p45
-aS'web development'
-p46
 asS'education'
+p43
+(lp44
+VBachelor
+p45
+aVMaster
+p46
+asS'responsibility'
 p47
 (lp48
-VBachelor
-p49
-aVMaster
-p50
-asS'responsibility'
-p51
-(lp52
 S'development'
-p53
+p49
 aS'information'
-p54
+p50
 aS'product'
-p55
+p51
 aS'pattern'
-p56
+p52
 aS'design'
-p57
+p53
 aS'interface'
-p58
+p54
 as.
